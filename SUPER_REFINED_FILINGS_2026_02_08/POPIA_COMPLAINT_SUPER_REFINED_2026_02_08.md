@@ -12,7 +12,7 @@
 
 This super-refined complaint details systematic and willful violations of the Protection of Personal Information Act, 2013 (POPIA), by Peter Andrew Faucitt (Responsible Party) and Rynette Farrar (Operator). It integrates all evidence, proving a criminal conspiracy to unlawfully process, sell, and obstruct access to personal information to facilitate an R8.5M+ revenue hijacking scheme, motivated by the ZAR 18.685M Ketoni payout.
 
-Conclusive evidence, including **Sage dual-account screenshots (SF10)** proving identity fraud, the **Sage subscription lockout (SF11)** proving obstruction, the **appropriation of a deceased person's phone number**, and the **Perjury Defence Matrix (SF15)** proving consciousness of guilt, meets the criminal burden of proof for offenses under Sections 107(1), 107(2), and 107(3) of POPIA. The actions demonstrate a deliberate abuse of personal information, identity fraud, obstruction of data subject rights, and the unlawful sale of a customer database, warranting immediate criminal prosecution and referral to the Financial Intelligence Centre (FIC).
+Conclusive evidence, including **Sage dual-account screenshots (SF10)** proving identity fraud, the **Sage subscription lockout (SF11)** proving obstruction, and the **Perjury Defence Matrix (SF15)** proving consciousness of guilt, meets the criminal burden of proof for offenses under Sections 107(1), 107(2), and 107(3) of POPIA. The actions demonstrate a deliberate abuse of personal information, identity fraud, obstruction of data subject rights, and the unlawful sale of a customer database, warranting immediate criminal prosecution and referral to the Financial Intelligence Centre (FIC).
 
 ---
 
@@ -44,7 +44,6 @@ Conclusive evidence, including **Sage dual-account screenshots (SF10)** proving 
 **Evidence:**
 
 - **SF10 (2025-06-20):** Rynette Farrar's dual account access in Sage (**pete@regima.com** vs rynette@regima.zone), proving **identity fraud** to unlawfully process financial data.
-- **Kayla Pretorius Phone Number Appropriation:** Rynette Farrar appropriated the business phone number of the deceased Kayla Pretorius, intercepting communications and personal information intended for her.
 - **POPIA Violation Notice (8 Jul 2025):** Formal notice of customer data breach sent to Peter Faucitt, which was ignored.
 
 **Burden of Proof:** ✅ **EXCEEDED** (System logs, screenshots, director’s admission, formal notice, phone records)
@@ -77,7 +76,7 @@ Conclusive evidence, including **Sage dual-account screenshots (SF10)** proving 
 1.  **Premeditation:** Long-term planning evident from Adderory registration (2021) and Shopify Organogram (Apr 2025).
 2.  **Identity Fraud:** The use of `pete@regima.com` by Rynette is a deliberate act of impersonation.
 3.  **Obstruction & Intimidation:** The Sage system lockout (SF11) and the false perjury complaint (SF15) were strategic acts of evidence concealment and witness intimidation.
-4.  **Exploitation of Deceased:** The appropriation of Kayla Pretorius's phone number and customer database is a particularly egregious violation.
+4.  **Exploitation of Deceased:** The appropriation of Rezonance's customer database after Kayla Pretorius's death is a particularly egregious violation.
 5.  **Financial Intelligence Centre Act (FICA):** The identity fraud and use of multiple bank accounts to process the proceeds of the data hijacking constitute suspicious activities that should have been reported to the FIC. The failure to do so is a breach of FICA.
 
 ---

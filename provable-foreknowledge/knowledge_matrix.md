@@ -1,14 +1,14 @@
 # Knowledge Matrix
 
 **Case:** 2025-137857 — RegimA Revenue Hijacking, Trust Capture & Racketeering Enterprise
-**Generated:** 2026-02-08 11:47:57
+**Generated:** 2026-02-08 11:59:00
 
 ## Agent Classification Summary
 
 | Agent | Role | Tier | Classification | Proven Events |
 |---|---|---|---|---|
 | **Peter Andrew Faucitt** | Director of RegimA group companies, Trustee of Faucitt Family Trust, Mastermind | **A** | Premeditated Conspirator | 10 |
-| **Rynette Farrar** | Bookkeeper/Financial Controller, Chief Operator of the scheme | **A** | Premeditated Conspirator | 13 |
+| **Rynette Farrar** | Bookkeeper/Financial Controller, Chief Operator of the scheme | **A** | Premeditated Conspirator | 12 |
 | **Daniel Jacobus Bantjies** | Chartered Accountant (SAICA), Trustee of FFT, CFO of George Group, Financial Architect | **A** | Premeditated Conspirator | 8 |
 | **Kevin Michael Derrick** | Director of Ketoni Investment Holdings and The George Group | **C** | Participant — Knowledge Unproven | 0 |
 | **De Novo Business Services / Marisca Meyer** | Accounting firm (SAIPA registered), prepared financial statements | **C** | Participant — Knowledge Unproven | 0 |
@@ -29,7 +29,6 @@
 | Bantjies had insider access to both Ketoni Investment Holdings (via George Group CFO role) and the Faucitt Family Trust (via Trustee appointment) | insider_trading | — | — | ✅ 2020-02-28 | — | — | — | — |
 | RegimA SA bank account was stripped of 99.8% of its funds (from R2.5M+ to R5,284) between Oct 2024 and Mar 2025 | money_laundering | — | ✅ 2025-03-01 | — | — | — | — | — |
 | R5.4M stock adjustment was processed without investigation, supporting documentation, or proper authorization | fraud | — | — | ✅ 2025-03-15 | — | — | — | — |
-| Kayla Pretorius's business phone number was appropriated by Rynette Farrar after Kayla's death | data_protection | — | ✅ 2023-08-01 | — | — | — | — | — |
 | Rezonance was owed R1,035,361.34 by RegimA entities — debt never paid and concealed | theft | — | ✅ 2025-05-15 | ✅ 2025-06-10 | — | — | — | — |
 | Faucitt Family Trust invested in Ketoni with R18.685M payout option exercisable May 2026 | conspiracy | ✅ 2023-04-24 | — | — | — | — | — | — |
 | Peter filed a founding affidavit containing material non-disclosures and perjury | obstruction | ✅ 2025-08-13 | — | — | — | — | — | — |

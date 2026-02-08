@@ -49,7 +49,6 @@ The distinction between a **premeditated conspirator** and a **potentially nesci
 | **Deliberately destroyed evidence** | Shopify audit trails deleted 22 May 2025 | **System Logs** |
 | **Deliberately obstructed access** | SF11: Let Sage subscription expire (23 Jul 2025) to deny access to records | **System Records** |
 | **Filed false criminal report** | SF15: Perjury complaint against Jacqueline Faucitt, proven baseless by evidence matrix | **Court Records + Evidence Matrix** |
-| **Appropriated deceased's identity** | Took over Kayla Pretorius's business phone number after her death | **Phone Records** |
 | **Self-appointed to unauthorized role** | Email signature shows "FINANCE MANAGER AICB(SA)" despite being employed as bookkeeper | **Email Records** |
 | **Facilitated perjured affidavit** | Emailed signed "Main Trustee" appointment to Bantjies on 11 Aug 2025, days before the perjured interdict | **Email Correspondence (Timestamped)** |
 
@@ -109,7 +108,7 @@ The distinction between a **premeditated conspirator** and a **potentially nesci
 | Entity | Tier | Classification | Foreknowledge Evidence Count | Key Proof |
 |---|---|---|---|---|
 | **Peter Andrew Faucitt** | **A** | Premeditated Conspirator | 6+ independent sources | Own written admission (SF10), system records, sworn testimony |
-| **Rynette Farrar** | **A** | Premeditated Conspirator | 8+ independent sources | System screenshots, emails, court records, evidence destruction |
+| **Rynette Farrar** | **A** | Premeditated Conspirator | 7+ independent sources | System screenshots, emails, court records, evidence destruction |
 | **Daniel Jacobus Bantjies** | **A** | Premeditated Conspirator | 7+ independent sources | Perjured affidavit, audit dismissal, six conflicts, insider access |
 | **Kevin Michael Derrick** | **C** | Knowledge Unproven | **0** sources | Structural connection only; may be a victim of Bantjies' abuse |
 | **De Novo Business Services** | **C** | Knowledge Unproven | **0** sources | Acted on Rynette's instructions; may have been deceived |

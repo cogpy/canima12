@@ -30,7 +30,7 @@ title: Evidence Index - Comprehensive
    - From: Richard Estabrooks (Shopify Launch Manager)
    - To: Kayla Pretorius (kayp@rzo.io, kayla@regima.zone)
    - CC: Daniel Faucitt
-   - Contains: Kayla's phone number (011 615 29869)
+   - Contains: General business phone number (011 615 29869)
 
 2. **Re_ belongs to regimA.eml** (32,155 bytes)
    - Related Shopify correspondence
@@ -46,7 +46,7 @@ This annexure contains the **single most important piece of evidence** in the en
 - ✅ Independent business operations (no "head office" involvement)
 - ✅ Direct client relationship management
 - ✅ Use of independent email addresses (kayp@rzo.io, kayla@regima.zone)
-- ✅ Personal phone number (011 615 29869) - later appropriated
+- ✅ General business phone number (011 615 29869)
 
 **Refutes**:
 - ❌ Applicant's claim of centralized "head office" control

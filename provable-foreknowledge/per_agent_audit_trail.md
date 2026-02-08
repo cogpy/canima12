@@ -1,7 +1,7 @@
 # Per-Agent Temporal Audit Trail
 
 **Case:** 2025-137857 — RegimA Revenue Hijacking, Trust Capture & Racketeering Enterprise
-**Generated:** 2026-02-08 11:47:57
+**Generated:** 2026-02-08 11:59:00
 
 ---
 
@@ -31,24 +31,23 @@
 
 **Role:** Bookkeeper/Financial Controller, Chief Operator of the scheme
 **Classification:** Tier A — Premeditated Conspirator
-**Proven Knowledge Events:** 13
+**Proven Knowledge Events:** 12
 **Proof Types:** active_participation, documentary_proof, email_correspondence
 
 | # | Timestamp | Material Fact | Acquisition Type | Evidence References |
 |---|---|---|---|---|
 | 1 | 2020-08-15T00:00:00Z | Rynette operated Sage accounting system under Peter's identity (pete@regima.com) while simultaneously logged in as rynette@regima.zone | active_participation | SF10, EVENT_090, EVENT_SF2A, Sage_Dual_Account_Screenshots |
-| 2 | 2023-08-01T00:00:00Z | Kayla Pretorius's business phone number was appropriated by Rynette Farrar after Kayla's death | active_participation | Phone_Records, EVENT_086 |
-| 3 | 2024-06-28T00:00:00Z | Rynette forged Peter's signature (signed 'pp Peter') to install Bantjies as trustee on 28 June 2024 | documentary_proof | Trust_Amendment_Document, SF15_Additional_Criminal_Conduct |
-| 4 | 2025-02-25T00:00:00Z | R5.2M SLG stock went missing with simultaneous R5.2M invoice from SLG to RST | active_participation | EVENT_028 |
-| 5 | 2025-03-01T00:00:00Z | RegimA SA bank account was stripped of 99.8% of its funds (from R2.5M+ to R5,284) between Oct 2024 and Mar 2025 | active_participation | Bank_Statements, SF16_Para_146 |
-| 6 | 2025-05-15T00:00:00Z | Rezonance was owed R1,035,361.34 by RegimA entities — debt never paid and concealed | email_correspondence | EVENT_050 |
-| 7 | 2025-05-22T00:00:00Z | Shopify audit trails were deleted on 22 May 2025 | active_participation | Shopify_Deletion_Logs, EVENT_010 |
-| 8 | 2025-05-22T00:00:00Z | Revenue was being systematically diverted from RegimA SA to other accounts (R8.5M annual stream) | active_participation | Shopify_Deletion_Logs, DF8_Bank_Statements, SF16_Para_75 |
-| 9 | 2025-06-18T00:00:00Z | 2019 financial statements for RegimA SA were fabricated in June 2025 (6+ years after period end) | email_correspondence | EVENT_064, 2025-06-18_Rynette_DeNovo_RegimA_SA_Payments.pdf |
-| 10 | 2025-06-20T00:00:00Z | Customers were actively diverted from regima.zone to regimaskin.co.za (owned by Adderory/Rynette's son) | active_participation | EVENT_027, EVENT_063, EVENT_026 |
-| 11 | 2025-07-23T00:00:00Z | Sage accounting subscription was deliberately allowed to expire to deny all parties access to financial records | active_participation | SF11, EVENT_065, EVENT_SF2B |
-| 12 | 2025-08-11T00:00:00Z | Rynette emailed signed 'Main Trustee' appointment letter to Bantjies on 11 August 2025 | email_correspondence | Rynette_Bantjies_Trustee_Email_2025_08_11 |
-| 13 | 2025-11-26T00:00:00Z | Perjury complaint filed by Rynette Farrar against Jacqueline Faucitt was entirely without merit | documentary_proof | SF15, EVENT_075, EVENT_076, Perjury_Defence_Matrix |
+| 2 | 2024-06-28T00:00:00Z | Rynette forged Peter's signature (signed 'pp Peter') to install Bantjies as trustee on 28 June 2024 | documentary_proof | Trust_Amendment_Document, SF15_Additional_Criminal_Conduct |
+| 3 | 2025-02-25T00:00:00Z | R5.2M SLG stock went missing with simultaneous R5.2M invoice from SLG to RST | active_participation | EVENT_028 |
+| 4 | 2025-03-01T00:00:00Z | RegimA SA bank account was stripped of 99.8% of its funds (from R2.5M+ to R5,284) between Oct 2024 and Mar 2025 | active_participation | Bank_Statements, SF16_Para_146 |
+| 5 | 2025-05-15T00:00:00Z | Rezonance was owed R1,035,361.34 by RegimA entities — debt never paid and concealed | email_correspondence | EVENT_050 |
+| 6 | 2025-05-22T00:00:00Z | Shopify audit trails were deleted on 22 May 2025 | active_participation | Shopify_Deletion_Logs, EVENT_010 |
+| 7 | 2025-05-22T00:00:00Z | Revenue was being systematically diverted from RegimA SA to other accounts (R8.5M annual stream) | active_participation | Shopify_Deletion_Logs, DF8_Bank_Statements, SF16_Para_75 |
+| 8 | 2025-06-18T00:00:00Z | 2019 financial statements for RegimA SA were fabricated in June 2025 (6+ years after period end) | email_correspondence | EVENT_064, 2025-06-18_Rynette_DeNovo_RegimA_SA_Payments.pdf |
+| 9 | 2025-06-20T00:00:00Z | Customers were actively diverted from regima.zone to regimaskin.co.za (owned by Adderory/Rynette's son) | active_participation | EVENT_027, EVENT_063, EVENT_026 |
+| 10 | 2025-07-23T00:00:00Z | Sage accounting subscription was deliberately allowed to expire to deny all parties access to financial records | active_participation | SF11, EVENT_065, EVENT_SF2B |
+| 11 | 2025-08-11T00:00:00Z | Rynette emailed signed 'Main Trustee' appointment letter to Bantjies on 11 August 2025 | email_correspondence | Rynette_Bantjies_Trustee_Email_2025_08_11 |
+| 12 | 2025-11-26T00:00:00Z | Perjury complaint filed by Rynette Farrar against Jacqueline Faucitt was entirely without merit | documentary_proof | SF15, EVENT_075, EVENT_076, Perjury_Defence_Matrix |
 
 ---
 

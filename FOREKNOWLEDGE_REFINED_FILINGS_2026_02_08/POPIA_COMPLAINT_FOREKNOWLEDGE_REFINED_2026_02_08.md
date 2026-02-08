@@ -32,7 +32,7 @@ _#### TIER A: PREMEDITATED CONSPIRATORS (KNOWLEDGE PROVEN)_
 _| Name | ID Number | Role | Proof of Foreknowledge |_
 _|---|---|---|---|
 _| **Peter Andrew Faucitt** | 520430 5706 18 5 | Responsible Party | **Direct written admission of fraud awareness (SF10)**; authorized Rynette to process data under his identity; ignored formal POPIA notices. |_
-_| **Rynette Farrar** | | Operator | **Executed identity fraud to process data (SF10)**; appropriated deceased person’s phone number; obstructed access to data (SF11); filed false perjury complaint (SF15). |_
+_| **Rynette Farrar** | | Operator | **Executed identity fraud to process data (SF10)**; obstructed access to data (SF11); filed false perjury complaint (SF15). |_
 
 _---
 
@@ -46,7 +46,6 @@ _**Offense:** Knowingly or recklessly obtaining, disclosing, or procuring the di
 
 _**Evidence:**_
 _- **SF10 (2025-06-20):** Rynette Farrar's dual account access in Sage (**pete@regima.com** vs rynette@regima.zone), proving **identity fraud** to unlawfully process financial data._
-_- **Kayla Pretorius Phone Number Appropriation:** Rynette Farrar appropriated the business phone number of the deceased Kayla Pretorius, intercepting communications and personal information intended for her._
 _- **POPIA Violation Notice (8 Jul 2025):** Formal notice of customer data breach sent to Peter Faucitt, which was ignored._
 
 _### Section 107(2): Obstruction of Access to Personal Information_
@@ -70,7 +69,7 @@ _## 3. AGGRAVATING FACTORS & FICA REFERRAL_
 
 _1.  **Premeditation & Identity Fraud:** The use of `pete@regima.com` by Rynette is a deliberate act of impersonation._
 _2.  **Obstruction & Intimidation:** The Sage system lockout (SF11) and the false perjury complaint (SF15) were strategic acts of evidence concealment and witness intimidation._
-_3.  **Exploitation of Deceased:** The appropriation of Kayla Pretorius's phone number and customer database is a particularly egregious violation._
+_3.  **Exploitation of Deceased:** The appropriation of Rezonance's customer database after Kayla Pretorius's death is a particularly egregious violation._
 _4.  **Financial Intelligence Centre Act (FICA):** The identity fraud and use of multiple bank accounts to process the proceeds of the data hijacking constitute suspicious activities that should have been reported to the FIC._
 
 _---

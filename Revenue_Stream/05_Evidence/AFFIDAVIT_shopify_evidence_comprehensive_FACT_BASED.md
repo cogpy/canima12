@@ -258,13 +258,11 @@ do hereby make oath and state:
 
 4.2.3 This email **completely contradicts** the Respondents' false narrative that "customers were always serviced by head office."
 
-### 4.3 The Phone Number Appropriation
+### 4.3 The Business Phone Number
 
-4.3.1 The 2017 email shows Kayla using phone number **011 615 29869** in her business signature.
+4.3.1 The 2017 email shows the general business phone number **011 615 29869** in the business signature.
 
-4.3.2 The Second Respondent (Rynette Farrar) currently uses this same phone number.
-
-4.3.3 This phone number transfer from Kayla (deceased July 13, 2023) to Rynette provides **direct physical evidence** of systematic identity appropriation following Kayla's murder.
+4.3.2 This is the general business phone number used by the RegimA group, not a personal number specific to any individual.
 
 ---
 

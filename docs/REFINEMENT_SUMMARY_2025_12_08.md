@@ -142,7 +142,7 @@ This comprehensive refinement integrates evidence from the ad-res-j7 repository 
 **From:** Richard Estabrooks (Shopify Launch Manager)  
 **To:** Kayla Pretorius (kayp@rzo.io, kayla@regima.zone)  
 **CC:** Daniel Faucitt  
-**Contains:** Kayla's phone number (011 615 29869)
+**Contains:** General business phone number (011 615 29869)
 
 ### Why It Matters
 This single piece of evidence is **irrefutable third-party contemporaneous documentation** that:
@@ -153,7 +153,7 @@ This single piece of evidence is **irrefutable third-party contemporaneous docum
 - Independent business operations (no "head office")
 - Direct client relationships
 - Independent email addresses
-- Personal phone number (later appropriated)
+- General business phone number (011 615 29869)
 
 ❌ **Refutes:**
 - Claims of centralized "head office" control

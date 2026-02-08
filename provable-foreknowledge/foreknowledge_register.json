@@ -125,19 +125,13 @@
       "significance": "46% of stock written off as a simple 'adjustment' — Bantjies as accountant should have investigated but did not, demonstrating complicity.",
       "related_facts": ["FACT_001", "FACT_008"]
     },
-    {
-      "fact_id": "FACT_011",
-      "description": "Kayla Pretorius's business phone number was appropriated by Rynette Farrar after Kayla's death",
-      "category": "data_protection",
-      "significance": "Appropriation of a deceased person's identity and business communications — intercepting customer contacts intended for the deceased.",
-      "related_facts": ["FACT_012"]
-    },
+
     {
       "fact_id": "FACT_012",
       "description": "Rezonance was owed R1,035,361.34 by RegimA entities — debt never paid and concealed",
       "category": "theft",
       "significance": "Systematic theft from a deceased person's estate — the debt to Rezonance (Kayla's company) was concealed after her murder.",
-      "related_facts": ["FACT_011", "FACT_001"]
+      "related_facts": ["FACT_001"]
     },
     {
       "fact_id": "FACT_013",
@@ -372,16 +366,7 @@
       "description": "Rynette instructed customers to no longer effect payments into the legitimate accounts but into different accounts she had opened. She deleted Shopify records to conceal this.",
       "confidence": "proven"
     },
-    {
-      "event_id": "KE_015",
-      "agent_id": "PERSON_002",
-      "fact_id": "FACT_011",
-      "timestamp": "2023-08-01T00:00:00Z",
-      "acquisition_type": "active_participation",
-      "evidence_refs": ["Phone_Records", "EVENT_086"],
-      "description": "After Kayla Pretorius's murder in July 2023, Rynette appropriated Kayla's business phone number, intercepting customer communications intended for the deceased.",
-      "confidence": "proven"
-    },
+
     {
       "event_id": "KE_016",
       "agent_id": "PERSON_002",

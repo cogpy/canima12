@@ -28,7 +28,7 @@ This evidence matrix was prepared to demonstrate that the allegations are **TRUE
 | 2 | Controlling bank accounts unlawfully | ✅ FULLY PROVEN | JF1/JF2 (Sage screenshots showing dual email control - `pete@regima.com`) |
 | 3 | Starting UK business taking revenue | ✅ FULLY PROVEN | Domain records (regimaskin.co.za), CIPC (Addarory Pty Ltd) |
 | 4 | Competing unlawfully while employed | ✅ FULLY PROVEN | Employment records, domain records, Elliott letter itself confirms employment |
-| 5 | Redirecting customers to son's company | ✅ FULLY PROVEN | DF1 (July 2017 email), phone records (Kayla's number appropriated), Shopify deletion |
+| 5 | Redirecting customers to son's company | ✅ FULLY PROVEN | DF1 (July 2017 email), Shopify deletion, customer diversion evidence |
 | 6 | False photos / misleading brand affiliation | ⚠️ PARTIALLY PROVEN | Domain records, brand registration |
 | 7 | Risk of taking R5M stock | ⚠️ SUPPORTED BY PATTERN | Bank statements, sole control evidence |
 | 8 | Collective dishonesty, fraud, etc. | ✅ PROVEN (COMBINED) | All evidence from 1-7 |

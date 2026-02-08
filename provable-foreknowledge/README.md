@@ -17,7 +17,7 @@ This folder contains the complete provable foreknowledge analysis for Case 2025-
 | Agent | Tier | Classification | Proven Events | Key Finding |
 |---|---|---|---|---|
 | **Peter Andrew Faucitt** | **A** | Premeditated Conspirator | 10 | Own written admission to FNB (SF10), system records, active participation in evidence destruction |
-| **Rynette Farrar** | **A** | Premeditated Conspirator | 13 | Highest event count — active participation in identity fraud, revenue diversion, evidence destruction, and obstruction |
+| **Rynette Farrar** | **A** | Premeditated Conspirator | 12 | Highest event count — active participation in identity fraud, revenue diversion, evidence destruction, and obstruction |
 | **Daniel Jacobus Bantjies** | **A** | Premeditated Conspirator | 8 | Informed of criminal matters on 6/10 June 2025, still swore false affidavit on 13 August 2025 |
 | **Kevin Michael Derrick** | **C** | Knowledge Unproven | 0 | Zero documentary evidence of awareness. May be a victim of Bantjies' abuse of professional position |
 | **De Novo / Marisca Meyer** | **C** | Knowledge Unproven | 0 | Zero documentary evidence of awareness. May have been professionally deceived by Rynette Farrar |
@@ -28,7 +28,7 @@ This folder contains the complete provable foreknowledge analysis for Case 2025-
 
 | File | Description |
 |---|---|
-| `foreknowledge_register.json` | The source register containing all 7 agents, 25 material facts, and 32 knowledge events |
+| `foreknowledge_register.json` | The source register containing all 7 agents, 24 material facts, and 31 knowledge events |
 | `classification_report.md` | Detailed tier classification for each agent with evidence tables |
 | `per_agent_audit_trail.md` | Chronological log of every knowledge acquisition event per agent |
 | `knowledge_matrix.md` | Cross-reference matrix showing which agents knew which facts and when |

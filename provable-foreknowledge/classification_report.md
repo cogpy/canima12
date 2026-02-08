@@ -1,7 +1,7 @@
 # Foreknowledge Classification Report
 
 **Case:** 2025-137857 — RegimA Revenue Hijacking, Trust Capture & Racketeering Enterprise
-**Generated:** 2026-02-08 11:47:57
+**Generated:** 2026-02-08 11:59:00
 
 ---
 
@@ -39,12 +39,11 @@
 ## Rynette Farrar — TIER A (Premeditated Conspirator)
 
 **Role:** Bookkeeper/Financial Controller, Chief Operator of the scheme
-**Proven Knowledge Events:** 13
+**Proven Knowledge Events:** 12
 
 | Foreknowledge Indicator | Evidence | Type of Proof | Date |
 |---|---|---|---|
 | Rynette operated Sage accounting system under Peter's identity (pete@regima.com) while simultaneously logged in as rynette@regima.zone | SF10, EVENT_090, EVENT_SF2A, Sage_Dual_Account_Screenshots | active_participation | 2020-08-15 |
-| Kayla Pretorius's business phone number was appropriated by Rynette Farrar after Kayla's death | Phone_Records, EVENT_086 | active_participation | 2023-08-01 |
 | Rynette forged Peter's signature (signed 'pp Peter') to install Bantjies as trustee on 28 June 2024 | Trust_Amendment_Document, SF15_Additional_Criminal_Conduct | documentary_proof | 2024-06-28 |
 | R5.2M SLG stock went missing with simultaneous R5.2M invoice from SLG to RST | EVENT_028 | active_participation | 2025-02-25 |
 | RegimA SA bank account was stripped of 99.8% of its funds (from R2.5M+ to R5,284) between Oct 2024 and Mar 2025 | Bank_Statements, SF16_Para_146 | active_participation | 2025-03-01 |
