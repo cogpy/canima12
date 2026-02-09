@@ -75,9 +75,53 @@
       "category": "obstruction",
       "significance": "Attempting to imprison someone for non-compliance with a void order constitutes malicious prosecution and defeating the ends of justice.",
       "related_facts": ["FACT_LEGAL_IMPOSSIBILITY", "FACT_PERJURY_FOREKNOWLEDGE"]
+    },
+    {
+      "fact_id": "FACT_FAKE_ACCOUNTS",
+      "description": "Rynette instructed De Novo to produce fake 2019 accounts for RegimA SA, a company name that only existed from March 2021. Peter signed these fraudulent accounts as director for a year he was not appointed.",
+      "category": "fraud",
+      "significance": "Irrefutable proof of fabricating financial statements to mislead SARS and other creditors. This is a direct criminal act of fraud.",
+      "related_facts": ["FACT_PERJURY_FOREKNOWLEDGE", "FACT_SUPPORTING_AFFIDAVIT_PERJURY"]
+    },
+    {
+      "fact_id": "FACT_WEAPONIZED_LITIGATION",
+      "description": "Peter and Rynette filed a 3rd Urgent Application in Nov 2025, using Jacquis attempt to warn De Novo about the fake accounts as a basis to label her as harassing and mentally unstable.",
+      "category": "obstruction",
+      "significance": "Demonstrates a pattern of using the courts as an instrument of fraud — attacking the victim for trying to expose the crime. It also reveals the true purpose of the settlement agreements medical testing clause as a weapon to silence witnesses.",
+      "related_facts": ["FACT_FAKE_ACCOUNTS", "FACT_CONTEMPT_AS_WEAPON"]
     }
   ],
   "knowledge_events": [
+    {
+      "event_id": "KE_RYNETTE_003",
+      "agent_id": "OPERATOR",
+      "fact_id": "FACT_FAKE_ACCOUNTS",
+      "timestamp": "2021-05-01T00:00:00Z",
+      "acquisition_type": "email_correspondence",
+      "evidence_refs": ["Rynette_De_Novo_Email_Annexure_3rd_Urgent_Application.pdf"],
+      "description": "Rynette instructed De Novo to create the fraudulent 2019 financial statements for RegimA SA.",
+      "confidence": "proven"
+    },
+    {
+      "event_id": "KE_PETER_006",
+      "agent_id": "APPLICANT",
+      "fact_id": "FACT_FAKE_ACCOUNTS",
+      "timestamp": "2021-05-01T00:00:00Z",
+      "acquisition_type": "documentary_proof",
+      "evidence_refs": ["RegimA_SA_2019_AFS_Signed.pdf"],
+      "description": "Peter signed the fraudulent 2019 Annual Financial Statements for RegimA SA (a company name that did not exist in 2019) as director, despite only being appointed in March 2021.",
+      "confidence": "proven"
+    },
+    {
+      "event_id": "KE_PETER_007",
+      "agent_id": "APPLICANT",
+      "fact_id": "FACT_WEAPONIZED_LITIGATION",
+      "timestamp": "2025-11-01T00:00:00Z",
+      "acquisition_type": "documentary_proof",
+      "evidence_refs": ["3rd_Urgent_Application_Nov_2025.pdf"],
+      "description": "Peter and Rynette filed the 3rd Urgent Application, using Jacquis attempt to expose the fake accounts as a basis to attack her credibility and mental state, citing the settlement agreements.",
+      "confidence": "proven"
+    },
     {
       "event_id": "KE_PETER_001",
       "agent_id": "APPLICANT",

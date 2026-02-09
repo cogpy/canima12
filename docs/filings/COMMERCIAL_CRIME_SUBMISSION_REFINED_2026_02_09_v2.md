@@ -45,6 +45,34 @@ This was not a legitimate legal dispute; it was a bank heist orchestrated throug
 
 ## 3. SPECIFIC CRIMINAL OFFENSES
 
+### 3.1. Fraud & Forgery: The Fake 2019 Financial Statements
+
+- **The Crime:** Rynette Farrar instructed accountants (De Novo) to produce fraudulent 2019 Annual Financial Statements for "RegimA SA (Pty) Ltd".
+- **The Proof:**
+    1. The company name "RegimA SA (Pty) Ltd" only came into existence on **1 March 2021**.
+    2. Peter Faucitt signed these fraudulent 2019 accounts as "director" despite only being appointed on **1 March 2021**.
+- **Significance:** This is irrefutable documentary proof of fraud and forgery, intended to mislead SARS and other creditors.
+
+### 3.2. Defeating the Ends of Justice: Weaponized Litigation
+
+- **The Crime:** When Jacqueline Faucitt attempted to warn De Novo that they were being used to create fraudulent documents, Peter and Rynette filed a 3rd Urgent Application against her in November 2025.
+- **The Proof:** The application itself, which uses her attempt to stop a crime as a basis for claims of "harassment" and "mental instability," citing the settlement agreements.
+- **Significance:** This demonstrates a pattern of using the courts as an instrument of fraud — attacking the victim for trying to expose the crime. It also reveals the true purpose of the settlement agreement's "medical testing" clauses as a weapon to silence witnesses.
+
+### 3.3. Perjury & Fraud on the Court: The Void Ab Initio Interdict
+
+- **The Crime:** The ex parte interdict of 19 August 2025 was obtained through perjury, material non-disclosure, and fraud on the court.
+- **The Proof:**
+    1. **Legal Impossibility:** The FNB mandates grant all directors SOLE authority, making the "unauthorized transaction" claim a legal absurdity.
+    2. **Perjury with Foreknowledge:** Peter Faucitt was informed by FNB Legal on 18 June 2025 that all directors had independent authority, two months before he swore the opposite.
+    3. **Material Non-Disclosure:** Peter concealed the SOLE mandate, the FNB legal letter, and the true context of the R500K reimbursement.
+    4. **Supporting Affidavit Fraud:** The accountant, Danie Bantjies, had received a comprehensive fraud report from Daniel Faucitt weeks before signing his false supporting affidavit.
+
+### 3.4. Malicious Prosecution: The Contempt of Court Application
+
+- **The Crime:** On 4 February 2026, Peter Faucitt filed a Contempt of Court application seeking 6 months imprisonment for Jacqueline Faucitt, based entirely on the void interdict.
+- **Significance:** Attempting to imprison someone for non-compliance with a void order constitutes malicious prosecution and defeating the ends of justice.
+
 ### 3.1. Fraud & Theft (Over R10.2M)
 
 -   **R10.6M Asset Stripping:** Executed under the cover of a void court order.

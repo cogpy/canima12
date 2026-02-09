@@ -48,7 +48,21 @@ In his ex parte application, Peter Faucitt had a duty of utmost good faith (*ube
 3.  That he had **secretly cancelled Daniel's business cards** on 7 June 2025 without Daniel's knowledge and without authority under the SOLE mandate — then weaponized the consequences by characterizing Daniel's forced reimbursement of R520K+ in personal business expenses as "theft." Peter admits the cancellation in his own affidavit but conceals that it was done secretly and without authority.
 4.  That the R500,000 "extraction" he complained about was a **partial reimbursement** for over R520,000 in documented business expenses Daniel had paid personally.
 
-## 4. The Contempt Filing as a Weapon of Persecution
+## 4. Pattern of Weaponized Litigation
+
+The fraudulent interdict was not an isolated event. It is part of a clear pattern of using the courts as an instrument of fraud.
+
+### The 3rd Urgent Application (November 2025)
+
+- **The Crime:** Rynette instructed accountants (De Novo) to produce fake 2019 financial statements for "RegimA SA (Pty) Ltd," a company name that only came into existence in March 2021. Peter Faucitt then signed these fraudulent accounts as "director" for a year in which he was not appointed.
+- **The Cover-Up:** When Jacqueline Faucitt attempted to warn De Novo that they were being used to create fraudulent documents, Peter and Rynette filed a 3rd Urgent Application against her.
+- **The Weaponization:** They used her attempt to stop a crime as evidence of "harassment" and "mental instability," citing the settlement agreements. This reveals the true purpose of the "medical testing" clauses: to silence anyone who exposes the fraud.
+
+### The Contempt Filing (February 2026)
+
+This follows the same pattern. The contempt application is based on a void order obtained through perjury. It is a malicious prosecution designed to imprison the victim of the initial fraud.
+
+## 5. The Contempt Filing as a Weapon of Persecution
 
 The contempt application is the final stage of a scheme that used a fraudulent court order to achieve criminal ends.
 
