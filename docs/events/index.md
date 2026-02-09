@@ -1,7 +1,7 @@
 # Events Index
 
-**Last Updated:** 2026-02-04  
-**Total Events:** 132+
+**Last Updated:** 2026-02-09  
+**Total Events:** 140+
 
 This index catalogs all events in Case 2025-137857 organized by phase and significance.
 
@@ -11,10 +11,12 @@ This index catalogs all events in Case 2025-137857 organized by phase and signif
 
 | Category | Count | Criminal Threshold |
 |----------|-------|-------------------|
-| Total Events | 132+ | - |
-| Criminal Threshold Events | 53 | 95% EXCEEDED |
+| Total Events | 140+ | - |
+| Criminal Threshold Events | 60 | 95% EXCEEDED |
 | Ketoni-Related Events | 12 | Central Motive |
-| FNB Letter Events | 2 | NEW EVIDENCE |
+| FNB Letter Events | 2 | KEY EVIDENCE |
+| Contempt Events | 7 | NEW EVIDENCE |
+| Void Ab Initio Events | 1 | CRITICAL |
 
 ---
 
@@ -177,6 +179,35 @@ The following 53 events meet the criminal burden of proof:
 
 ---
 
+## Phase 4B: Contempt Proceedings (Sep 2025 - Feb 2026)
+
+### Mediation and Settlement
+| Date | Event | Significance | Link |
+|------|-------|--------------|------|
+| **2025-09-18** | **Mediation - Two Settlement Agreements** | Forvis Mazars forensic investigation mandate | [EVENT_095](./EVENT_095.md) |
+| **2025-09-22** | **Notice of Withdrawal from Settlements (Duress)** | Immediate withdrawal after receiving copies; ENS email documents criminal complaint request during mediation | [EVENT_096](./EVENT_096.md) |
+| **2025-11-04** | **Variation Application Dismissed** | Judge directs to contempt proceedings | [EVENT_097](./EVENT_097.md) |
+
+### Ongoing Contempt Acts
+| Date | Event | Significance | Link |
+|------|-------|--------------|------|
+| **2025-12-02** | **Bank Cards Not Surrendered / Phone Removal / Body Guard** | Multiple court order breaches | [EVENT_100](./EVENT_100.md) |
+| **2026-01-10** | **Stock Removal Blocked (R200K)** | Business sabotage in defiance of order | [EVENT_098](./EVENT_098.md) |
+| **2026-01-12** | **Attorney Correspondence - Contempt Demand** | Effective admission of contempt (PF16) | [EVENT_099](./EVENT_099.md) |
+### Contempt Application
+
+| Date | Event | Significance | Link |
+|------|-------|--------------|------|
+| **2026-02-04** | **Contempt of Court Application Filed** | Seeks imprisonment for court order violations | [EVENT_101](./EVENT_101.md) |
+
+### Void Ab Initio Evidence
+
+| Date | Event | Significance | Link |
+|------|-------|--------------|------|
+| **2026-02-04** | **Void Ab Initio Evidence Submitted to Pottas Attorneys** | FNB SOLE mandate proof, perjury evidence destroys interdict foundation | [EVENT_102](./EVENT_102.md) |
+
+---
+
 ## Evidence Cross-References
 
 - **[Timeline](../timeline.md)** - Master chronological timeline
@@ -187,4 +218,9 @@ The following 53 events meet the criminal burden of proof:
 
 ---
 
-*Last updated by LEX Investigation System: 2026-02-04*
+- **[Contempt Evidence Summary](../evidence/CONTEMPT_EVIDENCE_SUMMARY_2026_02_09.md)** - Contempt application analysis
+- **[Contempt Relations Map](../relations/CONTEMPT_RELATIONS_2026_02_09.md)** - Contempt party relations
+
+---
+
+*Last updated by LEX Investigation System: 2026-02-09*

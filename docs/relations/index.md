@@ -1412,4 +1412,44 @@
         "target_entity": "PERSON_002",
         "evidence": ["SF13"],
         "significance": "Pottas Attorneys, representing Rynette, received instructions from Peter Faucitt's attorneys, proving conspiracy."
+      },
+      {
+        "relation_id": "REL_LEGAL_002",
+        "relation_type": "represents",
+        "source_entity": "ORG_020",
+        "target_entity": "PERSON_001",
+        "evidence": ["PF15", "PF17", "Contempt Application"],
+        "significance": "Elliott Attorneys represents Peter Faucitt in Case 2025-137857."
+      },
+      {
+        "relation_id": "REL_LEGAL_003",
+        "relation_type": "represents",
+        "source_entity": "ORG_021",
+        "target_entity": "PERSON_004",
+        "evidence": ["PF16", "Contempt Application"],
+        "significance": "Pottas Attorneys represents Jacqueline Faucitt. PF16 response never denied contempt."
+      },
+      {
+        "relation_id": "REL_CONTEMPT_001",
+        "relation_type": "contempt_of_court",
+        "source_entity": "PERSON_004",
+        "target_entity": "Court_Order_2025_08_19",
+        "evidence": ["PF12", "PF15", "PF16", "PF17"],
+        "significance": "Jacqueline Faucitt alleged to be in contempt of 19 August 2025 court order through stock blocking, bank card non-surrender, phone removal, and body guard intimidation."
+      },
+      {
+        "relation_id": "REL_SETTLEMENT_001",
+        "relation_type": "settlement_agreement",
+        "source_entity": "PERSON_001",
+        "target_entity": "PERSON_004",
+        "evidence": ["PF13", "PF14"],
+        "significance": "Two settlement agreements signed 18 September 2025. PF14 mandates Forvis Mazars forensic investigation into misappropriation of funds."
+      },
+      {
+        "relation_id": "REL_EMP_004",
+        "relation_type": "is_employee_of",
+        "source_entity": "PERSON_019",
+        "target_entity": "ORG_002",
+        "evidence": ["PF17", "Contempt Application para 6.4"],
+        "significance": "Oliver (Arthur) is an employee of the entities, paid by the entities. Phone removed by Jacqueline."
       }

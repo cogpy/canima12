@@ -1,21 +1,27 @@
 # Entities Index
 
-**Last Updated:** 2026-02-06  
-**Total Entities:** 95+
+**Last Updated:** 2026-02-09  
+**Total Entities:** 100+
 
 This index catalogs all entities involved in Case 2025-137857: Revenue Stream Hijacking.
 
 ---
 
-## 🆕 NEW: February 2026 Update
+## NEW: February 2026 Update (2026-02-09)
 
-**Critical Correction:** The R18.685M debt structure has been corrected. Ketoni Investment Holdings owes the Faucitt Family Trust (NOT Bantjies owing Peter/Jacqui). See [Super-Sleuth Report 2026-02-06](../super_sleuth_report_2026_02_06.md) for details.
+**Contempt Application Evidence:** New entities identified from the Contempt of Court Application filed 4 February 2026.
 
-**New Entities Added:**
+**New Entities Added (2026-02-09):**
+- [ORG_020](./ORG_020.md) - Elliott Attorneys Inc (Applicant's Attorneys)
+- [ORG_021](./ORG_021.md) - Pottas Attorneys (Respondent's Attorneys)
+- [PERSON_019](./PERSON_019.md) - Oliver ("Arthur") (Employee / Warehouse Manager)
+
+**Previously Added (2026-02-06):**
 - [ORG_017](./ORG_017.md) - Ketoni Investment Holdings (Debtor to FFT)
 - [ORG_018](./ORG_018.md) - The George Group (Bantjies' Employer)
 - [ORG_019](./ORG_019.md) - Pottas Attorneys (Rynette's Legal Representation)
 
+**Critical Correction:** The R18.685M debt structure has been corrected. Ketoni Investment Holdings owes the Faucitt Family Trust (NOT Bantjies owing Peter/Jacqui). See [Super-Sleuth Report 2026-02-06](../super_sleuth_report_2026_02_06.md) for details.
 ---
 
 ## Persons
