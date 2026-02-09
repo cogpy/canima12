@@ -1,11 +1,11 @@
 # Rynette Farrar (PERSON_002)
 
-**Role:** Co-Conspirator (Operational Controller)  
-**Last Updated:** 2026-02-04
+**Role:** Co-Conspirator (Operational Controller)
+**Last Updated:** 2026-02-09
 
 ## Summary
 
-Rynette Farrar is the operational controller in Case 2025-137857, managing financial systems, email access, and strategic appointments. She is **NOT a trustee** of FFT but exercises de facto control through system access and her appointment of Bantjies as trustee.
+Rynette Farrar is the operational controller in Case 2025-137857, managing financial systems, email access, and strategic appointments. She is **NOT a trustee** of FFT but exercises de facto control through system access and her appointment of Bantjies as trustee. The latest mailbox evidence confirms her as a **Tier A (Premeditated Conspirator)** with deep, long-term involvement in all aspects of the fraud.
 
 ## Entity Profile
 
@@ -13,9 +13,9 @@ Rynette Farrar is the operational controller in Case 2025-137857, managing finan
 {
   "entity_id": "PERSON_002",
   "name": "Rynette Farrar",
-  "role": "co_conspirator",
+  "role": "co_conspirator_chief_operator",
   "agent_type": "antagonist",
-  "involvement_events": 12,
+  "involvement_events": 21,
   "primary_actions": [
     "payment_redirection_scheme",
     "bank_account_change_letter",
@@ -25,7 +25,9 @@ Rynette Farrar is the operational controller in Case 2025-137857, managing finan
     "coordinated_fund_diversions",
     "bantjies_trustee_appointment",
     "sage_system_control",
-    "fnb_letterhead_control"
+    "fnb_letterhead_control",
+    "email_diversion_control",
+    "evidence_destruction_sage_expiry"
   ],
   "relationships": [
     "co_conspirator_with_PERSON_001",
@@ -44,7 +46,7 @@ Rynette Farrar is the operational controller in Case 2025-137857, managing finan
       "trust_control_facilitation"
     ]
   },
-  "additional_notes": "Controlled accounts system, potentially opened 8 ABSA accounts using stolen card. FNB letterhead shows rynette@regima.zone as primary contact.",
+  "additional_notes": "Controlled accounts system, potentially opened 8 ABSA accounts using stolen card. FNB letterhead shows rynette@regima.zone as primary contact. Mailbox analysis proves she was the sole financial controller from at least 2020.",
   "timeline_events": [
     "EVENT_004",
     "EVENT_005",
@@ -53,7 +55,16 @@ Rynette Farrar is the operational controller in Case 2025-137857, managing finan
     "EVENT_015",
     "EVENT_025",
     "EVENT_026",
-    "EVENT_BANTJIES_APPOINTMENT"
+    "EVENT_BANTJIES_APPOINTMENT",
+    "KE_004",
+    "KE_005",
+    "KE_006",
+    "KE_007",
+    "KE_008",
+    "KE_009",
+    "KE_019",
+    "KE_020",
+    "KE_023"
   ],
   "sage_control": {
     "subscription_owner": "RegimA Worldwide Distribution (Pty) Ltd",
@@ -79,7 +90,11 @@ Rynette Farrar is the operational controller in Case 2025-137857, managing finan
     "JF08 - Email impersonation evidence",
     "JF09 - Domain registration fraud evidence",
     "SF2 - Sage Screenshots (Dual Account Access)",
-    "SF10 - FNB Fraud Letter (letterhead shows rynette@regima.zone)"
+    "SF10 - FNB Fraud Letter (letterhead shows rynette@regima.zone)",
+    "MAILBOX_RYNETTE_FINANCIAL_EMAILS",
+    "MAILBOX_SAGE_NOTIFICATIONS",
+    "MAILBOX_RYNETTE_BANKING_DETAILS_EMAIL",
+    "MAILBOX_JAX_DIVERT_EMAIL_2020"
   ],
   "ad_res_j7_references": [
     "evidence/FNB_FRAUD_LETTER_2025_06_17/PAF_FNB_FRAUD_LETTER_2025_06_17_OCR.md",
@@ -91,11 +106,22 @@ Rynette Farrar is the operational controller in Case 2025-137857, managing finan
     "ANNEXURES/JF08/evidence_package_20251012/README.md - Payment redirection evidence",
     "revenue-stream-hijacking-rynette/ - Dedicated evidence folder"
   ],
-  "evidence_enhanced": "2026-02-04",
+  "evidence_enhanced": "2026-02-09",
   "evidence_strength": "conclusive",
   "criminal_threshold": "95%_exceeded"
 }
 ```
+
+## Mailbox Evidence Analysis (2026-02-09)
+The analysis of the RegimA Exchange mailbox provides extensive, direct evidence of Rynette Farrar's central role as the financial controller and chief operator of the fraudulent scheme.
+
+- **Financial Control:** Rynette sent **5,775 financial-related emails** and **19,025 total emails** between 2020 and 2025, establishing her as the primary financial and communications controller.
+- **Sage Identity Fraud:** Mailbox records prove she operated the Sage accounting system from at least **May 2020**, receiving system notifications and invoices, often under the identity of `pete@regima.com`.
+- **Payment Redirection:** She personally initiated the payment redirection campaign, sending an email with the subject "Banking details and email address for POP" on **5 May 2025**, followed by a "Second request to change the email address on your banking app" on **16 May 2025**.
+- **Information Control:** She was the beneficiary of an email diversion rule created on **29 August 2020** that redirected Bernadine Wright's emails to her, giving her complete control over financial communications.
+- **Evidence Destruction:** Her active participation in letting the Sage subscription expire on **23 July 2025** is corroborated by her control over the financial systems demonstrated in the mailbox data.
+
+This new evidence elevates her classification to **Tier A (Premeditated Conspirator)** with 9 proven knowledge events, demonstrating long-term, systematic control and execution of the fraud.
 
 ## Key Evidence: FNB Letterhead Control
 
@@ -141,4 +167,4 @@ Rynette Farrar (PERSON_002)
 
 ---
 
-*Last updated: 2026-02-04*
+*Last updated: 2026-02-09*

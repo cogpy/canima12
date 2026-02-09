@@ -1,8 +1,8 @@
 # Master Timeline of Events
 
-**Last Updated:** 2026-01-14
+**Last Updated:** 2026-02-09
 
-This section provides a comprehensive and chronological breakdown of all 103 events related to case 2025-137857. The timeline is divided into three distinct phases, each representing a critical stage of the fraudulent scheme. Every event is linked to the specific evidence that substantiates it.
+This section provides a comprehensive and chronological breakdown of all events related to case 2025-137857. The timeline is divided into four distinct phases, each representing a critical stage of the fraudulent scheme. Every event is linked to the specific evidence that substantiates it.
 
 ---
 
@@ -19,6 +19,9 @@ This phase details the manipulation of trust structures and the initial steps ta
 ### [Phase 3: Active Fraud Execution (2025)](./phase3.md)
 
 This phase documents the active execution of the revenue stream hijacking, including the redirection of payments, unauthorized bank account changes, and the systematic diversion of funds. This phase contains the most direct and conclusive evidence of criminal activity.
+
+### [Phase 4: Mailbox Evidence Corroboration (2020-2025)](./phase4_mailbox_evidence.md)
+This phase documents the critical events uncovered from the analysis of the RegimA Exchange mailbox. This evidence provides direct, documentary proof of long-term financial control, infrastructure hijacking, and premeditated actions by the key perpetrators.
 
 ---
 

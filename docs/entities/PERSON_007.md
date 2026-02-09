@@ -1,16 +1,13 @@
 # Daniel Jacobus Bantjies (PERSON_007)
-
-**Role:** Strategic Appointee / FFT Trustee / Accountant / CFO  
-**Last Updated:** 2026-02-06
+**Role:** Strategic Appointee / FFT Trustee / Accountant / CFO
+**Last Updated:** 2026-02-09
 
 ## Summary
-
 Daniel Jacobus Bantjies ("Danie") is a strategic appointee in Case 2025-137857, serving as FFT Trustee while simultaneously acting as accountant for all RegimA group companies and CFO of The George Group. His appointment by Rynette in **July 2024** (T-10 months before the Ketoni payout) and his professional connection to **Kevin Derrick** (Ketoni Director) at The George Group creates **six distinct conflicts of interest**.
 
-**CRITICAL CORRECTION (2026-02-06):** The debt structure has been corrected. Ketoni Investment Holdings owes R18.685M to the Faucitt Family Trust (NOT Bantjies owing Peter/Jacqui). This creates an even more damning scenario where Bantjies has **insider access to both ends of the transaction**.
+**CRITICAL UPDATE (2026-02-09):** Mailbox evidence proves Bantjies had access to RegimA financial data, including bank statements and financial year-end documents, from at least **July 2020**, four years before his official appointment as FFT trustee. This long-standing access proves he was not an independent appointee but a deeply embedded financial operator with full knowledge of the companies' financial history. Further emails from his `danieb@thegeorgegroup.co.za` address in **May-June 2023** discussing the Ketoni Investment prove he had insider knowledge of the R18.685M transaction through his position as CFO of The George Group. This evidence elevates him to **Tier A (Premeditated Conspirator)**.
 
 ## Entity Profile
-
 ```json
 {
   "entity_id": "PERSON_007",
@@ -18,12 +15,16 @@ Daniel Jacobus Bantjies ("Danie") is a strategic appointee in Case 2025-137857, 
   "aliases": ["Danie Bantjies", "Danie Bantjes"],
   "role": "strategic_appointee_trustee_accountant_cfo",
   "agent_type": "antagonist",
-  "involvement_events": 10,
+  "involvement_events": 16,
   "primary_actions": [
+    "insider_trading_dual_control_loop",
+    "perjury_false_affidavit",
+    "breach_of_fiduciary_duty",
+    "long_term_financial_access_concealment",
+    "active_trust_manipulation",
     "accounting_system_control_with_rynette",
     "audit_request_dismissal",
     "stock_adjustment_fraud_concealment",
-    "trust_violations_as_trustee",
     "sars_audit_payment_instructions",
     "commissioner_of_oaths_misconduct",
     "trial_balance_distribution",
@@ -66,24 +67,31 @@ Daniel Jacobus Bantjies ("Danie") is a strategic appointee in Case 2025-137857, 
     "ketoni_connection": "Colleague of Kevin Derrick (Ketoni Director) at The George Group",
     "motive": "Control both ends of R18.685M transaction"
   },
-  "evidence_enhanced": "2026-02-06",
+  "evidence": [
+    "FFT_Appointment_Docs",
+    "George_Group_Employment",
+    "Interdict_Application",
+    "Bantjies_Affidavit",
+    "MAILBOX_BANTJIES_BANK_STATEMENTS_2020",
+    "MAILBOX_BANTJIES_KETONI_GEORGE_GROUP",
+    "MAILBOX_BANTJIES_FFT_AGREEMENT"
+  ],
+  "evidence_enhanced": "2026-02-09",
   "evidence_strength": "conclusive",
   "criminal_threshold": "95%_exceeded"
 }
 ```
 
----
+## Foreknowledge Analysis (Tier A)
+Mailbox evidence elevates Bantjies to a **Tier A (Premeditated Conspirator)**. His proven access to financial data from 2020, combined with his insider knowledge of the Ketoni deal from 2023 and his subsequent false affidavit in 2025, demonstrates a long-term, calculated involvement in the scheme.
 
-## SIX CONFLICTS OF INTEREST (Corrected 2026-02-06)
-
-| # | Conflict | Description | Evidence |
-|---|----------|-------------|----------|
-| **1** | **Commissioner of Oaths** | Swore own false affidavit | Court records |
-| **2** | **Trustee of FFT** | Controls victims' Trust assets | FFT appointment docs |
-| **3** | **Affidavit Witness** | Provided perjured supporting testimony | Interdict application |
-| **4** | **CFO of George Group** | Where Kevin Derrick is Director | Employment records |
-| **5** | **Insider Access to Ketoni** | Through Kevin Derrick connection | Corporate records |
-| **6** | **Controls Distribution** | As Trustee, decides how R18.685M is distributed | Trust deed |
+| Date | Foreknowledge Indicator | Evidence | Type of Proof |
+|---|---|---|---|
+| 2020-07-27 | Had access to RegimA bank statements & FYE data | MAILBOX_BANTJIES_BANK_STATEMENTS_2020 | email_correspondence |
+| 2023-05-31 | Discussed Ketoni Investment from George Group email | MAILBOX_BANTJIES_KETONI_GEORGE_GROUP | email_correspondence |
+| 2024-07-01 | Accepted FFT Trustee appointment | FFT_Appointment_Docs | active_participation |
+| 2025-01-29 | Involved in Faucitt Family Trust agreement discussions | MAILBOX_BANTJIES_FFT_AGREEMENT | email_correspondence |
+| 2025-08-19 | Swore a false affidavit in court | Interdict_Application, Bantjies_Affidavit | documentary_proof |
 
 ---
 
@@ -215,4 +223,4 @@ As FFT Trustee, Bantjies has fiduciary duties to beneficiaries Peter, Jax, and D
 
 ---
 
-*Last updated: 2026-02-06 - CORRECTED DEBT STRUCTURE*
+*Last updated: 2026-02-09*

@@ -14,15 +14,18 @@ The ex parte interdict granted on 19 August 2025 is **void ab initio** (void fro
 
 > **"Fraud unravels all"** (*fraus omnia corrumpit*) — The interdict was not a tool for justice. It was a weapon forged through perjury to seize control of company assets and persecute legitimate business owners.
 
-### Agent Foreknowledge Classification (Void Ab Initio Register)
+### Agent Foreknowledge Classification (Enhanced with Mailbox Evidence)
 
 | Agent | Role | Tier | Classification | Proven Events |
 |---|---|---|---|---|
 | **Peter Andrew Faucitt** | Applicant / Primary Perpetrator | **A** | Premeditated Conspirator | 11 |
-| **Daniel Jacobus Bantjies** | Accountant / Commissioner of Oaths | **A** | Premeditated Conspirator | 4 |
-| **Rynette Farrar** | Bookkeeper / Co-conspirator | **A** | Premeditated Conspirator | 5 |
+| **Daniel Jacobus Bantjies** | Accountant / Commissioner of Oaths | **A** | Premeditated Conspirator | **6** |
+| **Rynette Farrar** | Bookkeeper / Co-conspirator | **A** | Premeditated Conspirator | **9** |
 | **Adderory (Rynette's Son)** | Competing Business Registrant | **B** | Active Participant with Proven Knowledge | 2 |
 | **ENS Africa** | Legal Firm | **B** | Active Participant with Proven Knowledge | 1 |
+| **Linda (RegimA Employee)** | Sales/Accounts | **B** | Active Participant with Proven Knowledge | **1** |
+| **Gayane (RegimA Employee)** | Employee | **B** | Active Participant with Proven Knowledge | **1** |
+| **Kent Gillham** | UK Operations Manager | **B** | Active Participant with Proven Knowledge | **1** |
 
 ### The Eight Pillars & Patterns of Invalidity
 
@@ -40,6 +43,48 @@ The ex parte interdict granted on 19 August 2025 is **void ab initio** (void fro
 ### The Contempt Application: Weaponizing a Void Order
 
 On 4 February 2026, Peter Faucitt filed a Contempt of Court Application seeking **6 months imprisonment** for Jacqueline Faucitt. This is not a legitimate legal action. It is the use of a fraudulent, void court order to imprison a victim of the fraud.
+
+---
+
+## MAILBOX EVIDENCE ANALYSIS (2026-02-09)
+
+### Exchange Mailbox Forensic Analysis
+
+A comprehensive analysis of the RegimA Exchange mailbox (**101,215 emails**, 2020-2026) has been completed using the **finfluent**, **acc-fund-flow**, and **provable-foreknowledge** frameworks. This analysis provides direct, documentary proof of long-term financial control, infrastructure hijacking, and premeditated actions.
+
+| Metric | Value |
+|---|---|
+| **Total Messages Analyzed** | 101,215 |
+| **Date Range** | 2020-05-18 to 2026-02-09 |
+| **Financial Emails** | 28,037 |
+| **Fraud-Keyword Emails** | 191 |
+| **Payment Redirection Emails** | 801 |
+| **Sage Accounting Emails** | 6,649 |
+
+### Key Findings from Mailbox Evidence
+
+| Finding | Date | Evidence | Significance |
+|---|---|---|---|
+| **Bantjies had financial access since 2020** | 2020-07-27 | `MAILBOX_BANTJIES_BANK_STATEMENTS_2020` | Proves 4 years of insider access before FFT appointment |
+| **Rynette controlled Sage from 2020** | 2020-05-18 | `MAILBOX_SAGE_NOTIFICATIONS` | Proves long-term financial system control |
+| **Email diversion to Rynette** | 2020-08-29 | `MAILBOX_JAX_DIVERT_EMAIL_2020` | Information control infrastructure |
+| **Jacqueline detected fraud early** | 2021-02-21 | `MAILBOX_JAX_FRAUD_DETECTION_2021` | Early fraud awareness |
+| **Bantjies discussed Ketoni from George Group** | 2023-05-31 | `MAILBOX_BANTJIES_KETONI_GEORGE_GROUP` | Insider knowledge of R18.685M deal |
+| **Bantjies manipulated FFT agreement** | 2025-01-29 | `MAILBOX_BANTJIES_FFT_AGREEMENT` | Active trust manipulation |
+| **Rynette initiated payment redirection** | 2025-05-05 | `MAILBOX_RYNETTE_BANKING_DETAILS_EMAIL` | Started the theft mechanism |
+| **Mass bank detail change campaign** | 2025-06-18 | `MAILBOX_LINDA_CHANGE_OF_BANK_JUNE_2025` | 39+ emails redirecting payments FNB→Absa |
+| **Email domain abandonment** | 2025-06-20 | `MAILBOX_GAYANE_EMAIL_CHANGE_2025` | Infrastructure hijacking completion |
+
+### Mailbox Evidence Documents
+
+| Document | Description |
+|---|---|
+| **[Fund Flow Analysis](./evidence/mailbox_analysis/fund_flow_analysis.html)** | Interactive fund flow visualization |
+| **[Foreknowledge Register](./evidence/mailbox_analysis/foreknowledge_register.json)** | Complete foreknowledge register with 18 facts and 23 events |
+| **[Classification Report](./evidence/mailbox_analysis/classification_report.md)** | Agent tier classifications from mailbox evidence |
+| **[Knowledge Matrix](./evidence/mailbox_analysis/knowledge_matrix.md)** | Who knew what, when — from mailbox evidence |
+| **[Per-Agent Audit Trail](./evidence/mailbox_analysis/per_agent_audit_trail.md)** | Chronological knowledge log per agent |
+| **[Mailbox Relations](./relations/MAILBOX_EVIDENCE_RELATIONS_2026_02_09.md)** | Communication patterns and control flows |
 
 ---
 
@@ -97,9 +142,9 @@ The following documents, sent by Daniel Faucitt to Pottas Attorneys on 4 Februar
 
 ---
 
-## REFINED LEGAL FILINGS (2026-02-09 v4 — MAT4719 Evidence Integrated)
+## REFINED LEGAL FILINGS (2026-02-09 — Mailbox Evidence Integrated)
 
-All legal filings have been reframed around the **void ab initio** finding and updated with evidence from the **MAT4719 founding application** (162 pages, 14 chapters). The interdict was the keystone of the criminal enterprise; its invalidity exposes every subsequent act as naked criminality.
+All legal filings have been reframed around the **void ab initio** finding and updated with evidence from the **MAT4719 founding application** (162 pages, 14 chapters) and the **mailbox analysis** (101,215 emails). The interdict was the keystone of the criminal enterprise; its invalidity exposes every subsequent act as naked criminality.
 
 | Filing | Type | Burden | Latest Version |
 |---|---|---|---|
@@ -107,8 +152,10 @@ All legal filings have been reframed around the **void ab initio** finding and u
 | **Void Ab Initio Reassessment** | Analysis | — | **[View (2026-02-09)](./filings/VOID_AB_INITIO_REASSESSMENT_2026_02_09.md)** |
 | **CIPC Complaint** | Regulatory | 50% EXCEEDED | **[View v4 (2026-02-09)](./filings/CIPC_COMPLAINT_REFINED_2026_02_09_v4.md)** |
 | **POPIA Complaint** | Criminal | 95% EXCEEDED | **[View v4 (2026-02-09)](./filings/POPIA_COMPLAINT_REFINED_2026_02_09_v4.md)** |
+| **POPIA (Mailbox Evidence)** | Criminal | 95% EXCEEDED | **[View (2026-02-09)](./filings/POPIA_COMPLAINT_MAILBOX_EVIDENCE_2026_02_09.md)** |
 | **NPA Tax Fraud Report** | Criminal | 95% EXCEEDED | **[View v4 (2026-02-09)](./filings/NPA_TAX_FRAUD_REPORT_REFINED_2026_02_09_v4.md)** |
 | **Commercial Crime** | Criminal | 95% EXCEEDED | **[View v4 (2026-02-09)](./filings/COMMERCIAL_CRIME_SUBMISSION_REFINED_2026_02_09_v4.md)** |
+| **Commercial Crime (Mailbox Evidence)** | Criminal | 95% EXCEEDED | **[View (2026-02-09)](./filings/COMMERCIAL_CRIME_SUBMISSION_MAILBOX_EVIDENCE_2026_02_09.md)** |
 | **Civil Contempt Analysis** | Civil | 50% EXCEEDED | **[View (2026-02-09)](./filings/CIVIL_CONTEMPT_ANALYSIS_2026_02_09.md)** |
 
 ### Previous Versions
@@ -176,6 +223,11 @@ A **ZAR 18.685 million payout**, owed by **Ketoni Investment Holdings** to the *
 | **[Void Ab Initio Reassessment](./filings/VOID_AB_INITIO_REASSESSMENT_2026_02_09.md)** | The interdict as a weapon |
 | **[Contempt Evidence Summary](./evidence/CONTEMPT_EVIDENCE_SUMMARY_2026_02_09.md)** | Analysis of contempt application |
 | **[Contempt Relations Map](./relations/CONTEMPT_RELATIONS_2026_02_09.md)** | Party and temporal relations |
+| **[Mailbox Fund Flow Analysis](./evidence/mailbox_analysis/fund_flow_analysis.html)** | Interactive fund flow from mailbox data |
+| **[Mailbox Foreknowledge Register](./evidence/mailbox_analysis/foreknowledge_register.json)** | 18 facts, 23 events from mailbox |
+| **[Mailbox Classification Report](./evidence/mailbox_analysis/classification_report.md)** | Agent classifications from mailbox |
+| **[Mailbox Knowledge Matrix](./evidence/mailbox_analysis/knowledge_matrix.md)** | Mailbox-derived conspiracy map |
+| **[Mailbox Relations](./relations/MAILBOX_EVIDENCE_RELATIONS_2026_02_09.md)** | Communication patterns |
 | **[Evidence Index](./evidence_index_2026_02_06.md)** | Comprehensive catalog with all evidence |
 | **[Super-Sleuth Report](./super_sleuth_report_2026_02_06.md)** | Divergent analysis of evidence |
 | **[Hyper-Holmes Report](./hyper_holmes_report_2026_02_06.md)** | Convergent validation of leads |
@@ -184,7 +236,6 @@ A **ZAR 18.685 million payout**, owed by **Ketoni Investment Holdings** to the *
 | **[Events Directory](./events/index.md)** | All documented events (147+) |
 | **[MAT4719 Evidence Index](./evidence/MAT4719_NOM_FOUNDING_AFFIDAVIT.md)** | Split chapters of founding application |
 | **[Confirmatory Affidavit — Bantjes (Transcribed)](./evidence/Confirmatory_Affidavit_Bantjes.md)** | Identical transcription of Bantjes confirmatory affidavit (pages 69–71) |
-| **[Notice of Motion (Transcribed)](./evidence/Notice_of_Motion_Transcribed.md)** | Identical transcription of NOM Part A & Part B (pages 2–9) |
 
 ---
 
@@ -194,6 +245,8 @@ A **ZAR 18.685 million payout**, owed by **Ketoni Investment Holdings** to the *
 | **[ORG_020](./entities/ORG_020.md)** | Elliott Attorneys Inc | Applicant's Attorneys |
 | **[ORG_021](./entities/ORG_021.md)** | Pottas Attorneys | Respondent's Attorneys |
 | **[PERSON_019](./entities/PERSON_019.md)** | Oliver ("Arthur") | Employee (Warehouse) |
+| **[PERSON_LINDA](./entities/PERSON_LINDA.md)** | Linda (RegimA Employee) | Active Participant in Payment Redirection |
+| **[PERSON_GAYANE](./entities/PERSON_GAYANE.md)** | Gayane (RegimA Employee) | Active Participant in Infrastructure Hijacking |
 
 ### New Events (2026-02-09)
 | Event | Date | Description |
@@ -219,11 +272,16 @@ For comprehensive supporting evidence, see the **[ad-res-j7 repository](https://
 
 | Date | Event | T-Months |
 |---|---|---|
+| 2020-07-27 | **Bantjies receives RegimA bank statements (MAILBOX)** | **T-70** |
 | 2023-04-24 | FFT invests in Ketoni (R18.685M) | T-37 |
+| 2023-05-31 | **Bantjies discusses Ketoni from George Group (MAILBOX)** | **T-36** |
 | 2023-07-13 | Kayla Pretorius death | T-34 |
+| 2025-05-05 | **Rynette initiates payment redirection (MAILBOX)** | **T-12** |
 | 2025-05-22 | Shopify hijacking | T-12 |
 | 2025-06-07 | Secret card cancellations | T-11 |
 | 2025-06-18 | **FNB Legal confirms SOLE authority** | **T-11** |
+| 2025-06-18 | **Linda sends 39+ bank change emails (MAILBOX)** | **T-11** |
+| 2025-06-20 | **Gayane announces email domain change (MAILBOX)** | **T-11** |
 | 2025-08-13 | **Peter swears perjured affidavit** | **T-9** |
 | 2025-08-19 | Ex parte interdict (sole control) | T-9 |
 | 2025-09-03 | **R10.6M extracted within 8 days** | T-8 |
@@ -235,4 +293,4 @@ For comprehensive supporting evidence, see the **[ad-res-j7 repository](https://
 | 2026-02-04 | Contempt application filed (void order) | T-3 |
 | **2026-05** | **Ketoni payout due** | **T-0** |
 
-*Last Updated: 2026-02-09 — MAT4719 Evidence Integration + Void Ab Initio Analysis (8 Pillars, 8 Agents, 10 Material Facts, 23 Knowledge Events, 103 Entities, 147 Events)*
+*Last Updated: 2026-02-09 — Mailbox Evidence Integration + Void Ab Initio Analysis (8 Pillars, 9 Agents, 18 Material Facts, 23 Knowledge Events, 108 Entities, 147+ Events)*
