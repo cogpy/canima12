@@ -61,6 +61,28 @@ The following documents constitute the complete provable-foreknowledge analysis 
 
 ---
 
+## MAT4719 — FOUNDING APPLICATION EVIDENCE (Split & Indexed 2026-02-09)
+
+The original 162-page ex parte application (NOM, Founding Affidavit & Annexures) has been split into 14 individually-referenced chapter files with a comprehensive evidence index.
+
+**[→ View Full MAT4719 Evidence Index](./evidence/MAT4719_NOM_FOUNDING_AFFIDAVIT.md)**
+
+| Chapter | Pages | Description | Key Finding |
+|---|---|---|---|
+| Notice of Motion | 2–9 | Part A & Part B relief | Ex parte; Rule 6(12)(a) dispensation |
+| Founding Affidavit | 10–38 | Peter Faucitt's sworn affidavit | **Primary instrument of fraud** |
+| PF1–PF4 | 39–58 | WinDeed company reports | Company structures and directorships |
+| PF5–PF6 | 59–68 | Financial & supporting docs | Balance sheets |
+| Confirmatory Affidavit | 69–71 | Bantjes (SAICA 00105928) | **Perjury: 68 days after fraud report** |
+| PF7 | 72–101 | Communications evidence | Legitimate business operations |
+| PF9 | 102–137 | Credit card transactions | **R6,738,007** in platform expenses |
+| PF10 | 138–161 | Expense ledger (Mar–Jul 2025) | **R2,116,159.47** categorised spend |
+| PF11 | 162 | FNB SMS warning | Peter **aware** of spending scale |
+
+**Combined Technology Spend: R8,854,166.47** — All legitimate e-commerce platform vendors (Shopify, GitHub, Cloudflare, Vercel, Google, etc.)
+
+---
+
 ## NEW EVIDENCE (February 2026): Void Ab Initio Proof
 
 The following documents, sent by Daniel Faucitt to Pottas Attorneys on 4 February 2026, provide irrefutable proof that the interdict is void.
@@ -75,27 +97,27 @@ The following documents, sent by Daniel Faucitt to Pottas Attorneys on 4 Februar
 
 ---
 
-## REFINED LEGAL FILINGS (2026-02-09 v2)
+## REFINED LEGAL FILINGS (2026-02-09 v4 — MAT4719 Evidence Integrated)
 
-All legal filings have been reframed around the **void ab initio** finding. The interdict was the keystone of the criminal enterprise; its invalidity exposes every subsequent act as naked criminality.
+All legal filings have been reframed around the **void ab initio** finding and updated with evidence from the **MAT4719 founding application** (162 pages, 14 chapters). The interdict was the keystone of the criminal enterprise; its invalidity exposes every subsequent act as naked criminality.
 
 | Filing | Type | Burden | Latest Version |
 |---|---|---|---|
 | **FINAL Void Ab Initio Report** | Analysis | — | **[View (2026-02-09)](./filings/FINAL_VOID_AB_INITIO_REPORT_2026_02_09.md)** |
 | **Void Ab Initio Reassessment** | Analysis | — | **[View (2026-02-09)](./filings/VOID_AB_INITIO_REASSESSMENT_2026_02_09.md)** |
-| **CIPC Complaint** | Regulatory | 50% EXCEEDED | **[View v2 (2026-02-09)](./filings/CIPC_COMPLAINT_REFINED_2026_02_09_v2.md)** |
-| **POPIA Complaint** | Criminal | 95% EXCEEDED | **[View v2 (2026-02-09)](./filings/POPIA_COMPLAINT_REFINED_2026_02_09_v2.md)** |
-| **NPA Tax Fraud Report** | Criminal | 95% EXCEEDED | **[View v2 (2026-02-09)](./filings/NPA_TAX_FRAUD_REPORT_REFINED_2026_02_09_v2.md)** |
-| **Commercial Crime** | Criminal | 95% EXCEEDED | **[View v2 (2026-02-09)](./filings/COMMERCIAL_CRIME_SUBMISSION_REFINED_2026_02_09_v2.md)** |
+| **CIPC Complaint** | Regulatory | 50% EXCEEDED | **[View v4 (2026-02-09)](./filings/CIPC_COMPLAINT_REFINED_2026_02_09_v4.md)** |
+| **POPIA Complaint** | Criminal | 95% EXCEEDED | **[View v4 (2026-02-09)](./filings/POPIA_COMPLAINT_REFINED_2026_02_09_v4.md)** |
+| **NPA Tax Fraud Report** | Criminal | 95% EXCEEDED | **[View v4 (2026-02-09)](./filings/NPA_TAX_FRAUD_REPORT_REFINED_2026_02_09_v4.md)** |
+| **Commercial Crime** | Criminal | 95% EXCEEDED | **[View v4 (2026-02-09)](./filings/COMMERCIAL_CRIME_SUBMISSION_REFINED_2026_02_09_v4.md)** |
 | **Civil Contempt Analysis** | Civil | 50% EXCEEDED | **[View (2026-02-09)](./filings/CIVIL_CONTEMPT_ANALYSIS_2026_02_09.md)** |
 
 ### Previous Versions
-| Filing | v1 (2026-02-09) | Earlier |
-|---|---|---|
-| CIPC | [v1](./filings/CIPC_COMPLAINT_REFINED_2026_02_09.md) | [2026-02-06](./filings/CIPC_COMPLAINT_REFINED_2026_02_06.md) |
-| POPIA | [v1](./filings/POPIA_COMPLAINT_REFINED_2026_02_09.md) | [2026-02-06](./filings/POPIA_COMPLAINT_REFINED_2026_02_06.md) |
-| NPA Tax Fraud | [v1](./filings/NPA_TAX_FRAUD_REPORT_REFINED_2026_02_09.md) | [2026-02-06](./filings/NPA_TAX_FRAUD_REPORT_REFINED_2026_02_06.md) |
-| Commercial Crime | [v1](./filings/COMMERCIAL_CRIME_SUBMISSION_REFINED_2026_02_09.md) | [2026-02-06](./filings/COMMERCIAL_CRIME_SUBMISSION_CONSOLIDATED_2026_02_06.md) |
+| Filing | v4 (MAT4719) | v3 (Void Ab Initio) | v2 | v1 |
+|---|---|---|---|---|
+| CIPC | **[v4](./filings/CIPC_COMPLAINT_REFINED_2026_02_09_v4.md)** | [v3](./filings/CIPC_COMPLAINT_REFINED_2026_02_09_v3.md) | [v2](./filings/CIPC_COMPLAINT_REFINED_2026_02_09_v2.md) | [v1](./filings/CIPC_COMPLAINT_REFINED_2026_02_09.md) |
+| POPIA | **[v4](./filings/POPIA_COMPLAINT_REFINED_2026_02_09_v4.md)** | [v3](./filings/POPIA_COMPLAINT_REFINED_2026_02_09_v3.md) | [v2](./filings/POPIA_COMPLAINT_REFINED_2026_02_09_v2.md) | [v1](./filings/POPIA_COMPLAINT_REFINED_2026_02_09.md) |
+| NPA Tax Fraud | **[v4](./filings/NPA_TAX_FRAUD_REPORT_REFINED_2026_02_09_v4.md)** | [v3](./filings/NPA_TAX_FRAUD_REPORT_REFINED_2026_02_09_v3.md) | [v2](./filings/NPA_TAX_FRAUD_REPORT_REFINED_2026_02_09_v2.md) | [v1](./filings/NPA_TAX_FRAUD_REPORT_REFINED_2026_02_09.md) |
+| Commercial Crime | **[v4](./filings/COMMERCIAL_CRIME_SUBMISSION_REFINED_2026_02_09_v4.md)** | [v3](./filings/COMMERCIAL_CRIME_SUBMISSION_REFINED_2026_02_09_v3.md) | [v2](./filings/COMMERCIAL_CRIME_SUBMISSION_REFINED_2026_02_09_v2.md) | [v1](./filings/COMMERCIAL_CRIME_SUBMISSION_REFINED_2026_02_09.md) |
 
 ---
 
@@ -158,8 +180,9 @@ A **ZAR 18.685 million payout**, owed by **Ketoni Investment Holdings** to the *
 | **[Super-Sleuth Report](./super_sleuth_report_2026_02_06.md)** | Divergent analysis of evidence |
 | **[Hyper-Holmes Report](./hyper_holmes_report_2026_02_06.md)** | Convergent validation of leads |
 | **[Master Timeline](./timeline.md)** | Complete chronological event sequence |
-| **[Entities Directory](./entities/index.md)** | All persons and organizations (100+) |
-| **[Events Directory](./events/index.md)** | All documented events (140+) |
+| **[Entities Directory](./entities/index.md)** | All persons and organizations (103+) |
+| **[Events Directory](./events/index.md)** | All documented events (147+) |
+| **[MAT4719 Evidence Index](./evidence/MAT4719_NOM_FOUNDING_AFFIDAVIT.md)** | Split chapters of founding application |
 
 ---
 
@@ -210,4 +233,4 @@ For comprehensive supporting evidence, see the **[ad-res-j7 repository](https://
 | 2026-02-04 | Contempt application filed (void order) | T-3 |
 | **2026-05** | **Ketoni payout due** | **T-0** |
 
-*Last Updated: 2026-02-09 — Void Ab Initio Analysis (8 Pillars, 8 Agents, 10 Material Facts, 23 Knowledge Events)*
+*Last Updated: 2026-02-09 — MAT4719 Evidence Integration + Void Ab Initio Analysis (8 Pillars, 8 Agents, 10 Material Facts, 23 Knowledge Events, 103 Entities, 147 Events)*

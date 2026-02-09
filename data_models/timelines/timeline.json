@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "version": "32.0_NEW_EVIDENCE_2026_02_05",
+    "version": "33.0_MAT4719_EVIDENCE_2026_02_09",
     "created_date": "2025-11-10",
     "description": "Comprehensive timeline for Revenue Stream Hijacking case 2025-137857",
     "case_number": "2025-137857",
-    "last_updated": "2026-02-05T17:15:21.861169",
+    "last_updated": "2026-02-09T01:37:55",
     "changes": "Added 11 new timeline entries from February 2026 evidence package",
     "criminal_threshold_entries": 6,
     "high_significance_entries": 7,
@@ -605,11 +605,11 @@
     },
     {
       "date": "2016-07-05",
-      "event": "Chan\u00e9 Todd becomes director of Dandelion SA; Kirby Van Der Stelt resigns",
+      "event": "Chané Todd becomes director of Dandelion SA; Kirby Van Der Stelt resigns",
       "category": "directorship_change",
       "entities": [
         "Dandelion SA",
-        "Chan\u00e9 Auriele Todd",
+        "Chané Auriele Todd",
         "Kirby Rae Van Der Stelt"
       ],
       "evidence": [
@@ -2329,6 +2329,24 @@
       "ad_res_j7_evidence_enhanced": []
     },
     {
+      "date": "2025-03-31",
+      "event": "Gayane Williams emails Daniel Faucitt requesting login details; attaches 'Application Expenses Analysis.xlsx'; CC: Jacqui Faucitt",
+      "entity": "Gayane Williams / Daniel Faucitt / Jacqui Faucitt",
+      "source": "MAT4719 Annexure PF7 (page 72)",
+      "key_actor_names": [
+        "Gayane Williams",
+        "Daniel Faucitt",
+        "Jacqui Faucitt"
+      ],
+      "entities_involved": [
+        "PERSON_GAYANE",
+        "PERSON_003",
+        "PERSON_002"
+      ],
+      "event_ref": "EVT_MAT4719_005",
+      "evidence_enhanced_timestamp": "2026-02-09T01:37:55"
+    },
+    {
       "date": "2025-04-01",
       "event_ref": "EVENT_004",
       "title": "Payment Redirection Scheme",
@@ -2352,6 +2370,22 @@
       ],
       "entities_involved": [],
       "ad_res_j7_evidence_enhanced": []
+    },
+    {
+      "date": "2025-04-03",
+      "event": "Jacqui Faucitt emails Gayane: 'WE NEED TO STOP PAYING SOME IF THESE WHO REFUSE TO GIVE INVOICES' — active financial oversight",
+      "entity": "Jacqui Faucitt / Gayane Williams",
+      "source": "MAT4719 Annexure PF7 (page 101)",
+      "key_actor_names": [
+        "Jacqui Faucitt",
+        "Gayane Williams"
+      ],
+      "entities_involved": [
+        "PERSON_002",
+        "PERSON_GAYANE"
+      ],
+      "event_ref": "EVT_MAT4719_006",
+      "evidence_enhanced_timestamp": "2026-02-09T01:37:55"
     },
     {
       "date": "2025-04-11",
@@ -2525,7 +2559,7 @@
       "date": "2025-05-22",
       "event_ref": "EVENT_009",
       "title": "Shopify Audit Trail Hijacking",
-      "description": "CRITICAL EVENT: R1M+ monthly revenue \u2192 R0 (100% business shutdown). Central evidence destruction event proving consciousness of guilt. Destruction of audit trails for platform owned, paid, operated by RegimA Zone Ltd (UK) since July 2023 - proves RWD ZA has no independent revenue stream. Orders removed from Shopify following Jacqui's confrontation.",
+      "description": "CRITICAL EVENT: R1M+ monthly revenue → R0 (100% business shutdown). Central evidence destruction event proving consciousness of guilt. Destruction of audit trails for platform owned, paid, operated by RegimA Zone Ltd (UK) since July 2023 - proves RWD ZA has no independent revenue stream. Orders removed from Shopify following Jacqui's confrontation.",
       "category": "revenue_hijacking",
       "significance_level": "low",
       "evidence_refs": [
@@ -3039,6 +3073,22 @@
       "ad_res_j7_evidence_enhanced": []
     },
     {
+      "date": "2025-07-31",
+      "event": "FNB SMS to Pete Faucitt: '80% of international limit reached' — Peter aware of scale of international platform payments",
+      "entity": "FNB / Peter Faucitt",
+      "source": "MAT4719 Annexure PF11 (page 162)",
+      "key_actor_names": [
+        "Peter Faucitt",
+        "FNB"
+      ],
+      "entities_involved": [
+        "PERSON_001",
+        "BANK_FNB"
+      ],
+      "event_ref": "EVT_MAT4719_007",
+      "evidence_enhanced_timestamp": "2026-02-09T01:37:55"
+    },
+    {
       "date": "2025-08-10",
       "event_ref": "EVENT_019",
       "title": "Trust Breach Evidence",
@@ -3137,6 +3187,38 @@
       "ad_res_j7_evidence_enhanced": []
     },
     {
+      "date": "2025-08-13",
+      "event": "Peter Faucitt swears founding affidavit at Bedfordview SAPS; Bantjes swears confirmatory affidavit at Equestria, Pretoria — both contain material non-disclosures",
+      "entity": "Peter Faucitt / Daniel Bantjes",
+      "source": "MAT4719 Founding Affidavit (pages 10-38) & Confirmatory Affidavit (pages 69-71)",
+      "key_actor_names": [
+        "Peter Faucitt",
+        "Daniel Bantjes"
+      ],
+      "entities_involved": [
+        "PERSON_001",
+        "PERSON_BANTJES"
+      ],
+      "event_ref": "EVT_MAT4719_001",
+      "evidence_enhanced_timestamp": "2026-02-09T01:37:55"
+    },
+    {
+      "date": "2025-08-14",
+      "event": "Ex parte application filed electronically via Court Online at 08:16:25 SAST by Elliott Attorneys Inc. (Ref: KRE/MM/KF0019)",
+      "entity": "Elliott Attorneys / Peter Faucitt",
+      "source": "MAT4719 Cover Page (page 1)",
+      "key_actor_names": [
+        "Elliott Attorneys",
+        "Peter Faucitt"
+      ],
+      "entities_involved": [
+        "ELLIOTT_ATT",
+        "PERSON_001"
+      ],
+      "event_ref": "EVT_MAT4719_003",
+      "evidence_enhanced_timestamp": "2026-02-09T01:37:55"
+    },
+    {
       "date": "2025-08-15",
       "event_ref": "EVENT_GEE_DOMAIN_SWITCH_EMAIL",
       "title": "Gee Email Explaining Domain Switch Instruction",
@@ -3158,6 +3240,20 @@
       ],
       "entities_involved": [],
       "ad_res_j7_evidence_enhanced": []
+    },
+    {
+      "date": "2025-08-19",
+      "event": "Ex parte hearing at 10h00 — Court grants interim interdict (Part A) based on perjured affidavits; order subsequently challenged as void ab initio",
+      "entity": "High Court / Peter Faucitt",
+      "source": "MAT4719 Notice of Motion (pages 2-9)",
+      "key_actor_names": [
+        "Peter Faucitt"
+      ],
+      "entities_involved": [
+        "PERSON_001"
+      ],
+      "event_ref": "EVT_MAT4719_004",
+      "evidence_enhanced_timestamp": "2026-02-09T01:37:55"
     },
     {
       "date": "2025-08-20",
@@ -3368,7 +3464,7 @@
       "action_required": "Map Rynette's access evolution from 2020 to 2025"
     },
     "bantjes_connection": {
-      "insight": "Danie Bantjes: 2020 accountant \u2192 2024 Trustee appointment",
+      "insight": "Danie Bantjes: 2020 accountant → 2024 Trustee appointment",
       "implication": "Links financial manipulation expertise to trust control",
       "strategic_value": "Explains why Bantjes was chosen as Trustee",
       "action_required": "Investigate Bantjes' role in both capacities"

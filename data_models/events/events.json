@@ -1,12 +1,12 @@
 {
   "metadata": {
-    "version": "35.0_NEW_EVIDENCE_2026_02_05",
+    "version": "36.0_MAT4719_EVIDENCE_2026_02_09",
     "created_date": "2025-11-10",
     "description": "Refined event model for Revenue Stream Hijacking case 2025-137857",
     "case_number": "2025-137857",
     "total_events": 140,
     "extended_evidence": "incorporated_from_ad_res_j7",
-    "last_updated": "2026-02-05T17:15:21.861042",
+    "last_updated": "2026-02-09T01:37:55",
     "changes": "Added 9 new events from February 2026 evidence package",
     "phase_statistics": {
       "PHASE_1": 25,
@@ -2029,7 +2029,7 @@
       "entities_involved": [
         "PLATFORM_001"
       ],
-      "description": "CRITICAL EVENT: R1M+ monthly revenue \u2192 R0 (100% business shutdown). Central evidence destruction event proving consciousness of guilt. Destruction of audit trails for platform owned, paid, operated by RegimA Zone Ltd (UK) since July 2023 - proves RWD ZA has no independent revenue stream. Orders removed from Shopify following Jacqui's confrontation.",
+      "description": "CRITICAL EVENT: R1M+ monthly revenue → R0 (100% business shutdown). Central evidence destruction event proving consciousness of guilt. Destruction of audit trails for platform owned, paid, operated by RegimA Zone Ltd (UK) since July 2023 - proves RWD ZA has no independent revenue stream. Orders removed from Shopify following Jacqui's confrontation.",
       "financial_impact": "R1,000,000+ monthly",
       "legal_significance": "consciousness_of_guilt_through_evidence_destruction",
       "evidence": [
@@ -4643,7 +4643,7 @@
       "victims": [],
       "location": "South Africa",
       "financial_impact": 0,
-      "significance": "Documents operational structure showing dual personnel control (Kent/EL), system automation (Shopify\u2192Sage), and third-party verification (Courier Guy). Reveals paper trail: Proforma Invoice \u2192 POP \u2192 Tax Invoice.",
+      "significance": "Documents operational structure showing dual personnel control (Kent/EL), system automation (Shopify→Sage), and third-party verification (Courier Guy). Reveals paper trail: Proforma Invoice → POP → Tax Invoice.",
       "evidence": [
         "Powerpoint-howsaleswork.pdf",
         "rynette_organogram_2025-04-12.md"
@@ -4907,6 +4907,227 @@
         "consequence": "Shopify store suspension risk",
         "affected_tenants": "1100+ B2B salons"
       }
+    },
+    {
+      "event_id": "EVT_MAT4719_001",
+      "date": "2025-08-13",
+      "event_type": "legal_filing",
+      "category": "litigation",
+      "description": "Peter Faucitt swears founding affidavit at Bedfordview SAPS for ex parte urgent application (Case 2025-137857). Affidavit contains material non-disclosures regarding FNB SOLE mandate and R500K context.",
+      "entities_involved": [
+        "PERSON_001",
+        "ORG_001",
+        "ORG_002",
+        "ORG_003",
+        "ORG_004"
+      ],
+      "perpetrators": [
+        "PERSON_001"
+      ],
+      "victims": [
+        "PERSON_002",
+        "PERSON_003"
+      ],
+      "location": "Bedfordview SAPS, 60 Van Buuren Rd, Bedfordview",
+      "financial_impact": {
+        "amount": 0,
+        "currency": "ZAR",
+        "description": "Application to seize control of all business finances"
+      },
+      "significance": "critical",
+      "evidence": {
+        "primary": "MAT4719_Founding_Affidavit_pages_10-38",
+        "document": "1.MAT4719-NOMandFoundingAffidavitandAnnexures.pdf",
+        "pages": "10-38"
+      },
+      "timeline_phase": "weaponized_litigation",
+      "related_events": [
+        "EVT_MAT4719_002",
+        "EVT_MAT4719_003"
+      ],
+      "burden_of_proof": {
+        "civil": 0.95,
+        "criminal": 0.9
+      },
+      "refinement_date": "2026-02-09T01:37:55"
+    },
+    {
+      "event_id": "EVT_MAT4719_002",
+      "date": "2025-08-13",
+      "event_type": "legal_filing",
+      "category": "perjury",
+      "description": "Daniel Jacobus Bantjes (SAICA 00105928) swears confirmatory affidavit supporting Peter's application, despite having received Daniel Faucitt's fraud report on 6 June 2025. Commissioner: Hannelle Evert (SAIBA16721).",
+      "entities_involved": [
+        "PERSON_BANTJES",
+        "PERSON_001"
+      ],
+      "perpetrators": [
+        "PERSON_BANTJES"
+      ],
+      "victims": [
+        "PERSON_002",
+        "PERSON_003"
+      ],
+      "location": "Libertas Office Park, Block E, Equestria, Pretoria",
+      "significance": "critical",
+      "evidence": {
+        "primary": "MAT4719_Confirmatory_Affidavit_pages_69-71",
+        "document": "1.MAT4719-NOMandFoundingAffidavitandAnnexures.pdf",
+        "pages": "69-71"
+      },
+      "timeline_phase": "weaponized_litigation",
+      "related_events": [
+        "EVT_MAT4719_001"
+      ],
+      "burden_of_proof": {
+        "civil": 0.95,
+        "criminal": 0.85
+      },
+      "refinement_date": "2026-02-09T01:37:55"
+    },
+    {
+      "event_id": "EVT_MAT4719_003",
+      "date": "2025-08-14",
+      "event_type": "legal_filing",
+      "category": "litigation",
+      "description": "Ex parte application filed electronically via Court Online at 08:16:25 SAST. Notice of Motion (Long Form) with Part A (interim) and Part B (final) relief. Filed by Elliott Attorneys Inc. (Ref: KRE/MM/KF0019).",
+      "entities_involved": [
+        "PERSON_001",
+        "ELLIOTT_ATT"
+      ],
+      "perpetrators": [
+        "PERSON_001"
+      ],
+      "victims": [
+        "PERSON_002",
+        "PERSON_003"
+      ],
+      "location": "High Court of South Africa, Gauteng Division, Pretoria",
+      "significance": "critical",
+      "evidence": {
+        "primary": "MAT4719_NOM_pages_2-9",
+        "document": "1.MAT4719-NOMandFoundingAffidavitandAnnexures.pdf",
+        "pages": "2-9"
+      },
+      "timeline_phase": "weaponized_litigation",
+      "related_events": [
+        "EVT_MAT4719_001"
+      ],
+      "burden_of_proof": {
+        "civil": 1.0,
+        "criminal": 1.0
+      },
+      "refinement_date": "2026-02-09T01:37:55"
+    },
+    {
+      "event_id": "EVT_MAT4719_004",
+      "date": "2025-08-19",
+      "event_type": "court_hearing",
+      "category": "litigation",
+      "description": "Ex parte hearing at 10h00. Court grants interim interdict (Part A) based on Peter's founding affidavit and Bantjes' confirmatory affidavit. Order subsequently subject to void ab initio challenge.",
+      "entities_involved": [
+        "PERSON_001",
+        "PERSON_002",
+        "PERSON_003"
+      ],
+      "perpetrators": [
+        "PERSON_001"
+      ],
+      "victims": [
+        "PERSON_002",
+        "PERSON_003"
+      ],
+      "location": "High Court, Gauteng Division, Pretoria",
+      "significance": "critical",
+      "evidence": {
+        "primary": "MAT4719_NOM_pages_2-9",
+        "document": "1.MAT4719-NOMandFoundingAffidavitandAnnexures.pdf"
+      },
+      "timeline_phase": "weaponized_litigation",
+      "related_events": [
+        "EVT_MAT4719_001",
+        "EVT_MAT4719_002",
+        "EVT_MAT4719_003"
+      ],
+      "burden_of_proof": {
+        "civil": 1.0,
+        "criminal": 0.95
+      },
+      "refinement_date": "2026-02-09T01:37:55"
+    },
+    {
+      "event_id": "EVT_MAT4719_005",
+      "date": "2025-03-31",
+      "event_type": "communication",
+      "category": "evidence",
+      "description": "Gayane Williams emails Daniel Faucitt via Slack requesting login details. Attachment: 'Application Expenses Analysis.xlsx'. CC: Jacqui Faucitt (jax@regima.com). This communication shows legitimate business operations and expense tracking.",
+      "entities_involved": [
+        "PERSON_GAYANE",
+        "PERSON_003",
+        "PERSON_002"
+      ],
+      "significance": "moderate",
+      "evidence": {
+        "primary": "MAT4719_PF7_pages_72-101",
+        "document": "1.MAT4719-NOMandFoundingAffidavitandAnnexures.pdf",
+        "pages": "72"
+      },
+      "timeline_phase": "normal_operations",
+      "burden_of_proof": {
+        "civil": 0.8
+      },
+      "refinement_date": "2026-02-09T01:37:55"
+    },
+    {
+      "event_id": "EVT_MAT4719_006",
+      "date": "2025-04-03",
+      "event_type": "communication",
+      "category": "evidence",
+      "description": "Jacqui Faucitt emails Gayane Williams: 'WE NEED TO STOP PAYING SOME IF THESE WHO REFUSE TO GIVE INVOICES'. This shows Jacqui's active involvement in financial oversight and cost control, contradicting Peter's narrative of misappropriation.",
+      "entities_involved": [
+        "PERSON_002",
+        "PERSON_GAYANE"
+      ],
+      "significance": "high",
+      "evidence": {
+        "primary": "MAT4719_PF7_page_101",
+        "document": "1.MAT4719-NOMandFoundingAffidavitandAnnexures.pdf",
+        "pages": "101"
+      },
+      "timeline_phase": "normal_operations",
+      "burden_of_proof": {
+        "civil": 0.9
+      },
+      "refinement_date": "2026-02-09T01:37:55"
+    },
+    {
+      "event_id": "EVT_MAT4719_007",
+      "date": "2025-07-31",
+      "event_type": "financial",
+      "category": "evidence",
+      "description": "FNB sends SMS to Pete Faucitt: '80% of international limit reached, transactions not allowed over 100% limit.' This evidences the scale of international platform payments and Peter's awareness of the spending.",
+      "entities_involved": [
+        "PERSON_001",
+        "BANK_FNB"
+      ],
+      "significance": "high",
+      "evidence": {
+        "primary": "MAT4719_PF11_page_162",
+        "document": "1.MAT4719-NOMandFoundingAffidavitandAnnexures.pdf",
+        "pages": "162"
+      },
+      "timeline_phase": "pre_litigation",
+      "financial_impact": {
+        "description": "International transaction limit nearly exhausted - indicates massive platform spend",
+        "pf9_total": 6738007,
+        "pf10_total": 2116159.47,
+        "combined_total": 8854166.47,
+        "currency": "ZAR"
+      },
+      "burden_of_proof": {
+        "civil": 0.85
+      },
+      "refinement_date": "2026-02-09T01:37:55"
     }
   ]
 }

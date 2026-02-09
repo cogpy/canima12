@@ -1,13 +1,13 @@
 {
   "metadata": {
-    "version": "39.0_NEW_EVIDENCE_2026_02_05",
+    "version": "40.0_MAT4719_EVIDENCE_2026_02_09",
     "created_date": "2025-11-10",
     "description": "Refined entity model for Revenue Stream Hijacking case 2025-137857",
     "case_number": "2025-137857",
     "modeling_approach": "agentic_entity_modeling",
-    "last_updated": "2026-02-05T17:15:21.860974",
-    "changes": "Added De Novo Business Services, Marisca Meyer, Nadine Van Greunen; Updated Rynette and Peter with fiduciary breach and fraudulent records evidence",
-    "total_entities": 92,
+    "last_updated": "2026-02-09T01:37:55",
+    "changes": "Integrated MAT4719 NOM & Founding Affidavit evidence: Added Elliott Attorneys entity, updated Bantjes confirmatory affidavit details, added FNB international limit evidence, updated financial totals from PF9/PF10 annexures, added Gayane Williams entity from PF7 communications",
+    "total_entities": 103,
     "total_persons": 40,
     "total_organizations": 52
   },
@@ -152,6 +152,20 @@
           "diversion_date": "~22 May 2025",
           "organogram_date": "11 April 2025",
           "premeditation_gap": "40 days"
+        },
+        "mat4719_founding_affidavit": {
+          "sworn_date": "2025-08-13",
+          "location": "Bedfordview SAPS, 60 Van Buuren Rd, Bedfordview",
+          "hearing_date": "2025-08-19",
+          "application_type": "ex_parte_urgent",
+          "rule_invoked": "Rule 6(12)(a)",
+          "address_stated": "20 River Road, Morning Hill, Bedfordview",
+          "evidence_reference": "MAT4719_Founding_Affidavit_pages_10-38",
+          "key_allegations": [
+            "Respondents misappropriating funds",
+            "R500,000 transferred to 2nd respondent after cards taken",
+            "Fear of concealment/destruction of documents"
+          ]
         }
       },
       {
@@ -552,6 +566,17 @@
           "george_group": "CFO",
           "regima_group": "Accountant",
           "fft": "Trustee (unlawfully appointed by Rynette July 2024)"
+        },
+        "mat4719_confirmatory_affidavit": {
+          "sworn_date": "2025-08-13",
+          "location": "Pretoria",
+          "commissioner": "Hannelle Evert, Chartered Business Accountant (SA), SAIBA16721",
+          "commissioner_address": "Libertas Office Park, Block E, Cnr The Highway and Libertas Roads, Equestria 0184",
+          "saica_number": "00105928",
+          "id_number": "581004 5103 089",
+          "role_in_application": "Confirmatory deponent - confirmed Peter's allegations",
+          "evidence_reference": "MAT4719_Confirmatory_Affidavit_pages_69-71",
+          "void_ab_initio_relevance": "Received Daniel's fraud report on 6 June 2025; certified false affidavit on 13 August 2025"
         }
       },
       {
@@ -1359,7 +1384,7 @@
       },
       {
         "entity_id": "PERSON_32",
-        "name": "Chan\u00e9 Auriele Todd",
+        "name": "Chané Auriele Todd",
         "id_number": "8909280264080",
         "date_of_birth": "1989-09-28",
         "role": "Distributor",
@@ -1594,7 +1619,18 @@
           "key_evidence": []
         },
         "timeline_events": [],
-        "refinement_date": "2026-01-28T05:45:17.386844"
+        "refinement_date": "2026-01-28T05:45:17.386844",
+        "mat4719_confirmatory_affidavit": {
+          "sworn_date": "2025-08-13",
+          "location": "Pretoria",
+          "commissioner": "Hannelle Evert, Chartered Business Accountant (SA), SAIBA16721",
+          "commissioner_address": "Libertas Office Park, Block E, Cnr The Highway and Libertas Roads, Equestria 0184",
+          "saica_number": "00105928",
+          "id_number": "581004 5103 089",
+          "role_in_application": "Confirmatory deponent - confirmed Peter's allegations",
+          "evidence_reference": "MAT4719_Confirmatory_Affidavit_pages_69-71",
+          "void_ab_initio_relevance": "Received Daniel's fraud report on 6 June 2025; certified false affidavit on 13 August 2025"
+        }
       },
       {
         "entity_id": "PERSON_037",
@@ -1723,6 +1759,26 @@
         ],
         "created_date": "2026-02-05",
         "source": "New evidence package Feb 2026"
+      },
+      {
+        "entity_id": "PERSON_041",
+        "name": "Gayane Williams",
+        "aliases": [
+          "Gee"
+        ],
+        "role": "employee_bookkeeper",
+        "agent_type": "witness",
+        "involvement_events": 2,
+        "evidence_references": [
+          "MAT4719_PF7_pages_72-101"
+        ],
+        "communications": {
+          "email_to_daniel": "31 March 2025 - Details needed to Log In",
+          "attachment": "Application Expenses Analysis.xlsx",
+          "cc": "jax@regima.com (Jacqui Faucitt)"
+        },
+        "added_date": "2026-02-09T01:37:55",
+        "source": "MAT4719 Annexure PF7"
       }
     ],
     "organizations": [
@@ -2840,7 +2896,7 @@
         "registered_address": "37 Sandpiper Street, Ebotse Golf Estate, Benoni, 1514",
         "directors": [
           {
-            "name": "Chan\u00e9 Auriele Todd",
+            "name": "Chané Auriele Todd",
             "status": "ACTIVE"
           },
           {
@@ -3246,6 +3302,26 @@
         ],
         "created_date": "2026-02-05",
         "source": "New evidence package Feb 2026"
+      },
+      {
+        "entity_id": "ORG_053",
+        "name": "Elliott Attorneys Inc.",
+        "abbreviation": "Elliott Att",
+        "entity_type": "law_firm",
+        "agent_type": "legal_representative_applicant",
+        "registration_details": {
+          "address": "Office 12, Garsfontein Office Park, 645 Jacqueline Drive, Garsfontein, Pretoria",
+          "telephone": "012 012 5067",
+          "email": "keegan@elliottattorneys.co.za",
+          "reference": "KRE/MM/KF0019"
+        },
+        "role": "attorney_for_applicant_peter_faucitt",
+        "evidence_references": [
+          "MAT4719_NOM_pages_2-9"
+        ],
+        "case_involvement": "Filed ex parte application on behalf of Peter Faucitt",
+        "added_date": "2026-02-09T01:37:55",
+        "source": "MAT4719 Notice of Motion"
       }
     ],
     "platforms": [
@@ -3503,6 +3579,30 @@
         ],
         "evidence_enhanced": "2025-12-31T05:34:39.187421",
         "evidence_strength": "moderate"
+      },
+      {
+        "entity_id": "BANK_CC_001",
+        "account_number": "4910505191",
+        "account_type": "credit_card",
+        "bank_name": "FNB",
+        "entity_type": "bank_account",
+        "agent_type": "financial_instrument",
+        "role": "business_credit_card_for_platform_expenses",
+        "transaction_period": "January 2024 - February 2025",
+        "evidence_reference": "MAT4719_PF9_pages_102-137",
+        "added_date": "2026-02-09T01:37:55"
+      },
+      {
+        "entity_id": "BANK_CC_002",
+        "account_number": "4910505225",
+        "account_type": "credit_card",
+        "bank_name": "FNB",
+        "entity_type": "bank_account",
+        "agent_type": "financial_instrument",
+        "role": "business_credit_card_for_platform_expenses",
+        "transaction_period": "January 2024 - February 2025",
+        "evidence_reference": "MAT4719_PF9_pages_102-137",
+        "added_date": "2026-02-09T01:37:55"
       }
     ]
   }
