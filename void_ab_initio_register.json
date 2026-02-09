@@ -1,0 +1,368 @@
+{
+  "case_id": "2025-137857",
+  "case_title": "Faucitt v Faucitt — Ex Parte Interdict Void Ab Initio Analysis",
+  "jurisdiction": "ZA",
+  "generated_date": "2026-02-09T00:00:00Z",
+  "agents": [
+    {
+      "agent_id": "APPLICANT",
+      "name": "Peter Andrew Faucitt",
+      "role": "Applicant in ex parte application / Primary Perpetrator / Finance Director",
+      "id_number": "PERSON_001",
+      "alternative_explanation": "Claims Daniel was extracting funds without authorization and that urgent relief was needed to protect company assets."
+    },
+    {
+      "agent_id": "SUPPORTING_AFFIANT",
+      "name": "Daniel Jacobus Bantjies",
+      "role": "External Accountant / Commissioner of Oaths for founding affidavit / Unlawfully appointed FFT Trustee",
+      "id_number": "PERSON_007",
+      "alternative_explanation": "Claims to have acted in professional capacity as accountant and commissioner of oaths."
+    },
+    {
+      "agent_id": "CO_CONSPIRATOR",
+      "name": "Rynette Farrar",
+      "role": "Internal Bookkeeper / Co-conspirator / Controller of accounting systems and Peter's email",
+      "id_number": "PERSON_002",
+      "alternative_explanation": "Claims to have acted as bookkeeper following Peter's instructions."
+    },
+    {
+      "agent_id": "VICTIM_DANIEL",
+      "name": "Daniel James Faucitt",
+      "role": "Second Respondent / Victim / Director with SOLE authority / CEO of RegimA SA",
+      "id_number": "PERSON_005",
+      "alternative_explanation": ""
+    },
+    {
+      "agent_id": "VICTIM_JACQUELINE",
+      "name": "Jacqueline Faucitt",
+      "role": "First Respondent / Victim / Director with SOLE authority",
+      "id_number": "PERSON_004",
+      "alternative_explanation": ""
+    },
+    {
+      "agent_id": "ADDERORY",
+      "name": "Adderory (Rynette's Son)",
+      "role": "Co-conspirator / Registered competing business and fraudulent domain",
+      "id_number": "PERSON_003",
+      "alternative_explanation": ""
+    },
+    {
+      "agent_id": "ELLIOTT_ATTORNEYS",
+      "name": "Elliott Attorneys",
+      "role": "Legal representatives who filed the ex parte application",
+      "id_number": "",
+      "alternative_explanation": "May claim reliance on client instructions."
+    },
+    {
+      "agent_id": "ENS_AFRICA",
+      "name": "ENS Africa",
+      "role": "Legal firm that acknowledged criminal matters then suppressed them",
+      "id_number": "",
+      "alternative_explanation": "May claim legal privilege or strategic litigation decisions."
+    }
+  ],
+  "material_facts": [
+    {
+      "fact_id": "FACT_LEGAL_IMPOSSIBILITY",
+      "description": "The core premise of the interdict — that Daniel made 'unauthorized' transactions — was legally impossible under the SOLE authority banking mandate",
+      "category": "fraud",
+      "significance": "The FNB FICA/KYC mandate dated 1 June 2021 grants all three directors 'Administrator with Sole General Powers'. Under SOLE authority, each director IS the full authorization. The concept of an 'unauthorized' transaction by a sole administrator does not exist. Peter's entire application was based on a legal impossibility.",
+      "related_facts": ["FACT_PERJURY_FOREKNOWLEDGE"]
+    },
+    {
+      "fact_id": "FACT_PERJURY_FOREKNOWLEDGE",
+      "description": "Peter had provable foreknowledge that his sworn statements about Daniel's 'unauthorized' transactions were false — FNB Legal confirmed SOLE authority 2 months before the affidavit",
+      "category": "obstruction",
+      "significance": "On 18 June 2025, FNB Legal Department explicitly told Peter: 'The current mandate states that any of the directors of the company may act independently of each other.' Peter then swore under oath on 13 August 2025 that Daniel's transactions were 'unauthorized' — a statement he KNEW to be false.",
+      "related_facts": ["FACT_LEGAL_IMPOSSIBILITY", "FACT_MATERIAL_NONDISCLOSURE"]
+    },
+    {
+      "fact_id": "FACT_MATERIAL_NONDISCLOSURE",
+      "description": "Peter failed to disclose critical, outcome-determinative facts to the court in his ex parte application",
+      "category": "fraud",
+      "significance": "In an ex parte application, the applicant has a duty of uberrima fides. Peter concealed: (1) the SOLE authority banking mandate, (2) FNB Legal's confirmation of Daniel's authority, (3) that he secretly cancelled Daniel's cards on 7 June 2025, (4) that the R500K was a reimbursement not a 'birthday gift', (5) the RegimA SA revenue diversion to ABSA, (6) Daniel's fraud reports to Bantjies on 6 June 2025.",
+      "related_facts": ["FACT_PERJURY_FOREKNOWLEDGE", "FACT_DIRECT_ADMISSION_CONCEALMENT"]
+    },
+    {
+      "fact_id": "FACT_SUPPORTING_AFFIDAVIT_PERJURY",
+      "description": "Bantjies had provable foreknowledge that Peter's affidavit contained false statements — he received Daniel's fraud reports weeks before certifying the affidavit",
+      "category": "obstruction",
+      "significance": "On 6 June 2025, Daniel sent comprehensive fraud reports to Bantjies. On 10 June 2025, Bantjies was informed of criminal matters including Kayla's murder and R1.8M+ owed to ReZonance. Despite this knowledge, on 13 August 2025, Bantjies certified Peter's affidavit as Commissioner of Oaths — an affidavit that concealed all of these facts. Bantjies also had a massive conflict of interest as unlawfully appointed FFT Trustee with Ketoni's R18.75M debt.",
+      "related_facts": ["FACT_PERJURY_FOREKNOWLEDGE", "FACT_MATERIAL_NONDISCLOSURE"]
+    },
+    {
+      "fact_id": "FACT_DIRECT_ADMISSION_CONCEALMENT",
+      "description": "Peter admits in his affidavit that he cancelled Daniel's company cards but conceals that he did so secretly, without authority, and as retaliation for Daniel exposing fraud",
+      "category": "fraud",
+      "significance": "Peter's founding affidavit admits to cancelling Daniel's cards. But he conceals: (1) it was done secretly on 7 June 2025, one day after Daniel exposed fraud to Bantjies, (2) it was done without authority under the SOLE mandate, (3) it forced Daniel to spend R520,000+ of personal savings on business expenses, (4) the R500K 'birthday gift' was actually a partial reimbursement for these forced personal expenditures. Peter manufactured the crisis, then framed the inevitable outcome as a crime.",
+      "related_facts": ["FACT_MATERIAL_NONDISCLOSURE", "FACT_PERJURY_FOREKNOWLEDGE"]
+    },
+    {
+      "fact_id": "FACT_FABRICATION_OF_EVIDENCE",
+      "description": "Perpetrators created fraudulent financial statements for RegimaSA for 2019 — a period when the company had zero revenue and minimal activity — prepared 6+ years after period end",
+      "category": "fraud",
+      "significance": "RegimaSA 2019 financial statements were prepared and issued by Marisca Meyer on 25 June 2025, more than 6 years after the period end. The company had zero revenue and only R1,589 loss in that period. Creating retrospective financial statements for a dormant entity years later, timed to coincide with the fraud scheme, constitutes fabrication of evidence.",
+      "related_facts": ["FACT_PERJURY_FOREKNOWLEDGE"]
+    },
+    {
+      "fact_id": "FACT_WEAPONIZED_LITIGATION",
+      "description": "The ex parte interdict was used as an instrument of fraud — filed 48 hours after a settlement agreement, in family court instead of commercial court, to seize control of company accounts and extract R10.6M+",
+      "category": "obstruction",
+      "significance": "The interdict was filed on 13 August 2025, just 48 hours after a settlement agreement was signed on 11 August 2025. It was filed in family court (not commercial court) — forum shopping. Within days of obtaining the order, Peter extracted R10,624,131.18 from company accounts (3-11 September 2025). Daniel's alleged R500K 'extraction' was used to justify Peter's actual R10.6M extraction. The court was used as a weapon to steal.",
+      "related_facts": ["FACT_PERJURY_FOREKNOWLEDGE", "FACT_SETTLEMENT_DURESS"]
+    },
+    {
+      "fact_id": "FACT_SETTLEMENT_DURESS",
+      "description": "Settlement agreements were signed under duress and then weaponized by filing the interdict 48 hours later",
+      "category": "obstruction",
+      "significance": "The settlement agreement signed on 11 August 2025 was used as a strategic tool. The interdict was filed just 48 hours later, demonstrating that the settlement was not entered in good faith but as part of a coordinated plan to create leverage and seize control. The Main Trustee power was backdated in the settlement, occurring T-9 months before the Ketoni R18.75M payout.",
+      "related_facts": ["FACT_WEAPONIZED_LITIGATION"]
+    },
+    {
+      "fact_id": "FACT_RSA_MANDATE_FRAUD",
+      "description": "RegimA SA operates under 'ANY TWO TOGETHER' mandate — the March 2025 ABSA revenue diversion was done without Daniel's required consent, constituting forgery or perjury",
+      "category": "fraud",
+      "significance": "Unlike the SOLE authority entities, RegimA SA requires two signatures. Daniel's consent was legally required for any transaction. The March 2025 diversion to ABSA was done without Daniel's knowledge. Either Rynette forged Peter's authorization (proving forgery and identity fraud) or Peter participated (contradicting his claim of digital incompetence and proving perjury). Either way, crimes were committed.",
+      "related_facts": ["FACT_LEGAL_IMPOSSIBILITY", "FACT_DIRECT_ADMISSION_CONCEALMENT"]
+    },
+    {
+      "fact_id": "FACT_OVERSIGHT_CHAIN_CONSPIRACY",
+      "description": "All four layers of financial oversight (Peter, Rynette, Bantjies, Anton Hechter) had conflicts of interest and systematically failed to investigate the fraud Daniel exposed",
+      "category": "conspiracy",
+      "significance": "The oversight chain was not functioning independently. Rynette controlled the books and had direct contact with SARS official Anton Hechter. Bantjies was the external accountant AND unlawfully appointed FFT Trustee with R18.75M Ketoni conflict. Peter was the beneficiary. When Daniel exposed fraud on 6 June 2025, the response was not investigation but retaliation (card cancellation on 7 June).",
+      "related_facts": ["FACT_SUPPORTING_AFFIDAVIT_PERJURY", "FACT_MATERIAL_NONDISCLOSURE"]
+    }
+  ],
+  "knowledge_events": [
+    {
+      "event_id": "KE_APPLICANT_001",
+      "agent_id": "APPLICANT",
+      "fact_id": "FACT_LEGAL_IMPOSSIBILITY",
+      "timestamp": "2021-06-01T00:00:00Z",
+      "acquisition_type": "documentary_proof",
+      "evidence_refs": ["evidence/bank_records/SLG_FNB_FICA_MANDATE_2021.pdf"],
+      "description": "Peter Faucitt signed the FNB FICA/KYC mandate dated 1 June 2021, which explicitly grants all three directors 'Administrator with Sole General Powers'. By signing this document, Peter had direct knowledge that each director could act independently and unilaterally. His later claim that Daniel's transactions were 'unauthorized' was therefore knowingly false.",
+      "confidence": "proven"
+    },
+    {
+      "event_id": "KE_APPLICANT_002",
+      "agent_id": "APPLICANT",
+      "fact_id": "FACT_PERJURY_FOREKNOWLEDGE",
+      "timestamp": "2025-06-18T00:00:00Z",
+      "acquisition_type": "email_correspondence",
+      "evidence_refs": ["evidence/emails/FNB_LEGAL_RESPONSE_18_JUNE_2025.jpg"],
+      "description": "On 18 June 2025, FNB's Business Relationship Manager conveyed the legal department's finding: 'The current mandate states that any of the directors of the company may act independently of each other.' Peter was explicitly told his objection was baseless. He then swore the opposite under oath on 13 August 2025 — 56 days later.",
+      "confidence": "proven"
+    },
+    {
+      "event_id": "KE_APPLICANT_003",
+      "agent_id": "APPLICANT",
+      "fact_id": "FACT_DIRECT_ADMISSION_CONCEALMENT",
+      "timestamp": "2025-06-07T00:00:00Z",
+      "acquisition_type": "direct_admission",
+      "evidence_refs": ["evidence/interdicts/1.MAT4719-NOMandFoundingAffidavitandAnnexures.pdf"],
+      "description": "Peter admits in his founding affidavit that he cancelled Daniel's company cards. But he conceals the critical context: (1) it was done secretly on 7 June 2025, exactly one day after Daniel exposed fraud to Bantjies on 6 June; (2) it was done without authority under the SOLE mandate; (3) it forced Daniel to drain R520,000 of personal savings to cover business expenses; (4) the subsequent R500K transfer was a partial reimbursement, not a 'birthday gift'.",
+      "confidence": "proven"
+    },
+    {
+      "event_id": "KE_APPLICANT_004",
+      "agent_id": "APPLICANT",
+      "fact_id": "FACT_MATERIAL_NONDISCLOSURE",
+      "timestamp": "2025-08-13T00:00:00Z",
+      "acquisition_type": "documentary_proof",
+      "evidence_refs": ["evidence/interdicts/1.MAT4719-NOMandFoundingAffidavitandAnnexures.pdf", "evidence/emails/FNB_LEGAL_RESPONSE_18_JUNE_2025.jpg", "evidence/bank_records/SLG_FNB_FICA_MANDATE_2021.pdf"],
+      "description": "On 13 August 2025, Peter filed his founding affidavit concealing: (1) the SOLE authority banking mandate he himself signed; (2) FNB Legal's 18 June confirmation of Daniel's authority; (3) that he secretly cancelled Daniel's cards on 7 June as retaliation for fraud exposure; (4) that the R500K was a reimbursement for R520K+ in forced personal expenditures; (5) the March 2025 RegimA SA ABSA revenue diversion; (6) Daniel's comprehensive fraud reports to Bantjies on 6 June 2025.",
+      "confidence": "proven"
+    },
+    {
+      "event_id": "KE_APPLICANT_005",
+      "agent_id": "APPLICANT",
+      "fact_id": "FACT_WEAPONIZED_LITIGATION",
+      "timestamp": "2025-08-13T00:00:00Z",
+      "acquisition_type": "documentary_proof",
+      "evidence_refs": ["evidence/interdicts/1.MAT4719-NOMandFoundingAffidavitandAnnexures.pdf"],
+      "description": "Peter filed the ex parte interdict on 13 August 2025, exactly 48 hours after the settlement agreement was signed on 11 August 2025. He filed in family court instead of commercial court (forum shopping). The interdict was then used to extract R10,624,131.18 from company accounts between 3-11 September 2025. Daniel's alleged R500K 'extraction' was used to justify Peter's actual R10.6M extraction in 8 days.",
+      "confidence": "proven"
+    },
+    {
+      "event_id": "KE_APPLICANT_006",
+      "agent_id": "APPLICANT",
+      "fact_id": "FACT_SETTLEMENT_DURESS",
+      "timestamp": "2025-08-11T00:00:00Z",
+      "acquisition_type": "documentary_proof",
+      "evidence_refs": ["docs/filings/ANSWERING_AFFIDAVIT_V8_ENHANCED.md"],
+      "description": "Settlement agreement signed on 11 August 2025 with Main Trustee power backdated, occurring T-9 months before the Ketoni R18.75M payout. The interdict was filed just 48 hours later, demonstrating the settlement was a strategic tool, not a good faith agreement.",
+      "confidence": "proven"
+    },
+    {
+      "event_id": "KE_APPLICANT_007",
+      "agent_id": "APPLICANT",
+      "fact_id": "FACT_RSA_MANDATE_FRAUD",
+      "timestamp": "2025-03-01T00:00:00Z",
+      "acquisition_type": "documentary_proof",
+      "evidence_refs": ["evidence/rsa_documents/FNB-RSA-210317-Changeofname.pdf"],
+      "description": "Peter knew RegimA SA operated under 'ANY TWO TOGETHER' mandate requiring both his and Daniel's signatures. The March 2025 ABSA revenue diversion was done without Daniel's consent. Either Peter participated (contradicting his digital incompetence claim) or Rynette forged his authorization. Peter concealed this unauthorized diversion from the court while simultaneously claiming Daniel was the one making unauthorized transactions.",
+      "confidence": "proven"
+    },
+    {
+      "event_id": "KE_APPLICANT_008",
+      "agent_id": "APPLICANT",
+      "fact_id": "FACT_OVERSIGHT_CHAIN_CONSPIRACY",
+      "timestamp": "2025-03-28T00:00:00Z",
+      "acquisition_type": "documentary_proof",
+      "evidence_refs": ["M-REF/05_OVERSIGHT_CHAIN_CONSPIRACY.md"],
+      "description": "On 28 March 2025, Peter requested to become the SARS Registered Representative for Tax No. 9746755165, demonstrating premeditated intent to seize control of the company's tax affairs months before the interdict. This was part of a coordinated control consolidation with Rynette and Bantjies.",
+      "confidence": "proven"
+    },
+    {
+      "event_id": "KE_SUPPORTING_001",
+      "agent_id": "SUPPORTING_AFFIANT",
+      "fact_id": "FACT_SUPPORTING_AFFIDAVIT_PERJURY",
+      "timestamp": "2025-06-06T00:00:00Z",
+      "acquisition_type": "email_correspondence",
+      "evidence_refs": ["M-REF/04_FINANCIAL_SABOTAGE_TIMELINE.md", "docs/evidence/daniel_fraud_reports_to_bantjies.pdf"],
+      "description": "On 6 June 2025, Daniel sent comprehensive fraud reports to Bantjies, including documentation of financial anomalies across all RegimA entities. On 10 June 2025, Bantjies was further informed of criminal matters including Kayla's murder and R1.8M+ owed to ReZonance. Despite receiving this information, Bantjies dismissed the audit request on 10 June and later certified Peter's affidavit on 13 August 2025 as Commissioner of Oaths — an affidavit that concealed all of these facts.",
+      "confidence": "proven"
+    },
+    {
+      "event_id": "KE_SUPPORTING_002",
+      "agent_id": "SUPPORTING_AFFIANT",
+      "fact_id": "FACT_MATERIAL_NONDISCLOSURE",
+      "timestamp": "2025-06-10T00:00:00Z",
+      "acquisition_type": "email_correspondence",
+      "evidence_refs": ["M-REF/05_OVERSIGHT_CHAIN_CONSPIRACY.md"],
+      "description": "On 10 June 2025, Bantjies dismissed Daniel's audit request just 4 days after receiving the fraud reports. An audit would have discovered the R5.4M stock adjustment fraud and systematic inter-company manipulation. Bantjies' email on the same date confirmed a R10M bank balance decline year-on-year — the first-ever substantial trading loss in RegimA Group history. He had full knowledge of the financial deterioration but chose to suppress it.",
+      "confidence": "proven"
+    },
+    {
+      "event_id": "KE_SUPPORTING_003",
+      "agent_id": "SUPPORTING_AFFIANT",
+      "fact_id": "FACT_OVERSIGHT_CHAIN_CONSPIRACY",
+      "timestamp": "2024-07-01T00:00:00Z",
+      "acquisition_type": "documentary_proof",
+      "evidence_refs": ["MR/Events.md"],
+      "description": "Bantjies was unlawfully appointed as FFT Trustee by Rynette in July 2024, T-10 months before the Ketoni R18.75M payout. As CFO of George Group (whose CEO Kevin Derrick is also Ketoni Director), Bantjies had a massive undisclosed conflict of interest. He was simultaneously the external accountant reviewing the books, the Commissioner of Oaths certifying Peter's affidavit, and a Trustee of the trust that stood to receive R18.75M.",
+      "confidence": "proven"
+    },
+    {
+      "event_id": "KE_SUPPORTING_004",
+      "agent_id": "SUPPORTING_AFFIANT",
+      "fact_id": "FACT_LEGAL_IMPOSSIBILITY",
+      "timestamp": "2020-08-13T00:00:00Z",
+      "acquisition_type": "documentary_proof",
+      "evidence_refs": ["evidence/bank_records/SLG_FNB_FICA_MANDATE_2021.pdf"],
+      "description": "As the external accountant who prepared tax submissions and reviewed the books for all RegimA entities, Bantjies had knowledge of the banking mandates and the SOLE authority structure. He knew that the concept of 'unauthorized' transactions by a sole administrator was legally impossible, yet he certified Peter's affidavit containing this false claim.",
+      "confidence": "probable"
+    },
+    {
+      "event_id": "KE_CO_CONSPIRATOR_001",
+      "agent_id": "CO_CONSPIRATOR",
+      "fact_id": "FACT_RSA_MANDATE_FRAUD",
+      "timestamp": "2025-03-01T00:00:00Z",
+      "acquisition_type": "active_participation",
+      "evidence_refs": ["M-REF/06_REGIMA_SA_MANDATE_AND_IMPERSONATION_FRAUD.md"],
+      "description": "Rynette executed the March 2025 RegimA SA revenue diversion to an ABSA account she controlled, without Daniel's required consent under the 'ANY TWO TOGETHER' mandate. She is not an authorized signatory on the RSA mandate. She either forged Peter's authorization or Peter participated (contradicting his digital incompetence claim). Either way, Rynette committed forgery, identity fraud, and unauthorized mandate changes.",
+      "confidence": "proven"
+    },
+    {
+      "event_id": "KE_CO_CONSPIRATOR_002",
+      "agent_id": "CO_CONSPIRATOR",
+      "fact_id": "FACT_DIRECT_ADMISSION_CONCEALMENT",
+      "timestamp": "2025-06-07T00:00:00Z",
+      "acquisition_type": "active_participation",
+      "evidence_refs": ["M-REF/04_FINANCIAL_SABOTAGE_TIMELINE.md"],
+      "description": "Rynette was the operational executor of the card cancellation scheme. She controlled the Sage accounting system and Pete@regima.com email. The secret card cancellation on 7 June 2025 — one day after Daniel exposed fraud — was executed through systems Rynette controlled. She then continued to control the accounting system, letting the Sage subscription expire to obstruct access.",
+      "confidence": "proven"
+    },
+    {
+      "event_id": "KE_CO_CONSPIRATOR_003",
+      "agent_id": "CO_CONSPIRATOR",
+      "fact_id": "FACT_FABRICATION_OF_EVIDENCE",
+      "timestamp": "2025-05-29T00:00:00Z",
+      "acquisition_type": "active_participation",
+      "evidence_refs": ["MR/Events.md"],
+      "description": "Rynette's son (Adderory) registered the fraudulent domain regimaskin.co.za on 29 May 2025, following the Shopify shutdown. Rynette orchestrated the customer hijacking scheme, instructing staff to redirect customers from the legitimate regima.zone domain to the fraudulent regimaskin.co.za domain controlled by her son's company. This was a coordinated family conspiracy to steal the business.",
+      "confidence": "proven"
+    },
+    {
+      "event_id": "KE_CO_CONSPIRATOR_004",
+      "agent_id": "CO_CONSPIRATOR",
+      "fact_id": "FACT_OVERSIGHT_CHAIN_CONSPIRACY",
+      "timestamp": "2025-06-05T00:00:00Z",
+      "acquisition_type": "email_correspondence",
+      "evidence_refs": ["M-REF/05_OVERSIGHT_CHAIN_CONSPIRACY.md"],
+      "description": "On 5 June 2025, Rynette emailed Bantjies about a SARS query, CC'ing Anton Hechter (SARS official), stating 'I just had a chat with Anton, as he said that we didn't respond to a SARS query, and that the period is now closed.' This reveals an unusually close relationship with a SARS official and suggests insider management of SARS queries. This was one day before Daniel exposed the fraud.",
+      "confidence": "proven"
+    },
+    {
+      "event_id": "KE_CO_CONSPIRATOR_005",
+      "agent_id": "CO_CONSPIRATOR",
+      "fact_id": "FACT_WEAPONIZED_LITIGATION",
+      "timestamp": "2025-04-14T00:00:00Z",
+      "acquisition_type": "documentary_proof",
+      "evidence_refs": ["MR/Events.md"],
+      "description": "Rynette sent the bank account change letter on 14 April 2025 to divert RegimA Worldwide funds — part of the R3.14M+ revenue theft scheme. She controlled the payment redirection infrastructure, the email impersonation pattern, and the domain switch instruction. The entire revenue hijacking scheme was operationally executed by Rynette.",
+      "confidence": "proven"
+    },
+    {
+      "event_id": "KE_ENS_001",
+      "agent_id": "ENS_AFRICA",
+      "fact_id": "FACT_MATERIAL_NONDISCLOSURE",
+      "timestamp": "2025-08-29T00:00:00Z",
+      "acquisition_type": "email_correspondence",
+      "evidence_refs": ["MR/Events.md"],
+      "description": "On 29 August 2025, ENS Africa acknowledged receipt of criminal matters information from Daniel with 'Received, thanks Daniel' email, then suppressed this information from Court. As officers of the court, they had a duty to disclose material information, particularly criminal allegations, to the presiding judge.",
+      "confidence": "proven"
+    },
+    {
+      "event_id": "KE_ADDERORY_001",
+      "agent_id": "ADDERORY",
+      "fact_id": "FACT_FABRICATION_OF_EVIDENCE",
+      "timestamp": "2021-04-01T00:00:00Z",
+      "acquisition_type": "documentary_proof",
+      "evidence_refs": ["MR/Events.md"],
+      "description": "Rynette's son registered Adderory (Pty) Ltd and Adderory Skin (Pty) Ltd in April 2021, establishing competing business infrastructure 4 years before the fraud escalation. The same stock type that 'disappeared' from Strategic Logistics (R5.4M) was later supplied by Adderory to RegimA — demonstrating long-term conspiracy planning.",
+      "confidence": "proven"
+    },
+    {
+      "event_id": "KE_ADDERORY_002",
+      "agent_id": "ADDERORY",
+      "fact_id": "FACT_WEAPONIZED_LITIGATION",
+      "timestamp": "2025-05-29T00:00:00Z",
+      "acquisition_type": "documentary_proof",
+      "evidence_refs": ["MR/Events.md"],
+      "description": "Adderory registered the fraudulent domain regimaskin.co.za on 29 May 2025, immediately following the Shopify shutdown. This was the customer hijacking platform — a new domain registered to impersonate the legitimate business on Daniel's UK-funded platform. The timing proves coordination with the broader fraud scheme.",
+      "confidence": "proven"
+    },
+    {
+      "event_id": "KE_APPLICANT_009",
+      "agent_id": "APPLICANT",
+      "fact_id": "FACT_FABRICATION_OF_EVIDENCE",
+      "timestamp": "2025-06-25T00:00:00Z",
+      "acquisition_type": "documentary_proof",
+      "evidence_refs": ["MR/Events.md"],
+      "description": "RegimaSA 2019 financial statements were prepared and issued by Marisca Meyer on 25 June 2025, more than 6 years after the period end. Peter signed these as director for a period when the company had zero revenue and R1,589 loss. Creating retrospective financial statements for a dormant entity years later, timed to coincide with the fraud scheme, constitutes fabrication of evidence.",
+      "confidence": "proven"
+    },
+    {
+      "event_id": "KE_APPLICANT_010",
+      "agent_id": "APPLICANT",
+      "fact_id": "FACT_PERJURY_FOREKNOWLEDGE",
+      "timestamp": "2025-06-17T00:00:00Z",
+      "acquisition_type": "email_correspondence",
+      "evidence_refs": ["M-REF/04_FINANCIAL_SABOTAGE_TIMELINE.md"],
+      "description": "On 17 June 2025, Peter wrote to FNB (Nondu Motlhala) demanding that replacement cards NOT be issued to Daniel, citing 'suspected fraud' and threatening to hold FNB liable. This proves Peter was actively trying to maintain the financial sabotage. FNB's legal department responded the next day confirming Daniel's SOLE authority, proving Peter's demand was baseless.",
+      "confidence": "proven"
+    },
+    {
+      "event_id": "KE_APPLICANT_011",
+      "agent_id": "APPLICANT",
+      "fact_id": "FACT_OVERSIGHT_CHAIN_CONSPIRACY",
+      "timestamp": "2025-09-11T00:00:00Z",
+      "acquisition_type": "documentary_proof",
+      "evidence_refs": ["M-REF/04_FINANCIAL_SABOTAGE_TIMELINE.md"],
+      "description": "Between 3-11 September 2025, Peter used the fraudulently obtained interdict to extract R10,624,131.18 from company accounts: RWD R5,164,131.18 (3 Sep), RST R3,090,000 (11 Sep), VVA R1,730,000 (11 Sep), SLG R640,000 (11 Sep). All operational accounts were drained to near-zero. This was the real purpose of the interdict — not protection, but theft.",
+      "confidence": "proven"
+    }
+  ]
+}

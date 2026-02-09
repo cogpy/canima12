@@ -12,27 +12,52 @@ This site provides comprehensive evidence, analysis, and legal documentation for
 
 The ex parte interdict granted on 19 August 2025 is **void ab initio** (void from the beginning). It was obtained through calculated perjury, material non-disclosure, and fraud on the court. All actions flowing from it, including the contempt application against Jacqueline Faucitt, are without legal foundation.
 
-> **"Fraud unravels all"** — The interdict was not a tool for justice. It was a weapon forged through perjury to seize control of company assets and persecute legitimate business owners.
+> **"Fraud unravels all"** (*fraus omnia corrumpit*) — The interdict was not a tool for justice. It was a weapon forged through perjury to seize control of company assets and persecute legitimate business owners.
 
-### The Seven Pillars & Patterns of Invalidity
+### Agent Foreknowledge Classification (Void Ab Initio Register)
+
+| Agent | Role | Tier | Classification | Proven Events |
+|---|---|---|---|---|
+| **Peter Andrew Faucitt** | Applicant / Primary Perpetrator | **A** | Premeditated Conspirator | 11 |
+| **Daniel Jacobus Bantjies** | Accountant / Commissioner of Oaths | **A** | Premeditated Conspirator | 4 |
+| **Rynette Farrar** | Bookkeeper / Co-conspirator | **A** | Premeditated Conspirator | 5 |
+| **Adderory (Rynette's Son)** | Competing Business Registrant | **B** | Active Participant with Proven Knowledge | 2 |
+| **ENS Africa** | Legal Firm | **B** | Active Participant with Proven Knowledge | 1 |
+
+### The Eight Pillars & Patterns of Invalidity
 
 | # | Pillar / Pattern | Evidence | Proof |
 |---|---|---|---|
 | 1 | **Legal Impossibility** | FNB mandates appoint all directors as "Administrator with **SOLE** General Powers." | FNB FICA/KYC Mandate |
 | 2 | **Perjury with Foreknowledge** | FNB Legal confirmed SOLE authority on 18 June 2025; Peter swore the opposite 2 months later. | FNB Legal Letter |
 | 3 | **Material Non-Disclosure** | Peter concealed the SOLE mandate, FNB letter, card sabotage, and R500K reimbursement context. | Application to Set Aside |
-| 4 | **Supporting Affidavit Fraud** | Bantjies received Daniel's fraud report on 6 June 2025, yet signed a false affidavit on 1 August 2025. | Perjury Reminder emails |
+| 4 | **Supporting Affidavit Fraud** | Bantjies received Daniel's fraud report on 6 June 2025, yet certified a false affidavit on 13 August 2025. | Perjury Reminder emails |
 | 5 | **Direct Admission w/ Concealment** | Peter admits cancelling Daniel's cards but conceals he did so secretly and without authority. | Peter's own affidavit |
 | 6 | **Fabrication of Evidence** | Fake 2019 accounts for a company name created in 2021; Peter signed as director for a year he wasn't appointed. | Rynette-De Novo emails |
 | 7 | **Weaponized Litigation** | Jacqui sued for "harassment" for trying to warn De Novo about the fake accounts; settlement clauses used to silence witnesses. | 3rd Urgent Application |
+| 8 | **RSA Mandate Fraud** | RegimA SA "ANY TWO TOGETHER" mandate — ABSA diversion without Daniel's required consent = forgery or perjury. | FNB RSA Mandate |
 
 ### The Contempt Application: Weaponizing a Void Order
 
 On 4 February 2026, Peter Faucitt filed a Contempt of Court Application seeking **6 months imprisonment** for Jacqueline Faucitt. This is not a legitimate legal action. It is the use of a fraudulent, void court order to imprison a victim of the fraud.
 
-**[→ Read Full Void Ab Initio Reassessment](./filings/VOID_AB_INITIO_REASSESSMENT_2026_02_09.md)**
+---
 
-**[→ Read Final Void Ab Initio Report (with Knowledge Matrix & Timeline)](./filings/FINAL_VOID_AB_INITIO_REPORT_2026_02_09.md)**
+## VOID AB INITIO ANALYSIS OUTPUTS (2026-02-09)
+
+The following documents constitute the complete provable-foreknowledge analysis of the ex parte interdict:
+
+| Document | Description |
+|---|---|
+| **[Final Void Ab Initio Report](./filings/FINAL_VOID_AB_INITIO_REPORT_2026_02_09.md)** | **LATEST: 8 pillars, knowledge matrix, 23 proven events, full per-agent audit trail** |
+| **[Foreknowledge Classification Report](./filings/VOID_AB_INITIO_CLASSIFICATION_REPORT_2026_02_09.md)** | Agent tier classifications (A/B/C/D) with evidence tables |
+| **[Knowledge Matrix](./filings/VOID_AB_INITIO_KNOWLEDGE_MATRIX_2026_02_09.md)** | Who knew what, and when — the conspiracy map |
+| **[Per-Agent Audit Trail](./filings/VOID_AB_INITIO_PER_AGENT_AUDIT_TRAIL_2026_02_09.md)** | Chronological knowledge log per agent |
+| **[Void Ab Initio Reassessment](./filings/VOID_AB_INITIO_REASSESSMENT_2026_02_09.md)** | The interdict as a weapon — legal framework |
+
+### Foreknowledge Timeline
+
+![Foreknowledge Timeline](./foreknowledge_timeline_void_ab_initio.png)
 
 ---
 
@@ -98,7 +123,7 @@ A **ZAR 18.685 million payout**, owed by **Ketoni Investment Holdings** to the *
 |---|---|---|
 | Civil Claims (50% burden) | EXCEEDED | Conclusive |
 | Criminal Charges (95% burden) | EXCEEDED | 12 of 13 charges meet 90%+ threshold |
-| **Void Ab Initio** | **7 PILLARS PROVEN** | **All 3 agents Tier A — 14 proven events** |
+| **Void Ab Initio** | **8 PILLARS PROVEN** | **3 Tier A agents — 23 proven events** |
 
 ### [Application 2: CIPC & POPIA Complaints](./application-2-cipc-popia.md)
 
@@ -122,7 +147,10 @@ A **ZAR 18.685 million payout**, owed by **Ketoni Investment Holdings** to the *
 
 | Document | Description |
 |---|---|
-| **[FINAL Void Ab Initio Report](./filings/FINAL_VOID_AB_INITIO_REPORT_2026_02_09.md)** | **LATEST: 7 pillars, knowledge matrix, 14 proven events** |
+| **[FINAL Void Ab Initio Report](./filings/FINAL_VOID_AB_INITIO_REPORT_2026_02_09.md)** | **LATEST: 8 pillars, knowledge matrix, 23 proven events** |
+| **[Foreknowledge Classification Report](./filings/VOID_AB_INITIO_CLASSIFICATION_REPORT_2026_02_09.md)** | Agent tier classifications with evidence |
+| **[Knowledge Matrix](./filings/VOID_AB_INITIO_KNOWLEDGE_MATRIX_2026_02_09.md)** | Conspiracy map — who knew what, when |
+| **[Per-Agent Audit Trail](./filings/VOID_AB_INITIO_PER_AGENT_AUDIT_TRAIL_2026_02_09.md)** | Chronological knowledge log per agent |
 | **[Void Ab Initio Reassessment](./filings/VOID_AB_INITIO_REASSESSMENT_2026_02_09.md)** | The interdict as a weapon |
 | **[Contempt Evidence Summary](./evidence/CONTEMPT_EVIDENCE_SUMMARY_2026_02_09.md)** | Analysis of contempt application |
 | **[Contempt Relations Map](./relations/CONTEMPT_RELATIONS_2026_02_09.md)** | Party and temporal relations |
@@ -182,4 +210,4 @@ For comprehensive supporting evidence, see the **[ad-res-j7 repository](https://
 | 2026-02-04 | Contempt application filed (void order) | T-3 |
 | **2026-05** | **Ketoni payout due** | **T-0** |
 
-*Last Updated: 2026-02-09 — LEX Case Analysis System (Final Void Ab Initio Report — 7 Pillars, 4 Agents, 10 Facts, 14 Knowledge Events)*
+*Last Updated: 2026-02-09 — Void Ab Initio Analysis (8 Pillars, 8 Agents, 10 Material Facts, 23 Knowledge Events)*
