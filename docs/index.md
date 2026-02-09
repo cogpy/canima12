@@ -46,6 +46,23 @@ On 4 February 2026, Peter Faucitt filed a Contempt of Court Application seeking 
 
 ---
 
+## SAGE ACCOUNT TAKEOVER & STOCK2SHOP RECONFIGURATION (2020-2024)
+
+A comprehensive analysis of the Sage Accounting system takeover and the forced Stock2Shop API reconfiguration. The evidence proves Rynette Farrar orchestrated the transfer of the Sage Worldwide account from the deceased Kayla Pretorius to Peter Faucitt on **9 July 2024**, immediately breaking the Stock2Shop integration and requiring a 10-day reconfiguration.
+
+**[→ View Full Sage Capture Evidence](./sage-capture/index.md)**
+
+| Date | Event | Significance |
+|---|---|---|
+| **2020-05-18** | Kayla Pretorius invites Rynette to Sage | Rynette's entry as a standard user |
+| **2023-07-13** | Kayla Pretorius dies | Sage owner is now deceased |
+| **2023-11-13** | Rynette initiates admin username change | First takeover attempt |
+| **2024-07-09** | Sage owner switched Kayla→Pete | Fraudulent transfer executed |
+| **2024-07-10** | Stock2Shop integration breaks | Immediate consequence of takeover |
+| **2024-07-10–19** | Stock2Shop reconfiguration | 10-day fix; Sebastian changes all portals from Kayla's credentials to Pete's |
+
+---
+
 ## MAILBOX EVIDENCE ANALYSIS (2026-02-09)
 
 ### Exchange Mailbox Forensic Analysis
