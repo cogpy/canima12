@@ -126,7 +126,7 @@ All criminal acts converge on the Ketoni ZAR 18.685M payout due May 2026:
 | 2025-06-07 | Secret card cancellations | T-11 |
 | 2025-08-19 | Ex parte interdict (sole control) | T-9 |
 | 2025-09-18 | Settlement agreements (Forvis Mazars) | T-8 |
-| 2025-10-03 | Repudiation of settlements | T-7 |
+| 2025-09-22 | Notice of withdrawal from settlements (duress) | T-8 |
 | 2025-11-04 | Variation application dismissed | T-6 |
 | 2025-12-02 | Phone removal, common home issues | T-5 |
 | 2026-01-10 | Stock blocking (R200K) | T-4 |

@@ -26,7 +26,7 @@ The second agreement (PF14) addressed the implementation of the 19 August 2025 c
 
 ## Legal Significance
 
-Both settlement agreements were signed by all parties on 18 September 2025, creating binding obligations. The subsequent repudiation of these agreements by Jacqueline and Daniel constitutes a further breach, leading to the second application on 3 October 2025.
+Both settlement agreements were signed by all parties on 18 September 2025 under conditions of duress — Daniel Faucitt was not allowed to leave the building without signing, and an ENS email records his request to file a criminal complaint during the mediation. The subsequent notice of withdrawal on 22 September 2025 (the first business day after receiving copies on 19 September 2025) was a legitimate response to agreements obtained through coercion. Peter Faucitt then filed a second application on 3 October 2025 to have the duress-tainted agreements made orders of court.
 
 ## Key Terms of Second Settlement (PF14)
 

@@ -68,7 +68,7 @@ This contempt application represents a critical escalation in the proceedings. T
 2. Failing to surrender bank cards as ordered
 3. Removing employee's work phone
 4. Intimidating staff with a body guard
-5. Repudiating settlement agreements
+5. Giving notice of withdrawal from settlement agreements signed under duress (22 Sep 2025)
 6. Refusing to allow stock takes
 
 The application seeks imprisonment as a sanction, reflecting the severity and persistence of the contempt.

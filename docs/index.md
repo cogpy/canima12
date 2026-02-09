@@ -146,7 +146,7 @@ A **ZAR 18.685 million payout**, owed by **Ketoni Investment Holdings** to the *
 | Event | Date | Description |
 |---|---|---|
 | **[EVENT_095](./events/EVENT_095.md)** | 2025-09-18 | Mediation and settlement agreements |
-| **[EVENT_096](./events/EVENT_096.md)** | 2025-10-03 | Repudiation of settlement agreements |
+| **[EVENT_096](./events/EVENT_096.md)** | 2025-09-22 | Notice of withdrawal from settlements (duress) |
 | **[EVENT_097](./events/EVENT_097.md)** | 2025-11-04 | Variation application dismissed |
 | **[EVENT_098](./events/EVENT_098.md)** | 2026-01-10 | Stock removal blocked (R200K) |
 | **[EVENT_099](./events/EVENT_099.md)** | 2026-01-12 | Attorney correspondence re contempt |
@@ -175,7 +175,7 @@ For comprehensive supporting evidence, see the **[ad-res-j7 repository](https://
 | 2025-08-19 | Ex parte interdict (sole control) | T-9 |
 | 2025-09-03 | **R10.6M extracted within 8 days** | T-8 |
 | 2025-09-18 | Settlement agreements (Forvis Mazars) | T-8 |
-| 2025-10-03 | Repudiation of settlements | T-7 |
+| 2025-09-22 | Notice of withdrawal from settlements (duress) | T-8 |
 | 2025-11-04 | Variation application dismissed | T-6 |
 | 2025-12-02 | Phone removal, common home issues | T-5 |
 | 2026-01-10 | Stock blocking (R200K) | T-4 |

@@ -1,7 +1,7 @@
 # Foreknowledge Classification Report
 
 **Case:** 2025-137857 — Faucitt v Faucitt — Ex Parte Interdict (19 August 2025)
-**Generated:** 2026-02-08 20:30:12
+**Generated:** 2026-02-08 20:38:16
 
 ---
 
@@ -19,7 +19,7 @@
 ## Peter Andrew Faucitt — TIER A (Premeditated Conspirator)
 
 **Role:** Applicant in ex parte interdict application
-**Proven Knowledge Events:** 8
+**Proven Knowledge Events:** 9
 
 | Foreknowledge Indicator | Evidence | Type of Proof | Date |
 |---|---|---|---|
@@ -28,7 +28,8 @@
 | Peter admits in his own affidavit that he cancelled Daniel's business cards, but conceals that he did so secretly without Daniel's knowledge and without authority under the SOLE mandate | Peter_Founding_Affidavit_STRUCTURED_FINAL.docx, EVENT_012, FNB_Card_Cancellation_Records | direct_admission | 2025-06-07 |
 | FNB Legal informed Peter on 18 June 2025 that all directors could act independently — two months before he swore the opposite under oath | FNB_Legal_Letter_18_June_2025.pdf, ProofofFNBSoleMandateforRegimAWorldwideDistribution.pdf | email_correspondence | 2025-06-18 |
 | Peter failed to disclose the SOLE banking mandate, the FNB Legal letter, his cancellation of Daniel's cards, and the true context of the R500K reimbursement | Founding_Affidavit_13_August_2025, Peter_Founding_Affidavit_STRUCTURED_FINAL.docx | documentary_proof | 2025-08-13 |
-| The settlement agreements (PF13/PF14) were used to force psychiatric evaluations and drug screening, weaponizing the legal process to silence and discredit a witness. | NoticeofMotion-ContemptofCourtApplication05.02.2026y.pdf | documentary_proof | 2025-09-18 |
+| The settlement agreements (PF13/PF14) contained clauses for psychiatric evaluations and drug screening, weaponizing the legal process to silence and discredit witnesses. | NoticeofMotion-ContemptofCourtApplication05.02.2026y.pdf | documentary_proof | 2025-09-18 |
+| The settlement agreements were signed under duress on 18 September 2025 — Daniel Faucitt was not allowed to leave the building without signing. An ENS email records his request to file a criminal complaint during the mediation. Notice of withdrawal was given on 22 September 2025, the first business day after receiving copies on 19 September 2025. | ENS_Email_18_Sep_2025.pdf, PF13, PF14 | documentary_proof | 2025-09-18 |
 | Peter and Rynette filed a 3rd Urgent Application in Nov 2025, using Jacqui's attempt to warn De Novo about the fake accounts as a basis to label her as harassing and mentally unstable, citing the settlement agreements' medical testing clauses as a weapon. | 3rd_Urgent_Application_Nov_2025.pdf | documentary_proof | 2025-11-01 |
 | Peter filed a Contempt of Court application on 4 February 2026 seeking 6 months imprisonment for Jacqueline Faucitt, based entirely on the void order | NoticeofMotion-ContemptofCourtApplication05.02.2026y.pdf | documentary_proof | 2026-02-04 |
 

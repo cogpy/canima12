@@ -35,11 +35,18 @@
   ],
   "material_facts": [
     {
-      "fact_id": "FACT_SETTLEMENT_WEAPONIZATION",
-      "description": "The settlement agreements (PF13/PF14) were used to force psychiatric evaluations and drug screening, weaponizing the legal process to silence and discredit a witness.",
+      "fact_id": "FACT_SETTLEMENT_DURESS",
+      "description": "The settlement agreements were signed under duress on 18 September 2025 — Daniel Faucitt was not allowed to leave the building without signing. An ENS email records his request to file a criminal complaint during the mediation. Notice of withdrawal was given on 22 September 2025, the first business day after receiving copies on 19 September 2025.",
       "category": "obstruction",
-      "significance": "Shows that the entire legal process, including mediation and settlement, was co-opted into the criminal enterprise to control and silence the victim.",
-      "related_facts": ["FACT_WEAPONIZED_LITIGATION"]
+      "significance": "Agreements signed under duress are voidable. The ENS email is contemporaneous evidence of coercion. Peter then sought to have these duress-tainted agreements made orders of court (3 October 2025), a further act of weaponized litigation.",
+      "related_facts": ["FACT_SETTLEMENT_WEAPONIZATION", "FACT_WEAPONIZED_LITIGATION"]
+    },
+    {
+      "fact_id": "FACT_SETTLEMENT_WEAPONIZATION",
+      "description": "The settlement agreements (PF13/PF14) contained clauses for psychiatric evaluations and drug screening, weaponizing the legal process to silence and discredit witnesses.",
+      "category": "obstruction",
+      "significance": "Shows that the entire legal process, including mediation and settlement, was co-opted into the criminal enterprise to control and silence victims. The medical testing clause was a weapon, not a legitimate concern.",
+      "related_facts": ["FACT_SETTLEMENT_DURESS", "FACT_WEAPONIZED_LITIGATION"]
     },
     {
       "fact_id": "FACT_LEGAL_IMPOSSIBILITY",
@@ -244,6 +251,16 @@
       "acquisition_type": "documentary_proof",
       "evidence_refs": ["NoticeofMotion-ContemptofCourtApplication05.02.2026y.pdf"],
       "description": "Peter included the settlement agreements (PF13/PF14) in the contempt application, which contain clauses for psychiatric evaluations and drug screening, demonstrating the intent to use them as weapons to discredit Jacqueline.",
+      "confidence": "proven"
+    },
+    {
+      "event_id": "KE_PETER_009",
+      "agent_id": "APPLICANT",
+      "fact_id": "FACT_SETTLEMENT_DURESS",
+      "timestamp": "2025-09-18T00:00:00Z",
+      "acquisition_type": "documentary_proof",
+      "evidence_refs": ["ENS_Email_18_Sep_2025.pdf", "PF13", "PF14"],
+      "description": "Peter was present at the mediation on 18 September 2025 where Daniel was not allowed to leave without signing. The ENS email records Daniel's request to file a criminal complaint. Peter then sought to enforce these duress-tainted agreements via court application on 3 October 2025.",
       "confidence": "proven"
     }
   ]

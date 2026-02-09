@@ -64,14 +64,17 @@ Jacqueline's conduct, as described in the contempt application, can be reframed 
 | "Body guard intimidation" | Personal security after discovering fraud | Legitimate concern given the scale of fraud |
 | "Not allowing stock take" | Ensuring independent verification | Forvis Mazars was supposed to conduct investigation |
 
-### 2.2 The Repudiation of Settlement Agreements
+### 2.2 The Notice of Withdrawal from Settlement Agreements (Duress)
 
-The repudiation of the settlement agreements by Jacqueline and Daniel (EVENT_096) should be understood in context:
+The notice of withdrawal from the settlement agreements by Jacqueline and Daniel on **22 September 2025** (EVENT_096) should be understood in context:
 
-- The agreements were signed during mediation on 18 September 2025
-- By this time, the fraud evidence was already emerging
-- The agreements would have bound them to processes controlled by Peter
-- Repudiation was a protective measure once the full scope of fraud became apparent
+- During the mediation on 18 September 2025, Daniel Faucitt was **not allowed to leave the building without signing** — an ENS email documents his request to file a criminal complaint during the mediation itself
+- Copies of the signed documents were only received on **Friday 19 September 2025**
+- The notice of withdrawal was given on the **first business day** (Monday 22 September 2025) after receiving the copies
+- Agreements signed under duress are voidable at the election of the aggrieved party
+- PF13 contained psychiatric evaluation and drug screening clauses — weapons to discredit witnesses, not legitimate medical concerns
+- The withdrawal was a protective measure once the coercive circumstances and full scope of fraud became apparent
+- Peter's subsequent application (3 October 2025) to have these duress-tainted agreements made orders of court is itself a further act of weaponized litigation
 
 ---
 

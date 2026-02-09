@@ -185,7 +185,7 @@ The following 53 events meet the criminal burden of proof:
 | Date | Event | Significance | Link |
 |------|-------|--------------|------|
 | **2025-09-18** | **Mediation - Two Settlement Agreements** | Forvis Mazars forensic investigation mandate | [EVENT_095](./EVENT_095.md) |
-| **2025-10-03** | **Repudiation of Settlement Agreements** | Second application filed | [EVENT_096](./EVENT_096.md) |
+| **2025-09-22** | **Notice of Withdrawal from Settlements (Duress)** | Immediate withdrawal after receiving copies; ENS email documents criminal complaint request during mediation | [EVENT_096](./EVENT_096.md) |
 | **2025-11-04** | **Variation Application Dismissed** | Judge directs to contempt proceedings | [EVENT_097](./EVENT_097.md) |
 
 ### Ongoing Contempt Acts

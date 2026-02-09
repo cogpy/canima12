@@ -1,13 +1,13 @@
 # Knowledge Matrix
 
 **Case:** 2025-137857 — Faucitt v Faucitt — Ex Parte Interdict (19 August 2025)
-**Generated:** 2026-02-08 20:30:12
+**Generated:** 2026-02-08 20:38:16
 
 ## Agent Classification Summary
 
 | Agent | Role | Tier | Classification | Proven Events |
 |---|---|---|---|---|
-| **Peter Andrew Faucitt** | Applicant in ex parte interdict application | **A** | Premeditated Conspirator | 8 |
+| **Peter Andrew Faucitt** | Applicant in ex parte interdict application | **A** | Premeditated Conspirator | 9 |
 | **Daniel Jacobus Bantjies** | Accountant, Trustee of FFT, signatory of supporting affidavit | **A** | Premeditated Conspirator | 3 |
 | **Rynette Farrar** | Financial Controller, operated Peter's email (pete@regima.com) | **A** | Premeditated Conspirator | 3 |
 | **Jacqueline Faucitt** | Victim of weaponized litigation, target of contempt application | **C** | Participant — Knowledge Unproven | 0 |
@@ -16,7 +16,8 @@
 
 | Material Fact | Category | Peter Andrew Faucitt | Daniel Jacobus Bantjies | Rynette Farrar | Jacqueline Faucitt |
 |---|---|---|---|---|---|
-| The settlement agreements (PF13/PF14) were used to force psychiatric evaluations and drug screening, weaponizing the legal process to silence and discredit a witness. | obstruction | ✅ 2025-09-18 | — | — | — |
+| The settlement agreements were signed under duress on 18 September 2025 — Daniel Faucitt was not allowed to leave the building without signing. An ENS email records his request to file a criminal complaint during the mediation. Notice of withdrawal was given on 22 September 2025, the first business day after receiving copies on 19 September 2025. | obstruction | ✅ 2025-09-18 | — | — | — |
+| The settlement agreements (PF13/PF14) contained clauses for psychiatric evaluations and drug screening, weaponizing the legal process to silence and discredit witnesses. | obstruction | ✅ 2025-09-18 | — | — | — |
 | FNB banking mandates grant all directors 'Administrator with Sole General Powers' — making 'unauthorized transactions' a legal impossibility | fraud | ✅ 2021-01-01 | — | — | — |
 | FNB Legal informed Peter on 18 June 2025 that all directors could act independently — two months before he swore the opposite under oath | obstruction | ✅ 2025-06-18 | — | ✅ 2025-06-18 | — |
 | Peter failed to disclose the SOLE banking mandate, the FNB Legal letter, his cancellation of Daniel's cards, and the true context of the R500K reimbursement | fraud | ✅ 2025-08-13 | — | — | — |
