@@ -9,7 +9,7 @@
 
 This repository (`cogpy/revstream1`) is the **evidence analysis, legal documentation, and prosecution preparation** system for Case 2025-137857. It contains structured data models, legal filings, forensic analysis, and evidence cataloging for a multi-layered fraud and conspiracy case involving revenue stream hijacking, trust capture, perjury, and abuse of court process.
 
-**Total documented losses:** R10.27M+ direct theft; R42.985M+ total financial impact (including the R18.685M Ketoni payout at stake).
+**Total documented losses:** R10.27M+ direct theft; **R63M+** total financial impact (including the R18.685M Ketoni payout at stake and R34.9M annual revenue destroyed).
 
 ### Related Repositories
 
@@ -171,12 +171,14 @@ Agents are classified into four tiers based on independently provable documentar
 
 | Tier | Classification | Criteria | Agents |
 |---|---|---|---|
-| **A** | Premeditated Conspirator | 3+ independent documentary proofs | Peter Faucitt (10), Rynette Farrar (12), Danie Bantjies (8) |
-| **B** | Active Participant with Proven Knowledge | 1-2 direct documentary proofs | ENS Africa (1) |
-| **C** | Knowledge Unproven | Participated but no proof of knowledge | Kevin Derrick, De Novo/Marisca Meyer, Adderory |
+| **A** | Premeditated Conspirator | 3+ independent documentary proofs | Peter Faucitt (11), Rynette Farrar (5), Danie Bantjies (4) |
+| **B** | Active Participant with Proven Knowledge | 1-2 direct documentary proofs | Adderory/Rynette's Son (2), ENS Africa (1) |
+| **C** | Knowledge Unproven | Participated but no proof of knowledge | Kevin Derrick, De Novo/Marisca Meyer, Elliott Attorneys |
 | **D** | Structural Connection Only | Connected but no active participation | -- |
 
 **Evidentiary discipline:** Tier C agents have ZERO documentary evidence of foreknowledge. Accusing them without evidence would undermine case credibility. They should be treated as potential witnesses or affected parties.
+
+**Note:** Adderory was upgraded from Tier C to Tier B based on the void ab initio analysis (Feb 2026) -- documentary proof of competing domain registration (29 May 2025) and connection to fabricated financials.
 
 ---
 
@@ -276,6 +278,72 @@ Under SA law, if the founding affidavit was perjured, the interdict is void ab i
 
 ### Track 5: POCA (Organized Crime)
 Clear hierarchy, division of labor, common unlawful purpose, use of legitimate entities for illegal purposes.
+
+---
+
+## Void Ab Initio Analysis (Feb 2026 -- LATEST)
+
+The ex parte interdict granted on 19 August 2025 is **void ab initio** (void from the beginning). This is the central legal finding of the Feb 2026 analysis.
+
+### The Eight Pillars of Invalidity
+
+| # | Pillar / Pattern | Evidence |
+|---|---|---|
+| 1 | **Legal Impossibility** | FNB mandates grant SOLE authority -- "unauthorized" transactions by a sole administrator cannot exist |
+| 2 | **Perjury with Foreknowledge** | FNB Legal confirmed SOLE authority 18 Jun 2025; Peter swore the opposite 13 Aug 2025 |
+| 3 | **Material Non-Disclosure** | Peter concealed SOLE mandate, FNB letter, card sabotage, R500K reimbursement context |
+| 4 | **Supporting Affidavit Fraud** | Bantjies received Daniel's fraud reports 6 Jun; certified false affidavit 13 Aug |
+| 5 | **Direct Admission w/ Concealment** | Peter admits cancelling cards but conceals it was secret, unauthorized, retaliatory |
+| 6 | **Fabrication of Evidence** | Fake 2019 accounts for company name created in 2021; Peter signed as director for year he wasn't appointed |
+| 7 | **Weaponized Litigation** | Jacqui sued for "harassment" for warning De Novo about fake accounts; settlement clauses silence witnesses |
+| 8 | **RSA Mandate Fraud** | RegimA SA "ANY TWO TOGETHER" -- ABSA diversion without Daniel's required consent = forgery or perjury |
+
+### The Contempt Application: Weaponizing a Void Order
+
+On **4 February 2026**, Peter filed a Contempt of Court Application seeking **6 months imprisonment** for Jacqueline. This is the use of a fraudulently obtained, void court order to imprison a victim of the fraud. Key documents:
+
+| Document | Location |
+|---|---|
+| Final Void Ab Initio Report | `docs/filings/FINAL_VOID_AB_INITIO_REPORT_2026_02_09.md` |
+| Void Ab Initio Reassessment | `docs/filings/VOID_AB_INITIO_REASSESSMENT_2026_02_09.md` |
+| Classification Report | `docs/filings/VOID_AB_INITIO_CLASSIFICATION_REPORT_2026_02_09.md` |
+| Knowledge Matrix | `docs/filings/VOID_AB_INITIO_KNOWLEDGE_MATRIX_2026_02_09.md` |
+| Per-Agent Audit Trail | `docs/filings/VOID_AB_INITIO_PER_AGENT_AUDIT_TRAIL_2026_02_09.md` |
+| Contempt Evidence Summary | `docs/evidence/CONTEMPT_EVIDENCE_SUMMARY_2026_02_09.md` |
+| Civil Contempt Analysis | `docs/filings/CIVIL_CONTEMPT_ANALYSIS_2026_02_09.md` |
+| Gestalt Analysis | `ANNEXURES/VOID_AB_INITIO_EVIDENCE/GESTALT_ANALYSIS.md` |
+| Void Ab Initio Register (JSON) | `void_ab_initio_register.json` |
+
+### Legal Consequences of Void Ab Initio
+
+| Consequence | Effect |
+|---|---|
+| The interdict is a legal nullity | Has no force or effect; can be disregarded |
+| Contempt applications are baseless | Cannot be in contempt of an order that never existed |
+| Enforcement is malicious prosecution | Knowing it was obtained through fraud |
+| R10.6M extraction was theft | Extracted under authority of a void order |
+| All downstream agreements are void | Mediation, settlements, Main Trustee appointment |
+
+### New Events (2026-02-09)
+
+| Event | Date | Description |
+|---|---|---|
+| EVENT_095 | 2025-09-18 | Mediation and settlement agreements |
+| EVENT_096 | 2025-09-22 | Notice of withdrawal from settlements (duress) |
+| EVENT_097 | 2025-11-04 | Variation application dismissed |
+| EVENT_098 | 2026-01-10 | Stock removal blocked (R200K) |
+| EVENT_099 | 2026-01-12 | Attorney correspondence re contempt |
+| EVENT_100 | 2025-12-02 | Bank cards, phone removal, body guard |
+| EVENT_101 | 2026-02-04 | Contempt application filed |
+| EVENT_102 | 2026-02-04 | Void ab initio evidence submitted |
+
+### New Entities (2026-02-09)
+
+| Entity | Type | Role |
+|---|---|---|
+| ORG_020 | Elliott Attorneys Inc | Applicant's Attorneys |
+| ORG_021 | Pottas Attorneys | Respondent's Attorneys |
+| PERSON_019 | Oliver ("Arthur") | Employee (Warehouse) |
 
 ---
 
