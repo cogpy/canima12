@@ -16,6 +16,7 @@ This index catalogs all events in Case 2025-137857 organized by phase and signif
 | Ketoni-Related Events | 12 | Central Motive |
 | FNB Letter Events | 2 | KEY EVIDENCE |
 | Contempt Events | 7 | NEW EVIDENCE |
+| Void Ab Initio Events | 1 | CRITICAL |
 
 ---
 
@@ -193,11 +194,17 @@ The following 53 events meet the criminal burden of proof:
 | **2025-12-02** | **Bank Cards Not Surrendered / Phone Removal / Body Guard** | Multiple court order breaches | [EVENT_100](./EVENT_100.md) |
 | **2026-01-10** | **Stock Removal Blocked (R200K)** | Business sabotage in defiance of order | [EVENT_098](./EVENT_098.md) |
 | **2026-01-12** | **Attorney Correspondence - Contempt Demand** | Effective admission of contempt (PF16) | [EVENT_099](./EVENT_099.md) |
-
 ### Contempt Application
+
 | Date | Event | Significance | Link |
 |------|-------|--------------|------|
 | **2026-02-04** | **Contempt of Court Application Filed** | Seeks imprisonment for court order violations | [EVENT_101](./EVENT_101.md) |
+
+### Void Ab Initio Evidence
+
+| Date | Event | Significance | Link |
+|------|-------|--------------|------|
+| **2026-02-04** | **Void Ab Initio Evidence Submitted to Pottas Attorneys** | FNB SOLE mandate proof, perjury evidence destroys interdict foundation | [EVENT_102](./EVENT_102.md) |
 
 ---
 

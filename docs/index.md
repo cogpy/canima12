@@ -6,122 +6,117 @@ This site provides comprehensive evidence, analysis, and legal documentation for
 
 ---
 
-## 🚨 FEBRUARY 2026: CONTEMPT OF COURT APPLICATION (NEW)
+## THE INTERDICT IS VOID AB INITIO: A WEAPON, NOT JUSTICE
 
-### Contempt Application Filed (05.02.2026)
+### The Central Finding (2026-02-09)
 
-On 4 February 2026, Peter Faucitt filed a **Contempt of Court Application** against Jacqueline Faucitt for alleged breaches of the 19 August 2025 court order. This 53-page document contains **critical admissions and evidence** that strengthen the fraud case:
+The ex parte interdict granted on 19 August 2025 is **void ab initio** (void from the beginning). It was obtained through calculated perjury, material non-disclosure, and fraud on the court. All actions flowing from it, including the contempt application against Jacqueline Faucitt, are without legal foundation.
 
-> **Peter's own sworn affidavit confirms:** (a) the court order granting him sole financial control of all entities; (b) settlement agreements acknowledging "misappropriation of funds" requiring forensic investigation; and (c) the appointment of Forvis Mazars for forensic investigation.
+> **"Fraud unravels all"** — The interdict was not a tool for justice. It was a weapon forged through perjury to seize control of company assets and persecute legitimate business owners.
 
-| New Evidence | Date | Significance |
+### The Three Pillars of Invalidity
+
+| Pillar | Evidence | Proof |
 |---|---|---|
-| **PF12** — Court Order of 19 August 2025 | 2025-08-19 | Confirms mechanism for seizing financial control |
-| **PF13** — First Settlement Agreement | 2025-09-18 | Psychiatric evaluations and drug screening obligations |
-| **PF14** — Second Settlement Agreement | 2025-09-18 | Forvis Mazars forensic investigation mandate |
-| **PF15** — Elliott Attorneys demand letter | 2026-01-12 | Contemporaneous record of stock contempt |
-| **PF16** — Pottas Attorneys response | 2026-01-12 | Effective admission of contempt (never denied) |
-| **PF17** — Elliott letter re: home and phone | 2025-12-02 | Phone removal and common home issues |
+| **1. Legal Impossibility** | FNB mandates appoint all directors as "Administrator with **SOLE** General Powers." The concept of an "unauthorized" transaction is a legal absurdity. | FNB FICA/KYC Mandate (1 June 2021) |
+| **2. Perjury with Foreknowledge** | Peter Faucitt received written confirmation from FNB Legal on **18 June 2025** that directors could act independently, then swore the opposite under oath two months later. | FNB Legal Letter (18 June 2025) |
+| **3. Material Non-Disclosure** | Peter Faucitt concealed the SOLE mandate, the FNB legal letter, his sabotage of company cards, and the fact that the R500K "theft" was a reimbursement for R520K+ in business expenses. | Application to Set Aside |
 
-**[→ View Contempt Evidence Summary](./evidence/CONTEMPT_EVIDENCE_SUMMARY_2026_02_09.md)** | **[→ View Civil Contempt Analysis](./filings/CIVIL_CONTEMPT_ANALYSIS_2026_02_09.md)**
+### The Contempt Application: Weaponizing a Void Order
 
----
+On 4 February 2026, Peter Faucitt filed a Contempt of Court Application seeking **6 months imprisonment** for Jacqueline Faucitt. This is not a legitimate legal action. It is the use of a fraudulent, void court order to imprison a victim of the fraud.
 
-### Corrected Financial Motive: The Ketoni-Bantjies Connection
-
-The central financial motive has been corrected and is **more damning than previously understood**.
-
-> **Ketoni Investment Holdings owes R18.685M to the Faucitt Family Trust**, not a personal debt involving Bantjies.
-
-This places Trustee **Danie Bantjies** in a position of **controlling both ends of the transaction** through his connection to Ketoni's director (Kevin Derrick), creating **six distinct conflicts of interest** and enabling charges of **insider trading** and **self-dealing**.
-
-**[→ Read the Full Super-Sleuth Analysis](./super_sleuth_report_2026_02_06.md)**
-
-### New Evidence Uncovered
-
-| Evidence Code | Document | Date | Significance |
-|:---:|---|---|---|
-| **SF10** | Sage User Access Screenshot | 2025-06-20 | Rynette's dual email access (pete@regima.com) proves **identity fraud** |
-| **SF11** | Sage Registration Expired | 2025-08-25 | Rynette (owner) let system expire before interdict, proving **evidence concealment** |
-| **SF12** | Rezonance Supplier Ledger | 2023-02-28 | R1,035,361.34 owed to Kayla's company before her death, proving **motive** |
-| **SF13** | Elliott Attorneys Demand | 2025-11-26 | Peter's attorneys protecting Rynette, proving **coordinated conspiracy** |
-| **SF14** | Debt Structure Correction | 2026-02-06 | Confirms the Ketoni-Bantjies insider access scheme |
-
-**[→ View Complete Evidence Index (2026-02-06)](./evidence_index_2026_02_06.md)**
+**[→ Read Full Void Ab Initio Reassessment](./filings/VOID_AB_INITIO_REASSESSMENT_2026_02_09.md)**
 
 ---
 
-## 🎯 REFINED CENTRAL MOTIVE: Ketoni ZAR 18.75M Payout (May 2026)
+## NEW EVIDENCE (February 2026): Void Ab Initio Proof
 
-A **ZAR 18.75 million payout**, owed by **Ketoni Investment Holdings** to the **Faucitt Family Trust** in **May 2026**, is the central motive. The entire conspiracy is a strategic plan to neutralize beneficiaries and seize control of this payout.
+The following documents, sent by Daniel Faucitt to Pottas Attorneys on 4 February 2026, provide irrefutable proof that the interdict is void.
+
+| Document | Content | Significance |
+|---|---|---|
+| **FNB Sole Mandate — RegimA Worldwide** | FNB Legal letter (18 Jun 2025): "any of the directors may act independently" | **Destroys the entire foundation of the interdict** |
+| **FNB Sole Mandate — Strategic Logistics** | FNB Mandate from 2021: Daniel = "Administrator with Sole General Powers" (17+ year mandate) | **Proves "unauthorized" claim was a fabrication** |
+| **Perjury Reminder Part 1 & 2** | Email chain: Daniel warned Bantjies of fraud on 6 Jun 2025; Bantjies forwarded to his work email; yet signed false affidavit 2 months later | **Proves Bantjies committed perjury with foreknowledge** |
+| **Application to Set Aside v2** | Complete legal argument for void ab initio status | **The legal framework for setting aside the order** |
+| **Peter's Founding Affidavit (Structured)** | The perjured document itself, paragraph by paragraph | **The instrument of fraud** |
+
+---
+
+## REFINED LEGAL FILINGS (2026-02-09 v2)
+
+All legal filings have been reframed around the **void ab initio** finding. The interdict was the keystone of the criminal enterprise; its invalidity exposes every subsequent act as naked criminality.
+
+| Filing | Type | Burden | Latest Version |
+|---|---|---|---|
+| **Void Ab Initio Reassessment** | Analysis | — | **[View (2026-02-09)](./filings/VOID_AB_INITIO_REASSESSMENT_2026_02_09.md)** |
+| **CIPC Complaint** | Regulatory | 50% EXCEEDED | **[View v2 (2026-02-09)](./filings/CIPC_COMPLAINT_REFINED_2026_02_09_v2.md)** |
+| **POPIA Complaint** | Criminal | 95% EXCEEDED | **[View v2 (2026-02-09)](./filings/POPIA_COMPLAINT_REFINED_2026_02_09_v2.md)** |
+| **NPA Tax Fraud Report** | Criminal | 95% EXCEEDED | **[View v2 (2026-02-09)](./filings/NPA_TAX_FRAUD_REPORT_REFINED_2026_02_09_v2.md)** |
+| **Commercial Crime** | Criminal | 95% EXCEEDED | **[View v2 (2026-02-09)](./filings/COMMERCIAL_CRIME_SUBMISSION_REFINED_2026_02_09_v2.md)** |
+| **Civil Contempt Analysis** | Civil | 50% EXCEEDED | **[View (2026-02-09)](./filings/CIVIL_CONTEMPT_ANALYSIS_2026_02_09.md)** |
+
+### Previous Versions
+| Filing | v1 (2026-02-09) | Earlier |
+|---|---|---|
+| CIPC | [v1](./filings/CIPC_COMPLAINT_REFINED_2026_02_09.md) | [2026-02-06](./filings/CIPC_COMPLAINT_REFINED_2026_02_06.md) |
+| POPIA | [v1](./filings/POPIA_COMPLAINT_REFINED_2026_02_09.md) | [2026-02-06](./filings/POPIA_COMPLAINT_REFINED_2026_02_06.md) |
+| NPA Tax Fraud | [v1](./filings/NPA_TAX_FRAUD_REPORT_REFINED_2026_02_09.md) | [2026-02-06](./filings/NPA_TAX_FRAUD_REPORT_REFINED_2026_02_06.md) |
+| Commercial Crime | [v1](./filings/COMMERCIAL_CRIME_SUBMISSION_REFINED_2026_02_09.md) | [2026-02-06](./filings/COMMERCIAL_CRIME_SUBMISSION_CONSOLIDATED_2026_02_06.md) |
+
+---
+
+## REFINED CENTRAL MOTIVE: Ketoni ZAR 18.685M Payout (May 2026)
+
+A **ZAR 18.685 million payout**, owed by **Ketoni Investment Holdings** to the **Faucitt Family Trust** in **May 2026**, is the central motive. The entire conspiracy is a strategic plan to neutralize beneficiaries and seize control of this payout.
 
 | Factor | Detail |
 |---|---|
 | **Debtor** | Ketoni Investment Holdings (Pty) Ltd |
 | **Creditor** | Faucitt Family Trust |
 | **Payout Date** | May 2026 |
-| **Total Payout** | ZAR 18.75M |
+| **Total Payout** | ZAR 18.685M |
 | **Insider Access** | Danie Bantjies (Trustee) has insider access via Ketoni's director |
 
 **[→ View Complete Ketoni Timeline](./ketoni-timeline.md)**
 
 ---
 
-## 📁 REFINED LEGAL FILINGS (2026-02-09)
-
-All legal filings have been updated to incorporate the contempt application evidence and corrected debt structure.
-
-| Filing | Type | Burden | Latest Version |
-|---|---|---|---|
-| **CIPC Complaint** | Regulatory | 50% EXCEEDED | **[View (2026-02-09)](./filings/CIPC_COMPLAINT_REFINED_2026_02_09.md)** |
-| **POPIA Complaint** | Criminal | 95% EXCEEDED | **[View (2026-02-09)](./filings/POPIA_COMPLAINT_REFINED_2026_02_09.md)** |
-| **NPA Tax Fraud Report** | Criminal | 95% EXCEEDED | **[View (2026-02-09)](./filings/NPA_TAX_FRAUD_REPORT_REFINED_2026_02_09.md)** |
-| **Commercial Crime** | Criminal | 95% EXCEEDED | **[View (2026-02-09)](./filings/COMMERCIAL_CRIME_SUBMISSION_REFINED_2026_02_09.md)** |
-| **Civil Contempt Analysis** | Civil | 50% EXCEEDED | **[View (2026-02-09)](./filings/CIVIL_CONTEMPT_ANALYSIS_2026_02_09.md)** |
-
-### Previous Versions
-| Filing | Previous |
-|---|---|
-| CIPC | [2026-02-06](./filings/CIPC_COMPLAINT_REFINED_2026_02_06.md) |
-| POPIA | [2026-02-06](./filings/POPIA_COMPLAINT_REFINED_2026_02_06.md) |
-| NPA Tax Fraud | [2026-02-06](./filings/NPA_TAX_FRAUD_REPORT_REFINED_2026_02_06.md) |
-| Commercial Crime | [2026-02-06](./filings/COMMERCIAL_CRIME_SUBMISSION_CONSOLIDATED_2026_02_06.md) |
-
----
-
-## 📊 Quick Navigation by Application
+## Quick Navigation by Application
 
 ### [Application 1: Civil & Criminal Actions](./application-1-civil-criminal.md)
 
 | Category | Status | Evidence Strength |
 |---|---|---|
-| Civil Claims (50% burden) | ✅ EXCEEDED | Conclusive |
-| Criminal Charges (95% burden) | ✅ EXCEEDED | 12 of 13 charges meet 90%+ threshold |
-| **Contempt of Court** | ✅ **NEW** | **Four requirements met per affidavit** |
+| Civil Claims (50% burden) | EXCEEDED | Conclusive |
+| Criminal Charges (95% burden) | EXCEEDED | 12 of 13 charges meet 90%+ threshold |
+| **Void Ab Initio** | **NEW** | **Interdict is void from the beginning** |
 
 ### [Application 2: CIPC & POPIA Complaints](./application-2-cipc-popia.md)
 
 | Violation Type | Status | Key Sections |
 |---|---|---|
-| Companies Act Violations | ✅ DOCUMENTED | s76(3), s77, s163, s22 |
-| POPIA Violations | ✅ DOCUMENTED | s107(1), s107(2) - Identity Fraud & Obstruction |
+| Companies Act Violations | DOCUMENTED | s76(3), s77, s162, s163 |
+| POPIA Violations | DOCUMENTED | s107(1), s107(2) |
 
 ### [Application 3: Commercial Crime & Tax Fraud](./application-3-commercial-crime-tax-fraud.md)
 
 | Crime Category | Status | Evidence |
 |---|---|---|
-| Commercial Crimes | ✅ DOCUMENTED | Fraud, theft, forgery, **insider trading** |
-| Tax Fraud | ✅ DOCUMENTED | Income tax evasion, VAT fraud |
-| **Exchange Control** | ✅ **ADMITTED** | **Peter's FNB letter admission (SF10)** |
+| Commercial Crimes | DOCUMENTED | Fraud, theft, forgery, racketeering |
+| Tax Fraud | DOCUMENTED | Income tax evasion, VAT fraud |
+| **Perjury** | **EXCEEDED** | **Provable foreknowledge of false claims** |
 
 ---
 
-## 📈 Evidence & Analysis
+## Evidence & Analysis
 
 | Document | Description |
 |---|---|
-| **[Contempt Evidence Summary](./evidence/CONTEMPT_EVIDENCE_SUMMARY_2026_02_09.md)** | NEW: Analysis of contempt application |
-| **[Contempt Relations Map](./relations/CONTEMPT_RELATIONS_2026_02_09.md)** | NEW: Party and temporal relations |
+| **[Void Ab Initio Reassessment](./filings/VOID_AB_INITIO_REASSESSMENT_2026_02_09.md)** | NEW: The interdict as a weapon |
+| **[Contempt Evidence Summary](./evidence/CONTEMPT_EVIDENCE_SUMMARY_2026_02_09.md)** | Analysis of contempt application |
+| **[Contempt Relations Map](./relations/CONTEMPT_RELATIONS_2026_02_09.md)** | Party and temporal relations |
 | **[Evidence Index](./evidence_index_2026_02_06.md)** | Comprehensive catalog with all evidence |
 | **[Super-Sleuth Report](./super_sleuth_report_2026_02_06.md)** | Divergent analysis of evidence |
 | **[Hyper-Holmes Report](./hyper_holmes_report_2026_02_06.md)** | Convergent validation of leads |
@@ -151,11 +146,9 @@ All legal filings have been updated to incorporate the contempt application evid
 
 ---
 
-## 🔗 Extended Evidence Reference
+## Extended Evidence Reference
 
 For comprehensive supporting evidence, see the **[ad-res-j7 repository](https://github.com/cogpy/ad-res-j7)**.
-
----
 
 ---
 
@@ -167,13 +160,16 @@ For comprehensive supporting evidence, see the **[ad-res-j7 repository](https://
 | 2023-07-13 | Kayla Pretorius death | T-34 |
 | 2025-05-22 | Shopify hijacking | T-12 |
 | 2025-06-07 | Secret card cancellations | T-11 |
+| 2025-06-18 | **FNB Legal confirms SOLE authority** | **T-11** |
+| 2025-08-13 | **Peter swears perjured affidavit** | **T-9** |
 | 2025-08-19 | Ex parte interdict (sole control) | T-9 |
+| 2025-09-03 | **R10.6M extracted within 8 days** | T-8 |
 | 2025-09-18 | Settlement agreements (Forvis Mazars) | T-8 |
 | 2025-10-03 | Repudiation of settlements | T-7 |
 | 2025-11-04 | Variation application dismissed | T-6 |
 | 2025-12-02 | Phone removal, common home issues | T-5 |
 | 2026-01-10 | Stock blocking (R200K) | T-4 |
-| 2026-02-04 | Contempt application filed | T-3 |
+| 2026-02-04 | Contempt application filed (void order) | T-3 |
 | **2026-05** | **Ketoni payout due** | **T-0** |
 
-*Last Updated: 2026-02-09 — LEX Case Analysis System*
+*Last Updated: 2026-02-09 — LEX Case Analysis System (Void Ab Initio Reassessment)*
