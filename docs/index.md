@@ -183,6 +183,7 @@ A **ZAR 18.685 million payout**, owed by **Ketoni Investment Holdings** to the *
 | **[Entities Directory](./entities/index.md)** | All persons and organizations (103+) |
 | **[Events Directory](./events/index.md)** | All documented events (147+) |
 | **[MAT4719 Evidence Index](./evidence/MAT4719_NOM_FOUNDING_AFFIDAVIT.md)** | Split chapters of founding application |
+| **[Confirmatory Affidavit — Bantjes (Transcribed)](./evidence/Confirmatory_Affidavit_Bantjes.md)** | Identical transcription of Bantjes confirmatory affidavit (pages 69–71) |
 
 ---
 
