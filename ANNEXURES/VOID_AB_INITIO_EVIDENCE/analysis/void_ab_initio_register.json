@@ -64,10 +64,10 @@
     },
     {
       "fact_id": "FACT_CARD_CANCELLATION",
-      "description": "Peter cancelled Daniel's business cards on 7 June 2025, forcing Daniel to use personal funds for company expenses, then claimed the reimbursement was 'theft'",
+      "description": "Peter admits in his own affidavit that he cancelled Daniel's business cards, but conceals that he did so secretly without Daniel's knowledge and without authority under the SOLE mandate",
       "category": "fraud",
-      "significance": "The R500K 'extraction' alleged in the interdict was actually a partial reimbursement for R520K+ in documented business expenses. Peter created the problem then weaponized it.",
-      "related_facts": ["FACT_MATERIAL_NONDISCLOSURE"]
+      "significance": "Peter's own sworn admission proves he cancelled the cards. However, he concealed two critical facts: (1) he did it in secret without Daniel's knowledge, and (2) the SOLE mandate did not give him unilateral authority to revoke another director's banking access. This is both a direct admission of the act and material non-disclosure of the circumstances. The R500K 'extraction' he then complained about was Daniel's reimbursement for R520K+ in business expenses he was forced to pay personally because of Peter's secret, unauthorized card cancellation.",
+      "related_facts": ["FACT_MATERIAL_NONDISCLOSURE", "FACT_LEGAL_IMPOSSIBILITY"]
     },
     {
       "fact_id": "FACT_CONTEMPT_AS_WEAPON",
@@ -103,9 +103,9 @@
       "agent_id": "APPLICANT",
       "fact_id": "FACT_CARD_CANCELLATION",
       "timestamp": "2025-06-07T00:00:00Z",
-      "acquisition_type": "active_participation",
-      "evidence_refs": ["EVENT_012", "FNB_Card_Cancellation_Records"],
-      "description": "Peter cancelled Daniel's business cards on 7 June 2025, forcing Daniel to use personal funds for R520K+ in business expenses. Peter then characterized the reimbursement as 'theft' in his affidavit.",
+      "acquisition_type": "direct_admission",
+      "evidence_refs": ["Peter_Founding_Affidavit_STRUCTURED_FINAL.docx", "EVENT_012", "FNB_Card_Cancellation_Records"],
+      "description": "Peter admits in his own founding affidavit that he cancelled Daniel's business cards on 7 June 2025. This is a direct admission of the act. However, he concealed from the court that: (1) he did so secretly without Daniel's knowledge, and (2) the SOLE mandate did not give him authority to unilaterally revoke another director's banking access. He then weaponized the consequences of his own secret, unauthorized act by characterizing Daniel's reimbursement of R520K+ in forced personal business expenses as 'theft'.",
       "confidence": "proven"
     },
     {
@@ -115,7 +115,7 @@
       "timestamp": "2025-08-13T00:00:00Z",
       "acquisition_type": "documentary_proof",
       "evidence_refs": ["Founding_Affidavit_13_August_2025", "Peter_Founding_Affidavit_STRUCTURED_FINAL.docx"],
-      "description": "Peter signed the founding affidavit without disclosing: (1) the SOLE banking mandate, (2) the FNB Legal letter of 18 June 2025, (3) his cancellation of Daniel's cards, (4) the true context of the R500K reimbursement.",
+      "description": "Peter signed the founding affidavit without disclosing: (1) the SOLE banking mandate, (2) the FNB Legal letter of 18 June 2025, (3) that he cancelled Daniel's cards secretly without Daniel's knowledge and without authority under the SOLE mandate, (4) the true context of the R500K as reimbursement for R520K+ in business expenses Daniel was forced to pay personally because of Peter's secret card cancellation.",
       "confidence": "proven"
     },
     {

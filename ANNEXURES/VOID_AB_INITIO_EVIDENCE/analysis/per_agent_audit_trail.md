@@ -1,7 +1,7 @@
 # Per-Agent Temporal Audit Trail
 
 **Case:** 2025-137857 — Faucitt v Faucitt — Ex Parte Interdict (19 August 2025)
-**Generated:** 2026-02-08 20:10:13
+**Generated:** 2026-02-08 20:14:20
 
 ---
 
@@ -10,12 +10,12 @@
 **Role:** Applicant in ex parte interdict application
 **Classification:** Tier A — Premeditated Conspirator
 **Proven Knowledge Events:** 5
-**Proof Types:** active_participation, documentary_proof, email_correspondence
+**Proof Types:** direct_admission, documentary_proof, email_correspondence
 
 | # | Timestamp | Material Fact | Acquisition Type | Evidence References |
 |---|---|---|---|---|
 | 1 | 2021-01-01T00:00:00Z | FNB banking mandates grant all directors 'Administrator with Sole General Powers' — making 'unauthorized transactions' a legal impossibility | documentary_proof | FNB_Mandate_RegimA_Worldwide.pdf, FNB_Mandate_Strategic_Logistics.pdf |
-| 2 | 2025-06-07T00:00:00Z | Peter cancelled Daniel's business cards on 7 June 2025, forcing Daniel to use personal funds for company expenses, then claimed the reimbursement was 'theft' | active_participation | EVENT_012, FNB_Card_Cancellation_Records |
+| 2 | 2025-06-07T00:00:00Z | Peter admits in his own affidavit that he cancelled Daniel's business cards, but conceals that he did so secretly without Daniel's knowledge and without authority under the SOLE mandate | direct_admission | Peter_Founding_Affidavit_STRUCTURED_FINAL.docx, EVENT_012, FNB_Card_Cancellation_Records |
 | 3 | 2025-06-18T16:51:00Z | FNB Legal informed Peter on 18 June 2025 that all directors could act independently — two months before he swore the opposite under oath | email_correspondence | FNB_Legal_Letter_18_June_2025.pdf, ProofofFNBSoleMandateforRegimAWorldwideDistribution.pdf |
 | 4 | 2025-08-13T00:00:00Z | Peter failed to disclose the SOLE banking mandate, the FNB Legal letter, his cancellation of Daniel's cards, and the true context of the R500K reimbursement | documentary_proof | Founding_Affidavit_13_August_2025, Peter_Founding_Affidavit_STRUCTURED_FINAL.docx |
 | 5 | 2026-02-04T00:00:00Z | Peter filed a Contempt of Court application on 4 February 2026 seeking 6 months imprisonment based on the void order | documentary_proof | NoticeofMotion-ContemptofCourtApplication05.02.2026y.pdf |
@@ -46,7 +46,7 @@
 
 | # | Timestamp | Material Fact | Acquisition Type | Evidence References |
 |---|---|---|---|---|
-| 1 | 2025-06-07T00:00:00Z | Peter cancelled Daniel's business cards on 7 June 2025, forcing Daniel to use personal funds for company expenses, then claimed the reimbursement was 'theft' | active_participation | EVENT_012, FNB_Card_Cancellation_Records |
+| 1 | 2025-06-07T00:00:00Z | Peter admits in his own affidavit that he cancelled Daniel's business cards, but conceals that he did so secretly without Daniel's knowledge and without authority under the SOLE mandate | active_participation | EVENT_012, FNB_Card_Cancellation_Records |
 | 2 | 2025-06-18T08:17:00Z | FNB Legal informed Peter on 18 June 2025 that all directors could act independently — two months before he swore the opposite under oath | email_correspondence | FNB_Meeting_Request_Email_18_June_2025 |
 
 ---

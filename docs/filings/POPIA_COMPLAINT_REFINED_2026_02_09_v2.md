@@ -43,7 +43,7 @@ These actions were not accidental. They were part of a coordinated criminal cons
 
 This is the most serious offense. Peter Faucitt and Rynette Farrar systematically obstructed Daniel Faucitt from exercising his rights under Section 23 of POPIA (the right to access one's personal information).
 
-1.  **Card Cancellation (7 June 2025):** Peter Faucitt cancelled Daniel Faucitt's corporate cards, cutting off his access to systems and services he was legally entitled to use as a director.
+1.  **Secret Card Cancellation (7 June 2025):** Peter Faucitt admits in his own affidavit that he cancelled Daniel Faucitt's corporate cards, but conceals that he did so secretly without Daniel's knowledge and without authority under the SOLE mandate. This cut off Daniel's access to systems and services he was legally entitled to use as a director with Sole General Powers. The SOLE mandate did not give Peter unilateral authority to revoke another director's banking access.
 2.  **Fraudulent Interdict (19 August 2025):** The perpetrators obtained a High Court interdict based on perjury. This void order was then used as a legal pretext to deny Daniel Faucitt access to all company data, including his own personal information stored on company systems.
 3.  **Refusal to Comply with Access Requests:** Formal notices demanding access and compliance with POPIA, sent by Daniel Faucitt on 8 July 2025, were ignored. The perpetrators instead accelerated their efforts to secure the fraudulent court order.
 

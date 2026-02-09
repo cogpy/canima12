@@ -45,7 +45,7 @@ In his ex parte application, Peter Faucitt had a duty of utmost good faith (*ube
 
 1.  The existence of the **SOLE banking mandate**.
 2.  The **FNB legal letter of 18 June 2025**.
-3.  That he had **cancelled Daniel's business cards** on 7 June 2025, forcing Daniel to use personal funds for company expenses.
+3.  That he had **secretly cancelled Daniel's business cards** on 7 June 2025 without Daniel's knowledge and without authority under the SOLE mandate — then weaponized the consequences by characterizing Daniel's forced reimbursement of R520K+ in personal business expenses as "theft." Peter admits the cancellation in his own affidavit but conceals that it was done secretly and without authority.
 4.  That the R500,000 "extraction" he complained about was a **partial reimbursement** for over R520,000 in documented business expenses Daniel had paid personally.
 
 ## 4. The Contempt Filing as a Weapon of Persecution
