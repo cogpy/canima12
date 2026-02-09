@@ -1,0 +1,182 @@
+{
+  "case_id": "2025-137857",
+  "case_title": "Faucitt v Faucitt — Ex Parte Interdict (19 August 2025)",
+  "jurisdiction": "ZA",
+  "generated_date": "2026-02-09",
+  "agents": [
+    {
+      "agent_id": "APPLICANT",
+      "name": "Peter Andrew Faucitt",
+      "role": "Applicant in ex parte interdict application",
+      "id_number": "520430 5708 18 5",
+      "alternative_explanation": ""
+    },
+    {
+      "agent_id": "SUPPORTING_AFFIANT",
+      "name": "Daniel Jacobus Bantjies",
+      "role": "Accountant, Trustee of FFT, signatory of supporting affidavit",
+      "id_number": "",
+      "alternative_explanation": ""
+    },
+    {
+      "agent_id": "OPERATOR",
+      "name": "Rynette Farrar",
+      "role": "Financial Controller, operated Peter's email (pete@regima.com)",
+      "id_number": "",
+      "alternative_explanation": ""
+    }
+  ],
+  "material_facts": [
+    {
+      "fact_id": "FACT_LEGAL_IMPOSSIBILITY",
+      "description": "FNB banking mandates grant all directors 'Administrator with Sole General Powers' — making 'unauthorized transactions' a legal impossibility",
+      "category": "fraud",
+      "significance": "The entire foundation of the interdict (unauthorized transactions) is legally impossible under the company's own banking mandates signed by the applicant.",
+      "related_facts": ["FACT_PERJURY_FOREKNOWLEDGE"]
+    },
+    {
+      "fact_id": "FACT_PERJURY_FOREKNOWLEDGE",
+      "description": "FNB Legal informed Peter on 18 June 2025 that all directors could act independently — two months before he swore the opposite under oath",
+      "category": "obstruction",
+      "significance": "Proves the applicant had documentary foreknowledge that his sworn statements were false, elevating misrepresentation to deliberate perjury.",
+      "related_facts": ["FACT_LEGAL_IMPOSSIBILITY", "FACT_MATERIAL_NONDISCLOSURE"]
+    },
+    {
+      "fact_id": "FACT_MATERIAL_NONDISCLOSURE",
+      "description": "Peter failed to disclose the SOLE banking mandate, the FNB Legal letter, his cancellation of Daniel's cards, and the true context of the R500K reimbursement",
+      "category": "fraud",
+      "significance": "Breach of the duty of utmost good faith (uberrima fides) in an ex parte application. Any one of these non-disclosures would be grounds for rescission.",
+      "related_facts": ["FACT_LEGAL_IMPOSSIBILITY", "FACT_PERJURY_FOREKNOWLEDGE"]
+    },
+    {
+      "fact_id": "FACT_SUPPORTING_AFFIDAVIT_PERJURY",
+      "description": "Bantjies received Daniel's comprehensive fraud report on 6 June 2025, forwarded it to his work email, yet signed a false supporting affidavit on 1 August 2025",
+      "category": "obstruction",
+      "significance": "Establishes a conspiracy to defraud the court. Bantjies had provable knowledge of the true state of affairs yet chose to support the perjured application.",
+      "related_facts": ["FACT_PERJURY_FOREKNOWLEDGE", "FACT_BANTJIES_CONFLICT"]
+    },
+    {
+      "fact_id": "FACT_BANTJIES_CONFLICT",
+      "description": "Bantjies had an undisclosed conflict of interest — R18.685M owed to FFT through Ketoni Investment Holdings where he serves as CFO of the parent company",
+      "category": "breach_of_duty",
+      "significance": "Bantjies' dual role as FFT Trustee and CFO of the George Group (Ketoni parent) creates a massive undisclosed conflict of interest motivating his perjury.",
+      "related_facts": ["FACT_SUPPORTING_AFFIDAVIT_PERJURY"]
+    },
+    {
+      "fact_id": "FACT_CARD_CANCELLATION",
+      "description": "Peter cancelled Daniel's business cards on 7 June 2025, forcing Daniel to use personal funds for company expenses, then claimed the reimbursement was 'theft'",
+      "category": "fraud",
+      "significance": "The R500K 'extraction' alleged in the interdict was actually a partial reimbursement for R520K+ in documented business expenses. Peter created the problem then weaponized it.",
+      "related_facts": ["FACT_MATERIAL_NONDISCLOSURE"]
+    },
+    {
+      "fact_id": "FACT_CONTEMPT_AS_WEAPON",
+      "description": "Peter filed a Contempt of Court application on 4 February 2026 seeking 6 months imprisonment based on the void order",
+      "category": "obstruction",
+      "significance": "Attempting to imprison someone for non-compliance with a void order constitutes malicious prosecution and defeating the ends of justice.",
+      "related_facts": ["FACT_LEGAL_IMPOSSIBILITY", "FACT_PERJURY_FOREKNOWLEDGE"]
+    }
+  ],
+  "knowledge_events": [
+    {
+      "event_id": "KE_PETER_001",
+      "agent_id": "APPLICANT",
+      "fact_id": "FACT_LEGAL_IMPOSSIBILITY",
+      "timestamp": "2021-01-01T00:00:00Z",
+      "acquisition_type": "documentary_proof",
+      "evidence_refs": ["FNB_Mandate_RegimA_Worldwide.pdf", "FNB_Mandate_Strategic_Logistics.pdf"],
+      "description": "Peter signed the FNB banking mandates appointing all directors as 'Administrator with Sole General Powers'. He created the very authority he later claimed did not exist.",
+      "confidence": "proven"
+    },
+    {
+      "event_id": "KE_PETER_002",
+      "agent_id": "APPLICANT",
+      "fact_id": "FACT_PERJURY_FOREKNOWLEDGE",
+      "timestamp": "2025-06-18T16:51:00Z",
+      "acquisition_type": "email_correspondence",
+      "evidence_refs": ["FNB_Legal_Letter_18_June_2025.pdf", "ProofofFNBSoleMandateforRegimAWorldwideDistribution.pdf"],
+      "description": "FNB Legal (Mpumi Netshipale) emailed Peter directly: 'The current mandate states that any of the directors of the company may act independently of each other.' Sent to pete@regima.com two months before the interdict application.",
+      "confidence": "proven"
+    },
+    {
+      "event_id": "KE_PETER_003",
+      "agent_id": "APPLICANT",
+      "fact_id": "FACT_CARD_CANCELLATION",
+      "timestamp": "2025-06-07T00:00:00Z",
+      "acquisition_type": "active_participation",
+      "evidence_refs": ["EVENT_012", "FNB_Card_Cancellation_Records"],
+      "description": "Peter cancelled Daniel's business cards on 7 June 2025, forcing Daniel to use personal funds for R520K+ in business expenses. Peter then characterized the reimbursement as 'theft' in his affidavit.",
+      "confidence": "proven"
+    },
+    {
+      "event_id": "KE_PETER_004",
+      "agent_id": "APPLICANT",
+      "fact_id": "FACT_MATERIAL_NONDISCLOSURE",
+      "timestamp": "2025-08-13T00:00:00Z",
+      "acquisition_type": "documentary_proof",
+      "evidence_refs": ["Founding_Affidavit_13_August_2025", "Peter_Founding_Affidavit_STRUCTURED_FINAL.docx"],
+      "description": "Peter signed the founding affidavit without disclosing: (1) the SOLE banking mandate, (2) the FNB Legal letter of 18 June 2025, (3) his cancellation of Daniel's cards, (4) the true context of the R500K reimbursement.",
+      "confidence": "proven"
+    },
+    {
+      "event_id": "KE_PETER_005",
+      "agent_id": "APPLICANT",
+      "fact_id": "FACT_CONTEMPT_AS_WEAPON",
+      "timestamp": "2026-02-04T00:00:00Z",
+      "acquisition_type": "documentary_proof",
+      "evidence_refs": ["NoticeofMotion-ContemptofCourtApplication05.02.2026y.pdf"],
+      "description": "Peter filed a Contempt of Court application seeking 6 months imprisonment for Jacqueline, based entirely on the void interdict he obtained through perjury.",
+      "confidence": "proven"
+    },
+    {
+      "event_id": "KE_BANTJIES_001",
+      "agent_id": "SUPPORTING_AFFIANT",
+      "fact_id": "FACT_SUPPORTING_AFFIDAVIT_PERJURY",
+      "timestamp": "2025-06-06T13:00:00Z",
+      "acquisition_type": "email_correspondence",
+      "evidence_refs": ["ReminderofPerjuryontheSupportingAffidavitPart1.pdf", "Daniel_Report_6_June_2025"],
+      "description": "Daniel sent Bantjies a comprehensive report detailing all company structures, 51+ Shopify stores, and warning of R1M+ misallocation. Bantjies forwarded it to his own work email (danieb@quatro.co.za) at 14:30, proving receipt and processing.",
+      "confidence": "proven"
+    },
+    {
+      "event_id": "KE_BANTJIES_002",
+      "agent_id": "SUPPORTING_AFFIANT",
+      "fact_id": "FACT_BANTJIES_CONFLICT",
+      "timestamp": "2024-07-01T00:00:00Z",
+      "acquisition_type": "active_participation",
+      "evidence_refs": ["FFT_Appointment_Docs", "George_Group_Employment"],
+      "description": "Bantjies accepted appointment as FFT Trustee while already serving as CFO of the George Group (Derrick's company), creating the R18.685M dual-control conflict of interest.",
+      "confidence": "proven"
+    },
+    {
+      "event_id": "KE_BANTJIES_003",
+      "agent_id": "SUPPORTING_AFFIANT",
+      "fact_id": "FACT_SUPPORTING_AFFIDAVIT_PERJURY",
+      "timestamp": "2025-08-01T00:00:00Z",
+      "acquisition_type": "documentary_proof",
+      "evidence_refs": ["Bantjies_Supporting_Affidavit_1_August_2025"],
+      "description": "Bantjies signed the supporting affidavit on 1 August 2025, nearly two months after receiving Daniel's fraud report. He failed to disclose the report or his conflict of interest.",
+      "confidence": "proven"
+    },
+    {
+      "event_id": "KE_RYNETTE_001",
+      "agent_id": "OPERATOR",
+      "fact_id": "FACT_PERJURY_FOREKNOWLEDGE",
+      "timestamp": "2025-06-18T08:17:00Z",
+      "acquisition_type": "email_correspondence",
+      "evidence_refs": ["FNB_Meeting_Request_Email_18_June_2025"],
+      "description": "Rynette operated Peter's email (pete@regima.com) and sent the meeting time change request to FNB at 08:17 on 18 June 2025. She therefore received the FNB Legal response at 16:51 confirming independent director authority.",
+      "confidence": "proven"
+    },
+    {
+      "event_id": "KE_RYNETTE_002",
+      "agent_id": "OPERATOR",
+      "fact_id": "FACT_CARD_CANCELLATION",
+      "timestamp": "2025-06-07T00:00:00Z",
+      "acquisition_type": "active_participation",
+      "evidence_refs": ["EVENT_012", "FNB_Card_Cancellation_Records"],
+      "description": "Rynette, as the person operating Peter's financial affairs, was directly involved in the cancellation of Daniel's business cards on 7 June 2025.",
+      "confidence": "probable"
+    }
+  ]
+}

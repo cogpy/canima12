@@ -1,0 +1,52 @@
+# Per-Agent Temporal Audit Trail
+
+**Case:** 2025-137857 — Faucitt v Faucitt — Ex Parte Interdict (19 August 2025)
+**Generated:** 2026-02-08 20:10:13
+
+---
+
+## Peter Andrew Faucitt (APPLICANT)
+
+**Role:** Applicant in ex parte interdict application
+**Classification:** Tier A — Premeditated Conspirator
+**Proven Knowledge Events:** 5
+**Proof Types:** active_participation, documentary_proof, email_correspondence
+
+| # | Timestamp | Material Fact | Acquisition Type | Evidence References |
+|---|---|---|---|---|
+| 1 | 2021-01-01T00:00:00Z | FNB banking mandates grant all directors 'Administrator with Sole General Powers' — making 'unauthorized transactions' a legal impossibility | documentary_proof | FNB_Mandate_RegimA_Worldwide.pdf, FNB_Mandate_Strategic_Logistics.pdf |
+| 2 | 2025-06-07T00:00:00Z | Peter cancelled Daniel's business cards on 7 June 2025, forcing Daniel to use personal funds for company expenses, then claimed the reimbursement was 'theft' | active_participation | EVENT_012, FNB_Card_Cancellation_Records |
+| 3 | 2025-06-18T16:51:00Z | FNB Legal informed Peter on 18 June 2025 that all directors could act independently — two months before he swore the opposite under oath | email_correspondence | FNB_Legal_Letter_18_June_2025.pdf, ProofofFNBSoleMandateforRegimAWorldwideDistribution.pdf |
+| 4 | 2025-08-13T00:00:00Z | Peter failed to disclose the SOLE banking mandate, the FNB Legal letter, his cancellation of Daniel's cards, and the true context of the R500K reimbursement | documentary_proof | Founding_Affidavit_13_August_2025, Peter_Founding_Affidavit_STRUCTURED_FINAL.docx |
+| 5 | 2026-02-04T00:00:00Z | Peter filed a Contempt of Court application on 4 February 2026 seeking 6 months imprisonment based on the void order | documentary_proof | NoticeofMotion-ContemptofCourtApplication05.02.2026y.pdf |
+
+---
+
+## Daniel Jacobus Bantjies (SUPPORTING_AFFIANT)
+
+**Role:** Accountant, Trustee of FFT, signatory of supporting affidavit
+**Classification:** Tier A — Premeditated Conspirator
+**Proven Knowledge Events:** 3
+**Proof Types:** active_participation, documentary_proof, email_correspondence
+
+| # | Timestamp | Material Fact | Acquisition Type | Evidence References |
+|---|---|---|---|---|
+| 1 | 2024-07-01T00:00:00Z | Bantjies had an undisclosed conflict of interest — R18.685M owed to FFT through Ketoni Investment Holdings where he serves as CFO of the parent company | active_participation | FFT_Appointment_Docs, George_Group_Employment |
+| 2 | 2025-06-06T13:00:00Z | Bantjies received Daniel's comprehensive fraud report on 6 June 2025, forwarded it to his work email, yet signed a false supporting affidavit on 1 August 2025 | email_correspondence | ReminderofPerjuryontheSupportingAffidavitPart1.pdf, Daniel_Report_6_June_2025 |
+| 3 | 2025-08-01T00:00:00Z | Bantjies received Daniel's comprehensive fraud report on 6 June 2025, forwarded it to his work email, yet signed a false supporting affidavit on 1 August 2025 | documentary_proof | Bantjies_Supporting_Affidavit_1_August_2025 |
+
+---
+
+## Rynette Farrar (OPERATOR)
+
+**Role:** Financial Controller, operated Peter's email (pete@regima.com)
+**Classification:** Tier B — Active Participant with Proven Knowledge
+**Proven Knowledge Events:** 2
+**Proof Types:** active_participation, email_correspondence
+
+| # | Timestamp | Material Fact | Acquisition Type | Evidence References |
+|---|---|---|---|---|
+| 1 | 2025-06-07T00:00:00Z | Peter cancelled Daniel's business cards on 7 June 2025, forcing Daniel to use personal funds for company expenses, then claimed the reimbursement was 'theft' | active_participation | EVENT_012, FNB_Card_Cancellation_Records |
+| 2 | 2025-06-18T08:17:00Z | FNB Legal informed Peter on 18 June 2025 that all directors could act independently — two months before he swore the opposite under oath | email_correspondence | FNB_Meeting_Request_Email_18_June_2025 |
+
+---
