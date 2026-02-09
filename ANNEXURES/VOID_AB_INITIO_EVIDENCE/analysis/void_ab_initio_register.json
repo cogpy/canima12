@@ -24,9 +24,23 @@
       "role": "Financial Controller, operated Peter's email (pete@regima.com)",
       "id_number": "",
       "alternative_explanation": ""
+    },
+    {
+      "agent_id": "VICTIM",
+      "name": "Jacqueline Faucitt",
+      "role": "Victim of weaponized litigation, target of contempt application",
+      "id_number": "570607 0898 18 1",
+      "alternative_explanation": ""
     }
   ],
   "material_facts": [
+    {
+      "fact_id": "FACT_SETTLEMENT_WEAPONIZATION",
+      "description": "The settlement agreements (PF13/PF14) were used to force psychiatric evaluations and drug screening, weaponizing the legal process to silence and discredit a witness.",
+      "category": "obstruction",
+      "significance": "Shows that the entire legal process, including mediation and settlement, was co-opted into the criminal enterprise to control and silence the victim.",
+      "related_facts": ["FACT_WEAPONIZED_LITIGATION"]
+    },
     {
       "fact_id": "FACT_LEGAL_IMPOSSIBILITY",
       "description": "FNB banking mandates grant all directors 'Administrator with Sole General Powers' — making 'unauthorized transactions' a legal impossibility",
@@ -71,7 +85,7 @@
     },
     {
       "fact_id": "FACT_CONTEMPT_AS_WEAPON",
-      "description": "Peter filed a Contempt of Court application on 4 February 2026 seeking 6 months imprisonment based on the void order",
+      "description": "Peter filed a Contempt of Court application on 4 February 2026 seeking 6 months imprisonment for Jacqueline Faucitt, based entirely on the void order",
       "category": "obstruction",
       "significance": "Attempting to imprison someone for non-compliance with a void order constitutes malicious prosecution and defeating the ends of justice.",
       "related_facts": ["FACT_LEGAL_IMPOSSIBILITY", "FACT_PERJURY_FOREKNOWLEDGE"]
@@ -85,7 +99,7 @@
     },
     {
       "fact_id": "FACT_WEAPONIZED_LITIGATION",
-      "description": "Peter and Rynette filed a 3rd Urgent Application in Nov 2025, using Jacquis attempt to warn De Novo about the fake accounts as a basis to label her as harassing and mentally unstable.",
+      "description": "Peter and Rynette filed a 3rd Urgent Application in Nov 2025, using Jacqui's attempt to warn De Novo about the fake accounts as a basis to label her as harassing and mentally unstable, citing the settlement agreements' medical testing clauses as a weapon.",
       "category": "obstruction",
       "significance": "Demonstrates a pattern of using the courts as an instrument of fraud — attacking the victim for trying to expose the crime. It also reveals the true purpose of the settlement agreements medical testing clause as a weapon to silence witnesses.",
       "related_facts": ["FACT_FAKE_ACCOUNTS", "FACT_CONTEMPT_AS_WEAPON"]
@@ -221,6 +235,16 @@
       "evidence_refs": ["EVENT_012", "FNB_Card_Cancellation_Records"],
       "description": "Rynette, as the person operating Peter's financial affairs, was directly involved in the cancellation of Daniel's business cards on 7 June 2025.",
       "confidence": "probable"
+    },
+    {
+      "event_id": "KE_PETER_008",
+      "agent_id": "APPLICANT",
+      "fact_id": "FACT_SETTLEMENT_WEAPONIZATION",
+      "timestamp": "2025-09-18T00:00:00Z",
+      "acquisition_type": "documentary_proof",
+      "evidence_refs": ["NoticeofMotion-ContemptofCourtApplication05.02.2026y.pdf"],
+      "description": "Peter included the settlement agreements (PF13/PF14) in the contempt application, which contain clauses for psychiatric evaluations and drug screening, demonstrating the intent to use them as weapons to discredit Jacqueline.",
+      "confidence": "proven"
     }
   ]
 }

@@ -14,19 +14,25 @@ The ex parte interdict granted on 19 August 2025 is **void ab initio** (void fro
 
 > **"Fraud unravels all"** — The interdict was not a tool for justice. It was a weapon forged through perjury to seize control of company assets and persecute legitimate business owners.
 
-### The Three Pillars of Invalidity
+### The Seven Pillars & Patterns of Invalidity
 
-| Pillar | Evidence | Proof |
-|---|---|---|
-| **1. Legal Impossibility** | FNB mandates appoint all directors as "Administrator with **SOLE** General Powers." The concept of an "unauthorized" transaction is a legal absurdity. | FNB FICA/KYC Mandate (1 June 2021) |
-| **2. Perjury with Foreknowledge** | Peter Faucitt received written confirmation from FNB Legal on **18 June 2025** that directors could act independently, then swore the opposite under oath two months later. | FNB Legal Letter (18 June 2025) |
-| **3. Material Non-Disclosure** | Peter Faucitt concealed the SOLE mandate, the FNB legal letter, his sabotage of company cards, and the fact that the R500K "theft" was a reimbursement for R520K+ in business expenses. | Application to Set Aside |
+| # | Pillar / Pattern | Evidence | Proof |
+|---|---|---|---|
+| 1 | **Legal Impossibility** | FNB mandates appoint all directors as "Administrator with **SOLE** General Powers." | FNB FICA/KYC Mandate |
+| 2 | **Perjury with Foreknowledge** | FNB Legal confirmed SOLE authority on 18 June 2025; Peter swore the opposite 2 months later. | FNB Legal Letter |
+| 3 | **Material Non-Disclosure** | Peter concealed the SOLE mandate, FNB letter, card sabotage, and R500K reimbursement context. | Application to Set Aside |
+| 4 | **Supporting Affidavit Fraud** | Bantjies received Daniel's fraud report on 6 June 2025, yet signed a false affidavit on 1 August 2025. | Perjury Reminder emails |
+| 5 | **Direct Admission w/ Concealment** | Peter admits cancelling Daniel's cards but conceals he did so secretly and without authority. | Peter's own affidavit |
+| 6 | **Fabrication of Evidence** | Fake 2019 accounts for a company name created in 2021; Peter signed as director for a year he wasn't appointed. | Rynette-De Novo emails |
+| 7 | **Weaponized Litigation** | Jacqui sued for "harassment" for trying to warn De Novo about the fake accounts; settlement clauses used to silence witnesses. | 3rd Urgent Application |
 
 ### The Contempt Application: Weaponizing a Void Order
 
 On 4 February 2026, Peter Faucitt filed a Contempt of Court Application seeking **6 months imprisonment** for Jacqueline Faucitt. This is not a legitimate legal action. It is the use of a fraudulent, void court order to imprison a victim of the fraud.
 
 **[→ Read Full Void Ab Initio Reassessment](./filings/VOID_AB_INITIO_REASSESSMENT_2026_02_09.md)**
+
+**[→ Read Final Void Ab Initio Report (with Knowledge Matrix & Timeline)](./filings/FINAL_VOID_AB_INITIO_REPORT_2026_02_09.md)**
 
 ---
 
@@ -50,6 +56,7 @@ All legal filings have been reframed around the **void ab initio** finding. The 
 
 | Filing | Type | Burden | Latest Version |
 |---|---|---|---|
+| **FINAL Void Ab Initio Report** | Analysis | — | **[View (2026-02-09)](./filings/FINAL_VOID_AB_INITIO_REPORT_2026_02_09.md)** |
 | **Void Ab Initio Reassessment** | Analysis | — | **[View (2026-02-09)](./filings/VOID_AB_INITIO_REASSESSMENT_2026_02_09.md)** |
 | **CIPC Complaint** | Regulatory | 50% EXCEEDED | **[View v2 (2026-02-09)](./filings/CIPC_COMPLAINT_REFINED_2026_02_09_v2.md)** |
 | **POPIA Complaint** | Criminal | 95% EXCEEDED | **[View v2 (2026-02-09)](./filings/POPIA_COMPLAINT_REFINED_2026_02_09_v2.md)** |
@@ -91,7 +98,7 @@ A **ZAR 18.685 million payout**, owed by **Ketoni Investment Holdings** to the *
 |---|---|---|
 | Civil Claims (50% burden) | EXCEEDED | Conclusive |
 | Criminal Charges (95% burden) | EXCEEDED | 12 of 13 charges meet 90%+ threshold |
-| **Void Ab Initio** | **NEW** | **Interdict is void from the beginning** |
+| **Void Ab Initio** | **7 PILLARS PROVEN** | **All 3 agents Tier A — 14 proven events** |
 
 ### [Application 2: CIPC & POPIA Complaints](./application-2-cipc-popia.md)
 
@@ -107,6 +114,7 @@ A **ZAR 18.685 million payout**, owed by **Ketoni Investment Holdings** to the *
 | Commercial Crimes | DOCUMENTED | Fraud, theft, forgery, racketeering |
 | Tax Fraud | DOCUMENTED | Income tax evasion, VAT fraud |
 | **Perjury** | **EXCEEDED** | **Provable foreknowledge of false claims** |
+| **Fabrication** | **EXCEEDED** | **Fake 2019 accounts — irrefutable** |
 
 ---
 
@@ -114,7 +122,8 @@ A **ZAR 18.685 million payout**, owed by **Ketoni Investment Holdings** to the *
 
 | Document | Description |
 |---|---|
-| **[Void Ab Initio Reassessment](./filings/VOID_AB_INITIO_REASSESSMENT_2026_02_09.md)** | NEW: The interdict as a weapon |
+| **[FINAL Void Ab Initio Report](./filings/FINAL_VOID_AB_INITIO_REPORT_2026_02_09.md)** | **LATEST: 7 pillars, knowledge matrix, 14 proven events** |
+| **[Void Ab Initio Reassessment](./filings/VOID_AB_INITIO_REASSESSMENT_2026_02_09.md)** | The interdict as a weapon |
 | **[Contempt Evidence Summary](./evidence/CONTEMPT_EVIDENCE_SUMMARY_2026_02_09.md)** | Analysis of contempt application |
 | **[Contempt Relations Map](./relations/CONTEMPT_RELATIONS_2026_02_09.md)** | Party and temporal relations |
 | **[Evidence Index](./evidence_index_2026_02_06.md)** | Comprehensive catalog with all evidence |
@@ -143,6 +152,7 @@ A **ZAR 18.685 million payout**, owed by **Ketoni Investment Holdings** to the *
 | **[EVENT_099](./events/EVENT_099.md)** | 2026-01-12 | Attorney correspondence re contempt |
 | **[EVENT_100](./events/EVENT_100.md)** | 2025-12-02 | Bank cards, phone removal, body guard |
 | **[EVENT_101](./events/EVENT_101.md)** | 2026-02-04 | Contempt application filed |
+| **[EVENT_102](./events/EVENT_102.md)** | 2026-02-04 | Void ab initio evidence submitted |
 
 ---
 
@@ -172,4 +182,4 @@ For comprehensive supporting evidence, see the **[ad-res-j7 repository](https://
 | 2026-02-04 | Contempt application filed (void order) | T-3 |
 | **2026-05** | **Ketoni payout due** | **T-0** |
 
-*Last Updated: 2026-02-09 — LEX Case Analysis System (Void Ab Initio Reassessment)*
+*Last Updated: 2026-02-09 — LEX Case Analysis System (Final Void Ab Initio Report — 7 Pillars, 4 Agents, 10 Facts, 14 Knowledge Events)*

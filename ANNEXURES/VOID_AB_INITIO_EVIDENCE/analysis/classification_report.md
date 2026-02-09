@@ -1,7 +1,7 @@
 # Foreknowledge Classification Report
 
 **Case:** 2025-137857 — Faucitt v Faucitt — Ex Parte Interdict (19 August 2025)
-**Generated:** 2026-02-08 20:23:27
+**Generated:** 2026-02-08 20:30:12
 
 ---
 
@@ -19,7 +19,7 @@
 ## Peter Andrew Faucitt — TIER A (Premeditated Conspirator)
 
 **Role:** Applicant in ex parte interdict application
-**Proven Knowledge Events:** 7
+**Proven Knowledge Events:** 8
 
 | Foreknowledge Indicator | Evidence | Type of Proof | Date |
 |---|---|---|---|
@@ -28,8 +28,9 @@
 | Peter admits in his own affidavit that he cancelled Daniel's business cards, but conceals that he did so secretly without Daniel's knowledge and without authority under the SOLE mandate | Peter_Founding_Affidavit_STRUCTURED_FINAL.docx, EVENT_012, FNB_Card_Cancellation_Records | direct_admission | 2025-06-07 |
 | FNB Legal informed Peter on 18 June 2025 that all directors could act independently — two months before he swore the opposite under oath | FNB_Legal_Letter_18_June_2025.pdf, ProofofFNBSoleMandateforRegimAWorldwideDistribution.pdf | email_correspondence | 2025-06-18 |
 | Peter failed to disclose the SOLE banking mandate, the FNB Legal letter, his cancellation of Daniel's cards, and the true context of the R500K reimbursement | Founding_Affidavit_13_August_2025, Peter_Founding_Affidavit_STRUCTURED_FINAL.docx | documentary_proof | 2025-08-13 |
-| Peter and Rynette filed a 3rd Urgent Application in Nov 2025, using Jacquis attempt to warn De Novo about the fake accounts as a basis to label her as harassing and mentally unstable. | 3rd_Urgent_Application_Nov_2025.pdf | documentary_proof | 2025-11-01 |
-| Peter filed a Contempt of Court application on 4 February 2026 seeking 6 months imprisonment based on the void order | NoticeofMotion-ContemptofCourtApplication05.02.2026y.pdf | documentary_proof | 2026-02-04 |
+| The settlement agreements (PF13/PF14) were used to force psychiatric evaluations and drug screening, weaponizing the legal process to silence and discredit a witness. | NoticeofMotion-ContemptofCourtApplication05.02.2026y.pdf | documentary_proof | 2025-09-18 |
+| Peter and Rynette filed a 3rd Urgent Application in Nov 2025, using Jacqui's attempt to warn De Novo about the fake accounts as a basis to label her as harassing and mentally unstable, citing the settlement agreements' medical testing clauses as a weapon. | 3rd_Urgent_Application_Nov_2025.pdf | documentary_proof | 2025-11-01 |
+| Peter filed a Contempt of Court application on 4 February 2026 seeking 6 months imprisonment for Jacqueline Faucitt, based entirely on the void order | NoticeofMotion-ContemptofCourtApplication05.02.2026y.pdf | documentary_proof | 2026-02-04 |
 
 ---
 
@@ -56,5 +57,16 @@
 | Rynette instructed De Novo to produce fake 2019 accounts for RegimA SA, a company name that only existed from March 2021. Peter signed these fraudulent accounts as director for a year he was not appointed. | Rynette_De_Novo_Email_Annexure_3rd_Urgent_Application.pdf | email_correspondence | 2021-05-01 |
 | Peter admits in his own affidavit that he cancelled Daniel's business cards, but conceals that he did so secretly without Daniel's knowledge and without authority under the SOLE mandate | EVENT_012, FNB_Card_Cancellation_Records | active_participation | 2025-06-07 |
 | FNB Legal informed Peter on 18 June 2025 that all directors could act independently — two months before he swore the opposite under oath | FNB_Meeting_Request_Email_18_June_2025 | email_correspondence | 2025-06-18 |
+
+---
+
+## Jacqueline Faucitt — TIER C (Participant — Knowledge Unproven)
+
+**Role:** Victim of weaponized litigation, target of contempt application
+**Proven Knowledge Events:** 0
+
+*No knowledge events recorded. This agent's involvement is structural only.*
+
+> **Note:** There is no documentary evidence that this agent had foreknowledge of unlawful activity. They may be an innocent party who was deceived.
 
 ---
