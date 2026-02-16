@@ -63,6 +63,12 @@ RWD/NOTICE/001 establishes that **Mr. Peter Faucitt does not use electronic comm
 
 RWD/NOTICE/002 documents the systematic destruction of the company's integrated fulfillment pipeline (Shopify → Courier Guy API → Sage Pastel) and exposes an irreconcilable contradiction: the Applicant simultaneously blames the Second Respondent for not fulfilling orders while threatening him with contempt for restoring the infrastructure necessary to fulfil them.
 
+### CIPC Complaint (16 February 2026)
+
+A formal complaint has been drafted for submission to the CIPC at `Cor135.1complaints@cipc.co.za`, incorporating the evidence from both RWD Notices. The complaint seeks a delinquency declaration under s162, investigation of contraventions of s76, s77, s22, and s214, and referral for criminal investigation.
+
+**[→ View CIPC Complaint Draft](./filings/CIPC_COMPLAINT_RWD_NOTICES_2026_02_16.md)**
+
 ---
 
 ## SAGE ACCOUNT TAKEOVER & STOCK2SHOP RECONFIGURATION (2020-2024)
