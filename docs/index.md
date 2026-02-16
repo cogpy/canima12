@@ -63,6 +63,12 @@ RWD/NOTICE/001 establishes that **Mr. Peter Faucitt does not use electronic comm
 
 RWD/NOTICE/002 documents the systematic destruction of the company's integrated fulfillment pipeline (Shopify → Courier Guy API → Sage Pastel) and exposes an irreconcilable contradiction: the Applicant simultaneously blames the Second Respondent for not fulfilling orders while threatening him with contempt for restoring the infrastructure necessary to fulfil them.
 
+### Disclosure Package & Board Meeting Notice (16 February 2026)
+
+A formal disclosure letter has been prepared for service on Mr. Peter Andrew Faucitt. The letter frames the notification as a **protective disclosure** — citing the Board's concern that Peter's identity may have been misappropriated by Ms. Rynette Farrar to commit criminal acts in his name. The letter gives Peter the opportunity to attend a board meeting, review the evidence, and declare whether the offences were committed without his knowledge or whether he personally committed them and wishes to provide justification. The meeting agenda includes the proposed resolutions for his removal as director (s71(3)) and the authorisation of a court application for his removal as CC member (s36). A detailed multi-channel service protocol ensures an irrefutable record of delivery.
+
+**[→ View Disclosure Package & Service Protocol](./disclosure-package/index.md)**
+
 ### CIPC Complaint (16 February 2026)
 
 A formal complaint has been drafted for submission to the CIPC at `Cor135.1complaints@cipc.co.za`, incorporating the evidence from both RWD Notices. The complaint seeks a delinquency declaration under s162, investigation of contraventions of s76, s77, s22, and s214, and referral for criminal investigation.
