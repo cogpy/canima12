@@ -87,6 +87,12 @@ A draft court application has been prepared for the removal of Peter Andrew Fauc
 
 **[→ View CC Member Removal Application](./cc-member-removal/index.md)**
 
+### Domain Dispute: regimaskin.co.za
+
+Draft filings have been prepared for the dispute over the domain `regimaskin.co.za`, registered by Addarory (Pty) Ltd (Rynette Farrar's son's company) on 29 May 2025 — just 7 days after the Shopify audit trails were deleted. Two parallel processes are in motion: an **SAIIPL ADR Complaint** (formal transfer proceedings, R10,000 fee, 2-3 month resolution) and a **ZARC Abuse Takedown Request** (immediate suspension request to the registry, no fee). Both should be filed simultaneously.
+
+**[→ View Domain Dispute Filings](./domain-dispute/index.md)**
+
 ---
 
 ## SAGE ACCOUNT TAKEOVER & STOCK2SHOP RECONFIGURATION (2020-2024)
