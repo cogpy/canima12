@@ -69,6 +69,12 @@ A formal complaint has been drafted for submission to the CIPC at `Cor135.1compl
 
 **[→ View CIPC Complaint Draft](./filings/CIPC_COMPLAINT_RWD_NOTICES_2026_02_16.md)**
 
+### Board Resolution: Removal of Director (Section 71(3))
+
+A formal board resolution package has been prepared for the removal of Peter Andrew Faucitt as director under Section 71(3) of the Companies Act, on the grounds of neglect and dereliction of the functions of a director. The package includes the statutory notice, the resolution, and the minutes template, together with a CIPC CoR39 filing checklist.
+
+**[→ View Board Resolution Package](./board-resolutions/index.md)**
+
 ---
 
 ## SAGE ACCOUNT TAKEOVER & STOCK2SHOP RECONFIGURATION (2020-2024)
