@@ -1,6 +1,6 @@
 # Revenue Stream Hijacking Case 2025-137857
 
-**Last Updated:** 2026-02-09
+**Last Updated:** 2026-02-16
 
 This site provides comprehensive evidence, analysis, and legal documentation for case 2025-137857 involving revenue stream hijacking, trust violations, and financial fraud totaling over **R63,000,000**.
 
@@ -43,6 +43,25 @@ The ex parte interdict granted on 19 August 2025 is **void ab initio** (void fro
 ### The Contempt Application: Weaponizing a Void Order
 
 On 4 February 2026, Peter Faucitt filed a Contempt of Court Application seeking **6 months imprisonment** for Jacqueline Faucitt. This is not a legitimate legal action. It is the use of a fraudulent, void court order to imprison a victim of the fraud.
+
+---
+
+## RWD FORMAL NOTICES (February 2026)
+
+Regima Worldwide Distribution (Pty) Ltd, acting through a majority of its Board of Directors (Mrs. Jacqueline Faucitt and Mr. Daniel James Faucitt), has issued formal corporate notices placing all parties on notice of documentary evidence of identity misappropriation, material non-disclosure, and systematic operational sabotage.
+
+**[→ View Full RWD Notices](./rwd-notices/index.md)**
+
+| Notice | Date | Key Content |
+|---|---|---|
+| **[RWD/NOTICE/001](./rwd-notices/RWD_NOTICE_001.md)** | 13 Feb 2026 | Identity misappropriation of P.A. Faucitt by Rynette Farrar; material non-disclosure rendering interdict void ab initio; R10.6M extraction; provable knowledge notice to all parties |
+| **[RWD/NOTICE/002](./rwd-notices/RWD_NOTICE_002.md)** | 14 Feb 2026 | Systematic destruction of e-commerce fulfillment pipeline; Shopify decommissioning; Courier Guy API breakage; self-contradicting contempt threat; operational lockout pattern |
+
+### Key Findings from the Notices
+
+RWD/NOTICE/001 establishes that **Mr. Peter Faucitt does not use electronic communication systems** and that all digital communications attributed to him were authored by Ms. Rynette Farrar, who simultaneously operated `pete@regima.com` and her own `rynette@regima.zone` on the Sage system. The notice argues the interdict is void ab initio due to the suppression of FNB's own FICA/KYC records confirming a SOLE mandate held by Daniel James Faucitt.
+
+RWD/NOTICE/002 documents the systematic destruction of the company's integrated fulfillment pipeline (Shopify → Courier Guy API → Sage Pastel) and exposes an irreconcilable contradiction: the Applicant simultaneously blames the Second Respondent for not fulfilling orders while threatening him with contempt for restoring the infrastructure necessary to fulfil them.
 
 ---
 

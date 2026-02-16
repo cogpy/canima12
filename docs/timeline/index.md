@@ -26,3 +26,11 @@ This phase documents the critical events uncovered from the analysis of the Regi
 ---
 
 For a complete, filterable, and searchable version of the timeline, please refer to the master `timeline.json` data model.
+
+
+### [Phase 5: Corporate Governance Notices (February 2026)](../rwd-notices/index.md)
+
+Following the analysis of the mailbox evidence and the clear pattern of operational sabotage, the Board of RWD issued formal notices to all parties, placing them on notice of the documentary evidence of identity misappropriation, material non-disclosure, and fraud.
+
+*   **[RWD/NOTICE/001 (13 Feb 2026)](../rwd-notices/RWD_NOTICE_001.md):** Detailed the identity misappropriation of P.A. Faucitt by Rynette Farrar, the material non-disclosure in the ex parte application (rendering the interdict void ab initio), and placed all parties on notice of provable knowledge.
+*   **[RWD/NOTICE/002 (14 Feb 2026)](../rwd-notices/RWD_NOTICE_002.md):** Detailed the systematic destruction of the company's e-commerce and fulfillment pipeline, including the shutdown of Shopify and the breaking of The Courier Guy API integration, and refuted allegations of "business interference".
