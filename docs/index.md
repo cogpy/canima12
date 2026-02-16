@@ -75,6 +75,12 @@ A formal board resolution package has been prepared for the removal of Peter And
 
 **[→ View Board Resolution Package](./board-resolutions/index.md)**
 
+### CC Member Removal: Strategic Logistics (Section 36)
+
+A draft court application has been prepared for the removal of Peter Andrew Faucitt as a member of Strategic Logistics CC (2008/136496/23) under Section 36 of the Close Corporations Act 69 of 1984. Unlike a Pty company, a CC member **cannot** be removed by resolution — it requires a **court order**. The application is based on prejudicial conduct (s36(1)(b)) and the impracticability of continuing in business together (s36(1)(c)).
+
+**[→ View CC Member Removal Application](./cc-member-removal/index.md)**
+
 ---
 
 ## SAGE ACCOUNT TAKEOVER & STOCK2SHOP RECONFIGURATION (2020-2024)
