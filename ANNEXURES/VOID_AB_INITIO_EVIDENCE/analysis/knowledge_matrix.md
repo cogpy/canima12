@@ -1,15 +1,15 @@
 # Knowledge Matrix
 
 **Case:** 2025-137857 — Faucitt v Faucitt — Ex Parte Interdict (19 August 2025)
-**Generated:** 2026-02-16 05:40:52
+**Generated:** 2026-02-16 06:58:06
 
 ## Agent Classification Summary
 
 | Agent | Role | Tier | Classification | Proven Events |
 |---|---|---|---|---|
-| **Peter Andrew Faucitt** | Applicant in ex parte interdict application | **A** | Premeditated Conspirator | 9 |
+| **Peter Andrew Faucitt** | Applicant in ex parte interdict application | **A** | Premeditated Conspirator | 10 |
 | **Daniel Jacobus Bantjies** | Accountant, Trustee of FFT, signatory of supporting affidavit | **A** | Premeditated Conspirator | 3 |
-| **Rynette Farrar** | Financial Controller, operated Peter's email (pete@regima.com) | **A** | Premeditated Conspirator | 4 |
+| **Rynette Farrar** | Financial Controller, operated Peter's email (pete@regima.com) | **A** | Premeditated Conspirator | 5 |
 | **Jacqueline Faucitt** | Victim of weaponized litigation, target of contempt application | **C** | Participant — Knowledge Unproven | 0 |
 | **Daniel Faucitt** | Victim of weaponized litigation, co-director | **C** | Participant — Knowledge Unproven | 0 |
 | **Keegan Elliott (Elliott Attorneys)** | Attorney for the Applicant | **C** | Participant — Knowledge Unproven | 0 |
@@ -32,3 +32,4 @@
 | Evidence suggests Peter, Rynette & Bantjies may have used fake "debt" to embezzle funds through Villa Via. | fraud | ✅ 2026-02-06 | — | — | — | — | — | — |
 | Rynette is the one communicating with Keegan Elliott (Applicant's attorney) not Peter, suggesting she is controlling the litigation. | conspiracy | — | — | ✅ 2026-02-06 | — | — | — | — |
 | Peter and Rynette filed a 3rd Urgent Application in Nov 2025, using Jacqui's attempt to warn De Novo about the fake accounts as a basis to label her as harassing and mentally unstable, citing the settlement agreements' medical testing clauses as a weapon. | obstruction | ✅ 2025-11-01 | — | — | — | — | — | — |
+| In July 2024, Peter Faucitt swore a false affidavit to Sage, claiming the sole administrator (Kayla Pretorius) had died and he needed to be the new administrator. Rynette Farrar orchestrated the entire process, using Peter's affidavit to gain control of the company's accounting system. This happened one year after Kayla's death from unnatural causes. | fraud | ✅ 2024-07-08 | — | ✅ 2024-07-08 | — | — | — | — |

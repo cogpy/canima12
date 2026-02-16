@@ -145,6 +145,13 @@
       "category": "obstruction",
       "significance": "Demonstrates a pattern of using the courts as an instrument of fraud — attacking the victim for trying to expose the crime. It also reveals the true purpose of the settlement agreements medical testing clause as a weapon to silence witnesses.",
       "related_facts": ["FACT_FAKE_ACCOUNTS", "FACT_CONTEMPT_AS_WEAPON"]
+    },
+    {
+      "fact_id": "FACT_SAGE_CONTROL_SEIZURE",
+      "description": "In July 2024, Peter Faucitt swore a false affidavit to Sage, claiming the sole administrator (Kayla Pretorius) had died and he needed to be the new administrator. Rynette Farrar orchestrated the entire process, using Peter's affidavit to gain control of the company's accounting system. This happened one year after Kayla's death from unnatural causes.",
+      "category": "fraud",
+      "significance": "Premeditated seizure of the company's financial records 13 months before the interdict. This gave Rynette and Peter full control over what financial data was visible, enabling them to conceal their fraud. The affidavit itself is a criminal act of perjury.",
+      "related_facts": ["FACT_FAKE_ACCOUNTS", "FACT_PERJURY_FOREKNOWLEDGE"]
     }
   ],
   "knowledge_events": [
@@ -317,6 +324,26 @@
       "evidence_refs": ["2025-02-06-DanResponse-ContemptofCourt.pdf"],
       "description": "Daniel Faucitt alleges that Peter, Rynette, and Bantjies may have used fake \"debt\" to embezzle funds through Villa Via.",
       "confidence": "alleged"
+    },
+    {
+      "event_id": "KE_PETER_011",
+      "agent_id": "APPLICANT",
+      "fact_id": "FACT_SAGE_CONTROL_SEIZURE",
+      "timestamp": "2024-07-08T00:00:00Z",
+      "acquisition_type": "documentary_proof",
+      "evidence_refs": ["2_RE_Invited_user_switch_affidavit__Sage20240709.pdf"],
+      "description": "Peter swore a false affidavit to Sage, claiming he needed to be the new sole administrator because the previous one (Kayla Pretorius) had died. He failed to disclose that there were two other living directors who could have been appointed.",
+      "confidence": "proven"
+    },
+    {
+      "event_id": "KE_RYNETTE_005",
+      "agent_id": "OPERATOR",
+      "fact_id": "FACT_SAGE_CONTROL_SEIZURE",
+      "timestamp": "2024-07-08T00:00:00Z",
+      "acquisition_type": "active_participation",
+      "evidence_refs": ["2024_07_-_Sage_Email_Chain_Invited_User_Switch_&_Pete_Email_Address.pdf"],
+      "description": "Rynette orchestrated the entire Sage control seizure, acting as the contact person, submitting the forms, and communicating with Sage on Peter's behalf.",
+      "confidence": "proven"
     }
   ]
 }

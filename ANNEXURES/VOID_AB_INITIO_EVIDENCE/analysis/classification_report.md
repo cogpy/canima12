@@ -1,7 +1,7 @@
 # Foreknowledge Classification Report
 
 **Case:** 2025-137857 — Faucitt v Faucitt — Ex Parte Interdict (19 August 2025)
-**Generated:** 2026-02-16 05:40:52
+**Generated:** 2026-02-16 06:58:06
 
 ---
 
@@ -19,12 +19,13 @@
 ## Peter Andrew Faucitt — TIER A (Premeditated Conspirator)
 
 **Role:** Applicant in ex parte interdict application
-**Proven Knowledge Events:** 9
+**Proven Knowledge Events:** 10
 
 | Foreknowledge Indicator | Evidence | Type of Proof | Date |
 |---|---|---|---|
 | FNB banking mandates grant all directors 'Administrator with Sole General Powers' — making 'unauthorized transactions' a legal impossibility | FNB_Mandate_RegimA_Worldwide.pdf, FNB_Mandate_Strategic_Logistics.pdf | documentary_proof | 2021-01-01 |
 | Rynette instructed De Novo to produce fake 2019 accounts for RegimA SA, a company name that only existed from March 2021. Peter signed these fraudulent accounts as director for a year he was not appointed. | RegimA_SA_2019_AFS_Signed.pdf | documentary_proof | 2021-05-01 |
+| In July 2024, Peter Faucitt swore a false affidavit to Sage, claiming the sole administrator (Kayla Pretorius) had died and he needed to be the new administrator. Rynette Farrar orchestrated the entire process, using Peter's affidavit to gain control of the company's accounting system. This happened one year after Kayla's death from unnatural causes. | 2_RE_Invited_user_switch_affidavit__Sage20240709.pdf | documentary_proof | 2024-07-08 |
 | Peter admits in his own affidavit that he cancelled Daniel's business cards, but conceals that he did so secretly without Daniel's knowledge and without authority under the SOLE mandate | Peter_Founding_Affidavit_STRUCTURED_FINAL.docx, EVENT_012, FNB_Card_Cancellation_Records | direct_admission | 2025-06-07 |
 | FNB Legal informed Peter on 18 June 2025 that all directors could act independently — two months before he swore the opposite under oath | FNB_Legal_Letter_18_June_2025.pdf, ProofofFNBSoleMandateforRegimAWorldwideDistribution.pdf | email_correspondence | 2025-06-18 |
 | Peter failed to disclose the SOLE banking mandate, the FNB Legal letter, his cancellation of Daniel's cards, and the true context of the R500K reimbursement | Founding_Affidavit_13_August_2025, Peter_Founding_Affidavit_STRUCTURED_FINAL.docx | documentary_proof | 2025-08-13 |
@@ -52,11 +53,12 @@
 ## Rynette Farrar — TIER A (Premeditated Conspirator)
 
 **Role:** Financial Controller, operated Peter's email (pete@regima.com)
-**Proven Knowledge Events:** 4
+**Proven Knowledge Events:** 5
 
 | Foreknowledge Indicator | Evidence | Type of Proof | Date |
 |---|---|---|---|
 | Rynette instructed De Novo to produce fake 2019 accounts for RegimA SA, a company name that only existed from March 2021. Peter signed these fraudulent accounts as director for a year he was not appointed. | Rynette_De_Novo_Email_Annexure_3rd_Urgent_Application.pdf | email_correspondence | 2021-05-01 |
+| In July 2024, Peter Faucitt swore a false affidavit to Sage, claiming the sole administrator (Kayla Pretorius) had died and he needed to be the new administrator. Rynette Farrar orchestrated the entire process, using Peter's affidavit to gain control of the company's accounting system. This happened one year after Kayla's death from unnatural causes. | 2024_07_-_Sage_Email_Chain_Invited_User_Switch_&_Pete_Email_Address.pdf | active_participation | 2024-07-08 |
 | Peter admits in his own affidavit that he cancelled Daniel's business cards, but conceals that he did so secretly without Daniel's knowledge and without authority under the SOLE mandate | EVENT_012, FNB_Card_Cancellation_Records | active_participation | 2025-06-07 |
 | FNB Legal informed Peter on 18 June 2025 that all directors could act independently — two months before he swore the opposite under oath | FNB_Meeting_Request_Email_18_June_2025 | email_correspondence | 2025-06-18 |
 | Rynette is the one communicating with Keegan Elliott (Applicant's attorney) not Peter, suggesting she is controlling the litigation. | 2025-02-06-DanResponse-ContemptofCourt.pdf | email_correspondence | 2026-02-06 |
