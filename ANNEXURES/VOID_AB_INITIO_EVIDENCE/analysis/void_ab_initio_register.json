@@ -31,6 +31,27 @@
       "role": "Victim of weaponized litigation, target of contempt application",
       "id_number": "570607 0898 18 1",
       "alternative_explanation": ""
+    },
+    {
+      "agent_id": "VICTIM_2",
+      "name": "Daniel Faucitt",
+      "role": "Victim of weaponized litigation, co-director",
+      "id_number": "820715 5300 18 2",
+      "alternative_explanation": ""
+    },
+    {
+      "agent_id": "ATTORNEY_APPLICANT",
+      "name": "Keegan Elliott (Elliott Attorneys)",
+      "role": "Attorney for the Applicant",
+      "id_number": "",
+      "alternative_explanation": ""
+    },
+    {
+      "agent_id": "ATTORNEY_RESPONDENT",
+      "name": "Rudi Pottas (Pottas Attorneys)",
+      "role": "Attorney for the Respondents",
+      "id_number": "",
+      "alternative_explanation": ""
     }
   ],
   "material_facts": [
@@ -103,6 +124,20 @@
       "category": "fraud",
       "significance": "Irrefutable proof of fabricating financial statements to mislead SARS and other creditors. This is a direct criminal act of fraud.",
       "related_facts": ["FACT_PERJURY_FOREKNOWLEDGE", "FACT_SUPPORTING_AFFIDAVIT_PERJURY"]
+    },
+    {
+      "fact_id": "FACT_VILLA_VIA_EMBEZZLEMENT",
+      "description": "Evidence suggests Peter, Rynette & Bantjies may have used fake \"debt\" to embezzle funds through Villa Via.",
+      "category": "fraud",
+      "significance": "A potential new vector of fraud and money laundering using inter-company loans.",
+      "related_facts": ["FACT_FAKE_ACCOUNTS"]
+    },
+    {
+      "fact_id": "FACT_RYNETTE_LITIGATION_CONTROL",
+      "description": "Rynette is the one communicating with Keegan Elliott (Applicant's attorney) not Peter, suggesting she is controlling the litigation.",
+      "category": "conspiracy",
+      "significance": "Shows Rynette is not just a financial controller but a central operator in the weaponized litigation.",
+      "related_facts": ["FACT_WEAPONIZED_LITIGATION"]
     },
     {
       "fact_id": "FACT_WEAPONIZED_LITIGATION",
@@ -262,6 +297,26 @@
       "evidence_refs": ["ENS_Email_18_Sep_2025.pdf", "PF13", "PF14"],
       "description": "Peter was present at the mediation on 18 September 2025 where Daniel was not allowed to leave without signing. The ENS email records Daniel's request to file a criminal complaint. Peter then sought to enforce these duress-tainted agreements via court application on 3 October 2025.",
       "confidence": "proven"
+    },
+    {
+      "event_id": "KE_RYNETTE_004",
+      "agent_id": "OPERATOR",
+      "fact_id": "FACT_RYNETTE_LITIGATION_CONTROL",
+      "timestamp": "2026-02-06T00:00:00Z",
+      "acquisition_type": "email_correspondence",
+      "evidence_refs": ["2025-02-06-DanResponse-ContemptofCourt.pdf"],
+      "description": "Daniel Faucitt notes in his email to Rudi Pottas that Rynette is the one communicating with Keegan Elliott, not Peter, suggesting she is controlling the litigation.",
+      "confidence": "inferred"
+    },
+    {
+      "event_id": "KE_PETER_010",
+      "agent_id": "APPLICANT",
+      "fact_id": "FACT_VILLA_VIA_EMBEZZLEMENT",
+      "timestamp": "2026-02-06T00:00:00Z",
+      "acquisition_type": "allegation",
+      "evidence_refs": ["2025-02-06-DanResponse-ContemptofCourt.pdf"],
+      "description": "Daniel Faucitt alleges that Peter, Rynette, and Bantjies may have used fake \"debt\" to embezzle funds through Villa Via.",
+      "confidence": "alleged"
     }
   ]
 }

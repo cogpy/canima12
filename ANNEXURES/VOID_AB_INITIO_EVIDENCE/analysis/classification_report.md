@@ -1,7 +1,7 @@
 # Foreknowledge Classification Report
 
 **Case:** 2025-137857 — Faucitt v Faucitt — Ex Parte Interdict (19 August 2025)
-**Generated:** 2026-02-08 20:38:16
+**Generated:** 2026-02-16 05:40:52
 
 ---
 
@@ -32,6 +32,7 @@
 | The settlement agreements were signed under duress on 18 September 2025 — Daniel Faucitt was not allowed to leave the building without signing. An ENS email records his request to file a criminal complaint during the mediation. Notice of withdrawal was given on 22 September 2025, the first business day after receiving copies on 19 September 2025. | ENS_Email_18_Sep_2025.pdf, PF13, PF14 | documentary_proof | 2025-09-18 |
 | Peter and Rynette filed a 3rd Urgent Application in Nov 2025, using Jacqui's attempt to warn De Novo about the fake accounts as a basis to label her as harassing and mentally unstable, citing the settlement agreements' medical testing clauses as a weapon. | 3rd_Urgent_Application_Nov_2025.pdf | documentary_proof | 2025-11-01 |
 | Peter filed a Contempt of Court application on 4 February 2026 seeking 6 months imprisonment for Jacqueline Faucitt, based entirely on the void order | NoticeofMotion-ContemptofCourtApplication05.02.2026y.pdf | documentary_proof | 2026-02-04 |
+| Evidence suggests Peter, Rynette & Bantjies may have used fake "debt" to embezzle funds through Villa Via. | 2025-02-06-DanResponse-ContemptofCourt.pdf | allegation | 2026-02-06 |
 
 ---
 
@@ -51,19 +52,53 @@
 ## Rynette Farrar — TIER A (Premeditated Conspirator)
 
 **Role:** Financial Controller, operated Peter's email (pete@regima.com)
-**Proven Knowledge Events:** 3
+**Proven Knowledge Events:** 4
 
 | Foreknowledge Indicator | Evidence | Type of Proof | Date |
 |---|---|---|---|
 | Rynette instructed De Novo to produce fake 2019 accounts for RegimA SA, a company name that only existed from March 2021. Peter signed these fraudulent accounts as director for a year he was not appointed. | Rynette_De_Novo_Email_Annexure_3rd_Urgent_Application.pdf | email_correspondence | 2021-05-01 |
 | Peter admits in his own affidavit that he cancelled Daniel's business cards, but conceals that he did so secretly without Daniel's knowledge and without authority under the SOLE mandate | EVENT_012, FNB_Card_Cancellation_Records | active_participation | 2025-06-07 |
 | FNB Legal informed Peter on 18 June 2025 that all directors could act independently — two months before he swore the opposite under oath | FNB_Meeting_Request_Email_18_June_2025 | email_correspondence | 2025-06-18 |
+| Rynette is the one communicating with Keegan Elliott (Applicant's attorney) not Peter, suggesting she is controlling the litigation. | 2025-02-06-DanResponse-ContemptofCourt.pdf | email_correspondence | 2026-02-06 |
 
 ---
 
 ## Jacqueline Faucitt — TIER C (Participant — Knowledge Unproven)
 
 **Role:** Victim of weaponized litigation, target of contempt application
+**Proven Knowledge Events:** 0
+
+*No knowledge events recorded. This agent's involvement is structural only.*
+
+> **Note:** There is no documentary evidence that this agent had foreknowledge of unlawful activity. They may be an innocent party who was deceived.
+
+---
+
+## Daniel Faucitt — TIER C (Participant — Knowledge Unproven)
+
+**Role:** Victim of weaponized litigation, co-director
+**Proven Knowledge Events:** 0
+
+*No knowledge events recorded. This agent's involvement is structural only.*
+
+> **Note:** There is no documentary evidence that this agent had foreknowledge of unlawful activity. They may be an innocent party who was deceived.
+
+---
+
+## Keegan Elliott (Elliott Attorneys) — TIER C (Participant — Knowledge Unproven)
+
+**Role:** Attorney for the Applicant
+**Proven Knowledge Events:** 0
+
+*No knowledge events recorded. This agent's involvement is structural only.*
+
+> **Note:** There is no documentary evidence that this agent had foreknowledge of unlawful activity. They may be an innocent party who was deceived.
+
+---
+
+## Rudi Pottas (Pottas Attorneys) — TIER C (Participant — Knowledge Unproven)
+
+**Role:** Attorney for the Respondents
 **Proven Knowledge Events:** 0
 
 *No knowledge events recorded. This agent's involvement is structural only.*
