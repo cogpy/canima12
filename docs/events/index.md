@@ -1,7 +1,7 @@
 # Events Index
 
-**Last Updated:** 2026-02-09  
-**Total Events:** 140+
+**Last Updated:** 2026-02-18  
+**Total Events:** 145+
 
 This index catalogs all events in Case 2025-137857 organized by phase and significance.
 
@@ -11,12 +11,14 @@ This index catalogs all events in Case 2025-137857 organized by phase and signif
 
 | Category | Count | Criminal Threshold |
 |----------|-------|-------------------|
-| Total Events | 140+ | - |
-| Criminal Threshold Events | 60 | 95% EXCEEDED |
+| Total Events | 145+ | - |
+| Criminal Threshold Events | 63 | 95% EXCEEDED |
 | Ketoni-Related Events | 12 | Central Motive |
 | FNB Letter Events | 2 | KEY EVIDENCE |
 | Contempt Events | 7 | NEW EVIDENCE |
 | Void Ab Initio Events | 1 | CRITICAL |
+| **Forgery/Backdating Events** | **3** | **NEW — TWO-DATE DISTINCTION** |
+| **EA-18 Coordinated Action** | **1** | **PATTERN EVIDENCE** |
 
 ---
 
@@ -78,11 +80,23 @@ This index catalogs all events in Case 2025-137857 organized by phase and signif
 
 ## Phase 3: Control Consolidation (2024)
 
-### Trustee Appointment
+### Trust Amendment Forgery & Sage Takeover — The 10-Day Window (EA-18)
+
+> **CRITICAL:** There are two distinct dates for the Bantjies appointment. The **forgery** is 28 June 2024; the **backdated appointment communication** is 11 August 2025. See [Two-Date Distinction Analysis](../evidence/TWO_DATE_DISTINCTION_ANALYSIS.md).
 
 | Date | Event | T-Months | Link |
 |------|-------|----------|------|
-| **2024-07** | **Bantjies Appointed FFT Trustee** | T-10 | [EVENT_089](./EVENT_089.md) |
+| **2024-06-28** | **Rynette Forges "pp Peter" on Trust Amendment** | T-23 | [EVENT_103](./EVENT_103.md) |
+| 2024-07-01 | Bantjies Sends ID to Complete Appointment | T-23 | [EVENT_103](./EVENT_103.md) |
+| **2024-07-08** | **Sage User Switch Initiated** | T-22 | [EVENT_063](./EVENT_063.md) |
+| **2024-07-09** | **Sage Ownership Transferred (Kayla→Pete)** | T-22 | [EVENT_063](./EVENT_063.md) |
+| — | **EA-18: 10-Day Coordinated Action Window** | T-23/22 | [EVENT_105](./EVENT_105.md) |
+
+### Trustee Installation Confirmed
+
+| Date | Event | T-Months | Link |
+|------|-------|----------|------|
+| **2024-10-18** | **Letters of Authority Issued (3 Trustees)** | T-19 | [EVENT_089](./EVENT_089.md) |
 
 ---
 
@@ -139,12 +153,17 @@ This index catalogs all events in Case 2025-137857 organized by phase and signif
 | 2025-07-25 | Trust Asset Misappropriation | Trust breach | [EVENT_018](./EVENT_018.md) |
 | 2025-08-10 | Trust Breach Evidence | Trust violations | [EVENT_019](./EVENT_019.md) |
 
-### Control Seizure (Aug 2025)
+### Control Seizure — The 3-Day Interdict Sprint (Aug 2025)
+
+> **CRITICAL:** The "Main Trustee" agreement emailed on 11 August 2025 was **backdated to 1 July 2025**. The underlying trust amendment forgery is dated **28 June 2024** (EVENT_103).
 
 | Date | Event | T-Months | Link |
 |------|-------|----------|------|
-| **2025-08-11** | **Main Trustee Power Backdated** | T-9 | [EVENT_059](./EVENT_059.md) |
-| **2025-08-13** | **Peter Files Interdict (Jax & Dan)** | T-9 | [EVENT_060](./EVENT_060.md) |
+| **2025-08-11** | **Rynette Emails Backdated "Main Trustee" to Bantjies** | T-9 | [EVENT_104](./EVENT_104.md) |
+| **2025-08-11** | **Settlement Agreement Signed** | T-9 | [EVENT_059](./EVENT_059.md) |
+| **2025-08-13** | **Bantjies Swears Confirmatory Affidavit** | T-9 | [EVENT_049](./EVENT_049.md) |
+| **2025-08-14** | **Interdict Filed via Court Online (08:16:25)** | T-9 | [EVENT_060](./EVENT_060.md) |
+| 2025-08-19 | Interdict Heard and Granted Ex Parte | T-9 | [EVENT_060](./EVENT_060.md) |
 | 2025-08-20 | Financial Evidence Concealment | Obstruction | [EVENT_020](./EVENT_020.md) |
 | 2025-08-29 | ENS Africa Acknowledges Criminal Matters | Legal suppression | [EVENT_061](./EVENT_061.md) |
 
@@ -173,7 +192,7 @@ The following 53 events meet the criminal burden of proof:
 |----------|-------|------------|
 | Fraud | 18 | EVENT_003, EVENT_009, EVENT_022 |
 | Theft | 12 | EVENT_024, EVENT_025, EVENT_028 |
-| Forgery | 8 | EVENT_010, EVENT_059 |
+| Forgery | 10 | EVENT_010, EVENT_103, EVENT_104, EVENT_105 |
 | Trust Breach | 9 | EVENT_006, EVENT_013, EVENT_018 |
 | Obstruction | 6 | EVENT_026, EVENT_SF2B |
 
@@ -220,7 +239,9 @@ The following 53 events meet the criminal burden of proof:
 
 - **[Contempt Evidence Summary](../evidence/CONTEMPT_EVIDENCE_SUMMARY_2026_02_09.md)** - Contempt application analysis
 - **[Contempt Relations Map](../relations/CONTEMPT_RELATIONS_2026_02_09.md)** - Contempt party relations
+- **[Two-Date Distinction Analysis](../evidence/TWO_DATE_DISTINCTION_ANALYSIS.md)** - Critical forgery vs. backdated appointment analysis
+- **[EA-18 Coordinated Action](./EVENT_105.md)** - 10-day window pattern evidence
 
 ---
 
-*Last updated by LEX Investigation System: 2026-02-09*
+*Last updated by LEX Investigation System: 2026-02-18*

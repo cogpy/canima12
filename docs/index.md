@@ -1,6 +1,6 @@
 # Revenue Stream Hijacking Case 2025-137857
 
-**Last Updated:** 2026-02-16
+**Last Updated:** 2026-02-18
 
 This site provides comprehensive evidence, analysis, and legal documentation for case 2025-137857 involving revenue stream hijacking, trust violations, and financial fraud totaling over **R63,000,000**.
 
@@ -43,6 +43,38 @@ The ex parte interdict granted on 19 August 2025 is **void ab initio** (void fro
 ### The Contempt Application: Weaponizing a Void Order
 
 On 4 February 2026, Peter Faucitt filed a Contempt of Court Application seeking **6 months imprisonment** for Jacqueline Faucitt. This is not a legitimate legal action. It is the use of a fraudulent, void court order to imprison a victim of the fraud.
+
+---
+
+## CRITICAL: TWO-DATE DISTINCTION — Trust Forgery vs. Backdated Appointment (2026-02-18)
+
+There are **two distinct dates** relevant to the appointment of Danie Bantjies as trustee, and the distinction is legally critical:
+
+| Date | Document | Action | Significance |
+|------|----------|--------|--------------|
+| **28 June 2024** | Trust Amendment Resolution (SF15) | Rynette forges "pp Peter" signature to install Bantjies as trustee | **THE FORGERY** — 10 days before Sage affidavit |
+| **11 August 2025** | "Main Trustee" Agreement (backdated to 1 July 2025) | Rynette emails Bantjies his appointment communication | **THE BACKDATING** — 2 days before Bantjies swears affidavit |
+
+### EA-18: The 10-Day Coordinated Action Window
+
+The 28 June 2024 forgery date places Rynette's trust amendment forgery **10 days before** the Sage affidavit fraud (8–9 July 2024). This proximity proves **coordinated criminal action** rather than coincidence:
+
+| Day | Date | Action | Target |
+|-----|------|--------|--------|
+| Day 0 | **28 June 2024** | Trust amendment forgery | Faucitt Family Trust |
+| Day 3 | 1 July 2024 | Bantjies sends ID | Trust appointment |
+| Day 10 | 8 July 2024 | Sage switch initiated | Sage Accounting |
+| Day 11 | **9 July 2024** | Sage ownership transferred | Sage Worldwide |
+
+### The 3-Day Interdict Sprint (August 2025)
+
+| Day | Date | Action |
+|-----|------|--------|
+| Day 0 | **11 Aug 2025** | Rynette emails backdated "Main Trustee" to Bantjies |
+| Day 2 | **13 Aug 2025** | Bantjies swears confirmatory affidavit |
+| Day 3 | **14 Aug 2025** | Interdict filed via Court Online (08:16:25 SAST) |
+
+**[→ Full Two-Date Distinction Analysis](./evidence/TWO_DATE_DISTINCTION_ANALYSIS.md)** | **[EVENT_103: Forgery](./events/EVENT_103.md)** | **[EVENT_104: Backdating](./events/EVENT_104.md)** | **[EVENT_105: EA-18](./events/EVENT_105.md)**
 
 ---
 
@@ -106,7 +138,8 @@ A comprehensive analysis of the Sage Accounting system takeover and the forced S
 | **2020-05-18** | Kayla Pretorius invites Rynette to Sage | Rynette's entry as a standard user |
 | **2023-07-13** | Kayla Pretorius dies | Sage owner is now deceased |
 | **2023-11-13** | Rynette initiates admin username change | First takeover attempt |
-| **2024-07-09** | Sage owner switched Kayla→Pete | Fraudulent transfer executed |
+| **2024-06-28** | **Rynette forges "pp Peter" on trust amendment** | **FORGERY** — installs Bantjies as trustee ([EVENT_103](./events/EVENT_103.md)) |
+| **2024-07-09** | Sage owner switched Kayla→Pete | Fraudulent transfer executed — **10 days after forgery** ([EA-18](./events/EVENT_105.md)) |
 | **2024-07-10** | Stock2Shop integration breaks | Immediate consequence of takeover |
 | **2024-07-10–19** | Stock2Shop reconfiguration | 10-day fix; Sebastian changes all portals from Kayla's credentials to Pete's |
 

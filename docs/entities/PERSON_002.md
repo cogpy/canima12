@@ -1,11 +1,11 @@
 # Rynette Farrar (PERSON_002)
 
 **Role:** Co-Conspirator (Operational Controller)
-**Last Updated:** 2026-02-09
+**Last Updated:** 2026-02-18
 
 ## Summary
 
-Rynette Farrar is the operational controller in Case 2025-137857, managing financial systems, email access, and strategic appointments. She is **NOT a trustee** of FFT but exercises de facto control through system access and her appointment of Bantjies as trustee. The latest mailbox evidence confirms her as a **Tier A (Premeditated Conspirator)** with deep, long-term involvement in all aspects of the fraud.
+Rynette Farrar is the operational controller in Case 2025-137857, managing financial systems, email access, and strategic appointments. She is **NOT a trustee** of FFT but exercises de facto control through system access and her **forged appointment of Bantjies as trustee on 28 June 2024** (signing "pp Peter" on the trust amendment — EVENT_103), followed by emailing a **backdated "Main Trustee" agreement on 11 August 2025** (backdated to 1 July 2025 — EVENT_104). The 10-day window between the trust forgery and the Sage affidavit fraud (EA-18, EVENT_105) proves coordinated criminal action. The latest mailbox evidence confirms her as a **Tier A (Premeditated Conspirator)** with deep, long-term involvement in all aspects of the fraud.
 
 ## Entity Profile
 
@@ -23,7 +23,9 @@ Rynette Farrar is the operational controller in Case 2025-137857, managing finan
     "domain_registration_identity_fraud",
     "email_impersonation_pattern",
     "coordinated_fund_diversions",
-    "bantjies_trustee_appointment",
+    "bantjies_trustee_appointment_via_forgery_28_june_2024",
+    "backdated_main_trustee_communication_11_aug_2025",
+    "ea18_coordinated_trust_sage_takeover",
     "sage_system_control",
     "fnb_letterhead_control",
     "email_diversion_control",
@@ -35,11 +37,11 @@ Rynette Farrar is the operational controller in Case 2025-137857, managing finan
     "financial_controller",
     "controls_sage:ORG_001",
     "email_access:PERSON_001",
-    "appointed_trustee:PERSON_007"
+    "appointed_trustee_via_forgery:PERSON_007"
   ],
   "financial_impact": {
     "direct_involvement": "R4,276,832.85",
-    "ketoni_connection": "Appointed Bantjies T-10 months before ZAR 18.75M payout",
+    "ketoni_connection": "Forged trust amendment to install Bantjies T-23 months before ZAR 18.75M payout (28 June 2024); emailed backdated Main Trustee appointment T-9 months (11 August 2025)",
     "primary_categories": [
       "financial_manipulation",
       "revenue_theft",
@@ -133,12 +135,17 @@ Peter's FNB Fraud Letter (2025-06-17) reveals Rynette's operational control:
 | **Rynette's Status** | NOT a director | Controls company communications without formal role |
 | **Implication** | De facto control | Rynette manages RWD operations |
 
-## Strategic Appointment: Bantjies as Trustee
+## Strategic Appointment: Bantjies as Trustee — Two-Date Distinction
+
+> **CRITICAL:** There are two distinct dates. See [Two-Date Distinction Analysis](../evidence/TWO_DATE_DISTINCTION_ANALYSIS.md).
 
 | Date | Event | Significance |
 |------|-------|--------------|
-| **July 2024** | Rynette appoints Bantjies as FFT Trustee | T-10 months before Ketoni payout |
-| **Hidden from Daniel** | Appointment not disclosed | Beneficiary kept uninformed |
+| **28 June 2024** | **Rynette forges "pp Peter" on trust amendment** (EVENT_103) | **FORGERY** — T-23 months before Ketoni payout |
+| 1 July 2024 | Bantjies sends ID to complete appointment | Completes fraudulent installation |
+| **8-9 July 2024** | **Sage User Switch fraud** (EVENT_063) | **10-DAY WINDOW** — EA-18 coordinated action |
+| **11 August 2025** | **Rynette emails backdated "Main Trustee" to Bantjies** (EVENT_104) | **BACKDATED** to 1 July 2025 |
+| **Hidden from Daniel** | Both appointments not disclosed | Beneficiary kept uninformed |
 | **Bantjies-Derrick Connection** | Both at The George Group | Network control established |
 
 ## Control Network
@@ -152,7 +159,8 @@ Rynette Farrar (PERSON_002)
     │   └── FNB Letterhead: rynette@regima.zone
     │
     ├── Appointed: Daniel Jacobus Bantjies (PERSON_007)
-    │   └── As FFT Trustee (July 2024)
+    │   ├── Via FORGERY: "pp Peter" on trust amendment (28 June 2024)
+    │   └── Via BACKDATING: "Main Trustee" agreement (11 Aug 2025, backdated to 1 Jul 2025)
     │
     └── Son: Adderory (PERSON_003)
         └── Shell company operations
@@ -164,7 +172,11 @@ Rynette Farrar (PERSON_002)
 - **[Sage Control Evidence](https://github.com/cogpy/ad-res-j7/blob/main/SF2_Sage_Screenshots_Rynette_Control.md)**
 - **[Timeline](../timeline.md)**
 - **[Relations Index](../relations/index.md)**
+- **[EVENT_103](../events/EVENT_103.md)** — Trust amendment forgery (28 June 2024)
+- **[EVENT_104](../events/EVENT_104.md)** — Backdated appointment communication (11 August 2025)
+- **[EVENT_105](../events/EVENT_105.md)** — EA-18 Coordinated action 10-day window
+- **[Two-Date Distinction Analysis](../evidence/TWO_DATE_DISTINCTION_ANALYSIS.md)**
 
 ---
 
-*Last updated: 2026-02-09*
+*Last updated: 2026-02-18*
