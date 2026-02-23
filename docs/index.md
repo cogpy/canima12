@@ -22,7 +22,7 @@ The ex parte interdict granted on 19 August 2025 is **void ab initio** (void fro
 |---|---|---|---|---|
 | **Peter Andrew Faucitt** | Applicant / Primary Perpetrator | **A** | Premeditated Conspirator | 11 |
 | **Daniel Jacobus Bantjies** | Accountant / Commissioner of Oaths | **A** | Premeditated Conspirator | **6** |
-| **Rynette Farrar** | Bookkeeper / Co-conspirator | **A** | Premeditated Conspirator | **9** |
+| **Rynette Farrar** | Bookkeeper / Co-conspirator | **A** | Premeditated Conspirator | **12** |
 | **Adderory (Rynette's Son)** | Competing Business Registrant | **B** | Active Participant with Proven Knowledge | 2 |
 | **ENS Africa** | Legal Firm | **B** | Active Participant with Proven Knowledge | 1 |
 | **Linda (RegimA Employee)** | Sales/Accounts | **B** | Active Participant with Proven Knowledge | **1** |
@@ -409,6 +409,7 @@ A **ZAR 18.685 million payout**, owed by **Ketoni Investment Holdings** to the *
 | **[EVT-075](./events/EVT-075.md)** | 2023-11-16 | **Hidden R5M Transfer to Undocumented Account** |
 | **[EVT-076](./events/EVT-076.md)** | 2022-11 to 2024-04 | **Missing Bank Statements — 16-Month Black Hole** |
 | **[EVT-077](./events/EVT-077.md)** | 2026-02-17 | **Supporting Evidence Sent to Jacqui Re Account Balances** |
+| **[EVT-078](./events/EVT-078.md)** | 2025-08-20 | **Identity Impersonation: pete@regima.com → pete@regimaskin.co.za (6,113 messages)** |
 
 ### New Relations (2026-02-23)
 | Relation | Description |
@@ -445,6 +446,7 @@ A comprehensive search of the Exchange mailbox database (~1M messages, 112 users
 | **[Shopify Hijacking](./exchange-evidence/shopify_hijacking.md)** | 50 | Store ownership changes → payment diversion | 0.92 VALIDATED | App 1, 3 |
 | **[Email Domain Migration](./exchange-evidence/email_domain_migration.md)** | 18+1 | @regima.zone → @regimaskin.co.za migration | 0.99 VALIDATED | App 1, 2, 3 |
 | **[Fund Flow Analysis](./exchange-evidence/fund_flow_analysis.md)** | — | Hidden R5M, black hole, account stripping | 0.97 VALIDATED | App 1, 2, 3 |
+| **[Identity Impersonation](./exchange-evidence/identity_impersonation.md)** | 6,113 | Rynette operates pete@regima.com (7 yrs) → pete@regimaskin.co.za | 0.99 VALIDATED | App 1, 2, 3 |
 | **[De Novo Fabrication](./exchange-evidence/rynette_denovo.md)** | 50 | Rynette's instructions to fabricate accounts | 0.95 VALIDATED | App 2, 3 |
 | **[Trust Forgery](./exchange-evidence/trust_forgery.md)** | 50 | Forged signature → backdated appointment | 0.93 VALIDATED | App 1, 2 |
 | **[Card Cancellation](./exchange-evidence/card_cancellation.md)** | 50 | FNB system notifications proving retaliation | 0.98 VALIDATED | App 1 |
@@ -502,6 +504,8 @@ For comprehensive supporting evidence, see the **[ad-res-j7 repository](https://
 | 2025-06-18 | **Linda sends 39+ bank change emails (MAILBOX)** | **T-11** |
 | 2025-06-20 | **Gayane announces email domain change (MAILBOX) — [EVT-070](./events/EVT-070.md)** | **T-11** |
 | 2025-07-02 | **RWD balance ~ZAR 5.3M — no financial distress** | **T-10** |
+| 2025-07-06 | **LAST pete@regima.com message — Daniel blocks impersonation** | **T-10** |
+| 2025-08-20 | **FIRST pete@regimaskin.co.za message — impersonation continues on son's domain — [EVT-078](./events/EVT-078.md)** | **T-9** |
 | 2025-08-13 | **Peter swears perjured affidavit** | **T-9** |
 | 2025-08-19 | Ex parte interdict (sole control) | T-9 |
 | 2025-08-26 | **VVA pays ZAR 300k to ENS Attorneys — [EVT-072](./events/EVT-072.md)** | **T-9** |
@@ -517,4 +521,4 @@ For comprehensive supporting evidence, see the **[ad-res-j7 repository](https://
 | 2026-02-04 | Contempt application filed (void order) | T-3 |
 | **2026-05** | **Ketoni payout due** | **T-0** |
 
-*Last Updated: 2026-02-23 — v6 Filings with Forensic Fund Flow Analysis + Email Domain Migration Evidence + Hidden R5M Transfer + Account Stripping + Entity Legal Cost Payments + Exchange Evidence Search (349+ messages, 10 chains, 10 leads validated) (8 Pillars, 9 Agents, 20 Material Facts, 31 Knowledge Events, 115+ Entities, 160+ Events)*
+*Last Updated: 2026-02-23 — v6 Filings with Identity Impersonation Evidence (6,113 messages) + Forensic Fund Flow Analysis + Email Domain Migration + Hidden R5M Transfer + Account Stripping + Exchange Evidence Search (6,400+ messages, 11 chains, 11 leads validated) (8 Pillars, 9 Agents, 21 Material Facts, 33 Knowledge Events, 115+ Entities, 165+ Events)*

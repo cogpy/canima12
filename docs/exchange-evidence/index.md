@@ -26,6 +26,7 @@ title: Exchange Evidence Search Results
 | [popia](./popia.md) | 30 | POPIA violation & retaliation evidence | App 2 (POPIA Criminal Complaint) |
 | **[email_domain_migration](./email_domain_migration.md)** | **18+1** | **Email domain migration @regima.zone → @regimaskin.co.za** | **App 1, App 2, App 3** |
 | **[fund_flow_analysis](./fund_flow_analysis.md)** | **—** | **Forensic fund flow: hidden R5M, black hole, account stripping** | **App 1, App 2, App 3** |
+| **[identity_impersonation](./identity_impersonation.md)** | **6,113** | **Rynette operates pete@regima.com (7 years) → pete@regimaskin.co.za** | **App 1, App 2, App 3** |
 
 ---
 
