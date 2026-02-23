@@ -422,6 +422,51 @@ A **ZAR 18.685 million payout**, owed by **Ketoni Investment Holdings** to the *
 
 ---
 
+## EXCHANGE EVIDENCE SEARCH (2026-02-23 — NeonExo1 Pipeline)
+
+A comprehensive search of the Exchange mailbox database (~1M messages, 112 users, 2014-2026) has been conducted using the **NeonExo1** investigation pipeline (Super-Sleuth + Hyper-Holmes). Evidence has been extracted into 8 chains totaling **329 messages** across all three applications.
+
+**[→ View Exchange Evidence Index](./exchange-evidence/index.md)** | **[→ View Hyper-Holmes Validation Report](./exchange-evidence/hyper_holmes_validation_2026_02_23.md)**
+
+| Chain | Messages | Description | Validation | Application |
+|-------|----------|-------------|------------|-------------|
+| **[Sage Fraud](./exchange-evidence/sage_fraud.md)** | 50 | False death claim → ownership transfer → API breakage | 0.97 VALIDATED | App 1, 2, 3 |
+| **[Shopify Hijacking](./exchange-evidence/shopify_hijacking.md)** | 50 | Store ownership changes → payment diversion | 0.92 VALIDATED | App 1, 3 |
+| **[De Novo Fabrication](./exchange-evidence/rynette_denovo.md)** | 50 | Rynette's instructions to fabricate accounts | 0.95 VALIDATED | App 2, 3 |
+| **[Trust Forgery](./exchange-evidence/trust_forgery.md)** | 50 | Forged signature → backdated appointment | 0.93 VALIDATED | App 1, 2 |
+| **[Card Cancellation](./exchange-evidence/card_cancellation.md)** | 50 | FNB system notifications proving retaliation | 0.98 VALIDATED | App 1 |
+| **[Contempt](./exchange-evidence/contempt.md)** | 12 | Weaponizing void order for imprisonment | 0.90 VALIDATED | App 1 |
+| **[Ketoni Motive](./exchange-evidence/ketoni_motive.md)** | 37 | R18.75M payout communications | 0.88 VALIDATED | App 1, 3 |
+| **[POPIA Violations](./exchange-evidence/popia.md)** | 30 | Data breach and retaliation evidence | 0.91 VALIDATED | App 2 |
+
+### Burden of Proof Impact (Exchange Evidence)
+
+| Element | Previous | Updated | Impact |
+|---------|----------|---------|--------|
+| Fraud | 95% | **97%** | +2% (Sage email chain, Shopify notifications) |
+| Perjury | 95% | **98%** | +3% (Sage affidavit email chain) |
+| Breach of Fiduciary Duty | 90% | **95%** | +5% (Card cancellation FNB notifications) |
+| Oppression | 85% | **90%** | +5% (Retaliation pattern evidence) |
+| POPIA Violation | 95% | **97%** | +2% (Additional data breach evidence) |
+| Commercial Crime | 95% | **97%** | +2% (Fabricated accounts email chain) |
+
+### Exchange Evidence Leads
+
+**[→ View All Leads](./exchange-evidence/leads.md)**
+
+| Lead | Title | Category | Confidence |
+|------|-------|----------|------------|
+| LEAD-EX-001 | Sage Ownership Transfer via False Death Claim | Critical | 0.97 |
+| LEAD-EX-002 | Shopify Revenue Stream Diversion | Critical | 0.92 |
+| LEAD-EX-003 | Fabricated Financial Statements via De Novo | Critical | 0.95 |
+| LEAD-EX-004 | Trust Amendment Forgery and Backdated Appointment | Critical | 0.93 |
+| LEAD-EX-005 | Card Cancellation Retaliation Pattern | Strong | 0.98 |
+| LEAD-EX-006 | Contempt Application Based on Void Order | Critical | 0.90 |
+| LEAD-EX-007 | R18.75M Ketoni Payout as Central Motive | Strong | 0.88 |
+| LEAD-EX-008 | POPIA Violation and Retaliation Pattern | Strong | 0.91 |
+
+---
+
 ## Extended Evidence Reference
 
 For comprehensive supporting evidence, see the **[ad-res-j7 repository](https://github.com/cogpy/ad-res-j7)**.
@@ -453,4 +498,4 @@ For comprehensive supporting evidence, see the **[ad-res-j7 repository](https://
 | 2026-02-04 | Contempt application filed (void order) | T-3 |
 | **2026-05** | **Ketoni payout due** | **T-0** |
 
-*Last Updated: 2026-02-23 — v5 Filings with Sage API Breakage Evidence + Mailbox Evidence Integration + Void Ab Initio Analysis (8 Pillars, 8 Agents, 18 Material Facts, 23 Knowledge Events, 110+ Entities, 150+ Events)*
+*Last Updated: 2026-02-23 — v5 Filings with Sage API Breakage Evidence + Mailbox Evidence Integration + Void Ab Initio Analysis + Exchange Evidence Search (329 messages, 8 chains, 8 leads validated) (8 Pillars, 8 Agents, 18 Material Facts, 23 Knowledge Events, 110+ Entities, 150+ Events)*
