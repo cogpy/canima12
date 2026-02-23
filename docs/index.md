@@ -4,6 +4,8 @@
 
 This site provides comprehensive evidence, analysis, and legal documentation for case 2025-137857 involving revenue stream hijacking, trust violations, and financial fraud totaling over **R63,000,000**.
 
+**[→ WHAT HAPPENED: The Complete Narrative](./WHAT_HAPPENED.md)** — A comprehensive reconstruction of the conspiracy, built from contemporaneous exchange evidence (~1M messages, 2014–2026).
+
 ---
 
 ## THE INTERDICT IS VOID AB INITIO: A WEAPON, NOT JUSTICE
