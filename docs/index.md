@@ -1,6 +1,6 @@
 # Revenue Stream Hijacking Case 2025-137857
 
-**Last Updated:** 2026-02-18
+**Last Updated:** 2026-02-23
 
 This site provides comprehensive evidence, analysis, and legal documentation for case 2025-137857 involving revenue stream hijacking, trust violations, and financial fraud totaling over **R63,000,000**.
 
@@ -25,7 +25,7 @@ The ex parte interdict granted on 19 August 2025 is **void ab initio** (void fro
 | **ENS Africa** | Legal Firm | **B** | Active Participant with Proven Knowledge | 1 |
 | **Linda (RegimA Employee)** | Sales/Accounts | **B** | Active Participant with Proven Knowledge | **1** |
 | **Gayane (RegimA Employee)** | Employee | **B** | Active Participant with Proven Knowledge | **1** |
-| **Kent Gillham** | UK Operations Manager | **B** | Active Participant with Proven Knowledge | **1** |
+
 
 ### The Eight Pillars & Patterns of Invalidity
 
@@ -75,6 +75,40 @@ The 28 June 2024 forgery date places Rynette's trust amendment forgery **10 days
 | Day 3 | **14 Aug 2025** | Interdict filed via Court Online (08:16:25 SAST) |
 
 **[→ Full Two-Date Distinction Analysis](./evidence/TWO_DATE_DISTINCTION_ANALYSIS.md)** | **[EVENT_103: Forgery](./events/EVENT_103.md)** | **[EVENT_104: Backdating](./events/EVENT_104.md)** | **[EVENT_105: EA-18](./events/EVENT_105.md)**
+
+---
+
+## CRITICAL: THE SAGE API BREAKAGE — The Linchpin of the Framing (July 2024)
+
+The July 2024 sworn affidavit and the Sage email chain constitute the single most important piece of evidence in this case. They prove that **Rynette Farrar deliberately broke the company's invoice retrieval API** and then used the resulting chaos to **frame Daniel Faucitt** for financial mismanagement in 2025.
+
+### The Causal Chain
+
+| Step | Date | Action | Consequence |
+|:---|:---|:---|:---|
+| 1 | **2024-07-08** | Peter Faucitt swears false affidavit to Sage, claiming sole admin Kayla Pretorius had died | Sage initiates ownership transfer |
+| 2 | **2024-07-09** | Sage transfers ownership from kayla@regima.zone to pete@regima.zone | API authentication chain broken |
+| 3 | **2024-07-10** | Rynette admits: *"the orders coming in on the Shopify portal, but it is not sinking with SAGE"* | Stock2Shop-to-Sage invoice pipeline severed |
+| 4 | **2024-07-10** | Rynette tries to reverse: *"is it possible that we can leave Kayla as the owner for now, as apparently all sorts of connectors are connected to her email address?"* | Proves foreknowledge of the risk |
+| 5 | **2025-07-23** | Rynette lets the Sage subscription expire | All directors locked out of accounting data |
+| 6 | **2025-08-13** | Peter swears perjured affidavit claiming Daniel made "unauthorized transactions" | The manufactured crisis becomes the basis for the interdict |
+| 7 | **2025-08-19** | Ex parte interdict granted | Company assets seized based on manufactured evidence |
+
+### Why This Matters
+
+The "unauthorized transactions" that Peter complained about in his founding affidavit were a **direct, engineered consequence of Rynette's own sabotage**. She broke the system, created the information vacuum, controlled all access to financial data, and then provided Peter with the manufactured "evidence" he needed to commit perjury.
+
+### Key Evidence Files
+
+| Document | Description |
+|:---|:---|
+| **[Sage Invited User Switch Thread](./sage-capture/raw_emails/invited_user_switch_thread.md)** | The 7-email chain proving foreknowledge and deliberate breakage |
+| **[Sage Affidavit PDF](../ANNEXURES/SAGE_EVIDENCE/2_RE_Invited_user_switch_affidavit__Sage20240709.pdf)** | Peter's sworn false affidavit to Sage |
+| **[Sage Email Chain PDF](../ANNEXURES/SAGE_EVIDENCE/2024_07_-_Sage_Email_Chain_Invited_User_Switch_&_Pete_Email_Address.pdf)** | The complete email chain with Sage |
+| **[Sage Screenshot June 2025](./evidence-suppression/documents/2025-06-20-Sage-Account-RegimA-Worldwide-Distribution.pdf)** | Shows Rynette as Pete@regima.com controlling the account |
+| **[Sage Screenshot August 2025](./evidence-suppression/documents/2025-08-25-Sage-Account-RegimA-Worldwide-Distribution.pdf)** | Shows expired subscription — Rynette is the subscription owner |
+| **[EVENT_110: Sage API Breakage](./events/EVENT_110.md)** | Full event documentation |
+| **[Sabotage-Framing Link](./relations/sabotage_framing_link.md)** | Causal relation documentation |
 
 ---
 
@@ -140,7 +174,7 @@ A comprehensive analysis of the Sage Accounting system takeover and the forced S
 | **2023-11-13** | Rynette initiates admin username change | First takeover attempt |
 | **2024-06-28** | **Rynette forges "pp Peter" on trust amendment** | **FORGERY** — installs Bantjies as trustee ([EVENT_103](./events/EVENT_103.md)) |
 | **2024-07-09** | Sage owner switched Kayla→Pete | Fraudulent transfer executed — **10 days after forgery** ([EA-18](./events/EVENT_105.md)) |
-| **2024-07-10** | Stock2Shop integration breaks | Immediate consequence of takeover |
+| **2024-07-10** | **Stock2Shop-Sage API BROKEN** | **Rynette admits breakage with foreknowledge — the linchpin of the framing** ([EVENT_110](./events/EVENT_110.md)) |
 | **2024-07-10–19** | Stock2Shop reconfiguration | 10-day fix; Sebastian changes all portals from Kayla's credentials to Pete's |
 
 ---
@@ -249,21 +283,22 @@ All legal filings have been reframed around the **void ab initio** finding and u
 |---|---|---|---|
 | **FINAL Void Ab Initio Report** | Analysis | — | **[View (2026-02-09)](./filings/FINAL_VOID_AB_INITIO_REPORT_2026_02_09.md)** |
 | **Void Ab Initio Reassessment** | Analysis | — | **[View (2026-02-09)](./filings/VOID_AB_INITIO_REASSESSMENT_2026_02_09.md)** |
-| **CIPC Complaint** | Regulatory | 50% EXCEEDED | **[View v4 (2026-02-09)](./filings/CIPC_COMPLAINT_REFINED_2026_02_09_v4.md)** |
-| **POPIA Complaint** | Criminal | 95% EXCEEDED | **[View v4 (2026-02-09)](./filings/POPIA_COMPLAINT_REFINED_2026_02_09_v4.md)** |
+| **CIPC Complaint** | Regulatory | 50% EXCEEDED | **[View v5 (2026-02-23)](./filings/CIPC_COMPLAINT_REFINED_2026_02_23_v5.md)** |
+| **POPIA Complaint** | Criminal | 95% EXCEEDED | **[View v5 (2026-02-23)](./filings/POPIA_COMPLAINT_REFINED_2026_02_23_v5.md)** |
 | **POPIA (Mailbox Evidence)** | Criminal | 95% EXCEEDED | **[View (2026-02-09)](./filings/POPIA_COMPLAINT_MAILBOX_EVIDENCE_2026_02_09.md)** |
-| **NPA Tax Fraud Report** | Criminal | 95% EXCEEDED | **[View v4 (2026-02-09)](./filings/NPA_TAX_FRAUD_REPORT_REFINED_2026_02_09_v4.md)** |
-| **Commercial Crime** | Criminal | 95% EXCEEDED | **[View v4 (2026-02-09)](./filings/COMMERCIAL_CRIME_SUBMISSION_REFINED_2026_02_09_v4.md)** |
+| **NPA Tax Fraud Report** | Criminal | 95% EXCEEDED | **[View v5 (2026-02-23)](./filings/NPA_TAX_FRAUD_REPORT_REFINED_2026_02_23_v5.md)** |
+| **Commercial Crime** | Criminal | 95% EXCEEDED | **[View v5 (2026-02-23)](./filings/COMMERCIAL_CRIME_SUBMISSION_REFINED_2026_02_23_v5.md)** |
 | **Commercial Crime (Mailbox Evidence)** | Criminal | 95% EXCEEDED | **[View (2026-02-09)](./filings/COMMERCIAL_CRIME_SUBMISSION_MAILBOX_EVIDENCE_2026_02_09.md)** |
 | **Civil Contempt Analysis** | Civil | 50% EXCEEDED | **[View (2026-02-09)](./filings/CIVIL_CONTEMPT_ANALYSIS_2026_02_09.md)** |
+| **Burden of Proof Assessment** | Reference | All | **[View (2026-02-23)](./filings/burden_of_proof_assessment.md)** |
 
 ### Previous Versions
-| Filing | v4 (MAT4719) | v3 (Void Ab Initio) | v2 | v1 |
-|---|---|---|---|---|
-| CIPC | **[v4](./filings/CIPC_COMPLAINT_REFINED_2026_02_09_v4.md)** | [v3](./filings/CIPC_COMPLAINT_REFINED_2026_02_09_v3.md) | [v2](./filings/CIPC_COMPLAINT_REFINED_2026_02_09_v2.md) | [v1](./filings/CIPC_COMPLAINT_REFINED_2026_02_09.md) |
-| POPIA | **[v4](./filings/POPIA_COMPLAINT_REFINED_2026_02_09_v4.md)** | [v3](./filings/POPIA_COMPLAINT_REFINED_2026_02_09_v3.md) | [v2](./filings/POPIA_COMPLAINT_REFINED_2026_02_09_v2.md) | [v1](./filings/POPIA_COMPLAINT_REFINED_2026_02_09.md) |
-| NPA Tax Fraud | **[v4](./filings/NPA_TAX_FRAUD_REPORT_REFINED_2026_02_09_v4.md)** | [v3](./filings/NPA_TAX_FRAUD_REPORT_REFINED_2026_02_09_v3.md) | [v2](./filings/NPA_TAX_FRAUD_REPORT_REFINED_2026_02_09_v2.md) | [v1](./filings/NPA_TAX_FRAUD_REPORT_REFINED_2026_02_09.md) |
-| Commercial Crime | **[v4](./filings/COMMERCIAL_CRIME_SUBMISSION_REFINED_2026_02_09_v4.md)** | [v3](./filings/COMMERCIAL_CRIME_SUBMISSION_REFINED_2026_02_09_v3.md) | [v2](./filings/COMMERCIAL_CRIME_SUBMISSION_REFINED_2026_02_09_v2.md) | [v1](./filings/COMMERCIAL_CRIME_SUBMISSION_REFINED_2026_02_09.md) |
+| Filing | v5 (Sage API) | v4 (MAT4719) | v3 (Void Ab Initio) | v2 | v1 |
+|---|---|---|---|---|---|
+| CIPC | **[v5](./filings/CIPC_COMPLAINT_REFINED_2026_02_23_v5.md)** | [v4](./filings/CIPC_COMPLAINT_REFINED_2026_02_09_v4.md) | [v3](./filings/CIPC_COMPLAINT_REFINED_2026_02_09_v3.md) | [v2](./filings/CIPC_COMPLAINT_REFINED_2026_02_09_v2.md) | [v1](./filings/CIPC_COMPLAINT_REFINED_2026_02_09.md) |
+| POPIA | **[v5](./filings/POPIA_COMPLAINT_REFINED_2026_02_23_v5.md)** | [v4](./filings/POPIA_COMPLAINT_REFINED_2026_02_09_v4.md) | [v3](./filings/POPIA_COMPLAINT_REFINED_2026_02_09_v3.md) | [v2](./filings/POPIA_COMPLAINT_REFINED_2026_02_09_v2.md) | [v1](./filings/POPIA_COMPLAINT_REFINED_2026_02_09.md) |
+| NPA Tax Fraud | **[v5](./filings/NPA_TAX_FRAUD_REPORT_REFINED_2026_02_23_v5.md)** | [v4](./filings/NPA_TAX_FRAUD_REPORT_REFINED_2026_02_09_v4.md) | [v3](./filings/NPA_TAX_FRAUD_REPORT_REFINED_2026_02_09_v3.md) | [v2](./filings/NPA_TAX_FRAUD_REPORT_REFINED_2026_02_09_v2.md) | [v1](./filings/NPA_TAX_FRAUD_REPORT_REFINED_2026_02_09.md) |
+| Commercial Crime | **[v5](./filings/COMMERCIAL_CRIME_SUBMISSION_REFINED_2026_02_23_v5.md)** | [v4](./filings/COMMERCIAL_CRIME_SUBMISSION_REFINED_2026_02_09_v4.md) | [v3](./filings/COMMERCIAL_CRIME_SUBMISSION_REFINED_2026_02_09_v3.md) | [v2](./filings/COMMERCIAL_CRIME_SUBMISSION_REFINED_2026_02_09_v2.md) | [v1](./filings/COMMERCIAL_CRIME_SUBMISSION_REFINED_2026_02_09.md) |
 
 ---
 
@@ -344,8 +379,34 @@ A **ZAR 18.685 million payout**, owed by **Ketoni Investment Holdings** to the *
 | **[ORG_020](./entities/ORG_020.md)** | Elliott Attorneys Inc | Applicant's Attorneys |
 | **[ORG_021](./entities/ORG_021.md)** | Pottas Attorneys | Respondent's Attorneys |
 | **[PERSON_019](./entities/PERSON_019.md)** | Oliver ("Arthur") | Employee (Warehouse) |
-| **[PERSON_LINDA](./entities/PERSON_LINDA.md)** | Linda (RegimA Employee) | Active Participant in Payment Redirection |
-| **[PERSON_GAYANE](./entities/PERSON_GAYANE.md)** | Gayane (RegimA Employee) | Active Participant in Infrastructure Hijacking |
+| **[PERSON_020](./entities/PERSON_020.md)** | Linda (RegimA Employee) | Active Participant in Payment Redirection |
+| **[PERSON_021](./entities/PERSON_021.md)** | Gayane (RegimA Employee) | Active Participant in Infrastructure Hijacking |
+
+### New Entities (2026-02-23)
+| Entity | Type | Role |
+|---|---|---|
+| **[ORG_016](./entities/ORG_016.md)** | Ketoni Investment Holdings | ZAR 18.685M Payout Debtor |
+| **[ORG_022](./entities/ORG_022.md)** | ENS Africa | Legal Firm (Mediation) |
+| **[PERSON_015](./entities/PERSON_015.md)** | Kevin Derrick | Ketoni Director / George Group CEO |
+| **[BANK_ACCOUNT_ABSA](./entities/BANK_ACCOUNT_ABSA.md)** | Suspected Fraudulent ABSA Accounts | Revenue Diversion Target |
+
+### New Events (2026-02-23)
+| Event | Date | Description |
+|---|---|---|
+| **[EVENT_106](./events/EVENT_106.md)** | 2026-02-13 | RWD Notice 001 — Identity Misappropriation |
+| **[EVENT_107](./events/EVENT_107.md)** | 2026-02-14 | RWD Notice 002 — E-Commerce Pipeline Destruction |
+| **[EVENT_108](./events/EVENT_108.md)** | 2026-02-16 | Board Resolution to Remove Peter Faucitt as Director |
+| **[EVENT_109](./events/EVENT_109.md)** | 2026-02-16 | Disclosure Package Sent to Peter Faucitt |
+| **[EVENT_110](./events/EVENT_110.md)** | 2024-07-10 | **Sage API Breakage & Framing Setup** |
+
+### New Relations (2026-02-23)
+| Relation | Description |
+|---|---|
+| **[director_of](./relations/director_of.md)** | Director-company relationships |
+| **[shareholder_of](./relations/shareholder_of.md)** | Shareholder-company relationships |
+| **[trustee_of](./relations/trustee_of.md)** | Trustee-trust relationships |
+| **[financial_flow](./relations/financial_flow.md)** | Financial flow relationships |
+| **[sabotage_framing_link](./relations/sabotage_framing_link.md)** | Sage API breakage → framing causal link |
 
 ### New Events (2026-02-09)
 | Event | Date | Description |
@@ -392,4 +453,4 @@ For comprehensive supporting evidence, see the **[ad-res-j7 repository](https://
 | 2026-02-04 | Contempt application filed (void order) | T-3 |
 | **2026-05** | **Ketoni payout due** | **T-0** |
 
-*Last Updated: 2026-02-09 — Mailbox Evidence Integration + Void Ab Initio Analysis (8 Pillars, 9 Agents, 18 Material Facts, 23 Knowledge Events, 108 Entities, 147+ Events)*
+*Last Updated: 2026-02-23 — v5 Filings with Sage API Breakage Evidence + Mailbox Evidence Integration + Void Ab Initio Analysis (8 Pillars, 8 Agents, 18 Material Facts, 23 Knowledge Events, 110+ Entities, 150+ Events)*

@@ -1,7 +1,7 @@
 # Entities Index
 
-**Last Updated:** 2026-02-09  
-**Total Entities:** 100+
+**Last Updated:** 2026-02-23  
+**Total Entities:** 110+
 
 This index catalogs all entities involved in Case 2025-137857: Revenue Stream Hijacking.
 
@@ -10,6 +10,14 @@ This index catalogs all entities involved in Case 2025-137857: Revenue Stream Hi
 ## NEW: February 2026 Update (2026-02-09)
 
 **Contempt Application Evidence:** New entities identified from the Contempt of Court Application filed 4 February 2026.
+
+**New Entities Added (2026-02-23):**
+- [ORG_016](./ORG_016.md) - Ketoni Investment Holdings (ZAR 18.685M Payout Debtor)
+- [ORG_022](./ORG_022.md) - ENS Africa (Legal Firm — Mediation)
+- [PERSON_015](./PERSON_015.md) - Kevin Derrick (Ketoni Director / George Group CEO)
+- [PERSON_020](./PERSON_020.md) - Linda (RegimA Employee — Payment Redirection)
+- [PERSON_021](./PERSON_021.md) - Gayane (RegimA Employee — Infrastructure Hijacking)
+- [BANK_ACCOUNT_ABSA](./BANK_ACCOUNT_ABSA.md) - Suspected Fraudulent ABSA Accounts
 
 **New Entities Added (2026-02-09):**
 - [ORG_020](./ORG_020.md) - Elliott Attorneys Inc (Applicant's Attorneys)
@@ -210,4 +218,4 @@ Danie Bantjies (PERSON_007) - SIX CONFLICTS
 
 ---
 
-*Last updated by LEX Investigation System: 2026-02-06*
+*Last updated by LEX Investigation System: 2026-02-23*

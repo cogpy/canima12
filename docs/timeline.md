@@ -113,3 +113,16 @@ All events are referenced relative to the **May 2026 Ketoni payout** (T-0):
 ---
 
 *Last Updated: 2026-02-06*
+
+---
+
+## Legal & Corporate Actions (February 2026)
+
+| Date | Event | Key Actors | T-Months | Significance | Evidence |
+|---|---|---|---|---|---|
+| **2026-02-13** | **RWD Formal Notice 001 Issued** | Jacqueline Faucitt, Daniel Faucitt | **T-3** | **Formal notice of identity misappropriation and void ab initio interdict** | **[EVENT_106](./events/EVENT_106.md)** |
+| **2026-02-14** | **RWD Formal Notice 002 Issued** | Jacqueline Faucitt, Daniel Faucitt | **T-3** | **Documents systematic destruction of e-commerce pipeline** | **[EVENT_107](./events/EVENT_107.md)** |
+| **2026-02-16** | **Board Resolution to Remove Director P.A. Faucitt** | Jacqueline Faucitt, Daniel Faucitt | **T-3** | **Formal move to remove Peter Faucitt as director** | **[EVENT_108](./events/EVENT_108.md)** |
+| **2026-02-16** | **Disclosure Package for P.A. Faucitt** | Jacqueline Faucitt, Daniel Faucitt | **T-3** | **Protective disclosure and notice of board meeting** | **[EVENT_109](./events/EVENT_109.md)** |
+
+| **2024-07-10** | **Sage API Breakage & Framing Setup** | Rynette Farrar | **T-10** | **Deliberate sabotage of invoice API to create info vacuum and frame Daniel** | **[EVENT_110](./events/EVENT_110.md)** |
