@@ -5,9 +5,9 @@ title: Exchange Evidence Search Results
 
 # Exchange Evidence Search Results
 
-**Source:** Exchange Mailbox Records (Neon DB: exchange_sync)
-**Extracted:** 2026-02-22 22:39
-**Database Range:** 2014-12-07 to 2026-02-18
+**Source:** Exchange Mailbox Records (Neon DB: exchange_sync)  
+**Last Updated:** 2026-02-23  
+**Database Range:** 2014-12-07 to 2026-02-18  
 **Total Messages in DB:** ~1M across 112 users
 
 ---
@@ -24,6 +24,24 @@ title: Exchange Evidence Search Results
 | [contempt](./contempt.md) | 12 | Contempt application based on void order | App 1 (Civil/Criminal) |
 | [ketoni_motive](./ketoni_motive.md) | 37 | R18.75M Ketoni payout motive | App 1 (Civil/Criminal), App 3 (NPA Tax Fraud) |
 | [popia](./popia.md) | 30 | POPIA violation & retaliation evidence | App 2 (POPIA Criminal Complaint) |
+| **[email_domain_migration](./email_domain_migration.md)** | **18+1** | **Email domain migration @regima.zone → @regimaskin.co.za** | **App 1, App 2, App 3** |
+| **[fund_flow_analysis](./fund_flow_analysis.md)** | **—** | **Forensic fund flow: hidden R5M, black hole, account stripping** | **App 1, App 2, App 3** |
+
+---
+
+## NEW: February 2026 Evidence Update (2026-02-23)
+
+### Email Domain Migration Chain
+
+Eighteen copies of the "Important Update: Change of Email Address" email (20 June 2025) were found in the Exchange database, distributed across 10+ mailboxes. An additional EML file shows Jacqui Faucitt forwarded the same email to ENS Africa attorney S Munga on 28 August 2025 under the subject "E-MAILS CANCELLED." Follow-up emails confirm the migration was enforced, with Gayane Williams stating "regima.zone email could possibly go down anytime."
+
+### Forensic Fund Flow Analysis
+
+Cross-referencing bank statements, the PETEFNBDOCUMENT.pdf, and the fincosys database reveals a hidden R5 million transfer (16 November 2023), a 16-month statement "black hole" (November 2022 – April 2024), and the stripping of approximately ZAR 10 million from all company accounts by 11 September 2025. Entity funds were used to pay legal costs (VVA: ZAR 300k to ENS, RST: ~ZAR 90k to Elliot Attorneys).
+
+### Validation Report
+
+The [Hyper-Holmes Validation Report](./hyper_holmes_validation_2026_02_23.md) validates 8 investigative leads from the Exchange evidence analysis.
 
 ---
 

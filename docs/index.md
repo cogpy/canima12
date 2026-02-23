@@ -26,7 +26,8 @@ The ex parte interdict granted on 19 August 2025 is **void ab initio** (void fro
 | **Adderory (Rynette's Son)** | Competing Business Registrant | **B** | Active Participant with Proven Knowledge | 2 |
 | **ENS Africa** | Legal Firm | **B** | Active Participant with Proven Knowledge | 1 |
 | **Linda (RegimA Employee)** | Sales/Accounts | **B** | Active Participant with Proven Knowledge | **1** |
-| **Gayane (RegimA Employee)** | Employee | **B** | Active Participant with Proven Knowledge | **1** |
+| **Gayane (RegimA Employee)** | Employee | **B** | Active Participant with Proven Knowledge | **2** |
+| **S Munga / ENS Africa** | Attorney | **B** | Active Participant with Proven Knowledge | **2** |
 
 
 ### The Eight Pillars & Patterns of Invalidity
@@ -400,6 +401,14 @@ A **ZAR 18.685 million payout**, owed by **Ketoni Investment Holdings** to the *
 | **[EVENT_108](./events/EVENT_108.md)** | 2026-02-16 | Board Resolution to Remove Peter Faucitt as Director |
 | **[EVENT_109](./events/EVENT_109.md)** | 2026-02-16 | Disclosure Package Sent to Peter Faucitt |
 | **[EVENT_110](./events/EVENT_110.md)** | 2024-07-10 | **Sage API Breakage & Framing Setup** |
+| **[EVT-070](./events/EVT-070.md)** | 2025-06-20 | **Email Domain Migration @regima.zone → @regimaskin.co.za** |
+| **[EVT-071](./events/EVT-071.md)** | 2025-08-28 | **Jacqui Forwards Domain Migration to ENS Attorneys** |
+| **[EVT-072](./events/EVT-072.md)** | 2025-08-26 | **VVA Pays ZAR 300k to ENS Attorneys** |
+| **[EVT-073](./events/EVT-073.md)** | 2025-09-11 | **RST Pays ~ZAR 90k to Elliot Attorneys** |
+| **[EVT-074](./events/EVT-074.md)** | 2025-09-11 | **All Company Accounts Emptied (~ZAR 10M)** |
+| **[EVT-075](./events/EVT-075.md)** | 2023-11-16 | **Hidden R5M Transfer to Undocumented Account** |
+| **[EVT-076](./events/EVT-076.md)** | 2022-11 to 2024-04 | **Missing Bank Statements — 16-Month Black Hole** |
+| **[EVT-077](./events/EVT-077.md)** | 2026-02-17 | **Supporting Evidence Sent to Jacqui Re Account Balances** |
 
 ### New Relations (2026-02-23)
 | Relation | Description |
@@ -434,6 +443,8 @@ A comprehensive search of the Exchange mailbox database (~1M messages, 112 users
 |-------|----------|-------------|------------|-------------|
 | **[Sage Fraud](./exchange-evidence/sage_fraud.md)** | 50 | False death claim → ownership transfer → API breakage | 0.97 VALIDATED | App 1, 2, 3 |
 | **[Shopify Hijacking](./exchange-evidence/shopify_hijacking.md)** | 50 | Store ownership changes → payment diversion | 0.92 VALIDATED | App 1, 3 |
+| **[Email Domain Migration](./exchange-evidence/email_domain_migration.md)** | 18+1 | @regima.zone → @regimaskin.co.za migration | 0.99 VALIDATED | App 1, 2, 3 |
+| **[Fund Flow Analysis](./exchange-evidence/fund_flow_analysis.md)** | — | Hidden R5M, black hole, account stripping | 0.97 VALIDATED | App 1, 2, 3 |
 | **[De Novo Fabrication](./exchange-evidence/rynette_denovo.md)** | 50 | Rynette's instructions to fabricate accounts | 0.95 VALIDATED | App 2, 3 |
 | **[Trust Forgery](./exchange-evidence/trust_forgery.md)** | 50 | Forged signature → backdated appointment | 0.93 VALIDATED | App 1, 2 |
 | **[Card Cancellation](./exchange-evidence/card_cancellation.md)** | 50 | FNB system notifications proving retaliation | 0.98 VALIDATED | App 1 |
@@ -483,15 +494,21 @@ For comprehensive supporting evidence, see the **[ad-res-j7 repository](https://
 | 2023-04-24 | FFT invests in Ketoni (R18.685M) | T-37 |
 | 2023-05-31 | **Bantjies discusses Ketoni from George Group (MAILBOX)** | **T-36** |
 | 2023-07-13 | Kayla Pretorius death | T-34 |
+| 2023-11-16 | **Hidden R5M transfer to undocumented account — [EVT-075](./events/EVT-075.md)** | **T-30** |
 | 2025-05-05 | **Rynette initiates payment redirection (MAILBOX)** | **T-12** |
 | 2025-05-22 | Shopify hijacking | T-12 |
 | 2025-06-07 | Secret card cancellations | T-11 |
 | 2025-06-18 | **FNB Legal confirms SOLE authority** | **T-11** |
 | 2025-06-18 | **Linda sends 39+ bank change emails (MAILBOX)** | **T-11** |
-| 2025-06-20 | **Gayane announces email domain change (MAILBOX)** | **T-11** |
+| 2025-06-20 | **Gayane announces email domain change (MAILBOX) — [EVT-070](./events/EVT-070.md)** | **T-11** |
+| 2025-07-02 | **RWD balance ~ZAR 5.3M — no financial distress** | **T-10** |
 | 2025-08-13 | **Peter swears perjured affidavit** | **T-9** |
 | 2025-08-19 | Ex parte interdict (sole control) | T-9 |
+| 2025-08-26 | **VVA pays ZAR 300k to ENS Attorneys — [EVT-072](./events/EVT-072.md)** | **T-9** |
+| 2025-08-28 | **Jacqui forwards email migration to ENS — [EVT-071](./events/EVT-071.md)** | **T-9** |
 | 2025-09-03 | **R10.6M extracted within 8 days** | T-8 |
+| 2025-09-11 | **ALL company accounts emptied (~ZAR 10M) — [EVT-074](./events/EVT-074.md)** | **T-8** |
+| 2025-09-11 | **RST pays ~ZAR 90k to Elliot Attorneys — [EVT-073](./events/EVT-073.md)** | **T-8** |
 | 2025-09-18 | Settlement agreements (Forvis Mazars) | T-8 |
 | 2025-09-22 | Notice of withdrawal from settlements (duress) | T-8 |
 | 2025-11-04 | Variation application dismissed | T-6 |
@@ -500,4 +517,4 @@ For comprehensive supporting evidence, see the **[ad-res-j7 repository](https://
 | 2026-02-04 | Contempt application filed (void order) | T-3 |
 | **2026-05** | **Ketoni payout due** | **T-0** |
 
-*Last Updated: 2026-02-23 — v5 Filings with Sage API Breakage Evidence + Mailbox Evidence Integration + Void Ab Initio Analysis + Exchange Evidence Search (329 messages, 8 chains, 8 leads validated) (8 Pillars, 8 Agents, 18 Material Facts, 23 Knowledge Events, 110+ Entities, 150+ Events)*
+*Last Updated: 2026-02-23 — v6 Filings with Forensic Fund Flow Analysis + Email Domain Migration Evidence + Hidden R5M Transfer + Account Stripping + Entity Legal Cost Payments + Exchange Evidence Search (349+ messages, 10 chains, 10 leads validated) (8 Pillars, 9 Agents, 20 Material Facts, 31 Knowledge Events, 115+ Entities, 160+ Events)*

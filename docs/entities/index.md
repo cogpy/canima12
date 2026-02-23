@@ -18,6 +18,7 @@ This index catalogs all entities involved in Case 2025-137857: Revenue Stream Hi
 - [PERSON_020](./PERSON_020.md) - Linda (RegimA Employee — Payment Redirection)
 - [PERSON_021](./PERSON_021.md) - Gayane (RegimA Employee — Infrastructure Hijacking)
 - [BANK_ACCOUNT_ABSA](./BANK_ACCOUNT_ABSA.md) - Suspected Fraudulent ABSA Accounts
+- **[BANK_ACCOUNT_004](./BANK_ACCOUNT_004.md)** - Hidden Money Maximiser 63077691682 (R5M transferred, ZERO statements)
 
 **New Entities Added (2026-02-09):**
 - [ORG_020](./ORG_020.md) - Elliott Attorneys Inc (Applicant's Attorneys)
@@ -150,10 +151,18 @@ This index catalogs all entities involved in Case 2025-137857: Revenue Stream Hi
 
 ## Bank Accounts
 
-| Entity ID | Description | Status |
-|-----------|-------------|--------|
-| [BANK_001](./BANK_001.md) | ABSA Accounts (8 suspected fraudulent) | Under Investigation |
-| [BANK_002](./BANK_002.md) | FNB Account 62323196362 (RWD) | Fraud Acknowledged (FNB Letter) |
+| Entity ID | Account | Type | Entity | Statements | Status |
+|-----------|---------|------|--------|------------|--------|
+| [BANK_001](./BANK_001.md) | ABSA Accounts (8) | Various | Multiple | Unknown | Under Investigation |
+| [BANK_002](./BANK_002.md) | 62323196362 | FNB Platinum | RWD | Available | Fraud Acknowledged (FNB Letter) |
+| [BANK_ACCOUNT_001](./BANK_ACCOUNT_001.md) | 55270035642 | FNB Day-to-Day | RST | Partial | Active |
+| [BANK_ACCOUNT_002](./BANK_ACCOUNT_002.md) | 55270018789 | FNB Platinum | PF | Partial | Source of R5M transfer |
+| [BANK_ACCOUNT_003](./BANK_ACCOUNT_003.md) | 62423540807 | FNB Platinum | VVA | Partial | Paid ZAR 300k to ENS |
+| **[BANK_ACCOUNT_004](./BANK_ACCOUNT_004.md)** | **63077691682** | **FNB Money Maximiser** | **PF** | **ZERO** | **COMPLETELY HIDDEN — R5M** |
+| — | 63176874808 | FNB Platinum Business | Unknown | 3 (Sep–Nov 2025) | New, entity unidentified |
+| — | 4483810003374006 | FNB Private Wealth CC | PF | 1 (Jan 2021) | Credit card history missing |
+| — | 4790812427545003 | FNB Business Gold CC | RST | 1 (Aug 2021) | Credit card history missing |
+| — | 8812710044279003 | FNB Business CC | RST | 1 (Jul 2021) | Credit card history missing |
 
 ---
 
@@ -214,6 +223,8 @@ Danie Bantjies (PERSON_007) - SIX CONFLICTS
 - **[Timeline](../timeline.md)** - Chronological event sequence
 - **[Relations](../relations/index.md)** - Entity relationship mapping
 - **[Super-Sleuth Report 2026-02-06](../super_sleuth_report_2026_02_06.md)** - Latest analysis
+- **[Exchange Evidence: Email Domain Migration](../exchange-evidence/email_domain_migration.md)** - @regima.zone → @regimaskin.co.za
+- **[Exchange Evidence: Fund Flow Analysis](../exchange-evidence/fund_flow_analysis.md)** - Hidden R5M, black hole, account stripping
 - **[ad-res-j7 Repository](https://github.com/cogpy/ad-res-j7)** - Extended evidence
 
 ---
