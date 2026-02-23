@@ -55,8 +55,23 @@ This timeline documents all significant events in the revenue stream hijacking c
 
 | Date | Event | Key Actors | T-Months | Significance | Evidence |
 |---|---|---|---|---|---|
+| 2024-01-01 | Debt Accumulation Pattern Begins | Peter, Bantjies | T-28 | Financial motive for curatorship conspiracy | [EVENT_073](./events/EVENT_073.md) |
 | 2024-02-14 | ReZonance Dissolution Pressure | Peter Faucitt, Daniel Faucitt | T-27 | Eliminate R1M debt obstacle before trust control | ReZonance dissolution correspondence |
-| **2024-07** | **Bantjies Appointed FFT Trustee** | Daniel Jacobus Bantjies, Rynette Farrar | **T-22** | **CRITICAL: Strategic trustee appointment before payout** | FFT trustee appointment docs |
+| ~2024 | Rynette Makes R1M+ Debt to ReZonance 'Disappear' | Rynette Farrar | T-24 | Fraudulent misallocation of GoDaddy payments | [EVT-068](./events/EVT-068.md) |
+| 2024-2025 | Pete & Rynette Attempt Unauthorized Banking Changes | Peter, Rynette | T-24 to T-12 | Multiple attempts to change mandates without Daniel's consent | [EVT-069](./events/EVT-069.md) |
+| **2024-06-28** | **Rynette Forges "pp Peter" on Trust Amendment** | **Rynette Farrar** | **T-23** | **FORGERY — installs Bantjies as trustee** | **[EVENT_103](./events/EVENT_103.md)** |
+| 2024-07-01 | Bantjies Sends ID for Trust Appointment | Bantjies | T-22 | Bantjies cooperates with fraudulent appointment | Audit trail |
+| **2024-07-01** | **Bantjies Appointed FFT Trustee** | **Bantjies, Rynette** | **T-22** | **Strategic trustee appointment before payout** | FFT trustee appointment docs |
+| **2024-07-08** | **Sage Invited User Switch Initiated** | **Rynette, Sage Support** | **T-22** | **Rynette initiates fraudulent Sage takeover** | Sage email chain |
+| **2024-07-09** | **Sage Ownership Transferred (Kayla→Pete)** | **Rynette, Peter, Sage** | **T-22** | **Fraudulent transfer of accounting system** | [EVENT_105](./events/EVENT_105.md), Sage email |
+| **2024-07-09** | **Stock2Shop "Can't log in" Ticket Opened** | **Rynette, Stock2Shop** | **T-22** | **Immediate consequence — Rynette locked out** | Stock2Shop ticket 3554982391 |
+| **2024-07-10** | **Sage API Breakage Admitted** | **Rynette Farrar** | **T-22** | **Rynette admits Shopify orders not sinking with Sage** | **[EVENT_110](./events/EVENT_110.md)** |
+| **2024-07-10** | **Rynette Tries to Reverse Switch** | **Rynette Farrar** | **T-22** | **Admits "all sorts of connectors" tied to Kayla's email** | Sage email 6/7 |
+| 2024-07-10 | Stock2Shop "Pete - user" Ticket Opened | Rynette, Stock2Shop | T-22 | New user setup required | Stock2Shop ticket 3562720966 |
+| **2024-07-11** | **Sebastian Changes All Portals (Kayla→Pete)** | **Stock2Shop, Rynette** | **T-22** | **All WWD portal credentials changed from Kayla's to Pete's** | Rynette internal email |
+| 2024-07-18 | Stock2Shop Customer Sync Issues | Rynette, Kyle (S2S) | T-22 | Lingering data sync problems from credential change | Stock2Shop ticket |
+| 2024-07-19 | Stock2Shop Sync Ticket Closed | Stock2Shop | T-22 | Partial resolution of sync issues | Stock2Shop ticket |
+| 2024-07-31 | Stock2Shop Failed Order in Queue | Stock2Shop, Rynette | T-21 | Continued instability from the July takeover | Stock2Shop ticket |
 | **2025-06-06** | **Dan Exposes Villa Via Fraud to Bantjies** | Daniel Faucitt, Daniel Bantjies | **T-11** | **CRITICAL: Fraud exposure triggers immediate retaliation** | Email to Bantjies 2025-06-06 |
 | **2025-06-07** | **Cards Cancelled <24 Hours After Exposure** | Peter Faucitt, Rynette Farrar, Bantjies | **T-11** | **CRITICAL: Immediate retaliation proves coordination** | Card cancellation records |
 | 2025-06-10 | Bantjies Dismisses Audit Request | Daniel Bantjies, Daniel Faucitt | T-11 | Fraud concealment - dismisses detailed audit | Email 2025-06-10 |
@@ -87,7 +102,11 @@ All events are referenced relative to the **May 2026 Ketoni payout** (T-0):
 | T-37 | Apr 2023 | FFT investment in Ketoni |
 | T-36 | May 2023 | Bantjies joins George Group |
 | T-34 | Jul 2023 | Kayla's death |
-| T-22 | Jul 2024 | Bantjies appointed trustee |
+| T-28 | Jan 2024 | Debt accumulation pattern begins |
+| T-27 | Feb 2024 | ReZonance dissolution pressure |
+| T-24 | ~2024 | Rynette makes R1M+ debt 'disappear' |
+| T-23 | Jun 2024 | Rynette forges trust amendment |
+| T-22 | Jul 2024 | Bantjies appointed trustee, Sage takeover, API breakage |
 | T-11 | Jun 2025 | Fraud exposure, FNB letter, Identity Fraud |
 | T-10 | Jul 2025 | Sage system lockout |
 | T-9 | Aug 2025 | Control consolidation via interdict |
@@ -112,7 +131,7 @@ All events are referenced relative to the **May 2026 Ketoni payout** (T-0):
 
 ---
 
-*Last Updated: 2026-02-06*
+*Last Updated: 2026-02-23*
 
 ---
 
