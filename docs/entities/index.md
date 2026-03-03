@@ -1,7 +1,7 @@
 # Entities Index
 
-**Last Updated:** 2026-02-23  
-**Total Entities:** 110+
+**Last Updated:** 2026-03-03  
+**Total Entities:** 115+
 
 This index catalogs all entities involved in Case 2025-137857: Revenue Stream Hijacking.
 
@@ -229,4 +229,15 @@ Danie Bantjies (PERSON_007) - SIX CONFLICTS
 
 ---
 
-*Last updated by LEX Investigation System: 2026-02-23*
+*Last updated by LEX Investigation System: 2026-03-03*
+
+
+### 🆕 NEW: Evidence Extraction Entities (2026-03-03)
+
+| Entity ID | Name | Role | Relevance |
+|---|---|---|---|
+| [PERSON_039](./PERSON_039.md) | Anton Hechter | SARS Tax Practitioner | VAT submissions, SARS audits |
+| [PERSON_040](./PERSON_040.md) | Clare Payne | CIPC Agent | CIPC Erasure Campaign |
+| [PERSON_041](./PERSON_041.md) | Kent Rault | Employee | Bank detail changes |
+| [ORG_023](./ORG_023.md) | De Novo Business Services | Accounting Firm | Fabricated financial statements |
+| [ORG_024](./ORG_024.md) | Corporate and Merchant Administrators | CIPC Agent | CIPC Erasure Campaign |

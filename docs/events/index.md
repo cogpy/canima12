@@ -1,7 +1,7 @@
 # Events Index
 
-**Last Updated:** 2026-02-18  
-**Total Events:** 145+
+**Last Updated:** 2026-03-03  
+**Total Events:** 148+
 
 This index catalogs all events in Case 2025-137857 organized by phase and significance.
 
@@ -244,4 +244,13 @@ The following 53 events meet the criminal burden of proof:
 
 ---
 
-*Last updated by LEX Investigation System: 2026-02-18*
+*Last updated by LEX Investigation System: 2026-03-03*
+
+
+### 🆕 NEW: Evidence Extraction Events (2026-03-03)
+
+| Date | Event | Significance | Link |
+|---|---|---|---|
+| 2024-04-26 | SARS eFiling Impersonation | Premeditated revenue diversion | [EVENT_111](./EVENT_111.md) |
+| 2023-11-02 | CIPC Erasure Campaign | Destruction of corporate records | [EVENT_112](./EVENT_112.md) |
+| 2018-07-09 | Stylometric Analysis | Proof of long-term identity impersonation | [EVENT_113](./EVENT_113.md) |

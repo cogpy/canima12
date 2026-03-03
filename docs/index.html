@@ -55,6 +55,17 @@
             color: #dc2626;
             margin-top: 0;
         }
+        .new-box {
+            background: #eff6ff;
+            border: 2px solid #3b82f6;
+            border-radius: 8px;
+            padding: 1.5rem;
+            margin: 1.5rem 0;
+        }
+        .new-box h3 {
+            color: #1d4ed8;
+            margin-top: 0;
+        }
         .applications {
             display: grid;
             grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
@@ -76,6 +87,7 @@
         .app-card.criminal { border-top: 4px solid #ef4444; }
         .app-card.regulatory { border-top: 4px solid #f59e0b; }
         .app-card.forgery { border-top: 4px solid #dc2626; }
+        .app-card.identity { border-top: 4px solid #7c3aed; }
         .app-card h3 { margin-top: 0; }
         .app-card .status {
             display: inline-block;
@@ -88,6 +100,7 @@
         .status.active { background: #dcfce7; color: #166534; }
         .status.pending { background: #fef3c7; color: #92400e; }
         .status.critical { background: #fecaca; color: #991b1b; }
+        .status.new { background: #dbeafe; color: #1e40af; }
         .evidence-link {
             display: inline-block;
             padding: 0.5rem 1rem;
@@ -102,6 +115,8 @@
         .evidence-link:hover { background: #764ba2; }
         .evidence-link.red { background: #dc2626; }
         .evidence-link.red:hover { background: #991b1b; }
+        .evidence-link.purple { background: #7c3aed; }
+        .evidence-link.purple:hover { background: #5b21b6; }
         .stats {
             display: grid;
             grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
@@ -119,6 +134,9 @@
         .stat-box .label { font-size: 0.875rem; opacity: 0.9; }
         .stat-box.alert {
             background: linear-gradient(135deg, #dc2626 0%, #991b1b 100%);
+        }
+        .stat-box.new-stat {
+            background: linear-gradient(135deg, #7c3aed 0%, #5b21b6 100%);
         }
         .timeline-table {
             width: 100%;
@@ -138,17 +156,7 @@
         }
         .timeline-table tr:hover { background: #f9fafb; }
         .timeline-table .critical-row { background: #fef2f2; font-weight: 600; }
-        .timeline-link {
-            display: block;
-            padding: 1rem;
-            background: #f3f4f6;
-            border-left: 4px solid #667eea;
-            margin: 1rem 0;
-            text-decoration: none;
-            color: #333;
-            transition: background 0.2s;
-        }
-        .timeline-link:hover { background: #e5e7eb; }
+        .timeline-table .new-row { background: #eff6ff; font-weight: 600; }
         footer {
             text-align: center;
             padding: 2rem;
@@ -165,6 +173,7 @@
     </div>
 
     <div class="container">
+        <!-- Case Overview -->
         <div class="card">
             <h2>Case Overview</h2>
             <div class="stats">
@@ -173,11 +182,11 @@
                     <div class="label">Total Quantum Claimed</div>
                 </div>
                 <div class="stat-box">
-                    <div class="number">145+</div>
+                    <div class="number">148+</div>
                     <div class="label">Timeline Events</div>
                 </div>
                 <div class="stat-box">
-                    <div class="number">79</div>
+                    <div class="number">84+</div>
                     <div class="label">Entities Tracked</div>
                 </div>
                 <div class="stat-box">
@@ -188,10 +197,51 @@
                     <div class="number">EA-18</div>
                     <div class="label">10-Day Coordinated Action</div>
                 </div>
+                <div class="stat-box new-stat">
+                    <div class="number">6,085</div>
+                    <div class="label">Impersonation Emails</div>
+                </div>
             </div>
         </div>
 
-        <!-- NEW: Two-Date Distinction Section -->
+        <!-- NEW EVIDENCE SECTION -->
+        <div class="card">
+            <h2>NEW: March 2026 Evidence Update</h2>
+            <div class="new-box">
+                <h3>Three Critical New Evidence Categories from Exchange Analysis</h3>
+                <table class="timeline-table">
+                    <thead>
+                        <tr>
+                            <th>Evidence</th>
+                            <th>Description</th>
+                            <th>Significance</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr class="new-row">
+                            <td><strong>Stylometric Analysis</strong></td>
+                            <td>6,085 emails analyzed: "Pete" vs "Peter" sign-off patterns prove Rynette authored thousands of emails as Peter Faucitt</td>
+                            <td>Conclusive proof of 7-year identity impersonation</td>
+                        </tr>
+                        <tr class="new-row">
+                            <td><strong>SARS eFiling Impersonation</strong></td>
+                            <td>Rynette logged into SARS as Bantjies (Apr 2024) to change banking details to ABSA</td>
+                            <td>Proves revenue diversion planned 13 months in advance</td>
+                        </tr>
+                        <tr class="new-row">
+                            <td><strong>CIPC Erasure Campaign</strong></td>
+                            <td>Rynette orchestrated removal of deceased director Kayla from CIPC records and fabricated historical accounts</td>
+                            <td>Systematic destruction of corporate records</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+            <a href="events/EVENT_111.md" class="evidence-link purple">SARS eFiling Impersonation</a>
+            <a href="events/EVENT_112.md" class="evidence-link purple">CIPC Erasure Campaign</a>
+            <a href="events/EVENT_113.md" class="evidence-link purple">Stylometric Analysis</a>
+        </div>
+
+        <!-- Two-Date Distinction Section -->
         <div class="card">
             <h2>CRITICAL: Two-Date Distinction &mdash; Trust Forgery vs. Backdated Appointment</h2>
             <div class="critical-box">
@@ -223,7 +273,6 @@
             </div>
 
             <h3>EA-18: The 10-Day Coordinated Action Window</h3>
-            <p>The proximity of the trust amendment forgery (28 June 2024) and the Sage affidavit fraud (8&ndash;9 July 2024) proves coordinated criminal action:</p>
             <table class="timeline-table">
                 <thead>
                     <tr><th>Day</th><th>Date</th><th>Action</th><th>Target</th></tr>
@@ -256,8 +305,9 @@
             <a href="events/EVENT_105.md" class="evidence-link red">EVENT_105: EA-18</a>
         </div>
 
+        <!-- Legal Applications -->
         <div class="card">
-            <h2>Legal Applications</h2>
+            <h2>Legal Applications &amp; Filings</h2>
             <div class="applications">
                 <div class="app-card civil">
                     <h3>Civil Response</h3>
@@ -265,53 +315,76 @@
                     <p>Answering affidavit and rescission application responding to Case 2025-137857.</p>
                     <p style="margin-top: 1rem; font-weight: 600;">Burden of Proof: 50%+ (Balance of Probabilities)</p>
                     <a href="filings/civil/index.md" class="evidence-link">View Civil Filings</a>
-                    <a href="https://github.com/cogpy/ad-res-j7/tree/main/1-CIVIL-RESPONSE" class="evidence-link">GitHub Source</a>
                 </div>
 
                 <div class="app-card criminal">
-                    <h3>Criminal Case / Commercial Crime</h3>
-                    <span class="status active">Active &mdash; Updated 2026-02-18</span>
-                    <p>Hawks submission: racketeering, fraud, theft, forgery, perjury, and POCA contraventions. Now includes EA-18 coordinated action evidence.</p>
+                    <h3>Commercial Crime (v6)</h3>
+                    <span class="status critical">Updated 2026-03-03</span>
+                    <p>Hawks submission: racketeering, fraud, theft, forgery, perjury, identity fraud, and POCA contraventions. Now includes stylometric proof and SARS eFiling impersonation.</p>
                     <p style="margin-top: 1rem; font-weight: 600;">Burden of Proof: 95%+ (Beyond Reasonable Doubt) &mdash; EXCEEDED</p>
-                    <a href="filings/COMMERCIAL_CRIME_SUBMISSION_REFINED_2026_02_18.md" class="evidence-link">Latest Commercial Crime Filing</a>
+                    <a href="filings/COMMERCIAL_CRIME_SUBMISSION_REFINED_2026_03_03_v6.md" class="evidence-link">Latest Filing (v6)</a>
                     <a href="filings/FINAL_VOID_AB_INITIO_REPORT_2026_02_09.md" class="evidence-link">Void Ab Initio Report</a>
                 </div>
 
                 <div class="app-card regulatory">
-                    <h3>Regulatory Complaints</h3>
+                    <h3>POPIA Complaint (v6)</h3>
+                    <span class="status critical">Updated 2026-03-03</span>
+                    <p>Criminal contraventions of POPIA including identity fraud, unlawful processing of deceased's information, and obstruction of regulator.</p>
+                    <a href="filings/POPIA_COMPLAINT_REFINED_2026_03_03_v6.md" class="evidence-link">Latest Filing (v6)</a>
+                </div>
+
+                <div class="app-card regulatory">
+                    <h3>NPA Tax Fraud Report (v6)</h3>
+                    <span class="status critical">Updated 2026-03-03</span>
+                    <p>Tax fraud via fabricated financials, SARS eFiling impersonation, concealment of income through identity fraud.</p>
+                    <a href="filings/NPA_TAX_FRAUD_REPORT_REFINED_2026_03_03_v6.md" class="evidence-link">Latest Filing (v6)</a>
+                </div>
+
+                <div class="app-card regulatory">
+                    <h3>CIPC Complaint</h3>
                     <span class="status active">Active</span>
-                    <p>CIPC Companies Act complaints, POPIA criminal complaints, and NPA tax fraud reports.</p>
-                    <a href="filings/index.md" class="evidence-link">View All Filings</a>
+                    <p>Companies Act violations, director disqualification, and CIPC erasure campaign evidence.</p>
+                    <a href="filings/CIPC_COMPLAINT_RWD_NOTICES_2026_02_16.md" class="evidence-link">Latest Filing</a>
                 </div>
 
                 <div class="app-card forgery">
                     <h3>Forgery &amp; Backdating</h3>
-                    <span class="status critical">NEW &mdash; 2026-02-18</span>
+                    <span class="status critical">Critical Evidence</span>
                     <p>Trust amendment forgery (28 June 2024), Sage affidavit fraud (July 2024), and backdated Main Trustee appointment (11 August 2025).</p>
                     <a href="events/EVENT_103.md" class="evidence-link red">Trust Forgery</a>
                     <a href="events/EVENT_104.md" class="evidence-link red">Backdated Appointment</a>
                     <a href="events/EVENT_105.md" class="evidence-link red">EA-18 Pattern</a>
-                    <a href="relations/FORGERY_BACKDATING_RELATIONS_2026_02_18.md" class="evidence-link red">Relations</a>
+                </div>
+
+                <div class="app-card identity">
+                    <h3>Identity Impersonation</h3>
+                    <span class="status new">NEW &mdash; 2026-03-03</span>
+                    <p>Stylometric proof of 7-year email impersonation. 6,085 messages. SARS eFiling identity fraud. CIPC record destruction.</p>
+                    <a href="events/EVENT_113.md" class="evidence-link purple">Stylometric Analysis</a>
+                    <a href="events/EVENT_111.md" class="evidence-link purple">SARS eFiling Fraud</a>
+                    <a href="events/EVENT_112.md" class="evidence-link purple">CIPC Erasure</a>
                 </div>
             </div>
         </div>
 
+        <!-- Timeline & Events -->
         <div class="card">
             <h2>Timeline &amp; Events</h2>
-            <p>Comprehensive chronological analysis of 145+ events across 5 phases:</p>
+            <p>Comprehensive chronological analysis of 148+ events across 5 phases:</p>
             <ul style="margin-left: 2rem; margin-top: 1rem;">
                 <li><strong>Phase 1 (1992&ndash;2022):</strong> Foundation &amp; Financial Manipulation Blueprint</li>
                 <li><strong>Phase 2 (2023):</strong> Ketoni Investment &amp; Creditor Elimination</li>
-                <li><strong>Phase 3 (2024):</strong> Control Consolidation &mdash; Trust Forgery &amp; Sage Takeover</li>
+                <li><strong>Phase 3 (2024):</strong> Control Consolidation &mdash; Trust Forgery, Sage Takeover &amp; SARS eFiling Impersonation</li>
                 <li><strong>Phase 4 (2025):</strong> Fraud Escalation, Control Seizure &amp; Contempt</li>
                 <li><strong>Phase 5 (May 2026):</strong> Ketoni R18.685M Payout</li>
             </ul>
-            <a href="events/index.md" class="evidence-link" style="margin-top: 1rem;">Events Index (145+ events)</a>
+            <a href="events/index.md" class="evidence-link" style="margin-top: 1rem;">Events Index (148+ events)</a>
             <a href="timeline.md" class="evidence-link">Master Timeline</a>
             <a href="ketoni-timeline.md" class="evidence-link">Ketoni Motive Timeline</a>
             <a href="sage-capture/index.md" class="evidence-link">Sage Capture Timeline</a>
         </div>
 
+        <!-- Evidence Repository -->
         <div class="card">
             <h2>Evidence Repository</h2>
             <h3>Primary Annexures (JF01&ndash;JF13)</h3>
@@ -331,60 +404,91 @@
                 <p><strong>SF15:</strong> Trust Amendment Document &mdash; Forged "pp Peter" signature (28 June 2024)</p>
             </div>
 
-            <h3 style="margin-top: 1.5rem;">New Evidence (2026-02-18)</h3>
+            <h3 style="margin-top: 1.5rem;">Exchange Evidence (260223 Extraction)</h3>
             <div style="margin-left: 1rem;">
-                <p><strong>EVENT_103:</strong> Trust Amendment Forgery (28 June 2024)</p>
-                <p><strong>EVENT_104:</strong> Backdated "Main Trustee" Appointment (11 Aug 2025, backdated to 1 Jul 2025)</p>
-                <p><strong>EVENT_105:</strong> EA-18 Coordinated Action &mdash; 10-Day Window</p>
+                <p><strong>513 messages</strong> across 15 key evidence folders:</p>
+                <p>01: Trust Forgery | 02: SARS eFiling Impersonation | 03: Sage Takeover | 04: Trust Docs After Kayla</p>
+                <p>05: SARS Coffee | 06: Bantjies FNB/ABSA | 07: Ketoni Trust | 08: Secret Sharing</p>
+                <p>09: Card Cancellation | 10: Fraud Report | 11: Bank Detail Changes | 12: De Novo Fabrication</p>
+                <p>13: CIPC Interference | 14: IT Expenses Smokescreen | 15: RLA SARS Control</p>
+            </div>
+
+            <h3 style="margin-top: 1.5rem;">New Evidence (2026-03-03)</h3>
+            <div style="margin-left: 1rem;">
+                <p><strong>EVENT_111:</strong> SARS eFiling Impersonation (26 April 2024)</p>
+                <p><strong>EVENT_112:</strong> CIPC Erasure Campaign (Nov 2023 &ndash; Jul 2025)</p>
+                <p><strong>EVENT_113:</strong> Stylometric Analysis &mdash; 6,085 emails proving identity impersonation</p>
             </div>
 
             <a href="evidence-index-enhanced.md" class="evidence-link" style="margin-top: 1rem;">Enhanced Evidence Index</a>
-            <a href="https://github.com/cogpy/ad-res-j7/tree/main/ANNEXURES" class="evidence-link">View All Evidence on GitHub</a>
+            <a href="https://github.com/cogpy/ad-res-j7/tree/main/docs/260223" class="evidence-link">Exchange Evidence (ad-res-j7)</a>
+            <a href="https://github.com/cogpy/ad-res-j7/tree/main/ANNEXURES" class="evidence-link">All Annexures (ad-res-j7)</a>
         </div>
 
+        <!-- Data Models -->
         <div class="card">
             <h2>Data Models &amp; Entity Profiles</h2>
             <p>Structured data models with comprehensive evidence cross-references:</p>
             <div style="margin-top: 1rem;">
-                <p><strong>Entities:</strong> 79 entities tracked (persons, organizations, trusts)</p>
+                <p><strong>Entities:</strong> 84+ entities tracked (persons, organizations, trusts)</p>
                 <p><strong>Relations:</strong> 123+ relations including forgery/backdating chain</p>
-                <p><strong>Events:</strong> 145+ events (63 at criminal threshold)</p>
+                <p><strong>Events:</strong> 148+ events (66 at criminal threshold)</p>
                 <p><strong>Timeline:</strong> 5 phases covering 1992&ndash;2026</p>
             </div>
             <a href="entities/index.md" class="evidence-link">Entities</a>
             <a href="relations/index.md" class="evidence-link">Relations</a>
             <a href="events/index.md" class="evidence-link">Events</a>
+            <a href="filings/index.md" class="evidence-link">All Filings</a>
             <a href="relations/FORGERY_BACKDATING_RELATIONS_2026_02_18.md" class="evidence-link red">Forgery/Backdating Relations</a>
             <a href="evidence/TWO_DATE_DISTINCTION_ANALYSIS.md" class="evidence-link red">Two-Date Analysis</a>
         </div>
 
+        <!-- Key Entity Profiles -->
         <div class="card">
             <h2>Key Entity Profiles</h2>
             <div class="applications">
                 <div class="app-card" style="border-top: 4px solid #dc2626;">
                     <h3>Peter Andrew Faucitt</h3>
                     <span class="status critical">Primary Perpetrator</span>
-                    <p>12 involvement events. R10.27M financial impact. 95% criminal threshold exceeded.</p>
+                    <p>12 involvement events. R10.27M financial impact. 95% criminal threshold exceeded. Identity impersonated by Rynette for 7+ years.</p>
                     <a href="entities/PERSON_001.md" class="evidence-link">Profile</a>
                 </div>
                 <div class="app-card" style="border-top: 4px solid #dc2626;">
                     <h3>Rynette Farrar</h3>
                     <span class="status critical">Operational Controller</span>
-                    <p>21 involvement events. Forged trust amendment (28 June 2024). Emailed backdated appointment (11 Aug 2025). Executed Sage takeover.</p>
+                    <p>21+ involvement events. Forged trust amendment. Executed Sage takeover. Impersonated Peter via email for 7 years (6,085 messages). Impersonated Bantjies on SARS eFiling. Orchestrated CIPC erasure campaign.</p>
                     <a href="entities/PERSON_002.md" class="evidence-link">Profile</a>
                 </div>
                 <div class="app-card" style="border-top: 4px solid #dc2626;">
                     <h3>Danie Bantjies</h3>
                     <span class="status critical">Conflicted Trustee / Tier A Conspirator</span>
-                    <p>16 involvement events. Installed via forgery (28 June 2024). Swore perjured affidavit 2 days after receiving backdated appointment. Controls both ends of R18.685M.</p>
+                    <p>16+ involvement events. Installed via forgery. Swore perjured affidavit. Controls both ends of R18.685M. Condoned SARS eFiling impersonation.</p>
                     <a href="entities/PERSON_007.md" class="evidence-link">Profile</a>
                 </div>
             </div>
         </div>
+
+        <!-- New Entities -->
+        <div class="card">
+            <h2>New Entities (2026-03-03)</h2>
+            <table class="timeline-table">
+                <thead>
+                    <tr><th>Entity ID</th><th>Name</th><th>Role</th><th>Relevance</th></tr>
+                </thead>
+                <tbody>
+                    <tr class="new-row"><td>PERSON_039</td><td>Anton Hechter</td><td>SARS Tax Practitioner</td><td>VAT submissions, SARS audits</td></tr>
+                    <tr class="new-row"><td>PERSON_040</td><td>Clare Payne</td><td>CIPC Agent</td><td>CIPC Erasure Campaign</td></tr>
+                    <tr class="new-row"><td>PERSON_041</td><td>Kent Rault</td><td>Employee</td><td>Bank detail change emails</td></tr>
+                    <tr class="new-row"><td>ORG_023</td><td>De Novo Business Services</td><td>Accounting Firm</td><td>Fabricated financial statements</td></tr>
+                    <tr class="new-row"><td>ORG_024</td><td>Corporate &amp; Merchant Administrators</td><td>CIPC Agent</td><td>CIPC Erasure Campaign</td></tr>
+                </tbody>
+            </table>
+            <a href="entities/index.md" class="evidence-link">Full Entities Index</a>
+        </div>
     </div>
 
     <footer>
-        <p>Case 2025-137857 | Last Updated: 2026-02-18 | Two-Date Distinction Integrated</p>
+        <p>Case 2025-137857 | Last Updated: 2026-03-03 | v6 Filings with Exchange Evidence Integration</p>
         <p>Repository: <a href="https://github.com/cogpy/revstream1" style="color: #667eea;">cogpy/revstream1</a> | Evidence: <a href="https://github.com/cogpy/ad-res-j7" style="color: #667eea;">cogpy/ad-res-j7</a></p>
     </footer>
 </body>

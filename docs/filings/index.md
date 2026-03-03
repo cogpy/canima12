@@ -1,22 +1,22 @@
 # Legal Filings Index
 
-**Last Updated:** 2026-02-18  
+**Last Updated:** 2026-03-03  
 **Case Number:** 2025-137857
 
-This index organizes all legal filings by application type and provides direct links to the latest, most refined versions, incorporating all evidence up to February 6, 2026.
+This index organizes all legal filings by application type and provides direct links to the latest, most refined versions, incorporating all evidence up to March 3, 2026, including exchange evidence extraction, stylometric analysis, and SARS eFiling impersonation.
 
 ---
 
-## LATEST REFINED FILINGS (2026-02-18)
+## LATEST REFINED FILINGS (2026-03-03)
 
-These filings are the most current and comprehensive, incorporating the **two-date distinction** (28 June 2024 forgery vs. 11 August 2025 backdated appointment) and EA-18 coordinated action evidence.
+These filings are the most current and comprehensive (v6), incorporating the **two-date distinction**, EA-18 coordinated action evidence, **stylometric proof of identity impersonation**, **SARS eFiling impersonation**, and **CIPC erasure campaign** evidence.
 
 | Filing | Type | Link | Updated |
 |---|---|---|---|
-| **Commercial Crime Submission** | Criminal | **[View Latest Filing](./COMMERCIAL_CRIME_SUBMISSION_REFINED_2026_02_18.md)** | **2026-02-18** |
+| **Commercial Crime Submission** | Criminal | **[View Latest Filing](./COMMERCIAL_CRIME_SUBMISSION_REFINED_2026_03_03_v6.md)** | **2026-03-03** |
 | **CIPC Complaint** | Regulatory | **[View Filing](./CIPC_COMPLAINT_RWD_NOTICES_2026_02_16.md)** | 2026-02-16 |
-| **POPIA Complaint** | Criminal | **[View Filing](./POPIA_COMPLAINT_REFINED_2026_02_06.md)** | 2026-02-06 |
-| **NPA Tax Fraud Report** | Criminal | **[View Filing](./NPA_TAX_FRAUD_REPORT_REFINED_2026_02_06.md)** | 2026-02-06 |
+| **POPIA Complaint** | Criminal | **[View Filing](./POPIA_COMPLAINT_REFINED_2026_03_03_v6.md)** | 2026-03-03 |
+| **NPA Tax Fraud Report** | Criminal | **[View Filing](./NPA_TAX_FRAUD_REPORT_REFINED_2026_03_03_v6.md)** | 2026-03-03 |
 | **Void Ab Initio Report** | Legal Analysis | **[View Report](./FINAL_VOID_AB_INITIO_REPORT_2026_02_09.md)** | 2026-02-09 |
 
 ---
@@ -80,4 +80,4 @@ An archive of all previous versions is maintained for historical reference.
 
 ---
 
-*Last updated: 2026-02-18*
+*Last updated: 2026-03-03*
