@@ -1,7 +1,7 @@
 # Events Index
 
 **Last Updated:** 2026-03-03  
-**Total Events:** 148+
+**Total Events:** 150+
 
 This index catalogs all events in Case 2025-137857 organized by phase and significance.
 
@@ -19,6 +19,8 @@ This index catalogs all events in Case 2025-137857 organized by phase and signif
 | Void Ab Initio Events | 1 | CRITICAL |
 | **Forgery/Backdating Events** | **3** | **NEW — TWO-DATE DISTINCTION** |
 | **EA-18 Coordinated Action** | **1** | **PATTERN EVIDENCE** |
+| **SARS/Identity Fraud Events** | **2** | **NEW — CREDENTIAL ABUSE** |
+| **Trust Gatekeeping Events** | **1** | **NEW — INFORMATION CONTROL** |
 
 ---
 
@@ -32,6 +34,13 @@ This index catalogs all events in Case 2025-137857 organized by phase and signif
 | 2008-06-27 | Strategic Logistics CC Registration | SLG | [EVENT_H004](./EVENT_H004.md) |
 | 2011-03-11 | RegimA Worldwide Distribution Registration | RWD | [EVENT_H005](./EVENT_H005.md) |
 | 2017-04-04 | ReZonance Registration | ReZonance | [EVENT_H001](./EVENT_H001.md) |
+
+### Villa Via Registration Number Error (2014-2022)
+
+| Date | Event | Significance | Link |
+|------|-------|--------------|------|
+| **2022-01-12** | **Rynette Discovers Villa Via Wrong Reg Number** | Bantjies used wrong number since 2014 | [EVENT_106](./EVENT_106.md) |
+| **2022-01-18** | **Bantjies Admits 8-Year Error** | "My goodness, been using this incorrect number since 2014!" | [EVENT_106](./EVENT_106.md) |
 
 ### Financial Manipulation Blueprint (2019-2020)
 
@@ -52,6 +61,14 @@ This index catalogs all events in Case 2025-137857 organized by phase and signif
 ---
 
 ## Phase 2: Ketoni Investment & Creditor Elimination (2023)
+
+### Trust Gatekeeping — Rynette as Sole Intermediary (May 2023)
+
+| Date | Event | Significance | Link |
+|------|-------|--------------|------|
+| **2023-05-03** | **Rynette Handles Trust Minutes Signatures** | Physical access to trust documents | [EVENT_108](./EVENT_108.md) |
+| **2023-05-29** | **Rynette Arranges Trust Meeting (Excludes Jax/Dan)** | Information gatekeeping pattern | [EVENT_108](./EVENT_108.md) |
+| **2023-05-31** | **Jax Discovers Exclusion — Objects** | "Please ask him to always copy me and Danny" | [EVENT_108](./EVENT_108.md) |
 
 ### Central Motive Established
 
@@ -79,6 +96,12 @@ This index catalogs all events in Case 2025-137857 organized by phase and signif
 ---
 
 ## Phase 3: Control Consolidation (2024)
+
+### SARS Identity Fraud — Rynette Logs In as Bantjies (April 2024)
+
+| Date | Event | Significance | Link |
+|------|-------|--------------|------|
+| **2024-04-26** | **Rynette Logs Into SARS as Bantjies** | "I couldn't come right with SARS logged in as 'me'... So, I logged in as you" | [EVENT_107](./EVENT_107.md) |
 
 ### Trust Amendment Forgery & Sage Takeover — The 10-Day Window (EA-18)
 
@@ -244,13 +267,4 @@ The following 53 events meet the criminal burden of proof:
 
 ---
 
-*Last updated by LEX Investigation System: 2026-03-03*
-
-
-### 🆕 NEW: Evidence Extraction Events (2026-03-03)
-
-| Date | Event | Significance | Link |
-|---|---|---|---|
-| 2024-04-26 | SARS eFiling Impersonation | Premeditated revenue diversion | [EVENT_111](./EVENT_111.md) |
-| 2023-11-02 | CIPC Erasure Campaign | Destruction of corporate records | [EVENT_112](./EVENT_112.md) |
-| 2018-07-09 | Stylometric Analysis | Proof of long-term identity impersonation | [EVENT_113](./EVENT_113.md) |
+*Last updated by LEX Investigation System: 2026-02-18*

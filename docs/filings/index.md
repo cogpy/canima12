@@ -1,25 +1,29 @@
 # Legal Filings Index
 
-**Last Updated:** 2026-03-03  
+**Last Updated:** 2026-02-18  
 **Case Number:** 2025-137857
 
-This index organizes all legal filings by application type and provides direct links to the latest, most refined versions, incorporating all evidence up to March 3, 2026, including exchange evidence extraction, stylometric analysis, and SARS eFiling impersonation.
+This index organizes all legal filings by application type and provides direct links to the latest, most refined versions, incorporating all evidence up to February 6, 2026.
 
 ---
 
-## LATEST REFINED FILINGS (2026-03-03)
+## LATEST REFINED FILINGS (2026-02-18)
 
-These filings are the most current and comprehensive (v6), incorporating the **two-date distinction**, EA-18 coordinated action evidence, **stylometric proof of identity impersonation**, **SARS eFiling impersonation**, and **CIPC erasure campaign** evidence.
+These filings are the most current and comprehensive, incorporating the **two-date distinction** (28 June 2024 forgery vs. 11 August 2025 backdated appointment) and EA-18 coordinated action evidence.
 
 | Filing | Type | Link | Updated |
 |---|---|---|---|
-| **Commercial Crime Submission** | Criminal | **[View Latest Filing](./COMMERCIAL_CRIME_SUBMISSION_REFINED_2026_03_03_v6.md)** | **2026-03-03** |
+| **Commercial Crime Submission** | Criminal | **[View Latest Filing](./COMMERCIAL_CRIME_SUBMISSION_REFINED_2026_02_18.md)** | **2026-02-18** |
 | **CIPC Complaint** | Regulatory | **[View Filing](./CIPC_COMPLAINT_RWD_NOTICES_2026_02_16.md)** | 2026-02-16 |
-| **POPIA Complaint** | Criminal | **[View Filing](./POPIA_COMPLAINT_REFINED_2026_03_03_v6.md)** | 2026-03-03 |
-| **NPA Tax Fraud Report** | Criminal | **[View Filing](./NPA_TAX_FRAUD_REPORT_REFINED_2026_03_03_v6.md)** | 2026-03-03 |
+| **POPIA Complaint** | Criminal | **[View Filing](./POPIA_COMPLAINT_REFINED_2026_02_06.md)** | 2026-02-06 |
+| **NPA Tax Fraud Report** | Criminal | **[View Filing](./NPA_TAX_FRAUD_REPORT_REFINED_2026_02_06.md)** | 2026-02-06 |
 | **Void Ab Initio Report** | Legal Analysis | **[View Report](./FINAL_VOID_AB_INITIO_REPORT_2026_02_09.md)** | 2026-02-09 |
 
 ---
+
+## Key Updates (2026-03-03)
+
+*   **SARS Identity Fraud & Trust Gatekeeping:** New evidence from the Neon database reveals Rynette Farrar logged into SARS eFiling using Danie Bantjies' credentials (EVENT_107), acted as a gatekeeper for Faucitt Family Trust communications (EVENT_108), and discovered Bantjies had used an incorrect company registration number for Villa Via for 8 years (EVENT_106).
 
 ## Key Updates (2026-02-18)
 
@@ -28,6 +32,14 @@ These filings are the most current and comprehensive (v6), incorporating the **t
 *   **Enhanced Forgery Charges:** Separate forgery counts for the trust amendment (28 June 2024) and the Sage affidavit (8-9 July 2024).
 *   **Backdating as Fraud:** The 6-week backdating of the "Main Trustee" agreement is now a separate fraud count.
 *   **Perjury with Provable Foreknowledge:** Bantjies' confirmatory affidavit (13 August 2025) is now linked to his receipt of the backdated appointment 2 days earlier.
+
+### New Evidence Documents (March 2026)
+
+| Document | Link |
+|---|---|
+| EVENT_106: Villa Via Wrong Reg Number | **[View](../events/EVENT_106.md)** |
+| EVENT_107: Rynette Logs Into SARS as Bantjies | **[View](../events/EVENT_107.md)** |
+| EVENT_108: Trust Gatekeeping | **[View](../events/EVENT_108.md)** |
 
 ### New Evidence Documents
 
@@ -80,4 +92,4 @@ An archive of all previous versions is maintained for historical reference.
 
 ---
 
-*Last updated: 2026-03-03*
+*Last updated: 2026-02-18*
