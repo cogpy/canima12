@@ -1,8 +1,8 @@
 # Comprehensive Case Timeline
 
 **Case:** 2025-137857 - Revenue Stream Hijacking  
-**Last Updated:** 2026-02-06  
-**Total Events:** 140+
+**Last Updated:** 2026-03-04  
+**Total Events:** 145+
 
 This timeline documents all significant events in the revenue stream hijacking case, organized chronologically with T-Months relative to the May 2026 Ketoni payout.
 
@@ -14,7 +14,7 @@ This timeline documents all significant events in the revenue stream hijacking c
 |---|---|---|
 | [Foundation](#foundation-1992-2017) | 1992-2017 | Company formations, business establishment |
 | [Operations](#operations-2019-2022) | 2019-2022 | Financial manipulation begins |
-| [Investment](#investment-phase-2023) | 2023 | Ketoni investment, Kayla's death, Rezonance debt |
+| [Investment](#investment-phase-2023) | 2023 | Ketoni investment, Kayla's death, Rezonance debt, **trust gatekeeping (EVENT_108)** |
 | [Control](#control-consolidation-2024-2025) | 2024-2025 | Trustee appointment, fraud exposure, retaliation, system lockout |
 | [Convergence](#convergence-may-2026) | May 2026 | Ketoni payout due |
 
@@ -46,6 +46,7 @@ This timeline documents all significant events in the revenue stream hijacking c
 | 2023-02-20 | Ketoni Investment Holdings Incorporated | Kevin Michael Derrick | T-39 | Investment vehicle created | CIPC records |
 | **2023-02-28** | **Rezonance Debt at R1,035,361.34** | RegimA Skin Treatments, Rezonance | **T-38** | **Establishes R1M+ debt to Kayla's company 6 months before her death** | **SF12** |
 | **2023-04-24** | **FFT Investment in Ketoni** | Faucitt Family Trust, Ketoni, Kevin Derrick | **T-37** | **CRITICAL: ZAR 18.75M payout entitlement established** | Ketoni investment docs, Share Certificate #3 |
+| **2023-05-03** | **Rynette Handles Trust Meeting Minutes — Gatekeeper Role Established** | **Rynette Farrar, Bantjies** | **T-36** | **Rynette controls trust document access, excludes Jax & Daniel** | **[EVENT_108](./events/EVENT_108.md)** |
 | 2023-05 | Bantjies Joins The George Group | Daniel Jacobus Bantjies, Kevin Derrick | T-36 | Network connection established (Bantjies-Derrick) | LinkedIn, George Group records |
 | **2023-07-13** | **Kayla Pretorius Death** | Kayla Pretorius, Daniel Faucitt, ReZonance | **T-34** | **CRITICAL: Eliminates R1M+ creditor 80 days after investment** | SF6, SF7, **SF12** |
 
@@ -55,10 +56,12 @@ This timeline documents all significant events in the revenue stream hijacking c
 
 | Date | Event | Key Actors | T-Months | Significance | Evidence |
 |---|---|---|---|---|---|
+| **2022-01-12** | **Villa Via Wrong Registration Number Discovered (Since 2014)** | **Rynette Farrar, Bantjies** | **T-40** | **8 years of wrong reg number on all financial statements; neither reported to CIPC/SARS** | **[EVENT_106](./events/EVENT_106.md)** |
 | 2024-01-01 | Debt Accumulation Pattern Begins | Peter, Bantjies | T-28 | Financial motive for curatorship conspiracy | [EVENT_073](./events/EVENT_073.md) |
 | 2024-02-14 | ReZonance Dissolution Pressure | Peter Faucitt, Daniel Faucitt | T-27 | Eliminate R1M debt obstacle before trust control | ReZonance dissolution correspondence |
 | ~2024 | Rynette Makes R1M+ Debt to ReZonance 'Disappear' | Rynette Farrar | T-24 | Fraudulent misallocation of GoDaddy payments | [EVT-068](./events/EVT-068.md) |
 | 2024-2025 | Pete & Rynette Attempt Unauthorized Banking Changes | Peter, Rynette | T-24 to T-12 | Multiple attempts to change mandates without Daniel's consent | [EVT-069](./events/EVT-069.md) |
+| **2024-04-26** | **Rynette Logs Into SARS as Bantjies — "Logged in as you"** | **Rynette Farrar, Bantjies** | **T-25** | **CRITICAL: Proves dual SARS access + credential sharing; changes banking to ABSA 63 days before forgery** | **[EVENT_107](./events/EVENT_107.md)** |
 | **2024-06-28** | **Rynette Forges "pp Peter" on Trust Amendment** | **Rynette Farrar** | **T-23** | **FORGERY — installs Bantjies as trustee** | **[EVENT_103](./events/EVENT_103.md)** |
 | 2024-07-01 | Bantjies Sends ID for Trust Appointment | Bantjies | T-22 | Bantjies cooperates with fraudulent appointment | Audit trail |
 | **2024-07-01** | **Bantjies Appointed FFT Trustee** | **Bantjies, Rynette** | **T-22** | **Strategic trustee appointment before payout** | FFT trustee appointment docs |
@@ -102,9 +105,12 @@ All events are referenced relative to the **May 2026 Ketoni payout** (T-0):
 | T-37 | Apr 2023 | FFT investment in Ketoni |
 | T-36 | May 2023 | Bantjies joins George Group |
 | T-34 | Jul 2023 | Kayla's death |
+| T-40 | Jan 2022 | Villa Via wrong registration number discovered (EVENT_106) |
+| T-36 | May 2023 | Trust gatekeeping established (EVENT_108) |
 | T-28 | Jan 2024 | Debt accumulation pattern begins |
 | T-27 | Feb 2024 | ReZonance dissolution pressure |
 | T-24 | ~2024 | Rynette makes R1M+ debt 'disappear' |
+| T-25 | Apr 2024 | Rynette logs into SARS as Bantjies (EVENT_107) |
 | T-23 | Jun 2024 | Rynette forges trust amendment |
 | T-22 | Jul 2024 | Bantjies appointed trustee, Sage takeover, API breakage |
 | T-11 | Jun 2025 | Fraud exposure, FNB letter, Identity Fraud |
@@ -131,7 +137,7 @@ All events are referenced relative to the **May 2026 Ketoni payout** (T-0):
 
 ---
 
-*Last Updated: 2026-02-23*
+*Last Updated: 2026-03-04*
 
 ---
 
@@ -139,9 +145,9 @@ All events are referenced relative to the **May 2026 Ketoni payout** (T-0):
 
 | Date | Event | Key Actors | T-Months | Significance | Evidence |
 |---|---|---|---|---|---|
-| **2026-02-13** | **RWD Formal Notice 001 Issued** | Jacqueline Faucitt, Daniel Faucitt | **T-3** | **Formal notice of identity misappropriation and void ab initio interdict** | **[EVENT_106](./events/EVENT_106.md)** |
-| **2026-02-14** | **RWD Formal Notice 002 Issued** | Jacqueline Faucitt, Daniel Faucitt | **T-3** | **Documents systematic destruction of e-commerce pipeline** | **[EVENT_107](./events/EVENT_107.md)** |
-| **2026-02-16** | **Board Resolution to Remove Director P.A. Faucitt** | Jacqueline Faucitt, Daniel Faucitt | **T-3** | **Formal move to remove Peter Faucitt as director** | **[EVENT_108](./events/EVENT_108.md)** |
+| **2026-02-13** | **RWD Formal Notice 001 Issued** | Jacqueline Faucitt, Daniel Faucitt | **T-3** | **Formal notice of identity misappropriation and void ab initio interdict** | RWD Formal Notice 001 |
+| **2026-02-14** | **RWD Formal Notice 002 Issued** | Jacqueline Faucitt, Daniel Faucitt | **T-3** | **Documents systematic destruction of e-commerce pipeline** | RWD Formal Notice 002 |
+| **2026-02-16** | **Board Resolution to Remove Director P.A. Faucitt** | Jacqueline Faucitt, Daniel Faucitt | **T-3** | **Formal move to remove Peter Faucitt as director** | Board Resolution |
 | **2026-02-16** | **Disclosure Package for P.A. Faucitt** | Jacqueline Faucitt, Daniel Faucitt | **T-3** | **Protective disclosure and notice of board meeting** | **[EVENT_109](./events/EVENT_109.md)** |
 
 | **2024-07-10** | **Sage API Breakage & Framing Setup** | Rynette Farrar | **T-10** | **Deliberate sabotage of invoice API to create info vacuum and frame Daniel** | **[EVENT_110](./events/EVENT_110.md)** |
