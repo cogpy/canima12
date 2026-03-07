@@ -1,13 +1,31 @@
 # Entities Index
 
-**Last Updated:** 2026-03-03  
-**Total Entities:** 115+
+**Last Updated:** 2026-03-07  
+**Total Entities:** 120+
 
 This index catalogs all entities involved in Case 2025-137857: Revenue Stream Hijacking.
 
 ---
 
-## NEW: February 2026 Update (2026-02-09)
+## NEW: March 2026 Update (2026-03-07)
+
+**New Entities from Rynette-Bantjies Communications Analysis (1,632 messages):**
+- [PERSON_042](./PERSON_042.md) - Marc Yudaken (Baker McKenzie Attorney — Ketoni SHA)
+- [PERSON_043](./PERSON_043.md) - David Field (Deal Consultant — Kevin Derrick's behalf)
+- [PERSON_044](./PERSON_044.md) - Denny Da Silva (Baker McKenzie Attorney)
+- [ORG_025](./ORG_025.md) - Baker McKenzie (Law Firm — Ketoni SHA/MOI)
+
+**New Events:** [EVENT_114](../events/EVENT_114.md) through [EVENT_120](../events/EVENT_120.md)
+
+**CRITICAL NEW EVIDENCE:** [EVENT_119](../events/EVENT_119.md) — Bantjies admits **"I will manufacture an answer"** to SARS query (SMOKING GUN)
+
+**Evidence Strength Upgrades:**
+- PERSON_002 (Rynette Farrar): 95% → **99% Conclusive**
+- PERSON_007 (Daniel Bantjies): 95% → **99% Conclusive**
+
+---
+
+## February 2026 Update (2026-02-09)
 
 **Contempt Application Evidence:** New entities identified from the Contempt of Court Application filed 4 February 2026.
 
@@ -40,14 +58,14 @@ This index catalogs all entities involved in Case 2025-137857: Revenue Stream Hi
 | Entity ID | Name | Role | Evidence Strength |
 |-----------|------|------|-------------------|
 | [PERSON_001](./PERSON_001.md) | Peter Andrew Faucitt | Primary Perpetrator | Conclusive (95%+) |
-| [PERSON_002](./PERSON_002.md) | Rynette Farrar | Co-Conspirator | Conclusive (95%+) |
+| [PERSON_002](./PERSON_002.md) | Rynette Farrar | Co-Conspirator | **Conclusive (99%)** |
 
 ### Accomplices
 
 | Entity ID | Name | Role | Evidence Strength |
 |-----------|------|------|-------------------|
 | [PERSON_003](./PERSON_003.md) | Adderory (Rynette's Son) | Co-Conspirator (Family) | Strong |
-| [PERSON_007](./PERSON_007.md) | Daniel Jacobus Bantjies | Strategic Appointee/Accountant/CFO | **Conclusive (95%+)** 🆕 |
+| [PERSON_007](./PERSON_007.md) | Daniel Jacobus Bantjies | Strategic Appointee/Accountant/CFO | **Conclusive (99%)** |
 
 ### Victims/Respondents
 
@@ -229,10 +247,19 @@ Danie Bantjies (PERSON_007) - SIX CONFLICTS
 
 ---
 
-*Last updated by LEX Investigation System: 2026-03-03*
+*Last updated by LEX Investigation System: 2026-03-07*
 
 
-### 🆕 NEW: Evidence Extraction Entities (2026-03-03)
+### NEW: Ketoni Legal Network Entities (2026-03-07)
+
+| Entity ID | Name | Role | Relevance |
+|---|---|---|---|
+| [PERSON_042](./PERSON_042.md) | Marc Yudaken | Baker McKenzie Attorney | Ketoni SHA/MOI drafting |
+| [PERSON_043](./PERSON_043.md) | David Field | Deal Consultant | Kevin Derrick's representative |
+| [PERSON_044](./PERSON_044.md) | Denny Da Silva | Baker McKenzie Attorney | Ketoni meeting coordination |
+| [ORG_025](./ORG_025.md) | Baker McKenzie | International Law Firm | Ketoni SHA/MOI legal advisors |
+
+### Evidence Extraction Entities (2026-03-03)
 
 | Entity ID | Name | Role | Relevance |
 |---|---|---|---|
