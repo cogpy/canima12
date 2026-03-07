@@ -51,6 +51,11 @@ This index catalogs all entities involved in Case 2025-137857: Revenue Stream Hi
 **Critical Correction:** The R18.685M debt structure has been corrected. Ketoni Investment Holdings owes the Faucitt Family Trust (NOT Bantjies owing Peter/Jacqui). See [Super-Sleuth Report 2026-02-06](../super_sleuth_report_2026_02_06.md) for details.
 ---
 
+
+| ORG_026 | Aymac International CC | Property Holding / Shell | 95% |
+| ORG_027 | Kaylovest Eight (Pty) Ltd | Shell Company | 85% |
+| ORG_028 | Elliott Attorneys Inc | Legal Representation | 95% |
+
 ## Persons
 
 ### Primary Perpetrators

@@ -64,3 +64,9 @@ We request that the NPA and SARS Criminal Investigations Division immediately:
 ---
 *Prepared by: LEX Investigation System*
 *Date: 2026-03-07*
+
+
+### 4.4 Undisclosed Assets and Fund Misappropriation
+Forensic analysis has uncovered an undisclosed property asset (Kungwini Bay Section 1431) held by Aymac International CC, a personal entity of Peter and Jacqueline Faucitt.
+- **Fund Misappropriation:** RegimA Skin Treatments (RST) company funds were used to pay the expenses of Aymac International, constituting intercompany fund misappropriation and potential tax evasion.
+- **Account Closure:** In March 2025, Rynette Farrar actively closed the Aymac bank account on Peter Faucitt's instruction, demonstrating an effort to conceal financial trails from authorities.

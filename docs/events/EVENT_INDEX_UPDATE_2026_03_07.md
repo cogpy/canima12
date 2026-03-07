@@ -15,6 +15,8 @@
 | [EVENT_118](./EVENT_118.md) | 2024-11-19 | Bantjies Raises Beneficial Ownership of Trusts | Strategic Positioning | Strong |
 | [EVENT_119](./EVENT_119.md) | 2025-06-06 | **Bantjies Admits "Manufacturing" SARS Answer** | **TAX FRAUD ADMISSION** | **99% CONCLUSIVE** |
 | [EVENT_120](./EVENT_120.md) | 2025-08-12 | Rynette Provides Proof of Address for Trustee Appointment | Conspiracy Facilitation | Conclusive |
+| [EVENT_122](./EVENT_122.md) | 2021-09-02 | RST Pays Aymac International Expenses | Intercompany Fund Misappropriation | Conclusive |
+| [EVENT_123](./EVENT_123.md) | 2025-03-12 | Rynette Farrar Closes Aymac Bank Account | Asset Concealment | Conclusive |
 
 ---
 
