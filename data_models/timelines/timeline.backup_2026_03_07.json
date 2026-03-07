@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "version": "v33_bantjies_farrar_comms",
+    "version": "33.0_MAT4719_EVIDENCE_2026_02_09",
     "created_date": "2025-11-10",
-    "description": "Timeline refined with 7 new events from 1,632 Bantjies-Farrar communications",
+    "description": "Comprehensive timeline for Revenue Stream Hijacking case 2025-137857",
     "case_number": "2025-137857",
-    "last_updated": "2026-03-07 08:26:37",
+    "last_updated": "2026-02-09T01:37:55",
     "changes": "Added 11 new timeline entries from February 2026 evidence package",
     "criminal_threshold_entries": 6,
     "high_significance_entries": 7,
@@ -40,8 +40,7 @@
       "2024": 4,
       "2025": 44,
       "2026": 1
-    },
-    "total_events": 149
+    }
   },
   "timeline": [
     {
@@ -1684,79 +1683,6 @@
       "ad_res_j7_evidence_enhanced": []
     },
     {
-      "date": "2022-06-01",
-      "event_id": "EVENT_114",
-      "title": "Anton Hechter Removal from VAT Portal",
-      "event": "Rynette Farrar confirms she asked Pete to remove Anton Hechter from the VAT portal, eliminating independent oversight of VAT submissions",
-      "entity": [
-        "PERSON_002",
-        "PERSON_007",
-        "PERSON_040"
-      ],
-      "source": "Exchange Email",
-      "key_actor_names": [
-        "Rynette Farrar",
-        "Danie Bantjies"
-      ],
-      "entities_involved": [
-        "PERSON_002",
-        "PERSON_007",
-        "PERSON_040"
-      ],
-      "event_ref": "docs/events/EVENT_114.md",
-      "actors": [
-        "Rynette Farrar",
-        "Danie Bantjies"
-      ],
-      "category": "financial_control_takeover",
-      "evidence_strength": 0.95,
-      "criminal_relevance": true,
-      "phase": "Phase 2: Financial Control Consolidation",
-      "motive_connection": "Removes independent oversight to enable intercompany invoice scheme",
-      "provable_foreknowledge": {
-        "agent": "PERSON_002",
-        "knowledge": "VAT portal access and control structure",
-        "date_acquired": "2022-06-01",
-        "evidence": "Direct email confirmation"
-      }
-    },
-    {
-      "date": "2022-06-23",
-      "event_id": "EVENT_115",
-      "title": "eFiling Credential Sharing",
-      "event": "Rynette shares her SARS eFiling credentials (rynette7777/Darren1997$) with Bantjies via unencrypted email",
-      "entity": [
-        "PERSON_002",
-        "PERSON_007"
-      ],
-      "source": "Exchange Email",
-      "key_actor_names": [
-        "Rynette Farrar",
-        "Danie Bantjies"
-      ],
-      "entities_involved": [
-        "PERSON_002",
-        "PERSON_007"
-      ],
-      "event_ref": "docs/events/EVENT_115.md",
-      "actors": [
-        "Rynette Farrar",
-        "Danie Bantjies"
-      ],
-      "category": "credential_sharing",
-      "evidence_strength": 0.99,
-      "criminal_relevance": true,
-      "phase": "Phase 2: Financial Control Consolidation",
-      "motive_connection": "Grants Bantjies direct VAT portal access, completing control takeover",
-      "popia_violation": true,
-      "provable_foreknowledge": {
-        "agent": "PERSON_007",
-        "knowledge": "Full eFiling portal access credentials",
-        "date_acquired": "2022-06-23",
-        "evidence": "Email with credentials in plaintext"
-      }
-    },
-    {
       "date": "2022-07-11",
       "event_ref": "EVENT_D002",
       "title": "First Structured Payment to ReZonance",
@@ -1870,50 +1796,6 @@
       "ad_res_j7_evidence_enhanced": []
     },
     {
-      "date": "2023-04-12",
-      "event_id": "EVENT_116",
-      "title": "Bantjies Negotiates Ketoni SHA/MOI via Baker McKenzie",
-      "event": "Bantjies, as CFO of The George Group, emails Baker McKenzie attorney Marc Yudaken to finalize Ketoni Investment Holdings SHA and MOI",
-      "entity": [
-        "PERSON_007",
-        "PERSON_042",
-        "PERSON_043",
-        "ORG_025",
-        "ORG_017"
-      ],
-      "source": "Exchange Email",
-      "key_actor_names": [
-        "Danie Bantjies",
-        "Marc Yudaken",
-        "David Field"
-      ],
-      "entities_involved": [
-        "PERSON_007",
-        "PERSON_042",
-        "PERSON_043",
-        "ORG_025",
-        "ORG_017"
-      ],
-      "event_ref": "docs/events/EVENT_116.md",
-      "actors": [
-        "Danie Bantjies",
-        "Marc Yudaken",
-        "David Field"
-      ],
-      "category": "conflict_of_interest",
-      "evidence_strength": 0.99,
-      "criminal_relevance": true,
-      "phase": "Phase 3: Ketoni Strategic Positioning",
-      "motive_connection": "Bantjies gains insider knowledge of R18.685M deal while serving as RegimA accountant",
-      "financial_impact": 18685000,
-      "provable_foreknowledge": {
-        "agent": "PERSON_007",
-        "knowledge": "Ketoni deal terms, SHA/MOI structure, payout timeline",
-        "date_acquired": "2023-04-12",
-        "evidence": "Direct email correspondence with Baker McKenzie"
-      }
-    },
-    {
       "date": "2023-04-24",
       "event_ref": "EVENT_FFT_KETONI_INVESTMENT",
       "title": "FFT Investment in Ketoni - ZAR 18.75M Entitlement Established",
@@ -1957,44 +1839,6 @@
       "added_date": "2026-01-22",
       "entities_involved": [],
       "ad_res_j7_evidence_enhanced": []
-    },
-    {
-      "date": "2023-05-09",
-      "event_id": "EVENT_117",
-      "title": "Ketoni Payment Directed to Shareholder Loan",
-      "event": "Bantjies instructs Rynette to allocate Ketoni payment to Pete's shareholder loan account",
-      "entity": [
-        "PERSON_007",
-        "PERSON_002",
-        "ORG_017"
-      ],
-      "source": "Exchange Email",
-      "key_actor_names": [
-        "Danie Bantjies",
-        "Rynette Farrar"
-      ],
-      "entities_involved": [
-        "PERSON_007",
-        "PERSON_002",
-        "ORG_017"
-      ],
-      "event_ref": "docs/events/EVENT_117.md",
-      "actors": [
-        "Danie Bantjies",
-        "Rynette Farrar"
-      ],
-      "category": "financial_manipulation",
-      "evidence_strength": 0.95,
-      "criminal_relevance": true,
-      "phase": "Phase 3: Ketoni Strategic Positioning",
-      "motive_connection": "Obscures nature of Ketoni investment by routing through shareholder loan",
-      "financial_impact": 18685000,
-      "provable_foreknowledge": {
-        "agent": "PERSON_002",
-        "knowledge": "Ketoni payment allocation method",
-        "date_acquired": "2023-05-09",
-        "evidence": "Email instruction from Bantjies"
-      }
     },
     {
       "date": "2023-07-13",
@@ -2278,39 +2122,6 @@
         "opening_balance": "R1,925,869.31",
         "closing_balance": "R2,554,860.93",
         "status": "HEALTHY"
-      }
-    },
-    {
-      "date": "2024-11-19",
-      "event_id": "EVENT_118",
-      "title": "Bantjies Raises Beneficial Ownership of Trusts",
-      "event": "Bantjies emails regarding new beneficial ownership regulations for trusts, demonstrating awareness while fraudulently installed as trustee",
-      "entity": [
-        "PERSON_007",
-        "TRUST_001"
-      ],
-      "source": "Exchange Email",
-      "key_actor_names": [
-        "Danie Bantjies"
-      ],
-      "entities_involved": [
-        "PERSON_007",
-        "TRUST_001"
-      ],
-      "event_ref": "docs/events/EVENT_118.md",
-      "actors": [
-        "Danie Bantjies"
-      ],
-      "category": "strategic_positioning",
-      "evidence_strength": 0.85,
-      "criminal_relevance": true,
-      "phase": "Phase 4: Trust Capture",
-      "motive_connection": "Positions himself as responsible trustee while concealing fraudulent appointment",
-      "provable_foreknowledge": {
-        "agent": "PERSON_007",
-        "knowledge": "Trust beneficial ownership regulations",
-        "date_acquired": "2024-11-19",
-        "evidence": "Email to Rynette, Pete, and Jax"
       }
     },
     {
@@ -2889,49 +2700,6 @@
       ]
     },
     {
-      "date": "2025-06-06",
-      "event_id": "EVENT_119",
-      "title": "SMOKING GUN: Bantjies Admits Manufacturing SARS Answer",
-      "event": "Bantjies states in email to Rynette: 'I will manufacture an answer to the 2 interco invoices over the weekend' \u2014 direct admission of tax fraud",
-      "entity": [
-        "PERSON_007",
-        "PERSON_002"
-      ],
-      "source": "Exchange Email",
-      "key_actor_names": [
-        "Danie Bantjies",
-        "Rynette Farrar"
-      ],
-      "entities_involved": [
-        "PERSON_007",
-        "PERSON_002"
-      ],
-      "event_ref": "docs/events/EVENT_119.md",
-      "actors": [
-        "Danie Bantjies",
-        "Rynette Farrar"
-      ],
-      "category": "tax_fraud_admission",
-      "evidence_strength": 0.99,
-      "criminal_relevance": true,
-      "smoking_gun": true,
-      "phase": "Phase 5: Fraud Execution & Exposure",
-      "motive_connection": "Direct admission of fabricating SARS responses to conceal intercompany invoice scheme",
-      "legal_violations": [
-        "Tax Administration Act s235(1)(a)",
-        "Tax Administration Act s235(1)(d)",
-        "Tax Administration Act s235(1)(e)",
-        "Common Law Fraud",
-        "Conspiracy to Defraud"
-      ],
-      "provable_foreknowledge": {
-        "agent": "PERSON_007",
-        "knowledge": "SARS verification query on intercompany invoices, intent to fabricate response",
-        "date_acquired": "2025-06-06",
-        "evidence": "Direct email admission: 'I will manufacture an answer'"
-      }
-    },
-    {
       "date": "2025-06-07",
       "event_ref": "EVENT_SECRET_CARD_CANCELLATION",
       "title": "Cards Cancelled <24 Hours After Fraud Exposure",
@@ -3379,43 +3147,6 @@
       "ad_res_j7_evidence_enhanced": []
     },
     {
-      "date": "2025-08-12",
-      "event_id": "EVENT_120",
-      "title": "Rynette Provides Proof of Address for Trustee Appointment",
-      "event": "Rynette emails Bantjies with proof of address to facilitate his fraudulent trustee appointment, one day before he swears confirmatory affidavit",
-      "entity": [
-        "PERSON_002",
-        "PERSON_007",
-        "TRUST_001"
-      ],
-      "source": "Exchange Email",
-      "key_actor_names": [
-        "Rynette Farrar",
-        "Danie Bantjies"
-      ],
-      "entities_involved": [
-        "PERSON_002",
-        "PERSON_007",
-        "TRUST_001"
-      ],
-      "event_ref": "docs/events/EVENT_120.md",
-      "actors": [
-        "Rynette Farrar",
-        "Danie Bantjies"
-      ],
-      "category": "conspiracy_facilitation",
-      "evidence_strength": 0.99,
-      "criminal_relevance": true,
-      "phase": "Phase 5: Fraud Execution & Exposure",
-      "motive_connection": "Facilitates Bantjies' trustee appointment to control R18.685M distribution",
-      "provable_foreknowledge": {
-        "agent": "PERSON_002",
-        "knowledge": "Bantjies' trustee appointment process and timeline",
-        "date_acquired": "2025-08-12",
-        "evidence": "Email with proof of address attachment"
-      }
-    },
-    {
       "date": "2025-08-13",
       "event_ref": "EVENT_INTERDICT_FILED",
       "title": "Peter Files Founding Affidavit with Material Non-Disclosures",
@@ -3737,15 +3468,6 @@
       "implication": "Links financial manipulation expertise to trust control",
       "strategic_value": "Explains why Bantjes was chosen as Trustee",
       "action_required": "Investigate Bantjes' role in both capacities"
-    },
-    "bantjies_farrar_conspiracy": {
-      "description": "1,632 email communications prove systematic, coordinated conspiracy",
-      "smoking_gun": "EVENT_119: 'I will manufacture an answer' (2025-06-06)",
-      "control_takeover": "EVENT_114 + EVENT_115: VAT portal takeover (June 2022)",
-      "ketoni_insider": "EVENT_116 + EVENT_117: Ketoni deal access and manipulation (2023)",
-      "trustee_facilitation": "EVENT_120: Proof of address for appointment (2025-08-12)",
-      "evidence_strength": 0.99,
-      "criminal_threshold_exceeded": true
     }
   }
 }

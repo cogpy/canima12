@@ -1,0 +1,44 @@
+graph LR
+    subgraph QUERIES["Q: Legal Promises"]
+        Q1["Q_TAX_FRAUD<br/>s235 Tax Admin Act<br/>Threshold: 95%"]
+        Q2["Q_FRAUD<br/>Common Law<br/>Threshold: 95%"]
+        Q3["Q_FORGERY<br/>Common Law<br/>Threshold: 95%"]
+        Q4["Q_PERJURY<br/>Common Law<br/>Threshold: 95%"]
+        Q5["Q_CONSPIRACY<br/>POCA<br/>Threshold: 95%"]
+        Q6["Q_BREACH_FIDUCIARY<br/>Companies Act s76<br/>Threshold: 50%"]
+        Q7["Q_POPIA<br/>POPIA s19/s22<br/>Threshold: 50%"]
+        Q8["Q_COMPANIES_ACT<br/>s28/s214<br/>Threshold: 50%"]
+    end
+    subgraph KEYS["K: Evidence Keys"]
+        K1["🔫 K_SMOKING_GUN<br/>EVENT_119<br/>0.99"]
+        K2["K_VAT_TAKEOVER<br/>EVENT_114+115<br/>0.95"]
+        K3["K_KETONI_INSIDER<br/>EVENT_116<br/>0.99"]
+        K4["K_TRUST_FORGERY<br/>EVENT_103<br/>0.99"]
+        K5["K_AFFIDAVIT<br/>EVENT_104<br/>0.99"]
+        K6["K_CREDENTIALS<br/>EVENT_115<br/>0.99"]
+        K7["K_1632_COMMS<br/>Pattern<br/>0.95"]
+    end
+    subgraph VALUES["V: Filing Outputs"]
+        V1["V_NPA_TAX_FRAUD<br/>✅ 99% READY"]
+        V2["V_COMMERCIAL_CRIME<br/>✅ 99% READY"]
+        V3["V_CIPC_COMPLAINT<br/>✅ 99% READY"]
+        V4["V_POPIA_COMPLAINT<br/>✅ 95% READY"]
+    end
+    Q1 -->|"0.99"| K1
+    Q2 -->|"0.99"| K4
+    Q3 -->|"0.99"| K4
+    Q4 -->|"0.99"| K5
+    Q5 -->|"0.95"| K7
+    Q6 -->|"0.99"| K3
+    Q7 -->|"0.99"| K6
+    Q8 -->|"0.99"| K1
+    K1 -->|"satisfies"| V1
+    K4 -->|"satisfies"| V2
+    K1 -->|"satisfies"| V3
+    K6 -->|"satisfies"| V4
+    
+    style K1 fill:#ff4444,stroke:#990000,color:#fff
+    style V1 fill:#44ff44,stroke:#009900,color:#000
+    style V2 fill:#44ff44,stroke:#009900,color:#000
+    style V3 fill:#44ff44,stroke:#009900,color:#000
+    style V4 fill:#44ff44,stroke:#009900,color:#000

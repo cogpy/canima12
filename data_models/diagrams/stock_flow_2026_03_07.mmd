@@ -1,0 +1,26 @@
+graph LR
+    subgraph STOCKS["📦 Stocks"]
+        S1["S_REGIMA_REVENUE<br/>RegimA Group Revenue"]
+        S2["S_VAT_POOL<br/>VAT Liability Pool"]
+        S3["S_INTERCOMPANY<br/>Intercompany Balances"]
+        S4["S_KETONI<br/>Ketoni Receivable<br/>R18.685M"]
+        S5["S_SHAREHOLDER<br/>Pete's Shareholder Loan"]
+        S6["S_FFT<br/>FFT Assets"]
+        S7["S_HIDDEN<br/>Hidden Money Maximiser<br/>R5M"]
+    end
+    S1 -->|"F: Revenue to Interco<br/>Bantjies controls"| S3
+    S3 -->|"F: Interco to VAT<br/>Manufactured answers"| S2
+    S4 -->|"F: Ketoni to Shareholder<br/>EVENT_117"| S5
+    S5 -->|"F: Shareholder to FFT<br/>Bantjies as trustee"| S6
+    S6 -->|"F: FFT to Hidden<br/>No audit trail"| S7
+    S1 -->|"F: Revenue Diversion<br/>Sage manipulation"| S7
+    
+    subgraph FEEDBACK["🔄 Feedback Loops"]
+        FL1["FL1: Control Reinforcement<br/>More control → more manipulation"]
+        FL2["FL2: Ketoni Capture<br/>Insider → trustee → capture"]
+        FL3["FL3: Evidence Destruction<br/>Fraud → destroy → more fraud"]
+    end
+    
+    style S7 fill:#ff4444,stroke:#990000,color:#fff
+    style S4 fill:#ffcc00,stroke:#996600,color:#000
+    style S6 fill:#4488ff,stroke:#003399,color:#fff

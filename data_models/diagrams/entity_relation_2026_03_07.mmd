@@ -1,0 +1,45 @@
+graph TB
+    subgraph PERPETRATORS["🔴 Perpetrators"]
+        P001["PERSON_001<br/>Peter Faucitt<br/>95%"]
+        P002["PERSON_002<br/>Rynette Farrar<br/>99% ⬆"]
+        P007["PERSON_007<br/>Danie Bantjies<br/>99% ⬆<br/>🔫 SMOKING GUN"]
+    end
+    subgraph VICTIMS["🟢 Victims"]
+        P004["PERSON_004<br/>Jacqueline Faucitt<br/>99%"]
+        P005["PERSON_005<br/>Daniel Faucitt<br/>99%"]
+    end
+    subgraph KETONI_NETWORK["🟡 Ketoni Network"]
+        P042["PERSON_042<br/>Marc Yudaken<br/>Baker McKenzie"]
+        P043["PERSON_043<br/>David Field<br/>Deal Consultant"]
+        P044["PERSON_044<br/>Denny Da Silva<br/>Baker McKenzie"]
+        P014["PERSON_014<br/>Kevin Derrick"]
+        ORG025["ORG_025<br/>Baker McKenzie"]
+    end
+    subgraph ENTITIES["🔵 Key Entities"]
+        ORG017["ORG_017<br/>Ketoni Investment<br/>R18.685M"]
+        T001["TRUST_001<br/>Faucitt Family Trust"]
+        P040["PERSON_040<br/>Anton Hechter<br/>REMOVED"]
+    end
+    P002 -->|"Conspiracy"| P007
+    P007 -->|"🔫 Manufactures SARS answers"| P002
+    P002 -->|"Removes from VAT"| P040
+    P002 -->|"Shares credentials"| P007
+    P007 -->|"Negotiates SHA/MOI"| P042
+    P007 -->|"Conflict of interest"| ORG017
+    P007 -->|"Directs payment"| T001
+    P001 -->|"Controls"| T001
+    P042 -->|"Employed by"| ORG025
+    P044 -->|"Employed by"| ORG025
+    P043 -->|"Represents"| P014
+    P014 -->|"Director"| ORG017
+    T001 -.->|"R9.375M target"| P004
+    T001 -.->|"R9.375M target"| P005
+    P002 -->|"Forges pp Peter"| T001
+    P002 -->|"Proof of address"| P007
+    style P007 fill:#ff4444,stroke:#990000,color:#fff
+    style P002 fill:#ff6666,stroke:#990000,color:#fff
+    style P001 fill:#ff8888,stroke:#990000,color:#fff
+    style P004 fill:#44ff44,stroke:#009900,color:#000
+    style P005 fill:#44ff44,stroke:#009900,color:#000
+    style ORG017 fill:#ffcc00,stroke:#996600,color:#000
+    style T001 fill:#4488ff,stroke:#003399,color:#fff
