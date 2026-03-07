@@ -1,69 +1,76 @@
 ---
 id: EVENT_124
-type: CORPORATE_IDENTITY_CONVERSION
+type: DUAL_CORPORATE_IDENTITY
 date: 2026-03-07
 entities: [ORG_005, ORG_027]
 evidence_strength: 99
 ---
 
-# Villa Via Arcadia No 2 CC Converted to Kaylovest Three (Pty) Ltd
+# TWO Separate Entities Under Same Base Number: Villa Via Arcadia No 2 CC AND Kaylovest Three (Pty) Ltd
 
 ## Summary
 
-Villa Via Arcadia No 2 was originally registered as a **Close Corporation (CC)** with registration number **1996/004451/23**. Investigation confirmed that this entity was subsequently **converted from CC to Private Company (Pty Ltd)** under the Companies Act 2008 s96 conversion provisions, and **renamed to "Kaylovest Three."** The base CIPC number 1996004451 is shared across both formats:
+CIPC eServices search confirms that **two separate legal entities** exist simultaneously under the same base registration number 1996/004451, distinguished only by their type suffix:
 
-| Format | Number | Entity Type |
-|--------|--------|-------------|
-| Old CIPC format | 1996/004451/23 | CC (suffix /23) |
-| New CIPC CC format | B1996004451 | Close Corporation |
-| New CIPC Pty format | M1996004451 | Private Company (current) |
+| CIPC Search | Enterprise Name | Enterprise Number | Type | Status |
+|-------------|----------------|-------------------|------|--------|
+| "Villa Via Arcadia No 2" | VILLA VIA ARCADIA NO 2 | **1996/004451/23** | Close Corporation (CC) | REGISTERED |
+| "Kaylovest Three" | KAYLOVEST THREE | **1996/004451/07** | Private Company (Pty Ltd) | REGISTERED |
 
-When navigating to the b2bhint URL for "Villa Via Arcadia No 2" with enterprise number M1996004451, the page resolves to "Kaylovest Three," confirming the conversion and renaming.
+**Both entities are currently REGISTERED and active on the CIPC register.** This is not a conversion or renaming — these are two distinct legal entities sharing the same base number.
 
 ## Evidence
 
-### Primary Sources (Court Documents)
+### CIPC eServices (Primary Source — Government Register)
 
-The original CC registration is confirmed in multiple sworn affidavits filed in the interdict proceedings:
+On 7 March 2026, direct searches on CIPC eServices (https://eservices.cipc.co.za/NameSearch.aspx) returned:
 
-**Peter Faucitt Founding Affidavit:** "The fifth respondent is **VILLA VIA ARCADIA NO 2 CC**, a close corporation duly registered in terms of the Laws of the Republic of South Africa, with registration number **1996/004451/23**, and with registered address at 20 River Road, Morning Hill, Bedfordview."
+**Search for "Kaylovest Three":** KAYLOVEST THREE | 1996/004451/07 | REGISTERED
 
-**Rynette Farrar Confirmatory Affidavit:** Registration Number: 1996/004451/23
+**Search for "Villa Via Arcadia No 2":** VILLA VIA ARCADIA NO 2 | 1996/004451/23 | REGISTERED
 
-**Notice of Motion:** Registration Number: 1996/004451/23
+### Court Documents (Sworn Affidavits)
 
-### Secondary Sources
+Peter Faucitt Founding Affidavit: "The fifth respondent is **VILLA VIA ARCADIA NO 2 CC**, a close corporation duly registered in terms of the Laws of the Republic of South Africa, with registration number **1996/004451/23**, and with registered address at 20 River Road, Morning Hill, Bedfordview."
 
-**b2bhint Registry:** URL `https://b2bhint.com/en/company/za/villa-via-arcadia-no-2--M1996004451` resolves to "KAYLOVEST THREE" (Private company, In Business, VAT 9466005643).
+Rynette Farrar Confirmatory Affidavit: Registration Number: 1996/004451/23
 
-**Ekurhuleni Metropolitan Municipality Property Records:** "VILLA VIA ARCADIA NO 2 CC" listed as owner of property at Roberts Street 11, Bedfordview X169 (value R7,176,000).
+Notice of Motion: Registration Number: 1996/004451/23
 
-**VERIFIED_EVENT_TIMELINE_V47:** "1996-02-02 | Villa Via Arcadia No 2 CC incorporated (B1996004451)"
+### b2bhint Registry
 
-### Current Registration Status
+URL `https://b2bhint.com/en/company/za/villa-via-arcadia-no-2--M1996004451` resolves to "KAYLOVEST THREE" (Private company, In Business, VAT 9466005643, address: Stand 72, 10 Lugagane Close, Matumi Estate, Nelspruit, Mpumalanga, 1201).
 
-| Field | Value |
-|-------|-------|
-| Current Name | KAYLOVEST THREE |
-| Enterprise Number | M1996004451 |
-| Legal Form | Private Company (Pty Ltd) |
-| Status | In Business (Active) |
-| Address | Stand 72, 10 Lugagane Close, Matumi Estate, Nelspruit, Mpumalanga, 1201 |
-| VAT | 9466005643 |
+This is because b2bhint's M-prefix corresponds to the /07 (Pty) entity, not the /23 (CC) entity.
 
-## Cross-Reference: EVENT_106 (Bantjies Used Aymac Number on Villa Via Statements)
+## Analysis: Why Two Entities Under One Base Number?
 
-A critical cross-reference exists with EVENT_106. From 2014 to January 2022, accountant Danie Bantjies used registration number **1999/061687/23** on Villa Via's financial statements. This number belongs to **Aymac International CC (B1999061687)**, Peter Faucitt's personal Close Corporation. Bantjies filed Villa Via's financial statements under Aymac International's company number for **eight years**, further entangling these two entities at the accounting and regulatory level.
+Under CIPC's numbering system, the base number (1996/004451) identifies a registration slot, while the suffix identifies the entity type (/07 = Pty, /23 = CC). It is possible for both a CC and a Pty to be registered under the same base number when:
+
+1. A shelf company registration batch created both a CC and a Pty under the same number
+2. A CC was converted to a Pty under Companies Act 2008 s96, creating the /07 entity, while the /23 CC registration was not properly deregistered
+
+Either way, the existence of two active entities under the same base number creates a vehicle for confusion and potential asset shifting.
+
+## Cross-Reference: EVENT_106 (Triple Identity Confusion)
+
+From 2014 to January 2022, accountant Danie Bantjies used registration number **1999/061687/23** (Aymac International CC) on Villa Via's financial statements. Combined with the dual-entity discovery, this creates a **triple corporate identity confusion**:
+
+| Entity | Registration | Type | Role |
+|--------|-------------|------|------|
+| Villa Via Arcadia No 2 CC | 1996/004451/23 | CC | The hotel business (R25M+ flows) |
+| Kaylovest Three | 1996/004451/07 | Pty | Shadow entity under same base number |
+| Aymac International CC | 1999/061687/23 | CC | Number used on Villa Via's statements for 8 years |
 
 ## Significance
 
-This discovery has three major implications:
+**First**, the simultaneous existence of both entities means financial transactions, bank accounts, and tax filings could be attributed to either the CC or the Pty without detection, since both share the same base number. This is a potential vehicle for asset shifting.
 
-**First**, the conversion of Villa Via Arcadia No 2 from CC to Pty Ltd and its renaming to "Kaylovest Three" represents a deliberate corporate identity transformation. The Villa Via Arcadia hotel business generated **R25M+ in tracked financial flows** across FNB accounts 62423540807 and 62812835744. Converting and renaming the entity obscures the continuity of this business from regulators and creditors.
+**Second**, the Kaylovest Three Pty entity is registered at a completely different address (Nelspruit, Mpumalanga) from Villa Via CC (Bedfordview, Gauteng), creating geographic separation between the two entities.
 
-**Second**, the current registered address of Kaylovest Three (Nelspruit, Mpumalanga) differs entirely from Villa Via's historical Bedfordview address, suggesting the entity was moved geographically as part of the restructuring.
+**Third**, combined with Bantjies using Aymac's number on Villa Via's statements for 8 years (EVENT_106), this creates a pattern of systematic corporate identity confusion across three entities, all controlled by Peter Faucitt.
 
-**Third**, combined with EVENT_106 (Bantjies using Aymac's number on Villa Via statements for 8 years), this creates a pattern of systematic corporate identity confusion between Villa Via, Aymac International, and now Kaylovest Three, all controlled by Peter Faucitt.
+**Fourth**, the court documents only reference the CC (/23) entity. The existence of the parallel Pty (/07) entity was not disclosed in the interdict proceedings.
 
 ## Registration Batch Pattern
 
@@ -71,8 +78,9 @@ The Kaylovest and Villa Via Arcadia series were registered in the same 1996 batc
 
 | Entity | Number | Type | Status |
 |--------|--------|------|--------|
-| Kaylovest Five | M1996004447 | Pty | Unknown |
-| **Kaylovest Three (ex-Villa Via Arcadia No 2)** | **M1996004451** | **Pty (converted from CC)** | **In Business** |
+| Kaylovest Five | 1996/004447/07 (M1996004447) | Pty | Unknown |
+| **Kaylovest Three** | **1996/004451/07** | **Pty** | **REGISTERED** |
+| **Villa Via Arcadia No 2** | **1996/004451/23** | **CC** | **REGISTERED** |
 | Villa Via Arcadia No 7 | B1996004460 | CC | Active |
 | Villa Via Arcadia No 12 | B1996004470 | CC | Active |
 | Villa Via Arcadia No 18 | B1996004482 | CC | Active |
