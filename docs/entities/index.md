@@ -287,3 +287,7 @@ Danie Bantjies (PERSON_007) - SIX CONFLICTS
 **New Evidence Chain:**
 
 - [Attorney Conduct & Correspondence](../exchange-evidence/attorney_conduct.md) - Analysis of legal threats, intimidation, and weaponization of court orders.
+
+**New Entities Added (2026-03-08 — LEX-RECON Reconciliation):**
+- [ORG_026](./ORG_026.md) - Unidentified Financial Entity (Recipient of concealed assets)
+- [ORG_027](./ORG_027.md) - Kaylovest Three (Pty) Ltd (1996/004451/07 — Shadow corporate identity)

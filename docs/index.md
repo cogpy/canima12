@@ -1,8 +1,10 @@
 # Revenue Stream Hijacking Case 2025-137857
 
-**Last Updated:** 2026-02-18
+**Last Updated:** 2026-03-08
 
 This site provides comprehensive evidence, analysis, and legal documentation for case 2025-137857 involving revenue stream hijacking, trust violations, and financial fraud totaling over **R63,000,000**.
+
+> **Latest Update (2026-03-08):** LEX-RECON cross-repository reconciliation completed. All filings updated to v8 incorporating the Bantjies "manufacture" admission, 100+ banking change emails, and Kaylovest/Villa Via dual corporate identity discovery. See [Filing Index](./filings/index.md) for the latest versions.
 
 ---
 
@@ -19,8 +21,8 @@ The ex parte interdict granted on 19 August 2025 is **void ab initio** (void fro
 | Agent | Role | Tier | Classification | Proven Events |
 |---|---|---|---|---|
 | **Peter Andrew Faucitt** | Applicant / Primary Perpetrator | **A** | Premeditated Conspirator | 11 |
-| **Daniel Jacobus Bantjies** | Accountant / Commissioner of Oaths | **A** | Premeditated Conspirator | **6** |
-| **Rynette Farrar** | Bookkeeper / Co-conspirator | **A** | Premeditated Conspirator | **9** |
+| **Daniel Jacobus Bantjies** | Accountant / Commissioner of Oaths | **A** | Premeditated Conspirator | **8** |
+| **Rynette Farrar** | Bookkeeper / Co-conspirator | **A** | Premeditated Conspirator | **11** |
 | **Adderory (Rynette's Son)** | Competing Business Registrant | **B** | Active Participant with Proven Knowledge | 2 |
 | **ENS Africa** | Legal Firm | **B** | Active Participant with Proven Knowledge | 1 |
 | **Linda (RegimA Employee)** | Sales/Accounts | **B** | Active Participant with Proven Knowledge | **1** |
@@ -43,6 +45,31 @@ The ex parte interdict granted on 19 August 2025 is **void ab initio** (void fro
 ### The Contempt Application: Weaponizing a Void Order
 
 On 4 February 2026, Peter Faucitt filed a Contempt of Court Application seeking **6 months imprisonment** for Jacqueline Faucitt. This is not a legitimate legal action. It is the use of a fraudulent, void court order to imprison a victim of the fraud.
+
+---
+
+## BANTJIES-FARRAR CONSPIRACY NETWORK (2026-03-08)
+
+Analysis of 1,632 email communications between Farrar and Bantjies (2015-2026) reveals the complete architecture of the conspiracy:
+
+| Phase | Date | Event | Evidence |
+|---|---|---|---|
+| **Financial Control Takeover** | 2022-06-01 | Removal of independent tax agent Anton Hechter | [EVENT_114](./events/EVENT_114.md) |
+| **Credential Sharing** | 2022-06-23 | Farrar shares eFiling credentials with Bantjies | [EVENT_115](./events/EVENT_115.md) |
+| **Ketoni Manipulation** | 2023-05-09 | Bantjies instructs Farrar to allocate Ketoni to shareholder loan | [EVENT_117](./events/EVENT_117.md) |
+| **Trust Forgery** | 2024-06-28 | Farrar forges "pp Peter" to install Bantjies as trustee | [EVENT_103](./events/EVENT_103.md) |
+| **Admission of Fraud** | 2025-06-06 | Bantjies: "I will manufacture an answer to the 2 interco invoices" | [EVENT_119](./events/EVENT_119.md) |
+| **Revenue Hijacking** | 2025-06-18 | 100+ emails redirecting clients from FNB to ABSA | [EVENT_121](./events/EVENT_121.md) |
+| **Dual Corporate Identity** | 2026-03-07 | Kaylovest Three shares base reg number with Villa Via | [EVENT_124](./events/EVENT_124.md) |
+
+### Latest Filings (v8)
+
+| Filing | Link |
+|---|---|
+| **Commercial Crime Submission** | [View v8](./filings/COMMERCIAL_CRIME_SUBMISSION_REFINED_2026_03_08_v8.md) |
+| **CIPC Complaint** | [View v8](./filings/CIPC_COMPLAINT_REFINED_2026_03_08_v8.md) |
+| **POPIA Complaint** | [View v8](./filings/POPIA_COMPLAINT_REFINED_2026_03_08_v8.md) |
+| **NPA Tax Fraud Report** | [View v8](./filings/NPA_TAX_FRAUD_REPORT_REFINED_2026_03_08_v8.md) |
 
 ---
 
@@ -400,6 +427,7 @@ For comprehensive supporting evidence, see the **[ad-res-j7 repository](https://
 | 2025-12-02 | Phone removal, common home issues | T-5 |
 | 2026-01-10 | Stock blocking (R200K) | T-4 |
 | 2026-02-04 | Contempt application filed (void order) | T-3 |
+| **2026-03-07** | **Kaylovest/Villa Via dual corporate identity discovered** | **T-2** |
 | **2026-05** | **Ketoni payout due** | **T-0** |
 
-*Last Updated: 2026-02-09 — Mailbox Evidence Integration + Void Ab Initio Analysis (8 Pillars, 9 Agents, 18 Material Facts, 23 Knowledge Events, 108 Entities, 147+ Events)*
+*Last Updated: 2026-03-08 — LEX-RECON Reconciliation + Bantjies-Farrar Conspiracy Network + Dual Corporate Identity (8 Pillars, 9 Agents, 18 Material Facts, 25 Knowledge Events, 112 Entities, 155+ Events)*

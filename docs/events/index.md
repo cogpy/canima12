@@ -268,3 +268,24 @@ The following 53 events meet the criminal burden of proof:
 ---
 
 *Last updated by LEX Investigation System: 2026-02-18*
+
+---
+
+## LEX-RECON Reconciliation Updates (2026-03-08)
+
+### New Events
+
+| Date | Event | Description | Link |
+|------|-------|-------------|------|
+| **2025-06-18** | **EVENT_121** | **100+ Banking Detail Change Emails** — Massive coordinated campaign to redirect revenue stream | [EVENT_121](./EVENT_121.md) |
+
+### Updated Statistics
+
+| Category | Count | Criminal Threshold |
+|----------|-------|-------------------|
+| Total Events | 155+ | - |
+| Criminal Threshold Events | 67 | 95% EXCEEDED |
+| Ketoni-Related Events | 12 | Central Motive |
+| **Bantjies-Farrar Conspiracy Events** | **8** | **NEW — COMPLETE NETWORK** |
+| **Revenue Hijacking Events** | **3** | **NEW — 100+ EMAILS** |
+| **Dual Corporate Identity Events** | **1** | **NEW — KAYLOVEST/VILLA VIA** |

@@ -151,3 +151,5 @@ All events are referenced relative to the **May 2026 Ketoni payout** (T-0):
 | **2026-02-16** | **Disclosure Package for P.A. Faucitt** | Jacqueline Faucitt, Daniel Faucitt | **T-3** | **Protective disclosure and notice of board meeting** | **[EVENT_109](./events/EVENT_109.md)** |
 
 | **2024-07-10** | **Sage API Breakage & Framing Setup** | Rynette Farrar | **T-10** | **Deliberate sabotage of invoice API to create info vacuum and frame Daniel** | **[EVENT_110](./events/EVENT_110.md)** |
+| **2025-06-18** | **Discovery of 100+ Banking Detail Change Emails** | **Rynette Farrar, Linda** | **T-11** | **Proves massive, coordinated campaign to redirect revenue stream weeks before interdict** | **[EVENT_121](./events/EVENT_121.md)** |
+| **2026-03-07** | **Discovery of Dual Corporate Identity (Kaylovest/Villa Via)** | **Peter Faucitt** | **T-2** | **Kaylovest Three (Pty) Ltd shares exact base registration number with Villa Via CC, creating vehicle for asset shifting** | **[EVENT_124](./events/EVENT_124.md)** |
