@@ -106,3 +106,7 @@ Key charges include Fraud, Theft, Forgery, Money Laundering, Tax Evasion, Exchan
 ---
 
 *Last updated: 2026-03-08 — LEX-RECON Reconciliation*
+
+### Supporting Evidence Analyses
+* [KL0034 Letter of Demand Evidence Mapping](../evidence/KL0034_EVIDENCE_MAPPING_2026_03_08.md)
+* [Strategic Logistics R5.4M Stock Adjustment Fraud Analysis](../evidence/SLG_STOCK_ADJUSTMENT_FRAUD_ANALYSIS.md)
