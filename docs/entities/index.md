@@ -273,3 +273,17 @@ Danie Bantjies (PERSON_007) - SIX CONFLICTS
 | [PERSON_041](./PERSON_041.md) | Kent Rault | Employee | Bank detail changes |
 | [ORG_023](./ORG_023.md) | De Novo Business Services | Accounting Firm | Fabricated financial statements |
 | [ORG_024](./ORG_024.md) | Corporate and Merchant Administrators | CIPC Agent | CIPC Erasure Campaign |
+
+
+## March 2026 Update (2026-03-08) - Attorney Correspondence
+
+**New Entities from Neon DB & R2 Analysis:**
+
+- [ORG_020](./ORG_020.md) - Elliott Attorneys Inc (Applicant's Attorneys)
+- [ORG_021](./ORG_021.md) - Pottas Attorneys (Respondent's Attorneys, from Dec 2025)
+- [ORG_022](./ORG_022.md) - Ian Levitt Attorneys (Respondent's Attorneys, Oct-Nov 2025)
+- [ORG_023](./ORG_023.md) - ENS Africa (Initial Respondent's Attorneys, withdrew Sep 2025)
+
+**New Evidence Chain:**
+
+- [Attorney Conduct & Correspondence](../exchange-evidence/attorney_conduct.md) - Analysis of legal threats, intimidation, and weaponization of court orders.
