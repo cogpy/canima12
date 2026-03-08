@@ -130,7 +130,7 @@ Both entities operate in the **same supply chain segment** — importing and sup
 |-----------|--------------------------|---------------------|
 | **Function** | Warehouse and logistics for RegimA raw materials | Import and supply of raw materials |
 | **Products** | Raw materials, chemicals, packaging | Guaiazulene, containers, body oil ingredients, raw materials |
-| **Controlled by** | Rynette (as bookkeeper) | Rynette's son (Kent Gillham) |
+| **Controlled by** | Rynette (as bookkeeper) | Rynette's son (Darren Dennis Farrar) |
 | **Bank details** | Sent by Rynette | Sent by Rynette to Peter |
 | **Payments** | Processed by Rynette | Processed by Rynette |
 | **Stock records** | Adjusted by Rynette | N/A (external supplier) |

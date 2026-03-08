@@ -75,7 +75,7 @@ Elliott Attorneys issued a Letter of Demand (KL0034) on behalf of Rynette Farrar
 |----------|------|--------|--------|
 | 2,723 emails from @regimaskin.co.za domain | Various | Multiple staff | Entire parallel business operation running from regimaskin.co.za |
 | orders@regimaskin.co.za processing customer orders | 2025-2026 | orders@regimaskin.co.za | Taking orders from customers (Yolanda, Karen's Beauty Salon, Legends Northcliff) |
-| kent@regimaskin.co.za sending proforma invoices | 2025-2026 | kent@regimaskin.co.za | Kent Gillham operating from regimaskin.co.za domain |
+| kent@regimaskin.co.za sending proforma invoices | 2025-2026 | kent@regimaskin.co.za | Kent (employee) operating from regimaskin.co.za domain — NOTE: Addarory is owned by Darren Dennis Farrar (Rynette's son), not Kent |
 | linda@regimaskin.co.za sending customer statements | 2026-01 to 2026-02 | linda@regimaskin.co.za | "Customer Statements from RegimA Skin Treatments CC" — using the CC's name from the competing domain |
 | Rynette instructing staff to use @regimaskin.co.za emails | 2026-01-19 | rynette@regimaskin.co.za | "give people our correct email addresses" — directing customers away from @regima.zone |
 

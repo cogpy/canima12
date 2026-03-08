@@ -69,7 +69,7 @@ This index catalogs all entities involved in Case 2025-137857: Revenue Stream Hi
 
 | Entity ID | Name | Role | Evidence Strength |
 |-----------|------|------|-------------------|
-| [PERSON_003](./PERSON_003.md) | Adderory (Rynette's Son) | Co-Conspirator (Family) | Strong |
+| [PERSON_003](./PERSON_003.md) | Darren Dennis Farrar (Rynette's Son) | Co-Conspirator (Family) | Strong |
 | [PERSON_007](./PERSON_007.md) | Daniel Jacobus Bantjies | Strategic Appointee/Accountant/CFO | **Conclusive (99%)** |
 
 ### Victims/Respondents

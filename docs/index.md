@@ -441,3 +441,8 @@ A comprehensive analysis of the Elliott Attorneys Letter of Demand (KL0034) agai
 A deep dive into the R5.4M stock adjustment loss at Strategic Logistics Group (SLG) reveals a circular fraud pattern. Rynette Farrar controlled the stock adjustments at SLG, while her son's company (Addarory) supplied the same raw materials back to RegimA. Email evidence proves Rynette personally performed the adjustments, processed payments to Addarory, and sent Addarory's bank details to Peter.
 
 [View the full SLG Stock Adjustment Fraud Analysis](evidence/SLG_STOCK_ADJUSTMENT_FRAUD_ANALYSIS.md)
+
+## Entity Correction: Darren Dennis Farrar (PERSON_003)
+**Important clarification (2026-03-08):** Addarory (Pty) Ltd (K2021582401) is owned and directed by **Darren Dennis Farrar**, Rynette Farrar's son. Rynette confirmed this in an email dated 2024-10-08 to Ana at Prime Product: *"Addarory is a company that was run by my late husband, Adrian. Darren, my son is the director of the company, and I'm doing all the admin and finances for Addarory at this stage."* Darren is also director of Dream Media Studios, Luxuré, Luxury Products Online, and Black Water Weddings. Kent Gillham (PERSON_037) is a **separate person** — an employee at regimaskin.co.za who handles sales and order processing. Kent is NOT Rynette's son.
+
+[B2BHint: Addarory K2021582401](https://b2bhint.com/en/company/za/addarory--K2021582401)
