@@ -27,14 +27,14 @@ This answering affidavit integrates:
 
 ### Para 1: Identity and Capacity
 
-I, JACQUELINE FAUCITT, am the First Respondent in this matter. I am an adult female, South African citizen, and the CEO and co-founder of RegimA Worldwide Distribution (Pty) Ltd, a position I have held for 33 years. I am also a beneficiary of the Faucitt Family Trust. I make this affidavit in opposition to the Third Urgent Application filed by the Applicant on 4 November 2025, and in support of an application for the rescission of the original ex parte interdict granted on 13 August 2025 under Rule 42 of the Uniform Rules of Court.
+I, JACQUELINE FAUCITT, am the First Respondent in this matter. I am an adult female, South African citizen, and the CEO and co-founder of RegimA Worldwide Distribution (Pty) Ltd, a position I have held for 33 years. I am also a beneficiary of the Faucitt Family Trust. I make this affidavit in opposition to the Third Urgent Application filed by the Applicant on 4 November 2025, and in support of an application for the rescission of the original ex parte interdict (which failed to comply with Uniform Rule 6(4)(a) and 6(12)(b) regarding urgency and material disclosure) granted on 13 August 2025 under Rule 42 of the Uniform Rules of Court.
 
 ### Para 2: Purpose and Structure
 
 This affidavit serves three purposes:
 
 1.  **Opposition to the Third Urgent Application:** To demonstrate that the relief sought is unjustified, based on fabricated evidence, and part of a pattern of abuse of process.
-2.  **Rule 42 Rescission:** To establish grounds for the rescission of the original ex parte interdict on the basis of fraud, material non-disclosure, and abuse of process.
+2.  **Rule 42 Rescission:** To establish grounds for the rescission of the original ex parte interdict (which failed to comply with Uniform Rule 6(4)(a) and 6(12)(b) regarding urgency and material disclosure) on the basis of fraud, material non-disclosure, and abuse of process.
 3.  **Exposure of a Criminal Conspiracy:** To reveal that all three interdict applications are not isolated legal disputes, but coordinated steps in a curatorship conspiracy orchestrated by Bantjies to seize control of the Faucitt Family Trust and eliminate his R18.75M (Ketoni debt to FFT) debt.
 
 This affidavit is structured in eight parts (A-H), each addressing a distinct legal theory or aspect of the conspiracy.
@@ -102,7 +102,7 @@ The conspiracy operates through a **parallel chain of command** that bypasses th
 
 ### Para 7: The Ex Parte Abuse
 
-The original ex parte interdict was obtained through systematic material non-disclosure. The Applicant failed to disclose:
+The original ex parte interdict (which failed to comply with Uniform Rule 6(4)(a) and 6(12)(b) regarding urgency and material disclosure) was obtained through systematic material non-disclosure. The Applicant failed to disclose:
 
 1.  **Bantjies' Conflict of Interest:** That his key supporting witness (Bantjies) was a Trustee who owed the beneficiaries R18.75M (Ketoni debt to FFT).
 2.  **The Curatorship Plan:** That the interdict was merely one step in a larger plan to seize control of the Trust through curatorship.
@@ -243,7 +243,7 @@ I have demonstrated that:
 
 1. The three interdict applications are part of a **textbook curatorship conspiracy** to seize control of the Faucitt Family Trust.
 2. The conspiracy is driven by Bantjies' **R18.75M (Ketoni debt to FFT) debt** due in May 2026.
-3. The original ex parte interdict was obtained through **systematic material non-disclosure and fraud**.
+3. The original ex parte interdict (which failed to comply with Uniform Rule 6(4)(a) and 6(12)(b) regarding urgency and material disclosure) was obtained through **systematic material non-disclosure and fraud**.
 4. The Applicant's claims are based on **fabricated evidence** (2019 accounts, R500k "birthday gift").
 5. RegimA Worldwide Distribution is a **shell company** with no independent revenue stream.
 6. The actions taken against me constitute **torture** under South African law.
@@ -255,7 +255,7 @@ The evidence is overwhelming, documented, and irrefutable. The Court was misled.
 I respectfully pray that this Honourable Court:
 
 1. **Dismiss the Third Urgent Application** with costs on a punitive scale.
-2. **Rescind the original ex parte interdict** granted on 13 August 2025 under Rule 42.
+2. **Rescind the original ex parte interdict (which failed to comply with Uniform Rule 6(4)(a) and 6(12)(b) regarding urgency and material disclosure)** granted on 13 August 2025 under Rule 42.
 3. **Declare the Applicant and Bantjies delinquent** under Companies Act s 162.
 4. **Remove Bantjies as a Trustee** of the Faucitt Family Trust.
 5. **Award damages** for financial losses, reputational harm, and emotional distress.

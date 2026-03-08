@@ -9,7 +9,7 @@
 
 ## 1. Executive Summary
 
-This memorandum provides direct instructions to set the above matter down for an urgent hearing to challenge and set aside the *ex parte* interdict granted on 19 August 2025. The interdict was obtained *void ab initio* through material falsehoods, perjury, and a fundamental misrepresentation of the banking mandates governing the company accounts.
+This memorandum provides direct instructions to set the above matter down for an urgent hearing to challenge and set aside the *ex parte* interdict granted on 19 August 2025. The interdict was obtained *void ab initio (in terms of Uniform Rule 42(1)(a) for being erroneously sought and granted in the absence of the affected party)* through material falsehoods, perjury, and a fundamental misrepresentation of the banking mandates governing the company accounts.
 
 The Applicant (Peter Andrew Faucitt) fabricated an emergency to secure the order, which was then used as an instrument to facilitate the extraction of over **R10.6 million** from the company accounts within eight days. The evidence is conclusive and proves a criminal conspiracy involving fraud, perjury, and abuse of the court process.
 

@@ -106,7 +106,7 @@ To create a false paper trail, Rynette emailed Bantjies a "Main Trustee" agreeme
 
 **Perjury with Provable Foreknowledge (August 13, 2025)**
 
-Just two days after receiving the backdated appointment, Bantjies swore a confirmatory affidavit supporting Peter Faucitt's ex parte interdict application against the other beneficiaries. At the time of swearing, Bantjies had provable foreknowledge of the following facts:
+Just two days after receiving the backdated appointment, Bantjies swore a confirmatory affidavit supporting Peter Faucitt's ex parte interdict (which failed to comply with Uniform Rule 6(4)(a) and 6(12)(b) regarding urgency and material disclosure) application against the other beneficiaries. At the time of swearing, Bantjies had provable foreknowledge of the following facts:
 
 | Fact Known to Bantjies | Source | Implication |
 | :--- | :--- | :--- |

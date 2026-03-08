@@ -2,19 +2,19 @@
 
 **Case Reference:** 2025-137857-NPA-TAX-VOID-AB-INITIO
 **Date:** 2026-02-09
-**Version:** v3 (incorporates void ab initio analysis)
+**Version:** v3 (incorporates void ab initio (in terms of Uniform Rule 42(1)(a) for being erroneously sought and granted in the absence of the affected party) analysis)
 
 **Burden of Proof Standard:** Beyond Reasonable Doubt (95%) — **EXCEEDED**
 
 ---
 
-This report details a multi-year, multi-entity tax fraud conspiracy orchestrated by **Peter Andrew Faucitt**, **Rynette Farrar**, and **Daniel Jacobus Bantjies**. The scheme involves income tax evasion, VAT fraud, and the fabrication of financial records, with a fraudulent, **void ab initio** court order used as a tool to conceal and further the criminal enterprise.
+This report details a multi-year, multi-entity tax fraud conspiracy orchestrated by **Peter Andrew Faucitt**, **Rynette Farrar**, and **Daniel Jacobus Bantjies**. The scheme involves income tax evasion, VAT fraud, and the fabrication of financial records, with a fraudulent, **void ab initio (in terms of Uniform Rule 42(1)(a) for being erroneously sought and granted in the absence of the affected party)** court order used as a tool to conceal and further the criminal enterprise.
 
 ---
 
 ## 1. THE VOID AB INITIO CONTEXT
 
-The ex parte interdict of 19 August 2025 is a legal nullity, obtained through perjury. Its purpose was to seize control of the financial and information systems to prevent the exposure of long-running tax fraud.
+The ex parte interdict (which failed to comply with Uniform Rule 6(4)(a) and 6(12)(b) regarding urgency and material disclosure) of 19 August 2025 is a legal nullity, obtained through perjury. Its purpose was to seize control of the financial and information systems to prevent the exposure of long-running tax fraud.
 
 ---
 

@@ -5,13 +5,13 @@
 
 ## 1. Executive Summary
 
-This document reassesses the Contempt of Court application filed by Peter Faucitt against Jacqueline Faucitt on 4 February 2026. The analysis of new evidence, including the original banking mandates and proof of the applicant's foreknowledge, demonstrates that the ex parte interdict granted on 19 August 2025 is **void ab initio** (void from the beginning). 
+This document reassesses the Contempt of Court application filed by Peter Faucitt against Jacqueline Faucitt on 4 February 2026. The analysis of new evidence, including the original banking mandates and proof of the applicant's foreknowledge, demonstrates that the ex parte interdict (which failed to comply with Uniform Rule 6(4)(a) and 6(12)(b) regarding urgency and material disclosure) granted on 19 August 2025 is **void ab initio (in terms of Uniform Rule 42(1)(a) for being erroneously sought and granted in the absence of the affected party)** (void from the beginning). 
 
-Consequently, the contempt application is baseless and constitutes a malicious abuse of process. The interdict was not a tool for justice, but a **weapon** forged through perjury and fraud to seize control of company assets and persecute a legitimate business owner. You cannot be in contempt of a void order. The entire legal basis for the contempt charge collapses upon examination of the facts.
+Consequently, the contempt application (brought under Uniform Rule 45A) is baseless and constitutes a malicious abuse of process. The interdict was not a tool for justice, but a **weapon** forged through perjury and fraud to seize control of company assets and persecute a legitimate business owner. You cannot be in contempt of a void order. The entire legal basis for the contempt charge collapses upon examination of the facts.
 
 ## 2. The Doctrine of Void Ab Initio: An Order That Never Was
 
-The legal principle of *void ab initio* means that the original interdict is treated as if it never existed. An order is void from the outset if it was obtained through:
+The legal principle of *void ab initio (in terms of Uniform Rule 42(1)(a) for being erroneously sought and granted in the absence of the affected party)* means that the original interdict is treated as if it never existed. An order is void from the outset if it was obtained through:
 
 *   **Fraud:** Deliberate misrepresentation to the court.
 *   **Perjury:** Knowingly false statements made under oath.
@@ -60,11 +60,11 @@ The fraudulent interdict was not an isolated event. It is part of a clear patter
 
 ### The Contempt Filing (February 2026)
 
-This follows the same pattern. The contempt application is based on a void order obtained through perjury. It is a malicious prosecution designed to imprison the victim of the initial fraud.
+This follows the same pattern. The contempt application (brought under Uniform Rule 45A) is based on a void order obtained through perjury. It is a malicious prosecution designed to imprison the victim of the initial fraud.
 
 ## 5. The Contempt Filing as a Weapon of Persecution
 
-The contempt application is the final stage of a scheme that used a fraudulent court order to achieve criminal ends.
+The contempt application (brought under Uniform Rule 45A) is the final stage of a scheme that used a fraudulent court order to achieve criminal ends.
 
 | Peter's Allegation (The Lie) | The Reality (The Truth) |
 | :--- | :--- |
@@ -72,7 +72,7 @@ The contempt application is the final stage of a scheme that used a fraudulent c
 | The interdict was to "protect assets." | Within 8 days of getting the interdict, **Peter extracted R10,624,131.18** from the company accounts. |
 | Jacqui is in "contempt" of a court order. | The order is void. The contempt charge is a malicious tactic to imprison a business partner based on a fraudulent premise. |
 
-Peter Faucitt is not a victim seeking justice; he is a perpetrator using the court as an instrument of fraud. The contempt application is a continuation of this fraud, designed to silence and punish the very people who exposed his scheme.
+Peter Faucitt is not a victim seeking justice; he is a perpetrator using the court as an instrument of fraud. The contempt application (brought under Uniform Rule 45A) is a continuation of this fraud, designed to silence and punish the very people who exposed his scheme.
 
 ## 5. The Corrupt Supporting Affidavit: Danie Bantjies
 
@@ -85,11 +85,11 @@ Bantjies had provable knowledge of the true state of affairs yet chose to suppor
 
 ## 6. Conclusion: Fraud Unravels All
 
-The legal maxim *fraus omnia corrumpit* (fraud unravels all) is perfectly applicable. The interdict of 19 August 2025 was born from perjury and fraud, rendering it void ab initio. All actions flowing from it, including the current contempt of court application, are without legal foundation.
+The legal maxim *fraus omnia corrumpit* (fraud unravels all) is perfectly applicable. The interdict of 19 August 2025 was born from perjury and fraud, rendering it void ab initio (in terms of Uniform Rule 42(1)(a) for being erroneously sought and granted in the absence of the affected party). All actions flowing from it, including the current contempt of court (Uniform Rule 45A) application, are without legal foundation.
 
 The appropriate response is not to entertain the contempt charge, but to:
 
-1.  **Set Aside the Original Order:** Formally declare the interdict of 19 August 2025 void ab initio.
+1.  **Set Aside the Original Order:** Formally declare the interdict of 19 August 2025 void ab initio (in terms of Uniform Rule 42(1)(a) for being erroneously sought and granted in the absence of the affected party).
 2.  **Dismiss the Contempt Application:** With a punitive costs order against Peter Faucitt for malicious prosecution.
 3.  **Initiate Criminal Proceedings:** Refer Peter Faucitt, Rynette Farrar, and Danie Bantjies for investigation on charges of perjury, fraud, and defeating the ends of justice.
 

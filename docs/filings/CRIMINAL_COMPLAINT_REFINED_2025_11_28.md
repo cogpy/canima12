@@ -85,7 +85,7 @@ The torture was inflicted to **intimidate and coerce** Jacqueline into:
 
 **Charge: Perjury (Criminal Procedure Act, s 319)**
 
-Peter Andrew Faucitt made a **false statement under oath** in the founding affidavit for the ex parte interdict (August 13, 2025):
+Peter Andrew Faucitt made a **false statement under oath** in the founding affidavit for the ex parte interdict (which failed to comply with Uniform Rule 6(4)(a) and 6(12)(b) regarding urgency and material disclosure) (August 13, 2025):
 
 > "I believe Jacqueline took an 'I'll show you' position and gave Daniel the R500k as a birthday gift."
 

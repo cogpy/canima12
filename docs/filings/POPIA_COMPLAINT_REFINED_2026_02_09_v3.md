@@ -2,19 +2,19 @@
 
 **Case Reference:** 2025-137857-POPIA-VOID-AB-INITIO
 **Date:** 2026-02-09
-**Version:** v3 (incorporates void ab initio analysis)
+**Version:** v3 (incorporates void ab initio (in terms of Uniform Rule 42(1)(a) for being erroneously sought and granted in the absence of the affected party) analysis)
 
 **Burden of Proof Standard:** Beyond Reasonable Doubt (95%) — **EXCEEDED**
 
 ---
 
-This complaint details criminal contraventions of the Protection of Personal Information Act (POPIA) by **Peter Andrew Faucitt** and **Rynette Farrar**. The evidence proves a conspiracy to unlawfully access, process, and obstruct access to personal and company information, all facilitated by a court order that is **void ab initio**.
+This complaint details criminal contraventions of the Protection of Personal Information Act (POPIA) by **Peter Andrew Faucitt** and **Rynette Farrar**. The evidence proves a conspiracy to unlawfully access, process, and obstruct access to personal and company information, all facilitated by a court order that is **void ab initio (in terms of Uniform Rule 42(1)(a) for being erroneously sought and granted in the absence of the affected party)**.
 
 ---
 
 ## 1. THE VOID AB INITIO CONTEXT
 
-The ex parte interdict obtained on 19 August 2025 was based on perjury and fraud. It is a legal nullity. All actions taken under its authority, including the seizure of computers, phones, and access to digital accounts, were unlawful from the outset.
+The ex parte interdict (which failed to comply with Uniform Rule 6(4)(a) and 6(12)(b) regarding urgency and material disclosure) obtained on 19 August 2025 was based on perjury and fraud. It is a legal nullity. All actions taken under its authority, including the seizure of computers, phones, and access to digital accounts, were unlawful from the outset.
 
 - **The interdict was a tool of crime, not justice.** It was used to illegally seize control of information systems to conceal pre-existing fraud and facilitate further theft.
 
@@ -43,7 +43,7 @@ The full evidence is contained in the **[Final Void Ab Initio Report](./FINAL_VO
 
 - The **RegimA SA “ANY TWO TOGETHER” mandate**, proving the ABSA diversion was unlawful.
 - Bank statements showing the **R10.6M extraction** post-interdict.
-- The **void ab initio analysis**, proving the seizure of information systems was based on fraud.
+- The **void ab initio (in terms of Uniform Rule 42(1)(a) for being erroneously sought and granted in the absence of the affected party) analysis**, proving the seizure of information systems was based on fraud.
 
 ---
 

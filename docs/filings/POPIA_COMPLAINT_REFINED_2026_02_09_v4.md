@@ -8,7 +8,7 @@
 
 ---
 
-This complaint details criminal contraventions of the Protection of Personal Information Act 4 of 2013 (POPIA) by **Peter Andrew Faucitt** (ID: 520430 5708 18 5) and **Rynette Farrar**. The evidence proves a conspiracy to unlawfully access, process, and obstruct access to personal and company information, all facilitated by a court order that is **void ab initio**.
+This complaint details criminal contraventions of the Protection of Personal Information Act 4 of 2013 (POPIA) by **Peter Andrew Faucitt** (ID: 520430 5708 18 5) and **Rynette Farrar**. The evidence proves a conspiracy to unlawfully access, process, and obstruct access to personal and company information, all facilitated by a court order that is **void ab initio (in terms of Uniform Rule 42(1)(a) for being erroneously sought and granted in the absence of the affected party)**.
 
 The original founding application (MAT4719, 162 pages, filed 14 August 2025 through Elliott Attorneys Inc.) has now been split and indexed, revealing that Peter's own annexures contain evidence contradicting his narrative and demonstrating the legitimate nature of the business operations he characterised as criminal.
 
@@ -16,7 +16,7 @@ The original founding application (MAT4719, 162 pages, filed 14 August 2025 thro
 
 ## 1. THE VOID AB INITIO CONTEXT
 
-The ex parte interdict obtained on 19 August 2025 was based on perjury and fraud. It is a legal nullity. All actions taken under its authority, including the seizure of computers, phones, and access to digital accounts, were unlawful from the outset.
+The ex parte interdict (which failed to comply with Uniform Rule 6(4)(a) and 6(12)(b) regarding urgency and material disclosure) obtained on 19 August 2025 was based on perjury and fraud. It is a legal nullity. All actions taken under its authority, including the seizure of computers, phones, and access to digital accounts, were unlawful from the outset.
 
 - **The interdict was a tool of crime, not justice.** It was used to illegally seize control of information systems to conceal pre-existing fraud and facilitate further theft.
 - **MAT4719 Annexure PF7** (pages 72–101) contains email and Slack communications that Peter submitted as evidence of "misappropriation" but which actually demonstrate **legitimate business operations**, including expense tracking and financial oversight by Jacqui Faucitt.

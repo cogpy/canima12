@@ -12,7 +12,7 @@
 
 This refined report details systematic tax fraud perpetrated by Peter Andrew Faucitt and his co-conspirators through the fabrication of financial statements, undeclared income, and VAT fraud. This version integrates evidence from the Contempt of Court Application filed on 4 February 2026.
 
-The contempt application strengthens the tax fraud case because: (a) the second settlement agreement (PF14) confirms the joint appointment of Forvis Mazars to investigate "IT payments processed from the accounts of the third to sixth respondents, misappropriation of funds, and procurement concerns" — establishing that financial irregularities were acknowledged by all parties; (b) the ongoing obstruction of stock takes (para 6.7.3) prevents accurate inventory valuation, which is essential for VAT and income tax calculations; and (c) the stock-blocking incident demonstrates ongoing control over physical assets valued at R200,000, consistent with the pattern of unaccounted stock movements.
+The contempt application (brought under Uniform Rule 45A) strengthens the tax fraud case because: (a) the second settlement agreement (PF14) confirms the joint appointment of Forvis Mazars to investigate "IT payments processed from the accounts of the third to sixth respondents, misappropriation of funds, and procurement concerns" — establishing that financial irregularities were acknowledged by all parties; (b) the ongoing obstruction of stock takes (para 6.7.3) prevents accurate inventory valuation, which is essential for VAT and income tax calculations; and (c) the stock-blocking incident demonstrates ongoing control over physical assets valued at R200,000, consistent with the pattern of unaccounted stock movements.
 
 ---
 
@@ -73,7 +73,7 @@ This is significant because:
 
 ### 3.2 Stock Obstruction and Inventory Fraud
 
-The contempt application documents that Jacqueline prevented stock takes (para 6.7.3) and blocked stock removal (para 6.4.1). This is relevant to tax fraud because:
+The contempt application (brought under Uniform Rule 45A) documents that Jacqueline prevented stock takes (para 6.7.3) and blocked stock removal (para 6.4.1). This is relevant to tax fraud because:
 
 - Accurate stock valuation is required for income tax and VAT calculations
 - Prevention of stock takes enables concealment of inventory discrepancies
@@ -82,7 +82,7 @@ The contempt application documents that Jacqueline prevented stock takes (para 6
 
 ### 3.3 Business Revenue Impact
 
-The contempt application confirms that the entities are "profitable businesses" (para 9.4) generating revenue that sustains the family. The obstruction of business operations documented in the contempt application directly impacts:
+The contempt application (brought under Uniform Rule 45A) confirms that the entities are "profitable businesses" (para 9.4) generating revenue that sustains the family. The obstruction of business operations documented in the contempt application (brought under Uniform Rule 45A) directly impacts:
 
 - Revenue recognition for tax purposes
 - VAT collection and remittance obligations

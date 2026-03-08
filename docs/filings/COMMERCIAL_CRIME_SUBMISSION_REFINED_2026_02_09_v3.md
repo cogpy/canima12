@@ -2,19 +2,19 @@
 
 **Case Reference:** 2025-137857-HAWKS-VOID-AB-INITIO
 **Date:** 2026-02-09
-**Version:** v3 (incorporates void ab initio analysis)
+**Version:** v3 (incorporates void ab initio (in terms of Uniform Rule 42(1)(a) for being erroneously sought and granted in the absence of the affected party) analysis)
 
 **Burden of Proof Standard:** Beyond Reasonable Doubt (95%) — **EXCEEDED**
 
 ---
 
-This submission details a criminal enterprise operated by **Peter Andrew Faucitt**, **Rynette Farrar**, and **Daniel Jacobus Bantjies**, involving racketeering, fraud, theft, forgery, and perjury. The enterprise used a **void ab initio** court order as a primary instrument to commit and conceal its crimes.
+This submission details a criminal enterprise operated by **Peter Andrew Faucitt**, **Rynette Farrar**, and **Daniel Jacobus Bantjies**, involving racketeering, fraud, theft, forgery, and perjury. The enterprise used a **void ab initio (in terms of Uniform Rule 42(1)(a) for being erroneously sought and granted in the absence of the affected party)** court order as a primary instrument to commit and conceal its crimes.
 
 ---
 
 ## 1. THE CRIMINAL ENTERPRISE & THE VOID INTERDICT
 
-The ex parte interdict of 19 August 2025 was obtained through perjury and is a legal nullity. It was the key that unlocked the final phase of a long-planned criminal conspiracy to seize control of company assets.
+The ex parte interdict (which failed to comply with Uniform Rule 6(4)(a) and 6(12)(b) regarding urgency and material disclosure) of 19 August 2025 was obtained through perjury and is a legal nullity. It was the key that unlocked the final phase of a long-planned criminal conspiracy to seize control of company assets.
 
 ---
 
@@ -43,7 +43,7 @@ The overarching motive for this criminal activity is the **R18.685 million payou
 
 The **[Final Void Ab Initio Report](./FINAL_VOID_AB_INITIO_REPORT_2026_02_09.md)** contains the full, detailed analysis. Key evidence for the commercial crime submission includes:
 
-- The **void ab initio analysis**, proving the interdict was an instrument of crime.
+- The **void ab initio (in terms of Uniform Rule 42(1)(a) for being erroneously sought and granted in the absence of the affected party) analysis**, proving the interdict was an instrument of crime.
 - Bank statements showing the **R10.6M theft**.
 - The **RegimA SA mandate**, proving the forgery.
 - The **FNB Legal letter**, proving the perjury.

@@ -102,7 +102,7 @@ The fabricated accounts were created to:
 
 ### Para 9: Stage 4 - Business Isolation (August 13, 2025)
 
-On August 13, 2025, the Applicant filed the first ex parte interdict application. **Bantjies signed a supporting affidavit** for this application.
+On August 13, 2025, the Applicant filed the first ex parte interdict (which failed to comply with Uniform Rule 6(4)(a) and 6(12)(b) regarding urgency and material disclosure) application. **Bantjies signed a supporting affidavit** for this application.
 
 Two days earlier, on August 11, 2025, Rynette sent Bantjies a letter confirming his status as "Main Trustee" of the Faucitt Family Trust. This proves the interdict was a **premeditated step in the curatorship plan**.
 

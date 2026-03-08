@@ -2,7 +2,7 @@
 
 **Case Reference:** 2025-137857-SAPS
 **Date:** 2026-02-09
-**Version:** v2 (incorporates void ab initio analysis)
+**Version:** v2 (incorporates void ab initio (in terms of Uniform Rule 42(1)(a) for being erroneously sought and granted in the absence of the affected party) analysis)
 
 **Attention:** SAPS Commercial Crime Unit
 
@@ -14,7 +14,7 @@
 
 This submission details evidence of a sophisticated criminal enterprise, meeting the definition of racketeering under the Prevention of Organised Crime Act (POCA), orchestrated by **Peter Andrew Faucitt**, **Rynette Farrar**, and **Daniel Jacobus Bantjies**. The total quantum of the fraud exceeds **R10.2 million** in direct losses, with ongoing damages and a central motive to illegally secure an **R18.685 million** trust payout.
 
-A critical development is the discovery that the High Court interdict (Case 2025-137857), which the perpetrators used to seize control of the business, was obtained through **perjury and fraud on the court**. This renders the interdict **void ab initio** (void from the start) and exposes the subsequent **R10.6 million asset stripping** as straightforward theft, stripped of any legal protection.
+A critical development is the discovery that the High Court interdict (Case 2025-137857), which the perpetrators used to seize control of the business, was obtained through **perjury and fraud on the court**. This renders the interdict **void ab initio (in terms of Uniform Rule 42(1)(a) for being erroneously sought and granted in the absence of the affected party)** (void from the start) and exposes the subsequent **R10.6 million asset stripping** as straightforward theft, stripped of any legal protection.
 
 ---
 
@@ -32,7 +32,7 @@ The actions of Faucitt, Farrar, and Bantjies constitute a "pattern of racketeeri
 
 ## 2. THE CORE FRAUD: ABUSE OF THE LEGAL SYSTEM
 
-The cornerstone of the enterprise was the fraudulent acquisition of an ex parte interdict.
+The cornerstone of the enterprise was the fraudulent acquisition of an ex parte interdict (which failed to comply with Uniform Rule 6(4)(a) and 6(12)(b) regarding urgency and material disclosure).
 
 1.  **The Lie:** Peter Faucitt swore under oath that his co-directors made "unauthorized" transactions.
 2.  **The Truth:** He possessed a letter from FNB Legal confirming all directors had **SOLE authority** to act independently. He knew his claim was false.
@@ -61,7 +61,7 @@ This was not a legitimate legal dispute; it was a bank heist orchestrated throug
 
 ### 3.3. Perjury & Fraud on the Court: The Void Ab Initio Interdict
 
-- **The Crime:** The ex parte interdict of 19 August 2025 was obtained through perjury, material non-disclosure, and fraud on the court.
+- **The Crime:** The ex parte interdict (which failed to comply with Uniform Rule 6(4)(a) and 6(12)(b) regarding urgency and material disclosure) of 19 August 2025 was obtained through perjury, material non-disclosure, and fraud on the court.
 - **The Proof:**
     1. **Legal Impossibility:** The FNB mandates grant all directors SOLE authority, making the "unauthorized transaction" claim a legal absurdity.
     2. **Perjury with Foreknowledge:** Peter Faucitt was informed by FNB Legal on 18 June 2025 that all directors had independent authority, two months before he swore the opposite.
@@ -101,7 +101,7 @@ The evidence for these crimes is documentary and irrefutable.
 
 | Evidence | Significance |
 | :--- | :--- |
-| **Application to Set Aside** | Details the complete *void ab initio* argument, proving the fraud on the court. |
+| **Application to Set Aside** | Details the complete *void ab initio (in terms of Uniform Rule 42(1)(a) for being erroneously sought and granted in the absence of the affected party)* argument, proving the fraud on the court. |
 | **FNB Mandates & Legal Letter** | Proves Faucitt and Bantjies had foreknowledge that the "unauthorized transaction" claim was false. |
 | **Bank Statements (Post-Interdict)** | Shows the R10.6M being transferred out immediately after the fraudulent order was granted. |
 | **Email from D. Faucitt to Bantjies (6 Jun 2025)** | Proves Bantjies knew about the fraud long before he signed his supporting affidavit. |

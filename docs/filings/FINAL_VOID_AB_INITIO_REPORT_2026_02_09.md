@@ -8,7 +8,7 @@
 
 ## 1. Executive Summary
 
-This report concludes that the ex parte interdict granted in case **2025-137857** on 19 August 2025 is **void ab initio** (void from the beginning). The order was obtained through a calculated scheme involving **perjury with provable foreknowledge**, **material non-disclosure**, and **fraud on the court** by the applicant, Peter Andrew Faucitt, and his co-conspirators.
+This report concludes that the ex parte interdict (which failed to comply with Uniform Rule 6(4)(a) and 6(12)(b) regarding urgency and material disclosure) granted in case **2025-137857** on 19 August 2025 is **void ab initio (in terms of Uniform Rule 42(1)(a) for being erroneously sought and granted in the absence of the affected party)** (void from the beginning). The order was obtained through a calculated scheme involving **perjury with provable foreknowledge**, **material non-disclosure**, and **fraud on the court** by the applicant, Peter Andrew Faucitt, and his co-conspirators.
 
 The analysis, based on the `provable-foreknowledge` framework, classifies the key agents involved according to their level of complicity:
 
@@ -24,7 +24,7 @@ The evidence demonstrates that the applicant manufactured a crisis by secretly c
 
 The supporting affidavit, certified by an external accountant with a massive, undisclosed conflict of interest, was also perjured. The accountant had received comprehensive fraud reports from the victim weeks before certifying the applicant's false narrative.
 
-The interdict was not a protective measure but a **weapon of fraud**, used to unlawfully seize control of company accounts and extract over **R10.6 million** in eight days. The order is therefore a nullity, and any subsequent legal action based upon it, such as contempt of court applications, is baseless.
+The interdict was not a protective measure but a **weapon of fraud**, used to unlawfully seize control of company accounts and extract over **R10.6 million** in eight days. The order is therefore a nullity, and any subsequent legal action based upon it, such as contempt of court (Uniform Rule 45A) applications, is baseless.
 
 ---
 
@@ -99,7 +99,7 @@ The following matrix visualizes which agents had provable foreknowledge of which
 | Bantjies had provable foreknowledge that Peter's affidavit contained false statements — he received Daniel's fraud reports weeks before certifying the affidavit | obstruction | — | ✅ 2025-06-06 | — | — | — | — | — | — |
 | Peter admits in his affidavit that he cancelled Daniel's company cards but conceals that he did so secretly, without authority, and as retaliation for Daniel exposing fraud | fraud | ✅ 2025-06-07 | — | ✅ 2025-06-07 | — | — | — | — | — |
 | Perpetrators created fraudulent financial statements for RegimaSA for 2019 — a period when the company had zero revenue and minimal activity — prepared 6+ years after period end | fraud | ✅ 2025-06-25 | — | ✅ 2025-05-29 | — | — | ✅ 2021-04-01 | — | — |
-| The ex parte interdict was used as an instrument of fraud — filed 48 hours after a settlement agreement, in family court instead of commercial court, to seize control of company accounts and extract R10.6M+ | obstruction | ✅ 2025-08-13 | — | ✅ 2025-04-14 | — | — | ✅ 2025-05-29 | — | — |
+| The ex parte interdict (which failed to comply with Uniform Rule 6(4)(a) and 6(12)(b) regarding urgency and material disclosure) was used as an instrument of fraud — filed 48 hours after a settlement agreement, in family court instead of commercial court, to seize control of company accounts and extract R10.6M+ | obstruction | ✅ 2025-08-13 | — | ✅ 2025-04-14 | — | — | ✅ 2025-05-29 | — | — |
 | Settlement agreements were signed under duress and then weaponized by filing the interdict 48 hours later | obstruction | ✅ 2025-08-11 | — | — | — | — | — | — | — |
 | RegimA SA operates under 'ANY TWO TOGETHER' mandate — the March 2025 ABSA revenue diversion was done without Daniel's required consent, constituting forgery or perjury | fraud | ✅ 2025-03-01 | — | ✅ 2025-03-01 | — | — | — | — | — |
 | All four layers of financial oversight (Peter, Rynette, Bantjies, Anton Hechter) had conflicts of interest and systematically failed to investigate the fraud Daniel exposed | conspiracy | ✅ 2025-09-11 | ✅ 2024-07-01 | ✅ 2025-06-05 | — | — | — | — | — |
@@ -116,10 +116,10 @@ The following timeline visualizes the sequence of key events, demonstrating the 
 
 ## 5. Legal Consequences
 
-An order that is void ab initio is a legal nullity. It has no force or effect and can be disregarded.
+An order that is void ab initio (in terms of Uniform Rule 42(1)(a) for being erroneously sought and granted in the absence of the affected party) is a legal nullity. It has no force or effect and can be disregarded.
 
-1.  **The Order is Void:** The ex parte interdict granted on 19 August 2025 is void and has no legal standing.
-2.  **Contempt Applications are Baseless:** Any application for contempt of court based on this void order is fundamentally flawed and constitutes an abuse of process. One cannot be in contempt of an order that never legally existed.
+1.  **The Order is Void:** The ex parte interdict (which failed to comply with Uniform Rule 6(4)(a) and 6(12)(b) regarding urgency and material disclosure) granted on 19 August 2025 is void and has no legal standing.
+2.  **Contempt Applications are Baseless:** Any application for contempt of court (Uniform Rule 45A) based on this void order is fundamentally flawed and constitutes an abuse of process. One cannot be in contempt of an order that never legally existed.
 3.  **Enforcement is Malicious Prosecution:** Any attempt to enforce the void order, knowing it was obtained through fraud, constitutes the crime of malicious prosecution and defeating the ends of justice.
 4.  **Recovery of Stolen Funds:** The R10.6M+ extracted from the company accounts under the authority of the void interdict was stolen. Civil and criminal action can be taken to recover these funds.
 
@@ -127,7 +127,7 @@ An order that is void ab initio is a legal nullity. It has no force or effect an
 
 ## 6. Recommendations
 
-1.  **Formal Application to Set Aside:** File a formal application in the High Court to have the ex parte interdict of 19 August 2025 declared void ab initio.
+1.  **Formal Application to Set Aside:** File a formal application in the High Court to have the ex parte interdict (which failed to comply with Uniform Rule 6(4)(a) and 6(12)(b) regarding urgency and material disclosure) of 19 August 2025 declared void ab initio (in terms of Uniform Rule 42(1)(a) for being erroneously sought and granted in the absence of the affected party).
 2.  **Criminal Referrals for Perjury:** Submit this report and the underlying evidence to the National Prosecuting Authority (NPA) to institute criminal charges of perjury against Peter Andrew Faucitt and Daniel Jacobus Bantjies.
 3.  **Criminal Referrals for Fraud:** Submit this report to the Directorate for Priority Crime Investigation (Hawks) for investigation of fraud, theft, and conspiracy charges against Peter Faucitt, Rynette Farrar, and Daniel Bantjies.
 4.  **Professional Misconduct Complaints:** File complaints with the relevant professional bodies against Daniel Jacobus Bantjies (for his conduct as an accountant and Commissioner of Oaths) and the attorneys involved (Elliott Attorneys and ENS Africa) for their role in the abuse of process and suppression of evidence.
@@ -164,7 +164,7 @@ An order that is void ab initio is a legal nullity. It has no force or effect an
 | 7 | 2025-06-25T00:00:00Z | Perpetrators created fraudulent financial statements for RegimaSA for 2019 — a period when the company had zero revenue and minimal activity — prepared 6+ years after period end | documentary_proof | MR/Events.md |
 | 8 | 2025-08-11T00:00:00Z | Settlement agreements were signed under duress and then weaponized by filing the interdict 48 hours later | documentary_proof | docs/filings/ANSWERING_AFFIDAVIT_V8_ENHANCED.md |
 | 9 | 2025-08-13T00:00:00Z | Peter failed to disclose critical, outcome-determinative facts to the court in his ex parte application | documentary_proof | evidence/interdicts/1.MAT4719-NOMandFoundingAffidavitandAnnexures.pdf, evidence/emails/FNB_LEGAL_RESPONSE_18_JUNE_2025.jpg, evidence/bank_records/SLG_FNB_FICA_MANDATE_2021.pdf |
-| 10 | 2025-08-13T00:00:00Z | The ex parte interdict was used as an instrument of fraud — filed 48 hours after a settlement agreement, in family court instead of commercial court, to seize control of company accounts and extract R10.6M+ | documentary_proof | evidence/interdicts/1.MAT4719-NOMandFoundingAffidavitandAnnexures.pdf |
+| 10 | 2025-08-13T00:00:00Z | The ex parte interdict (which failed to comply with Uniform Rule 6(4)(a) and 6(12)(b) regarding urgency and material disclosure) was used as an instrument of fraud — filed 48 hours after a settlement agreement, in family court instead of commercial court, to seize control of company accounts and extract R10.6M+ | documentary_proof | evidence/interdicts/1.MAT4719-NOMandFoundingAffidavitandAnnexures.pdf |
 | 11 | 2025-09-11T00:00:00Z | All four layers of financial oversight (Peter, Rynette, Bantjies, Anton Hechter) had conflicts of interest and systematically failed to investigate the fraud Daniel exposed | documentary_proof | M-REF/04_FINANCIAL_SABOTAGE_TIMELINE.md |
 
 ---
@@ -195,7 +195,7 @@ An order that is void ab initio is a legal nullity. It has no force or effect an
 | # | Timestamp | Material Fact | Acquisition Type | Evidence References |
 |---|---|---|---|---|
 | 1 | 2025-03-01T00:00:00Z | RegimA SA operates under 'ANY TWO TOGETHER' mandate — the March 2025 ABSA revenue diversion was done without Daniel's required consent, constituting forgery or perjury | active_participation | M-REF/06_REGIMA_SA_MANDATE_AND_IMPERSONATION_FRAUD.md |
-| 2 | 2025-04-14T00:00:00Z | The ex parte interdict was used as an instrument of fraud — filed 48 hours after a settlement agreement, in family court instead of commercial court, to seize control of company accounts and extract R10.6M+ | documentary_proof | MR/Events.md |
+| 2 | 2025-04-14T00:00:00Z | The ex parte interdict (which failed to comply with Uniform Rule 6(4)(a) and 6(12)(b) regarding urgency and material disclosure) was used as an instrument of fraud — filed 48 hours after a settlement agreement, in family court instead of commercial court, to seize control of company accounts and extract R10.6M+ | documentary_proof | MR/Events.md |
 | 3 | 2025-05-29T00:00:00Z | Perpetrators created fraudulent financial statements for RegimaSA for 2019 — a period when the company had zero revenue and minimal activity — prepared 6+ years after period end | active_participation | MR/Events.md |
 | 4 | 2025-06-05T00:00:00Z | All four layers of financial oversight (Peter, Rynette, Bantjies, Anton Hechter) had conflicts of interest and systematically failed to investigate the fraud Daniel exposed | email_correspondence | M-REF/05_OVERSIGHT_CHAIN_CONSPIRACY.md |
 | 5 | 2025-06-07T00:00:00Z | Peter admits in his affidavit that he cancelled Daniel's company cards but conceals that he did so secretly, without authority, and as retaliation for Daniel exposing fraud | active_participation | M-REF/04_FINANCIAL_SABOTAGE_TIMELINE.md |
@@ -232,7 +232,7 @@ An order that is void ab initio is a legal nullity. It has no force or effect an
 | # | Timestamp | Material Fact | Acquisition Type | Evidence References |
 |---|---|---|---|---|
 | 1 | 2021-04-01T00:00:00Z | Perpetrators created fraudulent financial statements for RegimaSA for 2019 — a period when the company had zero revenue and minimal activity — prepared 6+ years after period end | documentary_proof | MR/Events.md |
-| 2 | 2025-05-29T00:00:00Z | The ex parte interdict was used as an instrument of fraud — filed 48 hours after a settlement agreement, in family court instead of commercial court, to seize control of company accounts and extract R10.6M+ | documentary_proof | MR/Events.md |
+| 2 | 2025-05-29T00:00:00Z | The ex parte interdict (which failed to comply with Uniform Rule 6(4)(a) and 6(12)(b) regarding urgency and material disclosure) was used as an instrument of fraud — filed 48 hours after a settlement agreement, in family court instead of commercial court, to seize control of company accounts and extract R10.6M+ | documentary_proof | MR/Events.md |
 
 ---
 

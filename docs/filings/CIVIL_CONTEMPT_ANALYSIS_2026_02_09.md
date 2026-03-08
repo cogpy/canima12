@@ -18,7 +18,7 @@ This analysis examines the Contempt of Court Application filed by Peter Andrew F
 
 ### 1.1 Admissions Against Interest
 
-Peter's founding affidavit contains several statements that, while intended to support his contempt application, constitute admissions against interest in the broader fraud case:
+Peter's founding affidavit contains several statements that, while intended to support his contempt application (brought under Uniform Rule 45A), constitute admissions against interest in the broader fraud case:
 
 | Paragraph | Statement | Implication |
 |---|---|---|
@@ -54,7 +54,7 @@ These are precisely the categories of fraud documented in the existing case evid
 
 ### 2.1 Legitimate Concerns
 
-Jacqueline's conduct, as described in the contempt application, can be reframed as legitimate protective actions:
+Jacqueline's conduct, as described in the contempt application (brought under Uniform Rule 45A), can be reframed as legitimate protective actions:
 
 | Peter's Characterization | Alternative Interpretation | Evidence |
 |---|---|---|
@@ -90,7 +90,7 @@ The notice of withdrawal from the settlement agreements by Jacqueline and Daniel
 
 ### 3.2 Criminal Standard (95%)
 
-The contempt application itself provides additional evidence meeting the criminal standard:
+The contempt application (brought under Uniform Rule 45A) itself provides additional evidence meeting the criminal standard:
 
 | Charge | New Evidence from Contempt | Cumulative Assessment |
 |---|---|---|
@@ -106,7 +106,7 @@ The contempt application itself provides additional evidence meeting the crimina
 
 ### 4.1 For the Respondents' Defense
 
-The contempt application provides the respondents with:
+The contempt application (brought under Uniform Rule 45A) provides the respondents with:
 
 1. **Peter's sworn testimony** that can be used in cross-examination
 2. **The court order terms** confirmed under oath — showing the scope of Peter's control
@@ -115,7 +115,7 @@ The contempt application provides the respondents with:
 
 ### 4.2 For the Broader Case
 
-The contempt application strengthens the broader case because:
+The contempt application (brought under Uniform Rule 45A) strengthens the broader case because:
 
 1. It confirms the 19 August 2025 court order was the mechanism for seizing financial control
 2. The settlement agreements prove all parties knew about financial irregularities
@@ -131,7 +131,7 @@ The contempt application strengthens the broader case because:
 3. **Request postponement** of contempt hearing pending criminal investigation
 4. **File counter-application** for variation of the 19 August 2025 order based on new fraud evidence
 5. **Notify Forvis Mazars** of the full scope of evidence for the forensic investigation
-6. **Update all filings** (CIPC, POPIA, NPA, Commercial Crime) with contempt application evidence
+6. **Update all filings** (CIPC, POPIA, NPA, Commercial Crime) with contempt application (brought under Uniform Rule 45A) evidence
 
 ---
 

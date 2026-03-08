@@ -32,7 +32,7 @@
 | Perpetrators created fraudulent financial statements for RegimaSA for 2019 — a period when the company had zero revenue and minimal activity — prepared 6+ years after period end | MR/Events.md | documentary_proof | 2025-06-25 |
 | Settlement agreements were signed under duress and then weaponized by filing the interdict 48 hours later | docs/filings/ANSWERING_AFFIDAVIT_V8_ENHANCED.md | documentary_proof | 2025-08-11 |
 | Peter failed to disclose critical, outcome-determinative facts to the court in his ex parte application | evidence/interdicts/1.MAT4719-NOMandFoundingAffidavitandAnnexures.pdf, evidence/emails/FNB_LEGAL_RESPONSE_18_JUNE_2025.jpg, evidence/bank_records/SLG_FNB_FICA_MANDATE_2021.pdf | documentary_proof | 2025-08-13 |
-| The ex parte interdict was used as an instrument of fraud — filed 48 hours after a settlement agreement, in family court instead of commercial court, to seize control of company accounts and extract R10.6M+ | evidence/interdicts/1.MAT4719-NOMandFoundingAffidavitandAnnexures.pdf | documentary_proof | 2025-08-13 |
+| The ex parte interdict (which failed to comply with Uniform Rule 6(4)(a) and 6(12)(b) regarding urgency and material disclosure) was used as an instrument of fraud — filed 48 hours after a settlement agreement, in family court instead of commercial court, to seize control of company accounts and extract R10.6M+ | evidence/interdicts/1.MAT4719-NOMandFoundingAffidavitandAnnexures.pdf | documentary_proof | 2025-08-13 |
 | All four layers of financial oversight (Peter, Rynette, Bantjies, Anton Hechter) had conflicts of interest and systematically failed to investigate the fraud Daniel exposed | M-REF/04_FINANCIAL_SABOTAGE_TIMELINE.md | documentary_proof | 2025-09-11 |
 
 ---
@@ -59,7 +59,7 @@
 | Foreknowledge Indicator | Evidence | Type of Proof | Date |
 |---|---|---|---|
 | RegimA SA operates under 'ANY TWO TOGETHER' mandate — the March 2025 ABSA revenue diversion was done without Daniel's required consent, constituting forgery or perjury | M-REF/06_REGIMA_SA_MANDATE_AND_IMPERSONATION_FRAUD.md | active_participation | 2025-03-01 |
-| The ex parte interdict was used as an instrument of fraud — filed 48 hours after a settlement agreement, in family court instead of commercial court, to seize control of company accounts and extract R10.6M+ | MR/Events.md | documentary_proof | 2025-04-14 |
+| The ex parte interdict (which failed to comply with Uniform Rule 6(4)(a) and 6(12)(b) regarding urgency and material disclosure) was used as an instrument of fraud — filed 48 hours after a settlement agreement, in family court instead of commercial court, to seize control of company accounts and extract R10.6M+ | MR/Events.md | documentary_proof | 2025-04-14 |
 | Perpetrators created fraudulent financial statements for RegimaSA for 2019 — a period when the company had zero revenue and minimal activity — prepared 6+ years after period end | MR/Events.md | active_participation | 2025-05-29 |
 | All four layers of financial oversight (Peter, Rynette, Bantjies, Anton Hechter) had conflicts of interest and systematically failed to investigate the fraud Daniel exposed | M-REF/05_OVERSIGHT_CHAIN_CONSPIRACY.md | email_correspondence | 2025-06-05 |
 | Peter admits in his affidavit that he cancelled Daniel's company cards but conceals that he did so secretly, without authority, and as retaliation for Daniel exposing fraud | M-REF/04_FINANCIAL_SABOTAGE_TIMELINE.md | active_participation | 2025-06-07 |
@@ -96,7 +96,7 @@
 | Foreknowledge Indicator | Evidence | Type of Proof | Date |
 |---|---|---|---|
 | Perpetrators created fraudulent financial statements for RegimaSA for 2019 — a period when the company had zero revenue and minimal activity — prepared 6+ years after period end | MR/Events.md | documentary_proof | 2021-04-01 |
-| The ex parte interdict was used as an instrument of fraud — filed 48 hours after a settlement agreement, in family court instead of commercial court, to seize control of company accounts and extract R10.6M+ | MR/Events.md | documentary_proof | 2025-05-29 |
+| The ex parte interdict (which failed to comply with Uniform Rule 6(4)(a) and 6(12)(b) regarding urgency and material disclosure) was used as an instrument of fraud — filed 48 hours after a settlement agreement, in family court instead of commercial court, to seize control of company accounts and extract R10.6M+ | MR/Events.md | documentary_proof | 2025-05-29 |
 
 ---
 

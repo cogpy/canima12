@@ -74,7 +74,7 @@ For the past 2+ years, RWD ZA has filed tax returns reporting revenue that does 
 
 **Para 9: Peter's False Claims of "Financial Mismanagement"**
 
-In the original ex parte interdict (August 13, 2025), the Applicant claimed that the Second Respondent was guilty of "financial mismanagement" and that the IT expenses were not legitimate.
+In the original ex parte interdict (which failed to comply with Uniform Rule 6(4)(a) and 6(12)(b) regarding urgency and material disclosure) (August 13, 2025), the Applicant claimed that the Second Respondent was guilty of "financial mismanagement" and that the IT expenses were not legitimate.
 
 **Para 10: The Reality: Peter's Own Fraud**
 
@@ -145,7 +145,7 @@ The card cancellation occurred **one day after** the Second Respondent filed a f
 
 **Para 20: The Only Claim Against Jacqueline**
 
-The only claim made against me in the founding affidavit for the ex parte interdict was the Applicant's speculation that I gave the Second Respondent a "R500k birthday gift." This was **pure speculation**, not based on any evidence.
+The only claim made against me in the founding affidavit for the ex parte interdict (which failed to comply with Uniform Rule 6(4)(a) and 6(12)(b) regarding urgency and material disclosure) was the Applicant's speculation that I gave the Second Respondent a "R500k birthday gift." This was **pure speculation**, not based on any evidence.
 
 **Para 21: The Proven Falsehood**
 

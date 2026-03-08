@@ -16,7 +16,9 @@ These filings are the most current and comprehensive, incorporating the **Bantji
 | **Commercial Crime Submission** | Criminal | 95% EXCEEDED | **[View Latest (v8)](./COMMERCIAL_CRIME_SUBMISSION_REFINED_2026_03_08_v8.md)** | **2026-03-08** |
 | **CIPC Complaint** | Regulatory | 50% EXCEEDED | **[View Latest (v8)](./CIPC_COMPLAINT_REFINED_2026_03_08_v8.md)** | **2026-03-08** |
 | **POPIA Complaint** | Criminal | 95% EXCEEDED | **[View Latest (v8)](./POPIA_COMPLAINT_REFINED_2026_03_08_v8.md)** | **2026-03-08** |
-| **NPA Tax Fraud Report** | Criminal | 95% EXCEEDED | **[View Latest (v8)](./NPA_TAX_FRAUD_REPORT_REFINED_2026_03_08_v8.md)** | **2026-03-08** |
+| **NPA Tax Fraud Report** | Criminal | 95% EXCEEDED | **[View Latest (v2.0)](./npa_tax_fraud_report_REFINED_2026_03_08.md)** | **2026-03-08** |
+| **FIC Suspicious Transaction Report** | Regulatory | EXCEEDED | **[View Latest (v8)](./regulatory/FIC_SUSPICIOUS_TRANSACTION_REPORT_REFINED_2026_03_08_v8.md)** | **2026-03-08** |
+| **Professional Misconduct Complaint** | Professional Body | EXCEEDED | **[View Latest (v8)](./regulatory/PROFESSIONAL_MISCONDUCT_COMPLAINT_REFINED_2026_03_08_v8.md)** | **2026-03-08** |
 | **Void Ab Initio Report** | Legal Analysis | N/A | [View Report](./FINAL_VOID_AB_INITIO_REPORT_2026_02_09.md) | 2026-02-09 |
 
 ---
@@ -57,7 +59,7 @@ New evidence from the Neon database reveals Rynette Farrar logged into SARS eFil
 
 ## Key Updates (2026-02-18)
 
-The **two-date distinction** between the 28 June 2024 trust amendment forgery (EVENT_103) and the 11 August 2025 backdated "Main Trustee" appointment (EVENT_104) is now fully documented. The **EA-18 coordinated action** window and the **contempt application** weaponization are incorporated into all filings.
+The **two-date distinction** between the 28 June 2024 trust amendment forgery (EVENT_103) and the 11 August 2025 backdated "Main Trustee" appointment (EVENT_104) is now fully documented. The **EA-18 coordinated action** window and the **contempt application (brought under Uniform Rule 45A)** weaponization are incorporated into all filings.
 
 ---
 
@@ -105,7 +107,22 @@ Key charges include Fraud, Theft, Forgery, Money Laundering, Tax Evasion, Exchan
 
 ---
 
-*Last updated: 2026-03-08 — LEX-RECON Reconciliation*
+---
+
+## Uniform Rules of Court — Key Citations
+
+| Rule | Application | Filing Reference |
+|------|-------------|------------------|
+| **Rule 6(4)(a)** | Ex parte application requirements — the application failed to comply with mandatory disclosure requirements | Answering Affidavit, Void Ab Initio |
+| **Rule 6(12)(b)** | Urgency justification — applicant failed to set forth explicitly the circumstances rendering the matter urgent | Answering Affidavit |
+| **Rule 7(1)** | Power of attorney — authority to act on behalf of a party | Attorney Instructions |
+| **Rule 30(1)** | Irregular proceedings — the ex parte interdict constitutes an irregular step subject to being set aside | Civil Contempt Analysis |
+| **Rule 42(1)(a)** | Rescission — the order was erroneously sought and granted in the absence of the affected party | Void Ab Initio Report |
+| **Rule 45A** | Contempt of court — the contempt application is itself a weaponization of process | Civil Contempt Analysis |
+
+---
+
+*Last updated: 2026-03-08 — LEX-RECON Reconciliation with Uniform Rules of Court*
 
 ### Supporting Evidence Analyses
 * [KL0034 Letter of Demand Evidence Mapping](../evidence/KL0034_EVIDENCE_MAPPING_2026_03_08.md)

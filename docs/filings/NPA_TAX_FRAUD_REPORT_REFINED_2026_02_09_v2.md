@@ -2,7 +2,7 @@
 
 **Case Reference:** 2025-137857-NPA
 **Date:** 2026-02-09
-**Version:** v2 (incorporates void ab initio analysis)
+**Version:** v2 (incorporates void ab initio (in terms of Uniform Rule 42(1)(a) for being erroneously sought and granted in the absence of the affected party) analysis)
 
 **Attention:** National Prosecuting Authority (NPA)
 
@@ -14,7 +14,7 @@
 
 This report details evidence of significant tax fraud committed by **Peter Andrew Faucitt**, **Rynette Farrar**, and the complicit accounting firm **De Novo Business Services (Pty) Ltd**, represented by **Marisca Meyer**. The fraud involves the deliberate fabrication of financial records, the creation of fictitious expenses to reduce tax liability, and the misrepresentation of the company’s financial position to the South African Revenue Service (SARS).
 
-These acts were not isolated errors but part of a wider criminal conspiracy to defraud the RegimA group of companies. The perpetrators’ acquisition of a **void ab initio** High Court interdict (Case 2025-137857) was a key part of their strategy, allowing them to seize control and manipulate financial records without oversight.
+These acts were not isolated errors but part of a wider criminal conspiracy to defraud the RegimA group of companies. The perpetrators’ acquisition of a **void ab initio (in terms of Uniform Rule 42(1)(a) for being erroneously sought and granted in the absence of the affected party)** High Court interdict (Case 2025-137857) was a key part of their strategy, allowing them to seize control and manipulate financial records without oversight.
 
 ---
 

@@ -17,7 +17,7 @@ This document provides a summary of evidence for a large-scale, organized commer
 
 | Crime | Summary of Conduct |
 | :--- | :--- |
-| **Fraud** | Obtaining an ex parte interdict through false pretenses to seize control of company assets. The central motive was the ZAR 18.685M Ketoni payout due in May 2026. |
+| **Fraud** | Obtaining an ex parte interdict (which failed to comply with Uniform Rule 6(4)(a) and 6(12)(b) regarding urgency and material disclosure) through false pretenses to seize control of company assets. The central motive was the ZAR 18.685M Ketoni payout due in May 2026. |
 | **Perjury** | Mr. Peter Faucitt and Mr. D.J. Bantjies knowingly swearing false affidavits to the High Court. The evidence proves they had foreknowledge that their statements were false. |
 | **Forgery** | Ms. Rynette Farrar forging Mr. Faucitt's signature on a Trust Amendment Resolution to unlawfully appoint Mr. Bantjies as a trustee. |
 | **Theft** | The extraction of over R10.6 million from company bank accounts in the 8 days following the fraudulent interdict. |

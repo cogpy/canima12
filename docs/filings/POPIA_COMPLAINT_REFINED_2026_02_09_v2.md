@@ -2,7 +2,7 @@
 
 **Case Reference:** 2025-137857-POPIA
 **Date:** 2026-02-09
-**Version:** v2 (incorporates void ab initio analysis)
+**Version:** v2 (incorporates void ab initio (in terms of Uniform Rule 42(1)(a) for being erroneously sought and granted in the absence of the affected party) analysis)
 
 **Attention:** The Information Regulator of South Africa
 
@@ -14,7 +14,7 @@
 
 This complaint details serious criminal offenses under the Protection of Personal Information Act (POPIA), committed by **Peter Andrew Faucitt** and **Rynette Farrar**. The offenses include the unlawful processing and dissemination of personal information, the obstruction of a data subject's rights, and the intentional destruction of data records to conceal these breaches.
 
-These actions were not accidental. They were part of a coordinated criminal conspiracy to hijack the RegimA group of companies. A key element of this scheme was the fraudulent acquisition of a High Court interdict (Case 2025-137857), which is **void ab initio** (void from the start). The perpetrators used this void order to legitimize their control and obstruct the data subject, Daniel Faucitt, from exercising his rights.
+These actions were not accidental. They were part of a coordinated criminal conspiracy to hijack the RegimA group of companies. A key element of this scheme was the fraudulent acquisition of a High Court interdict (Case 2025-137857), which is **void ab initio (in terms of Uniform Rule 42(1)(a) for being erroneously sought and granted in the absence of the affected party)** (void from the start). The perpetrators used this void order to legitimize their control and obstruct the data subject, Daniel Faucitt, from exercising his rights.
 
 ---
 
@@ -47,7 +47,7 @@ This is the most serious offense. Peter Faucitt and Rynette Farrar systematicall
 2.  **Fraudulent Interdict (19 August 2025):** The perpetrators obtained a High Court interdict based on perjury. This void order was then used as a legal pretext to deny Daniel Faucitt access to all company data, including his own personal information stored on company systems.
 3.  **Refusal to Comply with Access Requests:** Formal notices demanding access and compliance with POPIA, sent by Daniel Faucitt on 8 July 2025, were ignored. The perpetrators instead accelerated their efforts to secure the fraudulent court order.
 
-Using a **void ab initio** court order to deny a data subject their rights is a profound abuse of the law and a clear violation of Section 107 of POPIA.
+Using a **void ab initio (in terms of Uniform Rule 42(1)(a) for being erroneously sought and granted in the absence of the affected party)** court order to deny a data subject their rights is a profound abuse of the law and a clear violation of Section 107 of POPIA.
 
 ---
 
@@ -68,7 +68,7 @@ The evidence for these POPIA crimes is documentary and compelling.
 
 | Evidence | Significance |
 | :--- | :--- |
-| **Application to Set Aside** | Establishes that the interdict used to obstruct the data subject is void ab initio. |
+| **Application to Set Aside** | Establishes that the interdict used to obstruct the data subject is void ab initio (in terms of Uniform Rule 42(1)(a) for being erroneously sought and granted in the absence of the affected party). |
 | **POPIA Violation Notice (8 Jul 2025)** | Shows a formal attempt by the data subject to exercise his rights, which was ignored. |
 | **Sage User Access Logs (SF2A)** | Provides digital proof of Rynette Farrar's unauthorized access to email accounts. |
 | **Shopify Sales Reports** | Shows the abrupt cessation of revenue, corroborating the data destruction and diversion. |

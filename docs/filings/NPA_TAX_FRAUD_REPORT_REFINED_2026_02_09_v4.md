@@ -8,7 +8,7 @@
 
 ---
 
-This report details a multi-year, multi-entity tax fraud conspiracy orchestrated by **Peter Andrew Faucitt** (ID: 520430 5708 18 5), **Rynette Farrar**, and **Daniel Jacobus Bantjies** (SAICA 00105928). The scheme involves income tax evasion, VAT fraud, and the fabrication of financial records, with a fraudulent, **void ab initio** court order used as a tool to conceal and further the criminal enterprise.
+This report details a multi-year, multi-entity tax fraud conspiracy orchestrated by **Peter Andrew Faucitt** (ID: 520430 5708 18 5), **Rynette Farrar**, and **Daniel Jacobus Bantjies** (SAICA 00105928). The scheme involves income tax evasion, VAT fraud, and the fabrication of financial records, with a fraudulent, **void ab initio (in terms of Uniform Rule 42(1)(a) for being erroneously sought and granted in the absence of the affected party)** court order used as a tool to conceal and further the criminal enterprise.
 
 The original founding application (MAT4719, 162 pages) has been analysed and its financial annexures (PF9, PF10) reveal **R8,854,166.47** in legitimate technology platform expenses that Peter characterised as "misappropriation" — a misrepresentation that also has tax implications.
 
@@ -16,7 +16,7 @@ The original founding application (MAT4719, 162 pages) has been analysed and its
 
 ## 1. THE VOID AB INITIO CONTEXT
 
-The ex parte interdict of 19 August 2025 is a legal nullity, obtained through perjury. Its purpose was to seize control of the financial and information systems to prevent the exposure of long-running tax fraud.
+The ex parte interdict (which failed to comply with Uniform Rule 6(4)(a) and 6(12)(b) regarding urgency and material disclosure) of 19 August 2025 is a legal nullity, obtained through perjury. Its purpose was to seize control of the financial and information systems to prevent the exposure of long-running tax fraud.
 
 The founding affidavit (MAT4719 pages 10–38) and confirmatory affidavit of Bantjies (MAT4719 pages 69–71) form the fraudulent foundation. Bantjies, as the company's external accountant, had a direct role in the tax affairs and a direct conflict of interest.
 

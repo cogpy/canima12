@@ -7,7 +7,7 @@ Version: v5 (incorporates two-date distinction for trust forgery vs. backdated a
 
 ---
 
-This submission details a criminal enterprise operated by **Peter Andrew Faucitt** (ID: 520430 5708 18 5), **Rynette Farrar**, and **Daniel Jacobus Bantjies** (SAICA 00105928, ID: 581004 5103 089), involving racketeering, fraud, theft, forgery, and perjury. The enterprise used a **void ab initio** court order as a primary instrument to commit and conceal its crimes.
+This submission details a criminal enterprise operated by **Peter Andrew Faucitt** (ID: 520430 5708 18 5), **Rynette Farrar**, and **Daniel Jacobus Bantjies** (SAICA 00105928, ID: 581004 5103 089), involving racketeering, fraud, theft, forgery, and perjury. The enterprise used a **void ab initio (in terms of Uniform Rule 42(1)(a) for being erroneously sought and granted in the absence of the affected party)** court order as a primary instrument to commit and conceal its crimes.
 
 The original founding application (MAT4719, 162 pages) has been analysed, split into 14 indexed chapter files, and its contents demonstrate that the applicant's own annexures contradict his sworn allegations.
 
@@ -15,7 +15,7 @@ The original founding application (MAT4719, 162 pages) has been analysed, split 
 
 ## 1. THE CRIMINAL ENTERPRISE & THE VOID INTERDICT
 
-The ex parte interdict of 19 August 2025 was obtained through perjury and is a legal nullity. It was the key that unlocked the final phase of a long-planned criminal conspiracy to seize control of company assets.
+The ex parte interdict (which failed to comply with Uniform Rule 6(4)(a) and 6(12)(b) regarding urgency and material disclosure) of 19 August 2025 was obtained through perjury and is a legal nullity. It was the key that unlocked the final phase of a long-planned criminal conspiracy to seize control of company assets.
 
 **The Founding Application as Instrument of Crime:**
 - Filed 14 August 2025 via Court Online at 08:16:25 SAST by Elliott Attorneys Inc. (Ref: KRE/MM/KF0019)

@@ -1,7 +1,7 @@
 # Entities Index
 
-**Last Updated:** 2026-03-07  
-**Total Entities:** 120+
+**Last Updated:** 2026-03-08  
+**Total Entities:** 120+ (reconciled across revstream1 + ad-res-j7 via LEX-RECON)
 
 This index catalogs all entities involved in Case 2025-137857: Revenue Stream Hijacking.
 
@@ -252,7 +252,7 @@ Danie Bantjies (PERSON_007) - SIX CONFLICTS
 
 ---
 
-*Last updated by LEX Investigation System: 2026-03-07*
+*Last updated by LEX-RECON Cross-Repository Reconciliation Engine: 2026-03-08*
 
 
 ### NEW: Ketoni Legal Network Entities (2026-03-07)

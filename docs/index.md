@@ -29,7 +29,6 @@ The ex parte interdict granted on 19 August 2025 is **void ab initio** (void fro
 | **Gayane (RegimA Employee)** | Employee | **B** | Active Participant with Proven Knowledge | **1** |
 | **Kent Gillham** | UK Operations Manager | **B** | Active Participant with Proven Knowledge | **1** |
 
-### The Eight Pillars & Patterns of Invalidity
 
 | # | Pillar / Pattern | Evidence | Proof |
 |---|---|---|---|
@@ -38,9 +37,14 @@ The ex parte interdict granted on 19 August 2025 is **void ab initio** (void fro
 | 3 | **Material Non-Disclosure** | Peter concealed the SOLE mandate, FNB letter, card sabotage, and R500K reimbursement context. | Application to Set Aside |
 | 4 | **Supporting Affidavit Fraud** | Bantjies received Daniel's fraud report on 6 June 2025, yet certified a false affidavit on 13 August 2025. | Perjury Reminder emails |
 | 5 | **Direct Admission w/ Concealment** | Peter admits cancelling Daniel's cards but conceals he did so secretly and without authority. | Peter's own affidavit |
-| 6 | **Fabrication of Evidence** | Fake 2019 accounts for a company name created in 2021; Peter signed as director for a year he wasn't appointed. | Rynette-De Novo emails |
-| 7 | **Weaponized Litigation** | Jacqui sued for "harassment" for trying to warn De Novo about the fake accounts; settlement clauses used to silence witnesses. | 3rd Urgent Application |
-| 8 | **RSA Mandate Fraud** | RegimA SA "ANY TWO TOGETHER" mandate — ABSA diversion without Daniel's required consent = forgery or perjury. | FNB RSA Mandate |
+| 6 | **Uniform Rule 6(4)(a) Violation** | The ex parte application failed to meet the stringent requirements for urgency and material disclosure. | Court Filings |
+| 7 | **Uniform Rule 30(1) Irregularity** | The proceedings constitute an irregular step subject to being set aside. | Court Filings |
+| 8 | **Uniform Rule 42(1)(a) Rescission** | The order was erroneously sought and granted in the absence of the affected party. | Court Filings |
+
+### Critical New Evidence (March 2026)
+- **EVENT_119:** Bantjies admission to "manufacture" SARS answer (Smoking Gun)
+- **EVENT_121:** 100+ banking detail change emails proving premeditated revenue hijacking
+- **EVENT_124:** Kaylovest/Villa Via dual corporate identity (1996/004451)
 
 ### The Contempt Application: Weaponizing a Void Order
 
@@ -278,20 +282,19 @@ The following documents, sent by Daniel Faucitt to Pottas Attorneys on 4 Februar
 
 ---
 
-## REFINED LEGAL FILINGS (2026-02-09 — Mailbox Evidence Integrated)
+## REFINED LEGAL FILINGS (2026-03-08 — LEX-RECON Reconciliation + Uniform Rules of Court)
 
-All legal filings have been reframed around the **void ab initio** finding and updated with evidence from the **MAT4719 founding application** (162 pages, 14 chapters) and the **mailbox analysis** (101,215 emails). The interdict was the keystone of the criminal enterprise; its invalidity exposes every subsequent act as naked criminality.
+All legal filings have been updated to **v8** incorporating the Bantjies-Farrar conspiracy network evidence, Kaylovest/Villa Via dual identity, and Uniform Rules of Court citations. The interdict is void ab initio under **Uniform Rule 42(1)(a)** for being erroneously sought and granted in the absence of the affected party.
 
 | Filing | Type | Burden | Latest Version |
 |---|---|---|---|
+| **Commercial Crime Submission** | Criminal | 95% EXCEEDED | **[View v8 (2026-03-08)](./filings/COMMERCIAL_CRIME_SUBMISSION_REFINED_2026_03_08_v8.md)** |
+| **CIPC Complaint** | Regulatory | 50% EXCEEDED | **[View v8 (2026-03-08)](./filings/CIPC_COMPLAINT_REFINED_2026_03_08_v8.md)** |
+| **POPIA Complaint** | Criminal | 95% EXCEEDED | **[View v8 (2026-03-08)](./filings/POPIA_COMPLAINT_REFINED_2026_03_08_v8.md)** |
+| **NPA Tax Fraud Report** | Criminal | 95% EXCEEDED | **[View v2.0 (2026-03-08)](./filings/npa_tax_fraud_report_REFINED_2026_03_08.md)** |
+| **FIC Suspicious Transaction Report** | Regulatory | EXCEEDED | **[View v8 (2026-03-08)](./filings/regulatory/FIC_SUSPICIOUS_TRANSACTION_REPORT_REFINED_2026_03_08_v8.md)** |
+| **Professional Misconduct Complaint** | Professional Body | EXCEEDED | **[View v8 (2026-03-08)](./filings/regulatory/PROFESSIONAL_MISCONDUCT_COMPLAINT_REFINED_2026_03_08_v8.md)** |
 | **FINAL Void Ab Initio Report** | Analysis | — | **[View (2026-02-09)](./filings/FINAL_VOID_AB_INITIO_REPORT_2026_02_09.md)** |
-| **Void Ab Initio Reassessment** | Analysis | — | **[View (2026-02-09)](./filings/VOID_AB_INITIO_REASSESSMENT_2026_02_09.md)** |
-| **CIPC Complaint** | Regulatory | 50% EXCEEDED | **[View v4 (2026-02-09)](./filings/CIPC_COMPLAINT_REFINED_2026_02_09_v4.md)** |
-| **POPIA Complaint** | Criminal | 95% EXCEEDED | **[View v4 (2026-02-09)](./filings/POPIA_COMPLAINT_REFINED_2026_02_09_v4.md)** |
-| **POPIA (Mailbox Evidence)** | Criminal | 95% EXCEEDED | **[View (2026-02-09)](./filings/POPIA_COMPLAINT_MAILBOX_EVIDENCE_2026_02_09.md)** |
-| **NPA Tax Fraud Report** | Criminal | 95% EXCEEDED | **[View v4 (2026-02-09)](./filings/NPA_TAX_FRAUD_REPORT_REFINED_2026_02_09_v4.md)** |
-| **Commercial Crime** | Criminal | 95% EXCEEDED | **[View v4 (2026-02-09)](./filings/COMMERCIAL_CRIME_SUBMISSION_REFINED_2026_02_09_v4.md)** |
-| **Commercial Crime (Mailbox Evidence)** | Criminal | 95% EXCEEDED | **[View (2026-02-09)](./filings/COMMERCIAL_CRIME_SUBMISSION_MAILBOX_EVIDENCE_2026_02_09.md)** |
 | **Civil Contempt Analysis** | Civil | 50% EXCEEDED | **[View (2026-02-09)](./filings/CIVIL_CONTEMPT_ANALYSIS_2026_02_09.md)** |
 
 ### Previous Versions

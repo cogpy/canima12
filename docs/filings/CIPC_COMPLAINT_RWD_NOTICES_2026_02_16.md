@@ -20,7 +20,7 @@ This document constitutes a formal complaint against Mr. Peter Andrew Faucitt, a
 
 The evidence, detailed in the attached Formal Notices **RWD/NOTICE/001** and **RWD/NOTICE/002**, proves a coordinated scheme of:
 
-*   **Fraud on the Court** to obtain an ex parte interdict through perjury and material non-disclosure.
+*   **Fraud on the Court** to obtain an ex parte interdict (which failed to comply with Uniform Rule 6(4)(a) and 6(12)(b) regarding urgency and material disclosure) through perjury and material non-disclosure.
 *   **Gross abuse of the position of director** (s162(5)(c)(i)).
 *   **Intentional infliction of harm upon the company** (s162(5)(c)(iii)).
 *   **Wilful misconduct and breach of trust** (s162(5)(c)(iv)(aa)).
@@ -45,13 +45,13 @@ The full details and evidence are contained in the annexed notices. The key poin
 
 ### 3.1. Fraud on the Court: The Void Ab Initio Interdict (Evidence: RWD/NOTICE/001)
 
-Mr. Faucitt obtained an ex parte interdict on 19 August 2025 by lying to the High Court. He swore under oath that his co-directors were making “unauthorized” transactions.
+Mr. Faucitt obtained an ex parte interdict (which failed to comply with Uniform Rule 6(4)(a) and 6(12)(b) regarding urgency and material disclosure) on 19 August 2025 by lying to the High Court. He swore under oath that his co-directors were making “unauthorized” transactions.
 
 *   **The Truth:** The Company’s own bank (FNB) records confirm that all directors held **SOLE independent signatory authority**. The concept of an “unauthorized” transaction by a co-director was a legal impossibility.
 *   **Provable Foreknowledge:** FNB’s own Legal Department had confirmed this SOLE mandate to Mr. Faucitt (via his agent, Rynette Farrar) in writing on **18 June 2025**, two months *before* he swore his affidavit. He committed perjury with provable knowledge.
 *   **Material Non-Disclosure:** He deliberately concealed the FNB SOLE mandate, the FNB legal letter, and the fact that he had sabotaged the business by cancelling his co-directors’ bank cards.
 
-This fraud renders the interdict, and all actions flowing from it, **void ab initio**.
+This fraud renders the interdict, and all actions flowing from it, **void ab initio (in terms of Uniform Rule 42(1)(a) for being erroneously sought and granted in the absence of the affected party)**.
 
 ### 3.2. Identity Misappropriation & Unauthorised Agency (Evidence: RWD/NOTICE/001)
 
@@ -65,7 +65,7 @@ Mr. Faucitt does not use electronic communication. All digital actions attribute
 Following the fraudulent interdict, Mr. Faucitt and his agents systematically destroyed the Company’s automated revenue pipeline.
 
 *   **Shopify Decommissioned:** The primary e-commerce platform was shut down (admitted by his attorneys on 12 Dec 2025), severing the main order intake channel.
-*   **Courier API Broken:** The automated fulfillment link between Shopify and The Courier Guy was broken. When a director attempted to restore it on 11 Feb 2026, he was threatened with contempt of court.
+*   **Courier API Broken:** The automated fulfillment link between Shopify and The Courier Guy was broken. When a director attempted to restore it on 11 Feb 2026, he was threatened with contempt of court (Uniform Rule 45A).
 *   **Revenue Diverted:** All revenue was moved from the transparent, auditable Shopify platform to an opaque Sage Pastel system controlled exclusively by Ms. Farrar.
 
 This constitutes a deliberate and malicious campaign of operational sabotage.

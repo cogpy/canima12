@@ -8,8 +8,8 @@
     "description": "Relation model for Revenue Stream Hijacking case 2025-137857",
     "case_number": "2025-137857",
     "modeling_approach": "hypergraph_compatible_relations",
-    "last_updated": "2026-02-09T04:52:00.000000",
-    "changes": "Integrated comprehensive mailbox evidence, exposing long-term financial control and infrastructure hijacking patterns."
+    "last_updated": "2026-03-08T16:10:00.000000",
+    "changes": "LEX-RECON reconciliation v2. Integrated Uniform Rules of Court citations, Kaylovest/Villa Via dual identity (EVENT_124), Bantjies manufacture admission (EVENT_119), 100+ banking change emails (EVENT_121), and Rynette-Bantjies conspiracy analysis (1,632 emails)."
   },
   "relations": {
     "ownership_relations": [
@@ -178,4 +178,20 @@
 This document outlines key relationships and communication patterns discovered through the analysis of the RegimA Exchange mailbox data.
 
 ### [Contempt Relations (2026-02-09)](./CONTEMPT_RELATIONS_2026_02_09.md)
-This document outlines the relationships relevant to the contempt of court application.
+This document outlines the relationships relevant to the contempt of court application (brought under Uniform Rule 45A).
+
+### [Rynette-Bantjies Conspiracy (2026-03-07)](./RYNETTE_BANTJIES_CONSPIRACY_2026_03_07.md)
+Comprehensive analysis of 1,632 email communications revealing the coordinated conspiracy between Rynette Farrar and Daniel Bantjies.
+
+### [Villa Via / Kaylovest Identity (2026-03-07)](./VILLA_VIA_KAYLOVEST_IDENTITY.md)
+Dual corporate identity discovery: Villa Via Arcadia No 2 CC and Kaylovest Three (Pty) Ltd share base registration number 1996/004451.
+
+### [Aymac / Kaylovest / Elliott Network (2026-03-07)](./AYMAC_KAYLOVEST_ELLIOTT_NETWORK.md)
+Triple corporate identity confusion across three entities controlled by Peter Faucitt.
+
+### [Forgery Backdating Relations (2026-02-18)](./FORGERY_BACKDATING_RELATIONS_2026_02_18.md)
+Two-date distinction between the 28 June 2024 trust amendment forgery and the 11 August 2025 backdated appointment.
+
+---
+
+*Last updated: 2026-03-08 | LEX-RECON Cross-Repository Reconciliation Engine*

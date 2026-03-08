@@ -12,7 +12,7 @@
 
 This refined complaint details systematic violations of the Protection of Personal Information Act, No. 4 of 2013 (POPIA), by Peter Andrew Faucitt and his co-conspirators. This version integrates evidence from the Contempt of Court Application filed on 4 February 2026, which provides additional proof of ongoing data protection violations and identity fraud.
 
-The contempt application strengthens the POPIA case because: (a) the removal of Oliver's work phone (PF17) constitutes unauthorized interference with personal data on a company device; (b) the body guard from Risk International attending the office daily (para 6.12) creates unauthorized access to employee personal information and client data at the Villa Via Arcadia coffee shop; and (c) the court order (PF12, para 2.8) specifically addresses the preservation of documentary and electronic records, and ongoing non-compliance constitutes a data protection violation.
+The contempt application (brought under Uniform Rule 45A) strengthens the POPIA case because: (a) the removal of Oliver's work phone (PF17) constitutes unauthorized interference with personal data on a company device; (b) the body guard from Risk International attending the office daily (para 6.12) creates unauthorized access to employee personal information and client data at the Villa Via Arcadia coffee shop; and (c) the court order (PF12, para 2.8) specifically addresses the preservation of documentary and electronic records, and ongoing non-compliance constitutes a data protection violation.
 
 ---
 
@@ -77,7 +77,7 @@ The following acts constitute obstruction of the Information Regulator's functio
 
 ### 4.1 Phone Removal (PF17)
 
-On 2 December 2025, Elliott Attorneys confirmed that Jacqueline's phone had been removed from Oliver's possession. While this is cited in the contempt application as a breach of the court order, it also constitutes a POPIA violation because:
+On 2 December 2025, Elliott Attorneys confirmed that Jacqueline's phone had been removed from Oliver's possession. While this is cited in the contempt application (brought under Uniform Rule 45A) as a breach of the court order, it also constitutes a POPIA violation because:
 
 - The work phone contained personal data of employees, clients, and business contacts
 - Removal of the phone from the authorized user constitutes unauthorized processing

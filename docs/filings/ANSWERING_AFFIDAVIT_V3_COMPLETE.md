@@ -35,7 +35,7 @@ The events complained of in the Applicant's founding affidavit occurred primaril
 
 This is the **third sequential interdict application** filed against the Respondents in the space of three months:
 
-- **Application 1:** August 13, 2025 (ex parte interdict)
+- **Application 1:** August 13, 2025 (ex parte interdict (which failed to comply with Uniform Rule 6(4)(a) and 6(12)(b) regarding urgency and material disclosure))
 - **Application 2:** October 2025 (settlement enforcement)
 - **Application 3:** November 4, 2025 (this application)
 

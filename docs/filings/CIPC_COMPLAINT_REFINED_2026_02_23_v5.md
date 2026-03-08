@@ -34,19 +34,19 @@ This document constitutes a formal complaint against Mr. Peter Andrew Faucitt, a
 The entire conspiracy hinges on two distinct, fraudulent acts separated by 14 months, proving long-term, premeditated intent:
 
 1.  **The Forgery (28 June 2024):** Rynette Farrar, acting as an agent for Peter Faucitt, forged his signature ("pp Peter") on a Faucitt Family Trust Amendment Resolution to unlawfully appoint D.J. Bantjies as a third trustee. This occurred just 10 days before the fraudulent takeover of the Sage Accounting system.
-2.  **The Backdating (11 August 2025):** Rynette Farrar emailed a backdated "Main Trustee" agreement to D.J. Bantjies, granting Peter Faucitt sole control of the trust. This was done just two days before Bantjies swore his false confirmatory affidavit in the ex parte interdict application.
+2.  **The Backdating (11 August 2025):** Rynette Farrar emailed a backdated "Main Trustee" agreement to D.J. Bantjies, granting Peter Faucitt sole control of the trust. This was done just two days before Bantjies swore his false confirmatory affidavit in the ex parte interdict (which failed to comply with Uniform Rule 6(4)(a) and 6(12)(b) regarding urgency and material disclosure) application.
 
 This two-date distinction proves a coordinated, multi-year conspiracy, not a series of isolated events.
 
 ### 3.2. Fraud on the Court: The Void Ab Initio Interdict
 
-Mr. Faucitt obtained an ex parte interdict on 19 August 2025 by lying to the High Court. He swore under oath that his co-directors were making “unauthorized” transactions.
+Mr. Faucitt obtained an ex parte interdict (which failed to comply with Uniform Rule 6(4)(a) and 6(12)(b) regarding urgency and material disclosure) on 19 August 2025 by lying to the High Court. He swore under oath that his co-directors were making “unauthorized” transactions.
 
 *   **The Truth:** The Company’s own bank (FNB) records confirm that all directors held **SOLE independent signatory authority**. The concept of an “unauthorized” transaction by a co-director was a legal impossibility.
 *   **Provable Foreknowledge:** FNB’s own Legal Department had confirmed this SOLE mandate to Mr. Faucitt (via his agent, Rynette Farrar) in writing on **18 June 2025**, two months *before* he swore his affidavit. He committed perjury with provable knowledge.
 *   **Material Non-Disclosure:** He deliberately concealed the FNB SOLE mandate, the FNB legal letter, and the fact that he had sabotaged the business by cancelling his co-directors’ bank cards.
 
-This fraud renders the interdict, and all actions flowing from it, **void ab initio**.
+This fraud renders the interdict, and all actions flowing from it, **void ab initio (in terms of Uniform Rule 42(1)(a) for being erroneously sought and granted in the absence of the affected party)**.
 
 ### 3.3. Deliberate Sabotage of Financial Systems (The Sage API Breakage)
 
@@ -71,7 +71,7 @@ Mr. Faucitt does not use electronic communication. All digital actions attribute
 Following the fraudulent interdict, Mr. Faucitt and his agents systematically destroyed the Company’s automated revenue pipeline.
 
 *   **Shopify Decommissioned:** The primary e-commerce platform was shut down (admitted by his attorneys on 12 Dec 2025), severing the main order intake channel.
-*   **Courier API Broken:** The automated fulfillment link between Shopify and The Courier Guy was broken. When a director attempted to restore it on 11 Feb 2026, he was threatened with contempt of court.
+*   **Courier API Broken:** The automated fulfillment link between Shopify and The Courier Guy was broken. When a director attempted to restore it on 11 Feb 2026, he was threatened with contempt of court (Uniform Rule 45A).
 *   **Revenue Diverted:** All revenue was moved from the transparent, auditable Shopify platform to an opaque Sage Pastel system controlled exclusively by Ms. Farrar.
 
 This constitutes a deliberate and malicious campaign of operational sabotage.

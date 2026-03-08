@@ -11,7 +11,7 @@
 
 ## EXECUTIVE SUMMARY
 
-This complaint seeks the immediate declaration of **Peter Andrew Faucitt** (ID: 520430 5708 18 5) as a delinquent director under Section 162 of the Companies Act 71 of 2008. This revised complaint introduces overwhelming evidence, including the **original founding application** (MAT4719, 162 pages, filed 14 August 2025 via Court Online at 08:16:25 SAST through Elliott Attorneys Inc., Ref: KRE/MM/KF0019), demonstrating that the ex parte interdict obtained on 19 August 2025 is **void ab initio** (void from the beginning), having been secured through calculated perjury, material non-disclosure, and fraud on the court.
+This complaint seeks the immediate declaration of **Peter Andrew Faucitt** (ID: 520430 5708 18 5) as a delinquent director under Section 162 of the Companies Act 71 of 2008. This revised complaint introduces overwhelming evidence, including the **original founding application** (MAT4719, 162 pages, filed 14 August 2025 via Court Online at 08:16:25 SAST through Elliott Attorneys Inc., Ref: KRE/MM/KF0019), demonstrating that the ex parte interdict (which failed to comply with Uniform Rule 6(4)(a) and 6(12)(b) regarding urgency and material disclosure) obtained on 19 August 2025 is **void ab initio (in terms of Uniform Rule 42(1)(a) for being erroneously sought and granted in the absence of the affected party)** (void from the beginning), having been secured through calculated perjury, material non-disclosure, and fraud on the court.
 
 The interdict was not a tool to prevent harm, but a **weapon to facilitate it**. It was fraudulently obtained to provide a legal smokescreen for the illegal extraction of **R10,624,131.18** from company accounts within eight days of the order. The subsequent Contempt of Court application against Jacqueline Faucitt (filed 4 February 2026) is a continuation of this abuse of process, weaponising a void order to persecute a legitimate director.
 
@@ -50,7 +50,7 @@ MAT4719 Annexure PF7 (pages 72–101) contains communications between Gayane Wil
 
 This evidence, submitted by Peter himself, directly contradicts his narrative of misappropriation.
 
-Because the interdict is void ab initio, all actions flowing from it, including the seizure of financial control and the subsequent contempt application, are illegal.
+Because the interdict is void ab initio (in terms of Uniform Rule 42(1)(a) for being erroneously sought and granted in the absence of the affected party), all actions flowing from it, including the seizure of financial control and the subsequent contempt application (brought under Uniform Rule 45A), are illegal.
 
 ---
 
@@ -81,7 +81,7 @@ Mr. Bantjies' actions make him a co-conspirator in the fraud on the court and su
 
 ## 4. EVIDENCE INDEX
 
-This complaint is supported by the full body of evidence in repositories `cogpy/revstream1` and `cogpy/ad-res-j7`, with the following documents being central to the *void ab initio* argument:
+This complaint is supported by the full body of evidence in repositories `cogpy/revstream1` and `cogpy/ad-res-j7`, with the following documents being central to the *void ab initio (in terms of Uniform Rule 42(1)(a) for being erroneously sought and granted in the absence of the affected party)* argument:
 
 | Document | Source | Significance |
 |---|---|---|

@@ -2,7 +2,7 @@
 
 **Case Reference:** 2025-137857-CIPC-VOID-AB-INITIO
 **Date:** 2026-02-09
-**Version:** v2 (incorporates void ab initio analysis)
+**Version:** v2 (incorporates void ab initio (in terms of Uniform Rule 42(1)(a) for being erroneously sought and granted in the absence of the affected party) analysis)
 
 **Burden of Proof Standard:** Balance of Probabilities (50%) — **EXCEEDED**
 **Criminal Threshold:** Beyond Reasonable Doubt (95%) — **EXCEEDED**
@@ -11,7 +11,7 @@
 
 ## EXECUTIVE SUMMARY
 
-This complaint seeks the immediate declaration of **Peter Andrew Faucitt** as a delinquent director under Section 162 of the Companies Act. This revised complaint introduces overwhelming evidence that the ex parte interdict obtained by Mr. Faucitt on 19 August 2025 is **void ab initio** (void from the beginning), having been secured through calculated perjury, material non-disclosure, and fraud on the court.
+This complaint seeks the immediate declaration of **Peter Andrew Faucitt** as a delinquent director under Section 162 of the Companies Act. This revised complaint introduces overwhelming evidence that the ex parte interdict (which failed to comply with Uniform Rule 6(4)(a) and 6(12)(b) regarding urgency and material disclosure) obtained by Mr. Faucitt on 19 August 2025 is **void ab initio (in terms of Uniform Rule 42(1)(a) for being erroneously sought and granted in the absence of the affected party)** (void from the beginning), having been secured through calculated perjury, material non-disclosure, and fraud on the court.
 
 The interdict was not a tool to prevent harm, but a **weapon to facilitate it**. It was fraudulently obtained to provide a legal smokescreen for the illegal extraction of **R10,624,131.18** from company accounts within eight days of the order. The subsequent Contempt of Court application against Jacqueline Faucitt is a continuation of this abuse of process, weaponizing a void order to persecute a legitimate director.
 
@@ -39,7 +39,7 @@ Mr. Faucitt deliberately concealed the following from the court:
 3.  That he had **sabotaged the business** by cancelling his co-directors' cards.
 4.  That the R500,000 payment he framed as "theft" was a **partial reimbursement** for over R520,000 in business expenses his co-director was forced to pay personally.
 
-Because the interdict is void ab initio, all actions flowing from it, including the seizure of financial control and the subsequent contempt application, are illegal.
+Because the interdict is void ab initio (in terms of Uniform Rule 42(1)(a) for being erroneously sought and granted in the absence of the affected party), all actions flowing from it, including the seizure of financial control and the subsequent contempt application (brought under Uniform Rule 45A), are illegal.
 
 ---
 
@@ -69,11 +69,11 @@ Mr. Bantjies' actions make him a co-conspirator in the fraud on the court and su
 
 ## 4. EVIDENCE INDEX
 
-This complaint is supported by the full body of evidence in repositories `cogpy/revstream1` and `cogpy/ad-res-j7`, with the following documents being central to the *void ab initio* argument:
+This complaint is supported by the full body of evidence in repositories `cogpy/revstream1` and `cogpy/ad-res-j7`, with the following documents being central to the *void ab initio (in terms of Uniform Rule 42(1)(a) for being erroneously sought and granted in the absence of the affected party)* argument:
 
 | Document | Significance |
 | :--- | :--- |
-| **Application to Set Aside Interdict** | Outlines the full legal argument for why the order is void ab initio. |
+| **Application to Set Aside Interdict** | Outlines the full legal argument for why the order is void ab initio (in terms of Uniform Rule 42(1)(a) for being erroneously sought and granted in the absence of the affected party). |
 | **FNB Sole Mandate Proof (RegimA & Strategic)** | Irrefutable proof that directors could act independently. |
 | **FNB Legal Letter (18 June 2025)** | Proves Peter Faucitt's foreknowledge and perjury. |
 | **Perjury Reminder Email Chains** | Proves Danie Bantjies' foreknowledge of fraud before he signed his supporting affidavit. |
