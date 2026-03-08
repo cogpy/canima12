@@ -153,3 +153,26 @@ All events are referenced relative to the **May 2026 Ketoni payout** (T-0):
 | **2024-07-10** | **Sage API Breakage & Framing Setup** | Rynette Farrar | **T-10** | **Deliberate sabotage of invoice API to create info vacuum and frame Daniel** | **[EVENT_110](./events/EVENT_110.md)** |
 | **2025-06-18** | **Discovery of 100+ Banking Detail Change Emails** | **Rynette Farrar, Linda** | **T-11** | **Proves massive, coordinated campaign to redirect revenue stream weeks before interdict** | **[EVENT_121](./events/EVENT_121.md)** |
 | **2026-03-07** | **Discovery of Dual Corporate Identity (Kaylovest/Villa Via)** | **Peter Faucitt** | **T-2** | **Kaylovest Three (Pty) Ltd shares exact base registration number with Villa Via CC, creating vehicle for asset shifting** | **[EVENT_124](./events/EVENT_124.md)** |
+
+---
+
+## Phase 5: February 2025 Intercompany Pipeline & SARS Verification (New - 2026-03-08)
+
+Forensic analysis of fincosys bank statement data cross-referenced with Exchange email evidence reveals a **systematic R2.65M intercompany pipeline** in February 2025, now under active SARS scrutiny. Rynette and Bantjies are documented discussing how to respond to SARS queries about "the two big inter company invoices."
+
+| Date | Event | Key Actors | Significance | Evidence |
+|---|---|---|---|---|
+| 2025-02-03 | RSA→RST R500,000 Transfer | Rynette (controller) | Largest single "Internet Trf To Transfer" in Feb 2025 pipeline | FIN-FEB25-001 |
+| 2025-02-04 | RSA→RST R400,000 Transfer | Rynette (controller) | Second largest transfer; R2.65M total outflows from RSA in Feb | FIN-FEB25-001 |
+| 2025-02-14 | RSA→RST R450,000 Transfer | Rynette (controller) | Continued pipeline; RST receives R2.96M "From Regima Sa" | FIN-FEB25-002 |
+| 2025-02-28 | **SARS Selects All Companies for Verification** | SARS, Rynette, Bantjies | Rynette emails Bantjies with SARS verification letters for RST, RWD, VVA, SLG | SARS-FEB25-005 |
+| 2025-03-31 | Bantjies Replies to RWWD SARS Query | Bantjies | Sends letter to SARS regarding RWD query | SARS-FEB25-008 |
+| 2025-05-29 | **RWD "Substantial Loss" Warning** | Rynette (pp Pete), Bantjies | Rynette warns SARS will audit RWD, deem losses "personal expenditure," and "cast wider net" | SARS-FEB25-006 |
+| 2025-06-03 | Bantjies Financial Analysis of RWD | Bantjies | Notes "several anomalies" in computer expenses; requests detail | SARS-FEB25-006 |
+| 2025-06-05 | **SARS Query Flagged by Anton Hechter** | Rynette, Anton Hechter | Anton flags missed SARS query for RST Feb 2025 VAT period | SARS-FEB25-004 |
+| 2025-06-05 | **"Two Big Inter Company Invoices" SARS Query** | Rynette, Bantjies | Rynette: "This seems to be questions re the two big inter company invoices that you have pushed through at the end of February" | SARS-FEB25-001 |
+| 2025-06-05 | **"Shocking Disclosures" - 7 Figures Missing** | Jacqui, Bantjies | Jacqui: "Danny has seen several anomalies... 7 figures is hectic... expenses cannot amount to what appears to be missing!!" | SARS-FEB25-007 |
+| 2025-06-06 | **Bantjies Deflects Responsibility** | Bantjies | "I ignored the correspondence, assuming you are dealing with it" | SARS-FEB25-002 |
+| 2025-06-06 | **Rynette Admits Invoices Created on Request** | Rynette, Bantjies | "The two big invoices were done on your request, for which I have no answer" | SARS-FEB25-003 |
+| 2025-06-17 | **Rynette Directs Loan Account Creation** | Rynette, De Novo (Marisca) | Instructs bookkeeper to create loan account within RSA for another company's expenses | SARS-FEB25-009 |
+| 2025-06-18 | **Rynette Allocates Expenses to Rezonance** | Rynette, De Novo | Instructs bookkeeper to post Coral/QuickBooks expenses to "Rezonance's loan account" | SARS-FEB25-010 |
