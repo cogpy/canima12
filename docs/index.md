@@ -431,3 +431,8 @@ For comprehensive supporting evidence, see the **[ad-res-j7 repository](https://
 | **2026-05** | **Ketoni payout due** | **T-0** |
 
 *Last Updated: 2026-03-08 — LEX-RECON Reconciliation + Bantjies-Farrar Conspiracy Network + Dual Corporate Identity (8 Pillars, 9 Agents, 18 Material Facts, 25 Knowledge Events, 112 Entities, 155+ Events)*
+
+## KL0034 Letter of Demand — Evidence Mapping
+A comprehensive analysis of the Elliott Attorneys Letter of Demand (KL0034) against the 1M+ email corpus reveals that **every single allegation** made by Jacqueline Faucitt is supported by extensive email evidence. The demand letter is therefore not a legitimate legal instrument but an attempt to suppress truthful testimony through legal intimidation.
+
+[View the full KL0034 Evidence Mapping Report](evidence/KL0034_EVIDENCE_MAPPING_2026_03_08.md)
