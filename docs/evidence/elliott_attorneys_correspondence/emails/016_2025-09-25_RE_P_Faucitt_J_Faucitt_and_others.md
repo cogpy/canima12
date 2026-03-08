@@ -1,0 +1,113 @@
+# Message 16: RE: P Faucitt / J Faucitt and others
+
+| Field | Value |
+|-------|-------|
+| **Message ID** | `<02ce01dc2de5$84a2e160$8de8a420$@elliottattorneys.co.za>` |
+| **Date** | 2025-09-25 06:27:47+00:00 |
+| **From** | Keegan Elliott <keegan@elliottattorneys.co.za> |
+| **To** | [{'emailAddress': {'name': "'Shenaaz Munga'", 'address': 'smunga@ensafrica.com'}}, {'emailAddress': {'name': "'Jacqui Faucitt'", 'address': 'jax@regima.zone'}}, {'emailAddress': {'name': "'Daniel J. Faucitt'", 'address': 'dan@regima.com'}}] |
+| **CC** | [{'emailAddress': {'name': "'Aslam Moosajee'", 'address': 'amoosajee@ensafrica.com'}}, {'emailAddress': {'name': "'Craig Shapiro'", 'address': 'cshapiro@ensafrica.com'}}, {'emailAddress': {'name': "'Carol Masego Makutu'", 'address': 'cmakutu@ensafrica.com'}}, {'emailAddress': {'name': "'Laurence Mort'", 'address': 'lmort@ensafrica.com'}}] |
+| **Importance** | normal |
+| **Has Attachments** | True |
+| **User ID** | b6ae9c76-b6d1-422e-a9f3-c9ee8d1aa697 |
+| **Conversation ID** | None |
+
+---
+
+## Body Content (html)
+
+Good morning,
+
+ 
+
+We confirm receipt of the notice of withdrawal.
+
+ 
+
+Kind regards,
+
+ 
+
+Keegan R. Elliott 
+
+(LLB) Attorney/Legal Practitioner
+
+Director
+
+Elliott Attorneys Inc
+
+Tel: 012 012 5067
+
+Cell: 081 740 2130
+
+Fax: 012 012 5068
+
+Web: www.elliottattorneys.co.za 
+
+Address: Office 12, Garsfontein Office Park, 645 Jacqueline Drive, Garsfontein, Pretoria
+
+Postal: Postnet Suite 326, Private Bag X20009, Garsfontein, 0042
+
+ 
+
+Kindly add our email addresses andor domain to your ‘safe senders’ list, in order to prevent any vital information being routed to your spam folder.
+
+ 
+
+The content of this email, as well as the attachments thereto, are confidential in nature and only intended for the specified recipients thereof. Should you receive this email in error, kindly notify our office immediately, and delete the email if the same was received in error – kindly refrain from reading same. This email is not to be copied, reproduced, or disseminated in any way. The content hereof, and/or of any attachments hereto is proprietary in nature, confidential, and may be subject to attorney client privilege. Elliott Attorneys cannot ensure that this email has remained virus free. Elliott Attorneys cannot ensure that this email has remained free of errors, and can further not guarantee that the same has remainded free of interference. To confirm any content, kindly contact Elliott Attorneys. Elliott Attorneys, and its representatives, do not accept responsibility for any loss arising from unauthorised access to, or interference with, any Internet communications by any third party, or from the transmission of any viruses, if any. Any information in this e-mail or its attachments is a result of the views of the author thereof, wherefore no liability will pass to Elliott Attorneys. Under the Protection of Personal Information Act(“POPIA”), we have a general duty to protect the information we process. We are committed to ensuring the security and protection of the personal information processed by Elliott Attorneys , however, cannot be held liable due to data breaches and/or information ‘leakages’ of whatsoever nature through the use of third parties, whom hold their own responsibility in terms of complying with POPIA. Third parties may include, but are not limted, to email service providers and exchanges, over which we carry no control.
+
+ 
+
+ 
+
+KINDLY NOTE THAT OUR TRUST ACCOUNT DETAILS REMAIN UNCHANGED. SHOULD ANY SUCH CORRESPONDENCE BE RECEIVED, KINDLY CONTACT OUR OFFICE TELEPHONICALLY TO CONFIRM THE VERACITY THEREOF.
+
+ 
+
+ 
+
+ 
+
+From: Shenaaz Munga <smunga@ensafrica.com> 
+Sent: Wednesday, 24 September 2025 14:08
+To: Keegan Elliott <keegan@elliottattorneys.co.za>; Jacqui Faucitt <jax@regima.zone>; Daniel J. Faucitt <dan@regima.com>
+Cc: Aslam Moosajee <amoosajee@ensafrica.com>; Craig Shapiro <cshapiro@ensafrica.com>; Carol Masego Makutu <cmakutu@ensafrica.com>; Laurence Mort <lmort@ensafrica.com>
+Subject: P Faucitt / J Faucitt and others
+
+ 
+
+Dear Sirs 
+
+ 
+
+We serve with this email a notice of withdrawal as attorneys of record in respect of the first and second respondents. 
+
+ 
+
+Yours faithfully
+
+ 
+
+Shenaaz Munga 
+
+Executive 
+
+Dispute Resolution 
+
++27 67 180 4706 
++27 11 269 7600 
+smunga@ensafrica.com 
+
+ENS locations 
+UNsubscribe | Privacy Policy | Be Alert 
+
+Before depositing funds, please call the person responsible for your matter to verify that the bank account you have on record is a legitimate bank account of ENS 
+
+Edward Nathan Sonnenbergs Incorporated registration number 2006/018200/21 
+level 1 B-BBEE rating 
+
+This email contains confidential information. It may also be legally privileged. Interception of this email is prohibited. The information contained in this email is only for the use of the intended recipient. If you are not the intended recipient, any disclosure, copying and/or distribution of the content of this email, or the taking of any action in reliance thereon, or pursuant thereto, is strictly prohibited. Should you have received this email in error, please notify us immediately by return email. ENSafrica (ENS and its affiliates) shall not be liable if any variation is effected to any document or correspondence emailed unless that variation has been approved in writing by the attorney dealing with the matter.
+
+---
+
+*Raw HTML body saved to: 016_2025-09-25_RE_P_Faucitt_J_Faucitt_and_others.html*

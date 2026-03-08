@@ -1,0 +1,139 @@
+[
+  {
+    "file": "ENS__0558631_Notice_of_withdrawal_as_attorneys_of_record_250924.pdf",
+    "type": "pdf",
+    "method": "pdftotext",
+    "text_file": "/home/ubuntu/elliott_downloads/ocr_output/ENS__0558631_Notice_of_withdrawal_as_attorneys_of_record_250924_pdftotext.txt",
+    "chars": 5317
+  },
+  {
+    "file": "ENS__0558631_Settlement_agreement_medical_testing_sgd.pdf",
+    "type": "pdf",
+    "method": "ocr",
+    "text_file": "/home/ubuntu/elliott_downloads/ocr_output/ENS__0558631_Settlement_agreement_medical_testing_sgd_ocr.txt",
+    "chars": 3826,
+    "pages": 4
+  },
+  {
+    "file": "ENS__0558631_Settlement_agreement_sgd.pdf",
+    "type": "pdf",
+    "method": "ocr",
+    "text_file": "/home/ubuntu/elliott_downloads/ocr_output/ENS__0558631_Settlement_agreement_sgd_ocr.txt",
+    "chars": 6051,
+    "pages": 5
+  },
+  {
+    "file": "ENS__ENSafricaJNB-129RivoniaRoad_38.pdf",
+    "type": "pdf",
+    "method": "pdftotext",
+    "text_file": "/home/ubuntu/elliott_downloads/ocr_output/ENS__ENSafricaJNB-129RivoniaRoad_38_pdftotext.txt",
+    "chars": 1709
+  },
+  {
+    "file": "ENS__J_and_D_Faucitt_250925.pdf",
+    "type": "pdf",
+    "method": "pdftotext",
+    "text_file": "/home/ubuntu/elliott_downloads/ocr_output/ENS__J_and_D_Faucitt_250925_pdftotext.txt",
+    "chars": 6499
+  },
+  {
+    "file": "Natan_at_ianlevitt_co_za__11. MAT4719 - Notice of Withdrawal as Attorneys of Record.pdf",
+    "type": "pdf",
+    "method": "pdftotext",
+    "text_file": "/home/ubuntu/elliott_downloads/ocr_output/Natan_at_ianlevitt_co_za__11. MAT4719 - Notice of Withdrawal as Attorneys of Record_pdftotext.txt",
+    "chars": 6488
+  },
+  {
+    "file": "Natan_at_ianlevitt_co_za__3. MAT4719 - 01.10.25 - WP Letter to KE.pdf",
+    "type": "pdf",
+    "method": "pdftotext",
+    "text_file": "/home/ubuntu/elliott_downloads/ocr_output/Natan_at_ianlevitt_co_za__3. MAT4719 - 01.10.25 - WP Letter to KE_pdftotext.txt",
+    "chars": 5779
+  },
+  {
+    "file": "Natan_at_ianlevitt_co_za__6. MAT4719 - 23.10.25 - Letter to KE IRO Payment.pdf",
+    "type": "pdf",
+    "method": "pdftotext",
+    "text_file": "/home/ubuntu/elliott_downloads/ocr_output/Natan_at_ianlevitt_co_za__6. MAT4719 - 23.10.25 - Letter to KE IRO Payment_pdftotext.txt",
+    "chars": 3319
+  },
+  {
+    "file": "Natan_at_ianlevitt_co_za__Outlook-signatureI.png",
+    "type": "image",
+    "method": "skipped",
+    "reason": "too small"
+  },
+  {
+    "file": "Natan_at_ianlevitt_co_za__image001.png",
+    "type": "image",
+    "method": "skipped",
+    "reason": "too small"
+  },
+  {
+    "file": "jax_at_regima_zone__CCE20250922_0007.jpg",
+    "type": "image",
+    "method": "ocr",
+    "text_file": "/home/ubuntu/elliott_downloads/ocr_output/jax_at_regima_zone__CCE20250922_0007_ocr.txt",
+    "chars": 1173
+  },
+  {
+    "file": "jax_at_regima_zone__CCE20250922_0008.jpg",
+    "type": "image",
+    "method": "ocr",
+    "text_file": "/home/ubuntu/elliott_downloads/ocr_output/jax_at_regima_zone__CCE20250922_0008_ocr.txt",
+    "chars": 1968
+  },
+  {
+    "file": "jax_at_regima_zone__CCE20250922_0009.jpg",
+    "type": "image",
+    "method": "ocr",
+    "text_file": "/home/ubuntu/elliott_downloads/ocr_output/jax_at_regima_zone__CCE20250922_0009_ocr.txt",
+    "chars": 1537
+  },
+  {
+    "file": "jax_at_regima_zone__CCE20250922_0010.jpg",
+    "type": "image",
+    "method": "ocr",
+    "text_file": "/home/ubuntu/elliott_downloads/ocr_output/jax_at_regima_zone__CCE20250922_0010_ocr.txt",
+    "chars": 1301
+  },
+  {
+    "file": "jax_at_regima_zone__CCE20250922_0011.jpg",
+    "type": "image",
+    "method": "ocr",
+    "text_file": "/home/ubuntu/elliott_downloads/ocr_output/jax_at_regima_zone__CCE20250922_0011_ocr.txt",
+    "chars": 281
+  },
+  {
+    "file": "keegan_at_elliottattorneys_co_za__image001.png",
+    "type": "image",
+    "method": "skipped",
+    "reason": "too small"
+  },
+  {
+    "file": "keegan_at_elliottattorneys_co_za__image002.png",
+    "type": "image",
+    "method": "skipped",
+    "reason": "too small"
+  },
+  {
+    "file": "keegan_at_elliottattorneys_co_za__image003.png",
+    "type": "image",
+    "method": "skipped",
+    "reason": "too small"
+  },
+  {
+    "file": "rudi_at_pottaslaw_co_za__image001.jpg",
+    "type": "image",
+    "method": "ocr",
+    "text_file": "/home/ubuntu/elliott_downloads/ocr_output/rudi_at_pottaslaw_co_za__image001_ocr.txt",
+    "chars": 219
+  },
+  {
+    "file": "smunga_at_ensafrica_com__0558631 Notice of withdrawal as attorneys of record 250924.pdf",
+    "type": "pdf",
+    "method": "pdftotext",
+    "text_file": "/home/ubuntu/elliott_downloads/ocr_output/smunga_at_ensafrica_com__0558631 Notice of withdrawal as attorneys of record 250924_pdftotext.txt",
+    "chars": 5317
+  }
+]

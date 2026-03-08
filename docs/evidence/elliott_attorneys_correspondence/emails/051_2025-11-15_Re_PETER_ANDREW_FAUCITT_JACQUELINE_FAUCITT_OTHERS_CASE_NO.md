@@ -1,0 +1,42 @@
+# Message 51: Re: PETER ANDREW FAUCITT / JACQUELINE FAUCITT & OTHERS // CASE NO: CASE NO: 2025-137857 | NOTICE OF WITHDRAWAL AS ATTORNEYS OF RECORD 
+
+| Field | Value |
+|-------|-------|
+| **Message ID** | `<0F58C315-07EE-4C48-829F-7999D58A731E@ianlevitt.co.za>` |
+| **Date** | 2025-11-15 16:54:30+00:00 |
+| **From** | Natan Back <Natan@ianlevitt.co.za> |
+| **To** | [{'name': 'Keegan Elliott', 'address': 'keegan@elliottattorneys.co.za'}] |
+| **CC** | [{'name': 'Ian Levitt', 'address': 'ian@ianlevitt.co.za'}, {'name': 'Jacqui Faucitt', 'address': 'jax@regima.zone'}, {'name': 'Daniel J. Faucitt', 'address': 'dan@regima.com'}, {'name': 'Loraine Roelofse', 'address': 'loraine@fhsn.co.za'}] |
+| **Importance** | normal |
+| **Has Attachments** | False |
+| **User ID** | 517a440a-17cd-4b62-b2f4-4fd03ae8d3c2 |
+| **Conversation ID** | AAQkAGM2Y2E0NWVmLWEzZTktNDc1Mi1iY2I4LTU3OTBlMTJhMTllNQAQAGfchs1ncKpDohK16eaQYN4= |
+
+---
+
+## Body Content (html)
+
+Dear Sirs,  
+Please note that same has been uploaded to CaseLines at section 010. 
+NATAN BACK
+CANDIDATE ATTORNEY
+ IAN LEVITT ATTORNEYS
+THE LEONARDO, OFFICE LEVEL 12,
+75 ON MAUDE STREET
+SANDTON, 2196
+DX 54 SANDTON SQUARE
+TEL: 011 784 3310 
+FAX TO EMAIL: 086 579 5368
+CONFIDENTIALITY NOTICE: 
+This email is intended solely for the recipient(s) to whom this email is addressed. This email is confidential in nature and may also contain information and / or attachments which may be legally privileged and exempt from disclosure. Any unauthorised access, disclosure, copying, or distribution of its contents is strictly prohibited. If you are not the intended recipient, please notify the sender immediately and delete this email from your system. 
+ 
+Ian Levitt Attorneys (“ILA”) will never send you an email about a change of the ILA banking details and/or information. This applies to emails and letters received on the company letterhead. Any email mentioning a change of the banking details is false, fraudulent and likely a scam. Kindly contact Linda Guyo at ILA immediately should you receive an email requiring you to effect payment to different account details as that is likely false, fraudulent, or an online phishing scam.
+On 14 Nov 2025, at 12:16, Keegan Elliott <keegan@elliottattorneys.co.za> wrote:Good afternoon, We confirm receipt of the underlying. Kindly confirm if same has been filed on caselines. Kind regards, Keegan R. Elliott (LLB) Attorney/Legal PractitionerDirector<image002.png>Elliott Attorneys IncTel: 012 012 5067Cell: 081 740 2130Fax: 012 012 5068Web: www.elliottattorneys.co.zaAddress: Office 12, Garsfontein Office Park, 645 Jacqueline Drive, Garsfontein, PretoriaPostal: Postnet Suite 326, Private Bag X20009, Garsfontein, 0042 Kindly add our email addresses andor domain to your ‘safe senders’ list, in order to prevent any vital information being routed to your spam folder. The content of this email, as well as the attachments thereto, are confidential in nature and only intended for the specified recipients thereof. Should you receive this email in error, kindly notify our office immediately, and delete the email if the same was received in error – kindly refrain from reading same. This email is not to be copied, reproduced, or disseminated in any way. The content hereof, and/or of any attachments hereto is proprietary in nature, confidential, and may be subject to attorney client privilege. Elliott Attorneys cannot ensure that this email has remained virus free. Elliott Attorneys cannot ensure that this email has remained free of errors, and can further not guarantee that the same has remainded free of interference. To confirm any content, kindly contact Elliott Attorneys. Elliott Attorneys, and its representatives, do not accept responsibility for any loss arising from unauthorised access to, or interference with, any Internet communications by any third party, or from the transmission of any viruses, if any. Any information in this e-mail or its attachments is a result of the views of the author thereof, wherefore no liability will pass to Elliott Attorneys. Under the Protection of Personal Information Act(“POPIA”), we have a general duty to protect the information we process. We are committed to ensuring the security and protection of the personal information processed by Elliott Attorneys , however, cannot be held liable due to data breaches and/or information ‘leakages’ of whatsoever nature through the use of third parties, whom hold their own responsibility in terms of complying with POPIA. Third parties may include, but are not limted, to email service providers and exchanges, over which we carry no control.  KINDLY NOTE THAT OUR TRUST ACCOUNT DETAILS REMAIN UNCHANGED. SHOULD ANY SUCH CORRESPONDENCE BE RECEIVED, KINDLY CONTACT OUR OFFICE TELEPHONICALLY TO CONFIRM THE VERACITY THEREOF.   From: Natan Back <Natan@ianlevitt.co.za> 
+Sent: Friday, 14 November 2025 09:58
+To: 'Keegan Elliott' <keegan@elliottattorneys.co.za>
+Cc: Ian Levitt <ian@ianlevitt.co.za>; Jacqui Faucitt <jax@regima.zone>; Daniel Faucitt <dan@regima.com>; Loraine Roelofse <loraine@fhsn.co.za>
+Subject: PETER ANDREW FAUCITT / JACQUELINE FAUCITT & OTHERS // CASE NO: CASE NO: 2025-137857 | NOTICE OF WITHDRAWAL AS ATTORNEYS OF RECORD  Dear Sirs,  PETER ANDREW FAUCITT / JACQUELINE FAUCITT & OTHERS CASE NO: CASE NO: 2025-137857 | NOTICE OF WITHDRAWAL AS ATTORNEYS OF RECORD Please find attached a notice of withdrawal as attorneys of record for the First and Second Respondent.  Kind regards, NATAN BACKCANDIDATE ATTORNEY <image003.png>IAN LEVITT ATTORNEYSTHE LEONARDO, OFFICE LEVEL 12,75 ON MAUDE STREETSANDTON, 2196DX 54 SANDTON SQUARETEL: 011 784 3310 FAX TO EMAIL: 086 579 5368www.ianlevitt.co.zaCONFIDENTIALITY NOTICE: This email is intended solely for the recipient(s) to whom this email is addressed. This email is confidential in nature and may also contain information and / or attachments which may be legally privileged and exempt from disclosure. Any unauthorised access, disclosure, copying, or distribution of its contents is strictly prohibited. If you are not the intended recipient, please notify the sender immediately and delete this email from your system.  Ian Levitt Attorneys (“ILA”) will never send you an email about a change of the ILA banking details and/or information. This applies to emails and letters received on the company letterhead. Any email mentioning a change of the banking details is false, fraudulent and likely a scam. Kindly contact Linda Guyo at ILA immediately should you receive an email requiring you to effect payment to different account details as that is likely false, fraudulent, or an online phishing scam.
+
+---
+
+*Raw HTML body saved to: 051_2025-11-15_Re_PETER_ANDREW_FAUCITT_JACQUELINE_FAUCITT_OTHERS_CASE_NO.html*
