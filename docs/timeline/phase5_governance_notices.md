@@ -39,3 +39,26 @@ The following Uniform Rules have been identified as directly applicable to the p
 ---
 
 *Created: 2026-03-08 | LEX-RECON Cross-Repository Reconciliation Engine*
+
+
+### February 2026: Coordinated Legal Escalation
+
+* **04 February 2026:** First contempt of court application filed by Peter Faucitt.
+* **09 February 2026:** Contempt application filed on Caselines (pocket 018). Sheriff attempts service (no response).
+* **10 February 2026:** Sheriff attempts service again (no response).
+* **11 February 2026:** Sheriff attempts service; Jax answers intercom and refuses entry.
+* **14 February 2026:** Divorce summons (Case 2026-034662) dated by Elliott Attorneys.
+* **16 February 2026:** Divorce summons filed electronically at 1:09 PM SAST.
+* **17 February 2026:** Contempt application served by affixing at 12:55 PM by Deputy Sheriff Mxolisi Malinga.
+* **23-24 February 2026:** Jax attends training at RegimA offices. Peter alleges she disrupted the session.
+* **25 February 2026:** Elliott Attorneys and Pottas Attorneys exchange correspondence regarding service issues.
+
+### March 2026: Urgent Contempt Application
+
+* **03 March 2026:** Peter's attorney sends correspondence regarding service.
+* **04 March 2026:** Peter claims stock is required to fulfill orders.
+* **05 March 2026:** Supplementary Urgent Contempt Application served (KF0019). Set down for 17 March 2026.
+* **06 March 2026:** Notification deadline for urgent application (passed).
+* **09 March 2026:** Rudi Pottas forwards urgent application to Jax, warning of potential incarceration.
+* **10 March 2026:** Deadline to file answering affidavit.
+* **17 March 2026:** Urgent contempt hearing scheduled at 10H00.

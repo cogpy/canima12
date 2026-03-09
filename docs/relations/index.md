@@ -195,3 +195,9 @@ Two-date distinction between the 28 June 2024 trust amendment forgery and the 11
 ---
 
 *Last updated: 2026-03-08 | LEX-RECON Cross-Repository Reconciliation Engine*
+
+
+### 4. Employee Collusion (KF0019 Evidence)
+* **Rynette Farrar & Peter Faucitt:** Farrar provided confirmatory affidavit (PF19) supporting Peter's contempt application against Jax.
+* **Gayane Williams & Peter Faucitt:** Williams provided confirmatory affidavit (PF20) supporting Peter's contempt application against Jax.
+* **Oliver Mphande & Peter Faucitt:** Mphande provided stock sheets (PF18) to Peter while Peter was attempting to assert control over Jax's business.
