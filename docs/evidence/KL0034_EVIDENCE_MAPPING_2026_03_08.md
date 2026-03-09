@@ -10,21 +10,21 @@
 
 ## Executive Summary
 
-Elliott Attorneys issued a Letter of Demand (KL0034) on behalf of Rynette Farrar, demanding retraction and apology for seven specific allegations made in Jacqueline Faucitt's answering affidavit. A comprehensive deep search of the email corpus (1,070,000+ emails in Neon PostgreSQL) reveals that **every single allegation made by Jacqueline is supported by extensive, irrefutable email evidence**. The demand letter is therefore not a legitimate legal instrument but an attempt to suppress truthful testimony through legal intimidation.
+Elliott Attorneys issued a Letter of Demand (KL0034) on behalf of Rynette Farrar, demanding retraction and apology for seven specific allegations made in Jacqueline Faucitt's answering affidavit. A comprehensive search of the email corpus (1,070,000+ emails in Neon PostgreSQL) reveals that **every single allegation made by Jacqueline is supported by extensive, irrefutable email evidence**. The demand letter is therefore not a legitimate legal instrument but an attempt to suppress truthful testimony through legal intimidation.
 
 ### Summary Statistics
 
 | Metric | Count |
 |--------|-------|
-| Rynette total emails in corpus | **68,768** |
+| Rynette total emails in corpus | **68,765** |
 | Emails from rynette@regimaskin.co.za | **511** |
-| Emails from rynette@regima.zone | **68,141** |
+| Emails from rynette@regima.zone | **68,139** |
 | All emails from @regimaskin.co.za domain | **2,723** |
-| Emails mentioning ABSA | **2,685** |
+| Emails mentioning ABSA | **2,801** |
+| Emails mentioning regimaskin | **3,898** |
+| Emails mentioning Addarory/Adderory | **176** |
 | Banking detail change emails | **447** |
-| Emails mentioning Addarory/Adderory | **127** |
-| Emails about mandates/signatories | **133** |
-| Emails from orders@regimaskin.co.za | **1,158** |
+| Stock-related emails | **17,530** |
 
 ---
 
@@ -44,6 +44,7 @@ Elliott Attorneys issued a Letter of Demand (KL0034) on behalf of Rynette Farrar
 | Rynette email "ABSA accounts" to Jax | 2025-10-17 | rynette@regimaskin.co.za | Subject line directly references the ABSA accounts |
 | Rynette providing ABSA account numbers | 2025-04-11 | rynette@regima.zone | *"The WWD ABSA account is 411 231 8747"* |
 | 447 banking detail change emails | 2025-06-18 onwards | Multiple senders | Massive coordinated campaign to redirect payments |
+| Rynette confirming banking details with Azelis (supplier) | 2025-09-18 | Azelis to rynette@regimaskin.co.za | "Updated banking details" — suppliers also redirected |
 
 **Key Evidence:** The sheer volume (447 banking detail change emails) proves this was not an isolated incident but a **premeditated, coordinated campaign** to redirect the entire revenue stream.
 
@@ -61,6 +62,7 @@ Elliott Attorneys issued a Letter of Demand (KL0034) on behalf of Rynette Farrar
 | Rynette controlling mandate process | 2025-03-07 | rynette@regima.zone | *"Your can draw up die mandates for Jax, Pete and Danny to sign"* |
 | Rynette confirming "that was what Pete instructed us to do" | 2025-10-06 | rynette@regimaskin.co.za | Explicit admission that she took instructions from Peter regarding customer statements |
 | Rynette shifting blame to Peter | 2025-10-01 | rynette@regimaskin.co.za | *"I was instructed by the other director PA Faucitt to submit the relevant information"* |
+| FNB/ABSA mandate and sole authority | Various | Multiple | 8 emails specifically about "sole authority" and mandate changes |
 
 **Key Evidence:** Rynette's own email on 6 October 2025 states: *"Yes we know, as that was what Pete instructed us to do"* — confirming she took instructions from Peter (the applicant) regarding financial matters, exactly as alleged.
 
@@ -89,7 +91,7 @@ Elliott Attorneys issued a Letter of Demand (KL0034) on behalf of Rynette Farrar
 
 > *"Accuses our client (through Addarory (Pty) Ltd and the domain regimaskin.co.za) of competing unlawfully with the respondent companies, and doing so while employed as bookkeeper."*
 
-**VERDICT: PROVEN TRUE — 127 Addarory emails + "TAKE DOWN YOUR ADDARORY" exchange**
+**VERDICT: PROVEN TRUE — 176 Addarory emails + "TAKE DOWN YOUR ADDARORY" exchange**
 
 | Evidence | Date | Source | Detail |
 |----------|------|--------|--------|
@@ -97,6 +99,8 @@ Elliott Attorneys issued a Letter of Demand (KL0034) on behalf of Rynette Farrar
 | Rynette routing payments through Addarory | 2023-02-15 | rynette@regima.zone | *"Do you want me to do it on Addarory, and then I will just give you the total to transfer?"* |
 | "TAKE DOWN YOUR ADDARORY" confrontation | 2025-10-10 | jax@regima.zone to rynette@regimaskin.co.za | Jax: "TAKE IT DOWN IF YOU WORK FOR REGIMA" — Rynette responds: "I ASKED YOU ON WHICH REGIMA SITE?" |
 | Rynette operating from @regimaskin.co.za while bookkeeper | 2025-2026 | rynette@regimaskin.co.za | 511 emails from competing domain while employed as bookkeeper |
+| Gayane sending stockist pricelists from @regimaskin.co.za | 2025-10-08 | gayane@regimaskin.co.za | Sending RegimA stockist pricelists from the competing domain |
+| admin@regimaskin.co.za hosting RegimA training | 2026-01-16 | admin@regimaskin.co.za | "RegimA Head Office Training 23 & 24 February 2026" — using the competing domain for official training |
 
 **Key Evidence:** Rynette's email on 8 October 2024 is a smoking gun admission: *"Darren, my son is the director of the company, and I'm doing all the admin and finances for Addarory at this stage."* This proves she was running the finances for a competing supplier while simultaneously acting as bookkeeper for RegimA.
 
@@ -113,6 +117,8 @@ Elliott Attorneys issued a Letter of Demand (KL0034) on behalf of Rynette Farrar
 | orders@regimaskin.co.za taking customer orders | 2025-2026 | orders@regimaskin.co.za | Processing orders from external customers (Yolanda, Karen's Beauty, Legends Northcliff, Body Sense, Blink Artistry) |
 | el@regimaskin.co.za demanding payment to new accounts | 2026-02-05 | el@regimaskin.co.za | *"a valid bank payment notification reflecting the Head Office bank details is required"* |
 | Rynette enforcing court order | 2025-11-04 | rynette@regimaskin.co.za | *"ALL OF US IN THE OFFICE WILL ABIDE BY THE COURT ORDER RECEIVED AND NOBODY'S ELSE'S ORDERS"* |
+| Rynette instructing staff to redirect customers | 2026-01-19 | rynette@regimaskin.co.za | "give people our correct email addresses" — redirecting to @regimaskin.co.za |
+| Sharon Nortje (Cape Town) receiving pricelists from @regimaskin.co.za | 2025-10-08 | gayane@regimaskin.co.za | Cape Town distributor receiving business from competing domain |
 
 **Key Evidence:** The combination of orders@regimaskin.co.za processing customer orders AND Rynette instructing staff to redirect customers to @regimaskin.co.za proves active, ongoing pilfering of business opportunities.
 
@@ -129,6 +135,7 @@ Elliott Attorneys issued a Letter of Demand (KL0034) on behalf of Rynette Farrar
 | admin@regimaskin.co.za hosting "RegimA Head Office Training" | 2026-01-16 | admin@regimaskin.co.za | Using RegimA brand name for training events from competing domain |
 | linda@regimaskin.co.za sending "Customer Statements from RegimA Skin Treatments CC" | 2026-01 to 2026-02 | linda@regimaskin.co.za | Using the official CC name from the competing domain |
 | Autoresponse from @regimaskin.co.za using "RégimA Skin Treatments" branding | 2025-12-28 | rynette@regimaskin.co.za | Full RegimA branding in autoresponse from competing domain |
+| Brand-related emails involving Rynette | Various | Multiple | 30 emails about brand, photos, and social media |
 
 **Key Evidence:** The autoresponse from rynette@regimaskin.co.za (28 December 2025) uses the full "RégimA Skin Treatments" branding, including the official phone number and address, creating a false affiliation between the competing regimaskin.co.za domain and the legitimate RegimA business.
 
@@ -146,6 +153,7 @@ Elliott Attorneys issued a Letter of Demand (KL0034) on behalf of Rynette Farrar
 | Addarory massive payments | 2022-10-18 | rynette@regima.zone | *"Addarory total is R1,216,740.25"* |
 | Addarory containers payment | 2024-10-21 | rynette@regima.zone | *"Pete has approved the next lot of containers that we need from Addarory... The total is R1,388,883.75"* |
 | Addarory bank details sent by Rynette | 2024-12-03 | rynette@regima.zone | FNB Branch New Market, Code 250655, Acc 629 005 967 11 |
+| 17,530 stock-related emails total | Various | Multiple | Massive volume of stock-related communications |
 
 **Key Evidence:** The 2025 trial balance of Strategic Logistics Group reveals a catastrophic R5.4M "stock adjustment" loss. Rynette admitted to performing these adjustments herself. Simultaneously, Addarory (owned by her son Darren Dennis Farrar, with finances controlled by Rynette) was supplying the exact same types of raw materials back to RegimA, receiving millions of Rands in payments. This proves the "risk" of stock theft was actually an ongoing, multi-million Rand circular fraud.
 
