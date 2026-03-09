@@ -1,0 +1,668 @@
+[
+  {
+    "allegation": "A1_Payment_Diversion",
+    "description": "orders_regimaskin_banking_details_changed",
+    "file": "/home/ubuntu/evidence_eml/A1_Payment_Diversion/2025-08-29_orders_at_regimaskin_co_za_orders_regimaskin_banking_details_changed.eml",
+    "date": "2025-08-29",
+    "sender": "orders@regimaskin.co.za",
+    "subject": "Proforma Invoice IO100291",
+    "db_id": "AQMkAGM2Y2E0NWVmLWEzZTktNDc1Mi1iY2I4LTU3OTBlMTJhMTllNQBGAAADPe59AHjuz0_HJe8Q4ALb1wcAtr3q_CoE-0aRl7m1844EjgAAAgEMAAAAtr3q_CoE-0aRl7m1844EjgAKOh93PgAAAA=="
+  },
+  {
+    "allegation": "A1_Payment_Diversion",
+    "description": "orders_regimaskin_banking_details_changed",
+    "file": "/home/ubuntu/evidence_eml/A1_Payment_Diversion/2025-08-29_orders_at_regimaskin_co_za_orders_regimaskin_banking_details_changed_2.eml",
+    "date": "2025-08-29",
+    "sender": "orders@regimaskin.co.za",
+    "subject": "RE: Aug 2025",
+    "db_id": "AQMkAGM2Y2E0NWVmLWEzZTktNDc1Mi1iY2I4LTU3OTBlMTJhMTllNQBGAAADPe59AHjuz0_HJe8Q4ALb1wcAtr3q_CoE-0aRl7m1844EjgAAAgEMAAAAtr3q_CoE-0aRl7m1844EjgAKOh93PAAAAA=="
+  },
+  {
+    "allegation": "A1_Payment_Diversion",
+    "description": "orders_regimaskin_banking_details_changed",
+    "file": "/home/ubuntu/evidence_eml/A1_Payment_Diversion/2025-08-29_orders_at_regimaskin_co_za_orders_regimaskin_banking_details_changed_3.eml",
+    "date": "2025-08-29",
+    "sender": "orders@regimaskin.co.za",
+    "subject": "Proforma Invoice IO100285",
+    "db_id": "AQMkAGM2Y2E0NWVmLWEzZTktNDc1Mi1iY2I4LTU3OTBlMTJhMTllNQBGAAADPe59AHjuz0_HJe8Q4ALb1wcAtr3q_CoE-0aRl7m1844EjgAAAgEMAAAAtr3q_CoE-0aRl7m1844EjgAKOh93NAAAAA=="
+  },
+  {
+    "allegation": "A1_Payment_Diversion",
+    "description": "orders_regimaskin_banking_details_changed",
+    "file": "/home/ubuntu/evidence_eml/A1_Payment_Diversion/2025-08-29_orders_at_regimaskin_co_za_orders_regimaskin_banking_details_changed_4.eml",
+    "date": "2025-08-29",
+    "sender": "orders@regimaskin.co.za",
+    "subject": "RE: Order",
+    "db_id": "AQMkAGM2Y2E0NWVmLWEzZTktNDc1Mi1iY2I4LTU3OTBlMTJhMTllNQBGAAADPe59AHjuz0_HJe8Q4ALb1wcAtr3q_CoE-0aRl7m1844EjgAAAgEMAAAAtr3q_CoE-0aRl7m1844EjgAKOh93MAAAAA=="
+  },
+  {
+    "allegation": "A1_Payment_Diversion",
+    "description": "orders_regimaskin_banking_details_changed",
+    "file": "/home/ubuntu/evidence_eml/A1_Payment_Diversion/2025-08-29_orders_at_regimaskin_co_za_orders_regimaskin_banking_details_changed_5.eml",
+    "date": "2025-08-29",
+    "sender": "orders@regimaskin.co.za",
+    "subject": "RE: Order",
+    "db_id": "AQMkAGM2Y2E0NWVmLWEzZTktNDc1Mi1iY2I4LTU3OTBlMTJhMTllNQBGAAADPe59AHjuz0_HJe8Q4ALb1wcAtr3q_CoE-0aRl7m1844EjgAAAgEMAAAAtr3q_CoE-0aRl7m1844EjgAKOh93LwAAAA=="
+  },
+  {
+    "allegation": "A1_Payment_Diversion",
+    "description": "kent_new_banking_details_customers",
+    "file": "/home/ubuntu/evidence_eml/A1_Payment_Diversion/2025-07-17_kent_at_regimaskin_co_za_kent_new_banking_details_customers.eml",
+    "date": "2025-07-17",
+    "sender": "kent@regimaskin.co.za",
+    "subject": "RE: Final Proforma Invoice & Updated Banking Details",
+    "db_id": "AQMkAGM2Y2E0NWVmLWEzZTktNDc1Mi1iY2I4LTU3OTBlMTJhMTllNQBGAAADPe59AHjuz0_HJe8Q4ALb1wcAtr3q_CoE-0aRl7m1844EjgAAAgEMAAAAtr3q_CoE-0aRl7m1844EjgAKHkNk5QAAAA=="
+  },
+  {
+    "allegation": "A1_Payment_Diversion",
+    "description": "kent_new_banking_details_customers",
+    "file": "/home/ubuntu/evidence_eml/A1_Payment_Diversion/2025-07-16_kent_at_regimaskin_co_za_kent_new_banking_details_customers_2.eml",
+    "date": "2025-07-16",
+    "sender": "kent@regimaskin.co.za",
+    "subject": "RE: Final Proforma Invoice & Updated Banking Details",
+    "db_id": "AQMkAGM2Y2E0NWVmLWEzZTktNDc1Mi1iY2I4LTU3OTBlMTJhMTllNQBGAAADPe59AHjuz0_HJe8Q4ALb1wcAtr3q_CoE-0aRl7m1844EjgAAAgEMAAAAtr3q_CoE-0aRl7m1844EjgAKHkNkOAAAAA=="
+  },
+  {
+    "allegation": "A1_Payment_Diversion",
+    "description": "kent_new_banking_details_customers",
+    "file": "/home/ubuntu/evidence_eml/A1_Payment_Diversion/2025-06-10_kent_at_regima_zone_kent_new_banking_details_customers_3.eml",
+    "date": "2025-06-10",
+    "sender": "kent@regima.zone",
+    "subject": "Letter of change of banking details",
+    "db_id": "AAMkADMxMzkyY2FlLWNkMGEtNGM2My04OWFiLTNlZDRjNzkyNGUyMwBGAAAAAABIsq-8QjwARI3ssx6PhE4uBwAjJKKwT3w2RaZw2KOPO0ZiAABTCcFLAAAjJKKwT3w2RaZw2KOPO0ZiAAOK8wtkAAA="
+  },
+  {
+    "allegation": "A1_Payment_Diversion",
+    "description": "kent_new_banking_details_customers",
+    "file": "/home/ubuntu/evidence_eml/A1_Payment_Diversion/2025-06-10_kent_at_regima_zone_kent_new_banking_details_customers_4.eml",
+    "date": "2025-06-10",
+    "sender": "kent@regima.zone",
+    "subject": "Letter of change of banking details",
+    "db_id": "AAMkADA0ZmNiYjNmLWNjNWQtNDJiMC1hMTlhLTk2N2UzZTNiNGI4MgBGAAAAAACkH5H8ZPopSpNMlpQ3UIOCBwBumSHb9oSTQbtTOG8h6tc5AAAAAAEJAABumSHb9oSTQbtTOG8h6tc5AAZK8ux_AAA="
+  },
+  {
+    "allegation": "A1_Payment_Diversion",
+    "description": "kent_new_banking_details_customers",
+    "file": "/home/ubuntu/evidence_eml/A1_Payment_Diversion/2025-06-10_kent_at_regima_zone_kent_new_banking_details_customers_5.eml",
+    "date": "2025-06-10",
+    "sender": "kent@regima.zone",
+    "subject": "Letter of change of banking details",
+    "db_id": "AAMkADA0ZmNiYjNmLWNjNWQtNDJiMC1hMTlhLTk2N2UzZTNiNGI4MgBGAAAAAACkH5H8ZPopSpNMlpQ3UIOCBwBumSHb9oSTQbtTOG8h6tc5AAAAAFNsAABumSHb9oSTQbtTOG8h6tc5AAcuu0xUAAA="
+  },
+  {
+    "allegation": "A1_Payment_Diversion",
+    "description": "linda_bank_queries_regimaskin",
+    "file": "/home/ubuntu/evidence_eml/A1_Payment_Diversion/2025-09-30_linda_at_regimaskin_co_za_linda_bank_queries_regimaskin.eml",
+    "date": "2025-09-30",
+    "sender": "linda@regimaskin.co.za",
+    "subject": "WWD  Bank Queries 30 September 2025",
+    "db_id": "AQMkAGM2Y2E0NWVmLWEzZTktNDc1Mi1iY2I4LTU3OTBlMTJhMTllNQBGAAADPe59AHjuz0_HJe8Q4ALb1wcAtr3q_CoE-0aRl7m1844EjgAAAgEMAAAAtr3q_CoE-0aRl7m1844EjgAKUc76tgAAAA=="
+  },
+  {
+    "allegation": "A1_Payment_Diversion",
+    "description": "linda_bank_queries_regimaskin",
+    "file": "/home/ubuntu/evidence_eml/A1_Payment_Diversion/2025-09-29_linda_at_regimaskin_co_za_linda_bank_queries_regimaskin_2.eml",
+    "date": "2025-09-29",
+    "sender": "linda@regimaskin.co.za",
+    "subject": "Cape Town Bank Queries 29 September2025",
+    "db_id": "AQMkAGM2Y2E0NWVmLWEzZTktNDc1Mi1iY2I4LTU3OTBlMTJhMTllNQBGAAADPe59AHjuz0_HJe8Q4ALb1wcAtr3q_CoE-0aRl7m1844EjgAAAgEMAAAAtr3q_CoE-0aRl7m1844EjgAKUc76PAAAAA=="
+  },
+  {
+    "allegation": "A1_Payment_Diversion",
+    "description": "linda_bank_queries_regimaskin",
+    "file": "/home/ubuntu/evidence_eml/A1_Payment_Diversion/2025-09-26_linda_at_regimaskin_co_za_linda_bank_queries_regimaskin_3.eml",
+    "date": "2025-09-26",
+    "sender": "linda@regimaskin.co.za",
+    "subject": "WWD Bank Queries",
+    "db_id": "AQMkAGM2Y2E0NWVmLWEzZTktNDc1Mi1iY2I4LTU3OTBlMTJhMTllNQBGAAADPe59AHjuz0_HJe8Q4ALb1wcAtr3q_CoE-0aRl7m1844EjgAAAgEMAAAAtr3q_CoE-0aRl7m1844EjgAKTvgf4wAAAA=="
+  },
+  {
+    "allegation": "A1_Payment_Diversion",
+    "description": "linda_bank_queries_regimaskin",
+    "file": "/home/ubuntu/evidence_eml/A1_Payment_Diversion/2025-09-26_linda_at_regimaskin_co_za_linda_bank_queries_regimaskin_4.eml",
+    "date": "2025-09-26",
+    "sender": "linda@regimaskin.co.za",
+    "subject": "Cape Town Bank Queries 26 September 2025",
+    "db_id": "AQMkAGM2Y2E0NWVmLWEzZTktNDc1Mi1iY2I4LTU3OTBlMTJhMTllNQBGAAADPe59AHjuz0_HJe8Q4ALb1wcAtr3q_CoE-0aRl7m1844EjgAAAgEMAAAAtr3q_CoE-0aRl7m1844EjgAKTvgf2gAAAA=="
+  },
+  {
+    "allegation": "A1_Payment_Diversion",
+    "description": "linda_bank_queries_regimaskin",
+    "file": "/home/ubuntu/evidence_eml/A1_Payment_Diversion/2025-09-25_linda_at_regimaskin_co_za_linda_bank_queries_regimaskin_5.eml",
+    "date": "2025-09-25",
+    "sender": "linda@regimaskin.co.za",
+    "subject": "WWD Bank Queries 25 September 2025",
+    "db_id": "AQMkAGM2Y2E0NWVmLWEzZTktNDc1Mi1iY2I4LTU3OTBlMTJhMTllNQBGAAADPe59AHjuz0_HJe8Q4ALb1wcAtr3q_CoE-0aRl7m1844EjgAAAgEMAAAAtr3q_CoE-0aRl7m1844EjgAKTvgfnQAAAA=="
+  },
+  {
+    "allegation": "A1_Payment_Diversion",
+    "description": "rynette_ABSA_accounts_to_jax",
+    "file": "/home/ubuntu/evidence_eml/A1_Payment_Diversion/2025-11-14_rynette_at_regimaskin_co_za_rynette_ABSA_accounts_to_jax.eml",
+    "date": "2025-11-14",
+    "sender": "rynette@regimaskin.co.za",
+    "subject": "ABSA Accounts",
+    "db_id": "AQMkAGM2Y2E0NWVmLWEzZTktNDc1Mi1iY2I4LTU3OTBlMTJhMTllNQBGAAADPe59AHjuz0_HJe8Q4ALb1wcAtr3q_CoE-0aRl7m1844EjgAAAgEMAAAAtr3q_CoE-0aRl7m1844EjgAKb8_mLwAAAA=="
+  },
+  {
+    "allegation": "A1_Payment_Diversion",
+    "description": "rynette_ABSA_accounts_to_jax",
+    "file": "/home/ubuntu/evidence_eml/A1_Payment_Diversion/2025-10-24_rynette_at_regimaskin_co_za_rynette_ABSA_accounts_to_jax_2.eml",
+    "date": "2025-10-24",
+    "sender": "rynette@regimaskin.co.za",
+    "subject": "ABSA accounts",
+    "db_id": "AQMkAGM2Y2E0NWVmLWEzZTktNDc1Mi1iY2I4LTU3OTBlMTJhMTllNQBGAAADPe59AHjuz0_HJe8Q4ALb1wcAtr3q_CoE-0aRl7m1844EjgAAAgEMAAAAtr3q_CoE-0aRl7m1844EjgAKYm7v2gAAAA=="
+  },
+  {
+    "allegation": "A1_Payment_Diversion",
+    "description": "rynette_ABSA_accounts_to_jax",
+    "file": "/home/ubuntu/evidence_eml/A1_Payment_Diversion/2025-07-07_rynette_at_regimaskin_co_za_rynette_ABSA_accounts_to_jax_3.eml",
+    "date": "2025-07-07",
+    "sender": "rynette@regimaskin.co.za",
+    "subject": "RE: Invoice 12157 from Gator Secure  (NOTE: ABSA account is closed do not use)",
+    "db_id": "AQMkAGM2Y2E0NWVmLWEzZTktNDc1Mi1iY2I4LTU3OTBlMTJhMTllNQBGAAADPe59AHjuz0_HJe8Q4ALb1wcAtr3q_CoE-0aRl7m1844EjgAAAgEMAAAAtr3q_CoE-0aRl7m1844EjgAKGK6g-QAAAA=="
+  },
+  {
+    "allegation": "A1_Payment_Diversion",
+    "description": "azelis_updated_banking_details",
+    "file": "/home/ubuntu/evidence_eml/A1_Payment_Diversion/2025-09-18_Petunia_Dintwe_at_azelis_com_azelis_updated_banking_details.eml",
+    "date": "2025-09-18",
+    "sender": "Petunia.Dintwe@azelis.com",
+    "subject": "Updated banking details: [External] RE: Backorder follow up- SPO30471 Aerosil R972",
+    "db_id": "AQMkAGM2Y2E0NWVmLWEzZTktNDc1Mi1iY2I4LTU3OTBlMTJhMTllNQBGAAADPe59AHjuz0_HJe8Q4ALb1wcAtr3q_CoE-0aRl7m1844EjgAAAgEMAAAAtr3q_CoE-0aRl7m1844EjgAKRbtvzAAAAA=="
+  },
+  {
+    "allegation": "A2_Bank_Control",
+    "description": "rynette_mandates_ABSA_kulani",
+    "file": "/home/ubuntu/evidence_eml/A2_Bank_Control/2025-08-12_rynette_at_regimaskin_co_za_rynette_mandates_ABSA_kulani.eml",
+    "date": "2025-08-12",
+    "sender": "rynette@regimaskin.co.za",
+    "subject": "FW: RE: RE: RE: Case Reference DQC71458302",
+    "db_id": "AAMkAGM2Y2E0NWVmLWEzZTktNDc1Mi1iY2I4LTU3OTBlMTJhMTllNQBGAAAAAAA97n0AeO7PT4cl7xDgAtvXBwC2ver4KgT-RpGXubXzjgSOAAIZYOy5AAC2ver4KgT-RpGXubXzjgSOAAdMY63AAAA="
+  },
+  {
+    "allegation": "A2_Bank_Control",
+    "description": "rynette_mandates_ABSA_kulani",
+    "file": "/home/ubuntu/evidence_eml/A2_Bank_Control/2025-08-11_rynette_at_regimaskin_co_za_rynette_mandates_ABSA_kulani_2.eml",
+    "date": "2025-08-11",
+    "sender": "rynette@regimaskin.co.za",
+    "subject": "RE: Foreign exchange contact details",
+    "db_id": "AQMkAGM2Y2E0NWVmLWEzZTktNDc1Mi1iY2I4LTU3OTBlMTJhMTllNQBGAAADPe59AHjuz0_HJe8Q4ALb1wcAtr3q_CoE-0aRl7m1844EjgAAAgEMAAAAtr3q_CoE-0aRl7m1844EjgAKMMYOQwAAAA=="
+  },
+  {
+    "allegation": "A2_Bank_Control",
+    "description": "rynette_mandates_ABSA_kulani",
+    "file": "/home/ubuntu/evidence_eml/A2_Bank_Control/2025-08-08_rynette_at_regimaskin_co_za_rynette_mandates_ABSA_kulani_3.eml",
+    "date": "2025-08-08",
+    "sender": "rynette@regimaskin.co.za",
+    "subject": "RE: Foreign exchange contact details",
+    "db_id": "AQMkAGM2Y2E0NWVmLWEzZTktNDc1Mi1iY2I4LTU3OTBlMTJhMTllNQBGAAADPe59AHjuz0_HJe8Q4ALb1wcAtr3q_CoE-0aRl7m1844EjgAAAgEMAAAAtr3q_CoE-0aRl7m1844EjgAKL3r11wAAAA=="
+  },
+  {
+    "allegation": "A2_Bank_Control",
+    "description": "rynette_mandates_ABSA_kulani",
+    "file": "/home/ubuntu/evidence_eml/A2_Bank_Control/2025-08-08_rynette_at_regimaskin_co_za_rynette_mandates_ABSA_kulani_4.eml",
+    "date": "2025-08-08",
+    "sender": "rynette@regimaskin.co.za",
+    "subject": "Foreign exchange contact details",
+    "db_id": "AQMkAGM2Y2E0NWVmLWEzZTktNDc1Mi1iY2I4LTU3OTBlMTJhMTllNQBGAAADPe59AHjuz0_HJe8Q4ALb1wcAtr3q_CoE-0aRl7m1844EjgAAAgEMAAAAtr3q_CoE-0aRl7m1844EjgAKL3r1uAAAAA=="
+  },
+  {
+    "allegation": "A2_Bank_Control",
+    "description": "rynette_mandates_ABSA_kulani",
+    "file": "/home/ubuntu/evidence_eml/A2_Bank_Control/2025-08-01_rynette_at_regimaskin_co_za_rynette_mandates_ABSA_kulani_5.eml",
+    "date": "2025-08-01",
+    "sender": "rynette@regimaskin.co.za",
+    "subject": "RE: Mandates of the accounts",
+    "db_id": "AQMkAGM2Y2E0NWVmLWEzZTktNDc1Mi1iY2I4LTU3OTBlMTJhMTllNQBGAAADPe59AHjuz0_HJe8Q4ALb1wcAtr3q_CoE-0aRl7m1844EjgAAAgEMAAAAtr3q_CoE-0aRl7m1844EjgAKKsOsiAAAAA=="
+  },
+  {
+    "allegation": "A2_Bank_Control",
+    "description": "rynette_instructed_by_PA_Faucitt",
+    "file": "/home/ubuntu/evidence_eml/A2_Bank_Control/2025-10-01_rynette_at_regimaskin_co_za_rynette_instructed_by_PA_Faucitt.eml",
+    "date": "2025-10-01",
+    "sender": "rynette@regimaskin.co.za",
+    "subject": "RE: Bank Statements / Unknown transfers",
+    "db_id": "AQMkAGM2Y2E0NWVmLWEzZTktNDc1Mi1iY2I4LTU3OTBlMTJhMTllNQBGAAADPe59AHjuz0_HJe8Q4ALb1wcAtr3q_CoE-0aRl7m1844EjgAAAgEMAAAAtr3q_CoE-0aRl7m1844EjgAKUc767AAAAA=="
+  },
+  {
+    "allegation": "A3_UK_Revenue_Theft",
+    "description": "linda_customer_statements_regimaskin",
+    "file": "/home/ubuntu/evidence_eml/A3_UK_Revenue_Theft/2026-02-04_linda_at_regimaskin_co_za_linda_customer_statements_regimaskin.eml",
+    "date": "2026-02-04",
+    "sender": "linda@regimaskin.co.za",
+    "subject": "Customer Statements- January 2026 Dr Van Der Poel",
+    "db_id": "AQMkAGM2Y2E0NWVmLWEzZTktNDc1Mi1iY2I4LTU3OTBlMTJhMTllNQBGAAADPe59AHjuz0_HJe8Q4ALb1wcAtr3q_CoE-0aRl7m1844EjgAAAgEMAAAAtr3q_CoE-0aRl7m1844EjgALNYkl5wAAAA=="
+  },
+  {
+    "allegation": "A3_UK_Revenue_Theft",
+    "description": "linda_customer_statements_regimaskin",
+    "file": "/home/ubuntu/evidence_eml/A3_UK_Revenue_Theft/2026-02-03_linda_at_regimaskin_co_za_linda_customer_statements_regimaskin_2.eml",
+    "date": "2026-02-03",
+    "sender": "linda@regimaskin.co.za",
+    "subject": "Customer Statement January 2026 - Dr VanDer Poel",
+    "db_id": "AQMkAGM2Y2E0NWVmLWEzZTktNDc1Mi1iY2I4LTU3OTBlMTJhMTllNQBGAAADPe59AHjuz0_HJe8Q4ALb1wcAtr3q_CoE-0aRl7m1844EjgAAAgEMAAAAtr3q_CoE-0aRl7m1844EjgALM2IiYwAAAA=="
+  },
+  {
+    "allegation": "A3_UK_Revenue_Theft",
+    "description": "linda_customer_statements_regimaskin",
+    "file": "/home/ubuntu/evidence_eml/A3_UK_Revenue_Theft/2026-01-12_linda_at_regimaskin_co_za_linda_customer_statements_regimaskin_3.eml",
+    "date": "2026-01-12",
+    "sender": "linda@regimaskin.co.za",
+    "subject": "Customer Statements Dr VanDer Poel December '25",
+    "db_id": "AQMkAGM2Y2E0NWVmLWEzZTktNDc1Mi1iY2I4LTU3OTBlMTJhMTllNQBGAAADPe59AHjuz0_HJe8Q4ALb1wcAtr3q_CoE-0aRl7m1844EjgAAAgEMAAAAtr3q_CoE-0aRl7m1844EjgAK69-cmgAAAA=="
+  },
+  {
+    "allegation": "A3_UK_Revenue_Theft",
+    "description": "linda_customer_statements_regimaskin",
+    "file": "/home/ubuntu/evidence_eml/A3_UK_Revenue_Theft/2025-11-04_linda_at_regimaskin_co_za_linda_customer_statements_regimaskin_4.eml",
+    "date": "2025-11-04",
+    "sender": "linda@regimaskin.co.za",
+    "subject": "Customer Statements Dr Van Der Poel - October 2025",
+    "db_id": "AQMkAGM2Y2E0NWVmLWEzZTktNDc1Mi1iY2I4LTU3OTBlMTJhMTllNQBGAAADPe59AHjuz0_HJe8Q4ALb1wcAtr3q_CoE-0aRl7m1844EjgAAAgEMAAAAtr3q_CoE-0aRl7m1844EjgAKaZEpjQAAAA=="
+  },
+  {
+    "allegation": "A3_UK_Revenue_Theft",
+    "description": "linda_customer_statements_regimaskin",
+    "file": "/home/ubuntu/evidence_eml/A3_UK_Revenue_Theft/2025-09-04_linda_at_regimaskin_co_za_linda_customer_statements_regimaskin_5.eml",
+    "date": "2025-09-04",
+    "sender": "linda@regimaskin.co.za",
+    "subject": "Customer Statements August 2025 Dr Van Der Poel",
+    "db_id": "AQMkAGM2Y2E0NWVmLWEzZTktNDc1Mi1iY2I4LTU3OTBlMTJhMTllNQBGAAADPe59AHjuz0_HJe8Q4ALb1wcAtr3q_CoE-0aRl7m1844EjgAAAgEMAAAAtr3q_CoE-0aRl7m1844EjgAKQTdCCQAAAA=="
+  },
+  {
+    "allegation": "A3_UK_Revenue_Theft",
+    "description": "orders_regimaskin_customer_orders",
+    "file": "/home/ubuntu/evidence_eml/A3_UK_Revenue_Theft/2026-02-05_orders_at_regimaskin_co_za_orders_regimaskin_customer_orders.eml",
+    "date": "2026-02-05",
+    "sender": "orders@regimaskin.co.za",
+    "subject": "RE: Order for Yolanda",
+    "db_id": "AQMkAGM2Y2E0NWVmLWEzZTktNDc1Mi1iY2I4LTU3OTBlMTJhMTllNQBGAAADPe59AHjuz0_HJe8Q4ALb1wcAtr3q_CoE-0aRl7m1844EjgAAAgEMAAAAtr3q_CoE-0aRl7m1844EjgALNYkl-wAAAA=="
+  },
+  {
+    "allegation": "A3_UK_Revenue_Theft",
+    "description": "orders_regimaskin_customer_orders",
+    "file": "/home/ubuntu/evidence_eml/A3_UK_Revenue_Theft/2026-02-04_orders_at_regimaskin_co_za_orders_regimaskin_customer_orders_2.eml",
+    "date": "2026-02-04",
+    "sender": "orders@regimaskin.co.za",
+    "subject": "RE: Order for Yolanda",
+    "db_id": "AQMkAGM2Y2E0NWVmLWEzZTktNDc1Mi1iY2I4LTU3OTBlMTJhMTllNQBGAAADPe59AHjuz0_HJe8Q4ALb1wcAtr3q_CoE-0aRl7m1844EjgAAAgEMAAAAtr3q_CoE-0aRl7m1844EjgALNYkl8gAAAA=="
+  },
+  {
+    "allegation": "A3_UK_Revenue_Theft",
+    "description": "orders_regimaskin_customer_orders",
+    "file": "/home/ubuntu/evidence_eml/A3_UK_Revenue_Theft/2026-01-19_orders_at_regimaskin_co_za_orders_regimaskin_customer_orders_3.eml",
+    "date": "2026-01-19",
+    "sender": "orders@regimaskin.co.za",
+    "subject": "RE: Order for Legends Northcliff",
+    "db_id": "AAMkADYyOGUyNzJhLWVhOTktNDhhZi05ZjQzLTU0YTg1NTI0NTEyNgBGAAAAAAAn3YWKSRFXRJVfi24bi0EjBwADejqokPe8Rrn3Tt_TCBjqAAAAAAEMAAADejqokPe8Rrn3Tt_TCBjqAAJadc4jAAA="
+  },
+  {
+    "allegation": "A3_UK_Revenue_Theft",
+    "description": "orders_regimaskin_customer_orders",
+    "file": "/home/ubuntu/evidence_eml/A3_UK_Revenue_Theft/2025-11-05_orders_at_regimaskin_co_za_orders_regimaskin_customer_orders_4.eml",
+    "date": "2025-11-05",
+    "sender": "orders@regimaskin.co.za",
+    "subject": "RE: latest order Karen's House of Beauty - Karen's Beauty Salon",
+    "db_id": "AAMkADA0ZmNiYjNmLWNjNWQtNDJiMC1hMTlhLTk2N2UzZTNiNGI4MgBGAAAAAACkH5H8ZPopSpNMlpQ3UIOCBwBumSHb9oSTQbtTOG8h6tc5AAAAAAEMAABumSHb9oSTQbtTOG8h6tc5AAeO4NhZAAA="
+  },
+  {
+    "allegation": "A3_UK_Revenue_Theft",
+    "description": "orders_regimaskin_customer_orders",
+    "file": "/home/ubuntu/evidence_eml/A3_UK_Revenue_Theft/2025-11-05_orders_at_regimaskin_co_za_orders_regimaskin_customer_orders_5.eml",
+    "date": "2025-11-05",
+    "sender": "orders@regimaskin.co.za",
+    "subject": "RE: latest order Karen's House of Beauty - Karen's Beauty Salon",
+    "db_id": "AQMkAGM2Y2E0NWVmLWEzZTktNDc1Mi1iY2I4LTU3OTBlMTJhMTllNQBGAAADPe59AHjuz0_HJe8Q4ALb1wcAtr3q_CoE-0aRl7m1844EjgAAAgEMAAAAtr3q_CoE-0aRl7m1844EjgAKaZEpsgAAAA=="
+  },
+  {
+    "allegation": "A3_UK_Revenue_Theft",
+    "description": "orders_regimaskin_customer_orders",
+    "file": "/home/ubuntu/evidence_eml/A3_UK_Revenue_Theft/2025-10-23_orders_at_regimaskin_co_za_orders_regimaskin_customer_orders_6.eml",
+    "date": "2025-10-23",
+    "sender": "orders@regimaskin.co.za",
+    "subject": "New Order",
+    "db_id": "AQMkAGM2Y2E0NWVmLWEzZTktNDc1Mi1iY2I4LTU3OTBlMTJhMTllNQBGAAADPe59AHjuz0_HJe8Q4ALb1wcAtr3q_CoE-0aRl7m1844EjgAAAgEMAAAAtr3q_CoE-0aRl7m1844EjgAKYSZHGwAAAA=="
+  },
+  {
+    "allegation": "A3_UK_Revenue_Theft",
+    "description": "orders_regimaskin_customer_orders",
+    "file": "/home/ubuntu/evidence_eml/A3_UK_Revenue_Theft/2025-10-20_orders_at_regimaskin_co_za_orders_regimaskin_customer_orders_7.eml",
+    "date": "2025-10-20",
+    "sender": "orders@regimaskin.co.za",
+    "subject": "RE: Namibia Order - Ready for Collection ",
+    "db_id": "AAMkAGM2Y2E0NWVmLWEzZTktNDc1Mi1iY2I4LTU3OTBlMTJhMTllNQBGAAAAAAA97n0AeO7PT4cl7xDgAtvXBwC2ver4KgT-RpGXubXzjgSOAAAAAAEMAAC2ver4KgT-RpGXubXzjgSOAApfdHSDAAA="
+  },
+  {
+    "allegation": "A3_UK_Revenue_Theft",
+    "description": "orders_regimaskin_customer_orders",
+    "file": "/home/ubuntu/evidence_eml/A3_UK_Revenue_Theft/2025-10-20_orders_at_regimaskin_co_za_orders_regimaskin_customer_orders_8.eml",
+    "date": "2025-10-20",
+    "sender": "orders@regimaskin.co.za",
+    "subject": "Namibia Order",
+    "db_id": "AAMkAGM2Y2E0NWVmLWEzZTktNDc1Mi1iY2I4LTU3OTBlMTJhMTllNQBGAAAAAAA97n0AeO7PT4cl7xDgAtvXBwC2ver4KgT-RpGXubXzjgSOAAAAAAEMAAC2ver4KgT-RpGXubXzjgSOAApfdHRwAAA="
+  },
+  {
+    "allegation": "A3_UK_Revenue_Theft",
+    "description": "orders_regimaskin_customer_orders",
+    "file": "/home/ubuntu/evidence_eml/A3_UK_Revenue_Theft/2025-10-17_orders_at_regimaskin_co_za_orders_regimaskin_customer_orders_9.eml",
+    "date": "2025-10-17",
+    "sender": "orders@regimaskin.co.za",
+    "subject": "RE: Namibia Order",
+    "db_id": "AQMkAGM2Y2E0NWVmLWEzZTktNDc1Mi1iY2I4LTU3OTBlMTJhMTllNQBGAAADPe59AHjuz0_HJe8Q4ALb1wcAtr3q_CoE-0aRl7m1844EjgAAAgEMAAAAtr3q_CoE-0aRl7m1844EjgAKXc6gDQAAAA=="
+  },
+  {
+    "allegation": "A3_UK_Revenue_Theft",
+    "description": "orders_regimaskin_customer_orders",
+    "file": "/home/ubuntu/evidence_eml/A3_UK_Revenue_Theft/2025-10-17_orders_at_regimaskin_co_za_orders_regimaskin_customer_orders_10.eml",
+    "date": "2025-10-17",
+    "sender": "orders@regimaskin.co.za",
+    "subject": "RE: Retail Orders",
+    "db_id": "AQMkAGM2Y2E0NWVmLWEzZTktNDc1Mi1iY2I4LTU3OTBlMTJhMTllNQBGAAADPe59AHjuz0_HJe8Q4ALb1wcAtr3q_CoE-0aRl7m1844EjgAAAgEKAAAAtr3q_CoE-0aRl7m1844EjgAKZ59MGQAAAA=="
+  },
+  {
+    "allegation": "A4_Addarory_Competition",
+    "description": "take_down_your_addarory",
+    "file": "/home/ubuntu/evidence_eml/A4_Addarory_Competition/2025-10-10_rynette_at_regimaskin_co_za_take_down_your_addarory.eml",
+    "date": "2025-10-10",
+    "sender": "rynette@regimaskin.co.za",
+    "subject": "RE: TAKE DOWN YOUR ADDARORY ",
+    "db_id": "AQMkAGM2Y2E0NWVmLWEzZTktNDc1Mi1iY2I4LTU3OTBlMTJhMTllNQBGAAADPe59AHjuz0_HJe8Q4ALb1wcAtr3q_CoE-0aRl7m1844EjgAAAgEMAAAAtr3q_CoE-0aRl7m1844EjgAKWOigSAAAAA=="
+  },
+  {
+    "allegation": "A4_Addarory_Competition",
+    "description": "take_down_your_addarory",
+    "file": "/home/ubuntu/evidence_eml/A4_Addarory_Competition/2025-10-10_jax_at_regima_zone_take_down_your_addarory_2.eml",
+    "date": "2025-10-10",
+    "sender": "jax@regima.zone",
+    "subject": "Re: TAKE DOWN YOUR ADDARORY ",
+    "db_id": "AQMkAGM2Y2E0NWVmLWEzZTktNDc1Mi1iY2I4LTU3OTBlMTJhMTllNQBGAAADPe59AHjuz0_HJe8Q4ALb1wcAtr3q_CoE-0aRl7m1844EjgAAAgEMAAAAtr3q_CoE-0aRl7m1844EjgAKWOigSQAAAA=="
+  },
+  {
+    "allegation": "A4_Addarory_Competition",
+    "description": "take_down_your_addarory",
+    "file": "/home/ubuntu/evidence_eml/A4_Addarory_Competition/2025-10-10_rynette_at_regimaskin_co_za_take_down_your_addarory_3.eml",
+    "date": "2025-10-10",
+    "sender": "rynette@regimaskin.co.za",
+    "subject": "RE: TAKE DOWN YOUR ADDARORY ",
+    "db_id": "AQMkAGM2Y2E0NWVmLWEzZTktNDc1Mi1iY2I4LTU3OTBlMTJhMTllNQBGAAADPe59AHjuz0_HJe8Q4ALb1wcAtr3q_CoE-0aRl7m1844EjgAAAgEMAAAAtr3q_CoE-0aRl7m1844EjgAKWOigSgAAAA=="
+  },
+  {
+    "allegation": "A4_Addarory_Competition",
+    "description": "take_down_your_addarory",
+    "file": "/home/ubuntu/evidence_eml/A4_Addarory_Competition/2025-10-10_jax_at_regima_zone_take_down_your_addarory_4.eml",
+    "date": "2025-10-10",
+    "sender": "jax@regima.zone",
+    "subject": "TAKE DOWN YOUR ADDARORY ",
+    "db_id": "AQMkAGM2Y2E0NWVmLWEzZTktNDc1Mi1iY2I4LTU3OTBlMTJhMTllNQBGAAADPe59AHjuz0_HJe8Q4ALb1wcAtr3q_CoE-0aRl7m1844EjgAAAgEMAAAAtr3q_CoE-0aRl7m1844EjgAKWOigSwAAAA=="
+  },
+  {
+    "allegation": "A4_Addarory_Competition",
+    "description": "gayane_stockist_pricelists_regimaskin",
+    "file": "/home/ubuntu/evidence_eml/A4_Addarory_Competition/2025-09-22_gayane_at_regimaskin_co_za_gayane_stockist_pricelists_regimaskin.eml",
+    "date": "2025-09-22",
+    "sender": "gayane@regimaskin.co.za",
+    "subject": "RE: Training & stockist enquiry",
+    "db_id": "AQMkAGM2Y2E0NWVmLWEzZTktNDc1Mi1iY2I4LTU3OTBlMTJhMTllNQBGAAADPe59AHjuz0_HJe8Q4ALb1wcAtr3q_CoE-0aRl7m1844EjgAAAgEMAAAAtr3q_CoE-0aRl7m1844EjgAKTMeV0AAAAA=="
+  },
+  {
+    "allegation": "A4_Addarory_Competition",
+    "description": "gayane_stockist_pricelists_regimaskin",
+    "file": "/home/ubuntu/evidence_eml/A4_Addarory_Competition/2025-09-22_gayane_at_regimaskin_co_za_gayane_stockist_pricelists_regimaskin_2.eml",
+    "date": "2025-09-22",
+    "sender": "gayane@regimaskin.co.za",
+    "subject": "RE: Training & stockist enquiry",
+    "db_id": "AQMkAGM2Y2E0NWVmLWEzZTktNDc1Mi1iY2I4LTU3OTBlMTJhMTllNQBGAAADPe59AHjuz0_HJe8Q4ALb1wcAtr3q_CoE-0aRl7m1844EjgAAAgEMAAAAtr3q_CoE-0aRl7m1844EjgAKTMeVwAAAAA=="
+  },
+  {
+    "allegation": "A4_Addarory_Competition",
+    "description": "gayane_stockist_pricelists_regimaskin",
+    "file": "/home/ubuntu/evidence_eml/A4_Addarory_Competition/2025-09-22_gayane_at_regimaskin_co_za_gayane_stockist_pricelists_regimaskin_3.eml",
+    "date": "2025-09-22",
+    "sender": "gayane@regimaskin.co.za",
+    "subject": "RE: Training & stockist enquiry",
+    "db_id": "AQMkAGM2Y2E0NWVmLWEzZTktNDc1Mi1iY2I4LTU3OTBlMTJhMTllNQBGAAADPe59AHjuz0_HJe8Q4ALb1wcAtr3q_CoE-0aRl7m1844EjgAAAgEMAAAAtr3q_CoE-0aRl7m1844EjgAKTMeVtQAAAA=="
+  },
+  {
+    "allegation": "A4_Addarory_Competition",
+    "description": "gayane_stockist_pricelists_regimaskin",
+    "file": "/home/ubuntu/evidence_eml/A4_Addarory_Competition/2025-09-02_gayane_at_regimaskin_co_za_gayane_stockist_pricelists_regimaskin_4.eml",
+    "date": "2025-09-02",
+    "sender": "gayane@regimaskin.co.za",
+    "subject": "Stockist Enquiry",
+    "db_id": "AQMkAGM2Y2E0NWVmLWEzZTktNDc1Mi1iY2I4LTU3OTBlMTJhMTllNQBGAAADPe59AHjuz0_HJe8Q4ALb1wcAtr3q_CoE-0aRl7m1844EjgAAAgEMAAAAtr3q_CoE-0aRl7m1844EjgAKQB2sjwAAAA=="
+  },
+  {
+    "allegation": "A4_Addarory_Competition",
+    "description": "gayane_stockist_pricelists_regimaskin",
+    "file": "/home/ubuntu/evidence_eml/A4_Addarory_Competition/2025-09-02_gayane_at_regimaskin_co_za_gayane_stockist_pricelists_regimaskin_5.eml",
+    "date": "2025-09-02",
+    "sender": "gayane@regimaskin.co.za",
+    "subject": "RE: Stockist Enquiry",
+    "db_id": "AQMkAGM2Y2E0NWVmLWEzZTktNDc1Mi1iY2I4LTU3OTBlMTJhMTllNQBGAAADPe59AHjuz0_HJe8Q4ALb1wcAtr3q_CoE-0aRl7m1844EjgAAAgEMAAAAtr3q_CoE-0aRl7m1844EjgAKQB2shgAAAA=="
+  },
+  {
+    "allegation": "A4_Addarory_Competition",
+    "description": "admin_regimaskin_head_office_training",
+    "file": "/home/ubuntu/evidence_eml/A4_Addarory_Competition/2026-02-05_admin_at_regimaskin_co_za_admin_regimaskin_head_office_training.eml",
+    "date": "2026-02-05",
+    "sender": "admin@regimaskin.co.za",
+    "subject": "RegimA Head Office Training 23 & 24 February 2026",
+    "db_id": "AAMkADY1OWU4MTc4LWQ0ZDItNDVlMC05YWQ5LWQzYTg4MGFkOWUxYQBGAAAAAACOHF1joFnFS4p-k9AP9VPkBwCWySSjt4KyRoa1Gqvcb5qwAAAAAAEMAACWySSjt4KyRoa1Gqvcb5qwAAKM0ztZAAA="
+  },
+  {
+    "allegation": "A4_Addarory_Competition",
+    "description": "admin_regimaskin_head_office_training",
+    "file": "/home/ubuntu/evidence_eml/A4_Addarory_Competition/2026-01-16_admin_at_regimaskin_co_za_admin_regimaskin_head_office_training_2.eml",
+    "date": "2026-01-16",
+    "sender": "admin@regimaskin.co.za",
+    "subject": "RegimA Head Office Training 23 & 24 February 2026",
+    "db_id": "AAMkADY1OWU4MTc4LWQ0ZDItNDVlMC05YWQ5LWQzYTg4MGFkOWUxYQBGAAAAAACOHF1joFnFS4p-k9AP9VPkBwCWySSjt4KyRoa1Gqvcb5qwAAAAAAEMAACWySSjt4KyRoa1Gqvcb5qwAAJ-siMPAAA="
+  },
+  {
+    "allegation": "A4_Addarory_Competition",
+    "description": "admin_regimaskin_head_office_training",
+    "file": "/home/ubuntu/evidence_eml/A4_Addarory_Competition/2025-09-30_admin_at_regimaskin_co_za_admin_regimaskin_head_office_training_3.eml",
+    "date": "2025-09-30",
+    "sender": "admin@regimaskin.co.za",
+    "subject": "RE: Proforma for Training",
+    "db_id": "AQMkAGM2Y2E0NWVmLWEzZTktNDc1Mi1iY2I4LTU3OTBlMTJhMTllNQBGAAADPe59AHjuz0_HJe8Q4ALb1wcAtr3q_CoE-0aRl7m1844EjgAAAgEMAAAAtr3q_CoE-0aRl7m1844EjgAKUc76hAAAAA=="
+  },
+  {
+    "allegation": "A4_Addarory_Competition",
+    "description": "admin_regimaskin_head_office_training",
+    "file": "/home/ubuntu/evidence_eml/A4_Addarory_Competition/2025-07-03_admin_at_regimaskin_co_za_admin_regimaskin_head_office_training_4.eml",
+    "date": "2025-07-03",
+    "sender": "admin@regimaskin.co.za",
+    "subject": "Training Number",
+    "db_id": "AQMkAGM2Y2E0NWVmLWEzZTktNDc1Mi1iY2I4LTU3OTBlMTJhMTllNQBGAAADPe59AHjuz0_HJe8Q4ALb1wcAtr3q_CoE-0aRl7m1844EjgAAAgEMAAAAtr3q_CoE-0aRl7m1844EjgAKFtfghQAAAA=="
+  },
+  {
+    "allegation": "A4_Addarory_Competition",
+    "description": "admin_regimaskin_head_office_training",
+    "file": "/home/ubuntu/evidence_eml/A4_Addarory_Competition/2025-07-03_admin_at_regimaskin_co_za_admin_regimaskin_head_office_training_5.eml",
+    "date": "2025-07-03",
+    "sender": "admin@regimaskin.co.za",
+    "subject": "Training Number",
+    "db_id": "AQMkADMxMzkyY2FlLWNkMGEtNGM2My04OWFiLTNlZDRjNzkyNGUyMwBGAAADSLKv-EI8AESN7LMej4ROLgcAIySisE98NkWmcNijjztGYgAAAj18AAAAIySisE98NkWmcNijjztGYgAE0P289gAAAA=="
+  },
+  {
+    "allegation": "A5_Pilfering_Business",
+    "description": "el_regimaskin_payment_head_office",
+    "file": "/home/ubuntu/evidence_eml/A5_Pilfering_Business/2026-02-05_el_at_regimaskin_co_za_el_regimaskin_payment_head_office.eml",
+    "date": "2026-02-05",
+    "sender": "el@regimaskin.co.za",
+    "subject": "Re: RegimA Proforma Invoice",
+    "db_id": "AAMkADA0ZmNiYjNmLWNjNWQtNDJiMC1hMTlhLTk2N2UzZTNiNGI4MgBGAAAAAACkH5H8ZPopSpNMlpQ3UIOCBwBumSHb9oSTQbtTOG8h6tc5AAAAAAEMAABumSHb9oSTQbtTOG8h6tc5AAfLH0CiAAA="
+  },
+  {
+    "allegation": "A5_Pilfering_Business",
+    "description": "el_regimaskin_payment_head_office",
+    "file": "/home/ubuntu/evidence_eml/A5_Pilfering_Business/2026-02-05_el_at_regimaskin_co_za_el_regimaskin_payment_head_office_2.eml",
+    "date": "2026-02-05",
+    "sender": "el@regimaskin.co.za",
+    "subject": "Re: RegimA Proforma Invoice",
+    "db_id": "AQMkAGM2Y2E0NWVmLWEzZTktNDc1Mi1iY2I4LTU3OTBlMTJhMTllNQBGAAADPe59AHjuz0_HJe8Q4ALb1wcAtr3q_CoE-0aRl7m1844EjgAAAgEMAAAAtr3q_CoE-0aRl7m1844EjgALNYkmAQAAAA=="
+  },
+  {
+    "allegation": "A7_Stock_Theft_5M",
+    "description": "rynette_TB_stock_adjustments_strategic",
+    "file": "/home/ubuntu/evidence_eml/A7_Stock_Theft_5M/2025-04-04_rynette_at_regima_zone_rynette_TB_stock_adjustments_strategic.eml",
+    "date": "2025-04-04",
+    "sender": "rynette@regima.zone",
+    "subject": "TB's after stock adjustments - February 2025 - Strategic / Regima Skin / WWD",
+    "db_id": "AQMkAGM2Y2E0NWVmLWEzZTktNDc1Mi1iY2I4LTU3OTBlMTJhMTllNQBGAAADPe59AHjuz0_HJe8Q4ALb1wcAtr3q_CoE-0aRl7m1844EjgAAAgEMAAAAtr3q_CoE-0aRl7m1844EjgAJ20RpdgAAAA=="
+  },
+  {
+    "allegation": "A7_Stock_Theft_5M",
+    "description": "rynette_TB_stock_adjustments_strategic",
+    "file": "/home/ubuntu/evidence_eml/A7_Stock_Theft_5M/2025-04-04_rynette_at_regima_zone_rynette_TB_stock_adjustments_strategic_2.eml",
+    "date": "2025-04-04",
+    "sender": "rynette@regima.zone",
+    "subject": "TB's after stock adjustments - February 2025 - Strategic / Regima Skin / WWD",
+    "db_id": "AQMkADMxMzkyY2FlLWNkMGEtNGM2My04OWFiLTNlZDRjNzkyNGUyMwBGAAADSLKv-EI8AESN7LMej4ROLgcAIySisE98NkWmcNijjztGYgAAAgEJAAAAIySisE98NkWmcNijjztGYgAEITMp7QAAAA=="
+  },
+  {
+    "allegation": "A7_Stock_Theft_5M",
+    "description": "bantjies_huge_stock_adjustment_R246k",
+    "file": "/home/ubuntu/evidence_eml/A7_Stock_Theft_5M/2024-02-19_danie_bantjes_at_gmail_com_bantjies_huge_stock_adjustment_R246k.eml",
+    "date": "2024-02-19",
+    "sender": "danie.bantjes@gmail.com",
+    "subject": "Re: Strategic Logistics",
+    "db_id": "AAMkADMxMzkyY2FlLWNkMGEtNGM2My04OWFiLTNlZDRjNzkyNGUyMwBGAAAAAABIsq-8QjwARI3ssx6PhE4uBwAjJKKwT3w2RaZw2KOPO0ZiAAA-JWQ5AAAjJKKwT3w2RaZw2KOPO0ZiAAA-JZlSAAA="
+  },
+  {
+    "allegation": "A7_Stock_Theft_5M",
+    "description": "bantjies_huge_stock_adjustment_R246k",
+    "file": "/home/ubuntu/evidence_eml/A7_Stock_Theft_5M/2024-02-19_rynette_at_regima_zone_bantjies_huge_stock_adjustment_R246k_2.eml",
+    "date": "2024-02-19",
+    "sender": "rynette@regima.zone",
+    "subject": "RE: Strategic Logistics",
+    "db_id": "AQMkADMxMzkyY2FlLWNkMGEtNGM2My04OWFiLTNlZDRjNzkyNGUyMwBGAAADSLKv-EI8AESN7LMej4ROLgcAIySisE98NkWmcNijjztGYgAAAgEJAAAAIySisE98NkWmcNijjztGYgADEbakRAAAAA=="
+  },
+  {
+    "allegation": "A7_Stock_Theft_5M",
+    "description": "bantjies_huge_stock_adjustment_R246k",
+    "file": "/home/ubuntu/evidence_eml/A7_Stock_Theft_5M/2024-02-18_danie_bantjes_at_gmail_com_bantjies_huge_stock_adjustment_R246k_3.eml",
+    "date": "2024-02-18",
+    "sender": "danie.bantjes@gmail.com",
+    "subject": "Strategic Logistics",
+    "db_id": "AAMkADMxMzkyY2FlLWNkMGEtNGM2My04OWFiLTNlZDRjNzkyNGUyMwBGAAAAAABIsq-8QjwARI3ssx6PhE4uBwAjJKKwT3w2RaZw2KOPO0ZiAAA-JWQ5AAAjJKKwT3w2RaZw2KOPO0ZiAAA-JZlRAAA="
+  },
+  {
+    "allegation": "A7_Stock_Theft_5M",
+    "description": "bantjies_huge_gaps_many_years",
+    "file": "/home/ubuntu/evidence_eml/A7_Stock_Theft_5M/2025-04-07_danie_bantjes_at_gmail_com_bantjies_huge_gaps_many_years.eml",
+    "date": "2025-04-07",
+    "sender": "danie.bantjes@gmail.com",
+    "subject": "Re: TB's after stock adjustments - February 2025 - Strategic / Regima Skin / WWD",
+    "db_id": "AAMkADMxMzkyY2FlLWNkMGEtNGM2My04OWFiLTNlZDRjNzkyNGUyMwBGAAAAAABIsq-8QjwARI3ssx6PhE4uBwAjJKKwT3w2RaZw2KOPO0ZiAAA-JWQ5AAAjJKKwT3w2RaZw2KOPO0ZiAAA-JZm8AAA="
+  },
+  {
+    "allegation": "A7_Stock_Theft_5M",
+    "description": "addarory_containers_R1388883",
+    "file": "/home/ubuntu/evidence_eml/A7_Stock_Theft_5M/2024-12-03_inContact_at_fnb_co_za_addarory_containers_R1388883.eml",
+    "date": "2024-12-03",
+    "sender": "inContact@fnb.co.za",
+    "subject": "FNB :-) R1388883.75 paid from Current a/c..196362 @ Online Banking. Ref.Fnb Ob 000000086 Reg.  3Dec ",
+    "db_id": "AAMkAGM2Y2E0NWVmLWEzZTktNDc1Mi1iY2I4LTU3OTBlMTJhMTllNQBGAAAAAAA97n0AeO7PT4cl7xDgAtvXBwC2ver4KgT-RpGXubXzjgSOAAAUieElAAC2ver4KgT-RpGXubXzjgSOAAmKjLLKAAA="
+  },
+  {
+    "allegation": "A7_Stock_Theft_5M",
+    "description": "addarory_containers_R1388883",
+    "file": "/home/ubuntu/evidence_eml/A7_Stock_Theft_5M/2024-10-21_inContact_at_fnb_co_za_addarory_containers_R1388883_2.eml",
+    "date": "2024-10-21",
+    "sender": "inContact@fnb.co.za",
+    "subject": "FNB:-) R1388883.75 paid from Money on Call..164880 @ Online Banking. Ref.Fnb Ob 000000005 Reg. 21Oct",
+    "db_id": "AAMkAGM2Y2E0NWVmLWEzZTktNDc1Mi1iY2I4LTU3OTBlMTJhMTllNQBGAAAAAAA97n0AeO7PT4cl7xDgAtvXBwC2ver4KgT-RpGXubXzjgSOAAAUieElAAC2ver4KgT-RpGXubXzjgSOAAluh3jcAAA="
+  },
+  {
+    "allegation": "A7_Stock_Theft_5M",
+    "description": "addarory_guaiazulene_order",
+    "file": "/home/ubuntu/evidence_eml/A7_Stock_Theft_5M/2025-07-28_rynette_at_regimaskin_co_za_addarory_guaiazulene_order.eml",
+    "date": "2025-07-28",
+    "sender": "rynette@regimaskin.co.za",
+    "subject": "RE: Guaiazulene",
+    "db_id": "AQMkAGM2Y2E0NWVmLWEzZTktNDc1Mi1iY2I4LTU3OTBlMTJhMTllNQBGAAADPe59AHjuz0_HJe8Q4ALb1wcAtr3q_CoE-0aRl7m1844EjgAAAgEMAAAAtr3q_CoE-0aRl7m1844EjgAKJy21WwAAAA=="
+  },
+  {
+    "allegation": "A7_Stock_Theft_5M",
+    "description": "rynette_addarory_vs_connock_pricing",
+    "file": "/home/ubuntu/evidence_eml/A7_Stock_Theft_5M/2025-07-28_rynette_at_regimaskin_co_za_rynette_addarory_vs_connock_pricing.eml",
+    "date": "2025-07-28",
+    "sender": "rynette@regimaskin.co.za",
+    "subject": "RE: Guaiazulene",
+    "db_id": "AQMkAGM2Y2E0NWVmLWEzZTktNDc1Mi1iY2I4LTU3OTBlMTJhMTllNQBGAAADPe59AHjuz0_HJe8Q4ALb1wcAtr3q_CoE-0aRl7m1844EjgAAAgEMAAAAtr3q_CoE-0aRl7m1844EjgAKJy21WwAAAA=="
+  },
+  {
+    "allegation": "A7_Stock_Theft_5M",
+    "description": "jax_inventory_adjustment_5mill_ensafrica",
+    "file": "/home/ubuntu/evidence_eml/A7_Stock_Theft_5M/2025-09-09_jax_at_regima_zone_jax_inventory_adjustment_5mill_ensafrica.eml",
+    "date": "2025-09-09",
+    "sender": "jax@regima.zone",
+    "subject": "note inventory adjustment 5 Mill",
+    "db_id": "pst-252bb102b74a95bc08c8f368ac3c52e62cd8f7ae"
+  },
+  {
+    "allegation": "A7_Stock_Theft_5M",
+    "description": "jax_inventory_adjustment_5mill_ensafrica",
+    "file": "/home/ubuntu/evidence_eml/A7_Stock_Theft_5M/2025-09-09_jax_at_regima_zone_jax_inventory_adjustment_5mill_ensafrica_2.eml",
+    "date": "2025-09-09",
+    "sender": "jax@regima.zone",
+    "subject": "note inventory adjustment 5 Mill",
+    "db_id": "AQMkAGM2Y2E0NWVmLWEzZTktNDc1Mi1iY2I4LTU3OTBlMTJhMTllNQBGAAADPe59AHjuz0_HJe8Q4ALb1wcAtr3q_CoE-0aRl7m1844EjgAAAgEJAAAAtr3q_CoE-0aRl7m1844EjgAIfj02iwAAAA=="
+  },
+  {
+    "allegation": "A7_Stock_Theft_5M",
+    "description": "rynette_addarory_brought_in_last_lots",
+    "file": "/home/ubuntu/evidence_eml/A7_Stock_Theft_5M/2025-07-28_rynette_at_regimaskin_co_za_rynette_addarory_brought_in_last_lots.eml",
+    "date": "2025-07-28",
+    "sender": "rynette@regimaskin.co.za",
+    "subject": "RE: Guaiazulene",
+    "db_id": "AQMkAGM2Y2E0NWVmLWEzZTktNDc1Mi1iY2I4LTU3OTBlMTJhMTllNQBGAAADPe59AHjuz0_HJe8Q4ALb1wcAtr3q_CoE-0aRl7m1844EjgAAAgEMAAAAtr3q_CoE-0aRl7m1844EjgAKJy21WwAAAA=="
+  },
+  {
+    "allegation": "A7_Stock_Theft_5M",
+    "description": "payment_to_addarory_for_regima_containers",
+    "file": "/home/ubuntu/evidence_eml/A7_Stock_Theft_5M/2022-11-30_rynette_at_regima_zone_payment_to_addarory_for_regima_containers.eml",
+    "date": "2022-11-30",
+    "sender": "rynette@regima.zone",
+    "subject": "RE: PAYMENT TO ADDARORY",
+    "db_id": "AQMkADMxMzkyY2FlLWNkMGEtNGM2My04OWFiLTNlZDRjNzkyNGUyMwBGAAADSLKv-EI8AESN7LMej4ROLgcAIySisE98NkWmcNijjztGYgAAAgEJAAAAIySisE98NkWmcNijjztGYgABrtZxZAAAAA=="
+  },
+  {
+    "allegation": "A7_Stock_Theft_5M",
+    "description": "payment_to_addarory_for_regima_containers",
+    "file": "/home/ubuntu/evidence_eml/A7_Stock_Theft_5M/2022-11-30_jax_at_regima_zone_payment_to_addarory_for_regima_containers_2.eml",
+    "date": "2022-11-30",
+    "sender": "jax@regima.zone",
+    "subject": "PAYMENT TO ADDARORY",
+    "db_id": "AQMkADMxMzkyY2FlLWNkMGEtNGM2My04OWFiLTNlZDRjNzkyNGUyMwBGAAADSLKv-EI8AESN7LMej4ROLgcAIySisE98NkWmcNijjztGYgAAAj2DAAAAIySisE98NkWmcNijjztGYgABrtZKDwAAAA=="
+  },
+  {
+    "allegation": "A7_Stock_Theft_5M",
+    "description": "payment_to_addarory_for_regima_containers",
+    "file": "/home/ubuntu/evidence_eml/A7_Stock_Theft_5M/2022-02-01_rynette_at_regima_zone_payment_to_addarory_for_regima_containers_3.eml",
+    "date": "2022-02-01",
+    "sender": "rynette@regima.zone",
+    "subject": "FW: PAYMENT TO ADDARORY FOR REGIMA CONTAINERS",
+    "db_id": "AQMkAGM2Y2E0NWVmLWEzZTktNDc1Mi1iY2I4LTU3OTBlMTJhMTllNQBGAAADPe59AHjuz0_HJe8Q4ALb1wcAtr3q_CoE-0aRl7m1844EjgAAAgEMAAAAtr3q_CoE-0aRl7m1844EjgAG3c_8ggAAAA=="
+  },
+  {
+    "allegation": "A7_Stock_Theft_5M",
+    "description": "payment_to_addarory_for_regima_containers",
+    "file": "/home/ubuntu/evidence_eml/A7_Stock_Theft_5M/2022-02-01_aymac_at_netactive_co_za_payment_to_addarory_for_regima_containers_4.eml",
+    "date": "2022-02-01",
+    "sender": "aymac@netactive.co.za",
+    "subject": "PAYMENT TO ADDARORY FOR REGIMA CONTAINERS",
+    "db_id": "AAMkADMxMzkyY2FlLWNkMGEtNGM2My04OWFiLTNlZDRjNzkyNGUyMwBGAAAAAABIsq-8QjwARI3ssx6PhE4uBwAjJKKwT3w2RaZw2KOPO0ZiAAA-JWQ7AAAjJKKwT3w2RaZw2KOPO0ZiAAD6-dBBAAA="
+  },
+  {
+    "allegation": "A7_Stock_Theft_5M",
+    "description": "payment_to_addarory_for_regima_containers",
+    "file": "/home/ubuntu/evidence_eml/A7_Stock_Theft_5M/2021-07-28_jax_at_regima_zone_payment_to_addarory_for_regima_containers_5.eml",
+    "date": "2021-07-28",
+    "sender": "jax@regima.zone",
+    "subject": "PAYMENT TO ADDARORY FOR REGIMA JARS - 28.7.2021",
+    "db_id": "AAMkADMxMzkyY2FlLWNkMGEtNGM2My04OWFiLTNlZDRjNzkyNGUyMwBGAAAAAABIsq-8QjwARI3ssx6PhE4uBwAjJKKwT3w2RaZw2KOPO0ZiAAA-JWQ7AAAjJKKwT3w2RaZw2KOPO0ZiAABTCmnwAAA="
+  }
+]
