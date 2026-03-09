@@ -1,203 +1,114 @@
-# Relations
+# Relations Index
 
-```json
-{
-  "metadata": {
-    "version": "9.0_MAILBOX_EVIDENCE_ENHANCED",
-    "created_date": "2025-11-10",
-    "description": "Relation model for Revenue Stream Hijacking case 2025-137857",
-    "case_number": "2025-137857",
-    "modeling_approach": "hypergraph_compatible_relations",
-    "last_updated": "2026-03-08T16:10:00.000000",
-    "changes": "LEX-RECON reconciliation v2. Integrated Uniform Rules of Court citations, Kaylovest/Villa Via dual identity (EVENT_124), Bantjies manufacture admission (EVENT_119), 100+ banking change emails (EVENT_121), and Rynette-Bantjies conspiracy analysis (1,632 emails)."
-  },
-  "relations": {
-    "ownership_relations": [
-      {
-        "relation_id": "REL_OWN_001",
-        "relation_type": "owns",
-        "source_entity": "PERSON_005",
-        "target_entity": "ORG_003",
-        "strength": "complete_ownership",
-        "legal_status": "legitimate",
-        "evidence": [
-          "company_registration_uk",
-          "payment_records_28_months"
-        ],
-        "evidence_verified": "2025-12-14T05:36:53.168355",
-        "ad_res_j7_evidence": [
-          "ANNEXURES/JF04 - CIPC registration documents",
-          "ANNEXURES/JF01 - Shopify ownership evidence"
-        ],
-        "evidence_repository": "https://github.com/cogpy/ad-res-j7",
-        "comprehensive_evidence_index": "https://github.com/cogpy/ad-res-j7/blob/main/docs/evidence/COMPREHENSIVE_EVIDENCE_INDEX.md"
-      }
-    ],
-    "control_relations": [
-      {
-        "relation_id": "REL_CTRL_001",
-        "relation_type": "controls",
-        "source_entity": "PERSON_001",
-        "target_entity": "ORG_001",
-        "control_type": "directorial_control",
-        "legal_status": "disputed",
-        "evidence": [
-          "director_appointment",
-          "operational_decisions"
-        ],
-        "evidence_verified": "2025-12-14T05:36:53.168372"
-      },
-      {
-        "relation_id": "REL_CTRL_002",
-        "relation_type": "controls_financial_systems",
-        "source_entity": "PERSON_002",
-        "target_entity": "ORG_001",
-        "control_type": "financial_controller",
-        "legal_status": "fraudulent",
-        "evidence": [
-          "MAILBOX_SAGE_NOTIFICATIONS",
-          "MAILBOX_RYNETTE_FINANCIAL_EMAILS",
-          "bank_account_changes"
-        ],
-        "timeline_events": [
-          "KE_004",
-          "KE_007",
-          "KE_008"
-        ],
-        "evidence_verified": "2026-02-09T04:52:00.000000"
-      },
-      {
-        "relation_id": "REL_CTRL_009",
-        "relation_type": "instructed_email_diversion",
-        "source_entity": "PERSON_004",
-        "target_entity": "PERSON_002",
-        "evidence": ["MAILBOX_JAX_DIVERT_EMAIL_2020"],
-        "significance": "Enabled Rynette's information control.",
-        "evidence_verified": "2026-02-09T04:52:00.000000"
-      },
-      {
-        "relation_id": "REL_CTRL_010",
-        "relation_type": "instructed_payment_redirection",
-        "source_entity": "PERSON_002",
-        "target_entity": "PERSON_LINDA",
-        "evidence": ["MAILBOX_RYNETTE_BANKING_DETAILS_EMAIL"],
-        "significance": "Rynette initiated the payment redirection campaign.",
-        "evidence_verified": "2026-02-09T04:52:00.000000"
-      },
-      {
-        "relation_id": "REL_CTRL_011",
-        "relation_type": "instructed_domain_change",
-        "source_entity": "PERSON_002",
-        "target_entity": "PERSON_GAYANE",
-        "evidence": ["MAILBOX_GAYANE_EMAIL_CHANGE_2025"],
-        "significance": "Rynette orchestrated the email domain change.",
-        "evidence_verified": "2026-02-09T04:52:00.000000"
-      }
-    ],
-    "conspiracy_relations": [
-      {
-        "relation_id": "REL_CONSP_001",
-        "relation_type": "co_conspirator",
-        "source_entity": "PERSON_001",
-        "target_entity": "PERSON_002",
-        "conspiracy_type": "coordinated_criminal_activity",
-        "evidence_strength": "conclusive",
-        "shared_events": 12,
-        "evidence": [
-          "payment_redirection_scheme_2025_04_01",
-          "unauthorized_beneficiary_changes_2025_05_02",
-          "coordinated_fund_diversions_2025_06_30",
-          "MAILBOX_EVIDENCE"
-        ],
-        "pattern": "systematic_coordination",
-        "evidence_verified": "2026-02-09T04:52:00.000000"
-      },
-      {
-        "relation_id": "REL_CONSP_004",
-        "relation_type": "co_conspirator",
-        "source_entity": "PERSON_007",
-        "target_entity": "PERSON_001",
-        "conspiracy_type": "coordinated_fraud_concealment",
-        "evidence_strength": "conclusive",
-        "shared_events": [
-          "EVENT_H005",
-          "EVENT_H006",
-          "EVENT_025",
-          "EVENT_026",
-          "KE_010",
-          "KE_011",
-          "KE_012"
-        ],
-        "evidence": [
-          "trial_balance_manipulation_2020",
-          "stock_adjustment_fraud_concealment_2025",
-          "audit_dismissal_2025_06_10",
-          "MAILBOX_BANTJIES_BANK_STATEMENTS_2020"
-        ],
-        "pattern": "systematic_coordination",
-        "motive": "R18.75M (Ketoni debt to FFT)_debt_concealment",
-        "evidence_verified": "2026-02-09T04:52:00.000000"
-      }
-    ],
-    "access_relations": [
-        {
-            "relation_id": "REL_ACCESS_001",
-            "relation_type": "had_financial_access_since_2020",
-            "source_entity": "PERSON_007",
-            "target_entity": "ORG_001",
-            "evidence": ["MAILBOX_BANTJIES_BANK_STATEMENTS_2020"],
-            "significance": "Bantjies had deep financial access four years before his trustee appointment.",
-            "evidence_verified": "2026-02-09T04:52:00.000000"
-        },
-        {
-            "relation_id": "REL_ACCESS_002",
-            "relation_type": "controlled_sage_since_2020",
-            "source_entity": "PERSON_002",
-            "target_entity": "ORG_001",
-            "evidence": ["MAILBOX_SAGE_NOTIFICATIONS"],
-            "significance": "Rynette had long-term control over the financial system.",
-            "evidence_verified": "2026-02-09T04:52:00.000000"
-        }
-    ],
-    "insider_relations": [
-        {
-            "relation_id": "REL_INSIDER_001",
-            "relation_type": "had_insider_knowledge_via_george_group",
-            "source_entity": "PERSON_007",
-            "target_entity": "ORG_017",
-            "evidence": ["MAILBOX_BANTJIES_KETONI_GEORGE_GROUP"],
-            "significance": "Bantjies had insider knowledge of the Ketoni deal through his connection to Kevin Derrick.",
-            "evidence_verified": "2026-02-09T04:52:00.000000"
-        }
-    ]
-  }
-}
-```
+**Last Updated:** 2026-03-09  
+**Total Relations:** 17 documented files + 15 JSON-modeled relations  
+**Case Number:** 2025-137857
 
-### [Mailbox Evidence Relations (2026-02-09)](./MAILBOX_EVIDENCE_RELATIONS_2026_02_09.md)
-This document outlines key relationships and communication patterns discovered through the analysis of the RegimA Exchange mailbox data.
-
-### [Contempt Relations (2026-02-09)](./CONTEMPT_RELATIONS_2026_02_09.md)
-This document outlines the relationships relevant to the contempt of court application (brought under Uniform Rule 45A).
-
-### [Rynette-Bantjies Conspiracy (2026-03-07)](./RYNETTE_BANTJIES_CONSPIRACY_2026_03_07.md)
-Comprehensive analysis of 1,632 email communications revealing the coordinated conspiracy between Rynette Farrar and Daniel Bantjies.
-
-### [Villa Via / Kaylovest Identity (2026-03-07)](./VILLA_VIA_KAYLOVEST_IDENTITY.md)
-Dual corporate identity discovery: Villa Via Arcadia No 2 CC and Kaylovest Three (Pty) Ltd share base registration number 1996/004451.
-
-### [Aymac / Kaylovest / Elliott Network (2026-03-07)](./AYMAC_KAYLOVEST_ELLIOTT_NETWORK.md)
-Triple corporate identity confusion across three entities controlled by Peter Faucitt.
-
-### [Forgery Backdating Relations (2026-02-18)](./FORGERY_BACKDATING_RELATIONS_2026_02_18.md)
-Two-date distinction between the 28 June 2024 trust amendment forgery and the 11 August 2025 backdated appointment.
+This index catalogs all entity relationships documented in the Revenue Stream Hijacking case, organized by type and cross-referenced to all 6 applications.
 
 ---
 
-*Last updated: 2026-03-08 | LEX-RECON Cross-Repository Reconciliation Engine*
+## NEW: Conspiracy Network Relations (March 2026)
 
+| Relation | Type | Key Entities | Confidence | Link |
+|----------|------|-------------|------------|------|
+| **Ketoni Insider Trading Network** | Financial Conspiracy | Bantjies, Peter, Rynette, Kevin Derrick | 99% | [View](./KETONI_INSIDER_TRADING_NETWORK.md) |
+| **Revenue Hijacking Chain** | Financial Crime | Rynette, Linda, Gayane, Peter, Bantjies | 99% | [View](./REVENUE_HIJACKING_CHAIN.md) |
+| **Trust Capture Sequence** | Trust Fraud | Rynette, Bantjies, Peter | 99% | [View](./TRUST_CAPTURE_SEQUENCE.md) |
+| **Identity Fraud Network** | Identity Fraud / POPIA | Rynette (as Peter, as Bantjies) | 99% | [View](./IDENTITY_FRAUD_NETWORK.md) |
+| **Dual Corporate Identity** | Corporate Fraud | Villa Via / Kaylovest Three | 95% | [View](./DUAL_CORPORATE_IDENTITY.md) |
 
-### 4. Employee Collusion (KF0019 Evidence)
-* **Rynette Farrar & Peter Faucitt:** Farrar provided confirmatory affidavit (PF19) supporting Peter's contempt application against Jax.
-* **Gayane Williams & Peter Faucitt:** Williams provided confirmatory affidavit (PF20) supporting Peter's contempt application against Jax.
-* **Oliver Mphande & Peter Faucitt:** Mphande provided stock sheets (PF18) to Peter while Peter was attempting to assert control over Jax's business.
+## Existing Conspiracy Relations
+
+| Relation | Type | Key Entities | Confidence | Link |
+|----------|------|-------------|------------|------|
+| **Rynette-Bantjies Conspiracy** | Coordinated Criminal Action | Rynette, Bantjies | 99% | [View](./RYNETTE_BANTJIES_CONSPIRACY_2026_03_07.md) |
+| **Aymac/Kaylovest/Elliott Network** | Shell Company Network | Aymac, Kaylovest, Elliott | 95% | [View](./AYMAC_KAYLOVEST_ELLIOTT_NETWORK.md) |
+| **Villa Via / Kaylovest Identity** | Corporate Identity Fraud | Villa Via, Kaylovest | 95% | [View](./VILLA_VIA_KAYLOVEST_IDENTITY.md) |
+| **Sabotage-Framing Link** | Operational Sabotage | Peter, Rynette | 95% | [View](./sabotage_framing_link.md) |
+
+## Evidence-Based Relations
+
+| Relation | Type | Source | Link |
+|----------|------|--------|------|
+| **Contempt Relations** | Legal Proceedings | Contempt application analysis | [View](./CONTEMPT_RELATIONS_2026_02_09.md) |
+| **Forgery/Backdating Relations** | Documentary Fraud | Two-date distinction analysis | [View](./FORGERY_BACKDATING_RELATIONS_2026_02_18.md) |
+| **Mailbox Evidence Relations** | Communication Patterns | 101,215 email analysis | [View](./MAILBOX_EVIDENCE_RELATIONS_2026_02_09.md) |
+
+## Structural Relations
+
+| Relation | Type | Description | Link |
+|----------|------|-------------|------|
+| **Director Of** | Corporate Governance | Director-company relationships | [View](./director_of.md) |
+| **Shareholder Of** | Ownership | Shareholding relationships | [View](./shareholder_of.md) |
+| **Trustee Of** | Trust Law | Trustee-trust relationships | [View](./trustee_of.md) |
+| **Financial Flow** | Financial | Inter-entity fund flows | [View](./financial_flow.md) |
+
+---
+
+## Relation-to-Application Matrix
+
+This matrix maps each relation to the 6 legal applications, indicating primary (P) and supporting (S) relevance.
+
+| Relation | App 1: Civil/Criminal | App 2: CIPC | App 3: POPIA | App 4: Commercial Crime | App 5: NPA Tax Fraud | App 6: FIC/STR |
+|----------|:---:|:---:|:---:|:---:|:---:|:---:|
+| Ketoni Insider Trading | S | S | | **P** | **P** | **P** |
+| Revenue Hijacking Chain | **P** | S | S | **P** | **P** | **P** |
+| Trust Capture Sequence | **P** | **P** | S | **P** | S | S |
+| Identity Fraud Network | S | S | **P** | **P** | S | S |
+| Dual Corporate Identity | S | **P** | | S | **P** | **P** |
+| Rynette-Bantjies Conspiracy | S | S | S | **P** | S | S |
+| Aymac/Kaylovest/Elliott | S | **P** | | S | **P** | **P** |
+| Villa Via/Kaylovest Identity | S | **P** | | S | **P** | **P** |
+| Sabotage-Framing Link | **P** | S | S | S | | |
+| Contempt Relations | **P** | | | S | | |
+| Forgery/Backdating | **P** | **P** | **P** | **P** | | |
+| Mailbox Evidence | S | S | **P** | **P** | S | S |
+
+**P** = Primary relevance | **S** = Supporting relevance
+
+---
+
+## JSON-Modeled Relations (Structured Data)
+
+The following relations are modeled in structured JSON format within this index for programmatic access:
+
+### Ownership Relations
+- **REL_OWN_001:** PERSON_005 (Dan) → ORG_003 (RegimA Zone UK) — Complete ownership, legitimate
+
+### Control Relations
+- **REL_CTRL_001:** PERSON_001 (Peter) → ORG_001 (RWW) — Directorial control, disputed
+- **REL_CTRL_002:** PERSON_002 (Rynette) → ORG_001 (RWW) — Financial controller, fraudulent
+- **REL_CTRL_009:** PERSON_004 (Jax) → PERSON_002 (Rynette) — Email diversion instruction
+- **REL_CTRL_010:** PERSON_002 (Rynette) → PERSON_LINDA — Payment redirection instruction
+- **REL_CTRL_011:** PERSON_002 (Rynette) → PERSON_GAYANE — Domain change instruction
+
+### Conspiracy Relations
+- **REL_CONSP_001:** PERSON_001 (Peter) ↔ PERSON_002 (Rynette) — Coordinated criminal activity, conclusive
+- **REL_CONSP_004:** PERSON_007 (Bantjies) ↔ PERSON_001 (Peter) — Fraud concealment, conclusive
+
+### Access Relations
+- **REL_ACCESS_001:** PERSON_007 (Bantjies) → ORG_001 — Financial access since 2020
+- **REL_ACCESS_002:** PERSON_002 (Rynette) → ORG_001 — Sage control since 2020
+
+### Insider Relations
+- **REL_INSIDER_001:** PERSON_007 (Bantjies) → ORG_017 (Ketoni) — Insider knowledge via George Group
+
+### Employee Collusion (KF0019 Evidence)
+- **Rynette Farrar & Peter Faucitt:** Farrar provided confirmatory affidavit (PF19) supporting Peter's contempt application against Jax.
+- **Gayane Williams & Peter Faucitt:** Williams provided confirmatory affidavit (PF20) supporting Peter's contempt application against Jax.
+- **Oliver Mphande & Peter Faucitt:** Mphande provided stock sheets (PF18) to Peter while Peter was attempting to assert control over Jax's business.
+
+---
+
+## Cross-References
+
+- [Entities Index](../entities/index.md)
+- [Events Index](../events/index.md)
+- [Timeline](../timeline.md)
+- [Filings Index](../filings/index.md)
+- [Main Index](../index.md)
+
+---
+
+*Last updated: 2026-03-09 | LEX-RECON Cross-Repository Reconciliation + 6-Application Restructure*

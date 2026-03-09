@@ -1,34 +1,35 @@
-# Revenue Stream Hijacking Case 2025-137857
+# Case 2025-137857: Revenue Stream Hijacking & Multi-Jurisdictional Fraud
 
-**Last Updated:** 2026-03-08
+**Last Updated:** 2026-03-09
 
-This site provides comprehensive evidence, analysis, and legal documentation for case 2025-137857 involving revenue stream hijacking, trust violations, and financial fraud totaling over **R63,000,000**.
+This repository provides a comprehensive, evidence-based view of Case 2025-137857, a multi-faceted criminal enterprise involving revenue stream hijacking, trust fraud, identity theft, and corporate malfeasance with a total quantum exceeding **R63,000,000**.
 
-> **Latest Update (2026-03-08):** LEX-RECON cross-repository reconciliation completed. All filings updated to v8 incorporating the Bantjies "manufacture" admission, 100+ banking change emails, and Kaylovest/Villa Via dual corporate identity discovery. See [Filing Index](./filings/index.md) for the latest versions.
+> **Latest Update (2026-03-09):** The evidence repository has been restructured around **6 core legal applications**, providing a clear, organized view of the case. All filings have been updated to v9, incorporating the latest evidence and cross-repository reconciliation.
 
 ---
 
-## THE INTERDICT IS VOID AB INITIO: A WEAPON, NOT JUSTICE
+## The 6 Core Legal Applications
 
-### The Central Finding (2026-02-09)
+The case is now organized into six distinct legal and regulatory applications, each with a specific focus and burden of proof.
 
-The ex parte interdict granted on 19 August 2025 is **void ab initio** (void from the beginning). It was obtained through calculated perjury, material non-disclosure, and fraud on the court. All actions flowing from it, including the contempt application against Jacqueline Faucitt, are without legal foundation.
+| Application | Focus | Burden of Proof | Status | Link |
+|-------------|-------|-----------------|--------|------|
+| **1. Civil & Criminal Actions** | Void Ab Initio, Damages | Civil (50%), Criminal (95%) | EXCEEDED | [View](./application-1-civil-criminal/index.md) |
+| **2. CIPC Companies Act Complaint** | Director Delinquency, Corporate Fraud | Regulatory (50%) | EXCEEDED | [View](./application-2-cipc-complaint/index.md) |
+| **3. POPIA Criminal Complaint** | Identity Fraud, Credential Theft | Criminal (95%) | EXCEEDED | [View](./application-3-popia-complaint/index.md) |
+| **4. Commercial Crime Submission** | Fraud, Theft, Forgery, Racketeering | Criminal (95%) | EXCEEDED | [View](./application-4-commercial-crime/index.md) |
+| **5. NPA Tax Fraud Report** | Tax Evasion, Exchange Control | Criminal (95%) | EXCEEDED | [View](./application-5-npa-tax-fraud/index.md) |
+| **6. FIC Suspicious Transaction Report** | Money Laundering, FICA Violations | Regulatory | EXCEEDED | [View](./application-6-fic-report/index.md) |
+
+---
+
+## Central Thesis: The Interdict is Void Ab Initio
+
+The ex parte interdict granted on 19 August 2025 is **void ab initio** (void from the beginning). It was obtained through calculated perjury, material non-disclosure, and fraud on the court. All actions flowing from it are without legal foundation.
 
 > **"Fraud unravels all"** (*fraus omnia corrumpit*) — The interdict was not a tool for justice. It was a weapon forged through perjury to seize control of company assets and persecute legitimate business owners.
 
-### Agent Foreknowledge Classification (Enhanced with Mailbox Evidence)
-
-| Agent | Role | Tier | Classification | Proven Events |
-|---|---|---|---|---|
-| **Peter Andrew Faucitt** | Applicant / Primary Perpetrator | **A** | Premeditated Conspirator | 11 |
-| **Daniel Jacobus Bantjies** | Accountant / Commissioner of Oaths | **A** | Premeditated Conspirator | **8** |
-| **Rynette Farrar** | Bookkeeper / Co-conspirator | **A** | Premeditated Conspirator | **11** |
-| **Adderory (Rynette's Son)** | Competing Business Registrant | **B** | Active Participant with Proven Knowledge | 2 |
-| **ENS Africa** | Legal Firm | **B** | Active Participant with Proven Knowledge | 1 |
-| **Linda (RegimA Employee)** | Sales/Accounts | **B** | Active Participant with Proven Knowledge | **1** |
-| **Gayane (RegimA Employee)** | Employee | **B** | Active Participant with Proven Knowledge | **1** |
-| **Kent Gillham** | UK Operations Manager | **B** | Active Participant with Proven Knowledge | **1** |
-
+### Key Pillars of the Void Ab Initio Argument
 
 | # | Pillar / Pattern | Evidence | Proof |
 |---|---|---|---|
@@ -37,415 +38,36 @@ The ex parte interdict granted on 19 August 2025 is **void ab initio** (void fro
 | 3 | **Material Non-Disclosure** | Peter concealed the SOLE mandate, FNB letter, card sabotage, and R500K reimbursement context. | Application to Set Aside |
 | 4 | **Supporting Affidavit Fraud** | Bantjies received Daniel's fraud report on 6 June 2025, yet certified a false affidavit on 13 August 2025. | Perjury Reminder emails |
 | 5 | **Direct Admission w/ Concealment** | Peter admits cancelling Daniel's cards but conceals he did so secretly and without authority. | Peter's own affidavit |
-| 6 | **Uniform Rule 6(4)(a) Violation** | The ex parte application failed to meet the stringent requirements for urgency and material disclosure. | Court Filings |
-| 7 | **Uniform Rule 30(1) Irregularity** | The proceedings constitute an irregular step subject to being set aside. | Court Filings |
-| 8 | **Uniform Rule 42(1)(a) Rescission** | The order was erroneously sought and granted in the absence of the affected party. | Court Filings |
-
-### Critical New Evidence (March 2026)
-- **EVENT_119:** Bantjies admission to "manufacture" SARS answer (Smoking Gun)
-- **EVENT_121:** 100+ banking detail change emails proving premeditated revenue hijacking
-- **EVENT_124:** Kaylovest/Villa Via dual corporate identity (1996/004451)
-
-### The Contempt Application: Weaponizing a Void Order
-
-On 4 February 2026, Peter Faucitt filed a Contempt of Court Application seeking **6 months imprisonment** for Jacqueline Faucitt. This is not a legitimate legal action. It is the use of a fraudulent, void court order to imprison a victim of the fraud.
 
 ---
 
-## BANTJIES-FARRAR CONSPIRACY NETWORK (2026-03-08)
+## Key Conspiracy Networks
 
-Analysis of 1,632 email communications between Farrar and Bantjies (2015-2026) reveals the complete architecture of the conspiracy:
+Analysis of over 100,000 emails and financial records reveals several interconnected conspiracy networks driving the fraud.
 
-| Phase | Date | Event | Evidence |
-|---|---|---|---|
-| **Financial Control Takeover** | 2022-06-01 | Removal of independent tax agent Anton Hechter | [EVENT_114](./events/EVENT_114.md) |
-| **Credential Sharing** | 2022-06-23 | Farrar shares eFiling credentials with Bantjies | [EVENT_115](./events/EVENT_115.md) |
-| **Ketoni Manipulation** | 2023-05-09 | Bantjies instructs Farrar to allocate Ketoni to shareholder loan | [EVENT_117](./events/EVENT_117.md) |
-| **Trust Forgery** | 2024-06-28 | Farrar forges "pp Peter" to install Bantjies as trustee | [EVENT_103](./events/EVENT_103.md) |
-| **Admission of Fraud** | 2025-06-06 | Bantjies: "I will manufacture an answer to the 2 interco invoices" | [EVENT_119](./events/EVENT_119.md) |
-| **Revenue Hijacking** | 2025-06-18 | 100+ emails redirecting clients from FNB to ABSA | [EVENT_121](./events/EVENT_121.md) |
-| **Dual Corporate Identity** | 2026-03-07 | Kaylovest Three shares base reg number with Villa Via | [EVENT_124](./events/EVENT_124.md) |
-
-### Latest Filings (v8)
-
-| Filing | Link |
-|---|---|
-| **Commercial Crime Submission** | [View v8](./filings/COMMERCIAL_CRIME_SUBMISSION_REFINED_2026_03_08_v8.md) |
-| **CIPC Complaint** | [View v8](./filings/CIPC_COMPLAINT_REFINED_2026_03_08_v8.md) |
-| **POPIA Complaint** | [View v8](./filings/POPIA_COMPLAINT_REFINED_2026_03_08_v8.md) |
-| **NPA Tax Fraud Report** | [View v8](./filings/NPA_TAX_FRAUD_REPORT_REFINED_2026_03_08_v8.md) |
+| Network | Description | Key Evidence | Link |
+|---------|-------------|--------------|------|
+| **Ketoni Insider Trading** | Bantjies' dual role as debtor CFO and creditor Trustee to seize ZAR 18.75M payout. | Conflict of Interest Matrix | [View](./relations/KETONI_INSIDER_TRADING_NETWORK.md) |
+| **Revenue Hijacking Chain** | 100+ emails prove premeditated campaign to divert R10.27M+ to fraudulent ABSA accounts. | EVENT_121 | [View](./relations/REVENUE_HIJACKING_CHAIN.md) |
+| **Trust Capture Sequence** | Forgery (28 June 2024) and backdating (11 Aug 2025) to install a complicit trustee. | EVENT_103, EVENT_104 | [View](./relations/TRUST_CAPTURE_SEQUENCE.md) |
+| **Identity Fraud Network** | Rynette Farrar's systematic impersonation of Peter Faucitt across all digital systems. | EVENT_113 (Stylometry) | [View](./relations/IDENTITY_FRAUD_NETWORK.md) |
+| **Dual Corporate Identity** | Villa Via and Kaylovest Three share a CIPC registration base (1996/004451) to obscure assets. | EVENT_124 | [View](./relations/DUAL_CORPORATE_IDENTITY.md) |
 
 ---
 
-## SARS IDENTITY FRAUD, TRUST GATEKEEPING & VILLA VIA NEGLIGENCE (2026-03-03)
+## Navigation
 
-New evidence from the Neon database reveals a pattern of identity fraud, information control, and professional negligence:
+- **[Master Filing Index](./filings/index.md)**: Direct links to all 6 application filings.
+- **[Master Evidence Index](./evidence_index.md)**: Comprehensive catalog of all evidence.
+- **[Master Timeline](./timeline.md)**: Chronological view of all 150+ events.
+- **[Master Entities Index](./entities/index.md)**: Index of all 120+ involved entities.
+- **[Master Relations Index](./relations/index.md)**: Index of all documented conspiracy networks and structural relationships.
 
-- **[EVENT_107: Rynette Logs Into SARS as Bantjies](./events/EVENT_107.md) (26 April 2024):** Rynette admits in an email to logging into SARS eFiling using Bantjies' credentials to change banking details, proving she had access to his tax practitioner profile.
-- **[EVENT_106: Villa Via Wrong Reg Number Since 2014](./events/EVENT_106.md) (12 Jan 2022):** Bantjies admits to using an incorrect company registration number for Villa Via for 8 years, and Rynette acknowledges the CIPC/SARS risk.
-- **[EVENT_108: Trust Gatekeeping](./events/EVENT_108.md) (May 2023):** Rynette acts as the sole intermediary for Faucitt Family Trust matters, excluding beneficiaries Jax and Daniel from communications.
+### Supporting Repositories
 
----
+- **[ad-res-j7](https://github.com/cogpy/ad-res-j7)**: Extended evidence repository with over 2,800 files.
 
-## CRITICAL: TWO-DATE DISTINCTION — Trust Forgery vs. Backdated Appointment (2026-02-18)
-
-There are **two distinct dates** relevant to the appointment of Danie Bantjies as trustee, and the distinction is legally critical:
-
-| Date | Document | Action | Significance |
-|------|----------|--------|--------------|
-| **28 June 2024** | Trust Amendment Resolution (SF15) | Rynette forges "pp Peter" signature to install Bantjies as trustee | **THE FORGERY** — 10 days before Sage affidavit |
-| **11 August 2025** | "Main Trustee" Agreement (backdated to 1 July 2025) | Rynette emails Bantjies his appointment communication | **THE BACKDATING** — 2 days before Bantjies swears affidavit |
-
-### EA-18: The 10-Day Coordinated Action Window
-
-The 28 June 2024 forgery date places Rynette's trust amendment forgery **10 days before** the Sage affidavit fraud (8–9 July 2024). This proximity proves **coordinated criminal action** rather than coincidence:
-
-| Day | Date | Action | Target |
-|-----|------|--------|--------|
-| Day 0 | **28 June 2024** | Trust amendment forgery | Faucitt Family Trust |
-| Day 3 | 1 July 2024 | Bantjies sends ID | Trust appointment |
-| Day 10 | 8 July 2024 | Sage switch initiated | Sage Accounting |
-| Day 11 | **9 July 2024** | Sage ownership transferred | Sage Worldwide |
-
-### The 3-Day Interdict Sprint (August 2025)
-
-| Day | Date | Action |
-|-----|------|--------|
-| Day 0 | **11 Aug 2025** | Rynette emails backdated "Main Trustee" to Bantjies |
-| Day 2 | **13 Aug 2025** | Bantjies swears confirmatory affidavit |
-| Day 3 | **14 Aug 2025** | Interdict filed via Court Online (08:16:25 SAST) |
-
-**[→ Full Two-Date Distinction Analysis](./evidence/TWO_DATE_DISTINCTION_ANALYSIS.md)** | **[EVENT_103: Forgery](./events/EVENT_103.md)** | **[EVENT_104: Backdating](./events/EVENT_104.md)** | **[EVENT_105: EA-18](./events/EVENT_105.md)**
 
 ---
 
-## RWD FORMAL NOTICES (February 2026)
-
-Regima Worldwide Distribution (Pty) Ltd, acting through a majority of its Board of Directors (Mrs. Jacqueline Faucitt and Mr. Daniel James Faucitt), has issued formal corporate notices placing all parties on notice of documentary evidence of identity misappropriation, material non-disclosure, and systematic operational sabotage.
-
-**[→ View Full RWD Notices](./rwd-notices/index.md)**
-
-| Notice | Date | Key Content |
-|---|---|---|
-| **[RWD/NOTICE/001](./rwd-notices/RWD_NOTICE_001.md)** | 13 Feb 2026 | Identity misappropriation of P.A. Faucitt by Rynette Farrar; material non-disclosure rendering interdict void ab initio; R10.6M extraction; provable knowledge notice to all parties |
-| **[RWD/NOTICE/002](./rwd-notices/RWD_NOTICE_002.md)** | 14 Feb 2026 | Systematic destruction of e-commerce fulfillment pipeline; Shopify decommissioning; Courier Guy API breakage; self-contradicting contempt threat; operational lockout pattern |
-
-### Key Findings from the Notices
-
-RWD/NOTICE/001 establishes that **Mr. Peter Faucitt does not use electronic communication systems** and that all digital communications attributed to him were authored by Ms. Rynette Farrar, who simultaneously operated `pete@regima.com` and her own `rynette@regima.zone` on the Sage system. The notice argues the interdict is void ab initio due to the suppression of FNB's own FICA/KYC records confirming a SOLE mandate held by Daniel James Faucitt.
-
-RWD/NOTICE/002 documents the systematic destruction of the company's integrated fulfillment pipeline (Shopify → Courier Guy API → Sage Pastel) and exposes an irreconcilable contradiction: the Applicant simultaneously blames the Second Respondent for not fulfilling orders while threatening him with contempt for restoring the infrastructure necessary to fulfil them.
-
-### Disclosure Package & Board Meeting Notice (16 February 2026)
-
-A formal disclosure letter has been prepared for service on Mr. Peter Andrew Faucitt. The letter frames the notification as a **protective disclosure** — citing the Board's concern that Peter's identity may have been misappropriated by Ms. Rynette Farrar to commit criminal acts in his name. The letter gives Peter the opportunity to attend a board meeting, review the evidence, and declare whether the offences were committed without his knowledge or whether he personally committed them and wishes to provide justification. The meeting agenda includes the proposed resolutions for his removal as director (s71(3)) and the authorisation of a court application for his removal as CC member (s36). A detailed multi-channel service protocol ensures an irrefutable record of delivery.
-
-**[→ View Disclosure Package & Service Protocol](./disclosure-package/index.md)**
-
-### CIPC Complaint (16 February 2026)
-
-A formal complaint has been drafted for submission to the CIPC at `Cor135.1complaints@cipc.co.za`, incorporating the evidence from both RWD Notices. The complaint seeks a delinquency declaration under s162, investigation of contraventions of s76, s77, s22, and s214, and referral for criminal investigation.
-
-**[→ View CIPC Complaint Draft](./filings/CIPC_COMPLAINT_RWD_NOTICES_2026_02_16.md)**
-
-### Board Resolution: Removal of Director (Section 71(3))
-
-A formal board resolution package has been prepared for the removal of Peter Andrew Faucitt as director under Section 71(3) of the Companies Act, on the grounds of neglect and dereliction of the functions of a director. The package includes the statutory notice, the resolution, and the minutes template, together with a CIPC CoR39 filing checklist.
-
-**[→ View Board Resolution Package](./board-resolutions/index.md)**
-
-### CC Member Removal: Strategic Logistics (Section 36)
-
-A draft court application has been prepared for the removal of Peter Andrew Faucitt as a member of Strategic Logistics CC (2008/136496/23) under Section 36 of the Close Corporations Act 69 of 1984. Unlike a Pty company, a CC member **cannot** be removed by resolution — it requires a **court order**. The application is based on prejudicial conduct (s36(1)(b)) and the impracticability of continuing in business together (s36(1)(c)).
-
-**[→ View CC Member Removal Application](./cc-member-removal/index.md)**
-
-### Domain Dispute: regimaskin.co.za
-
-Draft filings have been prepared for the dispute over the domain `regimaskin.co.za`, registered by Addarory (Pty) Ltd (Rynette Farrar's son's company) on 29 May 2025 — just 7 days after the Shopify audit trails were deleted. Two parallel processes are in motion: an **SAIIPL ADR Complaint** (formal transfer proceedings, R10,000 fee, 2-3 month resolution) and a **ZARC Abuse Takedown Request** (immediate suspension request to the registry, no fee). Both should be filed simultaneously.
-
-**[→ View Domain Dispute Filings](./domain-dispute/index.md)**
-
----
-
-## SAGE ACCOUNT TAKEOVER & STOCK2SHOP RECONFIGURATION (2020-2024)
-
-A comprehensive analysis of the Sage Accounting system takeover and the forced Stock2Shop API reconfiguration. The evidence proves Rynette Farrar orchestrated the transfer of the Sage Worldwide account from the deceased Kayla Pretorius to Peter Faucitt on **9 July 2024**, immediately breaking the Stock2Shop integration and requiring a 10-day reconfiguration.
-
-**[→ View Full Sage Capture Evidence](./sage-capture/index.md)**
-
-| Date | Event | Significance |
-|---|---|---|
-| **2020-05-18** | Kayla Pretorius invites Rynette to Sage | Rynette's entry as a standard user |
-| **2023-07-13** | Kayla Pretorius dies | Sage owner is now deceased |
-| **2023-11-13** | Rynette initiates admin username change | First takeover attempt |
-| **2024-06-28** | **Rynette forges "pp Peter" on trust amendment** | **FORGERY** — installs Bantjies as trustee ([EVENT_103](./events/EVENT_103.md)) |
-| **2024-07-09** | Sage owner switched Kayla→Pete | Fraudulent transfer executed — **10 days after forgery** ([EA-18](./events/EVENT_105.md)) |
-| **2024-07-10** | Stock2Shop integration breaks | Immediate consequence of takeover |
-| **2024-07-10–19** | Stock2Shop reconfiguration | 10-day fix; Sebastian changes all portals from Kayla's credentials to Pete's |
-
----
-
-## MAILBOX EVIDENCE ANALYSIS (2026-02-09)
-
-### Exchange Mailbox Forensic Analysis
-
-A comprehensive analysis of the RegimA Exchange mailbox (**101,215 emails**, 2020-2026) has been completed using the **finfluent**, **acc-fund-flow**, and **provable-foreknowledge** frameworks. This analysis provides direct, documentary proof of long-term financial control, infrastructure hijacking, and premeditated actions.
-
-| Metric | Value |
-|---|---|
-| **Total Messages Analyzed** | 101,215 |
-| **Date Range** | 2020-05-18 to 2026-02-09 |
-| **Financial Emails** | 28,037 |
-| **Fraud-Keyword Emails** | 191 |
-| **Payment Redirection Emails** | 801 |
-| **Sage Accounting Emails** | 6,649 |
-
-### Key Findings from Mailbox Evidence
-
-| Finding | Date | Evidence | Significance |
-|---|---|---|---|
-| **Bantjies had financial access since 2020** | 2020-07-27 | `MAILBOX_BANTJIES_BANK_STATEMENTS_2020` | Proves 4 years of insider access before FFT appointment |
-| **Rynette controlled Sage from 2020** | 2020-05-18 | `MAILBOX_SAGE_NOTIFICATIONS` | Proves long-term financial system control |
-| **Email diversion to Rynette** | 2020-08-29 | `MAILBOX_JAX_DIVERT_EMAIL_2020` | Information control infrastructure |
-| **Jacqueline detected fraud early** | 2021-02-21 | `MAILBOX_JAX_FRAUD_DETECTION_2021` | Early fraud awareness |
-| **Bantjies discussed Ketoni from George Group** | 2023-05-31 | `MAILBOX_BANTJIES_KETONI_GEORGE_GROUP` | Insider knowledge of R18.685M deal |
-| **Bantjies manipulated FFT agreement** | 2025-01-29 | `MAILBOX_BANTJIES_FFT_AGREEMENT` | Active trust manipulation |
-| **Rynette initiated payment redirection** | 2025-05-05 | `MAILBOX_RYNETTE_BANKING_DETAILS_EMAIL` | Started the theft mechanism |
-| **Mass bank detail change campaign** | 2025-06-18 | `MAILBOX_LINDA_CHANGE_OF_BANK_JUNE_2025` | 39+ emails redirecting payments FNB→Absa |
-| **Email domain abandonment** | 2025-06-20 | `MAILBOX_GAYANE_EMAIL_CHANGE_2025` | Infrastructure hijacking completion |
-
-### Mailbox Evidence Documents
-
-| Document | Description |
-|---|---|
-| **[Fund Flow Analysis](./evidence/mailbox_analysis/fund_flow_analysis.html)** | Interactive fund flow visualization |
-| **[Foreknowledge Register](./evidence/mailbox_analysis/foreknowledge_register.json)** | Complete foreknowledge register with 18 facts and 23 events |
-| **[Classification Report](./evidence/mailbox_analysis/classification_report.md)** | Agent tier classifications from mailbox evidence |
-| **[Knowledge Matrix](./evidence/mailbox_analysis/knowledge_matrix.md)** | Who knew what, when — from mailbox evidence |
-| **[Per-Agent Audit Trail](./evidence/mailbox_analysis/per_agent_audit_trail.md)** | Chronological knowledge log per agent |
-| **[Mailbox Relations](./relations/MAILBOX_EVIDENCE_RELATIONS_2026_02_09.md)** | Communication patterns and control flows |
-
----
-
-## VOID AB INITIO ANALYSIS OUTPUTS (2026-02-09)
-
-The following documents constitute the complete provable-foreknowledge analysis of the ex parte interdict:
-
-| Document | Description |
-|---|---|
-| **[Final Void Ab Initio Report](./filings/FINAL_VOID_AB_INITIO_REPORT_2026_02_09.md)** | **LATEST: 8 pillars, knowledge matrix, 23 proven events, full per-agent audit trail** |
-| **[Foreknowledge Classification Report](./filings/VOID_AB_INITIO_CLASSIFICATION_REPORT_2026_02_09.md)** | Agent tier classifications (A/B/C/D) with evidence tables |
-| **[Knowledge Matrix](./filings/VOID_AB_INITIO_KNOWLEDGE_MATRIX_2026_02_09.md)** | Who knew what, and when — the conspiracy map |
-| **[Per-Agent Audit Trail](./filings/VOID_AB_INITIO_PER_AGENT_AUDIT_TRAIL_2026_02_09.md)** | Chronological knowledge log per agent |
-| **[Void Ab Initio Reassessment](./filings/VOID_AB_INITIO_REASSESSMENT_2026_02_09.md)** | The interdict as a weapon — legal framework |
-
-### Foreknowledge Timeline
-
-![Foreknowledge Timeline](./foreknowledge_timeline_void_ab_initio.png)
-
----
-
-## MAT4719 — FOUNDING APPLICATION EVIDENCE (Split & Indexed 2026-02-09)
-
-The original 162-page ex parte application (NOM, Founding Affidavit & Annexures) has been split into 14 individually-referenced chapter files with a comprehensive evidence index.
-
-**[→ View Full MAT4719 Evidence Index](./evidence/MAT4719_NOM_FOUNDING_AFFIDAVIT.md)**
-
-| Chapter | Pages | Description | Key Finding |
-|---|---|---|---|
-| Notice of Motion | 2–9 | Part A & Part B relief | Ex parte; Rule 6(12)(a) dispensation |
-| Founding Affidavit | 10–38 | Peter Faucitt's sworn affidavit | **Primary instrument of fraud** |
-| PF1–PF4 | 39–58 | WinDeed company reports | Company structures and directorships |
-| PF5–PF6 | 59–68 | Financial & supporting docs | Balance sheets |
-| Confirmatory Affidavit | 69–71 | Bantjes (SAICA 00105928) | **Perjury: 68 days after fraud report** |
-| PF7 | 72–101 | Communications evidence | Legitimate business operations |
-| PF9 | 102–137 | Credit card transactions | **R6,738,007** in platform expenses |
-| PF10 | 138–161 | Expense ledger (Mar–Jul 2025) | **R2,116,159.47** categorised spend |
-| PF11 | 162 | FNB SMS warning | Peter **aware** of spending scale |
-
-**Combined Technology Spend: R8,854,166.47** — All legitimate e-commerce platform vendors (Shopify, GitHub, Cloudflare, Vercel, Google, etc.)
-
----
-
-## NEW EVIDENCE (February 2026): Void Ab Initio Proof
-
-The following documents, sent by Daniel Faucitt to Pottas Attorneys on 4 February 2026, provide irrefutable proof that the interdict is void.
-
-| Document | Content | Significance |
-|---|---|---|
-| **FNB Sole Mandate — RegimA Worldwide** | FNB Legal letter (18 Jun 2025): "any of the directors may act independently" | **Destroys the entire foundation of the interdict** |
-| **FNB Sole Mandate — Strategic Logistics** | FNB Mandate from 2021: Daniel = "Administrator with Sole General Powers" (17+ year mandate) | **Proves "unauthorized" claim was a fabrication** |
-| **Perjury Reminder Part 1 & 2** | Email chain: Daniel warned Bantjies of fraud on 6 Jun 2025; Bantjies forwarded to his work email; yet signed false affidavit 2 months later | **Proves Bantjies committed perjury with foreknowledge** |
-| **Application to Set Aside v2** | Complete legal argument for void ab initio status | **The legal framework for setting aside the order** |
-| **Peter's Founding Affidavit (Structured)** | The perjured document itself, paragraph by paragraph | **The instrument of fraud** |
-
----
-
-## REFINED LEGAL FILINGS (2026-03-08 — LEX-RECON Reconciliation + Uniform Rules of Court)
-
-All legal filings have been updated to **v8** incorporating the Bantjies-Farrar conspiracy network evidence, Kaylovest/Villa Via dual identity, and Uniform Rules of Court citations. The interdict is void ab initio under **Uniform Rule 42(1)(a)** for being erroneously sought and granted in the absence of the affected party.
-
-| Filing | Type | Burden | Latest Version |
-|---|---|---|---|
-| **Commercial Crime Submission** | Criminal | 95% EXCEEDED | **[View v8 (2026-03-08)](./filings/COMMERCIAL_CRIME_SUBMISSION_REFINED_2026_03_08_v8.md)** |
-| **CIPC Complaint** | Regulatory | 50% EXCEEDED | **[View v8 (2026-03-08)](./filings/CIPC_COMPLAINT_REFINED_2026_03_08_v8.md)** |
-| **POPIA Complaint** | Criminal | 95% EXCEEDED | **[View v8 (2026-03-08)](./filings/POPIA_COMPLAINT_REFINED_2026_03_08_v8.md)** |
-| **NPA Tax Fraud Report** | Criminal | 95% EXCEEDED | **[View v2.0 (2026-03-08)](./filings/npa_tax_fraud_report_REFINED_2026_03_08.md)** |
-| **FIC Suspicious Transaction Report** | Regulatory | EXCEEDED | **[View v8 (2026-03-08)](./filings/regulatory/FIC_SUSPICIOUS_TRANSACTION_REPORT_REFINED_2026_03_08_v8.md)** |
-| **Professional Misconduct Complaint** | Professional Body | EXCEEDED | **[View v8 (2026-03-08)](./filings/regulatory/PROFESSIONAL_MISCONDUCT_COMPLAINT_REFINED_2026_03_08_v8.md)** |
-| **FINAL Void Ab Initio Report** | Analysis | — | **[View (2026-02-09)](./filings/FINAL_VOID_AB_INITIO_REPORT_2026_02_09.md)** |
-| **Civil Contempt Analysis** | Civil | 50% EXCEEDED | **[View (2026-02-09)](./filings/CIVIL_CONTEMPT_ANALYSIS_2026_02_09.md)** |
-
-### Previous Versions
-| Filing | v4 (MAT4719) | v3 (Void Ab Initio) | v2 | v1 |
-|---|---|---|---|---|
-| CIPC | **[v4](./filings/CIPC_COMPLAINT_REFINED_2026_02_09_v4.md)** | [v3](./filings/CIPC_COMPLAINT_REFINED_2026_02_09_v3.md) | [v2](./filings/CIPC_COMPLAINT_REFINED_2026_02_09_v2.md) | [v1](./filings/CIPC_COMPLAINT_REFINED_2026_02_09.md) |
-| POPIA | **[v4](./filings/POPIA_COMPLAINT_REFINED_2026_02_09_v4.md)** | [v3](./filings/POPIA_COMPLAINT_REFINED_2026_02_09_v3.md) | [v2](./filings/POPIA_COMPLAINT_REFINED_2026_02_09_v2.md) | [v1](./filings/POPIA_COMPLAINT_REFINED_2026_02_09.md) |
-| NPA Tax Fraud | **[v4](./filings/NPA_TAX_FRAUD_REPORT_REFINED_2026_02_09_v4.md)** | [v3](./filings/NPA_TAX_FRAUD_REPORT_REFINED_2026_02_09_v3.md) | [v2](./filings/NPA_TAX_FRAUD_REPORT_REFINED_2026_02_09_v2.md) | [v1](./filings/NPA_TAX_FRAUD_REPORT_REFINED_2026_02_09.md) |
-| Commercial Crime | **[v4](./filings/COMMERCIAL_CRIME_SUBMISSION_REFINED_2026_02_09_v4.md)** | [v3](./filings/COMMERCIAL_CRIME_SUBMISSION_REFINED_2026_02_09_v3.md) | [v2](./filings/COMMERCIAL_CRIME_SUBMISSION_REFINED_2026_02_09_v2.md) | [v1](./filings/COMMERCIAL_CRIME_SUBMISSION_REFINED_2026_02_09.md) |
-
----
-
-## REFINED CENTRAL MOTIVE: Ketoni ZAR 18.685M Payout (May 2026)
-
-A **ZAR 18.685 million payout**, owed by **Ketoni Investment Holdings** to the **Faucitt Family Trust** in **May 2026**, is the central motive. The entire conspiracy is a strategic plan to neutralize beneficiaries and seize control of this payout.
-
-| Factor | Detail |
-|---|---|
-| **Debtor** | Ketoni Investment Holdings (Pty) Ltd |
-| **Creditor** | Faucitt Family Trust |
-| **Payout Date** | May 2026 |
-| **Total Payout** | ZAR 18.685M |
-| **Insider Access** | Danie Bantjies (Trustee) has insider access via Ketoni's director |
-
-**[→ View Complete Ketoni Timeline](./ketoni-timeline.md)**
-
----
-
-## Quick Navigation by Application
-
-### [Application 1: Civil & Criminal Actions](./application-1-civil-criminal.md)
-
-| Category | Status | Evidence Strength |
-|---|---|---|
-| Civil Claims (50% burden) | EXCEEDED | Conclusive |
-| Criminal Charges (95% burden) | EXCEEDED | 12 of 13 charges meet 90%+ threshold |
-| **Void Ab Initio** | **8 PILLARS PROVEN** | **3 Tier A agents — 23 proven events** |
-
-### [Application 2: CIPC & POPIA Complaints](./application-2-cipc-popia.md)
-
-| Violation Type | Status | Key Sections |
-|---|---|---|
-| Companies Act Violations | DOCUMENTED | s76(3), s77, s162, s163 |
-| POPIA Violations | DOCUMENTED | s107(1), s107(2) |
-
-### [Application 3: Commercial Crime & Tax Fraud](./application-3-commercial-crime-tax-fraud.md)
-
-| Crime Category | Status | Evidence |
-|---|---|---|
-| Commercial Crimes | DOCUMENTED | Fraud, theft, forgery, racketeering |
-| Tax Fraud | DOCUMENTED | Income tax evasion, VAT fraud |
-| **Perjury** | **EXCEEDED** | **Provable foreknowledge of false claims** |
-| **Fabrication** | **EXCEEDED** | **Fake 2019 accounts — irrefutable** |
-
----
-
-## Evidence & Analysis
-
-| Document | Description |
-|---|---|
-| **[FINAL Void Ab Initio Report](./filings/FINAL_VOID_AB_INITIO_REPORT_2026_02_09.md)** | **LATEST: 8 pillars, knowledge matrix, 23 proven events** |
-| **[Foreknowledge Classification Report](./filings/VOID_AB_INITIO_CLASSIFICATION_REPORT_2026_02_09.md)** | Agent tier classifications with evidence |
-| **[Knowledge Matrix](./filings/VOID_AB_INITIO_KNOWLEDGE_MATRIX_2026_02_09.md)** | Conspiracy map — who knew what, when |
-| **[Per-Agent Audit Trail](./filings/VOID_AB_INITIO_PER_AGENT_AUDIT_TRAIL_2026_02_09.md)** | Chronological knowledge log per agent |
-| **[Void Ab Initio Reassessment](./filings/VOID_AB_INITIO_REASSESSMENT_2026_02_09.md)** | The interdict as a weapon |
-| **[Contempt Evidence Summary](./evidence/CONTEMPT_EVIDENCE_SUMMARY_2026_02_09.md)** | Analysis of contempt application |
-| **[Contempt Relations Map](./relations/CONTEMPT_RELATIONS_2026_02_09.md)** | Party and temporal relations |
-| **[Mailbox Fund Flow Analysis](./evidence/mailbox_analysis/fund_flow_analysis.html)** | Interactive fund flow from mailbox data |
-| **[Mailbox Foreknowledge Register](./evidence/mailbox_analysis/foreknowledge_register.json)** | 18 facts, 23 events from mailbox |
-| **[Mailbox Classification Report](./evidence/mailbox_analysis/classification_report.md)** | Agent classifications from mailbox |
-| **[Mailbox Knowledge Matrix](./evidence/mailbox_analysis/knowledge_matrix.md)** | Mailbox-derived conspiracy map |
-| **[Mailbox Relations](./relations/MAILBOX_EVIDENCE_RELATIONS_2026_02_09.md)** | Communication patterns |
-| **[Evidence Index](./evidence_index_2026_02_06.md)** | Comprehensive catalog with all evidence |
-| **[Super-Sleuth Report](./super_sleuth_report_2026_02_06.md)** | Divergent analysis of evidence |
-| **[Hyper-Holmes Report](./hyper_holmes_report_2026_02_06.md)** | Convergent validation of leads |
-| **[Master Timeline](./timeline.md)** | Complete chronological event sequence |
-| **[Entities Directory](./entities/index.md)** | All persons and organizations (103+) |
-| **[Events Directory](./events/index.md)** | All documented events (147+) |
-| **[MAT4719 Evidence Index](./evidence/MAT4719_NOM_FOUNDING_AFFIDAVIT.md)** | Split chapters of founding application |
-| **[Confirmatory Affidavit — Bantjes (Transcribed)](./evidence/Confirmatory_Affidavit_Bantjes.md)** | Identical transcription of Bantjes confirmatory affidavit (pages 69–71) |
-
----
-
-### New Entities (2026-02-09)
-| Entity | Type | Role |
-|---|---|---|
-| **[ORG_020](./entities/ORG_020.md)** | Elliott Attorneys Inc | Applicant's Attorneys |
-| **[ORG_021](./entities/ORG_021.md)** | Pottas Attorneys | Respondent's Attorneys |
-| **[PERSON_019](./entities/PERSON_019.md)** | Oliver ("Arthur") | Employee (Warehouse) |
-| **[PERSON_LINDA](./entities/PERSON_LINDA.md)** | Linda (RegimA Employee) | Active Participant in Payment Redirection |
-| **[PERSON_GAYANE](./entities/PERSON_GAYANE.md)** | Gayane (RegimA Employee) | Active Participant in Infrastructure Hijacking |
-
-### New Events (2026-02-09)
-| Event | Date | Description |
-|---|---|---|
-| **[EVENT_095](./events/EVENT_095.md)** | 2025-09-18 | Mediation and settlement agreements |
-| **[EVENT_096](./events/EVENT_096.md)** | 2025-09-22 | Notice of withdrawal from settlements (duress) |
-| **[EVENT_097](./events/EVENT_097.md)** | 2025-11-04 | Variation application dismissed |
-| **[EVENT_098](./events/EVENT_098.md)** | 2026-01-10 | Stock removal blocked (R200K) |
-| **[EVENT_099](./events/EVENT_099.md)** | 2026-01-12 | Attorney correspondence re contempt |
-| **[EVENT_100](./events/EVENT_100.md)** | 2025-12-02 | Bank cards, phone removal, body guard |
-| **[EVENT_101](./events/EVENT_101.md)** | 2026-02-04 | Contempt application filed |
-| **[EVENT_102](./events/EVENT_102.md)** | 2026-02-04 | Void ab initio evidence submitted |
-
----
-
-## Extended Evidence Reference
-
-For comprehensive supporting evidence, see the **[ad-res-j7 repository](https://github.com/cogpy/ad-res-j7)**.
-
----
-
-## Timeline Convergence: All Roads Lead to Ketoni (May 2026)
-
-| Date | Event | T-Months |
-|---|---|---|
-| 2020-07-27 | **Bantjies receives RegimA bank statements (MAILBOX)** | **T-70** |
-| 2023-04-24 | FFT invests in Ketoni (R18.685M) | T-37 |
-| 2023-05-31 | **Bantjies discusses Ketoni from George Group (MAILBOX)** | **T-36** |
-| 2023-07-13 | Kayla Pretorius death | T-34 |
-| 2025-05-05 | **Rynette initiates payment redirection (MAILBOX)** | **T-12** |
-| 2025-05-22 | Shopify hijacking | T-12 |
-| 2025-06-07 | Secret card cancellations | T-11 |
-| 2025-06-18 | **FNB Legal confirms SOLE authority** | **T-11** |
-| 2025-06-18 | **Linda sends 39+ bank change emails (MAILBOX)** | **T-11** |
-| 2025-06-20 | **Gayane announces email domain change (MAILBOX)** | **T-11** |
-| 2025-08-13 | **Peter swears perjured affidavit** | **T-9** |
-| 2025-08-19 | Ex parte interdict (sole control) | T-9 |
-| 2025-09-03 | **R10.6M extracted within 8 days** | T-8 |
-| 2025-09-18 | Settlement agreements (Forvis Mazars) | T-8 |
-| 2025-09-22 | Notice of withdrawal from settlements (duress) | T-8 |
-| 2025-11-04 | Variation application dismissed | T-6 |
-| 2025-12-02 | Phone removal, common home issues | T-5 |
-| 2026-01-10 | Stock blocking (R200K) | T-4 |
-| 2026-02-04 | Contempt application filed (void order) | T-3 |
-| **2026-03-07** | **Kaylovest/Villa Via dual corporate identity discovered** | **T-2** |
-| **2026-05** | **Ketoni payout due** | **T-0** |
-
-*Last Updated: 2026-03-08 — LEX-RECON Reconciliation + Bantjies-Farrar Conspiracy Network + Dual Corporate Identity (8 Pillars, 9 Agents, 18 Material Facts, 25 Knowledge Events, 112 Entities, 155+ Events)*
-
-## KL0034 Letter of Demand — Evidence Mapping
-A comprehensive analysis of the Elliott Attorneys Letter of Demand (KL0034) against the 1M+ email corpus reveals that **every single allegation** made by Jacqueline Faucitt is supported by extensive email evidence. The demand letter is therefore not a legitimate legal instrument but an attempt to suppress truthful testimony through legal intimidation.
-
-[View the full KL0034 Evidence Mapping Report](evidence/KL0034_EVIDENCE_MAPPING_2026_03_08.md)
-
-## Strategic Logistics R5.4M Stock Adjustment Fraud
-A deep dive into the R5.4M stock adjustment loss at Strategic Logistics Group (SLG) reveals a circular fraud pattern. Rynette Farrar controlled the stock adjustments at SLG, while her son (Darren Dennis Farrar)'s company (Addarory) supplied the same raw materials back to RegimA. Email evidence proves Rynette personally performed the adjustments, processed payments to Addarory, and sent Addarory's bank details to Peter.
-
-[View the full SLG Stock Adjustment Fraud Analysis](evidence/SLG_STOCK_ADJUSTMENT_FRAUD_ANALYSIS.md)
-
-## Entity Correction: Darren Dennis Farrar (PERSON_003)
-**Important clarification (2026-03-08):** Addarory (Pty) Ltd (K2021582401) is owned and directed by **Darren Dennis Farrar**, Rynette Farrar's son. Rynette confirmed this in an email dated 2024-10-08 to Ana at Prime Product: *"Addarory is a company that was run by my late husband, Adrian. Darren, my son is the director of the company, and I'm doing all the admin and finances for Addarory at this stage."* Darren is also director of Dream Media Studios, Luxuré, Luxury Products Online, and Black Water Weddings. Kent Gillham (PERSON_037) is a **separate person** — an employee at regimaskin.co.za who handles sales and order processing. Kent is NOT Rynette's son.
-
-[B2BHint: Addarory K2021582401](https://b2bhint.com/en/company/za/addarory--K2021582401)
+*Last Updated: 2026-03-09 | 6-Application Structure Implemented*
