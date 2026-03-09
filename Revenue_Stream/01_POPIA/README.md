@@ -6,7 +6,7 @@ This documentation provides comprehensive evidence demonstrating the stark contr
 
 1. **The Previous Decade's System**: A transparent, POPIA-compliant Shopify platform with integrated audit trails, customer communication through regima.zone email, and synchronized systems for sales, accounting, warehouse fulfillment, and courier logistics.
 
-2. **The Current Hijacked System**: A completely opaque operation where only Rynette controls all aspects of multiple businesses from her personal computer with no oversight or cross-checks, using the suspect Addarory domain (owned by her son) instead of the legitimate regima.zone domain owned by RegimA.
+2. **The Current Hijacked System**: A completely opaque operation where only Rynette controls all aspects of multiple businesses from her personal computer with no oversight or cross-checks, using the suspect Addarory domain (owned by her son (Darren Dennis Farrar)) instead of the legitimate regima.zone domain owned by RegimA.
 
 ## Primary Objective
 

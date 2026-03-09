@@ -71,7 +71,7 @@ Peter made unauthorized transfers of R900,000 from RegimA SA without Daniel's au
 R5.4M worth of stock physically disappeared from Strategic Logistics warehouse:
 - Represents 46% of annual sales
 - 10x historical adjustment rate
-- Same stock type later supplied by Adderory (Rynette's son's company) to RegimA
+- Same stock type later supplied by Adderory (Rynette's son (Darren Dennis Farrar)'s company) to RegimA
 
 **Legal Significance:** Stock theft exceeding criminal threshold; direct connection to competing entity.
 
@@ -122,7 +122,7 @@ Sage subscription expired, blocking access to financial records for over 1 month
 **Evidence:** ANNEXURES/SF5_Adderory_Company_Registration_Stock_Supply.md
 **Burden of Proof:** ✅ 95%+ (Criminal threshold exceeded)
 
-Rynette's son registered Adderory (Pty) Ltd and Adderory Skin (Pty) Ltd, establishing competing business infrastructure **4 years before fraud escalation**.
+Rynette's son, Darren Dennis Farrar, registered Adderory (Pty) Ltd and Adderory Skin (Pty) Ltd, establishing competing business infrastructure **4 years before fraud escalation**.
 
 **Legal Significance:** Demonstrates premeditation and long-term conspiracy planning.
 

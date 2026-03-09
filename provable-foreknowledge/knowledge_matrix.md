@@ -34,7 +34,7 @@
 | Peter filed a founding affidavit containing material non-disclosures and perjury | obstruction | ✅ 2025-08-13 | — | — | — | — | — | — |
 | Bantjies swore a false confirmatory affidavit supporting Peter's interdict application | obstruction | — | — | ✅ 2025-08-13 | — | — | — | — |
 | Rynette forged Peter's signature (signed 'pp Peter') to install Bantjies as trustee on 28 June 2024 | forgery | — | ✅ 2024-06-28 | — | — | — | — | — |
-| Customers were actively diverted from regima.zone to regimaskin.co.za (owned by Adderory/Rynette's son) | theft | — | ✅ 2025-06-20 | — | — | — | — | — |
+| Customers were actively diverted from regima.zone to regimaskin.co.za (owned by Adderory/Rynette's son (Darren Dennis Farrar)) | theft | — | ✅ 2025-06-20 | — | — | — | — | — |
 | Cloud IT systems were ordered removed and a physical server went missing from the office | obstruction | ✅ 2025-04-22 | — | — | — | — | — | — |
 | Shopify audit trails were deleted on 22 May 2025 | obstruction | — | ✅ 2025-05-22 | — | — | — | — | — |
 | Bantjies was informed of criminal matters (Kayla's murder, Peter stealing funds) before signing the confirmatory affidavit | conspiracy | — | — | ✅ 2025-06-06 | — | — | — | — |

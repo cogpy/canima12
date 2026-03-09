@@ -33,7 +33,7 @@ The current timeline includes 21 events but omits the R5.4M stock adjustment fra
 
 **Evidence Pattern:**
 
-The stock adjustment fraud demonstrates sophisticated transfer pricing manipulation. Stock valued at R5.4M "disappeared" from Strategic Logistics (trust-controlled), was written off as a simple "stock adjustment" without investigation, and the same type of stock was supplied by Adderory (Rynette's son's company) to RegimA Skin Treatments. This represents systematic value extraction from trust assets to benefit Rynette's family.
+The stock adjustment fraud demonstrates sophisticated transfer pricing manipulation. Stock valued at R5.4M "disappeared" from Strategic Logistics (trust-controlled), was written off as a simple "stock adjustment" without investigation, and the same type of stock was supplied by Adderory (Rynette's son (Darren Dennis Farrar)'s company) to RegimA Skin Treatments. This represents systematic value extraction from trust assets to benefit Rynette's family.
 
 **Timeline Significance:**
 
@@ -332,7 +332,7 @@ For each primary perpetrator, document:
 - Opportunity: Unknown trustee, accountant, professional authority
 - Means: Audit blocking, accounting manipulation, fraud concealment, coordinated conspiracy
 
-**Adderory (Rynette's son):**
+**Adderory (Rynette's son, Darren Dennis Farrar):**
 - Motive: Financial gain through stock fraud and customer hijacking
 - Opportunity: Family relationship with Rynette, company ownership
 - Means: Domain registration, stock supply fraud, transfer pricing manipulation

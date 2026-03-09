@@ -96,7 +96,7 @@ Web Properties on regima.zone:
 ```yaml
 suspicious_domain:
   registrant: "Addarory [Company/Individual]"
-  relationship: "Rynette's son's company"
+  relationship: "Rynette's son (Darren Dennis Farrar)'s company"
   registration: "Recent compared to regima.zone"
   
   conflict_of_interest:

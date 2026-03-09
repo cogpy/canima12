@@ -43,7 +43,7 @@ Rynette claims she was not a party to the litigation (Case 2025-137857), therefo
 2. **Bank Account Control** (para 66, 146, 148): Accused of controlling bank accounts unlawfully and taking instructions only from Peter
 3. **UK Business Revenue Theft** (para 94-96): Accused of starting a UK business that "takes revenue and profit" from respondent companies
 4. **Domain Registration & Unlawful Competition** (para 95-97, 130-132): Accused of competing unlawfully through Addarory (Pty) Ltd and domain regimaskin.co.za while employed as bookkeeper
-5. **Customer Redirection** (para 134-135): Accused of redirecting customers to a company owned by her son, acting "in consort" and pilfering business opportunities
+5. **Customer Redirection** (para 134-135): Accused of redirecting customers to a company owned by her son (Darren Dennis Farrar), acting "in consort" and pilfering business opportunities
 6. **False Photos & Brand Damage** (para 119, 137): Accused of posting false, misleading photos detrimental to RegimA brand, creating unauthorized false affiliation
 7. **Stock Theft Risk** (para 114-115): Accused of posing a risk of taking R5 million worth of stock or using stock/raw materials for the UK entity
 

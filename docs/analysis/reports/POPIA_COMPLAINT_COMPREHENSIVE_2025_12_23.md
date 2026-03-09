@@ -129,7 +129,7 @@ RegimA Worldwide Distribution's Sage accounting registration expires:
 **Evidence:** ANNEXURES/JF09, SF5_Adderory_Company_Registration_Stock_Supply.md
 **Burden of Proof:** 95%+
 
-Domain regimaskin.co.za registered by Adderory (Rynette's son's company):
+Domain regimaskin.co.za registered by Adderory (Rynette's son (Darren Dennis Farrar)'s company):
 - Customer database transferred to competing entity
 - Personal information processed without consent
 - Customer communications redirected to fraudulent domain

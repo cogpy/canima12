@@ -73,7 +73,7 @@ This document maps each of the seven specific allegations raised in the Letter o
 
 **Letter Reference:** Paragraph 3 (para 94-96 of answering affidavit)
 
-**Allegation:** "Accuses our client and her son of starting a UK business that 'takes revenue and profit' from the respondent companies (para 94-96 thereof)."
+**Allegation:** "Accuses our client and her son (Darren Dennis Farrar) of starting a UK business that 'takes revenue and profit' from the respondent companies (para 94-96 thereof)."
 
 #### Supporting Evidence:
 
@@ -127,7 +127,7 @@ This document maps each of the seven specific allegations raised in the Letter o
 
 **Letter Reference:** Paragraph 5 (para 134-135 of answering affidavit)
 
-**Allegation:** "Alleges that our client is redirecting customers to a company owned by her son and acting 'in consort' in pilfering business opportunities (para 134-135 thereof)."
+**Allegation:** "Alleges that our client is redirecting customers to a company owned by her son (Darren Dennis Farrar) and acting 'in consort' in pilfering business opportunities (para 134-135 thereof)."
 
 #### Supporting Evidence:
 

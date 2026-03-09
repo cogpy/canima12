@@ -169,7 +169,7 @@ August 2025:  Cover-up phase (evidence concealment)
 
 - **Peter Faucitt:** Primary perpetrator (11 events)
 - **Rynette Farrar:** Co-conspirator (8 events)
-- **Addarory (Rynette's son):** Domain registration for identity fraud
+- **Addarory (Rynette's son, Darren Dennis Farrar):** Domain registration for identity fraud
 
 Pattern demonstrates systematic coordination across all three crime categories.
 

@@ -135,7 +135,7 @@ Both entities operate in the **same supply chain segment** — importing and sup
 |-----------|--------------------------|---------------------|
 | **Function** | Warehouse and logistics for RegimA raw materials | Import and supply of raw materials |
 | **Products** | Raw materials, chemicals, packaging | Guaiazulene, containers, body oil ingredients, raw materials |
-| **Controlled by** | Rynette (as bookkeeper) | Darren Dennis Farrar (Rynette's son) |
+| **Controlled by** | Rynette (as bookkeeper) | Darren Dennis Farrar (Rynette's son, Darren Dennis Farrar) |
 | **Bank details** | Sent by Rynette | Sent by Rynette to Peter |
 | **Payments** | Processed by Rynette | Processed by Rynette |
 | **Stock records** | Adjusted by Rynette | N/A (external supplier) |
@@ -170,7 +170,7 @@ The competitive relationship is direct and undeniable. Addarory supplies the **e
 
 ### 1. Stock Theft (Criminal Procedure Act)
 
-The R5.4M stock disappearance constitutes theft on a massive scale. Rynette's sole control over stock adjustments, combined with her son's company supplying the same materials, creates an irresistible inference of stock theft.
+The R5.4M stock disappearance constitutes theft on a massive scale. Rynette's sole control over stock adjustments, combined with her son (Darren Dennis Farrar)'s company supplying the same materials, creates an irresistible inference of stock theft.
 
 ### 2. Fraud (Common Law)
 
@@ -178,7 +178,7 @@ Rynette made false representations in the accounting records by recording R5.4M 
 
 ### 3. Conflict of Interest (Companies Act s 75-76)
 
-Rynette had an undisclosed material personal interest (through her son's company Addarory) in transactions she was processing and controlling. She failed to disclose this conflict.
+Rynette had an undisclosed material personal interest (through her son (Darren Dennis Farrar)'s company Addarory) in transactions she was processing and controlling. She failed to disclose this conflict.
 
 ### 4. Transfer Pricing Manipulation
 
@@ -194,7 +194,7 @@ The R5.4M stock adjustment would reduce SLG's taxable income, while the correspo
 
 | Standard | Met? | Confidence |
 |----------|------|------------|
-| **Civil (Balance of Probabilities, 50%)** | **YES** | **99%** — Rynette controlled the books, her son's company supplied the same stock, she processed the payments, and she admitted to controlling Addarory's finances. |
+| **Civil (Balance of Probabilities, 50%)** | **YES** | **99%** — Rynette controlled the books, her son (Darren Dennis Farrar)'s company supplied the same stock, she processed the payments, and she admitted to controlling Addarory's finances. |
 | **Criminal (Beyond Reasonable Doubt, 95%)** | **YES** | **98%** — The circular pattern (stock disappears → Addarory supplies same stock → Rynette processes payments) leaves no reasonable alternative explanation. |
 
 ---

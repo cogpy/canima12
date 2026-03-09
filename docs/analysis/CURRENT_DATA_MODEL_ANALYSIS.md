@@ -32,7 +32,7 @@ The repository contains four primary data models:
    - This creates confusion between two distinct entities
 
 2. **Missing PERSON_003** (HIGH PRIORITY)
-   - Adderory (Rynette's son) is referenced throughout but missing from persons list
+   - Adderory (Rynette's son, Darren Dennis Farrar) is referenced throughout but missing from persons list
    - Only appears as organization owner, not as individual entity
    - Critical for understanding family conspiracy network
 
@@ -123,7 +123,7 @@ The repository contains four primary data models:
 **Problem:** ORG_007 is used for three different entities:
 - ReZonance (service provider, victim)
 - ReZonance (Pty) Ltd (formal company name)
-- Adderory (Company) (Rynette's son's company, accomplice)
+- Adderory (Company) (Rynette's son (Darren Dennis Farrar)'s company, accomplice)
 
 **Impact:**
 - Breaks referential integrity
@@ -135,11 +135,11 @@ The repository contains four primary data models:
 - Separate Adderory into new entity ORG_009
 - Keep ORG_007 for ReZonance only (remove duplicate)
 - Update all relations referencing Adderory
-- Add PERSON_003 for Rynette's son
+- Add PERSON_003 for Rynette's son (Darren Dennis Farrar)
 
 ### 2. Missing Person Entity
 
-**Problem:** PERSON_003 (Adderory/Rynette's son) is referenced but not defined
+**Problem:** PERSON_003 (Adderory/Rynette's son (Darren Dennis Farrar)) is referenced but not defined
 
 **Impact:**
 - Incomplete conspiracy network mapping

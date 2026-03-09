@@ -2,7 +2,7 @@
 
 ## Overview
 
-This document outlines the integration of the legitimate regima.zone email domain with the transparent Shopify Platform, contrasting with the suspect domain owned by Addarory (Rynette's son).
+This document outlines the integration of the legitimate regima.zone email domain with the transparent Shopify Platform, contrasting with the suspect domain owned by Addarory (Rynette's son, Darren Dennis Farrar).
 
 ## Domain Ownership Evidence
 
@@ -14,7 +14,7 @@ This document outlines the integration of the legitimate regima.zone email domai
 - **Transparency**: Full audit trails and oversight
 
 ### Suspect Domain: Addarory-owned domain
-- **Owner**: Addarory (Rynette's son)
+- **Owner**: Addarory (Rynette's son, Darren Dennis Farrar)
 - **Concerns**: Potential conflict of interest
 - **Control**: Under Rynette's personal control
 - **Transparency**: No oversight or accountability

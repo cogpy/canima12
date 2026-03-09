@@ -41,7 +41,7 @@ Platform architecture, integration specifications, and ownership documentation d
 Documentation of the legitimate POPIA-compliant system that was hijacked, including data protection requirements and privacy implementation.
 
 ### regima-zone-integration/
-Email system integration with regima.zone domain (legitimately owned by RegimA), contrasted with fraudulent domain owned by Addarory (Rynette's son).
+Email system integration with regima.zone domain (legitimately owned by RegimA), contrasted with fraudulent domain owned by Addarory (Rynette's son, Darren Dennis Farrar).
 
 ### audit-trails/
 Evidence of audit trail destruction, particularly the critical May 22, 2025 Shopify audit trail hijacking event.
@@ -104,7 +104,7 @@ Technical specifications, implementation guides, and maintenance protocols.
 
 - **Peter Faucitt:** Primary perpetrator (11 events)
 - **Rynette Farrar:** Co-conspirator (8 events)
-- **Addarory (Rynette's son):** Domain registration for identity fraud
+- **Addarory (Rynette's son, Darren Dennis Farrar):** Domain registration for identity fraud
 
 ## Timeline Progression
 

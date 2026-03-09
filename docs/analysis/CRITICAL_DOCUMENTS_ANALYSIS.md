@@ -292,7 +292,7 @@ The five critical documents provide **devastating evidence** that completely val
    - Peter alleges Jacqui harassed staff, demanded salary, disrupted operations
    - **Jax's retaliation timeline:**
      - **May 15, 2025:** Jax confronted Rynette about **R1,035,000 debt** to ReZonance (Kayla's estate)
-     - **May 29, 2025:** Rynette's son's company (Adderory) registered competing domain "regimaskin.co.za"
+     - **May 29, 2025:** Rynette's son (Darren Dennis Farrar)'s company (Adderory) registered competing domain "regimaskin.co.za"
      - **July 1, 2025:** Jax signed document backdating Peter's "Main Trustee" designation
      - **August 13, 2025:** Two days later, Jax included in interdict
 

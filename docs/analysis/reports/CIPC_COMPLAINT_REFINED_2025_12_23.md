@@ -81,7 +81,7 @@ Significant inter-company cost reallocations demonstrating systematic financial 
 **Evidence:** ANNEXURES/SF5_Adderory_Company_Registration_Stock_Supply.md
 **Burden of Proof:** 95%+ (Criminal threshold exceeded)
 
-Rynette's son registered Adderory (Pty) Ltd and Adderory Skin (Pty) Ltd, establishing competing business infrastructure **4 years before fraud escalation**.
+Rynette's son, Darren Dennis Farrar, registered Adderory (Pty) Ltd and Adderory Skin (Pty) Ltd, establishing competing business infrastructure **4 years before fraud escalation**.
 
 **Legal Significance:** Demonstrates premeditation and long-term conspiracy planning.
 
@@ -104,7 +104,7 @@ Peter made unauthorized transfers of R900,000 from RegimA SA without Daniel's au
 R5.4M worth of stock physically disappears from Strategic Logistics warehouse:
 - Represents 46% of annual sales
 - 10x historical adjustment rate
-- Same stock type later supplied by Adderory (Rynette's son's company) to RegimA
+- Same stock type later supplied by Adderory (Rynette's son (Darren Dennis Farrar)'s company) to RegimA
 
 **Legal Significance:** Stock theft exceeding criminal threshold; direct connection to competing entity.
 
@@ -132,7 +132,7 @@ R850K+ unauthorized transfers including revenue from platform paid by UK company
 **Evidence:** ANNEXURES/JF09 - Domain Registration Records
 **Burden of Proof:** 95%+ (Criminal threshold exceeded)
 
-Domain regimaskin.co.za registered by Adderory (Rynette's son's company) following Shopify shutdown to impersonate business on Daniel's UK-funded platform.
+Domain regimaskin.co.za registered by Adderory (Rynette's son (Darren Dennis Farrar)'s company) following Shopify shutdown to impersonate business on Daniel's UK-funded platform.
 
 **Legal Significance:** Identity fraud; customer hijacking; competing business using stolen goodwill.
 

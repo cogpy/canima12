@@ -113,13 +113,13 @@ This is a sworn statement under oath directly alleging that Rynette diverted cus
 
 ### Allegation 2: Rynette Started Competing UK Business (Paras 94-97) - **PROVEN**
 
-> "Rynette and her son started a business in the United Kingdom which takes revenue and profit from the Third – Sixth Respondents." (Para 94)
+> "Rynette and her son (Darren Dennis Farrar) started a business in the United Kingdom which takes revenue and profit from the Third – Sixth Respondents." (Para 94)
 
 > "The Company is Addarory which supplies packaging now to the Respondent Companies. This was done to make a profit from the Respondent Companies." (Para 95)
 
 > "The Company Addarory advertised other skincare products on a RegimA website." (Para 97)
 
-Jacqueline explicitly names **Addarory** as the competing company started by Rynette and her son. This is proven by CIPC records and domain registration (regimaskin.co.za).
+Jacqueline explicitly names **Addarory** as the competing company started by Rynette and her son (Darren Dennis Farrar). This is proven by CIPC records and domain registration (regimaskin.co.za).
 
 ### Allegation 3: Fraud Reported, Retaliation Followed (Para 77)
 

@@ -37,7 +37,7 @@ This mechanism centered on creating a massive, artificial loss within **Strategi
 **How it Worked:**
 1.  **Transfer Pricing:** SLG sold finished goods to the main brand company, RegimA Skin Treatments (RST), at artificially low prices (or for free), effectively transferring wealth from SLG to RST.
 2.  **Fictitious Write-Off:** At year-end, the missing inventory (given to RST) was written off via the R5.2M adjustment, creating a massive tax loss for SLG.
-3.  **Beneficiary:** The scheme benefited **Adderory** (Rynette's son's company), which was a key supplier of the very stock that "disappeared" from SLG's books. This suggests stock was either diverted directly to Adderory or that the accounting was manipulated to cover payments to it.
+3.  **Beneficiary:** The scheme benefited **Adderory** (Rynette's son (Darren Dennis Farrar)'s company), which was a key supplier of the very stock that "disappeared" from SLG's books. This suggests stock was either diverted directly to Adderory or that the accounting was manipulated to cover payments to it.
 
 ---
 
@@ -48,12 +48,12 @@ This was the most brazen extraction method. Following a confrontation over a sep
 | Transaction / Event | Amount | Date / Period | Description |
 | :--- | :--- | :--- | :--- |
 | **Shopify Order Removal** | R1.047M / month | May 22, 2025 | All incoming orders were systematically removed from the legitimate Shopify platform, cutting off all revenue to the company. [3] |
-| **Domain & Bank Fraud** | R3.1M+ | April - July 2025 | A new, competing domain (`regimaskin.co.za`) was registered by Rynette's son (Adderory). Bank accounts were changed, and customer payments were redirected to this new channel. [3] |
+| **Domain & Bank Fraud** | R3.1M+ | April - July 2025 | A new, competing domain (`regimaskin.co.za`) was registered by Rynette's son, Darren Dennis Farrar, (Adderory). Bank accounts were changed, and customer payments were redirected to this new channel. [3] |
 | **Total Documented Loss** | **R3.1 Million** | 85 days | The documented loss from this 85-day period of active revenue hijacking. [3] |
 
 **How it Worked:**
 1.  **Sabotage:** Rynette, using her system access, destroyed the audit trail on the legitimate Shopify platform.
-2.  **Infrastructure Hijack:** A parallel, fraudulent e-commerce infrastructure was established using the `regimaskin.co.za` domain, owned by Rynette's son.
+2.  **Infrastructure Hijack:** A parallel, fraudulent e-commerce infrastructure was established using the `regimaskin.co.za` domain, owned by Rynette's son, Darren Dennis Farrar,.
 3.  **Redirection:** Customer payments and communications were systematically redirected to this new infrastructure, completely bypassing the legitimate company and its bank accounts.
 
 ---

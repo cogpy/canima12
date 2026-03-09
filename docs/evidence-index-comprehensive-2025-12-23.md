@@ -201,7 +201,7 @@
 **Cross-References:**
 - EVENT_H009 (Company registration)
 - EVENT_024 (Stock theft)
-- PERSON_003 (Rynette's son)
+- PERSON_003 (Rynette's son, Darren Dennis Farrar)
 
 ### SF6: Kayla Pretorius Estate Documentation
 **Date:** 2025-05-22 (death date)

@@ -148,7 +148,7 @@ Two critical evidence destruction events demonstrating consciousness of guilt:
 Multiple family members involved in coordinated criminal activity:
 - **Peter Faucitt:** Primary perpetrator (11 events)
 - **Rynette Farrar:** Co-conspirator (8 events)
-- **Addarory (Rynette's son):** Domain registration for identity fraud
+- **Addarory (Rynette's son, Darren Dennis Farrar):** Domain registration for identity fraud
 
 ---
 

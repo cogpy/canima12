@@ -267,7 +267,7 @@ Rynette's Computer
 
 **Unauthorized Domain Usage**
 - **Addarory Domain**
-  - Owned by Rynette's son
+  - Owned by Rynette's son, Darren Dennis Farrar,
   - No authorization for use
   - Confuses customers
   - SEO value lost

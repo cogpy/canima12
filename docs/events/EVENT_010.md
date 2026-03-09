@@ -2,7 +2,7 @@
 
 **Date:** 2025-05-29
 
-**Description:** Customer hijacking platform. Family conspiracy escalation and digital impersonation. Domain registered to impersonate business on Dan's UK-funded platform. New domain regimaskin.co.za registered by Adderory (Rynette's son's company) following Shopify shutdown.
+**Description:** Customer hijacking platform. Family conspiracy escalation and digital impersonation. Domain registered to impersonate business on Dan's UK-funded platform. New domain regimaskin.co.za registered by Adderory (Rynette's son (Darren Dennis Farrar)'s company) following Shopify shutdown.
 
 ```json
 {
@@ -22,7 +22,7 @@
   "entities_involved": [
     "DOMAIN_002"
   ],
-  "description": "Customer hijacking platform. Family conspiracy escalation and digital impersonation. Domain registered to impersonate business on Dan's UK-funded platform. New domain regimaskin.co.za registered by Adderory (Rynette's son's company) following Shopify shutdown.",
+  "description": "Customer hijacking platform. Family conspiracy escalation and digital impersonation. Domain registered to impersonate business on Dan's UK-funded platform. New domain regimaskin.co.za registered by Adderory (Rynette's son (Darren Dennis Farrar)'s company) following Shopify shutdown.",
   "financial_impact": "unknown_amount",
   "legal_significance": "family_conspiracy_escalation_and_digital_impersonation",
   "evidence": [

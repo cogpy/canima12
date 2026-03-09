@@ -67,9 +67,9 @@ Evidence demonstrates Rynette's unilateral control over company financial system
 
 ### **Allegation 3: UK Business Revenue Diversion**
 
-**Rynette's Denial:** "Denies that she and her son started a UK business that 'takes revenue and profit' from the respondent companies."
+**Rynette's Denial:** "Denies that she and her son (Darren Dennis Farrar) started a UK business that 'takes revenue and profit' from the respondent companies."
 
-**Jax's Allegation:** Rynette and her son established a UK business to divert revenue and profit.
+**Jax's Allegation:** Rynette and her son (Darren Dennis Farrar) established a UK business to divert revenue and profit.
 
 **Refutation:** **FALSE DENIAL**
 
@@ -77,7 +77,7 @@ The UK entity was central to the revenue hijacking scheme:
 
 - **Section 3 Analysis** details the creation of **RegimA Zone Ltd** and its role in revenue diversion
 - **Network Analysis** maps the flow of funds from South African companies directly to the UK entity
-- **Executive Summary** confirms that the Shopify platform was owned and paid for by the UK entity, proving all revenue flowed through infrastructure controlled by Rynette's son, not RWD ZA
+- **Executive Summary** confirms that the Shopify platform was owned and paid for by the UK entity, proving all revenue flowed through infrastructure controlled by Rynette's son, Darren Dennis Farrar,, not RWD ZA
 
 **Conclusion:** Rynette's denial is a falsehood. Jax's allegation is proven true by the evidence.
 
@@ -87,13 +87,13 @@ The UK entity was central to the revenue hijacking scheme:
 
 **Rynette's Denial:** "Denies competing unlawfully with the respondent companies through Addadory (Pty) Ltd and the domain regimaskin.co.za while employed as a bookkeeper."
 
-**Jax's Allegation:** Rynette, through her son's company, competed unlawfully while employed.
+**Jax's Allegation:** Rynette, through her son (Darren Dennis Farrar)'s company, competed unlawfully while employed.
 
 **Refutation:** **FALSE DENIAL**
 
 The competing entities were established and operated while Rynette had a fiduciary duty:
 
-- **Timeline Evidence** confirms the domain `regimaskin.co.za` was registered by Addadory (Rynette's son's company) on 29 May 2025, shortly after a financial confrontation
+- **Timeline Evidence** confirms the domain `regimaskin.co.za` was registered by Addadory (Rynette's son (Darren Dennis Farrar)'s company) on 29 May 2025, shortly after a financial confrontation
 - **Entity Analysis** provides complete documentation of Addadory (Pty) Ltd as a vehicle for unlawful competition
 - **Contradiction Analysis** highlights the conflict of interest and breach of fiduciary duty
 
@@ -103,13 +103,13 @@ The competing entities were established and operated while Rynette had a fiducia
 
 ### **Allegation 5: Customer Redirection in Consort**
 
-**Rynette's Denial:** "Denies redirecting customers to a company owned by her son and acting 'in consort' in pilfering business opportunities."
+**Rynette's Denial:** "Denies redirecting customers to a company owned by her son (Darren Dennis Farrar) and acting 'in consort' in pilfering business opportunities."
 
-**Jax's Allegation:** Rynette acted in consort with her son to redirect customers.
+**Jax's Allegation:** Rynette acted in consort with her son (Darren Dennis Farrar) to redirect customers.
 
 **Refutation:** **FALSE DENIAL**
 
-Evidence shows coordinated effort to move customers to entities controlled by Rynette's son:
+Evidence shows coordinated effort to move customers to entities controlled by Rynette's son, Darren Dennis Farrar,:
 
 - **Hypergraph Analysis** maps relationships and communication patterns showing coordinated customer redirection
 - **Network Analysis** provides visual map of fund flows from redirected customers to new entities

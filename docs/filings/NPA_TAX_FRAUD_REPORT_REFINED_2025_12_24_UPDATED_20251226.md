@@ -67,7 +67,7 @@ Significant inter-company cost reallocations:
 R5.4M stock physically disappeared but:
 - No tax declaration of loss
 - No insurance claim filed
-- Same stock type later supplied by Adderory (Rynette's son's company)
+- Same stock type later supplied by Adderory (Rynette's son (Darren Dennis Farrar)'s company)
 
 **Tax Implications:** 
 - Fraudulent tax deduction for "lost" stock

@@ -72,7 +72,7 @@ Rynette's Personal Computer
 - **Current Status**: Inactive/redirected
 
 #### Illegitimate Domain: Addarory Domain
-- **Owner**: Rynette's son
+- **Owner**: Rynette's son (Darren Dennis Farrar)
 - **Status**: Actively used without authorization
 - **Purpose**: Hiding communications from stakeholders
 - **Legal Status**: Unauthorized use of business communications

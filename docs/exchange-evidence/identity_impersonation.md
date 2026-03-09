@@ -16,7 +16,7 @@ title: "Exchange Evidence: Identity Impersonation Chain"
 
 Exchange mailbox forensics reveal that the email account pete@regima.com was operated by **two different people** over its lifetime: **Jacqui Faucitt** (Peter's wife, 2018–2024) and **Rynette Farrar** (bookkeeper, mid-2020–2025). Peter Faucitt does not use a computer; he dictates messages on paper which are then typed and sent by others. Stylometric analysis of **5,961 messages** with body content reveals a clear linguistic fingerprint: **Jacqui signs off as "Pete"** (her familiar name for her husband), while **Rynette signs off as "Peter"** (the formal/professional name).
 
-Jacqui's operation of the account constitutes legitimate secretarial delegation by a spouse and co-director. However, **Rynette's operation constitutes unauthorized identity impersonation** — she is neither a director nor a family member, yet she sent thousands of messages as "Peter Faucitt" to clients, banks, suppliers, and legal professionals. When Daniel Faucitt discovered the impersonation and blocked the account around July 2025, Rynette seamlessly migrated to **pete@regimaskin.co.za** — a domain owned by her son's company, Adderory (Pty) Ltd. The first message from the new address appeared on **20 August 2025**, the day after the ex parte interdict was granted.
+Jacqui's operation of the account constitutes legitimate secretarial delegation by a spouse and co-director. However, **Rynette's operation constitutes unauthorized identity impersonation** — she is neither a director nor a family member, yet she sent thousands of messages as "Peter Faucitt" to clients, banks, suppliers, and legal professionals. When Daniel Faucitt discovered the impersonation and blocked the account around July 2025, Rynette seamlessly migrated to **pete@regimaskin.co.za** — a domain owned by her son (Darren Dennis Farrar)'s company, Adderory (Pty) Ltd. The first message from the new address appeared on **20 August 2025**, the day after the ex parte interdict was granted.
 
 ---
 
@@ -28,7 +28,7 @@ Jacqui's operation of the account constitutes legitimate secretarial delegation 
 | **2018-08-08** | Jacqui writes as Pete: "Received now thanks via Pete's e-mail" | Jacqui distinguishing her email from Pete's |
 | **2020–2024** | 3,778 messages sent from pete@regima.com | Peak: 1,244 messages in 2024 alone |
 | **2024-07-09** | Sage ownership transferred from Kayla to pete@regima.com | Rynette controls the Sage account via Pete's email |
-| **2025-05-29** | regimaskin.co.za domain registered by Adderory (Rynette's son) | Infrastructure prepared for migration |
+| **2025-05-29** | regimaskin.co.za domain registered by Adderory (Rynette's son, Darren Dennis Farrar) | Infrastructure prepared for migration |
 | **2025-06-20** | Email domain migration announced (EVT-070) | @regima.zone → @regimaskin.co.za |
 | **2025-07-04** | pete@regima.com writes: "Peter will need to check with them" | Rynette referring to Peter in third person |
 | **2025-07-04** | pete@regima.com writes: "Peter said you would specify the people" | Rynette quoting Peter — she is the intermediary |
@@ -110,7 +110,7 @@ This thread proves that Rynette was opening bank accounts while impersonating Pe
 
 ## The Embezzlement Frame
 
-The impersonation pattern creates a dangerous legal exposure for Peter Faucitt. Rynette sent thousands of messages as "Peter Faucitt" to clients, banks, suppliers, and legal professionals, while simultaneously controlling all financial systems (Sage, banking, payments) under his identity. If funds are misappropriated, the paper trail points to Peter, not Rynette. Peter does not use a computer and therefore has no independent digital records to defend himself. The switch to @regimaskin.co.za (Rynette's son's domain) gives Rynette complete control of the email infrastructure, including the ability to delete, modify, or fabricate messages.
+The impersonation pattern creates a dangerous legal exposure for Peter Faucitt. Rynette sent thousands of messages as "Peter Faucitt" to clients, banks, suppliers, and legal professionals, while simultaneously controlling all financial systems (Sage, banking, payments) under his identity. If funds are misappropriated, the paper trail points to Peter, not Rynette. Peter does not use a computer and therefore has no independent digital records to defend himself. The switch to @regimaskin.co.za (Rynette's son (Darren Dennis Farrar)'s domain) gives Rynette complete control of the email infrastructure, including the ability to delete, modify, or fabricate messages.
 
 This pattern is consistent with either Rynette framing Peter for financial crimes she committed under his identity, or Rynette and Peter acting in concert with Rynette as the operational arm and Peter providing plausible deniability. In either scenario, the identity impersonation constitutes fraud under the Prevention and Combating of Corrupt Activities Act, identity theft, and a violation of the Companies Act s76 (duty to act in good faith).
 

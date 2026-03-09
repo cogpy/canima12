@@ -17,7 +17,7 @@ This affidavit provides sworn testimony that directly corroborates the evidence 
 |---|---|---|
 | 66 | "Rynette has access to the bank accounts and only takes instructions from the Applicant." | SF10, SF11 |
 | 75 | "Rynette instructed customers to no longer effect payments into the accounts of the Third and Fourth Respondents but into different accounts that she had opened." | DF8, Shopify Records |
-| 94-97 | "Rynette and her son started a business in the United Kingdom which takes revenue and profit... The Company is Addarory..." | CIPC Records, Domain Registration |
+| 94-97 | "Rynette and her son (Darren Dennis Farrar) started a business in the United Kingdom which takes revenue and profit... The Company is Addarory..." | CIPC Records, Domain Registration |
 | 104 | "These representatives were paid based on the Shopify sales which had been hi-jacked." | Shopify Deletion Logs |
 | 146 | "Rynette is the only person who has access to the ABSA accounts and is the only person who transacts thereon." | Bank Statements |
 | 148 | "Rynette was given sole access to these accounts by the Applicant." | Bank Statements |

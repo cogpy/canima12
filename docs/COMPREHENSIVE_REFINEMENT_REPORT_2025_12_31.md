@@ -37,7 +37,7 @@ This report documents comprehensive refinements to the revstream1 repository's d
 3. **DOMAIN_001** (regimaskin.co.za)
    - Created new entity with full evidence
    - Registration date: 2025-05-29
-   - Registered by: Adderory (Rynette's son's company)
+   - Registered by: Adderory (Rynette's son (Darren Dennis Farrar)'s company)
    - Evidence strength: strong
 
 4. **DOMAIN_002** (regima.zone)

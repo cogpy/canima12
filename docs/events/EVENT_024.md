@@ -2,7 +2,7 @@
 
 **Date:** 2025-03-01
 
-**Description:** R5.4M worth of stock physically disappears from Strategic Logistics warehouse. Represents 46% of annual sales, 10x historical adjustment rate. Same stock type later supplied by Adderory (Rynette's son's company) to RegimA.
+**Description:** R5.4M worth of stock physically disappears from Strategic Logistics warehouse. Represents 46% of annual sales, 10x historical adjustment rate. Same stock type later supplied by Adderory (Rynette's son (Darren Dennis Farrar)'s company) to RegimA.
 
 ```json
 {
@@ -25,7 +25,7 @@
     "ORG_004",
     "PERSON_003"
   ],
-  "description": "R5.4M worth of stock physically disappears from Strategic Logistics warehouse. Represents 46% of annual sales, 10x historical adjustment rate. Same stock type later supplied by Adderory (Rynette's son's company) to RegimA.",
+  "description": "R5.4M worth of stock physically disappears from Strategic Logistics warehouse. Represents 46% of annual sales, 10x historical adjustment rate. Same stock type later supplied by Adderory (Rynette's son (Darren Dennis Farrar)'s company) to RegimA.",
   "financial_impact": "R5,400,000",
   "legal_significance": "criminal_threshold_exceeded_stock_theft",
   "evidence": [

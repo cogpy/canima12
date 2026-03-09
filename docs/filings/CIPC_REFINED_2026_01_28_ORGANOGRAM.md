@@ -35,7 +35,7 @@ This complaint details systematic violations of the Companies Act 71 of 2008 by 
 | Strategic Logistics (Pty) Ltd | 2016/XXXXXX/07 | Stock fraud vehicle |
 | Villa Via (Pty) Ltd | 2018/XXXXXX/07 | Capital extraction |
 | RegimaSA (Pty) Ltd | 2017/087935/07 | Shell company |
-| Adderory (Pty) Ltd | 2021/XXXXXX/07 | Competing business (Rynette's son) |
+| Adderory (Pty) Ltd | 2021/XXXXXX/07 | Competing business (Rynette's son, Darren Dennis Farrar) |
 
 ---
 
@@ -104,7 +104,7 @@ This complaint details systematic violations of the Companies Act 71 of 2008 by 
 
 1. **Competing Business Establishment**
    - Date: 2021-04-01
-   - Description: Rynette's son registered Adderory (Pty) Ltd and Adderory Skin (Pty) Ltd
+   - Description: Rynette's son, Darren Dennis Farrar, registered Adderory (Pty) Ltd and Adderory Skin (Pty) Ltd
    - Evidence: SF5_Adderory_Company_Registration.md
    - Burden of Proof: 95%+ (Criminal threshold)
 

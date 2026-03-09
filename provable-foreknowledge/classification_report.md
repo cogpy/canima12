@@ -51,7 +51,7 @@
 | Shopify audit trails were deleted on 22 May 2025 | Shopify_Deletion_Logs, EVENT_010 | active_participation | 2025-05-22 |
 | Revenue was being systematically diverted from RegimA SA to other accounts (R8.5M annual stream) | Shopify_Deletion_Logs, DF8_Bank_Statements, SF16_Para_75 | active_participation | 2025-05-22 |
 | 2019 financial statements for RegimA SA were fabricated in June 2025 (6+ years after period end) | EVENT_064, 2025-06-18_Rynette_DeNovo_RegimA_SA_Payments.pdf | email_correspondence | 2025-06-18 |
-| Customers were actively diverted from regima.zone to regimaskin.co.za (owned by Adderory/Rynette's son) | EVENT_027, EVENT_063, EVENT_026 | active_participation | 2025-06-20 |
+| Customers were actively diverted from regima.zone to regimaskin.co.za (owned by Adderory/Rynette's son (Darren Dennis Farrar)) | EVENT_027, EVENT_063, EVENT_026 | active_participation | 2025-06-20 |
 | Sage accounting subscription was deliberately allowed to expire to deny all parties access to financial records | SF11, EVENT_065, EVENT_SF2B | active_participation | 2025-07-23 |
 | Rynette emailed signed 'Main Trustee' appointment letter to Bantjies on 11 August 2025 | Rynette_Bantjies_Trustee_Email_2025_08_11 | email_correspondence | 2025-08-11 |
 | Perjury complaint filed by Rynette Farrar against Jacqueline Faucitt was entirely without merit | SF15, EVENT_075, EVENT_076, Perjury_Defence_Matrix | documentary_proof | 2025-11-26 |

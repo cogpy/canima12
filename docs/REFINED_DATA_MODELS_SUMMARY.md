@@ -35,7 +35,7 @@ This document summarizes the refinements made to the RevStream1 data models base
 
 **ORG_009 - Adderory (Pty) Ltd:**
 - Registration: April 2021
-- Owner: PERSON_003 (Rynette's son)
+- Owner: PERSON_003 (Rynette's son, Darren Dennis Farrar)
 - Role: Competing business fraud vehicle
 - Financial Impact: R5,400,000+
 - Actions: Domain registration fraud, stock supply fraud, transfer pricing manipulation, customer hijacking
@@ -43,7 +43,7 @@ This document summarizes the refinements made to the RevStream1 data models base
 
 **ORG_010 - Adderory Skin (Pty) Ltd:**
 - Registration: April 2021
-- Owner: PERSON_003 (Rynette's son)
+- Owner: PERSON_003 (Rynette's son, Darren Dennis Farrar)
 - Role: Competing business fraud vehicle
 - Actions: Customer hijacking, revenue redirection, brand impersonation
 - Significance: Part of Adderory group for systematic customer hijacking
@@ -189,10 +189,10 @@ The addition of EVENT_H009 (Adderory registration, April 2021) reveals that the 
 
 ### 2. Family Conspiracy Network
 
-The addition of PERSON_003 (Rynette's son) completes the family conspiracy network:
+The addition of PERSON_003 (Rynette's son, Darren Dennis Farrar) completes the family conspiracy network:
 - PERSON_001 (Peter) - Primary perpetrator
 - PERSON_002 (Rynette) - Co-conspirator, financial controller
-- PERSON_003 (Rynette's son) - Accomplice, company owner, domain registrant
+- PERSON_003 (Rynette's son, Darren Dennis Farrar) - Accomplice, company owner, domain registrant
 - PERSON_007 (Bantjies) - Co-conspirator, accountant, trustee
 
 ### 3. Multi-Entity Fraud Structure

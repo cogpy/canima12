@@ -63,7 +63,7 @@ The four-layer oversight chain did not "miss" the anomalies. The evidence sugges
 | Person | Role | Potential Conflict of Interest |
 | :--- | :--- | :--- |
 | **Peter Faucitt** | Finance Director | Beneficiary of the scheme; seeking to seize control. |
-| **Rynette Farrar** | Internal Bookkeeper | Controlled the accounting system; executed the transactions; her son's company (Adderory) was a supplier. |
+| **Rynette Farrar** | Internal Bookkeeper | Controlled the accounting system; executed the transactions; her son (Darren Dennis Farrar)'s company (Adderory) was a supplier. |
 | **Danie Bantjies** | External Accountant | Unlawfully appointed as a Trustee of the Faucitt Family Trust by Rynette in July 2024; CFO of George Group, whose CEO owns Ketoni (which owes R18.75M to the Trust). |
 | **Anton Hechter** | SARS Contact | Appears to be an insider contact who could ensure SARS queries were "closed" without further investigation. |
 

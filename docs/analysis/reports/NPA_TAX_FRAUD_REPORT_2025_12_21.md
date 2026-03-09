@@ -65,7 +65,7 @@ This report details systematic tax fraud involving:
 ### Phase 2: Asset Misappropriation (2025)
 
 **EVENT_024 (2025-03-01):** R5.4M Stock Disappearance  
-R5.4M worth of stock physically disappears from Strategic Logistics warehouse (46% of annual sales). Same stock type later supplied by Adderory (Rynette's son's company).
+R5.4M worth of stock physically disappears from Strategic Logistics warehouse (46% of annual sales). Same stock type later supplied by Adderory (Rynette's son (Darren Dennis Farrar)'s company).
 
 **Tax Implications:**
 1. Unreported income from stock diversion

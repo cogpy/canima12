@@ -14,7 +14,7 @@ This analysis compares the financial profiles of three entities that are central
 |--------|------|---------------|----------------|--------|----------------|
 | SLG (Strategic Logistics) | CC (Dan 33%) | R20.6M (2017) | R0.6M | Near-dormant | Victim — revenue hijacked |
 | Rezonance (Pty) Ltd | Pty (Dan & Kayla) | R0.57M (2021) | No data | Active | Victim — R1.03M debt erased |
-| Addarory (Pty) Ltd | Pty (Rynette's son) | No data | No data | Active | Fraud vehicle — stock theft |
+| Addarory (Pty) Ltd | Pty (Rynette's son, Darren Dennis Farrar) | No data | No data | Active | Fraud vehicle — stock theft |
 
 ---
 
@@ -99,7 +99,7 @@ The GoDaddy payments from Rezonance total only **R42,731** — far less than the
 
 ## 4. Addarory (Pty) Ltd: The Ghost Entity
 
-Addarory has **zero direct financial transactions** in the fincosys bank statement data across all 3,666 extracted statement files. It has no FNB bank accounts, no visible revenue, and no traceable payments. Yet it is registered as a competing skincare business by Rynette's son, dealing in the same stock type that "disappeared" from SLG (valued at R5.4 million).
+Addarory has **zero direct financial transactions** in the fincosys bank statement data across all 3,666 extracted statement files. It has no FNB bank accounts, no visible revenue, and no traceable payments. Yet it is registered as a competing skincare business by Rynette's son, Darren Dennis Farrar,, dealing in the same stock type that "disappeared" from SLG (valued at R5.4 million).
 
 The entity's financial impact is measured entirely through the **negative space** it creates in SLG's finances. The timing is damning: Addarory was registered in April 2021, and SLG's revenue decline accelerated from that point, culminating in near-total collapse by 2024.
 
@@ -127,7 +127,7 @@ The three entities tell a coherent story of systematic fraud:
 
 **Rezonance** was Dan's legitimate technology company providing real services (AI/ML, web development, Shopify management) to the RegimA group. It was owed over R1M for these services. After Kayla's death, this debt was erased — effectively stealing R1M from Dan's company.
 
-**Addarory** is a ghost entity with no visible financial footprint, yet it is positioned to absorb the stock and customers that were taken from SLG. Its registration by Rynette's son, dealing in the same products, at the precise moment SLG's decline accelerated, is not coincidental.
+**Addarory** is a ghost entity with no visible financial footprint, yet it is positioned to absorb the stock and customers that were taken from SLG. Its registration by Rynette's son, Darren Dennis Farrar,, dealing in the same products, at the precise moment SLG's decline accelerated, is not coincidental.
 
 ---
 
@@ -139,9 +139,9 @@ The three-way comparison establishes several critical facts for the case:
 
 **Second**, the RegimA group entities (RST and RWD) owed Rezonance over R3 million for services rendered, of which R1.03M remained unpaid. This debt was erased after Kayla's death, constituting theft from Rezonance and its shareholders.
 
-**Third**, Addarory's creation by Rynette's son as a competing skincare business, using stock that "disappeared" from SLG, directly caused SLG's revenue collapse. The R5.4M stock disappearance and the subsequent 97% revenue decline are causally linked.
+**Third**, Addarory's creation by Rynette's son, Darren Dennis Farrar, as a competing skincare business, using stock that "disappeared" from SLG, directly caused SLG's revenue collapse. The R5.4M stock disappearance and the subsequent 97% revenue decline are causally linked.
 
-**Fourth**, the contrast between Rezonance (legitimate tech business, break-even, funded by Dan personally) and Addarory (ghost entity, no visible revenue, registered by Rynette's son) demonstrates the asymmetry of the fraud: Dan built legitimate businesses while Rynette's family created vehicles to steal from them.
+**Fourth**, the contrast between Rezonance (legitimate tech business, break-even, funded by Dan personally) and Addarory (ghost entity, no visible revenue, registered by Rynette's son, Darren Dennis Farrar,) demonstrates the asymmetry of the fraud: Dan built legitimate businesses while Rynette's family created vehicles to steal from them.
 
 ![Three-Way Comparison Chart](./three_way_comparison.png)
 

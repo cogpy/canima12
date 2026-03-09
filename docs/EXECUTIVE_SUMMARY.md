@@ -49,7 +49,7 @@ This document summarizes the comprehensive analysis, refinement, and enhancement
 
 1. **PERSON_003: Adderory (Company)**
    - Added: Stock fraud connection (R5.4M), transfer pricing manipulation role
-   - Significance: Company owned by Rynette's son supplied same stock type that disappeared from SLG
+   - Significance: Company owned by Rynette's son, Darren Dennis Farrar, supplied same stock type that disappeared from SLG
 
 2. **ORG_004: Strategic Logistics Group**
    - Added: R13M debt to RST, R414K interest payment (Feb 2020)
@@ -130,7 +130,7 @@ The R5.4M stock adjustment represents the largest single identifiable theft and 
 
 1. Stock valued at R5.4M "disappeared" from Strategic Logistics (trust-controlled)
 2. Written off as simple "stock adjustment" without investigation (46% of sales, 10x normal rate)
-3. Same stock type supplied by Adderory (Rynette's son's company) to RegimA
+3. Same stock type supplied by Adderory (Rynette's son (Darren Dennis Farrar)'s company) to RegimA
 4. Systematic value extraction from trust assets to benefit Rynette's family
 
 **Pattern Significance:** This demonstrates that the fraud was not opportunistic but involved sophisticated transfer pricing manipulation designed to extract value from trust-controlled entities.

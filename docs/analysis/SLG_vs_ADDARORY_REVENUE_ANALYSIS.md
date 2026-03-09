@@ -24,7 +24,7 @@ While Addarory has no direct transaction history within the fincosys bank statem
 
 ### Addarory: The Ghost Entity
 
-Analysis of all 3,666 extracted bank statement files across all entities in the fincosys dataset yielded **zero direct financial transactions** associated with "Addarory" or "Adderory". The entity exists within the case's data models as a company registered by Rynette's son, but it does not have a financial footprint in the available FNB records. Its impact is therefore measured by the negative space it creates in the finances of its target, SLG.
+Analysis of all 3,666 extracted bank statement files across all entities in the fincosys dataset yielded **zero direct financial transactions** associated with "Addarory" or "Adderory". The entity exists within the case's data models as a company registered by Rynette's son, Darren Dennis Farrar,, but it does not have a financial footprint in the available FNB records. Its impact is therefore measured by the negative space it creates in the finances of its target, SLG.
 
 ### Strategic Logistics (SLG): The Revenue Collapse
 

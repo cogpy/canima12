@@ -118,7 +118,7 @@ This complaint details systematic breaches of the Companies Act, No. 71 of 2008,
 
 #### Phase 1: Pre-Planning (2021-2023)
 **EVENT_H009 (2021-04-01):** Adderory Companies Registration  
-Rynette's son registered Adderory (Pty) Ltd and Adderory Skin (Pty) Ltd, establishing competing business infrastructure 4 years before fraud escalation. Demonstrates long-term conspiracy planning.
+Rynette's son, Darren Dennis Farrar, registered Adderory (Pty) Ltd and Adderory Skin (Pty) Ltd, establishing competing business infrastructure 4 years before fraud escalation. Demonstrates long-term conspiracy planning.
 
 **Evidence:** CIPC registration documents, company records  
 **Significance:** Establishes premeditation and conspiracy
@@ -213,7 +213,7 @@ Attorney letter demanding R60.25M revenue + $150K platform fees, total ~R63M, 48
 ## 6. DOMAIN REGISTRATION AND CUSTOMER HIJACKING
 
 **EVENT_010 (2025-05-29):** Domain Registration (Identity Fraud)  
-New domain regimaskin.co.za registered by Adderory (Rynette's son's company) following Shopify shutdown.
+New domain regimaskin.co.za registered by Adderory (Rynette's son (Darren Dennis Farrar)'s company) following Shopify shutdown.
 
 **EVENT_027 (2025-06-20):** Domain Switch Email Instruction  
 Gee instructed to send email: "don't use regima.zone only use regimaskin.co.za email" - active customer diversion to fraudulent domain.

@@ -43,7 +43,7 @@ This report documents the comprehensive analysis and refinement of the revstream
 1. **9 entities missing evidence references**
    - PERSON_001 (Peter Andrew Faucitt - primary perpetrator)
    - PERSON_002 (Rynette Farrar - co-conspirator)
-   - PERSON_003 (Adderory - Rynette's son)
+   - PERSON_003 (Adderory - Rynette's son (Darren Dennis Farrar))
    - PERSON_007 (Danie Bantjies - accountant/trustee)
    - PERSON_008 (Kayla - estate creditor)
    - PERSON_009 (Gee - email sender witness)

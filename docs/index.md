@@ -441,7 +441,7 @@ A comprehensive analysis of the Elliott Attorneys Letter of Demand (KL0034) agai
 [View the full KL0034 Evidence Mapping Report](evidence/KL0034_EVIDENCE_MAPPING_2026_03_08.md)
 
 ## Strategic Logistics R5.4M Stock Adjustment Fraud
-A deep dive into the R5.4M stock adjustment loss at Strategic Logistics Group (SLG) reveals a circular fraud pattern. Rynette Farrar controlled the stock adjustments at SLG, while her son's company (Addarory) supplied the same raw materials back to RegimA. Email evidence proves Rynette personally performed the adjustments, processed payments to Addarory, and sent Addarory's bank details to Peter.
+A deep dive into the R5.4M stock adjustment loss at Strategic Logistics Group (SLG) reveals a circular fraud pattern. Rynette Farrar controlled the stock adjustments at SLG, while her son (Darren Dennis Farrar)'s company (Addarory) supplied the same raw materials back to RegimA. Email evidence proves Rynette personally performed the adjustments, processed payments to Addarory, and sent Addarory's bank details to Peter.
 
 [View the full SLG Stock Adjustment Fraud Analysis](evidence/SLG_STOCK_ADJUSTMENT_FRAUD_ANALYSIS.md)
 

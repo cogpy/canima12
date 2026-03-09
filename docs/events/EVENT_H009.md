@@ -2,7 +2,7 @@
 
 **Date:** 2021-04-01
 
-**Description:** Rynette's son registered Adderory (Pty) Ltd and Adderory Skin (Pty) Ltd, establishing competing business infrastructure 4 years before fraud escalation. Demonstrates long-term conspiracy planning.
+**Description:** Rynette's son, Darren Dennis Farrar, registered Adderory (Pty) Ltd and Adderory Skin (Pty) Ltd, establishing competing business infrastructure 4 years before fraud escalation. Demonstrates long-term conspiracy planning.
 
 ```json
 {
@@ -20,7 +20,7 @@
     "ORG_009",
     "ORG_010"
   ],
-  "description": "Rynette's son registered Adderory (Pty) Ltd and Adderory Skin (Pty) Ltd, establishing competing business infrastructure 4 years before fraud escalation. Demonstrates long-term conspiracy planning.",
+  "description": "Rynette's son, Darren Dennis Farrar, registered Adderory (Pty) Ltd and Adderory Skin (Pty) Ltd, establishing competing business infrastructure 4 years before fraud escalation. Demonstrates long-term conspiracy planning.",
   "financial_impact": "unknown_amount",
   "legal_significance": "pre_planning_evidence_demonstrates_long_term_conspiracy",
   "evidence": [

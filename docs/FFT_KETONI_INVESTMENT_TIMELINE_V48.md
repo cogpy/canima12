@@ -107,7 +107,7 @@ This timeline documents the sequence of events connecting:
 |------|-------|----------|--------------|--------|
 | **May 15, 2025** | Jacqui confronts Rynette about R1,035,000 debt | Jacqui, Rynette | States keeping funds is "profiting from proceeds of murder" | Communication records |
 | **May 22, 2025** | Orders & audit trails disappear from Shopify | Rynette | 7 days after confrontation | Shopify records |
-| **May 29, 2025** | Adderory registers regimaskin.co.za | Adderory (Rynette's son) | 14 days after confrontation | Domain records |
+| **May 29, 2025** | Adderory registers regimaskin.co.za | Adderory (Rynette's son, Darren Dennis Farrar) | 14 days after confrontation | Domain records |
 | **Jun 6, 2025** | Daniel writes to Bantjies about fraud | Daniel, Bantjies | Unaware Bantjies is Trustee | Email |
 | **Jun 7, 2025** | Cards cancelled secretly | Peter, Rynette | <24 hours after fraud disclosure | Banking records |
 | **Aug 13, 2025** | Peter files interdict | Peter | 2 days after settlement agreement | Court records |

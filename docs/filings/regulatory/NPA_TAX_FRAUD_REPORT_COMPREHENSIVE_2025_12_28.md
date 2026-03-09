@@ -122,7 +122,7 @@ All tax fraud must be understood within the context of the R18.75M Ketoni Invest
 **Details:**
 - **Amount:** R5,400,000
 - **Mechanism:** "Stock adjustment" reflecting stock that "just disappeared"
-- **Stock Type:** Same type supplied by Adderory (Rynette's son's company)
+- **Stock Type:** Same type supplied by Adderory (Rynette's son (Darren Dennis Farrar)'s company)
 - **Tax Impact:** Created R5.4M tax loss for SLG
 - **Timing:** Coordinated with SARS audit
 
@@ -134,7 +134,7 @@ All tax fraud must be understood within the context of the R18.75M Ketoni Invest
   - No corresponding write-off recovery
   - Negative R4.2M finished goods inventory (accounting fiction)
 - [SF5 - Adderory Company Registration](https://github.com/cogpy/ad-res-j7/blob/main/ANNEXURES/SF5_Adderory_Company_Registration_Stock_Supply.md)
-  - Rynette's son's company
+  - Rynette's son (Darren Dennis Farrar)'s company
   - Supplier of RegimA packaging
   - Conflict of interest documentation
 

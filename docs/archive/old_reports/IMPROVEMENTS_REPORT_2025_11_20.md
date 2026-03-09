@@ -26,7 +26,7 @@ The GitHub Pages should be restructured to follow the 8 phases of the timeline. 
 - **2025-03-15**: Foundation for R2.85M+ trust violations established through trust structure manipulation
 - **2025-03-30**: Rynette and Peter dumped two years' worth of unallocated expenses from all companies into RegimA Worldwide and pressured Daniel to sign off within 12 hours for SARS VAT & Annual Accounts. Daniel used time until June 6th to finalize reports and uncover fraud.
 - **2025-02-14**: Peter made unauthorized transfers of R900,000 from RegimA SA without Daniel's authority as co-director
-- **2025-03-01**: R5.4M worth of stock physically disappears from Strategic Logistics warehouse. Represents 46% of annual sales, 10x historical adjustment rate. Same stock type later supplied by Adderory (Rynette's son's company) to RegimA.
+- **2025-03-01**: R5.4M worth of stock physically disappears from Strategic Logistics warehouse. Represents 46% of annual sales, 10x historical adjustment rate. Same stock type later supplied by Adderory (Rynette's son (Darren Dennis Farrar)'s company) to RegimA.
 - **2025-03-15**: R5.4M written off as simple 'stock adjustment' without investigation, supporting documentation, or proper authorization. Bantjies as accountant should have investigated 46% loss but did not, demonstrating complicity.
 - **2025-02-25**: R5.2M SLG stock missing with simultaneous R5.2M invoice from SLG to RST. Stock physically disappeared, same type later supplied by Adderory to RegimA. Systematic asset stripping begins.
 
@@ -48,7 +48,7 @@ The GitHub Pages should be restructured to follow the 8 phases of the timeline. 
 - **2025-05-15**: Jacqui confronted Rynette regarding R1,035,000 owed by RegimA Skin Treatments to Rezonance since Feb 2023. Jacqui stated these funds were part of Kayla's estate and keeping them would be profiting from proceeds of murder.
 - **2025-05-15**: R850,000+ unauthorized transfers. Direct evidence of financial authority abuse and theft. R850K+ included revenue from platform paid by UK company (28 months)
 - **2025-05-22**: CRITICAL EVENT: R1M+ monthly revenue → R0 (100% business shutdown). Central evidence destruction event proving consciousness of guilt. Destruction of audit trails for platform owned, paid, operated by RegimA Zone Ltd (UK) since July 2023 - proves RWD ZA has no independent revenue stream. Orders removed from Shopify following Jacqui's confrontation.
-- **2025-05-29**: Customer hijacking platform. Family conspiracy escalation and digital impersonation. Domain registered to impersonate business on Dan's UK-funded platform. New domain regimaskin.co.za registered by Adderory (Rynette's son's company) following Shopify shutdown.
+- **2025-05-29**: Customer hijacking platform. Family conspiracy escalation and digital impersonation. Domain registered to impersonate business on Dan's UK-funded platform. New domain regimaskin.co.za registered by Adderory (Rynette's son (Darren Dennis Farrar)'s company) following Shopify shutdown.
 - **2025-04-22**: Peter ordered Cloud IT systems removal, seizing infrastructure control from legitimate operators.
 - **2025-05-15**: Jax confronts Rynette about R1,035,000 owed to ReZonance and Kayla's estate
 - **2025-04-22**: Peter instructs removal of all cloud IT systems, systematic dismantling of cloud-based infrastructure as preparation for evidence destruction
@@ -119,7 +119,7 @@ The GitHub Pages should be restructured to follow the 8 phases of the timeline. 
 - **2020-02-28**: SLG pays R414,334.09 interest to RST per loan agreement, RST advances R750K loan to RWW for production costs, Directors' fee adjustment R784K in RST
 - **2020-04-30**: Villa Via generates R4.4M monthly rental income with R3.7M profit, Members loan account R22.8M indicating systematic capital extraction
 - **2020-08-13**: Email from Danie Bantjies with final trial balances to Bernadine Wright, Jax, Peter, Rynette, Daniel for financial statement finalization meeting
-- **2021-04-01**: Rynette's son registered Adderory (Pty) Ltd and Adderory Skin (Pty) Ltd, establishing competing business infrastructure 4 years before fraud escalation. Demonstrates long-term conspiracy planning.
+- **2021-04-01**: Rynette's son, Darren Dennis Farrar, registered Adderory (Pty) Ltd and Adderory Skin (Pty) Ltd, establishing competing business infrastructure 4 years before fraud escalation. Demonstrates long-term conspiracy planning.
 - **2023-01-01**: Murder of Kayla Pretorius, creating estate complications, law enforcement investigation, and family trauma. Estate includes ReZonance debt of R1,035,000.
 - **2020-08-13**: Bantjies sends trial balance email to Bernadine Wright for financial statement finalization meeting, demonstrating his control over financial systems and accounting records
 - **2024**: Rynette fraudulently eliminates over R1M debt owed by RegimA Skin Treatments to ReZonance by misallocating international GoDaddy payments as though they were local payments made to ReZonance. ReZonance never received these payments; amounts remain outstanding.

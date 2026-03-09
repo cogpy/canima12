@@ -22,7 +22,7 @@ This analysis examines the current state of entities, events, relations, and tim
 - PERSON_008 (Kayla - estate creditor)
 - PERSON_009 (Gee - email sender witness)
 - PERSON_010 (Bernadine Wright - financial professional)
-- PERSON_003 (Adderory - Rynette's son)
+- PERSON_003 (Adderory - Rynette's son (Darren Dennis Farrar))
 - PERSON_011
 - PERSON_012
 

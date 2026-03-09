@@ -695,14 +695,14 @@ This document outlines a comprehensive, actionable strategy for acquiring the cr
 - Company name: Addarory (Pty) Ltd or similar
 - Registration number
 - Registration date: April 30, 2021
-- Directors: Addarory (Rynette's son)
+- Directors: Addarory (Rynette's son, Darren Dennis Farrar)
 - Business activities: RegimA packaging supplier
 
 **Relationship Data:**
 - Owned by Addarory (PERSON_003)
 - Supplier to Strategic Logistics Group (SLG)
 - Connected to R5.4M stock disappearance
-- Conflict of interest (supplier owned by Rynette's son)
+- Conflict of interest (supplier owned by Rynette's son, Darren Dennis Farrar,)
 - Domain registrant (regimaskin.co.za)
 
 **Financial Data:**
@@ -783,7 +783,7 @@ This document outlines a comprehensive, actionable strategy for acquiring the cr
 - [ ] Document family conspiracy element
 
 **Step 6: Validation (Week 2)**
-- [ ] Confirm Addarory is Rynette's son
+- [ ] Confirm Addarory is Rynette's son (Darren Dennis Farrar)
 - [ ] Validate conflict of interest (supplier owned by controller's son)
 - [ ] Cross-reference stock types
 - [ ] Verify timeline: incorporation (April 2021) → supply → disappearance (2025)
@@ -828,7 +828,7 @@ This document outlines a comprehensive, actionable strategy for acquiring the cr
 **Relations to Create:**
 - REL_OWN_010: Addarory owns Addarory (Pty) Ltd
 - REL_SUPPLY_001: Addarory (Pty) Ltd supplies SLG
-- REL_CONFLICT_001: Conflict of interest (Rynette's son supplies companies she controls)
+- REL_CONFLICT_001: Conflict of interest (Rynette's son (Darren Dennis Farrar) supplies companies she controls)
 - REL_STOCK_001: Addarory supply type matches disappeared stock
 - REL_DOMAIN_001: Addarory (Pty) Ltd registered fraudulent domain
 
@@ -1256,7 +1256,7 @@ This document outlines a comprehensive, actionable strategy for acquiring the cr
 
 **Relationship Data:**
 - SLG manufactured loss
-- Stock supplied by Addarory (Rynette's son's company)
+- Stock supplied by Addarory (Rynette's son (Darren Dennis Farrar)'s company)
 - Bantjies instruction for payments (SARS audit email)
 - Transfer pricing manipulation
 - Negative R4.2M finished goods inventory (accounting fiction)
@@ -1375,7 +1375,7 @@ This document outlines a comprehensive, actionable strategy for acquiring the cr
     "ORG_008",
     "ORG_002"
   ],
-  "description": "SLG manufactured R5.4M loss via R5.2M inventory adjustment (10x prior year, 46% of sales). Stock 'just disappeared' - same type supplied by Addarory (Rynette's son). Negative R4.2M finished goods inventory indicates accounting fiction. Transfer pricing manipulation with below-cost sales to RST. Bantjies allegedly instructed payments in SARS audit email.",
+  "description": "SLG manufactured R5.4M loss via R5.2M inventory adjustment (10x prior year, 46% of sales). Stock 'just disappeared' - same type supplied by Addarory (Rynette's son, Darren Dennis Farrar). Negative R4.2M finished goods inventory indicates accounting fiction. Transfer pricing manipulation with below-cost sales to RST. Bantjies allegedly instructed payments in SARS audit email.",
   "financial_impact": "R5,400,000",
   "legal_significance": "transfer_pricing_fraud_inventory_manipulation_tax_fraud",
   "evidence": [

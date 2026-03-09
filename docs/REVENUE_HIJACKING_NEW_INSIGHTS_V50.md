@@ -178,7 +178,7 @@ Bantjies' role as information conduit proves:
 
 ### The Registration (May 29, 2025)
 
-**regimaskin.co.za** domain registered by **Adderory** (Rynette's son's company).
+**regimaskin.co.za** domain registered by **Adderory** (Rynette's son (Darren Dennis Farrar)'s company).
 
 ### New Insight
 
@@ -212,7 +212,7 @@ ADDERORY (Son's Company)
 **Why This Matters:**
 
 1. **Phoenix Company Fraud:** Creating new entity to receive assets of failing company
-2. **Family Enrichment:** Rynette diverting assets to her son's company
+2. **Family Enrichment:** Rynette diverting assets to her son (Darren Dennis Farrar)'s company
 3. **Systematic:** Multiple asset types diverted (customers, stock, communications)
 4. **Premeditated:** Domain registered 14 days after Jax's confrontation
 
@@ -221,7 +221,7 @@ ADDERORY (Son's Company)
 The Adderory diversion proves:
 1. **Theft** - Customer base and stock diverted without authorization
 2. **Fraud** - False representation that regimaskin.co.za is RegimA
-3. **Conflict of Interest** - Rynette enriching her son at company expense
+3. **Conflict of Interest** - Rynette enriching her son (Darren Dennis Farrar) at company expense
 4. **Phoenix Company Fraud** - Classic asset stripping playbook
 
 ---
@@ -408,7 +408,7 @@ The systematic revenue stream hijacking from April to July 2025 is not a series 
 1. **Central Motive:** R18.75M Ketoni payout (May 2026)
 2. **Trigger Event:** Jax's May 15 confrontation about murder-related theft
 3. **Execution Team:** Rynette (executor), Bantjies (information conduit), Peter (figurehead)
-4. **Diversion Vehicle:** Adderory (Rynette's son's company)
+4. **Diversion Vehicle:** Adderory (Rynette's son (Darren Dennis Farrar)'s company)
 5. **Ultimate Goal:** Curatorship over Jax to capture her R9.375M share
 
 ### The Key Insight

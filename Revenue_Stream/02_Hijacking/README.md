@@ -6,7 +6,7 @@ This folder contains comprehensive documentation demonstrating the viability and
 
 ## Primary Objective
 
-**Court Order Reinstatement**: To support legal proceedings requesting the rightful reinstatement of Shopify Platforms to their healthy pre-hijacking state, and mandate the use of the regima.zone domain owned by RegimA instead of the suspect domain owned by Addarory (Rynette's son).
+**Court Order Reinstatement**: To support legal proceedings requesting the rightful reinstatement of Shopify Platforms to their healthy pre-hijacking state, and mandate the use of the regima.zone domain owned by RegimA instead of the suspect domain owned by Addarory (Rynette's son, Darren Dennis Farrar).
 
 ## Folder Structure
 

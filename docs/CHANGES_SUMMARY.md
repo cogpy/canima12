@@ -91,7 +91,7 @@
 **Pattern:**
 1. Stock valued at R5.4M disappeared from Strategic Logistics (trust-controlled)
 2. Written off as "stock adjustment" without investigation (46% of sales, 10x normal)
-3. Same stock type supplied by Adderory (Rynette's son) to RegimA
+3. Same stock type supplied by Adderory (Rynette's son, Darren Dennis Farrar) to RegimA
 4. Systematic value extraction from trust to benefit Rynette's family
 
 **Legal Impact:**

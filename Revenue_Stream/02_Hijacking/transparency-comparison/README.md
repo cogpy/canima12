@@ -37,7 +37,7 @@ This document provides a comprehensive comparison between the current opaque sys
 - **Legal Concern**: Potential for undisclosed actions
 
 #### 3. Domain Ownership Concerns
-- **Issue**: Use of Addarory-owned domain (Rynette's son)
+- **Issue**: Use of Addarory-owned domain (Rynette's son, Darren Dennis Farrar)
 - **Risk**: Conflict of interest and control issues
 - **Impact**: Questionable legitimacy of communications
 - **Legal Concern**: Potential misrepresentation

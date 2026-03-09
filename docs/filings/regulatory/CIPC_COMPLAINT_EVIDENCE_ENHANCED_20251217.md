@@ -96,7 +96,7 @@ The following conduct constitutes oppression under Section 163:
 
 **Evidence:**
 - JF07: 186 bank transfer documents showing systematic diversion
-- SF5: Adderory (Rynette's son's company) beneficiary of diverted business
+- SF5: Adderory (Rynette's son (Darren Dennis Farrar)'s company) beneficiary of diverted business
 - JF08: Evidence packages documenting timeline
 
 **Legal Basis:** Section 163(2)(b) - unfairly prejudicial conduct  

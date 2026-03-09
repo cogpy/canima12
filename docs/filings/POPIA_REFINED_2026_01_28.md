@@ -62,7 +62,7 @@ This complaint outlines multiple, serious breaches of the Protection of Personal
 
 | Date | Event | Evidence |
 |------|-------|----------|
-| 2025-05-29 | Domain registration using personal information for identity fraud (regima.zone registered by Rynette's son) | Domain registration records, whois data |
+| 2025-05-29 | Domain registration using personal information for identity fraud (regima.zone registered by Rynette's son, Darren Dennis Farrar,) | Domain registration records, whois data |
 | 2025-06-20 | Email impersonation - processing communications under false identity | gee_email_to_jax, customer communications |
 | 2025-08-15 | Continued use of personal information for fraudulent business operations | gee_email_to_jax |
 
@@ -101,7 +101,7 @@ This complaint outlines multiple, serious breaches of the Protection of Personal
 
 ### 3.2 Domain Registration Fraud (2025-05-29)
 
-**Description:** Rynette's son (PERSON_003) registered regima.zone domain using personal information for identity fraud purposes, creating infrastructure for revenue diversion.
+**Description:** Rynette's son (Darren Dennis Farrar) (PERSON_003) registered regima.zone domain using personal information for identity fraud purposes, creating infrastructure for revenue diversion.
 
 **POPIA Sections Violated:**
 - Section 21 (Processing without consent)

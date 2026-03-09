@@ -569,7 +569,7 @@ changed to RegimA SA. The Applicant and Second Respondent are the directors of t
 
 93. The content hereof is denied.
 
-94. Rynette and her son started a business in the United Kingdom which takes revenue and profit from the Third – Sixth Respondents.
+94. Rynette and her son (Darren Dennis Farrar) started a business in the United Kingdom which takes revenue and profit from the Third – Sixth Respondents.
 
 95. The Company is Addarory which supplies packaging now to the Respondent Companies. This was done to make a profit from the Respondent Companies.
 
@@ -649,7 +649,7 @@ changed to RegimA SA. The Applicant and Second Respondent are the directors of t
 
 114. I did not want Arthur to have access to the stock at my residence as stock has gone missing to the value of over R5million in stock, and I was concerned that Rynette would gain access to same or that Arthur would give stock to the Applicant unknowingly and unaware of the fact that there are disputes.
 
-115. Notwithstanding the above, one must remember that Rynette and/or her son has the UK entity. My concern was also that stock / raw material would be used by Rynette for the UK entity which would clearly be prejudicial to the Respondent Companies.
+115. Notwithstanding the above, one must remember that Rynette and/or her son (Darren Dennis Farrar) has the UK entity. My concern was also that stock / raw material would be used by Rynette for the UK entity which would clearly be prejudicial to the Respondent Companies.
 
 116. The phone which was switched off was not Arthur's phone but a company phone. No reason exists why I could not simply be contacted on my phone number.
 
@@ -724,7 +724,7 @@ changed to RegimA SA. The Applicant and Second Respondent are the directors of t
 
 <p align="right">Page 22</p>
 
-who are acting in consort with Rynette, who is pilfering and redirecting customers to a company which is owned by her son.
+who are acting in consort with Rynette, who is pilfering and redirecting customers to a company which is owned by her son (Darren Dennis Farrar).
 
 135. I have been advised that the conduct is unlawful and is in direct contravention of the business's non- disclosure and non – compete rights and an application to enjoin the actions of the parties involved is being prepared.
 

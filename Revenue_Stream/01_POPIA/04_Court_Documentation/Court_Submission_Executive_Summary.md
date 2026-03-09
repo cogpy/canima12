@@ -51,7 +51,7 @@ Rynette has systematically:
 - Removed all other users from business systems
 - Changed all passwords without authorization
 - Moved operations to her personal computer
-- Switched from regima.zone to her son's Addarory domain
+- Switched from regima.zone to her son (Darren Dennis Farrar)'s Addarory domain
 - Disconnected all financial transparency tools
 - Hidden all revenue and operational data
 

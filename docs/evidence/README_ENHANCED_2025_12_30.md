@@ -475,7 +475,7 @@ DOCUMENTED LOSS: R 3,141,647.70 (3 months)
    - Frame Jacqui as "demented" to exclude her from trust benefits
    - Use "medical testing" as pretext for curatorship fraud
 
-2. **Why Bantjies as Trustee?** Rynette appointed Bantjies (her son) as Trustee in July 2024:
+2. **Why Bantjies as Trustee?** Rynette appointed Bantjies (her son (Darren Dennis Farrar)) as Trustee in July 2024:
    - Control trust decisions
    - Facilitate payout diversion
    - Create conflict of interest (Bantjies owes R200,000+ to RegimA)

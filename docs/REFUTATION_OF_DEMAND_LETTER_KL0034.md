@@ -63,9 +63,9 @@ Rynette's denial is **false**. Evidence shows she held and exercised unilateral 
 
 ### **Denial 3: Starting a UK Business to Take Revenue**
 
-**Rynette's Claim (para 3):** Denies that she and her son started a UK business to take revenue and profit from the respondent companies.
+**Rynette's Claim (para 3):** Denies that she and her son (Darren Dennis Farrar) started a UK business to take revenue and profit from the respondent companies.
 
-**Jax's Allegation (para 94-96):** Rynette and her son established a UK business to divert revenue.
+**Jax's Allegation (para 94-96):** Rynette and her son (Darren Dennis Farrar) established a UK business to divert revenue.
 
 #### **Refutation & Supporting Evidence:**
 
@@ -74,7 +74,7 @@ Rynette's denial is **misleading and false**. The UK entity was central to the r
 | Evidence File | Type | Key Finding Proving Jax's Allegation | Evidence Code |
 |---|---|---|---|
 | `jax-response/analysis-output/Section_3_Responsible_Person_Crisis.md` | Analysis | Details the creation of the UK entity, **RegimA Zone Ltd**, and its role in the revenue diversion scheme. | JAX |
-| `affidavit_work/analysis/NETWORK_ANALYSIS_FUND_FLOWS.md` | Network Analysis | Visually maps the flow of funds from the South African companies directly to the UK entity controlled by Rynette's son. | - |
+| `affidavit_work/analysis/NETWORK_ANALYSIS_FUND_FLOWS.md` | Network Analysis | Visually maps the flow of funds from the South African companies directly to the UK entity controlled by Rynette's son, Darren Dennis Farrar,. | - |
 | `index.md` (revstream1 repo) | Executive Summary | States the critical fact that the Shopify platform was owned and paid for by Daniel Faucitt's UK entity, proving all revenue flowed through infrastructure he controlled, not RWD ZA. | - |
 
 **Conclusion:** Rynette's denial is a falsehood. The evidence proves Jax's allegation is true. A UK business was established and used to divert revenue and profit, and this forms a core part of the fraud.
@@ -85,7 +85,7 @@ Rynette's denial is **misleading and false**. The UK entity was central to the r
 
 **Rynette's Claim (para 4):** Denies competing unlawfully through Addadory (Pty) Ltd and the domain `regimaskin.co.za` while employed as a bookkeeper.
 
-**Jax's Allegation (para 95-97, 130-132):** Rynette, through her son's company, competed unlawfully.
+**Jax's Allegation (para 95-97, 130-132):** Rynette, through her son (Darren Dennis Farrar)'s company, competed unlawfully.
 
 #### **Refutation & Supporting Evidence:**
 
@@ -103,13 +103,13 @@ Rynette's denial is **demonstrably false**. The competing entities were establis
 
 ### **Denial 5: Redirecting Customers in Consort with Son**
 
-**Rynette's Claim (para 5):** Denies redirecting customers to her son's company or acting "in consort" to pilfer business opportunities.
+**Rynette's Claim (para 5):** Denies redirecting customers to her son (Darren Dennis Farrar)'s company or acting "in consort" to pilfer business opportunities.
 
-**Jax's Allegation (para 134-135):** Rynette acted in consort with her son to redirect customers.
+**Jax's Allegation (para 134-135):** Rynette acted in consort with her son (Darren Dennis Farrar) to redirect customers.
 
 #### **Refutation & Supporting Evidence:**
 
-Rynette's denial is **false**. The evidence shows a coordinated effort to move customers and business opportunities to entities controlled by her son.
+Rynette's denial is **false**. The evidence shows a coordinated effort to move customers and business opportunities to entities controlled by her son (Darren Dennis Farrar).
 
 | Evidence File | Type | Key Finding Proving Jax's Allegation | Evidence Code |
 |---|---|---|---|
@@ -117,7 +117,7 @@ Rynette's denial is **false**. The evidence shows a coordinated effort to move c
 | `affidavit_work/analysis/NETWORK_ANALYSIS_FUND_FLOWS.md` | Network Analysis | Provides a visual map of fund flows from redirected customers to the new entities, proving the financial reality of the scheme. | - |
 | `COMPREHENSIVE_EVIDENCE_INDEX.md` (Emails) | Email Evidence | Contains email correspondence where instructions are given to redirect customer orders and communications. | - |
 
-**Conclusion:** Rynette's denial is a falsehood. The evidence proves Jax's allegation is true. She acted "in consort" with her son in a clear conspiracy to steal customers and business opportunities.
+**Conclusion:** Rynette's denial is a falsehood. The evidence proves Jax's allegation is true. She acted "in consort" with her son (Darren Dennis Farrar) in a clear conspiracy to steal customers and business opportunities.
 
 ---
 

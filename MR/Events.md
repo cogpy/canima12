@@ -797,7 +797,7 @@ ORG_001, ORG_002, ORG_004, ORG_012
 | **Financial Impact** | unknown_amount |
 
 **Description:**
-> Rynette's son registered Adderory (Pty) Ltd and Adderory Skin (Pty) Ltd, establishing competing business infrastructure 4 years before fraud escalation. Demonstrates long-term conspiracy planning.
+> Rynette's son, Darren Dennis Farrar, registered Adderory (Pty) Ltd and Adderory Skin (Pty) Ltd, establishing competing business infrastructure 4 years before fraud escalation. Demonstrates long-term conspiracy planning.
 
 **Entities Involved:**
 ORG_009, ORG_010
@@ -1180,7 +1180,7 @@ ORG_006
 | **Financial Impact** | R5,400,000 |
 
 **Description:**
-> R5.4M worth of stock physically disappears from Strategic Logistics warehouse. Represents 46% of annual sales, 10x historical adjustment rate. Same stock type later supplied by Adderory (Rynette's son's company) to RegimA.
+> R5.4M worth of stock physically disappears from Strategic Logistics warehouse. Represents 46% of annual sales, 10x historical adjustment rate. Same stock type later supplied by Adderory (Rynette's son (Darren Dennis Farrar)'s company) to RegimA.
 
 **Entities Involved:**
 ORG_004, PERSON_003
@@ -1545,7 +1545,7 @@ PLATFORM_001
 | **Financial Impact** | unknown_amount |
 
 **Description:**
-> Customer hijacking platform. Family conspiracy escalation and digital impersonation. Domain registered to impersonate business on Dan's UK-funded platform. New domain regimaskin.co.za registered by Adderory (Rynette's son's company) following Shopify shutdown.
+> Customer hijacking platform. Family conspiracy escalation and digital impersonation. Domain registered to impersonate business on Dan's UK-funded platform. New domain regimaskin.co.za registered by Adderory (Rynette's son (Darren Dennis Farrar)'s company) following Shopify shutdown.
 
 **Entities Involved:**
 DOMAIN_002
@@ -1561,7 +1561,7 @@ DOMAIN_002
 | **Burden of Proof** | verified_documentary |
 
 **Description:**
-> New domain regimaskin.co.za registered by Adderory (Rynette's son's company) following Shopify shutdown, enabling customer hijacking.
+> New domain regimaskin.co.za registered by Adderory (Rynette's son (Darren Dennis Farrar)'s company) following Shopify shutdown, enabling customer hijacking.
 
 **Entities Involved:**
 PERSON_002, PERSON_003, DOMAIN_002

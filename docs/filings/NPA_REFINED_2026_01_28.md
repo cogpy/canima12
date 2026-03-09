@@ -74,7 +74,7 @@ This report details evidence of significant tax fraud and related financial crim
 **Tax Implications:**
 - Fictitious expense claims to reduce taxable income
 - VAT fraud through false input tax claims
-- Transfer pricing manipulation via Adderory (Rynette's son's company)
+- Transfer pricing manipulation via Adderory (Rynette's son (Darren Dennis Farrar)'s company)
 
 **Ad-Res-J7 Evidence:**
 - `SF3_Strategic_Logistics_Stock_Adjustment.md`

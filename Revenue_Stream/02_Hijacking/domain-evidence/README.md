@@ -2,7 +2,7 @@
 
 ## Executive Summary
 
-This document provides comprehensive evidence regarding the legitimate ownership of the regima.zone domain versus the suspect domain controlled by Addarory (Rynette's son), supporting the legal case for proper domain usage in business operations.
+This document provides comprehensive evidence regarding the legitimate ownership of the regima.zone domain versus the suspect domain controlled by Addarory (Rynette's son, Darren Dennis Farrar), supporting the legal case for proper domain usage in business operations.
 
 ## Domain Ownership Analysis
 

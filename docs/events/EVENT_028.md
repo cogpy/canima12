@@ -36,7 +36,7 @@
   ],
   "pattern": "foundation_phase",
   "critical": true,
-  "additional_notes": "Same stock type supplied by Adderory (Rynette's son), demonstrates coordinated transfer pricing fraud",
+  "additional_notes": "Same stock type supplied by Adderory (Rynette's son, Darren Dennis Farrar), demonstrates coordinated transfer pricing fraud",
   "evidence_location": "ad-res-j7/jax-response/AD/1-Critical/KEY_TIMELINE_EVENTS_COMPREHENSIVE.md",
   "ad_res_j7_evidence": [
     "ANNEXURES/JF08"

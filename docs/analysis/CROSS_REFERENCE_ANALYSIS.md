@@ -25,12 +25,12 @@ This document provides a comprehensive cross-reference analysis between the RevS
 **Adderory Details from Ad-Res-J7:**
 - **Adderory (Pty) Ltd** - Registered April 2021
 - **Adderory Skin (Pty) Ltd** - Registered April 2021
-- Owner: Rynette's son (name not explicitly stated in documents reviewed)
+- Owner: Rynette's son (Darren Dennis Farrar) (name not explicitly stated in documents reviewed)
 - Domain: regimaskin.co.za registered to Adderory on May 29, 2025
 - Purpose: Competing companies for revenue hijacking
 
 **Missing Person Entity:**
-- Rynette's son is referenced throughout but never named explicitly
+- Rynette's son, Darren Dennis Farrar, is referenced throughout but never named explicitly
 - Operates Adderory companies
 - Registered fraudulent domain
 - Critical link in family conspiracy network
@@ -128,7 +128,7 @@ This document provides a comprehensive cross-reference analysis between the RevS
 **Ad-Res-J7 Evidence:**
 - ReZonance and Adderory are **completely separate entities**
 - ReZonance: Victim, IT services provider since 2017, owed R1.035M
-- Adderory: Accomplice, Rynette's son's companies, registered April 2021
+- Adderory: Accomplice, Rynette's son (Darren Dennis Farrar)'s companies, registered April 2021
 
 **Required Fix:**
 - Separate Adderory into ORG_009 and ORG_010 (two companies)
@@ -138,7 +138,7 @@ This document provides a comprehensive cross-reference analysis between the RevS
 ### 2. Missing PERSON_003 (CONFIRMED HIGH PRIORITY)
 
 **Ad-Res-J7 Evidence:**
-- Rynette's son is referenced multiple times
+- Rynette's son, Darren Dennis Farrar, is referenced multiple times
 - Owns Adderory (Pty) Ltd and Adderory Skin (Pty) Ltd
 - Registered fraudulent domain regimaskin.co.za (May 29, 2025)
 - Companies registered April 2021 (pre-planning)
@@ -164,7 +164,7 @@ This document provides a comprehensive cross-reference analysis between the RevS
 
 1. **Fix Entity Duplication**
    - Separate ReZonance (ORG_007/ORG_008) from Adderory (ORG_009, ORG_010)
-   - Add PERSON_003 (Rynette's son)
+   - Add PERSON_003 (Rynette's son, Darren Dennis Farrar)
    - Add PERSON_011 (Chantal - estate related)
 
 2. **Add Missing Events**
@@ -181,9 +181,9 @@ This document provides a comprehensive cross-reference analysis between the RevS
 4. **Add New Relations**
    - REL_WITNESS_003: Bernadine Wright witness to trial balance distribution
    - REL_ESTATE_002: Chantal connection to Kayla estate
-   - REL_OWN_007: Rynette's son owns Adderory (Pty) Ltd
-   - REL_OWN_008: Rynette's son owns Adderory Skin (Pty) Ltd
-   - REL_CONSP_005: Rynette's son co-conspirator with Rynette
+   - REL_OWN_007: Rynette's son, Darren Dennis Farrar, owns Adderory (Pty) Ltd
+   - REL_OWN_008: Rynette's son, Darren Dennis Farrar, owns Adderory Skin (Pty) Ltd
+   - REL_CONSP_005: Rynette's son (Darren Dennis Farrar) co-conspirator with Rynette
 
 ### Medium Priority Enhancements
 
@@ -241,7 +241,7 @@ This document provides a comprehensive cross-reference analysis between the RevS
 The ad-res-j7 repository provides substantial additional evidence and context that significantly enhances the RevStream1 data models. The most critical findings are:
 
 1. **ReZonance and Adderory are separate entities** - requires immediate fix
-2. **Rynette's son (PERSON_003) must be added** - critical for conspiracy network
+2. **Rynette's son (Darren Dennis Farrar) (PERSON_003) must be added** - critical for conspiracy network
 3. **Pre-planning evidence (April 2021)** - demonstrates long-term conspiracy
 4. **Historical events (2023-early 2025)** - provides crucial context
 5. **Email forensics evidence** - strengthens control and impersonation claims

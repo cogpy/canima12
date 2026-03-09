@@ -60,7 +60,7 @@ This complaint concerns serious violations of the Protection of Personal Informa
 
 **Evidence:**
 - Domain registration: regima-zone.com
-- Registered by: Rynette's son (PERSON_003)
+- Registered by: Rynette's son (Darren Dennis Farrar) (PERSON_003)
 - Date: 29 May 2025 (7 days after Kayla's death)
 - Purpose: Identity fraud and business diversion
 

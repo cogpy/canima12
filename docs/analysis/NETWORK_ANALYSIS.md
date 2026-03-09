@@ -24,7 +24,7 @@ The conspiracy network graph visualizes the complex web of relationships, contro
 - Both connected to Bantjies through thick red conspiracy lines
 
 **Tier 3: Family Extension**
-- **Adderory** - Rynette's son's company (Stock Fraud)
+- **Adderory** - Rynette's son (Darren Dennis Farrar)'s company (Stock Fraud)
 - **Linda** - Rynette's sister (Bookkeeper)
 - Orange conspiracy lines showing family involvement
 
@@ -210,7 +210,7 @@ This extension demonstrates:
 
 **Transfer Pricing Scheme:**
 - SLG (trust-controlled) positioned as "loss entity" (R5.4M stock loss)
-- Stock supplied by Adderory (Rynette's son) to RegimA
+- Stock supplied by Adderory (Rynette's son, Darren Dennis Farrar) to RegimA
 - Profits extracted from trust, concentrated in family entities
 
 ### Victim Pattern

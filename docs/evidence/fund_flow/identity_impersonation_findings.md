@@ -47,11 +47,11 @@ On 2025-08-01, Kulani Mashaba (ABSA banker) emailed rynette@regimaskin.co.za AND
 4. Interdict granted: 2025-08-19
 5. First pete@regimaskin.co.za message: 2025-08-20 (THE VERY NEXT DAY)
 6. Rynette seamlessly continued impersonating Peter on the new domain
-7. The new domain (regimaskin.co.za) is owned by Rynette's son's company (Adderory)
+7. The new domain (regimaskin.co.za) is owned by Rynette's son (Darren Dennis Farrar)'s company (Adderory)
 
 ### 7. Implications
 - Rynette is creating a paper trail that makes it look like PETER is conducting business
 - But Peter doesn't use a computer — Rynette is the one operating all these accounts
 - The switch from @regima.com to @regimaskin.co.za happened immediately after the interdict
-- This means Rynette set up the new email infrastructure on her son's domain BEFORE the interdict
+- This means Rynette set up the new email infrastructure on her son (Darren Dennis Farrar)'s domain BEFORE the interdict
 - The entire email migration (EVT-070) was preparation for this identity continuation

@@ -98,7 +98,7 @@ Summary of trust conspiracy with Bantjies' enhanced criminal liability as truste
 | Ketoni Investment Holdings (Pty) Ltd | JP | K2023562189 | Debtor - owes R18.685M to FFT |
 | The George Group | JP | K2018619716 | Bantjies employer; Kevin Derrick director |
 | Kevin Michael Derrick | NP | Unknown | Director: George Group + Ketoni (dual role) |
-| Addarory (Pty) Ltd | JP | Unknown | Rynette's son's company (alleged competitor) |
+| Addarory (Pty) Ltd | JP | Unknown | Rynette's son (Darren Dennis Farrar)'s company (alleged competitor) |
 | Pottas Attorneys | LP | Unknown | Rynette Farrar's legal representation |
 
 ## New Relations to Add

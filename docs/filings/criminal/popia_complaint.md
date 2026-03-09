@@ -99,7 +99,7 @@ Gee instructed to send email: "don't use regima.zone only use regimaskin.co.za e
 **Evidence:** ANNEXURES/JF09 - Domain Registration Records
 **Burden of Proof:** ✅ 95%+ (Criminal threshold exceeded)
 
-Domain regimaskin.co.za registered by Adderory (Rynette's son's company) to impersonate RegimA business.
+Domain regimaskin.co.za registered by Adderory (Rynette's son (Darren Dennis Farrar)'s company) to impersonate RegimA business.
 
 **POPIA Violations:**
 - Section 71: Identity fraud

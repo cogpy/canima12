@@ -68,7 +68,7 @@ Elliott Attorneys issued a Letter of Demand (KL0034) on behalf of Rynette Farrar
 
 ### Allegation 3: UK Business Revenue Theft (para 94-96)
 
-> *"Accuses our client and her son of starting a UK business that 'takes revenue and profit' from the respondent companies."*
+> *"Accuses our client and her son (Darren Dennis Farrar) of starting a UK business that 'takes revenue and profit' from the respondent companies."*
 
 **VERDICT: PROVEN TRUE — regimaskin.co.za operating as competing entity**
 
@@ -104,7 +104,7 @@ Elliott Attorneys issued a Letter of Demand (KL0034) on behalf of Rynette Farrar
 
 ### Allegation 5: Pilfering Business Opportunities (para 134-135)
 
-> *"Alleges that our client is redirecting customers to a company owned by her son and acting 'in consort' in pilfering business opportunities."*
+> *"Alleges that our client is redirecting customers to a company owned by her son (Darren Dennis Farrar) and acting 'in consort' in pilfering business opportunities."*
 
 **VERDICT: PROVEN TRUE — Active customer redirection via regimaskin.co.za**
 
