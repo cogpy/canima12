@@ -78,4 +78,6 @@ The case dynamics have been formally modeled using multi-paradigm simulation to 
 |------------|-------------|------|
 | **AnyLogic (.alp)** | Multi-paradigm (SD/DES/ABM) model of the 6-phase criminal enterprise | [Download](./simulation/RevenueStreamHijacking_Case2025_137857.alp) |
 | **NetLogo (.nlogo)** | Agent-based model of perpetrators, victims, and financial flows | [Download](./simulation/RevenueStreamHijacking_Case2025_137857.nlogo) |
+| **LEX AnyLogic (.alp)** | Multi-paradigm model of the LEX legal reasoning architecture | [Download](./simulation/lex.alp) |
+| **LEX NetLogo (.nlogo)** | Agent-based model of the LEX legal reasoning process | [Download](./simulation/lex.nlogo) |
 | **CogSim Integration** | Overview of the simulation framework integration | [View](./simulation/cogsim-integration.md) |

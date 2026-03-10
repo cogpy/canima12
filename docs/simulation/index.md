@@ -24,3 +24,17 @@ An interactive agent-based model focusing on the spatial and temporal dynamics o
 ## Methodology
 
 These models were generated using the `target-to-anylogic` P49 decomposition methodology, which analyzes the structural, relational, and temporal properties of the case evidence to produce formal simulation architectures.
+
+## LEX Legal Reasoning Framework Models
+
+The LEX Legal Reasoning Framework (from `ad-res-j7/lex`) has also been modeled to demonstrate the automated legal analysis pipeline that processes the case evidence.
+
+### 1. LEX AnyLogic Model (.alp)
+A multi-paradigm model of the legal reasoning architecture.
+- **File:** [lex.alp](./lex.alp)
+- **Key Features:** Models the evidence intake, modal logic qualification, 7-lens attention scoring, inference reasoning, burden of proof assessment, and grip optimization across 8 dimensions.
+
+### 2. LEX NetLogo Model (.nlogo)
+An agent-based model of the legal reasoning process.
+- **File:** [lex.nlogo](./lex.nlogo)
+- **Key Features:** Visualizes evidence items flowing through the analysis pipeline, interacting with 63 Level 1 principles, 7 attention lenses, 4 inference engines, and 128 legal reasoning skills.
