@@ -1,0 +1,130 @@
+platform,scope,type,severity,from,subject,date,detail
+Exchange,absa,NON_TLS_HOP,LOW,rynette@regimaskin.co.za,Absa Bank Statements,2025-10-02T05:24:02Z,from= by=
+Exchange,absa,NON_TLS_HOP,LOW,rynette@regimaskin.co.za,ABSA Statements,2025-09-26T06:47:19Z,from= by=
+Exchange,absa,NON_TLS_HOP,LOW,Shortlist@mail.digitalcommunications.media,Bezos went big. AI got real. And Absa surprised us,2025-06-29T11:05:23Z,from= by=
+Exchange,absa,NON_TLS_HOP,LOW,Shortlist@mail.digitalcommunications.media,Bezos went big. AI got real. And Absa surprised us,2025-06-29T11:05:23Z,from= by=
+Exchange,absa,NON_TLS_HOP,LOW,info@twitter.com,"ART AFRICA shared ""Absa L'Atelier announces four category wi",2022-10-04T18:39:49Z,from= by=
+Exchange,absa,NON_TLS_HOP,LOW,info@twitter.com,"ART AFRICA shared ""India Art Fair Digital Residency, Absa L'",2022-09-24T00:25:28Z,from= by=
+Exchange,absa,NON_TLS_HOP,LOW,info@twitter.com,"Business Day shared ""Absa hints at using its capital stack f",2022-08-16T23:27:02Z,from= by=
+Exchange,elliott,NON_TLS_HOP,LOW,secretary@elliottattorneys.co.za,KF0019_25.09.2025,2025-09-25T09:11:13Z,from= by=
+Exchange,elliott,EXCESSIVE_HOPS,MEDIUM,hello@elliottco.co.uk,Become a stockist,2024-06-08T12:54:55Z,hops=9
+Exchange,elliott,NON_TLS_HOP,LOW,hello@elliottco.co.uk,Become a stockist,2024-06-08T12:54:55Z,from= by=
+Exchange,elliott,NON_TLS_HOP,LOW,hello@elliottco.co.uk,Become a stockist,2024-06-08T12:54:55Z,from= by=
+Exchange,elliott,NON_TLS_HOP,LOW,lou.elliott@spotlightreporting.com,check in,2023-12-21T11:45:44Z,from= by=
+Exchange,elliott,DMARC_FAILURE,HIGH,mignonelliott7@gmail.com,Orders,2023-09-30T18:30:58Z,DMARC=fail
+Exchange,elliott,NON_TLS_HOP,LOW,mignonelliott7@gmail.com,Orders,2023-09-30T18:30:58Z,from= by=
+Exchange,elliott,NON_TLS_HOP,LOW,mignonelliott7@gmail.com,Orders,2023-09-30T18:30:58Z,from= by=
+Exchange,elliott,DMARC_FAILURE,HIGH,roxvt20@gmail.com,Stockist List,2023-06-06T11:34:40Z,DMARC=fail
+Exchange,elliott,NON_TLS_HOP,LOW,roxvt20@gmail.com,Stockist List,2023-06-06T11:34:40Z,from= by=
+Exchange,elliott,NON_TLS_HOP,LOW,roxvt20@gmail.com,Stockist List,2023-06-06T11:34:40Z,from= by=
+Exchange,elliott,NON_TLS_HOP,LOW,alisha.rae.elliott@hotmail.com,,2023-04-12T14:35:07Z,from= by=
+Exchange,elliott,NON_TLS_HOP,LOW,alisha.rae.elliott@hotmail.com,,2023-04-12T14:35:07Z,from= by=
+Exchange,elliott,NON_TLS_HOP,LOW,marketing@elliottuk.com,This week we become Algeco,2022-03-29T13:06:45Z,from= by=
+Exchange,elliott,NON_TLS_HOP,LOW,marketing@elliottuk.com,Algeco - Regional Site Locations,2022-03-22T14:33:09Z,from= by=
+Exchange,elliott,NON_TLS_HOP,LOW,marketing@elliottuk.com,Permanent Offsite Solutions - New leadership and a new futur,2022-03-01T14:06:49Z,from= by=
+Exchange,elliott,NON_TLS_HOP,LOW,marketing@elliottuk.com,Elliott Group soon to become Algeco,2022-02-01T14:07:12Z,from= by=
+Exchange,rynette,NON_TLS_HOP,LOW,rynette@regimaskin.co.za,Regima / UK transactions and invoices,2025-10-10T13:28:31Z,from= by=
+Exchange,rynette,NON_TLS_HOP,LOW,rynette@regimaskin.co.za,Strategic Logistics / UK transactions and invoices,2025-10-10T11:56:04Z,from= by=
+Exchange,rynette,NON_TLS_HOP,LOW,rynette@regimaskin.co.za,FNB Bank Statements,2025-10-02T06:46:53Z,from= by=
+Exchange,rynette,NON_TLS_HOP,LOW,rynette@regimaskin.co.za,Absa Bank Statements,2025-10-02T05:24:02Z,from= by=
+Exchange,rynette,NON_TLS_HOP,LOW,rynette@regimaskin.co.za,ABSA Statements,2025-09-26T06:47:19Z,from= by=
+Exchange,rynette,EXCESSIVE_HOPS,MEDIUM,rynette@regima.zone,Laser Azu gel turns yellow,2025-06-24T05:25:51Z,hops=9
+Exchange,rynette,NON_TLS_HOP,LOW,rynette@regima.zone,Laser Azu gel turns yellow,2025-06-24T05:25:51Z,from= by=
+Exchange,rynette,NON_TLS_HOP,LOW,rynette@regima.zone,Laser Azu gel turns yellow,2025-06-24T05:25:51Z,from= by=
+Exchange,rynette,EXCESSIVE_HOPS,MEDIUM,rynette@regima.zone,RE:,2025-06-03T05:36:59Z,hops=9
+Exchange,rynette,NON_TLS_HOP,LOW,rynette@regima.zone,RE:,2025-06-03T05:36:59Z,from= by=
+Exchange,rynette,NON_TLS_HOP,LOW,rynette@regima.zone,RE:,2025-06-03T05:36:59Z,from= by=
+Exchange,rynette,EXCESSIVE_HOPS,MEDIUM,rynette@regima.zone,RE: RegimA,2025-06-03T05:17:08Z,hops=9
+Exchange,rynette,NON_TLS_HOP,LOW,rynette@regima.zone,RE: RegimA,2025-06-03T05:17:08Z,from= by=
+Exchange,rynette,NON_TLS_HOP,LOW,rynette@regima.zone,RE: RegimA,2025-06-03T05:17:08Z,from= by=
+Exchange,rynette,EXCESSIVE_HOPS,MEDIUM,rynette@regima.zone,RE: RegimA,2025-06-03T05:13:22Z,hops=9
+Exchange,rynette,NON_TLS_HOP,LOW,rynette@regima.zone,RE: RegimA,2025-06-03T05:13:22Z,from= by=
+Exchange,rynette,NON_TLS_HOP,LOW,rynette@regima.zone,RE: RegimA,2025-06-03T05:13:22Z,from= by=
+Exchange,rynette,EXCESSIVE_HOPS,MEDIUM,rynette@regima.zone,RE: LashNiche vs Beautrix,2025-06-03T05:05:01Z,hops=9
+Exchange,rynette,NON_TLS_HOP,LOW,rynette@regima.zone,RE: LashNiche vs Beautrix,2025-06-03T05:05:01Z,from= by=
+Exchange,rynette,NON_TLS_HOP,LOW,rynette@regima.zone,RE: LashNiche vs Beautrix,2025-06-03T05:05:01Z,from= by=
+Exchange,rynette,EXCESSIVE_HOPS,MEDIUM,rynette@regima.zone,Registration form - no request to change details received,2025-06-02T05:46:25Z,hops=9
+Exchange,rynette,NON_TLS_HOP,LOW,rynette@regima.zone,Registration form - no request to change details received,2025-06-02T05:46:25Z,from= by=
+Exchange,rynette,NON_TLS_HOP,LOW,rynette@regima.zone,Registration form - no request to change details received,2025-06-02T05:46:25Z,from= by=
+Exchange,rynette,EXCESSIVE_HOPS,MEDIUM,rynette@regima.zone,Apologies for the Packaging Issue,2025-05-14T06:20:40Z,hops=9
+Exchange,rynette,NON_TLS_HOP,LOW,rynette@regima.zone,Apologies for the Packaging Issue,2025-05-14T06:20:40Z,from= by=
+Exchange,rynette,NON_TLS_HOP,LOW,rynette@regima.zone,Apologies for the Packaging Issue,2025-05-14T06:20:40Z,from= by=
+Exchange,rynette,EXCESSIVE_HOPS,MEDIUM,rynette@regima.zone,RE: RegimA Daily Ultra Defense,2025-04-17T06:16:36Z,hops=9
+Exchange,rynette,NON_TLS_HOP,LOW,rynette@regima.zone,RE: RegimA Daily Ultra Defense,2025-04-17T06:16:36Z,from= by=
+Exchange,rynette,NON_TLS_HOP,LOW,rynette@regima.zone,RE: RegimA Daily Ultra Defense,2025-04-17T06:16:36Z,from= by=
+Exchange,rynette,EXCESSIVE_HOPS,MEDIUM,rynette@regima.zone,RE: VAT increase,2025-04-16T05:43:09Z,hops=9
+Exchange,rynette,NON_TLS_HOP,LOW,rynette@regima.zone,RE: VAT increase,2025-04-16T05:43:09Z,from= by=
+Exchange,rynette,NON_TLS_HOP,LOW,rynette@regima.zone,RE: VAT increase,2025-04-16T05:43:09Z,from= by=
+Exchange,rynette,EXCESSIVE_HOPS,MEDIUM,rynette@regima.zone,RE: Change of Banking details - bank confirmation letter - t,2025-04-15T06:43:02Z,hops=11
+Exchange,rynette,NON_TLS_HOP,LOW,rynette@regima.zone,RE: Change of Banking details - bank confirmation letter - t,2025-04-15T06:43:02Z,from= by=
+Exchange,rynette,NON_TLS_HOP,LOW,rynette@regima.zone,RE: Change of Banking details - bank confirmation letter - t,2025-04-15T06:43:02Z,from= by=
+Exchange,rynette,NON_TLS_HOP,LOW,rynette@regima.zone,RE: Change of Banking details - bank confirmation letter - t,2025-04-15T06:43:02Z,from= by=
+Exchange,rynette,EXCESSIVE_HOPS,MEDIUM,rynette@regima.zone,RE: Change of Banking details,2025-04-14T12:55:47Z,hops=9
+Exchange,rynette,NON_TLS_HOP,LOW,rynette@regima.zone,RE: Change of Banking details,2025-04-14T12:55:47Z,from= by=
+Exchange,rynette,NON_TLS_HOP,LOW,rynette@regima.zone,RE: Change of Banking details,2025-04-14T12:55:47Z,from= by=
+Exchange,rynette,EXCESSIVE_HOPS,MEDIUM,rynette@regima.zone,FW: REGIMA CHANGE OF BANK DETAILS QUERY,2025-04-14T10:50:14Z,hops=9
+Exchange,rynette,NON_TLS_HOP,LOW,rynette@regima.zone,FW: REGIMA CHANGE OF BANK DETAILS QUERY,2025-04-14T10:50:14Z,from= by=
+Exchange,rynette,NON_TLS_HOP,LOW,rynette@regima.zone,FW: REGIMA CHANGE OF BANK DETAILS QUERY,2025-04-14T10:50:14Z,from= by=
+Exchange,rynette,EXCESSIVE_HOPS,MEDIUM,rynette@regima.zone,RE: Buying Regima product in Europ - Belgium,2025-03-10T11:45:04Z,hops=9
+Exchange,rynette,NON_TLS_HOP,LOW,rynette@regima.zone,RE: Buying Regima product in Europ - Belgium,2025-03-10T11:45:04Z,from= by=
+Exchange,rynette,NON_TLS_HOP,LOW,rynette@regima.zone,RE: Buying Regima product in Europ - Belgium,2025-03-10T11:45:04Z,from= by=
+Exchange,rynette,EXCESSIVE_HOPS,MEDIUM,rynette@regima.zone,RE: Scar Repair supply,2025-03-10T11:10:37Z,hops=9
+Exchange,rynette,NON_TLS_HOP,LOW,rynette@regima.zone,RE: Scar Repair supply,2025-03-10T11:10:37Z,from= by=
+Exchange,rynette,NON_TLS_HOP,LOW,rynette@regima.zone,RE: Scar Repair supply,2025-03-10T11:10:37Z,from= by=
+Exchange,rynette,EXCESSIVE_HOPS,MEDIUM,rynette@regima.zone,RE: Scar Repair supply,2025-03-10T05:20:27Z,hops=9
+Exchange,rynette,NON_TLS_HOP,LOW,rynette@regima.zone,RE: Scar Repair supply,2025-03-10T05:20:27Z,from= by=
+Exchange,rynette,NON_TLS_HOP,LOW,rynette@regima.zone,RE: Scar Repair supply,2025-03-10T05:20:27Z,from= by=
+Gmail,absa,NON_TLS_HOP,LOW,inContact@fnb.co.za,FNB:-) R3000.00 withdrawn from Fusion a/c..764946 using card,"Tue, 2 Feb 2021 17:13:43 +0200 (SAST)",from= by=
+Gmail,elliott,NON_TLS_HOP,LOW,hello@elliottco.co.uk,Become a stockist,"Sat, 8 Jun 2024 12:53:28 +0000",from= by=
+Gmail,elliott,NON_TLS_HOP,LOW,hello@elliottco.co.uk,Become a stockist,"Sat, 8 Jun 2024 12:53:28 +0000",from= by=
+Gmail,elliott,NON_TLS_HOP,LOW,mignonelliott7@gmail.com,Orders,"Sat, 30 Sep 2023 20:30:39 +0200",from= by=
+Gmail,elliott,NON_TLS_HOP,LOW,mignonelliott7@gmail.com,Orders,"Sat, 30 Sep 2023 20:30:39 +0200",from= by=
+Gmail,elliott,NON_TLS_HOP,LOW,ellacx001@myuct.ac.za,Products,"Mon, 11 May 2020 16:29:37 +0200",from= by=
+Gmail,elliott,NON_TLS_HOP,LOW,ellacx001@myuct.ac.za,Products,"Mon, 11 May 2020 16:29:37 +0200",from= by=
+Gmail,elliott,NON_TLS_HOP,LOW,lynda.a.elliott@gmail.com,Regima products,"Wed, 16 May 2018 20:53:58 +0100",from= by=
+Gmail,elliott,NON_TLS_HOP,LOW,lynda.a.elliott@gmail.com,Regima products,"Wed, 16 May 2018 20:53:58 +0100",from= by=
+Gmail,elliott,NON_TLS_HOP,LOW,lynda.a.elliott@gmail.com,Regima products,"Wed, 16 May 2018 20:53:58 +0100",from= by=
+Gmail,elliott,NON_TLS_HOP,LOW,lelliott@werksmans.com,Stockists,"Fri, 19 Jun 2015 07:01:56 +0000",from= by=
+Gmail,elliott,NON_TLS_HOP,LOW,lelliott@werksmans.com,Stockists,"Fri, 19 Jun 2015 07:01:56 +0000",from= by=
+Gmail,elliott,NON_TLS_HOP,LOW,lelliott@werksmans.com,Stockists,"Fri, 19 Jun 2015 07:01:56 +0000",from= by=
+Gmail,elliott,DMARC_FAILURE,HIGH,lindseyemakeup@gmail.com,enquiry,"Wed, 22 Apr 2015 11:39:30 +0200",DMARC=fail
+Gmail,rynette,NON_TLS_HOP,LOW,rynette@regima.zone,Laser Azu gel turns yellow,"Tue, 24 Jun 2025 05:25:19 +0000",from= by=
+Gmail,rynette,NON_TLS_HOP,LOW,rynette@regima.zone,Laser Azu gel turns yellow,"Tue, 24 Jun 2025 05:25:19 +0000",from= by=
+Gmail,rynette,NON_TLS_HOP,LOW,rynette@regima.zone,RE:,"Tue, 3 Jun 2025 05:21:04 +0000",from= by=
+Gmail,rynette,NON_TLS_HOP,LOW,rynette@regima.zone,RE:,"Tue, 3 Jun 2025 05:21:04 +0000",from= by=
+Gmail,rynette,NON_TLS_HOP,LOW,rynette@regima.zone,RE: RegimA,"Tue, 3 Jun 2025 05:16:53 +0000",from= by=
+Gmail,rynette,NON_TLS_HOP,LOW,rynette@regima.zone,RE: RegimA,"Tue, 3 Jun 2025 05:16:53 +0000",from= by=
+Gmail,rynette,NON_TLS_HOP,LOW,rynette@regima.zone,RE: RegimA,"Tue, 3 Jun 2025 05:13:02 +0000",from= by=
+Gmail,rynette,NON_TLS_HOP,LOW,rynette@regima.zone,RE: RegimA,"Tue, 3 Jun 2025 05:13:02 +0000",from= by=
+Gmail,rynette,NON_TLS_HOP,LOW,rynette@regima.zone,RE: LashNiche vs Beautrix,"Tue, 3 Jun 2025 05:04:12 +0000",from= by=
+Gmail,rynette,NON_TLS_HOP,LOW,rynette@regima.zone,RE: LashNiche vs Beautrix,"Tue, 3 Jun 2025 05:04:12 +0000",from= by=
+Gmail,rynette,NON_TLS_HOP,LOW,rynette@regima.zone,Registration form - no request to change details received,"Mon, 2 Jun 2025 05:45:32 +0000",from= by=
+Gmail,rynette,NON_TLS_HOP,LOW,rynette@regima.zone,Registration form - no request to change details received,"Mon, 2 Jun 2025 05:45:32 +0000",from= by=
+Gmail,rynette,NON_TLS_HOP,LOW,rynette@regima.zone,Apologies for the Packaging Issue,"Wed, 14 May 2025 06:20:26 +0000",from= by=
+Gmail,rynette,NON_TLS_HOP,LOW,rynette@regima.zone,Apologies for the Packaging Issue,"Wed, 14 May 2025 06:20:26 +0000",from= by=
+Gmail,rynette,NON_TLS_HOP,LOW,rynette@regima.zone,RE: RegimA Daily Ultra Defense,"Thu, 17 Apr 2025 06:16:26 +0000",from= by=
+Gmail,rynette,NON_TLS_HOP,LOW,rynette@regima.zone,RE: RegimA Daily Ultra Defense,"Thu, 17 Apr 2025 06:16:26 +0000",from= by=
+Gmail,rynette,NON_TLS_HOP,LOW,rynette@regima.zone,RE: VAT increase,"Wed, 16 Apr 2025 05:42:53 +0000",from= by=
+Gmail,rynette,NON_TLS_HOP,LOW,rynette@regima.zone,RE: VAT increase,"Wed, 16 Apr 2025 05:42:53 +0000",from= by=
+Gmail,rynette,NON_TLS_HOP,LOW,rynette@regima.zone,RE: Change of Banking details - bank confirmation letter - t,"Tue, 15 Apr 2025 06:42:05 +0000",from= by=
+Gmail,rynette,NON_TLS_HOP,LOW,rynette@regima.zone,RE: Change of Banking details - bank confirmation letter - t,"Tue, 15 Apr 2025 06:42:05 +0000",from= by=
+Gmail,rynette,NON_TLS_HOP,LOW,rynette@regima.zone,RE: Change of Banking details,"Mon, 14 Apr 2025 12:54:37 +0000",from= by=
+Gmail,rynette,NON_TLS_HOP,LOW,rynette@regima.zone,RE: Change of Banking details,"Mon, 14 Apr 2025 12:54:37 +0000",from= by=
+Gmail,rynette,NON_TLS_HOP,LOW,rynette@regima.zone,FW: REGIMA CHANGE OF BANK DETAILS QUERY,"Mon, 14 Apr 2025 10:49:12 +0000",from= by=
+Gmail,rynette,NON_TLS_HOP,LOW,rynette@regima.zone,FW: REGIMA CHANGE OF BANK DETAILS QUERY,"Mon, 14 Apr 2025 10:49:12 +0000",from= by=
+Gmail,rynette,NON_TLS_HOP,LOW,rynette@regima.zone,RE: Buying Regima product in Europ - Belgium,"Mon, 10 Mar 2025 11:44:41 +0000",from= by=
+Gmail,rynette,NON_TLS_HOP,LOW,rynette@regima.zone,RE: Buying Regima product in Europ - Belgium,"Mon, 10 Mar 2025 11:44:41 +0000",from= by=
+Gmail,rynette,NON_TLS_HOP,LOW,rynette@regima.zone,RE: Scar Repair supply,"Mon, 10 Mar 2025 11:10:16 +0000",from= by=
+Gmail,rynette,NON_TLS_HOP,LOW,rynette@regima.zone,RE: Scar Repair supply,"Mon, 10 Mar 2025 11:10:16 +0000",from= by=
+Gmail,rynette,NON_TLS_HOP,LOW,rynette@regima.zone,RE: Scar Repair supply,"Mon, 10 Mar 2025 05:20:09 +0000",from= by=
+Gmail,rynette,NON_TLS_HOP,LOW,rynette@regima.zone,RE: Scar Repair supply,"Mon, 10 Mar 2025 05:20:09 +0000",from= by=
+Gmail,rynette,NON_TLS_HOP,LOW,rynette@regima.zone,RE: Retail ONLY,"Tue, 4 Mar 2025 06:43:42 +0000",from= by=
+Gmail,rynette,NON_TLS_HOP,LOW,rynette@regima.zone,RE: Retail ONLY,"Tue, 4 Mar 2025 06:43:42 +0000",from= by=
+Gmail,rynette,NON_TLS_HOP,LOW,rynette@regima.zone,FW: Regima products,"Wed, 26 Feb 2025 11:44:06 +0000",from= by=
+Gmail,rynette,NON_TLS_HOP,LOW,rynette@regima.zone,FW: Regima products,"Wed, 26 Feb 2025 11:44:06 +0000",from= by=
+Gmail,rynette,NON_TLS_HOP,LOW,rynette@regima.zone,FW: List of Cape Town stockists.,"Fri, 14 Feb 2025 04:53:17 +0000",from= by=
+Gmail,rynette,NON_TLS_HOP,LOW,rynette@regima.zone,FW: List of Cape Town stockists.,"Fri, 14 Feb 2025 04:53:17 +0000",from= by=
+Gmail,rynette,NON_TLS_HOP,LOW,rynette@regima.zone,RE: New upmarket Cosmetic Dental Practice in Bedfordview - o,"Fri, 7 Feb 2025 05:06:47 +0000",from= by=
+Gmail,rynette,NON_TLS_HOP,LOW,rynette@regima.zone,RE: New upmarket Cosmetic Dental Practice in Bedfordview - o,"Fri, 7 Feb 2025 05:06:47 +0000",from= by=
+Gmail,rynette,NON_TLS_HOP,LOW,rynette@regima.zone,FW: Dr Jeanne Botha  RegimA Stockist Online Registration For,"Wed, 5 Feb 2025 11:40:05 +0000",from= by=
+Gmail,rynette,NON_TLS_HOP,LOW,rynette@regima.zone,FW: Dr Jeanne Botha  RegimA Stockist Online Registration For,"Wed, 5 Feb 2025 11:40:05 +0000",from= by=

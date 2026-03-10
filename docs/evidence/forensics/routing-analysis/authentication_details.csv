@@ -1,0 +1,84 @@
+platform,scope,from,subject,date,spf_result,spf_detail,dkim_result,dkim_detail,dmarc_result,dmarc_detail,arc_result,compauth_result,return_path
+Exchange,absa,dan@regima.zone,Fw: Absa Bank Statements,2025-10-11T13:47:41Z,unknown,,unknown,,unknown,,unknown,unknown,
+Exchange,absa,rynette@regimaskin.co.za,Absa Bank Statements,2025-10-02T05:24:02Z,pass,,pass,,bestguesspass,,unknown,pass reason=109,rynette@regimaskin.co.za
+Exchange,absa,rynette@regimaskin.co.za,ABSA Statements,2025-09-26T06:47:19Z,pass,,pass,,bestguesspass,,unknown,pass reason=109,rynette@regimaskin.co.za
+Exchange,absa,Shortlist@mail.digitalcommunications.media,Bezos went big. AI got real. And Absa surprised us,2025-06-29T11:05:23Z,pass,,pass,,pass,,unknown,pass reason=100,b_2543009_d371cb55ed28051d_41383_nBLQ6tvU6V7sUxG0_23@eversrv.mail.digitalcommunications.media
+Exchange,absa,info@twitter.com,"ART AFRICA shared ""Absa L'Atelier announces four category wi",2022-10-04T18:39:49Z,pass,,pass,,pass,,unknown,pass reason=100,n026980f940-d6e51a29f8f44a3c-dan===regima.zone@bounce.twitter.com
+Exchange,absa,info@twitter.com,"ART AFRICA shared ""India Art Fair Digital Residency, Absa L'",2022-09-24T00:25:28Z,pass,,pass,,pass,,unknown,pass reason=100,n0259db3d81-2a64842c59f8467c-dan===regima.zone@bounce.twitter.com
+Exchange,absa,info@twitter.com,"Business Day shared ""Absa hints at using its capital stack f",2022-08-16T23:27:02Z,pass,,pass,,pass,,unknown,pass reason=100,n02207dd038-4325185cde3f4ce0-dan===regima.zone@bounce.twitter.com
+Exchange,elliott,secretary@elliottattorneys.co.za,KF0019_25.09.2025,2025-09-25T09:11:13Z,pass,,pass,,bestguesspass,,unknown,pass reason=109,secretary@elliottattorneys.co.za
+Exchange,elliott,hello@elliottco.co.uk,Become a stockist,2024-06-08T12:54:55Z,pass,,pass,,none,,unknown,pass reason=130,info+bncBAABBS5ISGZQMGQEZ3BCKEI@regima.com
+Exchange,elliott,lou.elliott@spotlightreporting.com,check in,2023-12-21T11:45:44Z,pass,,pass,,pass,,unknown,pass reason=100,lou.elliott@spotlightreporting.com
+Exchange,elliott,mignonelliott7@gmail.com,Orders,2023-09-30T18:30:58Z,pass,,pass,,fail,,unknown,pass reason=130,info+bncBCEOHBWDUAKBBXGS4GUAMGQEEEBZWFY@regima.com
+Exchange,elliott,roxvt20@gmail.com,Stockist List,2023-06-06T11:34:40Z,pass,,pass,,fail,,unknown,pass reason=130,info+bncBDK4VR6S6AORBTFT7SRQMGQE6P4KQEA@regima.com
+Exchange,elliott,alisha.rae.elliott@hotmail.com,,2023-04-12T14:35:07Z,pass,,pass,,pass,,unknown,pass reason=100,alisha.rae.elliott@hotmail.com
+Exchange,elliott,marketing@elliottuk.com,This week we become Algeco,2022-03-29T13:06:45Z,pass,,pass,,pass,,unknown,pass reason=100,1axb5vg8n64x666toytj2kb59mrdozlbnr6lq3-uk=regima.zone@bf02x.hubspotemail.net
+Exchange,elliott,marketing@elliottuk.com,Algeco - Regional Site Locations,2022-03-22T14:33:09Z,pass,,pass,,pass,,unknown,pass reason=100,1axbjjlnpn0nzytzpve05siawcyfruus5x5qjj-uk=regima.zone@bf02x.hubspotemail.net
+Exchange,elliott,marketing@elliottuk.com,Permanent Offsite Solutions - New leadership and a new futur,2022-03-01T14:06:49Z,pass,,pass,,pass,,unknown,pass reason=100,1axbx5pitppgx5a5uu3vicgkaqh6ba2mpy1im3-uk=regima.zone@bf02x.hubspotemail.net
+Exchange,elliott,marketing@elliottuk.com,Elliott Group soon to become Algeco,2022-02-01T14:07:12Z,pass,,pass,,pass,,unknown,pass reason=100,1axbhl313didt0vb71i5gn1s4x90i17p3j1j0v-uk=regima.zone@bf02x.hubspotemail.net
+Exchange,rynette,rynette@regimaskin.co.za,Regima / UK transactions and invoices,2025-10-10T13:28:31Z,pass,,pass,,bestguesspass,,unknown,pass reason=109,rynette@regimaskin.co.za
+Exchange,rynette,rynette@regimaskin.co.za,Strategic Logistics / UK transactions and invoices,2025-10-10T11:56:04Z,pass,,pass,,bestguesspass,,unknown,pass reason=109,rynette@regimaskin.co.za
+Exchange,rynette,rynette@regimaskin.co.za,FNB Bank Statements,2025-10-02T06:46:53Z,pass,,pass,,bestguesspass,,unknown,pass reason=109,rynette@regimaskin.co.za
+Exchange,rynette,rynette@regimaskin.co.za,Absa Bank Statements,2025-10-02T05:24:02Z,pass,,pass,,bestguesspass,,unknown,pass reason=109,rynette@regimaskin.co.za
+Exchange,rynette,rynette@regimaskin.co.za,ABSA Statements,2025-09-26T06:47:19Z,pass,,pass,,bestguesspass,,unknown,pass reason=109,rynette@regimaskin.co.za
+Exchange,rynette,rynette@regima.zone,Laser Azu gel turns yellow,2025-06-24T05:25:51Z,pass,,pass,,none,,unknown,pass reason=130,info+bncBCDOFHOTTQMBBT7N5DBAMGQEDTVL5JA@regima.com
+Exchange,rynette,rynette@regima.zone,RE:,2025-06-03T05:36:59Z,pass,,pass,,none,,unknown,pass reason=130,info+bncBCDOFHOTTQMBB5MT7LAQMGQE5HQ6CRY@regima.com
+Exchange,rynette,rynette@regima.zone,RE: RegimA,2025-06-03T05:17:08Z,pass,,pass,,none,,unknown,pass reason=130,info+bncBCDOFHOTTQMBBTEK7LAQMGQEIGT65UY@regima.com
+Exchange,rynette,rynette@regima.zone,RE: RegimA,2025-06-03T05:13:22Z,pass,,pass,,none,,unknown,pass reason=130,info+bncBCDOFHOTTQMBB2UI7LAQMGQEUFDBNYI@regima.com
+Exchange,rynette,rynette@regima.zone,RE: LashNiche vs Beautrix,2025-06-03T05:05:01Z,pass,,pass,,none,,unknown,pass reason=130,info+bncBCDOFHOTTQMBBVME7LAQMGQERTIV6KQ@regima.com
+Exchange,rynette,rynette@regima.zone,Registration form - no request to change details received,2025-06-02T05:46:25Z,pass,,pass,,none,,unknown,pass reason=130,info+bncBCDOFHOTTQMBBB7V6TAQMGQECAWLYZI@regima.com
+Exchange,rynette,rynette@regima.zone,Apologies for the Packaging Issue,2025-05-14T06:20:40Z,pass,,pass,,none,,unknown,pass reason=130,info+bncBCDOFHOTTQMBBMPMSDAQMGQEY5HWWCA@regima.com
+Exchange,rynette,rynette@regima.zone,RE: RegimA Daily Ultra Defense,2025-04-17T06:16:36Z,pass,,pass,,none,,unknown,pass reason=130,info+bncBCDOFHOTTQMBBPVZQLAAMGQEAREHTOA@regima.com
+Exchange,rynette,rynette@regima.zone,RE: VAT increase,2025-04-16T05:43:09Z,pass,,pass,,none,,unknown,pass reason=130,info+bncBCDOFHOTTQMBBY4G7W7QMGQEKB72ZPI@regima.com
+Exchange,rynette,rynette@regima.zone,RE: Change of Banking details - bank confirmation letter - t,2025-04-15T06:43:02Z,pass,,pass,,none,,unknown,pass reason=130,kay+caf_=kayla=regima.zone@regima.com
+Exchange,rynette,rynette@regima.zone,RE: Change of Banking details,2025-04-14T12:55:47Z,pass,,pass,,none,,unknown,pass reason=130,info+bncBCDOFHOTTQMBBHML6S7QMGQEDDDVGIY@regima.com
+Exchange,rynette,rynette@regima.zone,FW: REGIMA CHANGE OF BANK DETAILS QUERY,2025-04-14T10:50:14Z,pass,,pass,,none,,unknown,pass reason=130,info+bncBCDOFHOTTQMBBMOQ6O7QMGQEU75YWUA@regima.com
+Exchange,rynette,rynette@regima.zone,RE: Buying Regima product in Europ - Belgium,2025-03-10T11:45:04Z,pass,,pass,,none,,unknown,pass reason=130,info+bncBCDOFHOTTQMBBNFBXO7AMGQELIWBN2A@regima.com
+Exchange,rynette,rynette@regima.zone,RE: Scar Repair supply,2025-03-10T11:10:37Z,pass,,pass,,none,,unknown,pass reason=130,info+bncBCDOFHOTTQMBBIERXO7AMGQEIUC4MUI@regima.com
+Exchange,rynette,rynette@regima.zone,RE: Scar Repair supply,2025-03-10T05:20:27Z,pass,,pass,,none,,unknown,pass reason=130,info+bncBCDOFHOTTQMBBEHNXG7AMGQELRUHAOY@regima.com
+Gmail,absa,postmaster@rzo.io,Undeliverable: FNB:-) R482.81 reserved for purchase @ Mr Del,"Sun, 27 Apr 2025 17:39:53 +0000",pass,,pass,,pass,,unknown,unknown,
+Gmail,absa,inContact@fnb.co.za,FNB:-) R482.81 reserved for purchase @ Mr Delivery - Absa ( ,"Sun, 27 Apr 2025 19:39:44 +0200 (SAST)",pass,,unknown,,pass,,unknown,unknown,inContact@fnb.co.za
+Gmail,absa,postmaster@rzo.io,Undeliverable: FNB:-) R556.42 reserved for purchase @ Mr Del,"Sat, 26 Apr 2025 16:19:37 +0000",none,,pass,,pass,,unknown,unknown,
+Gmail,absa,inContact@fnb.co.za,FNB:-) R556.42 reserved for purchase @ Mr Delivery - Absa ( ,"Sat, 26 Apr 2025 18:19:27 +0200 (SAST)",pass,,unknown,,pass,,unknown,unknown,inContact@fnb.co.za
+Gmail,absa,postmaster@rzo.io,Undeliverable: FNB:-) R465.34 reserved for purchase @ Mr Del,"Thu, 24 Apr 2025 17:49:55 +0000",pass,,pass,,pass,,unknown,unknown,
+Gmail,absa,inContact@fnb.co.za,FNB:-) R465.34 reserved for purchase @ Mr Delivery - Absa ( ,"Thu, 24 Apr 2025 19:49:44 +0200 (SAST)",pass,,unknown,,pass,,unknown,unknown,inContact@fnb.co.za
+Gmail,absa,inContact@fnb.co.za,FNB:-) R393.71 reserved for purchase @ Mr Delivery - Absa ( ,"Mon, 21 Apr 2025 20:05:17 +0200 (SAST)",pass,,unknown,,pass,,unknown,unknown,inContact@fnb.co.za
+Gmail,absa,inContact@fnb.co.za,FNB:-) R582.71 reserved for purchase @ Mr Delivery - Absa ( ,"Sun, 20 Apr 2025 19:51:55 +0200 (SAST)",pass,,unknown,,pass,,unknown,unknown,inContact@fnb.co.za
+Gmail,absa,inContact@fnb.co.za,FNB:-) R556.42 reserved for purchase @ Mr Delivery - Absa ( ,"Tue, 15 Apr 2025 19:35:05 +0200 (SAST)",pass,,unknown,,pass,,unknown,unknown,inContact@fnb.co.za
+Gmail,absa,inContact@fnb.co.za,FNB:-) R388.56 reserved for purchase @ Mr Delivery - Absa ( ,"Mon, 14 Apr 2025 21:00:51 +0200 (SAST)",pass,,unknown,,pass,,unknown,unknown,inContact@fnb.co.za
+Gmail,absa,inContact@fnb.co.za,FNB:-) R2000.00 withdrawn from Fusion Private a/c..764946 us,"Sun, 13 Apr 2025 18:20:16 +0200 (SAST)",pass,,unknown,,pass,,unknown,unknown,inContact@fnb.co.za
+Gmail,absa,inContact@fnb.co.za,FNB:-) R410.34 reserved for purchase @ Mr Delivery - Absa ( ,"Thu, 10 Apr 2025 20:49:23 +0200 (SAST)",pass,,unknown,,pass,,unknown,unknown,inContact@fnb.co.za
+Gmail,absa,inContact@fnb.co.za,FNB:-) R68632.55 paid to Fusion Private a/c..764946 @ Eft. R,"Thu, 29 Aug 2024 02:52:56 +0200 (SAST)",pass,,unknown,,pass,,unknown,unknown,inContact@fnb.co.za
+Gmail,absa,inContact@fnb.co.za,FNB:-) R68632.54 paid to Fusion Private a/c..764946 @ Eft. R,"Sat, 27 Jul 2024 03:47:54 +0200 (SAST)",pass,,unknown,,pass,,unknown,unknown,inContact@fnb.co.za
+Gmail,absa,inContact@fnb.co.za,FNB:-) R68632.55 paid to Fusion Private a/c..764946 @ Eft. R,"Wed, 29 May 2024 02:05:26 +0200 (SAST)",pass,,unknown,,pass,,unknown,unknown,inContact@fnb.co.za
+Gmail,absa,inContact@fnb.co.za,FNB:-) R68632.54 paid to Fusion Private a/c..764946 @ Eft. R,"Sat, 27 Apr 2024 03:35:32 +0200 (SAST)",pass,,unknown,,pass,,unknown,unknown,inContact@fnb.co.za
+Gmail,absa,inContact@fnb.co.za,FNB:-) R68632.55 paid to Fusion Private a/c..764946 @ Eft. R,"Wed, 27 Mar 2024 02:50:28 +0200 (SAST)",pass,,unknown,,pass,,unknown,unknown,inContact@fnb.co.za
+Gmail,absa,postmaster@outlook.com,Undeliverable: Big solar plant for small town | DStv dead wi,"Mon, 28 Feb 2022 00:29:58 +0000",pass,,unknown,,pass,,unknown,unknown,
+Gmail,absa,weekly@newsletters.mybroadband.co.za,Big solar plant for small town | DStv dead without sport | A,"Sun, 27 Feb 2022 17:24:01 +0200",pass,,pass,,pass,,unknown,unknown,b_31168575_624c5fd829010f8d_675761_uFp9qE8n1X4Hm5E9_9@eversrv.newsletters.mybroadband.co.za
+Gmail,absa,inContact@fnb.co.za,FNB:-) R3000.00 withdrawn from Fusion a/c..764946 using card,"Tue, 2 Feb 2021 17:13:43 +0200 (SAST)",pass,,pass,,pass,,unknown,unknown,inContact@fnb.co.za
+Gmail,elliott,hello@elliottco.co.uk,Become a stockist,"Sat, 8 Jun 2024 12:53:28 +0000",pass,,pass,,unknown,,unknown,unknown,info+bncBAABBS5ISGZQMGQEZ3BCKEI@regima.com
+Gmail,elliott,mignonelliott7@gmail.com,Orders,"Sat, 30 Sep 2023 20:30:39 +0200",pass,,pass,,pass,,unknown,unknown,info+bncBCEOHBWDUAKBBXGS4GUAMGQEEEBZWFY@regima.com
+Gmail,elliott,ellacx001@myuct.ac.za,Products,"Mon, 11 May 2020 16:29:37 +0200",pass,,pass,,pass,,unknown,unknown,info+bncBDN4BVVG2IIBBXGC4X2QKGQEVWYY5KA@regima.com
+Gmail,elliott,lynda.a.elliott@gmail.com,Regima products,"Wed, 16 May 2018 20:53:58 +0100",neutral,,pass,,pass,,unknown,unknown,info+bncBCZ3NZO6RMBRBXEY6LLQKGQEHLXXCPI@regima.com
+Gmail,elliott,lelliott@werksmans.com,Stockists,"Fri, 19 Jun 2015 07:01:56 +0000",neutral,,unknown,,unknown,,unknown,unknown,info+bncBAABBRH5R2WAKGQEJQ74HGQ@regima.com
+Gmail,elliott,lindseyemakeup@gmail.com,enquiry,"Wed, 22 Apr 2015 11:39:30 +0200",none,,unknown,,fail,,unknown,unknown,info+bncBCHILUVF2UJRBUWY3WUQKGQEQZJEXSA@regima.com
+Gmail,rynette,rynette@regima.zone,Laser Azu gel turns yellow,"Tue, 24 Jun 2025 05:25:19 +0000",pass,,pass,,unknown,,unknown,unknown,info+bncBCDOFHOTTQMBBT7N5DBAMGQEDTVL5JA@regima.com
+Gmail,rynette,rynette@regima.zone,RE:,"Tue, 3 Jun 2025 05:21:04 +0000",pass,,pass,,unknown,,unknown,unknown,info+bncBCDOFHOTTQMBB5MT7LAQMGQE5HQ6CRY@regima.com
+Gmail,rynette,rynette@regima.zone,RE: RegimA,"Tue, 3 Jun 2025 05:16:53 +0000",pass,,pass,,unknown,,unknown,unknown,info+bncBCDOFHOTTQMBBTEK7LAQMGQEIGT65UY@regima.com
+Gmail,rynette,rynette@regima.zone,RE: RegimA,"Tue, 3 Jun 2025 05:13:02 +0000",pass,,pass,,unknown,,unknown,unknown,info+bncBCDOFHOTTQMBB2UI7LAQMGQEUFDBNYI@regima.com
+Gmail,rynette,rynette@regima.zone,RE: LashNiche vs Beautrix,"Tue, 3 Jun 2025 05:04:12 +0000",pass,,pass,,unknown,,unknown,unknown,info+bncBCDOFHOTTQMBBVME7LAQMGQERTIV6KQ@regima.com
+Gmail,rynette,rynette@regima.zone,Registration form - no request to change details received,"Mon, 2 Jun 2025 05:45:32 +0000",pass,,pass,,unknown,,unknown,unknown,info+bncBCDOFHOTTQMBBB7V6TAQMGQECAWLYZI@regima.com
+Gmail,rynette,rynette@regima.zone,Apologies for the Packaging Issue,"Wed, 14 May 2025 06:20:26 +0000",pass,,pass,,unknown,,unknown,unknown,info+bncBCDOFHOTTQMBBMPMSDAQMGQEY5HWWCA@regima.com
+Gmail,rynette,rynette@regima.zone,RE: RegimA Daily Ultra Defense,"Thu, 17 Apr 2025 06:16:26 +0000",pass,,pass,,unknown,,unknown,unknown,info+bncBCDOFHOTTQMBBPVZQLAAMGQEAREHTOA@regima.com
+Gmail,rynette,rynette@regima.zone,RE: VAT increase,"Wed, 16 Apr 2025 05:42:53 +0000",pass,,pass,,unknown,,unknown,unknown,info+bncBCDOFHOTTQMBBY4G7W7QMGQEKB72ZPI@regima.com
+Gmail,rynette,rynette@regima.zone,RE: Change of Banking details - bank confirmation letter - t,"Tue, 15 Apr 2025 06:42:05 +0000",pass,,pass,,unknown,,unknown,unknown,info+bncBCDOFHOTTQMBBS77667QMGQESGECEEI@regima.com
+Gmail,rynette,rynette@regima.zone,RE: Change of Banking details,"Mon, 14 Apr 2025 12:54:37 +0000",pass,,pass,,unknown,,unknown,unknown,info+bncBCDOFHOTTQMBBHML6S7QMGQEDDDVGIY@regima.com
+Gmail,rynette,rynette@regima.zone,FW: REGIMA CHANGE OF BANK DETAILS QUERY,"Mon, 14 Apr 2025 10:49:12 +0000",pass,,pass,,unknown,,unknown,unknown,info+bncBCDOFHOTTQMBBMOQ6O7QMGQEU75YWUA@regima.com
+Gmail,rynette,rynette@regima.zone,RE: Buying Regima product in Europ - Belgium,"Mon, 10 Mar 2025 11:44:41 +0000",pass,,pass,,unknown,,unknown,unknown,info+bncBCDOFHOTTQMBBNFBXO7AMGQELIWBN2A@regima.com
+Gmail,rynette,rynette@regima.zone,RE: Scar Repair supply,"Mon, 10 Mar 2025 11:10:16 +0000",pass,,pass,,unknown,,unknown,unknown,info+bncBCDOFHOTTQMBBIERXO7AMGQEIUC4MUI@regima.com
+Gmail,rynette,rynette@regima.zone,RE: Scar Repair supply,"Mon, 10 Mar 2025 05:20:09 +0000",pass,,pass,,unknown,,unknown,unknown,info+bncBCDOFHOTTQMBBEHNXG7AMGQELRUHAOY@regima.com
+Gmail,rynette,rynette@regima.zone,RE: Retail ONLY,"Tue, 4 Mar 2025 06:43:42 +0000",pass,,pass,,unknown,,unknown,unknown,info+bncBCDOFHOTTQMBBOOCTK7AMGQEIWOW6AQ@regima.com
+Gmail,rynette,rynette@regima.zone,FW: Regima products,"Wed, 26 Feb 2025 11:44:06 +0000",pass,,pass,,unknown,,unknown,unknown,info+bncBCDOFHOTTQMBBDX57O6QMGQER4AC3LA@regima.com
+Gmail,rynette,rynette@regima.zone,FW: List of Cape Town stockists.,"Fri, 14 Feb 2025 04:53:17 +0000",pass,,pass,,unknown,,unknown,unknown,info+bncBCDOFHOTTQMBBRUYXO6QMGQEH7W54ZY@regima.com
+Gmail,rynette,rynette@regima.zone,RE: New upmarket Cosmetic Dental Practice in Bedfordview - o,"Fri, 7 Feb 2025 05:06:47 +0000",pass,,pass,,unknown,,unknown,unknown,info+bncBCDOFHOTTQMBB4FJS26QMGQENO3DNGQ@regima.com
+Gmail,rynette,rynette@regima.zone,FW: Dr Jeanne Botha  RegimA Stockist Online Registration For,"Wed, 5 Feb 2025 11:40:05 +0000",pass,,pass,,unknown,,unknown,unknown,info+bncBCDOFHOTTQMBBHM4RW6QMGQEHIVJPMY@regima.com

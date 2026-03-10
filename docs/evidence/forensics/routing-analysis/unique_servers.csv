@@ -1,0 +1,339 @@
+server,count,platforms
+mx.google.com,92,"Exchange,Gmail"
+2002,88,"Exchange,Gmail"
+VI0PR08MB10581.eurprd08.prod.outlook.com,66,"Exchange,Gmail"
+VI0PR08MB10581.eurprd08.prod.outlook.com (2603:10a6:800:20e::10),33,"Exchange,Gmail"
+mail-sor-f69.google.com,25,"Exchange,Gmail"
+DBBPR08MB10819.eurprd08.prod.outlook.com,24,Exchange
+mail21.domains.co.za,14,Exchange
+DB9PR08MB6585.eurprd08.prod.outlook.com,12,Exchange
+EUR05-VI1-obe.outbound.protection.outlook.com,6,"Exchange,Gmail"
+mail-sor-f41.google.com,5,"Exchange,Gmail"
+CWLP123MB6362.GBRP123.PROD.OUTLOOK.COM,4,"Exchange,Gmail"
+172.16.170.87,4,Exchange
+DU0PR08MB9371.eurprd08.prod.outlook.com,4,"Exchange,Gmail"
+EUR05-AM6-obe.outbound.protection.outlook.com,4,"Exchange,Gmail"
+DU5PR08MB10577.eurprd08.prod.outlook.com,4,"Exchange,Gmail"
+EUR03-AM7-obe.outbound.protection.outlook.com,4,"Exchange,Gmail"
+se-filter03.tld-mx.com,3,Exchange
+se-filter03.tld-mx.com (2c0f:f850:1:218::2),3,Exchange
+se-filter05.tld-mx.com,3,Exchange
+se-filter05.tld-mx.com (2c0f:f850:1:32::2),3,Exchange
+OSPPR02CU001.outbound.protection.outlook.com,3,"Exchange,Gmail"
+EUR02-VI1-obe.outbound.protection.outlook.com,3,"Exchange,Gmail"
+DB3PR0202CU003.outbound.protection.outlook.com,3,"Exchange,Gmail"
+mail-yb1-xb47.google.com,3,Exchange
+mail-yb1-xb47.google.com (2607:f8b0:4864:20::b47),3,Exchange
+MRWPR03CU001.outbound.protection.outlook.com,3,"Exchange,Gmail"
+EUR05-DB8-obe.outbound.protection.outlook.com,3,"Exchange,Gmail"
+Ex2010CH1.werksmans.co.za,3,Gmail
+AM3PEPF0000A78F.mail.protection.outlook.com,2,Exchange
+AM3PEPF0000A78F.eurprd04.prod.outlook.com (2603:10a6:102:370:cafe::fe),2,Exchange
+PA7P264CA0297.outlook.office365.com,2,Exchange
+PA7P264CA0297.FRAP264.PROD.OUTLOOK.COM (2603:10a6:102:370::7),2,Exchange
+DB5PR08MB10285.eurprd08.prod.outlook.com,2,Exchange
+DB5PR08MB10285.eurprd08.prod.outlook.com (::1),2,Exchange
+AM1PEPF000252E0.mail.protection.outlook.com,2,Exchange
+AM1PEPF000252E0.eurprd07.prod.outlook.com (2603:10a6:208:e6:cafe::37),2,Exchange
+AM0PR10CA0107.outlook.office365.com,2,Exchange
+AM0PR10CA0107.EURPRD10.PROD.OUTLOOK.COM (2603:10a6:208:e6::24),2,Exchange
+GV1PR08MB10839.eurprd08.prod.outlook.com,2,Exchange
+GV1PR08MB10839.eurprd08.prod.outlook.com (::1),2,Exchange
+CWLP123MB6362.GBRP123.PROD.OUTLOOK.COM (2603:10a6:400:1cc::6),2,"Exchange,Gmail"
+CWLP123MB3842.GBRP123.PROD.OUTLOOK.COM,2,"Exchange,Gmail"
+GBR01-LO4-obe.outbound.protection.outlook.com,2,"Exchange,Gmail"
+AM6PR09MB2581.eurprd09.prod.outlook.com,2,Exchange
+DB9PR08MB8457.eurprd08.prod.outlook.com,2,"Exchange,Gmail"
+mail-yb1-xb46.google.com,2,Exchange
+mail-yb1-xb46.google.com (2607:f8b0:4864:20::b46),2,Exchange
+mail-il1-x147.google.com,2,Exchange
+mail-il1-x147.google.com (2607:f8b0:4864:20::147),2,Exchange
+DU0PR08MB8787.eurprd08.prod.outlook.com,2,"Exchange,Gmail"
+mail-il1-x145.google.com,2,Exchange
+mail-il1-x145.google.com (2607:f8b0:4864:20::145),2,Exchange
+AM4PEPF00027A6A.mail.protection.outlook.com,2,Exchange
+PR3PR08MB5609.eurprd08.prod.outlook.com,2,"Exchange,Gmail"
+DU5PR08MB10577.eurprd08.prod.outlook.com (2603:10a6:10:51a::15),2,"Exchange,Gmail"
+VE1PR08MB5616.eurprd08.prod.outlook.com,2,"Exchange,Gmail"
+AS8PR03CU001.outbound.protection.outlook.com,2,"Exchange,Gmail"
+PAWPR08MB9685.eurprd08.prod.outlook.com,2,"Exchange,Gmail"
+PR3PR08MB5658.eurprd08.prod.outlook.com,2,"Exchange,Gmail"
+DB5PR08MB10063.eurprd08.prod.outlook.com,2,"Exchange,Gmail"
+PA4PR08MB7436.eurprd08.prod.outlook.com,2,"Exchange,Gmail"
+AS8PR08MB7766.eurprd08.prod.outlook.com,2,"Exchange,Gmail"
+DUZPR83CU001.outbound.protection.outlook.com,2,"Exchange,Gmail"
+mail-il1-x148.google.com,2,Exchange
+mail-il1-x148.google.com (2607:f8b0:4864:20::148),2,Exchange
+PAWPR08MB9638.eurprd08.prod.outlook.com,2,"Exchange,Gmail"
+AM0PR02CU008.outbound.protection.outlook.com,2,"Exchange,Gmail"
+DU0PR08MB7740.eurprd08.prod.outlook.com,2,"Exchange,Gmail"
+PA4PR08MB7385.eurprd08.prod.outlook.com,2,"Exchange,Gmail"
+DB9PR08MB9849.eurprd08.prod.outlook.com,2,"Exchange,Gmail"
+DU2PR03CU002.outbound.protection.outlook.com,2,"Exchange,Gmail"
+mxincontact12.fnb.co.za,2,Gmail
+mxincontact7.fnb.co.za,2,Gmail
+mxincontact3.fnb.co.za,2,Gmail
+mxincontact14.fnb.co.za,2,Gmail
+mailb241.dedicated.mybroadband.eversrv.com,2,Gmail
+AM6PR03MB5542.eurprd03.prod.outlook.com,2,Gmail
+missouri.werksmans.co.za,2,Gmail
+dedi66.jnb1.host-h.net,2,Gmail
+c1499fa50d71 (192.168.0.58),1,Exchange
+mail11m79.outbound.eversrv.com,1,Exchange
+mail11m79.outbound.eversrv.com (102.219.93.79),1,Exchange
+AMS0EPF000001A0.mail.protection.outlook.com,1,Exchange
+AMS0EPF000001A0.eurprd05.prod.outlook.com (2603:10a6:400:1d7:cafe::46),1,Exchange
+CWLP265CA0435.outlook.office365.com,1,Exchange
+CWLP265CA0435.GBRP265.PROD.OUTLOOK.COM (2603:10a6:400:1d7::8),1,Exchange
+DU0PR08MB8979.eurprd08.prod.outlook.com,1,Exchange
+DU0PR08MB8979.eurprd08.prod.outlook.com (::1),1,Exchange
+spring-chicken-bc.twitter.com (199.16.156.168),1,Exchange
+VE1EUR03FT010.mail.protection.outlook.com,1,Exchange
+VE1EUR03FT010.eop-EUR03.prod.protection.outlook.com (2603:10a6:20b:45c:cafe::7f),1,Exchange
+AS9PR06CA0151.outlook.office365.com,1,Exchange
+AS9PR06CA0151.eurprd06.prod.outlook.com (2603:10a6:20b:45c::8),1,Exchange
+PR3PR08MB5836.eurprd08.prod.outlook.com,1,Exchange
+PR3PR08MB5836.eurprd08.prod.outlook.com (2603:10a6:102:8f::10),1,Exchange
+spring-chicken-ay.twitter.com (199.16.156.164),1,Exchange
+DBAEUR03FT059.mail.protection.outlook.com,1,Exchange
+DBAEUR03FT059.eop-EUR03.prod.protection.outlook.com (2603:10a6:4:b7:cafe::7f),1,Exchange
+DB6PR1001CA0008.outlook.office365.com,1,Exchange
+DB6PR1001CA0008.EURPRD10.PROD.OUTLOOK.COM (2603:10a6:4:b7::18),1,Exchange
+AS4PR08MB7508.eurprd08.prod.outlook.com,1,Exchange
+AS4PR08MB7508.eurprd08.prod.outlook.com (2603:10a6:20b:4fa::9),1,Exchange
+spring-chicken-ax.twitter.com (199.16.156.163),1,Exchange
+DBAEUR03FT020.mail.protection.outlook.com,1,Exchange
+DBAEUR03FT020.eop-EUR03.prod.protection.outlook.com (2603:10a6:4:55:cafe::de),1,Exchange
+DB6PR1001CA0027.outlook.office365.com,1,Exchange
+DB6PR1001CA0027.EURPRD10.PROD.OUTLOOK.COM (2603:10a6:4:55::13),1,Exchange
+DB3PR08MB8841.eurprd08.prod.outlook.com,1,Exchange
+DB3PR08MB8841.eurprd08.prod.outlook.com (2603:10a6:10:434::22),1,Exchange
+raphael.aserv.co.za,1,Exchange
+raphael.aserv.co.za (154.0.166.247),1,Exchange
+AM3PEPF0000A798.mail.protection.outlook.com,1,Exchange
+AM3PEPF0000A798.eurprd04.prod.outlook.com (2603:10a6:20b:5dd:cafe::19),1,Exchange
+AS4P189CA0043.outlook.office365.com,1,Exchange
+AS4P189CA0043.EURP189.PROD.OUTLOOK.COM (2603:10a6:20b:5dd::19),1,Exchange
+AS8PR08MB6053.eurprd08.prod.outlook.com,1,Exchange
+AS8PR08MB6053.eurprd08.prod.outlook.com (::1),1,Exchange
+mail-pl1-f200.google.com,1,Exchange
+mail-pl1-f200.google.com (209.85.214.200),1,Exchange
+DB1PEPF000509FD.mail.protection.outlook.com,1,Exchange
+DB1PEPF000509FD.eurprd03.prod.outlook.com (2603:10a6:10:36:cafe::ef),1,Exchange
+DB7PR05CA0008.outlook.office365.com,1,Exchange
+DB7PR05CA0008.eurprd05.prod.outlook.com (2603:10a6:10:36::21),1,Exchange
+AM7PR08MB5431.eurprd08.prod.outlook.com,1,Exchange
+AM7PR08MB5431.eurprd08.prod.outlook.com (2603:10a6:20b:10c::16),1,Exchange
+463500743912,1,Exchange
+gmailapi.google.com,1,Exchange
+mail-ej1-f42.google.com,1,Exchange
+mail-ej1-f42.google.com (209.85.218.42),1,Exchange
+DU6PEPF0000952A.mail.protection.outlook.com,1,Exchange
+DU6PEPF0000952A.eurprd02.prod.outlook.com (2603:10a6:10:46b:cafe::6f),1,Exchange
+DUZPR01CA0021.outlook.office365.com,1,Exchange
+DUZPR01CA0021.eurprd01.prod.exchangelabs.com (2603:10a6:10:46b::15),1,Exchange
+DU2PR08MB10264.eurprd08.prod.outlook.com,1,Exchange
+DU2PR08MB10264.eurprd08.prod.outlook.com (2603:10a6:10:49b::22),1,Exchange
+mail-wr1-f71.google.com,1,Exchange
+mail-wr1-f71.google.com (209.85.221.71),1,Exchange
+AM7EUR03FT050.mail.protection.outlook.com,1,Exchange
+AM7EUR03FT050.eop-EUR03.prod.protection.outlook.com (2603:10a6:20b:21d:cafe::cf),1,Exchange
+AM9P192CA0001.outlook.office365.com,1,Exchange
+AM9P192CA0001.EURP192.PROD.OUTLOOK.COM (2603:10a6:20b:21d::6),1,Exchange
+DU0PR08MB9417.eurprd08.prod.outlook.com,1,Exchange
+DU0PR08MB9417.eurprd08.prod.outlook.com (2603:10a6:10:420::16),1,Exchange
+mail-lf1-f71.google.com,1,Exchange
+mail-lf1-f71.google.com (209.85.167.71),1,Exchange
+DBAEUR03FT057.mail.protection.outlook.com,1,Exchange
+DBAEUR03FT057.eop-EUR03.prod.protection.outlook.com (2603:10a6:10:468:cafe::25),1,Exchange
+DUZPR01CA0035.outlook.office365.com,1,Exchange
+DUZPR01CA0035.eurprd01.prod.exchangelabs.com (2603:10a6:10:468::13),1,Exchange
+PAVPR08MB9236.eurprd08.prod.outlook.com,1,Exchange
+PAVPR08MB9236.eurprd08.prod.outlook.com (2603:10a6:102:307::16),1,Exchange
+AM6PR09MB2581.eurprd09.prod.outlook.com (2603:10a6:20b:4b::16),1,Exchange
+VI1PR09MB3694.eurprd09.prod.outlook.com,1,Exchange
+EUR03-AM7-obe.outbound.protection.outlook.com (40.92.59.79),1,Exchange
+AM7EUR03FT012.mail.protection.outlook.com,1,Exchange
+AM7EUR03FT012.eop-EUR03.prod.protection.outlook.com (2603:10a6:209:90:cafe::94),1,Exchange
+AM6P194CA0024.outlook.office365.com,1,Exchange
+AM6P194CA0024.EURP194.PROD.OUTLOOK.COM (2603:10a6:209:90::37),1,Exchange
+DBBPR08MB6059.eurprd08.prod.outlook.com,1,Exchange
+DBBPR08MB6059.eurprd08.prod.outlook.com (2603:10a6:10:202::10),1,Exchange
+bid47uw.bf02x.hubspotemail.net (158.247.24.118),1,Exchange
+DB5EUR03FT017.mail.protection.outlook.com,1,Exchange
+DB5EUR03FT017.eop-EUR03.prod.protection.outlook.com (2603:10a6:6:29:cafe::46),1,Exchange
+DB6P193CA0020.outlook.office365.com,1,Exchange
+DB6P193CA0020.EURP193.PROD.OUTLOOK.COM (2603:10a6:6:29::30),1,Exchange
+HE1PR0802MB2553.eurprd08.prod.outlook.com,1,Exchange
+HE1PR0802MB2553.eurprd08.prod.outlook.com (2603:10a6:3:df::11),1,Exchange
+bid46n0.bf02x.hubspotemail.net (158.247.18.110),1,Exchange
+DB5EUR03FT050.mail.protection.outlook.com,1,Exchange
+DB5EUR03FT050.eop-EUR03.prod.protection.outlook.com (2603:10a6:4:b7:cafe::1b),1,Exchange
+DB6PR1001CA0014.outlook.office365.com,1,Exchange
+DB6PR1001CA0014.EURPRD10.PROD.OUTLOOK.COM (2603:10a6:4:b7::24),1,Exchange
+AM0PR08MB5428.eurprd08.prod.outlook.com,1,Exchange
+AM0PR08MB5428.eurprd08.prod.outlook.com (2603:10a6:208:182::18),1,Exchange
+bid46nq.bf02x.hubspotemail.net (158.247.18.100),1,Exchange
+AM5EUR03FT010.mail.protection.outlook.com,1,Exchange
+AM5EUR03FT010.eop-EUR03.prod.protection.outlook.com (2603:10a6:20b:467:cafe::e4),1,Exchange
+AS9PR06CA0130.outlook.office365.com,1,Exchange
+AS9PR06CA0130.eurprd06.prod.outlook.com (2603:10a6:20b:467::17),1,Exchange
+AM6PR08MB5013.eurprd08.prod.outlook.com,1,Exchange
+AM6PR08MB5013.eurprd08.prod.outlook.com (2603:10a6:20b:ef::21),1,Exchange
+bid46nw.bf02x.hubspotemail.net (158.247.18.106),1,Exchange
+VE1EUR03FT005.mail.protection.outlook.com,1,Exchange
+VE1EUR03FT005.eop-EUR03.prod.protection.outlook.com (2603:10a6:20b:21f:cafe::a6),1,Exchange
+AM9P195CA0020.outlook.office365.com,1,Exchange
+AM9P195CA0020.EURP195.PROD.OUTLOOK.COM (2603:10a6:20b:21f::25),1,Exchange
+PAXPR08MB6718.eurprd08.prod.outlook.com,1,Exchange
+PAXPR08MB6718.eurprd08.prod.outlook.com (2603:10a6:102:134::11),1,Exchange
+DB5PEPF00014B8F.mail.protection.outlook.com,1,Exchange
+DB5PEPF00014B8F.eurprd02.prod.outlook.com (2603:10a6:10:4b3:cafe::d8),1,Exchange
+DUZPR01CA0171.outlook.office365.com,1,Exchange
+DUZPR01CA0171.eurprd01.prod.exchangelabs.com (2603:10a6:10:4b3::17),1,Exchange
+FRZPR08MB10901.eurprd08.prod.outlook.com,1,Exchange
+FRZPR08MB10901.eurprd08.prod.outlook.com (::1),1,Exchange
+se-filter06.tld-mx.com,1,Exchange
+se-filter06.tld-mx.com (2c0f:f850:1:34::2),1,Exchange
+AMS0EPF0000019A.mail.protection.outlook.com,1,Exchange
+AMS0EPF0000019A.eurprd05.prod.outlook.com (2603:10a6:102:36f:cafe::a5),1,Exchange
+PA7P264CA0180.outlook.office365.com,1,Exchange
+PA7P264CA0180.FRAP264.PROD.OUTLOOK.COM (2603:10a6:102:36f::6),1,Exchange
+AM0PR08MB5476.eurprd08.prod.outlook.com,1,Exchange
+AM0PR08MB5476.eurprd08.prod.outlook.com (::1),1,Exchange
+DU6PEPF0000A7DF.mail.protection.outlook.com,1,Exchange
+DU6PEPF0000A7DF.eurprd02.prod.outlook.com (2603:10a6:10:52:cafe::db),1,Exchange
+DB7PR02CA0003.outlook.office365.com,1,Exchange
+DB7PR02CA0003.eurprd02.prod.outlook.com (2603:10a6:10:52::16),1,Exchange
+DBAPR08MB5735.eurprd08.prod.outlook.com,1,Exchange
+DBAPR08MB5735.eurprd08.prod.outlook.com (::1),1,Exchange
+AM1PEPF000252DD.mail.protection.outlook.com,1,Exchange
+AM1PEPF000252DD.eurprd07.prod.outlook.com (2603:10a6:400:1d6:cafe::8b),1,Exchange
+CWLP265CA0400.outlook.office365.com,1,Exchange
+CWLP265CA0400.GBRP265.PROD.OUTLOOK.COM (2603:10a6:400:1d6::10),1,Exchange
+AS8PR08MB7816.eurprd08.prod.outlook.com,1,Exchange
+AS8PR08MB7816.eurprd08.prod.outlook.com (::1),1,Exchange
+mail-ed1-x548.google.com,1,Exchange
+mail-ed1-x548.google.com (2a00:1450:4864:20::548),1,Exchange
+DB3PEPF00008859.mail.protection.outlook.com,1,Exchange
+DB3PEPF00008859.eurprd02.prod.outlook.com (2603:10a6:10:72:cafe::1e),1,Exchange
+DB7PR03CA0081.outlook.office365.com,1,Exchange
+DB7PR03CA0081.eurprd03.prod.outlook.com (2603:10a6:10:72::22),1,Exchange
+AM8PR08MB5841.eurprd08.prod.outlook.com,1,Exchange
+AM8PR08MB5841.eurprd08.prod.outlook.com (2603:10a6:20b:1db::13),1,Exchange
+DU2PEPF0001E9C2.mail.protection.outlook.com,1,Exchange
+DU2PEPF0001E9C2.eurprd03.prod.outlook.com (2603:10a6:10:469:cafe::59),1,Exchange
+DUZPR01CA0055.outlook.office365.com,1,Exchange
+DUZPR01CA0055.eurprd01.prod.exchangelabs.com (2603:10a6:10:469::19),1,Exchange
+GV1PR08MB9914.eurprd08.prod.outlook.com,1,Exchange
+GV1PR08MB9914.eurprd08.prod.outlook.com (2603:10a6:150:87::15),1,Exchange
+AM4PEPF00027A6A.eurprd04.prod.outlook.com (2603:10a6:206:0:cafe::52),1,Exchange
+AM5PR0601CA0065.outlook.office365.com,1,Exchange
+AM5PR0601CA0065.eurprd06.prod.outlook.com (2603:10a6:206::30),1,Exchange
+AS8PR08MB5973.eurprd08.prod.outlook.com,1,Exchange
+AS8PR08MB5973.eurprd08.prod.outlook.com (2603:10a6:20b:23f::20),1,Exchange
+mail-yw1-x1146.google.com,1,Exchange
+mail-yw1-x1146.google.com (2607:f8b0:4864:20::1146),1,Exchange
+DB3PEPF0000885C.mail.protection.outlook.com,1,Exchange
+DB3PEPF0000885C.eurprd02.prod.outlook.com (2603:10a6:10:53f:cafe::c0),1,Exchange
+DU6P191CA0037.outlook.office365.com,1,Exchange
+DU6P191CA0037.EURP191.PROD.OUTLOOK.COM (2603:10a6:10:53f::16),1,Exchange
+AS8PR08MB9837.eurprd08.prod.outlook.com,1,Exchange
+AS8PR08MB9837.eurprd08.prod.outlook.com (::1),1,Exchange
+DB1PEPF000509EF.mail.protection.outlook.com,1,Exchange
+DB1PEPF000509EF.eurprd03.prod.outlook.com (2603:10a6:10:53f:cafe::d4),1,Exchange
+DU6P191CA0025.outlook.office365.com,1,Exchange
+DU6P191CA0025.EURP191.PROD.OUTLOOK.COM (2603:10a6:10:53f::25),1,Exchange
+GV1PR08MB11002.eurprd08.prod.outlook.com,1,Exchange
+GV1PR08MB11002.eurprd08.prod.outlook.com (::1),1,Exchange
+DB1PEPF000509E5.mail.protection.outlook.com,1,Exchange
+DB1PEPF000509E5.eurprd03.prod.outlook.com (2603:10a6:10:50e:cafe::dd),1,Exchange
+DU7PR01CA0027.outlook.office365.com,1,Exchange
+DU7PR01CA0027.eurprd01.prod.exchangelabs.com (2603:10a6:10:50e::14),1,Exchange
+DBBPR08MB10463.eurprd08.prod.outlook.com,1,Exchange
+DBBPR08MB10463.eurprd08.prod.outlook.com (2603:10a6:10:532::14),1,Exchange
+AMS0EPF000001A6.mail.protection.outlook.com,1,Exchange
+AMS0EPF000001A6.eurprd05.prod.outlook.com (2603:10a6:20b:28f:cafe::76),1,Exchange
+AM0PR02CA0218.outlook.office365.com,1,Exchange
+AM0PR02CA0218.eurprd02.prod.outlook.com (2603:10a6:20b:28f::25),1,Exchange
+AS8PR08MB6360.eurprd08.prod.outlook.com,1,Exchange
+AS8PR08MB6360.eurprd08.prod.outlook.com (2603:10a6:20b:33e::22),1,Exchange
+AM2PEPF0001C714.mail.protection.outlook.com,1,Exchange
+AM2PEPF0001C714.eurprd05.prod.outlook.com (2603:10a6:20b:330:cafe::64),1,Exchange
+AS8P250CA0003.outlook.office365.com,1,Exchange
+AS8P250CA0003.EURP250.PROD.OUTLOOK.COM (2603:10a6:20b:330::8),1,Exchange
+PAXPR08MB6590.eurprd08.prod.outlook.com,1,Exchange
+PAXPR08MB6590.eurprd08.prod.outlook.com (::1),1,Exchange
+mail-ej1-x629.google.com,1,Exchange
+mail-ej1-x629.google.com (2a00:1450:4864:20::629),1,Exchange
+AM3PEPF00009B9F.mail.protection.outlook.com,1,Exchange
+AM3PEPF00009B9F.eurprd04.prod.outlook.com (2603:10a6:20b:5d8:cafe::62),1,Exchange
+AS4PR10CA0016.outlook.office365.com,1,Exchange
+AS4PR10CA0016.EURPRD10.PROD.OUTLOOK.COM (2603:10a6:20b:5d8::8),1,Exchange
+PR3PR08MB5562.eurprd08.prod.outlook.com,1,Exchange
+PR3PR08MB5562.eurprd08.prod.outlook.com (::1),1,Exchange
+AM4PEPF00027A6A.eurprd04.prod.outlook.com (2603:10a6:20b:5d4:cafe::ae),1,Exchange
+AS4PR09CA0018.outlook.office365.com,1,Exchange
+AS4PR09CA0018.eurprd09.prod.outlook.com (2603:10a6:20b:5d4::6),1,Exchange
+DU0PR08MB8278.eurprd08.prod.outlook.com,1,Exchange
+DU0PR08MB8278.eurprd08.prod.outlook.com (::1),1,Exchange
+AM4PEPF00027A65.mail.protection.outlook.com,1,Exchange
+AM4PEPF00027A65.eurprd04.prod.outlook.com (2603:10a6:208:10e:cafe::3c),1,Exchange
+AM0PR01CA0100.outlook.office365.com,1,Exchange
+AM0PR01CA0100.eurprd01.prod.exchangelabs.com (2603:10a6:208:10e::41),1,Exchange
+PA4PR08MB7594.eurprd08.prod.outlook.com,1,Exchange
+PA4PR08MB7594.eurprd08.prod.outlook.com (::1),1,Exchange
+DU2PEPF00028D02.mail.protection.outlook.com,1,Exchange
+DU2PEPF00028D02.eurprd03.prod.outlook.com (2603:10a6:10:4f9:cafe::db),1,Exchange
+DUZP191CA0018.outlook.office365.com,1,Exchange
+DUZP191CA0018.EURP191.PROD.OUTLOOK.COM (2603:10a6:10:4f9::8),1,Exchange
+VI1PR08MB10032.eurprd08.prod.outlook.com,1,Exchange
+VI1PR08MB10032.eurprd08.prod.outlook.com (2603:10a6:800:1cc::6),1,Exchange
+mail-yb1-xb48.google.com,1,Exchange
+mail-yb1-xb48.google.com (2607:f8b0:4864:20::b48),1,Exchange
+DB1PEPF000509F2.mail.protection.outlook.com,1,Exchange
+DB1PEPF000509F2.eurprd02.prod.outlook.com (2603:10a6:10:234:cafe::23),1,Exchange
+DU2PR04CA0041.outlook.office365.com,1,Exchange
+DU2PR04CA0041.eurprd04.prod.outlook.com (2603:10a6:10:234::16),1,Exchange
+VI1PR08MB5502.eurprd08.prod.outlook.com,1,Exchange
+VI1PR08MB5502.eurprd08.prod.outlook.com (2603:10a6:803:12f::15),1,Exchange
+AM4PEPF00025F9B.mail.protection.outlook.com,1,Exchange
+AM4PEPF00025F9B.EURPRD83.prod.outlook.com (2603:10a6:100:18:cafe::99),1,Exchange
+PR0P264CA0082.outlook.office365.com,1,Exchange
+PR0P264CA0082.FRAP264.PROD.OUTLOOK.COM (2603:10a6:100:18::22),1,Exchange
+GV2PR08MB8728.eurprd08.prod.outlook.com,1,Exchange
+GV2PR08MB8728.eurprd08.prod.outlook.com (2603:10a6:150:b3::12),1,Exchange
+mxincontact11.fnb.co.za,1,Gmail
+mxincontact15.fnb.co.za,1,Gmail
+mxincontact4.fnb.co.za,1,Gmail
+mxincontact1.fnb.co.za,1,Gmail
+mxincontact5.fnb.co.za,1,Gmail
+mxincontact10.fnb.co.za,1,Gmail
+mxincontact.fnb.co.za,1,Gmail
+GVAP278CA0005.CHEP278.PROD.OUTLOOK.COM,1,Gmail
+AM6PR03MB5542.eurprd03.prod.outlook.com (2603:10a6:20b:f8::16),1,Gmail
+AM6PR03MB3813.eurprd03.prod.outlook.com,1,Gmail
+smtp.gmail.com,1,Gmail
+za-smtp-1.mimecast.co.za,1,Gmail
+za-smtp-delivery-123.mimecast.co.za,1,Gmail
+10.180.107.229,1,Gmail
+wgbhy7,1,Gmail
+mail-wg0-f70.google.com,1,Gmail
+10.28.171.85,1,Gmail
+10.202.170.21,1,Gmail
+oiko83,1,Gmail
+mail-oi0-x231.google.com,1,Gmail
+10.182.131.194,1,Gmail
+oign205,1,Gmail
+mail-oi0-f72.google.com,1,Gmail
+10.28.99.4,1,Gmail
+DU0PR08MB9131.eurprd08.prod.outlook.com,1,Gmail
+mail-westeuropeazon11022092.outbound.protection.outlook.com,1,Gmail
+antispam3-jnb1.host-h.net,1,Gmail
+outgoing4.jnb.host-h.net,1,Gmail
+AS8PR08MB5992.eurprd08.prod.outlook.com,1,Gmail
+VI0PR08MB11084.eurprd08.prod.outlook.com,1,Gmail
+AS8PR04CU009.outbound.protection.outlook.com,1,Gmail
+PA4PR08MB5885.eurprd08.prod.outlook.com,1,Gmail
+EUR03-VI1-obe.outbound.protection.outlook.com,1,Gmail
+AS1PR08MB7658.eurprd08.prod.outlook.com,1,Gmail
