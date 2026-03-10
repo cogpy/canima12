@@ -1,0 +1,76 @@
+{
+  "_schema": "exoml-forensic/v1",
+  "_generated": "2026-03-10T08:04:26.244668+00:00",
+  "file_integrity": {
+    "eml_file": "rzo.io/0025_2022-03-24_0046_d@rzo.io_FYI__Completing_ReZ_Accounts__-D.eml",
+    "file_size_bytes": 119624,
+    "md5": "f7db28a3d0930ee5f58b3f68c2ba3b57",
+    "sha1": "91459cb77020ec56704a1fa40bfaefe4102df535",
+    "sha256": "e2a95f9c545a5432a17d878193f841d177c202fc54217dc84179836ee7754f00"
+  },
+  "message_identity": {
+    "db_id": 514,
+    "exchange_message_id": "AAMkAGE2YjljZjA1LTRlOWUtNDhjYi1iZjNkLWI4ZWRlNDQwYTU0MABGAAAAAADPgXCfMl5uRqA6Xxa9Yh33BwAh607i92PMQLMLAH3HB5h5AAAAAAEJAAAh607i92PMQLMLAH3HB5h5AAXH5SNcAAA=",
+    "conversation_id": "AAQkAGE2YjljZjA1LTRlOWUtNDhjYi1iZjNkLWI4ZWRlNDQwYTU0MAAQAGnVNats6k9gk_6yaRkFU2A="
+  },
+  "envelope": {
+    "subject": "FYI: Completing ReZ Accounts :-D",
+    "from_name": "Daniel Faucitt",
+    "from_address": "d@rzo.io",
+    "to_recipients": [
+      {
+        "emailAddress": {
+          "name": "Kayla Pretorius",
+          "address": "k@rzo.io"
+        }
+      }
+    ],
+    "cc_recipients": [
+      {
+        "emailAddress": {
+          "name": "Kay Pretorius",
+          "address": "kayp@rzo.io"
+        }
+      },
+      {
+        "emailAddress": {
+          "name": "Rynette Farrar",
+          "address": "rynette@regima.zone"
+        }
+      },
+      {
+        "emailAddress": {
+          "name": "jax@regima.zone",
+          "address": "jax@regima.zone"
+        }
+      },
+      {
+        "emailAddress": {
+          "name": "Peter Andrew Faucitt",
+          "address": "PETE@REGIMA.COM"
+        }
+      }
+    ],
+    "received_datetime": "2022-03-24 00:46:00"
+  },
+  "mailbox_context": {
+    "user_email": "d@rzo.io",
+    "user_name": "Daniel Faucitt"
+  },
+  "body": {
+    "content_type": "html",
+    "preview": "Hey Kay\r\n\r\nPlz see my below comments & attached recon for the ReZ invoices to RegimA 😝\r\n\r\n\r\n\r\n\r\nThanks Rynette 😃\r\n\r\nHad to do a recon to verify this account because of the GoDaddy stuff so it took a while but want to ensure its correct.\r\nAttached is the",
+    "body_length_chars": 16978
+  },
+  "attachments": [
+    {
+      "name": "RST-REZ - Dan Recon v3.xlsx",
+      "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "size_bytes": 78786,
+      "is_inline": false,
+      "has_content": true,
+      "md5": "2293d0b57f08e20091873f0c12f7922a",
+      "sha256": "1eb4372bfe79248d0908218627bccb27a153c0bcf01952475f6e20f440e95acf"
+    }
+  ]
+}

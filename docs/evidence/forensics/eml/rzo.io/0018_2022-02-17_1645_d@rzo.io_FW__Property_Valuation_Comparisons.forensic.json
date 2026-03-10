@@ -1,0 +1,60 @@
+{
+  "_schema": "exoml-forensic/v1",
+  "_generated": "2026-03-10T08:04:25.453448+00:00",
+  "file_integrity": {
+    "eml_file": "rzo.io/0018_2022-02-17_1645_d@rzo.io_FW__Property_Valuation_Comparisons.eml",
+    "file_size_bytes": 885061,
+    "md5": "4760db13c52caa149f9d4cc989ee67c3",
+    "sha1": "0cbbb138b6be76e0875760b65eb7e9dc896aa759",
+    "sha256": "ac419ba8305b1b116fb65ba762afbda7de8c802708dc18ae7cdfe68ba57984b3"
+  },
+  "message_identity": {
+    "db_id": 525,
+    "exchange_message_id": "AAMkAGE2YjljZjA1LTRlOWUtNDhjYi1iZjNkLWI4ZWRlNDQwYTU0MABGAAAAAADPgXCfMl5uRqA6Xxa9Yh33BwAh607i92PMQLMLAH3HB5h5AAAAAAEJAAAh607i92PMQLMLAH3HB5h5AAXH5SNRAAA=",
+    "conversation_id": "AAQkAGE2YjljZjA1LTRlOWUtNDhjYi1iZjNkLWI4ZWRlNDQwYTU0MAAQAJhDbZDWw0SFu35_NWmIViE="
+  },
+  "envelope": {
+    "subject": "FW: Property Valuation Comparisons",
+    "from_name": "Daniel Faucitt",
+    "from_address": "d@rzo.io",
+    "to_recipients": [
+      {
+        "emailAddress": {
+          "name": "Rynette Farrar",
+          "address": "rynette@regima.zone"
+        }
+      }
+    ],
+    "cc_recipients": [],
+    "received_datetime": "2022-02-17 16:45:00"
+  },
+  "mailbox_context": {
+    "user_email": "d@rzo.io",
+    "user_name": "Daniel Faucitt"
+  },
+  "body": {
+    "content_type": "html",
+    "preview": "FYI concerning Kachan AOD securities\r\n\r\nFrom: Daniel Faucitt\r\nSent: 17 February 2022 18:27\r\nTo: jax@regima.zone\r\nCc: Kay Pretorius <kayp@rzo.io>\r\nSubject: Property Valuation Comparisons\r\nImportance: High\r\n\r\nHere are some valuation comparisons of transfe",
+    "body_length_chars": 2166
+  },
+  "attachments": [
+    {
+      "name": "FOREST LODGE 173-1993.xlsx",
+      "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "size_bytes": 18214,
+      "is_inline": false,
+      "has_content": true,
+      "md5": "1424948f82f3fe9fd3d90f3cfd9d77be",
+      "sha256": "3392740c892e319d62cf195a802a8689be1ef3b2bfcd3e75331a686b80febf29"
+    },
+    {
+      "name": "WinDeed Property Report - Pretoria, SS Forest Lodge, 173, 4 - Hilight.pdf",
+      "content_type": "application/pdf",
+      "size_bytes": 650243,
+      "is_inline": false,
+      "has_content": true,
+      "md5": "4f1d4abb629f7f5bc583356908a1b919",
+      "sha256": "72992d18bbb1a40c6f94b807d3b302734af4509a14d4ed9dcf623dd0cca02550"
+    }
+  ]
+}

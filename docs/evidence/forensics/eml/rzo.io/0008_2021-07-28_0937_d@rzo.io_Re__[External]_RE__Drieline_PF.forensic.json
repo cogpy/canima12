@@ -1,0 +1,60 @@
+{
+  "_schema": "exoml-forensic/v1",
+  "_generated": "2026-03-10T08:04:24.289539+00:00",
+  "file_integrity": {
+    "eml_file": "rzo.io/0008_2021-07-28_0937_d@rzo.io_Re__[External]_RE__Drieline_PF.eml",
+    "file_size_bytes": 41496,
+    "md5": "54f5a71e04255e5694c78c40c6f34c4e",
+    "sha1": "a5c6be463faefad84b4b03c520620286944bb355",
+    "sha256": "85bede94dc71baaa667a22e099f065c7c74d5673f0059832fec3c85e776c7880"
+  },
+  "message_identity": {
+    "db_id": 797,
+    "exchange_message_id": "AAMkAGE2YjljZjA1LTRlOWUtNDhjYi1iZjNkLWI4ZWRlNDQwYTU0MABGAAAAAADPgXCfMl5uRqA6Xxa9Yh33BwAh607i92PMQLMLAH3HB5h5AAAAAAEJAAAh607i92PMQLMLAH3HB5h5AAVY-ZgcAAA=",
+    "conversation_id": "AAQkAGE2YjljZjA1LTRlOWUtNDhjYi1iZjNkLWI4ZWRlNDQwYTU0MAAQAPdI84eOAk8qmJn9jwQ6Lmc="
+  },
+  "envelope": {
+    "subject": "Re: [External] RE: Drieline PF",
+    "from_name": "Daniel Faucitt",
+    "from_address": "d@rzo.io",
+    "to_recipients": [
+      {
+        "emailAddress": {
+          "name": "Rynette Farrar",
+          "address": "rynette@regima.zone"
+        }
+      }
+    ],
+    "cc_recipients": [
+      {
+        "emailAddress": {
+          "name": "JAX@REGIMA.COM",
+          "address": "JAX@REGIMA.COM"
+        }
+      },
+      {
+        "emailAddress": {
+          "name": "PETE@REGIMA.COM",
+          "address": "pete@regima.com"
+        }
+      },
+      {
+        "emailAddress": {
+          "name": "Jacqui Faucitt",
+          "address": "jax@regima.zone"
+        }
+      }
+    ],
+    "received_datetime": "2021-07-28 09:37:11"
+  },
+  "mailbox_context": {
+    "user_email": "d@rzo.io",
+    "user_name": "Daniel Faucitt"
+  },
+  "body": {
+    "content_type": "html",
+    "preview": "Hi John\r\n\r\nGood news at last 🙂\r\n\r\nThe Drieline suppliers have just responded with the order confirmation for the PF variant. They have also informed us that the shipment will be ready by week 33 (which i think is Aug 16 onwards.\r\n\r\nWe have some timelines",
+    "body_length_chars": 30032
+  },
+  "attachments": []
+}

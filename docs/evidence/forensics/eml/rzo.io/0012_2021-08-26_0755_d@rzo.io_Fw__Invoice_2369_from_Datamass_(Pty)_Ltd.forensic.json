@@ -1,0 +1,64 @@
+{
+  "_schema": "exoml-forensic/v1",
+  "_generated": "2026-03-10T08:04:24.827689+00:00",
+  "file_integrity": {
+    "eml_file": "rzo.io/0012_2021-08-26_0755_d@rzo.io_Fw__Invoice_2369_from_Datamass_(Pty)_Ltd.eml",
+    "file_size_bytes": 71527,
+    "md5": "56fec9b7ad26ee38a189949cc301299f",
+    "sha1": "649250e012bbc3d448103af825ef8743b88b64d4",
+    "sha256": "a618ac97cd6f36e77f0354e4a555f80c89cc5bbb6de57c0cac8fcbb26d7f44e6"
+  },
+  "message_identity": {
+    "db_id": 563,
+    "exchange_message_id": "AAMkAGE2YjljZjA1LTRlOWUtNDhjYi1iZjNkLWI4ZWRlNDQwYTU0MABGAAAAAADPgXCfMl5uRqA6Xxa9Yh33BwAh607i92PMQLMLAH3HB5h5AAAAAAEJAAAh607i92PMQLMLAH3HB5h5AAVpmdTQAAA=",
+    "conversation_id": "AAQkAGE2YjljZjA1LTRlOWUtNDhjYi1iZjNkLWI4ZWRlNDQwYTU0MAAQAAcsLLNVqGFJv2xhf3SDtNM="
+  },
+  "envelope": {
+    "subject": "Fw: Invoice 2369 from Datamass (Pty) Ltd",
+    "from_name": "Daniel Faucitt",
+    "from_address": "d@rzo.io",
+    "to_recipients": [
+      {
+        "emailAddress": {
+          "name": "Jacqui Faucitt",
+          "address": "jax@regima.zone"
+        }
+      }
+    ],
+    "cc_recipients": [
+      {
+        "emailAddress": {
+          "name": "Rynette Farrar",
+          "address": "rynette@regima.zone"
+        }
+      },
+      {
+        "emailAddress": {
+          "name": "Kayla Pretorius",
+          "address": "kayla@regima.zone"
+        }
+      }
+    ],
+    "received_datetime": "2021-08-26 07:55:03"
+  },
+  "mailbox_context": {
+    "user_email": "d@rzo.io",
+    "user_name": "Daniel Faucitt"
+  },
+  "body": {
+    "content_type": "html",
+    "preview": "** This Software has already been purchased and installed - Please can you make payment from RegimA ASAP 😄 **\r\n\r\n________________________________\r\nFrom: Datamass (Pty) Ltd <quickbooks@notification.intuit.com>\r\nSent: 24 August 2021 07:48\r\nTo: Daniel Fau",
+    "body_length_chars": 28518
+  },
+  "attachments": [
+    {
+      "name": "Invoice_2369_from_Datamass_Pty_Ltd.pdf",
+      "content_type": "application/pdf",
+      "size_bytes": 24025,
+      "is_inline": false,
+      "has_content": true,
+      "md5": "a98939b405b27a1df92434848e752daf",
+      "sha256": "82b9e28a8ae73c5f984c1134e82cfe353d48c5835ef71c3f8072f3a8d39fad2f"
+    }
+  ]
+}

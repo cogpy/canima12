@@ -1,0 +1,60 @@
+{
+  "_schema": "exoml-forensic/v1",
+  "_generated": "2026-03-10T08:04:25.074646+00:00",
+  "file_integrity": {
+    "eml_file": "rzo.io/0015_2022-01-14_0833_d@rzo.io_RE__Q4_2021.eml",
+    "file_size_bytes": 13785,
+    "md5": "ad3681e44ccd5b8a61acc088c4a261a0",
+    "sha1": "cd8790993a13b0b86105e2bcb72b30c1bdab1136",
+    "sha256": "2dc9c4ccc1dfb3f965702164492a357663949296f1ec6e151b20b7034cbfe273"
+  },
+  "message_identity": {
+    "db_id": 541,
+    "exchange_message_id": "AAMkAGE2YjljZjA1LTRlOWUtNDhjYi1iZjNkLWI4ZWRlNDQwYTU0MABGAAAAAADPgXCfMl5uRqA6Xxa9Yh33BwAh607i92PMQLMLAH3HB5h5AAAAAAEJAAAh607i92PMQLMLAH3HB5h5AAXH5SNHAAA=",
+    "conversation_id": "AAQkAGE2YjljZjA1LTRlOWUtNDhjYi1iZjNkLWI4ZWRlNDQwYTU0MAAQAJzj89s5-kdLiMoDHSxwujc="
+  },
+  "envelope": {
+    "subject": "RE: Q4 2021",
+    "from_name": "Daniel Faucitt",
+    "from_address": "d@rzo.io",
+    "to_recipients": [
+      {
+        "emailAddress": {
+          "name": "Rynette Farrar",
+          "address": "rynette@regima.zone"
+        }
+      }
+    ],
+    "cc_recipients": [
+      {
+        "emailAddress": {
+          "name": "JAX@REGIMA.COM",
+          "address": "JAX@REGIMA.COM"
+        }
+      },
+      {
+        "emailAddress": {
+          "name": "PETE@REGIMA.COM",
+          "address": "PETE@REGIMA.COM"
+        }
+      },
+      {
+        "emailAddress": {
+          "name": "Jacqui Faucitt",
+          "address": "jax@regima.zone"
+        }
+      }
+    ],
+    "received_datetime": "2022-01-14 08:33:00"
+  },
+  "mailbox_context": {
+    "user_email": "d@rzo.io",
+    "user_name": "Daniel Faucitt"
+  },
+  "body": {
+    "content_type": "html",
+    "preview": "Awesome 😃\r\n\r\nFrom: Rynette Farrar <rynette@regima.zone>\r\nSent: 14 January 2022 09:01\r\nTo: Daniel Faucitt <d@rzo.io>\r\nCc: JAX@REGIMA.COM; PETE@REGIMA.COM; Jacqui Faucitt <jax@regima.zone>\r\nSubject: FW: Q4 2021\r\n\r\nHi Dan\r\n\r\nHere is Estelle’s reply below to",
+    "body_length_chars": 9539
+  },
+  "attachments": []
+}

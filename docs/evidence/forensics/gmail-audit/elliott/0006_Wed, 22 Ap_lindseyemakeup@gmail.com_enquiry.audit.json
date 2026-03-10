@@ -1,0 +1,338 @@
+{
+  "_schema": "gws-forensic-audit/v1",
+  "_generated": "2026-03-10T08:01:10.594945+00:00",
+  "_source": "gmail-api",
+  "message_identity": {
+    "gmail_id": "14ce07f24b59f5ef",
+    "thread_id": "14ce07f24b59f5ef",
+    "internet_message_id": "<CAFzXzu6Kv16x80_0Nm20nzcjQKvHdy7_h6s1b2b1-TN9u+E8zg@mail.gmail.com>",
+    "label_ids": [
+      "UNREAD",
+      "CATEGORY_FORUMS",
+      "INBOX"
+    ],
+    "history_id": "688822"
+  },
+  "envelope": {
+    "subject": "enquiry",
+    "from": "lindseyemakeup@gmail.com",
+    "to": [
+      "Info@regima.com"
+    ],
+    "cc": [],
+    "bcc": [],
+    "reply_to": null,
+    "date": "Wed, 22 Apr 2015 11:39:30 +0200",
+    "sent_date": "Wed, 22 Apr 2015 11:39:30 +0200"
+  },
+  "origin": {
+    "client_ip": null,
+    "mailer": null,
+    "user_agent": null,
+    "return_path": "info+bncBCHILUVF2UJRBUWY3WUQKGQEQZJEXSA@regima.com",
+    "x_google_smtp_source": null,
+    "x_gm_message_state": "ALoCoQkNdXBBQ8DLWAXLD5Mp4fyd7ZU7Q82eNwkvQD1TmyJM7wxIGrI/U9EIoP7RYvmSQKAR7+Fo"
+  },
+  "authentication": {
+    "spf": "none",
+    "dkim": null,
+    "dmarc": "fail",
+    "compauth": null,
+    "received_spf": "pass (google.com: domain of lindseyemakeup@gmail.com designates 2607:f8b0:4003:c06::231 as permitted sender) client-ip=2607:f8b0:4003:c06::231;",
+    "arc_results": [],
+    "dkim_signatures": [],
+    "google_dkim_signatures": [
+      "v=1; a=rsa-sha256; c=relaxed/relaxed;        d=1e100.net; s=20130820;        h=x-gm-message-state:mime-version:date:message-id:subject:from:to         :content-type:x-original-sender:x-original-authentication-results         :precedence:mailing-list:list-id:list-post:list-help:list-archive         :list-unsubscribe;        bh=h/W4MFMUV1E6kQG/0crEsdV2uFYtWfztCnJcFT++NCY=;        b=KPkXZHNqI1Au3a5vcxKmfYsMrnaM6u9WJhubP8dnh58J+viPB0/B9ZWU7D+yQRIvYG         7fy3foUT78x9v7v+jeRjJ/kUDuN+THVUXSqOwRsvQlGKLbnMsV6M7tuU+gbFO3g4gYfg         5Af1oMB0A+vNf08sex7s+VKau1qddXjD0BK6+fF3fcSgOVhpTkExOdjKhuINjUW/5f00         BCaTjzYphMaDENwE+WoYlxYHMzFVm4DMxhNE9r1mCs1T07+RaEeVxJCUMWWb1EAtvXDH         W3tFOqtXQhbM0wVa0s3TXPvWf7WnHW7dApA/8kbPbOOjoFeEUPeMocrsgTz21Gdi4nDs         0qQw=="
+    ],
+    "raw_auth_results": [
+      "mx.google.com;       spf=none (google.com: info+bncBCHILUVF2UJRBUWY3WUQKGQEQZJEXSA@regima.com does not designate permitted sender hosts) smtp.mail=info+bncBCHILUVF2UJRBUWY3WUQKGQEQZJEXSA@regima.com;       dmarc=fail (p=NONE dis=NONE) header.from=gmail.com"
+    ]
+  },
+  "transport_hops": [
+    {
+      "hop": 1,
+      "from_server": null,
+      "from_ip": null,
+      "by_server": "10.202.170.21",
+      "by_ip": null,
+      "with_protocol": "HTTP",
+      "via": null,
+      "id": null,
+      "for_recipient": null,
+      "timestamp": "Wed, 22 Apr 2015 02:39:30 -0700 (PDT)",
+      "tls": null,
+      "raw": "by 10.202.170.21 with HTTP; Wed, 22 Apr 2015 02:39:30 -0700 (PDT)"
+    },
+    {
+      "hop": 2,
+      "from_server": null,
+      "from_ip": null,
+      "by_server": "oiko83",
+      "by_ip": null,
+      "with_protocol": "SMTP",
+      "via": null,
+      "id": "o83so174379903oik.1",
+      "for_recipient": "Info@regima.com",
+      "timestamp": "Wed, 22 Apr 2015 02:39:30 -0700 (PDT)",
+      "tls": null,
+      "raw": "by oiko83 with SMTP id o83so174379903oik.1        for <Info@regima.com>; Wed, 22 Apr 2015 02:39:30 -0700 (PDT)"
+    },
+    {
+      "hop": 3,
+      "from_server": "mail-oi0-x231.google.com",
+      "from_ip": "015.04.22.02",
+      "by_server": "mx.google.com",
+      "by_ip": null,
+      "with_protocol": "ESMTPS",
+      "via": null,
+      "id": "x6si3210784oig.122.2015.04.22.02.39.30",
+      "for_recipient": null,
+      "timestamp": "Wed, 22 Apr 2015 02:39:30 -0700 (PDT)",
+      "tls": "TLSv1.2",
+      "raw": "from mail-oi0-x231.google.com (mail-oi0-x231.google.com. [2607:f8b0:4003:c06::231])        by mx.google.com with ESMTPS id x6si3210784oig.122.2015.04.22.02.39.30        for <Info@regima.com>        (version=TLSv1.2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);        Wed, 22 Apr 2015 02:39:30 -0700 (PDT)"
+    },
+    {
+      "hop": 4,
+      "from_server": null,
+      "from_ip": null,
+      "by_server": "10.182.131.194",
+      "by_ip": null,
+      "with_protocol": "SMTP",
+      "via": null,
+      "id": "oo2ls258699obb.72.gmail",
+      "for_recipient": null,
+      "timestamp": "Wed, 22 Apr 2015 02:39:30 -0700 (PDT)",
+      "tls": null,
+      "raw": "by 10.182.131.194 with SMTP id oo2ls258699obb.72.gmail; Wed, 22 Apr 2015 02:39:30 -0700 (PDT)"
+    },
+    {
+      "hop": 5,
+      "from_server": null,
+      "from_ip": null,
+      "by_server": "oign205",
+      "by_ip": null,
+      "with_protocol": "SMTP",
+      "via": null,
+      "id": "n205sf315510126oig.2",
+      "for_recipient": "dan@regima.com",
+      "timestamp": "Wed, 22 Apr 2015 02:39:30 -0700 (PDT)",
+      "tls": null,
+      "raw": "by oign205 with SMTP id n205sf315510126oig.2        for <dan@regima.com>; Wed, 22 Apr 2015 02:39:30 -0700 (PDT)"
+    },
+    {
+      "hop": 6,
+      "from_server": "mail-oi0-f72.google.com",
+      "from_ip": "209.85.218.72",
+      "by_server": "mx.google.com",
+      "by_ip": null,
+      "with_protocol": "ESMTPS",
+      "via": null,
+      "id": "t5si3213270oei.69.2015.04.22.02.39.30",
+      "for_recipient": null,
+      "timestamp": "Wed, 22 Apr 2015 02:39:31 -0700 (PDT)",
+      "tls": "TLSv1.2",
+      "raw": "from mail-oi0-f72.google.com (mail-oi0-f72.google.com. [209.85.218.72])        by mx.google.com with ESMTPS id t5si3213270oei.69.2015.04.22.02.39.30        for <dan@regima.com>        (version=TLSv1.2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);        Wed, 22 Apr 2015 02:39:31 -0700 (PDT)"
+    },
+    {
+      "hop": 7,
+      "from_server": null,
+      "from_ip": null,
+      "by_server": "10.28.99.4",
+      "by_ip": null,
+      "with_protocol": "SMTP",
+      "via": null,
+      "id": "x4csp1098693wmb",
+      "for_recipient": null,
+      "timestamp": "Wed, 22 Apr 2015 02:39:32 -0700 (PDT)",
+      "tls": null,
+      "raw": "by 10.28.99.4 with SMTP id x4csp1098693wmb;        Wed, 22 Apr 2015 02:39:32 -0700 (PDT)"
+    }
+  ],
+  "google_transport": {
+    "x_google_dkim_signature": "v=1; a=rsa-sha256; c=relaxed/relaxed;        d=1e100.net; s=20130820;        h=x-gm-message-state:mime-version:date:message-id:subject:from:to         :content-type:x-original-sender:x-original-authentication-results         :precedence:mailing-list:list-id:list-post:list-help:list-archive         :list-unsubscribe;        bh=h/W4MFMUV1E6kQG/0crEsdV2uFYtWfztCnJcFT++NCY=;        b=KPkXZHNqI1Au3a5vcxKmfYsMrnaM6u9WJhubP8dnh58J+viPB0/B9ZWU7D+yQRIvYG         7fy3foUT78x9v7v+jeRjJ/kUDuN+THVUXSqOwRsvQlGKLbnMsV6M7tuU+gbFO3g4gYfg         5Af1oMB0A+vNf08sex7s+VKau1qddXjD0BK6+fF3fcSgOVhpTkExOdjKhuINjUW/5f00         BCaTjzYphMaDENwE+WoYlxYHMzFVm4DMxhNE9r1mCs1T07+RaEeVxJCUMWWb1EAtvXDH         W3tFOqtXQhbM0wVa0s3TXPvWf7WnHW7dApA/8kbPbOOjoFeEUPeMocrsgTz21Gdi4nDs         0qQw==",
+    "x_gm_message_state": "ALoCoQkNdXBBQ8DLWAXLD5Mp4fyd7ZU7Q82eNwkvQD1TmyJM7wxIGrI/U9EIoP7RYvmSQKAR7+Fo",
+    "x_google_smtp_source": null,
+    "delivered_to": "dan@regima.com",
+    "x_forwarded_to": null,
+    "x_forwarded_for": null,
+    "precedence": "list",
+    "list_unsubscribe": "<mailto:googlegroups-manage+67457107791+unsubscribe@googlegroups.com>, <http://groups.google.com/a/regima.com/group/info/subscribe>",
+    "mime_version": "1.0",
+    "content_type": "multipart/alternative; boundary=089e0112d06a99966f05144cf061",
+    "google_properties": {
+      "group-id": "67457107791"
+    }
+  },
+  "mailbox_context": {
+    "user_email": "dan@regima.com",
+    "label_ids": [
+      "UNREAD",
+      "CATEGORY_FORUMS",
+      "INBOX"
+    ],
+    "snippet": "Hello I have a small beauty business in Kenilworth Cape Town, and I&#39;m looking to start doing peel",
+    "size_estimate": 5553,
+    "internal_date": "1429695570000"
+  },
+  "raw_headers": [
+    {
+      "name": "Delivered-To",
+      "value": "dan@regima.com"
+    },
+    {
+      "name": "Received",
+      "value": "by 10.28.99.4 with SMTP id x4csp1098693wmb;        Wed, 22 Apr 2015 02:39:32 -0700 (PDT)"
+    },
+    {
+      "name": "X-Received",
+      "value": "by 10.60.139.1 with SMTP id qu1mr22805381oeb.83.1429695571440;        Wed, 22 Apr 2015 02:39:31 -0700 (PDT)"
+    },
+    {
+      "name": "Return-Path",
+      "value": "<info+bncBCHILUVF2UJRBUWY3WUQKGQEQZJEXSA@regima.com>"
+    },
+    {
+      "name": "Received",
+      "value": "from mail-oi0-f72.google.com (mail-oi0-f72.google.com. [209.85.218.72])        by mx.google.com with ESMTPS id t5si3213270oei.69.2015.04.22.02.39.30        for <dan@regima.com>        (version=TLSv1.2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);        Wed, 22 Apr 2015 02:39:31 -0700 (PDT)"
+    },
+    {
+      "name": "Received-SPF",
+      "value": "none (google.com: info+bncBCHILUVF2UJRBUWY3WUQKGQEQZJEXSA@regima.com does not designate permitted sender hosts) client-ip=209.85.218.72;"
+    },
+    {
+      "name": "Authentication-Results",
+      "value": "mx.google.com;       spf=none (google.com: info+bncBCHILUVF2UJRBUWY3WUQKGQEQZJEXSA@regima.com does not designate permitted sender hosts) smtp.mail=info+bncBCHILUVF2UJRBUWY3WUQKGQEQZJEXSA@regima.com;       dmarc=fail (p=NONE dis=NONE) header.from=gmail.com"
+    },
+    {
+      "name": "Received",
+      "value": "by oign205 with SMTP id n205sf315510126oig.2        for <dan@regima.com>; Wed, 22 Apr 2015 02:39:30 -0700 (PDT)"
+    },
+    {
+      "name": "X-Google-DKIM-Signature",
+      "value": "v=1; a=rsa-sha256; c=relaxed/relaxed;        d=1e100.net; s=20130820;        h=x-gm-message-state:mime-version:date:message-id:subject:from:to         :content-type:x-original-sender:x-original-authentication-results         :precedence:mailing-list:list-id:list-post:list-help:list-archive         :list-unsubscribe;        bh=h/W4MFMUV1E6kQG/0crEsdV2uFYtWfztCnJcFT++NCY=;        b=KPkXZHNqI1Au3a5vcxKmfYsMrnaM6u9WJhubP8dnh58J+viPB0/B9ZWU7D+yQRIvYG         7fy3foUT78x9v7v+jeRjJ/kUDuN+THVUXSqOwRsvQlGKLbnMsV6M7tuU+gbFO3g4gYfg         5Af1oMB0A+vNf08sex7s+VKau1qddXjD0BK6+fF3fcSgOVhpTkExOdjKhuINjUW/5f00         BCaTjzYphMaDENwE+WoYlxYHMzFVm4DMxhNE9r1mCs1T07+RaEeVxJCUMWWb1EAtvXDH         W3tFOqtXQhbM0wVa0s3TXPvWf7WnHW7dApA/8kbPbOOjoFeEUPeMocrsgTz21Gdi4nDs         0qQw=="
+    },
+    {
+      "name": "X-Gm-Message-State",
+      "value": "ALoCoQkNdXBBQ8DLWAXLD5Mp4fyd7ZU7Q82eNwkvQD1TmyJM7wxIGrI/U9EIoP7RYvmSQKAR7+Fo"
+    },
+    {
+      "name": "X-Received",
+      "value": "by 10.182.32.73 with SMTP id g9mr1807032obi.0.1429695570405;        Wed, 22 Apr 2015 02:39:30 -0700 (PDT)"
+    },
+    {
+      "name": "X-BeenThere",
+      "value": "info@regima.com"
+    },
+    {
+      "name": "Received",
+      "value": "by 10.182.131.194 with SMTP id oo2ls258699obb.72.gmail; Wed, 22 Apr 2015 02:39:30 -0700 (PDT)"
+    },
+    {
+      "name": "X-Received",
+      "value": "by 10.60.94.33 with SMTP id cz1mr22653854oeb.54.1429695570300;        Wed, 22 Apr 2015 02:39:30 -0700 (PDT)"
+    },
+    {
+      "name": "Received",
+      "value": "from mail-oi0-x231.google.com (mail-oi0-x231.google.com. [2607:f8b0:4003:c06::231])        by mx.google.com with ESMTPS id x6si3210784oig.122.2015.04.22.02.39.30        for <Info@regima.com>        (version=TLSv1.2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);        Wed, 22 Apr 2015 02:39:30 -0700 (PDT)"
+    },
+    {
+      "name": "Received-SPF",
+      "value": "pass (google.com: domain of lindseyemakeup@gmail.com designates 2607:f8b0:4003:c06::231 as permitted sender) client-ip=2607:f8b0:4003:c06::231;"
+    },
+    {
+      "name": "Received",
+      "value": "by oiko83 with SMTP id o83so174379903oik.1        for <Info@regima.com>; Wed, 22 Apr 2015 02:39:30 -0700 (PDT)"
+    },
+    {
+      "name": "MIME-Version",
+      "value": "1.0"
+    },
+    {
+      "name": "X-Received",
+      "value": "by 10.182.110.193 with SMTP id ic1mr2750055obb.59.1429695570219; Wed, 22 Apr 2015 02:39:30 -0700 (PDT)"
+    },
+    {
+      "name": "Received",
+      "value": "by 10.202.170.21 with HTTP; Wed, 22 Apr 2015 02:39:30 -0700 (PDT)"
+    },
+    {
+      "name": "Date",
+      "value": "Wed, 22 Apr 2015 11:39:30 +0200"
+    },
+    {
+      "name": "Message-ID",
+      "value": "<CAFzXzu6Kv16x80_0Nm20nzcjQKvHdy7_h6s1b2b1-TN9u+E8zg@mail.gmail.com>"
+    },
+    {
+      "name": "Subject",
+      "value": "enquiry"
+    },
+    {
+      "name": "From",
+      "value": "Lindsey Elliott <lindseyemakeup@gmail.com>"
+    },
+    {
+      "name": "To",
+      "value": "Info@regima.com"
+    },
+    {
+      "name": "Content-Type",
+      "value": "multipart/alternative; boundary=089e0112d06a99966f05144cf061"
+    },
+    {
+      "name": "X-Original-Sender",
+      "value": "lindseyemakeup@gmail.com"
+    },
+    {
+      "name": "X-Original-Authentication-Results",
+      "value": "mx.google.com;       spf=pass (google.com: domain of lindseyemakeup@gmail.com designates 2607:f8b0:4003:c06::231 as permitted sender) smtp.mail=lindseyemakeup@gmail.com;       dkim=pass header.i=@gmail.com;       dmarc=pass (p=NONE dis=NONE) header.from=gmail.com"
+    },
+    {
+      "name": "Precedence",
+      "value": "list"
+    },
+    {
+      "name": "Mailing-list",
+      "value": "list info@regima.com; contact info+owners@regima.com"
+    },
+    {
+      "name": "List-ID",
+      "value": "<info.regima.com>"
+    },
+    {
+      "name": "X-Google-Group-Id",
+      "value": "67457107791"
+    },
+    {
+      "name": "List-Post",
+      "value": "<http://groups.google.com/a/regima.com/group/info/post>, <mailto:info@regima.com>"
+    },
+    {
+      "name": "List-Help",
+      "value": "<http://support.google.com/a/regima.com/bin/topic.py?topic=25838>, <mailto:info+help@regima.com>"
+    },
+    {
+      "name": "List-Archive",
+      "value": "<http://groups.google.com/a/regima.com/group/info/>"
+    },
+    {
+      "name": "List-Unsubscribe",
+      "value": "<mailto:googlegroups-manage+67457107791+unsubscribe@googlegroups.com>, <http://groups.google.com/a/regima.com/group/info/subscribe>"
+    }
+  ],
+  "transport_summary": {
+    "total_hops": 7,
+    "origin_ip": null,
+    "first_relay": null,
+    "final_relay": "10.28.99.4",
+    "auth_verdict": {
+      "spf": "none",
+      "dkim": null,
+      "dmarc": "fail"
+    }
+  },
+  "_file_integrity": {
+    "sha256": "498bf06f1dfa6f1d4c75309a6e44a23a0146ccc7e569be45b27dea3ac442e1b6",
+    "size_bytes": 14157
+  }
+}

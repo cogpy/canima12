@@ -1,0 +1,257 @@
+{
+  "generated": "2026-03-10T08:08:30.143961Z",
+  "case_reference": "Case 2025-137857",
+  "total_audited": 83,
+  "platforms": {
+    "exchange": {
+      "total": 37,
+      "by_scope": {
+        "absa": 7,
+        "elliott": 10,
+        "rynette": 20
+      },
+      "authentication": {
+        "spf": {
+          "unknown": 1,
+          "pass": 36
+        },
+        "dkim": {
+          "unknown": 1,
+          "pass": 36
+        },
+        "dmarc": {
+          "unknown": 1,
+          "bestguesspass": 8,
+          "pass": 10,
+          "none": 16,
+          "fail": 2
+        }
+      },
+      "transport_hops": {
+        "total": 256,
+        "tls": 156,
+        "non_tls": 100,
+        "max": 11,
+        "min": 4
+      },
+      "from_domains": {
+        "regima.zone": 16,
+        "regimaskin.co.za": 7,
+        "mail.digitalcommunications.media": 1,
+        "twitter.com": 3,
+        "elliottattorneys.co.za": 1,
+        "elliottco.co.uk": 1,
+        "spotlightreporting.com": 1,
+        "gmail.com": 2,
+        "hotmail.com": 1,
+        "elliottuk.com": 4
+      },
+      "anomalies": [
+        {
+          "type": "excessive_hops",
+          "severity": "medium",
+          "hops": 9,
+          "from": "hello@elliottco.co.uk",
+          "subject": "Become a stockist"
+        },
+        {
+          "type": "dmarc_failure",
+          "severity": "high",
+          "from": "mignonelliott7@gmail.com",
+          "subject": "Orders",
+          "date": "2023-09-30T18:30:58Z"
+        },
+        {
+          "type": "dmarc_failure",
+          "severity": "high",
+          "from": "roxvt20@gmail.com",
+          "subject": "Stockist List",
+          "date": "2023-06-06T11:34:40Z"
+        },
+        {
+          "type": "excessive_hops",
+          "severity": "medium",
+          "hops": 9,
+          "from": "rynette@regima.zone",
+          "subject": "Laser Azu gel turns yellow"
+        },
+        {
+          "type": "excessive_hops",
+          "severity": "medium",
+          "hops": 9,
+          "from": "rynette@regima.zone",
+          "subject": "RE:"
+        },
+        {
+          "type": "excessive_hops",
+          "severity": "medium",
+          "hops": 9,
+          "from": "rynette@regima.zone",
+          "subject": "RE: RegimA"
+        },
+        {
+          "type": "excessive_hops",
+          "severity": "medium",
+          "hops": 9,
+          "from": "rynette@regima.zone",
+          "subject": "RE: RegimA"
+        },
+        {
+          "type": "excessive_hops",
+          "severity": "medium",
+          "hops": 9,
+          "from": "rynette@regima.zone",
+          "subject": "RE: LashNiche vs Beautrix"
+        },
+        {
+          "type": "excessive_hops",
+          "severity": "medium",
+          "hops": 9,
+          "from": "rynette@regima.zone",
+          "subject": "Registration form - no request to change details received"
+        },
+        {
+          "type": "excessive_hops",
+          "severity": "medium",
+          "hops": 9,
+          "from": "rynette@regima.zone",
+          "subject": "Apologies for the Packaging Issue"
+        },
+        {
+          "type": "excessive_hops",
+          "severity": "medium",
+          "hops": 9,
+          "from": "rynette@regima.zone",
+          "subject": "RE: RegimA Daily Ultra Defense"
+        },
+        {
+          "type": "excessive_hops",
+          "severity": "medium",
+          "hops": 9,
+          "from": "rynette@regima.zone",
+          "subject": "RE: VAT increase"
+        },
+        {
+          "type": "excessive_hops",
+          "severity": "medium",
+          "hops": 11,
+          "from": "rynette@regima.zone",
+          "subject": "RE: Change of Banking details - bank confirmation letter - today's date"
+        },
+        {
+          "type": "excessive_hops",
+          "severity": "medium",
+          "hops": 9,
+          "from": "rynette@regima.zone",
+          "subject": "RE: Change of Banking details"
+        },
+        {
+          "type": "excessive_hops",
+          "severity": "medium",
+          "hops": 9,
+          "from": "rynette@regima.zone",
+          "subject": "FW: REGIMA CHANGE OF BANK DETAILS QUERY"
+        },
+        {
+          "type": "excessive_hops",
+          "severity": "medium",
+          "hops": 9,
+          "from": "rynette@regima.zone",
+          "subject": "RE: Buying Regima product in Europ - Belgium"
+        },
+        {
+          "type": "excessive_hops",
+          "severity": "medium",
+          "hops": 9,
+          "from": "rynette@regima.zone",
+          "subject": "RE: Scar Repair supply"
+        },
+        {
+          "type": "excessive_hops",
+          "severity": "medium",
+          "hops": 9,
+          "from": "rynette@regima.zone",
+          "subject": "RE: Scar Repair supply"
+        }
+      ]
+    },
+    "gmail": {
+      "total": 46,
+      "by_scope": {
+        "absa": 20,
+        "elliott": 6,
+        "rynette": 20
+      },
+      "authentication": {
+        "spf": {
+          "pass": 42,
+          "none": 2,
+          "neutral": 2
+        },
+        "dkim": {
+          "pass": 29,
+          "unknown": 17
+        },
+        "dmarc": {
+          "pass": 23,
+          "unknown": 22,
+          "fail": 1
+        }
+      },
+      "transport_hops": {
+        "total": 202,
+        "tls": 71,
+        "non_tls": 131,
+        "max": 8,
+        "min": 2
+      },
+      "from_domains": {
+        "rzo.io": 3,
+        "fnb.co.za": 15,
+        "outlook.com": 1,
+        "newsletters.mybroadband.co.za": 1,
+        "elliottco.co.uk": 1,
+        "gmail.com": 3,
+        "myuct.ac.za": 1,
+        "werksmans.com": 1,
+        "regima.zone": 20
+      },
+      "anomalies": [
+        {
+          "type": "dmarc_failure",
+          "severity": "high",
+          "from": "lindseyemakeup@gmail.com",
+          "subject": "enquiry",
+          "date": "Wed, 22 Apr 2015 11:39:30 +0200"
+        }
+      ]
+    }
+  },
+  "cross_platform_summary": {
+    "total_anomalies": 19,
+    "exchange_anomalies": 18,
+    "gmail_anomalies": 1,
+    "common_domains": [
+      "regima.zone",
+      "gmail.com",
+      "elliottco.co.uk"
+    ],
+    "exchange_only_domains": [
+      "spotlightreporting.com",
+      "twitter.com",
+      "regimaskin.co.za",
+      "elliottattorneys.co.za",
+      "hotmail.com",
+      "elliottuk.com",
+      "mail.digitalcommunications.media"
+    ],
+    "gmail_only_domains": [
+      "newsletters.mybroadband.co.za",
+      "rzo.io",
+      "fnb.co.za",
+      "myuct.ac.za",
+      "outlook.com",
+      "werksmans.com"
+    ]
+  }
+}

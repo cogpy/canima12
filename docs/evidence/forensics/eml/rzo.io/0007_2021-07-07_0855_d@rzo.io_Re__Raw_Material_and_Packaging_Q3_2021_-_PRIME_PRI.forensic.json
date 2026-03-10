@@ -1,0 +1,72 @@
+{
+  "_schema": "exoml-forensic/v1",
+  "_generated": "2026-03-10T08:04:24.206036+00:00",
+  "file_integrity": {
+    "eml_file": "rzo.io/0007_2021-07-07_0855_d@rzo.io_Re__Raw_Material_and_Packaging_Q3_2021_-_PRIME_PRI.eml",
+    "file_size_bytes": 53707,
+    "md5": "b0dceac1ce9572d7cd0ceab4895e041d",
+    "sha1": "53618ae0ad9080266b206733b379181db986a9c3",
+    "sha256": "87e7f215e260537579a86f055917d7f0a79f38cc08f355b28b3f7616ec74c597"
+  },
+  "message_identity": {
+    "db_id": 807,
+    "exchange_message_id": "AAMkAGE2YjljZjA1LTRlOWUtNDhjYi1iZjNkLWI4ZWRlNDQwYTU0MABGAAAAAADPgXCfMl5uRqA6Xxa9Yh33BwAh607i92PMQLMLAH3HB5h5AAAAAAEJAAAh607i92PMQLMLAH3HB5h5AAVLCLDLAAA=",
+    "conversation_id": "AAQkAGE2YjljZjA1LTRlOWUtNDhjYi1iZjNkLWI4ZWRlNDQwYTU0MAAQAI_6fPmUFkW_lxwbadUe8bM="
+  },
+  "envelope": {
+    "subject": "Re: Raw Material and Packaging Q3 2021  -  PRIME PRICING",
+    "from_name": "Daniel Faucitt",
+    "from_address": "d@rzo.io",
+    "to_recipients": [
+      {
+        "emailAddress": {
+          "name": "Estelle Perring",
+          "address": "Estelle@primeproduct.co.za"
+        }
+      },
+      {
+        "emailAddress": {
+          "name": "Jacqui Faucitt",
+          "address": "jax@regima.zone"
+        }
+      },
+      {
+        "emailAddress": {
+          "name": "Kayla Pretorius",
+          "address": "kayla@regima.zone"
+        }
+      }
+    ],
+    "cc_recipients": [
+      {
+        "emailAddress": {
+          "name": "Rynette Farrar",
+          "address": "rynette@regima.zone"
+        }
+      },
+      {
+        "emailAddress": {
+          "name": "Karenvdh@jubilingo.co.za",
+          "address": "Karenvdh@jubilingo.co.za"
+        }
+      },
+      {
+        "emailAddress": {
+          "name": "Ana Ferreira",
+          "address": "ana@primeproduct.co.za"
+        }
+      }
+    ],
+    "received_datetime": "2021-07-07 08:55:11"
+  },
+  "mailbox_context": {
+    "user_email": "d@rzo.io",
+    "user_name": "Daniel Faucitt"
+  },
+  "body": {
+    "content_type": "html",
+    "preview": "Hi Estelle\r\n\r\n\r\nHope you are well and that everyone at Prime is in good health 🙂\r\n\r\nBased on the limited information I have in the spreadsheet provided, everything appears to be correct from my side.\r\n\r\nOn the basis of the justifications provided I appro",
+    "body_length_chars": 38973
+  },
+  "attachments": []
+}

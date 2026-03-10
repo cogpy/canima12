@@ -1,0 +1,66 @@
+{
+  "_schema": "exoml-forensic/v1",
+  "_generated": "2026-03-10T08:04:26.586362+00:00",
+  "file_integrity": {
+    "eml_file": "rzo.io/0029_2022-05-06_1438_d@rzo.io_RE__Reminder.eml",
+    "file_size_bytes": 5094,
+    "md5": "774c7910ccd3200b30b622ab8e42ae09",
+    "sha1": "61870076293b98cfa5d1ef1ff77106bb37d64757",
+    "sha256": "aca7cadc68dd9733c2ccec499e2093a2d9612ad49a83bbb75553ab33223f63ba"
+  },
+  "message_identity": {
+    "db_id": 505,
+    "exchange_message_id": "AAMkAGE2YjljZjA1LTRlOWUtNDhjYi1iZjNkLWI4ZWRlNDQwYTU0MABGAAAAAADPgXCfMl5uRqA6Xxa9Yh33BwAh607i92PMQLMLAH3HB5h5AAAAAAEJAAAh607i92PMQLMLAH3HB5h5AAYMEU3nAAA=",
+    "conversation_id": "AAQkAGE2YjljZjA1LTRlOWUtNDhjYi1iZjNkLWI4ZWRlNDQwYTU0MAAQAGjuQA5E0kb8giteQC--5eo="
+  },
+  "envelope": {
+    "subject": "RE: Reminder",
+    "from_name": "Daniel Faucitt",
+    "from_address": "d@rzo.io",
+    "to_recipients": [
+      {
+        "emailAddress": {
+          "name": "Rynette Farrar",
+          "address": "rynette@regima.zone"
+        }
+      },
+      {
+        "emailAddress": {
+          "name": "Kayla Pretorius",
+          "address": "kayla@regima.zone"
+        }
+      }
+    ],
+    "cc_recipients": [
+      {
+        "emailAddress": {
+          "name": "JAX@REGIMA.COM",
+          "address": "JAX@REGIMA.COM"
+        }
+      },
+      {
+        "emailAddress": {
+          "name": "PETE@REGIMA.COM",
+          "address": "PETE@REGIMA.COM"
+        }
+      },
+      {
+        "emailAddress": {
+          "name": "Jacqui Faucitt",
+          "address": "jax@regima.zone"
+        }
+      }
+    ],
+    "received_datetime": "2022-05-06 14:38:00"
+  },
+  "mailbox_context": {
+    "user_email": "d@rzo.io",
+    "user_name": "Daniel Faucitt"
+  },
+  "body": {
+    "content_type": "html",
+    "preview": "Oki cool will sort ASAP 😃\r\n\r\nFrom: Rynette Farrar <rynette@regima.zone>\r\nSent: 06 May 2022 16:35\r\nTo: Kayla Pretorius <kayla@regima.zone>; Daniel Faucitt <d@rzo.io>\r\nCc: JAX@REGIMA.COM; PETE@REGIMA.COM; Jacqui Faucitt <jax@regima.zone>\r\nSubject: Reminder",
+    "body_length_chars": 3076
+  },
+  "attachments": []
+}

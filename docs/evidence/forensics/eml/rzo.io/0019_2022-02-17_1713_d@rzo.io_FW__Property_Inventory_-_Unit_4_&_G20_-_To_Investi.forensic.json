@@ -1,0 +1,51 @@
+{
+  "_schema": "exoml-forensic/v1",
+  "_generated": "2026-03-10T08:04:25.603265+00:00",
+  "file_integrity": {
+    "eml_file": "rzo.io/0019_2022-02-17_1713_d@rzo.io_FW__Property_Inventory_-_Unit_4_&_G20_-_To_Investi.eml",
+    "file_size_bytes": 654037,
+    "md5": "e936516ee413cd97c0f3c075f012624e",
+    "sha1": "b25b3bdf2ce6d9d7832cd2993f8416f02d2da808",
+    "sha256": "ba14784c1fdd4cf2f472f913af7deeab4cfda8c50f8d8f410eb3a160ec3c05d4"
+  },
+  "message_identity": {
+    "db_id": 523,
+    "exchange_message_id": "AAMkAGE2YjljZjA1LTRlOWUtNDhjYi1iZjNkLWI4ZWRlNDQwYTU0MABGAAAAAADPgXCfMl5uRqA6Xxa9Yh33BwAh607i92PMQLMLAH3HB5h5AAAAAAEJAAAh607i92PMQLMLAH3HB5h5AAXH5SNTAAA=",
+    "conversation_id": "AAQkAGE2YjljZjA1LTRlOWUtNDhjYi1iZjNkLWI4ZWRlNDQwYTU0MAAQADF1wEU6r0llq6SmWgvUSBg="
+  },
+  "envelope": {
+    "subject": "FW: Property Inventory - Unit 4 & G20 - To Investigate",
+    "from_name": "Daniel Faucitt",
+    "from_address": "d@rzo.io",
+    "to_recipients": [
+      {
+        "emailAddress": {
+          "name": "Rynette Farrar",
+          "address": "rynette@regima.zone"
+        }
+      }
+    ],
+    "cc_recipients": [],
+    "received_datetime": "2022-02-17 17:13:00"
+  },
+  "mailbox_context": {
+    "user_email": "d@rzo.io",
+    "user_name": "Daniel Faucitt"
+  },
+  "body": {
+    "content_type": "html",
+    "preview": "FYI concerning Kachan AOD securities\r\n\r\nFrom: Daniel Faucitt\r\nSent: 17 February 2022 19:12\r\nTo: jax@regima.zone\r\nCc: Kay Pretorius <kayp@rzo.io>\r\nSubject: Property Inventory - Unit 4 & G20 - To Investigate\r\nImportance: High\r\n\r\nHere is a property inventory",
+    "body_length_chars": 1814
+  },
+  "attachments": [
+    {
+      "name": "WinDeed Spider Report - Avnit, Karen Patricia - 5903170130082 - Hilight.pdf",
+      "content_type": "application/pdf",
+      "size_bytes": 489852,
+      "is_inline": false,
+      "has_content": true,
+      "md5": "b7e3ba13dbd600e2a2bd269647a2065e",
+      "sha256": "fedd585656fb5d02b0505f05ff1556c6a7dbe66533f7e03af8f196020e8f521c"
+    }
+  ]
+}

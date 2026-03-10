@@ -1,0 +1,60 @@
+{
+  "_schema": "exoml-forensic/v1",
+  "_generated": "2026-03-10T08:04:23.854601+00:00",
+  "file_integrity": {
+    "eml_file": "rzo.io/0003_2021-02-01_1353_d@rzo.io_RE__COMPLAINTS_REGARDING_THE_LASER_BEAUTIQUE.eml",
+    "file_size_bytes": 16464,
+    "md5": "27fc2be23a37ca6bfc52c4418c826694",
+    "sha1": "a66cb9f2c95006d0b2e02ff581e87b2596a66cae",
+    "sha256": "cb7cd9a2c8ae207e409d5182fa8d45d4421bb03f0f0a57033f64d3c31ec92028"
+  },
+  "message_identity": {
+    "db_id": 860,
+    "exchange_message_id": "AAMkAGE2YjljZjA1LTRlOWUtNDhjYi1iZjNkLWI4ZWRlNDQwYTU0MABGAAAAAADPgXCfMl5uRqA6Xxa9Yh33BwAh607i92PMQLMLAH3HB5h5AAAAAAEJAAAh607i92PMQLMLAH3HB5h5AAJ6076-AAA=",
+    "conversation_id": "AAQkAGE2YjljZjA1LTRlOWUtNDhjYi1iZjNkLWI4ZWRlNDQwYTU0MAAQACJX6dFL2knvrE2oUFq-gHU="
+  },
+  "envelope": {
+    "subject": "RE: COMPLAINTS REGARDING THE LASER BEAUTIQUE",
+    "from_name": "Daniel Faucitt",
+    "from_address": "d@rzo.io",
+    "to_recipients": [
+      {
+        "emailAddress": {
+          "name": "karen@kachan.co.za",
+          "address": "karen@kachan.co.za"
+        }
+      }
+    ],
+    "cc_recipients": [
+      {
+        "emailAddress": {
+          "name": "Jacqui Faucitt",
+          "address": "jax@regima.zone"
+        }
+      },
+      {
+        "emailAddress": {
+          "name": "kayla@regima.zone",
+          "address": "kayla@regima.zone"
+        }
+      },
+      {
+        "emailAddress": {
+          "name": "Rynette Farrar",
+          "address": "rynette@regima.zone"
+        }
+      }
+    ],
+    "received_datetime": "2021-02-01 13:53:00"
+  },
+  "mailbox_context": {
+    "user_email": "d@rzo.io",
+    "user_name": "Daniel Faucitt"
+  },
+  "body": {
+    "content_type": "html",
+    "preview": "RegimA Skin Treatments\r\n\r\nCK92/05371/23\r\n\r\nVAT No. 4590131043\r\n\r\nTel: 011 615 2869\r\n\r\ne-mail:info@regima.com\r\n\r\nHEAD OFFICE: 50 Van Buuren Road, Bedfordview, 2008, RSA\r\n\r\n___________________________________________________________________\r\n\r\n31 January 20",
+    "body_length_chars": 11493
+  },
+  "attachments": []
+}

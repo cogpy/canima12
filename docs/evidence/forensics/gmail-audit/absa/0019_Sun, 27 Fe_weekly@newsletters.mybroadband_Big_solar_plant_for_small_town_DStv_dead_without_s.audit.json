@@ -1,0 +1,255 @@
+{
+  "_schema": "gws-forensic-audit/v1",
+  "_generated": "2026-03-10T08:01:17.878912+00:00",
+  "_source": "gmail-api",
+  "message_identity": {
+    "gmail_id": "17f3bc85d0d62b2c",
+    "thread_id": "17f3bc85d0d62b2c",
+    "internet_message_id": "<2022022717172720.28997.1068@newsletters.mybroadband.co.za>",
+    "label_ids": [
+      "CATEGORY_PROMOTIONS",
+      "UNREAD",
+      "INBOX"
+    ],
+    "history_id": "27364741"
+  },
+  "envelope": {
+    "subject": "Big solar plant for small town | DStv dead without sport | Absa data leak",
+    "from": "weekly@newsletters.mybroadband.co.za",
+    "to": [
+      "dan@regima.com"
+    ],
+    "cc": [],
+    "bcc": [],
+    "reply_to": "weekly@newsletters.mybroadband.co.za",
+    "date": "Sun, 27 Feb 2022 17:24:01 +0200",
+    "sent_date": "Sun, 27 Feb 2022 17:24:01 +0200"
+  },
+  "origin": {
+    "client_ip": null,
+    "mailer": null,
+    "user_agent": null,
+    "return_path": "b_31168575_624c5fd829010f8d_675761_uFp9qE8n1X4Hm5E9_9@eversrv.newsletters.mybroadband.co.za",
+    "x_google_smtp_source": "ABdhPJwBX/kUPn67GqGBuguyzkPwdQp2lA04h45oaDM5m9VZ6zM3CtVe6XG9b6UjKs8hjr10h0ad",
+    "x_gm_message_state": null
+  },
+  "authentication": {
+    "spf": "pass",
+    "dkim": "pass",
+    "dmarc": "pass",
+    "compauth": null,
+    "received_spf": "pass (google.com: domain of b_31168575_624c5fd829010f8d_675761_ufp9qe8n1x4hm5e9_9@eversrv.newsletters.mybroadband.co.za designates 68.169.14.241 as permitted sender) client-ip=68.169.14.241;",
+    "arc_results": [
+      "i=1; mx.google.com;       dkim=pass header.i=@newsletters.mybroadband.co.za header.s=everlytickey1 header.b=AZwcnWkz;       dkim=pass header.i=@eversrv.com header.s=everlytickey1 header.b=G76IoOs3;       spf=pass (google.com: domain of b_31168575_624c5fd829010f8d_675761_ufp9qe8n1x4hm5e9_9@eversrv.newsletters.mybroadband.co.za designates 68.169.14.241 as permitted sender) smtp.mailfrom=b_31168575_624c5fd829010f8d_675761_uFp9qE8n1X4Hm5E9_9@eversrv.newsletters.mybroadband.co.za;       dmarc=pass (p=NONE sp=NONE dis=NONE) header.from=mybroadband.co.za"
+    ],
+    "dkim_signatures": [
+      "v=1; a=rsa-sha256; c=relaxed/relaxed; s=everlytickey1; d=newsletters.mybroadband.co.za; h=Reply-To:List-Unsubscribe:From:To:Subject:MIME-Version:Date:Message-Id: Content-Type; i=weekly@newsletters.mybroadband.co.za; bh=0poqlg5ZtZ0u+UEccjhOUjn2u8XWV46H8WGQG/SQ198=; b=AZwcnWkzOVDzp0MYw+uP68RLiAauGyeV71cTN+8Acli7KR+LSoAQEHBLa8R1AngTtac6RPfasKSN   gDq6+m2vO51sqd0OzZzKZgH3CC53+CgbnJIPZyyFRQYwwO1pT/vCskYC0NbDWdgjsyil3ZNyzJuT   gUxHKWw5u3vf+N/ey9yAz79lnQ1QoDg5ibIeMFbGyoNfPGoDw93jV2kZmg+Zaoz/RMxsDTAkY3va   KTl0GlOvaV2bBFlxyWFqxfq7q3gepZECncY8NgfIuFRcZ5U+cwZ/3vLJDJHKk8A7foQt03iVkYJT   nNXDfy9OMlEvRZteyJ9sx2MUppMO2G4AxvHlyQ==",
+      "v=1; a=rsa-sha256; c=relaxed/relaxed; s=everlytickey1; d=eversrv.com; h=Reply-To:List-Unsubscribe:From:To:Subject:MIME-Version:Date:Message-Id: Content-Type; bh=0poqlg5ZtZ0u+UEccjhOUjn2u8XWV46H8WGQG/SQ198=; b=G76IoOs3BzjH43SvyXkFmZcNkOfS/GiAHocXX9LpTeDhUOEtKOWR85xepAj7XCnx+wGDMsXMvgLP   YLTLkswiIVlVF6mbOTGLQh4c7HzBB+fn6tMDljlyaa2aNJNBYs3et53yqFt0Qe1McycLcUWR4fVD   Ewss0Gvf+F7UA2n7osHO0EluEtBLC91I9VqAcyQbd5uGPB5bDSpLqBkh4LJ1DDP+XRdHU2+fnP9/   VA1+2rubXh26VKZ94KnpTavsrjxwOZMrj5636wa+LJsI7qDfLREpNAWcL5Ov2uFoKxSdRYBY223l   JCza74UWOCFTEHzM+XRh8V7Lf1mX7oVmgioSBA=="
+    ],
+    "google_dkim_signatures": [],
+    "raw_auth_results": [
+      "mx.google.com;       dkim=pass header.i=@newsletters.mybroadband.co.za header.s=everlytickey1 header.b=AZwcnWkz;       dkim=pass header.i=@eversrv.com header.s=everlytickey1 header.b=G76IoOs3;       spf=pass (google.com: domain of b_31168575_624c5fd829010f8d_675761_ufp9qe8n1x4hm5e9_9@eversrv.newsletters.mybroadband.co.za designates 68.169.14.241 as permitted sender) smtp.mailfrom=b_31168575_624c5fd829010f8d_675761_uFp9qE8n1X4Hm5E9_9@eversrv.newsletters.mybroadband.co.za;       dmarc=pass (p=NONE sp=NONE dis=NONE) header.from=mybroadband.co.za"
+    ]
+  },
+  "transport_hops": [
+    {
+      "hop": 1,
+      "from_server": null,
+      "from_ip": null,
+      "by_server": "mailb241.dedicated.mybroadband.eversrv.com",
+      "by_ip": null,
+      "with_protocol": null,
+      "via": null,
+      "id": "h3ebq82gbic2",
+      "for_recipient": "dan@regima.com",
+      "timestamp": "Sun, 27 Feb 2022 17:24:20 +0200 (envelope-from <b_31168575_624c5fd829010f8d_675761_uFp9qE8n1X4Hm5E9_9@eversrv.newsletters.mybroadband.co.za>)",
+      "tls": null,
+      "raw": "by mailb241.dedicated.mybroadband.eversrv.com id h3ebq82gbic2 for <dan@regima.com>; Sun, 27 Feb 2022 17:24:20 +0200 (envelope-from <b_31168575_624c5fd829010f8d_675761_uFp9qE8n1X4Hm5E9_9@eversrv.newsletters.mybroadband.co.za>)"
+    },
+    {
+      "hop": 2,
+      "from_server": "mailb241.dedicated.mybroadband.eversrv.com",
+      "from_ip": "68.169.14.241",
+      "by_server": "mx.google.com",
+      "by_ip": null,
+      "with_protocol": "ESMTPS",
+      "via": null,
+      "id": "t17-20020ac85891000000b002de2d6dfcfbsi3204147qta.267.2022.02.27.07.24.20",
+      "for_recipient": null,
+      "timestamp": "Sun, 27 Feb 2022 07:24:20 -0800 (PST)",
+      "tls": "TLS1_2",
+      "raw": "from mailb241.dedicated.mybroadband.eversrv.com (mailb241.dedicated.mybroadband.eversrv.com. [68.169.14.241])        by mx.google.com with ESMTPS id t17-20020ac85891000000b002de2d6dfcfbsi3204147qta.267.2022.02.27.07.24.20        for <dan@regima.com>        (version=TLS1_2 cipher=ECDHE-ECDSA-AES128-GCM-SHA256 bits=128/128);        Sun, 27 Feb 2022 07:24:20 -0800 (PST)"
+    },
+    {
+      "hop": 3,
+      "from_server": null,
+      "from_ip": null,
+      "by_server": "2002",
+      "by_ip": null,
+      "with_protocol": "SMTP",
+      "via": null,
+      "id": "x14csp1822526iow",
+      "for_recipient": null,
+      "timestamp": "Sun, 27 Feb 2022 07:24:21 -0800 (PST)",
+      "tls": null,
+      "raw": "by 2002:a05:6602:160e:0:0:0:0 with SMTP id x14csp1822526iow;        Sun, 27 Feb 2022 07:24:21 -0800 (PST)"
+    }
+  ],
+  "google_transport": {
+    "x_google_dkim_signature": null,
+    "x_gm_message_state": null,
+    "x_google_smtp_source": "ABdhPJwBX/kUPn67GqGBuguyzkPwdQp2lA04h45oaDM5m9VZ6zM3CtVe6XG9b6UjKs8hjr10h0ad",
+    "delivered_to": "dan@regima.com",
+    "x_forwarded_to": null,
+    "x_forwarded_for": null,
+    "precedence": null,
+    "list_unsubscribe": "<mailto:unsubscribe_drusp7RfAk1jbIGq_uFp9qE8n1X4Hm5E9_624c5fd829010f8d_9@eversrv.com>,<https://mybroadband.evlink9.net/public/contacts/unsubscribe/drusp7RfAk1jbIGq/uFp9qE8n1X4Hm5E9/624c5fd829010f8d>",
+    "mime_version": "1.0",
+    "content_type": "multipart/alternative; boundary=\"2022022717172720:28997:1068\"",
+    "google_properties": {}
+  },
+  "mailbox_context": {
+    "user_email": "dan@regima.com",
+    "label_ids": [
+      "CATEGORY_PROMOTIONS",
+      "UNREAD",
+      "INBOX"
+    ],
+    "snippet": "Car insurance companies rejecting claims | Earning eBucks Level 5 | DStv boycott A solar farm consisting of approximately 1 million panels and costing R15 billion will be constructed near Kenhardt in",
+    "size_estimate": 32784,
+    "internal_date": "1645975441000"
+  },
+  "raw_headers": [
+    {
+      "name": "Delivered-To",
+      "value": "dan@regima.com"
+    },
+    {
+      "name": "Received",
+      "value": "by 2002:a05:6602:160e:0:0:0:0 with SMTP id x14csp1822526iow;        Sun, 27 Feb 2022 07:24:21 -0800 (PST)"
+    },
+    {
+      "name": "X-Google-Smtp-Source",
+      "value": "ABdhPJwBX/kUPn67GqGBuguyzkPwdQp2lA04h45oaDM5m9VZ6zM3CtVe6XG9b6UjKs8hjr10h0ad"
+    },
+    {
+      "name": "X-Received",
+      "value": "by 2002:a05:622a:588:b0:2de:9242:8788 with SMTP id c8-20020a05622a058800b002de92428788mr13702203qtb.76.1645975460904;        Sun, 27 Feb 2022 07:24:20 -0800 (PST)"
+    },
+    {
+      "name": "ARC-Seal",
+      "value": "i=1; a=rsa-sha256; t=1645975460; cv=none;        d=google.com; s=arc-20160816;        b=NDdqvptNd5M+efzlD9Hnyup8J3G8ynxAuq2YlNFrz/2dExp5Wg8UsyDTwH/jofFiCj         P4rB5WcQJM821XrdRAyY/6jQWG5ySyd5bdssoPjW7+aasZqga0yxOEOKTrIOW7XBPaJH         i446357brrbvifmpIkyr8AQ6iS3q2gbhIOAvFGc1Kiyckuq+03VOql/pROAQgmy1sKtQ         3s3LCF0SstBsJk0t/Ais4S6FBwhGLyYS1K1kyIpvz3zoMFEId5md46go6dzer+qyK44D         Wq6AtMBytAQmkyD1V5rKk7Dnz++LGBf198nkRj2c4a+ZGn0IsZs1S+Z1eUpUUYjehrSv         pQqg=="
+    },
+    {
+      "name": "ARC-Message-Signature",
+      "value": "i=1; a=rsa-sha256; c=relaxed/relaxed; d=google.com; s=arc-20160816;        h=message-id:date:mime-version:subject:to:from:list-unsubscribe         :reply-to:dkim-signature:dkim-signature;        bh=0poqlg5ZtZ0u+UEccjhOUjn2u8XWV46H8WGQG/SQ198=;        b=aFgXUAT16f7Mn9ZybhsTPRRU+cPZO67FtlmqgAS2TS0I4gcVkuez36rbCCHL71AP5K         HdTYw+J+hL4T87AncM7dPGlDmGPBVLwJjnmsqaGYikWkYExHPWyfc7KTM7JXkeMmftiv         cfPewUWvwhVKC0wuFHknl/q+fiz844wHkrLlt5g14633ui1zgH7MwidQwiEdS4+e7bMy         IohpUkRZ7k00QDcCNb9/y+pGKHp/pQZVdJk5L43SQL5onsFkoIDAIxinEDKnRPxeqe2F         vBr45PTwSdmBWq14L82dvvpx/Jhqb6LZ1taXlW9jFsKb6QfBJuaqkKDBhB4rxtUf+NUK         5QNg=="
+    },
+    {
+      "name": "ARC-Authentication-Results",
+      "value": "i=1; mx.google.com;       dkim=pass header.i=@newsletters.mybroadband.co.za header.s=everlytickey1 header.b=AZwcnWkz;       dkim=pass header.i=@eversrv.com header.s=everlytickey1 header.b=G76IoOs3;       spf=pass (google.com: domain of b_31168575_624c5fd829010f8d_675761_ufp9qe8n1x4hm5e9_9@eversrv.newsletters.mybroadband.co.za designates 68.169.14.241 as permitted sender) smtp.mailfrom=b_31168575_624c5fd829010f8d_675761_uFp9qE8n1X4Hm5E9_9@eversrv.newsletters.mybroadband.co.za;       dmarc=pass (p=NONE sp=NONE dis=NONE) header.from=mybroadband.co.za"
+    },
+    {
+      "name": "Return-Path",
+      "value": "<b_31168575_624c5fd829010f8d_675761_uFp9qE8n1X4Hm5E9_9@eversrv.newsletters.mybroadband.co.za>"
+    },
+    {
+      "name": "Received",
+      "value": "from mailb241.dedicated.mybroadband.eversrv.com (mailb241.dedicated.mybroadband.eversrv.com. [68.169.14.241])        by mx.google.com with ESMTPS id t17-20020ac85891000000b002de2d6dfcfbsi3204147qta.267.2022.02.27.07.24.20        for <dan@regima.com>        (version=TLS1_2 cipher=ECDHE-ECDSA-AES128-GCM-SHA256 bits=128/128);        Sun, 27 Feb 2022 07:24:20 -0800 (PST)"
+    },
+    {
+      "name": "Received-SPF",
+      "value": "pass (google.com: domain of b_31168575_624c5fd829010f8d_675761_ufp9qe8n1x4hm5e9_9@eversrv.newsletters.mybroadband.co.za designates 68.169.14.241 as permitted sender) client-ip=68.169.14.241;"
+    },
+    {
+      "name": "Authentication-Results",
+      "value": "mx.google.com;       dkim=pass header.i=@newsletters.mybroadband.co.za header.s=everlytickey1 header.b=AZwcnWkz;       dkim=pass header.i=@eversrv.com header.s=everlytickey1 header.b=G76IoOs3;       spf=pass (google.com: domain of b_31168575_624c5fd829010f8d_675761_ufp9qe8n1x4hm5e9_9@eversrv.newsletters.mybroadband.co.za designates 68.169.14.241 as permitted sender) smtp.mailfrom=b_31168575_624c5fd829010f8d_675761_uFp9qE8n1X4Hm5E9_9@eversrv.newsletters.mybroadband.co.za;       dmarc=pass (p=NONE sp=NONE dis=NONE) header.from=mybroadband.co.za"
+    },
+    {
+      "name": "DKIM-Signature",
+      "value": "v=1; a=rsa-sha256; c=relaxed/relaxed; s=everlytickey1; d=newsletters.mybroadband.co.za; h=Reply-To:List-Unsubscribe:From:To:Subject:MIME-Version:Date:Message-Id: Content-Type; i=weekly@newsletters.mybroadband.co.za; bh=0poqlg5ZtZ0u+UEccjhOUjn2u8XWV46H8WGQG/SQ198=; b=AZwcnWkzOVDzp0MYw+uP68RLiAauGyeV71cTN+8Acli7KR+LSoAQEHBLa8R1AngTtac6RPfasKSN   gDq6+m2vO51sqd0OzZzKZgH3CC53+CgbnJIPZyyFRQYwwO1pT/vCskYC0NbDWdgjsyil3ZNyzJuT   gUxHKWw5u3vf+N/ey9yAz79lnQ1QoDg5ibIeMFbGyoNfPGoDw93jV2kZmg+Zaoz/RMxsDTAkY3va   KTl0GlOvaV2bBFlxyWFqxfq7q3gepZECncY8NgfIuFRcZ5U+cwZ/3vLJDJHKk8A7foQt03iVkYJT   nNXDfy9OMlEvRZteyJ9sx2MUppMO2G4AxvHlyQ=="
+    },
+    {
+      "name": "DKIM-Signature",
+      "value": "v=1; a=rsa-sha256; c=relaxed/relaxed; s=everlytickey1; d=eversrv.com; h=Reply-To:List-Unsubscribe:From:To:Subject:MIME-Version:Date:Message-Id: Content-Type; bh=0poqlg5ZtZ0u+UEccjhOUjn2u8XWV46H8WGQG/SQ198=; b=G76IoOs3BzjH43SvyXkFmZcNkOfS/GiAHocXX9LpTeDhUOEtKOWR85xepAj7XCnx+wGDMsXMvgLP   YLTLkswiIVlVF6mbOTGLQh4c7HzBB+fn6tMDljlyaa2aNJNBYs3et53yqFt0Qe1McycLcUWR4fVD   Ewss0Gvf+F7UA2n7osHO0EluEtBLC91I9VqAcyQbd5uGPB5bDSpLqBkh4LJ1DDP+XRdHU2+fnP9/   VA1+2rubXh26VKZ94KnpTavsrjxwOZMrj5636wa+LJsI7qDfLREpNAWcL5Ov2uFoKxSdRYBY223l   JCza74UWOCFTEHzM+XRh8V7Lf1mX7oVmgioSBA=="
+    },
+    {
+      "name": "Received",
+      "value": "by mailb241.dedicated.mybroadband.eversrv.com id h3ebq82gbic2 for <dan@regima.com>; Sun, 27 Feb 2022 17:24:20 +0200 (envelope-from <b_31168575_624c5fd829010f8d_675761_uFp9qE8n1X4Hm5E9_9@eversrv.newsletters.mybroadband.co.za>)"
+    },
+    {
+      "name": "Reply-To",
+      "value": "weekly@newsletters.mybroadband.co.za"
+    },
+    {
+      "name": "X-Priority",
+      "value": "3"
+    },
+    {
+      "name": "X-Report-Abuse",
+      "value": "<https://mybroadband.evlink9.net/public/contacts/complaints/drusp7RfAk1jbIGq/uFp9qE8n1X4Hm5E9/624c5fd829010f8d>"
+    },
+    {
+      "name": "List-Unsubscribe",
+      "value": "<mailto:unsubscribe_drusp7RfAk1jbIGq_uFp9qE8n1X4Hm5E9_624c5fd829010f8d_9@eversrv.com>,<https://mybroadband.evlink9.net/public/contacts/unsubscribe/drusp7RfAk1jbIGq/uFp9qE8n1X4Hm5E9/624c5fd829010f8d>"
+    },
+    {
+      "name": "X-Data",
+      "value": "uFp9qE8n1X4Hm5E9.624c5fd829010f8d"
+    },
+    {
+      "name": "X-Data-EUID",
+      "value": "07f294b773bb771f21b4626ba7771eb6"
+    },
+    {
+      "name": "X-Data-Rating",
+      "value": "60"
+    },
+    {
+      "name": "X-Contact-Score",
+      "value": "5"
+    },
+    {
+      "name": "From",
+      "value": "MyBroadband Weekly <weekly@newsletters.mybroadband.co.za>"
+    },
+    {
+      "name": "To",
+      "value": "dan@regima.com"
+    },
+    {
+      "name": "Subject",
+      "value": "Big solar plant for small town | DStv dead without sport | Absa data leak"
+    },
+    {
+      "name": "MIME-Version",
+      "value": "1.0"
+    },
+    {
+      "name": "Date",
+      "value": "Sun, 27 Feb 2022 17:24:01 +0200"
+    },
+    {
+      "name": "Message-Id",
+      "value": "<2022022717172720.28997.1068@newsletters.mybroadband.co.za>"
+    },
+    {
+      "name": "Content-Type",
+      "value": "multipart/alternative; boundary=\"2022022717172720:28997:1068\""
+    }
+  ],
+  "transport_summary": {
+    "total_hops": 3,
+    "origin_ip": null,
+    "first_relay": null,
+    "final_relay": "2002",
+    "auth_verdict": {
+      "spf": "pass",
+      "dkim": "pass",
+      "dmarc": "pass"
+    }
+  },
+  "_file_integrity": {
+    "sha256": "edb8fe26a99817ca0f5d93922f14cf4f0d9c3f44d39025b3db835ba891488f1a",
+    "size_bytes": 14404
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "_schema": "exoml-forensic/v1",
+  "_generated": "2026-03-10T08:04:25.692435+00:00",
+  "file_integrity": {
+    "eml_file": "rzo.io/0020_2022-03-08_0552_d@rzo.io_RE__I_don't_appreciate_this.eml",
+    "file_size_bytes": 38187,
+    "md5": "e6125420f0dd83582bf4d317046de471",
+    "sha1": "55486a92cc51efd49b376d397604ada120d02ee9",
+    "sha256": "584486f323d87f315a0e98c99813c8b5c6258a2295f30d1381786c5d674c17ef"
+  },
+  "message_identity": {
+    "db_id": 519,
+    "exchange_message_id": "AAMkAGE2YjljZjA1LTRlOWUtNDhjYi1iZjNkLWI4ZWRlNDQwYTU0MABGAAAAAADPgXCfMl5uRqA6Xxa9Yh33BwAh607i92PMQLMLAH3HB5h5AAAAAAEJAAAh607i92PMQLMLAH3HB5h5AAXH5SNXAAA=",
+    "conversation_id": "AAQkAGE2YjljZjA1LTRlOWUtNDhjYi1iZjNkLWI4ZWRlNDQwYTU0MAAQAEnMitHzt0KivdJNZMdBPpY="
+  },
+  "envelope": {
+    "subject": "RE: I don't appreciate this",
+    "from_name": "Daniel Faucitt",
+    "from_address": "d@rzo.io",
+    "to_recipients": [
+      {
+        "emailAddress": {
+          "name": "Rynette Farrar",
+          "address": "rynette@regima.zone"
+        }
+      },
+      {
+        "emailAddress": {
+          "name": "Kay Pretorius",
+          "address": "kayp@rzo.io"
+        }
+      }
+    ],
+    "cc_recipients": [
+      {
+        "emailAddress": {
+          "name": "JAX@REGIMA.COM",
+          "address": "JAX@REGIMA.COM"
+        }
+      },
+      {
+        "emailAddress": {
+          "name": "'pete@regima.com'",
+          "address": "PETE@REGIMA.COM"
+        }
+      },
+      {
+        "emailAddress": {
+          "name": "JAX@REGIMA.COM",
+          "address": "JAX@REGIMA.COM"
+        }
+      },
+      {
+        "emailAddress": {
+          "name": "PETE@REGIMA.COM",
+          "address": "PETE@REGIMA.COM"
+        }
+      },
+      {
+        "emailAddress": {
+          "name": "Jacqui Faucitt",
+          "address": "jax@regima.zone"
+        }
+      }
+    ],
+    "received_datetime": "2022-03-08 05:52:00"
+  },
+  "mailbox_context": {
+    "user_email": "d@rzo.io",
+    "user_name": "Daniel Faucitt"
+  },
+  "body": {
+    "content_type": "html",
+    "preview": "Hi Rynette\r\n\r\nApologies for the situation with the ReZonance invoices – It is entirely my fault for putting too many other things at a higher priority over the past year.\r\nI was so focused on the distributor situation that many of the day-to-day commitmen",
+    "body_length_chars": 27504
+  },
+  "attachments": []
+}

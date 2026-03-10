@@ -1,0 +1,503 @@
+{
+  "_schema": "gws-forensic-audit/v1",
+  "_generated": "2026-03-10T08:01:09.005849+00:00",
+  "_source": "gmail-api",
+  "message_identity": {
+    "gmail_id": "18ff7e9498063b12",
+    "thread_id": "18ff7e9498063b12",
+    "internet_message_id": "<C6E199B8-5DE3-4DD2-8E65-BA6F9D5D3D07@elliottco.co.uk>",
+    "label_ids": [
+      "UNREAD",
+      "CATEGORY_FORUMS",
+      "INBOX"
+    ],
+    "history_id": "24839682"
+  },
+  "envelope": {
+    "subject": "Become a stockist",
+    "from": "hello@elliottco.co.uk",
+    "to": [
+      "info@regima.com"
+    ],
+    "cc": [],
+    "bcc": [],
+    "reply_to": null,
+    "date": "Sat, 8 Jun 2024 12:53:28 +0000",
+    "sent_date": "Sat, 8 Jun 2024 12:53:28 +0000"
+  },
+  "origin": {
+    "client_ip": null,
+    "mailer": null,
+    "user_agent": null,
+    "return_path": "info+bncBAABBS5ISGZQMGQEZ3BCKEI@regima.com",
+    "x_google_smtp_source": "AGHT+IEei3qChPJ9mJFqMkPFmx92PxZR98XuK0fY+yuQ4K6LmsZfKAOgQeCmX/j+IdOXvoONqdWw7g==",
+    "x_gm_message_state": "AOJu0Yyd0P41TjBGp0chAaKGL+OCesNcF42L+7mHOX5YGrTYKDgXUs2z 73T2wYTDzmvF+C3NrWtiENJjzEIWqW9yo+KxPlqmiHONh2gzZtZfIr5qBxfbdv7Rvg=="
+  },
+  "authentication": {
+    "spf": "pass",
+    "dkim": "pass",
+    "dmarc": null,
+    "compauth": null,
+    "received_spf": "pass (google.com: domain of hello@elliottco.co.uk designates 2a01:111:f403:261a::700 as permitted sender) client-ip=2a01:111:f403:261a::700;",
+    "arc_results": [
+      "i=4; mx.google.com;       dkim=pass header.i=@regima-com.20230601.gappssmtp.com header.s=20230601 header.b=MMKjOJnS;       arc=pass (i=3 spf=pass spfdomain=elliottco.co.uk);       spf=pass (google.com: domain of info+bncbaabbs5isgzqmgqez3bckei@regima.com designates 209.85.220.69 as permitted sender) smtp.mailfrom=info+bncBAABBS5ISGZQMGQEZ3BCKEI@regima.com",
+      "i=3; mx.google.com;       arc=pass (i=1 spf=pass spfdomain=elliottco.co.uk dkim=pass dkdomain=elliottco.co.uk dmarc=pass fromdomain=elliottco.co.uk);       spf=pass (google.com: domain of hello@elliottco.co.uk designates 2a01:111:f403:261a::700 as permitted sender) smtp.mailfrom=hello@elliottco.co.uk",
+      "i=2; mx.google.com;       arc=pass (i=1 spf=pass spfdomain=elliottco.co.uk dkim=pass dkdomain=elliottco.co.uk dmarc=pass fromdomain=elliottco.co.uk);       spf=pass (google.com: domain of hello@elliottco.co.uk designates 2a01:111:f403:261a::700 as permitted sender) smtp.mailfrom=hello@elliottco.co.uk",
+      "i=1; mx.microsoft.com 1; spf=pass smtp.mailfrom=elliottco.co.uk; dmarc=pass action=none header.from=elliottco.co.uk; dkim=pass header.d=elliottco.co.uk; arc=none"
+    ],
+    "dkim_signatures": [
+      "v=1; a=rsa-sha256; c=relaxed/relaxed;        d=regima-com.20230601.gappssmtp.com; s=20230601; t=1717851212; x=1718456012; darn=regima.com;        h=list-unsubscribe:list-archive:list-help:list-post:list-id         :mailing-list:precedence:x-original-authentication-results         :x-original-sender:mime-version:content-transfer-encoding:content-id         :content-language:accept-language:message-id:date:thread-index         :thread-topic:subject:to:from:from:to:cc:subject:date:message-id         :reply-to;        bh=qnnyRplpbFI3pro5p/R1VlgZ8xvE+H+SfqSEPAq7li4=;        b=MMKjOJnSAlCpBK2oRkh3FHs2uQGtsymr90L1z6GZHyG/hPwwim+MCuXQeC3k6qqtd3         MX+mZoqqgauLdwjzciSzTrs8o2w8X92EwuaNWHcn9QMy4gbkKbtZ40gnltPFKrkGnVkS         jywZAkaeBbvk6XlXZAjKpJrkujBN7TtaRM76yiZ56HlJ5yfZN9pnMsHWp7w05Sti+QXV         DzAsYKRtn7/Y+xVHhhO9TykOF8Bzpw8bjDcX38hapSlupJ/mVkZ48zMcFlInABSHM4X5         zc9x9mtkKFStXS/kpsvdl99MTCjvt1DmrGDBoctDjlo38MUGGci3f34+Aa5uKGSf5ShS         cNXA=="
+    ],
+    "google_dkim_signatures": [
+      "v=1; a=rsa-sha256; c=relaxed/relaxed;        d=1e100.net; s=20230601; t=1717851212; x=1718456012;        h=list-unsubscribe:list-archive:list-help:list-post         :x-spam-checked-in-group:list-id:mailing-list:precedence         :x-original-authentication-results:x-original-sender:mime-version         :content-transfer-encoding:content-id:content-language         :accept-language:message-id:date:thread-index:thread-topic:subject         :to:from:x-beenthere:x-gm-message-state:from:to:cc:subject:date         :message-id:reply-to;        bh=qnnyRplpbFI3pro5p/R1VlgZ8xvE+H+SfqSEPAq7li4=;        b=ZPqIe9rKy1mXsDPB0f+RBMU9ObSNVerkAgqsjtPahYTiNR6dn+XvLgX/bClNtoS+Cg         OwSicN4bBTb13cwGP5P7Zj4QxH+Q7qnuFV91SBeIGAsiTSN8ZOKRilHW9gV0D2ZHBX85         02SxZtejOXEj2Br81bNxYrPITMKRklwb0HMRzh2lnWn2FQKb42HOR+aTNwVGOVPDQB9e         zGLx4sJzrZxJWPhWArLWbRVGLL9sW+5W0X7G+S1DqG4oeOr2YUMmSC0CVEmv4moM/nGG         D16rKV8ycBiEBvuPwQlMXbw6TVljAtMrRWDv+iLYVt7kPKc1mbwVZkf8+uSH5oO2kmwu         SgCg=="
+    ],
+    "raw_auth_results": [
+      "mx.google.com;       dkim=pass header.i=@regima-com.20230601.gappssmtp.com header.s=20230601 header.b=MMKjOJnS;       arc=pass (i=3 spf=pass spfdomain=elliottco.co.uk);       spf=pass (google.com: domain of info+bncbaabbs5isgzqmgqez3bckei@regima.com designates 209.85.220.69 as permitted sender) smtp.mailfrom=info+bncBAABBS5ISGZQMGQEZ3BCKEI@regima.com"
+    ]
+  },
+  "transport_hops": [
+    {
+      "hop": 1,
+      "from_server": "CWLP123MB6362.GBRP123.PROD.OUTLOOK.COM",
+      "from_ip": "fe80::9c60:a20d:884d:d8c6",
+      "by_server": "CWLP123MB6362.GBRP123.PROD.OUTLOOK.COM",
+      "by_ip": null,
+      "with_protocol": "mapi",
+      "via": null,
+      "id": "15.20.7633.033",
+      "for_recipient": null,
+      "timestamp": "Sat, 8 Jun 2024 12:53:28 +0000",
+      "tls": null,
+      "raw": "from CWLP123MB6362.GBRP123.PROD.OUTLOOK.COM ([fe80::9c60:a20d:884d:d8c6]) by CWLP123MB6362.GBRP123.PROD.OUTLOOK.COM ([fe80::9c60:a20d:884d:d8c6%6]) with mapi id 15.20.7633.033; Sat, 8 Jun 2024 12:53:28 +0000"
+    },
+    {
+      "hop": 2,
+      "from_server": "CWLP123MB6362.GBRP123.PROD.OUTLOOK.COM (2603:10a6:400:1cc::6)",
+      "from_ip": "2603:10a6:400:1cc::6",
+      "by_server": "CWLP123MB3842.GBRP123.PROD.OUTLOOK.COM",
+      "by_ip": null,
+      "with_protocol": null,
+      "via": null,
+      "id": "15.20.7633.36",
+      "for_recipient": null,
+      "timestamp": "Sat, 8 Jun 2024 12:53:28 +0000",
+      "tls": "TLS1_2,",
+      "raw": "from CWLP123MB6362.GBRP123.PROD.OUTLOOK.COM (2603:10a6:400:1cc::6) by CWLP123MB3842.GBRP123.PROD.OUTLOOK.COM (2603:10a6:400:a8::7) with Microsoft SMTP Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.7633.36; Sat, 8 Jun 2024 12:53:28 +0000"
+    },
+    {
+      "hop": 3,
+      "from_server": "GBR01-LO4-obe.outbound.protection.outlook.com",
+      "from_ip": "024.06.08.05",
+      "by_server": "mx.google.com",
+      "by_ip": null,
+      "with_protocol": "ESMTPS",
+      "via": null,
+      "id": "d9443c01a7336-1f6bd7d2f8dsi8133465ad.275.2024.06.08.05.53.30",
+      "for_recipient": null,
+      "timestamp": "Sat, 08 Jun 2024 05:53:30 -0700 (PDT)",
+      "tls": "TLS1_2",
+      "raw": "from GBR01-LO4-obe.outbound.protection.outlook.com (mail-lo4gbr01on20700.outbound.protection.outlook.com. [2a01:111:f403:261a::700])        by mx.google.com with ESMTPS id d9443c01a7336-1f6bd7d2f8dsi8133465ad.275.2024.06.08.05.53.30        for <info@regima.com>        (version=TLS1_2 cipher=ECDHE-ECDSA-AES128-GCM-SHA256 bits=128/128);        Sat, 08 Jun 2024 05:53:30 -0700 (PDT)"
+    },
+    {
+      "hop": 4,
+      "from_server": null,
+      "from_ip": null,
+      "by_server": "2002",
+      "by_ip": null,
+      "with_protocol": "SMTP",
+      "via": null,
+      "id": "d9443c01a7336-1f6cc47498bls16589135ad.2.-pod-prod-06-us",
+      "for_recipient": null,
+      "timestamp": "Sat, 08 Jun 2024 05:53:30 -0700 (PDT)",
+      "tls": null,
+      "raw": "by 2002:a17:902:ea10:b0:1f3:2c68:5bad with SMTP id d9443c01a7336-1f6cc47498bls16589135ad.2.-pod-prod-06-us; Sat, 08 Jun 2024 05:53:30 -0700 (PDT)"
+    },
+    {
+      "hop": 5,
+      "from_server": "mail-sor-f69.google.com",
+      "from_ip": "209.85.220.69",
+      "by_server": "mx.google.com",
+      "by_ip": null,
+      "with_protocol": "SMTPS",
+      "via": null,
+      "id": "d9443c01a7336-1f6bd76b6e7sor33886285ad.7.2024.06.08.05.53.32",
+      "for_recipient": null,
+      "timestamp": "Sat, 08 Jun 2024 05:53:32 -0700 (PDT)",
+      "tls": null,
+      "raw": "from mail-sor-f69.google.com (mail-sor-f69.google.com. [209.85.220.69])        by mx.google.com with SMTPS id d9443c01a7336-1f6bd76b6e7sor33886285ad.7.2024.06.08.05.53.32        for <dan@regima.com>        (Google Transport Security);        Sat, 08 Jun 2024 05:53:32 -0700 (PDT)"
+    },
+    {
+      "hop": 6,
+      "from_server": null,
+      "from_ip": null,
+      "by_server": "2002",
+      "by_ip": null,
+      "with_protocol": "SMTP",
+      "via": null,
+      "id": "ev8csp362445nlb",
+      "for_recipient": null,
+      "timestamp": "Sat, 8 Jun 2024 05:53:32 -0700 (PDT)",
+      "tls": null,
+      "raw": "by 2002:a05:6840:3ba8:b0:1844:9b6f:6a5 with SMTP id ev8csp362445nlb;        Sat, 8 Jun 2024 05:53:32 -0700 (PDT)"
+    }
+  ],
+  "google_transport": {
+    "x_google_dkim_signature": "v=1; a=rsa-sha256; c=relaxed/relaxed;        d=1e100.net; s=20230601; t=1717851212; x=1718456012;        h=list-unsubscribe:list-archive:list-help:list-post         :x-spam-checked-in-group:list-id:mailing-list:precedence         :x-original-authentication-results:x-original-sender:mime-version         :content-transfer-encoding:content-id:content-language         :accept-language:message-id:date:thread-index:thread-topic:subject         :to:from:x-beenthere:x-gm-message-state:from:to:cc:subject:date         :message-id:reply-to;        bh=qnnyRplpbFI3pro5p/R1VlgZ8xvE+H+SfqSEPAq7li4=;        b=ZPqIe9rKy1mXsDPB0f+RBMU9ObSNVerkAgqsjtPahYTiNR6dn+XvLgX/bClNtoS+Cg         OwSicN4bBTb13cwGP5P7Zj4QxH+Q7qnuFV91SBeIGAsiTSN8ZOKRilHW9gV0D2ZHBX85         02SxZtejOXEj2Br81bNxYrPITMKRklwb0HMRzh2lnWn2FQKb42HOR+aTNwVGOVPDQB9e         zGLx4sJzrZxJWPhWArLWbRVGLL9sW+5W0X7G+S1DqG4oeOr2YUMmSC0CVEmv4moM/nGG         D16rKV8ycBiEBvuPwQlMXbw6TVljAtMrRWDv+iLYVt7kPKc1mbwVZkf8+uSH5oO2kmwu         SgCg==",
+    "x_gm_message_state": "AOJu0Yyd0P41TjBGp0chAaKGL+OCesNcF42L+7mHOX5YGrTYKDgXUs2z 73T2wYTDzmvF+C3NrWtiENJjzEIWqW9yo+KxPlqmiHONh2gzZtZfIr5qBxfbdv7Rvg==",
+    "x_google_smtp_source": "AGHT+IEei3qChPJ9mJFqMkPFmx92PxZR98XuK0fY+yuQ4K6LmsZfKAOgQeCmX/j+IdOXvoONqdWw7g==",
+    "delivered_to": "dan@regima.com",
+    "x_forwarded_to": null,
+    "x_forwarded_for": null,
+    "precedence": "list",
+    "list_unsubscribe": "<mailto:googlegroups-manage+67457107791+unsubscribe@googlegroups.com>, <https://groups.google.com/a/regima.com/group/info/subscribe>",
+    "mime_version": "1.0",
+    "content_type": "text/plain; charset=\"us-ascii\"",
+    "google_properties": {
+      "group-id": "67457107791"
+    }
+  },
+  "mailbox_context": {
+    "user_email": "dan@regima.com",
+    "label_ids": [
+      "UNREAD",
+      "CATEGORY_FORUMS",
+      "INBOX"
+    ],
+    "snippet": "Hi, I have a shop in Liverpool L18 and I am currently looking for a skincare brand to bring to my salon. Can you provide me with details on how to go about this please along with training etc. Thanks",
+    "size_estimate": 19012,
+    "internal_date": "1717851208000"
+  },
+  "raw_headers": [
+    {
+      "name": "Delivered-To",
+      "value": "dan@regima.com"
+    },
+    {
+      "name": "Received",
+      "value": "by 2002:a05:6840:3ba8:b0:1844:9b6f:6a5 with SMTP id ev8csp362445nlb;        Sat, 8 Jun 2024 05:53:32 -0700 (PDT)"
+    },
+    {
+      "name": "X-Forwarded-Encrypted",
+      "value": "i=5; AJvYcCWEYsF9Rzq2M/LWwlAM/kY0BgRqtTmsp1TvlM1OAKfaOoFLtfxUjv051z9IRdIwRmHdEtqVMXUDWYBqeC3p0Q=="
+    },
+    {
+      "name": "X-Received",
+      "value": "by 2002:a17:902:d4c8:b0:1f4:962f:e006 with SMTP id d9443c01a7336-1f6d02c5ed0mr55264935ad.1.1717851212272;        Sat, 08 Jun 2024 05:53:32 -0700 (PDT)"
+    },
+    {
+      "name": "ARC-Seal",
+      "value": "i=4; a=rsa-sha256; t=1717851212; cv=pass;        d=google.com; s=arc-20160816;        b=aS39YP/v32yGavRZ0l+VgS1Pm/hCBDddQ5FDtZ9ShFb8OAtDQOZ1YSYcXEhy7Iq8B8         Wmk+P9rpZzNFEnUQq8C/6UVYk/FCndHOnJafMVgENPlOBdOUT0OR1g6cPFJhHPVBGAxn         XRi0QZCDNqYyzDNgXsmhu8hqteUm/rUS43hKcNDIOVy7halDcwSY5mzyM3FXViAvrNrl         1OYhkH/WFdOD3C57EtPt2sm7+4PS8l73IcETbKfzlFou765oNvKlPbHXhpa3GowE1aUs         yf8T7k056wSpkGfco70n3eOBps/qetauihveI7DtdT/XXzy3+UncHL9DrRgMsSvPh5RH         juJg=="
+    },
+    {
+      "name": "ARC-Message-Signature",
+      "value": "i=4; a=rsa-sha256; c=relaxed/relaxed; d=google.com; s=arc-20160816;        h=list-unsubscribe:list-archive:list-help:list-post:list-id         :mailing-list:precedence:mime-version:content-transfer-encoding         :content-id:content-language:accept-language:message-id:date         :thread-index:thread-topic:subject:to:from:dkim-signature;        bh=qnnyRplpbFI3pro5p/R1VlgZ8xvE+H+SfqSEPAq7li4=;        fh=Qcp3igxn2xsWcNr1lDHzENRRCleEifOTvT8KqTWDbBM=;        b=EUxTiy+QznvC+xghh7BVDMuYE7LreEeNlD5wqOLE+uCSp1RojZcTL/T/RpzZo6meyJ         83D2rMEcHnHWBH93AMHhRkhLZqmLggP9hxu4LJYW7fkDWcM2GiKIaGIKLkKm2PxX3NHO         YOpJQKedBkxFYbLnr8TmYpo8ADsD8v9eb+NSfNGufJP5zR14oWycsyny8YYHosd3R02U         KXqvct0FczP74y/02D6JsyqVtZnFgykdiFRqzCIQnugR5cdN4m32E69xsrIY+QsU44jT         5WuNGYJlyMU5HW6EXvMRvhq2o1l7de2NDaOlcD/qUraeSDv7bemH+r6By9M/4Q7rAS7j         XU/A==;        dara=google.com"
+    },
+    {
+      "name": "ARC-Authentication-Results",
+      "value": "i=4; mx.google.com;       dkim=pass header.i=@regima-com.20230601.gappssmtp.com header.s=20230601 header.b=MMKjOJnS;       arc=pass (i=3 spf=pass spfdomain=elliottco.co.uk);       spf=pass (google.com: domain of info+bncbaabbs5isgzqmgqez3bckei@regima.com designates 209.85.220.69 as permitted sender) smtp.mailfrom=info+bncBAABBS5ISGZQMGQEZ3BCKEI@regima.com"
+    },
+    {
+      "name": "Return-Path",
+      "value": "<info+bncBAABBS5ISGZQMGQEZ3BCKEI@regima.com>"
+    },
+    {
+      "name": "Received",
+      "value": "from mail-sor-f69.google.com (mail-sor-f69.google.com. [209.85.220.69])        by mx.google.com with SMTPS id d9443c01a7336-1f6bd76b6e7sor33886285ad.7.2024.06.08.05.53.32        for <dan@regima.com>        (Google Transport Security);        Sat, 08 Jun 2024 05:53:32 -0700 (PDT)"
+    },
+    {
+      "name": "Received-SPF",
+      "value": "pass (google.com: domain of info+bncbaabbs5isgzqmgqez3bckei@regima.com designates 209.85.220.69 as permitted sender) client-ip=209.85.220.69;"
+    },
+    {
+      "name": "Authentication-Results",
+      "value": "mx.google.com;       dkim=pass header.i=@regima-com.20230601.gappssmtp.com header.s=20230601 header.b=MMKjOJnS;       arc=pass (i=3 spf=pass spfdomain=elliottco.co.uk);       spf=pass (google.com: domain of info+bncbaabbs5isgzqmgqez3bckei@regima.com designates 209.85.220.69 as permitted sender) smtp.mailfrom=info+bncBAABBS5ISGZQMGQEZ3BCKEI@regima.com"
+    },
+    {
+      "name": "ARC-Seal",
+      "value": "i=3; a=rsa-sha256; t=1717851212; cv=pass;        d=google.com; s=arc-20160816;        b=h960Ti0zj+TIIFWHOLh6RozJE++bXsZztT9/HIhxdjtsGpaglHeCG+qJWZqFAjle1+         tyWCscdUjWLiO6E7ufMt8hq0z+22SkLggW+KJKmFST8g48r4+oKvIZIkboQXv9DTD0mC         2u8e/k99KJlK860834/6jb3p0S8G844LE9yWV2ASW/QAMa6YUIErWpg+Bp9so+6GQoSi         g21yCU3o5oGb0lJAd2K8Z1qUWvJuopVRym5lrnHFBQmocG2fnraFHNR6SabNlJ8wEGzh         XQxE7vUnnkKV2ixIF7qtazqmKyU85OW3DVpmGRzEFD+4cBXd9voeVpiwZ05Y7mkrLQoW         Pm4w=="
+    },
+    {
+      "name": "ARC-Message-Signature",
+      "value": "i=3; a=rsa-sha256; c=relaxed/relaxed; d=google.com; s=arc-20160816;        h=list-unsubscribe:list-archive:list-help:list-post:list-id         :mailing-list:precedence:mime-version:content-transfer-encoding         :content-id:content-language:accept-language:message-id:date         :thread-index:thread-topic:subject:to:from:dkim-signature;        bh=qnnyRplpbFI3pro5p/R1VlgZ8xvE+H+SfqSEPAq7li4=;        fh=Qcp3igxn2xsWcNr1lDHzENRRCleEifOTvT8KqTWDbBM=;        b=Aw6HPKRkla3Bz1yPvm6MBgJcrst+1e5xqEqHvyTchlnf/hjr6eFHLnfOxJiaioFQEi         PxeJCOqF7WYC+M46Zp9C+x1S0GomfeRxys1I4TmV9xHimR3r8y6ZWfYeVYJ7DLTQi7HW         IbEWjw3Y6lefkJGrIotFPrRyJQP+GiYxqi8qqo2QNH6TXDPs9X5FlwraJ/ylZ+Fp4mNE         2n5nmj+aHmKc5y0wwg1F9A9sOGedNYM7mOZqLoy4UO3qmLVgLJhJMz3Zzn7Q0E0iZ/IG         qf0vQYjslO9yzjzbX0K8CnzuaY61ufJpcQpYaHg3rbkgX3n0OwWGW9wcX/FWu6Ki/9Ot         keIQ==;        darn=regima.com"
+    },
+    {
+      "name": "ARC-Authentication-Results",
+      "value": "i=3; mx.google.com;       arc=pass (i=1 spf=pass spfdomain=elliottco.co.uk dkim=pass dkdomain=elliottco.co.uk dmarc=pass fromdomain=elliottco.co.uk);       spf=pass (google.com: domain of hello@elliottco.co.uk designates 2a01:111:f403:261a::700 as permitted sender) smtp.mailfrom=hello@elliottco.co.uk"
+    },
+    {
+      "name": "DKIM-Signature",
+      "value": "v=1; a=rsa-sha256; c=relaxed/relaxed;        d=regima-com.20230601.gappssmtp.com; s=20230601; t=1717851212; x=1718456012; darn=regima.com;        h=list-unsubscribe:list-archive:list-help:list-post:list-id         :mailing-list:precedence:x-original-authentication-results         :x-original-sender:mime-version:content-transfer-encoding:content-id         :content-language:accept-language:message-id:date:thread-index         :thread-topic:subject:to:from:from:to:cc:subject:date:message-id         :reply-to;        bh=qnnyRplpbFI3pro5p/R1VlgZ8xvE+H+SfqSEPAq7li4=;        b=MMKjOJnSAlCpBK2oRkh3FHs2uQGtsymr90L1z6GZHyG/hPwwim+MCuXQeC3k6qqtd3         MX+mZoqqgauLdwjzciSzTrs8o2w8X92EwuaNWHcn9QMy4gbkKbtZ40gnltPFKrkGnVkS         jywZAkaeBbvk6XlXZAjKpJrkujBN7TtaRM76yiZ56HlJ5yfZN9pnMsHWp7w05Sti+QXV         DzAsYKRtn7/Y+xVHhhO9TykOF8Bzpw8bjDcX38hapSlupJ/mVkZ48zMcFlInABSHM4X5         zc9x9mtkKFStXS/kpsvdl99MTCjvt1DmrGDBoctDjlo38MUGGci3f34+Aa5uKGSf5ShS         cNXA=="
+    },
+    {
+      "name": "X-Google-DKIM-Signature",
+      "value": "v=1; a=rsa-sha256; c=relaxed/relaxed;        d=1e100.net; s=20230601; t=1717851212; x=1718456012;        h=list-unsubscribe:list-archive:list-help:list-post         :x-spam-checked-in-group:list-id:mailing-list:precedence         :x-original-authentication-results:x-original-sender:mime-version         :content-transfer-encoding:content-id:content-language         :accept-language:message-id:date:thread-index:thread-topic:subject         :to:from:x-beenthere:x-gm-message-state:from:to:cc:subject:date         :message-id:reply-to;        bh=qnnyRplpbFI3pro5p/R1VlgZ8xvE+H+SfqSEPAq7li4=;        b=ZPqIe9rKy1mXsDPB0f+RBMU9ObSNVerkAgqsjtPahYTiNR6dn+XvLgX/bClNtoS+Cg         OwSicN4bBTb13cwGP5P7Zj4QxH+Q7qnuFV91SBeIGAsiTSN8ZOKRilHW9gV0D2ZHBX85         02SxZtejOXEj2Br81bNxYrPITMKRklwb0HMRzh2lnWn2FQKb42HOR+aTNwVGOVPDQB9e         zGLx4sJzrZxJWPhWArLWbRVGLL9sW+5W0X7G+S1DqG4oeOr2YUMmSC0CVEmv4moM/nGG         D16rKV8ycBiEBvuPwQlMXbw6TVljAtMrRWDv+iLYVt7kPKc1mbwVZkf8+uSH5oO2kmwu         SgCg=="
+    },
+    {
+      "name": "X-Forwarded-Encrypted",
+      "value": "i=3; AJvYcCVPN9Jnn/tlUX8VZ0dO3Bl4dXE0M41dV1wPW/8Av5rETK2ugIhdBsrNCBOXxs5WEOHUBsHHBDREYA7JWkdyHw=="
+    },
+    {
+      "name": "X-Gm-Message-State",
+      "value": "AOJu0Yyd0P41TjBGp0chAaKGL+OCesNcF42L+7mHOX5YGrTYKDgXUs2z 73T2wYTDzmvF+C3NrWtiENJjzEIWqW9yo+KxPlqmiHONh2gzZtZfIr5qBxfbdv7Rvg=="
+    },
+    {
+      "name": "X-Google-Smtp-Source",
+      "value": "AGHT+IEei3qChPJ9mJFqMkPFmx92PxZR98XuK0fY+yuQ4K6LmsZfKAOgQeCmX/j+IdOXvoONqdWw7g=="
+    },
+    {
+      "name": "X-Received",
+      "value": "by 2002:a17:903:245:b0:1f4:b703:881 with SMTP id d9443c01a7336-1f6d03771c9mr49526285ad.50.1717851211560;        Sat, 08 Jun 2024 05:53:31 -0700 (PDT)"
+    },
+    {
+      "name": "X-BeenThere",
+      "value": "info@regima.com"
+    },
+    {
+      "name": "Received",
+      "value": "by 2002:a17:902:ea10:b0:1f3:2c68:5bad with SMTP id d9443c01a7336-1f6cc47498bls16589135ad.2.-pod-prod-06-us; Sat, 08 Jun 2024 05:53:30 -0700 (PDT)"
+    },
+    {
+      "name": "X-Received",
+      "value": "by 2002:a17:902:da86:b0:1f6:343f:dc4d with SMTP id d9443c01a7336-1f6d0377702mr56682105ad.49.1717851210552;        Sat, 08 Jun 2024 05:53:30 -0700 (PDT)"
+    },
+    {
+      "name": "ARC-Seal",
+      "value": "i=2; a=rsa-sha256; t=1717851210; cv=pass;        d=google.com; s=arc-20160816;        b=PzQELEnvh6SbY+TyTEtj/89P5rIDxXgCFV++8wx/p7J4dXZ1uOdSZTekYD0eQ+1eNo         RTaI9zb8LM3s5vGRoS5hWdOYIuTE42eoT5DbRocCiAKhwPzk1cZLdmqwt6314uHo/6nY         qgIfga7ULN8Se47jFNRsGXHDbEaXoBuAqi+mpCaesLPK7u+axTL3QFByp1gvwhQzfh9f         YujSTwcuOBQKgrW95FPDoNUd+u3b4OkB7Vw3GId3eKNFbglWENbB9662MMGeEXqR55Kq         fVmGWOjD+HopcU8YSbnpLMS8AGleAO9xqIuaANa7gWTAekP2YvDdC2wBhYqYKYJI2XQC         6Hhg=="
+    },
+    {
+      "name": "ARC-Message-Signature",
+      "value": "i=2; a=rsa-sha256; c=relaxed/relaxed; d=google.com; s=arc-20160816;        h=mime-version:content-transfer-encoding:content-id:content-language         :accept-language:message-id:date:thread-index:thread-topic:subject         :to:from;        bh=qnnyRplpbFI3pro5p/R1VlgZ8xvE+H+SfqSEPAq7li4=;        fh=9oXFoSQ1G75ECXZOQ9eaKyuskWcivtgVEcgOWrlmRB0=;        b=iuTTqaR2bSvLnjvN+RpEBkNEyiZwzrs0MX4LciIGbLfkCn9hBq4xnbf+XkOM2K0kOX         zd+1RElfXpCginFjHvKj+XP1AwW1Y9T15bjhRPezE0yga0K2QliXSkKWqOj/F3d2Ww0U         5Hu+S27oM9MNvLmDbqSZl+4k1tfGxEKBTxsiJ9JLSCE8ewponwWpzuS++4CneGuYNws8         tuirEmj7DoCO6E9kKoxEI+Uk9A1vjgdxn2K8OaQihSkjeId1psWnHhAVYWY1df6dxibV         uXjQGhi5vyhacOqBkwZ5jfn4Afrw0TGPHkxF+dq0dnz8UTcsA8Y1mRmIotgBAxT3DMey         YCiA==;        dara=google.com"
+    },
+    {
+      "name": "ARC-Authentication-Results",
+      "value": "i=2; mx.google.com;       arc=pass (i=1 spf=pass spfdomain=elliottco.co.uk dkim=pass dkdomain=elliottco.co.uk dmarc=pass fromdomain=elliottco.co.uk);       spf=pass (google.com: domain of hello@elliottco.co.uk designates 2a01:111:f403:261a::700 as permitted sender) smtp.mailfrom=hello@elliottco.co.uk"
+    },
+    {
+      "name": "Received",
+      "value": "from GBR01-LO4-obe.outbound.protection.outlook.com (mail-lo4gbr01on20700.outbound.protection.outlook.com. [2a01:111:f403:261a::700])        by mx.google.com with ESMTPS id d9443c01a7336-1f6bd7d2f8dsi8133465ad.275.2024.06.08.05.53.30        for <info@regima.com>        (version=TLS1_2 cipher=ECDHE-ECDSA-AES128-GCM-SHA256 bits=128/128);        Sat, 08 Jun 2024 05:53:30 -0700 (PDT)"
+    },
+    {
+      "name": "Received-SPF",
+      "value": "pass (google.com: domain of hello@elliottco.co.uk designates 2a01:111:f403:261a::700 as permitted sender) client-ip=2a01:111:f403:261a::700;"
+    },
+    {
+      "name": "ARC-Seal",
+      "value": "i=1; a=rsa-sha256; s=arcselector9901; d=microsoft.com; cv=none; b=ipkppEuAyteTMLqCxNxyfMrvQoeaCP1lIBwg9V1M6eK53L0jm0mAD7uCZpOFmfIq32MEGTSGlP6P0HcjIEYHS576QqewZNI080A1UMf8TrJKbxNu/jHJBAqT/UTG+7tMXsL4wxdxw5/7Tc+kSQJvJf+UpCnoJRWlCnFjieRjwJPScTSR7+1ZtlnyKnrpSDy0yNHZd/45cJNvmjZK0WXnQ7EnvbLdoIli4F+GkDH9LnaTBMTjh4zMIc/V95fMVaXgkdEV6FCtWVWdlrB7E0VFpTB6M6J7R84ODDRFXPr7ELdZ7BXKp12U/sU5tZx9sBw8dYWjATnLVgksA99uoFf/+A=="
+    },
+    {
+      "name": "ARC-Message-Signature",
+      "value": "i=1; a=rsa-sha256; c=relaxed/relaxed; d=microsoft.com; s=arcselector9901; h=From:Date:Subject:Message-ID:Content-Type:MIME-Version:X-MS-Exchange-AntiSpam-MessageData-ChunkCount:X-MS-Exchange-AntiSpam-MessageData-0:X-MS-Exchange-AntiSpam-MessageData-1; bh=qnnyRplpbFI3pro5p/R1VlgZ8xvE+H+SfqSEPAq7li4=; b=WTM+uLMz9+tvWDFtsmooTJcQFphgFHgIQ73FAy7JofjlI3s3KPfC+CT00jxjjtJd9wA30GbsF1AO3v3ZjzDw0poz+rTMqHO7GY3R8BTaos7Ab9qJ18Gw0wQlV7riVU9uVfGZzEgjoGHicuomD9ruwZSeHtnb/b3uutd927k6lh6TiDcghMrvO/MpPI77A/MZ+ABXdxiwTlGG/2alsXmt0jnP+EsBzwFqqAHmaOGp/KlSbhQJ3drrlsqm2v57eReBfj4qZGAcfKh5QbDR69Fl5pM+Bsw/Wu0hNci0Z3IE7pHU87arQ0AcajEVO4prH/D9uSfW7tFLLosngFH6bTOtHQ=="
+    },
+    {
+      "name": "ARC-Authentication-Results",
+      "value": "i=1; mx.microsoft.com 1; spf=pass smtp.mailfrom=elliottco.co.uk; dmarc=pass action=none header.from=elliottco.co.uk; dkim=pass header.d=elliottco.co.uk; arc=none"
+    },
+    {
+      "name": "Received",
+      "value": "from CWLP123MB6362.GBRP123.PROD.OUTLOOK.COM (2603:10a6:400:1cc::6) by CWLP123MB3842.GBRP123.PROD.OUTLOOK.COM (2603:10a6:400:a8::7) with Microsoft SMTP Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.7633.36; Sat, 8 Jun 2024 12:53:28 +0000"
+    },
+    {
+      "name": "Received",
+      "value": "from CWLP123MB6362.GBRP123.PROD.OUTLOOK.COM ([fe80::9c60:a20d:884d:d8c6]) by CWLP123MB6362.GBRP123.PROD.OUTLOOK.COM ([fe80::9c60:a20d:884d:d8c6%6]) with mapi id 15.20.7633.033; Sat, 8 Jun 2024 12:53:28 +0000"
+    },
+    {
+      "name": "From",
+      "value": "\"Elliott & Co\" <hello@elliottco.co.uk>"
+    },
+    {
+      "name": "To",
+      "value": "\"info@regima.com\" <info@regima.com>"
+    },
+    {
+      "name": "Subject",
+      "value": "Become a stockist"
+    },
+    {
+      "name": "Thread-Topic",
+      "value": "Become a stockist"
+    },
+    {
+      "name": "Thread-Index",
+      "value": "AQHauaLb5ErQ13OSo0at5jt0evdO5w=="
+    },
+    {
+      "name": "Date",
+      "value": "Sat, 8 Jun 2024 12:53:28 +0000"
+    },
+    {
+      "name": "Message-ID",
+      "value": "<C6E199B8-5DE3-4DD2-8E65-BA6F9D5D3D07@elliottco.co.uk>"
+    },
+    {
+      "name": "Accept-Language",
+      "value": "en-GB, en-US"
+    },
+    {
+      "name": "Content-Language",
+      "value": "en-GB"
+    },
+    {
+      "name": "X-MS-Has-Attach",
+      "value": ""
+    },
+    {
+      "name": "X-MS-TNEF-Correlator",
+      "value": ""
+    },
+    {
+      "name": "x-ms-publictraffictype",
+      "value": "Email"
+    },
+    {
+      "name": "x-ms-traffictypediagnostic",
+      "value": "CWLP123MB6362:EE_|CWLP123MB3842:EE_"
+    },
+    {
+      "name": "x-ms-office365-filtering-correlation-id",
+      "value": "2f4b2d6a-e4ce-4c37-272a-08dc87b9fe41"
+    },
+    {
+      "name": "x-ms-exchange-senderadcheck",
+      "value": "1"
+    },
+    {
+      "name": "x-ms-exchange-antispam-relay",
+      "value": "0"
+    },
+    {
+      "name": "x-microsoft-antispam",
+      "value": "BCL:0;ARA:13230031|1800799015|586008|376005|366007|38070700009;"
+    },
+    {
+      "name": "x-microsoft-antispam-message-info",
+      "value": "Jesd2zQlyEbzRnI+dOTzmW1FNbMaxuNYL2yltuZOt6o59KFuvJ8Z9cytUNdhBqLMAJUGuuPJv7FVuep5t7gHkVkjODy62T+auLin5FswsJVEqBkrJESyigkFKaxB2zz60ideFnOHrTO5pid2/GjdeCB98fSJxMVxtbxzK1YLmDr+jytjNd0mvLIHyGWCNn/cEmLDQYfqlsNOK02zFRLnw6vJFvnrYc3vRl79fsXxT90IIZs7WcO2AsnxWOt5AbVsLTY7tnjtOyMYITX3YKs/v22s8lzCTzPAMBNslp7rfoW6MvhypMVCQ4nQaLJigJRGHi4fcokWsLvnHeQ4bGydU3/bikxs978fHKr/urC9g6aa96cqGmUm9kfzunxsL6pS3Y7qTD57L5nrIBJqKbR7Zc7AKr5T0cFlgXsQeK+CP7qJsNrLgrqem1WpDHP2X3yydIeieFbzuaWdmp4QNoNSmXI1SDhAtabKyVsm6gMaDlLNxaV5n/n6FE6kM9VbBuUworwopFcG4Q/EAoc1FkwdXLQIvoObUMr5hSawoJDvV9zxQQ+q1gYmbL1RUaAeu6LgW9RtKVi9lmiNqaj81jc2fNYX61i7wfhs5qu5TQhzNmtWr0yNOB1UpxfehSOOBUVT5YxXWbH5GVJCZqXb0EWQcJpNA3QxsJtUyM+wG5Wqk6Fd/+i7x+DfJyDhq569+KgmjK6YHdYBVQNm+1CNlnezVZPhS8HBxwiHvKx97vbAjw41xVELr2waAmVRDI8TpRKwzSWmKoiCtOFXEbohiXZ5iq6kxONZavpczufSAIDXtCtKxbcXH1S+VQ21Adi5DHyLYtnxSCIhObP8FK5nrOBjuPnt4DNpeb9QPHEU1bFUM2VtMOB5BzIxMHdykibfcPTUy/MUzXowtqIlHUAxaaG/sxTVgSNKepk3Wj+ZmeTR4AenYkHghX/OUDRUXfK5bDObwGyi8ByQGMbxI2ZT8UYRZ1TsCJ7Fs0uRZc2sWwtqrOnaSmhI76xqjwqRUV5LAr+umwKTMrT5n9NfYtEqO1qlIJ5aZM9DurW08v8lrDXQehbX03Jd+Ugxja+fmJn0CBiWjhT2VaQRewzqydVArNqctAcz8qlWBtPq4CdIIJgcJR6jbr/ea05kJ/ulvSqroh0zCPhx7U+mMe77A+tDFjXd4qBo1sVc9DyHzMM/m1vsZVBOTR7ARPDfo3kRP2tbkZgMVW3YIsdVqCHVHh5gpmsuGFiKUmo3SsXIHguJcgafYk6k/lJZi73jQwiQVD4VPwIcRv/tGFWCoGa7GPIo73Hs1D32wcuFbad+4LHzks2MeGOF2lSvo2T/l49nMytxHs8IDN2dB5Q6b8pKgqnLCeajtZ+I2kon5H9I3qMr0uayPqw="
+    },
+    {
+      "name": "x-forefront-antispam-report",
+      "value": "CIP:255.255.255.255;CTRY:;LANG:en;SCL:1;SRV:;IPV:NLI;SFV:NSPM;H:CWLP123MB6362.GBRP123.PROD.OUTLOOK.COM;PTR:;CAT:NONE;SFS:(13230031)(1800799015)(586008)(376005)(366007)(38070700009);DIR:OUT;SFP:1102;"
+    },
+    {
+      "name": "x-ms-exchange-antispam-messagedata-chunkcount",
+      "value": "1"
+    },
+    {
+      "name": "x-ms-exchange-antispam-messagedata-0",
+      "value": "2cvqa/NUn00bzHZG5SjGD1zZRzTrOAVuG0DYIcSPHR9RW7MjfZ4o0/9eRboUgvf4XbTSuKVVcqy6APj7uu5HIcnlRnbYx4Ld7R4Nbaw57LeVy/a/kefJ31JSrJVSjbaKrbATR41QDA/o0oymqo74A+yeQI/kIZaoNCeGeZunFjwlNHnYXDjzx36wpGOyZKw9jqkQu3jyLb4/Ep4/+kyVDK4CmiHK3BvVnBdDQ7Uaud6+DjSoYuHHZCusYeaWQYqV7G1CSWhlwrJJQ/htgKU25zTEgqFQFxN7LFIydnnYuoZzIHwCzSEiOLcFN2oL8cWU67W3HWY7C92H+OmPJvuVUa3fDJ0LZVRHh2YsWcP8027Q0z/4HkHOxUeB18MkDN0fQpCpj4D4epFxKGxPgeDJt7kDMOPz6QPtfQ8r/TMrx56TGMa1OKsUFvKRewwGn+IiPXnlW+PSgEMj3yvwYxp47KY0fQssSebYG9cQ7Z+JSKVdofCQutYbSPnWZJjWDcVMxKjQb9YgmWedavQWDmCwlMRetNgYgx3T88Yp0+K9f79SGZ6BmumCcwRDPWsfo4QDB2u8vvt2q0nQQvBhxZyd2TDQaQ6QiAuZ9C9o12PH0cq5NG8ZbgCR75t27oPnUh4bbgG9Tm7ez/1QMVjE2Y1qavQS51UoLaOuDn2fMoXdkbmxHcBcVsIOaEFMY3B0pGjLoVgDuG1BWUjgbgKoWw7HaAeui51q0P2mOfp5ZIo0ZtG+PR8olO5gB33Pmfxq5mTYsICfUvrXrgXmJEcHvUqQeABStMzGBsyNn1VVsiLz/vM71nk71dRQLT0tTmBA+U4EiWcbNdU/OQPRtqGKy0fgpjZywbne3RdhbTdrfGXDR4cVeb1511l1mtvMaAZZZphBUGnuBANByjndB2wimqcESFIX76VL/4U2b/8o2c5w2i/7DAIic+xpdtkGB5fqMI+s5gwqYeACWCikRc51lO1x8fXwa1TO3zZwLAwSOhB7Sel2WgjEhlt6caAAOEKQd7txCzWKYCzcFqAAP5OiD8xBW+YmxkXAmSHSJxUpJZh8DNoXYwRYMOPvD8iqagwp31Chy5w4ZzhrS+hiEm9TkhYiXfjKLZ2CTXWi+3UKGJ6HtvikkP7C6uTugWkBPxir8fFaPVgtzh7NfcQ9V6JUmVxxGHZukHaZfYIJm562OfmTpX8wdihLvX/CYpQttykmQOvnseGAaN0KsF0vUWnXcD+iV6oJmYy+Lu/AjUK4C1etoeodd6h+4+Qnbzzu8FSUaf1XN9QkUaVUVYogvKNGEKv6FfdqLqE8SPyuAMbfyEuCqfJ1QEbZ1lUgEafmGxzfxhKu13FN7F6y0u81fNOYuTJwqd5WcQMEv6jQjoTC1a0/kj+XDulVXCFG0S+pGbmz/X8hb3HV2urUBwazaa43JYfjePDiKPPX9cTV2jhVBF3xDdL2rxKF/6llZKq80yY2ED2DDdA44xQesDbFvJogROUnPOInsj2zNC7I91uRF6vM1T6Cr/DbHUTPrQ/Y6oLTHk2Hjv2PfNMjDfBnySleaUXVDUsfOcs/EegwjmRXbca9wcMkmrs6VFSmKE9T82m75Y1L"
+    },
+    {
+      "name": "Content-Type",
+      "value": "text/plain; charset=\"us-ascii\""
+    },
+    {
+      "name": "Content-ID",
+      "value": "<8F9E04379633754D9B91B5226B1ECBA9@NETORGFT16408796.onmicrosoft.com>"
+    },
+    {
+      "name": "Content-Transfer-Encoding",
+      "value": "quoted-printable"
+    },
+    {
+      "name": "MIME-Version",
+      "value": "1.0"
+    },
+    {
+      "name": "X-OriginatorOrg",
+      "value": "elliottco.co.uk"
+    },
+    {
+      "name": "X-MS-Exchange-CrossTenant-AuthAs",
+      "value": "Internal"
+    },
+    {
+      "name": "X-MS-Exchange-CrossTenant-AuthSource",
+      "value": "CWLP123MB6362.GBRP123.PROD.OUTLOOK.COM"
+    },
+    {
+      "name": "X-MS-Exchange-CrossTenant-Network-Message-Id",
+      "value": "2f4b2d6a-e4ce-4c37-272a-08dc87b9fe41"
+    },
+    {
+      "name": "X-MS-Exchange-CrossTenant-originalarrivaltime",
+      "value": "08 Jun 2024 12:53:28.3707 (UTC)"
+    },
+    {
+      "name": "X-MS-Exchange-CrossTenant-fromentityheader",
+      "value": "Hosted"
+    },
+    {
+      "name": "X-MS-Exchange-CrossTenant-id",
+      "value": "37fe81e9-9f5a-4d3e-8ae4-89c7aac2a3ad"
+    },
+    {
+      "name": "X-MS-Exchange-CrossTenant-mailboxtype",
+      "value": "HOSTED"
+    },
+    {
+      "name": "X-MS-Exchange-CrossTenant-userprincipalname",
+      "value": "tMSrlgPCZeVIp1sqtDL+kAnOYShXXWBd9DUMYbl1QJI3nfAEmuqYAKiX7RQA5zMOY9eQcHLu8DXhk4FIppMusg=="
+    },
+    {
+      "name": "X-MS-Exchange-Transport-CrossTenantHeadersStamped",
+      "value": "CWLP123MB3842"
+    },
+    {
+      "name": "X-Original-Sender",
+      "value": "hello@elliottco.co.uk"
+    },
+    {
+      "name": "X-Original-Authentication-Results",
+      "value": "mx.google.com;       arc=pass (i=1 spf=pass spfdomain=elliottco.co.uk dkim=pass dkdomain=elliottco.co.uk dmarc=pass fromdomain=elliottco.co.uk);       spf=pass (google.com: domain of hello@elliottco.co.uk designates 2a01:111:f403:261a::700 as permitted sender) smtp.mailfrom=hello@elliottco.co.uk"
+    },
+    {
+      "name": "Precedence",
+      "value": "list"
+    },
+    {
+      "name": "Mailing-list",
+      "value": "list info@regima.com; contact info+owners@regima.com"
+    },
+    {
+      "name": "List-ID",
+      "value": "<info.regima.com>"
+    },
+    {
+      "name": "X-Spam-Checked-In-Group",
+      "value": "info@regima.com"
+    },
+    {
+      "name": "X-Google-Group-Id",
+      "value": "67457107791"
+    },
+    {
+      "name": "List-Post",
+      "value": "<https://groups.google.com/a/regima.com/group/info/post>, <mailto:info@regima.com>"
+    },
+    {
+      "name": "List-Help",
+      "value": "<https://support.google.com/a/regima.com/bin/topic.py?topic=25838>, <mailto:info+help@regima.com>"
+    },
+    {
+      "name": "List-Archive",
+      "value": "<https://groups.google.com/a/regima.com/group/info/>"
+    },
+    {
+      "name": "List-Unsubscribe",
+      "value": "<mailto:googlegroups-manage+67457107791+unsubscribe@googlegroups.com>, <https://groups.google.com/a/regima.com/group/info/subscribe>"
+    }
+  ],
+  "transport_summary": {
+    "total_hops": 6,
+    "origin_ip": null,
+    "first_relay": "CWLP123MB6362.GBRP123.PROD.OUTLOOK.COM",
+    "final_relay": "2002",
+    "auth_verdict": {
+      "spf": "pass",
+      "dkim": "pass",
+      "dmarc": null
+    }
+  },
+  "_file_integrity": {
+    "sha256": "11581e230549dc98fe94787d6fc1a8d0bcbdb43f3f81e750e68506424ac50b5f",
+    "size_bytes": 32472
+  }
+}

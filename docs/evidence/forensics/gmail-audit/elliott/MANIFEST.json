@@ -1,0 +1,82 @@
+{
+  "_schema": "gws-forensic-audit-manifest/v1",
+  "_generated": "2026-03-10T08:01:08.672918+00:00",
+  "mode": "live",
+  "user": "dan@regima.com",
+  "scope": "from:elliott",
+  "total": 6,
+  "files": [
+    {
+      "index": 1,
+      "file": "0001_Sat, 8 Jun_hello@elliottco.co.uk_Become_a_stockist.audit.json",
+      "subject": "Become a stockist",
+      "from": "hello@elliottco.co.uk",
+      "date": "Sat, 8 Jun 2024 12:53:28 +0000",
+      "hops": 6,
+      "spf": "pass",
+      "dkim": "pass",
+      "dmarc": null,
+      "sha256": "11581e230549dc98fe94787d6fc1a8d0bcbdb43f3f81e750e68506424ac50b5f"
+    },
+    {
+      "index": 2,
+      "file": "0002_Sat, 30 Se_mignonelliott7@gmail.com_Orders.audit.json",
+      "subject": "Orders",
+      "from": "mignonelliott7@gmail.com",
+      "date": "Sat, 30 Sep 2023 20:30:39 +0200",
+      "hops": 4,
+      "spf": "pass",
+      "dkim": "pass",
+      "dmarc": "pass",
+      "sha256": "ef1b1ce465141cfc1cdf32f1b2890020b318bad0df20aeb9cab7416478843376"
+    },
+    {
+      "index": 3,
+      "file": "0003_Mon, 11 Ma_ellacx001@myuct.ac.za_Products.audit.json",
+      "subject": "Products",
+      "from": "ellacx001@myuct.ac.za",
+      "date": "Mon, 11 May 2020 16:29:37 +0200",
+      "hops": 7,
+      "spf": "pass",
+      "dkim": "pass",
+      "dmarc": "pass",
+      "sha256": "3ba0c2ff5eef02c001fd526b24b7f79ad57ebfb9268e35231aeb126e572467f3"
+    },
+    {
+      "index": 4,
+      "file": "0004_Wed, 16 Ma_lynda.a.elliott@gmail.com_Regima_products.audit.json",
+      "subject": "Regima products",
+      "from": "lynda.a.elliott@gmail.com",
+      "date": "Wed, 16 May 2018 20:53:58 +0100",
+      "hops": 7,
+      "spf": "neutral",
+      "dkim": "pass",
+      "dmarc": "pass",
+      "sha256": "034d62d4c7cea96451f5378d1256f3fad434f6d9c3be4109e725211febf5253a"
+    },
+    {
+      "index": 5,
+      "file": "0005_Fri, 19 Ju_lelliott@werksmans.com_Stockists.audit.json",
+      "subject": "Stockists",
+      "from": "lelliott@werksmans.com",
+      "date": "Fri, 19 Jun 2015 07:01:56 +0000",
+      "hops": 8,
+      "spf": "neutral",
+      "dkim": null,
+      "dmarc": null,
+      "sha256": "ab3982aa3ed55c8c886ed39357b8b8d6e81c49ce4878e72b34a064d46e6e42c4"
+    },
+    {
+      "index": 6,
+      "file": "0006_Wed, 22 Ap_lindseyemakeup@gmail.com_enquiry.audit.json",
+      "subject": "enquiry",
+      "from": "lindseyemakeup@gmail.com",
+      "date": "Wed, 22 Apr 2015 11:39:30 +0200",
+      "hops": 7,
+      "spf": "none",
+      "dkim": null,
+      "dmarc": "fail",
+      "sha256": "498bf06f1dfa6f1d4c75309a6e44a23a0146ccc7e569be45b27dea3ac442e1b6"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "_schema": "exoml-forensic/v1",
+  "_generated": "2026-03-10T08:04:25.277063+00:00",
+  "file_integrity": {
+    "eml_file": "rzo.io/0017_2022-02-09_0918_d@rzo.io_SALCO_dashboard.eml",
+    "file_size_bytes": 53341,
+    "md5": "65924350c8f7a4cb5c990fd555851236",
+    "sha1": "bbcf9cc192ff1a6c5a2d9cc91e0b6cc5926eff4a",
+    "sha256": "b987f785b9e1ccdce05d37cf4c0c1b0796e05a5dc6373ff30869fd9b74d42e97"
+  },
+  "message_identity": {
+    "db_id": 528,
+    "exchange_message_id": "AAMkAGE2YjljZjA1LTRlOWUtNDhjYi1iZjNkLWI4ZWRlNDQwYTU0MABGAAAAAADPgXCfMl5uRqA6Xxa9Yh33BwAh607i92PMQLMLAH3HB5h5AAAAAAEJAAAh607i92PMQLMLAH3HB5h5AAXH5SNOAAA=",
+    "conversation_id": "AAQkAGE2YjljZjA1LTRlOWUtNDhjYi1iZjNkLWI4ZWRlNDQwYTU0MAAQAPXFgNdmOUu7th8ob-HyeLY="
+  },
+  "envelope": {
+    "subject": "SALCO dashboard",
+    "from_name": "Daniel Faucitt",
+    "from_address": "d@rzo.io",
+    "to_recipients": [
+      {
+        "emailAddress": {
+          "name": "jax@regima.zone",
+          "address": "jax@regima.zone"
+        }
+      }
+    ],
+    "cc_recipients": [
+      {
+        "emailAddress": {
+          "name": "Rynette Farrar",
+          "address": "rynette@regima.zone"
+        }
+      },
+      {
+        "emailAddress": {
+          "name": "Kayla Pretorius",
+          "address": "k@rzo.io"
+        }
+      },
+      {
+        "emailAddress": {
+          "name": "Daniel Faucitt",
+          "address": "d@rzo.io"
+        }
+      }
+    ],
+    "received_datetime": "2022-02-09 09:18:00"
+  },
+  "mailbox_context": {
+    "user_email": "d@rzo.io",
+    "user_name": "Daniel Faucitt"
+  },
+  "body": {
+    "content_type": "html",
+    "preview": "Here is the SALCO dashboard as it shows currently for Received, Pending, Delivered, Exception etc",
+    "body_length_chars": 835
+  },
+  "attachments": [
+    {
+      "name": "SALCO - Dashboard - KCH - 2022_02_09 - DAN.xlsx",
+      "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "size_bytes": 45996,
+      "is_inline": false,
+      "has_content": true,
+      "md5": "e1bba89df1a6e495e92b87f4e8d07f57",
+      "sha256": "b7fb486ed62b590c6771c5653f2be2da14314bfad0af1f75309833044c803940"
+    }
+  ]
+}

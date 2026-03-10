@@ -1,0 +1,66 @@
+{
+  "_schema": "exoml-forensic/v1",
+  "_generated": "2026-03-10T08:04:24.639074+00:00",
+  "file_integrity": {
+    "eml_file": "rzo.io/0010_2021-07-29_0706_d@rzo.io_Re__[External]_RE__Drieline_PF.eml",
+    "file_size_bytes": 60176,
+    "md5": "e52db9da1ed2c52fa99ea5258b2fd258",
+    "sha1": "221a5e20d795a6f53d7d49a65b3efca1e9ecadfa",
+    "sha256": "d5dd5cee4561322fcb948c97035c642c594da67a12faf8baa8d1f06634920d2b"
+  },
+  "message_identity": {
+    "db_id": 795,
+    "exchange_message_id": "AAMkAGE2YjljZjA1LTRlOWUtNDhjYi1iZjNkLWI4ZWRlNDQwYTU0MABGAAAAAADPgXCfMl5uRqA6Xxa9Yh33BwAh607i92PMQLMLAH3HB5h5AAAAAAEJAAAh607i92PMQLMLAH3HB5h5AAVY-ZgeAAA=",
+    "conversation_id": "AAQkAGE2YjljZjA1LTRlOWUtNDhjYi1iZjNkLWI4ZWRlNDQwYTU0MAAQAPdI84eOAk8qmJn9jwQ6Lmc="
+  },
+  "envelope": {
+    "subject": "Re: [External] RE: Drieline PF",
+    "from_name": "Daniel Faucitt",
+    "from_address": "d@rzo.io",
+    "to_recipients": [
+      {
+        "emailAddress": {
+          "name": "John Knowlton",
+          "address": "john@cosmeticsolutions.co.za"
+        }
+      }
+    ],
+    "cc_recipients": [
+      {
+        "emailAddress": {
+          "name": "JAX@REGIMA.COM",
+          "address": "JAX@REGIMA.COM"
+        }
+      },
+      {
+        "emailAddress": {
+          "name": "PETE@REGIMA.COM",
+          "address": "pete@regima.com"
+        }
+      },
+      {
+        "emailAddress": {
+          "name": "Jacqui Faucitt",
+          "address": "jax@regima.zone"
+        }
+      },
+      {
+        "emailAddress": {
+          "name": "Rynette Farrar",
+          "address": "rynette@regima.zone"
+        }
+      }
+    ],
+    "received_datetime": "2021-07-29 07:06:23"
+  },
+  "mailbox_context": {
+    "user_email": "d@rzo.io",
+    "user_name": "Daniel Faucitt"
+  },
+  "body": {
+    "content_type": "html",
+    "preview": "Top 'o th' Marnin' to you Good Sir! 😃\r\n\r\n(... my best attempt at writing an upbeat Irish accent)\r\n\r\nNot a problem at all.. I was preparing myself for possible news that the PF would take an eternity to manufacture and ship - so week 33 has me in great sp",
+    "body_length_chars": 43808
+  },
+  "attachments": []
+}
