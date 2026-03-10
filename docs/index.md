@@ -71,3 +71,11 @@ Analysis of over 100,000 emails and financial records reveals several interconne
 ---
 
 *Last Updated: 2026-03-09 | 6-Application Structure Implemented*
+
+## Simulation Models
+The case dynamics have been formally modeled using multi-paradigm simulation to demonstrate the systemic nature of the fraud, the financial flows, and the burden of proof thresholds.
+| Model Type | Description | File |
+|------------|-------------|------|
+| **AnyLogic (.alp)** | Multi-paradigm (SD/DES/ABM) model of the 6-phase criminal enterprise | [Download](./simulation/RevenueStreamHijacking_Case2025_137857.alp) |
+| **NetLogo (.nlogo)** | Agent-based model of perpetrators, victims, and financial flows | [Download](./simulation/RevenueStreamHijacking_Case2025_137857.nlogo) |
+| **CogSim Integration** | Overview of the simulation framework integration | [View](./simulation/cogsim-integration.md) |
