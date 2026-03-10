@@ -1,0 +1,42 @@
+{
+  "_schema": "exchange-forensic-eml/v1",
+  "_generated": "2026-03-10T03:50:25.904196+00:00",
+  "_source": "neon-exchange-sync",
+  "file_integrity": {
+    "eml_file": "/home/ubuntu/revstream1/docs/evidence/forensic_eml/regima.zone/0002_2021-07-07_1100_jax@regima.zone_RE_RegimA_World_Wide_-_DANIE_BANTJIES.eml",
+    "file_size_bytes": 5571,
+    "md5": "9fad92537df7575ea86af97a264f157a",
+    "sha1": "490578c426162c25853c2982993f33c2b7e5fcaf",
+    "sha256": "e9efc0c2e91e20cbba0f03db472f980ad7a5813737649e78736f9079e9526796"
+  },
+  "message_identity": {
+    "exchange_sync_id": "AAMkAGM2Y2E0NWVmLWEzZTktNDc1Mi1iY2I4LTU3OTBlMTJhMTllNQBGAAAAAAA97n0AeO7PT4cl7xDgAtvXBwC2ver4KgT-RpGXubXzjgSOAAIZYOy5AAC2ver4KgT-RpGXubXzjgSOAAdIAUCuAAA=",
+    "internet_message_id": "<DB7PR08MB330612FC689647756C18AB7EAC1A9@DB7PR08MB3306.eurprd08.prod.outlook.com>",
+    "conversation_id": "AAQkAGM2Y2E0NWVmLWEzZTktNDc1Mi1iY2I4LTU3OTBlMTJhMTllNQAQAFvEoAJ8dUJYi4VTJPa1uIY="
+  },
+  "envelope": {
+    "subject": "RE: RegimA World Wide - DANIE BANTJIES",
+    "from_name": "Jacqui Faucitt",
+    "from_address": "jax@regima.zone",
+    "to_recipients": [
+      {
+        "name": "Danie Bantjes",
+        "address": "danie.bantjes@gmail.com"
+      }
+    ],
+    "cc_recipients": null,
+    "received_datetime": "2021-07-07 11:00:00+00:00"
+  },
+  "mailbox_context": {
+    "user_email": "jax@regima.zone",
+    "user_name": "Jacqui Faucitt",
+    "folder_name": "Archive",
+    "folder_id": "AQMkAGM2Y2E0NWVmLWEzZTktNDc1Mi1iY2I4LTU3OTBlMTJhMTllNQAuAAADPe59AHjuz0_HJe8Q4ALb1wEAtr3q_CoE-0aRl7m1844EjgACGWDsuQAAAA=="
+  },
+  "body": {
+    "content_type": "html",
+    "preview": "Hi Danie\r\n\r\nThanks. Unfortunately Rynette is also positive and at home, so no urgency.\r\n\r\nCheers\r\nJax\r\n\r\n________________________________\r\nFrom: Danie Bantjes <danie.bantjes@gmail.com>\r\nSent: Wednesday, July 7, 2021 10:03:45 AM (UTC+02:00) Harare, Preto",
+    "body_length_chars": 3431
+  },
+  "attachments": []
+}

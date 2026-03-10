@@ -1,0 +1,51 @@
+{
+  "_schema": "exchange-forensic-eml/v1",
+  "_generated": "2026-03-10T03:50:32.897327+00:00",
+  "_source": "neon-exchange-sync",
+  "file_integrity": {
+    "eml_file": "/home/ubuntu/revstream1/docs/evidence/forensic_eml/github.com/0050_2025-10-15_1537_notifications@github.com_Re_[cogpy_ad-res-j7]_[WIP]_Add_details_from_Daniel.eml",
+    "file_size_bytes": 3836,
+    "md5": "51ca265d26d34ee3784c309fd71de9ae",
+    "sha1": "5c690c24397f9ec7c1ac3e88abf4d6298263633c",
+    "sha256": "a1c8770f746e100721bb6058a15f03ead60d90f926a5c0b345df2b7c7ccb0311"
+  },
+  "message_identity": {
+    "exchange_sync_id": "AAMkAGYzMDVmNzkwLWNmZjMtNDBjZC04ZmY4LTRkNGEzNTgxMjU2MABGAAAAAADPi1nZV45aRY1s43jJ3tfJBwCtp_82Ac8MTK2-lmRJoPi9AAAAAAEMAACpChlY1MKaRbKdNPbWwiIjAAgYUfJVAAA=",
+    "internet_message_id": "<cogpy/ad-res-j7/pull/1075/before/9803a2d3aa6897ce1282321ea2df9a40c03ca485/after/b86ff83e8db901e7dcd419cc62b7920d22734a32@github.com>",
+    "conversation_id": "AAQkAGYzMDVmNzkwLWNmZjMtNDBjZC04ZmY4LTRkNGEzNTgxMjU2MAAQAJyAvPAaIuNGsE0tKsiKMC4="
+  },
+  "envelope": {
+    "subject": "Re: [cogpy/ad-res-j7] [WIP] Add details from Daniel Letters to Bantjies regarding ownership patterns (PR #1075)",
+    "from_name": "Copilot",
+    "from_address": "notifications@github.com",
+    "to_recipients": [
+      {
+        "name": "cogpy/ad-res-j7",
+        "address": "ad-res-j7@noreply.github.com"
+      }
+    ],
+    "cc_recipients": [
+      {
+        "name": "Daniel Faucitt",
+        "address": "dan@regima.zone"
+      },
+      {
+        "name": "Push",
+        "address": "push@noreply.github.com"
+      }
+    ],
+    "received_datetime": "2025-10-15 15:37:27+00:00"
+  },
+  "mailbox_context": {
+    "user_email": "dan@regima.zone",
+    "user_name": "Daniel Faucitt",
+    "folder_name": "Inbox",
+    "folder_id": "AAMkAGYzMDVmNzkwLWNmZjMtNDBjZC04ZmY4LTRkNGEzNTgxMjU2MAAuAAAAAADPi1nZV45aRY1s43jJ3tfJAQCtp_82Ac8MTK2-lmRJoPi9AAAAAAEMAAA="
+  },
+  "body": {
+    "content_type": "html",
+    "preview": "@Copilot pushed 1 commit.\r\n\r\n  *   b86ff83 Add comprehensive Section 3A to JF-DAN-WITNESS with corporate structure, trust powers, and Bantjies conflict details\r\n\r\n—\r\nView it on GitHub or unsubscribe.\r\nYou are receiving this because you are subscribed to t",
+    "body_length_chars": 1996
+  },
+  "attachments": []
+}

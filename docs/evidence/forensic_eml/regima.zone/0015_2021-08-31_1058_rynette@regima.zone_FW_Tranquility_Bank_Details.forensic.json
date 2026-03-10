@@ -1,0 +1,50 @@
+{
+  "_schema": "exchange-forensic-eml/v1",
+  "_generated": "2026-03-10T03:53:51.628116+00:00",
+  "_source": "neon-exchange-sync",
+  "file_integrity": {
+    "eml_file": "/home/ubuntu/revstream1/docs/evidence/forensic_eml/regima.zone/0015_2021-08-31_1058_rynette@regima.zone_FW_Tranquility_Bank_Details.eml",
+    "file_size_bytes": 801,
+    "md5": "eb0e5dd96aa739cd9ca0021ed3d40c92",
+    "sha1": "376a1c7ff7b45ecad96d99e8addf75a3604e5644",
+    "sha256": "3dab2ca66d090fe2b7b1163885ee1e5bcabeadc4d3155684b4180b081aa80410"
+  },
+  "message_identity": {
+    "exchange_sync_id": "AQMkAGM2Y2E0NWVmLWEzZTktNDc1Mi1iY2I4LTU3OTBlMTJhMTllNQBGAAADPe59AHjuz0_HJe8Q4ALb1wcAtr3q_CoE-0aRl7m1844EjgAAAgEMAAAAtr3q_CoE-0aRl7m1844EjgAGdpS8DgAAAA==",
+    "internet_message_id": "<692b91163ba4472483f6a217497f9bd6@DB9PR08MB6569.eurprd08.prod.outlook.com>",
+    "conversation_id": "AAQkAGM2Y2E0NWVmLWEzZTktNDc1Mi1iY2I4LTU3OTBlMTJhMTllNQAQAFJiawMTbUXRgUb-qpJUVDE="
+  },
+  "envelope": {
+    "subject": "FW: Tranquility Bank Details",
+    "from_name": "Rynette Farrar",
+    "from_address": "rynette@regima.zone",
+    "to_recipients": [
+      {
+        "name": "JAX@REGIMA.COM",
+        "address": "JAX@REGIMA.COM"
+      },
+      {
+        "name": "Jacqui Faucitt",
+        "address": "jax@regima.zone"
+      },
+      {
+        "name": "PETE@REGIMA.COM",
+        "address": "PETE@REGIMA.COM"
+      }
+    ],
+    "cc_recipients": null,
+    "received_datetime": "2021-08-31 10:58:16+00:00"
+  },
+  "mailbox_context": {
+    "user_email": "jax@regima.zone",
+    "user_name": "Jacqui Faucitt",
+    "folder_name": "Inbox",
+    "folder_id": "AQMkAGM2Y2E0NWVmLWEzZTktNDc1Mi1iY2I4LTU3OTBlMTJhMTllNQAuAAADPe59AHjuz0_HJe8Q4ALb1wEAtr3q_CoE-0aRl7m1844EjgAAAgEMAAAA"
+  },
+  "body": {
+    "content_type": null,
+    "preview": "________________________________\r\nFrom: kent@regima.com <kent@regima.com>\r\nSent: Tuesday, August 31, 2021 12:57:57 PM (UTC+02:00) Harare, Pretoria\r\nTo: Rynette Farrar <rynette@regima.zone>\r\nCc: JAX@REGIMA.COM <JAX@REGIMA.COM>; PETE@REGIMA.COM <PETE@REGI",
+    "body_length_chars": 0
+  },
+  "attachments": []
+}

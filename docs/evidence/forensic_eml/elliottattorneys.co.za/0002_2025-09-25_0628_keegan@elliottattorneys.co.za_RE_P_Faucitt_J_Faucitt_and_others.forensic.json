@@ -1,0 +1,67 @@
+{
+  "_schema": "exchange-forensic-eml/v1",
+  "_generated": "2026-03-10T03:53:31.328890+00:00",
+  "_source": "neon-exchange-sync",
+  "file_integrity": {
+    "eml_file": "/home/ubuntu/revstream1/docs/evidence/forensic_eml/elliottattorneys.co.za/0002_2025-09-25_0628_keegan@elliottattorneys.co.za_RE_P_Faucitt_J_Faucitt_and_others.eml",
+    "file_size_bytes": 24445,
+    "md5": "1c2dac5056fa83ca77db5e195668726c",
+    "sha1": "826ea0b9de5c2a72a4bf4ba59e8dcca6c77cbe7a",
+    "sha256": "a3982c4da5621bc4a4c65326989f7b075bbf3849e42293dcaac6636716feb23d"
+  },
+  "message_identity": {
+    "exchange_sync_id": "AQMkAGM2Y2E0NWVmLWEzZTktNDc1Mi1iY2I4LTU3OTBlMTJhMTllNQBGAAADPe59AHjuz0_HJe8Q4ALb1wcAtr3q_CoE-0aRl7m1844EjgAAAgEMAAAAtr3q_CoE-0aRl7m1844EjgAKTvgflQAAAA==",
+    "internet_message_id": "<02ce01dc2de5$84a2e160$8de8a420$@elliottattorneys.co.za>",
+    "conversation_id": "AAQkAGM2Y2E0NWVmLWEzZTktNDc1Mi1iY2I4LTU3OTBlMTJhMTllNQAQAO9SdDpOwGNEh9iIwlIzEfw="
+  },
+  "envelope": {
+    "subject": "RE: P Faucitt / J Faucitt and others",
+    "from_name": "Keegan Elliott",
+    "from_address": "keegan@elliottattorneys.co.za",
+    "to_recipients": [
+      {
+        "name": "'Shenaaz Munga'",
+        "address": "smunga@ensafrica.com"
+      },
+      {
+        "name": "Jacqui Faucitt",
+        "address": "jax@regima.zone"
+      },
+      {
+        "name": "Daniel J. Faucitt",
+        "address": "dan@regima.com"
+      }
+    ],
+    "cc_recipients": [
+      {
+        "name": "'Aslam Moosajee'",
+        "address": "amoosajee@ensafrica.com"
+      },
+      {
+        "name": "'Craig Shapiro'",
+        "address": "cshapiro@ensafrica.com"
+      },
+      {
+        "name": "'Carol Masego Makutu'",
+        "address": "cmakutu@ensafrica.com"
+      },
+      {
+        "name": "'Laurence Mort'",
+        "address": "lmort@ensafrica.com"
+      }
+    ],
+    "received_datetime": "2025-09-25 06:28:14+00:00"
+  },
+  "mailbox_context": {
+    "user_email": "jax@regima.zone",
+    "user_name": "Jacqui Faucitt",
+    "folder_name": "Inbox",
+    "folder_id": "AQMkAGM2Y2E0NWVmLWEzZTktNDc1Mi1iY2I4LTU3OTBlMTJhMTllNQAuAAADPe59AHjuz0_HJe8Q4ALb1wEAtr3q_CoE-0aRl7m1844EjgAAAgEMAAAA"
+  },
+  "body": {
+    "content_type": "html",
+    "preview": "Good morning,\r\n\r\nWe confirm receipt of the notice of withdrawal.\r\n\r\nKind regards,\r\n\r\nKeegan R. Elliott\r\n(LLB) Attorney/Legal Practitioner\r\nDirector\r\nElliott Attorneys Inc\r\nTel: 012 012 5067\r\nCell: 081 740 2130\r\nFax: 012 012 5068\r\nWeb: www.elliottattorneys",
+    "body_length_chars": 17218
+  },
+  "attachments": []
+}

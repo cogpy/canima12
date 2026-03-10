@@ -1,0 +1,59 @@
+{
+  "_schema": "exchange-forensic-eml/v1",
+  "_generated": "2026-03-10T03:53:07.084554+00:00",
+  "_source": "neon-exchange-sync",
+  "file_integrity": {
+    "eml_file": "/home/ubuntu/revstream1/docs/evidence/forensic_eml/regima.com/0087_2020-05-26_0955_orders@regima.com_Order_for_Tellanic_-_WWD0280.eml",
+    "file_size_bytes": 898,
+    "md5": "8f4d6c2d11114ba7b91be18a12118455",
+    "sha1": "4dbd9a6ae913a7096408ca15cf29c4089ef99968",
+    "sha256": "6fed2127894e4bf80b28f6a2ee55972a6966d899057b20918228080edd8b7eeb"
+  },
+  "message_identity": {
+    "exchange_sync_id": "AQMkADMxMzkyY2FlLWNkMGEtNGM2My04OWFiLTNlZDRjNzkyNGUyMwBGAAADSLKv-EI8AESN7LMej4ROLgcAIySisE98NkWmcNijjztGYgAAAj1EAAAAIySisE98NkWmcNijjztGYgAAAlFSAAAA",
+    "internet_message_id": "<017801d63343$c13d6520$43b82f60$@regima.com>",
+    "conversation_id": "AAQkADMxMzkyY2FlLWNkMGEtNGM2My04OWFiLTNlZDRjNzkyNGUyMwAQAEcoFK8m1Um0vn4R6jAbqEA="
+  },
+  "envelope": {
+    "subject": "Order for Tellanic - WWD0280",
+    "from_name": "orders@regima.com",
+    "from_address": "orders@regima.com",
+    "to_recipients": [
+      {
+        "name": "nicolene.jansenvanvuuren@gmail.com",
+        "address": "nicolene.jansenvanvuuren@gmail.com"
+      }
+    ],
+    "cc_recipients": [
+      {
+        "name": "'Peter Andrew Faucitt'",
+        "address": "pete@regima.com"
+      },
+      {
+        "name": "Jacqui Faucitt",
+        "address": "jax@regima.zone"
+      },
+      {
+        "name": "Bernadine Wright",
+        "address": "bern@regima.zone"
+      },
+      {
+        "name": "Rynette Farrar",
+        "address": "rynette@regima.zone"
+      }
+    ],
+    "received_datetime": "2020-05-26 09:55:26+00:00"
+  },
+  "mailbox_context": {
+    "user_email": "rynette@regima.zone",
+    "user_name": "Rynette Farrar",
+    "folder_name": "Orders",
+    "folder_id": "AQMkADMxMzkyY2FlLWNkMGEtNGM2My04OWFiLTNlZDRjNzkyNGUyMwAuAAADSLKv-EI8AESN7LMej4ROLgEAIySisE98NkWmcNijjztGYgAAAj1EAAAA"
+  },
+  "body": {
+    "content_type": null,
+    "preview": "Good Day Nicolene\r\n\r\nThank you for your order.\r\n\r\nPlease find attached Proforma Invoice, please send the confirmation of payment to orders@regima.com, once received, your order will be despatched\r\n\r\nKind Regards\r\n\r\nFrom: Nicolene Jansen van Vuuren <nicole",
+    "body_length_chars": 0
+  },
+  "attachments": []
+}

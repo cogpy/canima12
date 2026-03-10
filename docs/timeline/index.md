@@ -1,8 +1,8 @@
 # Master Timeline of Events
 
-**Last Updated:** 2026-03-08
+**Last Updated:** 2026-03-10
 
-This section provides a comprehensive and chronological breakdown of all events related to case 2025-137857. The timeline is divided into six distinct phases, each representing a critical stage of the fraudulent scheme and the subsequent investigation. Every event is linked to the specific evidence that substantiates it.
+This section provides a comprehensive and chronological breakdown of all events related to case 2025-137857. The timeline is divided into seven distinct phases, each representing a critical stage of the fraudulent scheme and the subsequent investigation. Every event is linked to the specific evidence that substantiates it.
 
 ---
 
@@ -31,9 +31,9 @@ Following the analysis of the mailbox evidence and the clear pattern of operatio
 *   **[RWD/NOTICE/001 (13 Feb 2026)](../rwd-notices/RWD_NOTICE_001.md):** Detailed the identity misappropriation of P.A. Faucitt by Rynette Farrar, the material non-disclosure in the ex parte application (rendering the interdict void ab initio under Uniform Rule 42(1)(a)), and placed all parties on notice of provable knowledge.
 *   **[RWD/NOTICE/002 (14 Feb 2026)](../rwd-notices/RWD_NOTICE_002.md):** Detailed the systematic destruction of the company's e-commerce and fulfillment pipeline, including the shutdown of Shopify and the breaking of The Courier Guy API integration, and refuted allegations of "business interference".
 
-### [Phase 6: LEX-RECON Reconciliation & Filing Refinement (March 2026)](./phase5_governance_notices.md)
+### Phase 6: LEX-RECON Reconciliation & Filing Refinement (March 2026)
 
-This phase documents the comprehensive cross-repository reconciliation using the LEX-RECON pipeline, the integration of Uniform Rules of Court citations into all filings, and the discovery of critical new evidence including:
+This phase documents the comprehensive cross-repository reconciliation using the LEX-RECON pipeline, the integration of Uniform Rules of Court citations into all filings, and the discovery of critical new evidence.
 
 | Date | Event | Significance |
 |:-----|:------|:-------------|
@@ -41,6 +41,17 @@ This phase documents the comprehensive cross-repository reconciliation using the
 | 2026-03-07 | **Kaylovest/Villa Via Dual Identity** (EVENT_124) | Shadow corporate identity for asset shifting discovered |
 | 2026-03-08 | **LEX-RECON Reconciliation v2** | All filings updated to v8 with Uniform Rules of Court citations |
 | 2026-03-08 | **FIC STR and Professional Misconduct** filings added | Two new filing categories synced from ad-res-j7 |
+
+### [Phase 7: LEX-SIM-NN Analysis & Forensic EML Extraction (March 2026)](./phase6_lex_sim_nn.md)
+
+This phase documents the application of the LEX-SIM-NN differentiable legal simulation pipeline and the extraction of 355 forensic EML files from the Exchange database.
+
+| Date | Event | Significance |
+|:-----|:------|:-------------|
+| 2026-03-10 | **LEX-SIM-NN Simulation** (EVENT_SIM_001) | Differentiable legal pipeline confirms civil burden MET (98.86%), criminal burden MET (98.88%) |
+| 2026-03-10 | **Forensic EML Extraction** (EVENT_EML_001) | 355 forensic EML files with SHA-256 integrity hashes extracted |
+| 2026-03-10 | **Evidence Attribution Analysis** (EVENT_ATTR_001) | Gradient-based attribution: Relational/Intentional strongest, Testimonial weakest |
+| 2026-03-10 | **All Filings Updated to v10** | LEX-SIM-NN scores and forensic EML cross-references added to all filings |
 
 ---
 
@@ -60,4 +71,4 @@ For a complete, filterable, and searchable version of the timeline, please refer
 
 ---
 
-*Last updated: 2026-03-08 | LEX-RECON Cross-Repository Reconciliation Engine*
+*Last updated: 2026-03-10 | LEX-SIM-NN & Forensic EML Enhanced*

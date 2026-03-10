@@ -1,0 +1,42 @@
+{
+  "_schema": "exchange-forensic-eml/v1",
+  "_generated": "2026-03-10T03:53:31.466288+00:00",
+  "_source": "neon-exchange-sync",
+  "file_integrity": {
+    "eml_file": "/home/ubuntu/revstream1/docs/evidence/forensic_eml/elliottattorneys.co.za/0003_2025-09-30_1037_keegan@elliottattorneys.co.za_RE_NO_SALARY_RECEIVED_DESPITE_PROMISE._FOR_THE_REC.eml",
+    "file_size_bytes": 17353,
+    "md5": "9d8e43304532664a71731fd76c835d0a",
+    "sha1": "50298eb2fcd66c59d9864fe525e064146a75d874",
+    "sha256": "514829da33a8caf56e8a6ad7212d286ee4ca7517ff2be2f9a872e71c82d64513"
+  },
+  "message_identity": {
+    "exchange_sync_id": "AQMkAGM2Y2E0NWVmLWEzZTktNDc1Mi1iY2I4LTU3OTBlMTJhMTllNQBGAAADPe59AHjuz0_HJe8Q4ALb1wcAtr3q_CoE-0aRl7m1844EjgAAAgEMAAAAtr3q_CoE-0aRl7m1844EjgAKUc76qAAAAA==",
+    "internet_message_id": "<!&!AAAAAAAAAAAYAAAAAAAAAFpnl4Tf37tJuiTJU2jEY9HCgAAAEAAAAMWC9eqZL9RGpC8SecM1blYBAAAAAA==@elliottattorneys.co.za>",
+    "conversation_id": "AAQkAGM2Y2E0NWVmLWEzZTktNDc1Mi1iY2I4LTU3OTBlMTJhMTllNQAQAC9d8vDqmaBOm1neyP_1xlE="
+  },
+  "envelope": {
+    "subject": "RE: NO SALARY RECEIVED DESPITE PROMISE.  FOR THE RECORD",
+    "from_name": "Keegan Elliott",
+    "from_address": "keegan@elliottattorneys.co.za",
+    "to_recipients": [
+      {
+        "name": "Jacqui Faucitt",
+        "address": "jax@regima.zone"
+      }
+    ],
+    "cc_recipients": null,
+    "received_datetime": "2025-09-30 10:37:55+00:00"
+  },
+  "mailbox_context": {
+    "user_email": "jax@regima.zone",
+    "user_name": "Jacqui Faucitt",
+    "folder_name": "Inbox",
+    "folder_id": "AQMkAGM2Y2E0NWVmLWEzZTktNDc1Mi1iY2I4LTU3OTBlMTJhMTllNQAuAAADPe59AHjuz0_HJe8Q4ALb1wEAtr3q_CoE-0aRl7m1844EjgAAAgEMAAAA"
+  },
+  "body": {
+    "content_type": "html",
+    "preview": "URGENT\r\n\r\nGood afternoon,\r\n\r\nI trust you are keeping well.\r\n\r\nYour underlying email refers, along with the further present conduct pertaining to inter alia threats of attending to the office to address various ‘issues’.\r\n\r\nWe advise that the conduct is co",
+    "body_length_chars": 12090
+  },
+  "attachments": []
+}

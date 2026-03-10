@@ -1,0 +1,87 @@
+{
+  "_schema": "exchange-forensic-eml/v1",
+  "_generated": "2026-03-10T03:53:00.883172+00:00",
+  "_source": "neon-exchange-sync",
+  "file_integrity": {
+    "eml_file": "/home/ubuntu/revstream1/docs/evidence/forensic_eml/regima.zone/0042_2020-05-21_0842_kayla@regima.zone_Standard_Courier_Fees.eml",
+    "file_size_bytes": 1165,
+    "md5": "43ffadd66df35e0f1ed454df027aabd4",
+    "sha1": "2c8977812e34c43f7d578c0d1ff6485e75c1a7e1",
+    "sha256": "53de7d16ceb5b76b449764d9ff178b03fd82b6d39063305c5fd2fa8fdaeb10d1"
+  },
+  "message_identity": {
+    "exchange_sync_id": "AAMkADliYjdjYWRlLTZhOWEtNGFhOS1hMWI1LTU0OGVlZTgyMmM5MABGAAAAAADHMMgwnxvASJnzkqHit2CfBwDxpm44zvcyR5VEBMOjt4L4AAAAAAEMAADxpm44zvcyR5VEBMOjt4L4AABS3U_RAAA=",
+    "internet_message_id": "<VI1PR0802MB23332F55E48AE9170566AD41A1B70@VI1PR0802MB2333.eurprd08.prod.outlook.com>",
+    "conversation_id": "AAQkADliYjdjYWRlLTZhOWEtNGFhOS1hMWI1LTU0OGVlZTgyMmM5MAAQAGTepSXQyuRMvGiHUFbygy0="
+  },
+  "envelope": {
+    "subject": "Standard Courier Fees. ",
+    "from_name": "Kayla Pretorius",
+    "from_address": "kayla@regima.zone",
+    "to_recipients": [
+      {
+        "name": "Ymouton@tiscali.co.za",
+        "address": "ymouton@tiscali.co.za"
+      },
+      {
+        "name": "Yolandy",
+        "address": "yolandy@krenance.com"
+      },
+      {
+        "name": "karen@kachan.co.za",
+        "address": "karen@kachan.co.za"
+      },
+      {
+        "name": "Dante Bertani",
+        "address": "danteb@kachan.co.za"
+      },
+      {
+        "name": "Reception",
+        "address": "info@kachan.co.za"
+      }
+    ],
+    "cc_recipients": [
+      {
+        "name": "Bernadine Wright",
+        "address": "bern@regima.zone"
+      },
+      {
+        "name": "kent@regima.com",
+        "address": "kent@regima.com"
+      },
+      {
+        "name": "info@regima.com",
+        "address": "info@regima.com"
+      },
+      {
+        "name": "Rynette Farrar",
+        "address": "rynette@regima.zone"
+      },
+      {
+        "name": "Lyndall  Jackson",
+        "address": "lyndall@regima.zone"
+      },
+      {
+        "name": "orders@regima.com",
+        "address": "orders@regima.com"
+      },
+      {
+        "name": "'Trevor Stidston'",
+        "address": "trev@regima.com"
+      }
+    ],
+    "received_datetime": "2020-05-21 08:42:07+00:00"
+  },
+  "mailbox_context": {
+    "user_email": "lyndall@regima.zone",
+    "user_name": "Lyndall  Jackson",
+    "folder_name": "Inbox",
+    "folder_id": "AAMkADliYjdjYWRlLTZhOWEtNGFhOS1hMWI1LTU0OGVlZTgyMmM5MAAuAAAAAADHMMgwnxvASJnzkqHit2CfAQDxpm44zvcyR5VEBMOjt4L4AAAAAAEMAAA="
+  },
+  "body": {
+    "content_type": null,
+    "preview": "Hi Team\r\n\r\n\r\n\r\nWe hope all is well, under the circumstances!\r\n\r\n\r\n\r\nWe have been hearing from clients that some distributors have cheaper courier rates then others and because of this clients want to switch distributors.  We know that unfortunately some o",
+    "body_length_chars": 0
+  },
+  "attachments": []
+}

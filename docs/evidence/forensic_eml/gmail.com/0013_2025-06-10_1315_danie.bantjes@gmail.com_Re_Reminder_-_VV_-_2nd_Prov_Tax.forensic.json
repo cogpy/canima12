@@ -1,0 +1,42 @@
+{
+  "_schema": "exchange-forensic-eml/v1",
+  "_generated": "2026-03-10T03:50:27.567963+00:00",
+  "_source": "neon-exchange-sync",
+  "file_integrity": {
+    "eml_file": "/home/ubuntu/revstream1/docs/evidence/forensic_eml/gmail.com/0013_2025-06-10_1315_danie.bantjes@gmail.com_Re_Reminder_-_VV_-_2nd_Prov_Tax.eml",
+    "file_size_bytes": 12310,
+    "md5": "bb24fa448d8fec04e6f94b3758b87d12",
+    "sha1": "884c48c4a60b304b6e792ccc24f6fd0cdd1033f9",
+    "sha256": "bbdcb4c31bbe9e1b058f126c6a2ec2ad8ac48f7c72854e9783e792eaa4e79e98"
+  },
+  "message_identity": {
+    "exchange_sync_id": "AAMkADMxMzkyY2FlLWNkMGEtNGM2My04OWFiLTNlZDRjNzkyNGUyMwBGAAAAAABIsq-8QjwARI3ssx6PhE4uBwAjJKKwT3w2RaZw2KOPO0ZiAAA-JWQ5AAAjJKKwT3w2RaZw2KOPO0ZiAAA-JZnjAAA=",
+    "internet_message_id": "<CANC4RXc2UvWGH-wO3X=cA+-9MmCCrhRBDcOsTtMjZu=7MDBcDA@mail.gmail.com>",
+    "conversation_id": "AAQkADMxMzkyY2FlLWNkMGEtNGM2My04OWFiLTNlZDRjNzkyNGUyMwAQAB61isjus6NKpRxbhCxvGiI="
+  },
+  "envelope": {
+    "subject": "Re: Reminder - VV - 2nd Prov Tax",
+    "from_name": "Danie Bantjes",
+    "from_address": "danie.bantjes@gmail.com",
+    "to_recipients": [
+      {
+        "name": "Rynette Farrar",
+        "address": "rynette@regima.zone"
+      }
+    ],
+    "cc_recipients": null,
+    "received_datetime": "2025-06-10 13:15:53+00:00"
+  },
+  "mailbox_context": {
+    "user_email": "rynette@regima.zone",
+    "user_name": "Rynette Farrar",
+    "folder_name": "Danie",
+    "folder_id": "AAMkADMxMzkyY2FlLWNkMGEtNGM2My04OWFiLTNlZDRjNzkyNGUyMwAuAAAAAABIsq-8QjwARI3ssx6PhE4uAQAjJKKwT3w2RaZw2KOPO0ZiAAA-JWQ5AAA="
+  },
+  "body": {
+    "content_type": "html",
+    "preview": "hi Rynette\r\n\r\nAgain, this letter does not appear on e-Filing on my profile. This is concerning.\r\n\r\nSecondly, they ask for information relating to the period 202502, which should be 202504, but anyway...\r\n\r\nSecondly, please note that the provisional tax re",
+    "body_length_chars": 8429
+  },
+  "attachments": []
+}

@@ -1,0 +1,63 @@
+{
+  "_schema": "exchange-forensic-eml/v1",
+  "_generated": "2026-03-10T03:52:57.573936+00:00",
+  "_source": "neon-exchange-sync",
+  "file_integrity": {
+    "eml_file": "/home/ubuntu/revstream1/docs/evidence/forensic_eml/regima.com/0018_2020-05-19_0903_orders@regima.com_Order_for_Calmer_WWD0272.eml",
+    "file_size_bytes": 898,
+    "md5": "19f4539ca64a0af5209ccecbcdf0ead3",
+    "sha1": "2d5661817f1ee5a7c7b78250b8dd0a396d27bc0a",
+    "sha256": "3b682791bf6ac18101b6a40a0a3b53134205244d3dfb3dad29a9a6300778b96b"
+  },
+  "message_identity": {
+    "exchange_sync_id": "AAMkADkzY2U4OTQyLTZjNzAtNGRlNi1iMjk1LWQwNWNjYzIyODQ5YgBGAAAAAAADECMUPsw5TaA2pA0VUIqNBwCR-svwgFxkSomVNqCc6-zPAAAAAAEMAACR-svwgFxkSomVNqCc6-zPAAVMOEjMAAA=",
+    "internet_message_id": "<013101d62dbc$5954f590$0bfee0b0$@regima.com>",
+    "conversation_id": "AAQkADkzY2U4OTQyLTZjNzAtNGRlNi1iMjk1LWQwNWNjYzIyODQ5YgAQAPMQ2i9Tf0GYvL-vb2uMl9Q="
+  },
+  "envelope": {
+    "subject": "Order for Calmer WWD0272 ",
+    "from_name": "orders@regima.com",
+    "from_address": "orders@regima.com",
+    "to_recipients": [
+      {
+        "name": "Lyndall  Jackson",
+        "address": "lyndall@regima.zone"
+      }
+    ],
+    "cc_recipients": [
+      {
+        "name": "'Peter Andrew Faucitt'",
+        "address": "pete@regima.com"
+      },
+      {
+        "name": "Jacqui Faucitt",
+        "address": "jax@regima.zone"
+      },
+      {
+        "name": "Bernadine Wright",
+        "address": "bern@regima.zone"
+      },
+      {
+        "name": "Rynette Farrar",
+        "address": "rynette@regima.zone"
+      },
+      {
+        "name": "Kayla Pretorius",
+        "address": "kayla@regima.zone"
+      }
+    ],
+    "received_datetime": "2020-05-19 09:03:44+00:00"
+  },
+  "mailbox_context": {
+    "user_email": "kayla@regima.zone",
+    "user_name": "Kayla Pretorius",
+    "folder_name": "Inbox",
+    "folder_id": "AQMkADkzY2U4OTQyLTZjNzAtNGRlNi1iMjk1LWQwNWNjATIyADg0OWIALgAAAwMQIxQ_zDlNoDakDRVQio0BAJH_y-CAXGRKiZU2oJzr-M8AAAIBDAAAAA=="
+  },
+  "body": {
+    "content_type": null,
+    "preview": "Hi Lyndall\r\n\r\nThank you for your order.\r\n\r\nPlease find attached Proforma Invoice, please send the confirmation of payment to orders@regima.com, once received, your order will be despatched.\r\n\r\nKindest Regards\r\n\r\nFrom: Lyndall Jackson <lyndall@regima.zone>",
+    "body_length_chars": 0
+  },
+  "attachments": []
+}

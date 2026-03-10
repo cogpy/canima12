@@ -1,0 +1,55 @@
+{
+  "_schema": "exchange-forensic-eml/v1",
+  "_generated": "2026-03-10T03:53:24.533806+00:00",
+  "_source": "neon-exchange-sync",
+  "file_integrity": {
+    "eml_file": "/home/ubuntu/revstream1/docs/evidence/forensic_eml/regima.zone/0023_2021-08-03_0808_jax@regima.zone_DELIVERY_COSMETIC_INGREDIENTS_-_C-HYALURONIC_ACID_.eml",
+    "file_size_bytes": 963,
+    "md5": "ed131bba3266ab815f7a83089c5d4f7e",
+    "sha1": "0592bcc41fbb8ed88bd57c538540b591dcd58a7d",
+    "sha256": "490d5bbcaf72e63a719812b8e4bce80d0b233348f2abce45d67bbf49662f4236"
+  },
+  "message_identity": {
+    "exchange_sync_id": "AAMkADMxMzkyY2FlLWNkMGEtNGM2My04OWFiLTNlZDRjNzkyNGUyMwBGAAAAAABIsq-8QjwARI3ssx6PhE4uBwAjJKKwT3w2RaZw2KOPO0ZiAABTCcATAAAjJKKwT3w2RaZw2KOPO0ZiAABTCj3EAAA=",
+    "internet_message_id": "<DB7PR08MB3306E34D93B1534ECCCC2782ACF09@DB7PR08MB3306.eurprd08.prod.outlook.com>",
+    "conversation_id": "AAQkADMxMzkyY2FlLWNkMGEtNGM2My04OWFiLTNlZDRjNzkyNGUyMwAQAK06gWiQSUSpgascB84qMeU="
+  },
+  "envelope": {
+    "subject": "DELIVERY COSMETIC INGREDIENTS - C-HYALURONIC ACID HMW  -  // NOT SURE WHICH PRODUCT THESE ARE FOR AND WHEN TO BE MANUFACTURED.",
+    "from_name": "Jacqui Faucitt",
+    "from_address": "jax@regima.zone",
+    "to_recipients": [
+      {
+        "name": "Karenvdh@jubilingo.co.za",
+        "address": "Karenvdh@jubilingo.co.za"
+      }
+    ],
+    "cc_recipients": [
+      {
+        "name": "Rynette Farrar",
+        "address": "rynette@regima.zone"
+      },
+      {
+        "name": "Daniel Faucitt",
+        "address": "d@rzo.io"
+      },
+      {
+        "name": "Peter Faucitt",
+        "address": "pete@regima.com"
+      }
+    ],
+    "received_datetime": "2021-08-03 08:08:48+00:00"
+  },
+  "mailbox_context": {
+    "user_email": "rynette@regima.zone",
+    "user_name": "Rynette Farrar",
+    "folder_name": "Raw materials",
+    "folder_id": "AAMkADMxMzkyY2FlLWNkMGEtNGM2My04OWFiLTNlZDRjNzkyNGUyMwAuAAAAAABIsq-8QjwARI3ssx6PhE4uAQAjJKKwT3w2RaZw2KOPO0ZiAABTCcATAAA="
+  },
+  "body": {
+    "content_type": null,
+    "preview": "Hi Karen\r\n\r\nCosmetic Ingredients have just delivered the Hyaluronic HMW.  There are 5 x 100 g packets.  There is only one that has just over a year expiry.  I am not happy with the other 4 packs that only have a 6 month expiry.  We need to get a minimum o",
+    "body_length_chars": 0
+  },
+  "attachments": []
+}

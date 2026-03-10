@@ -1,0 +1,42 @@
+{
+  "_schema": "exchange-forensic-eml/v1",
+  "_generated": "2026-03-10T03:53:06.670706+00:00",
+  "_source": "neon-exchange-sync",
+  "file_integrity": {
+    "eml_file": "/home/ubuntu/revstream1/docs/evidence/forensic_eml/regima.zone/0084_2020-05-26_0830_bern@regima.zone_MSDS_Sheets_B_-_Malta.eml",
+    "file_size_bytes": 734,
+    "md5": "47e630d9f9f305cddc2b54d19215759c",
+    "sha1": "907fe9792eb9eb1d9bbdc6f8d6ad572b10670b32",
+    "sha256": "5ded7ff0778fd618ef242eb42684af84934842ab67a02a7136d14a34f94df885"
+  },
+  "message_identity": {
+    "exchange_sync_id": "AQMkADMxMzkyY2FlLWNkMGEtNGM2My04OWFiLTNlZDRjNzkyNGUyMwBGAAADSLKv-EI8AESN7LMej4ROLgcAIySisE98NkWmcNijjztGYgAAAj1GAAAAIySisE98NkWmcNijjztGYgAAAlk_AAAA",
+    "internet_message_id": "<AM6PR08MB4819FB1036E9933245B97F40C4B00@AM6PR08MB4819.eurprd08.prod.outlook.com>",
+    "conversation_id": "AAQkADMxMzkyY2FlLWNkMGEtNGM2My04OWFiLTNlZDRjNzkyNGUyMwAQAGwu6yjUwUnTh-tnq6aiKec="
+  },
+  "envelope": {
+    "subject": "MSDS Sheets B - Malta",
+    "from_name": "Bernadine Wright",
+    "from_address": "bern@regima.zone",
+    "to_recipients": [
+      {
+        "name": "Rynette Farrar",
+        "address": "rynette@regima.zone"
+      }
+    ],
+    "cc_recipients": null,
+    "received_datetime": "2020-05-26 08:30:12+00:00"
+  },
+  "mailbox_context": {
+    "user_email": "rynette@regima.zone",
+    "user_name": "Rynette Farrar",
+    "folder_name": "Shipping",
+    "folder_id": "AQMkADMxMzkyY2FlLWNkMGEtNGM2My04OWFiLTNlZDRjNzkyNGUyMwAuAAADSLKv-EI8AESN7LMej4ROLgEAIySisE98NkWmcNijjztGYgAAAj1GAAAA"
+  },
+  "body": {
+    "content_type": null,
+    "preview": "FYI",
+    "body_length_chars": 0
+  },
+  "attachments": []
+}

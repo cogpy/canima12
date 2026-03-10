@@ -1,0 +1,55 @@
+{
+  "_schema": "exchange-forensic-eml/v1",
+  "_generated": "2026-03-10T03:53:23.841334+00:00",
+  "_source": "neon-exchange-sync",
+  "file_integrity": {
+    "eml_file": "/home/ubuntu/revstream1/docs/evidence/forensic_eml/regima.zone/0018_2021-06-21_1052_rynette@regima.zone_RE_SCAR_FORTE_MANUFACTURE_IN_JULY.eml",
+    "file_size_bytes": 859,
+    "md5": "b6f90b3e233fd4a40ccc9596c4a74da5",
+    "sha1": "deabd0144bfdab332e45c6d08b55addec5056151",
+    "sha256": "bd34ff937c4eda1951bf24ef3ae58faf6fae253ff9e6759defa050f621738174"
+  },
+  "message_identity": {
+    "exchange_sync_id": "AAMkADMxMzkyY2FlLWNkMGEtNGM2My04OWFiLTNlZDRjNzkyNGUyMwBGAAAAAABIsq-8QjwARI3ssx6PhE4uBwAjJKKwT3w2RaZw2KOPO0ZiAAAAAAEJAAAjJKKwT3w2RaZw2KOPO0ZiAABTCknBAAA=",
+    "internet_message_id": "<DB9PR08MB6569F3237683575C5B644475BA0A9@DB9PR08MB6569.eurprd08.prod.outlook.com>",
+    "conversation_id": "AAQkADMxMzkyY2FlLWNkMGEtNGM2My04OWFiLTNlZDRjNzkyNGUyMwAQAOBrgDLvAUd2lxcdjF8ScWs="
+  },
+  "envelope": {
+    "subject": "RE: SCAR FORTE MANUFACTURE IN JULY",
+    "from_name": "Rynette Farrar",
+    "from_address": "rynette@regima.zone",
+    "to_recipients": [
+      {
+        "name": "Jacqui Faucitt",
+        "address": "jax@regima.zone"
+      }
+    ],
+    "cc_recipients": [
+      {
+        "name": "JAX@REGIMA.COM",
+        "address": "JAX@REGIMA.COM"
+      },
+      {
+        "name": "PETE@REGIMA.COM",
+        "address": "PETE@REGIMA.COM"
+      },
+      {
+        "name": "Jacqui Faucitt",
+        "address": "jax@regima.zone"
+      }
+    ],
+    "received_datetime": "2021-06-21 10:52:00+00:00"
+  },
+  "mailbox_context": {
+    "user_email": "rynette@regima.zone",
+    "user_name": "Rynette Farrar",
+    "folder_name": "Sent Items",
+    "folder_id": "AQMkADMxMzkyY2FlLWNkMGEtNGM2My04OWFiLTNlZDRjNzkyNGUyMwAuAAADSLKv-EI8AESN7LMej4ROLgEAIySisE98NkWmcNijjztGYgAAAgEJAAAA"
+  },
+  "body": {
+    "content_type": null,
+    "preview": "The order in October is for the 20ml.  We have a order in for the 100ml for manufacturing in July.  All the other packaging is ready for collection this week at Bigfoot for this order.\r\n\r\nSo we can ask that they shift it out for a month, and then we can g",
+    "body_length_chars": 0
+  },
+  "attachments": []
+}

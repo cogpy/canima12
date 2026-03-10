@@ -1,0 +1,44 @@
+{
+  "_schema": "exchange-forensic-eml/v1",
+  "_generated": "2026-03-10T03:50:28.824323+00:00",
+  "_source": "neon-exchange-sync",
+  "file_integrity": {
+    "eml_file": "/home/ubuntu/revstream1/docs/evidence/forensic_eml/rzo.io/0022_2025-10-04_0900_archo@rzo.io_Re_Draft_1.eml",
+    "file_size_bytes": 110911,
+    "md5": "ddbff67f260f33990541e13e9f269612",
+    "sha1": "98a0e9a7a158f55ab78aeef531b1c13626907bb0",
+    "sha256": "518d0d43fb4ec1bc6cb270660129970448e8b4568622641e5720a4ac530642ea"
+  },
+  "message_identity": {
+    "exchange_sync_id": "pst-ab0b4264c0af45c68b63cfbbc3c8c5d540079455",
+    "internet_message_id": "<GV2PR09MB7948B288862D98DF8888404CC2E5A@GV2PR09MB7948.eurprd09.prod.outlook.com>",
+    "conversation_id": "pst-conv-156e808776455eb7fb3231a67b22d1d3"
+  },
+  "envelope": {
+    "subject": "Re: Draft 1",
+    "from_name": "Marduk Archo",
+    "from_address": "archo@rzo.io",
+    "to_recipients": [
+      {
+        "emailAddress": {
+          "name": "dan@regima.com",
+          "address": "dan@regima.com"
+        }
+      }
+    ],
+    "cc_recipients": null,
+    "received_datetime": "2025-10-04 09:00:35+00:00"
+  },
+  "mailbox_context": {
+    "user_email": "archo@rzo.io",
+    "user_name": "Archo",
+    "folder_name": "Inbox",
+    "folder_id": "pst-folder-724ee1470e3b17b3d22361dea8e44d31"
+  },
+  "body": {
+    "content_type": "html",
+    "preview": "ANTICIPATION/RESPONDING AFFIDAVIT IN THE HIGH COURT OF SOUTH AFRICA GAUTENG DIVISION, PRETORIA CASE NO: 2025-137857 In the matter between: PETER ANDREW FAUCITT &nbsp; - APPLICANT (Identity Number: 520430 5706 18 5) And JACQUELINE FAUCITT &nbsp; - FIRST RE",
+    "body_length_chars": 81551
+  },
+  "attachments": []
+}

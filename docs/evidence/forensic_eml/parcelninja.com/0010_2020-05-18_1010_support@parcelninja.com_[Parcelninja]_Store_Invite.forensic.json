@@ -1,0 +1,42 @@
+{
+  "_schema": "exchange-forensic-eml/v1",
+  "_generated": "2026-03-10T03:52:56.471348+00:00",
+  "_source": "neon-exchange-sync",
+  "file_integrity": {
+    "eml_file": "/home/ubuntu/revstream1/docs/evidence/forensic_eml/parcelninja.com/0010_2020-05-18_1010_support@parcelninja.com_[Parcelninja]_Store_Invite.eml",
+    "file_size_bytes": 759,
+    "md5": "2f8777b41fc809c63b9ce4f242e2713f",
+    "sha1": "311d2308b72dfdc968a45ce277bb5d9a2ca12050",
+    "sha256": "ba6b0c2d8fb99ae4e60fa16c6d91a86c1625fa81ae901cf84ca7fa5d2bff65be"
+  },
+  "message_identity": {
+    "exchange_sync_id": "AQMkADMxMzkyY2FlLWNkMGEtNGM2My04OWFiLTNlZDRjNzkyNGUyMwBGAAADSLKv-EI8AESN7LMej4ROLgcAIySisE98NkWmcNijjztGYgAAAj1DAAAAIySisE98NkWmcNijjztGYgAAAk04AAAA",
+    "internet_message_id": "<010201722743a2e2-984c10c4-fad6-4b15-b804-ce1d484bed89-000000@eu-west-1.amazonses.com>",
+    "conversation_id": "AAQkADMxMzkyY2FlLWNkMGEtNGM2My04OWFiLTNlZDRjNzkyNGUyMwAQAKrBZDpjti5Cm-Vu0UGGfOQ="
+  },
+  "envelope": {
+    "subject": "[Parcelninja] Store Invite",
+    "from_name": "support@parcelninja.com",
+    "from_address": "support@parcelninja.com",
+    "to_recipients": [
+      {
+        "name": "Rynette Farrar",
+        "address": "rynette@regima.zone"
+      }
+    ],
+    "cc_recipients": null,
+    "received_datetime": "2020-05-18 10:10:46+00:00"
+  },
+  "mailbox_context": {
+    "user_email": "rynette@regima.zone",
+    "user_name": "Rynette Farrar",
+    "folder_name": "Office",
+    "folder_id": "AQMkADMxMzkyY2FlLWNkMGEtNGM2My04OWFiLTNlZDRjNzkyNGUyMwAuAAADSLKv-EI8AESN7LMej4ROLgEAIySisE98NkWmcNijjztGYgAAAj1DAAAA"
+  },
+  "body": {
+    "content_type": null,
+    "preview": "Store Invite\r\n\r\nYou've received this mail because you have been invited by \"WWD Dermal Skin\" to access their store on the Parcelninja Website. Please note that the link expires in 2 hours. If you do not know anything about this, please contact salesteam@p",
+    "body_length_chars": 0
+  },
+  "attachments": []
+}

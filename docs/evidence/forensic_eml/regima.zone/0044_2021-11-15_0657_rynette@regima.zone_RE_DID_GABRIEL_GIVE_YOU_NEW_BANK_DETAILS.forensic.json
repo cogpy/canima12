@@ -1,0 +1,55 @@
+{
+  "_schema": "exchange-forensic-eml/v1",
+  "_generated": "2026-03-10T03:53:53.061217+00:00",
+  "_source": "neon-exchange-sync",
+  "file_integrity": {
+    "eml_file": "/home/ubuntu/revstream1/docs/evidence/forensic_eml/regima.zone/0044_2021-11-15_0657_rynette@regima.zone_RE_DID_GABRIEL_GIVE_YOU_NEW_BANK_DETAILS.eml",
+    "file_size_bytes": 858,
+    "md5": "d2158e0e0204afe419fe39156740d3d8",
+    "sha1": "67ca002c81b11335f1939692ccfa7ab9c28bba2f",
+    "sha256": "c5e11462c6cad6e341ac396b6d5cd5ace5b3291b659ec48cccdb0c137dd721e4"
+  },
+  "message_identity": {
+    "exchange_sync_id": "AQMkAGM2Y2E0NWVmLWEzZTktNDc1Mi1iY2I4LTU3OTBlMTJhMTllNQBGAAADPe59AHjuz0_HJe8Q4ALb1wcAtr3q_CoE-0aRl7m1844EjgAAAgEMAAAAtr3q_CoE-0aRl7m1844EjgAGqe0PxQAAAA==",
+    "internet_message_id": "<DB9PR08MB6569808A49F11089245D637DBA989@DB9PR08MB6569.eurprd08.prod.outlook.com>",
+    "conversation_id": "AAQkAGM2Y2E0NWVmLWEzZTktNDc1Mi1iY2I4LTU3OTBlMTJhMTllNQAQAMuaBw2Nh0w-tqKFgvCZXrM="
+  },
+  "envelope": {
+    "subject": "RE: DID GABRIEL GIVE YOU NEW BANK DETAILS?",
+    "from_name": "Rynette Farrar",
+    "from_address": "rynette@regima.zone",
+    "to_recipients": [
+      {
+        "name": "Jacqui Faucitt",
+        "address": "jax@regima.zone"
+      }
+    ],
+    "cc_recipients": [
+      {
+        "name": "JAX@REGIMA.COM",
+        "address": "JAX@REGIMA.COM"
+      },
+      {
+        "name": "PETE@REGIMA.COM",
+        "address": "PETE@REGIMA.COM"
+      },
+      {
+        "name": "Jacqui Faucitt",
+        "address": "jax@regima.zone"
+      }
+    ],
+    "received_datetime": "2021-11-15 06:57:18+00:00"
+  },
+  "mailbox_context": {
+    "user_email": "jax@regima.zone",
+    "user_name": "Jacqui Faucitt",
+    "folder_name": "Inbox",
+    "folder_id": "AQMkAGM2Y2E0NWVmLWEzZTktNDc1Mi1iY2I4LTU3OTBlMTJhMTllNQAuAAADPe59AHjuz0_HJe8Q4ALb1wEAtr3q_CoE-0aRl7m1844EjgAAAgEMAAAA"
+  },
+  "body": {
+    "content_type": null,
+    "preview": "Morning\r\n\r\nYes I have changed it on the sheet for you.\r\n\r\n\r\n\r\n\r\nFrom: Jacqui Faucitt <jax@regima.zone>\r\nSent: Monday, 15 November 2021 08:12\r\nTo: Rynette Farrar <rynette@regima.zone>\r\nSubject: DID GABRIEL GIVE YOU NEW BANK DETAILS?\r\n\r\nMorning Rynette\r\n\r\nD",
+    "body_length_chars": 0
+  },
+  "attachments": []
+}

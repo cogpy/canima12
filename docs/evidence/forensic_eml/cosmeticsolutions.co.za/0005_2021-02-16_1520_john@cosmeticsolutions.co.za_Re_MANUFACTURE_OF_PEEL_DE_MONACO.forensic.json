@@ -1,0 +1,55 @@
+{
+  "_schema": "exchange-forensic-eml/v1",
+  "_generated": "2026-03-10T03:53:22.047190+00:00",
+  "_source": "neon-exchange-sync",
+  "file_integrity": {
+    "eml_file": "/home/ubuntu/revstream1/docs/evidence/forensic_eml/cosmeticsolutions.co.za/0005_2021-02-16_1520_john@cosmeticsolutions.co.za_Re_MANUFACTURE_OF_PEEL_DE_MONACO.eml",
+    "file_size_bytes": 837,
+    "md5": "c027c58a947a2ede0d23258d500b3766",
+    "sha1": "3b9169452db53825cd21cf4f13ded385c9ed181e",
+    "sha256": "520073a793c927438734e73492d34803cce0b29d55acfd1fe0f5207cbac06be2"
+  },
+  "message_identity": {
+    "exchange_sync_id": "AQMkAGM2Y2E0NWVmLWEzZTktNDc1Mi1iY2I4LTU3OTBlMTJhMTllNQBGAAADPe59AHjuz0_HJe8Q4ALb1wcAtr3q_CoE-0aRl7m1844EjgAAAgEMAAAAtr3q_CoE-0aRl7m1844EjgAF9YBdsgAAAA==",
+    "internet_message_id": "<00785BE2-8CA9-4A59-B7AA-569B682B0F58@cosmeticsolutions.co.za>",
+    "conversation_id": "AAQkAGM2Y2E0NWVmLWEzZTktNDc1Mi1iY2I4LTU3OTBlMTJhMTllNQAQAL4NLSO7uEAxvKlVWIT0Fd8="
+  },
+  "envelope": {
+    "subject": "Re: MANUFACTURE OF PEEL DE MONACO",
+    "from_name": "John Knowlton",
+    "from_address": "john@cosmeticsolutions.co.za",
+    "to_recipients": [
+      {
+        "name": "Jacqui Faucitt",
+        "address": "jax@regima.zone"
+      }
+    ],
+    "cc_recipients": [
+      {
+        "name": "Peter Faucitt",
+        "address": "PETE@REGIMA.COM"
+      },
+      {
+        "name": "Lizette Rautenbach",
+        "address": "lizette@aubaine.co.za"
+      },
+      {
+        "name": "Daniel Faucitt",
+        "address": "d@rzo.io"
+      }
+    ],
+    "received_datetime": "2021-02-16 15:20:09+00:00"
+  },
+  "mailbox_context": {
+    "user_email": "jax@regima.zone",
+    "user_name": "Jacqui Faucitt",
+    "folder_name": "Inbox",
+    "folder_id": "AQMkAGM2Y2E0NWVmLWEzZTktNDc1Mi1iY2I4LTU3OTBlMTJhMTllNQAuAAADPe59AHjuz0_HJe8Q4ALb1wEAtr3q_CoE-0aRl7m1844EjgAAAgEMAAAA"
+  },
+  "body": {
+    "content_type": null,
+    "preview": "Dearest Jacqui,\r\n\r\nPlease find attached an Excel spreadsheet with the following information:\r\n\r\n\r\n  *   The quantitative formulation for the RégimA Medic, Peel de Monaco, with raw material trade names, INCI names and suppliers(agents) listed.\r\n  *   The f",
+    "body_length_chars": 0
+  },
+  "attachments": []
+}

@@ -1,0 +1,59 @@
+{
+  "_schema": "exchange-forensic-eml/v1",
+  "_generated": "2026-03-10T03:53:51.379571+00:00",
+  "_source": "neon-exchange-sync",
+  "file_integrity": {
+    "eml_file": "/home/ubuntu/revstream1/docs/evidence/forensic_eml/salco.co.za/0010_2020-09-30_0639_henry@salco.co.za_RE_Bank_Details.eml",
+    "file_size_bytes": 887,
+    "md5": "fbe83bec4a8f57be0b5677ab562eee08",
+    "sha1": "13fc11ae81a39408012333a5b5ebb2f5bdc3714f",
+    "sha256": "3d948968822bf49a86bb7fb97607afca7fe84e41b878a656fd961d8d5bc97d56"
+  },
+  "message_identity": {
+    "exchange_sync_id": "AAMkADMxMzkyY2FlLWNkMGEtNGM2My04OWFiLTNlZDRjNzkyNGUyMwBGAAAAAABIsq-8QjwARI3ssx6PhE4uBwAjJKKwT3w2RaZw2KOPO0ZiAAAAAD2gAAAjJKKwT3w2RaZw2KOPO0ZiAAA-JYRtAAA=",
+    "internet_message_id": "<DB7PR01MB4059E52A99AAD182EBEA6817F7330@DB7PR01MB4059.eurprd01.prod.exchangelabs.com>",
+    "conversation_id": "AAQkADMxMzkyY2FlLWNkMGEtNGM2My04OWFiLTNlZDRjNzkyNGUyMwAQAAsNaWjHk6VNpCjoKr1FZM4="
+  },
+  "envelope": {
+    "subject": "RE: Bank Details ",
+    "from_name": "Henry Boyce",
+    "from_address": "henry@salco.co.za",
+    "to_recipients": [
+      {
+        "name": "Kayla Pretorius",
+        "address": "kayla@regima.zone"
+      },
+      {
+        "name": "Salco Admin - Milissa",
+        "address": "admin@salco.co.za"
+      }
+    ],
+    "cc_recipients": [
+      {
+        "name": "Rynette Farrar",
+        "address": "rynette@regima.zone"
+      },
+      {
+        "name": "PETE@REGIMA.COM",
+        "address": "pete@regima.com"
+      },
+      {
+        "name": "jax@regima.com",
+        "address": "jax@regima.com"
+      }
+    ],
+    "received_datetime": "2020-09-30 06:39:45+00:00"
+  },
+  "mailbox_context": {
+    "user_email": "rynette@regima.zone",
+    "user_name": "Rynette Farrar",
+    "folder_name": "Salco",
+    "folder_id": "AQMkADMxMzkyY2FlLWNkMGEtNGM2My04OWFiLTNlZDRjNzkyNGUyMwAuAAADSLKv-EI8AESN7LMej4ROLgEAIySisE98NkWmcNijjztGYgAAAj2gAAAA"
+  },
+  "body": {
+    "content_type": null,
+    "preview": "Good morning Kayla,\r\nThe banking details are on the bottom of the invoice. If you need a letter from the FNB, please see attached letter, confirming bank details.\r\n\r\n\r\nRegards,\r\n\r\nHenry Boyce\r\nhenry@salco.co.za\r\nTel (011) 828 – 9881\r\nCell (063) 476 1102",
+    "body_length_chars": 0
+  },
+  "attachments": []
+}

@@ -1,0 +1,55 @@
+{
+  "_schema": "exchange-forensic-eml/v1",
+  "_generated": "2026-03-10T03:53:22.323235+00:00",
+  "_source": "neon-exchange-sync",
+  "file_integrity": {
+    "eml_file": "/home/ubuntu/revstream1/docs/evidence/forensic_eml/regima.zone/0007_2021-02-17_0620_jax@regima.zone_RE_MANUFACTURE_OF_PEEL_DE_MONACO.eml",
+    "file_size_bytes": 857,
+    "md5": "b18c3f340dd1ce1b8a6c01d538516037",
+    "sha1": "4305a66d9bddb9025c29df59501f5c0b668b67e0",
+    "sha256": "a5f031194007e5c0e2d4331692cce9f48d2639ef262825d7483dce7896464869"
+  },
+  "message_identity": {
+    "exchange_sync_id": "AAMkAGM2Y2E0NWVmLWEzZTktNDc1Mi1iY2I4LTU3OTBlMTJhMTllNQBGAAAAAAA97n0AeO7PT4cl7xDgAtvXBwC2ver4KgT-RpGXubXzjgSOAAIZYOy5AAC2ver4KgT-RpGXubXzjgSOAAdIATKtAAA=",
+    "internet_message_id": "<DB7PR08MB3306D8E1476871808682C5B7AC869@DB7PR08MB3306.eurprd08.prod.outlook.com>",
+    "conversation_id": "AAQkAGM2Y2E0NWVmLWEzZTktNDc1Mi1iY2I4LTU3OTBlMTJhMTllNQAQAL4NLSO7uEAxvKlVWIT0Fd8="
+  },
+  "envelope": {
+    "subject": "RE: MANUFACTURE OF PEEL DE MONACO",
+    "from_name": "Jacqui Faucitt",
+    "from_address": "jax@regima.zone",
+    "to_recipients": [
+      {
+        "name": "John Knowlton",
+        "address": "john@cosmeticsolutions.co.za"
+      }
+    ],
+    "cc_recipients": [
+      {
+        "name": "Peter Faucitt",
+        "address": "pete@regima.com"
+      },
+      {
+        "name": "Lizette Rautenbach",
+        "address": "lizette@aubaine.co.za"
+      },
+      {
+        "name": "Daniel Faucitt",
+        "address": "d@rzo.io"
+      }
+    ],
+    "received_datetime": "2021-02-17 06:20:00+00:00"
+  },
+  "mailbox_context": {
+    "user_email": "jax@regima.zone",
+    "user_name": "Jacqui Faucitt",
+    "folder_name": "Archive",
+    "folder_id": "AQMkAGM2Y2E0NWVmLWEzZTktNDc1Mi1iY2I4LTU3OTBlMTJhMTllNQAuAAADPe59AHjuz0_HJe8Q4ALb1wEAtr3q_CoE-0aRl7m1844EjgACGWDsuQAAAA=="
+  },
+  "body": {
+    "content_type": null,
+    "preview": "Dearest John\r\n\r\nAwesome, many thanks.  I will copy paste for Karen just the product name, trade and INCI, suppliers and the green column (obviously not our full sheet) and will get cracking on it.  I will specify that it must be these suppliers, no generi",
+    "body_length_chars": 0
+  },
+  "attachments": []
+}

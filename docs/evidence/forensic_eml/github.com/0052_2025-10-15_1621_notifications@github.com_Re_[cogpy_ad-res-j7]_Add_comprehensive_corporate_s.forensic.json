@@ -1,0 +1,51 @@
+{
+  "_schema": "exchange-forensic-eml/v1",
+  "_generated": "2026-03-10T03:50:33.171024+00:00",
+  "_source": "neon-exchange-sync",
+  "file_integrity": {
+    "eml_file": "/home/ubuntu/revstream1/docs/evidence/forensic_eml/github.com/0052_2025-10-15_1621_notifications@github.com_Re_[cogpy_ad-res-j7]_Add_comprehensive_corporate_s.eml",
+    "file_size_bytes": 3829,
+    "md5": "2099cc2aab73be9a2ee1bf451de3529a",
+    "sha1": "ef40e6b005b0eb87f93d88e16afebb2c394038c3",
+    "sha256": "58aac00c84564d45e0025c9f0841bf34db8019c86666e59e45dac77802cadc6b"
+  },
+  "message_identity": {
+    "exchange_sync_id": "AAMkAGYzMDVmNzkwLWNmZjMtNDBjZC04ZmY4LTRkNGEzNTgxMjU2MABGAAAAAADPi1nZV45aRY1s43jJ3tfJBwCtp_82Ac8MTK2-lmRJoPi9AAAAAAEMAACpChlY1MKaRbKdNPbWwiIjAAgYUfJmAAA=",
+    "internet_message_id": "<cogpy/ad-res-j7/pull/1075/before/b86ff83e8db901e7dcd419cc62b7920d22734a32/after/b12b90a5a67d062c085c6023cef451ce410c7086@github.com>",
+    "conversation_id": "AAQkAGYzMDVmNzkwLWNmZjMtNDBjZC04ZmY4LTRkNGEzNTgxMjU2MAAQAJcnzaAgOyhCv3cqNApzVrQ="
+  },
+  "envelope": {
+    "subject": "Re: [cogpy/ad-res-j7] Add comprehensive corporate structure, trust powers, and Bantjies conflict details to JF-DAN-WITNESS (PR #1075)",
+    "from_name": "Copilot",
+    "from_address": "notifications@github.com",
+    "to_recipients": [
+      {
+        "name": "cogpy/ad-res-j7",
+        "address": "ad-res-j7@noreply.github.com"
+      }
+    ],
+    "cc_recipients": [
+      {
+        "name": "Daniel Faucitt",
+        "address": "dan@regima.zone"
+      },
+      {
+        "name": "Push",
+        "address": "push@noreply.github.com"
+      }
+    ],
+    "received_datetime": "2025-10-15 16:21:33+00:00"
+  },
+  "mailbox_context": {
+    "user_email": "dan@regima.zone",
+    "user_name": "Daniel Faucitt",
+    "folder_name": "Inbox",
+    "folder_id": "AAMkAGYzMDVmNzkwLWNmZjMtNDBjZC04ZmY4LTRkNGEzNTgxMjU2MAAuAAAAAADPi1nZV45aRY1s43jJ3tfJAQCtp_82Ac8MTK2-lmRJoPi9AAAAAAEMAAA="
+  },
+  "body": {
+    "content_type": "html",
+    "preview": "@Copilot pushed 1 commit.\r\n\r\n  *   b12b90a Add comprehensive Bantjies hypergraph attention analysis solving central orchestrator mystery\r\n\r\n—\r\nView it on GitHub or unsubscribe.\r\nYou are receiving this because you are subscribed to this thread.Message ID: ",
+    "body_length_chars": 1973
+  },
+  "attachments": []
+}

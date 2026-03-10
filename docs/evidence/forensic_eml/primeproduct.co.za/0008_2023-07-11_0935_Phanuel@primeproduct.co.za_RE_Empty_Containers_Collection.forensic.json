@@ -1,0 +1,75 @@
+{
+  "_schema": "exchange-forensic-eml/v1",
+  "_generated": "2026-03-10T03:50:26.876172+00:00",
+  "_source": "neon-exchange-sync",
+  "file_integrity": {
+    "eml_file": "/home/ubuntu/revstream1/docs/evidence/forensic_eml/primeproduct.co.za/0008_2023-07-11_0935_Phanuel@primeproduct.co.za_RE_Empty_Containers_Collection.eml",
+    "file_size_bytes": 15069,
+    "md5": "1f94162ac36f1896d3baa361f9fda8a7",
+    "sha1": "b59cd19523767f0ea444a595f069eddeabb0274c",
+    "sha256": "ebb85316000673369d709acd30be101387e27954ae58003e0aed4801f375aabe"
+  },
+  "message_identity": {
+    "exchange_sync_id": "AAMkAGM2Y2E0NWVmLWEzZTktNDc1Mi1iY2I4LTU3OTBlMTJhMTllNQBGAAAAAAA97n0AeO7PT4cl7xDgAtvXBwC2ver4KgT-RpGXubXzjgSOAAAUieEnAAC2ver4KgT-RpGXubXzjgSOAAg5P_VRAAA=",
+    "internet_message_id": "<DB8P189MB1128C26A3B151DC8B9C47E8E8E31A@DB8P189MB1128.EURP189.PROD.OUTLOOK.COM>",
+    "conversation_id": "AAQkAGM2Y2E0NWVmLWEzZTktNDc1Mi1iY2I4LTU3OTBlMTJhMTllNQAQALayujzvnClJsANzjBTEZis="
+  },
+  "envelope": {
+    "subject": "RE: Empty Containers / Collection",
+    "from_name": "Phanuel Moalafi",
+    "from_address": "Phanuel@primeproduct.co.za",
+    "to_recipients": [
+      {
+        "name": "Rynette Farrar",
+        "address": "rynette@regima.zone"
+      },
+      {
+        "name": "Charlene Trimm",
+        "address": "Charlene@primeproduct.co.za"
+      },
+      {
+        "name": "Jacqui Faucitt",
+        "address": "jax@regima.zone"
+      }
+    ],
+    "cc_recipients": [
+      {
+        "name": "Sankele Makobe",
+        "address": "sankele@primeproduct.co.za"
+      },
+      {
+        "name": "Melvin Bantjies",
+        "address": "Melvin@primeproduct.co.za"
+      },
+      {
+        "name": "Luke Spies",
+        "address": "Luke@primeproduct.co.za"
+      },
+      {
+        "name": "Rodney MPhaki",
+        "address": "Rodney@primeproduct.co.za"
+      },
+      {
+        "name": "Tebatso Peta",
+        "address": "tebatso@primeproduct.co.za"
+      },
+      {
+        "name": "Delene De Reuck",
+        "address": "Delene@primeproduct.co.za"
+      }
+    ],
+    "received_datetime": "2023-07-11 09:35:52+00:00"
+  },
+  "mailbox_context": {
+    "user_email": "jax@regima.zone",
+    "user_name": "Jacqui Faucitt",
+    "folder_name": "Conflicts",
+    "folder_id": "AAMkAGM2Y2E0NWVmLWEzZTktNDc1Mi1iY2I4LTU3OTBlMTJhMTllNQAuAAAAAAA97n0AeO7PT4cl7xDgAtvXAQC2ver4KgT-RpGXubXzjgSOAAAUieEnAAA="
+  },
+  "body": {
+    "content_type": "html",
+    "preview": "Hi Rynette\r\nNoted, we will collect on Thursday as indicated earlier\r\n\r\n\r\nFrom: Rynette Farrar <rynette@regima.zone>\r\nSent: Tuesday, July 11, 2023 11:30 AM\r\nTo: Phanuel Moalafi <Phanuel@primeproduct.co.za>; Charlene Trimm <Charlene@primeproduct.co.za>; Jac",
+    "body_length_chars": 10206
+  },
+  "attachments": []
+}

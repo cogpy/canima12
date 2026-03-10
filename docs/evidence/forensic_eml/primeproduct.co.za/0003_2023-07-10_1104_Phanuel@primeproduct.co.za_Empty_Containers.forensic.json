@@ -1,0 +1,67 @@
+{
+  "_schema": "exchange-forensic-eml/v1",
+  "_generated": "2026-03-10T03:50:26.044102+00:00",
+  "_source": "neon-exchange-sync",
+  "file_integrity": {
+    "eml_file": "/home/ubuntu/revstream1/docs/evidence/forensic_eml/primeproduct.co.za/0003_2023-07-10_1104_Phanuel@primeproduct.co.za_Empty_Containers.eml",
+    "file_size_bytes": 2696,
+    "md5": "552e5d7d69234fba08d886f5fba28b0e",
+    "sha1": "f2566b8b24117a142ae7500817f2867d5e06f647",
+    "sha256": "1e69fc26324c71a83971371422634bdbb8d39f535e189b041a3c41dba22879d1"
+  },
+  "message_identity": {
+    "exchange_sync_id": "AQMkADMxMzkyY2FlLWNkMGEtNGM2My04OWFiLTNlZDRjNzkyNGUyMwBGAAADSLKv-EI8AESN7LMej4ROLgcAIySisE98NkWmcNijjztGYgAAAj3CAAAAIySisE98NkWmcNijjztGYgABrtaFwQAAAA==",
+    "internet_message_id": "<DB8P189MB11287EE7C811FEF5479767EB8E30A@DB8P189MB1128.EURP189.PROD.OUTLOOK.COM>",
+    "conversation_id": "AAQkADMxMzkyY2FlLWNkMGEtNGM2My04OWFiLTNlZDRjNzkyNGUyMwAQANhZxIWvaUh0gNLaLdfCiIU="
+  },
+  "envelope": {
+    "subject": "Empty Containers",
+    "from_name": "Phanuel Moalafi",
+    "from_address": "Phanuel@primeproduct.co.za",
+    "to_recipients": [
+      {
+        "name": "Rynette Farrar",
+        "address": "rynette@regima.zone"
+      }
+    ],
+    "cc_recipients": [
+      {
+        "name": "Sankele Makobe",
+        "address": "sankele@primeproduct.co.za"
+      },
+      {
+        "name": "Melvin Bantjies",
+        "address": "Melvin@primeproduct.co.za"
+      },
+      {
+        "name": "Luke Spies",
+        "address": "Luke@primeproduct.co.za"
+      },
+      {
+        "name": "Rodney MPhaki",
+        "address": "Rodney@primeproduct.co.za"
+      },
+      {
+        "name": "Tebatso Peta",
+        "address": "tebatso@primeproduct.co.za"
+      },
+      {
+        "name": "Delene De Reuck",
+        "address": "Delene@primeproduct.co.za"
+      }
+    ],
+    "received_datetime": "2023-07-10 11:04:15+00:00"
+  },
+  "mailbox_context": {
+    "user_email": "rynette@regima.zone",
+    "user_name": "Rynette Farrar",
+    "folder_name": "Prime",
+    "folder_id": "AQMkADMxMzkyY2FlLWNkMGEtNGM2My04OWFiLTNlZDRjNzkyNGUyMwAuAAADSLKv-EI8AESN7LMej4ROLgEAIySisE98NkWmcNijjztGYgAAAj3CAAAA"
+  },
+  "body": {
+    "content_type": "html",
+    "preview": "Afternoon Rynette\r\nWe have Raw Material Empty Containers for you, can we deliver for you tomorrow?",
+    "body_length_chars": 1118
+  },
+  "attachments": []
+}

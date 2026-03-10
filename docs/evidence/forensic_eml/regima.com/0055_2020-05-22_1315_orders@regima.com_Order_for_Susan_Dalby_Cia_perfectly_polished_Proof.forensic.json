@@ -1,0 +1,59 @@
+{
+  "_schema": "exchange-forensic-eml/v1",
+  "_generated": "2026-03-10T03:53:02.675408+00:00",
+  "_source": "neon-exchange-sync",
+  "file_integrity": {
+    "eml_file": "/home/ubuntu/revstream1/docs/evidence/forensic_eml/regima.com/0055_2020-05-22_1315_orders@regima.com_Order_for_Susan_Dalby_Cia_perfectly_polished_Proof.eml",
+    "file_size_bytes": 923,
+    "md5": "435a6effca0fe7a29e3e94635b4bee3b",
+    "sha1": "831e405b29932ec85009ff394457e449f7115031",
+    "sha256": "c28a98377c67ac3c013e1588281e3612ba912cbe35aaa0162fe1887b0aeead12"
+  },
+  "message_identity": {
+    "exchange_sync_id": "AQMkADMxMzkyY2FlLWNkMGEtNGM2My04OWFiLTNlZDRjNzkyNGUyMwBGAAADSLKv-EI8AESN7LMej4ROLgcAIySisE98NkWmcNijjztGYgAAAj1EAAAAIySisE98NkWmcNijjztGYgAAAlFDAAAA",
+    "internet_message_id": "<020701d6302a$ebfa7df0$c3ef79d0$@regima.com>",
+    "conversation_id": "AAQkADMxMzkyY2FlLWNkMGEtNGM2My04OWFiLTNlZDRjNzkyNGUyMwAQADmOigTVf0o0meiwXffCfrk="
+  },
+  "envelope": {
+    "subject": "Order for Susan Dalby Cia perfectly polished Proof of Payment WWD0269",
+    "from_name": "orders@regima.com",
+    "from_address": "orders@regima.com",
+    "to_recipients": [
+      {
+        "name": "carolinestrydom2@gmail.com",
+        "address": "carolinestrydom2@gmail.com"
+      }
+    ],
+    "cc_recipients": [
+      {
+        "name": "'Peter Andrew Faucitt'",
+        "address": "pete@regima.com"
+      },
+      {
+        "name": "Jacqui Faucitt",
+        "address": "jax@regima.zone"
+      },
+      {
+        "name": "Bernadine Wright",
+        "address": "bern@regima.zone"
+      },
+      {
+        "name": "Rynette Farrar",
+        "address": "rynette@regima.zone"
+      }
+    ],
+    "received_datetime": "2020-05-22 13:15:20+00:00"
+  },
+  "mailbox_context": {
+    "user_email": "rynette@regima.zone",
+    "user_name": "Rynette Farrar",
+    "folder_name": "Orders",
+    "folder_id": "AQMkADMxMzkyY2FlLWNkMGEtNGM2My04OWFiLTNlZDRjNzkyNGUyMwAuAAADSLKv-EI8AESN7LMej4ROLgEAIySisE98NkWmcNijjztGYgAAAj1EAAAA"
+  },
+  "body": {
+    "content_type": null,
+    "preview": "Hi Caroline\r\n\r\nThank you, proof of payment received.\r\n\r\nYour order is being processed.\r\n\r\nKind Regards\r\nKent\r\n\r\nFrom: Caroline Strydom <carolinestrydom2@gmail.com>\r\nSent: 22 May 2020 12:55 PM\r\nTo: Orders@regima.com\r\nSubject: Re: Order for Susan Dalby Cia ",
+    "body_length_chars": 0
+  },
+  "attachments": []
+}

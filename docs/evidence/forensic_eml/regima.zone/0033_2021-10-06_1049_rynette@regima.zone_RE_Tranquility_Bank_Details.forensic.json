@@ -1,0 +1,55 @@
+{
+  "_schema": "exchange-forensic-eml/v1",
+  "_generated": "2026-03-10T03:53:52.516276+00:00",
+  "_source": "neon-exchange-sync",
+  "file_integrity": {
+    "eml_file": "/home/ubuntu/revstream1/docs/evidence/forensic_eml/regima.zone/0033_2021-10-06_1049_rynette@regima.zone_RE_Tranquility_Bank_Details.eml",
+    "file_size_bytes": 853,
+    "md5": "17bd156fdc83e6dd4261a124693b2944",
+    "sha1": "76d6467e28527dc43d8ad9c9391015ae1e6405b1",
+    "sha256": "4ae443a32a436ff66ed6142a25d3e00b18cdd23567a7bb35da055735f7afd530"
+  },
+  "message_identity": {
+    "exchange_sync_id": "AAMkADMxMzkyY2FlLWNkMGEtNGM2My04OWFiLTNlZDRjNzkyNGUyMwBGAAAAAABIsq-8QjwARI3ssx6PhE4uBwAjJKKwT3w2RaZw2KOPO0ZiAAAAAAEJAAAjJKKwT3w2RaZw2KOPO0ZiAABTCqGFAAA=",
+    "internet_message_id": "<DB9PR08MB65693291AA5EB99A4CBF495EBAB09@DB9PR08MB6569.eurprd08.prod.outlook.com>",
+    "conversation_id": "AAQkADMxMzkyY2FlLWNkMGEtNGM2My04OWFiLTNlZDRjNzkyNGUyMwAQAFJiawMTbUXRgUb-qpJUVDE="
+  },
+  "envelope": {
+    "subject": "RE: Tranquility Bank Details",
+    "from_name": "Rynette Farrar",
+    "from_address": "rynette@regima.zone",
+    "to_recipients": [
+      {
+        "name": "Jacqui Faucitt",
+        "address": "jax@regima.zone"
+      }
+    ],
+    "cc_recipients": [
+      {
+        "name": "JAX@REGIMA.COM",
+        "address": "JAX@REGIMA.COM"
+      },
+      {
+        "name": "PETE@REGIMA.COM",
+        "address": "PETE@REGIMA.COM"
+      },
+      {
+        "name": "Jacqui Faucitt",
+        "address": "jax@regima.zone"
+      }
+    ],
+    "received_datetime": "2021-10-06 10:49:00+00:00"
+  },
+  "mailbox_context": {
+    "user_email": "rynette@regima.zone",
+    "user_name": "Rynette Farrar",
+    "folder_name": "Sent Items",
+    "folder_id": "AQMkADMxMzkyY2FlLWNkMGEtNGM2My04OWFiLTNlZDRjNzkyNGUyMwAuAAADSLKv-EI8AESN7LMej4ROLgEAIySisE98NkWmcNijjztGYgAAAgEJAAAA"
+  },
+  "body": {
+    "content_type": null,
+    "preview": "That date was the 1st of September.\r\n\r\n\r\n\r\nFrom: Rynette Farrar\r\nSent: Wednesday, 06 October 2021 09:45\r\nTo: Jacqui Faucitt <jax@regima.zone>\r\nCc: 'JAX@REGIMA.COM' <JAX@REGIMA.COM>; 'PETE@REGIMA.COM' <PETE@REGIMA.COM>; Jacqui Faucitt <jax@regima.zone>\r\nSu",
+    "body_length_chars": 0
+  },
+  "attachments": []
+}

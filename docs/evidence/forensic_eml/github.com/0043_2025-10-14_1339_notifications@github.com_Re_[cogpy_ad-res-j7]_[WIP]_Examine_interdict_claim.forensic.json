@@ -1,0 +1,51 @@
+{
+  "_schema": "exchange-forensic-eml/v1",
+  "_generated": "2026-03-10T03:50:31.926521+00:00",
+  "_source": "neon-exchange-sync",
+  "file_integrity": {
+    "eml_file": "/home/ubuntu/revstream1/docs/evidence/forensic_eml/github.com/0043_2025-10-14_1339_notifications@github.com_Re_[cogpy_ad-res-j7]_[WIP]_Examine_interdict_claim.eml",
+    "file_size_bytes": 3740,
+    "md5": "e730ff4fb2f13ee41f482275950a15c5",
+    "sha1": "dc62d878f6710392f0efebac3e713ba595c7184e",
+    "sha256": "5df7632a1b83b2321c41a8d9a3a2319a7ff54ff62e01f15c75b0f219265496cb"
+  },
+  "message_identity": {
+    "exchange_sync_id": "AAMkAGYzMDVmNzkwLWNmZjMtNDBjZC04ZmY4LTRkNGEzNTgxMjU2MABGAAAAAADPi1nZV45aRY1s43jJ3tfJBwCtp_82Ac8MTK2-lmRJoPi9AAAAAAEMAACpChlY1MKaRbKdNPbWwiIjAAgWsxhjAAA=",
+    "internet_message_id": "<cogpy/ad-res-j7/pull/524/before/aa2fc69e7c5055cc0aed44fc28630f27e2aeb7b7/after/3df9d366b0d43e5a6559f3c49d871deeffc7fffe@github.com>",
+    "conversation_id": "AAQkAGYzMDVmNzkwLWNmZjMtNDBjZC04ZmY4LTRkNGEzNTgxMjU2MAAQAJBI2IL4C25BoANL2Geyly4="
+  },
+  "envelope": {
+    "subject": "Re: [cogpy/ad-res-j7] [WIP] Examine interdict claims involving Peter, Daniel, and Jacqui (PR #524)",
+    "from_name": "Copilot",
+    "from_address": "notifications@github.com",
+    "to_recipients": [
+      {
+        "name": "cogpy/ad-res-j7",
+        "address": "ad-res-j7@noreply.github.com"
+      }
+    ],
+    "cc_recipients": [
+      {
+        "name": "Daniel Faucitt",
+        "address": "dan@regima.zone"
+      },
+      {
+        "name": "Push",
+        "address": "push@noreply.github.com"
+      }
+    ],
+    "received_datetime": "2025-10-14 13:39:52+00:00"
+  },
+  "mailbox_context": {
+    "user_email": "dan@regima.zone",
+    "user_name": "Daniel Faucitt",
+    "folder_name": "Inbox",
+    "folder_id": "AAMkAGYzMDVmNzkwLWNmZjMtNDBjZC04ZmY4LTRkNGEzNTgxMjU2MAAuAAAAAADPi1nZV45aRY1s43jJ3tfJAQCtp_82Ac8MTK2-lmRJoPi9AAAAAAEMAAA="
+  },
+  "body": {
+    "content_type": "html",
+    "preview": "@Copilot pushed 1 commit.\r\n\r\n  *   3df9d36 Add comprehensive Bantjies trustee contradictions analysis\r\n\r\n—\r\nView it on GitHub or unsubscribe.\r\nYou are receiving this because you are subscribed to this thread.Message ID: <cogpy/ad-res-j7/pull/524/before/aa",
+    "body_length_chars": 1936
+  },
+  "attachments": []
+}

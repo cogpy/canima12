@@ -1,0 +1,42 @@
+{
+  "_schema": "exchange-forensic-eml/v1",
+  "_generated": "2026-03-10T03:53:52.962102+00:00",
+  "_source": "neon-exchange-sync",
+  "file_integrity": {
+    "eml_file": "/home/ubuntu/revstream1/docs/evidence/forensic_eml/regima.zone/0042_2021-11-15_0612_jax@regima.zone_DID_GABRIEL_GIVE_YOU_NEW_BANK_DETAILS.eml",
+    "file_size_bytes": 750,
+    "md5": "0e26a27b22fe05478e7a5dbe52c3620e",
+    "sha1": "a6080374ca4b4d2963dc943c46daf9b09c25b8e7",
+    "sha256": "463733553456007d91f8afcc851c21442466c8e84a967a1961d4004fb80660dc"
+  },
+  "message_identity": {
+    "exchange_sync_id": "AAMkADMxMzkyY2FlLWNkMGEtNGM2My04OWFiLTNlZDRjNzkyNGUyMwBGAAAAAABIsq-8QjwARI3ssx6PhE4uBwAjJKKwT3w2RaZw2KOPO0ZiAAAAAD2DAAAjJKKwT3w2RaZw2KOPO0ZiAABTCrogAAA=",
+    "internet_message_id": "<DB7PR08MB3306009AD99F88FDB1850FE7AC989@DB7PR08MB3306.eurprd08.prod.outlook.com>",
+    "conversation_id": "AAQkADMxMzkyY2FlLWNkMGEtNGM2My04OWFiLTNlZDRjNzkyNGUyMwAQAMuaBw2Nh0w-tqKFgvCZXrM="
+  },
+  "envelope": {
+    "subject": "DID GABRIEL GIVE YOU NEW BANK DETAILS?",
+    "from_name": "Jacqui Faucitt",
+    "from_address": "jax@regima.zone",
+    "to_recipients": [
+      {
+        "name": "Rynette Farrar",
+        "address": "rynette@regima.zone"
+      }
+    ],
+    "cc_recipients": null,
+    "received_datetime": "2021-11-15 06:12:03+00:00"
+  },
+  "mailbox_context": {
+    "user_email": "rynette@regima.zone",
+    "user_name": "Rynette Farrar",
+    "folder_name": "Jacqui",
+    "folder_id": "AQMkADMxMzkyY2FlLWNkMGEtNGM2My04OWFiLTNlZDRjNzkyNGUyMwAuAAADSLKv-EI8AESN7LMej4ROLgEAIySisE98NkWmcNijjztGYgAAAj2DAAAA"
+  },
+  "body": {
+    "content_type": null,
+    "preview": "Morning Rynette\r\n\r\nDid Gabriel give you new bank details?  Pete asked him to as obviously he cannot use Kayla’s account",
+    "body_length_chars": 0
+  },
+  "attachments": []
+}

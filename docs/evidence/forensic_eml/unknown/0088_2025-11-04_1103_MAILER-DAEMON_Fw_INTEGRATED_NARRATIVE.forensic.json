@@ -1,0 +1,57 @@
+{
+  "_schema": "exchange-forensic-eml/v1",
+  "_generated": "2026-03-10T03:50:38.677974+00:00",
+  "_source": "neon-exchange-sync",
+  "file_integrity": {
+    "eml_file": "/home/ubuntu/revstream1/docs/evidence/forensic_eml/unknown/0088_2025-11-04_1103_MAILER-DAEMON_Fw_INTEGRATED_NARRATIVE.eml",
+    "file_size_bytes": 154593,
+    "md5": "c075955c59639237b829bc9129ce0997",
+    "sha1": "4a7625f376de4ac4ea9639bb0f8542eb6837255f",
+    "sha256": "41f0463aa08a652ec4d4c7dad84286cee61ba9f5f92249be956c8bd9b0605e0a"
+  },
+  "message_identity": {
+    "exchange_sync_id": "pst-bf2f48f16613be390cdb147f53098d48c95da274",
+    "internet_message_id": "<JNZP275MB1321195D5479637415248E35CBC4A@JNZP275MB1321.ZAFP275.PROD.OUTLOOK.COM>",
+    "conversation_id": null
+  },
+  "envelope": {
+    "subject": "Fw: INTEGRATED NARRATIVE",
+    "from_name": "Daniel Faucitt",
+    "from_address": "MAILER-DAEMON",
+    "to_recipients": [
+      {
+        "emailAddress": {
+          "name": "Manus",
+          "address": "Manus"
+        }
+      }
+    ],
+    "cc_recipients": [
+      {
+        "emailAddress": {
+          "name": "d",
+          "address": "d@rzo.io"
+        }
+      },
+      {
+        "emailAddress": {
+          "name": "Daniel",
+          "address": "Daniel"
+        }
+      }
+    ],
+    "received_datetime": "2025-11-04 11:03:10+00:00"
+  },
+  "mailbox_context": {
+    "user_email": "dan@regima.com",
+    "user_name": "Dan",
+    "folder_name": "Sent Items",
+    "folder_id": "pst-folder-d5f2fe49026e4bccf5f8a98e2e8a2b1d"
+  },
+  "body": {
+    "content_type": "html",
+    "preview": "P {margin-top:0;margin-bottom:0;} Hey man Please add the below narrative style account to &nbsp;to https://github.com/rzonedevops/analysis &nbsp;&amp; https://github.com/cogpy/ad-res-j7 &nbsp;&amp; https://github.com/cogpy/canima &nbsp;and identify the An",
+    "body_length_chars": 113281
+  },
+  "attachments": []
+}

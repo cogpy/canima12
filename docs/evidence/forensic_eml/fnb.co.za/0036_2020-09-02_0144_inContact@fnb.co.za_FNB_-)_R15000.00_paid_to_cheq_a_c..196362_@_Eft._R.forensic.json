@@ -1,0 +1,42 @@
+{
+  "_schema": "exchange-forensic-eml/v1",
+  "_generated": "2026-03-10T03:53:47.154921+00:00",
+  "_source": "neon-exchange-sync",
+  "file_integrity": {
+    "eml_file": "/home/ubuntu/revstream1/docs/evidence/forensic_eml/fnb.co.za/0036_2020-09-02_0144_inContact@fnb.co.za_FNB_-)_R15000.00_paid_to_cheq_a_c..196362_@_Eft._R.eml",
+    "file_size_bytes": 2333,
+    "md5": "5699efc226793b7864d147065f5715f9",
+    "sha1": "a6fc43e447f385a0ee4295b6b34540f251233d70",
+    "sha256": "7bb87c4c27a5bf5f788b3b34d486b62d26309eaad64506d6dce8cfe78b996154"
+  },
+  "message_identity": {
+    "exchange_sync_id": "AAMkAGM2Y2E0NWVmLWEzZTktNDc1Mi1iY2I4LTU3OTBlMTJhMTllNQBGAAAAAAA97n0AeO7PT4cl7xDgAtvXBwC2ver4KgT-RpGXubXzjgSOAAIZYOy5AAC2ver4KgT-RpGXubXzjgSOAAdIAJsJAAA=",
+    "internet_message_id": "<1324708231.14459870.1599011095729.JavaMail.grandmama@s4-incontactgrandmama-03.fnb.co.za>",
+    "conversation_id": "AAQkAGM2Y2E0NWVmLWEzZTktNDc1Mi1iY2I4LTU3OTBlMTJhMTllNQAQAOfeY7hdxcZDqgE91qRCeWI="
+  },
+  "envelope": {
+    "subject": "FNB :-) R15000.00 paid to cheq a/c..196362 @ Eft. Ref.Absa Bank Synergise.  2Sep 00:00",
+    "from_name": "inContact@fnb.co.za",
+    "from_address": "inContact@fnb.co.za",
+    "to_recipients": [
+      {
+        "name": "Jacqui Faucitt",
+        "address": "jax@regima.zone"
+      }
+    ],
+    "cc_recipients": null,
+    "received_datetime": "2020-09-02 01:44:59+00:00"
+  },
+  "mailbox_context": {
+    "user_email": "jax@regima.zone",
+    "user_name": "Jacqui Faucitt",
+    "folder_name": "Archive",
+    "folder_id": "AQMkAGM2Y2E0NWVmLWEzZTktNDc1Mi1iY2I4LTU3OTBlMTJhMTllNQAuAAADPe59AHjuz0_HJe8Q4ALb1wEAtr3q_CoE-0aRl7m1844EjgACGWDsuQAAAA=="
+  },
+  "body": {
+    "content_type": "html",
+    "preview": "Dear valued customer\r\n\r\n• FNB :-) R15000.00 paid to cheq a/c..196362 @ Eft. Ref.Absa Bank Synergise. 2Sep 00:00\r\n\r\nPlease do NOT reply to this message as it is sent from an unattended mailbox",
+    "body_length_chars": 987
+  },
+  "attachments": []
+}

@@ -1,0 +1,63 @@
+{
+  "_schema": "exchange-forensic-eml/v1",
+  "_generated": "2026-03-10T03:50:39.395642+00:00",
+  "_source": "neon-exchange-sync",
+  "file_integrity": {
+    "eml_file": "/home/ubuntu/revstream1/docs/evidence/forensic_eml/regima.zone/0093_2025-11-07_0503_jax@regima.zone_ARE_YOU_ABLE_TO_OPPOSE_PART_A_OF_THE_EXPARTE_INTER.eml",
+    "file_size_bytes": 3070,
+    "md5": "566400ce8f2b782cbeefbdbed547537c",
+    "sha1": "077ba514c8e578a8103199127595e774fb5bd73a",
+    "sha256": "ff2548781736ba2faa3556af2ecd521ae271e47a030e32e90140842de3c1d729"
+  },
+  "message_identity": {
+    "exchange_sync_id": "pst-87491f1846562a1f1f34f67f69573e8beb604a69",
+    "internet_message_id": "<GV2PR08MB92075C476123E76ECACA8492ACC3A@GV2PR08MB9207.eurprd08.prod.outlook.com>",
+    "conversation_id": "pst-conv-aceddf47883fe8a1ffe42ffea913c8c1"
+  },
+  "envelope": {
+    "subject": "ARE YOU ABLE TO OPPOSE PART A OF THE EXPARTE INTERDICT, THE FIRST ONE",
+    "from_name": "Jacqui Faucitt",
+    "from_address": "jax@regima.zone",
+    "to_recipients": [
+      {
+        "emailAddress": {
+          "name": "Doron Block",
+          "address": "block@rivoniaadvocates.co.za"
+        }
+      },
+      {
+        "emailAddress": {
+          "name": "Ian Levitt",
+          "address": "ian@ianlevitt.co.za"
+        }
+      },
+      {
+        "emailAddress": {
+          "name": "Natan Back",
+          "address": "natan@ianlevitt.co.za"
+        }
+      }
+    ],
+    "cc_recipients": [
+      {
+        "emailAddress": {
+          "name": "Daniel J. Faucitt",
+          "address": "dan@regima.com"
+        }
+      }
+    ],
+    "received_datetime": "2025-11-07 05:03:31+00:00"
+  },
+  "mailbox_context": {
+    "user_email": "jax@regima.zone",
+    "user_name": "Jacqui Faucitt",
+    "folder_name": "Inbox",
+    "folder_id": "pst-folder-9b6b8f53019614a146193d63872be547"
+  },
+  "body": {
+    "content_type": "html",
+    "preview": "P {margin-top:0;margin-bottom:0;} AS A MATTER OF GREAT URGENCY ARE YOU ABLE TO OPPOSE PART A OF THE EXPARTE INTERDICT.&nbsp; THIS IS WHAT WE HAVE WANTED FROM THE START.&nbsp; WE HAVE SENT THROUGH SO MUCH EVIDENCE OF PERJURY&nbsp; FROM BANTJIES, THE ACCOUN",
+    "body_length_chars": 1583
+  },
+  "attachments": []
+}

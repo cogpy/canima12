@@ -1,0 +1,51 @@
+{
+  "_schema": "exchange-forensic-eml/v1",
+  "_generated": "2026-03-10T03:50:37.673172+00:00",
+  "_source": "neon-exchange-sync",
+  "file_integrity": {
+    "eml_file": "/home/ubuntu/revstream1/docs/evidence/forensic_eml/manus.bot/0082_2025-11-02_1945_d538@manus.bot_Re_Fw_AD_NOTES_-_JACQUELINE_FAUCITT.eml",
+    "file_size_bytes": 292922,
+    "md5": "a856af7d0a7a908468dc9b2affa289bc",
+    "sha1": "4bcfee588d0f8de7b9c6a5f4aa514bf2f2c81d07",
+    "sha256": "467985121afd2f3c90f059b45a28f167ae5151fd8a5e3e6123c7a43d034aee69"
+  },
+  "message_identity": {
+    "exchange_sync_id": "pst-32a26ffa5481c39a0c41427dd14703fbd31d175f",
+    "internet_message_id": "<0100019a461a4c92-80346876-ba00-4987-8089-73762aa282d2-000000@email.amazonses.com>",
+    "conversation_id": null
+  },
+  "envelope": {
+    "subject": "Re: Fw: AD NOTES - JACQUELINE FAUCITT",
+    "from_name": "Manus",
+    "from_address": "d538@manus.bot",
+    "to_recipients": [
+      {
+        "emailAddress": {
+          "name": "Daniel Faucitt",
+          "address": "dan@regima.com"
+        }
+      }
+    ],
+    "cc_recipients": [
+      {
+        "emailAddress": {
+          "name": "d@rzo.io",
+          "address": "d@rzo.io"
+        }
+      }
+    ],
+    "received_datetime": "2025-11-02 19:45:20+00:00"
+  },
+  "mailbox_context": {
+    "user_email": "d538@manus.bot",
+    "user_name": "D538",
+    "folder_name": "Inbox",
+    "folder_id": "pst-folder-75906fca51bbfcfda8006d923513973a"
+  },
+  "body": {
+    "content_type": "html",
+    "preview": "Hi, I have completed your task &quot;Jacqueline Faucitt's Response to Allegations and Financial Disputes&quot; in Manus. Done! I've successfully added Jax's AD notes to the cogpy/canima repository. The notes from Jax's email have been saved as JAX_AD_NOTE",
+    "body_length_chars": 216243
+  },
+  "attachments": []
+}

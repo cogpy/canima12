@@ -1,0 +1,51 @@
+{
+  "_schema": "exchange-forensic-eml/v1",
+  "_generated": "2026-03-10T03:50:35.105857+00:00",
+  "_source": "neon-exchange-sync",
+  "file_integrity": {
+    "eml_file": "/home/ubuntu/revstream1/docs/evidence/forensic_eml/github.com/0065_2025-10-26_1557_notifications@github.com_Re_[cogpy_ad-res-j7]_Add_Bantjies_Investment_Payou.eml",
+    "file_size_bytes": 3448,
+    "md5": "81cbbe134e5ac6a500aca2909fd85c04",
+    "sha1": "7e353707f7d0db7ee1e451bfc06268cc990f278b",
+    "sha256": "b78abec474e379c66e3892d3785953ecc444830a598887e92bb9bba196b474d3"
+  },
+  "message_identity": {
+    "exchange_sync_id": "AAMkAGYzMDVmNzkwLWNmZjMtNDBjZC04ZmY4LTRkNGEzNTgxMjU2MABGAAAAAADPi1nZV45aRY1s43jJ3tfJBwCtp_82Ac8MTK2-lmRJoPi9AAAAAAEMAACpChlY1MKaRbKdNPbWwiIjAAgfY_jXAAA=",
+    "internet_message_id": "<cogpy/ad-res-j7/pull/1403/issue_event/20510466898@github.com>",
+    "conversation_id": "AAQkAGYzMDVmNzkwLWNmZjMtNDBjZC04ZmY4LTRkNGEzNTgxMjU2MAAQAA1sDxjI_qRPh3-WCNvvAVY="
+  },
+  "envelope": {
+    "subject": "Re: [cogpy/ad-res-j7] Add Bantjies Investment Payout Forecast OCR Documentation (PR #1403)",
+    "from_name": "drzo",
+    "from_address": "notifications@github.com",
+    "to_recipients": [
+      {
+        "name": "cogpy/ad-res-j7",
+        "address": "ad-res-j7@noreply.github.com"
+      }
+    ],
+    "cc_recipients": [
+      {
+        "name": "Daniel Faucitt",
+        "address": "dan@regima.zone"
+      },
+      {
+        "name": "Review requested",
+        "address": "review_requested@noreply.github.com"
+      }
+    ],
+    "received_datetime": "2025-10-26 15:57:51+00:00"
+  },
+  "mailbox_context": {
+    "user_email": "dan@regima.zone",
+    "user_name": "Daniel Faucitt",
+    "folder_name": "Inbox",
+    "folder_id": "AAMkAGYzMDVmNzkwLWNmZjMtNDBjZC04ZmY4LTRkNGEzNTgxMjU2MAAuAAAAAADPi1nZV45aRY1s43jJ3tfJAQCtp_82Ac8MTK2-lmRJoPi9AAAAAAEMAAA="
+  },
+  "body": {
+    "content_type": "html",
+    "preview": "@drzo requested your review on: #1403 Add Bantjies Investment Payout Forecast OCR Documentation.\r\n\r\n—\r\nReply to this email directly, view it on GitHub, or unsubscribe.\r\nYou are receiving this because your review was requested.Message ID: <cogpy/ad-res-j7/",
+    "body_length_chars": 1760
+  },
+  "attachments": []
+}

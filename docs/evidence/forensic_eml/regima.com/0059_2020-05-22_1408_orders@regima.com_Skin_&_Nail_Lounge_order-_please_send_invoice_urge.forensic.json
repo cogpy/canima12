@@ -1,0 +1,67 @@
+{
+  "_schema": "exchange-forensic-eml/v1",
+  "_generated": "2026-03-10T03:53:03.226025+00:00",
+  "_source": "neon-exchange-sync",
+  "file_integrity": {
+    "eml_file": "/home/ubuntu/revstream1/docs/evidence/forensic_eml/regima.com/0059_2020-05-22_1408_orders@regima.com_Skin_&_Nail_Lounge_order-_please_send_invoice_urge.eml",
+    "file_size_bytes": 1026,
+    "md5": "984c352466c6e310b7c739d90a79044a",
+    "sha1": "f79c340f7c830e2bdc36d978bd83347a49d9c8cd",
+    "sha256": "c595604871bde6dd188965e4ba81bb65aa961899e560d8eae82db60318f61f2d"
+  },
+  "message_identity": {
+    "exchange_sync_id": "AQMkADMxMzkyY2FlLWNkMGEtNGM2My04OWFiLTNlZDRjNzkyNGUyMwBGAAADSLKv-EI8AESN7LMej4ROLgcAIySisE98NkWmcNijjztGYgAAAj1DAAAAIySisE98NkWmcNijjztGYgAAAk1hAAAA",
+    "internet_message_id": "<00a301d63015$2fd1e6a0$8f75b3e0$@regima.com>",
+    "conversation_id": "AAQkADMxMzkyY2FlLWNkMGEtNGM2My04OWFiLTNlZDRjNzkyNGUyMwAQAMLmYmQPW0APvOG8WAp_Cr4="
+  },
+  "envelope": {
+    "subject": "Skin & Nail Lounge order- please send invoice urgent - Proof of payment WWD0275 ",
+    "from_name": "orders@regima.com",
+    "from_address": "orders@regima.com",
+    "to_recipients": [
+      {
+        "name": "manager@skinandnaillounge.co.za",
+        "address": "manager@skinandnaillounge.co.za"
+      }
+    ],
+    "cc_recipients": [
+      {
+        "name": "'Peter Andrew Faucitt'",
+        "address": "pete@regima.com"
+      },
+      {
+        "name": "Jacqui Faucitt",
+        "address": "jax@regima.zone"
+      },
+      {
+        "name": "Bernadine Wright",
+        "address": "bern@regima.zone"
+      },
+      {
+        "name": "Rynette Farrar",
+        "address": "rynette@regima.zone"
+      },
+      {
+        "name": "Kayla Pretorius",
+        "address": "kayla@regima.zone"
+      },
+      {
+        "name": "'Philippa Abbott'",
+        "address": "philippa@spasense.co.za"
+      }
+    ],
+    "received_datetime": "2020-05-22 14:08:59+00:00"
+  },
+  "mailbox_context": {
+    "user_email": "rynette@regima.zone",
+    "user_name": "Rynette Farrar",
+    "folder_name": "Office",
+    "folder_id": "AQMkADMxMzkyY2FlLWNkMGEtNGM2My04OWFiLTNlZDRjNzkyNGUyMwAuAAADSLKv-EI8AESN7LMej4ROLgEAIySisE98NkWmcNijjztGYgAAAj1DAAAA"
+  },
+  "body": {
+    "content_type": null,
+    "preview": "Good Day Cindy\r\n\r\nThank you, proof of payment received.\r\n\r\nYour order is being processed, we will let you know when your order is ready for collection.\r\n\r\nKind Regards\r\nKent\r\n\r\nFrom: manager@skinandnaillounge.co.za <manager@skinandnaillounge.co.za>\r\nSent:",
+    "body_length_chars": 0
+  },
+  "attachments": []
+}

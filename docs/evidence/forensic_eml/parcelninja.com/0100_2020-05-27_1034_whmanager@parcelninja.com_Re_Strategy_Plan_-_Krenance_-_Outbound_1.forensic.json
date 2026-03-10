@@ -1,0 +1,67 @@
+{
+  "_schema": "exchange-forensic-eml/v1",
+  "_generated": "2026-03-10T03:53:08.876700+00:00",
+  "_source": "neon-exchange-sync",
+  "file_integrity": {
+    "eml_file": "/home/ubuntu/revstream1/docs/evidence/forensic_eml/parcelninja.com/0100_2020-05-27_1034_whmanager@parcelninja.com_Re_Strategy_Plan_-_Krenance_-_Outbound_1.eml",
+    "file_size_bytes": 1008,
+    "md5": "2d06242d3edfd3a01083a99a182d0bc2",
+    "sha1": "1db26f565ceac401bda10c56348916ef1bcba48b",
+    "sha256": "aa42623b55412e83f63e977328e2a2f1997aaffdbc9cb60c0b1c52d27030109b"
+  },
+  "message_identity": {
+    "exchange_sync_id": "AAMkADkzY2U4OTQyLTZjNzAtNGRlNi1iMjk1LWQwNWNjYzIyODQ5YgBGAAAAAAADECMUPsw5TaA2pA0VUIqNBwCR-svwgFxkSomVNqCc6-zPAAAAAAEMAACR-svwgFxkSomVNqCc6-zPAAVRuByIAAA=",
+    "internet_message_id": "<CAG80M9cZA7VjVcp4D3WoSQM_RuONAe4yjiUp3LVSZZ2N69ZpuQ@mail.gmail.com>",
+    "conversation_id": "AAQkADkzY2U4OTQyLTZjNzAtNGRlNi1iMjk1LWQwNWNjYzIyODQ5YgAQADEwej2zBTpPr3p-K6LlbgE="
+  },
+  "envelope": {
+    "subject": "Re: Strategy Plan - Krenance - Outbound 1",
+    "from_name": "Kgomotso Tlowana",
+    "from_address": "whmanager@parcelninja.com",
+    "to_recipients": [
+      {
+        "name": "Kim Lawrence",
+        "address": "support@parcelninja.com"
+      }
+    ],
+    "cc_recipients": [
+      {
+        "name": "Kayla Pretorius",
+        "address": "kayla@regima.zone"
+      },
+      {
+        "name": "Johandre Erasmus",
+        "address": "johandre@parcelninja.com"
+      },
+      {
+        "name": "ymouton@tiscali.co.za",
+        "address": "ymouton@tiscali.co.za"
+      },
+      {
+        "name": "yolandy@krenance.com",
+        "address": "yolandy@krenance.com"
+      },
+      {
+        "name": "Bernadine Wright",
+        "address": "bern@regima.zone"
+      },
+      {
+        "name": "Rynette Farrar",
+        "address": "rynette@regima.zone"
+      }
+    ],
+    "received_datetime": "2020-05-27 10:34:36+00:00"
+  },
+  "mailbox_context": {
+    "user_email": "kayla@regima.zone",
+    "user_name": "Kayla Pretorius",
+    "folder_name": "Inbox",
+    "folder_id": "AQMkADkzY2U4OTQyLTZjNzAtNGRlNi1iMjk1LWQwNWNjATIyADg0OWIALgAAAwMQIxQ_zDlNoDakDRVQio0BAJH_y-CAXGRKiZU2oJzr-M8AAAIBDAAAAA=="
+  },
+  "body": {
+    "content_type": null,
+    "preview": "Hi\r\n\r\nOutbound moved.\r\n\r\nRegards\r\n\r\nKgomotso Tlowana  (General Manager)\r\n\r\n(T) +27 87 943 4882\r\n\r\n(@) whmanager@parcelninja.com\r\n\r\n18 Laneshaw Street,\r\nAshworth Logistics Park,\r\nFrankenwald,\r\nLinbro Park, 1609\r\n\r\n\r\nOn Tue, May 26, 2020 at 9:54 AM Kim Lawr",
+    "body_length_chars": 0
+  },
+  "attachments": []
+}

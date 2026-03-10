@@ -1,0 +1,63 @@
+{
+  "_schema": "exchange-forensic-eml/v1",
+  "_generated": "2026-03-10T03:52:56.195304+00:00",
+  "_source": "neon-exchange-sync",
+  "file_integrity": {
+    "eml_file": "/home/ubuntu/revstream1/docs/evidence/forensic_eml/regima.com/0008_2020-05-18_1005_orders@regima.com_Order_for_Skin_Sculpt.eml",
+    "file_size_bytes": 908,
+    "md5": "8339f378a67fba6405798fcf3d8d2bcb",
+    "sha1": "b6b68fb9bef2f23b7d6fe5277514153fa4d718e4",
+    "sha256": "c323bd375013af9db71ad553b938e1afc23611729de87cb957158c2ec21bd3e4"
+  },
+  "message_identity": {
+    "exchange_sync_id": "AQMkADMxMzkyY2FlLWNkMGEtNGM2My04OWFiLTNlZDRjNzkyNGUyMwBGAAADSLKv-EI8AESN7LMej4ROLgcAIySisE98NkWmcNijjztGYgAAAj1EAAAAIySisE98NkWmcNijjztGYgAAAlE2AAAA",
+    "internet_message_id": "<028701d62cfb$cb4a0e90$61de2bb0$@regima.com>",
+    "conversation_id": "AAQkADMxMzkyY2FlLWNkMGEtNGM2My04OWFiLTNlZDRjNzkyNGUyMwAQAAfPJd1Cgj39IevTDYMDCB0="
+  },
+  "envelope": {
+    "subject": "Order for Skin Sculpt",
+    "from_name": "orders@regima.com",
+    "from_address": "orders@regima.com",
+    "to_recipients": [
+      {
+        "name": "yasmeen@skinsculpt.co.za",
+        "address": "yasmeen@skinsculpt.co.za"
+      }
+    ],
+    "cc_recipients": [
+      {
+        "name": "Jacqui Faucitt",
+        "address": "jax@regima.zone"
+      },
+      {
+        "name": "'Peter Andrew Faucitt'",
+        "address": "pete@regima.com"
+      },
+      {
+        "name": "Bernadine Wright",
+        "address": "bern@regima.zone"
+      },
+      {
+        "name": "Kayla Pretorius",
+        "address": "kayla@regima.zone"
+      },
+      {
+        "name": "Rynette Farrar",
+        "address": "rynette@regima.zone"
+      }
+    ],
+    "received_datetime": "2020-05-18 10:05:22+00:00"
+  },
+  "mailbox_context": {
+    "user_email": "rynette@regima.zone",
+    "user_name": "Rynette Farrar",
+    "folder_name": "Orders",
+    "folder_id": "AQMkADMxMzkyY2FlLWNkMGEtNGM2My04OWFiLTNlZDRjNzkyNGUyMwAuAAADSLKv-EI8AESN7LMej4ROLgEAIySisE98NkWmcNijjztGYgAAAj1EAAAA"
+  },
+  "body": {
+    "content_type": null,
+    "preview": "Good Day Yasmeen\r\n\r\nThank you for your order.\r\n\r\nPlease find attached Proforma Invoice, please send the confirmation of payment to orders@regima.com, once received, your order will be despatched.\r\n\r\nPlease provide us with a physical address and cell numbe",
+    "body_length_chars": 0
+  },
+  "attachments": []
+}

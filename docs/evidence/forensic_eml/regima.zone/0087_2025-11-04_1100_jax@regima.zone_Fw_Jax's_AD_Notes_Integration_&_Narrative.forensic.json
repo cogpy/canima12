@@ -1,0 +1,56 @@
+{
+  "_schema": "exchange-forensic-eml/v1",
+  "_generated": "2026-03-10T03:50:38.534410+00:00",
+  "_source": "neon-exchange-sync",
+  "file_integrity": {
+    "eml_file": "/home/ubuntu/revstream1/docs/evidence/forensic_eml/regima.zone/0087_2025-11-04_1100_jax@regima.zone_Fw_Jax's_AD_Notes_Integration_&_Narrative.eml",
+    "file_size_bytes": 403214,
+    "md5": "a40ee4e1b3b213fcc31570f19cd6da4d",
+    "sha1": "6c9e6dc0393cad4df6e84e40860f0f341c423e5b",
+    "sha256": "b590ba88946e0552143978e8e211329c1a62e481fffd7a2cc166efdc311f9850"
+  },
+  "message_identity": {
+    "exchange_sync_id": "pst-c1e4fd8ce8b745e3aeb85f0e25c62323acb42bb6",
+    "internet_message_id": "<GV2PR08MB920761B4798234AD9237D49CACC4A@GV2PR08MB9207.eurprd08.prod.outlook.com>",
+    "conversation_id": "pst-conv-2f8ce0c956c7b87b6ef7b6b5f809762b"
+  },
+  "envelope": {
+    "subject": "Fw: Jax's AD Notes Integration & Narrative",
+    "from_name": "Jacqui Faucitt",
+    "from_address": "jax@regima.zone",
+    "to_recipients": [
+      {
+        "emailAddress": {
+          "name": "Daniel J. Faucitt",
+          "address": "dan@regima.com"
+        }
+      }
+    ],
+    "cc_recipients": null,
+    "received_datetime": "2025-11-04 11:00:16+00:00"
+  },
+  "mailbox_context": {
+    "user_email": "jax@regima.zone",
+    "user_name": "Jacqui Faucitt",
+    "folder_name": "Inbox",
+    "folder_id": "pst-folder-9b6b8f53019614a146193d63872be547"
+  },
+  "body": {
+    "content_type": "html",
+    "preview": "P {margin-top:0;margin-bottom:0;} From: Daniel Faucitt &lt;dan@regima.com&gt; Sent: Sunday, 02 November 2025 23:47 To: Jacqui Faucitt &lt;jax@regima.zone&gt; Cc: Jacqui Faucitt &lt;jax@regima.com&gt;; Daniel Faucitt &lt;d@rzo.io&gt; Subject: Fw: Jax's AD ",
+    "body_length_chars": 297220
+  },
+  "attachments": [
+    {
+      "id": "pst-att-c2be4d92092ae1e1b73f8386df9679eb6f7b3ffa",
+      "name": "INTEGRATED_NARRATIVE_FRAMEWORK.md.pdf",
+      "content_type": "application/pdf",
+      "size_bytes": 141827,
+      "is_inline": false,
+      "r2_bucket": "exchange-attachments",
+      "r2_key": "jax_at_regima.zone/pst/pst-c1e4fd8ce8b745e3/INTEGRATED_NARRATIVE_FRAMEWORK_md.pdf",
+      "download_status": "downloaded",
+      "downloaded": false
+    }
+  ]
+}

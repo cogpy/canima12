@@ -1,0 +1,51 @@
+{
+  "_schema": "exchange-forensic-eml/v1",
+  "_generated": "2026-03-10T03:53:25.225170+00:00",
+  "_source": "neon-exchange-sync",
+  "file_integrity": {
+    "eml_file": "/home/ubuntu/revstream1/docs/evidence/forensic_eml/regima.zone/0028_2021-08-03_0826_jax@regima.zone_RE_DELIVERY_COSMETIC_INGREDIENTS_-_C-HYALURONIC_AC.eml",
+    "file_size_bytes": 912,
+    "md5": "074c07c8209d66a3d4b3c05fcb063df1",
+    "sha1": "cc58ecaa94c5e7e4d966919413cd95f92af8a15e",
+    "sha256": "8c168e58887edd5d091092610e67432c5ad1655243bcb54de445b80964346a18"
+  },
+  "message_identity": {
+    "exchange_sync_id": "AQMkAGM2Y2E0NWVmLWEzZTktNDc1Mi1iY2I4LTU3OTBlMTJhMTllNQBGAAADPe59AHjuz0_HJe8Q4ALb1wcAtr3q_CoE-0aRl7m1844EjgAAAgEMAAAAtr3q_CoE-0aRl7m1844EjgAGZX_xVwAAAA==",
+    "internet_message_id": "<DB7PR08MB33067359734214309BCD4F8CACF09@DB7PR08MB3306.eurprd08.prod.outlook.com>",
+    "conversation_id": "AAQkAGM2Y2E0NWVmLWEzZTktNDc1Mi1iY2I4LTU3OTBlMTJhMTllNQAQAK06gWiQSUSpgascB84qMeU="
+  },
+  "envelope": {
+    "subject": "RE: DELIVERY COSMETIC INGREDIENTS - C-HYALURONIC ACID HMW  -  // NOT SURE WHICH PRODUCT THESE ARE FOR AND WHEN TO BE MANUFACTURED.",
+    "from_name": "Jacqui Faucitt",
+    "from_address": "jax@regima.zone",
+    "to_recipients": [
+      {
+        "name": "Rynette Farrar",
+        "address": "rynette@regima.zone"
+      }
+    ],
+    "cc_recipients": [
+      {
+        "name": "JAX@REGIMA.COM",
+        "address": "JAX@REGIMA.COM"
+      },
+      {
+        "name": "PETE@REGIMA.COM",
+        "address": "pete@regima.com"
+      }
+    ],
+    "received_datetime": "2021-08-03 08:26:26+00:00"
+  },
+  "mailbox_context": {
+    "user_email": "jax@regima.zone",
+    "user_name": "Jacqui Faucitt",
+    "folder_name": "Inbox",
+    "folder_id": "AQMkAGM2Y2E0NWVmLWEzZTktNDc1Mi1iY2I4LTU3OTBlMTJhMTllNQAuAAADPe59AHjuz0_HJe8Q4ALb1wEAtr3q_CoE-0aRl7m1844EjgAAAgEMAAAA"
+  },
+  "body": {
+    "content_type": null,
+    "preview": "It is only seen when the parcel is opened and paperwork removed.  They put the newer pack on the top.  It is obviously something they all do often, so we must look through all of them whenever they arrive.  Eish\r\n\r\nIt is something Karen needs to organise ",
+    "body_length_chars": 0
+  },
+  "attachments": []
+}

@@ -1,0 +1,42 @@
+{
+  "_schema": "exchange-forensic-eml/v1",
+  "_generated": "2026-03-10T03:53:52.368507+00:00",
+  "_source": "neon-exchange-sync",
+  "file_integrity": {
+    "eml_file": "/home/ubuntu/revstream1/docs/evidence/forensic_eml/icloud.com/0030_2021-09-12_1209_louloucoulson@icloud.com_Re_RegimA_Bank_Details.eml",
+    "file_size_bytes": 709,
+    "md5": "335b85c4eb8c7deb9c35536dfc95e279",
+    "sha1": "4735853c336404f8e5db35fd1f15f45d36ff6cf4",
+    "sha256": "cf1e1455083e8e3ab1f98c049ab68d9a22a656b38c3a9464393f5f7322d79469"
+  },
+  "message_identity": {
+    "exchange_sync_id": "AAMkAGZiMDM1YmIwLTlmODgtNDJhOC04MGEzLWRjM2E3NjBmNDBiZQBGAAAAAABaRBKKFtHMQbGf5m_92JBJBwCMs7GQnJRSSJA1XQuzkP1zAAAAAAEMAACMs7GQnJRSSJA1XQuzkP1zAAX1CHuNAAA=",
+    "internet_message_id": "<599BDDFE-CAC4-4DAC-8A62-A64AAA5DE671@icloud.com>",
+    "conversation_id": "AAQkAGZiMDM1YmIwLTlmODgtNDJhOC04MGEzLWRjM2E3NjBmNDBiZQAQAFEPrAnDw0kbqQ_1MtjHE3g="
+  },
+  "envelope": {
+    "subject": "Re: RegimA Bank Details",
+    "from_name": "Balbir Singh",
+    "from_address": "louloucoulson@icloud.com",
+    "to_recipients": [
+      {
+        "name": "Claire Chandler",
+        "address": "claire@regima.zone"
+      }
+    ],
+    "cc_recipients": null,
+    "received_datetime": "2021-09-12 12:09:14+00:00"
+  },
+  "mailbox_context": {
+    "user_email": "claire@regima.zone",
+    "user_name": "Claire Chandler",
+    "folder_name": "Inbox",
+    "folder_id": "AAMkAGZiMDM1YmIwLTlmODgtNDJhOC04MGEzLWRjM2E3NjBmNDBiZQAuAAAAAABaRBKKFtHMQbGf5m_92JBJAQCMs7GQnJRSSJA1XQuzkP1zAAAAAAEMAAA="
+  },
+  "body": {
+    "content_type": null,
+    "preview": "Hi Claire\r\n\r\nDeposit has just been paid\r\n\r\nSpeak Tuesday\r\nKind regards\r\nLouise\r\n\r\nOn 9 Sep 2021, at 14:07, Claire Chandler <claire@regima.zone> wrote:\r\n\r\n﻿\r\nHi Louise,\r\n\r\nMany thanks for your time earlier. As discussed below are our bank details. Please a",
+    "body_length_chars": 0
+  },
+  "attachments": []
+}

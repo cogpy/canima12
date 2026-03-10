@@ -1,0 +1,42 @@
+{
+  "_schema": "exchange-forensic-eml/v1",
+  "_generated": "2026-03-10T03:53:52.614447+00:00",
+  "_source": "neon-exchange-sync",
+  "file_integrity": {
+    "eml_file": "/home/ubuntu/revstream1/docs/evidence/forensic_eml/regima.zone/0035_2021-10-06_1125_jax@regima.zone_RE_Tranquility_Bank_Details.eml",
+    "file_size_bytes": 740,
+    "md5": "28dedb41abefe898a428ce231abf9a93",
+    "sha1": "6ca946e6daa56add1ccd598b08672d91e66701f2",
+    "sha256": "8bc669d6f59fbf5706f142a9f61538b9256338468e4e89ba31f4dab2e68bc611"
+  },
+  "message_identity": {
+    "exchange_sync_id": "AAMkADMxMzkyY2FlLWNkMGEtNGM2My04OWFiLTNlZDRjNzkyNGUyMwBGAAAAAABIsq-8QjwARI3ssx6PhE4uBwAjJKKwT3w2RaZw2KOPO0ZiAAAAAD1EAAAjJKKwT3w2RaZw2KOPO0ZiAABTCpPNAAA=",
+    "internet_message_id": "<DB7PR08MB3306BED40B298852F10CA401ACB09@DB7PR08MB3306.eurprd08.prod.outlook.com>",
+    "conversation_id": "AAQkADMxMzkyY2FlLWNkMGEtNGM2My04OWFiLTNlZDRjNzkyNGUyMwAQAFJiawMTbUXRgUb-qpJUVDE="
+  },
+  "envelope": {
+    "subject": "RE: Tranquility Bank Details",
+    "from_name": "Jacqui Faucitt",
+    "from_address": "jax@regima.zone",
+    "to_recipients": [
+      {
+        "name": "Rynette Farrar",
+        "address": "rynette@regima.zone"
+      }
+    ],
+    "cc_recipients": null,
+    "received_datetime": "2021-10-06 11:25:34+00:00"
+  },
+  "mailbox_context": {
+    "user_email": "rynette@regima.zone",
+    "user_name": "Rynette Farrar",
+    "folder_name": "Orders",
+    "folder_id": "AQMkADMxMzkyY2FlLWNkMGEtNGM2My04OWFiLTNlZDRjNzkyNGUyMwAuAAADSLKv-EI8AESN7LMej4ROLgEAIySisE98NkWmcNijjztGYgAAAj1EAAAA"
+  },
+  "body": {
+    "content_type": null,
+    "preview": "Sorry, could not find it, so did not go through obviously.  I have done it and double checked gone through this time, attached confirmation.  Please apologise to Tranquility\r\n\r\nFrom: Rynette Farrar <rynette@regima.zone>\r\nSent: Wednesday, 06 October 2021 1",
+    "body_length_chars": 0
+  },
+  "attachments": []
+}

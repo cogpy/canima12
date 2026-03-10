@@ -1,0 +1,42 @@
+{
+  "_schema": "exchange-forensic-eml/v1",
+  "_generated": "2026-03-10T03:53:53.260503+00:00",
+  "_source": "neon-exchange-sync",
+  "file_integrity": {
+    "eml_file": "/home/ubuntu/revstream1/docs/evidence/forensic_eml/regima.zone/0048_2022-01-26_1020_claire@regima.zone_RegimA_Bank_Details.eml",
+    "file_size_bytes": 751,
+    "md5": "f167be2a16db5281f1b85681d01a42e7",
+    "sha1": "4b167b3ae655d3f5cab40d52a3365c0b518bc232",
+    "sha256": "0191fc1fe9106c36d11135c0978db6f19e84b62a474a46ae7007b3e709fa3f78"
+  },
+  "message_identity": {
+    "exchange_sync_id": "AAMkAGZiMDM1YmIwLTlmODgtNDJhOC04MGEzLWRjM2E3NjBmNDBiZQBGAAAAAABaRBKKFtHMQbGf5m_92JBJBwCMs7GQnJRSSJA1XQuzkP1zAAAAAAEJAACMs7GQnJRSSJA1XQuzkP1zAAXq3i6sAAA=",
+    "internet_message_id": "<DB9PR08MB7022A98816C14B20924DF9E2CF209@DB9PR08MB7022.eurprd08.prod.outlook.com>",
+    "conversation_id": "AAQkAGZiMDM1YmIwLTlmODgtNDJhOC04MGEzLWRjM2E3NjBmNDBiZQAQAA0nLOec1UjJsF7w57Y9nGg="
+  },
+  "envelope": {
+    "subject": "RegimA Bank Details",
+    "from_name": "Claire Chandler",
+    "from_address": "claire@regima.zone",
+    "to_recipients": [
+      {
+        "name": "lhelegance@outlook.com",
+        "address": "lhelegance@outlook.com"
+      }
+    ],
+    "cc_recipients": null,
+    "received_datetime": "2022-01-26 10:20:00+00:00"
+  },
+  "mailbox_context": {
+    "user_email": "claire@regima.zone",
+    "user_name": "Claire Chandler",
+    "folder_name": "Sent Items",
+    "folder_id": "AAMkAGZiMDM1YmIwLTlmODgtNDJhOC04MGEzLWRjM2E3NjBmNDBiZQAuAAAAAABaRBKKFtHMQbGf5m_92JBJAQCMs7GQnJRSSJA1XQuzkP1zAAAAAAEJAAA="
+  },
+  "body": {
+    "content_type": null,
+    "preview": "Hi Leah,\r\n\r\nI hope you are well.\r\n\r\nPlease see below our bank details to transfer the £100 deposit when you are ready to book training for your retail account.\r\n\r\nRegimA Zone Ltd\r\nHSBC Sort: 403804\r\nAcc: 34684583\r\n\r\nMany thanks\r\n\r\nClaire",
+    "body_length_chars": 0
+  },
+  "attachments": []
+}

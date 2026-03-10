@@ -1,0 +1,42 @@
+{
+  "_schema": "exchange-forensic-eml/v1",
+  "_generated": "2026-03-10T03:53:52.861167+00:00",
+  "_source": "neon-exchange-sync",
+  "file_integrity": {
+    "eml_file": "/home/ubuntu/revstream1/docs/evidence/forensic_eml/beautyquip.co.za/0040_2021-10-28_0920_info@beautyquip.co.za_J.H.C._BeautyQuip_Bank_Details_Have_Not_Changed.eml",
+    "file_size_bytes": 781,
+    "md5": "6bd22aa1df92e7610053f346d98d5ef2",
+    "sha1": "b57949e98b6bbb03b94905415d3bca8f0ec5164d",
+    "sha256": "6fe882dca7e17adf9180c60fcf3c91a75014a41c71b9a65576169887155ec36c"
+  },
+  "message_identity": {
+    "exchange_sync_id": "AAMkAGYzMDVmNzkwLWNmZjMtNDBjZC04ZmY4LTRkNGEzNTgxMjU2MABGAAAAAADPi1nZV45aRY1s43jJ3tfJBwCtp_82Ac8MTK2-lmRJoPi9AAAAAAEMAACpChlY1MKaRbKdNPbWwiIjAARaMOtWAAA=",
+    "internet_message_id": "<e863f59fce5e76420758ef431.3b7066d7e9.20211028091952.43f44fc5cb.e8cbe5f2@mail12.atl301.rsgsv.net>",
+    "conversation_id": "AAQkAGYzMDVmNzkwLWNmZjMtNDBjZC04ZmY4LTRkNGEzNTgxMjU2MAAQAHX5q6ZWhbNAjwlBWBWIZ74="
+  },
+  "envelope": {
+    "subject": "J.H.C. BeautyQuip Bank Details Have Not Changed",
+    "from_name": "J.H.C. BeautyQuip",
+    "from_address": "info@beautyquip.co.za",
+    "to_recipients": [
+      {
+        "name": "info@regima.com",
+        "address": "info@regima.com"
+      }
+    ],
+    "cc_recipients": null,
+    "received_datetime": "2021-10-28 09:20:02+00:00"
+  },
+  "mailbox_context": {
+    "user_email": "dan@regima.zone",
+    "user_name": "Daniel Faucitt",
+    "folder_name": "Inbox",
+    "folder_id": "AAMkAGYzMDVmNzkwLWNmZjMtNDBjZC04ZmY4LTRkNGEzNTgxMjU2MAAuAAAAAADPi1nZV45aRY1s43jJ3tfJAQCtp_82Ac8MTK2-lmRJoPi9AAAAAAEMAAA="
+  },
+  "body": {
+    "content_type": null,
+    "preview": "J.H.C. BeautyQuip Bank Details Have Not Changed\r\nJ.H.C. BeautyQuip Banking Details\r\nDear valued clients,\r\n\r\nPlease Note: None of J.H.C. Beautyquip’s banking details have changed. If you receive any communication\r\nstating that it has changed, please be so ",
+    "body_length_chars": 0
+  },
+  "attachments": []
+}

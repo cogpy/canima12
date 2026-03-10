@@ -1,0 +1,51 @@
+{
+  "_schema": "exchange-forensic-eml/v1",
+  "_generated": "2026-03-10T03:50:32.063697+00:00",
+  "_source": "neon-exchange-sync",
+  "file_integrity": {
+    "eml_file": "/home/ubuntu/revstream1/docs/evidence/forensic_eml/github.com/0044_2025-10-14_1343_notifications@github.com_Re_[cogpy_ad-res-j7]_[WIP]_Examine_interdict_claim.eml",
+    "file_size_bytes": 3749,
+    "md5": "f999688ee5c24e6e5e54e24a9e6b0db7",
+    "sha1": "a9700cbe794f55210dd74cd10d84d5682acb3fd9",
+    "sha256": "0e35d165775ae0739b31062b18d5a745a86cf289bfae68a263b8dbc488db6959"
+  },
+  "message_identity": {
+    "exchange_sync_id": "AAMkAGYzMDVmNzkwLWNmZjMtNDBjZC04ZmY4LTRkNGEzNTgxMjU2MABGAAAAAADPi1nZV45aRY1s43jJ3tfJBwCtp_82Ac8MTK2-lmRJoPi9AAAAAAEMAACpChlY1MKaRbKdNPbWwiIjAAgWsxhlAAA=",
+    "internet_message_id": "<cogpy/ad-res-j7/pull/524/before/3df9d366b0d43e5a6559f3c49d871deeffc7fffe/after/6d9e61e7328422d9769c1e7cfe18a7ce9aa4d3e4@github.com>",
+    "conversation_id": "AAQkAGYzMDVmNzkwLWNmZjMtNDBjZC04ZmY4LTRkNGEzNTgxMjU2MAAQAJBI2IL4C25BoANL2Geyly4="
+  },
+  "envelope": {
+    "subject": "Re: [cogpy/ad-res-j7] [WIP] Examine interdict claims involving Peter, Daniel, and Jacqui (PR #524)",
+    "from_name": "Copilot",
+    "from_address": "notifications@github.com",
+    "to_recipients": [
+      {
+        "name": "cogpy/ad-res-j7",
+        "address": "ad-res-j7@noreply.github.com"
+      }
+    ],
+    "cc_recipients": [
+      {
+        "name": "Daniel Faucitt",
+        "address": "dan@regima.zone"
+      },
+      {
+        "name": "Push",
+        "address": "push@noreply.github.com"
+      }
+    ],
+    "received_datetime": "2025-10-14 13:43:19+00:00"
+  },
+  "mailbox_context": {
+    "user_email": "dan@regima.zone",
+    "user_name": "Daniel Faucitt",
+    "folder_name": "Inbox",
+    "folder_id": "AAMkAGYzMDVmNzkwLWNmZjMtNDBjZC04ZmY4LTRkNGEzNTgxMjU2MAAuAAAAAADPi1nZV45aRY1s43jJ3tfJAQCtp_82Ac8MTK2-lmRJoPi9AAAAAAEMAAA="
+  },
+  "body": {
+    "content_type": "html",
+    "preview": "@Copilot pushed 1 commit.\r\n\r\n  *   6d9e61e Add integration guide and quick reference for Bantjies analysis\r\n\r\n—\r\nView it on GitHub or unsubscribe.\r\nYou are receiving this because you are subscribed to this thread.Message ID: <cogpy/ad-res-j7/pull/524/befo",
+    "body_length_chars": 1941
+  },
+  "attachments": []
+}

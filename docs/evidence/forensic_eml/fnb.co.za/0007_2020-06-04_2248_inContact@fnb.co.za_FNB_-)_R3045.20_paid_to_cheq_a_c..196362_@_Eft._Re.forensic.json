@@ -1,0 +1,42 @@
+{
+  "_schema": "exchange-forensic-eml/v1",
+  "_generated": "2026-03-10T03:53:43.115197+00:00",
+  "_source": "neon-exchange-sync",
+  "file_integrity": {
+    "eml_file": "/home/ubuntu/revstream1/docs/evidence/forensic_eml/fnb.co.za/0007_2020-06-04_2248_inContact@fnb.co.za_FNB_-)_R3045.20_paid_to_cheq_a_c..196362_@_Eft._Re.eml",
+    "file_size_bytes": 2308,
+    "md5": "119eabb909e06deb74ffa8721c9a4df7",
+    "sha1": "33c07affd87efb945299aa395061c5d234c49664",
+    "sha256": "07349eaf0b53b2a498ffb79d875fb97b99d30fb046595831270782cbde3598ea"
+  },
+  "message_identity": {
+    "exchange_sync_id": "AAMkAGM2Y2E0NWVmLWEzZTktNDc1Mi1iY2I4LTU3OTBlMTJhMTllNQBGAAAAAAA97n0AeO7PT4cl7xDgAtvXBwC2ver4KgT-RpGXubXzjgSOAAIZYOy5AAC2ver4KgT-RpGXubXzjgSOAAdIAX8xAAA=",
+    "internet_message_id": "<206212846.16336566.1591310886130.JavaMail.grandmama@fnb.co.za>",
+    "conversation_id": "AAQkAGM2Y2E0NWVmLWEzZTktNDc1Mi1iY2I4LTU3OTBlMTJhMTllNQAQAJ_HMncdw2NGt2J-8a88W-o="
+  },
+  "envelope": {
+    "subject": "FNB :-) R3045.20 paid to cheq a/c..196362 @ Eft. Ref.Absa Bank Calmer Hea.  5Jun 00:00",
+    "from_name": "inContact@fnb.co.za",
+    "from_address": "inContact@fnb.co.za",
+    "to_recipients": [
+      {
+        "name": "JAX@REGIMA.COM",
+        "address": "JAX@REGIMA.COM"
+      }
+    ],
+    "cc_recipients": null,
+    "received_datetime": "2020-06-04 22:48:10+00:00"
+  },
+  "mailbox_context": {
+    "user_email": "jax@regima.zone",
+    "user_name": "Jacqui Faucitt",
+    "folder_name": "Archive",
+    "folder_id": "AQMkAGM2Y2E0NWVmLWEzZTktNDc1Mi1iY2I4LTU3OTBlMTJhMTllNQAuAAADPe59AHjuz0_HJe8Q4ALb1wEAtr3q_CoE-0aRl7m1844EjgACGWDsuQAAAA=="
+  },
+  "body": {
+    "content_type": "html",
+    "preview": "Dear valued customer\r\n\r\n• FNB :-) R3045.20 paid to cheq a/c..196362 @ Eft. Ref.Absa Bank Calmer Hea. 5Jun 00:00\r\n\r\nPlease do NOT reply to this message as it is sent from an unattended mailbox",
+    "body_length_chars": 987
+  },
+  "attachments": []
+}

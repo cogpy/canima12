@@ -1,0 +1,55 @@
+{
+  "_schema": "exchange-forensic-eml/v1",
+  "_generated": "2026-03-10T03:52:59.091590+00:00",
+  "_source": "neon-exchange-sync",
+  "file_integrity": {
+    "eml_file": "/home/ubuntu/revstream1/docs/evidence/forensic_eml/regima.zone/0029_2020-05-19_1317_bern@regima.zone_FW_Airfreight_Export_Order_to_MALTA.eml",
+    "file_size_bytes": 866,
+    "md5": "291e1c4983a99f2f66564efe52957f3b",
+    "sha1": "bb07015856d7a3e2186de344c3005402149e11e2",
+    "sha256": "e8c44a01845219631b6ced0616cfe5d2efef29b65090d43835fbfcafafe4d5de"
+  },
+  "message_identity": {
+    "exchange_sync_id": "AQMkADMxMzkyY2FlLWNkMGEtNGM2My04OWFiLTNlZDRjNzkyNGUyMwBGAAADSLKv-EI8AESN7LMej4ROLgcAIySisE98NkWmcNijjztGYgAAAj1GAAAAIySisE98NkWmcNijjztGYgAAAlk4AAAA",
+    "internet_message_id": "<AM6PR08MB4819867FEAC703EF0A1115FFC4B90@AM6PR08MB4819.eurprd08.prod.outlook.com>",
+    "conversation_id": "AAQkADMxMzkyY2FlLWNkMGEtNGM2My04OWFiLTNlZDRjNzkyNGUyMwAQAMPuSHOVDkNZiKpUp_UY8PI="
+  },
+  "envelope": {
+    "subject": "FW: Airfreight Export Order to MALTA",
+    "from_name": "Bernadine Wright",
+    "from_address": "bern@regima.zone",
+    "to_recipients": [
+      {
+        "name": "info@cmsbella.com",
+        "address": "info@cmsbella.com"
+      }
+    ],
+    "cc_recipients": [
+      {
+        "name": "Jacqui Faucitt",
+        "address": "jax@regima.zone"
+      },
+      {
+        "name": "'pete@regima.com'",
+        "address": "pete@regima.com"
+      },
+      {
+        "name": "Rynette Farrar",
+        "address": "rynette@regima.zone"
+      }
+    ],
+    "received_datetime": "2020-05-19 13:17:31+00:00"
+  },
+  "mailbox_context": {
+    "user_email": "rynette@regima.zone",
+    "user_name": "Rynette Farrar",
+    "folder_name": "Shipping",
+    "folder_id": "AQMkADMxMzkyY2FlLWNkMGEtNGM2My04OWFiLTNlZDRjNzkyNGUyMwAuAAADSLKv-EI8AESN7LMej4ROLgEAIySisE98NkWmcNijjztGYgAAAj1GAAAA"
+  },
+  "body": {
+    "content_type": null,
+    "preview": "Hi Fran\r\n\r\nPer our discussions, I now have the weights & dimensions for the shipment to Malta. Please will you urgently quote me on the following Shipment to be sent to the address below in Malta.\r\n\r\nPlease quote your best possible price. Please note ",
+    "body_length_chars": 0
+  },
+  "attachments": []
+}

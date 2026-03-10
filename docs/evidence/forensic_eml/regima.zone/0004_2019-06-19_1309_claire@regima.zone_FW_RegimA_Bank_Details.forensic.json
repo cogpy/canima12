@@ -1,0 +1,42 @@
+{
+  "_schema": "exchange-forensic-eml/v1",
+  "_generated": "2026-03-10T03:53:51.080536+00:00",
+  "_source": "neon-exchange-sync",
+  "file_integrity": {
+    "eml_file": "/home/ubuntu/revstream1/docs/evidence/forensic_eml/regima.zone/0004_2019-06-19_1309_claire@regima.zone_FW_RegimA_Bank_Details.eml",
+    "file_size_bytes": 735,
+    "md5": "0aad807f6b4f18107f7bf50b41c87784",
+    "sha1": "d2dfdadbb43a89c3553ef0800087c0a3c72995fd",
+    "sha256": "ea8cdf5cafbbba8baa90074032de9cb7f8c246288fb19469dd3dede361e64e48"
+  },
+  "message_identity": {
+    "exchange_sync_id": "AAMkAGM0ZWQyZWU3LWY2ZWQtNDkzOC04NDE3LWNmZGRhYzAyOTRmMABGAAAAAACAAALKIC32TbasMXDa2Ai-BwAg-uFl1xcHSovUuxgQ83HlAAAAAAEMAAAg-uFl1xcHSovUuxgQ83HlAAKi-Q_kAAA=",
+    "internet_message_id": "<AM6PR08MB29663EAD1149F0D753954ED3CFE50@AM6PR08MB2966.eurprd08.prod.outlook.com>",
+    "conversation_id": "AAQkAGM0ZWQyZWU3LWY2ZWQtNDkzOC04NDE3LWNmZGRhYzAyOTRmMAAQAPaFFl3CNUFNmh1B8Ejqik4="
+  },
+  "envelope": {
+    "subject": "FW: RegimA Bank Details ",
+    "from_name": "Claire Chandler",
+    "from_address": "claire@regima.zone",
+    "to_recipients": [
+      {
+        "name": "Vicky Barnes",
+        "address": "vickyb@regima.zone"
+      }
+    ],
+    "cc_recipients": null,
+    "received_datetime": "2019-06-19 13:09:08+00:00"
+  },
+  "mailbox_context": {
+    "user_email": "vickyb@regima.zone",
+    "user_name": "Vicky Lewendon",
+    "folder_name": "Inbox",
+    "folder_id": "AAMkAGM0ZWQyZWU3LWY2ZWQtNDkzOC04NDE3LWNmZGRhYzAyOTRmMAAuAAAAAACAAALKIC32TbasMXDa2Ai-AQAg-uFl1xcHSovUuxgQ83HlAAAAAAEMAAA="
+  },
+  "body": {
+    "content_type": null,
+    "preview": "From: Clarinda Barnhoorn <cebarnhoorn@hotmail.co.uk>\r\nSent: 19 June 2019 14:03\r\nTo: Claire Chandler <claire@regima.zone>\r\nSubject: Re: RegimA Bank Details\r\n\r\nHi Claire\r\n\r\nI've just made payment.\r\n\r\nThank you\r\nClarinda\r\n\r\n____________________________",
+    "body_length_chars": 0
+  },
+  "attachments": []
+}

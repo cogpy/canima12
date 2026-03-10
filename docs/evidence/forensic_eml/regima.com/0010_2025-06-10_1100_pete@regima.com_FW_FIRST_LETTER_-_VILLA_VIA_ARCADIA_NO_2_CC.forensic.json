@@ -1,0 +1,46 @@
+{
+  "_schema": "exchange-forensic-eml/v1",
+  "_generated": "2026-03-10T03:50:27.154178+00:00",
+  "_source": "neon-exchange-sync",
+  "file_integrity": {
+    "eml_file": "/home/ubuntu/revstream1/docs/evidence/forensic_eml/regima.com/0010_2025-06-10_1100_pete@regima.com_FW_FIRST_LETTER_-_VILLA_VIA_ARCADIA_NO_2_CC.eml",
+    "file_size_bytes": 7952,
+    "md5": "4c15700e8b4a6d3c5518b34000ed7c24",
+    "sha1": "28c2b67fb5e3cf45fbca4b0b16d3ab892695e66c",
+    "sha256": "37b9d5611df9d7617f8f2934ac237b41e8a764b85dcec113fc93d0a3b0cfbae2"
+  },
+  "message_identity": {
+    "exchange_sync_id": "AAMkADMxMzkyY2FlLWNkMGEtNGM2My04OWFiLTNlZDRjNzkyNGUyMwBGAAAAAABIsq-8QjwARI3ssx6PhE4uBwAjJKKwT3w2RaZw2KOPO0ZiAAA-JWQ5AAAjJKKwT3w2RaZw2KOPO0ZiAAA-JZniAAA=",
+    "internet_message_id": "<1af001dbd9f6$e4688980$ad399c80$@regima.com>",
+    "conversation_id": "AAQkADMxMzkyY2FlLWNkMGEtNGM2My04OWFiLTNlZDRjNzkyNGUyMwAQAIfwZvAD0X5S0zwrhb_0wL4="
+  },
+  "envelope": {
+    "subject": "FW: FIRST LETTER - VILLA VIA ARCADIA NO 2 CC",
+    "from_name": "Pete",
+    "from_address": "pete@regima.com",
+    "to_recipients": [
+      {
+        "name": "Rynette Farrar",
+        "address": "rynette@regima.zone"
+      },
+      {
+        "name": "'Danie Bantjes'",
+        "address": "danie.bantjes@gmail.com"
+      }
+    ],
+    "cc_recipients": null,
+    "received_datetime": "2025-06-10 11:00:43+00:00"
+  },
+  "mailbox_context": {
+    "user_email": "rynette@regima.zone",
+    "user_name": "Rynette Farrar",
+    "folder_name": "Danie",
+    "folder_id": "AAMkADMxMzkyY2FlLWNkMGEtNGM2My04OWFiLTNlZDRjNzkyNGUyMwAuAAAAAABIsq-8QjwARI3ssx6PhE4uAQAjJKKwT3w2RaZw2KOPO0ZiAAA-JWQ5AAA="
+  },
+  "body": {
+    "content_type": "html",
+    "preview": "This is saying it is the 2nd letter for provisional tax for VILLA VIA\r\n\r\nFrom: Hubert Nkosi <hnkosi@sars.gov.za>\r\nSent: Tuesday, 10 June 2025 12:44 PM\r\nTo: pete@regima.com\r\nCc: danie.bantjies@gmail.com\r\nSubject: FIRST LETTER - VILLA VIA ARCADIA NO 2 CC",
+    "body_length_chars": 5193
+  },
+  "attachments": []
+}

@@ -1,0 +1,63 @@
+{
+  "_schema": "exchange-forensic-eml/v1",
+  "_generated": "2026-03-10T03:53:28.001983+00:00",
+  "_source": "neon-exchange-sync",
+  "file_integrity": {
+    "eml_file": "/home/ubuntu/revstream1/docs/evidence/forensic_eml/regima.zone/0048_2021-11-03_1043_jax@regima.zone_RE_MANUFACTURE_OF_NEUTRALISING_SOLUTION.eml",
+    "file_size_bytes": 933,
+    "md5": "46e794b4c47b6bec3640018245ba9d05",
+    "sha1": "c0f01f3f0912d4d6763633100cbad20560b74b52",
+    "sha256": "953fae4f6658daba03527c9301d60b4be662fc0bdbbc17d8b4c102a6a053b041"
+  },
+  "message_identity": {
+    "exchange_sync_id": "AAMkADMxMzkyY2FlLWNkMGEtNGM2My04OWFiLTNlZDRjNzkyNGUyMwBGAAAAAABIsq-8QjwARI3ssx6PhE4uBwAjJKKwT3w2RaZw2KOPO0ZiAAAAAD3CAAAjJKKwT3w2RaZw2KOPO0ZiAABTCmTtAAA=",
+    "internet_message_id": "<DB7PR08MB33067B5BF9BCD85B84F95921AC8C9@DB7PR08MB3306.eurprd08.prod.outlook.com>",
+    "conversation_id": "AAQkADMxMzkyY2FlLWNkMGEtNGM2My04OWFiLTNlZDRjNzkyNGUyMwAQAMgDzYI780X-vGPrJovct9U="
+  },
+  "envelope": {
+    "subject": "RE: MANUFACTURE OF NEUTRALISING SOLUTION",
+    "from_name": "Jacqui Faucitt",
+    "from_address": "jax@regima.zone",
+    "to_recipients": [
+      {
+        "name": "Ana Ferreira",
+        "address": "ana@primeproduct.co.za"
+      }
+    ],
+    "cc_recipients": [
+      {
+        "name": "Rynette Farrar",
+        "address": "rynette@regima.zone"
+      },
+      {
+        "name": "Kayla Pretorius",
+        "address": "kayla@regima.zone"
+      },
+      {
+        "name": "PETE@REGIMA.COM",
+        "address": "PETE@REGIMA.COM"
+      },
+      {
+        "name": "Daniel Faucitt",
+        "address": "d@rzo.io"
+      },
+      {
+        "name": "Sue Phillips",
+        "address": "Sue@primeproduct.co.za"
+      }
+    ],
+    "received_datetime": "2021-11-03 10:43:56+00:00"
+  },
+  "mailbox_context": {
+    "user_email": "rynette@regima.zone",
+    "user_name": "Rynette Farrar",
+    "folder_name": "Prime",
+    "folder_id": "AQMkADMxMzkyY2FlLWNkMGEtNGM2My04OWFiLTNlZDRjNzkyNGUyMwAuAAADSLKv-EI8AESN7LMej4ROLgEAIySisE98NkWmcNijjztGYgAAAj3CAAAA"
+  },
+  "body": {
+    "content_type": null,
+    "preview": "Hi Ana\r\n\r\nOh fantastic news.  Many thanks to you all.\r\n\r\nWarm regards\r\nJacqui\r\n\r\nFrom: Ana Ferreira <ana@primeproduct.co.za>\r\nSent: Wednesday, 03 November 2021 12:22 PM\r\nTo: Jacqui Faucitt <jax@regima.zone>\r\nCc: Rynette Farrar <rynette@regima.zone>; Kayla",
+    "body_length_chars": 0
+  },
+  "attachments": []
+}

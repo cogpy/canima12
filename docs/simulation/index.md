@@ -1,8 +1,17 @@
 # Simulation Models
 
-**Last Updated:** 2026-03-09
+**Last Updated:** 2026-03-10
 
 The dynamics of Revenue Stream Hijacking Case 2025-137857 have been formally modeled using multi-paradigm simulation. These models demonstrate the systemic nature of the fraud, the financial flows, and the burden of proof thresholds across the 6 phases of the criminal enterprise.
+
+## LEX-SIM-NN Differentiable Legal Simulation (NEW)
+
+The LEX-SIM-NN pipeline is a differentiable neural network that encodes evidence as 24-dimensional vectors and trains with Virtual Endocrine System (VES) modulation to assess burden of proof thresholds.
+
+- **Report:** [LEX_SIM_NN_REPORT_2026_03_10.md](./LEX_SIM_NN_REPORT_2026_03_10.md)
+- **Results (JSON):** [LEX_SIM_NN_RESULTS_2026_03_10.json](./LEX_SIM_NN_RESULTS_2026_03_10.json)
+- **Script:** [run_lex_sim_nn.py](./run_lex_sim_nn.py)
+- **Key Result:** Civil probability 98.86% (MET), Criminal probability 98.88% (MET)
 
 ## Available Models
 

@@ -1,0 +1,51 @@
+{
+  "_schema": "exchange-forensic-eml/v1",
+  "_generated": "2026-03-10T03:50:27.707053+00:00",
+  "_source": "neon-exchange-sync",
+  "file_integrity": {
+    "eml_file": "/home/ubuntu/revstream1/docs/evidence/forensic_eml/unknown/0014_2025-09-20_0816_MAILER-DAEMON_MATERIAL_NON-DISCLOSURE.eml",
+    "file_size_bytes": 33901,
+    "md5": "a03473494d5ee65212b16723363ab605",
+    "sha1": "d46ae54862620f739deddd48762b75b4f74b5499",
+    "sha256": "eece2dd5e83915e7364f156f65ac51552e7e54f1a945b6d9afff6c1fa679a7e7"
+  },
+  "message_identity": {
+    "exchange_sync_id": "pst-007d759def49750f3c380158078daf81d8a2b16a",
+    "internet_message_id": "<JNZP275MB13211C633F0FD2D2A5518357CB10A@JNZP275MB1321.ZAFP275.PROD.OUTLOOK.COM>",
+    "conversation_id": null
+  },
+  "envelope": {
+    "subject": "MATERIAL NON-DISCLOSURE",
+    "from_name": "Daniel Faucitt",
+    "from_address": "MAILER-DAEMON",
+    "to_recipients": [
+      {
+        "emailAddress": {
+          "name": "jfaucitt",
+          "address": "jfaucitt"
+        }
+      }
+    ],
+    "cc_recipients": [
+      {
+        "emailAddress": {
+          "name": "regizone",
+          "address": "regizone"
+        }
+      }
+    ],
+    "received_datetime": "2025-09-20 08:16:35+00:00"
+  },
+  "mailbox_context": {
+    "user_email": "dan@regima.com",
+    "user_name": "Dan",
+    "folder_name": "Sent Items",
+    "folder_id": "pst-folder-d5f2fe49026e4bccf5f8a98e2e8a2b1d"
+  },
+  "body": {
+    "content_type": "html",
+    "preview": "P {margin-top:0;margin-bottom:0;} ## NOTICE OF WITHDRAWAL DUE TO MATERIAL NON-DISCLOSURE **TO:** All Parties and Legal Representatives &nbsp; **DATE:** [Current Date] &nbsp; **CASE:** 2025-137857 ### 1. CRITICAL NON-DISCLOSURE OF MATERIAL INFORMATION **1.",
+    "body_length_chars": 24572
+  },
+  "attachments": []
+}

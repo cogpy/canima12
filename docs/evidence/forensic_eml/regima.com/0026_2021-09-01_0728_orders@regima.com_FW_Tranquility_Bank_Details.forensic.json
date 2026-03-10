@@ -1,0 +1,51 @@
+{
+  "_schema": "exchange-forensic-eml/v1",
+  "_generated": "2026-03-10T03:53:52.170859+00:00",
+  "_source": "neon-exchange-sync",
+  "file_integrity": {
+    "eml_file": "/home/ubuntu/revstream1/docs/evidence/forensic_eml/regima.com/0026_2021-09-01_0728_orders@regima.com_FW_Tranquility_Bank_Details.eml",
+    "file_size_bytes": 790,
+    "md5": "c64d38080675a3c59777445c2200ca20",
+    "sha1": "99e5ade6825b0dbb4442674af08ba39407f7c19e",
+    "sha256": "3bcce6745654c4d08dcc2f75d926acb07792100f92b97fbad2a81bed9f5644f3"
+  },
+  "message_identity": {
+    "exchange_sync_id": "AAMkADMxMzkyY2FlLWNkMGEtNGM2My04OWFiLTNlZDRjNzkyNGUyMwBGAAAAAABIsq-8QjwARI3ssx6PhE4uBwAjJKKwT3w2RaZw2KOPO0ZiAAAAAD2DAAAjJKKwT3w2RaZw2KOPO0ZiAABTCkjaAAA=",
+    "internet_message_id": "<004c01d79f02$ecb14330$c613c990$@regima.com>",
+    "conversation_id": "AAQkADMxMzkyY2FlLWNkMGEtNGM2My04OWFiLTNlZDRjNzkyNGUyMwAQAEOhFhVdoEyQgn6TPPaics4="
+  },
+  "envelope": {
+    "subject": "FW: Tranquility Bank Details",
+    "from_name": "orders@regima.com",
+    "from_address": "orders@regima.com",
+    "to_recipients": [
+      {
+        "name": "Jacqui Faucitt",
+        "address": "jax@regima.zone"
+      },
+      {
+        "name": "'Peter Andrew Faucitt'",
+        "address": "pete@regima.com"
+      }
+    ],
+    "cc_recipients": [
+      {
+        "name": "Rynette Farrar",
+        "address": "rynette@regima.zone"
+      }
+    ],
+    "received_datetime": "2021-09-01 07:28:25+00:00"
+  },
+  "mailbox_context": {
+    "user_email": "rynette@regima.zone",
+    "user_name": "Rynette Farrar",
+    "folder_name": "Jacqui",
+    "folder_id": "AQMkADMxMzkyY2FlLWNkMGEtNGM2My04OWFiLTNlZDRjNzkyNGUyMwAuAAADSLKv-EI8AESN7LMej4ROLgEAIySisE98NkWmcNijjztGYgAAAj2DAAAA"
+  },
+  "body": {
+    "content_type": null,
+    "preview": "Hi Jacqui\r\nPlease see below banking details for Tranquility.\r\nKindest Regards\r\nFrom: Marc Coesens <marcoc@mweb.co.za>\r\nSent: 01 September 2021 09:15 AM\r\nTo: orders@regima.com\r\nSubject: Re: Tranquility Bank Details\r\n\r\nHi\r\nHerewith the banking details:\r\nBan",
+    "body_length_chars": 0
+  },
+  "attachments": []
+}

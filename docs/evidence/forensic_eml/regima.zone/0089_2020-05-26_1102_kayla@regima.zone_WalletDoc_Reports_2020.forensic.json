@@ -1,0 +1,46 @@
+{
+  "_schema": "exchange-forensic-eml/v1",
+  "_generated": "2026-03-10T03:53:07.360446+00:00",
+  "_source": "neon-exchange-sync",
+  "file_integrity": {
+    "eml_file": "/home/ubuntu/revstream1/docs/evidence/forensic_eml/regima.zone/0089_2020-05-26_1102_kayla@regima.zone_WalletDoc_Reports_2020.eml",
+    "file_size_bytes": 774,
+    "md5": "810c2710f37f53f38885bf883b9a85a8",
+    "sha1": "e960fca4fd7a7ab60edc5557def65045c016ba75",
+    "sha256": "d7c44da5a0210c14214c1d0e26fc89d65c26229dc95ba04b60a9d8cd139a22a9"
+  },
+  "message_identity": {
+    "exchange_sync_id": "AQMkADMxMzkyY2FlLWNkMGEtNGM2My04OWFiLTNlZDRjNzkyNGUyMwBGAAADSLKv-EI8AESN7LMej4ROLgcAIySisE98NkWmcNijjztGYgAAAj1KAAAAIySisE98NkWmcNijjztGYgAAAl89AAAA",
+    "internet_message_id": "<VI1PR0802MB23331E488505E405A9E3E631A1B00@VI1PR0802MB2333.eurprd08.prod.outlook.com>",
+    "conversation_id": "AAQkADMxMzkyY2FlLWNkMGEtNGM2My04OWFiLTNlZDRjNzkyNGUyMwAQABgy-X_8ceJEkvyisQtcQCQ="
+  },
+  "envelope": {
+    "subject": "WalletDoc Reports 2020 ",
+    "from_name": "Kayla Pretorius",
+    "from_address": "kayla@regima.zone",
+    "to_recipients": [
+      {
+        "name": "Bernadine Wright",
+        "address": "bern@regima.zone"
+      },
+      {
+        "name": "Rynette Farrar",
+        "address": "rynette@regima.zone"
+      }
+    ],
+    "cc_recipients": null,
+    "received_datetime": "2020-05-26 11:02:00+00:00"
+  },
+  "mailbox_context": {
+    "user_email": "rynette@regima.zone",
+    "user_name": "Rynette Farrar",
+    "folder_name": "Ninja",
+    "folder_id": "AQMkADMxMzkyY2FlLWNkMGEtNGM2My04OWFiLTNlZDRjNzkyNGUyMwAuAAADSLKv-EI8AESN7LMej4ROLgEAIySisE98NkWmcNijjztGYgAAAj1KAAAA"
+  },
+  "body": {
+    "content_type": null,
+    "preview": "Hello\r\n\r\nPlease find attached all of WalletDoc Reports for 2020.\r\n\r\nKindest Regards\r\nKayla Pretorius\r\nRegimA Head Office",
+    "body_length_chars": 0
+  },
+  "attachments": []
+}

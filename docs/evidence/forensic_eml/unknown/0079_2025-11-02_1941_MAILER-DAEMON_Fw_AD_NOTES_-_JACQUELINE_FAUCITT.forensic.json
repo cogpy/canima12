@@ -1,0 +1,51 @@
+{
+  "_schema": "exchange-forensic-eml/v1",
+  "_generated": "2026-03-10T03:50:37.108893+00:00",
+  "_source": "neon-exchange-sync",
+  "file_integrity": {
+    "eml_file": "/home/ubuntu/revstream1/docs/evidence/forensic_eml/unknown/0079_2025-11-02_1941_MAILER-DAEMON_Fw_AD_NOTES_-_JACQUELINE_FAUCITT.eml",
+    "file_size_bytes": 288358,
+    "md5": "bc27910a8fc4ec36be3a5caae738236c",
+    "sha1": "b9fbc7c715fd6392dc9ef71f54ec620aa8e06110",
+    "sha256": "56ade8856b6f19b84aa1ea95d0250d0bba17bdbbbdfbdc809ba97ce128780002"
+  },
+  "message_identity": {
+    "exchange_sync_id": "pst-d5cb702515aa712c1c34a32d00100845ee7f6d8e",
+    "internet_message_id": "<JNZP275MB13212F7091058D2CD93B4E4ACBC6A@JNZP275MB1321.ZAFP275.PROD.OUTLOOK.COM>",
+    "conversation_id": null
+  },
+  "envelope": {
+    "subject": "Fw: AD NOTES - JACQUELINE FAUCITT",
+    "from_name": "Daniel Faucitt",
+    "from_address": "MAILER-DAEMON",
+    "to_recipients": [
+      {
+        "emailAddress": {
+          "name": "Manus",
+          "address": "Manus"
+        }
+      }
+    ],
+    "cc_recipients": [
+      {
+        "emailAddress": {
+          "name": "d",
+          "address": "d@rzo.io"
+        }
+      }
+    ],
+    "received_datetime": "2025-11-02 19:41:52+00:00"
+  },
+  "mailbox_context": {
+    "user_email": "dan@regima.com",
+    "user_name": "Dan",
+    "folder_name": "Sent Items",
+    "folder_id": "pst-folder-d5f2fe49026e4bccf5f8a98e2e8a2b1d"
+  },
+  "body": {
+    "content_type": "html",
+    "preview": "P {margin-top:0;margin-bottom:0;} Hey man please add these notes from Jax to https://github.com/cogpy/canima From: &nbsp;Jacqui Faucitt &lt;jax@regima.zone&gt; Sent: &nbsp;Sunday, November 02, 2025 21:38 To: &nbsp;Daniel Faucitt &lt;dan@regima.com&gt; Sub",
+    "body_length_chars": 212900
+  },
+  "attachments": []
+}

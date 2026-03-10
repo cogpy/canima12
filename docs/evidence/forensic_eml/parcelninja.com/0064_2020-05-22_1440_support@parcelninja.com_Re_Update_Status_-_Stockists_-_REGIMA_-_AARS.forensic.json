@@ -1,0 +1,55 @@
+{
+  "_schema": "exchange-forensic-eml/v1",
+  "_generated": "2026-03-10T03:53:03.915050+00:00",
+  "_source": "neon-exchange-sync",
+  "file_integrity": {
+    "eml_file": "/home/ubuntu/revstream1/docs/evidence/forensic_eml/parcelninja.com/0064_2020-05-22_1440_support@parcelninja.com_Re_Update_Status_-_Stockists_-_REGIMA_-_AARS.eml",
+    "file_size_bytes": 861,
+    "md5": "6afb7f04b6dfd89eaf29bc336cd55624",
+    "sha1": "da4076c46cde7b3c71526366436cf8d1a66cf154",
+    "sha256": "3de949beee6de1780c834cf8f59e26886fcacadfc87db23643876a59d3373baa"
+  },
+  "message_identity": {
+    "exchange_sync_id": "AAMkADkzY2U4OTQyLTZjNzAtNGRlNi1iMjk1LWQwNWNjYzIyODQ5YgBGAAAAAAADECMUPsw5TaA2pA0VUIqNBwCR-svwgFxkSomVNqCc6-zPAAAAAAEMAACR-svwgFxkSomVNqCc6-zPAAVOmkzQAAA=",
+    "internet_message_id": "<1509741554.969748.1590158396477@failed-consumers-out5.localdomain>",
+    "conversation_id": "AAQkADkzY2U4OTQyLTZjNzAtNGRlNi1iMjk1LWQwNWNjYzIyODQ5YgAQANDJZUFXXcBFib_XXDBDgJ4="
+  },
+  "envelope": {
+    "subject": "Re: Update Status - Stockists - REGIMA - AARS",
+    "from_name": "Kim Lawrence",
+    "from_address": "support@parcelninja.com",
+    "to_recipients": [
+      {
+        "name": "Kayla Pretorius",
+        "address": "kayla@regima.zone"
+      }
+    ],
+    "cc_recipients": [
+      {
+        "name": "Bernadine Wright",
+        "address": "bern@regima.zone"
+      },
+      {
+        "name": "Rynette Farrar",
+        "address": "rynette@regima.zone"
+      },
+      {
+        "name": "kent@regima.com",
+        "address": "kent@regima.com"
+      }
+    ],
+    "received_datetime": "2020-05-22 14:40:00+00:00"
+  },
+  "mailbox_context": {
+    "user_email": "kayla@regima.zone",
+    "user_name": "Kayla Pretorius",
+    "folder_name": "Inbox",
+    "folder_id": "AQMkADkzY2U4OTQyLTZjNzAtNGRlNi1iMjk1LWQwNWNjATIyADg0OWIALgAAAwMQIxQ_zDlNoDakDRVQio0BAJH_y-CAXGRKiZU2oJzr-M8AAAIBDAAAAA=="
+  },
+  "body": {
+    "content_type": null,
+    "preview": "Hi Kayla Pretorius,\r\n​\r\nThis has been marked as collected\r\n\r\nTicket: https://parcelninja.freshdesk.com/helpdesk/tickets/60442\r\n--\r\nRegards\r\nKim Lawrence\r\n(Support Team)\r\nOn Fri, 22 May at 8:36 AM , Kayla Pretorius <kayla@regima.zone> wrote:\r\nGood Day\r\n\r\nT",
+    "body_length_chars": 0
+  },
+  "attachments": []
+}

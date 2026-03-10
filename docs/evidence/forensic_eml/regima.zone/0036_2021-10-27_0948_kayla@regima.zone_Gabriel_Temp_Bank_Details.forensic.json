@@ -1,0 +1,46 @@
+{
+  "_schema": "exchange-forensic-eml/v1",
+  "_generated": "2026-03-10T03:53:52.663885+00:00",
+  "_source": "neon-exchange-sync",
+  "file_integrity": {
+    "eml_file": "/home/ubuntu/revstream1/docs/evidence/forensic_eml/regima.zone/0036_2021-10-27_0948_kayla@regima.zone_Gabriel_Temp_Bank_Details.eml",
+    "file_size_bytes": 776,
+    "md5": "21a132eae8e8f616319cd00715418605",
+    "sha1": "f7c4adcf2c738f2cda889e51e3a07094cd729ea2",
+    "sha256": "2a26c04606b041bcce28e53fea0f0e81a55f07c02d65f62cb938540026c86ffd"
+  },
+  "message_identity": {
+    "exchange_sync_id": "AAMkADkzY2U4OTQyLTZjNzAtNGRlNi1iMjk1LWQwNWNjYzIyODQ5YgBGAAAAAAADECMUPsw5TaA2pA0VUIqNBwCR-svwgFxkSomVNqCc6-zPAAAAAAEJAACR-svwgFxkSomVNqCc6-zPAAakCaCMAAA=",
+    "internet_message_id": "<DB9PR08MB685980805E244E44E5F454A2A1859@DB9PR08MB6859.eurprd08.prod.outlook.com>",
+    "conversation_id": "AAQkADkzY2U4OTQyLTZjNzAtNGRlNi1iMjk1LWQwNWNjYzIyODQ5YgAQAH-LTQDqtG5Jj2RkamIZ3Rc="
+  },
+  "envelope": {
+    "subject": "Gabriel Temp Bank Details ",
+    "from_name": "Kayla Pretorius",
+    "from_address": "kayla@regima.zone",
+    "to_recipients": [
+      {
+        "name": "Jacqui Faucitt",
+        "address": "jax@regima.zone"
+      },
+      {
+        "name": "pete@regima.com",
+        "address": "pete@regima.com"
+      }
+    ],
+    "cc_recipients": null,
+    "received_datetime": "2021-10-27 09:48:00+00:00"
+  },
+  "mailbox_context": {
+    "user_email": "kayla@regima.zone",
+    "user_name": "Kayla Pretorius",
+    "folder_name": "Sent Items",
+    "folder_id": "AQMkADkzY2U4OTQyLTZjNzAtNGRlNi1iMjk1LWQwNWNjATIyADg0OWIALgAAAwMQIxQ_zDlNoDakDRVQio0BAJH_y-CAXGRKiZU2oJzr-M8AAAIBCQAAAA=="
+  },
+  "body": {
+    "content_type": null,
+    "preview": "Hi Jax\r\n\r\nCan you please send Gab's moneys to the below account, this is just temporary\r\n\r\nCapitec Savings\r\n1480086779\r\nK. Pretorius\r\n\r\nIt's under my name but I'll draw the cash out for him, makes it easier for everyone 🙂\r\n\r\nKindest Regards\r\nKayla Pretor",
+    "body_length_chars": 0
+  },
+  "attachments": []
+}

@@ -1,0 +1,59 @@
+{
+  "_schema": "exchange-forensic-eml/v1",
+  "_generated": "2026-03-10T03:53:24.257601+00:00",
+  "_source": "neon-exchange-sync",
+  "file_integrity": {
+    "eml_file": "/home/ubuntu/revstream1/docs/evidence/forensic_eml/jubilingo.co.za/0021_2021-06-22_0455_Karenvdh@jubilingo.co.za_RE_Other_suppliers_order_to_be_placed_-_DOCUMENTS_.eml",
+    "file_size_bytes": 1064,
+    "md5": "db4a15d2942293a8e14aea756b5c24e5",
+    "sha1": "1ece4f000c915f35aa08df4999175f7f12c85a14",
+    "sha256": "c7939059016c378a7af2b0eacf3c28fc6ea6e8501047bcffd748fa89f5641142"
+  },
+  "message_identity": {
+    "exchange_sync_id": "AAMkADMxMzkyY2FlLWNkMGEtNGM2My04OWFiLTNlZDRjNzkyNGUyMwBGAAAAAABIsq-8QjwARI3ssx6PhE4uBwAjJKKwT3w2RaZw2KOPO0ZiAAA-JWRzAAAjJKKwT3w2RaZw2KOPO0ZiAAA-JcuFAAA=",
+    "internet_message_id": "<!&!AAAAAAAAAAAuAAAAAAAAAPdNAVyxtlZOt9Vpc58OZSUBAMO2jhD3dRHOtM0AqgC7tuYAAAAAAA4AABAAAADswEEreIfzR6aG1tmTr7EdAQAAAAA=@jubilingo.co.za>",
+    "conversation_id": "AAQkADMxMzkyY2FlLWNkMGEtNGM2My04OWFiLTNlZDRjNzkyNGUyMwAQAHzBESR1NkL4mnQ83rVhF4c="
+  },
+  "envelope": {
+    "subject": "RE: Other suppliers order to be placed - DOCUMENTS MAY BE IN PDF AS LONG AS INGREDIENT NAME, PRODUCT NAME, DATE OF MANUFACTURE",
+    "from_name": "Karenvdh@jubilingo.co.za",
+    "from_address": "Karenvdh@jubilingo.co.za",
+    "to_recipients": [
+      {
+        "name": "Jacqui Faucitt",
+        "address": "jax@regima.zone"
+      },
+      {
+        "name": "Rynette Farrar",
+        "address": "rynette@regima.zone"
+      },
+      {
+        "name": "Daniel Faucitt",
+        "address": "dan@regima.zone"
+      }
+    ],
+    "cc_recipients": [
+      {
+        "name": "JAX@REGIMA.COM",
+        "address": "JAX@REGIMA.COM"
+      },
+      {
+        "name": "PETE@REGIMA.COM",
+        "address": "PETE@REGIMA.COM"
+      }
+    ],
+    "received_datetime": "2021-06-22 04:55:23+00:00"
+  },
+  "mailbox_context": {
+    "user_email": "rynette@regima.zone",
+    "user_name": "Rynette Farrar",
+    "folder_name": "Karen Jubalingo",
+    "folder_id": "AAMkADMxMzkyY2FlLWNkMGEtNGM2My04OWFiLTNlZDRjNzkyNGUyMwAuAAAAAABIsq-8QjwARI3ssx6PhE4uAQAjJKKwT3w2RaZw2KOPO0ZiAAA-JWRzAAA="
+  },
+  "body": {
+    "content_type": null,
+    "preview": "Thank you Jacqui.\r\n\r\nKindest Regards\r\nKaren van der Hoven\r\nCell: 079 517 4041\r\nOn Behalf of Strategic Logistics\r\n\r\n\r\n\r\nFrom: Jacqui Faucitt <jax@regima.zone>\r\nSent: Monday, 21 June 2021 3:16 PM\r\nTo: Rynette Farrar <rynette@regima.zone>; Karenvdh@jubilingo",
+    "body_length_chars": 0
+  },
+  "attachments": []
+}

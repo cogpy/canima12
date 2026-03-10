@@ -1,0 +1,103 @@
+{
+  "_schema": "exchange-forensic-eml/v1",
+  "_generated": "2026-03-10T03:50:34.538612+00:00",
+  "_source": "neon-exchange-sync",
+  "file_integrity": {
+    "eml_file": "/home/ubuntu/revstream1/docs/evidence/forensic_eml/ianlevitt.co.za/0061_2025-10-17_1557_Natan@ianlevitt.co.za_Re_FAUCITT_-_URGENT_FEEDBACK.eml",
+    "file_size_bytes": 103111,
+    "md5": "29250488eac7f3d87bd2051889591bbc",
+    "sha1": "facdb07cf46a59947313020948e41f937f49ae9f",
+    "sha256": "4732101d48d1a9debc51efc9d947d16fbce6fe2e29c1f54ad5514a33e39934d4"
+  },
+  "message_identity": {
+    "exchange_sync_id": "pst-d698514188613ca5c95fa99d2d9a522dfa8d011d",
+    "internet_message_id": "<DB7PR07MB5093AA7A7678609370EBDC45E9F6A@DB7PR07MB5093.eurprd07.prod.outlook.com>",
+    "conversation_id": "pst-conv-c011e36a926df80890bb8334e98d05c9"
+  },
+  "envelope": {
+    "subject": "Re: FAUCITT - URGENT FEEDBACK",
+    "from_name": "Natan Back",
+    "from_address": "Natan@ianlevitt.co.za",
+    "to_recipients": [
+      {
+        "emailAddress": {
+          "name": "Daniel Faucitt",
+          "address": "dan@regima.com"
+        }
+      },
+      {
+        "emailAddress": {
+          "name": "Jacqui Faucitt",
+          "address": "jax@regima.zone"
+        }
+      }
+    ],
+    "cc_recipients": [
+      {
+        "emailAddress": {
+          "name": "d@rzo.io",
+          "address": "d@rzo.io"
+        }
+      },
+      {
+        "emailAddress": {
+          "name": "Ian Levitt",
+          "address": "ian@ianlevitt.co.za"
+        }
+      },
+      {
+        "emailAddress": {
+          "name": "Doron Block",
+          "address": "block@rivoniaadvocates.co.za"
+        }
+      }
+    ],
+    "received_datetime": "2025-10-17 15:57:13+00:00"
+  },
+  "mailbox_context": {
+    "user_email": "Natan@ianlevitt.co.za",
+    "user_name": "Natan",
+    "folder_name": "Inbox",
+    "folder_id": "pst-folder-3bb8a446372f68069ee392873b483933"
+  },
+  "body": {
+    "content_type": "html",
+    "preview": "Can we please consult urgently next week. Please let me know what time and date suits you&nbsp; Kind regards, &nbsp; NATAN BACK CANDIDATE ATTORNEY &nbsp; IAN LEVITT ATTORNEYS THE LEONARDO, OFFICE LEVEL 12, 75 ON MAUDE STREET SANDTON, 2196 DX 54 SANDTON SQ",
+    "body_length_chars": 75012
+  },
+  "attachments": [
+    {
+      "id": "pst-att-c08860b4c18eaef25568e249ab61c7091250c245",
+      "name": "Image.jpeg",
+      "content_type": "image/jpeg",
+      "size_bytes": 10441,
+      "is_inline": false,
+      "r2_bucket": "exchange-attachments",
+      "r2_key": "Natan_at_ianlevitt.co.za/pst/pst-d698514188613ca5/Image.jpeg",
+      "download_status": "downloaded",
+      "downloaded": false
+    },
+    {
+      "id": "pst-att-a8b38356924fd270f914eb382fb24f3580cb64e2",
+      "name": "Image.jpeg",
+      "content_type": "image/jpeg",
+      "size_bytes": 10441,
+      "is_inline": false,
+      "r2_bucket": "exchange-attachments",
+      "r2_key": "Natan_at_ianlevitt.co.za/pst/pst-d698514188613ca5/Image.jpeg",
+      "download_status": "downloaded",
+      "downloaded": false
+    },
+    {
+      "id": "pst-att-7e442a366bf3cb348737a28f5450177f701f148f",
+      "name": "Outlook-signatureI.png",
+      "content_type": "image/png",
+      "size_bytes": 17109,
+      "is_inline": false,
+      "r2_bucket": "exchange-attachments",
+      "r2_key": "Natan_at_ianlevitt.co.za/pst/pst-d698514188613ca5/Outlook-signatureI.png",
+      "download_status": "downloaded",
+      "downloaded": false
+    }
+  ]
+}

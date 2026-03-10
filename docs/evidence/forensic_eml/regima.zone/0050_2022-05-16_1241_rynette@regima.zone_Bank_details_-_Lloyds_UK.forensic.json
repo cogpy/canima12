@@ -1,0 +1,55 @@
+{
+  "_schema": "exchange-forensic-eml/v1",
+  "_generated": "2026-03-10T03:53:53.360577+00:00",
+  "_source": "neon-exchange-sync",
+  "file_integrity": {
+    "eml_file": "/home/ubuntu/revstream1/docs/evidence/forensic_eml/regima.zone/0050_2022-05-16_1241_rynette@regima.zone_Bank_details_-_Lloyds_UK.eml",
+    "file_size_bytes": 836,
+    "md5": "0464bd8493a582e793549fc60d1c2c59",
+    "sha1": "f8b8132549c94f71d5f87a1e938e10b301b376e3",
+    "sha256": "67b2625e5e70b9ce63c1fab63550a0c7dfe64b9de92ea92f2a4c2efc6b047deb"
+  },
+  "message_identity": {
+    "exchange_sync_id": "AQMkAGM2Y2E0NWVmLWEzZTktNDc1Mi1iY2I4LTU3OTBlMTJhMTllNQBGAAADPe59AHjuz0_HJe8Q4ALb1wcAtr3q_CoE-0aRl7m1844EjgAAAgEMAAAAtr3q_CoE-0aRl7m1844EjgAHIhzOBAAAAA==",
+    "internet_message_id": "<DB9PR08MB6569A3185590982B69BD358ABACF9@DB9PR08MB6569.eurprd08.prod.outlook.com>",
+    "conversation_id": "AAQkAGM2Y2E0NWVmLWEzZTktNDc1Mi1iY2I4LTU3OTBlMTJhMTllNQAQACkQXc3VNUfXkbnyQOWcxv4="
+  },
+  "envelope": {
+    "subject": "Bank details - Lloyds UK",
+    "from_name": "Rynette Farrar",
+    "from_address": "rynette@regima.zone",
+    "to_recipients": [
+      {
+        "name": "CMSBella",
+        "address": "info@cmsbella.com"
+      }
+    ],
+    "cc_recipients": [
+      {
+        "name": "JAX@REGIMA.COM",
+        "address": "JAX@REGIMA.COM"
+      },
+      {
+        "name": "PETE@REGIMA.COM",
+        "address": "PETE@REGIMA.COM"
+      },
+      {
+        "name": "Jacqui Faucitt",
+        "address": "jax@regima.zone"
+      }
+    ],
+    "received_datetime": "2022-05-16 12:41:24+00:00"
+  },
+  "mailbox_context": {
+    "user_email": "jax@regima.zone",
+    "user_name": "Jacqui Faucitt",
+    "folder_name": "Inbox",
+    "folder_id": "AQMkAGM2Y2E0NWVmLWEzZTktNDc1Mi1iY2I4LTU3OTBlMTJhMTllNQAuAAADPe59AHjuz0_HJe8Q4ALb1wEAtr3q_CoE-0aRl7m1844EjgAAAgEMAAAA"
+  },
+  "body": {
+    "content_type": null,
+    "preview": "Hi Carmel\r\n\r\nLloyds Bank\r\n18 Week street\r\nMaidstone\r\nME14 1 RW\r\nUnited Kingdom\r\n\r\nIBAN code:  GB50 LOYD 3095 3703 2105 11\r\n\r\nRegards\r\n\r\n\r\nFrom: CMSBella <info@cmsbella.com>\r\nSent: Monday, 16 May 2022 13:32\r\nTo: Rynette Farrar <rynette@regima.zone>\r\nSubjec",
+    "body_length_chars": 0
+  },
+  "attachments": []
+}

@@ -1,0 +1,51 @@
+{
+  "_schema": "exchange-forensic-eml/v1",
+  "_generated": "2026-03-10T03:50:32.337417+00:00",
+  "_source": "neon-exchange-sync",
+  "file_integrity": {
+    "eml_file": "/home/ubuntu/revstream1/docs/evidence/forensic_eml/github.com/0046_2025-10-14_1348_notifications@github.com_Re_[cogpy_ad-res-j7]_Add_comprehensive_analysis_of.eml",
+    "file_size_bytes": 3227,
+    "md5": "d9bec37d968fc4ad0e6f399db37fde16",
+    "sha1": "1fe5cf54f0bfe713def838e455cee9d2fcbf8520",
+    "sha256": "2d14f3936cefd06685f029ceb6ddc8d1b1f4f8e0f9104552d3c6f97074771900"
+  },
+  "message_identity": {
+    "exchange_sync_id": "AAMkAGYzMDVmNzkwLWNmZjMtNDBjZC04ZmY4LTRkNGEzNTgxMjU2MABGAAAAAADPi1nZV45aRY1s43jJ3tfJBwCtp_82Ac8MTK2-lmRJoPi9AAAAAAEMAACpChlY1MKaRbKdNPbWwiIjAAgWsxhoAAA=",
+    "internet_message_id": "<cogpy/ad-res-j7/pull/524/issue_event/20270591416@github.com>",
+    "conversation_id": "AAQkAGYzMDVmNzkwLWNmZjMtNDBjZC04ZmY4LTRkNGEzNTgxMjU2MAAQACLXrEZDTB5OszZQxj6Je2w="
+  },
+  "envelope": {
+    "subject": "Re: [cogpy/ad-res-j7] Add comprehensive analysis of Bantjies trustee contradictions and breach of fiduciary duty (PR #524)",
+    "from_name": "Copilot",
+    "from_address": "notifications@github.com",
+    "to_recipients": [
+      {
+        "name": "cogpy/ad-res-j7",
+        "address": "ad-res-j7@noreply.github.com"
+      }
+    ],
+    "cc_recipients": [
+      {
+        "name": "Daniel Faucitt",
+        "address": "dan@regima.zone"
+      },
+      {
+        "name": "Review requested",
+        "address": "review_requested@noreply.github.com"
+      }
+    ],
+    "received_datetime": "2025-10-14 13:48:51+00:00"
+  },
+  "mailbox_context": {
+    "user_email": "dan@regima.zone",
+    "user_name": "Daniel Faucitt",
+    "folder_name": "Inbox",
+    "folder_id": "AAMkAGYzMDVmNzkwLWNmZjMtNDBjZC04ZmY4LTRkNGEzNTgxMjU2MAAuAAAAAADPi1nZV45aRY1s43jJ3tfJAQCtp_82Ac8MTK2-lmRJoPi9AAAAAAEMAAA="
+  },
+  "body": {
+    "content_type": "html",
+    "preview": "@Copilot requested your review on: #524 Add comprehensive analysis of Bantjies trustee contradictions and breach of fiduciary duty.\r\n\r\n—\r\nReply to this email directly, view it on GitHub, or unsubscribe.\r\nYou are receiving this because your review was requ",
+    "body_length_chars": 1572
+  },
+  "attachments": []
+}

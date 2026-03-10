@@ -1,0 +1,37 @@
+{
+  "_schema": "exchange-forensic-eml/v1",
+  "_generated": "2026-03-10T03:53:50.931124+00:00",
+  "_source": "neon-exchange-sync",
+  "file_integrity": {
+    "eml_file": "/home/ubuntu/revstream1/docs/evidence/forensic_eml/kuehne-nagel.com/0001_2015-07-03_1619_jeneshnee.moodley@kuehne-nagel_Kuehne_+_Nagel_Bank_details_03-07-2015.eml",
+    "file_size_bytes": 3322,
+    "md5": "e95c091544bd5aead5754bc956ea5879",
+    "sha1": "14e69ab19c195aaca9287e9a333b8852473212a6",
+    "sha256": "2e3f30fe0d0a142dacb422270a7b418e93e52e2b8111a8df49f4580f1720c798"
+  },
+  "message_identity": {
+    "exchange_sync_id": "AAMkADc4ZGZjN2JjLTJlMjItNGE1NS05MTYxLThlYWFjMzY3MTVjZABGAAAAAADj_NpbsASvQrvxk8XF5jX2BwB2KVzCOlRYS6jHNlIdVIteAAAAAAEMAAB2KVzCOlRYS6jHNlIdVIteAAAMZNfiAAA=",
+    "internet_message_id": null,
+    "conversation_id": null
+  },
+  "envelope": {
+    "subject": "Kuehne + Nagel Bank details 03-07-2015",
+    "from_name": "Jeneshnee Moodley",
+    "from_address": "jeneshnee.moodley@kuehne-nagel.com",
+    "to_recipients": null,
+    "cc_recipients": null,
+    "received_datetime": "2015-07-03 16:19:43+00:00"
+  },
+  "mailbox_context": {
+    "user_email": "DanX@regima.zone",
+    "user_name": "Dan X",
+    "folder_name": null,
+    "folder_id": null
+  },
+  "body": {
+    "content_type": "html",
+    "preview": "",
+    "body_length_chars": 1936
+  },
+  "attachments": []
+}

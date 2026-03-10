@@ -1,0 +1,59 @@
+{
+  "_schema": "exchange-forensic-eml/v1",
+  "_generated": "2026-03-10T03:53:23.979083+00:00",
+  "_source": "neon-exchange-sync",
+  "file_integrity": {
+    "eml_file": "/home/ubuntu/revstream1/docs/evidence/forensic_eml/regima.zone/0019_2021-06-21_1316_jax@regima.zone_RE_Other_suppliers_order_to_be_placed_-_DOCUMENTS_.eml",
+    "file_size_bytes": 999,
+    "md5": "3cf873ee6ef09296e5ef57bd20fbc0d2",
+    "sha1": "388f4f27c24d8cf31c33d417595813bfdb10bd2d",
+    "sha256": "1e4adc3b502409713b918d6fd6e929d375967f74b0c809e488f88312e31fa38b"
+  },
+  "message_identity": {
+    "exchange_sync_id": "AAMkAGM2Y2E0NWVmLWEzZTktNDc1Mi1iY2I4LTU3OTBlMTJhMTllNQBGAAAAAAA97n0AeO7PT4cl7xDgAtvXBwC2ver4KgT-RpGXubXzjgSOAAIZYOy5AAC2ver4KgT-RpGXubXzjgSOAAdIAT5CAAA=",
+    "internet_message_id": "<DB7PR08MB330655CA7AB1AADDCCCE7366AC0A9@DB7PR08MB3306.eurprd08.prod.outlook.com>",
+    "conversation_id": "AAQkAGM2Y2E0NWVmLWEzZTktNDc1Mi1iY2I4LTU3OTBlMTJhMTllNQAQAHzBESR1NkL4mnQ83rVhF4c="
+  },
+  "envelope": {
+    "subject": "RE: Other suppliers order to be placed - DOCUMENTS MAY BE IN PDF AS LONG AS INGREDIENT NAME, PRODUCT NAME, DATE OF MANUFACTURE",
+    "from_name": "Jacqui Faucitt",
+    "from_address": "jax@regima.zone",
+    "to_recipients": [
+      {
+        "name": "Rynette Farrar",
+        "address": "rynette@regima.zone"
+      },
+      {
+        "name": "Karenvdh@jubilingo.co.za",
+        "address": "Karenvdh@jubilingo.co.za"
+      },
+      {
+        "name": "Daniel Faucitt",
+        "address": "dan@regima.zone"
+      }
+    ],
+    "cc_recipients": [
+      {
+        "name": "JAX@REGIMA.COM",
+        "address": "JAX@REGIMA.COM"
+      },
+      {
+        "name": "PETE@REGIMA.COM",
+        "address": "pete@regima.com"
+      }
+    ],
+    "received_datetime": "2021-06-21 13:16:00+00:00"
+  },
+  "mailbox_context": {
+    "user_email": "jax@regima.zone",
+    "user_name": "Jacqui Faucitt",
+    "folder_name": "Archive",
+    "folder_id": "AQMkAGM2Y2E0NWVmLWEzZTktNDc1Mi1iY2I4LTU3OTBlMTJhMTllNQAuAAADPe59AHjuz0_HJe8Q4ALb1wEAtr3q_CoE-0aRl7m1844EjgACGWDsuQAAAA=="
+  },
+  "body": {
+    "content_type": null,
+    "preview": "Hi Rynette\r\n\r\nI have just spoken to Karen and I have agreed that Pete and I will accept orders going forward in PDF format (to save a lot of time) as long as they contain:\r\n\r\nINGREDIENT NAME\r\nPRODUCT NAME\r\nDATE OF MANUFACTURE (this may vary slightly depen",
+    "body_length_chars": 0
+  },
+  "attachments": []
+}

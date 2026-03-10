@@ -1,7 +1,7 @@
 # Relations Index
 
-**Last Updated:** 2026-03-09  
-**Total Relations:** 17 documented files + 15 JSON-modeled relations  
+**Last Updated:** 2026-03-10  
+**Total Relations:** 18 documented files + 15 JSON-modeled relations  
 **Case Number:** 2025-137857
 
 This index catalogs all entity relationships documented in the Revenue Stream Hijacking case, organized by type and cross-referenced to all 6 applications.
@@ -17,6 +17,12 @@ This index catalogs all entity relationships documented in the Revenue Stream Hi
 | **Trust Capture Sequence** | Trust Fraud | Rynette, Bantjies, Peter | 99% | [View](./TRUST_CAPTURE_SEQUENCE.md) |
 | **Identity Fraud Network** | Identity Fraud / POPIA | Rynette (as Peter, as Bantjies) | 99% | [View](./IDENTITY_FRAUD_NETWORK.md) |
 | **Dual Corporate Identity** | Corporate Fraud | Villa Via / Kaylovest Three | 95% | [View](./DUAL_CORPORATE_IDENTITY.md) |
+
+## LEX-SIM-NN Evidence Attribution (March 2026)
+
+| Relation | Type | Key Entities | Confidence | Link |
+|----------|------|-------------|------------|------|
+| **LEX-SIM-NN Attribution** | Quantitative Evidence Assessment | All entities | 99% | [View](./LEX_SIM_NN_ATTRIBUTION_2026_03_10.md) |
 
 ## Existing Conspiracy Relations
 
@@ -111,4 +117,4 @@ The following relations are modeled in structured JSON format within this index 
 
 ---
 
-*Last updated: 2026-03-09 | LEX-RECON Cross-Repository Reconciliation + 6-Application Restructure*
+*Last updated: 2026-03-10 | LEX-SIM-NN & Forensic EML Enhanced*

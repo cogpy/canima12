@@ -1,0 +1,51 @@
+{
+  "_schema": "exchange-forensic-eml/v1",
+  "_generated": "2026-03-10T03:50:37.256280+00:00",
+  "_source": "neon-exchange-sync",
+  "file_integrity": {
+    "eml_file": "/home/ubuntu/revstream1/docs/evidence/forensic_eml/manus.bot/0080_2025-11-02_1942_d538@manus.bot_Re_Fw_AD_NOTES_-_JACQUELINE_FAUCITT.eml",
+    "file_size_bytes": 290961,
+    "md5": "a09289828189c9ef82dfc1d639d31e97",
+    "sha1": "dadc97930add5fe457349c085c7e6d49b38aebd6",
+    "sha256": "976e1ef32ea8f70e53494e6c46525025c90f6b811cb912c6a2d110f4f8a6a9c2"
+  },
+  "message_identity": {
+    "exchange_sync_id": "pst-fa71131b04ed9011373c8ef485279e203d78dc12",
+    "internet_message_id": "<0100019a461788c0-ae892d1f-e8d1-42fb-9f9d-a5e034a649fa-000000@email.amazonses.com>",
+    "conversation_id": null
+  },
+  "envelope": {
+    "subject": "Re: Fw: AD NOTES - JACQUELINE FAUCITT",
+    "from_name": "Manus",
+    "from_address": "d538@manus.bot",
+    "to_recipients": [
+      {
+        "emailAddress": {
+          "name": "Daniel Faucitt",
+          "address": "dan@regima.com"
+        }
+      }
+    ],
+    "cc_recipients": [
+      {
+        "emailAddress": {
+          "name": "d@rzo.io",
+          "address": "d@rzo.io"
+        }
+      }
+    ],
+    "received_datetime": "2025-11-02 19:42:18+00:00"
+  },
+  "mailbox_context": {
+    "user_email": "d538@manus.bot",
+    "user_name": "D538",
+    "folder_name": "Inbox",
+    "folder_id": "pst-folder-75906fca51bbfcfda8006d923513973a"
+  },
+  "body": {
+    "content_type": "html",
+    "preview": "Hi, I have received your task New Task and started working. I will do the following: Read email and attachments to understand the content Clone and analyze the cogpy/canima repository Add Jax's notes to the repository Report completion to user You can con",
+    "body_length_chars": 214793
+  },
+  "attachments": []
+}

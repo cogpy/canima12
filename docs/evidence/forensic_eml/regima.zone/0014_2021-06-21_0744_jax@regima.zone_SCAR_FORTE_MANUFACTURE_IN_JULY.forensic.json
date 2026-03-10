@@ -1,0 +1,51 @@
+{
+  "_schema": "exchange-forensic-eml/v1",
+  "_generated": "2026-03-10T03:53:23.288542+00:00",
+  "_source": "neon-exchange-sync",
+  "file_integrity": {
+    "eml_file": "/home/ubuntu/revstream1/docs/evidence/forensic_eml/regima.zone/0014_2021-06-21_0744_jax@regima.zone_SCAR_FORTE_MANUFACTURE_IN_JULY.eml",
+    "file_size_bytes": 818,
+    "md5": "a397699a20c92c42bebf0390c8736c13",
+    "sha1": "47dbae748353fce0fd6fc993d5374c1ede15950d",
+    "sha256": "8ee0d22d7347d112f49007f8d84f8d90f648b4b605b707e0f0e92027673a14d6"
+  },
+  "message_identity": {
+    "exchange_sync_id": "AAMkADMxMzkyY2FlLWNkMGEtNGM2My04OWFiLTNlZDRjNzkyNGUyMwBGAAAAAABIsq-8QjwARI3ssx6PhE4uBwAjJKKwT3w2RaZw2KOPO0ZiAAAAAD3CAAAjJKKwT3w2RaZw2KOPO0ZiAAA-JZQOAAA=",
+    "internet_message_id": "<DB7PR08MB3306A126D617CE7B353F64F6AC0A9@DB7PR08MB3306.eurprd08.prod.outlook.com>",
+    "conversation_id": "AAQkADMxMzkyY2FlLWNkMGEtNGM2My04OWFiLTNlZDRjNzkyNGUyMwAQAOBrgDLvAUd2lxcdjF8ScWs="
+  },
+  "envelope": {
+    "subject": "SCAR FORTE MANUFACTURE IN JULY",
+    "from_name": "Jacqui Faucitt",
+    "from_address": "jax@regima.zone",
+    "to_recipients": [
+      {
+        "name": "Rynette Farrar",
+        "address": "rynette@regima.zone"
+      }
+    ],
+    "cc_recipients": [
+      {
+        "name": "Kayla Pretorius",
+        "address": "kayla@regima.zone"
+      },
+      {
+        "name": "kent@regima.com",
+        "address": "kent@regima.com"
+      }
+    ],
+    "received_datetime": "2021-06-21 07:44:13+00:00"
+  },
+  "mailbox_context": {
+    "user_email": "rynette@regima.zone",
+    "user_name": "Rynette Farrar",
+    "folder_name": "Prime",
+    "folder_id": "AQMkADMxMzkyY2FlLWNkMGEtNGM2My04OWFiLTNlZDRjNzkyNGUyMwAuAAADSLKv-EI8AESN7LMej4ROLgEAIySisE98NkWmcNijjztGYgAAAj3CAAAA"
+  },
+  "body": {
+    "content_type": null,
+    "preview": "Rynette, please check on the Scar Forte order we have for July  -  Are there EU x 20 ml booked to run?  If not, we definitely need to do some of those, even if it means juggling some of our SA 100 ml down to put some of those 20ml for EU up.  Please check",
+    "body_length_chars": 0
+  },
+  "attachments": []
+}

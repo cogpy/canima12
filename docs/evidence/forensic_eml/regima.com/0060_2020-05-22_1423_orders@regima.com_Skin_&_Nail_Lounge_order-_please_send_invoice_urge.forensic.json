@@ -1,0 +1,67 @@
+{
+  "_schema": "exchange-forensic-eml/v1",
+  "_generated": "2026-03-10T03:53:03.364421+00:00",
+  "_source": "neon-exchange-sync",
+  "file_integrity": {
+    "eml_file": "/home/ubuntu/revstream1/docs/evidence/forensic_eml/regima.com/0060_2020-05-22_1423_orders@regima.com_Skin_&_Nail_Lounge_order-_please_send_invoice_urge.eml",
+    "file_size_bytes": 1027,
+    "md5": "caf50cd1a3b898efddc63f513ca50a55",
+    "sha1": "06d60f4e9eea883396ae13c26bf30ffac6ff0177",
+    "sha256": "22bff110e2bf8a488c90382ae0a8f87ae0b75eb9faa1d9eef9b1ea872c983584"
+  },
+  "message_identity": {
+    "exchange_sync_id": "AAMkADkzY2U4OTQyLTZjNzAtNGRlNi1iMjk1LWQwNWNjYzIyODQ5YgBGAAAAAAADECMUPsw5TaA2pA0VUIqNBwCR-svwgFxkSomVNqCc6-zPAAAAAAEMAACR-svwgFxkSomVNqCc6-zPAAVOmkzMAAA=",
+    "internet_message_id": "<00a301d63015$2fd1e6a0$8f75b3e0$@regima.com>",
+    "conversation_id": "AAQkADkzY2U4OTQyLTZjNzAtNGRlNi1iMjk1LWQwNWNjYzIyODQ5YgAQAMLmYmQPW0APvOG8WAp_Cr4="
+  },
+  "envelope": {
+    "subject": "Skin & Nail Lounge order- please send invoice urgent - Proof of payment WWD0275 ",
+    "from_name": "orders@regima.com",
+    "from_address": "orders@regima.com",
+    "to_recipients": [
+      {
+        "name": "manager@skinandnaillounge.co.za",
+        "address": "manager@skinandnaillounge.co.za"
+      }
+    ],
+    "cc_recipients": [
+      {
+        "name": "'Peter Andrew Faucitt'",
+        "address": "pete@regima.com"
+      },
+      {
+        "name": "Jacqui Faucitt",
+        "address": "jax@regima.zone"
+      },
+      {
+        "name": "Bernadine Wright",
+        "address": "bern@regima.zone"
+      },
+      {
+        "name": "Rynette Farrar",
+        "address": "rynette@regima.zone"
+      },
+      {
+        "name": "Kayla Pretorius",
+        "address": "kayla@regima.zone"
+      },
+      {
+        "name": "'Philippa Abbott'",
+        "address": "philippa@spasense.co.za"
+      }
+    ],
+    "received_datetime": "2020-05-22 14:23:26+00:00"
+  },
+  "mailbox_context": {
+    "user_email": "kayla@regima.zone",
+    "user_name": "Kayla Pretorius",
+    "folder_name": "Inbox",
+    "folder_id": "AQMkADkzY2U4OTQyLTZjNzAtNGRlNi1iMjk1LWQwNWNjATIyADg0OWIALgAAAwMQIxQ_zDlNoDakDRVQio0BAJH_y-CAXGRKiZU2oJzr-M8AAAIBDAAAAA=="
+  },
+  "body": {
+    "content_type": null,
+    "preview": "Good Day Cindy\r\n\r\nThank you, proof of payment received.\r\n\r\nYour order is being processed, we will let you know when your order is ready for collection.\r\n\r\nKind Regards\r\nKent\r\n\r\nFrom: manager@skinandnaillounge.co.za <manager@skinandnaillounge.co.za>\r\nSent:",
+    "body_length_chars": 0
+  },
+  "attachments": []
+}

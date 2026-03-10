@@ -1,0 +1,44 @@
+{
+  "_schema": "exchange-forensic-eml/v1",
+  "_generated": "2026-03-10T03:50:28.542736+00:00",
+  "_source": "neon-exchange-sync",
+  "file_integrity": {
+    "eml_file": "/home/ubuntu/revstream1/docs/evidence/forensic_eml/regima.zone/0020_2025-09-30_1642_jax@regima.zone_edit12.eml",
+    "file_size_bytes": 131711,
+    "md5": "57b9bd52c6cfbb96d94b84a5a4f33bfc",
+    "sha1": "b0c4afadeb350911542e2c2c53759898d6996a0a",
+    "sha256": "e99a83f46de729b7dbe2c3a1d87df09723b16c1b3c0993b85b3096f4e01e315d"
+  },
+  "message_identity": {
+    "exchange_sync_id": "pst-f737c6cc048810eb44a7e008c70cd659798e10ae",
+    "internet_message_id": "<GV2PR08MB9207AD557B87F79D3CDB1935AC1AA@GV2PR08MB9207.eurprd08.prod.outlook.com>",
+    "conversation_id": "pst-conv-ba2d49def07f5e7dcadef4a7ab9cec15"
+  },
+  "envelope": {
+    "subject": "edit12",
+    "from_name": "Jacqui Faucitt",
+    "from_address": "jax@regima.zone",
+    "to_recipients": [
+      {
+        "emailAddress": {
+          "name": "Daniel J. Faucitt",
+          "address": "dan@regima.com"
+        }
+      }
+    ],
+    "cc_recipients": null,
+    "received_datetime": "2025-09-30 16:42:40+00:00"
+  },
+  "mailbox_context": {
+    "user_email": "jax@regima.zone",
+    "user_name": "Jacqui Faucitt",
+    "folder_name": "Inbox",
+    "folder_id": "pst-folder-9b6b8f53019614a146193d63872be547"
+  },
+  "body": {
+    "content_type": "html",
+    "preview": "## COMPREHENSIVE SUSPECTED FRAUD TIMELINE: APRIL - SEPTEMBER 2025 &nbsp; ### Present Evidence Chain Showing Coordinated Deception &amp; Malfeasance &nbsp; --- &nbsp; ## 🚨 **CRITICAL INSIGHT: INFORMATION MANIPULATION &amp; DEGREES OF SEPARATION** &nbsp; **",
+    "body_length_chars": 96862
+  },
+  "attachments": []
+}
