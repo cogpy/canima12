@@ -1,0 +1,48 @@
+{
+  "event_id": "EVENT_AFS_20250129",
+  "date": "2025-01-29",
+  "event_type": "document_delivery",
+  "title": "Ketoni AFS 2024 Sent to Rynette - Consciousness of Guilt Indicator",
+  "description": "Danie Bantjes emails Ketoni Investment Holdings AFS 2024 (Signed.pdf, 16 pages) to Rynette Farrar, subject 'Re: Faucitt family trust - agreement'. The AFS for a company owing R18.75M to FFT was sent to the bookkeeper (with no fiduciary role) rather than directly to Jacqueline Faucitt (Trustee and beneficiary). This is consistent with the pattern of Bantjes and Rynette operating as intermediaries, controlling information flow to/from Peter while excluding Jacqueline and Daniel.",
+  "entities_involved": [
+    "PERSON_007",
+    "PERSON_002",
+    "ORG_KETONI_001"
+  ],
+  "key_actors": [
+    "Daniel Jacobus Bantjies",
+    "Rynette Farrar"
+  ],
+  "evidence": [
+    "Exchange email: 0863_20250129_Re_ Faucitt family trust - agreement",
+    "Ketoni Investment Holdings AFS 2024 - Signed.pdf (attachment)"
+  ],
+  "ad_res_j7_evidence": [
+    "evidence/financial-analysis/ketoni_investment_holdings_afs_2024.md",
+    "docs/exchange-evidence/ketoni_motive.md"
+  ],
+  "significance": "AFS delivered to bookkeeper 57 days before revenue hijacking scheme began; ~15 months before May 2026 payout; within operational planning window of scheme",
+  "category": "ketoni_motive",
+  "consciousness_of_guilt": {
+    "indicator": "Selective document routing to non-fiduciary intermediary",
+    "question": "Why was the AFS for a company owing R18.75M to FFT sent to Rynette (bookkeeper with no fiduciary role) rather than to Jacqueline Faucitt (Trustee and beneficiary)?",
+    "pattern": "Consistent with Bantjes-Rynette intermediary information control pattern"
+  },
+  "email_metadata": {
+    "from": "Danie Bantjes <danie.bantjes@gmail.com>",
+    "to": "Rynette Farrar <rynette@regima.zone>",
+    "date": "2025-01-29T13:50:16+00:00",
+    "subject": "Re: Faucitt family trust - agreement",
+    "attachment": "Ketoni Investment Holdings AFS 2024 - Signed.pdf",
+    "exchange_message_dir": "0863_20250129_Re_ Faucitt family trust - agreement",
+    "source_database": "Neon DB: exchange_sync"
+  },
+  "timing_analysis": {
+    "days_before_payout": 457,
+    "days_before_scheme_begins": 57,
+    "payout_reference": "May 2026",
+    "scheme_reference": "2025-03-01 (revenue hijacking begins)"
+  },
+  "created_at": "2026-03-11T00:00:00.000000",
+  "source": "AFS 2024 analysis integration"
+}
