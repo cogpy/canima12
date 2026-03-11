@@ -1,0 +1,73 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://cogpy.github.io/revstream1/contracts/relation_schema.json",
+  "title": "Relation Model Schema",
+  "description": "JSON Schema for Revenue Stream Hijacking case relation data model. Validates the canonical relation format consumed by LexRexHGNN and ad-res-j7. Note: LexRexHGNN constructor accepts both source_entity/target_entity and from_entity/to_entity as field names.",
+  "type": "object",
+  "required": ["metadata", "relations"],
+  "properties": {
+    "metadata": {
+      "type": "object",
+      "required": ["version", "case_number", "total_relations"],
+      "properties": {
+        "version": { "type": "string" },
+        "created_date": { "type": "string" },
+        "description": { "type": "string" },
+        "case_number": { "type": "string" },
+        "modeling_approach": { "type": "string" },
+        "last_updated": { "type": "string" },
+        "changes": { "type": "string" },
+        "total_relations": { "type": "integer", "minimum": 0 }
+      }
+    },
+    "relations": {
+      "type": "object",
+      "additionalProperties": {
+        "type": "array",
+        "items": { "$ref": "#/$defs/relation" }
+      }
+    }
+  },
+  "$defs": {
+    "relation": {
+      "type": "object",
+      "required": ["relation_id"],
+      "properties": {
+        "relation_id": {
+          "type": "string",
+          "pattern": "^REL_"
+        },
+        "relation_type": { "type": "string" },
+        "type": { "type": "string" },
+        "source_entity": { "type": "string" },
+        "target_entity": { "type": "string" },
+        "from_entity": { "type": "string" },
+        "to_entity": { "type": "string" },
+        "strength": { "type": "string" },
+        "legal_status": { "type": "string" },
+        "evidence": {
+          "oneOf": [
+            { "type": "array", "items": { "type": "string" } },
+            { "type": "string" }
+          ]
+        },
+        "ad_res_j7_evidence": {
+          "type": "array",
+          "items": { "type": "string" }
+        },
+        "confidence": {
+          "type": "number",
+          "minimum": 0,
+          "maximum": 1
+        },
+        "evidence_strength": { "type": "string" },
+        "evidence_verified": { "type": "string" },
+        "financial_details": { "type": "object" },
+        "related_events": {
+          "type": "array",
+          "items": { "type": "string" }
+        }
+      }
+    }
+  }
+}

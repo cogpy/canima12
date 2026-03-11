@@ -1,0 +1,102 @@
+{
+  "version": "1.0.0",
+  "last_updated": "2026-01-08",
+  "repositories": [
+    {
+      "id": "cogpy/ad-res-j7",
+      "name": "ad-res-j7",
+      "owner": "cogpy",
+      "description": "Extended evidence repository for legal case 2025-137857",
+      "language": "JavaScript",
+      "focus": "Civil litigation case management and evidence storage",
+      "status": "active",
+      "integration_status": "integrated",
+      "evidence_files": 496,
+      "key_directories": [
+        "ANNEXURES/JF01-JF13",
+        "1-CIVIL-RESPONSE",
+        "2-CRIMINAL-CASE",
+        "3-EXTERNAL-VALIDATION"
+      ],
+      "github_pages": false
+    },
+    {
+      "id": "cogpy/revstream1",
+      "name": "revstream1",
+      "owner": "cogpy",
+      "description": "Revenue Stream Hijacking case data models and documentation",
+      "language": "Python",
+      "focus": "Data models, timelines, and legal filings",
+      "status": "active",
+      "integration_status": "integrated",
+      "data_models": {
+        "entities": "v23.0",
+        "relations": "v18.1",
+        "events": "v21.1",
+        "timeline": "v19.0"
+      },
+      "github_pages": true,
+      "pages_url": "https://cogpy.github.io/revstream1/"
+    },
+    {
+      "id": "o9-org/LexRexHGNN",
+      "name": "LexRexHGNN",
+      "owner": "o9-org",
+      "description": "Legal Hypergraph Neural Network integration framework",
+      "language": "Python",
+      "focus": "Multi-repository hypergraph construction and analysis",
+      "status": "active",
+      "integration_status": "hub",
+      "github_pages": false
+    },
+    {
+      "id": "cogpy/chainlex",
+      "name": "chainlex",
+      "owner": "cogpy",
+      "description": "ChainLex legal knowledge base - Scheme/Python framework",
+      "language": "Scheme",
+      "focus": "Legal principles, rules, and reasoning chains",
+      "status": "active",
+      "integration_status": "knowledge_source",
+      "github_pages": false
+    },
+    {
+      "id": "cogpy/fincosys",
+      "name": "fincosys",
+      "owner": "cogpy",
+      "description": "Financial analysis and reconciliation system",
+      "language": "Python",
+      "focus": "Financial reconciliation, transaction analysis, and loss calculation",
+      "status": "active",
+      "integration_status": "financial_source",
+      "github_pages": false
+    }
+  ],
+  "cross_repo_mappings": {
+    "entity_sources": {
+      "primary": "cogpy/revstream1/data_models/entities/entities.json",
+      "evidence": "cogpy/ad-res-j7/ANNEXURES/"
+    },
+    "relation_sources": {
+      "primary": "cogpy/revstream1/data_models/relations/relations.json"
+    },
+    "event_sources": {
+      "primary": "cogpy/revstream1/data_models/events/events.json"
+    },
+    "timeline_sources": {
+      "primary": "cogpy/revstream1/data_models/timelines/timeline.json"
+    }
+  },
+  "legal_filings": {
+    "cipc_complaint": "cogpy/revstream1/docs/filings/CIPC_COMPLAINT_REFINED_2026_01_07.md",
+    "popia_complaint": "cogpy/revstream1/docs/filings/POPIA_COMPLAINT_REFINED_2026_01_07.md",
+    "npa_tax_fraud": "cogpy/revstream1/docs/filings/NPA_TAX_FRAUD_REPORT_REFINED_2026_01_07.md"
+  },
+  "case_reference": {
+    "case_number": "2025-137857",
+    "case_name": "Revenue Stream Hijacking",
+    "total_losses": "R10,269,727.90",
+    "criminal_threshold_events": 46,
+    "civil_threshold_events": 31
+  }
+}
