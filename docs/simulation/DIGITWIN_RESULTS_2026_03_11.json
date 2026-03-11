@@ -1,0 +1,3337 @@
+{
+  "agent_decisions": [
+    {
+      "agent": "Peter Andrew Faucitt",
+      "mode": "REWARD",
+      "context": "Foundation",
+      "time": 0,
+      "cortisol": 0.15,
+      "dopamine": 1.1800000000000002,
+      "risk_appetite": 0.8,
+      "action": "escalate_fraud"
+    },
+    {
+      "agent": "Rynette Farrar",
+      "mode": "RESTING",
+      "context": "Foundation",
+      "time": 0,
+      "cortisol": 0.15,
+      "dopamine": 0.3,
+      "risk_appetite": 0.5,
+      "action": "maintain_status_quo"
+    },
+    {
+      "agent": "Danie Bantjies",
+      "mode": "RESTING",
+      "context": "Foundation",
+      "time": 0,
+      "cortisol": 0.15,
+      "dopamine": 0.3,
+      "risk_appetite": 0.5,
+      "action": "maintain_status_quo"
+    },
+    {
+      "agent": "Jacqueline Faucitt",
+      "mode": "RESTING",
+      "context": "Foundation",
+      "time": 0,
+      "cortisol": 0.15,
+      "dopamine": 0.3,
+      "risk_appetite": 0.0,
+      "action": "normal_operations"
+    },
+    {
+      "agent": "Daniel James Faucitt",
+      "mode": "RESTING",
+      "context": "Foundation",
+      "time": 0,
+      "cortisol": 0.15,
+      "dopamine": 0.3,
+      "risk_appetite": 0.0,
+      "action": "normal_operations"
+    },
+    {
+      "agent": "Jax",
+      "mode": "RESTING",
+      "context": "Foundation",
+      "time": 0,
+      "cortisol": 0.15,
+      "dopamine": 0.3,
+      "risk_appetite": 0.0,
+      "action": "normal_operations"
+    },
+    {
+      "agent": "Peter Andrew Faucitt",
+      "mode": "REWARD",
+      "context": "Foundation",
+      "time": 1,
+      "cortisol": 0.15,
+      "dopamine": 1.0363483395129718,
+      "risk_appetite": 0.8,
+      "action": "escalate_fraud"
+    },
+    {
+      "agent": "Rynette Farrar",
+      "mode": "RESTING",
+      "context": "Foundation",
+      "time": 1,
+      "cortisol": 0.15,
+      "dopamine": 0.3,
+      "risk_appetite": 0.5,
+      "action": "maintain_status_quo"
+    },
+    {
+      "agent": "Danie Bantjies",
+      "mode": "RESTING",
+      "context": "Foundation",
+      "time": 1,
+      "cortisol": 0.15,
+      "dopamine": 0.3,
+      "risk_appetite": 0.5,
+      "action": "maintain_status_quo"
+    },
+    {
+      "agent": "Jacqueline Faucitt",
+      "mode": "RESTING",
+      "context": "Foundation",
+      "time": 1,
+      "cortisol": 0.15,
+      "dopamine": 0.3,
+      "risk_appetite": 0.0,
+      "action": "normal_operations"
+    },
+    {
+      "agent": "Daniel James Faucitt",
+      "mode": "RESTING",
+      "context": "Foundation",
+      "time": 1,
+      "cortisol": 0.15,
+      "dopamine": 0.3,
+      "risk_appetite": 0.0,
+      "action": "normal_operations"
+    },
+    {
+      "agent": "Jax",
+      "mode": "RESTING",
+      "context": "Foundation",
+      "time": 1,
+      "cortisol": 0.15,
+      "dopamine": 0.3,
+      "risk_appetite": 0.0,
+      "action": "normal_operations"
+    },
+    {
+      "agent": "Peter Andrew Faucitt",
+      "mode": "EXPLORATORY",
+      "context": "Foundation",
+      "time": 2,
+      "cortisol": 0.15,
+      "dopamine": 0.9210412046034059,
+      "risk_appetite": 0.5,
+      "action": "maintain_status_quo"
+    },
+    {
+      "agent": "Rynette Farrar",
+      "mode": "RESTING",
+      "context": "Foundation",
+      "time": 2,
+      "cortisol": 0.15,
+      "dopamine": 0.3,
+      "risk_appetite": 0.5,
+      "action": "maintain_status_quo"
+    },
+    {
+      "agent": "Danie Bantjies",
+      "mode": "RESTING",
+      "context": "Foundation",
+      "time": 2,
+      "cortisol": 0.15,
+      "dopamine": 0.3,
+      "risk_appetite": 0.5,
+      "action": "maintain_status_quo"
+    },
+    {
+      "agent": "Jacqueline Faucitt",
+      "mode": "RESTING",
+      "context": "Foundation",
+      "time": 2,
+      "cortisol": 0.15,
+      "dopamine": 0.3,
+      "risk_appetite": 0.0,
+      "action": "normal_operations"
+    },
+    {
+      "agent": "Daniel James Faucitt",
+      "mode": "RESTING",
+      "context": "Foundation",
+      "time": 2,
+      "cortisol": 0.15,
+      "dopamine": 0.3,
+      "risk_appetite": 0.0,
+      "action": "normal_operations"
+    },
+    {
+      "agent": "Jax",
+      "mode": "RESTING",
+      "context": "Foundation",
+      "time": 2,
+      "cortisol": 0.15,
+      "dopamine": 0.3,
+      "risk_appetite": 0.0,
+      "action": "normal_operations"
+    },
+    {
+      "agent": "Peter Andrew Faucitt",
+      "mode": "EXPLORATORY",
+      "context": "Foundation",
+      "time": 3,
+      "cortisol": 0.15,
+      "dopamine": 0.8282751017743828,
+      "risk_appetite": 0.5,
+      "action": "maintain_status_quo"
+    },
+    {
+      "agent": "Rynette Farrar",
+      "mode": "RESTING",
+      "context": "Foundation",
+      "time": 3,
+      "cortisol": 0.15,
+      "dopamine": 0.3,
+      "risk_appetite": 0.5,
+      "action": "maintain_status_quo"
+    },
+    {
+      "agent": "Danie Bantjies",
+      "mode": "RESTING",
+      "context": "Foundation",
+      "time": 3,
+      "cortisol": 0.15,
+      "dopamine": 0.3,
+      "risk_appetite": 0.5,
+      "action": "maintain_status_quo"
+    },
+    {
+      "agent": "Jacqueline Faucitt",
+      "mode": "RESTING",
+      "context": "Foundation",
+      "time": 3,
+      "cortisol": 0.15,
+      "dopamine": 0.3,
+      "risk_appetite": 0.0,
+      "action": "normal_operations"
+    },
+    {
+      "agent": "Daniel James Faucitt",
+      "mode": "RESTING",
+      "context": "Foundation",
+      "time": 3,
+      "cortisol": 0.15,
+      "dopamine": 0.3,
+      "risk_appetite": 0.0,
+      "action": "normal_operations"
+    },
+    {
+      "agent": "Jax",
+      "mode": "RESTING",
+      "context": "Foundation",
+      "time": 3,
+      "cortisol": 0.15,
+      "dopamine": 0.3,
+      "risk_appetite": 0.0,
+      "action": "normal_operations"
+    },
+    {
+      "agent": "Peter Andrew Faucitt",
+      "mode": "EXPLORATORY",
+      "context": "Foundation",
+      "time": 4,
+      "cortisol": 0.15,
+      "dopamine": 0.7534422974999003,
+      "risk_appetite": 0.5,
+      "action": "maintain_status_quo"
+    },
+    {
+      "agent": "Rynette Farrar",
+      "mode": "RESTING",
+      "context": "Foundation",
+      "time": 4,
+      "cortisol": 0.15,
+      "dopamine": 0.3,
+      "risk_appetite": 0.5,
+      "action": "maintain_status_quo"
+    },
+    {
+      "agent": "Danie Bantjies",
+      "mode": "RESTING",
+      "context": "Foundation",
+      "time": 4,
+      "cortisol": 0.15,
+      "dopamine": 0.3,
+      "risk_appetite": 0.5,
+      "action": "maintain_status_quo"
+    },
+    {
+      "agent": "Jacqueline Faucitt",
+      "mode": "RESTING",
+      "context": "Foundation",
+      "time": 4,
+      "cortisol": 0.15,
+      "dopamine": 0.3,
+      "risk_appetite": 0.0,
+      "action": "normal_operations"
+    },
+    {
+      "agent": "Daniel James Faucitt",
+      "mode": "RESTING",
+      "context": "Foundation",
+      "time": 4,
+      "cortisol": 0.15,
+      "dopamine": 0.3,
+      "risk_appetite": 0.0,
+      "action": "normal_operations"
+    },
+    {
+      "agent": "Jax",
+      "mode": "RESTING",
+      "context": "Foundation",
+      "time": 4,
+      "cortisol": 0.15,
+      "dopamine": 0.3,
+      "risk_appetite": 0.0,
+      "action": "normal_operations"
+    },
+    {
+      "agent": "Peter Andrew Faucitt",
+      "mode": "EXPLORATORY",
+      "context": "Foundation",
+      "time": 5,
+      "cortisol": 0.15,
+      "dopamine": 0.6928841845884715,
+      "risk_appetite": 0.5,
+      "action": "maintain_status_quo"
+    },
+    {
+      "agent": "Rynette Farrar",
+      "mode": "RESTING",
+      "context": "Foundation",
+      "time": 5,
+      "cortisol": 0.15,
+      "dopamine": 0.3,
+      "risk_appetite": 0.5,
+      "action": "maintain_status_quo"
+    },
+    {
+      "agent": "Danie Bantjies",
+      "mode": "RESTING",
+      "context": "Foundation",
+      "time": 5,
+      "cortisol": 0.15,
+      "dopamine": 0.3,
+      "risk_appetite": 0.5,
+      "action": "maintain_status_quo"
+    },
+    {
+      "agent": "Jacqueline Faucitt",
+      "mode": "RESTING",
+      "context": "Foundation",
+      "time": 5,
+      "cortisol": 0.15,
+      "dopamine": 0.3,
+      "risk_appetite": 0.0,
+      "action": "normal_operations"
+    },
+    {
+      "agent": "Daniel James Faucitt",
+      "mode": "RESTING",
+      "context": "Foundation",
+      "time": 5,
+      "cortisol": 0.15,
+      "dopamine": 0.3,
+      "risk_appetite": 0.0,
+      "action": "normal_operations"
+    },
+    {
+      "agent": "Jax",
+      "mode": "RESTING",
+      "context": "Foundation",
+      "time": 5,
+      "cortisol": 0.15,
+      "dopamine": 0.3,
+      "risk_appetite": 0.0,
+      "action": "normal_operations"
+    },
+    {
+      "agent": "Peter Andrew Faucitt",
+      "mode": "REFLECTIVE",
+      "context": "Foundation",
+      "time": 6,
+      "cortisol": 0.15,
+      "dopamine": 0.643695527198372,
+      "risk_appetite": 0.5,
+      "action": "maintain_status_quo"
+    },
+    {
+      "agent": "Rynette Farrar",
+      "mode": "RESTING",
+      "context": "Foundation",
+      "time": 6,
+      "cortisol": 0.15,
+      "dopamine": 0.3,
+      "risk_appetite": 0.5,
+      "action": "maintain_status_quo"
+    },
+    {
+      "agent": "Danie Bantjies",
+      "mode": "RESTING",
+      "context": "Foundation",
+      "time": 6,
+      "cortisol": 0.15,
+      "dopamine": 0.3,
+      "risk_appetite": 0.5,
+      "action": "maintain_status_quo"
+    },
+    {
+      "agent": "Jacqueline Faucitt",
+      "mode": "RESTING",
+      "context": "Foundation",
+      "time": 6,
+      "cortisol": 0.15,
+      "dopamine": 0.3,
+      "risk_appetite": 0.0,
+      "action": "normal_operations"
+    },
+    {
+      "agent": "Daniel James Faucitt",
+      "mode": "RESTING",
+      "context": "Foundation",
+      "time": 6,
+      "cortisol": 0.15,
+      "dopamine": 0.3,
+      "risk_appetite": 0.0,
+      "action": "normal_operations"
+    },
+    {
+      "agent": "Jax",
+      "mode": "RESTING",
+      "context": "Foundation",
+      "time": 6,
+      "cortisol": 0.15,
+      "dopamine": 0.3,
+      "risk_appetite": 0.0,
+      "action": "normal_operations"
+    },
+    {
+      "agent": "Peter Andrew Faucitt",
+      "mode": "REFLECTIVE",
+      "context": "Foundation",
+      "time": 7,
+      "cortisol": 0.15,
+      "dopamine": 0.6035690883246617,
+      "risk_appetite": 0.5,
+      "action": "maintain_status_quo"
+    },
+    {
+      "agent": "Rynette Farrar",
+      "mode": "RESTING",
+      "context": "Foundation",
+      "time": 7,
+      "cortisol": 0.15,
+      "dopamine": 0.3,
+      "risk_appetite": 0.5,
+      "action": "maintain_status_quo"
+    },
+    {
+      "agent": "Danie Bantjies",
+      "mode": "RESTING",
+      "context": "Foundation",
+      "time": 7,
+      "cortisol": 0.15,
+      "dopamine": 0.3,
+      "risk_appetite": 0.5,
+      "action": "maintain_status_quo"
+    },
+    {
+      "agent": "Jacqueline Faucitt",
+      "mode": "RESTING",
+      "context": "Foundation",
+      "time": 7,
+      "cortisol": 0.15,
+      "dopamine": 0.3,
+      "risk_appetite": 0.0,
+      "action": "normal_operations"
+    },
+    {
+      "agent": "Daniel James Faucitt",
+      "mode": "RESTING",
+      "context": "Foundation",
+      "time": 7,
+      "cortisol": 0.15,
+      "dopamine": 0.3,
+      "risk_appetite": 0.0,
+      "action": "normal_operations"
+    },
+    {
+      "agent": "Jax",
+      "mode": "RESTING",
+      "context": "Foundation",
+      "time": 7,
+      "cortisol": 0.15,
+      "dopamine": 0.3,
+      "risk_appetite": 0.0,
+      "action": "normal_operations"
+    },
+    {
+      "agent": "Peter Andrew Faucitt",
+      "mode": "REFLECTIVE",
+      "context": "Foundation",
+      "time": 8,
+      "cortisol": 0.15,
+      "dopamine": 0.570672308932471,
+      "risk_appetite": 0.5,
+      "action": "maintain_status_quo"
+    },
+    {
+      "agent": "Rynette Farrar",
+      "mode": "RESTING",
+      "context": "Foundation",
+      "time": 8,
+      "cortisol": 0.15,
+      "dopamine": 0.3,
+      "risk_appetite": 0.5,
+      "action": "maintain_status_quo"
+    },
+    {
+      "agent": "Danie Bantjies",
+      "mode": "RESTING",
+      "context": "Foundation",
+      "time": 8,
+      "cortisol": 0.15,
+      "dopamine": 0.3,
+      "risk_appetite": 0.5,
+      "action": "maintain_status_quo"
+    },
+    {
+      "agent": "Jacqueline Faucitt",
+      "mode": "RESTING",
+      "context": "Foundation",
+      "time": 8,
+      "cortisol": 0.15,
+      "dopamine": 0.3,
+      "risk_appetite": 0.0,
+      "action": "normal_operations"
+    },
+    {
+      "agent": "Daniel James Faucitt",
+      "mode": "RESTING",
+      "context": "Foundation",
+      "time": 8,
+      "cortisol": 0.15,
+      "dopamine": 0.3,
+      "risk_appetite": 0.0,
+      "action": "normal_operations"
+    },
+    {
+      "agent": "Jax",
+      "mode": "RESTING",
+      "context": "Foundation",
+      "time": 8,
+      "cortisol": 0.15,
+      "dopamine": 0.3,
+      "risk_appetite": 0.0,
+      "action": "normal_operations"
+    },
+    {
+      "agent": "Peter Andrew Faucitt",
+      "mode": "REFLECTIVE",
+      "context": "Foundation",
+      "time": 9,
+      "cortisol": 0.15,
+      "dopamine": 0.5435494265540189,
+      "risk_appetite": 0.5,
+      "action": "maintain_status_quo"
+    },
+    {
+      "agent": "Rynette Farrar",
+      "mode": "RESTING",
+      "context": "Foundation",
+      "time": 9,
+      "cortisol": 0.15,
+      "dopamine": 0.3,
+      "risk_appetite": 0.5,
+      "action": "maintain_status_quo"
+    },
+    {
+      "agent": "Danie Bantjies",
+      "mode": "RESTING",
+      "context": "Foundation",
+      "time": 9,
+      "cortisol": 0.15,
+      "dopamine": 0.3,
+      "risk_appetite": 0.5,
+      "action": "maintain_status_quo"
+    },
+    {
+      "agent": "Jacqueline Faucitt",
+      "mode": "RESTING",
+      "context": "Foundation",
+      "time": 9,
+      "cortisol": 0.15,
+      "dopamine": 0.3,
+      "risk_appetite": 0.0,
+      "action": "normal_operations"
+    },
+    {
+      "agent": "Daniel James Faucitt",
+      "mode": "RESTING",
+      "context": "Foundation",
+      "time": 9,
+      "cortisol": 0.15,
+      "dopamine": 0.3,
+      "risk_appetite": 0.0,
+      "action": "normal_operations"
+    },
+    {
+      "agent": "Jax",
+      "mode": "RESTING",
+      "context": "Foundation",
+      "time": 9,
+      "cortisol": 0.15,
+      "dopamine": 0.3,
+      "risk_appetite": 0.0,
+      "action": "normal_operations"
+    },
+    {
+      "agent": "Peter Andrew Faucitt",
+      "mode": "REWARD",
+      "context": "Investment",
+      "time": 10,
+      "cortisol": 0.15,
+      "dopamine": 1.511043785254729,
+      "risk_appetite": 0.8,
+      "action": "escalate_fraud"
+    },
+    {
+      "agent": "Rynette Farrar",
+      "mode": "RESTING",
+      "context": "Investment",
+      "time": 10,
+      "cortisol": 0.15,
+      "dopamine": 0.3,
+      "risk_appetite": 0.5,
+      "action": "maintain_status_quo"
+    },
+    {
+      "agent": "Danie Bantjies",
+      "mode": "EXPLORATORY",
+      "context": "Investment",
+      "time": 10,
+      "cortisol": 0.15,
+      "dopamine": 1.02,
+      "risk_appetite": 0.5,
+      "action": "maintain_status_quo"
+    },
+    {
+      "agent": "Jacqueline Faucitt",
+      "mode": "RESTING",
+      "context": "Investment",
+      "time": 10,
+      "cortisol": 0.15,
+      "dopamine": 0.3,
+      "risk_appetite": 0.0,
+      "action": "normal_operations"
+    },
+    {
+      "agent": "Daniel James Faucitt",
+      "mode": "RESTING",
+      "context": "Investment",
+      "time": 10,
+      "cortisol": 0.15,
+      "dopamine": 0.3,
+      "risk_appetite": 0.0,
+      "action": "normal_operations"
+    },
+    {
+      "agent": "Jax",
+      "mode": "RESTING",
+      "context": "Investment",
+      "time": 10,
+      "cortisol": 0.15,
+      "dopamine": 0.3,
+      "risk_appetite": 0.0,
+      "action": "normal_operations"
+    },
+    {
+      "agent": "Peter Andrew Faucitt",
+      "mode": "REWARD",
+      "context": "Investment",
+      "time": 11,
+      "cortisol": 0.15,
+      "dopamine": 2.0,
+      "risk_appetite": 0.8,
+      "action": "escalate_fraud"
+    },
+    {
+      "agent": "Rynette Farrar",
+      "mode": "RESTING",
+      "context": "Investment",
+      "time": 11,
+      "cortisol": 0.15,
+      "dopamine": 0.3,
+      "risk_appetite": 0.5,
+      "action": "maintain_status_quo"
+    },
+    {
+      "agent": "Danie Bantjies",
+      "mode": "REWARD",
+      "context": "Investment",
+      "time": 11,
+      "cortisol": 0.15,
+      "dopamine": 2.0,
+      "risk_appetite": 0.8,
+      "action": "escalate_fraud"
+    },
+    {
+      "agent": "Jacqueline Faucitt",
+      "mode": "RESTING",
+      "context": "Investment",
+      "time": 11,
+      "cortisol": 0.15,
+      "dopamine": 0.3,
+      "risk_appetite": 0.0,
+      "action": "normal_operations"
+    },
+    {
+      "agent": "Daniel James Faucitt",
+      "mode": "FOCUSED",
+      "context": "Investment",
+      "time": 11,
+      "cortisol": 0.15,
+      "dopamine": 0.4,
+      "risk_appetite": 0.0,
+      "action": "normal_operations"
+    },
+    {
+      "agent": "Jax",
+      "mode": "RESTING",
+      "context": "Investment",
+      "time": 11,
+      "cortisol": 0.15,
+      "dopamine": 0.3,
+      "risk_appetite": 0.0,
+      "action": "normal_operations"
+    },
+    {
+      "agent": "Peter Andrew Faucitt",
+      "mode": "REWARD",
+      "context": "Investment",
+      "time": 12,
+      "cortisol": 0.15,
+      "dopamine": 1.7698559562314915,
+      "risk_appetite": 0.8,
+      "action": "escalate_fraud"
+    },
+    {
+      "agent": "Rynette Farrar",
+      "mode": "REWARD",
+      "context": "Investment",
+      "time": 12,
+      "cortisol": 0.15,
+      "dopamine": 1.2999999999999998,
+      "risk_appetite": 0.8,
+      "action": "escalate_fraud"
+    },
+    {
+      "agent": "Danie Bantjies",
+      "mode": "REWARD",
+      "context": "Investment",
+      "time": 12,
+      "cortisol": 0.15,
+      "dopamine": 1.7698559562314915,
+      "risk_appetite": 0.8,
+      "action": "escalate_fraud"
+    },
+    {
+      "agent": "Jacqueline Faucitt",
+      "mode": "RESTING",
+      "context": "Investment",
+      "time": 12,
+      "cortisol": 0.15,
+      "dopamine": 0.3,
+      "risk_appetite": 0.0,
+      "action": "normal_operations"
+    },
+    {
+      "agent": "Daniel James Faucitt",
+      "mode": "STRESSED",
+      "context": "Investment",
+      "time": 12,
+      "cortisol": 0.78,
+      "dopamine": 0.3965936328924846,
+      "risk_appetite": 0.0,
+      "action": "investigate_anomalies"
+    },
+    {
+      "agent": "Jax",
+      "mode": "STRESSED",
+      "context": "Investment",
+      "time": 12,
+      "cortisol": 0.85,
+      "dopamine": 0.3,
+      "risk_appetite": 0.0,
+      "action": "investigate_anomalies"
+    },
+    {
+      "agent": "Peter Andrew Faucitt",
+      "mode": "REWARD",
+      "context": "Investment",
+      "time": 13,
+      "cortisol": 0.15,
+      "dopamine": 1.5830836190232018,
+      "risk_appetite": 0.8,
+      "action": "escalate_fraud"
+    },
+    {
+      "agent": "Rynette Farrar",
+      "mode": "EXPLORATORY",
+      "context": "Investment",
+      "time": 13,
+      "cortisol": 0.15,
+      "dopamine": 1.1625948471603982,
+      "risk_appetite": 0.5,
+      "action": "maintain_status_quo"
+    },
+    {
+      "agent": "Danie Bantjies",
+      "mode": "REWARD",
+      "context": "Investment",
+      "time": 13,
+      "cortisol": 0.15,
+      "dopamine": 1.5830836190232018,
+      "risk_appetite": 0.8,
+      "action": "escalate_fraud"
+    },
+    {
+      "agent": "Jacqueline Faucitt",
+      "mode": "RESTING",
+      "context": "Investment",
+      "time": 13,
+      "cortisol": 0.15,
+      "dopamine": 0.3,
+      "risk_appetite": 0.0,
+      "action": "normal_operations"
+    },
+    {
+      "agent": "Daniel James Faucitt",
+      "mode": "STRESSED",
+      "context": "Investment",
+      "time": 13,
+      "cortisol": 0.765610780113575,
+      "dopamine": 0.3933032991536808,
+      "risk_appetite": 0.0,
+      "action": "investigate_anomalies"
+    },
+    {
+      "agent": "Jax",
+      "mode": "STRESSED",
+      "context": "Investment",
+      "time": 13,
+      "cortisol": 0.8340119779039721,
+      "dopamine": 0.3,
+      "risk_appetite": 0.0,
+      "action": "investigate_anomalies"
+    },
+    {
+      "agent": "Peter Andrew Faucitt",
+      "mode": "REWARD",
+      "context": "Investment",
+      "time": 14,
+      "cortisol": 0.15,
+      "dopamine": 2.0,
+      "risk_appetite": 0.8,
+      "action": "escalate_fraud"
+    },
+    {
+      "agent": "Rynette Farrar",
+      "mode": "REWARD",
+      "context": "Investment",
+      "time": 14,
+      "cortisol": 0.15,
+      "dopamine": 1.8779763149684618,
+      "risk_appetite": 0.8,
+      "action": "escalate_fraud"
+    },
+    {
+      "agent": "Danie Bantjies",
+      "mode": "REWARD",
+      "context": "Investment",
+      "time": 14,
+      "cortisol": 0.15,
+      "dopamine": 1.430875323827581,
+      "risk_appetite": 0.8,
+      "action": "escalate_fraud"
+    },
+    {
+      "agent": "Jacqueline Faucitt",
+      "mode": "RESTING",
+      "context": "Investment",
+      "time": 14,
+      "cortisol": 0.15,
+      "dopamine": 0.3,
+      "risk_appetite": 0.0,
+      "action": "normal_operations"
+    },
+    {
+      "agent": "Daniel James Faucitt",
+      "mode": "THREAT",
+      "context": "Investment",
+      "time": 14,
+      "cortisol": 1.0,
+      "dopamine": 0.3901250462610831,
+      "risk_appetite": 0.0,
+      "action": "seek_legal_protection"
+    },
+    {
+      "agent": "Jax",
+      "mode": "STRESSED",
+      "context": "Investment",
+      "time": 14,
+      "cortisol": 0.8183891227372915,
+      "dopamine": 0.3,
+      "risk_appetite": 0.0,
+      "action": "investigate_anomalies"
+    },
+    {
+      "agent": "Peter Andrew Faucitt",
+      "mode": "REWARD",
+      "context": "Investment",
+      "time": 15,
+      "cortisol": 0.15,
+      "dopamine": 1.7698559562314915,
+      "risk_appetite": 0.8,
+      "action": "escalate_fraud"
+    },
+    {
+      "agent": "Rynette Farrar",
+      "mode": "REWARD",
+      "context": "Investment",
+      "time": 15,
+      "cortisol": 0.15,
+      "dopamine": 1.6730056932394417,
+      "risk_appetite": 0.8,
+      "action": "escalate_fraud"
+    },
+    {
+      "agent": "Danie Bantjies",
+      "mode": "REWARD",
+      "context": "Investment",
+      "time": 15,
+      "cortisol": 0.15,
+      "dopamine": 1.3062356572993368,
+      "risk_appetite": 0.8,
+      "action": "escalate_fraud"
+    },
+    {
+      "agent": "Jacqueline Faucitt",
+      "mode": "RESTING",
+      "context": "Investment",
+      "time": 15,
+      "cortisol": 0.15,
+      "dopamine": 0.3,
+      "risk_appetite": 0.0,
+      "action": "normal_operations"
+    },
+    {
+      "agent": "Daniel James Faucitt",
+      "mode": "STRESSED",
+      "context": "Investment",
+      "time": 15,
+      "cortisol": 0.980585973169109,
+      "dopamine": 0.38705505632961246,
+      "risk_appetite": 0.0,
+      "action": "investigate_anomalies"
+    },
+    {
+      "agent": "Jax",
+      "mode": "STRESSED",
+      "context": "Investment",
+      "time": 15,
+      "cortisol": 0.8031230940757651,
+      "dopamine": 0.3,
+      "risk_appetite": 0.0,
+      "action": "investigate_anomalies"
+    },
+    {
+      "agent": "Peter Andrew Faucitt",
+      "mode": "REWARD",
+      "context": "Investment",
+      "time": 16,
+      "cortisol": 0.15,
+      "dopamine": 1.5830836190232018,
+      "risk_appetite": 0.8,
+      "action": "escalate_fraud"
+    },
+    {
+      "agent": "Rynette Farrar",
+      "mode": "REWARD",
+      "context": "Investment",
+      "time": 16,
+      "cortisol": 0.15,
+      "dopamine": 1.5062135143447133,
+      "risk_appetite": 0.8,
+      "action": "escalate_fraud"
+    },
+    {
+      "agent": "Danie Bantjies",
+      "mode": "EXPLORATORY",
+      "context": "Investment",
+      "time": 16,
+      "cortisol": 0.15,
+      "dopamine": 1.2036077531513183,
+      "risk_appetite": 0.5,
+      "action": "maintain_status_quo"
+    },
+    {
+      "agent": "Jacqueline Faucitt",
+      "mode": "RESTING",
+      "context": "Investment",
+      "time": 16,
+      "cortisol": 0.15,
+      "dopamine": 0.3,
+      "risk_appetite": 0.0,
+      "action": "normal_operations"
+    },
+    {
+      "agent": "Daniel James Faucitt",
+      "mode": "STRESSED",
+      "context": "Investment",
+      "time": 16,
+      "cortisol": 0.961615363323854,
+      "dopamine": 0.3840896415253715,
+      "risk_appetite": 0.0,
+      "action": "investigate_anomalies"
+    },
+    {
+      "agent": "Jax",
+      "mode": "STRESSED",
+      "context": "Investment",
+      "time": 16,
+      "cortisol": 0.7882057419907517,
+      "dopamine": 0.3,
+      "risk_appetite": 0.0,
+      "action": "investigate_anomalies"
+    },
+    {
+      "agent": "Peter Andrew Faucitt",
+      "mode": "REWARD",
+      "context": "Investment",
+      "time": 17,
+      "cortisol": 0.15,
+      "dopamine": 1.430875323827581,
+      "risk_appetite": 0.8,
+      "action": "escalate_fraud"
+    },
+    {
+      "agent": "Rynette Farrar",
+      "mode": "EXPLORATORY",
+      "context": "Investment",
+      "time": 17,
+      "cortisol": 0.15,
+      "dopamine": 1.3698634813118122,
+      "risk_appetite": 0.5,
+      "action": "maintain_status_quo"
+    },
+    {
+      "agent": "Danie Bantjies",
+      "mode": "EXPLORATORY",
+      "context": "Investment",
+      "time": 17,
+      "cortisol": 0.15,
+      "dopamine": 1.1185766774493646,
+      "risk_appetite": 0.5,
+      "action": "maintain_status_quo"
+    },
+    {
+      "agent": "Jacqueline Faucitt",
+      "mode": "RESTING",
+      "context": "Investment",
+      "time": 17,
+      "cortisol": 0.15,
+      "dopamine": 0.3,
+      "risk_appetite": 0.0,
+      "action": "normal_operations"
+    },
+    {
+      "agent": "Daniel James Faucitt",
+      "mode": "STRESSED",
+      "context": "Investment",
+      "time": 17,
+      "cortisol": 0.9430780428062862,
+      "dopamine": 0.3812252396356236,
+      "risk_appetite": 0.0,
+      "action": "investigate_anomalies"
+    },
+    {
+      "agent": "Jax",
+      "mode": "STRESSED",
+      "context": "Investment",
+      "time": 17,
+      "cortisol": 0.7736291026982374,
+      "dopamine": 0.3,
+      "risk_appetite": 0.0,
+      "action": "investigate_anomalies"
+    },
+    {
+      "agent": "Peter Andrew Faucitt",
+      "mode": "EXPLORATORY",
+      "context": "Investment",
+      "time": 18,
+      "cortisol": 0.15,
+      "dopamine": 1.3062356572993368,
+      "risk_appetite": 0.5,
+      "action": "maintain_status_quo"
+    },
+    {
+      "agent": "Rynette Farrar",
+      "mode": "EXPLORATORY",
+      "context": "Investment",
+      "time": 18,
+      "cortisol": 0.15,
+      "dopamine": 1.2578105258033117,
+      "risk_appetite": 0.5,
+      "action": "maintain_status_quo"
+    },
+    {
+      "agent": "Danie Bantjies",
+      "mode": "EXPLORATORY",
+      "context": "Investment",
+      "time": 18,
+      "cortisol": 0.15,
+      "dopamine": 1.0476340000237503,
+      "risk_appetite": 0.5,
+      "action": "maintain_status_quo"
+    },
+    {
+      "agent": "Jacqueline Faucitt",
+      "mode": "RESTING",
+      "context": "Investment",
+      "time": 18,
+      "cortisol": 0.15,
+      "dopamine": 0.3,
+      "risk_appetite": 0.0,
+      "action": "normal_operations"
+    },
+    {
+      "agent": "Daniel James Faucitt",
+      "mode": "STRESSED",
+      "context": "Investment",
+      "time": 18,
+      "cortisol": 0.9249641152744841,
+      "dopamine": 0.37845840978967515,
+      "risk_appetite": 0.0,
+      "action": "investigate_anomalies"
+    },
+    {
+      "agent": "Jax",
+      "mode": "STRESSED",
+      "context": "Investment",
+      "time": 18,
+      "cortisol": 0.7593853943072867,
+      "dopamine": 0.3,
+      "risk_appetite": 0.0,
+      "action": "investigate_anomalies"
+    },
+    {
+      "agent": "Peter Andrew Faucitt",
+      "mode": "EXPLORATORY",
+      "context": "Investment",
+      "time": 19,
+      "cortisol": 0.15,
+      "dopamine": 1.2036077531513183,
+      "risk_appetite": 0.5,
+      "action": "maintain_status_quo"
+    },
+    {
+      "agent": "Rynette Farrar",
+      "mode": "EXPLORATORY",
+      "context": "Investment",
+      "time": 19,
+      "cortisol": 0.15,
+      "dopamine": 1.1651727008120742,
+      "risk_appetite": 0.5,
+      "action": "maintain_status_quo"
+    },
+    {
+      "agent": "Danie Bantjies",
+      "mode": "EXPLORATORY",
+      "context": "Investment",
+      "time": 19,
+      "cortisol": 0.15,
+      "dopamine": 0.9879909295154983,
+      "risk_appetite": 0.5,
+      "action": "maintain_status_quo"
+    },
+    {
+      "agent": "Jacqueline Faucitt",
+      "mode": "RESTING",
+      "context": "Investment",
+      "time": 19,
+      "cortisol": 0.15,
+      "dopamine": 0.3,
+      "risk_appetite": 0.0,
+      "action": "normal_operations"
+    },
+    {
+      "agent": "Daniel James Faucitt",
+      "mode": "STRESSED",
+      "context": "Investment",
+      "time": 19,
+      "cortisol": 0.9072639104192882,
+      "dopamine": 0.37578582832552,
+      "risk_appetite": 0.0,
+      "action": "investigate_anomalies"
+    },
+    {
+      "agent": "Jax",
+      "mode": "STRESSED",
+      "context": "Investment",
+      "time": 19,
+      "cortisol": 0.7454670126655988,
+      "dopamine": 0.3,
+      "risk_appetite": 0.0,
+      "action": "investigate_anomalies"
+    },
+    {
+      "agent": "Peter Andrew Faucitt",
+      "mode": "REWARD",
+      "context": "Control Consolidation",
+      "time": 20,
+      "cortisol": 0.15,
+      "dopamine": 1.8000000000000003,
+      "risk_appetite": 0.8,
+      "action": "escalate_fraud"
+    },
+    {
+      "agent": "Rynette Farrar",
+      "mode": "EXPLORATORY",
+      "context": "Control Consolidation",
+      "time": 20,
+      "cortisol": 0.15,
+      "dopamine": 1.0880707561914802,
+      "risk_appetite": 0.5,
+      "action": "maintain_status_quo"
+    },
+    {
+      "agent": "Danie Bantjies",
+      "mode": "REWARD",
+      "context": "Control Consolidation",
+      "time": 20,
+      "cortisol": 0.15,
+      "dopamine": 1.5250000000000001,
+      "risk_appetite": 0.8,
+      "action": "escalate_fraud"
+    },
+    {
+      "agent": "Jacqueline Faucitt",
+      "mode": "RESTING",
+      "context": "Control Consolidation",
+      "time": 20,
+      "cortisol": 0.15,
+      "dopamine": 0.3,
+      "risk_appetite": 0.0,
+      "action": "normal_operations"
+    },
+    {
+      "agent": "Daniel James Faucitt",
+      "mode": "STRESSED",
+      "context": "Control Consolidation",
+      "time": 20,
+      "cortisol": 0.8899679788017053,
+      "dopamine": 0.37320428479728135,
+      "risk_appetite": 0.0,
+      "action": "investigate_anomalies"
+    },
+    {
+      "agent": "Jax",
+      "mode": "FOCUSED",
+      "context": "Control Consolidation",
+      "time": 20,
+      "cortisol": 0.7318665272999512,
+      "dopamine": 0.3,
+      "risk_appetite": 0.0,
+      "action": "normal_operations"
+    },
+    {
+      "agent": "Peter Andrew Faucitt",
+      "mode": "REWARD",
+      "context": "Control Consolidation",
+      "time": 21,
+      "cortisol": 0.15,
+      "dopamine": 1.611115851034672,
+      "risk_appetite": 0.8,
+      "action": "escalate_fraud"
+    },
+    {
+      "agent": "Rynette Farrar",
+      "mode": "EXPLORATORY",
+      "context": "Control Consolidation",
+      "time": 21,
+      "cortisol": 0.15,
+      "dopamine": 1.0234214342757377,
+      "risk_appetite": 0.5,
+      "action": "maintain_status_quo"
+    },
+    {
+      "agent": "Danie Bantjies",
+      "mode": "EXPLORATORY",
+      "context": "Control Consolidation",
+      "time": 21,
+      "cortisol": 0.15,
+      "dopamine": 1.3928482063890444,
+      "risk_appetite": 0.5,
+      "action": "maintain_status_quo"
+    },
+    {
+      "agent": "Jacqueline Faucitt",
+      "mode": "RESTING",
+      "context": "Control Consolidation",
+      "time": 21,
+      "cortisol": 0.15,
+      "dopamine": 0.3,
+      "risk_appetite": 0.0,
+      "action": "normal_operations"
+    },
+    {
+      "agent": "Daniel James Faucitt",
+      "mode": "STRESSED",
+      "context": "Control Consolidation",
+      "time": 21,
+      "cortisol": 0.8730670868082271,
+      "dopamine": 0.3707106781186548,
+      "risk_appetite": 0.0,
+      "action": "investigate_anomalies"
+    },
+    {
+      "agent": "Jax",
+      "mode": "FOCUSED",
+      "context": "Control Consolidation",
+      "time": 21,
+      "cortisol": 0.7185766774493646,
+      "dopamine": 0.3,
+      "risk_appetite": 0.0,
+      "action": "normal_operations"
+    },
+    {
+      "agent": "Peter Andrew Faucitt",
+      "mode": "REWARD",
+      "context": "Control Consolidation",
+      "time": 22,
+      "cortisol": 0.15,
+      "dopamine": 1.4570915140337146,
+      "risk_appetite": 0.8,
+      "action": "escalate_fraud"
+    },
+    {
+      "agent": "Rynette Farrar",
+      "mode": "EXPLORATORY",
+      "context": "Control Consolidation",
+      "time": 22,
+      "cortisol": 0.15,
+      "dopamine": 0.9687734033458761,
+      "risk_appetite": 0.5,
+      "action": "maintain_status_quo"
+    },
+    {
+      "agent": "Danie Bantjies",
+      "mode": "EXPLORATORY",
+      "context": "Control Consolidation",
+      "time": 22,
+      "cortisol": 0.15,
+      "dopamine": 1.2838523696731694,
+      "risk_appetite": 0.5,
+      "action": "maintain_status_quo"
+    },
+    {
+      "agent": "Jacqueline Faucitt",
+      "mode": "RESTING",
+      "context": "Control Consolidation",
+      "time": 22,
+      "cortisol": 0.15,
+      "dopamine": 0.3,
+      "risk_appetite": 0.0,
+      "action": "normal_operations"
+    },
+    {
+      "agent": "Daniel James Faucitt",
+      "mode": "STRESSED",
+      "context": "Control Consolidation",
+      "time": 22,
+      "cortisol": 0.8565522117213693,
+      "dopamine": 0.36830201283771985,
+      "risk_appetite": 0.0,
+      "action": "investigate_anomalies"
+    },
+    {
+      "agent": "Jax",
+      "mode": "FOCUSED",
+      "context": "Control Consolidation",
+      "time": 22,
+      "cortisol": 0.7055903681888696,
+      "dopamine": 0.3,
+      "risk_appetite": 0.0,
+      "action": "normal_operations"
+    },
+    {
+      "agent": "Peter Andrew Faucitt",
+      "mode": "EXPLORATORY",
+      "context": "Control Consolidation",
+      "time": 23,
+      "cortisol": 0.15,
+      "dopamine": 1.3308753238275812,
+      "risk_appetite": 0.5,
+      "action": "maintain_status_quo"
+    },
+    {
+      "agent": "Rynette Farrar",
+      "mode": "REWARD",
+      "context": "Control Consolidation",
+      "time": 23,
+      "cortisol": 0.15,
+      "dopamine": 1.7097470393710577,
+      "risk_appetite": 0.8,
+      "action": "escalate_fraud"
+    },
+    {
+      "agent": "Danie Bantjies",
+      "mode": "SOCIAL",
+      "context": "Control Consolidation",
+      "time": 23,
+      "cortisol": 0.15,
+      "dopamine": 1.1933753238275813,
+      "risk_appetite": 0.5,
+      "action": "maintain_status_quo"
+    },
+    {
+      "agent": "Jacqueline Faucitt",
+      "mode": "RESTING",
+      "context": "Control Consolidation",
+      "time": 23,
+      "cortisol": 0.15,
+      "dopamine": 0.3,
+      "risk_appetite": 0.0,
+      "action": "normal_operations"
+    },
+    {
+      "agent": "Daniel James Faucitt",
+      "mode": "STRESSED",
+      "context": "Control Consolidation",
+      "time": 23,
+      "cortisol": 0.8404145369027999,
+      "dopamine": 0.3659753955386448,
+      "risk_appetite": 0.0,
+      "action": "investigate_anomalies"
+    },
+    {
+      "agent": "Jax",
+      "mode": "FOCUSED",
+      "context": "Control Consolidation",
+      "time": 23,
+      "cortisol": 0.6929006666418068,
+      "dopamine": 0.3,
+      "risk_appetite": 0.0,
+      "action": "normal_operations"
+    },
+    {
+      "agent": "Peter Andrew Faucitt",
+      "mode": "EXPLORATORY",
+      "context": "Control Consolidation",
+      "time": 24,
+      "cortisol": 0.15,
+      "dopamine": 1.2268656047009268,
+      "risk_appetite": 0.5,
+      "action": "maintain_status_quo"
+    },
+    {
+      "agent": "Rynette Farrar",
+      "mode": "REWARD",
+      "context": "Control Consolidation",
+      "time": 24,
+      "cortisol": 0.15,
+      "dopamine": 1.5394820287118578,
+      "risk_appetite": 0.8,
+      "action": "escalate_fraud"
+    },
+    {
+      "agent": "Danie Bantjies",
+      "mode": "SOCIAL",
+      "context": "Control Consolidation",
+      "time": 24,
+      "cortisol": 0.15,
+      "dopamine": 1.117731782378113,
+      "risk_appetite": 0.5,
+      "action": "maintain_status_quo"
+    },
+    {
+      "agent": "Jacqueline Faucitt",
+      "mode": "RESTING",
+      "context": "Control Consolidation",
+      "time": 24,
+      "cortisol": 0.15,
+      "dopamine": 0.3,
+      "risk_appetite": 0.0,
+      "action": "normal_operations"
+    },
+    {
+      "agent": "Daniel James Faucitt",
+      "mode": "STRESSED",
+      "context": "Control Consolidation",
+      "time": 24,
+      "cortisol": 0.8246454470864845,
+      "dopamine": 0.36372803136596316,
+      "risk_appetite": 0.0,
+      "action": "investigate_anomalies"
+    },
+    {
+      "agent": "Jax",
+      "mode": "RESTING",
+      "context": "Control Consolidation",
+      "time": 24,
+      "cortisol": 0.6805007982786391,
+      "dopamine": 0.3,
+      "risk_appetite": 0.0,
+      "action": "normal_operations"
+    },
+    {
+      "agent": "Peter Andrew Faucitt",
+      "mode": "EXPLORATORY",
+      "context": "Control Consolidation",
+      "time": 25,
+      "cortisol": 0.15,
+      "dopamine": 1.1406117006565748,
+      "risk_appetite": 0.5,
+      "action": "maintain_status_quo"
+    },
+    {
+      "agent": "Rynette Farrar",
+      "mode": "REWARD",
+      "context": "Control Consolidation",
+      "time": 25,
+      "cortisol": 0.15,
+      "dopamine": 1.9471126175020805,
+      "risk_appetite": 0.8,
+      "action": "escalate_fraud"
+    },
+    {
+      "agent": "Danie Bantjies",
+      "mode": "REWARD",
+      "context": "Control Consolidation",
+      "time": 25,
+      "cortisol": 0.15,
+      "dopamine": 1.6453646377987021,
+      "risk_appetite": 0.8,
+      "action": "escalate_fraud"
+    },
+    {
+      "agent": "Jacqueline Faucitt",
+      "mode": "RESTING",
+      "context": "Control Consolidation",
+      "time": 25,
+      "cortisol": 0.15,
+      "dopamine": 0.3,
+      "risk_appetite": 0.0,
+      "action": "normal_operations"
+    },
+    {
+      "agent": "Daniel James Faucitt",
+      "mode": "STRESSED",
+      "context": "Control Consolidation",
+      "time": 25,
+      "cortisol": 1.0,
+      "dopamine": 0.3615572206672459,
+      "risk_appetite": 0.0,
+      "action": "investigate_anomalies"
+    },
+    {
+      "agent": "Jax",
+      "mode": "STRESSED",
+      "context": "Control Consolidation",
+      "time": 25,
+      "cortisol": 1.0,
+      "dopamine": 0.3,
+      "risk_appetite": 0.0,
+      "action": "investigate_anomalies"
+    },
+    {
+      "agent": "Peter Andrew Faucitt",
+      "mode": "REWARD",
+      "context": "Control Consolidation",
+      "time": 26,
+      "cortisol": 0.15,
+      "dopamine": 1.86,
+      "risk_appetite": 0.8,
+      "action": "escalate_fraud"
+    },
+    {
+      "agent": "Rynette Farrar",
+      "mode": "REWARD",
+      "context": "Control Consolidation",
+      "time": 26,
+      "cortisol": 0.15,
+      "dopamine": 2.0,
+      "risk_appetite": 0.8,
+      "action": "escalate_fraud"
+    },
+    {
+      "agent": "Danie Bantjies",
+      "mode": "REWARD",
+      "context": "Control Consolidation",
+      "time": 26,
+      "cortisol": 0.15,
+      "dopamine": 1.992226252472368,
+      "risk_appetite": 0.8,
+      "action": "escalate_fraud"
+    },
+    {
+      "agent": "Jacqueline Faucitt",
+      "mode": "RESTING",
+      "context": "Control Consolidation",
+      "time": 26,
+      "cortisol": 0.15,
+      "dopamine": 0.3,
+      "risk_appetite": 0.0,
+      "action": "normal_operations"
+    },
+    {
+      "agent": "Daniel James Faucitt",
+      "mode": "THREAT",
+      "context": "Control Consolidation",
+      "time": 26,
+      "cortisol": 1.0,
+      "dopamine": 0.35946035575013613,
+      "risk_appetite": 0.0,
+      "action": "seek_legal_protection"
+    },
+    {
+      "agent": "Jax",
+      "mode": "STRESSED",
+      "context": "Control Consolidation",
+      "time": 26,
+      "cortisol": 0.980585973169109,
+      "dopamine": 0.3,
+      "risk_appetite": 0.0,
+      "action": "investigate_anomalies"
+    },
+    {
+      "agent": "Peter Andrew Faucitt",
+      "mode": "REWARD",
+      "context": "Control Consolidation",
+      "time": 27,
+      "cortisol": 0.15,
+      "dopamine": 1.6587378825937176,
+      "risk_appetite": 0.8,
+      "action": "escalate_fraud"
+    },
+    {
+      "agent": "Rynette Farrar",
+      "mode": "REWARD",
+      "context": "Control Consolidation",
+      "time": 27,
+      "cortisol": 0.15,
+      "dopamine": 1.7698559562314915,
+      "risk_appetite": 0.8,
+      "action": "escalate_fraud"
+    },
+    {
+      "agent": "Danie Bantjies",
+      "mode": "REWARD",
+      "context": "Control Consolidation",
+      "time": 27,
+      "cortisol": 0.15,
+      "dopamine": 1.7636859287299425,
+      "risk_appetite": 0.8,
+      "action": "escalate_fraud"
+    },
+    {
+      "agent": "Jacqueline Faucitt",
+      "mode": "RESTING",
+      "context": "Control Consolidation",
+      "time": 27,
+      "cortisol": 0.15,
+      "dopamine": 0.3,
+      "risk_appetite": 0.0,
+      "action": "normal_operations"
+    },
+    {
+      "agent": "Daniel James Faucitt",
+      "mode": "THREAT",
+      "context": "Control Consolidation",
+      "time": 27,
+      "cortisol": 0.980585973169109,
+      "dopamine": 0.3574349177498518,
+      "risk_appetite": 0.0,
+      "action": "seek_legal_protection"
+    },
+    {
+      "agent": "Jax",
+      "mode": "STRESSED",
+      "context": "Control Consolidation",
+      "time": 27,
+      "cortisol": 0.961615363323854,
+      "dopamine": 0.3,
+      "risk_appetite": 0.0,
+      "action": "investigate_anomalies"
+    },
+    {
+      "agent": "Peter Andrew Faucitt",
+      "mode": "REWARD",
+      "context": "Control Consolidation",
+      "time": 28,
+      "cortisol": 0.15,
+      "dopamine": 1.4948891455305606,
+      "risk_appetite": 0.8,
+      "action": "escalate_fraud"
+    },
+    {
+      "agent": "Rynette Farrar",
+      "mode": "REWARD",
+      "context": "Control Consolidation",
+      "time": 28,
+      "cortisol": 0.15,
+      "dopamine": 1.5830836190232018,
+      "risk_appetite": 0.8,
+      "action": "escalate_fraud"
+    },
+    {
+      "agent": "Danie Bantjies",
+      "mode": "REWARD",
+      "context": "Control Consolidation",
+      "time": 28,
+      "cortisol": 0.15,
+      "dopamine": 1.5781864649498858,
+      "risk_appetite": 0.8,
+      "action": "escalate_fraud"
+    },
+    {
+      "agent": "Jacqueline Faucitt",
+      "mode": "RESTING",
+      "context": "Control Consolidation",
+      "time": 28,
+      "cortisol": 0.15,
+      "dopamine": 0.3,
+      "risk_appetite": 0.0,
+      "action": "normal_operations"
+    },
+    {
+      "agent": "Daniel James Faucitt",
+      "mode": "STRESSED",
+      "context": "Control Consolidation",
+      "time": 28,
+      "cortisol": 0.961615363323854,
+      "dopamine": 0.3554784736033923,
+      "risk_appetite": 0.0,
+      "action": "investigate_anomalies"
+    },
+    {
+      "agent": "Jax",
+      "mode": "STRESSED",
+      "context": "Control Consolidation",
+      "time": 28,
+      "cortisol": 0.9430780428062862,
+      "dopamine": 0.3,
+      "risk_appetite": 0.0,
+      "action": "investigate_anomalies"
+    },
+    {
+      "agent": "Peter Andrew Faucitt",
+      "mode": "EXPLORATORY",
+      "context": "Control Consolidation",
+      "time": 29,
+      "cortisol": 0.15,
+      "dopamine": 1.3608753238275813,
+      "risk_appetite": 0.5,
+      "action": "maintain_status_quo"
+    },
+    {
+      "agent": "Rynette Farrar",
+      "mode": "EXPLORATORY",
+      "context": "Control Consolidation",
+      "time": 29,
+      "cortisol": 0.15,
+      "dopamine": 1.430875323827581,
+      "risk_appetite": 0.5,
+      "action": "maintain_status_quo"
+    },
+    {
+      "agent": "Danie Bantjies",
+      "mode": "REWARD",
+      "context": "Control Consolidation",
+      "time": 29,
+      "cortisol": 0.15,
+      "dopamine": 1.426988450063765,
+      "risk_appetite": 0.8,
+      "action": "escalate_fraud"
+    },
+    {
+      "agent": "Jacqueline Faucitt",
+      "mode": "RESTING",
+      "context": "Control Consolidation",
+      "time": 29,
+      "cortisol": 0.15,
+      "dopamine": 0.3,
+      "risk_appetite": 0.0,
+      "action": "normal_operations"
+    },
+    {
+      "agent": "Daniel James Faucitt",
+      "mode": "STRESSED",
+      "context": "Control Consolidation",
+      "time": 29,
+      "cortisol": 0.9430780428062862,
+      "dopamine": 0.3535886731268147,
+      "risk_appetite": 0.0,
+      "action": "investigate_anomalies"
+    },
+    {
+      "agent": "Jax",
+      "mode": "STRESSED",
+      "context": "Control Consolidation",
+      "time": 29,
+      "cortisol": 0.9249641152744841,
+      "dopamine": 0.3,
+      "risk_appetite": 0.0,
+      "action": "investigate_anomalies"
+    },
+    {
+      "agent": "Peter Andrew Faucitt",
+      "mode": "EXPLORATORY",
+      "context": "Exposure & Retaliation",
+      "time": 30,
+      "cortisol": 0.15,
+      "dopamine": 1.2506766204804498,
+      "risk_appetite": 0.5,
+      "action": "maintain_status_quo"
+    },
+    {
+      "agent": "Rynette Farrar",
+      "mode": "EXPLORATORY",
+      "context": "Exposure & Retaliation",
+      "time": 30,
+      "cortisol": 0.15,
+      "dopamine": 1.3062356572993368,
+      "risk_appetite": 0.5,
+      "action": "maintain_status_quo"
+    },
+    {
+      "agent": "Danie Bantjies",
+      "mode": "REWARD",
+      "context": "Exposure & Retaliation",
+      "time": 30,
+      "cortisol": 0.15,
+      "dopamine": 1.303150643548562,
+      "risk_appetite": 0.8,
+      "action": "escalate_fraud"
+    },
+    {
+      "agent": "Jacqueline Faucitt",
+      "mode": "RESTING",
+      "context": "Exposure & Retaliation",
+      "time": 30,
+      "cortisol": 0.15,
+      "dopamine": 0.3,
+      "risk_appetite": 0.0,
+      "action": "normal_operations"
+    },
+    {
+      "agent": "Daniel James Faucitt",
+      "mode": "STRESSED",
+      "context": "Exposure & Retaliation",
+      "time": 30,
+      "cortisol": 0.9249641152744841,
+      "dopamine": 0.3517632461920689,
+      "risk_appetite": 0.0,
+      "action": "investigate_anomalies"
+    },
+    {
+      "agent": "Jax",
+      "mode": "STRESSED",
+      "context": "Exposure & Retaliation",
+      "time": 30,
+      "cortisol": 0.9072639104192882,
+      "dopamine": 0.3,
+      "risk_appetite": 0.0,
+      "action": "investigate_anomalies"
+    },
+    {
+      "agent": "Peter Andrew Faucitt",
+      "mode": "EXPLORATORY",
+      "context": "Exposure & Retaliation",
+      "time": 31,
+      "cortisol": 0.15,
+      "dopamine": 1.159510516404998,
+      "risk_appetite": 0.5,
+      "action": "maintain_status_quo"
+    },
+    {
+      "agent": "Rynette Farrar",
+      "mode": "EXPLORATORY",
+      "context": "Exposure & Retaliation",
+      "time": 31,
+      "cortisol": 0.15,
+      "dopamine": 1.2036077531513183,
+      "risk_appetite": 0.5,
+      "action": "maintain_status_quo"
+    },
+    {
+      "agent": "Danie Bantjies",
+      "mode": "SOCIAL",
+      "context": "Exposure & Retaliation",
+      "time": 31,
+      "cortisol": 0.15,
+      "dopamine": 1.2011591761146603,
+      "risk_appetite": 0.5,
+      "action": "maintain_status_quo"
+    },
+    {
+      "agent": "Jacqueline Faucitt",
+      "mode": "RESTING",
+      "context": "Exposure & Retaliation",
+      "time": 31,
+      "cortisol": 0.15,
+      "dopamine": 0.3,
+      "risk_appetite": 0.0,
+      "action": "normal_operations"
+    },
+    {
+      "agent": "Daniel James Faucitt",
+      "mode": "STRESSED",
+      "context": "Exposure & Retaliation",
+      "time": 31,
+      "cortisol": 0.9072639104192882,
+      "dopamine": 0.35000000000000003,
+      "risk_appetite": 0.0,
+      "action": "investigate_anomalies"
+    },
+    {
+      "agent": "Jax",
+      "mode": "STRESSED",
+      "context": "Exposure & Retaliation",
+      "time": 31,
+      "cortisol": 0.8899679788017053,
+      "dopamine": 0.3,
+      "risk_appetite": 0.0,
+      "action": "investigate_anomalies"
+    },
+    {
+      "agent": "Peter Andrew Faucitt",
+      "mode": "EXPLORATORY",
+      "context": "Exposure & Retaliation",
+      "time": 32,
+      "cortisol": 0.15,
+      "dopamine": 1.0835766774493647,
+      "risk_appetite": 0.5,
+      "action": "maintain_status_quo"
+    },
+    {
+      "agent": "Rynette Farrar",
+      "mode": "EXPLORATORY",
+      "context": "Exposure & Retaliation",
+      "time": 32,
+      "cortisol": 0.15,
+      "dopamine": 1.1185766774493646,
+      "risk_appetite": 0.5,
+      "action": "maintain_status_quo"
+    },
+    {
+      "agent": "Danie Bantjies",
+      "mode": "SOCIAL",
+      "context": "Exposure & Retaliation",
+      "time": 32,
+      "cortisol": 0.15,
+      "dopamine": 1.1166332405674568,
+      "risk_appetite": 0.5,
+      "action": "maintain_status_quo"
+    },
+    {
+      "agent": "Jacqueline Faucitt",
+      "mode": "RESTING",
+      "context": "Exposure & Retaliation",
+      "time": 32,
+      "cortisol": 0.15,
+      "dopamine": 0.3,
+      "risk_appetite": 0.0,
+      "action": "normal_operations"
+    },
+    {
+      "agent": "Daniel James Faucitt",
+      "mode": "STRESSED",
+      "context": "Exposure & Retaliation",
+      "time": 32,
+      "cortisol": 0.8899679788017053,
+      "dopamine": 0.34829681644624233,
+      "risk_appetite": 0.0,
+      "action": "investigate_anomalies"
+    },
+    {
+      "agent": "Jax",
+      "mode": "STRESSED",
+      "context": "Exposure & Retaliation",
+      "time": 32,
+      "cortisol": 0.8730670868082271,
+      "dopamine": 0.3,
+      "risk_appetite": 0.0,
+      "action": "investigate_anomalies"
+    },
+    {
+      "agent": "Peter Andrew Faucitt",
+      "mode": "EXPLORATORY",
+      "context": "Exposure & Retaliation",
+      "time": 33,
+      "cortisol": 0.15,
+      "dopamine": 1.0198544816143067,
+      "risk_appetite": 0.5,
+      "action": "maintain_status_quo"
+    },
+    {
+      "agent": "Rynette Farrar",
+      "mode": "EXPLORATORY",
+      "context": "Exposure & Retaliation",
+      "time": 33,
+      "cortisol": 0.15,
+      "dopamine": 1.0476340000237503,
+      "risk_appetite": 0.5,
+      "action": "maintain_status_quo"
+    },
+    {
+      "agent": "Danie Bantjies",
+      "mode": "SOCIAL",
+      "context": "Exposure & Retaliation",
+      "time": 33,
+      "cortisol": 0.15,
+      "dopamine": 1.046091493148363,
+      "risk_appetite": 0.5,
+      "action": "maintain_status_quo"
+    },
+    {
+      "agent": "Jacqueline Faucitt",
+      "mode": "RESTING",
+      "context": "Exposure & Retaliation",
+      "time": 33,
+      "cortisol": 0.15,
+      "dopamine": 0.3,
+      "risk_appetite": 0.0,
+      "action": "normal_operations"
+    },
+    {
+      "agent": "Daniel James Faucitt",
+      "mode": "STRESSED",
+      "context": "Exposure & Retaliation",
+      "time": 33,
+      "cortisol": 0.8730670868082271,
+      "dopamine": 0.3466516495768404,
+      "risk_appetite": 0.0,
+      "action": "investigate_anomalies"
+    },
+    {
+      "agent": "Jax",
+      "mode": "STRESSED",
+      "context": "Exposure & Retaliation",
+      "time": 33,
+      "cortisol": 0.8565522117213693,
+      "dopamine": 0.3,
+      "risk_appetite": 0.0,
+      "action": "investigate_anomalies"
+    },
+    {
+      "agent": "Peter Andrew Faucitt",
+      "mode": "EXPLORATORY",
+      "context": "Exposure & Retaliation",
+      "time": 34,
+      "cortisol": 0.15,
+      "dopamine": 0.965942311142338,
+      "risk_appetite": 0.5,
+      "action": "maintain_status_quo"
+    },
+    {
+      "agent": "Rynette Farrar",
+      "mode": "EXPLORATORY",
+      "context": "Exposure & Retaliation",
+      "time": 34,
+      "cortisol": 0.15,
+      "dopamine": 0.9879909295154983,
+      "risk_appetite": 0.5,
+      "action": "maintain_status_quo"
+    },
+    {
+      "agent": "Danie Bantjies",
+      "mode": "SOCIAL",
+      "context": "Exposure & Retaliation",
+      "time": 34,
+      "cortisol": 0.15,
+      "dopamine": 0.9867666409971693,
+      "risk_appetite": 0.5,
+      "action": "maintain_status_quo"
+    },
+    {
+      "agent": "Jacqueline Faucitt",
+      "mode": "RESTING",
+      "context": "Exposure & Retaliation",
+      "time": 34,
+      "cortisol": 0.15,
+      "dopamine": 0.3,
+      "risk_appetite": 0.0,
+      "action": "normal_operations"
+    },
+    {
+      "agent": "Daniel James Faucitt",
+      "mode": "STRESSED",
+      "context": "Exposure & Retaliation",
+      "time": 34,
+      "cortisol": 0.8565522117213693,
+      "dopamine": 0.34506252313054153,
+      "risk_appetite": 0.0,
+      "action": "investigate_anomalies"
+    },
+    {
+      "agent": "Jax",
+      "mode": "STRESSED",
+      "context": "Exposure & Retaliation",
+      "time": 34,
+      "cortisol": 0.8404145369027999,
+      "dopamine": 0.3,
+      "risk_appetite": 0.0,
+      "action": "investigate_anomalies"
+    },
+    {
+      "agent": "Peter Andrew Faucitt",
+      "mode": "EXPLORATORY",
+      "context": "Exposure & Retaliation",
+      "time": 35,
+      "cortisol": 0.15,
+      "dopamine": 0.9199299935809685,
+      "risk_appetite": 0.5,
+      "action": "maintain_status_quo"
+    },
+    {
+      "agent": "Rynette Farrar",
+      "mode": "EXPLORATORY",
+      "context": "Exposure & Retaliation",
+      "time": 35,
+      "cortisol": 0.15,
+      "dopamine": 0.9374299935809686,
+      "risk_appetite": 0.5,
+      "action": "maintain_status_quo"
+    },
+    {
+      "agent": "Danie Bantjies",
+      "mode": "SOCIAL",
+      "context": "Exposure & Retaliation",
+      "time": 35,
+      "cortisol": 0.15,
+      "dopamine": 0.9364582751400146,
+      "risk_appetite": 0.5,
+      "action": "maintain_status_quo"
+    },
+    {
+      "agent": "Jacqueline Faucitt",
+      "mode": "RESTING",
+      "context": "Exposure & Retaliation",
+      "time": 35,
+      "cortisol": 0.15,
+      "dopamine": 0.3,
+      "risk_appetite": 0.0,
+      "action": "normal_operations"
+    },
+    {
+      "agent": "Daniel James Faucitt",
+      "mode": "STRESSED",
+      "context": "Exposure & Retaliation",
+      "time": 35,
+      "cortisol": 0.8404145369027999,
+      "dopamine": 0.34352752816480625,
+      "risk_appetite": 0.0,
+      "action": "investigate_anomalies"
+    },
+    {
+      "agent": "Jax",
+      "mode": "STRESSED",
+      "context": "Exposure & Retaliation",
+      "time": 35,
+      "cortisol": 0.8246454470864845,
+      "dopamine": 0.3,
+      "risk_appetite": 0.0,
+      "action": "investigate_anomalies"
+    },
+    {
+      "agent": "Peter Andrew Faucitt",
+      "mode": "EXPLORATORY",
+      "context": "Exposure & Retaliation",
+      "time": 36,
+      "cortisol": 0.15,
+      "dopamine": 0.8802975533738736,
+      "risk_appetite": 0.5,
+      "action": "maintain_status_quo"
+    },
+    {
+      "agent": "Rynette Farrar",
+      "mode": "EXPLORATORY",
+      "context": "Exposure & Retaliation",
+      "time": 36,
+      "cortisol": 0.15,
+      "dopamine": 0.8941873125785953,
+      "risk_appetite": 0.5,
+      "action": "maintain_status_quo"
+    },
+    {
+      "agent": "Danie Bantjies",
+      "mode": "SOCIAL",
+      "context": "Exposure & Retaliation",
+      "time": 36,
+      "cortisol": 0.15,
+      "dopamine": 0.8934160591409017,
+      "risk_appetite": 0.5,
+      "action": "maintain_status_quo"
+    },
+    {
+      "agent": "Jacqueline Faucitt",
+      "mode": "RESTING",
+      "context": "Exposure & Retaliation",
+      "time": 36,
+      "cortisol": 0.15,
+      "dopamine": 0.3,
+      "risk_appetite": 0.0,
+      "action": "normal_operations"
+    },
+    {
+      "agent": "Daniel James Faucitt",
+      "mode": "STRESSED",
+      "context": "Exposure & Retaliation",
+      "time": 36,
+      "cortisol": 0.8246454470864845,
+      "dopamine": 0.3420448207626858,
+      "risk_appetite": 0.0,
+      "action": "investigate_anomalies"
+    },
+    {
+      "agent": "Jax",
+      "mode": "STRESSED",
+      "context": "Exposure & Retaliation",
+      "time": 36,
+      "cortisol": 0.8092365237793369,
+      "dopamine": 0.3,
+      "risk_appetite": 0.0,
+      "action": "investigate_anomalies"
+    },
+    {
+      "agent": "Peter Andrew Faucitt",
+      "mode": "STRESSED",
+      "context": "Exposure & Retaliation",
+      "time": 37,
+      "cortisol": 1.0,
+      "dopamine": 0.8458348462958875,
+      "risk_appetite": 0.3,
+      "action": "defensive_posture"
+    },
+    {
+      "agent": "Rynette Farrar",
+      "mode": "THREAT",
+      "context": "Exposure & Retaliation",
+      "time": 37,
+      "cortisol": 1.0,
+      "dopamine": 0.8568591554824676,
+      "risk_appetite": 0.2,
+      "action": "destroy_evidence"
+    },
+    {
+      "agent": "Danie Bantjies",
+      "mode": "STRESSED",
+      "context": "Exposure & Retaliation",
+      "time": 37,
+      "cortisol": 1.0,
+      "dopamine": 0.8562470112233032,
+      "risk_appetite": 0.3,
+      "action": "defensive_posture"
+    },
+    {
+      "agent": "Jacqueline Faucitt",
+      "mode": "RESTING",
+      "context": "Exposure & Retaliation",
+      "time": 37,
+      "cortisol": 0.15,
+      "dopamine": 0.3,
+      "risk_appetite": 0.0,
+      "action": "normal_operations"
+    },
+    {
+      "agent": "Daniel James Faucitt",
+      "mode": "THREAT",
+      "context": "Exposure & Retaliation",
+      "time": 37,
+      "cortisol": 1.0,
+      "dopamine": 1.1406126198178117,
+      "risk_appetite": 0.0,
+      "action": "seek_legal_protection"
+    },
+    {
+      "agent": "Jax",
+      "mode": "STRESSED",
+      "context": "Exposure & Retaliation",
+      "time": 37,
+      "cortisol": 0.7941795407669188,
+      "dopamine": 0.3,
+      "risk_appetite": 0.0,
+      "action": "investigate_anomalies"
+    },
+    {
+      "agent": "Peter Andrew Faucitt",
+      "mode": "STRESSED",
+      "context": "Legal Actions",
+      "time": 38,
+      "cortisol": 0.980585973169109,
+      "dopamine": 1.71375,
+      "risk_appetite": 0.3,
+      "action": "defensive_posture"
+    },
+    {
+      "agent": "Rynette Farrar",
+      "mode": "STRESSED",
+      "context": "Legal Actions",
+      "time": 38,
+      "cortisol": 0.980585973169109,
+      "dopamine": 0.8243277687705126,
+      "risk_appetite": 0.3,
+      "action": "defensive_posture"
+    },
+    {
+      "agent": "Danie Bantjies",
+      "mode": "STRESSED",
+      "context": "Legal Actions",
+      "time": 38,
+      "cortisol": 0.980585973169109,
+      "dopamine": 0.8238419095500357,
+      "risk_appetite": 0.3,
+      "action": "defensive_posture"
+    },
+    {
+      "agent": "Jacqueline Faucitt",
+      "mode": "RESTING",
+      "context": "Legal Actions",
+      "time": 38,
+      "cortisol": 0.15,
+      "dopamine": 0.3,
+      "risk_appetite": 0.0,
+      "action": "normal_operations"
+    },
+    {
+      "agent": "Daniel James Faucitt",
+      "mode": "STRESSED",
+      "context": "Legal Actions",
+      "time": 38,
+      "cortisol": 0.980585973169109,
+      "dopamine": 1.0086367862702665,
+      "risk_appetite": 0.0,
+      "action": "investigate_anomalies"
+    },
+    {
+      "agent": "Jax",
+      "mode": "STRESSED",
+      "context": "Legal Actions",
+      "time": 38,
+      "cortisol": 1.0,
+      "dopamine": 0.3,
+      "risk_appetite": 0.0,
+      "action": "investigate_anomalies"
+    },
+    {
+      "agent": "Peter Andrew Faucitt",
+      "mode": "STRESSED",
+      "context": "Legal Actions",
+      "time": 39,
+      "cortisol": 0.961615363323854,
+      "dopamine": 2.0,
+      "risk_appetite": 0.3,
+      "action": "defensive_posture"
+    },
+    {
+      "agent": "Rynette Farrar",
+      "mode": "STRESSED",
+      "context": "Legal Actions",
+      "time": 39,
+      "cortisol": 0.961615363323854,
+      "dopamine": 0.7957025024357477,
+      "risk_appetite": 0.3,
+      "action": "defensive_posture"
+    },
+    {
+      "agent": "Danie Bantjies",
+      "mode": "STRESSED",
+      "context": "Legal Actions",
+      "time": 39,
+      "cortisol": 0.961615363323854,
+      "dopamine": 1.435316875716901,
+      "risk_appetite": 0.3,
+      "action": "defensive_posture"
+    },
+    {
+      "agent": "Jacqueline Faucitt",
+      "mode": "STRESSED",
+      "context": "Legal Actions",
+      "time": 39,
+      "cortisol": 0.85,
+      "dopamine": 0.3,
+      "risk_appetite": 0.0,
+      "action": "investigate_anomalies"
+    },
+    {
+      "agent": "Daniel James Faucitt",
+      "mode": "THREAT",
+      "context": "Legal Actions",
+      "time": 39,
+      "cortisol": 1.0,
+      "dopamine": 0.9024758274385835,
+      "risk_appetite": 0.0,
+      "action": "seek_legal_protection"
+    },
+    {
+      "agent": "Jax",
+      "mode": "THREAT",
+      "context": "Legal Actions",
+      "time": 39,
+      "cortisol": 1.0,
+      "dopamine": 0.3,
+      "risk_appetite": 0.0,
+      "action": "seek_legal_protection"
+    },
+    {
+      "agent": "Peter Andrew Faucitt",
+      "mode": "STRESSED",
+      "context": "Legal Actions",
+      "time": 40,
+      "cortisol": 0.9430780428062862,
+      "dopamine": 1.7698559562314915,
+      "risk_appetite": 0.3,
+      "action": "defensive_posture"
+    },
+    {
+      "agent": "Rynette Farrar",
+      "mode": "STRESSED",
+      "context": "Legal Actions",
+      "time": 40,
+      "cortisol": 0.9430780428062862,
+      "dopamine": 0.7702730774799352,
+      "risk_appetite": 0.3,
+      "action": "defensive_posture"
+    },
+    {
+      "agent": "Danie Bantjies",
+      "mode": "STRESSED",
+      "context": "Legal Actions",
+      "time": 40,
+      "cortisol": 0.9430780428062862,
+      "dopamine": 1.3054930704506962,
+      "risk_appetite": 0.3,
+      "action": "defensive_posture"
+    },
+    {
+      "agent": "Jacqueline Faucitt",
+      "mode": "STRESSED",
+      "context": "Legal Actions",
+      "time": 40,
+      "cortisol": 0.8340119779039721,
+      "dopamine": 0.3,
+      "risk_appetite": 0.0,
+      "action": "investigate_anomalies"
+    },
+    {
+      "agent": "Daniel James Faucitt",
+      "mode": "THREAT",
+      "context": "Legal Actions",
+      "time": 40,
+      "cortisol": 0.980585973169109,
+      "dopamine": 0.8168522349208068,
+      "risk_appetite": 0.0,
+      "action": "seek_legal_protection"
+    },
+    {
+      "agent": "Jax",
+      "mode": "STRESSED",
+      "context": "Legal Actions",
+      "time": 40,
+      "cortisol": 0.980585973169109,
+      "dopamine": 0.3,
+      "risk_appetite": 0.0,
+      "action": "investigate_anomalies"
+    },
+    {
+      "agent": "Peter Andrew Faucitt",
+      "mode": "STRESSED",
+      "context": "Legal Actions",
+      "time": 41,
+      "cortisol": 0.9249641152744841,
+      "dopamine": 1.5830836190232018,
+      "risk_appetite": 0.3,
+      "action": "defensive_posture"
+    },
+    {
+      "agent": "Rynette Farrar",
+      "mode": "STRESSED",
+      "context": "Legal Actions",
+      "time": 41,
+      "cortisol": 0.9249641152744841,
+      "dopamine": 0.7474724902509522,
+      "risk_appetite": 0.3,
+      "action": "defensive_posture"
+    },
+    {
+      "agent": "Danie Bantjies",
+      "mode": "STRESSED",
+      "context": "Legal Actions",
+      "time": 41,
+      "cortisol": 0.9249641152744841,
+      "dopamine": 1.1988958912613723,
+      "risk_appetite": 0.3,
+      "action": "defensive_posture"
+    },
+    {
+      "agent": "Jacqueline Faucitt",
+      "mode": "STRESSED",
+      "context": "Legal Actions",
+      "time": 41,
+      "cortisol": 0.8183891227372915,
+      "dopamine": 0.3,
+      "risk_appetite": 0.0,
+      "action": "investigate_anomalies"
+    },
+    {
+      "agent": "Daniel James Faucitt",
+      "mode": "STRESSED",
+      "context": "Legal Actions",
+      "time": 41,
+      "cortisol": 0.961615363323854,
+      "dopamine": 0.7475756095137822,
+      "risk_appetite": 0.0,
+      "action": "investigate_anomalies"
+    },
+    {
+      "agent": "Jax",
+      "mode": "STRESSED",
+      "context": "Legal Actions",
+      "time": 41,
+      "cortisol": 0.961615363323854,
+      "dopamine": 0.3,
+      "risk_appetite": 0.0,
+      "action": "investigate_anomalies"
+    },
+    {
+      "agent": "Peter Andrew Faucitt",
+      "mode": "STRESSED",
+      "context": "Legal Actions",
+      "time": 42,
+      "cortisol": 0.9072639104192882,
+      "dopamine": 1.430875323827581,
+      "risk_appetite": 0.3,
+      "action": "defensive_posture"
+    },
+    {
+      "agent": "Rynette Farrar",
+      "mode": "REWARD",
+      "context": "Legal Actions",
+      "time": 42,
+      "cortisol": 0.9072639104192882,
+      "dopamine": 1.8248031414370032,
+      "risk_appetite": 0.8,
+      "action": "escalate_fraud"
+    },
+    {
+      "agent": "Danie Bantjies",
+      "mode": "STRESSED",
+      "context": "Legal Actions",
+      "time": 42,
+      "cortisol": 0.9072639104192882,
+      "dopamine": 1.1108548263442743,
+      "risk_appetite": 0.3,
+      "action": "defensive_posture"
+    },
+    {
+      "agent": "Jacqueline Faucitt",
+      "mode": "STRESSED",
+      "context": "Legal Actions",
+      "time": 42,
+      "cortisol": 0.8031230940757651,
+      "dopamine": 0.3,
+      "risk_appetite": 0.0,
+      "action": "investigate_anomalies"
+    },
+    {
+      "agent": "Daniel James Faucitt",
+      "mode": "STRESSED",
+      "context": "Legal Actions",
+      "time": 42,
+      "cortisol": 0.9430780428062862,
+      "dopamine": 0.6913184469538339,
+      "risk_appetite": 0.0,
+      "action": "investigate_anomalies"
+    },
+    {
+      "agent": "Jax",
+      "mode": "STRESSED",
+      "context": "Legal Actions",
+      "time": 42,
+      "cortisol": 0.9430780428062862,
+      "dopamine": 0.3,
+      "risk_appetite": 0.0,
+      "action": "investigate_anomalies"
+    },
+    {
+      "agent": "Peter Andrew Faucitt",
+      "mode": "STRESSED",
+      "context": "Legal Actions",
+      "time": 43,
+      "cortisol": 0.8899679788017053,
+      "dopamine": 1.3062356572993368,
+      "risk_appetite": 0.3,
+      "action": "defensive_posture"
+    },
+    {
+      "agent": "Rynette Farrar",
+      "mode": "STRESSED",
+      "context": "Legal Actions",
+      "time": 43,
+      "cortisol": 0.8899679788017053,
+      "dopamine": 1.630802117439279,
+      "risk_appetite": 0.3,
+      "action": "defensive_posture"
+    },
+    {
+      "agent": "Danie Bantjies",
+      "mode": "STRESSED",
+      "context": "Legal Actions",
+      "time": 43,
+      "cortisol": 0.8899679788017053,
+      "dopamine": 1.0376587619271254,
+      "risk_appetite": 0.3,
+      "action": "defensive_posture"
+    },
+    {
+      "agent": "Jacqueline Faucitt",
+      "mode": "STRESSED",
+      "context": "Legal Actions",
+      "time": 43,
+      "cortisol": 0.7882057419907517,
+      "dopamine": 0.3,
+      "risk_appetite": 0.0,
+      "action": "investigate_anomalies"
+    },
+    {
+      "agent": "Daniel James Faucitt",
+      "mode": "STRESSED",
+      "context": "Legal Actions",
+      "time": 43,
+      "cortisol": 0.9249641152744841,
+      "dopamine": 0.6454381770405696,
+      "risk_appetite": 0.0,
+      "action": "investigate_anomalies"
+    },
+    {
+      "agent": "Jax",
+      "mode": "STRESSED",
+      "context": "Legal Actions",
+      "time": 43,
+      "cortisol": 0.9249641152744841,
+      "dopamine": 0.3,
+      "risk_appetite": 0.0,
+      "action": "investigate_anomalies"
+    },
+    {
+      "agent": "Peter Andrew Faucitt",
+      "mode": "EXPLORATORY",
+      "context": "Legal Actions",
+      "time": 44,
+      "cortisol": 0.8730670868082271,
+      "dopamine": 1.2036077531513183,
+      "risk_appetite": 0.5,
+      "action": "maintain_status_quo"
+    },
+    {
+      "agent": "Rynette Farrar",
+      "mode": "STRESSED",
+      "context": "Legal Actions",
+      "time": 44,
+      "cortisol": 0.8730670868082271,
+      "dopamine": 1.4727165140337144,
+      "risk_appetite": 0.3,
+      "action": "defensive_posture"
+    },
+    {
+      "agent": "Danie Bantjies",
+      "mode": "STRESSED",
+      "context": "Legal Actions",
+      "time": 44,
+      "cortisol": 0.8730670868082271,
+      "dopamine": 0.9763581995105619,
+      "risk_appetite": 0.3,
+      "action": "defensive_posture"
+    },
+    {
+      "agent": "Jacqueline Faucitt",
+      "mode": "STRESSED",
+      "context": "Legal Actions",
+      "time": 44,
+      "cortisol": 0.7736291026982374,
+      "dopamine": 0.3,
+      "risk_appetite": 0.0,
+      "action": "investigate_anomalies"
+    },
+    {
+      "agent": "Daniel James Faucitt",
+      "mode": "STRESSED",
+      "context": "Legal Actions",
+      "time": 44,
+      "cortisol": 0.9072639104192882,
+      "dopamine": 0.6078359141599469,
+      "risk_appetite": 0.0,
+      "action": "investigate_anomalies"
+    },
+    {
+      "agent": "Jax",
+      "mode": "STRESSED",
+      "context": "Legal Actions",
+      "time": 44,
+      "cortisol": 0.9072639104192882,
+      "dopamine": 0.3,
+      "risk_appetite": 0.0,
+      "action": "investigate_anomalies"
+    },
+    {
+      "agent": "Peter Andrew Faucitt",
+      "mode": "STRESSED",
+      "context": "Convergence",
+      "time": 45,
+      "cortisol": 1.0,
+      "dopamine": 1.1185766774493646,
+      "risk_appetite": 0.3,
+      "action": "defensive_posture"
+    },
+    {
+      "agent": "Rynette Farrar",
+      "mode": "THREAT",
+      "context": "Convergence",
+      "time": 45,
+      "cortisol": 1.0,
+      "dopamine": 1.343276894546083,
+      "risk_appetite": 0.2,
+      "action": "destroy_evidence"
+    },
+    {
+      "agent": "Danie Bantjies",
+      "mode": "STRESSED",
+      "context": "Convergence",
+      "time": 45,
+      "cortisol": 0.8565522117213693,
+      "dopamine": 0.9246082708002692,
+      "risk_appetite": 0.3,
+      "action": "defensive_posture"
+    },
+    {
+      "agent": "Jacqueline Faucitt",
+      "mode": "EXPLORATORY",
+      "context": "Convergence",
+      "time": 45,
+      "cortisol": 0.7593853943072867,
+      "dopamine": 1.02,
+      "risk_appetite": 0.0,
+      "action": "normal_operations"
+    },
+    {
+      "agent": "Daniel James Faucitt",
+      "mode": "STRESSED",
+      "context": "Convergence",
+      "time": 45,
+      "cortisol": 0.8899679788017053,
+      "dopamine": 1.3768443457267785,
+      "risk_appetite": 0.0,
+      "action": "investigate_anomalies"
+    },
+    {
+      "agent": "Jax",
+      "mode": "STRESSED",
+      "context": "Convergence",
+      "time": 45,
+      "cortisol": 0.8899679788017053,
+      "dopamine": 0.3,
+      "risk_appetite": 0.0,
+      "action": "investigate_anomalies"
+    },
+    {
+      "agent": "Peter Andrew Faucitt",
+      "mode": "STRESSED",
+      "context": "Convergence",
+      "time": 46,
+      "cortisol": 1.0,
+      "dopamine": 1.0476340000237503,
+      "risk_appetite": 0.3,
+      "action": "defensive_posture"
+    },
+    {
+      "agent": "Rynette Farrar",
+      "mode": "STRESSED",
+      "context": "Convergence",
+      "time": 46,
+      "cortisol": 0.980585973169109,
+      "dopamine": 1.2367087379032304,
+      "risk_appetite": 0.3,
+      "action": "defensive_posture"
+    },
+    {
+      "agent": "Danie Bantjies",
+      "mode": "EXPLORATORY",
+      "context": "Convergence",
+      "time": 46,
+      "cortisol": 0.8404145369027999,
+      "dopamine": 0.8805441339514797,
+      "risk_appetite": 0.5,
+      "action": "maintain_status_quo"
+    },
+    {
+      "agent": "Jacqueline Faucitt",
+      "mode": "EXPLORATORY",
+      "context": "Convergence",
+      "time": 46,
+      "cortisol": 0.7454670126655988,
+      "dopamine": 0.9024668232378861,
+      "risk_appetite": 0.0,
+      "action": "normal_operations"
+    },
+    {
+      "agent": "Daniel James Faucitt",
+      "mode": "REWARD",
+      "context": "Convergence",
+      "time": 46,
+      "cortisol": 0.8730670868082271,
+      "dopamine": 1.8693260132546,
+      "risk_appetite": 0.0,
+      "action": "normal_operations"
+    },
+    {
+      "agent": "Jax",
+      "mode": "STRESSED",
+      "context": "Convergence",
+      "time": 46,
+      "cortisol": 0.8730670868082271,
+      "dopamine": 0.3,
+      "risk_appetite": 0.0,
+      "action": "investigate_anomalies"
+    },
+    {
+      "agent": "Peter Andrew Faucitt",
+      "mode": "STRESSED",
+      "context": "Convergence",
+      "time": 47,
+      "cortisol": 0.980585973169109,
+      "dopamine": 0.9879909295154983,
+      "risk_appetite": 0.3,
+      "action": "defensive_posture"
+    },
+    {
+      "agent": "Rynette Farrar",
+      "mode": "STRESSED",
+      "context": "Convergence",
+      "time": 47,
+      "cortisol": 0.961615363323854,
+      "dopamine": 1.1484242006565748,
+      "risk_appetite": 0.3,
+      "action": "defensive_posture"
+    },
+    {
+      "agent": "Danie Bantjies",
+      "mode": "EXPLORATORY",
+      "context": "Convergence",
+      "time": 47,
+      "cortisol": 0.8246454470864845,
+      "dopamine": 0.8426820710356601,
+      "risk_appetite": 0.5,
+      "action": "maintain_status_quo"
+    },
+    {
+      "agent": "Jacqueline Faucitt",
+      "mode": "EXPLORATORY",
+      "context": "Convergence",
+      "time": 47,
+      "cortisol": 0.7318665272999512,
+      "dopamine": 0.8081246219482412,
+      "risk_appetite": 0.0,
+      "action": "normal_operations"
+    },
+    {
+      "agent": "Daniel James Faucitt",
+      "mode": "REWARD",
+      "context": "Convergence",
+      "time": 47,
+      "cortisol": 0.8565522117213693,
+      "dopamine": 1.643633205188666,
+      "risk_appetite": 0.0,
+      "action": "normal_operations"
+    },
+    {
+      "agent": "Jax",
+      "mode": "STRESSED",
+      "context": "Convergence",
+      "time": 47,
+      "cortisol": 0.8565522117213693,
+      "dopamine": 0.3,
+      "risk_appetite": 0.0,
+      "action": "investigate_anomalies"
+    }
+  ],
+  "mode_transitions": [],
+  "stock_snapshots": [],
+  "what_if_scenarios": [
+    {
+      "name": "Early Detection (T-30)",
+      "description": "Fraud detected 18 months earlier at T-30",
+      "outcome": "Antagonists shift to THREAT mode permanently; estimated R6.2M less diverted",
+      "peter_final_mode": "STRESSED",
+      "rynette_final_mode": "STRESSED",
+      "bantjies_final_mode": "STRESSED",
+      "estimated_savings": 6200000
+    },
+    {
+      "name": "Trustee Appointment Blocked",
+      "description": "Bantjies never appointed as FFT trustee (forgery detected)",
+      "outcome": "R18.685M Ketoni payout remains under proper fiduciary control",
+      "peter_final_mode": "STRESSED",
+      "rynette_final_mode": "STRESSED",
+      "bantjies_final_mode": "EXPLORATORY",
+      "estimated_savings": 18685000
+    },
+    {
+      "name": "Maximum Fraud (No Detection)",
+      "description": "Escalating diversion with no resistance or detection",
+      "outcome": "Total diverted: R8,444,832.50",
+      "total_diverted": 8444832.50331043,
+      "total_revenue": 30009593.792758796
+    }
+  ],
+  "phase_analysis": [
+    {
+      "phase": "Foundation",
+      "period": "T-48 to T-38",
+      "diversion_rate": 0.05,
+      "evidence_destruction_rate": 0.0,
+      "agent_modes": {
+        "Peter Andrew Faucitt": {
+          "dominant_mode": "REWARD",
+          "mode_distribution": {
+            "REWARD": 1
+          }
+        }
+      }
+    },
+    {
+      "phase": "Investment",
+      "period": "T-38 to T-28",
+      "diversion_rate": 0.1,
+      "evidence_destruction_rate": 0.0,
+      "agent_modes": {
+        "Peter Andrew Faucitt": {
+          "dominant_mode": "REWARD",
+          "mode_distribution": {
+            "REWARD": 3
+          }
+        },
+        "Rynette Farrar": {
+          "dominant_mode": "REWARD",
+          "mode_distribution": {
+            "REWARD": 2
+          }
+        },
+        "Danie Bantjies": {
+          "dominant_mode": "REWARD",
+          "mode_distribution": {
+            "EXPLORATORY": 1,
+            "REWARD": 2
+          }
+        },
+        "Daniel James Faucitt": {
+          "dominant_mode": "FOCUSED",
+          "mode_distribution": {
+            "FOCUSED": 1,
+            "STRESSED": 1,
+            "THREAT": 1
+          }
+        },
+        "Jax": {
+          "dominant_mode": "STRESSED",
+          "mode_distribution": {
+            "STRESSED": 1
+          }
+        }
+      }
+    },
+    {
+      "phase": "Control Consolidation",
+      "period": "T-28 to T-18",
+      "diversion_rate": 0.15,
+      "evidence_destruction_rate": 0.0,
+      "agent_modes": {
+        "Peter Andrew Faucitt": {
+          "dominant_mode": "REWARD",
+          "mode_distribution": {
+            "REWARD": 2
+          }
+        },
+        "Rynette Farrar": {
+          "dominant_mode": "REWARD",
+          "mode_distribution": {
+            "EXPLORATORY": 1,
+            "REWARD": 6
+          }
+        },
+        "Danie Bantjies": {
+          "dominant_mode": "REWARD",
+          "mode_distribution": {
+            "REWARD": 3,
+            "EXPLORATORY": 1,
+            "SOCIAL": 1
+          }
+        },
+        "Daniel James Faucitt": {
+          "dominant_mode": "THREAT",
+          "mode_distribution": {
+            "STRESSED": 1,
+            "THREAT": 3
+          }
+        },
+        "Jax": {
+          "dominant_mode": "STRESSED",
+          "mode_distribution": {
+            "STRESSED": 1
+          }
+        }
+      }
+    },
+    {
+      "phase": "Exposure & Retaliation",
+      "period": "T-18 to T-10",
+      "diversion_rate": 0.2,
+      "evidence_destruction_rate": 0.1,
+      "agent_modes": {
+        "Peter Andrew Faucitt": {
+          "dominant_mode": "STRESSED",
+          "mode_distribution": {
+            "STRESSED": 3
+          }
+        },
+        "Rynette Farrar": {
+          "dominant_mode": "THREAT",
+          "mode_distribution": {
+            "STRESSED": 1,
+            "THREAT": 2
+          }
+        },
+        "Danie Bantjies": {
+          "dominant_mode": "STRESSED",
+          "mode_distribution": {
+            "STRESSED": 2
+          }
+        },
+        "Jacqueline Faucitt": {
+          "dominant_mode": "RESTING",
+          "mode_distribution": {
+            "RESTING": 1
+          }
+        },
+        "Daniel James Faucitt": {
+          "dominant_mode": "EXPLORATORY",
+          "mode_distribution": {
+            "EXPLORATORY": 1,
+            "STRESSED": 1,
+            "THREAT": 1
+          }
+        }
+      }
+    },
+    {
+      "phase": "Legal Actions",
+      "period": "T-10 to T-3",
+      "diversion_rate": 0.15,
+      "evidence_destruction_rate": 0.2,
+      "agent_modes": {
+        "Peter Andrew Faucitt": {
+          "dominant_mode": "STRESSED",
+          "mode_distribution": {
+            "STRESSED": 3
+          }
+        },
+        "Rynette Farrar": {
+          "dominant_mode": "REWARD",
+          "mode_distribution": {
+            "REWARD": 1
+          }
+        },
+        "Danie Bantjies": {
+          "dominant_mode": "STRESSED",
+          "mode_distribution": {
+            "STRESSED": 1
+          }
+        },
+        "Jacqueline Faucitt": {
+          "dominant_mode": "STRESSED",
+          "mode_distribution": {
+            "STRESSED": 1
+          }
+        },
+        "Daniel James Faucitt": {
+          "dominant_mode": "THREAT",
+          "mode_distribution": {
+            "THREAT": 1
+          }
+        },
+        "Jax": {
+          "dominant_mode": "STRESSED",
+          "mode_distribution": {
+            "STRESSED": 1,
+            "THREAT": 1
+          }
+        }
+      }
+    },
+    {
+      "phase": "Convergence",
+      "period": "T-3 to T-0",
+      "diversion_rate": 0.25,
+      "evidence_destruction_rate": 0.3,
+      "agent_modes": {
+        "Peter Andrew Faucitt": {
+          "dominant_mode": "STRESSED",
+          "mode_distribution": {
+            "STRESSED": 2
+          }
+        },
+        "Rynette Farrar": {
+          "dominant_mode": "THREAT",
+          "mode_distribution": {
+            "THREAT": 1
+          }
+        },
+        "Jacqueline Faucitt": {
+          "dominant_mode": "EXPLORATORY",
+          "mode_distribution": {
+            "EXPLORATORY": 1
+          }
+        },
+        "Daniel James Faucitt": {
+          "dominant_mode": "STRESSED",
+          "mode_distribution": {
+            "STRESSED": 1,
+            "REWARD": 1
+          }
+        }
+      }
+    }
+  ],
+  "des_results": {
+    "legitimate_transactions": 2086,
+    "diverted_transactions": 358,
+    "total_transactions": 2444,
+    "diversion_rate_actual": 0.14648117839607203
+  },
+  "agent_final_states": [
+    {
+      "entity_id": "PERSON_001",
+      "name": "Peter Andrew Faucitt",
+      "role": "primary_perpetrator",
+      "agent_type": "antagonist",
+      "final_mode": "STRESSED",
+      "valence": -0.192187173713785,
+      "arousal": 0.46294303570519557,
+      "cortisol": 0.961615363323854,
+      "dopamine_total": 0.9374299935809686,
+      "norepinephrine": 0.856806773728343,
+      "oxytocin": 0.3924606681494217,
+      "total_memories": 14,
+      "negative_memories": 7,
+      "positive_memories": 7
+    },
+    {
+      "entity_id": "PERSON_002",
+      "name": "Rynette Farrar",
+      "role": "co_conspirator",
+      "agent_type": "antagonist",
+      "final_mode": "STRESSED",
+      "valence": -0.24015417984982795,
+      "arousal": 0.4442404786024872,
+      "cortisol": 0.9430780428062862,
+      "dopamine_total": 1.0747774628086155,
+      "norepinephrine": 0.7939948714335733,
+      "oxytocin": 0.1,
+      "total_memories": 14,
+      "negative_memories": 5,
+      "positive_memories": 9
+    },
+    {
+      "entity_id": "PERSON_007",
+      "name": "Danie Bantjies",
+      "role": "accountant_and_trustee",
+      "agent_type": "antagonist",
+      "final_mode": "EXPLORATORY",
+      "valence": -0.008153390063327956,
+      "arousal": 0.21747644412975278,
+      "cortisol": 0.8092365237793369,
+      "dopamine_total": 0.8098409847329272,
+      "norepinephrine": 0.44699743571678674,
+      "oxytocin": 0.34328195390058747,
+      "total_memories": 11,
+      "negative_memories": 3,
+      "positive_memories": 8
+    },
+    {
+      "entity_id": "PERSON_004",
+      "name": "Jacqueline Faucitt",
+      "role": "first_respondent",
+      "agent_type": "victim",
+      "final_mode": "EXPLORATORY",
+      "valence": -0.005546667781832582,
+      "arousal": 0.278583029306679,
+      "cortisol": 0.7185766774493646,
+      "dopamine_total": 0.7322250832699495,
+      "norepinephrine": 0.3292510108011679,
+      "oxytocin": 0.1,
+      "total_memories": 3,
+      "negative_memories": 1,
+      "positive_memories": 2
+    },
+    {
+      "entity_id": "PERSON_005",
+      "name": "Daniel James Faucitt",
+      "role": "second_respondent",
+      "agent_type": "victim",
+      "final_mode": "REWARD",
+      "valence": 0.07298147730980273,
+      "arousal": 0.45813250039124936,
+      "cortisol": 0.8404145369027999,
+      "dopamine_total": 1.4611604782541,
+      "norepinephrine": 0.5126518194421021,
+      "oxytocin": 0.1,
+      "total_memories": 13,
+      "negative_memories": 11,
+      "positive_memories": 2
+    },
+    {
+      "entity_id": "PERSON_012",
+      "name": "Jax",
+      "role": "witness_and_victim",
+      "agent_type": "victim",
+      "final_mode": "STRESSED",
+      "valence": -0.43484635822709666,
+      "arousal": 0.23386691968847448,
+      "cortisol": 0.8404145369027999,
+      "dopamine_total": 0.3,
+      "norepinephrine": 0.5126518194421021,
+      "oxytocin": 0.1,
+      "total_memories": 4,
+      "negative_memories": 4,
+      "positive_memories": 0
+    }
+  ],
+  "stock_flow_final": {
+    "regima_revenue": {
+      "final_value": 33225209.70692096,
+      "history_points": 96
+    },
+    "vat_pool": {
+      "final_value": 5012931.642067617,
+      "history_points": 96
+    },
+    "intercompany": {
+      "final_value": 740893.59692832,
+      "history_points": 48
+    },
+    "ketoni_receivable": {
+      "final_value": 18685000,
+      "history_points": 0
+    },
+    "shareholder_loan": {
+      "final_value": 0,
+      "history_points": 0
+    },
+    "fft_assets": {
+      "final_value": 18685000,
+      "history_points": 0
+    },
+    "hidden_accounts": {
+      "final_value": 5000000,
+      "history_points": 0
+    },
+    "diverted_revenue": {
+      "final_value": 5133625.219718618,
+      "history_points": 48
+    },
+    "evidence_destroyed": {
+      "final_value": 310.0,
+      "history_points": 18
+    }
+  },
+  "burden_of_proof": {
+    "civil_balance_of_probabilities": {
+      "threshold": 0.5,
+      "achieved": 0.99,
+      "met": true,
+      "simulation_evidence": "All 6 phases show consistent antagonist REWARD/FOCUSED modes during fraud events"
+    },
+    "criminal_beyond_reasonable_doubt": {
+      "threshold": 0.95,
+      "achieved": 0.99,
+      "met": true,
+      "simulation_evidence": "EVENT_119 smoking gun + 3 feedback loops + hormone-modulated escalation pattern"
+    },
+    "charges": [
+      {
+        "charge": "Tax Fraud",
+        "statute": "Tax Admin Act s235",
+        "probability": 0.99,
+        "simulation_support": "Bantjies REWARD mode during EVENT_119 confirms deliberate intent"
+      },
+      {
+        "charge": "Common Law Fraud",
+        "statute": "Common Law",
+        "probability": 0.99,
+        "simulation_support": "Peter FOCUSED mode during trust forgery confirms premeditation"
+      },
+      {
+        "charge": "Forgery",
+        "statute": "Common Law",
+        "probability": 0.99,
+        "simulation_support": "Rynette FOCUSED mode during EVENT_103 confirms deliberate execution"
+      },
+      {
+        "charge": "Perjury",
+        "statute": "Common Law",
+        "probability": 0.99,
+        "simulation_support": "Bantjies SOCIAL mode with Rynette during confirmatory affidavit"
+      },
+      {
+        "charge": "Conspiracy (POCA)",
+        "statute": "POCA",
+        "probability": 0.99,
+        "simulation_support": "Persistent SOCIAL bonding between antagonists across all phases"
+      },
+      {
+        "charge": "Breach of Fiduciary",
+        "statute": "Companies Act s76",
+        "probability": 0.99,
+        "simulation_support": "Bantjies conflict of interest confirmed by dual REWARD modes"
+      },
+      {
+        "charge": "POPIA Violation",
+        "statute": "POPIA s19/s22",
+        "probability": 0.95,
+        "simulation_support": "Credential sharing events trigger CONTROL_ACQUIRED in Rynette"
+      },
+      {
+        "charge": "Companies Act",
+        "statute": "s28/s214",
+        "probability": 0.99,
+        "simulation_support": "Stock-flow model shows R18.685M convergence pattern"
+      }
+    ]
+  }
+}

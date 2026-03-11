@@ -61,11 +61,12 @@
         <a href="#hypergraph">Hypergraph-GNN</a>
         <a href="#lex-transformer">LEX-Transformer</a>
         <a href="#foreknowledge">Foreknowledge Chain</a>
+        <a href="#digitwin" style="color:#bc8cff;font-weight:bold">DigiTwin (NEW)</a>
     </nav>
 
     <div class="container">
         <h1>Analytical Models Dashboard</h1>
-        <p class="subtitle">Case 2025-137857 | Last Updated: 2026-03-07 | Source: 1,632 Bantjies-Farrar Communications</p>
+        <p class="subtitle">Case 2025-137857 | Last Updated: 2026-03-11 | Source: 1,632 Bantjies-Farrar Communications + DigiTwin Simulation</p>
 
         <div class="smoking-gun">
             <h2>SMOKING GUN: EVENT_119</h2>
@@ -267,8 +268,78 @@
             <tr><td>LEX-Transformer</td><td>JSON</td><td><a href="https://github.com/cogpy/revstream1/blob/main/data_models/lex_transformer_model_2026_03_07.json">lex_transformer_model_2026_03_07.json</a></td></tr>
         </table>
 
+        <h2 id="digitwin">6. DigiTwin Multi-Paradigm Simulation (NEW)</h2>
+        <div class="model-grid">
+            <div class="model-card">
+                <h3>Agent-Based Model (ABM)</h3>
+                <div class="stats">
+                    <div class="stat"><div class="value">6</div><div class="label">VES Agents</div></div>
+                    <div class="stat"><div class="value">16</div><div class="label">Hormone Channels</div></div>
+                    <div class="stat"><div class="value">10</div><div class="label">Cognitive Modes</div></div>
+                    <div class="stat"><div class="value">48</div><div class="label">Months Simulated</div></div>
+                </div>
+                <p>Each key actor modeled as a Vorticog agent with Big Five personality, SimsFreePlay needs system, and 16-channel Virtual Endocrine System driving emergent cognitive modes.</p>
+            </div>
+            <div class="model-card">
+                <h3>System Dynamics (SD)</h3>
+                <div class="stats">
+                    <div class="stat"><div class="value">9</div><div class="label">Financial Stocks</div></div>
+                    <div class="stat"><div class="value">R5.1M</div><div class="label">Diverted</div></div>
+                    <div class="stat"><div class="value">R18.7M</div><div class="label">Ketoni</div></div>
+                    <div class="stat"><div class="value">3</div><div class="label">Feedback Loops</div></div>
+                </div>
+                <p>Stock-flow model tracking R33.2M revenue through the conspiracy network with 3 positive feedback loops.</p>
+            </div>
+            <div class="model-card">
+                <h3>Discrete-Event Simulation (DES)</h3>
+                <div class="stats">
+                    <div class="stat"><div class="value">2,444</div><div class="label">Transactions</div></div>
+                    <div class="stat"><div class="value">14.6%</div><div class="label">Diversion Rate</div></div>
+                    <div class="stat"><div class="value">2,086</div><div class="label">Legitimate</div></div>
+                    <div class="stat"><div class="value">358</div><div class="label">Diverted</div></div>
+                </div>
+                <p>CogSim-PML transaction flow model routing Shopify orders through payment gateway with probabilistic diversion to ABSA accounts.</p>
+            </div>
+            <div class="model-card">
+                <h3>What-If Scenarios</h3>
+                <div class="stats">
+                    <div class="stat"><div class="value">R6.2M</div><div class="label">Early Detection</div></div>
+                    <div class="stat"><div class="value">R18.7M</div><div class="label">Trustee Blocked</div></div>
+                    <div class="stat"><div class="value">R8.4M</div><div class="label">Max Fraud</div></div>
+                    <div class="stat"><div class="value">3</div><div class="label">Scenarios</div></div>
+                </div>
+                <p>Counterfactual simulations demonstrate the critical impact of early detection and trustee appointment blocking.</p>
+            </div>
+        </div>
+
+        <h3>DigiTwin Visualizations</h3>
+        <div class="model-grid">
+            <div class="diagram-container">
+                <a href="../simulation/digitwin_agent_modes.png"><img src="../simulation/digitwin_agent_modes.png" alt="Agent Cognitive Modes" style="max-width:100%"></a>
+            </div>
+            <div class="diagram-container">
+                <a href="../simulation/digitwin_stock_flow.png"><img src="../simulation/digitwin_stock_flow.png" alt="Stock-Flow Financial Model" style="max-width:100%"></a>
+            </div>
+        </div>
+        <div class="model-grid">
+            <div class="diagram-container">
+                <a href="../simulation/digitwin_burden_of_proof.png"><img src="../simulation/digitwin_burden_of_proof.png" alt="Burden of Proof" style="max-width:100%"></a>
+            </div>
+            <div class="diagram-container">
+                <a href="../simulation/digitwin_phase_analysis.png"><img src="../simulation/digitwin_phase_analysis.png" alt="Phase Analysis" style="max-width:100%"></a>
+            </div>
+        </div>
+
+        <h3>DigiTwin Files</h3>
+        <table>
+            <tr><th>File</th><th>Type</th><th>Description</th></tr>
+            <tr><td><a href="../simulation/DIGITWIN_REPORT_2026_03_11.md">DIGITWIN_REPORT_2026_03_11.md</a></td><td>Report</td><td>Full simulation report with analysis</td></tr>
+            <tr><td><a href="../simulation/DIGITWIN_RESULTS_2026_03_11.json">DIGITWIN_RESULTS_2026_03_11.json</a></td><td>JSON</td><td>Raw simulation results data</td></tr>
+            <tr><td><a href="../simulation/digitwin_revstream_simulation.py">digitwin_revstream_simulation.py</a></td><td>Python</td><td>Simulation source code (CogSim-PML + VES)</td></tr>
+        </table>
+
         <p style="margin-top:2rem;color:var(--text);font-size:0.8rem;text-align:center">
-            Generated: 2026-03-07 | LEX Investigation System | Case 2025-137857
+            Generated: 2026-03-11 | LEX Investigation System + DigiTwin Framework | Case 2025-137857
         </p>
     </div>
 </body>

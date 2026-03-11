@@ -47,3 +47,16 @@ A multi-paradigm model of the legal reasoning architecture.
 An agent-based model of the legal reasoning process.
 - **File:** [lex.nlogo](./lex.nlogo)
 - **Key Features:** Visualizes evidence items flowing through the analysis pipeline, interacting with 63 Level 1 principles, 7 attention lenses, 4 inference engines, and 128 legal reasoning skills.
+
+## DigiTwin Multi-Paradigm Simulation (NEW)
+
+The DigiTwin framework models the case as a multi-paradigm digital twin with hormone-modulated agent behavior, combining System Dynamics, Discrete-Event Simulation, and Agent-Based Modeling.
+
+- **Report:** [DIGITWIN_REPORT_2026_03_11.md](./DIGITWIN_REPORT_2026_03_11.md)
+- **Results (JSON):** [DIGITWIN_RESULTS_2026_03_11.json](./DIGITWIN_RESULTS_2026_03_11.json)
+- **Script:** [digitwin_revstream_simulation.py](./digitwin_revstream_simulation.py)
+- **Visualizations:**
+  - [Agent Cognitive Modes](./digitwin_agent_modes.png)
+  - [Stock-Flow Financial Model](./digitwin_stock_flow.png)
+  - [Burden of Proof Assessment](./digitwin_burden_of_proof.png)
+  - [Phase Analysis](./digitwin_phase_analysis.png)
