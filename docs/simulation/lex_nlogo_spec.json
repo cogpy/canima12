@@ -1,0 +1,189 @@
+{
+  "name": "LEX_DigiTwin_2025-137857",
+  "description": "Legal Digital Twin NetLogo model for Revenue Stream Hijacking. Combines SD (financial flows), DES (fraud events), ABM (agent behavior with VES hormones).",
+  "version": "NetLogo 6.4.0",
+  "world": {
+    "min_pxcor": -25,
+    "max_pxcor": 25,
+    "min_pycor": -25,
+    "max_pycor": 25,
+    "patch_size": 10.0,
+    "wrap_x": false,
+    "wrap_y": false,
+    "frame_rate": 30.0
+  },
+  "globals": [
+    "legitimate-revenue",
+    "diverted-revenue",
+    "legal-exposure",
+    "evidence-strength",
+    "diversion-rate",
+    "current-phase",
+    "total-months",
+    "fraud-events",
+    "detection-events"
+  ],
+  "breeds": [
+    {
+      "plural": "perpetrators",
+      "singular": "perpetrator"
+    },
+    {
+      "plural": "victims",
+      "singular": "victim"
+    },
+    {
+      "plural": "accomplices",
+      "singular": "accomplice"
+    },
+    {
+      "plural": "employees",
+      "singular": "employee"
+    }
+  ],
+  "breed_vars": {
+    "turtles": [
+      "cortisol",
+      "dopamine",
+      "serotonin",
+      "norepinephrine",
+      "valence",
+      "arousal",
+      "agent-role",
+      "agent-label"
+    ]
+  },
+  "patch_vars": [],
+  "procedures": {
+    "setup": "clear-all\\nset legitimate-revenue 5000000\\nset diverted-revenue 0\\nset legal-exposure 0\\nset evidence-strength 0\\nset diversion-rate 0.15\\nset current-phase 1\\nset total-months 54\\nset fraud-events 0\\nset detection-events 0\\ncreate-perpetrators 1 [\\n  set agent-label \"Peter Faucitt\"\\n  set agent-role \"perpetrator\"\\n  set cortisol 0 set dopamine 0 set serotonin 0 set norepinephrine 0\\n  set valence -0.3 set arousal 0.2\\n  setxy -10 5\\n  set color red\\n  set size 2\\n]\\ncreate-accomplices 1 [\\n  set agent-label \"Rynette Farrar\"\\n  set agent-role \"accomplice\"\\n  set cortisol 0 set dopamine 0 set serotonin 0 set norepinephrine 0\\n  set valence -0.2 set arousal 0.4\\n  setxy -5 0\\n  set color yellow\\n  set size 2\\n]\\ncreate-accomplices 1 [\\n  set agent-label \"Danie Bantjies\"\\n  set agent-role \"accomplice\"\\n  set cortisol 0 set dopamine 0 set serotonin 0 set norepinephrine 0\\n  set valence -0.1 set arousal 0.3\\n  setxy 0 0\\n  set color yellow\\n  set size 2\\n]\\ncreate-victims 1 [\\n  set agent-label \"Daniel Faucitt\"\\n  set agent-role \"victim\"\\n  set cortisol 0 set dopamine 0 set serotonin 0 set norepinephrine 0\\n  set valence 0.3 set arousal 0.1\\n  setxy 5 -5\\n  set color green\\n  set size 2\\n]\\ncreate-victims 1 [\\n  set agent-label \"Jacqui Faucitt\"\\n  set agent-role \"victim\"\\n  set cortisol 0 set dopamine 0 set serotonin 0 set norepinephrine 0\\n  set valence 0.2 set arousal 0.1\\n  setxy 10 -5\\n  set color green\\n  set size 2\\n]\\ncreate-employees 1 [\\n  set agent-label \"Linda Kruger\"\\n  set agent-role \"employee\"\\n  set cortisol 0 set dopamine 0 set serotonin 0 set norepinephrine 0\\n  set valence 0.0 set arousal 0.0\\n  setxy 15 0\\n  set color yellow\\n  set size 2\\n]\\ncreate-employees 1 [\\n  set agent-label \"Gayane Williams\"\\n  set agent-role \"employee\"\\n  set cortisol 0 set dopamine 0 set serotonin 0 set norepinephrine 0\\n  set valence 0.0 set arousal 0.0\\n  setxy 20 0\\n  set color yellow\\n  set size 2\\n]\\ncreate-accomplices 1 [\\n  set agent-label \"Darren Farrar\"\\n  set agent-role \"accomplice\"\\n  set cortisol 0 set dopamine 0 set serotonin 0 set norepinephrine 0\\n  set valence 0.0 set arousal 0.1\\n  setxy 25 0\\n  set color yellow\\n  set size 2\\n]\\nreset-ticks",
+    "go": "if ticks >= total-months [ stop ]\\n;; SD: Financial flows\\nlet diversion diversion-rate * legitimate-revenue / 12\\nset legitimate-revenue legitimate-revenue - diversion\\nset diverted-revenue diverted-revenue + diversion\\n;; DES: Random fraud events\\nif random-float 1 < 0.3 [\\n  set fraud-events fraud-events + 1\\n  set legal-exposure legal-exposure + 100000\\n  ask perpetrators [ set cortisol min list 1 (cortisol + 0.1) set dopamine min list 1 (dopamine + 0.05) ]\\n]\\n;; ABM: Agent hormone decay\\nask turtles [\\n  set cortisol cortisol * 0.97\\n  set dopamine dopamine * 0.97\\n  set serotonin serotonin * 0.97\\n  set norepinephrine norepinephrine * 0.97\\n]\\n;; Phase transitions\\nupdate-phase\\ntick",
+    "update-phase": "if ticks >= 0 and ticks < 12 [ set current-phase 1 ]\\nif ticks >= 12 and ticks < 18 [ set current-phase 2 ]\\nif ticks >= 18 and ticks < 36 [ set current-phase 3 ]\\nif ticks >= 36 and ticks < 42 [ set current-phase 4 ]\\nif ticks >= 42 and ticks < 48 [ set current-phase 5 ]\\nif ticks >= 48 and ticks < 54 [ set current-phase 6 ]\\n"
+  },
+  "reporters": {
+    "total-diverted": "diverted-revenue",
+    "avg-perpetrator-cortisol": "mean [cortisol] of perpetrators"
+  },
+  "sliders": [
+    {
+      "name": "initial-diversion-rate",
+      "min": 0,
+      "max": 0.5,
+      "value": 0.15,
+      "step": 0.01,
+      "units": "NIL"
+    }
+  ],
+  "switches": [],
+  "choosers": [],
+  "buttons": [
+    {
+      "name": "setup",
+      "command": "setup",
+      "forever": false
+    },
+    {
+      "name": "go",
+      "command": "go",
+      "forever": true
+    }
+  ],
+  "monitors": [
+    {
+      "name": "Legitimate Revenue",
+      "reporter": "legitimate-revenue",
+      "decimals": 0
+    },
+    {
+      "name": "Diverted Revenue",
+      "reporter": "diverted-revenue",
+      "decimals": 0
+    },
+    {
+      "name": "Legal Exposure",
+      "reporter": "legal-exposure",
+      "decimals": 0
+    },
+    {
+      "name": "Phase",
+      "reporter": "current-phase",
+      "decimals": 0
+    },
+    {
+      "name": "Fraud Events",
+      "reporter": "fraud-events",
+      "decimals": 0
+    }
+  ],
+  "plots": [
+    {
+      "name": "Financial Stocks",
+      "x_label": "Month",
+      "y_label": "Rands",
+      "x_min": 0,
+      "x_max": 54,
+      "y_min": 0,
+      "y_max": 10000000,
+      "autoplot_x": true,
+      "autoplot_y": true,
+      "pens": [
+        {
+          "name": "Legitimate",
+          "color": -10899396,
+          "mode": 0,
+          "code": "plot legitimate-revenue"
+        },
+        {
+          "name": "Diverted",
+          "color": -2674135,
+          "mode": 0,
+          "code": "plot diverted-revenue"
+        },
+        {
+          "name": "Exposure",
+          "color": -955883,
+          "mode": 0,
+          "code": "plot legal-exposure"
+        }
+      ]
+    },
+    {
+      "name": "Agent Cortisol",
+      "x_label": "Month",
+      "y_label": "Level",
+      "x_min": 0,
+      "x_max": 54,
+      "y_min": 0,
+      "y_max": 1,
+      "autoplot_x": true,
+      "autoplot_y": true,
+      "pens": [
+        {
+          "name": "Perpetrators",
+          "color": -2674135,
+          "mode": 0,
+          "code": "plot mean [cortisol] of perpetrators"
+        },
+        {
+          "name": "Victims",
+          "color": -10899396,
+          "mode": 0,
+          "code": "if any? victims [ plot mean [cortisol] of victims ]"
+        }
+      ]
+    }
+  ],
+  "experiments": [
+    {
+      "name": "diversion-sweep",
+      "repetitions": 5,
+      "setup": "setup",
+      "go": "go",
+      "time_limit": 54,
+      "metrics": [
+        "diverted-revenue",
+        "legal-exposure",
+        "fraud-events"
+      ]
+    }
+  ]
+}

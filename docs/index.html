@@ -162,7 +162,7 @@
         <h1>Case 2025-137857</h1>
         <p>Revenue Stream Hijacking: Comprehensive Evidence Repository</p>
         <p style="font-size: 0.9rem; margin-top: 0.5rem;">Jacqueline Faucitt &amp; Daniel James Faucitt (Respondents)</p>
-        <p style="font-size: 0.85rem; margin-top: 0.5rem; background: rgba(255,255,255,0.2); display: inline-block; padding: 0.25rem 0.75rem; border-radius: 12px;">Updated: 2026-03-12 | LEX-SIM-NN(Neuro-NN(DigiTwin)) v12 Composed Simulation + Red-Team Critique</p>
+        <p style="font-size: 0.85rem; margin-top: 0.5rem; background: rgba(255,255,255,0.2); display: inline-block; padding: 0.25rem 0.75rem; border-radius: 12px;">Updated: 2026-03-12 | LEX-SIM-NN(Neuro-NN(DigiTwin[ALP&lt;=&gt;NLogo])) v13 &mdash; Per-Filing Red-Team + Monte Carlo Cross-Validation</p>
     </div>
 
     <div class="container">
@@ -182,8 +182,8 @@
                     <div class="label">Entities Tracked</div>
                 </div>
                 <div class="stat-box" style="background: linear-gradient(135deg, #f59e0b 0%, #d97706 100%);">
-                    <div class="number">84-87%</div>
-                    <div class="label">Criminal Score (v12)</div>
+                    <div class="number">80-83%</div>
+                    <div class="label">Criminal Score (v13 honest)</div>
                 </div>
                 <div class="stat-box alert">
                     <div class="number">EA-18</div>
@@ -513,99 +513,137 @@
                 </div>
             </div>
         </div>
-        <!-- v12: Composed Simulation Results (2026-03-12) -->
+        <!-- v13: Composed Simulation Results (2026-03-12) -->
         <div class="card" style="border: 3px solid #764ba2; position: relative;">
-            <div style="position:absolute;top:-12px;left:20px;background:#764ba2;color:white;padding:2px 12px;border-radius:4px;font-weight:700;font-size:0.85rem;">COMPOSED SIMULATION v12 &mdash; 2026-03-12</div>
+            <div style="position:absolute;top:-12px;left:20px;background:#764ba2;color:white;padding:2px 12px;border-radius:4px;font-weight:700;font-size:0.85rem;">COMPOSED SIMULATION v13 &mdash; 2026-03-12</div>
             <h2 style="color:#764ba2;">LEX-SIM-NN(Neuro-NN(DigiTwin[ALP&lt;=&gt;NLogo]))</h2>
-            <p>Three-layer composed simulation: <strong>DigiTwin</strong> (DES+ABM+SD, 8 agents, 54 months) &rarr; <strong>LEX-SIM-NN</strong> (24-dim evidence vectors, 7-lens attention, 100 epochs) &rarr; <strong>Neuro-NN</strong> (meta-cognitive red-team critique with adversarial weakness detection).</p>
+            <p>Three-layer composed simulation with <strong>7 improvements over v12</strong>: per-filing red-team critique, Monte Carlo cross-validation (10 seeds), evidence heatmap, training convergence tracking, all agents active, dynamic vulnerability detection, and honest overconfidence adjustment.</p>
 
             <div class="stats">
                 <div class="stat-box">
                     <div class="number">8</div>
-                    <div class="label">VES-Modulated Agents</div>
+                    <div class="label">VES-Modulated Agents (all active)</div>
                 </div>
                 <div class="stat-box">
                     <div class="number">54</div>
                     <div class="label">Months Simulated</div>
                 </div>
                 <div class="stat-box">
-                    <div class="number">R33.2M</div>
-                    <div class="label">Diverted Revenue</div>
+                    <div class="number">0.998</div>
+                    <div class="label">ALP/NLogo Convergence</div>
                 </div>
                 <div class="stat-box" style="background: linear-gradient(135deg, #16a34a 0%, #15803d 100%);">
-                    <div class="number">99.6%</div>
+                    <div class="number">99.9%</div>
                     <div class="label">LEX Civil Probability</div>
                 </div>
                 <div class="stat-box" style="background: linear-gradient(135deg, #f59e0b 0%, #d97706 100%);">
-                    <div class="number">0.83</div>
-                    <div class="label">Robustness Score</div>
+                    <div class="number">93.9%</div>
+                    <div class="label">Adjusted Criminal (Neuro-NN)</div>
+                </div>
+                <div class="stat-box" style="background: linear-gradient(135deg, #dc2626 0%, #991b1b 100%);">
+                    <div class="number">0.50</div>
+                    <div class="label">Robustness (3 vulns)</div>
                 </div>
             </div>
 
-            <h3>Entity Corrections (v12)</h3>
+            <h3>v13 Improvements over v12</h3>
             <table class="timeline-table">
-                <thead><tr><th>Entity</th><th>Correction</th></tr></thead>
+                <thead><tr><th>#</th><th>Improvement</th><th>Impact</th></tr></thead>
                 <tbody>
-                    <tr><td><strong>Linda Kruger</strong></td><td>Office employee (bookkeeper/sales) &mdash; NOT a family member. Previously incorrectly described as &ldquo;Rynette&rsquo;s sister.&rdquo;</td></tr>
-                    <tr><td><strong>Gayane Williams</strong></td><td>Office employee &mdash; NOT a family member.</td></tr>
+                    <tr><td>1</td><td><strong>Per-filing red-team critique</strong></td><td>Each of 7 filings gets its own vulnerability analysis with targeted recommendations</td></tr>
+                    <tr><td>2</td><td><strong>Monte Carlo cross-validation</strong> (10 seeds)</td><td>ALP/NLogo convergence: 0.998 (was 0.34 in v12)</td></tr>
+                    <tr><td>3</td><td><strong>Evidence heatmap</strong></td><td>Per-event category breakdown exported to CSV for visualization</td></tr>
+                    <tr><td>4</td><td><strong>Training convergence tracking</strong></td><td>Loss ratio: 0.000026 (150 epochs, excellent convergence)</td></tr>
+                    <tr><td>5</td><td><strong>All 8 agents active</strong></td><td>Linda (11 events), Gayane (8), Darren (4), Jacqui (12) &mdash; no longer RESTING</td></tr>
+                    <tr><td>6</td><td><strong>Overconfidence detection</strong></td><td>MetaCognition adjusts criminal from 99.9% to 93.9% due to 3 vulnerabilities</td></tr>
+                    <tr><td>7</td><td><strong>Honest assessment</strong></td><td>3 vulnerabilities identified vs 1 in v12 &mdash; Financial and Forensic now flagged</td></tr>
                 </tbody>
             </table>
 
-            <h3>Neuro-NN Red-Team Critique</h3>
+            <h3>Neuro-NN Red-Team Critique (v13)</h3>
             <div class="critical-box">
-                <p><strong>1 Critical Vulnerability Identified: TESTIMONIAL EVIDENCE</strong></p>
-                <p>Score: 0.50 | Threshold: 0.75 | Gap: 0.25</p>
-                <p>All other categories (Temporal, Financial, Documentary, Forensic, Relational) <strong>exceed thresholds</strong>.</p>
+                <p><strong>3 Vulnerabilities Identified (v12 found only 1)</strong></p>
+                <table class="timeline-table">
+                    <thead><tr><th>Category</th><th>Score</th><th>Threshold</th><th>Gap</th><th>Status</th></tr></thead>
+                    <tbody>
+                        <tr><td>Temporal</td><td>0.89</td><td>0.75</td><td>&mdash;</td><td style="color:#16a34a;font-weight:700;">PASS</td></tr>
+                        <tr class="critical-row"><td><strong>Financial</strong></td><td>0.64</td><td>0.75</td><td>0.11</td><td style="color:#d97706;font-weight:700;">FAIL</td></tr>
+                        <tr><td>Documentary</td><td>0.87</td><td>0.75</td><td>&mdash;</td><td style="color:#16a34a;font-weight:700;">PASS</td></tr>
+                        <tr class="critical-row"><td><strong>Testimonial</strong></td><td>0.45</td><td>0.75</td><td>0.30</td><td style="color:#dc2626;font-weight:700;">CRITICAL</td></tr>
+                        <tr class="critical-row"><td><strong>Forensic</strong></td><td>0.73</td><td>0.75</td><td>0.02</td><td style="color:#d97706;font-weight:700;">BORDERLINE</td></tr>
+                        <tr><td>Relational</td><td>0.83</td><td>0.75</td><td>&mdash;</td><td style="color:#16a34a;font-weight:700;">PASS</td></tr>
+                    </tbody>
+                </table>
             </div>
 
-            <h3>Recommended Witness Affidavits to Close Gap</h3>
+            <h3>Agent States (all active in v13)</h3>
             <table class="timeline-table">
-                <thead><tr><th>Witness</th><th>Testimony</th><th>Impact</th></tr></thead>
+                <thead><tr><th>Agent</th><th>Role</th><th>Mode</th><th>Events</th></tr></thead>
+                <tbody>
+                    <tr><td>Peter Faucitt</td><td>Perpetrator</td><td><strong>STRESSED</strong></td><td>102</td></tr>
+                    <tr><td>Rynette Farrar</td><td>Accomplice</td><td><strong>THREAT</strong></td><td>148</td></tr>
+                    <tr><td>Danie Bantjies</td><td>Accomplice</td><td><strong>THREAT</strong></td><td>53</td></tr>
+                    <tr><td>Daniel Faucitt</td><td>Victim</td><td><strong>THREAT</strong></td><td>26</td></tr>
+                    <tr><td>Jacqui Faucitt</td><td>Victim</td><td><strong>THREAT</strong></td><td>12</td></tr>
+                    <tr><td>Linda Kruger</td><td>Employee</td><td><strong>THREAT</strong></td><td>11</td></tr>
+                    <tr><td>Gayane Williams</td><td>Employee</td><td><strong>STRESSED</strong></td><td>8</td></tr>
+                    <tr><td>Darren Farrar</td><td>Accomplice</td><td><strong>REWARD</strong></td><td>4</td></tr>
+                </tbody>
+            </table>
+
+            <h3>Cross-Validated Filing Scores (v13)</h3>
+            <table class="timeline-table">
+                <thead><tr><th>Filing</th><th>Score</th><th>Burden</th><th>Status</th><th>Weakest Category</th></tr></thead>
+                <tbody>
+                    <tr><td>CIPC Companies Act Complaint</td><td>82.63%</td><td>50%</td><td style="color:#16a34a;font-weight:700;">MET</td><td>Testimonial</td></tr>
+                    <tr><td>FIC Suspicious Transaction Report</td><td>81.24%</td><td>50%</td><td style="color:#16a34a;font-weight:700;">MET</td><td>Testimonial</td></tr>
+                    <tr><td>Civil Action (s163 Oppression)</td><td>81.14%</td><td>50%</td><td style="color:#16a34a;font-weight:700;">MET</td><td>Testimonial</td></tr>
+                    <tr><td>Professional Misconduct (Bantjies)</td><td>80.56%</td><td>50%</td><td style="color:#16a34a;font-weight:700;">MET</td><td>Testimonial</td></tr>
+                    <tr class="critical-row"><td><strong>NPA Tax Fraud Report</strong></td><td>81.14%</td><td>95%</td><td style="color:#dc2626;font-weight:700;">GAP (13.86%)</td><td>Testimonial</td></tr>
+                    <tr class="critical-row"><td><strong>POPIA Criminal Complaint</strong></td><td>80.49%</td><td>95%</td><td style="color:#dc2626;font-weight:700;">GAP (14.51%)</td><td>Testimonial</td></tr>
+                    <tr class="critical-row"><td><strong>Commercial Crime Submission</strong></td><td>80.39%</td><td>95%</td><td style="color:#dc2626;font-weight:700;">GAP (14.61%)</td><td>Testimonial</td></tr>
+                </tbody>
+            </table>
+
+            <h3>Action Required: Close the Testimonial Gap</h3>
+            <table class="timeline-table">
+                <thead><tr><th>Witness</th><th>Testimony</th><th>Est. Impact</th></tr></thead>
                 <tbody>
                     <tr><td><strong>FNB Legal Department</strong></td><td>Confirm mandate fraud, unauthorized banking changes</td><td>+5%</td></tr>
-                    <tr><td><strong>Stock2Shop Officials</strong></td><td>Confirm API breakage timeline</td><td>+3%</td></tr>
+                    <tr><td><strong>Stock2Shop Officials</strong></td><td>Confirm API breakage timeline, unauthorized changes</td><td>+3%</td></tr>
                     <tr><td><strong>Sage South Africa</strong></td><td>Confirm false death claim used to transfer account</td><td>+4%</td></tr>
-                    <tr><td><strong>Linda Kruger</strong></td><td>Confirm instructions received for banking detail changes</td><td>+5%</td></tr>
+                    <tr><td><strong>Linda Kruger</strong></td><td>Confirm instructions received for 39+ banking redirect emails</td><td>+5%</td></tr>
                     <tr><td><strong>Gayane Williams</strong></td><td>Confirm instructions received for domain change</td><td>+3%</td></tr>
                 </tbody>
             </table>
+            <p style="margin-top:0.5rem;"><strong>Total estimated impact with all 5 witnesses: +20%</strong> &mdash; would push all criminal filings above 95%.</p>
 
-            <h3>Cross-Validated Filing Scores</h3>
-            <table class="timeline-table">
-                <thead><tr><th>Filing</th><th>Composed Score</th><th>Burden</th><th>Status</th></tr></thead>
-                <tbody>
-                    <tr><td>CIPC Companies Act Complaint</td><td>87.09%</td><td>50%</td><td style="color:#16a34a;font-weight:700;">MET</td></tr>
-                    <tr><td>FIC Suspicious Transaction Report</td><td>86.55%</td><td>50%</td><td style="color:#16a34a;font-weight:700;">MET</td></tr>
-                    <tr><td>Civil Action (s163 Oppression)</td><td>86.07%</td><td>50%</td><td style="color:#16a34a;font-weight:700;">MET</td></tr>
-                    <tr><td>Professional Misconduct (Bantjies)</td><td>85.31%</td><td>50%</td><td style="color:#16a34a;font-weight:700;">MET</td></tr>
-                    <tr class="critical-row"><td><strong>NPA Tax Fraud Report</strong></td><td>85.33%</td><td>95%</td><td style="color:#d97706;font-weight:700;">NEAR (gap: 9.67%)</td></tr>
-                    <tr class="critical-row"><td><strong>POPIA Criminal Complaint</strong></td><td>84.96%</td><td>95%</td><td style="color:#d97706;font-weight:700;">NEAR (gap: 10.04%)</td></tr>
-                    <tr class="critical-row"><td><strong>Commercial Crime Submission</strong></td><td>84.28%</td><td>95%</td><td style="color:#d97706;font-weight:700;">NEAR (gap: 10.72%)</td></tr>
-                </tbody>
-            </table>
-
-            <h3>Red-Team Defence Critiques Addressed</h3>
+            <h3>Red-Team Defence Critiques (6 addressed)</h3>
             <ol style="margin:1rem 0;padding-left:2rem;">
-                <li><strong>Testimonial Gap</strong> &mdash; Addressed by documentary self-authentication principle (100+ emails are direct admissions)</li>
-                <li><strong>Alternative Explanation for Revenue Redirection</strong> &mdash; Defeated by 4 independent evidence chains</li>
+                <li><strong>Testimonial Gap</strong> &mdash; Documentary self-authentication (100+ emails as direct admissions); 5 witnesses available</li>
+                <li><strong>Financial Evidence Gap</strong> &mdash; FNB statements, ABSA records, Sage data provide verifiable transaction records (not estimates)</li>
+                <li><strong>Alternative Explanation</strong> &mdash; Defeated by 4 independent evidence chains (banking, domain, Sage, SARS)</li>
                 <li><strong>&ldquo;Manufacture&rdquo; Email Context</strong> &mdash; Defeated by surrounding SARS eFiling impersonation evidence</li>
                 <li><strong>Interdict Validity</strong> &mdash; Defeated by void ab initio doctrine (12+ material non-disclosures)</li>
                 <li><strong>Entity Correction Credibility</strong> &mdash; Proactive correction demonstrates evidence integrity</li>
             </ol>
 
             <div style="margin-top:1.5rem;">
-                <a href="simulation/COMPOSED_REPORT_2026_03_12_v12.md" class="evidence-link">Full Composed Report (v12)</a>
-                <a href="simulation/COMPOSED_RESULTS_2026_03_12_v12.json" class="evidence-link">Raw Results (JSON)</a>
-                <a href="simulation/DIGITWIN_REPORT_2026_03_11.md" class="evidence-link">DigiTwin Report</a>
-                <a href="simulation/LEX_SIM_NN_REPORT_2026_03_10.md" class="evidence-link">LEX-SIM-NN Report</a>
-                <a href="filings/index.md" class="evidence-link red">Master Filing Index (v12)</a>
+                <a href="simulation/COMPOSED_REPORT_2026_03_12_v13.md" class="evidence-link">Full Composed Report (v13)</a>
+                <a href="simulation/COMPOSED_RESULTS_2026_03_12_v13.json" class="evidence-link">Raw Results (JSON)</a>
+                <a href="simulation/EVIDENCE_HEATMAP_2026_03_12_v13.csv" class="evidence-link">Evidence Heatmap (CSV)</a>
+                <a href="simulation/LEX_DigiTwin_2025-137857.alp" class="evidence-link">AnyLogic Model (.alp)</a>
+                <a href="simulation/LEX_DigiTwin_2025-137857.nlogo" class="evidence-link">NetLogo Model (.nlogo)</a>
+                <a href="simulation/case_spec_v13.json" class="evidence-link">Case Specification (JSON)</a>
+                <a href="simulation/COMPOSED_REPORT_2026_03_12_v12.md" class="evidence-link" style="opacity:0.7;">Previous: v12 Report</a>
+                <a href="filings/index.md" class="evidence-link red">Master Filing Index</a>
                 <a href="models/index.html" class="evidence-link">Analytical Models Dashboard</a>
             </div>
         </div>
     </div>
 
     <footer>
-        <p>Case 2025-137857 | Last Updated: 2026-03-12 | Composed Simulation v12: LEX-SIM-NN(Neuro-NN(DigiTwin[ALP&lt;=&gt;NLogo])) + Red-Team Critique + 355 Forensic EMLs + 1,632 Bantjies-Farrar Messages</p>
+        <p>Case 2025-137857 | Last Updated: 2026-03-12 | Composed Simulation v13: LEX-SIM-NN(Neuro-NN(DigiTwin[ALP&lt;=&gt;NLogo])) + Per-Filing Red-Team + Monte Carlo XV + Evidence Heatmap</p>
         <p>Repository: <a href="https://github.com/cogpy/revstream1" style="color: #667eea;">cogpy/revstream1</a> | Evidence: <a href="https://github.com/cogpy/ad-res-j7" style="color: #667eea;">cogpy/ad-res-j7</a></p>
     </footer>
 </body>

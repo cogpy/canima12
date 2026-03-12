@@ -5,12 +5,12 @@ title: Master Filing Index
 
 # Master Filing Index
 
-**Last Updated:** 2026-03-12 (v12)
+**Last Updated:** 2026-03-12 (v13)
 **Case Number:** 2025-137857
 
-This index provides direct links to the latest versions of all formal legal applications, complaints, and strategic analysis documents prepared for the Revenue Stream Hijacking case. All filings are quantitatively assessed via the **composed LEX-SIM-NN(Neuro-NN(DigiTwin))** differentiable legal simulation pipeline with meta-cognitive red-team critique, and supported by 355 forensically extracted EML files plus 7 new legal documents (Feb-Mar 2026).
+This index provides direct links to the latest versions of all formal legal applications, complaints, and strategic analysis documents prepared for the Revenue Stream Hijacking case. All filings are quantitatively assessed via the **composed LEX-SIM-NN(Neuro-NN(DigiTwin[ALP<=>NLogo]))** v13 differentiable legal simulation pipeline with per-filing meta-cognitive red-team critique, Monte Carlo cross-validation (10 seeds), evidence heatmap, and overconfidence detection.
 
-## v12 Entity Corrections
+## v13 Entity Corrections
 
 | Entity | Correction |
 |--------|------------|
@@ -51,17 +51,20 @@ Seven new legal documents were analyzed and integrated into the case. A comprehe
 | [New Documents Analysis](../evidence/new_documents_feb_mar_2026.md) | 7 new documents catalog | Contempt, Void Ab Initio, POPIA, Rule 7(1)/30/30A |
 | [Integrated Analysis](../evidence/integrated_analysis_2026_03_12.md) | Cross-referenced analysis | Updated entities, relations, events, timeline |
 
-## v12 Composed Simulation Assessment
+## v13 Composed Simulation Assessment
 
-The v12 assessment uses a three-layer composed architecture: `lex-sim-nn(neuro-nn(digitwin[alp <=> nlogo]))`. The **Neuro-NN meta-cognitive red-team critique** identified **1 critical vulnerability**:
+The v13 assessment uses a three-layer composed architecture: `lex-sim-nn(neuro-nn(digitwin[alp <=> nlogo]))` with 7 improvements over v12. The **Neuro-NN meta-cognitive red-team critique** identified **3 vulnerabilities** (v12 found only 1):
 
-### Identified Vulnerability: Testimonial Evidence
+### Identified Vulnerabilities
 
-| Category | Score | Threshold | Gap | Impact |
+| Category | Score | Threshold | Gap | Status |
 |----------|-------|-----------|-----|--------|
-| **Testimonial** | 0.50 | 0.75 | **0.25** | Prevents 3 criminal filings from reaching 95% |
-
-All other evidence categories (Temporal, Financial, Documentary, Forensic, Relational) **exceed thresholds**.
+| Temporal | 0.89 | 0.75 | — | **PASS** |
+| **Financial** | 0.64 | 0.75 | **0.11** | FAIL |
+| Documentary | 0.87 | 0.75 | — | **PASS** |
+| **Testimonial** | 0.45 | 0.75 | **0.30** | CRITICAL |
+| **Forensic** | 0.73 | 0.75 | **0.02** | BORDERLINE |
+| Relational | 0.83 | 0.75 | — | **PASS** |
 
 ### Recommended Witness Affidavits to Close Gap
 
@@ -75,38 +78,43 @@ All other evidence categories (Temporal, Financial, Documentary, Forensic, Relat
 
 ### Red-Team Defence Critiques Addressed
 
-The composed report includes 5 adversarial defence critiques with evidence-based responses:
+The v13 composed report includes 6 adversarial defence critiques with evidence-based responses:
 
-1. **Testimonial Gap** — Addressed by documentary self-authentication principle
-2. **Alternative Explanation for Revenue Redirection** — Defeated by 4 independent evidence chains
-3. **"Manufacture" Email Context** — Defeated by surrounding SARS eFiling impersonation evidence
-4. **Interdict Validity** — Defeated by void ab initio doctrine (12+ material non-disclosures)
-5. **Entity Correction Credibility** — Proactive correction demonstrates evidence integrity
+1. **Testimonial Gap** — Documentary self-authentication (100+ emails as direct admissions); 5 witnesses available
+2. **Financial Evidence Gap** — FNB statements, ABSA records, Sage data provide verifiable transaction records
+3. **Alternative Explanation for Revenue Redirection** — Defeated by 4 independent evidence chains
+4. **"Manufacture" Email Context** — Defeated by surrounding SARS eFiling impersonation evidence
+5. **Interdict Validity** — Defeated by void ab initio doctrine (12+ material non-disclosures)
+6. **Entity Correction Credibility** — Proactive correction demonstrates evidence integrity
 
-See: [Composed Simulation Report v12](../simulation/COMPOSED_REPORT_2026_03_12_v12.md)
+See: [Composed Simulation Report v13](../simulation/COMPOSED_REPORT_2026_03_12_v13.md)
 
-## v11 to v12 Changes
+## Score Evolution: v11 → v12 → v13
 
-| Filing | v11 Score | v12 Composed | Change | Note |
-|--------|-----------|--------------|--------|------|
-| CIPC | 94.50% | 87.09% | -7.41% | Honest recalibration with meta-cognitive critique |
-| POPIA | 96.55% | 84.96% | -11.59% | Testimonial gap correctly identified |
-| Commercial Crime | 95.80% | 84.28% | -11.52% | Testimonial gap correctly identified |
-| NPA Tax Fraud | 96.10% | 85.33% | -10.77% | Testimonial gap correctly identified |
-| FIC | 91.20% | 86.55% | -4.65% | Recalibrated |
-| Professional Misconduct | 95.15% | 85.31% | -9.84% | Recalibrated |
+| Filing | v11 Score | v12 Composed | v13 Composed | Trend | Note |
+|--------|-----------|--------------|--------------|-------|------|
+| CIPC | 94.50% | 87.09% | 82.63% | ↓ | Honest recalibration with 3-vulnerability detection |
+| POPIA | 96.55% | 84.96% | 80.49% | ↓ | Financial + Testimonial gaps identified |
+| Commercial Crime | 95.80% | 84.28% | 80.39% | ↓ | Financial + Testimonial gaps identified |
+| NPA Tax Fraud | 96.10% | 85.33% | 81.14% | ↓ | Financial + Testimonial gaps identified |
+| FIC | 91.20% | 86.55% | 81.24% | ↓ | Recalibrated with adversarial pessimism |
+| Professional Misconduct | 95.15% | 85.31% | 80.56% | ↓ | Recalibrated |
 
-**Note:** The v12 scores are more conservative than v11 because the Neuro-NN meta-cognitive layer correctly identifies that the testimonial evidence category is a genuine weakness. The v11 scores were optimistic. The cross-validated (XV) scores, which blend LEX-SIM-NN with DigiTwin assessment, show all filings exceeding 90%, but the raw composed scores are the honest assessment.
+**Note:** v13 scores are the most conservative and honest assessment. The Neuro-NN meta-cognitive layer now detects 3 vulnerabilities (Financial, Testimonial, Forensic) vs 1 in v12. The overconfidence detector adjusts the raw criminal probability from 99.9% to 93.9%. All civil filings comfortably exceed 50% burden. Criminal filings require witness affidavits to close the ~15% gap.
 
 ## Supporting Documentation
 
-- [**Composed Simulation Report v12**](../simulation/COMPOSED_REPORT_2026_03_12_v12.md) — Full 3-layer analysis with red-team critiques
-- [Composed Results (JSON)](../simulation/COMPOSED_RESULTS_2026_03_12_v12.json) — Raw simulation data
-- [LEX-SIM-NN Report (v10)](../simulation/LEX_SIM_NN_REPORT_2026_03_10.md) — Previous pipeline assessment
-- [DigiTwin Report](../simulation/DIGITWIN_REPORT_2026_03_11.md) — Multi-paradigm simulation
+- [**Composed Simulation Report v13**](../simulation/COMPOSED_REPORT_2026_03_12_v13.md) — Full 3-layer analysis with per-filing red-team critiques
+- [Composed Results v13 (JSON)](../simulation/COMPOSED_RESULTS_2026_03_12_v13.json) — Raw simulation data
+- [Evidence Heatmap (CSV)](../simulation/EVIDENCE_HEATMAP_2026_03_12_v13.csv) — Per-event category breakdown
+- [AnyLogic Model (.alp)](../simulation/LEX_DigiTwin_2025-137857.alp) — Multi-paradigm simulation model
+- [NetLogo Model (.nlogo)](../simulation/LEX_DigiTwin_2025-137857.nlogo) — Agent-based simulation model
+- [Case Specification (JSON)](../simulation/case_spec_v13.json) — Full case specification
+- [Previous: Composed Report v12](../simulation/COMPOSED_REPORT_2026_03_12_v12.md)
+- [LEX-SIM-NN Report (v10)](../simulation/LEX_SIM_NN_REPORT_2026_03_10.md)
+- [DigiTwin Report](../simulation/DIGITWIN_REPORT_2026_03_11.md)
 - [Forensic EML Evidence Index](../evidence/forensic_eml/INDEX.md)
 - [Master Evidence Index](../evidence_index.md)
 - [Master Timeline](../timeline.md)
 - [Master Entities Index](../entities/index.md)
 - [Master Relations Index](../relations/index.md)
-- [Evidence Index Update (2026-03-12)](../evidence/evidence_index_update_2026_03_12.md)

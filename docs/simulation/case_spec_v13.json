@@ -1,0 +1,404 @@
+{
+  "case_number": "2025-137857",
+  "case_name": "Revenue Stream Hijacking",
+  "initial_legitimate_revenue": 5000000,
+  "initial_ketoni_receivable": 2000000,
+  "agents": [
+    {
+      "name": "Peter Faucitt",
+      "role": "perpetrator",
+      "initial_valence": -0.3,
+      "initial_arousal": 0.2
+    },
+    {
+      "name": "Rynette Farrar",
+      "role": "accomplice",
+      "initial_valence": -0.2,
+      "initial_arousal": 0.4
+    },
+    {
+      "name": "Danie Bantjies",
+      "role": "accomplice",
+      "initial_valence": -0.1,
+      "initial_arousal": 0.3
+    },
+    {
+      "name": "Daniel Faucitt",
+      "role": "victim",
+      "initial_valence": 0.3,
+      "initial_arousal": 0.1
+    },
+    {
+      "name": "Jacqui Faucitt",
+      "role": "victim",
+      "initial_valence": 0.2,
+      "initial_arousal": 0.1
+    },
+    {
+      "name": "Linda Kruger",
+      "role": "employee",
+      "initial_valence": 0.0,
+      "initial_arousal": 0.0
+    },
+    {
+      "name": "Gayane Williams",
+      "role": "employee",
+      "initial_valence": 0.0,
+      "initial_arousal": 0.0
+    },
+    {
+      "name": "Darren Farrar",
+      "role": "accomplice",
+      "initial_valence": 0.0,
+      "initial_arousal": 0.1
+    }
+  ],
+  "phases": [
+    {
+      "phase_id": 1,
+      "name": "Entity Establishment & Control",
+      "months": 12,
+      "events": [
+        {
+          "month": 0,
+          "event_type": "premeditation",
+          "intensity": 0.8,
+          "targets": [
+            "Peter Faucitt",
+            "Rynette Farrar"
+          ],
+          "financial": 0.0
+        },
+        {
+          "month": 2,
+          "event_type": "fraud_execution",
+          "intensity": 0.9,
+          "targets": [
+            "Peter Faucitt",
+            "Rynette Farrar",
+            "Danie Bantjies"
+          ],
+          "financial": 500000
+        },
+        {
+          "month": 4,
+          "event_type": "concealment",
+          "intensity": 0.7,
+          "targets": [
+            "Rynette Farrar",
+            "Danie Bantjies"
+          ],
+          "financial": 0.0
+        },
+        {
+          "month": 6,
+          "event_type": "fraud_execution",
+          "intensity": 0.8,
+          "targets": [
+            "Peter Faucitt",
+            "Rynette Farrar"
+          ],
+          "financial": 200000
+        }
+      ]
+    },
+    {
+      "phase_id": 2,
+      "name": "Revenue Diversion Setup",
+      "months": 6,
+      "events": [
+        {
+          "month": 0,
+          "event_type": "banking_redirect",
+          "intensity": 0.9,
+          "targets": [
+            "Rynette Farrar",
+            "Linda Kruger"
+          ],
+          "financial": 0.0
+        },
+        {
+          "month": 1,
+          "event_type": "instructed_action",
+          "intensity": 0.7,
+          "targets": [
+            "Linda Kruger"
+          ],
+          "financial": 0.0
+        },
+        {
+          "month": 2,
+          "event_type": "domain_hijacking",
+          "intensity": 0.8,
+          "targets": [
+            "Rynette Farrar",
+            "Gayane Williams",
+            "Darren Farrar"
+          ],
+          "financial": 0.0
+        },
+        {
+          "month": 2,
+          "event_type": "instructed_action",
+          "intensity": 0.6,
+          "targets": [
+            "Gayane Williams"
+          ],
+          "financial": 0.0
+        },
+        {
+          "month": 3,
+          "event_type": "revenue_diversion",
+          "intensity": 0.9,
+          "targets": [
+            "Peter Faucitt",
+            "Rynette Farrar"
+          ],
+          "financial": 2000000
+        },
+        {
+          "month": 4,
+          "event_type": "concealment",
+          "intensity": 0.8,
+          "targets": [
+            "Rynette Farrar",
+            "Danie Bantjies"
+          ],
+          "financial": 0.0
+        }
+      ]
+    },
+    {
+      "phase_id": 3,
+      "name": "Active Revenue Capture",
+      "months": 18,
+      "events": [
+        {
+          "month": 0,
+          "event_type": "revenue_diversion",
+          "intensity": 0.95,
+          "targets": [
+            "Peter Faucitt",
+            "Rynette Farrar"
+          ],
+          "financial": 800000
+        },
+        {
+          "month": 3,
+          "event_type": "revenue_diversion",
+          "intensity": 0.9,
+          "targets": [
+            "Peter Faucitt",
+            "Rynette Farrar"
+          ],
+          "financial": 800000
+        },
+        {
+          "month": 6,
+          "event_type": "revenue_diversion",
+          "intensity": 0.85,
+          "targets": [
+            "Peter Faucitt",
+            "Rynette Farrar"
+          ],
+          "financial": 800000
+        },
+        {
+          "month": 9,
+          "event_type": "revenue_diversion",
+          "intensity": 0.9,
+          "targets": [
+            "Peter Faucitt",
+            "Rynette Farrar"
+          ],
+          "financial": 800000
+        },
+        {
+          "month": 12,
+          "event_type": "revenue_diversion",
+          "intensity": 0.85,
+          "targets": [
+            "Peter Faucitt",
+            "Rynette Farrar"
+          ],
+          "financial": 800000
+        },
+        {
+          "month": 15,
+          "event_type": "revenue_diversion",
+          "intensity": 0.9,
+          "targets": [
+            "Peter Faucitt",
+            "Rynette Farrar"
+          ],
+          "financial": 800000
+        },
+        {
+          "month": 6,
+          "event_type": "concealment",
+          "intensity": 0.8,
+          "targets": [
+            "Rynette Farrar",
+            "Danie Bantjies"
+          ],
+          "financial": 500000
+        },
+        {
+          "month": 12,
+          "event_type": "concealment",
+          "intensity": 0.7,
+          "targets": [
+            "Danie Bantjies"
+          ],
+          "financial": 300000
+        }
+      ]
+    },
+    {
+      "phase_id": 4,
+      "name": "Concealment & Escalation",
+      "months": 6,
+      "events": [
+        {
+          "month": 0,
+          "event_type": "concealment",
+          "intensity": 0.9,
+          "targets": [
+            "Rynette Farrar",
+            "Danie Bantjies"
+          ],
+          "financial": 0.0
+        },
+        {
+          "month": 1,
+          "event_type": "fraud_execution",
+          "intensity": 0.95,
+          "targets": [
+            "Rynette Farrar",
+            "Danie Bantjies"
+          ],
+          "financial": 500000
+        },
+        {
+          "month": 3,
+          "event_type": "concealment",
+          "intensity": 0.85,
+          "targets": [
+            "Rynette Farrar"
+          ],
+          "financial": 0.0
+        },
+        {
+          "month": 4,
+          "event_type": "fraud_execution",
+          "intensity": 0.8,
+          "targets": [
+            "Peter Faucitt",
+            "Rynette Farrar"
+          ],
+          "financial": 300000
+        }
+      ]
+    },
+    {
+      "phase_id": 5,
+      "name": "Discovery & Retaliation",
+      "months": 6,
+      "events": [
+        {
+          "month": 0,
+          "event_type": "fraud_detected",
+          "intensity": 0.9,
+          "targets": [
+            "Daniel Faucitt",
+            "Jacqui Faucitt"
+          ],
+          "financial": 0.0
+        },
+        {
+          "month": 1,
+          "event_type": "evidence_gathering",
+          "intensity": 0.85,
+          "targets": [
+            "Daniel Faucitt",
+            "Jacqui Faucitt"
+          ],
+          "financial": 0.0
+        },
+        {
+          "month": 2,
+          "event_type": "retaliation",
+          "intensity": 0.9,
+          "targets": [
+            "Peter Faucitt",
+            "Rynette Farrar",
+            "Danie Bantjies"
+          ],
+          "financial": 0.0
+        },
+        {
+          "month": 3,
+          "event_type": "evidence_gathering",
+          "intensity": 0.8,
+          "targets": [
+            "Daniel Faucitt"
+          ],
+          "financial": 0.0
+        },
+        {
+          "month": 4,
+          "event_type": "retaliation",
+          "intensity": 0.7,
+          "targets": [
+            "Peter Faucitt",
+            "Rynette Farrar"
+          ],
+          "financial": 0.0
+        },
+        {
+          "month": 5,
+          "event_type": "evidence_gathering",
+          "intensity": 0.75,
+          "targets": [
+            "Jacqui Faucitt"
+          ],
+          "financial": 0.0
+        }
+      ]
+    },
+    {
+      "phase_id": 6,
+      "name": "Legal Action",
+      "months": 6,
+      "events": [
+        {
+          "month": 0,
+          "event_type": "evidence_gathering",
+          "intensity": 0.95,
+          "targets": [
+            "Daniel Faucitt"
+          ],
+          "financial": 0.0
+        },
+        {
+          "month": 2,
+          "event_type": "evidence_gathering",
+          "intensity": 0.9,
+          "targets": [
+            "Daniel Faucitt"
+          ],
+          "financial": 0.0
+        },
+        {
+          "month": 4,
+          "event_type": "evidence_gathering",
+          "intensity": 0.85,
+          "targets": [
+            "Daniel Faucitt"
+          ],
+          "financial": 0.0
+        }
+      ]
+    }
+  ]
+}
