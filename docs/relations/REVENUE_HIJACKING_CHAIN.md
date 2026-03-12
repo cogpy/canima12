@@ -27,7 +27,7 @@ LEGITIMATE REVENUE STREAM (FNB)
 FRAUDULENT REVENUE STREAM (ABSA)
     │
     ├── 100+ emails sent to clients: "Change banking details to ABSA"
-    │   └── Sent by Linda, Gayane (on instruction of Rynette)
+    │   └── Sent by Linda Kruger, Gayane Williams (on instruction of Rynette)
     │
     ├── Client Payments → ABSA Account (unknown beneficial owner)
     │   └── At least 8 ABSA accounts identified
@@ -51,8 +51,8 @@ FRAUDULENT REVENUE STREAM (ABSA)
 | Entity | Role in Chain | Evidence |
 |--------|--------------|----------|
 | [PERSON_002](../entities/PERSON_002.md) — Rynette Farrar | Orchestrator — instructed banking changes | [EVENT_121](../events/EVENT_121.md) |
-| [PERSON_020](../entities/PERSON_020.md) — Linda | Executor — sent change emails to clients | [EVENT_121](../events/EVENT_121.md) |
-| [PERSON_021](../entities/PERSON_021.md) — Gayane | Executor — email domain abandonment | [EVENT_121](../events/EVENT_121.md) |
+| [PERSON_020](../entities/PERSON_020.md) — Linda Kruger | Executor — sent change emails to clients | [EVENT_121](../events/EVENT_121.md) |
+| [PERSON_021](../entities/PERSON_021.md) — Gayane Williams | Executor — email domain abandonment | [EVENT_121](../events/EVENT_121.md) |
 | [PERSON_001](../entities/PERSON_001.md) — Peter Faucitt | Beneficiary — wrote false FNB fraud letter | SF10 |
 | [PERSON_007](../entities/PERSON_007.md) — Bantjies | Facilitator — "manufacture" SARS answer | [EVENT_119](../events/EVENT_119.md) |
 | [BANK_ACCOUNT_ABSA](../entities/BANK_ACCOUNT_ABSA.md) — ABSA Accounts | Destination — at least 8 accounts | FIC Report |

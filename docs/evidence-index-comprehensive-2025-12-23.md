@@ -241,7 +241,7 @@
 
 **Cross-References:**
 - PERSON_006 (Linda)
-- PERSON_002 (Rynette - sister)
+- PERSON_002 (Rynette - employer/supervisor)
 
 ---
 

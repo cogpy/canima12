@@ -33,8 +33,8 @@ This index catalogs all entities involved in Case 2025-137857: Revenue Stream Hi
 - [ORG_016](./ORG_016.md) - Ketoni Investment Holdings (ZAR 18.685M Payout Debtor)
 - [ORG_022](./ORG_022.md) - ENS Africa (Legal Firm — Mediation)
 - [PERSON_015](./PERSON_015.md) - Kevin Derrick (Ketoni Director / George Group CEO)
-- [PERSON_020](./PERSON_020.md) - Linda (RegimA Employee — Payment Redirection)
-- [PERSON_021](./PERSON_021.md) - Gayane (RegimA Employee — Infrastructure Hijacking)
+- [PERSON_020](./PERSON_020.md) - Linda Kruger (RegimA Office Employee — Payment Redirection)
+- [PERSON_021](./PERSON_021.md) - Gayane Williams (RegimA Office Employee — Infrastructure Hijacking)
 - [BANK_ACCOUNT_ABSA](./BANK_ACCOUNT_ABSA.md) - Suspected Fraudulent ABSA Accounts
 - **[BANK_ACCOUNT_004](./BANK_ACCOUNT_004.md)** - Hidden Money Maximiser 63077691682 (R5M transferred, ZERO statements)
 
@@ -83,7 +83,7 @@ This index catalogs all entities involved in Case 2025-137857: Revenue Stream Hi
 
 | Entity ID | Name | Role | Relevance |
 |-----------|------|------|-----------|
-| [PERSON_006](./PERSON_006.md) | Linda | Employee (Bookkeeper) | Witness |
+| [PERSON_006](./PERSON_006.md) | Linda Kruger | Office Employee (Bookkeeper/Sales) | Witness |
 | [PERSON_008](./PERSON_008.md) | Kayla | ReZonance Director | Deceased (2023-07-13) |
 | [PERSON_009](./PERSON_009.md) | Gee | Employee | Witness (Domain Switch) |
 | [PERSON_010](./PERSON_010.md) | Bernadine Wright | Financial Advisor | Key Decision-Maker |

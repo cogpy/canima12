@@ -393,7 +393,7 @@ Each event is part of **ONE COORDINATED OPERATION**:
 | Witness | Questions |
 |---------|-----------|
 | **Gee** | Who instructed domain change email? When? |
-| **Linda** (Rynette's sister) | Why 2 years unallocated expenses? |
+| **Linda** (office employee) | Why 2 years unallocated expenses? |
 | **Customers** | Did they receive June 11 letter? |
 | **Bank officials** | Who opened the 8 ABSA accounts? |
 

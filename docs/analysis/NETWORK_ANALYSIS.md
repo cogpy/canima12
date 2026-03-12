@@ -25,7 +25,7 @@ The conspiracy network graph visualizes the complex web of relationships, contro
 
 **Tier 3: Family Extension**
 - **Adderory** - Rynette's son (Darren Dennis Farrar)'s company (Stock Fraud)
-- **Linda** - Rynette's sister (Bookkeeper)
+- **Linda** - office employee (Bookkeeper)
 - Orange conspiracy lines showing family involvement
 
 **Tier 4: Trust-Controlled Organizations**
@@ -160,7 +160,7 @@ The conspiracy network graph visualizes the complex web of relationships, contro
   - Bantjies (professional authority)
   - Peter (co-conspirator)
   - Adderory (family beneficiary)
-  - Linda (family support)
+  - Linda Kruger (office employee)
   - Multiple organizations (control)
   - Victims (debt relationships)
 

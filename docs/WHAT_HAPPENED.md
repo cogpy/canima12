@@ -112,7 +112,7 @@ With the trust structure compromised and the accounting system under her control
 
 ### The Expense Dump — 30 March 2025
 
-On **30 March 2025**, Rynette and Peter dumped two years' worth of unallocated expenses from all companies into RegimA Worldwide and pressured Daniel to sign off on them for SARS VAT and Annual Accounts within 12 hours. These expenses had accumulated during a period when the accounting system was controlled entirely by Rynette, using Peter's email, despite her sister Linda being employed specifically to do the books. Daniel used the time from this demand until **6 June 2025** to finalise his own reports and, in the process, uncovered the fraud.
+On **30 March 2025**, Rynette and Peter dumped two years' worth of unallocated expenses from all companies into RegimA Worldwide and pressured Daniel to sign off on them for SARS VAT and Annual Accounts within 12 hours. These expenses had accumulated during a period when the accounting system was controlled entirely by Rynette, using Peter's email, despite Linda Kruger, an office employee, being employed specifically to do the books. Daniel used the time from this demand until **6 June 2025** to finalise his own reports and, in the process, uncovered the fraud.
 
 ### Revenue Diversion — May 2025
 
@@ -120,7 +120,7 @@ The revenue diversion began in earnest. Exchange records from **2 May 2025** sho
 
 > *"Please be advised that our banking details have changed. Kindly refer to the attached document for the updated information. These changes are effective immediately."*
 
-On **5 May 2025**, Rynette herself sent an email titled "Banking details and email address for POP," initiating the formal redirection of payments from FNB (where Daniel had signing authority) to ABSA accounts (where he did not). By **18 June 2025**, Linda — Rynette's sister — had sent over **39 emails** to clients with updated banking details, completing the mass redirection of the company's revenue streams.
+On **5 May 2025**, Rynette herself sent an email titled "Banking details and email address for POP," initiating the formal redirection of payments from FNB (where Daniel had signing authority) to ABSA accounts (where he did not). By **18 June 2025**, Linda — office employee — had sent over **39 emails** to clients with updated banking details, completing the mass redirection of the company's revenue streams.
 
 ### The Shopify Hijacking — 22 May 2025
 

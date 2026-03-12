@@ -1,6 +1,10 @@
-# Linda (RegimA Employee) (PERSON_LINDA)
-**Role:** Sales/Accounts, Active Participant in Payment Redirection
-**Last Updated:** 2026-02-09
+# Linda Kruger (RegimA Employee) (PERSON_LINDA)
+**Role:** Office Employee (Sales/Accounts), Active Participant in Payment Redirection  
+**Full Name:** Linda Kruger  
+**Email:** linda@regima.zone  
+**Last Updated:** 2026-03-12
+
+**NOTE:** Linda Kruger is an **office employee** of RegimA, not a family member or relative of any party.
 
 ## Summary
 Linda, a RegimA employee in sales/accounts, is a key active participant in the execution of the revenue hijacking scheme. Mailbox evidence proves she sent at least 39 "Change of Bank" emails on a single day, 18 June 2025, systematically instructing customers to redirect payments from the legitimate FNB account to a new Absa account controlled by the perpetrators. This action was a critical step in the active theft of funds.
@@ -9,7 +13,7 @@ Linda, a RegimA employee in sales/accounts, is a key active participant in the e
 ```json
 {
   "entity_id": "PERSON_LINDA",
-  "name": "Linda (RegimA Employee)",
+  "name": "Linda Kruger (RegimA Employee)",
   "role": "active_participant_payment_redirection",
   "agent_type": "accomplice",
   "involvement_events": 1,

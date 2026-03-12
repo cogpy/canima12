@@ -107,7 +107,7 @@ The analysis has identified **11 critical pieces of evidence** that form the fou
 | **SF5** | PERSON_003, ORG_010 | EVENT_091 | Documents Adderory's company and stock supply arrangement | Civil (50%) |
 | **SF6** | PERSON_013 | EVENT_022 | CRITICAL: Death of Kayla triggered estate exploitation | Civil (50%) & Criminal (95%) |
 | **SF7** | PERSON_013 | EVENT_023 | Court order for email seizure - estate complications | Civil (50%) |
-| **SF8** | PERSON_006 | - | Employment records for Linda (Rynette's sister) | Civil (50%) |
+| **SF8** | PERSON_006 | - | Employment records for Linda Kruger (office employee) | Civil (50%) |
 | **SF9** | ORG_007, PERSON_001 | EVENT_028 | R63M formal demand letter, ignored by Peter | Civil (50%) & Criminal (95%) |
 | **JF01** | PERSON_004, PERSON_005, PLATFORM_001 | EVENT_001 | THE FORENSIC TIME CAPSULE - Shopify Plus email | Criminal (95%) |
 | **JF04** | ORG_001, ORG_003, PERSON_001 | - | CIPC company registration documents | Civil (50%) |

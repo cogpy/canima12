@@ -156,7 +156,7 @@ The enhanced data models reveal a sophisticated conspiracy network:
 - Rynette ↔ Adderory (Son/Company Owner)
 
 **Support Network:**
-- Rynette ↔ Linda (Sister/Employed Bookkeeper)
+- Rynette → Linda Kruger (Employee / Bookkeeper under Rynette's direction)
 
 This network demonstrates organized crime characteristics with multiple layers of conspiracy, family involvement, and professional facilitation.
 

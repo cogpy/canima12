@@ -182,7 +182,7 @@ This analysis reviews the current data models in the revstream1 repository (enti
 
 3. **Incomplete Event: EVENT_003 (March 30, 2025)**
    - Missing connection to Bantjies as accountant
-   - Missing context of Linda (Rynette's sister) being employed as bookkeeper
+   - Missing context of Linda Kruger (office employee) being employed as bookkeeper
    - Missing connection to potential concealment of R5.4M stock adjustment
 
 4. **Incomplete Event: EVENT_007 (May 15, 2025)**
