@@ -8,7 +8,7 @@ title: Master Filing Index
 **Last Updated:** 2026-03-12 (v12)
 **Case Number:** 2025-137857
 
-This index provides direct links to the latest versions of all formal legal applications and complaints prepared for the Revenue Stream Hijacking case. All filings are quantitatively assessed via the **composed LEX-SIM-NN(Neuro-NN(DigiTwin))** differentiable legal simulation pipeline with meta-cognitive red-team critique, and supported by 355 forensically extracted EML files.
+This index provides direct links to the latest versions of all formal legal applications, complaints, and strategic analysis documents prepared for the Revenue Stream Hijacking case. All filings are quantitatively assessed via the **composed LEX-SIM-NN(Neuro-NN(DigiTwin))** differentiable legal simulation pipeline with meta-cognitive red-team critique, and supported by 355 forensically extracted EML files plus 7 new legal documents (Feb-Mar 2026).
 
 ## v12 Entity Corrections
 
@@ -39,6 +39,17 @@ This index provides direct links to the latest versions of all formal legal appl
 |-------------|----------------|-----------------|----------------|----------|--------|
 | **4. Commercial Crime Submission** | [v11 (2026-03-12)](./COMMERCIAL_CRIME_SUBMISSION_REFINED_2026-03-12_v11.md) | Criminal (95%) | 84.28% | 91.00% | **NEAR** |
 | **5. NPA Tax Fraud Report** | [v11 (2026-03-12)](./NPA_TAX_FRAUD_REPORT_REFINED_2026-03-12_v11.md) | Criminal (95%) | 85.33% | 91.73% | **NEAR** |
+
+## Strategic Analysis (New — 2026-03-12)
+
+Seven new legal documents were analyzed and integrated into the case. A comprehensive Red-Team Critique identified procedural vulnerabilities in the Entity Answering Affidavit that the Applicant has already begun exploiting via Rule 7(1) and Rule 30/30A notices.
+
+| Document | Purpose | Key Finding |
+|----------|---------|-------------|
+| [Red-Team Critique](./RED_TEAM_CRITIQUE_2026_03_12.md) | Adversarial vulnerability assessment | Substantive defense is strong but procedurally defective |
+| [Refined Filing Strategy](./REFINED_FILING_STRATEGY_2026_03_12.md) | Corrective action plan | Bifurcate into Contempt Opposition + Rescission Application |
+| [New Documents Analysis](../evidence/new_documents_feb_mar_2026.md) | 7 new documents catalog | Contempt, Void Ab Initio, POPIA, Rule 7(1)/30/30A |
+| [Integrated Analysis](../evidence/integrated_analysis_2026_03_12.md) | Cross-referenced analysis | Updated entities, relations, events, timeline |
 
 ## v12 Composed Simulation Assessment
 
@@ -74,7 +85,7 @@ The composed report includes 5 adversarial defence critiques with evidence-based
 
 See: [Composed Simulation Report v12](../simulation/COMPOSED_REPORT_2026_03_12_v12.md)
 
-## v11 → v12 Changes
+## v11 to v12 Changes
 
 | Filing | v11 Score | v12 Composed | Change | Note |
 |--------|-----------|--------------|--------|------|
@@ -98,3 +109,4 @@ See: [Composed Simulation Report v12](../simulation/COMPOSED_REPORT_2026_03_12_v
 - [Master Timeline](../timeline.md)
 - [Master Entities Index](../entities/index.md)
 - [Master Relations Index](../relations/index.md)
+- [Evidence Index Update (2026-03-12)](../evidence/evidence_index_update_2026_03_12.md)
