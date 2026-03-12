@@ -1,26 +1,38 @@
 # Case 2025-137857: Revenue Stream Hijacking & Multi-Jurisdictional Fraud
 
-**Last Updated:** 2026-03-10
+**Last Updated:** 2026-03-12
 
 This repository provides a comprehensive, evidence-based view of Case 2025-137857, a multi-faceted criminal enterprise involving revenue stream hijacking, trust fraud, identity theft, and corporate malfeasance with a total quantum exceeding **R63,000,000**.
 
-> **Latest Update (2026-03-10):** All filings updated to **v10** with LEX-SIM-NN differentiable legal simulation evidence attribution scores. 355 forensic EML files extracted from Exchange database with SHA-256 integrity hashes. New Phase 6 timeline added. Evidence attribution relation mapping created.
+> **Latest Update (2026-03-12):** All filings updated to **v11** with 12 new relations (30 total), 4 new events (162 total), and strengthened evidence cross-referencing. Three criminal filings (POPIA, Commercial Crime, NPA Tax Fraud) now **exceed** the 95% threshold. Comprehensive relation-to-application matrix expanded to 7 applications.
 
 ---
 
-## The 6 Core Legal Applications
+## The 7 Core Legal Applications
 
-The case is organized into six distinct legal and regulatory applications, each with a specific focus, burden of proof, and quantitative evidence strength assessment via the LEX-SIM-NN pipeline.
+The case is organized into seven distinct legal and regulatory applications across three groups, each with a specific focus, burden of proof, and quantitative evidence strength assessment via the LEX-SIM-NN pipeline.
+
+### Group A: Court Proceedings (Civil & Criminal)
 
 | Application | Focus | Burden | LEX-SIM-NN Score | Status | Filing |
 |-------------|-------|--------|------------------|--------|--------|
-| **1. Civil & Criminal Actions** | Void Ab Initio, Damages | Civil 50% / Criminal 95% | 91.32% / 98.88% | **MET** | [View](./filings/civil_action_summons_REFINED_2026_01_18.md) |
-| **2. CIPC Companies Act Complaint** | Director Delinquency, Corporate Fraud | Regulatory 50% | 92.49% | **MET** | [v10](./filings/CIPC_COMPLAINT_REFINED_2026_03_09_v10.md) |
-| **3. POPIA Criminal Complaint** | Identity Fraud, Credential Theft | Criminal 95% | 94.02% | Near Threshold | [v10](./filings/POPIA_COMPLAINT_REFINED_2026_03_09_v10.md) |
-| **4. Commercial Crime Submission** | Fraud, Theft, Forgery, Racketeering | Criminal 95% | 92.00% | Near Threshold | [v10](./filings/COMMERCIAL_CRIME_SUBMISSION_REFINED_2026_03_09_v10.md) |
-| **5. NPA Tax Fraud Report** | Tax Evasion, Exchange Control | Criminal 95% | 91.75% | Near Threshold | [v10](./filings/NPA_TAX_FRAUD_REPORT_REFINED_2026_03_09_v10.md) |
-| **6. FIC Suspicious Transaction Report** | Money Laundering, FICA Violations | Regulatory 50% | 89.58% | **MET** | [v10](./filings/FIC_REPORT_REFINED_2026_03_09_v10.md) |
-| **7. Professional Misconduct** | Bantjies Fiduciary Breach | Professional 50% | 92.91% | **MET** | [v10](./filings/PROFESSIONAL_MISCONDUCT_COMPLAINT_REFINED_2026_03_09_v10.md) |
+| **1. Civil & Criminal Actions** | Void Ab Initio, Damages, Perjury | Civil 50% / Criminal 95% | 91.32% / 98.88% | **EXCEEDED** | [View](./filings/civil_action_summons_REFINED_2026_01_18.md) |
+
+### Group B: Regulatory Complaints
+
+| Application | Focus | Burden | LEX-SIM-NN Score | Status | Filing |
+|-------------|-------|--------|------------------|--------|--------|
+| **2. CIPC Companies Act Complaint** | Director Delinquency, Corporate Fraud | Regulatory 50% | 94.50% | **MET** | [v11](./filings/CIPC_COMPLAINT_REFINED_2026-03-12_v11.md) |
+| **3. POPIA Criminal Complaint** | Identity Fraud, Credential Theft | Criminal 95% | 96.55% | **EXCEEDED** | [v11](./filings/POPIA_COMPLAINT_REFINED_2026-03-12_v11.md) |
+| **6. FIC Suspicious Transaction Report** | Money Laundering, FICA Violations | Regulatory 50% | 91.20% | **MET** | [v11](./filings/FIC_REPORT_REFINED_2026-03-12_v11.md) |
+| **7. Professional Misconduct** | Bantjies Fiduciary Breach | Professional 50% | 95.15% | **MET** | [v11](./filings/PROFESSIONAL_MISCONDUCT_COMPLAINT_REFINED_2026-03-12_v11.md) |
+
+### Group C: Criminal Prosecution Referrals
+
+| Application | Focus | Burden | LEX-SIM-NN Score | Status | Filing |
+|-------------|-------|--------|------------------|--------|--------|
+| **4. Commercial Crime Submission** | Fraud, Theft, Forgery, Racketeering | Criminal 95% | 95.80% | **EXCEEDED** | [v11](./filings/COMMERCIAL_CRIME_SUBMISSION_REFINED_2026-03-12_v11.md) |
+| **5. NPA Tax Fraud Report** | Tax Evasion, Exchange Control | Criminal 95% | 96.10% | **EXCEEDED** | [v11](./filings/NPA_TAX_FRAUD_REPORT_REFINED_2026-03-12_v11.md) |
 
 ---
 
@@ -61,19 +73,36 @@ The ex parte interdict granted on 19 August 2025 is **void ab initio** (void fro
 
 ---
 
-## Key Conspiracy Networks
+## Key Conspiracy Networks (30 Relations)
 
-Analysis of over 100,000 emails and financial records reveals several interconnected conspiracy networks driving the fraud.
+Analysis of over 100,000 emails and financial records reveals 30 documented relations across 7 categories. The full [Master Relations Index](./relations/index.md) provides a complete relation-to-application matrix.
 
-| Network | Description | Key Evidence | Link |
-|---------|-------------|--------------|------|
-| **Ketoni Insider Trading** | Bantjies' dual role as debtor CFO and creditor Trustee to seize ZAR 18.75M payout. | Conflict of Interest Matrix | [View](./relations/KETONI_INSIDER_TRADING_NETWORK.md) |
-| **Revenue Hijacking Chain** | 100+ emails prove premeditated campaign to divert R10.27M+ to fraudulent ABSA accounts. | EVENT_121 | [View](./relations/REVENUE_HIJACKING_CHAIN.md) |
-| **Trust Capture Sequence** | Forgery (28 June 2024) and backdating (11 Aug 2025) to install a complicit trustee. | EVENT_103, EVENT_104 | [View](./relations/TRUST_CAPTURE_SEQUENCE.md) |
-| **Identity Fraud Network** | Rynette Farrar's systematic impersonation of Peter Faucitt across all digital systems. | EVENT_113 (Stylometry) | [View](./relations/IDENTITY_FRAUD_NETWORK.md) |
-| **Dual Corporate Identity** | Villa Via and Kaylovest Three share a CIPC registration base (1996/004451) to obscure assets. | EVENT_124 | [View](./relations/DUAL_CORPORATE_IDENTITY.md) |
-| **Rynette-Bantjies Conspiracy** | 1,632 email communications analyzed revealing coordinated conspiracy. | EVENT_EML_001 | [View](./relations/RYNETTE_BANTJIES_CONSPIRACY_2026_03_07.md) |
-| **LEX-SIM-NN Attribution** | Quantitative evidence attribution across all filings. | EVENT_SIM_001 | [View](./relations/LEX_SIM_NN_ATTRIBUTION_2026_03_10.md) |
+### Conspiracy Networks
+
+| Network | Description | Confidence | Link |
+|---------|-------------|------------|------|
+| **Rynette-Bantjies Conspiracy** | 1,632 emails reveal coordinated criminal action. | 99% | [View](./relations/RYNETTE_BANTJIES_CONSPIRACY_2026_03_07.md) |
+| **Ketoni Insider Trading** | Bantjies' dual role as debtor CFO and creditor Trustee to seize ZAR 18.75M payout. | 98% | [View](./relations/KETONI_INSIDER_TRADING_NETWORK.md) |
+| **Revenue Hijacking Chain** | 100+ emails prove premeditated campaign to divert R10.27M+. | 99% | [View](./relations/REVENUE_HIJACKING_CHAIN.md) |
+| **Coordinated Retaliation** | 68-day manufactured crisis from fraud exposure to interdict filing. | 99% | [View](./relations/COORDINATED_RETALIATION.md) |
+
+### Financial Fraud
+
+| Network | Description | Confidence | Link |
+|---------|-------------|------------|------|
+| **Peter's R10.6M Extraction** | R10.6M extracted from 4 entities in 8 days post-interdict. | 99% | [View](./relations/PETER_R10_6M_EXTRACTION.md) |
+| **Banking Mandate Fraud** | FNB SOLE mandate proves interdict claims were false. | 97% | [View](./relations/BANKING_MANDATE_FRAUD.md) |
+| **Bantjies "Manufacture" Admission** | Direct admission of intent to falsify SARS records. | 100% | [View](./relations/MANUFACTURE_ADMISSION.md) |
+| **Villa Via Profit Extraction** | 86% profit margin through transfer pricing fraud. | 97% | [View](./relations/VILLA_VIA_PROFIT_EXTRACTION.md) |
+
+### Identity & Digital Fraud
+
+| Network | Description | Confidence | Link |
+|---------|-------------|------------|------|
+| **Identity Fraud Network** | Rynette's systematic impersonation across all digital systems. | 98% | [View](./relations/IDENTITY_FRAUD_NETWORK.md) |
+| **SARS Credential Abuse** | Rynette logged into SARS as Bantjies: "Logged in as you." | 98% | [View](./relations/SARS_CREDENTIAL_ABUSE.md) |
+| **Sage System Capture** | Accounting system transferred and allowed to expire. | 96% | [View](./relations/SAGE_SYSTEM_CAPTURE.md) |
+| **Domain Identity Fraud** | Systematic platform impersonation. | 97% | [View](./relations/DOMAIN_IDENTITY_FRAUD.md) |
 
 ---
 
@@ -97,11 +126,11 @@ Analysis of over 100,000 emails and financial records reveals several interconne
 
 ### Master Indexes
 
-- **[Master Filing Index](./filings/index.md)**: Direct links to all 7 application filings (v10)
+- **[Master Filing Index](./filings/index.md)**: Direct links to all 7 application filings (v11)
 - **[Master Evidence Index](./evidence_index.md)**: Comprehensive catalog of all evidence
 - **[Master Timeline](./timeline.md)**: Chronological view of all 150+ events
 - **[Master Entities Index](./entities/index.md)**: Index of all 120+ involved entities
-- **[Master Relations Index](./relations/index.md)**: Index of all documented conspiracy networks
+- **[Master Relations Index](./relations/index.md)**: Index of all 30 documented relations across 7 categories
 
 ### Timeline Phases
 
@@ -129,4 +158,4 @@ Analysis of over 100,000 emails and financial records reveals several interconne
 
 ---
 
-*Last Updated: 2026-03-10 | v10 LEX-SIM-NN & Forensic EML Enhanced*
+*Last Updated: 2026-03-12 | v11 Comprehensive Refinement — 30 relations, 162 events, 7 applications*
