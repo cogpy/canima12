@@ -1,16 +1,16 @@
 # Case 2025-137857: Revenue Stream Hijacking & Multi-Jurisdictional Fraud
 
-**Last Updated:** 2026-03-12
+**Last Updated:** 2026-03-13
 
 This repository provides a comprehensive, evidence-based view of Case 2025-137857, a multi-faceted criminal enterprise involving revenue stream hijacking, trust fraud, identity theft, and corporate malfeasance with a total quantum exceeding **R63,000,000**.
 
-> **Latest Update (2026-03-12):** 7 new legal documents added (Feb-Mar 2026), including the Entity Answering Affidavit (*void ab initio*), Contempt Application, POPIA Notice, and Applicant's Rule 7(1)/30/30A procedural counterattack. Red-Team Critique and Refined Filing Strategy published. Total events now **170**, total relations **30**, across **7 applications**. Extraction quantum updated to **R10,924,131.18**.
+> **Latest Update (2026-03-13):** v12 filing refinements with updated Red-Team Critique addressing all procedural vulnerabilities. New sections added to CIPC (s162 delinquency for procedural abuse), POPIA (s11/s14/s15 weaponization of personal information), and Commercial Crime (perjury with provable foreknowledge). Refined Filing Strategy updated with bifurcation plan and evidentiary fortification requirements. Total events now **170+**, total relations **30**, across **7 applications**. Extraction quantum: **R10,924,131.18**.
 
 ---
 
 ## URGENT: Procedural Deadline
 
-> **Rule 30/30A Deadline: ~13 March 2026** — The Applicant's Rule 30/30A Notice (served 03 March 2026) gives 10 days to remedy the irregular step identified in the Entity Answering Affidavit. See the [Red-Team Critique](./filings/RED_TEAM_CRITIQUE_2026_03_12.md) and [Refined Filing Strategy](./filings/REFINED_FILING_STRATEGY_2026_03_12.md) for recommended immediate actions.
+> **Rule 30/30A Deadline: ~13 March 2026** --- The Applicant's Rule 30/30A Notice (served 03 March 2026) gives 10 days to remedy the irregular step identified in the Entity Answering Affidavit. See the [Red-Team Critique (v13)](./filings/RED_TEAM_CRITIQUE_2026_03_13.md) and [Refined Filing Strategy (v13)](./filings/REFINED_FILING_STRATEGY_2026_03_13.md) for recommended immediate actions.
 
 ---
 
@@ -20,7 +20,7 @@ Seven new legal documents have been added to the case record, representing a cri
 
 | Code | Document | Date | Type | Significance |
 |------|----------|------|------|-------------|
-| ND-01 | [Entity Answering Affidavit — Void Ab Initio](./evidence/new_documents_feb_mar_2026.md#nd-01-entity-answering-affidavit--void-ab-initio) | 2026-02-19 | Answering Affidavit | Central defense: interdict obtained through perjury |
+| ND-01 | [Entity Answering Affidavit --- Void Ab Initio](./evidence/new_documents_feb_mar_2026.md#nd-01-entity-answering-affidavit--void-ab-initio) | 2026-02-19 | Answering Affidavit | Central defense: interdict obtained through perjury |
 | ND-02 | [Cover Letter to Elliott Attorneys](./evidence/new_documents_feb_mar_2026.md#nd-02-entity-cover-letter-to-elliott-attorneys) | 2026-02-19 | Corporate Communication | Good faith collaborative approach |
 | ND-03 | [Formal POPIA Notice](./evidence/new_documents_feb_mar_2026.md#nd-03-formal-popia-notice) | 2026-02-19 | Statutory Notice | Withdrawal of consent; criminal sanctions track |
 | ND-04 | [Draft Affidavit for Att P Faucitt](./evidence/new_documents_feb_mar_2026.md#nd-04-draft-entity-affidavit-for-att-p-faucitt) | 2026-02-19 | Email/Cover Letter | Demonstrates bona fides |
@@ -28,7 +28,7 @@ Seven new legal documents have been added to the case record, representing a cri
 | ND-06 | [Rule 30/30A Notice](./evidence/new_documents_feb_mar_2026.md#nd-06-rule-30-andor-30a-notice) | 2026-03-03 | Procedural Notice | Alleges irregular step; **10-day deadline** |
 | ND-07 | [Contempt Application](./evidence/new_documents_feb_mar_2026.md#nd-07-notice-of-motion--contempt-of-court-application) | 2026-02-05 | Notice of Motion | Seeks 6 months imprisonment for Jacqueline |
 
-**Full Analysis:** [New Documents — February-March 2026](./evidence/new_documents_feb_mar_2026.md) | [Integrated Analysis](./evidence/integrated_analysis_2026_03_12.md)
+**Full Analysis:** [New Documents --- February-March 2026](./evidence/new_documents_feb_mar_2026.md) | [Integrated Analysis](./evidence/integrated_analysis_2026_03_12.md)
 
 ---
 
@@ -38,36 +38,50 @@ The case is organized into seven distinct legal and regulatory applications acro
 
 ### Group A: Court Proceedings (Civil & Criminal)
 
-| Application | Focus | Burden | LEX-SIM-NN Score | Status | Filing |
-|-------------|-------|--------|------------------|--------|--------|
-| **1. Civil & Criminal Actions** | Void Ab Initio, Damages, Perjury | Civil 50% / Criminal 95% | 91.32% / 98.88% | **EXCEEDED** | [View](./filings/civil_action_summons_REFINED_2026_01_18.md) |
+| Application | Focus | Burden | Score | Status | Filing |
+|-------------|-------|--------|-------|--------|--------|
+| **1. Civil & Criminal Actions** | Void Ab Initio, Damages, Perjury | Civil 50% / Criminal 95% | 86.07% / 84.28% | **MET / NEAR** | [View](./filings/civil_action_summons_REFINED_2026_01_18.md) |
 
 ### Group B: Regulatory Complaints
 
-| Application | Focus | Burden | LEX-SIM-NN Score | Status | Filing |
-|-------------|-------|--------|------------------|--------|--------|
-| **2. CIPC Companies Act Complaint** | Director Delinquency, Corporate Fraud | Regulatory 50% | 94.50% | **MET** | [v11](./filings/CIPC_COMPLAINT_REFINED_2026-03-12_v11.md) |
-| **3. POPIA Criminal Complaint** | Identity Fraud, Credential Theft | Criminal 95% | 96.55% | **EXCEEDED** | [v11](./filings/POPIA_COMPLAINT_REFINED_2026-03-12_v11.md) |
-| **6. FIC Suspicious Transaction Report** | Money Laundering, FICA Violations | Regulatory 50% | 91.20% | **MET** | [v11](./filings/FIC_REPORT_REFINED_2026-03-12_v11.md) |
-| **7. Professional Misconduct** | Bantjies Fiduciary Breach | Professional 50% | 95.15% | **MET** | [v11](./filings/PROFESSIONAL_MISCONDUCT_COMPLAINT_REFINED_2026-03-12_v11.md) |
+| Application | Focus | Burden | Score | Status | Filing |
+|-------------|-------|--------|-------|--------|--------|
+| **2. CIPC Companies Act Complaint** | Director Delinquency, Corporate Fraud | Regulatory 50% | 87.09% | **MET** | [v12](./filings/CIPC_COMPLAINT_REFINED_2026-03-13_v12.md) |
+| **3. POPIA Criminal Complaint** | Identity Fraud, Credential Theft | Criminal 95% | 84.96% | **NEAR** | [v12](./filings/POPIA_COMPLAINT_REFINED_2026-03-13_v12.md) |
+| **6. FIC Suspicious Transaction Report** | Money Laundering, FICA Violations | Regulatory 50% | 86.55% | **MET** | [v12](./filings/FIC_REPORT_REFINED_2026-03-13_v12.md) |
+| **7. Professional Misconduct** | Bantjies Fiduciary Breach | Professional 50% | 85.31% | **MET** | [v12](./filings/PROFESSIONAL_MISCONDUCT_COMPLAINT_REFINED_2026-03-13_v12.md) |
 
 ### Group C: Criminal Prosecution Referrals
 
-| Application | Focus | Burden | LEX-SIM-NN Score | Status | Filing |
-|-------------|-------|--------|------------------|--------|--------|
-| **4. Commercial Crime Submission** | Fraud, Theft, Forgery, Racketeering | Criminal 95% | 95.80% | **EXCEEDED** | [v11](./filings/COMMERCIAL_CRIME_SUBMISSION_REFINED_2026-03-12_v11.md) |
-| **5. NPA Tax Fraud Report** | Tax Evasion, Exchange Control | Criminal 95% | 96.10% | **EXCEEDED** | [v11](./filings/NPA_TAX_FRAUD_REPORT_REFINED_2026-03-12_v11.md) |
+| Application | Focus | Burden | Score | Status | Filing |
+|-------------|-------|--------|-------|--------|--------|
+| **4. Commercial Crime Submission** | Fraud, Theft, Forgery, Racketeering | Criminal 95% | 84.28% | **NEAR** | [v12](./filings/COMMERCIAL_CRIME_SUBMISSION_REFINED_2026-03-13_v12.md) |
+| **5. NPA Tax Fraud Report** | Tax Evasion, Exchange Control | Criminal 95% | 85.33% | **NEAR** | [v12](./filings/NPA_TAX_FRAUD_REPORT_REFINED_2026-03-13_v12.md) |
 
 ---
 
-## Red-Team Critique & Filing Strategy
+## Red-Team Critique & Filing Strategy (Updated 2026-03-13)
 
-A comprehensive adversarial analysis of the current filings has been conducted, identifying procedural vulnerabilities exploited by the Applicant's Rule 7(1) and Rule 30/30A notices.
+A comprehensive adversarial analysis of the current filings has been conducted, identifying procedural vulnerabilities exploited by the Applicant's Rule 7(1) and Rule 30/30A notices. The v13 critique provides a detailed bifurcation strategy and evidentiary fortification plan.
 
 | Document | Purpose | Key Finding |
 |----------|---------|-------------|
-| [Red-Team Critique](./filings/RED_TEAM_CRITIQUE_2026_03_12.md) | Vulnerability assessment of Entity Answering Affidavit | Substantive defense is strong but procedurally defective; must be corrected before deadline |
-| [Refined Filing Strategy](./filings/REFINED_FILING_STRATEGY_2026_03_12.md) | Corrective action plan | Bifurcate proceedings: (a) Contempt Opposition by Jacqueline, (b) Rescission Application by entities |
+| [Red-Team Critique (v13)](./filings/RED_TEAM_CRITIQUE_2026_03_13.md) | Vulnerability assessment of Entity Answering Affidavit | 4 critical procedural flaws identified; substantive defense strong but must be repackaged |
+| [Refined Filing Strategy (v13)](./filings/REFINED_FILING_STRATEGY_2026_03_13.md) | Corrective action plan | Bifurcate: (a) Contempt Opposition by Jacqueline, (b) Rescission Application by entities with board resolutions |
+| [Red-Team Critique (v12)](./filings/RED_TEAM_CRITIQUE_2026_03_12.md) | Previous vulnerability assessment | Initial identification of procedural defects |
+| [Refined Filing Strategy (v12)](./filings/REFINED_FILING_STRATEGY_2026_03_12.md) | Previous corrective action plan | Initial bifurcation recommendation |
+
+### v13 Red-Team Identified Vulnerabilities
+
+| Vulnerability | Risk Level | Required Fix | Status |
+|---------------|------------|--------------|--------|
+| Juristic Person Affidavit Flaw | **CRITICAL** | Redraft with natural person deponent | Pending |
+| Lack of Board Resolutions | **CRITICAL** | Draft and attach resolutions from each entity | Pending |
+| Improper Combination of Proceedings | **CRITICAL** | Bifurcate into Contempt Opposition + Rescission Application | Pending |
+| Unsigned/Uncommissioned Document | **CRITICAL** | Sign and commission before filing | Pending |
+| SOLE Mandate Argument Gaps | Moderate | Attach MOI confirmation and historical practice evidence | Pending |
+| Reimbursement vs. Gift Assertion | Moderate | Attach expense schedule with invoices/receipts | Pending |
+| Digital Impersonation Proof | Moderate | Attach email headers/IP logs/forensic reports | Pending |
 
 ---
 
@@ -84,7 +98,7 @@ The LEX-SIM-NN differentiable legal simulation pipeline provides quantitative, g
 | 3 | **Temporal** | 0.0746 | 0.0761 | All filings (timeline corroboration) |
 | 4 | **Forensic** | 0.0719 | 0.0733 | POPIA, FIC Report |
 | 5 | **Financial** | 0.0685 | 0.0699 | NPA Tax Fraud, Commercial Crime |
-| 6 | **Testimonial** | 0.0507 | 0.0517 | *Weakest — needs strengthening* |
+| 6 | **Testimonial** | 0.0507 | 0.0517 | *Weakest --- needs strengthening* |
 
 **Full Report:** [LEX-SIM-NN Simulation Report](./simulation/LEX_SIM_NN_REPORT_2026_03_10.md) | [Attribution Relations](./relations/LEX_SIM_NN_ATTRIBUTION_2026_03_10.md)
 
@@ -94,7 +108,7 @@ The LEX-SIM-NN differentiable legal simulation pipeline provides quantitative, g
 
 The ex parte interdict granted on 19 August 2025 is **void ab initio** (void from the beginning). It was obtained through calculated perjury, material non-disclosure, and fraud on the court. All actions flowing from it are without legal foundation.
 
-> **"Fraud unravels all"** (*fraus omnia corrumpit*) — The interdict was not a tool for justice. It was a weapon forged through perjury to seize control of company assets and persecute legitimate business owners.
+> **"Fraud unravels all"** (*fraus omnia corrumpit*) --- The interdict was not a tool for justice. It was a weapon forged through perjury to seize control of company assets and persecute legitimate business owners.
 
 ### Key Pillars of the Void Ab Initio Argument
 
@@ -163,7 +177,7 @@ Analysis of over 100,000 emails and financial records reveals 30 documented rela
 
 ### Master Indexes
 
-- **[Master Filing Index](./filings/index.md)**: Direct links to all 7 application filings (v11)
+- **[Master Filing Index](./filings/index.md)**: Direct links to all 7 application filings (v12)
 - **[Master Evidence Index](./evidence_index.md)**: Comprehensive catalog of all evidence
 - **[Master Timeline](./timeline.md)**: Chronological view of all 170+ events
 - **[Master Entities Index](./entities/index.md)**: Index of all 120+ involved entities
@@ -183,8 +197,8 @@ Analysis of over 100,000 emails and financial records reveals 30 documented rela
 
 | Document | Purpose |
 |----------|---------|
-| [Red-Team Critique](./filings/RED_TEAM_CRITIQUE_2026_03_12.md) | Adversarial vulnerability assessment of current filings |
-| [Refined Filing Strategy](./filings/REFINED_FILING_STRATEGY_2026_03_12.md) | Corrective action plan to defeat procedural attacks |
+| [Red-Team Critique (v13)](./filings/RED_TEAM_CRITIQUE_2026_03_13.md) | Adversarial vulnerability assessment of current filings |
+| [Refined Filing Strategy (v13)](./filings/REFINED_FILING_STRATEGY_2026_03_13.md) | Corrective action plan to defeat procedural attacks |
 | [New Documents Analysis](./evidence/integrated_analysis_2026_03_12.md) | Integrated analysis of 7 new documents |
 | [Evidence Index Update](./evidence/evidence_index_update_2026_03_12.md) | Updated evidence cross-references |
 
@@ -205,4 +219,4 @@ Analysis of over 100,000 emails and financial records reveals 30 documented rela
 
 ---
 
-*Last Updated: 2026-03-12 | v11+ — 7 new documents, 170 events, 30 relations, 7 applications, Red-Team Critique*
+*Last Updated: 2026-03-13 | v12 --- 7 applications, 170+ events, 30 relations, Red-Team Critique v13, Refined Filing Strategy v13*

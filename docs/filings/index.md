@@ -5,7 +5,7 @@ title: Master Filing Index
 
 # Master Filing Index
 
-**Last Updated:** 2026-03-12 (v13)
+**Last Updated:** 2026-03-13 (v13)
 **Case Number:** 2025-137857
 
 This index provides direct links to the latest versions of all formal legal applications, complaints, and strategic analysis documents prepared for the Revenue Stream Hijacking case. All filings are quantitatively assessed via the **composed LEX-SIM-NN(Neuro-NN(DigiTwin[ALP<=>NLogo]))** v13 differentiable legal simulation pipeline with per-filing meta-cognitive red-team critique, Monte Carlo cross-validation (10 seeds), evidence heatmap, and overconfidence detection.
@@ -28,28 +28,28 @@ This index provides direct links to the latest versions of all formal legal appl
 
 | Filing Type | Latest Version | Burden of Proof | Composed Score | XV-Score | Status |
 |-------------|----------------|-----------------|----------------|----------|--------|
-| **2. CIPC Companies Act Complaint** | [v11 (2026-03-12)](./CIPC_COMPLAINT_REFINED_2026-03-12_v11.md) | Regulatory (50%) | 87.09% | 91.96% | **MET** |
-| **3. POPIA Criminal Complaint** | [v11 (2026-03-12)](./POPIA_COMPLAINT_REFINED_2026-03-12_v11.md) | Criminal (95%) | 84.96% | 91.47% | **NEAR** |
-| **6. FIC Suspicious Transaction Report** | [v11 (2026-03-12)](./FIC_REPORT_REFINED_2026-03-12_v11.md) | Regulatory (50%) | 86.55% | 91.59% | **MET** |
-| **7. Professional Misconduct (Bantjies)** | [v11 (2026-03-12)](./PROFESSIONAL_MISCONDUCT_COMPLAINT_REFINED_2026-03-12_v11.md) | Professional (50%) | 85.31% | 90.72% | **MET** |
+| **2. CIPC Companies Act Complaint** | [v12 (2026-03-13)](./CIPC_COMPLAINT_REFINED_2026-03-13_v12.md) | Regulatory (50%) | 87.09% | 91.96% | **MET** |
+| **3. POPIA Criminal Complaint** | [v12 (2026-03-13)](./POPIA_COMPLAINT_REFINED_2026-03-13_v12.md) | Criminal (95%) | 84.96% | 91.47% | **NEAR** |
+| **6. FIC Suspicious Transaction Report** | [v12 (2026-03-13)](./FIC_REPORT_REFINED_2026-03-13_v12.md) | Regulatory (50%) | 86.55% | 91.59% | **MET** |
+| **7. Professional Misconduct (Bantjies)** | [v12 (2026-03-13)](./PROFESSIONAL_MISCONDUCT_COMPLAINT_REFINED_2026-03-13_v12.md) | Professional (50%) | 85.31% | 90.72% | **MET** |
 
 ## Group C: Criminal Prosecution Referrals
 
 | Filing Type | Latest Version | Burden of Proof | Composed Score | XV-Score | Status |
 |-------------|----------------|-----------------|----------------|----------|--------|
-| **4. Commercial Crime Submission** | [v11 (2026-03-12)](./COMMERCIAL_CRIME_SUBMISSION_REFINED_2026-03-12_v11.md) | Criminal (95%) | 84.28% | 91.00% | **NEAR** |
-| **5. NPA Tax Fraud Report** | [v11 (2026-03-12)](./NPA_TAX_FRAUD_REPORT_REFINED_2026-03-12_v11.md) | Criminal (95%) | 85.33% | 91.73% | **NEAR** |
+| **4. Commercial Crime Submission** | [v12 (2026-03-13)](./COMMERCIAL_CRIME_SUBMISSION_REFINED_2026-03-13_v12.md) | Criminal (95%) | 84.28% | 91.00% | **NEAR** |
+| **5. NPA Tax Fraud Report** | [v12 (2026-03-13)](./NPA_TAX_FRAUD_REPORT_REFINED_2026-03-13_v12.md) | Criminal (95%) | 85.33% | 91.73% | **NEAR** |
 
-## Strategic Analysis (New — 2026-03-12)
+## Strategic Analysis (New — 2026-03-13)
 
 Seven new legal documents were analyzed and integrated into the case. A comprehensive Red-Team Critique identified procedural vulnerabilities in the Entity Answering Affidavit that the Applicant has already begun exploiting via Rule 7(1) and Rule 30/30A notices.
 
 | Document | Purpose | Key Finding |
 |----------|---------|-------------|
-| [Red-Team Critique](./RED_TEAM_CRITIQUE_2026_03_12.md) | Adversarial vulnerability assessment | Substantive defense is strong but procedurally defective |
-| [Refined Filing Strategy](./REFINED_FILING_STRATEGY_2026_03_12.md) | Corrective action plan | Bifurcate into Contempt Opposition + Rescission Application |
+| [Red-Team Critique](./RED_TEAM_CRITIQUE_2026_03_13.md) | Adversarial vulnerability assessment | Substantive defense is strong but procedurally defective |
+| [Refined Filing Strategy](./REFINED_FILING_STRATEGY_2026_03_13.md) | Corrective action plan | Bifurcate into Contempt Opposition + Rescission Application |
 | [New Documents Analysis](../evidence/new_documents_feb_mar_2026.md) | 7 new documents catalog | Contempt, Void Ab Initio, POPIA, Rule 7(1)/30/30A |
-| [Integrated Analysis](../evidence/integrated_analysis_2026_03_12.md) | Cross-referenced analysis | Updated entities, relations, events, timeline |
+| [Integrated Analysis](../evidence/integrated_analysis_2026_03_13.md) | Cross-referenced analysis | Updated entities, relations, events, timeline |
 
 ## v13 Composed Simulation Assessment
 
@@ -87,11 +87,11 @@ The v13 composed report includes 6 adversarial defence critiques with evidence-b
 5. **Interdict Validity** — Defeated by void ab initio doctrine (12+ material non-disclosures)
 6. **Entity Correction Credibility** — Proactive correction demonstrates evidence integrity
 
-See: [Composed Simulation Report v13](../simulation/COMPOSED_REPORT_2026_03_12_v13.md)
+See: [Composed Simulation Report v13](../simulation/COMPOSED_REPORT_2026_03_13_v13.md)
 
-## Score Evolution: v11 → v12 → v13
+## Score Evolution: v12 → v12 → v13
 
-| Filing | v11 Score | v12 Composed | v13 Composed | Trend | Note |
+| Filing | v12 Score | v12 Composed | v13 Composed | Trend | Note |
 |--------|-----------|--------------|--------------|-------|------|
 | CIPC | 94.50% | 87.09% | 82.63% | ↓ | Honest recalibration with 3-vulnerability detection |
 | POPIA | 96.55% | 84.96% | 80.49% | ↓ | Financial + Testimonial gaps identified |
@@ -104,13 +104,13 @@ See: [Composed Simulation Report v13](../simulation/COMPOSED_REPORT_2026_03_12_v
 
 ## Supporting Documentation
 
-- [**Composed Simulation Report v13**](../simulation/COMPOSED_REPORT_2026_03_12_v13.md) — Full 3-layer analysis with per-filing red-team critiques
-- [Composed Results v13 (JSON)](../simulation/COMPOSED_RESULTS_2026_03_12_v13.json) — Raw simulation data
-- [Evidence Heatmap (CSV)](../simulation/EVIDENCE_HEATMAP_2026_03_12_v13.csv) — Per-event category breakdown
+- [**Composed Simulation Report v13**](../simulation/COMPOSED_REPORT_2026_03_13_v13.md) — Full 3-layer analysis with per-filing red-team critiques
+- [Composed Results v13 (JSON)](../simulation/COMPOSED_RESULTS_2026_03_13_v13.json) — Raw simulation data
+- [Evidence Heatmap (CSV)](../simulation/EVIDENCE_HEATMAP_2026_03_13_v13.csv) — Per-event category breakdown
 - [AnyLogic Model (.alp)](../simulation/LEX_DigiTwin_2025-137857.alp) — Multi-paradigm simulation model
 - [NetLogo Model (.nlogo)](../simulation/LEX_DigiTwin_2025-137857.nlogo) — Agent-based simulation model
 - [Case Specification (JSON)](../simulation/case_spec_v13.json) — Full case specification
-- [Previous: Composed Report v12](../simulation/COMPOSED_REPORT_2026_03_12_v12.md)
+- [Previous: Composed Report v12](../simulation/COMPOSED_REPORT_2026_03_13_v12.md)
 - [LEX-SIM-NN Report (v10)](../simulation/LEX_SIM_NN_REPORT_2026_03_10.md)
 - [DigiTwin Report](../simulation/DIGITWIN_REPORT_2026_03_11.md)
 - [Forensic EML Evidence Index](../evidence/forensic_eml/INDEX.md)
