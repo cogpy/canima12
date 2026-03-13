@@ -65,7 +65,7 @@ This timeline documents all significant events in the revenue stream hijacking c
 | **2024-06-28** | **Rynette Forges "pp Peter" on Trust Amendment** | **Rynette Farrar** | **T-23** | **FORGERY — installs Bantjies as trustee** | **[EVENT_103](./events/EVENT_103.md)** |
 | 2024-07-01 | Bantjies Sends ID for Trust Appointment | Bantjies | T-22 | Bantjies cooperates with fraudulent appointment | Audit trail |
 | **2024-07-01** | **Bantjies Appointed FFT Trustee** | **Bantjies, Rynette** | **T-22** | **Strategic trustee appointment before payout** | FFT trustee appointment docs |
-| **2024-07-08** | **Sage Invited User Switch Initiated** | **Rynette, Sage Support** | **T-22** | **Rynette initiates fraudulent Sage takeover** | Sage email chain |
+| **2024-07-08** | **Sage System Sabotage & Admin Takeover** | **Peter Faucitt, Rynette** | **T-22** | **CRITICAL: Peter swears affidavit to take over Sage, revoking all other users' access and breaking API integrations** | **[EVENT_015](./events/EVENT_015_SAGE_SABOTAGE.md)**, SAGE-01 to SAGE-04 |
 | **2024-07-09** | **Sage Ownership Transferred (Kayla→Pete)** | **Rynette, Peter, Sage** | **T-22** | **Fraudulent transfer of accounting system** | [EVENT_105](./events/EVENT_105.md), Sage email |
 | **2024-07-09** | **Stock2Shop "Can't log in" Ticket Opened** | **Rynette, Stock2Shop** | **T-22** | **Immediate consequence — Rynette locked out** | Stock2Shop ticket 3554982391 |
 | **2024-07-10** | **Sage API Breakage Admitted** | **Rynette Farrar** | **T-22** | **Rynette admits Shopify orders not sinking with Sage** | **[EVENT_110](./events/EVENT_110.md)** |
