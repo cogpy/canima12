@@ -14,6 +14,11 @@ The recent Rule 7(1) and Rule 30/30A notices filed by the Applicant demonstrate 
 
 The most immediate threat to the Respondents' case is procedural. The Applicant's Rule 30/30A Notice correctly identifies several fatal flaws in the "Entity Answering Affidavit" as currently filed.
 
+### 1.0 The Applicant's Own Fatal Flaw: The Dating Discrepancy
+**Vulnerability (Applicant's):** Both the Rule 7(1) and Rule 30/30A notices filed by Elliott Attorneys are explicitly dated and signed "03 DAY OF FEBRUARY 2026".
+**Critique:** This is a temporal impossibility. The notices critique the Entity Answering Affidavit which was only served on 19 February 2026 (16 days later), and relate to a Contempt Application filed on 05 February 2026 (2 days later). The actual filing date was 03 March 2026.
+**Strategic Value:** While the Applicant demands surgical procedural perfection from the Respondents, their own formal notices contain glaring clerical errors that render them temporally impossible. This undermines their demand for strict compliance and provides a strong basis for arguing condonation of any technical defects in the Respondents' filings. It also technically invalidates the 10-day deadline, as the deadline would have expired before the triggering document even existed.
+
 ### 1.1 The "Juristic Person" Affidavit Flaw
 **Vulnerability:** The document is drafted as if the corporate entities (Third to Sixth Respondents) are deposing to the affidavit. As the Applicant correctly points out, a juristic person cannot swear an oath.
 **Opponent's Attack:** Rule 30/30A Notice, Paragraphs 5.4-7.

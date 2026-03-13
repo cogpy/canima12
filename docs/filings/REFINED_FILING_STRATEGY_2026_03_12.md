@@ -9,7 +9,10 @@ Based on the Red-Team Critique of the Applicant's Rule 7(1) and Rule 30/30A Noti
 
 The Applicant's Rule 30/30A Notice (served 03 March 2026) gives a 10-day window to remedy the irregular step. Failure to do so allows the Applicant to strike the defense with punitive costs.
 
-**Action 1: Notice of Withdrawal of Irregular Step**
+**CRITICAL LEVERAGE: The Dating Discrepancy**
+Both the Rule 7(1) and Rule 30/30A notices filed by Elliott Attorneys are explicitly dated and signed "03 DAY OF FEBRUARY 2026". This is a temporal impossibility, as they critique a document served on 19 February 2026. This glaring clerical error technically invalidates the 10-day deadline (which would have expired before the triggering document existed) and provides a powerful counter-argument against their demand for strict procedural perfection.
+
+**Action 1: Notice of Withdrawal of Irregular Step (with Condonation/Irregular Step Counter)**
 - **Document:** Formal Notice of Withdrawal
 - **Content:** "Kindly take notice that the Second Respondent hereby withdraws the document titled 'Answering affidavit of the third to sixth respondent...' served on 19 February 2026, to cure the procedural defects identified in the Applicant's Rule 30/30A Notice."
 - **Purpose:** Neutralizes the Rule 30/30A threat and prevents a punitive costs order.
