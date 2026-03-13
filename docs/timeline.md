@@ -59,7 +59,7 @@ This timeline documents all significant events in the revenue stream hijacking c
 | **2022-01-12** | **Villa Via Wrong Registration Number Discovered (Since 2014)** | **Rynette Farrar, Bantjies** | **T-40** | **8 years of wrong reg number on all financial statements; neither reported to CIPC/SARS** | **[EVENT_106](./events/EVENT_106.md)** |
 | 2024-01-01 | Debt Accumulation Pattern Begins | Peter, Bantjies | T-28 | Financial motive for curatorship conspiracy | [EVENT_073](./events/EVENT_073.md) |
 | 2024-02-14 | ReZonance Dissolution Pressure | Peter Faucitt, Daniel Faucitt | T-27 | Eliminate R1M debt obstacle before trust control | ReZonance dissolution correspondence |
-| ~2024 | Rynette Makes R1M+ Debt to ReZonance 'Disappear' | Rynette Farrar | T-24 | Fraudulent misallocation of GoDaddy payments | [EVT-068](./events/EVT-068.md) |
+| **2023-2025** | **Rezonance Debt Manipulation** | **Rynette Farrar** | **T-24** | **CRITICAL: R1.03M debt to Kayla's company erased via GoDaddy misallocation** | **[EVENT_017](./events/EVENT_017_REZONANCE_DEBT_MANIPULATION.md)**, Sage Ledgers |
 | 2024-2025 | Pete & Rynette Attempt Unauthorized Banking Changes | Peter, Rynette | T-24 to T-12 | Multiple attempts to change mandates without Daniel's consent | [EVT-069](./events/EVT-069.md) |
 | **2024-04-26** | **Rynette Logs Into SARS as Bantjies — "Logged in as you"** | **Rynette Farrar, Bantjies** | **T-25** | **CRITICAL: Proves dual SARS access + credential sharing; changes banking to ABSA 63 days before forgery** | **[EVENT_107](./events/EVENT_107.md)** |
 | **2024-06-28** | **Rynette Forges "pp Peter" on Trust Amendment** | **Rynette Farrar** | **T-23** | **FORGERY — installs Bantjies as trustee** | **[EVENT_103](./events/EVENT_103.md)** |
@@ -83,6 +83,7 @@ This timeline documents all significant events in the revenue stream hijacking c
 | **2025-07-23** | **Sage Registration Expires** | Rynette Farrar | **T-10** | **CRITICAL: Rynette (owner) locks out system before interdict** | **SF11** |
 | **2025-08-11** | **Main Trustee Power Backdated** | Peter Faucitt, Jacqueline Faucitt | **T-9** | **CRITICAL: Peter gains sole control T-9 months before payout** | Main Trustee designation document |
 | **2025-08-13** | **Interdict Filed Against Jax & Dan** | Peter Faucitt, Bantjies, Jax, Daniel Faucitt | **T-9** | **CRITICAL: 48-hour betrayal, beneficiary neutralization** | Interdict application 2025-137857 |
+| **2025-09-22** | **Notice of Withdrawal from Settlements** | **Jacqueline, Daniel** | **T-8** | **CRITICAL: Withdrawal citing R12.3M extraction 7 days before mediation** | **[EVENT_016](./events/EVENT_016_SETTLEMENT_WITHDRAWAL.md)** |
 | **2025-11-26** | **Coordinated Legal Protection** | Elliott Attorneys, Pottas Attorneys, Rynette | **T-6** | **CRITICAL: Peter's attorneys protect Rynette (non-party)** | **SF13** |
 
 ---
