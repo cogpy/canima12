@@ -162,7 +162,7 @@
         <h1>Case 2025-137857</h1>
         <p>Revenue Stream Hijacking: Comprehensive Evidence Repository</p>
         <p style="font-size: 0.9rem; margin-top: 0.5rem;">Jacqueline Faucitt &amp; Daniel James Faucitt (Respondents)</p>
-        <p style="font-size: 0.85rem; margin-top: 0.5rem; background: rgba(255,255,255,0.2); display: inline-block; padding: 0.25rem 0.75rem; border-radius: 12px;">Updated: 2026-03-12 | LEX-SIM-NN(Neuro-NN(DigiTwin[ALP&lt;=&gt;NLogo])) v13 &mdash; Per-Filing Red-Team + Monte Carlo Cross-Validation</p>
+        <p style="font-size: 0.85rem; margin-top: 0.5rem; background: rgba(255,255,255,0.2); display: inline-block; padding: 0.25rem 0.75rem; border-radius: 12px;">Updated: 2026-03-13 | LEX-RECON v13 + LEX-SIM-NN(Neuro-NN(DigiTwin[ALP&lt;=&gt;NLogo])) v13 &mdash; Cross-Repo Reconciliation + Per-Filing Red-Team</p>
     </div>
 
     <div class="container">
@@ -640,10 +640,65 @@
                 <a href="models/index.html" class="evidence-link">Analytical Models Dashboard</a>
             </div>
         </div>
+
+        <!-- v13: LEX-RECON Cross-Repository Reconciliation (2026-03-13) -->
+        <div class="card">
+            <h2>LEX-RECON: Cross-Repository Reconciliation</h2>
+            <p>Full reconciliation across <strong>revstream1</strong> and <strong>ad-res-j7</strong> repositories, with email evidence corpus search (1M+ Exchange messages in Neon DB).</p>
+
+            <h3>Reconciliation Summary</h3>
+            <table>
+                <tr><th>Metric</th><th>Count</th><th>Status</th></tr>
+                <tr><td>Total MD Files Analyzed</td><td>21,852</td><td style="color:#22c55e;">Complete</td></tr>
+                <tr><td>Unique Entities</td><td>52</td><td style="color:#22c55e;">Reconciled</td></tr>
+                <tr><td>Evidence References</td><td>136</td><td style="color:#22c55e;">99.3% synced</td></tr>
+                <tr><td>Unique Events</td><td>122</td><td style="color:#22c55e;">100% coverage</td></tr>
+                <tr><td>Filing Documents</td><td>863</td><td style="color:#f59e0b;">7 canonical identified</td></tr>
+                <tr><td>Conflicts Detected</td><td>6</td><td style="color:#ef4444;">P1 — Filing version conflicts</td></tr>
+                <tr><td>Gaps Detected</td><td>27</td><td style="color:#f59e0b;">P2 — Evidence sync needed</td></tr>
+                <tr><td>Duplicates</td><td>93</td><td style="color:#6b7280;">P3 — Tracked in manifest</td></tr>
+            </table>
+
+            <h3>Email Evidence Corpus Search</h3>
+            <table>
+                <tr><th>Search Query</th><th>Hits</th><th>Significance</th></tr>
+                <tr><td>Bantjies communications</td><td>100+</td><td>Full attorney communication trail</td></tr>
+                <tr><td>Banking details redirect</td><td>100+</td><td>Revenue diversion evidence</td></tr>
+                <tr><td>Linda Kruger</td><td>100+</td><td>Employee involvement confirmed</td></tr>
+                <tr><td>Sage account takeover</td><td>100+</td><td>Accounting system manipulation</td></tr>
+                <tr><td>Stock2Shop API</td><td>100+</td><td>E-commerce disruption timeline</td></tr>
+                <tr><td>Ketoni/SHA</td><td>47</td><td>Settlement documentation</td></tr>
+                <tr><td>Domain transfer</td><td>53</td><td>Domain hijacking evidence</td></tr>
+            </table>
+
+            <h3>Critical Finding: Filing Version Proliferation</h3>
+            <div class="critical-box">
+                <strong>170+ filing versions</strong> scattered across multiple directories. A <a href="filings/FILING_VERSIONS.md">Filing Version Manifest</a> has been created to establish the 7 canonical filings. All others are superseded.
+            </div>
+
+            <h3>Evidence Strength Post-Reconciliation</h3>
+            <table>
+                <tr><th>Category</th><th>Email Hits</th><th>Assessment</th><th>Score</th></tr>
+                <tr><td>Temporal</td><td>400+</td><td style="color:#22c55e;">STRONG</td><td>0.89</td></tr>
+                <tr><td>Documentary</td><td>1,732+</td><td style="color:#22c55e;">STRONG</td><td>0.87</td></tr>
+                <tr><td>Relational</td><td>100+</td><td style="color:#22c55e;">STRONG</td><td>0.83</td></tr>
+                <tr><td>Forensic</td><td>355</td><td style="color:#f59e0b;">BORDERLINE</td><td>0.73</td></tr>
+                <tr><td>Financial</td><td>100+</td><td style="color:#f59e0b;">MODERATE</td><td>0.64</td></tr>
+                <tr><td>Testimonial</td><td>0 affidavits</td><td style="color:#ef4444;">WEAK</td><td>0.45</td></tr>
+            </table>
+
+            <h3>Downloads</h3>
+            <div style="display: flex; flex-wrap: wrap; gap: 0.5rem; margin-top: 0.5rem;">
+                <a href="../lex-recon-results/RECONCILIATION_ANALYSIS_v13.md" class="evidence-link">Reconciliation Analysis (v13)</a>
+                <a href="../lex-recon-results/RECON_REPORT_2026_03_13.md" class="evidence-link">Full Recon Report (1,603 lines)</a>
+                <a href="../lex-recon-results/recon_data_2026_03_13.json" class="evidence-link">Recon Data (JSON)</a>
+                <a href="filings/FILING_VERSIONS.md" class="evidence-link red">Filing Version Manifest</a>
+            </div>
+        </div>
     </div>
 
     <footer>
-        <p>Case 2025-137857 | Last Updated: 2026-03-12 | Composed Simulation v13: LEX-SIM-NN(Neuro-NN(DigiTwin[ALP&lt;=&gt;NLogo])) + Per-Filing Red-Team + Monte Carlo XV + Evidence Heatmap</p>
+        <p>Case 2025-137857 | Last Updated: 2026-03-13 | LEX-RECON v13 + Composed Simulation v13: LEX-SIM-NN(Neuro-NN(DigiTwin[ALP&lt;=&gt;NLogo])) + Per-Filing Red-Team + Monte Carlo XV + Evidence Heatmap</p>
         <p>Repository: <a href="https://github.com/cogpy/revstream1" style="color: #667eea;">cogpy/revstream1</a> | Evidence: <a href="https://github.com/cogpy/ad-res-j7" style="color: #667eea;">cogpy/ad-res-j7</a></p>
     </footer>
 </body>

@@ -1,0 +1,5018 @@
+{
+  "timestamp": "2026-03-13T09:44:25.648131Z",
+  "repos": [
+    "revstream1",
+    "ad-res-j7"
+  ],
+  "summary": {
+    "total_evidence_refs": 136,
+    "total_events": 122,
+    "total_facts": 25,
+    "total_filings": 863,
+    "conflicts": 6,
+    "gaps": 27,
+    "duplicates": 93,
+    "recommendations": 100
+  },
+  "evidence_refs": {
+    "SF1": {
+      "sources": [
+        "ad-res-j7",
+        "revstream1"
+      ],
+      "file_count": 254
+    },
+    "JF14": {
+      "sources": [
+        "ad-res-j7",
+        "revstream1"
+      ],
+      "file_count": 55
+    },
+    "JF08": {
+      "sources": [
+        "ad-res-j7",
+        "revstream1"
+      ],
+      "file_count": 380
+    },
+    "SF4": {
+      "sources": [
+        "ad-res-j7",
+        "revstream1"
+      ],
+      "file_count": 169
+    },
+    "JF03": {
+      "sources": [
+        "ad-res-j7",
+        "revstream1"
+      ],
+      "file_count": 348
+    },
+    "SF9": {
+      "sources": [
+        "ad-res-j7",
+        "revstream1"
+      ],
+      "file_count": 137
+    },
+    "SF2": {
+      "sources": [
+        "ad-res-j7",
+        "revstream1"
+      ],
+      "file_count": 307
+    },
+    "SF3": {
+      "sources": [
+        "ad-res-j7",
+        "revstream1"
+      ],
+      "file_count": 179
+    },
+    "SF6": {
+      "sources": [
+        "ad-res-j7",
+        "revstream1"
+      ],
+      "file_count": 212
+    },
+    "SF7": {
+      "sources": [
+        "ad-res-j7",
+        "revstream1"
+      ],
+      "file_count": 124
+    },
+    "JF01": {
+      "sources": [
+        "ad-res-j7",
+        "revstream1"
+      ],
+      "file_count": 331
+    },
+    "JF07": {
+      "sources": [
+        "ad-res-j7",
+        "revstream1"
+      ],
+      "file_count": 513
+    },
+    "JF15": {
+      "sources": [
+        "ad-res-j7",
+        "revstream1"
+      ],
+      "file_count": 40
+    },
+    "JF04": {
+      "sources": [
+        "ad-res-j7",
+        "revstream1"
+      ],
+      "file_count": 295
+    },
+    "SF10": {
+      "sources": [
+        "ad-res-j7",
+        "revstream1"
+      ],
+      "file_count": 163
+    },
+    "SF15": {
+      "sources": [
+        "ad-res-j7",
+        "revstream1"
+      ],
+      "file_count": 67
+    },
+    "JF12": {
+      "sources": [
+        "ad-res-j7",
+        "revstream1"
+      ],
+      "file_count": 102
+    },
+    "SF8": {
+      "sources": [
+        "ad-res-j7",
+        "revstream1"
+      ],
+      "file_count": 122
+    },
+    "SF11": {
+      "sources": [
+        "ad-res-j7",
+        "revstream1"
+      ],
+      "file_count": 84
+    },
+    "DF4": {
+      "sources": [
+        "ad-res-j7",
+        "revstream1"
+      ],
+      "file_count": 41
+    },
+    "DF8": {
+      "sources": [
+        "ad-res-j7",
+        "revstream1"
+      ],
+      "file_count": 44
+    },
+    "DF2": {
+      "sources": [
+        "ad-res-j7",
+        "revstream1"
+      ],
+      "file_count": 56
+    },
+    "DF6": {
+      "sources": [
+        "ad-res-j7",
+        "revstream1"
+      ],
+      "file_count": 31
+    },
+    "DF1": {
+      "sources": [
+        "ad-res-j7",
+        "revstream1"
+      ],
+      "file_count": 39
+    },
+    "DF9": {
+      "sources": [
+        "ad-res-j7",
+        "revstream1"
+      ],
+      "file_count": 21
+    },
+    "DF3": {
+      "sources": [
+        "ad-res-j7",
+        "revstream1"
+      ],
+      "file_count": 44
+    },
+    "DF5": {
+      "sources": [
+        "ad-res-j7",
+        "revstream1"
+      ],
+      "file_count": 42
+    },
+    "DF7": {
+      "sources": [
+        "ad-res-j7",
+        "revstream1"
+      ],
+      "file_count": 21
+    },
+    "SF14": {
+      "sources": [
+        "ad-res-j7",
+        "revstream1"
+      ],
+      "file_count": 34
+    },
+    "SF13": {
+      "sources": [
+        "ad-res-j7",
+        "revstream1"
+      ],
+      "file_count": 34
+    },
+    "SF12": {
+      "sources": [
+        "ad-res-j7",
+        "revstream1"
+      ],
+      "file_count": 25
+    },
+    "JF06": {
+      "sources": [
+        "ad-res-j7",
+        "revstream1"
+      ],
+      "file_count": 177
+    },
+    "JF13": {
+      "sources": [
+        "ad-res-j7",
+        "revstream1"
+      ],
+      "file_count": 128
+    },
+    "JF05": {
+      "sources": [
+        "ad-res-j7",
+        "revstream1"
+      ],
+      "file_count": 210
+    },
+    "SF5": {
+      "sources": [
+        "ad-res-j7",
+        "revstream1"
+      ],
+      "file_count": 129
+    },
+    "JF09": {
+      "sources": [
+        "ad-res-j7",
+        "revstream1"
+      ],
+      "file_count": 179
+    },
+    "JF02": {
+      "sources": [
+        "ad-res-j7",
+        "revstream1"
+      ],
+      "file_count": 179
+    },
+    "JF10": {
+      "sources": [
+        "ad-res-j7",
+        "revstream1"
+      ],
+      "file_count": 221
+    },
+    "JF2": {
+      "sources": [
+        "ad-res-j7",
+        "revstream1"
+      ],
+      "file_count": 104
+    },
+    "JF11": {
+      "sources": [
+        "ad-res-j7",
+        "revstream1"
+      ],
+      "file_count": 77
+    },
+    "JF1": {
+      "sources": [
+        "ad-res-j7",
+        "revstream1"
+      ],
+      "file_count": 157
+    },
+    "JF8": {
+      "sources": [
+        "ad-res-j7",
+        "revstream1"
+      ],
+      "file_count": 194
+    },
+    "JF3": {
+      "sources": [
+        "ad-res-j7",
+        "revstream1"
+      ],
+      "file_count": 176
+    },
+    "JF5": {
+      "sources": [
+        "ad-res-j7",
+        "revstream1"
+      ],
+      "file_count": 231
+    },
+    "JF7": {
+      "sources": [
+        "ad-res-j7",
+        "revstream1"
+      ],
+      "file_count": 89
+    },
+    "JF4": {
+      "sources": [
+        "ad-res-j7",
+        "revstream1"
+      ],
+      "file_count": 109
+    },
+    "JF9": {
+      "sources": [
+        "ad-res-j7",
+        "revstream1"
+      ],
+      "file_count": 59
+    },
+    "JF6": {
+      "sources": [
+        "ad-res-j7",
+        "revstream1"
+      ],
+      "file_count": 70
+    },
+    "JF16": {
+      "sources": [
+        "ad-res-j7",
+        "revstream1"
+      ],
+      "file_count": 25
+    },
+    "JF20": {
+      "sources": [
+        "ad-res-j7",
+        "revstream1"
+      ],
+      "file_count": 7
+    },
+    "SF16": {
+      "sources": [
+        "ad-res-j7",
+        "revstream1"
+      ],
+      "file_count": 18
+    },
+    "DF10": {
+      "sources": [
+        "ad-res-j7",
+        "revstream1"
+      ],
+      "file_count": 17
+    },
+    "DF29": {
+      "sources": [
+        "ad-res-j7",
+        "revstream1"
+      ],
+      "file_count": 4
+    },
+    "DF46": {
+      "sources": [
+        "ad-res-j7",
+        "revstream1"
+      ],
+      "file_count": 4
+    },
+    "DF933": {
+      "sources": [
+        "revstream1"
+      ],
+      "file_count": 1
+    },
+    "DF74": {
+      "sources": [
+        "ad-res-j7",
+        "revstream1"
+      ],
+      "file_count": 3
+    },
+    "JF21": {
+      "sources": [
+        "ad-res-j7",
+        "revstream1"
+      ],
+      "file_count": 3
+    },
+    "DF07": {
+      "sources": [
+        "ad-res-j7",
+        "revstream1"
+      ],
+      "file_count": 7
+    },
+    "DF24": {
+      "sources": [
+        "ad-res-j7",
+        "revstream1"
+      ],
+      "file_count": 3
+    },
+    "DF63": {
+      "sources": [
+        "ad-res-j7",
+        "revstream1"
+      ],
+      "file_count": 3
+    },
+    "DF02": {
+      "sources": [
+        "ad-res-j7",
+        "revstream1"
+      ],
+      "file_count": 9
+    },
+    "DF54": {
+      "sources": [
+        "ad-res-j7",
+        "revstream1"
+      ],
+      "file_count": 3
+    },
+    "DF73": {
+      "sources": [
+        "ad-res-j7",
+        "revstream1"
+      ],
+      "file_count": 3
+    },
+    "DF27": {
+      "sources": [
+        "ad-res-j7",
+        "revstream1"
+      ],
+      "file_count": 3
+    },
+    "DF62": {
+      "sources": [
+        "ad-res-j7",
+        "revstream1"
+      ],
+      "file_count": 3
+    },
+    "DF09": {
+      "sources": [
+        "ad-res-j7",
+        "revstream1"
+      ],
+      "file_count": 7
+    },
+    "DF15": {
+      "sources": [
+        "ad-res-j7",
+        "revstream1"
+      ],
+      "file_count": 8
+    },
+    "DF49": {
+      "sources": [
+        "ad-res-j7",
+        "revstream1"
+      ],
+      "file_count": 3
+    },
+    "DF21": {
+      "sources": [
+        "ad-res-j7",
+        "revstream1"
+      ],
+      "file_count": 6
+    },
+    "DF31": {
+      "sources": [
+        "ad-res-j7",
+        "revstream1"
+      ],
+      "file_count": 5
+    },
+    "DF66": {
+      "sources": [
+        "ad-res-j7",
+        "revstream1"
+      ],
+      "file_count": 3
+    },
+    "DF69": {
+      "sources": [
+        "ad-res-j7",
+        "revstream1"
+      ],
+      "file_count": 3
+    },
+    "DF001": {
+      "sources": [
+        "ad-res-j7",
+        "revstream1"
+      ],
+      "file_count": 14
+    },
+    "DF06": {
+      "sources": [
+        "ad-res-j7",
+        "revstream1"
+      ],
+      "file_count": 7
+    },
+    "DF36": {
+      "sources": [
+        "ad-res-j7",
+        "revstream1"
+      ],
+      "file_count": 3
+    },
+    "DF50": {
+      "sources": [
+        "ad-res-j7",
+        "revstream1"
+      ],
+      "file_count": 3
+    },
+    "DF56": {
+      "sources": [
+        "ad-res-j7",
+        "revstream1"
+      ],
+      "file_count": 3
+    },
+    "DF14": {
+      "sources": [
+        "ad-res-j7",
+        "revstream1"
+      ],
+      "file_count": 10
+    },
+    "DF13": {
+      "sources": [
+        "ad-res-j7",
+        "revstream1"
+      ],
+      "file_count": 13
+    },
+    "DF35": {
+      "sources": [
+        "ad-res-j7",
+        "revstream1"
+      ],
+      "file_count": 3
+    },
+    "DF12": {
+      "sources": [
+        "ad-res-j7",
+        "revstream1"
+      ],
+      "file_count": 14
+    },
+    "DF47": {
+      "sources": [
+        "ad-res-j7",
+        "revstream1"
+      ],
+      "file_count": 3
+    },
+    "DF55": {
+      "sources": [
+        "ad-res-j7",
+        "revstream1"
+      ],
+      "file_count": 3
+    },
+    "DF70": {
+      "sources": [
+        "ad-res-j7",
+        "revstream1"
+      ],
+      "file_count": 3
+    },
+    "DF58": {
+      "sources": [
+        "ad-res-j7",
+        "revstream1"
+      ],
+      "file_count": 4
+    },
+    "DF42": {
+      "sources": [
+        "ad-res-j7",
+        "revstream1"
+      ],
+      "file_count": 3
+    },
+    "DF65": {
+      "sources": [
+        "ad-res-j7",
+        "revstream1"
+      ],
+      "file_count": 3
+    },
+    "DF64": {
+      "sources": [
+        "ad-res-j7",
+        "revstream1"
+      ],
+      "file_count": 3
+    },
+    "SF99": {
+      "sources": [
+        "ad-res-j7",
+        "revstream1"
+      ],
+      "file_count": 3
+    },
+    "DF03": {
+      "sources": [
+        "ad-res-j7",
+        "revstream1"
+      ],
+      "file_count": 9
+    },
+    "DF40": {
+      "sources": [
+        "ad-res-j7",
+        "revstream1"
+      ],
+      "file_count": 4
+    },
+    "DF18": {
+      "sources": [
+        "ad-res-j7",
+        "revstream1"
+      ],
+      "file_count": 6
+    },
+    "DF60": {
+      "sources": [
+        "ad-res-j7",
+        "revstream1"
+      ],
+      "file_count": 3
+    },
+    "DF129": {
+      "sources": [
+        "ad-res-j7",
+        "revstream1"
+      ],
+      "file_count": 8
+    },
+    "DF28": {
+      "sources": [
+        "ad-res-j7",
+        "revstream1"
+      ],
+      "file_count": 3
+    },
+    "DF39": {
+      "sources": [
+        "ad-res-j7",
+        "revstream1"
+      ],
+      "file_count": 3
+    },
+    "DF26": {
+      "sources": [
+        "ad-res-j7",
+        "revstream1"
+      ],
+      "file_count": 4
+    },
+    "DF16": {
+      "sources": [
+        "ad-res-j7",
+        "revstream1"
+      ],
+      "file_count": 7
+    },
+    "DF17": {
+      "sources": [
+        "ad-res-j7",
+        "revstream1"
+      ],
+      "file_count": 6
+    },
+    "SF03": {
+      "sources": [
+        "ad-res-j7",
+        "revstream1"
+      ],
+      "file_count": 5
+    },
+    "DF08": {
+      "sources": [
+        "ad-res-j7",
+        "revstream1"
+      ],
+      "file_count": 7
+    },
+    "DF33": {
+      "sources": [
+        "ad-res-j7",
+        "revstream1"
+      ],
+      "file_count": 3
+    },
+    "DF34": {
+      "sources": [
+        "ad-res-j7",
+        "revstream1"
+      ],
+      "file_count": 3
+    },
+    "DF04": {
+      "sources": [
+        "ad-res-j7",
+        "revstream1"
+      ],
+      "file_count": 8
+    },
+    "DF41": {
+      "sources": [
+        "ad-res-j7",
+        "revstream1"
+      ],
+      "file_count": 3
+    },
+    "DF25": {
+      "sources": [
+        "ad-res-j7",
+        "revstream1"
+      ],
+      "file_count": 3
+    },
+    "DF38": {
+      "sources": [
+        "ad-res-j7",
+        "revstream1"
+      ],
+      "file_count": 3
+    },
+    "DF20": {
+      "sources": [
+        "ad-res-j7",
+        "revstream1"
+      ],
+      "file_count": 6
+    },
+    "DF71": {
+      "sources": [
+        "ad-res-j7",
+        "revstream1"
+      ],
+      "file_count": 3
+    },
+    "DF32": {
+      "sources": [
+        "ad-res-j7",
+        "revstream1"
+      ],
+      "file_count": 3
+    },
+    "DF23": {
+      "sources": [
+        "ad-res-j7",
+        "revstream1"
+      ],
+      "file_count": 3
+    },
+    "DF51": {
+      "sources": [
+        "ad-res-j7",
+        "revstream1"
+      ],
+      "file_count": 3
+    },
+    "DF30": {
+      "sources": [
+        "ad-res-j7",
+        "revstream1"
+      ],
+      "file_count": 4
+    },
+    "DF57": {
+      "sources": [
+        "ad-res-j7",
+        "revstream1"
+      ],
+      "file_count": 3
+    },
+    "DF45": {
+      "sources": [
+        "ad-res-j7",
+        "revstream1"
+      ],
+      "file_count": 3
+    },
+    "JF99": {
+      "sources": [
+        "ad-res-j7",
+        "revstream1"
+      ],
+      "file_count": 3
+    },
+    "DF11": {
+      "sources": [
+        "ad-res-j7",
+        "revstream1"
+      ],
+      "file_count": 12
+    },
+    "SF02": {
+      "sources": [
+        "ad-res-j7",
+        "revstream1"
+      ],
+      "file_count": 4
+    },
+    "DF22": {
+      "sources": [
+        "ad-res-j7",
+        "revstream1"
+      ],
+      "file_count": 3
+    },
+    "DF75": {
+      "sources": [
+        "ad-res-j7",
+        "revstream1"
+      ],
+      "file_count": 3
+    },
+    "DF72": {
+      "sources": [
+        "ad-res-j7",
+        "revstream1"
+      ],
+      "file_count": 3
+    },
+    "DF68": {
+      "sources": [
+        "ad-res-j7",
+        "revstream1"
+      ],
+      "file_count": 3
+    },
+    "DF44": {
+      "sources": [
+        "ad-res-j7",
+        "revstream1"
+      ],
+      "file_count": 4
+    },
+    "DF61": {
+      "sources": [
+        "ad-res-j7",
+        "revstream1"
+      ],
+      "file_count": 3
+    },
+    "DF01": {
+      "sources": [
+        "ad-res-j7",
+        "revstream1"
+      ],
+      "file_count": 11
+    },
+    "DF52": {
+      "sources": [
+        "ad-res-j7",
+        "revstream1"
+      ],
+      "file_count": 3
+    },
+    "DF19": {
+      "sources": [
+        "ad-res-j7",
+        "revstream1"
+      ],
+      "file_count": 6
+    },
+    "DF37": {
+      "sources": [
+        "ad-res-j7",
+        "revstream1"
+      ],
+      "file_count": 3
+    },
+    "DF43": {
+      "sources": [
+        "ad-res-j7",
+        "revstream1"
+      ],
+      "file_count": 4
+    },
+    "DF67": {
+      "sources": [
+        "ad-res-j7",
+        "revstream1"
+      ],
+      "file_count": 3
+    },
+    "DF48": {
+      "sources": [
+        "ad-res-j7",
+        "revstream1"
+      ],
+      "file_count": 3
+    },
+    "SF01": {
+      "sources": [
+        "ad-res-j7",
+        "revstream1"
+      ],
+      "file_count": 5
+    },
+    "DF76": {
+      "sources": [
+        "ad-res-j7",
+        "revstream1"
+      ],
+      "file_count": 4
+    },
+    "DF05": {
+      "sources": [
+        "ad-res-j7",
+        "revstream1"
+      ],
+      "file_count": 7
+    },
+    "DF53": {
+      "sources": [
+        "ad-res-j7",
+        "revstream1"
+      ],
+      "file_count": 3
+    },
+    "DF59": {
+      "sources": [
+        "ad-res-j7",
+        "revstream1"
+      ],
+      "file_count": 4
+    }
+  },
+  "events": {
+    "EVENT_029": {
+      "sources": [
+        "ad-res-j7",
+        "revstream1"
+      ],
+      "file_count": 95
+    },
+    "EVENT_049": {
+      "sources": [
+        "ad-res-j7",
+        "revstream1"
+      ],
+      "file_count": 100
+    },
+    "EVENT_102": {
+      "sources": [
+        "ad-res-j7",
+        "revstream1"
+      ],
+      "file_count": 13
+    },
+    "EVENT_096": {
+      "sources": [
+        "ad-res-j7",
+        "revstream1"
+      ],
+      "file_count": 16
+    },
+    "EVENT_058": {
+      "sources": [
+        "ad-res-j7",
+        "revstream1"
+      ],
+      "file_count": 112
+    },
+    "EVENT_066": {
+      "sources": [
+        "ad-res-j7",
+        "revstream1"
+      ],
+      "file_count": 56
+    },
+    "EVENT_019": {
+      "sources": [
+        "ad-res-j7",
+        "revstream1"
+      ],
+      "file_count": 104
+    },
+    "EVENT_089": {
+      "sources": [
+        "ad-res-j7",
+        "revstream1"
+      ],
+      "file_count": 48
+    },
+    "EVENT_010": {
+      "sources": [
+        "ad-res-j7",
+        "revstream1"
+      ],
+      "file_count": 161
+    },
+    "EVENT_004": {
+      "sources": [
+        "ad-res-j7",
+        "revstream1"
+      ],
+      "file_count": 132
+    },
+    "EVENT_064": {
+      "sources": [
+        "ad-res-j7",
+        "revstream1"
+      ],
+      "file_count": 47
+    },
+    "EVENT_001": {
+      "sources": [
+        "ad-res-j7",
+        "revstream1"
+      ],
+      "file_count": 168
+    },
+    "EVENT_015": {
+      "sources": [
+        "ad-res-j7",
+        "revstream1"
+      ],
+      "file_count": 101
+    },
+    "EVENT_091": {
+      "sources": [
+        "ad-res-j7",
+        "revstream1"
+      ],
+      "file_count": 37
+    },
+    "EVENT_023": {
+      "sources": [
+        "ad-res-j7",
+        "revstream1"
+      ],
+      "file_count": 128
+    },
+    "EVENT_007": {
+      "sources": [
+        "ad-res-j7",
+        "revstream1"
+      ],
+      "file_count": 118
+    },
+    "EVENT_092": {
+      "sources": [
+        "ad-res-j7",
+        "revstream1"
+      ],
+      "file_count": 25
+    },
+    "EVENT_017": {
+      "sources": [
+        "ad-res-j7",
+        "revstream1"
+      ],
+      "file_count": 106
+    },
+    "EVENT_006": {
+      "sources": [
+        "ad-res-j7",
+        "revstream1"
+      ],
+      "file_count": 108
+    },
+    "EVENT_014": {
+      "sources": [
+        "ad-res-j7",
+        "revstream1"
+      ],
+      "file_count": 151
+    },
+    "EVENT_012": {
+      "sources": [
+        "ad-res-j7",
+        "revstream1"
+      ],
+      "file_count": 138
+    },
+    "EVENT_99": {
+      "sources": [
+        "ad-res-j7",
+        "revstream1"
+      ],
+      "file_count": 11
+    },
+    "EVENT_047": {
+      "sources": [
+        "ad-res-j7",
+        "revstream1"
+      ],
+      "file_count": 96
+    },
+    "EVENT_065": {
+      "sources": [
+        "ad-res-j7",
+        "revstream1"
+      ],
+      "file_count": 60
+    },
+    "EVENT_100": {
+      "sources": [
+        "ad-res-j7",
+        "revstream1"
+      ],
+      "file_count": 17
+    },
+    "EVENT_020": {
+      "sources": [
+        "ad-res-j7",
+        "revstream1"
+      ],
+      "file_count": 110
+    },
+    "EVENT_087": {
+      "sources": [
+        "ad-res-j7",
+        "revstream1"
+      ],
+      "file_count": 55
+    },
+    "EVENT_093": {
+      "sources": [
+        "ad-res-j7",
+        "revstream1"
+      ],
+      "file_count": 24
+    },
+    "EVENT_021": {
+      "sources": [
+        "ad-res-j7",
+        "revstream1"
+      ],
+      "file_count": 104
+    },
+    "EVENT_005": {
+      "sources": [
+        "ad-res-j7",
+        "revstream1"
+      ],
+      "file_count": 134
+    },
+    "EVENT_051": {
+      "sources": [
+        "ad-res-j7",
+        "revstream1"
+      ],
+      "file_count": 117
+    },
+    "EVENT_055": {
+      "sources": [
+        "ad-res-j7",
+        "revstream1"
+      ],
+      "file_count": 93
+    },
+    "EVENT_086": {
+      "sources": [
+        "ad-res-j7",
+        "revstream1"
+      ],
+      "file_count": 56
+    },
+    "EVENT_088": {
+      "sources": [
+        "ad-res-j7",
+        "revstream1"
+      ],
+      "file_count": 44
+    },
+    "EVENT_061": {
+      "sources": [
+        "ad-res-j7",
+        "revstream1"
+      ],
+      "file_count": 94
+    },
+    "EVENT_057": {
+      "sources": [
+        "ad-res-j7",
+        "revstream1"
+      ],
+      "file_count": 92
+    },
+    "EVENT_018": {
+      "sources": [
+        "ad-res-j7",
+        "revstream1"
+      ],
+      "file_count": 106
+    },
+    "EVENT_103": {
+      "sources": [
+        "ad-res-j7",
+        "revstream1"
+      ],
+      "file_count": 55
+    },
+    "EVENT_048": {
+      "sources": [
+        "ad-res-j7",
+        "revstream1"
+      ],
+      "file_count": 112
+    },
+    "EVENT_026": {
+      "sources": [
+        "ad-res-j7",
+        "revstream1"
+      ],
+      "file_count": 161
+    },
+    "EVENT_054": {
+      "sources": [
+        "ad-res-j7",
+        "revstream1"
+      ],
+      "file_count": 86
+    },
+    "EVENT_104": {
+      "sources": [
+        "ad-res-j7",
+        "revstream1"
+      ],
+      "file_count": 32
+    },
+    "EVENT_052": {
+      "sources": [
+        "ad-res-j7",
+        "revstream1"
+      ],
+      "file_count": 93
+    },
+    "EVENT_090": {
+      "sources": [
+        "ad-res-j7",
+        "revstream1"
+      ],
+      "file_count": 41
+    },
+    "EVENT_013": {
+      "sources": [
+        "ad-res-j7",
+        "revstream1"
+      ],
+      "file_count": 111
+    },
+    "EVENT_097": {
+      "sources": [
+        "ad-res-j7",
+        "revstream1"
+      ],
+      "file_count": 15
+    },
+    "EVENT_050": {
+      "sources": [
+        "ad-res-j7",
+        "revstream1"
+      ],
+      "file_count": 93
+    },
+    "EVENT_025": {
+      "sources": [
+        "ad-res-j7",
+        "revstream1"
+      ],
+      "file_count": 132
+    },
+    "EVENT_022": {
+      "sources": [
+        "ad-res-j7",
+        "revstream1"
+      ],
+      "file_count": 161
+    },
+    "EVENT_027": {
+      "sources": [
+        "ad-res-j7",
+        "revstream1"
+      ],
+      "file_count": 181
+    },
+    "EVENT_094": {
+      "sources": [
+        "ad-res-j7",
+        "revstream1"
+      ],
+      "file_count": 19
+    },
+    "EVENT_060": {
+      "sources": [
+        "ad-res-j7",
+        "revstream1"
+      ],
+      "file_count": 95
+    },
+    "EVENT_028": {
+      "sources": [
+        "ad-res-j7",
+        "revstream1"
+      ],
+      "file_count": 129
+    },
+    "EVENT_024": {
+      "sources": [
+        "ad-res-j7",
+        "revstream1"
+      ],
+      "file_count": 160
+    },
+    "EVENT_008": {
+      "sources": [
+        "ad-res-j7",
+        "revstream1"
+      ],
+      "file_count": 143
+    },
+    "EVENT_101": {
+      "sources": [
+        "ad-res-j7",
+        "revstream1"
+      ],
+      "file_count": 16
+    },
+    "EVENT_002": {
+      "sources": [
+        "ad-res-j7",
+        "revstream1"
+      ],
+      "file_count": 111
+    },
+    "EVENT_009": {
+      "sources": [
+        "ad-res-j7",
+        "revstream1"
+      ],
+      "file_count": 130
+    },
+    "EVENT_011": {
+      "sources": [
+        "ad-res-j7",
+        "revstream1"
+      ],
+      "file_count": 117
+    },
+    "EVENT_067": {
+      "sources": [
+        "ad-res-j7",
+        "revstream1"
+      ],
+      "file_count": 46
+    },
+    "EVENT_053": {
+      "sources": [
+        "ad-res-j7",
+        "revstream1"
+      ],
+      "file_count": 92
+    },
+    "EVENT_098": {
+      "sources": [
+        "ad-res-j7",
+        "revstream1"
+      ],
+      "file_count": 17
+    },
+    "EVENT_056": {
+      "sources": [
+        "ad-res-j7",
+        "revstream1"
+      ],
+      "file_count": 87
+    },
+    "EVENT_003": {
+      "sources": [
+        "ad-res-j7",
+        "revstream1"
+      ],
+      "file_count": 149
+    },
+    "EVENT_016": {
+      "sources": [
+        "ad-res-j7",
+        "revstream1"
+      ],
+      "file_count": 107
+    },
+    "EVENT_059": {
+      "sources": [
+        "ad-res-j7",
+        "revstream1"
+      ],
+      "file_count": 92
+    },
+    "EVENT_095": {
+      "sources": [
+        "ad-res-j7",
+        "revstream1"
+      ],
+      "file_count": 15
+    },
+    "EVENT_121": {
+      "sources": [
+        "ad-res-j7",
+        "revstream1"
+      ],
+      "file_count": 18
+    },
+    "EVENT_073": {
+      "sources": [
+        "ad-res-j7",
+        "revstream1"
+      ],
+      "file_count": 45
+    },
+    "EVENT_124": {
+      "sources": [
+        "ad-res-j7",
+        "revstream1"
+      ],
+      "file_count": 24
+    },
+    "EVENT_107": {
+      "sources": [
+        "revstream1"
+      ],
+      "file_count": 17
+    },
+    "EVENT_109": {
+      "sources": [
+        "revstream1"
+      ],
+      "file_count": 2
+    },
+    "EVENT_106": {
+      "sources": [
+        "revstream1"
+      ],
+      "file_count": 10
+    },
+    "EVENT_110": {
+      "sources": [
+        "ad-res-j7",
+        "revstream1"
+      ],
+      "file_count": 5
+    },
+    "EVENT_108": {
+      "sources": [
+        "ad-res-j7",
+        "revstream1"
+      ],
+      "file_count": 14
+    },
+    "EVENT_105": {
+      "sources": [
+        "revstream1"
+      ],
+      "file_count": 14
+    },
+    "EVENT_062": {
+      "sources": [
+        "ad-res-j7",
+        "revstream1"
+      ],
+      "file_count": 46
+    },
+    "EVENT_063": {
+      "sources": [
+        "ad-res-j7",
+        "revstream1"
+      ],
+      "file_count": 74
+    },
+    "EVENT_070": {
+      "sources": [
+        "ad-res-j7",
+        "revstream1"
+      ],
+      "file_count": 50
+    },
+    "EVENT_071": {
+      "sources": [
+        "ad-res-j7",
+        "revstream1"
+      ],
+      "file_count": 45
+    },
+    "EVENT_072": {
+      "sources": [
+        "ad-res-j7",
+        "revstream1"
+      ],
+      "file_count": 45
+    },
+    "EVENT_074": {
+      "sources": [
+        "ad-res-j7",
+        "revstream1"
+      ],
+      "file_count": 26
+    },
+    "EVENT_075": {
+      "sources": [
+        "ad-res-j7",
+        "revstream1"
+      ],
+      "file_count": 30
+    },
+    "EVENT_076": {
+      "sources": [
+        "ad-res-j7",
+        "revstream1"
+      ],
+      "file_count": 44
+    },
+    "EVENT_077": {
+      "sources": [
+        "ad-res-j7",
+        "revstream1"
+      ],
+      "file_count": 26
+    },
+    "EVENT_078": {
+      "sources": [
+        "ad-res-j7",
+        "revstream1"
+      ],
+      "file_count": 26
+    },
+    "EVENT_079": {
+      "sources": [
+        "ad-res-j7",
+        "revstream1"
+      ],
+      "file_count": 22
+    },
+    "EVENT_080": {
+      "sources": [
+        "ad-res-j7",
+        "revstream1"
+      ],
+      "file_count": 16
+    },
+    "EVENT_081": {
+      "sources": [
+        "ad-res-j7",
+        "revstream1"
+      ],
+      "file_count": 7
+    },
+    "EVENT_082": {
+      "sources": [
+        "ad-res-j7",
+        "revstream1"
+      ],
+      "file_count": 5
+    },
+    "EVENT_083": {
+      "sources": [
+        "ad-res-j7",
+        "revstream1"
+      ],
+      "file_count": 5
+    },
+    "EVENT_084": {
+      "sources": [
+        "ad-res-j7",
+        "revstream1"
+      ],
+      "file_count": 5
+    },
+    "EVENT_085": {
+      "sources": [
+        "ad-res-j7",
+        "revstream1"
+      ],
+      "file_count": 5
+    },
+    "EVENT_099": {
+      "sources": [
+        "revstream1"
+      ],
+      "file_count": 4
+    },
+    "EVENT_111": {
+      "sources": [
+        "ad-res-j7",
+        "revstream1"
+      ],
+      "file_count": 8
+    },
+    "EVENT_112": {
+      "sources": [
+        "revstream1"
+      ],
+      "file_count": 4
+    },
+    "EVENT_113": {
+      "sources": [
+        "ad-res-j7",
+        "revstream1"
+      ],
+      "file_count": 13
+    },
+    "EVENT_115": {
+      "sources": [
+        "ad-res-j7",
+        "revstream1"
+      ],
+      "file_count": 18
+    },
+    "EVENT_114": {
+      "sources": [
+        "revstream1"
+      ],
+      "file_count": 13
+    },
+    "EVENT_116": {
+      "sources": [
+        "revstream1"
+      ],
+      "file_count": 9
+    },
+    "EVENT_117": {
+      "sources": [
+        "revstream1"
+      ],
+      "file_count": 11
+    },
+    "EVENT_118": {
+      "sources": [
+        "revstream1"
+      ],
+      "file_count": 5
+    },
+    "EVENT_119": {
+      "sources": [
+        "ad-res-j7",
+        "revstream1"
+      ],
+      "file_count": 34
+    },
+    "EVENT_120": {
+      "sources": [
+        "revstream1"
+      ],
+      "file_count": 8
+    },
+    "EVENT_122": {
+      "sources": [
+        "revstream1"
+      ],
+      "file_count": 3
+    },
+    "EVENT_123": {
+      "sources": [
+        "revstream1"
+      ],
+      "file_count": 3
+    },
+    "EVENT_125": {
+      "sources": [
+        "revstream1"
+      ],
+      "file_count": 1
+    },
+    "EVENT_126": {
+      "sources": [
+        "revstream1"
+      ],
+      "file_count": 1
+    },
+    "EVENT_127": {
+      "sources": [
+        "revstream1"
+      ],
+      "file_count": 1
+    },
+    "EVENT_128": {
+      "sources": [
+        "revstream1"
+      ],
+      "file_count": 1
+    },
+    "EVENT_129": {
+      "sources": [
+        "revstream1"
+      ],
+      "file_count": 1
+    },
+    "EVENT_130": {
+      "sources": [
+        "revstream1"
+      ],
+      "file_count": 1
+    },
+    "EVENT_131": {
+      "sources": [
+        "revstream1"
+      ],
+      "file_count": 1
+    },
+    "EVENT_132": {
+      "sources": [
+        "revstream1"
+      ],
+      "file_count": 1
+    },
+    "EVENT_133": {
+      "sources": [
+        "revstream1"
+      ],
+      "file_count": 1
+    },
+    "EVENT_134": {
+      "sources": [
+        "revstream1"
+      ],
+      "file_count": 1
+    },
+    "EVENT_135": {
+      "sources": [
+        "revstream1"
+      ],
+      "file_count": 1
+    },
+    "EVENT_136": {
+      "sources": [
+        "revstream1"
+      ],
+      "file_count": 1
+    },
+    "EVENT_069": {
+      "sources": [
+        "ad-res-j7",
+        "revstream1"
+      ],
+      "file_count": 5
+    },
+    "EVENT_068": {
+      "sources": [
+        "ad-res-j7",
+        "revstream1"
+      ],
+      "file_count": 5
+    },
+    "EVENT_042": {
+      "sources": [
+        "ad-res-j7",
+        "revstream1"
+      ],
+      "file_count": 3
+    },
+    "EVENT_2024": {
+      "sources": [
+        "ad-res-j7"
+      ],
+      "file_count": 1
+    }
+  },
+  "facts": {
+    "FACT_017": {
+      "sources": [
+        "ad-res-j7"
+      ],
+      "file_count": 2
+    },
+    "FACT_010": {
+      "sources": [
+        "ad-res-j7"
+      ],
+      "file_count": 3
+    },
+    "FACT_002": {
+      "sources": [
+        "ad-res-j7"
+      ],
+      "file_count": 1
+    },
+    "FACT_012": {
+      "sources": [
+        "ad-res-j7"
+      ],
+      "file_count": 1
+    },
+    "FACT_022": {
+      "sources": [
+        "ad-res-j7"
+      ],
+      "file_count": 2
+    },
+    "FACT_009": {
+      "sources": [
+        "ad-res-j7"
+      ],
+      "file_count": 2
+    },
+    "FACT_027": {
+      "sources": [
+        "ad-res-j7"
+      ],
+      "file_count": 1
+    },
+    "FACT_001": {
+      "sources": [
+        "ad-res-j7"
+      ],
+      "file_count": 2
+    },
+    "FACT_015": {
+      "sources": [
+        "ad-res-j7"
+      ],
+      "file_count": 4
+    },
+    "FACT_014": {
+      "sources": [
+        "ad-res-j7"
+      ],
+      "file_count": 2
+    },
+    "FACT_003": {
+      "sources": [
+        "ad-res-j7"
+      ],
+      "file_count": 2
+    },
+    "FACT_023": {
+      "sources": [
+        "ad-res-j7"
+      ],
+      "file_count": 2
+    },
+    "FACT_018": {
+      "sources": [
+        "ad-res-j7"
+      ],
+      "file_count": 1
+    },
+    "FACT_024": {
+      "sources": [
+        "ad-res-j7"
+      ],
+      "file_count": 1
+    },
+    "FACT_016": {
+      "sources": [
+        "ad-res-j7"
+      ],
+      "file_count": 2
+    },
+    "FACT_004": {
+      "sources": [
+        "ad-res-j7"
+      ],
+      "file_count": 1
+    },
+    "FACT_008": {
+      "sources": [
+        "ad-res-j7"
+      ],
+      "file_count": 3
+    },
+    "FACT_020": {
+      "sources": [
+        "ad-res-j7"
+      ],
+      "file_count": 5
+    },
+    "FACT_019": {
+      "sources": [
+        "ad-res-j7"
+      ],
+      "file_count": 1
+    },
+    "FACT_007": {
+      "sources": [
+        "ad-res-j7"
+      ],
+      "file_count": 1
+    },
+    "FACT_006": {
+      "sources": [
+        "ad-res-j7"
+      ],
+      "file_count": 1
+    },
+    "FACT_025": {
+      "sources": [
+        "ad-res-j7"
+      ],
+      "file_count": 1
+    },
+    "FACT_013": {
+      "sources": [
+        "ad-res-j7"
+      ],
+      "file_count": 3
+    },
+    "FACT_005": {
+      "sources": [
+        "ad-res-j7"
+      ],
+      "file_count": 1
+    },
+    "FACT_026": {
+      "sources": [
+        "ad-res-j7"
+      ],
+      "file_count": 1
+    }
+  },
+  "conflicts": [
+    {
+      "type": "filing_version_conflict",
+      "filing_type": "CIPC_COMPLAINT",
+      "repos": [
+        "ad-res-j7",
+        "revstream1"
+      ],
+      "versions": 55,
+      "details": [
+        {
+          "repo": "revstream1",
+          "path": "FOREKNOWLEDGE_REFINED_FILINGS_2026_02_08/CIPC_COMPLAINT_FOREKNOWLEDGE_REFINED_2026_02_08.md",
+          "hash": "b48d1b543436"
+        },
+        {
+          "repo": "revstream1",
+          "path": "SUPER_REFINED_FILINGS_2026_02_08/CIPC_COMPLAINT_SUPER_REFINED_2026_02_08.md",
+          "hash": "e991730d07d2"
+        },
+        {
+          "repo": "revstream1",
+          "path": "docs/CIPC_COMPLAINT_REFINED_2025_12_21.md",
+          "hash": "18b58d028e79"
+        },
+        {
+          "repo": "revstream1",
+          "path": "docs/CIPC_COMPLAINT_REFINED_2025_12_23.md",
+          "hash": "fef9ad5fb59e"
+        },
+        {
+          "repo": "revstream1",
+          "path": "docs/CIPC_COMPLAINT_REFINED_2026-01-06.md",
+          "hash": "9b76bc10b525"
+        },
+        {
+          "repo": "revstream1",
+          "path": "docs/CIPC_COMPLAINT_REFINED_2026_01_01.md",
+          "hash": "a1221a0b221b"
+        },
+        {
+          "repo": "revstream1",
+          "path": "docs/CIPC_COMPLAINT_REFINED_2026_01_03.backup_20260105_054131.md",
+          "hash": "fca62ecff9e8"
+        },
+        {
+          "repo": "revstream1",
+          "path": "docs/CIPC_COMPLAINT_REFINED_2026_01_03.md",
+          "hash": "834a177f906c"
+        },
+        {
+          "repo": "revstream1",
+          "path": "docs/analysis/reports/CIPC_COMPLAINT_REFINED_2025_12_21.md",
+          "hash": "18b58d028e79"
+        },
+        {
+          "repo": "revstream1",
+          "path": "docs/analysis/reports/CIPC_COMPLAINT_REFINED_2025_12_23.md",
+          "hash": "fef9ad5fb59e"
+        },
+        {
+          "repo": "revstream1",
+          "path": "docs/analysis/reports/CIPC_COMPLAINT_REFINED_2026_01_01.md",
+          "hash": "a1221a0b221b"
+        },
+        {
+          "repo": "revstream1",
+          "path": "docs/analysis/reports/CIPC_COMPLAINT_REFINED_2026_01_03.md",
+          "hash": "fca62ecff9e8"
+        },
+        {
+          "repo": "revstream1",
+          "path": "docs/analysis/reports/CIPC_COMPLAINT_REFINED_2026_01_07.md",
+          "hash": "485a03e8e60a"
+        },
+        {
+          "repo": "revstream1",
+          "path": "docs/analysis/reports/CIPC_COMPLAINT_REFINED_2026_01_09.md",
+          "hash": "40858f67870f"
+        },
+        {
+          "repo": "revstream1",
+          "path": "docs/analysis/reports/CIPC_COMPLAINT_REFINED_2026_01_10.md",
+          "hash": "b93db1bea8f1"
+        },
+        {
+          "repo": "revstream1",
+          "path": "docs/analysis/reports/CIPC_COMPLAINT_REFINED_2026_01_14.md",
+          "hash": "ed1df803d1c5"
+        },
+        {
+          "repo": "revstream1",
+          "path": "docs/evidence-suppression/filings/CIPC_COMPLAINT_REFINED_2026_02_06.md",
+          "hash": "18ff209f1a7f"
+        },
+        {
+          "repo": "revstream1",
+          "path": "docs/filings/CIPC_COMPLAINT_CONSOLIDATED_2026_02_06.md",
+          "hash": "85066b86c71d"
+        },
+        {
+          "repo": "revstream1",
+          "path": "docs/filings/CIPC_COMPLAINT_ENHANCED_2025_11_28.md",
+          "hash": "68f3e6a6d70b"
+        },
+        {
+          "repo": "revstream1",
+          "path": "docs/filings/CIPC_COMPLAINT_EVIDENCE_ENHANCED_20251214.md",
+          "hash": "213f0c5cf667"
+        },
+        {
+          "repo": "revstream1",
+          "path": "docs/filings/CIPC_COMPLAINT_EVIDENCE_ENHANCED_20251215_REFINED.md",
+          "hash": "914a36bb4c25"
+        },
+        {
+          "repo": "revstream1",
+          "path": "docs/filings/CIPC_COMPLAINT_EVIDENCE_ENHANCED_20251216.md",
+          "hash": "5dd323b4831e"
+        },
+        {
+          "repo": "revstream1",
+          "path": "docs/filings/CIPC_COMPLAINT_EVIDENCE_ENHANCED_2025_12_07.md",
+          "hash": "410bf4662790"
+        },
+        {
+          "repo": "revstream1",
+          "path": "docs/filings/CIPC_COMPLAINT_EVIDENCE_ENHANCED_2025_12_08.md",
+          "hash": "9adcc1b44dec"
+        },
+        {
+          "repo": "revstream1",
+          "path": "docs/filings/CIPC_COMPLAINT_FINAL_EVIDENCE_ENHANCED_2025_12_09.md",
+          "hash": "1ac38e870f44"
+        },
+        {
+          "repo": "revstream1",
+          "path": "docs/filings/CIPC_COMPLAINT_REFINED_20251203.md",
+          "hash": "68f3e6a6d70b"
+        },
+        {
+          "repo": "revstream1",
+          "path": "docs/filings/CIPC_COMPLAINT_REFINED_2025_11_27.md",
+          "hash": "5275bcdabfc1"
+        },
+        {
+          "repo": "revstream1",
+          "path": "docs/filings/CIPC_COMPLAINT_REFINED_2025_11_28.md",
+          "hash": "9de021f94d50"
+        },
+        {
+          "repo": "revstream1",
+          "path": "docs/filings/CIPC_COMPLAINT_REFINED_2025_12_04.md",
+          "hash": "9058fe282e09"
+        },
+        {
+          "repo": "revstream1",
+          "path": "docs/filings/CIPC_COMPLAINT_REFINED_2025_12_05.md",
+          "hash": "119a5aeeef99"
+        },
+        {
+          "repo": "revstream1",
+          "path": "docs/filings/CIPC_COMPLAINT_REFINED_2025_12_06.md",
+          "hash": "75bf9dd35e40"
+        },
+        {
+          "repo": "revstream1",
+          "path": "docs/filings/CIPC_COMPLAINT_REFINED_2025_12_10.md",
+          "hash": "4aff55928195"
+        },
+        {
+          "repo": "revstream1",
+          "path": "docs/filings/CIPC_COMPLAINT_REFINED_2025_12_10_UPDATED_2025_12_12.md",
+          "hash": "97270bed9224"
+        },
+        {
+          "repo": "revstream1",
+          "path": "docs/filings/CIPC_COMPLAINT_REFINED_2025_12_10_UPDATED_2025_12_12_REFINED_20251213.md",
+          "hash": "213f0c5cf667"
+        },
+        {
+          "repo": "revstream1",
+          "path": "docs/filings/CIPC_COMPLAINT_REFINED_2025_12_24.md",
+          "hash": "8b8d378cf4ee"
+        },
+        {
+          "repo": "revstream1",
+          "path": "docs/filings/CIPC_COMPLAINT_REFINED_2025_12_24_UPDATED_20251226.md",
+          "hash": "ca968490d002"
+        },
+        {
+          "repo": "revstream1",
+          "path": "docs/filings/CIPC_COMPLAINT_REFINED_2026-03-12_v11.md",
+          "hash": "26c8fb81d1af"
+        },
+        {
+          "repo": "revstream1",
+          "path": "docs/filings/CIPC_COMPLAINT_REFINED_2026_01_02.md",
+          "hash": "7565e64b40c0"
+        },
+        {
+          "repo": "revstream1",
+          "path": "docs/filings/CIPC_COMPLAINT_REFINED_2026_01_07.md",
+          "hash": "485a03e8e60a"
+        },
+        {
+          "repo": "revstream1",
+          "path": "docs/filings/CIPC_COMPLAINT_REFINED_2026_01_08.md",
+          "hash": "46f45af63876"
+        },
+        {
+          "repo": "revstream1",
+          "path": "docs/filings/CIPC_COMPLAINT_REFINED_2026_01_09.md",
+          "hash": "40858f67870f"
+        },
+        {
+          "repo": "revstream1",
+          "path": "docs/filings/CIPC_COMPLAINT_REFINED_2026_01_10.md",
+          "hash": "b93db1bea8f1"
+        },
+        {
+          "repo": "revstream1",
+          "path": "docs/filings/CIPC_COMPLAINT_REFINED_2026_01_15.md",
+          "hash": "afa9e277fe6a"
+        },
+        {
+          "repo": "revstream1",
+          "path": "docs/filings/CIPC_COMPLAINT_REFINED_2026_01_16.md",
+          "hash": "83123d855649"
+        },
+        {
+          "repo": "revstream1",
+          "path": "docs/filings/CIPC_COMPLAINT_REFINED_2026_02_05.md",
+          "hash": "e94769cfd3d9"
+        },
+        {
+          "repo": "revstream1",
+          "path": "docs/filings/CIPC_COMPLAINT_REFINED_2026_02_06.md",
+          "hash": "18ff209f1a7f"
+        },
+        {
+          "repo": "revstream1",
+          "path": "docs/filings/CIPC_COMPLAINT_REFINED_2026_02_09.md",
+          "hash": "7a3af5fd6b91"
+        },
+        {
+          "repo": "revstream1",
+          "path": "docs/filings/CIPC_COMPLAINT_REFINED_2026_02_09_v2.md",
+          "hash": "b958d644c747"
+        },
+        {
+          "repo": "revstream1",
+          "path": "docs/filings/CIPC_COMPLAINT_REFINED_2026_02_09_v3.md",
+          "hash": "ba4740b2d0e8"
+        },
+        {
+          "repo": "revstream1",
+          "path": "docs/filings/CIPC_COMPLAINT_REFINED_2026_02_09_v4.md",
+          "hash": "b0d17bae70df"
+        },
+        {
+          "repo": "revstream1",
+          "path": "docs/filings/CIPC_COMPLAINT_REFINED_2026_02_23_v5.md",
+          "hash": "bb1ca4b4174a"
+        },
+        {
+          "repo": "revstream1",
+          "path": "docs/filings/CIPC_COMPLAINT_REFINED_2026_03_07.md",
+          "hash": "6c5209334e80"
+        },
+        {
+          "repo": "revstream1",
+          "path": "docs/filings/CIPC_COMPLAINT_REFINED_2026_03_08_v8.md",
+          "hash": "1e726089d528"
+        },
+        {
+          "repo": "revstream1",
+          "path": "docs/filings/CIPC_COMPLAINT_REFINED_2026_03_09_v10.md",
+          "hash": "6c0c0baea9f1"
+        },
+        {
+          "repo": "revstream1",
+          "path": "docs/filings/CIPC_COMPLAINT_REFINED_2026_03_09_v9.md",
+          "hash": "fa7166f071f1"
+        },
+        {
+          "repo": "revstream1",
+          "path": "docs/filings/CIPC_COMPLAINT_RWD_NOTICES_2026_02_16.md",
+          "hash": "547e1cf6b297"
+        },
+        {
+          "repo": "revstream1",
+          "path": "docs/filings/CIPC_COMPLAINT_SF9_INTEGRATED_2025_12_09.md",
+          "hash": "0058971fb74e"
+        },
+        {
+          "repo": "revstream1",
+          "path": "docs/filings/cipc_complaint.md",
+          "hash": "adaea9177105"
+        },
+        {
+          "repo": "revstream1",
+          "path": "docs/filings/cipc_complaint_REFINED_2026_01_18.md",
+          "hash": "eb01cf486b84"
+        },
+        {
+          "repo": "revstream1",
+          "path": "docs/filings/cipc_complaint_REFINED_2026_01_29.md",
+          "hash": "f2b8300130df"
+        },
+        {
+          "repo": "revstream1",
+          "path": "docs/filings/regulatory/CIPC_COMPLAINT_COMPREHENSIVE_2025_12_28.md",
+          "hash": "83d84199ced9"
+        },
+        {
+          "repo": "revstream1",
+          "path": "docs/filings/regulatory/CIPC_COMPLAINT_EVIDENCE_ENHANCED_20251217.md",
+          "hash": "a96b74eb4701"
+        },
+        {
+          "repo": "revstream1",
+          "path": "docs/filings/regulatory/CIPC_COMPLAINT_REFINED_2025_12_10_UPDATED_2025_12_12.md",
+          "hash": "97270bed9224"
+        },
+        {
+          "repo": "revstream1",
+          "path": "docs/filings/regulatory/CIPC_COMPLAINT_REFINED_2025_12_27.md",
+          "hash": "1481c50fabc3"
+        },
+        {
+          "repo": "revstream1",
+          "path": "docs/filings/regulatory/CIPC_COMPLAINT_REFINED_2026_03_08_v8.md",
+          "hash": "1e726089d528"
+        },
+        {
+          "repo": "revstream1",
+          "path": "docs/legal/cipc-complaint.md",
+          "hash": "2a0a6cd22cd9"
+        },
+        {
+          "repo": "ad-res-j7",
+          "path": "2-CRIMINAL-CASE/CIPC_Companies_Act_Complaint.md",
+          "hash": "6248664e1d62"
+        },
+        {
+          "repo": "ad-res-j7",
+          "path": "CONSOLIDATED_FILINGS_2026_02_06/CIPC_COMPLAINT_CONSOLIDATED_2026_02_06.md",
+          "hash": "85066b86c71d"
+        },
+        {
+          "repo": "ad-res-j7",
+          "path": "FOREKNOWLEDGE_REFINED_FILINGS_2026_02_08/CIPC_COMPLAINT_FOREKNOWLEDGE_REFINED_2026_02_08.md",
+          "hash": "b48d1b543436"
+        },
+        {
+          "repo": "ad-res-j7",
+          "path": "REFINED_FILINGS_2026_03_08/CIPC_COMPLAINT_REFINED_2026_03_08_v8.md",
+          "hash": "1e726089d528"
+        },
+        {
+          "repo": "ad-res-j7",
+          "path": "SUPER_REFINED_FILINGS_2026_02_08/CIPC_COMPLAINT_SUPER_REFINED_2026_02_08.md",
+          "hash": "e991730d07d2"
+        },
+        {
+          "repo": "ad-res-j7",
+          "path": "evidence-suppression/filings/CIPC_COMPLAINT_REFINED_2026_02_06.md",
+          "hash": "18ff209f1a7f"
+        }
+      ]
+    },
+    {
+      "type": "filing_version_conflict",
+      "filing_type": "COMMERCIAL_CRIME",
+      "repos": [
+        "ad-res-j7",
+        "revstream1"
+      ],
+      "versions": 34,
+      "details": [
+        {
+          "repo": "revstream1",
+          "path": "FOREKNOWLEDGE_REFINED_FILINGS_2026_02_08/COMMERCIAL_CRIME_SUBMISSION_FOREKNOWLEDGE_REFINED_2026_02_08.md",
+          "hash": "f5e321d141db"
+        },
+        {
+          "repo": "revstream1",
+          "path": "SUPER_REFINED_FILINGS_2026_02_08/COMMERCIAL_CRIME_SUBMISSION_SUPER_REFINED_2026_02_08.md",
+          "hash": "cc70cd964eb1"
+        },
+        {
+          "repo": "revstream1",
+          "path": "docs/evidence-suppression/filings/COMMERCIAL_CRIME_SUBMISSION_REFINED_2026_02_06.md",
+          "hash": "46a4f13daa4c"
+        },
+        {
+          "repo": "revstream1",
+          "path": "docs/filings/COMMERCIAL_CRIME_EVIDENCE_ENHANCED_20251214.md",
+          "hash": "80355d4c0ba0"
+        },
+        {
+          "repo": "revstream1",
+          "path": "docs/filings/COMMERCIAL_CRIME_EVIDENCE_ENHANCED_20251215_REFINED.md",
+          "hash": "c33f765266a9"
+        },
+        {
+          "repo": "revstream1",
+          "path": "docs/filings/COMMERCIAL_CRIME_EVIDENCE_ENHANCED_20251216.md",
+          "hash": "4d82631539ac"
+        },
+        {
+          "repo": "revstream1",
+          "path": "docs/filings/COMMERCIAL_CRIME_EVIDENCE_ENHANCED_2025_12_08.md",
+          "hash": "f1d18b2f06b5"
+        },
+        {
+          "repo": "revstream1",
+          "path": "docs/filings/COMMERCIAL_CRIME_FINAL_EVIDENCE_ENHANCED_2025_12_09.md",
+          "hash": "22c3e254915a"
+        },
+        {
+          "repo": "revstream1",
+          "path": "docs/filings/COMMERCIAL_CRIME_REFINED_2025_12_10.md",
+          "hash": "2261f52c75aa"
+        },
+        {
+          "repo": "revstream1",
+          "path": "docs/filings/COMMERCIAL_CRIME_REFINED_2025_12_10_REFINED_20251213.md",
+          "hash": "80355d4c0ba0"
+        },
+        {
+          "repo": "revstream1",
+          "path": "docs/filings/COMMERCIAL_CRIME_REFINED_2026_01_22.md",
+          "hash": "42a331338832"
+        },
+        {
+          "repo": "revstream1",
+          "path": "docs/filings/COMMERCIAL_CRIME_REFINED_2026_01_25.md",
+          "hash": "9574649415d5"
+        },
+        {
+          "repo": "revstream1",
+          "path": "docs/filings/COMMERCIAL_CRIME_REFINED_2026_01_28.md",
+          "hash": "9402c0afbbb8"
+        },
+        {
+          "repo": "revstream1",
+          "path": "docs/filings/COMMERCIAL_CRIME_REFINED_2026_02_04.md",
+          "hash": "fb188e8de53a"
+        },
+        {
+          "repo": "revstream1",
+          "path": "docs/filings/COMMERCIAL_CRIME_SF9_INTEGRATED_2025_12_09.md",
+          "hash": "01ee3ba020fb"
+        },
+        {
+          "repo": "revstream1",
+          "path": "docs/filings/COMMERCIAL_CRIME_SUBMISSION_2025_12_05.md",
+          "hash": "c8567d0027b3"
+        },
+        {
+          "repo": "revstream1",
+          "path": "docs/filings/COMMERCIAL_CRIME_SUBMISSION_2025_12_06.md",
+          "hash": "85265384e8b9"
+        },
+        {
+          "repo": "revstream1",
+          "path": "docs/filings/COMMERCIAL_CRIME_SUBMISSION_CONSOLIDATED_2026_02_06.md",
+          "hash": "8ebd7c58089d"
+        },
+        {
+          "repo": "revstream1",
+          "path": "docs/filings/COMMERCIAL_CRIME_SUBMISSION_ENHANCED_2025_12_07.md",
+          "hash": "b85af190665c"
+        },
+        {
+          "repo": "revstream1",
+          "path": "docs/filings/COMMERCIAL_CRIME_SUBMISSION_MAILBOX_EVIDENCE_2026_02_09.md",
+          "hash": "40d36ceeb281"
+        },
+        {
+          "repo": "revstream1",
+          "path": "docs/filings/COMMERCIAL_CRIME_SUBMISSION_REFINED_2026-03-12_v11.md",
+          "hash": "5dd000c208f6"
+        },
+        {
+          "repo": "revstream1",
+          "path": "docs/filings/COMMERCIAL_CRIME_SUBMISSION_REFINED_2026_02_05.md",
+          "hash": "2e383af6db78"
+        },
+        {
+          "repo": "revstream1",
+          "path": "docs/filings/COMMERCIAL_CRIME_SUBMISSION_REFINED_2026_02_06.md",
+          "hash": "46a4f13daa4c"
+        },
+        {
+          "repo": "revstream1",
+          "path": "docs/filings/COMMERCIAL_CRIME_SUBMISSION_REFINED_2026_02_09.md",
+          "hash": "a06af1b7d4ab"
+        },
+        {
+          "repo": "revstream1",
+          "path": "docs/filings/COMMERCIAL_CRIME_SUBMISSION_REFINED_2026_02_09_v2.md",
+          "hash": "6555ea9000f6"
+        },
+        {
+          "repo": "revstream1",
+          "path": "docs/filings/COMMERCIAL_CRIME_SUBMISSION_REFINED_2026_02_09_v3.md",
+          "hash": "b360406e123b"
+        },
+        {
+          "repo": "revstream1",
+          "path": "docs/filings/COMMERCIAL_CRIME_SUBMISSION_REFINED_2026_02_09_v4.md",
+          "hash": "ee106ec81472"
+        },
+        {
+          "repo": "revstream1",
+          "path": "docs/filings/COMMERCIAL_CRIME_SUBMISSION_REFINED_2026_02_18.md",
+          "hash": "906d3bccf96f"
+        },
+        {
+          "repo": "revstream1",
+          "path": "docs/filings/COMMERCIAL_CRIME_SUBMISSION_REFINED_2026_02_23_v5.md",
+          "hash": "292b2e1cfb6d"
+        },
+        {
+          "repo": "revstream1",
+          "path": "docs/filings/COMMERCIAL_CRIME_SUBMISSION_REFINED_2026_03_03_v6.md",
+          "hash": "47464c252232"
+        },
+        {
+          "repo": "revstream1",
+          "path": "docs/filings/COMMERCIAL_CRIME_SUBMISSION_REFINED_2026_03_07.md",
+          "hash": "acd7d17e4cf2"
+        },
+        {
+          "repo": "revstream1",
+          "path": "docs/filings/COMMERCIAL_CRIME_SUBMISSION_REFINED_2026_03_08_v8.md",
+          "hash": "ce5dbfe80e7f"
+        },
+        {
+          "repo": "revstream1",
+          "path": "docs/filings/COMMERCIAL_CRIME_SUBMISSION_REFINED_2026_03_09_v10.md",
+          "hash": "dcf69d458667"
+        },
+        {
+          "repo": "revstream1",
+          "path": "docs/filings/COMMERCIAL_CRIME_SUBMISSION_REFINED_2026_03_09_v9.md",
+          "hash": "ae6dc57018a9"
+        },
+        {
+          "repo": "revstream1",
+          "path": "docs/filings/commercial_crime_submission.md",
+          "hash": "b579236f857c"
+        },
+        {
+          "repo": "revstream1",
+          "path": "docs/filings/commercial_crime_submission_REFINED_2026_01_18.md",
+          "hash": "9402c0afbbb8"
+        },
+        {
+          "repo": "revstream1",
+          "path": "docs/filings/commercial_crime_submission_REFINED_2026_01_29.md",
+          "hash": "448f6a1a8f9a"
+        },
+        {
+          "repo": "revstream1",
+          "path": "docs/filings/criminal/COMMERCIAL_CRIME_SUBMISSION_REFINED_2026_03_08_v8.md",
+          "hash": "ce5dbfe80e7f"
+        },
+        {
+          "repo": "ad-res-j7",
+          "path": "CONSOLIDATED_FILINGS_2026_02_06/COMMERCIAL_CRIME_SUBMISSION_CONSOLIDATED_2026_02_06.md",
+          "hash": "8ebd7c58089d"
+        },
+        {
+          "repo": "ad-res-j7",
+          "path": "FOREKNOWLEDGE_REFINED_FILINGS_2026_02_08/COMMERCIAL_CRIME_SUBMISSION_FOREKNOWLEDGE_REFINED_2026_02_08.md",
+          "hash": "f5e321d141db"
+        },
+        {
+          "repo": "ad-res-j7",
+          "path": "REFINED_FILINGS_2026_03_08/COMMERCIAL_CRIME_SUBMISSION_REFINED_2026_03_08_v8.md",
+          "hash": "ce5dbfe80e7f"
+        },
+        {
+          "repo": "ad-res-j7",
+          "path": "SUPER_REFINED_FILINGS_2026_02_08/COMMERCIAL_CRIME_SUBMISSION_SUPER_REFINED_2026_02_08.md",
+          "hash": "cc70cd964eb1"
+        },
+        {
+          "repo": "ad-res-j7",
+          "path": "evidence-suppression/filings/COMMERCIAL_CRIME_SUBMISSION_REFINED_2026_02_06.md",
+          "hash": "46a4f13daa4c"
+        }
+      ]
+    },
+    {
+      "type": "filing_version_conflict",
+      "filing_type": "FIC_SUSPICIOUS",
+      "repos": [
+        "ad-res-j7",
+        "revstream1"
+      ],
+      "versions": 2,
+      "details": [
+        {
+          "repo": "revstream1",
+          "path": "FOREKNOWLEDGE_REFINED_FILINGS_2026_02_08/FIC_SUSPICIOUS_TRANSACTION_REPORT_FOREKNOWLEDGE_REFINED_2026_02_08.md",
+          "hash": "ca413fc628fa"
+        },
+        {
+          "repo": "revstream1",
+          "path": "SUPER_REFINED_FILINGS_2026_02_08/FIC_SUSPICIOUS_TRANSACTION_REPORT_SUPER_REFINED_2026_02_08.md",
+          "hash": "cafc58b58970"
+        },
+        {
+          "repo": "revstream1",
+          "path": "docs/filings/regulatory/FIC_SUSPICIOUS_TRANSACTION_REPORT_REFINED_2026_03_08_v8.md",
+          "hash": "cafc58b58970"
+        },
+        {
+          "repo": "ad-res-j7",
+          "path": "FOREKNOWLEDGE_REFINED_FILINGS_2026_02_08/FIC_SUSPICIOUS_TRANSACTION_REPORT_FOREKNOWLEDGE_REFINED_2026_02_08.md",
+          "hash": "ca413fc628fa"
+        },
+        {
+          "repo": "ad-res-j7",
+          "path": "SUPER_REFINED_FILINGS_2026_02_08/FIC_SUSPICIOUS_TRANSACTION_REPORT_SUPER_REFINED_2026_02_08.md",
+          "hash": "cafc58b58970"
+        }
+      ]
+    },
+    {
+      "type": "filing_version_conflict",
+      "filing_type": "NPA_TAX_FRAUD",
+      "repos": [
+        "ad-res-j7",
+        "revstream1"
+      ],
+      "versions": 45,
+      "details": [
+        {
+          "repo": "revstream1",
+          "path": "FOREKNOWLEDGE_REFINED_FILINGS_2026_02_08/NPA_TAX_FRAUD_REPORT_FOREKNOWLEDGE_REFINED_2026_02_08.md",
+          "hash": "4ec4182790ba"
+        },
+        {
+          "repo": "revstream1",
+          "path": "SUPER_REFINED_FILINGS_2026_02_08/NPA_TAX_FRAUD_REPORT_SUPER_REFINED_2026_02_08.md",
+          "hash": "8dd244c46de9"
+        },
+        {
+          "repo": "revstream1",
+          "path": "docs/NPA_TAX_FRAUD_REPORT_2025_12_21.md",
+          "hash": "719a9619029a"
+        },
+        {
+          "repo": "revstream1",
+          "path": "docs/NPA_TAX_FRAUD_REPORT_REFINED_2026-01-06.md",
+          "hash": "fb158bf9f902"
+        },
+        {
+          "repo": "revstream1",
+          "path": "docs/NPA_TAX_FRAUD_REPORT_REFINED_2026_01_01.md",
+          "hash": "7f7de5c78aef"
+        },
+        {
+          "repo": "revstream1",
+          "path": "docs/NPA_TAX_FRAUD_REPORT_REFINED_2026_01_03.backup_20260105_054131.md",
+          "hash": "61b60d26b792"
+        },
+        {
+          "repo": "revstream1",
+          "path": "docs/NPA_TAX_FRAUD_REPORT_REFINED_2026_01_03.md",
+          "hash": "2d5444c41b07"
+        },
+        {
+          "repo": "revstream1",
+          "path": "docs/analysis/reports/NPA_TAX_FRAUD_REPORT_2025_12_21.md",
+          "hash": "719a9619029a"
+        },
+        {
+          "repo": "revstream1",
+          "path": "docs/analysis/reports/NPA_TAX_FRAUD_REPORT_REFINED_2026_01_01.md",
+          "hash": "7f7de5c78aef"
+        },
+        {
+          "repo": "revstream1",
+          "path": "docs/analysis/reports/NPA_TAX_FRAUD_REPORT_REFINED_2026_01_03.md",
+          "hash": "61b60d26b792"
+        },
+        {
+          "repo": "revstream1",
+          "path": "docs/analysis/reports/NPA_TAX_FRAUD_REPORT_REFINED_2026_01_07.md",
+          "hash": "2c5a4e62f01a"
+        },
+        {
+          "repo": "revstream1",
+          "path": "docs/analysis/reports/NPA_TAX_FRAUD_REPORT_REFINED_2026_01_09.md",
+          "hash": "1249b63c2195"
+        },
+        {
+          "repo": "revstream1",
+          "path": "docs/analysis/reports/NPA_TAX_FRAUD_REPORT_REFINED_2026_01_10.md",
+          "hash": "2fe219dd9599"
+        },
+        {
+          "repo": "revstream1",
+          "path": "docs/analysis/reports/NPA_TAX_FRAUD_REPORT_REFINED_2026_01_14.md",
+          "hash": "7d2e6618fdd9"
+        },
+        {
+          "repo": "revstream1",
+          "path": "docs/evidence-suppression/filings/NPA_TAX_FRAUD_REPORT_REFINED_2026_02_06.md",
+          "hash": "578c705ae4ae"
+        },
+        {
+          "repo": "revstream1",
+          "path": "docs/filings/NPA_TAX_FRAUD_REPORT_2025_12_05.md",
+          "hash": "262dcbd7f708"
+        },
+        {
+          "repo": "revstream1",
+          "path": "docs/filings/NPA_TAX_FRAUD_REPORT_2025_12_06.md",
+          "hash": "a400b392a1b9"
+        },
+        {
+          "repo": "revstream1",
+          "path": "docs/filings/NPA_TAX_FRAUD_REPORT_2025_12_10.md",
+          "hash": "5e51dcf8e91b"
+        },
+        {
+          "repo": "revstream1",
+          "path": "docs/filings/NPA_TAX_FRAUD_REPORT_2025_12_10_UPDATED_2025_12_12.md",
+          "hash": "a4d881626848"
+        },
+        {
+          "repo": "revstream1",
+          "path": "docs/filings/NPA_TAX_FRAUD_REPORT_2025_12_10_UPDATED_2025_12_12_REFINED_20251213.md",
+          "hash": "528d0ce92e90"
+        },
+        {
+          "repo": "revstream1",
+          "path": "docs/filings/NPA_TAX_FRAUD_REPORT_CONSOLIDATED_2026_02_06.md",
+          "hash": "63a294fc4bd1"
+        },
+        {
+          "repo": "revstream1",
+          "path": "docs/filings/NPA_TAX_FRAUD_REPORT_EVIDENCE_ENHANCED_20251214.md",
+          "hash": "528d0ce92e90"
+        },
+        {
+          "repo": "revstream1",
+          "path": "docs/filings/NPA_TAX_FRAUD_REPORT_EVIDENCE_ENHANCED_20251215_REFINED.md",
+          "hash": "fee3393c883c"
+        },
+        {
+          "repo": "revstream1",
+          "path": "docs/filings/NPA_TAX_FRAUD_REPORT_EVIDENCE_ENHANCED_20251216.md",
+          "hash": "29c0be7dd492"
+        },
+        {
+          "repo": "revstream1",
+          "path": "docs/filings/NPA_TAX_FRAUD_REPORT_REFINED_2025_12_24.md",
+          "hash": "483903a88e46"
+        },
+        {
+          "repo": "revstream1",
+          "path": "docs/filings/NPA_TAX_FRAUD_REPORT_REFINED_2025_12_24_UPDATED_20251226.md",
+          "hash": "2db55c6861a2"
+        },
+        {
+          "repo": "revstream1",
+          "path": "docs/filings/NPA_TAX_FRAUD_REPORT_REFINED_2026-03-12_v11.md",
+          "hash": "b0d5d2cf064b"
+        },
+        {
+          "repo": "revstream1",
+          "path": "docs/filings/NPA_TAX_FRAUD_REPORT_REFINED_2026_01_02.md",
+          "hash": "03b86b9f423c"
+        },
+        {
+          "repo": "revstream1",
+          "path": "docs/filings/NPA_TAX_FRAUD_REPORT_REFINED_2026_01_07.md",
+          "hash": "2c5a4e62f01a"
+        },
+        {
+          "repo": "revstream1",
+          "path": "docs/filings/NPA_TAX_FRAUD_REPORT_REFINED_2026_01_08.md",
+          "hash": "380625715ef7"
+        },
+        {
+          "repo": "revstream1",
+          "path": "docs/filings/NPA_TAX_FRAUD_REPORT_REFINED_2026_01_09.md",
+          "hash": "1249b63c2195"
+        },
+        {
+          "repo": "revstream1",
+          "path": "docs/filings/NPA_TAX_FRAUD_REPORT_REFINED_2026_01_10.md",
+          "hash": "2fe219dd9599"
+        },
+        {
+          "repo": "revstream1",
+          "path": "docs/filings/NPA_TAX_FRAUD_REPORT_REFINED_2026_01_15.md",
+          "hash": "d130e54533d4"
+        },
+        {
+          "repo": "revstream1",
+          "path": "docs/filings/NPA_TAX_FRAUD_REPORT_REFINED_2026_01_16.md",
+          "hash": "26184542a10b"
+        },
+        {
+          "repo": "revstream1",
+          "path": "docs/filings/NPA_TAX_FRAUD_REPORT_REFINED_2026_02_04.md",
+          "hash": "17a2c70fc5b5"
+        },
+        {
+          "repo": "revstream1",
+          "path": "docs/filings/NPA_TAX_FRAUD_REPORT_REFINED_2026_02_05.md",
+          "hash": "abfe089ef8ca"
+        },
+        {
+          "repo": "revstream1",
+          "path": "docs/filings/NPA_TAX_FRAUD_REPORT_REFINED_2026_02_06.md",
+          "hash": "578c705ae4ae"
+        },
+        {
+          "repo": "revstream1",
+          "path": "docs/filings/NPA_TAX_FRAUD_REPORT_REFINED_2026_02_09.md",
+          "hash": "c0f1cbe86e05"
+        },
+        {
+          "repo": "revstream1",
+          "path": "docs/filings/NPA_TAX_FRAUD_REPORT_REFINED_2026_02_09_v2.md",
+          "hash": "42cf082205b1"
+        },
+        {
+          "repo": "revstream1",
+          "path": "docs/filings/NPA_TAX_FRAUD_REPORT_REFINED_2026_02_09_v3.md",
+          "hash": "5a8b1c02496c"
+        },
+        {
+          "repo": "revstream1",
+          "path": "docs/filings/NPA_TAX_FRAUD_REPORT_REFINED_2026_02_09_v4.md",
+          "hash": "f44ff5165119"
+        },
+        {
+          "repo": "revstream1",
+          "path": "docs/filings/NPA_TAX_FRAUD_REPORT_REFINED_2026_02_23_v5.md",
+          "hash": "33f48f7f733c"
+        },
+        {
+          "repo": "revstream1",
+          "path": "docs/filings/NPA_TAX_FRAUD_REPORT_REFINED_2026_03_03_v6.md",
+          "hash": "0edd782ecbb9"
+        },
+        {
+          "repo": "revstream1",
+          "path": "docs/filings/NPA_TAX_FRAUD_REPORT_REFINED_2026_03_07.md",
+          "hash": "c0ce56864aa5"
+        },
+        {
+          "repo": "revstream1",
+          "path": "docs/filings/NPA_TAX_FRAUD_REPORT_REFINED_2026_03_08_v8.md",
+          "hash": "31a4ae764bff"
+        },
+        {
+          "repo": "revstream1",
+          "path": "docs/filings/NPA_TAX_FRAUD_REPORT_REFINED_2026_03_09_v10.md",
+          "hash": "27aa9de077de"
+        },
+        {
+          "repo": "revstream1",
+          "path": "docs/filings/NPA_TAX_FRAUD_REPORT_REFINED_2026_03_09_v9.md",
+          "hash": "17dbe4c8a030"
+        },
+        {
+          "repo": "revstream1",
+          "path": "docs/filings/npa_tax_fraud_report.md",
+          "hash": "ae694ee7b64f"
+        },
+        {
+          "repo": "revstream1",
+          "path": "docs/filings/npa_tax_fraud_report_REFINED_2026_01_18.md",
+          "hash": "7a5094be51a0"
+        },
+        {
+          "repo": "revstream1",
+          "path": "docs/filings/npa_tax_fraud_report_REFINED_2026_01_29.md",
+          "hash": "4bf9b3b2b61e"
+        },
+        {
+          "repo": "revstream1",
+          "path": "docs/filings/npa_tax_fraud_report_REFINED_2026_03_08.md",
+          "hash": "99b133810b2b"
+        },
+        {
+          "repo": "revstream1",
+          "path": "docs/filings/regulatory/NPA_TAX_FRAUD_REPORT_2025_12_10_UPDATED_2025_12_12.md",
+          "hash": "a4d881626848"
+        },
+        {
+          "repo": "revstream1",
+          "path": "docs/filings/regulatory/NPA_TAX_FRAUD_REPORT_COMPREHENSIVE_2025_12_28.md",
+          "hash": "5a4263730d25"
+        },
+        {
+          "repo": "revstream1",
+          "path": "docs/filings/regulatory/NPA_TAX_FRAUD_REPORT_REFINED_2025_12_27.md",
+          "hash": "092306ba6817"
+        },
+        {
+          "repo": "ad-res-j7",
+          "path": "npa_tax_fraud_report_REFINED_2026_03_08.md",
+          "hash": "99b133810b2b"
+        },
+        {
+          "repo": "ad-res-j7",
+          "path": "FOREKNOWLEDGE_REFINED_FILINGS_2026_02_08/NPA_TAX_FRAUD_REPORT_FOREKNOWLEDGE_REFINED_2026_02_08.md",
+          "hash": "4ec4182790ba"
+        },
+        {
+          "repo": "ad-res-j7",
+          "path": "SUPER_REFINED_FILINGS_2026_02_08/NPA_TAX_FRAUD_REPORT_SUPER_REFINED_2026_02_08.md",
+          "hash": "8dd244c46de9"
+        }
+      ]
+    },
+    {
+      "type": "filing_version_conflict",
+      "filing_type": "POPIA_COMPLAINT",
+      "repos": [
+        "ad-res-j7",
+        "revstream1"
+      ],
+      "versions": 52,
+      "details": [
+        {
+          "repo": "revstream1",
+          "path": "FOREKNOWLEDGE_REFINED_FILINGS_2026_02_08/POPIA_COMPLAINT_FOREKNOWLEDGE_REFINED_2026_02_08.md",
+          "hash": "a3d66e85e4a3"
+        },
+        {
+          "repo": "revstream1",
+          "path": "SUPER_REFINED_FILINGS_2026_02_08/POPIA_COMPLAINT_SUPER_REFINED_2026_02_08.md",
+          "hash": "aec62d46ff06"
+        },
+        {
+          "repo": "revstream1",
+          "path": "docs/POPIA_COMPLAINT_COMPREHENSIVE_2025_12_23.md",
+          "hash": "fff926fdcf3a"
+        },
+        {
+          "repo": "revstream1",
+          "path": "docs/POPIA_COMPLAINT_REFINED_2025_12_21.md",
+          "hash": "1dce0bb89b35"
+        },
+        {
+          "repo": "revstream1",
+          "path": "docs/POPIA_COMPLAINT_REFINED_2026-01-06.md",
+          "hash": "13e9c5612283"
+        },
+        {
+          "repo": "revstream1",
+          "path": "docs/POPIA_COMPLAINT_REFINED_2026_01_01.md",
+          "hash": "25cc626ab141"
+        },
+        {
+          "repo": "revstream1",
+          "path": "docs/POPIA_COMPLAINT_REFINED_2026_01_03.backup_20260105_054131.md",
+          "hash": "bdd1b4752dff"
+        },
+        {
+          "repo": "revstream1",
+          "path": "docs/POPIA_COMPLAINT_REFINED_2026_01_03.md",
+          "hash": "3b55092cc691"
+        },
+        {
+          "repo": "revstream1",
+          "path": "docs/analysis/reports/POPIA_COMPLAINT_COMPREHENSIVE_2025_12_23.md",
+          "hash": "fff926fdcf3a"
+        },
+        {
+          "repo": "revstream1",
+          "path": "docs/analysis/reports/POPIA_COMPLAINT_REFINED_2025_12_21.md",
+          "hash": "1dce0bb89b35"
+        },
+        {
+          "repo": "revstream1",
+          "path": "docs/analysis/reports/POPIA_COMPLAINT_REFINED_2026_01_01.md",
+          "hash": "25cc626ab141"
+        },
+        {
+          "repo": "revstream1",
+          "path": "docs/analysis/reports/POPIA_COMPLAINT_REFINED_2026_01_03.md",
+          "hash": "bdd1b4752dff"
+        },
+        {
+          "repo": "revstream1",
+          "path": "docs/analysis/reports/POPIA_COMPLAINT_REFINED_2026_01_07.md",
+          "hash": "0b02824ddf76"
+        },
+        {
+          "repo": "revstream1",
+          "path": "docs/analysis/reports/POPIA_COMPLAINT_REFINED_2026_01_09.md",
+          "hash": "7f3fc94e9f6c"
+        },
+        {
+          "repo": "revstream1",
+          "path": "docs/analysis/reports/POPIA_COMPLAINT_REFINED_2026_01_10.md",
+          "hash": "360cf779a5ae"
+        },
+        {
+          "repo": "revstream1",
+          "path": "docs/analysis/reports/POPIA_COMPLAINT_REFINED_2026_01_14.md",
+          "hash": "6f24247a7856"
+        },
+        {
+          "repo": "revstream1",
+          "path": "docs/evidence-suppression/filings/POPIA_COMPLAINT_REFINED_2026_02_06.md",
+          "hash": "dfc5106753b2"
+        },
+        {
+          "repo": "revstream1",
+          "path": "docs/filings/POPIA_COMPLAINT_CONSOLIDATED_2026_02_06.md",
+          "hash": "2f496c98fb25"
+        },
+        {
+          "repo": "revstream1",
+          "path": "docs/filings/POPIA_COMPLAINT_ENHANCED_2025_11_28.md",
+          "hash": "86a615a2f40a"
+        },
+        {
+          "repo": "revstream1",
+          "path": "docs/filings/POPIA_COMPLAINT_REFINED_2025_11_27.md",
+          "hash": "b4948ea0a40d"
+        },
+        {
+          "repo": "revstream1",
+          "path": "docs/filings/POPIA_COMPLAINT_EVIDENCE_ENHANCED_20251214.md",
+          "hash": "6d3b08ea478c"
+        },
+        {
+          "repo": "revstream1",
+          "path": "docs/filings/POPIA_COMPLAINT_EVIDENCE_ENHANCED_20251215_REFINED.md",
+          "hash": "0f9666538f41"
+        },
+        {
+          "repo": "revstream1",
+          "path": "docs/filings/POPIA_COMPLAINT_EVIDENCE_ENHANCED_20251216.md",
+          "hash": "7eb6d44c9fc9"
+        },
+        {
+          "repo": "revstream1",
+          "path": "docs/filings/POPIA_COMPLAINT_MAILBOX_EVIDENCE_2026_02_09.md",
+          "hash": "9d54a159e7c3"
+        },
+        {
+          "repo": "revstream1",
+          "path": "docs/filings/POPIA_COMPLAINT_REFINED_2025_11_28.md",
+          "hash": "703f0ed7ebe1"
+        },
+        {
+          "repo": "revstream1",
+          "path": "docs/filings/POPIA_COMPLAINT_REFINED_2025_12_05.md",
+          "hash": "043feab910f6"
+        },
+        {
+          "repo": "revstream1",
+          "path": "docs/filings/POPIA_COMPLAINT_REFINED_2025_12_06.md",
+          "hash": "2216bd29ce85"
+        },
+        {
+          "repo": "revstream1",
+          "path": "docs/filings/POPIA_COMPLAINT_REFINED_2025_12_10.md",
+          "hash": "c87f8e22f351"
+        },
+        {
+          "repo": "revstream1",
+          "path": "docs/filings/POPIA_COMPLAINT_REFINED_2025_12_10_UPDATED_2025_12_12.md",
+          "hash": "c3f1695d66c2"
+        },
+        {
+          "repo": "revstream1",
+          "path": "docs/filings/POPIA_COMPLAINT_REFINED_2025_12_10_UPDATED_2025_12_12_REFINED_20251213.md",
+          "hash": "6d3b08ea478c"
+        },
+        {
+          "repo": "revstream1",
+          "path": "docs/filings/POPIA_COMPLAINT_REFINED_2025_12_24.md",
+          "hash": "e090660d66bd"
+        },
+        {
+          "repo": "revstream1",
+          "path": "docs/filings/POPIA_COMPLAINT_REFINED_2026-03-12_v11.md",
+          "hash": "0f71f27196c3"
+        },
+        {
+          "repo": "revstream1",
+          "path": "docs/filings/POPIA_COMPLAINT_REFINED_2026_01_02.md",
+          "hash": "dfd28efe80cd"
+        },
+        {
+          "repo": "revstream1",
+          "path": "docs/filings/POPIA_COMPLAINT_REFINED_2026_01_07.md",
+          "hash": "0b02824ddf76"
+        },
+        {
+          "repo": "revstream1",
+          "path": "docs/filings/POPIA_COMPLAINT_REFINED_2026_01_08.md",
+          "hash": "d6c35b30ea42"
+        },
+        {
+          "repo": "revstream1",
+          "path": "docs/filings/POPIA_COMPLAINT_REFINED_2026_01_09.md",
+          "hash": "7f3fc94e9f6c"
+        },
+        {
+          "repo": "revstream1",
+          "path": "docs/filings/POPIA_COMPLAINT_REFINED_2026_01_10.md",
+          "hash": "360cf779a5ae"
+        },
+        {
+          "repo": "revstream1",
+          "path": "docs/filings/POPIA_COMPLAINT_REFINED_2026_01_15.md",
+          "hash": "71c7ac7ee17c"
+        },
+        {
+          "repo": "revstream1",
+          "path": "docs/filings/POPIA_COMPLAINT_REFINED_2026_01_16.md",
+          "hash": "3f2566fe6a1b"
+        },
+        {
+          "repo": "revstream1",
+          "path": "docs/filings/POPIA_COMPLAINT_REFINED_2026_02_05.md",
+          "hash": "55ee8f81fe10"
+        },
+        {
+          "repo": "revstream1",
+          "path": "docs/filings/POPIA_COMPLAINT_REFINED_2026_02_06.md",
+          "hash": "dfc5106753b2"
+        },
+        {
+          "repo": "revstream1",
+          "path": "docs/filings/POPIA_COMPLAINT_REFINED_2026_02_09.md",
+          "hash": "7244ee8ca98b"
+        },
+        {
+          "repo": "revstream1",
+          "path": "docs/filings/POPIA_COMPLAINT_REFINED_2026_02_09_v2.md",
+          "hash": "81ab9ce8f193"
+        },
+        {
+          "repo": "revstream1",
+          "path": "docs/filings/POPIA_COMPLAINT_REFINED_2026_02_09_v3.md",
+          "hash": "d47735fe2591"
+        },
+        {
+          "repo": "revstream1",
+          "path": "docs/filings/POPIA_COMPLAINT_REFINED_2026_02_09_v4.md",
+          "hash": "6c5a4dc4e404"
+        },
+        {
+          "repo": "revstream1",
+          "path": "docs/filings/POPIA_COMPLAINT_REFINED_2026_02_23_v5.md",
+          "hash": "becc3ea9c411"
+        },
+        {
+          "repo": "revstream1",
+          "path": "docs/filings/POPIA_COMPLAINT_REFINED_2026_03_03_v6.md",
+          "hash": "783b57917fc9"
+        },
+        {
+          "repo": "revstream1",
+          "path": "docs/filings/POPIA_COMPLAINT_REFINED_2026_03_07.md",
+          "hash": "ef80e3161c06"
+        },
+        {
+          "repo": "revstream1",
+          "path": "docs/filings/POPIA_COMPLAINT_REFINED_2026_03_08_v8.md",
+          "hash": "e1976667a472"
+        },
+        {
+          "repo": "revstream1",
+          "path": "docs/filings/POPIA_COMPLAINT_REFINED_2026_03_09_v10.md",
+          "hash": "07085edf2e78"
+        },
+        {
+          "repo": "revstream1",
+          "path": "docs/filings/POPIA_COMPLAINT_REFINED_2026_03_09_v9.md",
+          "hash": "657e0a3660b0"
+        },
+        {
+          "repo": "revstream1",
+          "path": "docs/filings/popia_complaint.md",
+          "hash": "186bde90bece"
+        },
+        {
+          "repo": "revstream1",
+          "path": "docs/filings/popia_complaint_REFINED_2026_01_18.md",
+          "hash": "a196409b72d9"
+        },
+        {
+          "repo": "revstream1",
+          "path": "docs/filings/popia_complaint_REFINED_2026_01_29.md",
+          "hash": "804202f12e85"
+        },
+        {
+          "repo": "revstream1",
+          "path": "docs/filings/criminal/POPIA_COMPLAINT_COMPREHENSIVE_2025_12_28.md",
+          "hash": "34ff91c1afbf"
+        },
+        {
+          "repo": "revstream1",
+          "path": "docs/filings/criminal/POPIA_COMPLAINT_EVIDENCE_ENHANCED_20251217.md",
+          "hash": "07ca0f995068"
+        },
+        {
+          "repo": "revstream1",
+          "path": "docs/filings/criminal/POPIA_COMPLAINT_REFINED_2025_12_27.md",
+          "hash": "fcfa99c21e4a"
+        },
+        {
+          "repo": "revstream1",
+          "path": "docs/filings/criminal/POPIA_COMPLAINT_REFINED_2026_03_08_v8.md",
+          "hash": "e1976667a472"
+        },
+        {
+          "repo": "revstream1",
+          "path": "docs/filings/criminal/popia_complaint.md",
+          "hash": "60b8de84c6a6"
+        },
+        {
+          "repo": "revstream1",
+          "path": "docs/filings/regulatory/POPIA_COMPLAINT_REFINED_2025_12_10_UPDATED_2025_12_12.md",
+          "hash": "b39e1cec61c5"
+        },
+        {
+          "repo": "revstream1",
+          "path": "docs/legal/popia-complaint.md",
+          "hash": "3542e0a86f15"
+        },
+        {
+          "repo": "ad-res-j7",
+          "path": "2-CRIMINAL-CASE/POPIA_Criminal_Complaint.md",
+          "hash": "86634b4eced2"
+        },
+        {
+          "repo": "ad-res-j7",
+          "path": "CONSOLIDATED_FILINGS_2026_02_06/POPIA_COMPLAINT_CONSOLIDATED_2026_02_06.md",
+          "hash": "2f496c98fb25"
+        },
+        {
+          "repo": "ad-res-j7",
+          "path": "FOREKNOWLEDGE_REFINED_FILINGS_2026_02_08/POPIA_COMPLAINT_FOREKNOWLEDGE_REFINED_2026_02_08.md",
+          "hash": "a3d66e85e4a3"
+        },
+        {
+          "repo": "ad-res-j7",
+          "path": "REFINED_FILINGS_2026_03_08/POPIA_COMPLAINT_REFINED_2026_03_08_v8.md",
+          "hash": "e1976667a472"
+        },
+        {
+          "repo": "ad-res-j7",
+          "path": "SUPER_REFINED_FILINGS_2026_02_08/POPIA_COMPLAINT_SUPER_REFINED_2026_02_08.md",
+          "hash": "aec62d46ff06"
+        },
+        {
+          "repo": "ad-res-j7",
+          "path": "evidence-suppression/filings/POPIA_COMPLAINT_REFINED_2026_02_06.md",
+          "hash": "dfc5106753b2"
+        }
+      ]
+    },
+    {
+      "type": "filing_version_conflict",
+      "filing_type": "PROFESSIONAL_MISCONDUCT",
+      "repos": [
+        "ad-res-j7",
+        "revstream1"
+      ],
+      "versions": 5,
+      "details": [
+        {
+          "repo": "revstream1",
+          "path": "FOREKNOWLEDGE_REFINED_FILINGS_2026_02_08/PROFESSIONAL_MISCONDUCT_COMPLAINT_FOREKNOWLEDGE_REFINED_2026_02_08.md",
+          "hash": "ad42608a06d8"
+        },
+        {
+          "repo": "revstream1",
+          "path": "SUPER_REFINED_FILINGS_2026_02_08/PROFESSIONAL_MISCONDUCT_COMPLAINT_SUPER_REFINED_2026_02_08.md",
+          "hash": "eee8b23fae06"
+        },
+        {
+          "repo": "revstream1",
+          "path": "docs/filings/PROFESSIONAL_MISCONDUCT_COMPLAINT_REFINED_2026-03-12_v11.md",
+          "hash": "3701199f35ad"
+        },
+        {
+          "repo": "revstream1",
+          "path": "docs/filings/PROFESSIONAL_MISCONDUCT_COMPLAINT_REFINED_2026_03_09_v10.md",
+          "hash": "45466bed6e72"
+        },
+        {
+          "repo": "revstream1",
+          "path": "docs/filings/PROFESSIONAL_MISCONDUCT_COMPLAINT_REFINED_2026_03_09_v9.md",
+          "hash": "aa209f7d1ff0"
+        },
+        {
+          "repo": "revstream1",
+          "path": "docs/filings/regulatory/PROFESSIONAL_MISCONDUCT_COMPLAINT_REFINED_2026_03_08_v8.md",
+          "hash": "eee8b23fae06"
+        },
+        {
+          "repo": "ad-res-j7",
+          "path": "FOREKNOWLEDGE_REFINED_FILINGS_2026_02_08/PROFESSIONAL_MISCONDUCT_COMPLAINT_FOREKNOWLEDGE_REFINED_2026_02_08.md",
+          "hash": "ad42608a06d8"
+        },
+        {
+          "repo": "ad-res-j7",
+          "path": "SUPER_REFINED_FILINGS_2026_02_08/PROFESSIONAL_MISCONDUCT_COMPLAINT_SUPER_REFINED_2026_02_08.md",
+          "hash": "eee8b23fae06"
+        }
+      ]
+    }
+  ],
+  "gaps": [
+    {
+      "type": "evidence_gap",
+      "ref": "DF933",
+      "present_in": [
+        "revstream1"
+      ],
+      "missing_from": [
+        "ad-res-j7"
+      ]
+    },
+    {
+      "type": "event_gap",
+      "ref": "EVENT_107",
+      "present_in": [
+        "revstream1"
+      ],
+      "missing_from": [
+        "ad-res-j7"
+      ]
+    },
+    {
+      "type": "event_gap",
+      "ref": "EVENT_109",
+      "present_in": [
+        "revstream1"
+      ],
+      "missing_from": [
+        "ad-res-j7"
+      ]
+    },
+    {
+      "type": "event_gap",
+      "ref": "EVENT_106",
+      "present_in": [
+        "revstream1"
+      ],
+      "missing_from": [
+        "ad-res-j7"
+      ]
+    },
+    {
+      "type": "event_gap",
+      "ref": "EVENT_105",
+      "present_in": [
+        "revstream1"
+      ],
+      "missing_from": [
+        "ad-res-j7"
+      ]
+    },
+    {
+      "type": "event_gap",
+      "ref": "EVENT_099",
+      "present_in": [
+        "revstream1"
+      ],
+      "missing_from": [
+        "ad-res-j7"
+      ]
+    },
+    {
+      "type": "event_gap",
+      "ref": "EVENT_112",
+      "present_in": [
+        "revstream1"
+      ],
+      "missing_from": [
+        "ad-res-j7"
+      ]
+    },
+    {
+      "type": "event_gap",
+      "ref": "EVENT_114",
+      "present_in": [
+        "revstream1"
+      ],
+      "missing_from": [
+        "ad-res-j7"
+      ]
+    },
+    {
+      "type": "event_gap",
+      "ref": "EVENT_116",
+      "present_in": [
+        "revstream1"
+      ],
+      "missing_from": [
+        "ad-res-j7"
+      ]
+    },
+    {
+      "type": "event_gap",
+      "ref": "EVENT_117",
+      "present_in": [
+        "revstream1"
+      ],
+      "missing_from": [
+        "ad-res-j7"
+      ]
+    },
+    {
+      "type": "event_gap",
+      "ref": "EVENT_118",
+      "present_in": [
+        "revstream1"
+      ],
+      "missing_from": [
+        "ad-res-j7"
+      ]
+    },
+    {
+      "type": "event_gap",
+      "ref": "EVENT_120",
+      "present_in": [
+        "revstream1"
+      ],
+      "missing_from": [
+        "ad-res-j7"
+      ]
+    },
+    {
+      "type": "event_gap",
+      "ref": "EVENT_122",
+      "present_in": [
+        "revstream1"
+      ],
+      "missing_from": [
+        "ad-res-j7"
+      ]
+    },
+    {
+      "type": "event_gap",
+      "ref": "EVENT_123",
+      "present_in": [
+        "revstream1"
+      ],
+      "missing_from": [
+        "ad-res-j7"
+      ]
+    },
+    {
+      "type": "event_gap",
+      "ref": "EVENT_125",
+      "present_in": [
+        "revstream1"
+      ],
+      "missing_from": [
+        "ad-res-j7"
+      ]
+    },
+    {
+      "type": "event_gap",
+      "ref": "EVENT_126",
+      "present_in": [
+        "revstream1"
+      ],
+      "missing_from": [
+        "ad-res-j7"
+      ]
+    },
+    {
+      "type": "event_gap",
+      "ref": "EVENT_127",
+      "present_in": [
+        "revstream1"
+      ],
+      "missing_from": [
+        "ad-res-j7"
+      ]
+    },
+    {
+      "type": "event_gap",
+      "ref": "EVENT_128",
+      "present_in": [
+        "revstream1"
+      ],
+      "missing_from": [
+        "ad-res-j7"
+      ]
+    },
+    {
+      "type": "event_gap",
+      "ref": "EVENT_129",
+      "present_in": [
+        "revstream1"
+      ],
+      "missing_from": [
+        "ad-res-j7"
+      ]
+    },
+    {
+      "type": "event_gap",
+      "ref": "EVENT_130",
+      "present_in": [
+        "revstream1"
+      ],
+      "missing_from": [
+        "ad-res-j7"
+      ]
+    },
+    {
+      "type": "event_gap",
+      "ref": "EVENT_131",
+      "present_in": [
+        "revstream1"
+      ],
+      "missing_from": [
+        "ad-res-j7"
+      ]
+    },
+    {
+      "type": "event_gap",
+      "ref": "EVENT_132",
+      "present_in": [
+        "revstream1"
+      ],
+      "missing_from": [
+        "ad-res-j7"
+      ]
+    },
+    {
+      "type": "event_gap",
+      "ref": "EVENT_133",
+      "present_in": [
+        "revstream1"
+      ],
+      "missing_from": [
+        "ad-res-j7"
+      ]
+    },
+    {
+      "type": "event_gap",
+      "ref": "EVENT_134",
+      "present_in": [
+        "revstream1"
+      ],
+      "missing_from": [
+        "ad-res-j7"
+      ]
+    },
+    {
+      "type": "event_gap",
+      "ref": "EVENT_135",
+      "present_in": [
+        "revstream1"
+      ],
+      "missing_from": [
+        "ad-res-j7"
+      ]
+    },
+    {
+      "type": "event_gap",
+      "ref": "EVENT_136",
+      "present_in": [
+        "revstream1"
+      ],
+      "missing_from": [
+        "ad-res-j7"
+      ]
+    },
+    {
+      "type": "event_gap",
+      "ref": "EVENT_2024",
+      "present_in": [
+        "ad-res-j7"
+      ],
+      "missing_from": [
+        "revstream1"
+      ]
+    }
+  ],
+  "duplicates": [
+    {
+      "type": "duplicate_filing",
+      "hash": "b48d1b543436",
+      "files": [
+        "revstream1:FOREKNOWLEDGE_REFINED_FILINGS_2026_02_08/CIPC_COMPLAINT_FOREKNOWLEDGE_REFINED_2026_02_08.md",
+        "ad-res-j7:FOREKNOWLEDGE_REFINED_FILINGS_2026_02_08/CIPC_COMPLAINT_FOREKNOWLEDGE_REFINED_2026_02_08.md"
+      ]
+    },
+    {
+      "type": "duplicate_filing",
+      "hash": "f5e321d141db",
+      "files": [
+        "revstream1:FOREKNOWLEDGE_REFINED_FILINGS_2026_02_08/COMMERCIAL_CRIME_SUBMISSION_FOREKNOWLEDGE_REFINED_2026_02_08.md",
+        "ad-res-j7:FOREKNOWLEDGE_REFINED_FILINGS_2026_02_08/COMMERCIAL_CRIME_SUBMISSION_FOREKNOWLEDGE_REFINED_2026_02_08.md"
+      ]
+    },
+    {
+      "type": "duplicate_filing",
+      "hash": "ca413fc628fa",
+      "files": [
+        "revstream1:FOREKNOWLEDGE_REFINED_FILINGS_2026_02_08/FIC_SUSPICIOUS_TRANSACTION_REPORT_FOREKNOWLEDGE_REFINED_2026_02_08.md",
+        "ad-res-j7:FOREKNOWLEDGE_REFINED_FILINGS_2026_02_08/FIC_SUSPICIOUS_TRANSACTION_REPORT_FOREKNOWLEDGE_REFINED_2026_02_08.md"
+      ]
+    },
+    {
+      "type": "duplicate_filing",
+      "hash": "a80abd272f35",
+      "files": [
+        "revstream1:FOREKNOWLEDGE_REFINED_FILINGS_2026_02_08/FOREKNOWLEDGE_CLASSIFICATION_FRAMEWORK.md",
+        "ad-res-j7:FOREKNOWLEDGE_REFINED_FILINGS_2026_02_08/FOREKNOWLEDGE_CLASSIFICATION_FRAMEWORK.md"
+      ]
+    },
+    {
+      "type": "duplicate_filing",
+      "hash": "4ec4182790ba",
+      "files": [
+        "revstream1:FOREKNOWLEDGE_REFINED_FILINGS_2026_02_08/NPA_TAX_FRAUD_REPORT_FOREKNOWLEDGE_REFINED_2026_02_08.md",
+        "ad-res-j7:FOREKNOWLEDGE_REFINED_FILINGS_2026_02_08/NPA_TAX_FRAUD_REPORT_FOREKNOWLEDGE_REFINED_2026_02_08.md"
+      ]
+    },
+    {
+      "type": "duplicate_filing",
+      "hash": "a3d66e85e4a3",
+      "files": [
+        "revstream1:FOREKNOWLEDGE_REFINED_FILINGS_2026_02_08/POPIA_COMPLAINT_FOREKNOWLEDGE_REFINED_2026_02_08.md",
+        "ad-res-j7:FOREKNOWLEDGE_REFINED_FILINGS_2026_02_08/POPIA_COMPLAINT_FOREKNOWLEDGE_REFINED_2026_02_08.md"
+      ]
+    },
+    {
+      "type": "duplicate_filing",
+      "hash": "ad42608a06d8",
+      "files": [
+        "revstream1:FOREKNOWLEDGE_REFINED_FILINGS_2026_02_08/PROFESSIONAL_MISCONDUCT_COMPLAINT_FOREKNOWLEDGE_REFINED_2026_02_08.md",
+        "ad-res-j7:FOREKNOWLEDGE_REFINED_FILINGS_2026_02_08/PROFESSIONAL_MISCONDUCT_COMPLAINT_FOREKNOWLEDGE_REFINED_2026_02_08.md"
+      ]
+    },
+    {
+      "type": "duplicate_filing",
+      "hash": "8e102c099983",
+      "files": [
+        "revstream1:FOREKNOWLEDGE_REFINED_FILINGS_2026_02_08/README.md",
+        "ad-res-j7:FOREKNOWLEDGE_REFINED_FILINGS_2026_02_08/README.md"
+      ]
+    },
+    {
+      "type": "duplicate_filing",
+      "hash": "57989770813b",
+      "files": [
+        "revstream1:Revenue_Stream/01_POPIA/04_Court_Documentation/Court_Submission_Executive_Summary.md",
+        "ad-res-j7:Revenue_Stream_Hijacking_by_Rynette/04_Court_Documentation/Court_Submission_Executive_Summary.md"
+      ]
+    },
+    {
+      "type": "duplicate_filing",
+      "hash": "e991730d07d2",
+      "files": [
+        "revstream1:SUPER_REFINED_FILINGS_2026_02_08/CIPC_COMPLAINT_SUPER_REFINED_2026_02_08.md",
+        "ad-res-j7:SUPER_REFINED_FILINGS_2026_02_08/CIPC_COMPLAINT_SUPER_REFINED_2026_02_08.md"
+      ]
+    },
+    {
+      "type": "duplicate_filing",
+      "hash": "cc70cd964eb1",
+      "files": [
+        "revstream1:SUPER_REFINED_FILINGS_2026_02_08/COMMERCIAL_CRIME_SUBMISSION_SUPER_REFINED_2026_02_08.md",
+        "ad-res-j7:SUPER_REFINED_FILINGS_2026_02_08/COMMERCIAL_CRIME_SUBMISSION_SUPER_REFINED_2026_02_08.md"
+      ]
+    },
+    {
+      "type": "duplicate_filing",
+      "hash": "cafc58b58970",
+      "files": [
+        "revstream1:SUPER_REFINED_FILINGS_2026_02_08/FIC_SUSPICIOUS_TRANSACTION_REPORT_SUPER_REFINED_2026_02_08.md",
+        "revstream1:docs/filings/regulatory/FIC_SUSPICIOUS_TRANSACTION_REPORT_REFINED_2026_03_08_v8.md",
+        "ad-res-j7:SUPER_REFINED_FILINGS_2026_02_08/FIC_SUSPICIOUS_TRANSACTION_REPORT_SUPER_REFINED_2026_02_08.md"
+      ]
+    },
+    {
+      "type": "duplicate_filing",
+      "hash": "8dd244c46de9",
+      "files": [
+        "revstream1:SUPER_REFINED_FILINGS_2026_02_08/NPA_TAX_FRAUD_REPORT_SUPER_REFINED_2026_02_08.md",
+        "ad-res-j7:SUPER_REFINED_FILINGS_2026_02_08/NPA_TAX_FRAUD_REPORT_SUPER_REFINED_2026_02_08.md"
+      ]
+    },
+    {
+      "type": "duplicate_filing",
+      "hash": "aec62d46ff06",
+      "files": [
+        "revstream1:SUPER_REFINED_FILINGS_2026_02_08/POPIA_COMPLAINT_SUPER_REFINED_2026_02_08.md",
+        "ad-res-j7:SUPER_REFINED_FILINGS_2026_02_08/POPIA_COMPLAINT_SUPER_REFINED_2026_02_08.md"
+      ]
+    },
+    {
+      "type": "duplicate_filing",
+      "hash": "eee8b23fae06",
+      "files": [
+        "revstream1:SUPER_REFINED_FILINGS_2026_02_08/PROFESSIONAL_MISCONDUCT_COMPLAINT_SUPER_REFINED_2026_02_08.md",
+        "revstream1:docs/filings/regulatory/PROFESSIONAL_MISCONDUCT_COMPLAINT_REFINED_2026_03_08_v8.md",
+        "ad-res-j7:SUPER_REFINED_FILINGS_2026_02_08/PROFESSIONAL_MISCONDUCT_COMPLAINT_SUPER_REFINED_2026_02_08.md"
+      ]
+    },
+    {
+      "type": "duplicate_filing",
+      "hash": "edea5db8d7cc",
+      "files": [
+        "revstream1:SUPER_REFINED_FILINGS_2026_02_08/README.md",
+        "ad-res-j7:SUPER_REFINED_FILINGS_2026_02_08/README.md"
+      ]
+    },
+    {
+      "type": "duplicate_filing",
+      "hash": "18b58d028e79",
+      "files": [
+        "revstream1:docs/CIPC_COMPLAINT_REFINED_2025_12_21.md",
+        "revstream1:docs/analysis/reports/CIPC_COMPLAINT_REFINED_2025_12_21.md"
+      ]
+    },
+    {
+      "type": "duplicate_filing",
+      "hash": "fef9ad5fb59e",
+      "files": [
+        "revstream1:docs/CIPC_COMPLAINT_REFINED_2025_12_23.md",
+        "revstream1:docs/analysis/reports/CIPC_COMPLAINT_REFINED_2025_12_23.md"
+      ]
+    },
+    {
+      "type": "duplicate_filing",
+      "hash": "a1221a0b221b",
+      "files": [
+        "revstream1:docs/CIPC_COMPLAINT_REFINED_2026_01_01.md",
+        "revstream1:docs/analysis/reports/CIPC_COMPLAINT_REFINED_2026_01_01.md"
+      ]
+    },
+    {
+      "type": "duplicate_filing",
+      "hash": "fca62ecff9e8",
+      "files": [
+        "revstream1:docs/CIPC_COMPLAINT_REFINED_2026_01_03.backup_20260105_054131.md",
+        "revstream1:docs/analysis/reports/CIPC_COMPLAINT_REFINED_2026_01_03.md"
+      ]
+    },
+    {
+      "type": "duplicate_filing",
+      "hash": "0b1ad393fd49",
+      "files": [
+        "revstream1:docs/COMPREHENSIVE_ANALYSIS_REPORT_2025_12_25.md",
+        "revstream1:docs/analysis/reports/COMPREHENSIVE_ANALYSIS_REPORT_2025_12_25.md"
+      ]
+    },
+    {
+      "type": "duplicate_filing",
+      "hash": "fc357a3c5f77",
+      "files": [
+        "revstream1:docs/COMPREHENSIVE_IMPROVEMENTS_REPORT_2025_12_25.md",
+        "revstream1:docs/analysis/reports/COMPREHENSIVE_IMPROVEMENTS_REPORT_2025_12_25.md"
+      ]
+    },
+    {
+      "type": "duplicate_filing",
+      "hash": "a03ac6ebd74a",
+      "files": [
+        "revstream1:docs/COMPREHENSIVE_IMPROVEMENTS_REPORT_2025_12_26.md",
+        "revstream1:docs/analysis/reports/COMPREHENSIVE_IMPROVEMENTS_REPORT_2025_12_26.md"
+      ]
+    },
+    {
+      "type": "duplicate_filing",
+      "hash": "c9ab0525f145",
+      "files": [
+        "revstream1:docs/COMPREHENSIVE_REFINEMENT_REPORT_2025_12_15.md",
+        "revstream1:docs/analysis/reports/COMPREHENSIVE_REFINEMENT_REPORT_2025_12_15.md"
+      ]
+    },
+    {
+      "type": "duplicate_filing",
+      "hash": "d9b1c69e45f6",
+      "files": [
+        "revstream1:docs/COMPREHENSIVE_REFINEMENT_REPORT_2025_12_21.md",
+        "revstream1:docs/analysis/reports/COMPREHENSIVE_REFINEMENT_REPORT_2025_12_21.md"
+      ]
+    },
+    {
+      "type": "duplicate_filing",
+      "hash": "55fdcd1be660",
+      "files": [
+        "revstream1:docs/COMPREHENSIVE_REFINEMENT_REPORT_2025_12_31.md",
+        "revstream1:docs/analysis/reports/COMPREHENSIVE_REFINEMENT_REPORT_2025_12_31.md"
+      ]
+    },
+    {
+      "type": "duplicate_filing",
+      "hash": "72572d110e9f",
+      "files": [
+        "revstream1:docs/COMPREHENSIVE_REFINEMENT_REPORT_2026_01_04.md",
+        "revstream1:docs/analysis/reports/COMPREHENSIVE_REFINEMENT_REPORT_2026_01_04.md"
+      ]
+    },
+    {
+      "type": "duplicate_filing",
+      "hash": "271d23924894",
+      "files": [
+        "revstream1:docs/FINAL_REFINEMENT_REPORT_2025_12_19.md",
+        "revstream1:docs/analysis/reports/FINAL_REFINEMENT_REPORT_2025_12_19.md"
+      ]
+    },
+    {
+      "type": "duplicate_filing",
+      "hash": "b580a1e4e7f6",
+      "files": [
+        "revstream1:docs/LEGAL_FILINGS_STATUS_2025_12_22.md",
+        "revstream1:docs/analysis/reports/LEGAL_FILINGS_STATUS_2025_12_22.md"
+      ]
+    },
+    {
+      "type": "duplicate_filing",
+      "hash": "719a9619029a",
+      "files": [
+        "revstream1:docs/NPA_TAX_FRAUD_REPORT_2025_12_21.md",
+        "revstream1:docs/analysis/reports/NPA_TAX_FRAUD_REPORT_2025_12_21.md"
+      ]
+    },
+    {
+      "type": "duplicate_filing",
+      "hash": "7f7de5c78aef",
+      "files": [
+        "revstream1:docs/NPA_TAX_FRAUD_REPORT_REFINED_2026_01_01.md",
+        "revstream1:docs/analysis/reports/NPA_TAX_FRAUD_REPORT_REFINED_2026_01_01.md"
+      ]
+    },
+    {
+      "type": "duplicate_filing",
+      "hash": "61b60d26b792",
+      "files": [
+        "revstream1:docs/NPA_TAX_FRAUD_REPORT_REFINED_2026_01_03.backup_20260105_054131.md",
+        "revstream1:docs/analysis/reports/NPA_TAX_FRAUD_REPORT_REFINED_2026_01_03.md"
+      ]
+    },
+    {
+      "type": "duplicate_filing",
+      "hash": "fff926fdcf3a",
+      "files": [
+        "revstream1:docs/POPIA_COMPLAINT_COMPREHENSIVE_2025_12_23.md",
+        "revstream1:docs/analysis/reports/POPIA_COMPLAINT_COMPREHENSIVE_2025_12_23.md"
+      ]
+    },
+    {
+      "type": "duplicate_filing",
+      "hash": "1dce0bb89b35",
+      "files": [
+        "revstream1:docs/POPIA_COMPLAINT_REFINED_2025_12_21.md",
+        "revstream1:docs/analysis/reports/POPIA_COMPLAINT_REFINED_2025_12_21.md"
+      ]
+    },
+    {
+      "type": "duplicate_filing",
+      "hash": "25cc626ab141",
+      "files": [
+        "revstream1:docs/POPIA_COMPLAINT_REFINED_2026_01_01.md",
+        "revstream1:docs/analysis/reports/POPIA_COMPLAINT_REFINED_2026_01_01.md"
+      ]
+    },
+    {
+      "type": "duplicate_filing",
+      "hash": "bdd1b4752dff",
+      "files": [
+        "revstream1:docs/POPIA_COMPLAINT_REFINED_2026_01_03.backup_20260105_054131.md",
+        "revstream1:docs/analysis/reports/POPIA_COMPLAINT_REFINED_2026_01_03.md"
+      ]
+    },
+    {
+      "type": "duplicate_filing",
+      "hash": "58a0caf15fde",
+      "files": [
+        "revstream1:docs/hyper_holmes_report_2026_02_06.md",
+        "revstream1:docs/evidence-suppression/hyper_holmes_report.md",
+        "ad-res-j7:evidence-suppression/hyper_holmes_report.md",
+        "ad-res-j7:evidence/2026-02-06/hyper_holmes_report_2026_02_06.md"
+      ]
+    },
+    {
+      "type": "duplicate_filing",
+      "hash": "952f388f9f50",
+      "files": [
+        "revstream1:docs/super_sleuth_report_2026_02_06.md",
+        "revstream1:docs/evidence-suppression/super_sleuth_report.md",
+        "ad-res-j7:evidence-suppression/super_sleuth_report.md",
+        "ad-res-j7:evidence/2026-02-06/super_sleuth_report_2026_02_06.md"
+      ]
+    },
+    {
+      "type": "duplicate_filing",
+      "hash": "a6bc03681ba0",
+      "files": [
+        "revstream1:docs/260223/02_efiling_logged_in_as_you_apr2024/README.md",
+        "ad-res-j7:docs/260223/02_efiling_logged_in_as_you_apr2024/README.md"
+      ]
+    },
+    {
+      "type": "duplicate_filing",
+      "hash": "0556f5290e62",
+      "files": [
+        "revstream1:docs/260223/10_fraud_report_jun2025/README.md",
+        "ad-res-j7:docs/260223/10_fraud_report_jun2025/README.md"
+      ]
+    },
+    {
+      "type": "duplicate_filing",
+      "hash": "485a03e8e60a",
+      "files": [
+        "revstream1:docs/analysis/reports/CIPC_COMPLAINT_REFINED_2026_01_07.md",
+        "revstream1:docs/filings/CIPC_COMPLAINT_REFINED_2026_01_07.md"
+      ]
+    },
+    {
+      "type": "duplicate_filing",
+      "hash": "40858f67870f",
+      "files": [
+        "revstream1:docs/analysis/reports/CIPC_COMPLAINT_REFINED_2026_01_09.md",
+        "revstream1:docs/filings/CIPC_COMPLAINT_REFINED_2026_01_09.md"
+      ]
+    },
+    {
+      "type": "duplicate_filing",
+      "hash": "b93db1bea8f1",
+      "files": [
+        "revstream1:docs/analysis/reports/CIPC_COMPLAINT_REFINED_2026_01_10.md",
+        "revstream1:docs/filings/CIPC_COMPLAINT_REFINED_2026_01_10.md",
+        "revstream1:docs/filings/CIPC_REFINED_2026_01_11.md"
+      ]
+    },
+    {
+      "type": "duplicate_filing",
+      "hash": "2c5a4e62f01a",
+      "files": [
+        "revstream1:docs/analysis/reports/NPA_TAX_FRAUD_REPORT_REFINED_2026_01_07.md",
+        "revstream1:docs/filings/NPA_TAX_FRAUD_REPORT_REFINED_2026_01_07.md"
+      ]
+    },
+    {
+      "type": "duplicate_filing",
+      "hash": "1249b63c2195",
+      "files": [
+        "revstream1:docs/analysis/reports/NPA_TAX_FRAUD_REPORT_REFINED_2026_01_09.md",
+        "revstream1:docs/filings/NPA_TAX_FRAUD_REPORT_REFINED_2026_01_09.md"
+      ]
+    },
+    {
+      "type": "duplicate_filing",
+      "hash": "2fe219dd9599",
+      "files": [
+        "revstream1:docs/analysis/reports/NPA_TAX_FRAUD_REPORT_REFINED_2026_01_10.md",
+        "revstream1:docs/filings/NPA_REFINED_2026_01_11.md",
+        "revstream1:docs/filings/NPA_TAX_FRAUD_REPORT_REFINED_2026_01_10.md"
+      ]
+    },
+    {
+      "type": "duplicate_filing",
+      "hash": "0b02824ddf76",
+      "files": [
+        "revstream1:docs/analysis/reports/POPIA_COMPLAINT_REFINED_2026_01_07.md",
+        "revstream1:docs/filings/POPIA_COMPLAINT_REFINED_2026_01_07.md"
+      ]
+    },
+    {
+      "type": "duplicate_filing",
+      "hash": "7f3fc94e9f6c",
+      "files": [
+        "revstream1:docs/analysis/reports/POPIA_COMPLAINT_REFINED_2026_01_09.md",
+        "revstream1:docs/filings/POPIA_COMPLAINT_REFINED_2026_01_09.md"
+      ]
+    },
+    {
+      "type": "duplicate_filing",
+      "hash": "360cf779a5ae",
+      "files": [
+        "revstream1:docs/analysis/reports/POPIA_COMPLAINT_REFINED_2026_01_10.md",
+        "revstream1:docs/filings/POPIA_COMPLAINT_REFINED_2026_01_10.md",
+        "revstream1:docs/filings/POPIA_REFINED_2026_01_11.md"
+      ]
+    },
+    {
+      "type": "duplicate_filing",
+      "hash": "18ff209f1a7f",
+      "files": [
+        "revstream1:docs/evidence-suppression/filings/CIPC_COMPLAINT_REFINED_2026_02_06.md",
+        "revstream1:docs/filings/CIPC_COMPLAINT_REFINED_2026_02_06.md",
+        "ad-res-j7:evidence-suppression/filings/CIPC_COMPLAINT_REFINED_2026_02_06.md"
+      ]
+    },
+    {
+      "type": "duplicate_filing",
+      "hash": "46a4f13daa4c",
+      "files": [
+        "revstream1:docs/evidence-suppression/filings/COMMERCIAL_CRIME_SUBMISSION_REFINED_2026_02_06.md",
+        "revstream1:docs/filings/COMMERCIAL_CRIME_SUBMISSION_REFINED_2026_02_06.md",
+        "ad-res-j7:evidence-suppression/filings/COMMERCIAL_CRIME_SUBMISSION_REFINED_2026_02_06.md"
+      ]
+    },
+    {
+      "type": "duplicate_filing",
+      "hash": "578c705ae4ae",
+      "files": [
+        "revstream1:docs/evidence-suppression/filings/NPA_TAX_FRAUD_REPORT_REFINED_2026_02_06.md",
+        "revstream1:docs/filings/NPA_TAX_FRAUD_REPORT_REFINED_2026_02_06.md"
+      ]
+    },
+    {
+      "type": "duplicate_filing",
+      "hash": "dfc5106753b2",
+      "files": [
+        "revstream1:docs/evidence-suppression/filings/POPIA_COMPLAINT_REFINED_2026_02_06.md",
+        "revstream1:docs/filings/POPIA_COMPLAINT_REFINED_2026_02_06.md",
+        "ad-res-j7:evidence-suppression/filings/POPIA_COMPLAINT_REFINED_2026_02_06.md"
+      ]
+    },
+    {
+      "type": "duplicate_filing",
+      "hash": "7977fe58d0d7",
+      "files": [
+        "revstream1:docs/evidence/fund_flow/FincosysDatabaseSyncReport.md",
+        "ad-res-j7:evidence/fund_flow/FincosysDatabaseSyncReport.md"
+      ]
+    },
+    {
+      "type": "duplicate_filing",
+      "hash": "d8f957a463fd",
+      "files": [
+        "revstream1:docs/evidence/fund_flow/ForensicFundFlowAnalysis_MissingBankStatementsReport.md",
+        "ad-res-j7:evidence/fund_flow/ForensicFundFlowAnalysis_MissingBankStatementsReport.md"
+      ]
+    },
+    {
+      "type": "duplicate_filing",
+      "hash": "985f4313c018",
+      "files": [
+        "revstream1:docs/filings/ANSWERING_AFFIDAVIT_EVIDENCE_ENHANCED_20251214.md",
+        "revstream1:docs/filings/ANSWERING_AFFIDAVIT_V9_FINAL_2025_12_07.md"
+      ]
+    },
+    {
+      "type": "duplicate_filing",
+      "hash": "812a4d8256a6",
+      "files": [
+        "revstream1:docs/filings/ANSWERING_AFFIDAVIT_V7_FINAL_COMPLETE.md",
+        "revstream1:docs/filings/ANSWERING_AFFIDAVIT_V8_ENHANCED.md",
+        "revstream1:docs/filings/ANSWERING_AFFIDAVIT_V8_EVIDENCE_ENHANCED.md"
+      ]
+    },
+    {
+      "type": "duplicate_filing",
+      "hash": "85066b86c71d",
+      "files": [
+        "revstream1:docs/filings/CIPC_COMPLAINT_CONSOLIDATED_2026_02_06.md",
+        "ad-res-j7:CONSOLIDATED_FILINGS_2026_02_06/CIPC_COMPLAINT_CONSOLIDATED_2026_02_06.md"
+      ]
+    },
+    {
+      "type": "duplicate_filing",
+      "hash": "68f3e6a6d70b",
+      "files": [
+        "revstream1:docs/filings/CIPC_COMPLAINT_ENHANCED_2025_11_28.md",
+        "revstream1:docs/filings/CIPC_COMPLAINT_REFINED_20251203.md"
+      ]
+    },
+    {
+      "type": "duplicate_filing",
+      "hash": "213f0c5cf667",
+      "files": [
+        "revstream1:docs/filings/CIPC_COMPLAINT_EVIDENCE_ENHANCED_20251214.md",
+        "revstream1:docs/filings/CIPC_COMPLAINT_REFINED_2025_12_10_UPDATED_2025_12_12_REFINED_20251213.md"
+      ]
+    },
+    {
+      "type": "duplicate_filing",
+      "hash": "97270bed9224",
+      "files": [
+        "revstream1:docs/filings/CIPC_COMPLAINT_REFINED_2025_12_10_UPDATED_2025_12_12.md",
+        "revstream1:docs/filings/regulatory/CIPC_COMPLAINT_REFINED_2025_12_10_UPDATED_2025_12_12.md"
+      ]
+    },
+    {
+      "type": "duplicate_filing",
+      "hash": "46f45af63876",
+      "files": [
+        "revstream1:docs/filings/CIPC_COMPLAINT_REFINED_2026_01_08.md",
+        "revstream1:docs/filings/CIPC_REFINED_2026_01_28.md"
+      ]
+    },
+    {
+      "type": "duplicate_filing",
+      "hash": "1e726089d528",
+      "files": [
+        "revstream1:docs/filings/CIPC_COMPLAINT_REFINED_2026_03_08_v8.md",
+        "revstream1:docs/filings/regulatory/CIPC_COMPLAINT_REFINED_2026_03_08_v8.md",
+        "ad-res-j7:REFINED_FILINGS_2026_03_08/CIPC_COMPLAINT_REFINED_2026_03_08_v8.md"
+      ]
+    },
+    {
+      "type": "duplicate_filing",
+      "hash": "80355d4c0ba0",
+      "files": [
+        "revstream1:docs/filings/COMMERCIAL_CRIME_EVIDENCE_ENHANCED_20251214.md",
+        "revstream1:docs/filings/COMMERCIAL_CRIME_REFINED_2025_12_10_REFINED_20251213.md"
+      ]
+    },
+    {
+      "type": "duplicate_filing",
+      "hash": "9402c0afbbb8",
+      "files": [
+        "revstream1:docs/filings/COMMERCIAL_CRIME_REFINED_2026_01_28.md",
+        "revstream1:docs/filings/commercial_crime_submission_REFINED_2026_01_18.md"
+      ]
+    },
+    {
+      "type": "duplicate_filing",
+      "hash": "8ebd7c58089d",
+      "files": [
+        "revstream1:docs/filings/COMMERCIAL_CRIME_SUBMISSION_CONSOLIDATED_2026_02_06.md",
+        "ad-res-j7:CONSOLIDATED_FILINGS_2026_02_06/COMMERCIAL_CRIME_SUBMISSION_CONSOLIDATED_2026_02_06.md"
+      ]
+    },
+    {
+      "type": "duplicate_filing",
+      "hash": "ce5dbfe80e7f",
+      "files": [
+        "revstream1:docs/filings/COMMERCIAL_CRIME_SUBMISSION_REFINED_2026_03_08_v8.md",
+        "revstream1:docs/filings/criminal/COMMERCIAL_CRIME_SUBMISSION_REFINED_2026_03_08_v8.md",
+        "ad-res-j7:REFINED_FILINGS_2026_03_08/COMMERCIAL_CRIME_SUBMISSION_REFINED_2026_03_08_v8.md"
+      ]
+    },
+    {
+      "type": "duplicate_filing",
+      "hash": "46b8fef3c00a",
+      "files": [
+        "revstream1:docs/filings/CRIMINAL_COMPLAINT_EVIDENCE_ENHANCED.md",
+        "revstream1:docs/filings/CRIMINAL_COMPLAINT_TORTURE_PERJURY_FRAUD.md",
+        "revstream1:docs/filings/CRIMINAL_COMPLAINT_V2_ENHANCED.md"
+      ]
+    },
+    {
+      "type": "duplicate_filing",
+      "hash": "380625715ef7",
+      "files": [
+        "revstream1:docs/filings/NPA_REFINED_2026_01_28.md",
+        "revstream1:docs/filings/NPA_TAX_FRAUD_REPORT_REFINED_2026_01_08.md"
+      ]
+    },
+    {
+      "type": "duplicate_filing",
+      "hash": "a4d881626848",
+      "files": [
+        "revstream1:docs/filings/NPA_TAX_FRAUD_REPORT_2025_12_10_UPDATED_2025_12_12.md",
+        "revstream1:docs/filings/regulatory/NPA_TAX_FRAUD_REPORT_2025_12_10_UPDATED_2025_12_12.md"
+      ]
+    },
+    {
+      "type": "duplicate_filing",
+      "hash": "528d0ce92e90",
+      "files": [
+        "revstream1:docs/filings/NPA_TAX_FRAUD_REPORT_2025_12_10_UPDATED_2025_12_12_REFINED_20251213.md",
+        "revstream1:docs/filings/NPA_TAX_FRAUD_REPORT_EVIDENCE_ENHANCED_20251214.md"
+      ]
+    },
+    {
+      "type": "duplicate_filing",
+      "hash": "2f496c98fb25",
+      "files": [
+        "revstream1:docs/filings/POPIA_COMPLAINT_CONSOLIDATED_2026_02_06.md",
+        "ad-res-j7:CONSOLIDATED_FILINGS_2026_02_06/POPIA_COMPLAINT_CONSOLIDATED_2026_02_06.md"
+      ]
+    },
+    {
+      "type": "duplicate_filing",
+      "hash": "6d3b08ea478c",
+      "files": [
+        "revstream1:docs/filings/POPIA_COMPLAINT_EVIDENCE_ENHANCED_20251214.md",
+        "revstream1:docs/filings/POPIA_COMPLAINT_REFINED_2025_12_10_UPDATED_2025_12_12_REFINED_20251213.md"
+      ]
+    },
+    {
+      "type": "duplicate_filing",
+      "hash": "d6c35b30ea42",
+      "files": [
+        "revstream1:docs/filings/POPIA_COMPLAINT_REFINED_2026_01_08.md",
+        "revstream1:docs/filings/POPIA_REFINED_2026_01_28.md"
+      ]
+    },
+    {
+      "type": "duplicate_filing",
+      "hash": "e1976667a472",
+      "files": [
+        "revstream1:docs/filings/POPIA_COMPLAINT_REFINED_2026_03_08_v8.md",
+        "revstream1:docs/filings/criminal/POPIA_COMPLAINT_REFINED_2026_03_08_v8.md",
+        "ad-res-j7:REFINED_FILINGS_2026_03_08/POPIA_COMPLAINT_REFINED_2026_03_08_v8.md"
+      ]
+    },
+    {
+      "type": "duplicate_filing",
+      "hash": "99b133810b2b",
+      "files": [
+        "revstream1:docs/filings/npa_tax_fraud_report_REFINED_2026_03_08.md",
+        "ad-res-j7:npa_tax_fraud_report_REFINED_2026_03_08.md"
+      ]
+    },
+    {
+      "type": "duplicate_filing",
+      "hash": "e947088b7e78",
+      "files": [
+        "revstream1:lex-recon-results/RECON_REPORT.md",
+        "ad-res-j7:lex-recon-results/RECON_REPORT.md"
+      ]
+    },
+    {
+      "type": "duplicate_filing",
+      "hash": "52ff51d32d11",
+      "files": [
+        "revstream1:provable-foreknowledge/classification_report.md",
+        "ad-res-j7:provable-foreknowledge/classification_report.md"
+      ]
+    },
+    {
+      "type": "duplicate_filing",
+      "hash": "0a385afce5d0",
+      "files": [
+        "ad-res-j7:UPDATED_DRAFTS/analysis-main/case_2025_137857/01_court_documents/ocr-assumptions-update-report.md",
+        "ad-res-j7:UPDATED_DRAFTS/analysis-main/case_2025_137857/03_analysis/ocr_analysis/ocr-assumptions-update-report.md"
+      ]
+    },
+    {
+      "type": "duplicate_filing",
+      "hash": "934615df379b",
+      "files": [
+        "ad-res-j7:backups/pre-consolidation/jax-dan-response/IMPLEMENTATION_STATUS_REPORT.md",
+        "ad-res-j7:jax-response/IMPLEMENTATION_STATUS_REPORT.md"
+      ]
+    },
+    {
+      "type": "duplicate_filing",
+      "hash": "cdcecdbba516",
+      "files": [
+        "ad-res-j7:backups/pre-consolidation/jax-response/evidence-attachments/JF-CHESNO1-forensic-accounting-reports.md",
+        "ad-res-j7:jax-response/evidence-attachments/JF-CHESNO1-forensic-accounting-reports.md"
+      ]
+    },
+    {
+      "type": "duplicate_filing",
+      "hash": "f34a4ff8f2fd",
+      "files": [
+        "ad-res-j7:backups/pre-consolidation/jax-response/evidence-attachments/JF-CHESNO3-police-reports-fraud-investigation.md",
+        "ad-res-j7:jax-response/evidence-attachments/JF-CHESNO3-police-reports-fraud-investigation.md"
+      ]
+    },
+    {
+      "type": "duplicate_filing",
+      "hash": "e0b10ef33428",
+      "files": [
+        "ad-res-j7:docs/legal/ad_elements_analysis_report.md",
+        "ad-res-j7:docs/legal/analysis/ad_elements_analysis_report.md"
+      ]
+    },
+    {
+      "type": "duplicate_filing",
+      "hash": "2975b1a45e7b",
+      "files": [
+        "ad-res-j7:docs/reports/DATE_VALIDATION_SUMMARY.md",
+        "ad-res-j7:docs/reports/validation/DATE_VALIDATION_SUMMARY.md"
+      ]
+    },
+    {
+      "type": "duplicate_filing",
+      "hash": "e03a663e898b",
+      "files": [
+        "ad-res-j7:docs/reports/EMPTY_TODO_FILE_VALIDATION_SUMMARY.md",
+        "ad-res-j7:docs/reports/validation/EMPTY_TODO_FILE_VALIDATION_SUMMARY.md"
+      ]
+    },
+    {
+      "type": "duplicate_filing",
+      "hash": "1dbdaf2e5ea6",
+      "files": [
+        "ad-res-j7:docs/reports/KEY_TIMELINE_EVENTS_INTEGRATION_REPORT.md",
+        "ad-res-j7:docs/technical/timeline/KEY_TIMELINE_EVENTS_INTEGRATION_REPORT.md"
+      ]
+    },
+    {
+      "type": "duplicate_filing",
+      "hash": "7448efffd1cc",
+      "files": [
+        "ad-res-j7:docs/reports/PHASE_1_COMPLETION_VERIFICATION.md",
+        "ad-res-j7:docs/reports/completion/PHASE_1_COMPLETION_VERIFICATION.md",
+        "ad-res-j7:docs/reports/verification/PHASE_1_COMPLETION_VERIFICATION.md"
+      ]
+    },
+    {
+      "type": "duplicate_filing",
+      "hash": "012e425ea932",
+      "files": [
+        "ad-res-j7:docs/reports/TASK_COMPLETION_EVIDENCE_PRESENTATION_STRATEGY.md",
+        "ad-res-j7:docs/reports/completion/TASK_COMPLETION_EVIDENCE_PRESENTATION_STRATEGY.md"
+      ]
+    },
+    {
+      "type": "duplicate_filing",
+      "hash": "84a12690336d",
+      "files": [
+        "ad-res-j7:docs/reports/TASK_COMPLETION_ISSUE_GENERATION.md",
+        "ad-res-j7:docs/reports/completion/TASK_COMPLETION_ISSUE_GENERATION.md"
+      ]
+    },
+    {
+      "type": "duplicate_filing",
+      "hash": "fe2595209080",
+      "files": [
+        "ad-res-j7:docs/reports/TASK_COMPLETION_JF-BS1_BANK_STATEMENT.md",
+        "ad-res-j7:docs/reports/completion/TASK_COMPLETION_JF-BS1_BANK_STATEMENT.md"
+      ]
+    },
+    {
+      "type": "duplicate_filing",
+      "hash": "fbeac55c2d1f",
+      "files": [
+        "ad-res-j7:docs/reports/TASK_COMPLETION_PETERS_WITHDRAWALS_JF-PA.md",
+        "ad-res-j7:docs/reports/completion/TASK_COMPLETION_PETERS_WITHDRAWALS_JF-PA.md"
+      ]
+    },
+    {
+      "type": "duplicate_filing",
+      "hash": "70d5a81b5f4c",
+      "files": [
+        "ad-res-j7:docs/reports/TIMELINE_VISUALIZATION_VERIFICATION.md",
+        "ad-res-j7:docs/reports/verification/TIMELINE_VISUALIZATION_VERIFICATION.md"
+      ]
+    },
+    {
+      "type": "duplicate_filing",
+      "hash": "a735bdafc139",
+      "files": [
+        "ad-res-j7:evidence/computer-expenses/Computer Expenses Categorization Report.md",
+        "ad-res-j7:evidence/computer-expenses/detailed_report.md"
+      ]
+    }
+  ],
+  "recommendations": [
+    {
+      "priority": "P1",
+      "category": "FILING_SYNC",
+      "action": "Resolve version conflict for CIPC_COMPLAINT",
+      "details": "55 different versions across ad-res-j7, revstream1",
+      "resolution": "Compare latest versions and sync the most recent to all repos"
+    },
+    {
+      "priority": "P1",
+      "category": "FILING_SYNC",
+      "action": "Resolve version conflict for COMMERCIAL_CRIME",
+      "details": "34 different versions across ad-res-j7, revstream1",
+      "resolution": "Compare latest versions and sync the most recent to all repos"
+    },
+    {
+      "priority": "P1",
+      "category": "FILING_SYNC",
+      "action": "Resolve version conflict for FIC_SUSPICIOUS",
+      "details": "2 different versions across ad-res-j7, revstream1",
+      "resolution": "Compare latest versions and sync the most recent to all repos"
+    },
+    {
+      "priority": "P1",
+      "category": "FILING_SYNC",
+      "action": "Resolve version conflict for NPA_TAX_FRAUD",
+      "details": "45 different versions across ad-res-j7, revstream1",
+      "resolution": "Compare latest versions and sync the most recent to all repos"
+    },
+    {
+      "priority": "P1",
+      "category": "FILING_SYNC",
+      "action": "Resolve version conflict for POPIA_COMPLAINT",
+      "details": "52 different versions across ad-res-j7, revstream1",
+      "resolution": "Compare latest versions and sync the most recent to all repos"
+    },
+    {
+      "priority": "P1",
+      "category": "FILING_SYNC",
+      "action": "Resolve version conflict for PROFESSIONAL_MISCONDUCT",
+      "details": "5 different versions across ad-res-j7, revstream1",
+      "resolution": "Compare latest versions and sync the most recent to all repos"
+    },
+    {
+      "priority": "P2",
+      "category": "EVIDENCE_SYNC",
+      "action": "Sync 1 evidence references to ad-res-j7",
+      "details": "References missing: DF933",
+      "resolution": "Add evidence references or cross-reference documents to ad-res-j7"
+    },
+    {
+      "priority": "P3",
+      "category": "DEDUP",
+      "action": "Remove duplicate filing (hash: b48d1b543436)",
+      "details": "Identical files: revstream1:FOREKNOWLEDGE_REFINED_FILINGS_2026_02_08/CIPC_COMPLAINT_FOREKNOWLEDGE_REFINED_2026_02_08.md, ad-res-j7:FOREKNOWLEDGE_REFINED_FILINGS_2026_02_08/CIPC_COMPLAINT_FOREKNOWLEDGE_REFINED_2026_02_08.md",
+      "resolution": "Keep canonical version and remove duplicates"
+    },
+    {
+      "priority": "P3",
+      "category": "DEDUP",
+      "action": "Remove duplicate filing (hash: f5e321d141db)",
+      "details": "Identical files: revstream1:FOREKNOWLEDGE_REFINED_FILINGS_2026_02_08/COMMERCIAL_CRIME_SUBMISSION_FOREKNOWLEDGE_REFINED_2026_02_08.md, ad-res-j7:FOREKNOWLEDGE_REFINED_FILINGS_2026_02_08/COMMERCIAL_CRIME_SUBMISSION_FOREKNOWLEDGE_REFINED_2026_02_08.md",
+      "resolution": "Keep canonical version and remove duplicates"
+    },
+    {
+      "priority": "P3",
+      "category": "DEDUP",
+      "action": "Remove duplicate filing (hash: ca413fc628fa)",
+      "details": "Identical files: revstream1:FOREKNOWLEDGE_REFINED_FILINGS_2026_02_08/FIC_SUSPICIOUS_TRANSACTION_REPORT_FOREKNOWLEDGE_REFINED_2026_02_08.md, ad-res-j7:FOREKNOWLEDGE_REFINED_FILINGS_2026_02_08/FIC_SUSPICIOUS_TRANSACTION_REPORT_FOREKNOWLEDGE_REFINED_2026_02_08.md",
+      "resolution": "Keep canonical version and remove duplicates"
+    },
+    {
+      "priority": "P3",
+      "category": "DEDUP",
+      "action": "Remove duplicate filing (hash: a80abd272f35)",
+      "details": "Identical files: revstream1:FOREKNOWLEDGE_REFINED_FILINGS_2026_02_08/FOREKNOWLEDGE_CLASSIFICATION_FRAMEWORK.md, ad-res-j7:FOREKNOWLEDGE_REFINED_FILINGS_2026_02_08/FOREKNOWLEDGE_CLASSIFICATION_FRAMEWORK.md",
+      "resolution": "Keep canonical version and remove duplicates"
+    },
+    {
+      "priority": "P3",
+      "category": "DEDUP",
+      "action": "Remove duplicate filing (hash: 4ec4182790ba)",
+      "details": "Identical files: revstream1:FOREKNOWLEDGE_REFINED_FILINGS_2026_02_08/NPA_TAX_FRAUD_REPORT_FOREKNOWLEDGE_REFINED_2026_02_08.md, ad-res-j7:FOREKNOWLEDGE_REFINED_FILINGS_2026_02_08/NPA_TAX_FRAUD_REPORT_FOREKNOWLEDGE_REFINED_2026_02_08.md",
+      "resolution": "Keep canonical version and remove duplicates"
+    },
+    {
+      "priority": "P3",
+      "category": "DEDUP",
+      "action": "Remove duplicate filing (hash: a3d66e85e4a3)",
+      "details": "Identical files: revstream1:FOREKNOWLEDGE_REFINED_FILINGS_2026_02_08/POPIA_COMPLAINT_FOREKNOWLEDGE_REFINED_2026_02_08.md, ad-res-j7:FOREKNOWLEDGE_REFINED_FILINGS_2026_02_08/POPIA_COMPLAINT_FOREKNOWLEDGE_REFINED_2026_02_08.md",
+      "resolution": "Keep canonical version and remove duplicates"
+    },
+    {
+      "priority": "P3",
+      "category": "DEDUP",
+      "action": "Remove duplicate filing (hash: ad42608a06d8)",
+      "details": "Identical files: revstream1:FOREKNOWLEDGE_REFINED_FILINGS_2026_02_08/PROFESSIONAL_MISCONDUCT_COMPLAINT_FOREKNOWLEDGE_REFINED_2026_02_08.md, ad-res-j7:FOREKNOWLEDGE_REFINED_FILINGS_2026_02_08/PROFESSIONAL_MISCONDUCT_COMPLAINT_FOREKNOWLEDGE_REFINED_2026_02_08.md",
+      "resolution": "Keep canonical version and remove duplicates"
+    },
+    {
+      "priority": "P3",
+      "category": "DEDUP",
+      "action": "Remove duplicate filing (hash: 8e102c099983)",
+      "details": "Identical files: revstream1:FOREKNOWLEDGE_REFINED_FILINGS_2026_02_08/README.md, ad-res-j7:FOREKNOWLEDGE_REFINED_FILINGS_2026_02_08/README.md",
+      "resolution": "Keep canonical version and remove duplicates"
+    },
+    {
+      "priority": "P3",
+      "category": "DEDUP",
+      "action": "Remove duplicate filing (hash: 57989770813b)",
+      "details": "Identical files: revstream1:Revenue_Stream/01_POPIA/04_Court_Documentation/Court_Submission_Executive_Summary.md, ad-res-j7:Revenue_Stream_Hijacking_by_Rynette/04_Court_Documentation/Court_Submission_Executive_Summary.md",
+      "resolution": "Keep canonical version and remove duplicates"
+    },
+    {
+      "priority": "P3",
+      "category": "DEDUP",
+      "action": "Remove duplicate filing (hash: e991730d07d2)",
+      "details": "Identical files: revstream1:SUPER_REFINED_FILINGS_2026_02_08/CIPC_COMPLAINT_SUPER_REFINED_2026_02_08.md, ad-res-j7:SUPER_REFINED_FILINGS_2026_02_08/CIPC_COMPLAINT_SUPER_REFINED_2026_02_08.md",
+      "resolution": "Keep canonical version and remove duplicates"
+    },
+    {
+      "priority": "P3",
+      "category": "DEDUP",
+      "action": "Remove duplicate filing (hash: cc70cd964eb1)",
+      "details": "Identical files: revstream1:SUPER_REFINED_FILINGS_2026_02_08/COMMERCIAL_CRIME_SUBMISSION_SUPER_REFINED_2026_02_08.md, ad-res-j7:SUPER_REFINED_FILINGS_2026_02_08/COMMERCIAL_CRIME_SUBMISSION_SUPER_REFINED_2026_02_08.md",
+      "resolution": "Keep canonical version and remove duplicates"
+    },
+    {
+      "priority": "P3",
+      "category": "DEDUP",
+      "action": "Remove duplicate filing (hash: cafc58b58970)",
+      "details": "Identical files: revstream1:SUPER_REFINED_FILINGS_2026_02_08/FIC_SUSPICIOUS_TRANSACTION_REPORT_SUPER_REFINED_2026_02_08.md, revstream1:docs/filings/regulatory/FIC_SUSPICIOUS_TRANSACTION_REPORT_REFINED_2026_03_08_v8.md, ad-res-j7:SUPER_REFINED_FILINGS_2026_02_08/FIC_SUSPICIOUS_TRANSACTION_REPORT_SUPER_REFINED_2026_02_08.md",
+      "resolution": "Keep canonical version and remove duplicates"
+    },
+    {
+      "priority": "P3",
+      "category": "DEDUP",
+      "action": "Remove duplicate filing (hash: 8dd244c46de9)",
+      "details": "Identical files: revstream1:SUPER_REFINED_FILINGS_2026_02_08/NPA_TAX_FRAUD_REPORT_SUPER_REFINED_2026_02_08.md, ad-res-j7:SUPER_REFINED_FILINGS_2026_02_08/NPA_TAX_FRAUD_REPORT_SUPER_REFINED_2026_02_08.md",
+      "resolution": "Keep canonical version and remove duplicates"
+    },
+    {
+      "priority": "P3",
+      "category": "DEDUP",
+      "action": "Remove duplicate filing (hash: aec62d46ff06)",
+      "details": "Identical files: revstream1:SUPER_REFINED_FILINGS_2026_02_08/POPIA_COMPLAINT_SUPER_REFINED_2026_02_08.md, ad-res-j7:SUPER_REFINED_FILINGS_2026_02_08/POPIA_COMPLAINT_SUPER_REFINED_2026_02_08.md",
+      "resolution": "Keep canonical version and remove duplicates"
+    },
+    {
+      "priority": "P3",
+      "category": "DEDUP",
+      "action": "Remove duplicate filing (hash: eee8b23fae06)",
+      "details": "Identical files: revstream1:SUPER_REFINED_FILINGS_2026_02_08/PROFESSIONAL_MISCONDUCT_COMPLAINT_SUPER_REFINED_2026_02_08.md, revstream1:docs/filings/regulatory/PROFESSIONAL_MISCONDUCT_COMPLAINT_REFINED_2026_03_08_v8.md, ad-res-j7:SUPER_REFINED_FILINGS_2026_02_08/PROFESSIONAL_MISCONDUCT_COMPLAINT_SUPER_REFINED_2026_02_08.md",
+      "resolution": "Keep canonical version and remove duplicates"
+    },
+    {
+      "priority": "P3",
+      "category": "DEDUP",
+      "action": "Remove duplicate filing (hash: edea5db8d7cc)",
+      "details": "Identical files: revstream1:SUPER_REFINED_FILINGS_2026_02_08/README.md, ad-res-j7:SUPER_REFINED_FILINGS_2026_02_08/README.md",
+      "resolution": "Keep canonical version and remove duplicates"
+    },
+    {
+      "priority": "P3",
+      "category": "DEDUP",
+      "action": "Remove duplicate filing (hash: 18b58d028e79)",
+      "details": "Identical files: revstream1:docs/CIPC_COMPLAINT_REFINED_2025_12_21.md, revstream1:docs/analysis/reports/CIPC_COMPLAINT_REFINED_2025_12_21.md",
+      "resolution": "Keep canonical version and remove duplicates"
+    },
+    {
+      "priority": "P3",
+      "category": "DEDUP",
+      "action": "Remove duplicate filing (hash: fef9ad5fb59e)",
+      "details": "Identical files: revstream1:docs/CIPC_COMPLAINT_REFINED_2025_12_23.md, revstream1:docs/analysis/reports/CIPC_COMPLAINT_REFINED_2025_12_23.md",
+      "resolution": "Keep canonical version and remove duplicates"
+    },
+    {
+      "priority": "P3",
+      "category": "DEDUP",
+      "action": "Remove duplicate filing (hash: a1221a0b221b)",
+      "details": "Identical files: revstream1:docs/CIPC_COMPLAINT_REFINED_2026_01_01.md, revstream1:docs/analysis/reports/CIPC_COMPLAINT_REFINED_2026_01_01.md",
+      "resolution": "Keep canonical version and remove duplicates"
+    },
+    {
+      "priority": "P3",
+      "category": "DEDUP",
+      "action": "Remove duplicate filing (hash: fca62ecff9e8)",
+      "details": "Identical files: revstream1:docs/CIPC_COMPLAINT_REFINED_2026_01_03.backup_20260105_054131.md, revstream1:docs/analysis/reports/CIPC_COMPLAINT_REFINED_2026_01_03.md",
+      "resolution": "Keep canonical version and remove duplicates"
+    },
+    {
+      "priority": "P3",
+      "category": "DEDUP",
+      "action": "Remove duplicate filing (hash: 0b1ad393fd49)",
+      "details": "Identical files: revstream1:docs/COMPREHENSIVE_ANALYSIS_REPORT_2025_12_25.md, revstream1:docs/analysis/reports/COMPREHENSIVE_ANALYSIS_REPORT_2025_12_25.md",
+      "resolution": "Keep canonical version and remove duplicates"
+    },
+    {
+      "priority": "P3",
+      "category": "DEDUP",
+      "action": "Remove duplicate filing (hash: fc357a3c5f77)",
+      "details": "Identical files: revstream1:docs/COMPREHENSIVE_IMPROVEMENTS_REPORT_2025_12_25.md, revstream1:docs/analysis/reports/COMPREHENSIVE_IMPROVEMENTS_REPORT_2025_12_25.md",
+      "resolution": "Keep canonical version and remove duplicates"
+    },
+    {
+      "priority": "P3",
+      "category": "DEDUP",
+      "action": "Remove duplicate filing (hash: a03ac6ebd74a)",
+      "details": "Identical files: revstream1:docs/COMPREHENSIVE_IMPROVEMENTS_REPORT_2025_12_26.md, revstream1:docs/analysis/reports/COMPREHENSIVE_IMPROVEMENTS_REPORT_2025_12_26.md",
+      "resolution": "Keep canonical version and remove duplicates"
+    },
+    {
+      "priority": "P3",
+      "category": "DEDUP",
+      "action": "Remove duplicate filing (hash: c9ab0525f145)",
+      "details": "Identical files: revstream1:docs/COMPREHENSIVE_REFINEMENT_REPORT_2025_12_15.md, revstream1:docs/analysis/reports/COMPREHENSIVE_REFINEMENT_REPORT_2025_12_15.md",
+      "resolution": "Keep canonical version and remove duplicates"
+    },
+    {
+      "priority": "P3",
+      "category": "DEDUP",
+      "action": "Remove duplicate filing (hash: d9b1c69e45f6)",
+      "details": "Identical files: revstream1:docs/COMPREHENSIVE_REFINEMENT_REPORT_2025_12_21.md, revstream1:docs/analysis/reports/COMPREHENSIVE_REFINEMENT_REPORT_2025_12_21.md",
+      "resolution": "Keep canonical version and remove duplicates"
+    },
+    {
+      "priority": "P3",
+      "category": "DEDUP",
+      "action": "Remove duplicate filing (hash: 55fdcd1be660)",
+      "details": "Identical files: revstream1:docs/COMPREHENSIVE_REFINEMENT_REPORT_2025_12_31.md, revstream1:docs/analysis/reports/COMPREHENSIVE_REFINEMENT_REPORT_2025_12_31.md",
+      "resolution": "Keep canonical version and remove duplicates"
+    },
+    {
+      "priority": "P3",
+      "category": "DEDUP",
+      "action": "Remove duplicate filing (hash: 72572d110e9f)",
+      "details": "Identical files: revstream1:docs/COMPREHENSIVE_REFINEMENT_REPORT_2026_01_04.md, revstream1:docs/analysis/reports/COMPREHENSIVE_REFINEMENT_REPORT_2026_01_04.md",
+      "resolution": "Keep canonical version and remove duplicates"
+    },
+    {
+      "priority": "P3",
+      "category": "DEDUP",
+      "action": "Remove duplicate filing (hash: 271d23924894)",
+      "details": "Identical files: revstream1:docs/FINAL_REFINEMENT_REPORT_2025_12_19.md, revstream1:docs/analysis/reports/FINAL_REFINEMENT_REPORT_2025_12_19.md",
+      "resolution": "Keep canonical version and remove duplicates"
+    },
+    {
+      "priority": "P3",
+      "category": "DEDUP",
+      "action": "Remove duplicate filing (hash: b580a1e4e7f6)",
+      "details": "Identical files: revstream1:docs/LEGAL_FILINGS_STATUS_2025_12_22.md, revstream1:docs/analysis/reports/LEGAL_FILINGS_STATUS_2025_12_22.md",
+      "resolution": "Keep canonical version and remove duplicates"
+    },
+    {
+      "priority": "P3",
+      "category": "DEDUP",
+      "action": "Remove duplicate filing (hash: 719a9619029a)",
+      "details": "Identical files: revstream1:docs/NPA_TAX_FRAUD_REPORT_2025_12_21.md, revstream1:docs/analysis/reports/NPA_TAX_FRAUD_REPORT_2025_12_21.md",
+      "resolution": "Keep canonical version and remove duplicates"
+    },
+    {
+      "priority": "P3",
+      "category": "DEDUP",
+      "action": "Remove duplicate filing (hash: 7f7de5c78aef)",
+      "details": "Identical files: revstream1:docs/NPA_TAX_FRAUD_REPORT_REFINED_2026_01_01.md, revstream1:docs/analysis/reports/NPA_TAX_FRAUD_REPORT_REFINED_2026_01_01.md",
+      "resolution": "Keep canonical version and remove duplicates"
+    },
+    {
+      "priority": "P3",
+      "category": "DEDUP",
+      "action": "Remove duplicate filing (hash: 61b60d26b792)",
+      "details": "Identical files: revstream1:docs/NPA_TAX_FRAUD_REPORT_REFINED_2026_01_03.backup_20260105_054131.md, revstream1:docs/analysis/reports/NPA_TAX_FRAUD_REPORT_REFINED_2026_01_03.md",
+      "resolution": "Keep canonical version and remove duplicates"
+    },
+    {
+      "priority": "P3",
+      "category": "DEDUP",
+      "action": "Remove duplicate filing (hash: fff926fdcf3a)",
+      "details": "Identical files: revstream1:docs/POPIA_COMPLAINT_COMPREHENSIVE_2025_12_23.md, revstream1:docs/analysis/reports/POPIA_COMPLAINT_COMPREHENSIVE_2025_12_23.md",
+      "resolution": "Keep canonical version and remove duplicates"
+    },
+    {
+      "priority": "P3",
+      "category": "DEDUP",
+      "action": "Remove duplicate filing (hash: 1dce0bb89b35)",
+      "details": "Identical files: revstream1:docs/POPIA_COMPLAINT_REFINED_2025_12_21.md, revstream1:docs/analysis/reports/POPIA_COMPLAINT_REFINED_2025_12_21.md",
+      "resolution": "Keep canonical version and remove duplicates"
+    },
+    {
+      "priority": "P3",
+      "category": "DEDUP",
+      "action": "Remove duplicate filing (hash: 25cc626ab141)",
+      "details": "Identical files: revstream1:docs/POPIA_COMPLAINT_REFINED_2026_01_01.md, revstream1:docs/analysis/reports/POPIA_COMPLAINT_REFINED_2026_01_01.md",
+      "resolution": "Keep canonical version and remove duplicates"
+    },
+    {
+      "priority": "P3",
+      "category": "DEDUP",
+      "action": "Remove duplicate filing (hash: bdd1b4752dff)",
+      "details": "Identical files: revstream1:docs/POPIA_COMPLAINT_REFINED_2026_01_03.backup_20260105_054131.md, revstream1:docs/analysis/reports/POPIA_COMPLAINT_REFINED_2026_01_03.md",
+      "resolution": "Keep canonical version and remove duplicates"
+    },
+    {
+      "priority": "P3",
+      "category": "DEDUP",
+      "action": "Remove duplicate filing (hash: 58a0caf15fde)",
+      "details": "Identical files: revstream1:docs/hyper_holmes_report_2026_02_06.md, revstream1:docs/evidence-suppression/hyper_holmes_report.md, ad-res-j7:evidence-suppression/hyper_holmes_report.md, ad-res-j7:evidence/2026-02-06/hyper_holmes_report_2026_02_06.md",
+      "resolution": "Keep canonical version and remove duplicates"
+    },
+    {
+      "priority": "P3",
+      "category": "DEDUP",
+      "action": "Remove duplicate filing (hash: 952f388f9f50)",
+      "details": "Identical files: revstream1:docs/super_sleuth_report_2026_02_06.md, revstream1:docs/evidence-suppression/super_sleuth_report.md, ad-res-j7:evidence-suppression/super_sleuth_report.md, ad-res-j7:evidence/2026-02-06/super_sleuth_report_2026_02_06.md",
+      "resolution": "Keep canonical version and remove duplicates"
+    },
+    {
+      "priority": "P3",
+      "category": "DEDUP",
+      "action": "Remove duplicate filing (hash: a6bc03681ba0)",
+      "details": "Identical files: revstream1:docs/260223/02_efiling_logged_in_as_you_apr2024/README.md, ad-res-j7:docs/260223/02_efiling_logged_in_as_you_apr2024/README.md",
+      "resolution": "Keep canonical version and remove duplicates"
+    },
+    {
+      "priority": "P3",
+      "category": "DEDUP",
+      "action": "Remove duplicate filing (hash: 0556f5290e62)",
+      "details": "Identical files: revstream1:docs/260223/10_fraud_report_jun2025/README.md, ad-res-j7:docs/260223/10_fraud_report_jun2025/README.md",
+      "resolution": "Keep canonical version and remove duplicates"
+    },
+    {
+      "priority": "P3",
+      "category": "DEDUP",
+      "action": "Remove duplicate filing (hash: 485a03e8e60a)",
+      "details": "Identical files: revstream1:docs/analysis/reports/CIPC_COMPLAINT_REFINED_2026_01_07.md, revstream1:docs/filings/CIPC_COMPLAINT_REFINED_2026_01_07.md",
+      "resolution": "Keep canonical version and remove duplicates"
+    },
+    {
+      "priority": "P3",
+      "category": "DEDUP",
+      "action": "Remove duplicate filing (hash: 40858f67870f)",
+      "details": "Identical files: revstream1:docs/analysis/reports/CIPC_COMPLAINT_REFINED_2026_01_09.md, revstream1:docs/filings/CIPC_COMPLAINT_REFINED_2026_01_09.md",
+      "resolution": "Keep canonical version and remove duplicates"
+    },
+    {
+      "priority": "P3",
+      "category": "DEDUP",
+      "action": "Remove duplicate filing (hash: b93db1bea8f1)",
+      "details": "Identical files: revstream1:docs/analysis/reports/CIPC_COMPLAINT_REFINED_2026_01_10.md, revstream1:docs/filings/CIPC_COMPLAINT_REFINED_2026_01_10.md, revstream1:docs/filings/CIPC_REFINED_2026_01_11.md",
+      "resolution": "Keep canonical version and remove duplicates"
+    },
+    {
+      "priority": "P3",
+      "category": "DEDUP",
+      "action": "Remove duplicate filing (hash: 2c5a4e62f01a)",
+      "details": "Identical files: revstream1:docs/analysis/reports/NPA_TAX_FRAUD_REPORT_REFINED_2026_01_07.md, revstream1:docs/filings/NPA_TAX_FRAUD_REPORT_REFINED_2026_01_07.md",
+      "resolution": "Keep canonical version and remove duplicates"
+    },
+    {
+      "priority": "P3",
+      "category": "DEDUP",
+      "action": "Remove duplicate filing (hash: 1249b63c2195)",
+      "details": "Identical files: revstream1:docs/analysis/reports/NPA_TAX_FRAUD_REPORT_REFINED_2026_01_09.md, revstream1:docs/filings/NPA_TAX_FRAUD_REPORT_REFINED_2026_01_09.md",
+      "resolution": "Keep canonical version and remove duplicates"
+    },
+    {
+      "priority": "P3",
+      "category": "DEDUP",
+      "action": "Remove duplicate filing (hash: 2fe219dd9599)",
+      "details": "Identical files: revstream1:docs/analysis/reports/NPA_TAX_FRAUD_REPORT_REFINED_2026_01_10.md, revstream1:docs/filings/NPA_REFINED_2026_01_11.md, revstream1:docs/filings/NPA_TAX_FRAUD_REPORT_REFINED_2026_01_10.md",
+      "resolution": "Keep canonical version and remove duplicates"
+    },
+    {
+      "priority": "P3",
+      "category": "DEDUP",
+      "action": "Remove duplicate filing (hash: 0b02824ddf76)",
+      "details": "Identical files: revstream1:docs/analysis/reports/POPIA_COMPLAINT_REFINED_2026_01_07.md, revstream1:docs/filings/POPIA_COMPLAINT_REFINED_2026_01_07.md",
+      "resolution": "Keep canonical version and remove duplicates"
+    },
+    {
+      "priority": "P3",
+      "category": "DEDUP",
+      "action": "Remove duplicate filing (hash: 7f3fc94e9f6c)",
+      "details": "Identical files: revstream1:docs/analysis/reports/POPIA_COMPLAINT_REFINED_2026_01_09.md, revstream1:docs/filings/POPIA_COMPLAINT_REFINED_2026_01_09.md",
+      "resolution": "Keep canonical version and remove duplicates"
+    },
+    {
+      "priority": "P3",
+      "category": "DEDUP",
+      "action": "Remove duplicate filing (hash: 360cf779a5ae)",
+      "details": "Identical files: revstream1:docs/analysis/reports/POPIA_COMPLAINT_REFINED_2026_01_10.md, revstream1:docs/filings/POPIA_COMPLAINT_REFINED_2026_01_10.md, revstream1:docs/filings/POPIA_REFINED_2026_01_11.md",
+      "resolution": "Keep canonical version and remove duplicates"
+    },
+    {
+      "priority": "P3",
+      "category": "DEDUP",
+      "action": "Remove duplicate filing (hash: 18ff209f1a7f)",
+      "details": "Identical files: revstream1:docs/evidence-suppression/filings/CIPC_COMPLAINT_REFINED_2026_02_06.md, revstream1:docs/filings/CIPC_COMPLAINT_REFINED_2026_02_06.md, ad-res-j7:evidence-suppression/filings/CIPC_COMPLAINT_REFINED_2026_02_06.md",
+      "resolution": "Keep canonical version and remove duplicates"
+    },
+    {
+      "priority": "P3",
+      "category": "DEDUP",
+      "action": "Remove duplicate filing (hash: 46a4f13daa4c)",
+      "details": "Identical files: revstream1:docs/evidence-suppression/filings/COMMERCIAL_CRIME_SUBMISSION_REFINED_2026_02_06.md, revstream1:docs/filings/COMMERCIAL_CRIME_SUBMISSION_REFINED_2026_02_06.md, ad-res-j7:evidence-suppression/filings/COMMERCIAL_CRIME_SUBMISSION_REFINED_2026_02_06.md",
+      "resolution": "Keep canonical version and remove duplicates"
+    },
+    {
+      "priority": "P3",
+      "category": "DEDUP",
+      "action": "Remove duplicate filing (hash: 578c705ae4ae)",
+      "details": "Identical files: revstream1:docs/evidence-suppression/filings/NPA_TAX_FRAUD_REPORT_REFINED_2026_02_06.md, revstream1:docs/filings/NPA_TAX_FRAUD_REPORT_REFINED_2026_02_06.md",
+      "resolution": "Keep canonical version and remove duplicates"
+    },
+    {
+      "priority": "P3",
+      "category": "DEDUP",
+      "action": "Remove duplicate filing (hash: dfc5106753b2)",
+      "details": "Identical files: revstream1:docs/evidence-suppression/filings/POPIA_COMPLAINT_REFINED_2026_02_06.md, revstream1:docs/filings/POPIA_COMPLAINT_REFINED_2026_02_06.md, ad-res-j7:evidence-suppression/filings/POPIA_COMPLAINT_REFINED_2026_02_06.md",
+      "resolution": "Keep canonical version and remove duplicates"
+    },
+    {
+      "priority": "P3",
+      "category": "DEDUP",
+      "action": "Remove duplicate filing (hash: 7977fe58d0d7)",
+      "details": "Identical files: revstream1:docs/evidence/fund_flow/FincosysDatabaseSyncReport.md, ad-res-j7:evidence/fund_flow/FincosysDatabaseSyncReport.md",
+      "resolution": "Keep canonical version and remove duplicates"
+    },
+    {
+      "priority": "P3",
+      "category": "DEDUP",
+      "action": "Remove duplicate filing (hash: d8f957a463fd)",
+      "details": "Identical files: revstream1:docs/evidence/fund_flow/ForensicFundFlowAnalysis_MissingBankStatementsReport.md, ad-res-j7:evidence/fund_flow/ForensicFundFlowAnalysis_MissingBankStatementsReport.md",
+      "resolution": "Keep canonical version and remove duplicates"
+    },
+    {
+      "priority": "P3",
+      "category": "DEDUP",
+      "action": "Remove duplicate filing (hash: 985f4313c018)",
+      "details": "Identical files: revstream1:docs/filings/ANSWERING_AFFIDAVIT_EVIDENCE_ENHANCED_20251214.md, revstream1:docs/filings/ANSWERING_AFFIDAVIT_V9_FINAL_2025_12_07.md",
+      "resolution": "Keep canonical version and remove duplicates"
+    },
+    {
+      "priority": "P3",
+      "category": "DEDUP",
+      "action": "Remove duplicate filing (hash: 812a4d8256a6)",
+      "details": "Identical files: revstream1:docs/filings/ANSWERING_AFFIDAVIT_V7_FINAL_COMPLETE.md, revstream1:docs/filings/ANSWERING_AFFIDAVIT_V8_ENHANCED.md, revstream1:docs/filings/ANSWERING_AFFIDAVIT_V8_EVIDENCE_ENHANCED.md",
+      "resolution": "Keep canonical version and remove duplicates"
+    },
+    {
+      "priority": "P3",
+      "category": "DEDUP",
+      "action": "Remove duplicate filing (hash: 85066b86c71d)",
+      "details": "Identical files: revstream1:docs/filings/CIPC_COMPLAINT_CONSOLIDATED_2026_02_06.md, ad-res-j7:CONSOLIDATED_FILINGS_2026_02_06/CIPC_COMPLAINT_CONSOLIDATED_2026_02_06.md",
+      "resolution": "Keep canonical version and remove duplicates"
+    },
+    {
+      "priority": "P3",
+      "category": "DEDUP",
+      "action": "Remove duplicate filing (hash: 68f3e6a6d70b)",
+      "details": "Identical files: revstream1:docs/filings/CIPC_COMPLAINT_ENHANCED_2025_11_28.md, revstream1:docs/filings/CIPC_COMPLAINT_REFINED_20251203.md",
+      "resolution": "Keep canonical version and remove duplicates"
+    },
+    {
+      "priority": "P3",
+      "category": "DEDUP",
+      "action": "Remove duplicate filing (hash: 213f0c5cf667)",
+      "details": "Identical files: revstream1:docs/filings/CIPC_COMPLAINT_EVIDENCE_ENHANCED_20251214.md, revstream1:docs/filings/CIPC_COMPLAINT_REFINED_2025_12_10_UPDATED_2025_12_12_REFINED_20251213.md",
+      "resolution": "Keep canonical version and remove duplicates"
+    },
+    {
+      "priority": "P3",
+      "category": "DEDUP",
+      "action": "Remove duplicate filing (hash: 97270bed9224)",
+      "details": "Identical files: revstream1:docs/filings/CIPC_COMPLAINT_REFINED_2025_12_10_UPDATED_2025_12_12.md, revstream1:docs/filings/regulatory/CIPC_COMPLAINT_REFINED_2025_12_10_UPDATED_2025_12_12.md",
+      "resolution": "Keep canonical version and remove duplicates"
+    },
+    {
+      "priority": "P3",
+      "category": "DEDUP",
+      "action": "Remove duplicate filing (hash: 46f45af63876)",
+      "details": "Identical files: revstream1:docs/filings/CIPC_COMPLAINT_REFINED_2026_01_08.md, revstream1:docs/filings/CIPC_REFINED_2026_01_28.md",
+      "resolution": "Keep canonical version and remove duplicates"
+    },
+    {
+      "priority": "P3",
+      "category": "DEDUP",
+      "action": "Remove duplicate filing (hash: 1e726089d528)",
+      "details": "Identical files: revstream1:docs/filings/CIPC_COMPLAINT_REFINED_2026_03_08_v8.md, revstream1:docs/filings/regulatory/CIPC_COMPLAINT_REFINED_2026_03_08_v8.md, ad-res-j7:REFINED_FILINGS_2026_03_08/CIPC_COMPLAINT_REFINED_2026_03_08_v8.md",
+      "resolution": "Keep canonical version and remove duplicates"
+    },
+    {
+      "priority": "P3",
+      "category": "DEDUP",
+      "action": "Remove duplicate filing (hash: 80355d4c0ba0)",
+      "details": "Identical files: revstream1:docs/filings/COMMERCIAL_CRIME_EVIDENCE_ENHANCED_20251214.md, revstream1:docs/filings/COMMERCIAL_CRIME_REFINED_2025_12_10_REFINED_20251213.md",
+      "resolution": "Keep canonical version and remove duplicates"
+    },
+    {
+      "priority": "P3",
+      "category": "DEDUP",
+      "action": "Remove duplicate filing (hash: 9402c0afbbb8)",
+      "details": "Identical files: revstream1:docs/filings/COMMERCIAL_CRIME_REFINED_2026_01_28.md, revstream1:docs/filings/commercial_crime_submission_REFINED_2026_01_18.md",
+      "resolution": "Keep canonical version and remove duplicates"
+    },
+    {
+      "priority": "P3",
+      "category": "DEDUP",
+      "action": "Remove duplicate filing (hash: 8ebd7c58089d)",
+      "details": "Identical files: revstream1:docs/filings/COMMERCIAL_CRIME_SUBMISSION_CONSOLIDATED_2026_02_06.md, ad-res-j7:CONSOLIDATED_FILINGS_2026_02_06/COMMERCIAL_CRIME_SUBMISSION_CONSOLIDATED_2026_02_06.md",
+      "resolution": "Keep canonical version and remove duplicates"
+    },
+    {
+      "priority": "P3",
+      "category": "DEDUP",
+      "action": "Remove duplicate filing (hash: ce5dbfe80e7f)",
+      "details": "Identical files: revstream1:docs/filings/COMMERCIAL_CRIME_SUBMISSION_REFINED_2026_03_08_v8.md, revstream1:docs/filings/criminal/COMMERCIAL_CRIME_SUBMISSION_REFINED_2026_03_08_v8.md, ad-res-j7:REFINED_FILINGS_2026_03_08/COMMERCIAL_CRIME_SUBMISSION_REFINED_2026_03_08_v8.md",
+      "resolution": "Keep canonical version and remove duplicates"
+    },
+    {
+      "priority": "P3",
+      "category": "DEDUP",
+      "action": "Remove duplicate filing (hash: 46b8fef3c00a)",
+      "details": "Identical files: revstream1:docs/filings/CRIMINAL_COMPLAINT_EVIDENCE_ENHANCED.md, revstream1:docs/filings/CRIMINAL_COMPLAINT_TORTURE_PERJURY_FRAUD.md, revstream1:docs/filings/CRIMINAL_COMPLAINT_V2_ENHANCED.md",
+      "resolution": "Keep canonical version and remove duplicates"
+    },
+    {
+      "priority": "P3",
+      "category": "DEDUP",
+      "action": "Remove duplicate filing (hash: 380625715ef7)",
+      "details": "Identical files: revstream1:docs/filings/NPA_REFINED_2026_01_28.md, revstream1:docs/filings/NPA_TAX_FRAUD_REPORT_REFINED_2026_01_08.md",
+      "resolution": "Keep canonical version and remove duplicates"
+    },
+    {
+      "priority": "P3",
+      "category": "DEDUP",
+      "action": "Remove duplicate filing (hash: a4d881626848)",
+      "details": "Identical files: revstream1:docs/filings/NPA_TAX_FRAUD_REPORT_2025_12_10_UPDATED_2025_12_12.md, revstream1:docs/filings/regulatory/NPA_TAX_FRAUD_REPORT_2025_12_10_UPDATED_2025_12_12.md",
+      "resolution": "Keep canonical version and remove duplicates"
+    },
+    {
+      "priority": "P3",
+      "category": "DEDUP",
+      "action": "Remove duplicate filing (hash: 528d0ce92e90)",
+      "details": "Identical files: revstream1:docs/filings/NPA_TAX_FRAUD_REPORT_2025_12_10_UPDATED_2025_12_12_REFINED_20251213.md, revstream1:docs/filings/NPA_TAX_FRAUD_REPORT_EVIDENCE_ENHANCED_20251214.md",
+      "resolution": "Keep canonical version and remove duplicates"
+    },
+    {
+      "priority": "P3",
+      "category": "DEDUP",
+      "action": "Remove duplicate filing (hash: 2f496c98fb25)",
+      "details": "Identical files: revstream1:docs/filings/POPIA_COMPLAINT_CONSOLIDATED_2026_02_06.md, ad-res-j7:CONSOLIDATED_FILINGS_2026_02_06/POPIA_COMPLAINT_CONSOLIDATED_2026_02_06.md",
+      "resolution": "Keep canonical version and remove duplicates"
+    },
+    {
+      "priority": "P3",
+      "category": "DEDUP",
+      "action": "Remove duplicate filing (hash: 6d3b08ea478c)",
+      "details": "Identical files: revstream1:docs/filings/POPIA_COMPLAINT_EVIDENCE_ENHANCED_20251214.md, revstream1:docs/filings/POPIA_COMPLAINT_REFINED_2025_12_10_UPDATED_2025_12_12_REFINED_20251213.md",
+      "resolution": "Keep canonical version and remove duplicates"
+    },
+    {
+      "priority": "P3",
+      "category": "DEDUP",
+      "action": "Remove duplicate filing (hash: d6c35b30ea42)",
+      "details": "Identical files: revstream1:docs/filings/POPIA_COMPLAINT_REFINED_2026_01_08.md, revstream1:docs/filings/POPIA_REFINED_2026_01_28.md",
+      "resolution": "Keep canonical version and remove duplicates"
+    },
+    {
+      "priority": "P3",
+      "category": "DEDUP",
+      "action": "Remove duplicate filing (hash: e1976667a472)",
+      "details": "Identical files: revstream1:docs/filings/POPIA_COMPLAINT_REFINED_2026_03_08_v8.md, revstream1:docs/filings/criminal/POPIA_COMPLAINT_REFINED_2026_03_08_v8.md, ad-res-j7:REFINED_FILINGS_2026_03_08/POPIA_COMPLAINT_REFINED_2026_03_08_v8.md",
+      "resolution": "Keep canonical version and remove duplicates"
+    },
+    {
+      "priority": "P3",
+      "category": "DEDUP",
+      "action": "Remove duplicate filing (hash: 99b133810b2b)",
+      "details": "Identical files: revstream1:docs/filings/npa_tax_fraud_report_REFINED_2026_03_08.md, ad-res-j7:npa_tax_fraud_report_REFINED_2026_03_08.md",
+      "resolution": "Keep canonical version and remove duplicates"
+    },
+    {
+      "priority": "P3",
+      "category": "DEDUP",
+      "action": "Remove duplicate filing (hash: e947088b7e78)",
+      "details": "Identical files: revstream1:lex-recon-results/RECON_REPORT.md, ad-res-j7:lex-recon-results/RECON_REPORT.md",
+      "resolution": "Keep canonical version and remove duplicates"
+    },
+    {
+      "priority": "P3",
+      "category": "DEDUP",
+      "action": "Remove duplicate filing (hash: 52ff51d32d11)",
+      "details": "Identical files: revstream1:provable-foreknowledge/classification_report.md, ad-res-j7:provable-foreknowledge/classification_report.md",
+      "resolution": "Keep canonical version and remove duplicates"
+    },
+    {
+      "priority": "P3",
+      "category": "DEDUP",
+      "action": "Remove duplicate filing (hash: 0a385afce5d0)",
+      "details": "Identical files: ad-res-j7:UPDATED_DRAFTS/analysis-main/case_2025_137857/01_court_documents/ocr-assumptions-update-report.md, ad-res-j7:UPDATED_DRAFTS/analysis-main/case_2025_137857/03_analysis/ocr_analysis/ocr-assumptions-update-report.md",
+      "resolution": "Keep canonical version and remove duplicates"
+    },
+    {
+      "priority": "P3",
+      "category": "DEDUP",
+      "action": "Remove duplicate filing (hash: 934615df379b)",
+      "details": "Identical files: ad-res-j7:backups/pre-consolidation/jax-dan-response/IMPLEMENTATION_STATUS_REPORT.md, ad-res-j7:jax-response/IMPLEMENTATION_STATUS_REPORT.md",
+      "resolution": "Keep canonical version and remove duplicates"
+    },
+    {
+      "priority": "P3",
+      "category": "DEDUP",
+      "action": "Remove duplicate filing (hash: cdcecdbba516)",
+      "details": "Identical files: ad-res-j7:backups/pre-consolidation/jax-response/evidence-attachments/JF-CHESNO1-forensic-accounting-reports.md, ad-res-j7:jax-response/evidence-attachments/JF-CHESNO1-forensic-accounting-reports.md",
+      "resolution": "Keep canonical version and remove duplicates"
+    },
+    {
+      "priority": "P3",
+      "category": "DEDUP",
+      "action": "Remove duplicate filing (hash: f34a4ff8f2fd)",
+      "details": "Identical files: ad-res-j7:backups/pre-consolidation/jax-response/evidence-attachments/JF-CHESNO3-police-reports-fraud-investigation.md, ad-res-j7:jax-response/evidence-attachments/JF-CHESNO3-police-reports-fraud-investigation.md",
+      "resolution": "Keep canonical version and remove duplicates"
+    },
+    {
+      "priority": "P3",
+      "category": "DEDUP",
+      "action": "Remove duplicate filing (hash: e0b10ef33428)",
+      "details": "Identical files: ad-res-j7:docs/legal/ad_elements_analysis_report.md, ad-res-j7:docs/legal/analysis/ad_elements_analysis_report.md",
+      "resolution": "Keep canonical version and remove duplicates"
+    },
+    {
+      "priority": "P3",
+      "category": "DEDUP",
+      "action": "Remove duplicate filing (hash: 2975b1a45e7b)",
+      "details": "Identical files: ad-res-j7:docs/reports/DATE_VALIDATION_SUMMARY.md, ad-res-j7:docs/reports/validation/DATE_VALIDATION_SUMMARY.md",
+      "resolution": "Keep canonical version and remove duplicates"
+    },
+    {
+      "priority": "P3",
+      "category": "DEDUP",
+      "action": "Remove duplicate filing (hash: e03a663e898b)",
+      "details": "Identical files: ad-res-j7:docs/reports/EMPTY_TODO_FILE_VALIDATION_SUMMARY.md, ad-res-j7:docs/reports/validation/EMPTY_TODO_FILE_VALIDATION_SUMMARY.md",
+      "resolution": "Keep canonical version and remove duplicates"
+    },
+    {
+      "priority": "P3",
+      "category": "DEDUP",
+      "action": "Remove duplicate filing (hash: 1dbdaf2e5ea6)",
+      "details": "Identical files: ad-res-j7:docs/reports/KEY_TIMELINE_EVENTS_INTEGRATION_REPORT.md, ad-res-j7:docs/technical/timeline/KEY_TIMELINE_EVENTS_INTEGRATION_REPORT.md",
+      "resolution": "Keep canonical version and remove duplicates"
+    },
+    {
+      "priority": "P3",
+      "category": "DEDUP",
+      "action": "Remove duplicate filing (hash: 7448efffd1cc)",
+      "details": "Identical files: ad-res-j7:docs/reports/PHASE_1_COMPLETION_VERIFICATION.md, ad-res-j7:docs/reports/completion/PHASE_1_COMPLETION_VERIFICATION.md, ad-res-j7:docs/reports/verification/PHASE_1_COMPLETION_VERIFICATION.md",
+      "resolution": "Keep canonical version and remove duplicates"
+    },
+    {
+      "priority": "P3",
+      "category": "DEDUP",
+      "action": "Remove duplicate filing (hash: 012e425ea932)",
+      "details": "Identical files: ad-res-j7:docs/reports/TASK_COMPLETION_EVIDENCE_PRESENTATION_STRATEGY.md, ad-res-j7:docs/reports/completion/TASK_COMPLETION_EVIDENCE_PRESENTATION_STRATEGY.md",
+      "resolution": "Keep canonical version and remove duplicates"
+    },
+    {
+      "priority": "P3",
+      "category": "DEDUP",
+      "action": "Remove duplicate filing (hash: 84a12690336d)",
+      "details": "Identical files: ad-res-j7:docs/reports/TASK_COMPLETION_ISSUE_GENERATION.md, ad-res-j7:docs/reports/completion/TASK_COMPLETION_ISSUE_GENERATION.md",
+      "resolution": "Keep canonical version and remove duplicates"
+    },
+    {
+      "priority": "P3",
+      "category": "DEDUP",
+      "action": "Remove duplicate filing (hash: fe2595209080)",
+      "details": "Identical files: ad-res-j7:docs/reports/TASK_COMPLETION_JF-BS1_BANK_STATEMENT.md, ad-res-j7:docs/reports/completion/TASK_COMPLETION_JF-BS1_BANK_STATEMENT.md",
+      "resolution": "Keep canonical version and remove duplicates"
+    },
+    {
+      "priority": "P3",
+      "category": "DEDUP",
+      "action": "Remove duplicate filing (hash: fbeac55c2d1f)",
+      "details": "Identical files: ad-res-j7:docs/reports/TASK_COMPLETION_PETERS_WITHDRAWALS_JF-PA.md, ad-res-j7:docs/reports/completion/TASK_COMPLETION_PETERS_WITHDRAWALS_JF-PA.md",
+      "resolution": "Keep canonical version and remove duplicates"
+    },
+    {
+      "priority": "P3",
+      "category": "DEDUP",
+      "action": "Remove duplicate filing (hash: 70d5a81b5f4c)",
+      "details": "Identical files: ad-res-j7:docs/reports/TIMELINE_VISUALIZATION_VERIFICATION.md, ad-res-j7:docs/reports/verification/TIMELINE_VISUALIZATION_VERIFICATION.md",
+      "resolution": "Keep canonical version and remove duplicates"
+    },
+    {
+      "priority": "P3",
+      "category": "DEDUP",
+      "action": "Remove duplicate filing (hash: a735bdafc139)",
+      "details": "Identical files: ad-res-j7:evidence/computer-expenses/Computer Expenses Categorization Report.md, ad-res-j7:evidence/computer-expenses/detailed_report.md",
+      "resolution": "Keep canonical version and remove duplicates"
+    }
+  ]
+}
