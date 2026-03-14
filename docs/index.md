@@ -1,10 +1,12 @@
 # Case 2025-137857: Revenue Stream Hijacking & Multi-Jurisdictional Fraud
 
-**Last Updated:** 2026-03-13
+**Last Updated:** 2026-03-14
 
 This repository provides a comprehensive, evidence-based view of Case 2025-137857, a multi-faceted criminal enterprise involving revenue stream hijacking, trust fraud, identity theft, and corporate malfeasance with a total quantum exceeding **R63,000,000**.
 
-> **Latest Update (2026-03-13):** v12 filing refinements with updated Red-Team Critique addressing all procedural vulnerabilities. New sections added to CIPC (s162 delinquency for procedural abuse), POPIA (s11/s14/s15 weaponization of personal information), and Commercial Crime (perjury with provable foreknowledge). Refined Filing Strategy updated with bifurcation plan and evidentiary fortification requirements. Total events now **170+**, total relations **30**, across **7 applications**. Extraction quantum: **R10,924,131.18**.
+> **Latest Update (2026-03-14):** v13 filing refinements integrating **Ketoni Investment Evidence** --- 624 messages, 154 forensic EMLs, 9 OCR documents processed. New evidence reveals Bantjies' **gross conflict of interest** as George Group CFO and FFT Trustee controlling the **R18.685M** option payout. R9.8M Trust investment fraudulently allocated to Pete's personal loan account. All filings (CIPC, POPIA, Commercial Crime, NPA) updated to v13 with Ketoni-specific evidence. Total events now **180+**, total relations **40+**, across **8 applications**. Extraction quantum: **R10,924,131.18**. Ketoni payout quantum: **R18,685,000** (May 2026).
+
+> **NEW: [Ketoni Investment Evidence Analysis](./evidence/ketoni_evidence_analysis.md)** --- Comprehensive analysis of the R9.8M FFT investment, the conflict of interest, and the option structure.
 
 ---
 
@@ -46,8 +48,8 @@ The case is organized into seven distinct legal and regulatory applications acro
 
 | Application | Focus | Burden | Score | Status | Filing |
 |-------------|-------|--------|-------|--------|--------|
-| **2. CIPC Companies Act Complaint** | Director Delinquency, Corporate Fraud | Regulatory 50% | 87.09% | **MET** | [v12](./filings/CIPC_COMPLAINT_REFINED_2026-03-13_v12.md) |
-| **3. POPIA Criminal Complaint** | Identity Fraud, Credential Theft | Criminal 95% | 84.96% | **NEAR** | [v12](./filings/POPIA_COMPLAINT_REFINED_2026-03-13_v12.md) |
+| **2. CIPC Companies Act Complaint** | Director Delinquency, Corporate Fraud, Ketoni Conflict | Regulatory 50% | 87.09% | **MET** | [v13](./filings/CIPC_COMPLAINT_REFINED_2026-03-14_v13.md) |
+| **3. POPIA Criminal Complaint** | Identity Fraud, Credential Theft, Beneficiary Exclusion | Criminal 95% | 84.96% | **NEAR** | [v13](./filings/POPIA_COMPLAINT_REFINED_2026-03-14_v13.md) |
 | **6. FIC Suspicious Transaction Report** | Money Laundering, FICA Violations | Regulatory 50% | 86.55% | **MET** | [v12](./filings/FIC_REPORT_REFINED_2026-03-13_v12.md) |
 | **7. Professional Misconduct** | Bantjies Fiduciary Breach | Professional 50% | 85.31% | **MET** | [v12](./filings/PROFESSIONAL_MISCONDUCT_COMPLAINT_REFINED_2026-03-13_v12.md) |
 
@@ -55,8 +57,8 @@ The case is organized into seven distinct legal and regulatory applications acro
 
 | Application | Focus | Burden | Score | Status | Filing |
 |-------------|-------|--------|-------|--------|--------|
-| **4. Commercial Crime Submission** | Fraud, Theft, Forgery, Racketeering | Criminal 95% | 84.28% | **NEAR** | [v12](./filings/COMMERCIAL_CRIME_SUBMISSION_REFINED_2026-03-13_v12.md) |
-| **5. NPA Tax Fraud Report** | Tax Evasion, Exchange Control | Criminal 95% | 85.33% | **NEAR** | [v12](./filings/NPA_TAX_FRAUD_REPORT_REFINED_2026-03-13_v12.md) |
+| **4. Commercial Crime Submission** | Fraud, Theft, Forgery, Racketeering, Ketoni Scheme | Criminal 95% | 84.28% | **NEAR** | [v13](./filings/COMMERCIAL_CRIME_SUBMISSION_REFINED_2026-03-14_v13.md) |
+| **5. NPA Tax Fraud Report** | Tax Evasion, Exchange Control, Ketoni Misallocation | Criminal 95% | 85.33% | **NEAR** | [v13](./filings/NPA_TAX_FRAUD_REPORT_REFINED_2026-03-14_v13.md) |
 
 ---
 
@@ -219,4 +221,4 @@ Analysis of over 100,000 emails and financial records reveals 30 documented rela
 
 ---
 
-*Last Updated: 2026-03-13 | v12 --- 7 applications, 170+ events, 30 relations, Red-Team Critique v13, Refined Filing Strategy v13*
+*Last Updated: 2026-03-14 | v13 --- 8 applications, 180+ events, 40+ relations, Ketoni Investment Evidence integrated, Red-Team Critique v13, Refined Filing Strategy v13*

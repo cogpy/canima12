@@ -5,7 +5,7 @@ title: Master Filing Index
 
 # Master Filing Index
 
-**Last Updated:** 2026-03-13 (v13)
+**Last Updated:** 2026-03-14 (v13 + Ketoni)
 **Case Number:** 2025-137857
 
 This index provides direct links to the latest versions of all formal legal applications, complaints, and strategic analysis documents prepared for the Revenue Stream Hijacking case. All filings are quantitatively assessed via the **composed LEX-SIM-NN(Neuro-NN(DigiTwin[ALP<=>NLogo]))** v13 differentiable legal simulation pipeline with per-filing meta-cognitive red-team critique, Monte Carlo cross-validation (10 seeds), evidence heatmap, and overconfidence detection.
@@ -28,8 +28,8 @@ This index provides direct links to the latest versions of all formal legal appl
 
 | Filing Type | Latest Version | Burden of Proof | Composed Score | XV-Score | Status |
 |-------------|----------------|-----------------|----------------|----------|--------|
-| **2. CIPC Companies Act Complaint** | [v12 (2026-03-13)](./CIPC_COMPLAINT_REFINED_2026-03-13_v12.md) | Regulatory (50%) | 87.09% | 91.96% | **MET** |
-| **3. POPIA Criminal Complaint** | [v12 (2026-03-13)](./POPIA_COMPLAINT_REFINED_2026-03-13_v12.md) | Criminal (95%) | 84.96% | 91.47% | **NEAR** |
+| **2. CIPC Companies Act Complaint** | [v13 (2026-03-14)](./CIPC_COMPLAINT_REFINED_2026-03-14_v13.md) | Regulatory (50%) | 87.09% | 91.96% | **MET** |
+| **3. POPIA Criminal Complaint** | [v13 (2026-03-14)](./POPIA_COMPLAINT_REFINED_2026-03-14_v13.md) | Criminal (95%) | 84.96% | 91.47% | **NEAR** |
 | **6. FIC Suspicious Transaction Report** | [v12 (2026-03-13)](./FIC_REPORT_REFINED_2026-03-13_v12.md) | Regulatory (50%) | 86.55% | 91.59% | **MET** |
 | **7. Professional Misconduct (Bantjies)** | [v12 (2026-03-13)](./PROFESSIONAL_MISCONDUCT_COMPLAINT_REFINED_2026-03-13_v12.md) | Professional (50%) | 85.31% | 90.72% | **MET** |
 
@@ -37,8 +37,8 @@ This index provides direct links to the latest versions of all formal legal appl
 
 | Filing Type | Latest Version | Burden of Proof | Composed Score | XV-Score | Status |
 |-------------|----------------|-----------------|----------------|----------|--------|
-| **4. Commercial Crime Submission** | [v12 (2026-03-13)](./COMMERCIAL_CRIME_SUBMISSION_REFINED_2026-03-13_v12.md) | Criminal (95%) | 84.28% | 91.00% | **NEAR** |
-| **5. NPA Tax Fraud Report** | [v12 (2026-03-13)](./NPA_TAX_FRAUD_REPORT_REFINED_2026-03-13_v12.md) | Criminal (95%) | 85.33% | 91.73% | **NEAR** |
+| **4. Commercial Crime Submission** | [v13 (2026-03-14)](./COMMERCIAL_CRIME_SUBMISSION_REFINED_2026-03-14_v13.md) | Criminal (95%) | 84.28% | 91.00% | **NEAR** |
+| **5. NPA Tax Fraud Report** | [v13 (2026-03-14)](./NPA_TAX_FRAUD_REPORT_REFINED_2026-03-14_v13.md) | Criminal (95%) | 85.33% | 91.73% | **NEAR** |
 
 ## Strategic Analysis (New — 2026-03-13)
 
@@ -118,3 +118,4 @@ See: [Composed Simulation Report v13](../simulation/COMPOSED_REPORT_2026_03_13_v
 - [Master Timeline](../timeline.md)
 - [Master Entities Index](../entities/index.md)
 - [Master Relations Index](../relations/index.md)
+- **[Ketoni Evidence Analysis](../evidence/ketoni_evidence_analysis.md)** --- NEW (2026-03-14)

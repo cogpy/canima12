@@ -1,13 +1,13 @@
 {
   "metadata": {
-    "version": "v33.1_JACQUI_STATUS_CORRECTED_2026_01_29",
+    "version": "v33.4_KETONI_INTEGRATED_2026_03_14",
     "created_date": "2025-11-10",
     "description": "Refined entity model for Revenue Stream Hijacking case 2025-137857",
     "case_number": "2025-137857",
     "modeling_approach": "agentic_entity_modeling",
-    "last_updated": "2026-01-29 05:07:11",
-    "changes": "Corrected Jacqui's fiduciary status - she was kept uninformed by Rynette's secret operations, not a breacher",
-    "total_entities": 32,
+    "last_updated": "2026-03-14 12:03:59",
+    "changes": "Integrated Ketoni evidence: added new entities (Ketoni, George Group, Baker McKenzie, etc.)",
+    "total_entities": 65,
     "account_mandates_summary": {
       "fnb_rwd_mandate": {
         "entity": "Regima Worldwide Distribution (Pty) Ltd",
@@ -1675,6 +1675,96 @@
             ]
           }
         ]
+      },
+      {
+        "entity_id": "PERSON_015",
+        "name": "Kevin Michael Derrick",
+        "role": "Director/CEO",
+        "description": "Sole director of Ketoni; CEO of George Group; Kevin Derrick Trust (IT 107716/98) is existing shareholder"
+      },
+      {
+        "entity_id": "PERSON_016",
+        "name": "Marc Yudaken",
+        "role": "Attorney",
+        "description": "Baker McKenzie partner; handled Ketoni shareholder agreement"
+      },
+      {
+        "entity_id": "PERSON_017",
+        "name": "David Field",
+        "role": "Associate",
+        "description": "Attended meeting with Pete, Bantjies, and Kevin Derrick (2023-03-15)"
+      },
+      {
+        "entity_id": "PERSON_018",
+        "name": "Denny Da Silva",
+        "role": "Associate",
+        "description": "Meeting with Pete re Faucitt Trust (2023-05-30)"
+      },
+      {
+        "entity_id": "PERSON_019",
+        "name": "Liezel",
+        "role": "Employee",
+        "description": "liezel@regima.zone account created 2023-04-24; credentials shared via email"
+      },
+      {
+        "entity_id": "PERSON_020",
+        "name": "Kevin Michael Derrick",
+        "role": "Director/CEO",
+        "description": "Sole director of Ketoni; CEO of George Group; Kevin Derrick Trust (IT 107716/98) is existing shareholder"
+      },
+      {
+        "entity_id": "PERSON_021",
+        "name": "Marc Yudaken",
+        "role": "Attorney",
+        "description": "Baker McKenzie partner; handled Ketoni shareholder agreement"
+      },
+      {
+        "entity_id": "PERSON_022",
+        "name": "David Field",
+        "role": "Associate",
+        "description": "Attended meeting with Pete, Bantjies, and Kevin Derrick (2023-03-15)"
+      },
+      {
+        "entity_id": "PERSON_023",
+        "name": "Denny Da Silva",
+        "role": "Associate",
+        "description": "Meeting with Pete re Faucitt Trust (2023-05-30)"
+      },
+      {
+        "entity_id": "PERSON_024",
+        "name": "Liezel",
+        "role": "Employee",
+        "description": "liezel@regima.zone account created 2023-04-24; credentials shared via email"
+      },
+      {
+        "entity_id": "PERSON_025",
+        "name": "Kevin Michael Derrick",
+        "role": "Director/CEO",
+        "description": "Sole director of Ketoni; CEO of George Group; Kevin Derrick Trust (IT 107716/98) is existing shareholder"
+      },
+      {
+        "entity_id": "PERSON_026",
+        "name": "Marc Yudaken",
+        "role": "Attorney",
+        "description": "Baker McKenzie partner; handled Ketoni shareholder agreement"
+      },
+      {
+        "entity_id": "PERSON_027",
+        "name": "David Field",
+        "role": "Associate",
+        "description": "Attended meeting with Pete, Bantjies, and Kevin Derrick (2023-03-15)"
+      },
+      {
+        "entity_id": "PERSON_028",
+        "name": "Denny Da Silva",
+        "role": "Associate",
+        "description": "Meeting with Pete re Faucitt Trust (2023-05-30)"
+      },
+      {
+        "entity_id": "PERSON_029",
+        "name": "Liezel",
+        "role": "Employee",
+        "description": "liezel@regima.zone account created 2023-04-24; credentials shared via email"
       }
     ],
     "organizations": [
@@ -2562,6 +2652,111 @@
           "FNB_RESPONSE_EMAIL_2025_06_18",
           "PAF_FNB_FRAUD_LETTER_2025_06_17"
         ]
+      },
+      {
+        "entity_id": "ORG_016",
+        "name": "Ketoni Investment Holdings (Pty) Ltd",
+        "type": "Company",
+        "registration_number": "2023/562189/07",
+        "description": "SPV holding 8.14% of George Group; sole director KM Derrick; Standard Bank acct 420469494"
+      },
+      {
+        "entity_id": "ORG_017",
+        "name": "The George Group (Pty) Ltd",
+        "type": "Company",
+        "registration_number": "(to verify)",
+        "description": "Operating company; 456 shares held by Ketoni; Bantjies is CFO, Derrick is CEO"
+      },
+      {
+        "entity_id": "ORG_018",
+        "name": "Baker McKenzie (SA)",
+        "type": "Law Firm",
+        "registration_number": "N/A",
+        "description": "Acted for Ketoni/FFT on shareholder agreement; Marc Yudaken partner"
+      },
+      {
+        "entity_id": "ORG_019",
+        "name": "Forvis Mazars",
+        "type": "Audit Firm",
+        "registration_number": "N/A",
+        "description": "Prepared and reviewed Ketoni AFS 2024"
+      },
+      {
+        "entity_id": "ORG_020",
+        "name": "N Xenophontos Trust (Attorneys)",
+        "type": "Law Firm",
+        "registration_number": "N/A",
+        "description": "nixenlaw@xenophontos.co.za; involved in FFT matters from Oct 2024"
+      },
+      {
+        "entity_id": "ORG_021",
+        "name": "Ketoni Investment Holdings (Pty) Ltd",
+        "type": "Company",
+        "registration_number": "2023/562189/07",
+        "description": "SPV holding 8.14% of George Group; sole director KM Derrick; Standard Bank acct 420469494"
+      },
+      {
+        "entity_id": "ORG_022",
+        "name": "The George Group (Pty) Ltd",
+        "type": "Company",
+        "registration_number": "(to verify)",
+        "description": "Operating company; 456 shares held by Ketoni; Bantjies is CFO, Derrick is CEO"
+      },
+      {
+        "entity_id": "ORG_023",
+        "name": "Baker McKenzie (SA)",
+        "type": "Law Firm",
+        "registration_number": "N/A",
+        "description": "Acted for Ketoni/FFT on shareholder agreement; Marc Yudaken partner"
+      },
+      {
+        "entity_id": "ORG_024",
+        "name": "Forvis Mazars",
+        "type": "Audit Firm",
+        "registration_number": "N/A",
+        "description": "Prepared and reviewed Ketoni AFS 2024"
+      },
+      {
+        "entity_id": "ORG_025",
+        "name": "N Xenophontos Trust (Attorneys)",
+        "type": "Law Firm",
+        "registration_number": "N/A",
+        "description": "nixenlaw@xenophontos.co.za; involved in FFT matters from Oct 2024"
+      },
+      {
+        "entity_id": "ORG_026",
+        "name": "Ketoni Investment Holdings (Pty) Ltd",
+        "type": "Company",
+        "registration_number": "2023/562189/07",
+        "description": "SPV holding 8.14% of George Group; sole director KM Derrick; Standard Bank acct 420469494"
+      },
+      {
+        "entity_id": "ORG_027",
+        "name": "The George Group (Pty) Ltd",
+        "type": "Company",
+        "registration_number": "(to verify)",
+        "description": "Operating company; 456 shares held by Ketoni; Bantjies is CFO, Derrick is CEO"
+      },
+      {
+        "entity_id": "ORG_028",
+        "name": "Baker McKenzie (SA)",
+        "type": "Law Firm",
+        "registration_number": "N/A",
+        "description": "Acted for Ketoni/FFT on shareholder agreement; Marc Yudaken partner"
+      },
+      {
+        "entity_id": "ORG_029",
+        "name": "Forvis Mazars",
+        "type": "Audit Firm",
+        "registration_number": "N/A",
+        "description": "Prepared and reviewed Ketoni AFS 2024"
+      },
+      {
+        "entity_id": "ORG_030",
+        "name": "N Xenophontos Trust (Attorneys)",
+        "type": "Law Firm",
+        "registration_number": "N/A",
+        "description": "nixenlaw@xenophontos.co.za; involved in FFT matters from Oct 2024"
       }
     ],
     "platforms": [
@@ -2782,6 +2977,24 @@
             ]
           }
         ]
+      },
+      {
+        "entity_id": "TRUST_002",
+        "name": "Kevin Derrick Trust",
+        "trust_number": "IT 107716/98",
+        "description": "Existing/Ordinary shareholder of Ketoni (100 Ordinary Shares = R1,000); R49,000 loan to Ketoni"
+      },
+      {
+        "entity_id": "TRUST_003",
+        "name": "Kevin Derrick Trust",
+        "trust_number": "IT 107716/98",
+        "description": "Existing/Ordinary shareholder of Ketoni (100 Ordinary Shares = R1,000); R49,000 loan to Ketoni"
+      },
+      {
+        "entity_id": "TRUST_004",
+        "name": "Kevin Derrick Trust",
+        "trust_number": "IT 107716/98",
+        "description": "Existing/Ordinary shareholder of Ketoni (100 Ordinary Shares = R1,000); R49,000 loan to Ketoni"
       }
     ],
     "bank_accounts": [

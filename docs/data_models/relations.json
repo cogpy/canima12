@@ -1,12 +1,12 @@
 {
   "metadata": {
-    "version": "v25.0_FNB_RESPONSE_2026_01_29",
+    "version": "v25.2_KETONI_INTEGRATED_2026_03_14",
     "created_date": "2025-11-10",
     "description": "Relation model for Revenue Stream Hijacking case 2025-137857",
     "case_number": "2025-137857",
     "modeling_approach": "hypergraph_compatible_relations",
-    "last_updated": "2026-01-29 03:23:12",
-    "changes": "Added REL_FNB_001: Peter-FNB fraud acknowledgment relation",
+    "last_updated": "2026-03-14 12:03:59",
+    "changes": "Integrated Ketoni evidence: added new relations (Bantjies-Derrick, FFT-Ketoni, etc.)",
     "total_relations": 79
   },
   "relations": {
@@ -176,6 +176,146 @@
         ],
         "confidence": 0.95,
         "evidence_strength": "conclusive"
+      },
+      {
+        "relation_id": "REL_OWN_027",
+        "source_entity": "PERSON_007",
+        "target_entity": "ORG_022",
+        "relation_type": "CFO/Employee",
+        "evidence": "Email domain danieb@thegeorgegroup.co.za; correspondence"
+      },
+      {
+        "relation_id": "REL_OWN_028",
+        "source_entity": "PERSON_020",
+        "target_entity": "ORG_021",
+        "relation_type": "Sole Director",
+        "evidence": "AFS 2024; CIPC records"
+      },
+      {
+        "relation_id": "REL_OWN_029",
+        "source_entity": "TRUST_003",
+        "target_entity": "ORG_021",
+        "relation_type": "Ordinary Shareholder (100%)",
+        "evidence": "Subscription Agreement; AFS"
+      },
+      {
+        "relation_id": "REL_OWN_030",
+        "source_entity": "TRUST_001",
+        "target_entity": "ORG_021",
+        "relation_type": "A-Ordinary Shareholder (100%)",
+        "evidence": "Subscription Agreement; AFS"
+      },
+      {
+        "relation_id": "REL_OWN_031",
+        "source_entity": "ORG_021",
+        "target_entity": "ORG_022",
+        "relation_type": "8.14% Shareholder",
+        "evidence": "AFS Note 2; Shareholder Agreement cl.11"
+      },
+      {
+        "relation_id": "REL_OWN_032",
+        "source_entity": "PERSON_007",
+        "target_entity": "PERSON_020",
+        "relation_type": "Colleague/CFO-CEO",
+        "evidence": "George Group employment; meeting coordination"
+      },
+      {
+        "relation_id": "REL_OWN_033",
+        "source_entity": "PERSON_002",
+        "target_entity": "PERSON_007",
+        "relation_type": "Operational Coordinator",
+        "evidence": "Extensive email correspondence; prints/scans documents"
+      },
+      {
+        "relation_id": "REL_OWN_034",
+        "source_entity": "ORG_023",
+        "target_entity": "ORG_021",
+        "relation_type": "Legal Advisor",
+        "evidence": "Shareholder Agreement preparation"
+      },
+      {
+        "relation_id": "REL_OWN_035",
+        "source_entity": "ORG_023",
+        "target_entity": "TRUST_001",
+        "relation_type": "Legal Advisor",
+        "evidence": "Shareholder Agreement preparation"
+      },
+      {
+        "relation_id": "REL_OWN_036",
+        "source_entity": "PERSON_004",
+        "target_entity": "PERSON_007",
+        "relation_type": "Document Requestor",
+        "evidence": "Jan 2026 emails demanding Ketoni/George docs"
+      },
+      {
+        "relation_id": "REL_OWN_037",
+        "source_entity": "PERSON_007",
+        "target_entity": "ORG_027",
+        "relation_type": "CFO/Employee",
+        "evidence": "Email domain danieb@thegeorgegroup.co.za; correspondence"
+      },
+      {
+        "relation_id": "REL_OWN_038",
+        "source_entity": "PERSON_025",
+        "target_entity": "ORG_026",
+        "relation_type": "Sole Director",
+        "evidence": "AFS 2024; CIPC records"
+      },
+      {
+        "relation_id": "REL_OWN_039",
+        "source_entity": "TRUST_004",
+        "target_entity": "ORG_026",
+        "relation_type": "Ordinary Shareholder (100%)",
+        "evidence": "Subscription Agreement; AFS"
+      },
+      {
+        "relation_id": "REL_OWN_040",
+        "source_entity": "TRUST_001",
+        "target_entity": "ORG_026",
+        "relation_type": "A-Ordinary Shareholder (100%)",
+        "evidence": "Subscription Agreement; AFS"
+      },
+      {
+        "relation_id": "REL_OWN_041",
+        "source_entity": "ORG_026",
+        "target_entity": "ORG_027",
+        "relation_type": "8.14% Shareholder",
+        "evidence": "AFS Note 2; Shareholder Agreement cl.11"
+      },
+      {
+        "relation_id": "REL_OWN_042",
+        "source_entity": "PERSON_007",
+        "target_entity": "PERSON_025",
+        "relation_type": "Colleague/CFO-CEO",
+        "evidence": "George Group employment; meeting coordination"
+      },
+      {
+        "relation_id": "REL_OWN_043",
+        "source_entity": "PERSON_002",
+        "target_entity": "PERSON_007",
+        "relation_type": "Operational Coordinator",
+        "evidence": "Extensive email correspondence; prints/scans documents"
+      },
+      {
+        "relation_id": "REL_OWN_044",
+        "source_entity": "ORG_028",
+        "target_entity": "ORG_026",
+        "relation_type": "Legal Advisor",
+        "evidence": "Shareholder Agreement preparation"
+      },
+      {
+        "relation_id": "REL_OWN_045",
+        "source_entity": "ORG_028",
+        "target_entity": "TRUST_001",
+        "relation_type": "Legal Advisor",
+        "evidence": "Shareholder Agreement preparation"
+      },
+      {
+        "relation_id": "REL_OWN_046",
+        "source_entity": "PERSON_004",
+        "target_entity": "PERSON_007",
+        "relation_type": "Document Requestor",
+        "evidence": "Jan 2026 emails demanding Ketoni/George docs"
       }
     ],
     "control_relations": [
