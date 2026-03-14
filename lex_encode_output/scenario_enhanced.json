@@ -1,0 +1,263 @@
+{
+  "title": "Revenue Stream Hijacking, Trust Fraud, and Corporate Sabotage",
+  "description": "A coordinated scheme to capture a R18.685M trust payout through trust forgery, accounting sabotage, revenue diversion, and a fraudulent ex parte interdict.",
+  "facts": "The applicant obtained an urgent interdict ex parte based on perjured affidavits. Material facts were concealed from the court, including the sole banking mandate, the trust forgery, and the deliberate sabotage of the accounting system.",
+  "keywords": [
+    "interdict",
+    "ex-parte",
+    "non-disclosure",
+    "urgent",
+    "fraud",
+    "perjury",
+    "forgery",
+    "revenue-diversion",
+    "contempt",
+    "void-ab-initio"
+  ],
+  "facts_list": [
+    "non-disclosure of material facts",
+    "urgent application",
+    "ex parte interdict",
+    "trust forgery",
+    "revenue diversion",
+    "accounting sabotage",
+    "perjury",
+    "void ab initio"
+  ],
+  "entities": [
+    {
+      "type": "person",
+      "name": "Peter Andrew Faucitt",
+      "role": "applicant",
+      "attributes": {
+        "id": "PERSON_001"
+      }
+    },
+    {
+      "type": "person",
+      "name": "Rynette Farrar",
+      "role": "co_conspirator",
+      "attributes": {
+        "id": "PERSON_002"
+      }
+    },
+    {
+      "type": "person",
+      "name": "Danie Bantjies",
+      "role": "accountant_and_unknown_trustee",
+      "attributes": {
+        "id": "PERSON_006"
+      }
+    },
+    {
+      "type": "person",
+      "name": "Daniel James Faucitt",
+      "role": "respondent",
+      "attributes": {
+        "id": "PERSON_004"
+      }
+    },
+    {
+      "type": "person",
+      "name": "Jacqueline Faucitt",
+      "role": "respondent",
+      "attributes": {
+        "id": "PERSON_003"
+      }
+    },
+    {
+      "type": "organization",
+      "name": "Regima Worldwide Distribution (PTY) LTD",
+      "role": "company",
+      "attributes": {
+        "id": "ORG_001"
+      }
+    },
+    {
+      "type": "trust",
+      "name": "Faucitt Family Trust",
+      "role": "trust",
+      "attributes": {
+        "id": "TRUST_001"
+      }
+    },
+    {
+      "type": "organization",
+      "name": "Ketoni Investment Holdings",
+      "role": "debtor",
+      "attributes": {
+        "id": "ORG_002"
+      }
+    }
+  ],
+  "relations": [
+    {
+      "type": "opposed-to",
+      "source": "Peter Andrew Faucitt",
+      "target": "Daniel James Faucitt"
+    },
+    {
+      "type": "co_conspirator",
+      "source": "Peter Andrew Faucitt",
+      "target": "Rynette Farrar"
+    },
+    {
+      "type": "co_conspirator",
+      "source": "Rynette Farrar",
+      "target": "Danie Bantjies"
+    },
+    {
+      "type": "owes-debt",
+      "source": "Ketoni Investment Holdings",
+      "target": "Faucitt Family Trust"
+    }
+  ],
+  "evidence": [
+    {
+      "name": "non-disclosure-evidence",
+      "type": "contradiction",
+      "params": {
+        "claim": "full-disclosure",
+        "negation": "material-concealment",
+        "evidence": "founding-affidavit-para-12"
+      }
+    },
+    {
+      "name": "sole-mandate-evidence",
+      "type": "contradiction",
+      "params": {
+        "claim": "unauthorized-transactions",
+        "negation": "sole-transactional-authority",
+        "evidence": "fnb-fica-kyc-sole-mandate"
+      }
+    },
+    {
+      "name": "trust-forgery-timeline",
+      "type": "temporal",
+      "params": {
+        "event1": "kayla-murdered",
+        "date1": "2023-07-13",
+        "event2": "trust-docs-requested",
+        "date2": "2023-07-27",
+        "event3": "trust-forged",
+        "date3": "2024-06-28"
+      }
+    },
+    {
+      "name": "interdict-timeline",
+      "type": "temporal",
+      "params": {
+        "event1": "fraud-reported",
+        "date1": "2025-06-06",
+        "event2": "cards-cancelled",
+        "date2": "2025-06-07",
+        "event3": "interdict-granted",
+        "date3": "2025-08-19"
+      }
+    },
+    {
+      "name": "corporate-structure-evidence",
+      "type": "structural",
+      "params": {
+        "entity1": "Danie Bantjies",
+        "role1": "CFO-George-Group",
+        "entity2": "Ketoni Investment Holdings",
+        "role2": "debtor-to-trust"
+      }
+    },
+    {
+      "name": "foreknowledge-chain-evidence",
+      "type": "sequence",
+      "params": {
+        "event1": "fraud-reported-to-bantjies",
+        "date1": "2025-06-06",
+        "event2": "bantjies-swears-affidavit",
+        "date2": "2025-08-13",
+        "event3": "interdict-granted",
+        "date3": "2025-08-19"
+      }
+    },
+    {
+      "name": "irreconcilable-conflicts-evidence",
+      "type": "comparison",
+      "params": {
+        "conflict1": "bantjies-accountant-vs-trustee",
+        "conflict2": "peter-applicant-vs-rynette-operator"
+      }
+    },
+    {
+      "name": "interlock-evidence",
+      "type": "interlock",
+      "params": {
+        "temporal": "trust-forgery-timeline",
+        "structural": "corporate-structure-evidence",
+        "binding": "ketoni-payout-capture"
+      }
+    }
+  ],
+  "events": [
+    {
+      "date": "2024-06-28",
+      "description": "Trust amendment forged to install Bantjies",
+      "rule": "fraud",
+      "actor": "Rynette Farrar"
+    },
+    {
+      "date": "2025-06-06",
+      "description": "Daniel reports fraud to Bantjies",
+      "rule": "notice",
+      "actor": "Daniel James Faucitt"
+    },
+    {
+      "date": "2025-08-13",
+      "description": "Bantjies swears perjured confirmatory affidavit",
+      "rule": "perjury",
+      "actor": "Danie Bantjies"
+    },
+    {
+      "date": "2025-08-19",
+      "description": "Interdict granted ex parte",
+      "rule": "6(5)(a)",
+      "actor": "court"
+    },
+    {
+      "date": "2026-02-04",
+      "description": "Contempt of court application filed",
+      "rule": "contempt",
+      "actor": "Peter Andrew Faucitt"
+    }
+  ],
+  "procedural_types": [
+    "ex-parte",
+    "urgent",
+    "interdict",
+    "rescission",
+    "contempt",
+    "void-ab-initio"
+  ],
+  "contradiction_pairs": [
+    [
+      "full-disclosure",
+      "material-concealment"
+    ],
+    [
+      "unauthorized-transactions",
+      "sole-transactional-authority"
+    ],
+    [
+      "valid-trust-amendment",
+      "forged-trust-amendment"
+    ],
+    [
+      "valid-interdict",
+      "void-ab-initio"
+    ]
+  ],
+  "exclusion_groups": [
+    [
+      "sole-transactional-authority",
+      "joint-transactional-authority",
+      "no-transactional-authority"
+    ]
+  ]
+}
