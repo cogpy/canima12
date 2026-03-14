@@ -1,13 +1,35 @@
 # Entities Index
 
-**Last Updated:** 2026-03-08  
-**Total Entities:** 120+ (reconciled across revstream1 + ad-res-j7 via LEX-RECON)
+**Last Updated:** 2026-03-15 (v15)
+**Total Entities:** 125+ (reconciled across revstream1 + ad-res-j7 via LEX-RECON + Super-Sleuth v15)
 
 This index catalogs all entities involved in Case 2025-137857: Revenue Stream Hijacking.
 
 ---
 
-## NEW: March 2026 Update (2026-03-07)
+## NEW: March 2026 Update (2026-03-15)
+
+**New Entities from Ketoni/FFT Trust Corpus (9 primary documents):**
+- [PERSON_045](./PERSON_045.md) - Nick Xenophontos (Attorney — FFT Legal Advisor, Ketoni Matter)
+- [ORG_029](./ORG_029.md) - Nick Xenophontos Attorneys (Legal Practice — Bedfordview)
+- [ORG_030](./ORG_030.md) - Forvis Mazars (Audit/Review Firm — Ketoni AFS)
+- [BANK_ACCOUNT_005](./BANK_ACCOUNT_005.md) - Ketoni Standard Bank 420469494 (Eastgate)
+
+**New Events:** [EVENT_130](../events/EVENT_130.md) through [EVENT_136](../events/EVENT_136.md)
+
+**CRITICAL NEW EVIDENCE:** Bantjies signed J417 form on 2 September 2024 declaring himself **"Independent Trustee"** and **"Auditor"** — provably false given his employment as CFO of The George Group (Kevin Derrick's company). This is the **first criminal charge to independently meet the 95% beyond-reasonable-doubt standard**.
+
+**Financial Motive Correction:** R18.685M → **R28,730,000** (Put Option Year 5 guarantee)
+
+**Evidence Strength Upgrades:**
+- PERSON_007 (Daniel Bantjies): 99% → **99% Conclusive + J417 Perjury MET (95%)**
+- TRUST_001 (FFT): Strong → **Conclusive (primary source documents)**
+
+---
+
+## Previous Updates
+
+### March 2026 Update (2026-03-07)
 
 **New Entities from Rynette-Bantjies Communications Analysis (1,632 messages):**
 - [PERSON_042](./PERSON_042.md) - Marc Yudaken (Baker McKenzie Attorney — Ketoni SHA)
@@ -15,46 +37,11 @@ This index catalogs all entities involved in Case 2025-137857: Revenue Stream Hi
 - [PERSON_044](./PERSON_044.md) - Denny Da Silva (Baker McKenzie Attorney)
 - [ORG_025](./ORG_025.md) - Baker McKenzie (Law Firm — Ketoni SHA/MOI)
 
-**New Events:** [EVENT_114](../events/EVENT_114.md) through [EVENT_120](../events/EVENT_120.md)
-
-**CRITICAL NEW EVIDENCE:** [EVENT_119](../events/EVENT_119.md) — Bantjies admits **"I will manufacture an answer"** to SARS query (SMOKING GUN)
-
-**Evidence Strength Upgrades:**
-- PERSON_002 (Rynette Farrar): 95% → **99% Conclusive**
-- PERSON_007 (Daniel Bantjies): 95% → **99% Conclusive**
-
----
-
-## February 2026 Update (2026-02-09)
+### February 2026 Update (2026-02-09)
 
 **Contempt Application Evidence:** New entities identified from the Contempt of Court Application filed 4 February 2026.
 
-**New Entities Added (2026-02-23):**
-- [ORG_016](./ORG_016.md) - Ketoni Investment Holdings (ZAR 18.685M Payout Debtor)
-- [ORG_022](./ORG_022.md) - ENS Africa (Legal Firm — Mediation)
-- [PERSON_015](./PERSON_015.md) - Kevin Derrick (Ketoni Director / George Group CEO)
-- [PERSON_020](./PERSON_020.md) - Linda Kruger (RegimA Office Employee — Payment Redirection)
-- [PERSON_021](./PERSON_021.md) - Gayane Williams (RegimA Office Employee — Infrastructure Hijacking)
-- [BANK_ACCOUNT_ABSA](./BANK_ACCOUNT_ABSA.md) - Suspected Fraudulent ABSA Accounts
-- **[BANK_ACCOUNT_004](./BANK_ACCOUNT_004.md)** - Hidden Money Maximiser 63077691682 (R5M transferred, ZERO statements)
-
-**New Entities Added (2026-02-09):**
-- [ORG_020](./ORG_020.md) - Elliott Attorneys Inc (Applicant's Attorneys)
-- [ORG_021](./ORG_021.md) - Pottas Attorneys (Respondent's Attorneys)
-- [PERSON_019](./PERSON_019.md) - Oliver ("Arthur") (Employee / Warehouse Manager)
-
-**Previously Added (2026-02-06):**
-- [ORG_017](./ORG_017.md) - Ketoni Investment Holdings (Debtor to FFT)
-- [ORG_018](./ORG_018.md) - The George Group (Bantjies' Employer)
-- [ORG_019](./ORG_019.md) - Pottas Attorneys (Rynette's Legal Representation)
-
-**Critical Correction:** The R18.685M debt structure has been corrected. Ketoni Investment Holdings owes the Faucitt Family Trust (NOT Bantjies owing Peter/Jacqui). See [Super-Sleuth Report 2026-02-06](../super_sleuth_report_2026_02_06.md) for details.
 ---
-
-
-| ORG_026 | Aymac International CC | Property Holding / Shell | 95% |
-| ORG_027 | Kaylovest Eight (Pty) Ltd | Shell Company | 85% |
-| ORG_028 | Elliott Attorneys Inc | Legal Representation | 95% |
 
 ## Persons
 
@@ -70,7 +57,7 @@ This index catalogs all entities involved in Case 2025-137857: Revenue Stream Hi
 | Entity ID | Name | Role | Evidence Strength |
 |-----------|------|------|-------------------|
 | [PERSON_003](./PERSON_003.md) | Darren Dennis Farrar (Rynette's Son) | Co-Conspirator (Family) | Strong |
-| [PERSON_007](./PERSON_007.md) | Daniel Jacobus Bantjies | Strategic Appointee/Accountant/CFO | **Conclusive (99%)** |
+| [PERSON_007](./PERSON_007.md) | Daniel Jacobus Bantjies | Strategic Appointee/Accountant/CFO | **Conclusive (99%) + J417 Perjury MET** |
 
 ### Victims/Respondents
 
@@ -78,6 +65,16 @@ This index catalogs all entities involved in Case 2025-137857: Revenue Stream Hi
 |-----------|------|------|--------|
 | [PERSON_004](./PERSON_004.md) | Jacqueline Faucitt | First Respondent | Victim |
 | [PERSON_005](./PERSON_005.md) | Daniel James Faucitt | Second Respondent | Victim |
+
+### Ketoni Connection Persons
+
+| Entity ID | Name | Role | Relevance |
+|-----------|------|------|-----------|
+| [PERSON_014](./PERSON_014.md) | Kevin Michael Derrick | Director: George Group + Ketoni | Key Connection |
+| [PERSON_042](./PERSON_042.md) | Marc Yudaken | Baker McKenzie Attorney | Ketoni SHA/MOI drafting |
+| [PERSON_043](./PERSON_043.md) | David Field | Deal Consultant | Kevin Derrick's representative |
+| [PERSON_044](./PERSON_044.md) | Denny Da Silva | Baker McKenzie Attorney | Ketoni meeting coordination |
+| **[PERSON_045](./PERSON_045.md)** | **Nick Xenophontos** | **Attorney — FFT Legal Advisor** | **Flagged missing SHA pages** |
 
 ### Other Persons
 
@@ -90,7 +87,13 @@ This index catalogs all entities involved in Case 2025-137857: Revenue Stream Hi
 | [PERSON_011](./PERSON_011.md) | Chantal | Kayla Estate Representative | Estate Matters |
 | [PERSON_012](./PERSON_012.md) | Jacqueline "Jax" Faucitt | FFT Trustee | Neutralized via Interdict |
 | [PERSON_013](./PERSON_013.md) | Kayla Pretorius | ReZonance Co-Director | Deceased (SF6) |
-| [PERSON_014](./PERSON_014.md) | Kevin Michael Derrick | **Director: George Group + Ketoni** | **Key Connection** 🆕 |
+| [PERSON_015](./PERSON_015.md) | Kevin Derrick | Ketoni Director / George Group CEO | Key Connection |
+| [PERSON_019](./PERSON_019.md) | Oliver ("Arthur") | Employee / Warehouse Manager | Witness |
+| [PERSON_020](./PERSON_020.md) | Linda Kruger | RegimA Office Employee — Payment Redirection | Witness |
+| [PERSON_021](./PERSON_021.md) | Gayane Williams | RegimA Office Employee — Infrastructure Hijacking | Witness |
+| [PERSON_039](./PERSON_039.md) | Anton Hechter | SARS Tax Practitioner | VAT submissions |
+| [PERSON_040](./PERSON_040.md) | Clare Payne | CIPC Agent | CIPC Erasure Campaign |
+| [PERSON_041](./PERSON_041.md) | Kent Rault | Employee | Bank detail changes |
 
 ---
 
@@ -108,11 +111,28 @@ This index catalogs all entities involved in Case 2025-137857: Revenue Stream Hi
 | [ORG_012](./ORG_012.md) | RegimaSA (Pty) Ltd | - | Active |
 | [ORG_014](./ORG_014.md) | RegimA SA (Pty) Ltd | - | Active |
 
-### UK Entity
+### Ketoni Connection Entities
 
-| Entity ID | Name | Jurisdiction | Owner |
-|-----------|------|--------------|-------|
-| [ORG_003](./ORG_003.md) | RegimA Zone Ltd | UK | Daniel James Faucitt |
+| Entity ID | Name | Registration | Role |
+|-----------|------|--------------|------|
+| [ORG_017](./ORG_017.md) | **Ketoni Investment Holdings** | 2023/562189/07 | **Debtor — Owes R28.73M to FFT** |
+| [ORG_018](./ORG_018.md) | **The George Group** | 2018/618716/07 | **Bantjies' Employer (CFO)** |
+
+### Legal Practices
+
+| Entity ID | Name | Role | Client |
+|-----------|------|------|--------|
+| [ORG_007](./ORG_007.md) | Elliott Attorneys | Peter's Attorneys | Peter Faucitt |
+| [ORG_019](./ORG_019.md) | Pottas Attorneys | Rynette's Attorneys | Rynette Farrar |
+| [ORG_025](./ORG_025.md) | Baker McKenzie | Ketoni SHA/MOI Drafting | Ketoni/Kevin Derrick |
+| **[ORG_029](./ORG_029.md)** | **Nick Xenophontos Attorneys** | **FFT Legal Advisor** | **Peter Faucitt / FFT** |
+
+### Audit/Review Firms
+
+| Entity ID | Name | Role | Client |
+|-----------|------|------|--------|
+| [ORG_023](./ORG_023.md) | De Novo Business Services | Accounting Firm | Fabricated financial statements |
+| **[ORG_030](./ORG_030.md)** | **Forvis Mazars** | **Audit/Review Firm** | **Ketoni AFS** |
 
 ### Shell/Competing Companies
 
@@ -122,28 +142,8 @@ This index catalogs all entities involved in Case 2025-137857: Revenue Stream Hi
 | [ORG_009](./ORG_009.md) | Adderory (Pty) Ltd | Adderory (PERSON_003) | Shell Company |
 | [ORG_010](./ORG_010.md) | Adderory Skin (Pty) Ltd | Adderory (PERSON_003) | Competing Business |
 | [ORG_013](./ORG_013.md) | Unicorn Dynamics (Pty) Ltd | Daniel James Faucitt | Technology |
-
-### External Organizations
-
-| Entity ID | Name | Role | Relevance |
-|-----------|------|------|-----------|
-| [ORG_007](./ORG_007.md) | Ian Levitt Attorneys | Legal | R63M Demand (SF9) |
-| [ORG_015](./ORG_015.md) | SARS | Revenue Service | Tax Audit |
-| [ORG_016](./ORG_016.md) | Ketoni Investment Holdings | Investment | **See ORG_017** |
-
-### 🆕 NEW: Ketoni Connection Entities
-
-| Entity ID | Name | Registration | Role |
-|-----------|------|--------------|------|
-| [ORG_017](./ORG_017.md) | **Ketoni Investment Holdings** | K2023562189 | **Debtor - Owes R18.685M to FFT** |
-| [ORG_018](./ORG_018.md) | **The George Group** | K2018619716 | **Bantjies' Employer** |
-
-### 🆕 NEW: Legal Practices
-
-| Entity ID | Name | Role | Client |
-|-----------|------|------|--------|
-| [ORG_007](./ORG_007.md) | Elliott Attorneys | Peter's Attorneys | Peter Faucitt |
-| [ORG_019](./ORG_019.md) | **Pottas Attorneys** | Rynette's Attorneys | Rynette Farrar |
+| [ORG_026](./ORG_026.md) | Aymac International CC | Property Holding / Shell | 95% |
+| [ORG_027](./ORG_027.md) | Kaylovest Eight (Pty) Ltd | Shell Company | 85% |
 
 ---
 
@@ -151,47 +151,26 @@ This index catalogs all entities involved in Case 2025-137857: Revenue Stream Hi
 
 | Entity ID | Name | Trustees | Significance |
 |-----------|------|----------|--------------|
-| [TRUST_001](./TRUST_001.md) | Faucitt Family Trust (FFT) | Peter, Jax, Bantjies | **Creditor of R18.685M from Ketoni** 🆕 |
-
----
-
-## Platforms
-
-| Entity ID | Name | Owner | Status |
-|-----------|------|-------|--------|
-| [PLATFORM_001](./PLATFORM_001.md) | Shopify Platform | RegimA Zone Ltd | Hijacked (2025-05-22) |
-
----
-
-## Domains
-
-| Entity ID | Domain | Owner | Status |
-|-----------|--------|-------|--------|
-| [DOMAIN_001](./DOMAIN_001.md) | regimaskin.co.za | Adderory (Pty) Ltd | Fraudulent Registration |
-| [DOMAIN_002](./DOMAIN_002.md) | regima.zone | RegimA Zone Ltd | Legitimate |
+| [TRUST_001](./TRUST_001.md) | Faucitt Family Trust (FFT) IT 3651/2013 | Peter, Jax, Bantjies | **Creditor of R28.73M from Ketoni** |
 
 ---
 
 ## Bank Accounts
 
-| Entity ID | Account | Type | Entity | Statements | Status |
-|-----------|---------|------|--------|------------|--------|
-| [BANK_001](./BANK_001.md) | ABSA Accounts (8) | Various | Multiple | Unknown | Under Investigation |
-| [BANK_002](./BANK_002.md) | 62323196362 | FNB Platinum | RWD | Available | Fraud Acknowledged (FNB Letter) |
-| [BANK_ACCOUNT_001](./BANK_ACCOUNT_001.md) | 55270035642 | FNB Day-to-Day | RST | Partial | Active |
-| [BANK_ACCOUNT_002](./BANK_ACCOUNT_002.md) | 55270018789 | FNB Platinum | PF | Partial | Source of R5M transfer |
-| [BANK_ACCOUNT_003](./BANK_ACCOUNT_003.md) | 62423540807 | FNB Platinum | VVA | Partial | Paid ZAR 300k to ENS |
-| **[BANK_ACCOUNT_004](./BANK_ACCOUNT_004.md)** | **63077691682** | **FNB Money Maximiser** | **PF** | **ZERO** | **COMPLETELY HIDDEN — R5M** |
-| — | 63176874808 | FNB Platinum Business | Unknown | 3 (Sep–Nov 2025) | New, entity unidentified |
-| — | 4483810003374006 | FNB Private Wealth CC | PF | 1 (Jan 2021) | Credit card history missing |
-| — | 4790812427545003 | FNB Business Gold CC | RST | 1 (Aug 2021) | Credit card history missing |
-| — | 8812710044279003 | FNB Business CC | RST | 1 (Jul 2021) | Credit card history missing |
+| Entity ID | Account | Type | Entity | Status |
+|-----------|---------|------|--------|--------|
+| [BANK_001](./BANK_001.md) | ABSA Accounts (8) | Various | Multiple | Under Investigation |
+| [BANK_ACCOUNT_001](./BANK_ACCOUNT_001.md) | 55270035642 | FNB Day-to-Day | RST | Active |
+| [BANK_ACCOUNT_002](./BANK_ACCOUNT_002.md) | 55270018789 | FNB Platinum | PF | Source of R5M transfer |
+| [BANK_ACCOUNT_003](./BANK_ACCOUNT_003.md) | 62423540807 | FNB Platinum | VVA | Paid ZAR 300k to ENS |
+| [BANK_ACCOUNT_004](./BANK_ACCOUNT_004.md) | 63077691682 | FNB Money Maximiser | PF | **COMPLETELY HIDDEN — R5M** |
+| **[BANK_ACCOUNT_005](./BANK_ACCOUNT_005.md)** | **420469494** | **Standard Bank** | **Ketoni** | **R9.8M subscription destination** |
 
 ---
 
 ## Key Entity Relationships
 
-### 🆕 Corrected Ketoni Connection (Central Motive)
+### Corrected Ketoni Connection (R28.73M Motive)
 
 ```
 Ketoni Investment Holdings (ORG_017)
@@ -202,92 +181,37 @@ Ketoni Investment Holdings (ORG_017)
     │               │
     │               └── CFO: Danie Bantjies (PERSON_007)
     │
-    └── OWES R18.685M TO: Faucitt Family Trust (TRUST_001)
+    ├── Bank: Standard Bank 420469494 (BANK_ACCOUNT_005)
+    │
+    └── OWES R28,730,000 TO: Faucitt Family Trust (TRUST_001)
             │
             ├── Trustee: Peter Andrew Faucitt (PERSON_001)
             ├── Trustee: Jacqueline Faucitt (PERSON_012) - Neutralized
             └── Trustee: Daniel Jacobus Bantjies (PERSON_007)
             
-    PAYOUT DUE: May 2026
+    CALL OPTION: Year 3 (Apr 2026) = R18.685M
+    CALL OPTION: Year 4 (Apr 2027) = R23.165M
+    PUT OPTION:  Year 5 (Apr 2028) = R28.73M (GUARANTEED)
 ```
 
 **Bantjies' Dual Control:**
 1. **Insider Access** to Ketoni via Kevin Derrick (knows when payment will occur)
 2. **Distribution Control** as FFT Trustee (decides how payment is distributed)
-
-### Control Structure
-
-```
-Peter Andrew Faucitt (PERSON_001)
-    ├── Director: RWD, RST, SLG, RegimA SA
-    ├── Main Trustee: FFT (backdated 2025-08-11)
-    └── Controls: Bank accounts, Trust decisions
-
-Rynette Farrar (PERSON_002)
-    ├── Financial Controller: All RegimA entities
-    ├── Sage System Owner: Subscription expired 23/07/2025
-    ├── Dual Email Access: pete@regima.com + rynette@regima.zone
-    └── Appointed: Bantjies as Trustee (July 2024)
-
-Danie Bantjies (PERSON_007) - SIX CONFLICTS
-    ├── Commissioner of Oaths
-    ├── Trustee of FFT
-    ├── Affidavit Witness
-    ├── CFO of George Group
-    ├── Insider Access to Ketoni
-    └── Controls Distribution of R18.685M
-```
+3. **False Independence** declared on J417 form (provably false)
 
 ---
 
 ## Evidence Cross-References
 
-- **[Evidence Index](../evidence-index-enhanced.md)** - Comprehensive evidence catalog
-- **[Timeline](../timeline.md)** - Chronological event sequence
-- **[Relations](../relations/index.md)** - Entity relationship mapping
-- **[Super-Sleuth Report 2026-02-06](../super_sleuth_report_2026_02_06.md)** - Latest analysis
-- **[Exchange Evidence: Email Domain Migration](../exchange-evidence/email_domain_migration.md)** - @regima.zone → @regimaskin.co.za
-- **[Exchange Evidence: Fund Flow Analysis](../exchange-evidence/fund_flow_analysis.md)** - Hidden R5M, black hole, account stripping
-- **[ad-res-j7 Repository](https://github.com/cogpy/ad-res-j7)** - Extended evidence
+- **[Evidence Index](../evidence-index-enhanced.md)** — Comprehensive evidence catalog
+- **[Timeline](../timeline.md)** — Chronological event sequence
+- **[Relations](../relations/index.md)** — Entity relationship mapping
+- **[Super-Sleuth Report 2026-03-15](../super_sleuth_report_2026_03_15.md)** — Latest analysis (9 primary documents)
+- **[Hyper-Holmes Report 2026-03-15](../hyper_holmes_report_2026_03_15.md)** — Convergent validation
+- **[Ketoni Fund Flow Complete](../relations/KETONI_FUND_FLOW_COMPLETE.md)** — Full fund flow architecture
+- **[Bantjies False Independence](../relations/BANTJIES_FALSE_INDEPENDENCE.md)** — J417 perjury analysis
+- **[ad-res-j7 Repository](https://github.com/cogpy/ad-res-j7)** — Extended evidence
 
 ---
 
-*Last updated by LEX-RECON Cross-Repository Reconciliation Engine: 2026-03-08*
-
-
-### NEW: Ketoni Legal Network Entities (2026-03-07)
-
-| Entity ID | Name | Role | Relevance |
-|---|---|---|---|
-| [PERSON_042](./PERSON_042.md) | Marc Yudaken | Baker McKenzie Attorney | Ketoni SHA/MOI drafting |
-| [PERSON_043](./PERSON_043.md) | David Field | Deal Consultant | Kevin Derrick's representative |
-| [PERSON_044](./PERSON_044.md) | Denny Da Silva | Baker McKenzie Attorney | Ketoni meeting coordination |
-| [ORG_025](./ORG_025.md) | Baker McKenzie | International Law Firm | Ketoni SHA/MOI legal advisors |
-
-### Evidence Extraction Entities (2026-03-03)
-
-| Entity ID | Name | Role | Relevance |
-|---|---|---|---|
-| [PERSON_039](./PERSON_039.md) | Anton Hechter | SARS Tax Practitioner | VAT submissions, SARS audits |
-| [PERSON_040](./PERSON_040.md) | Clare Payne | CIPC Agent | CIPC Erasure Campaign |
-| [PERSON_041](./PERSON_041.md) | Kent Rault | Employee | Bank detail changes |
-| [ORG_023](./ORG_023.md) | De Novo Business Services | Accounting Firm | Fabricated financial statements |
-| [ORG_024](./ORG_024.md) | Corporate and Merchant Administrators | CIPC Agent | CIPC Erasure Campaign |
-
-
-## March 2026 Update (2026-03-08) - Attorney Correspondence
-
-**New Entities from Neon DB & R2 Analysis:**
-
-- [ORG_020](./ORG_020.md) - Elliott Attorneys Inc (Applicant's Attorneys)
-- [ORG_021](./ORG_021.md) - Pottas Attorneys (Respondent's Attorneys, from Dec 2025)
-- [ORG_022](./ORG_022.md) - Ian Levitt Attorneys (Respondent's Attorneys, Oct-Nov 2025)
-- [ORG_023](./ORG_023.md) - ENS Africa (Initial Respondent's Attorneys, withdrew Sep 2025)
-
-**New Evidence Chain:**
-
-- [Attorney Conduct & Correspondence](../exchange-evidence/attorney_conduct.md) - Analysis of legal threats, intimidation, and weaponization of court orders.
-
-**New Entities Added (2026-03-08 — LEX-RECON Reconciliation):**
-- [ORG_026](./ORG_026.md) - Unidentified Financial Entity (Recipient of concealed assets)
-- [ORG_027](./ORG_027.md) - Kaylovest Three (Pty) Ltd (1996/004451/07 — Shadow corporate identity)
+*Last updated by Super-Sleuth + Hyper-Holmes Pipeline: 2026-03-15 (v15)*

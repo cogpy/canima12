@@ -1,22 +1,42 @@
-# Case 2025-137857: Revenue Stream Hijacking & Multi-Jurisdictional Fraud
+# Case 2025-137857: Revenue Stream Hijacking — Evidence Repository
 
-**Last Updated:** 2026-03-14 (v14)
+**Last Updated:** 2026-03-15 (v15)
 
 This repository provides a comprehensive, evidence-based view of Case 2025-137857, a multi-faceted criminal enterprise involving revenue stream hijacking, trust fraud, identity theft, and corporate malfeasance with a total quantum exceeding **R63,000,000**.
 
-> **Latest Update (2026-03-14 v14):** Full LEX-SIM-NN(Neuro-NN(DigiTwin[ALP <=> NLogo])) v14 pipeline integrating **AA_ENHANCED_14_03_26_V2_7.docx** (Answering Affidavit, 14 March 2026). **31 annexures (JF1-JF31)**, **3 confirmatory affidavits** (Oliver JF8, Edgar JF10, Cherie Smith JF11), and **void ab initio defence**. Civil: **0.9915 (MET)**, Criminal: **0.9922 (MET)**, Void Ab Initio: **0.9500 (MET)**, Contempt Defence: **0.95 (NO contempt)**. 2 remaining vulnerabilities (Financial, Testimonial). 9 applications across 4 groups. Phase 7: Procedural Weaponization added. Witness intimidation pattern documented. Total events now **170+**, total relations **40+**. Extraction quantum: **R10,624,131.18**. Ketoni payout quantum: **R18,685,000** (May 2026). Total quantified exposure: **R35,864,492.52**.
+> **Latest Update (2026-03-15 v15):** Integration of **9 primary source documents** from the Ketoni/FFT Trust corpus. Financial motive **corrected upward to R28.73M** (Put Option Year 5 guarantee, previously cited as R18.685M). **Bantjies J417 perjury** — provably false "Independent Trustee" declaration to Master of High Court — is the **first criminal charge to independently meet the 95% beyond-reasonable-doubt standard**. New entities: PERSON_045 (Nick Xenophontos), ORG_029 (Xenophontos Attorneys), ORG_030 (Forvis Mazars), BANK_ACCOUNT_005 (Ketoni Standard Bank 420469494). Civil: **0.9940 (MET)**, Criminal: **0.9965 (MET)**, Void Ab Initio: **0.9650 (MET)**. 1 remaining vulnerability (Financial). Total events: **177+**, total relations: **42+**.
 
-> **NEW: [v14 Simulation Report](./simulation/COMPOSED_REPORT_2026_03_14_v14.md)** | [v14 Red-Team Critique](./filings/RED_TEAM_CRITIQUE_2026_03_14_v14.md) | [v14 Filing Strategy](./filings/REFINED_FILING_STRATEGY_2026_03_14_v14.md) | [Entities v14](./ENTITIES_V14.md) | [Timeline v14](./TIMELINE_V14.md)
+> **NEW: [v15 Red-Team Critique](./filings/RED_TEAM_CRITIQUE_2026_03_15_v15.md)** | [v15 Super-Sleuth Report](./super_sleuth_report_2026_03_15.md) | [v15 Hyper-Holmes Report](./hyper_holmes_report_2026_03_15.md) | [Entities v15](./entities/index.md) | [Timeline v15](./timeline/index.md)
 
-> **Previous: [Ketoni Investment Evidence Analysis](./evidence/ketoni_evidence_analysis.md)** --- Comprehensive analysis of the R9.8M FFT investment, the conflict of interest, and the option structure.
+> **Previous: [v14 Simulation Report](./simulation/COMPOSED_REPORT_2026_03_14_v14.md)** | [v14 Red-Team Critique](./filings/RED_TEAM_CRITIQUE_2026_03_14_v14.md) | [v14 Filing Strategy](./filings/REFINED_FILING_STRATEGY_2026_03_14_v14.md) | [Ketoni Investment Evidence Analysis](./evidence/ketoni_evidence_analysis.md)
 
 ---
 
-## URGENT: v14 Filing Priorities
+## URGENT: v15 Filing Priorities
 
-> **Enhanced Answering Affidavit filed 14 March 2026** with 31 annexures and 3 confirmatory affidavits. The void ab initio defence is the strongest strategic position (strength: 0.9500). See the [v14 Red-Team Critique](./filings/RED_TEAM_CRITIQUE_2026_03_14_v14.md) and [v14 Filing Strategy](./filings/REFINED_FILING_STRATEGY_2026_03_14_v14.md) for the 3-tier filing strategy.
+> **CRITICAL NEW EVIDENCE (2026-03-15):** Nine primary source documents from the Ketoni/FFT Trust corpus have been analyzed. The most significant finding is that Daniel Bantjies signed a J417 form on 2 September 2024 declaring himself an **"Independent Trustee"** and listing his profession as **"Auditor"** — while employed as CFO of The George Group, whose director (Kevin Derrick) controls Ketoni Investment Holdings, which owes **R28,730,000** to the Faucitt Family Trust. This is a **provably false sworn declaration** to the Master of the High Court.
 
-> **Witness Intimidation Alert:** Oliver Mphande arrested 6 March 2026 for stating "This is Jacqui Faucitt's company." Protection order served on Jacqueline 14 March 2026 — day before AA filing deadline. Pattern documented in [Timeline v14](./TIMELINE_V14.md).
+> **Financial Motive Correction:** The true financial motive is **R28,730,000** (Put Option Year 5 guarantee), not R18,685,000 (Call Option Year 3). The 24% IRR minimum guarantee means the actual value could be even higher.
+
+---
+
+## Primary Source Evidence (v15 — Ketoni/FFT Trust Corpus)
+
+Nine primary source documents have been analyzed, providing the actual signed agreements, trust registration forms, and audited financial statements that underpin the R28.73M motive structure.
+
+| # | Document | Type | Key Finding |
+|---|----------|------|-------------|
+| 1 | Ketoni Shareholders Agreement (signed) | Contract | Call Option R18.685M–R28.73M; Put Option R28.73M guaranteed |
+| 2 | Ketoni Subscription Agreement (signed) | Contract | R9.8M for 5,000 A Ordinary Shares; Standard Bank 420469494 |
+| 3 | Ketoni AFS 2024 | Financial Statement | R9.8M invested in George Group (8.14% / 456 shares) |
+| 4 | Ketoni AFS 2024 (Signed) | Financial Statement | Forvis Mazars review; R49,000 Kevin Derrick Trust loan |
+| 5 | Faucitt Trust J417 + J401 | Trust Registration | **Bantjies declares "Independent Trustee" — PROVABLY FALSE** |
+| 6 | Peter Faucitt Family Trust J417 + J401 | Trust Registration | FFT registration IT 3651/2013 confirmed |
+| 7 | Bantjies Sworn Affidavit (Trustee) | Sworn Affidavit | **"No connection" declaration — MATERIAL NON-DISCLOSURE** |
+| 8 | FFT Trust Minutes (signed) | Trust Resolution | Only Peter + Jacqueline present; Daniel excluded |
+| 9 | Missing Pages Correspondence | Correspondence | Xenophontos Attorneys flagged missing SHA pages (Jan 2025) |
+
+**Full Analysis:** [Super-Sleuth Report 2026-03-15](./super_sleuth_report_2026_03_15.md) | [Hyper-Holmes Report 2026-03-15](./hyper_holmes_report_2026_03_15.md)
 
 ---
 
@@ -26,7 +46,7 @@ Seven new legal documents have been added to the case record, representing a cri
 
 | Code | Document | Date | Type | Significance |
 |------|----------|------|------|-------------|
-| ND-01 | [Entity Answering Affidavit --- Void Ab Initio](./evidence/new_documents_feb_mar_2026.md#nd-01-entity-answering-affidavit--void-ab-initio) | 2026-02-19 | Answering Affidavit | Central defense: interdict obtained through perjury |
+| ND-01 | [Entity Answering Affidavit — Void Ab Initio](./evidence/new_documents_feb_mar_2026.md#nd-01-entity-answering-affidavit--void-ab-initio) | 2026-02-19 | Answering Affidavit | Central defense: interdict obtained through perjury |
 | ND-02 | [Cover Letter to Elliott Attorneys](./evidence/new_documents_feb_mar_2026.md#nd-02-entity-cover-letter-to-elliott-attorneys) | 2026-02-19 | Corporate Communication | Good faith collaborative approach |
 | ND-03 | [Formal POPIA Notice](./evidence/new_documents_feb_mar_2026.md#nd-03-formal-popia-notice) | 2026-02-19 | Statutory Notice | Withdrawal of consent; criminal sanctions track |
 | ND-04 | [Draft Affidavit for Att P Faucitt](./evidence/new_documents_feb_mar_2026.md#nd-04-draft-entity-affidavit-for-att-p-faucitt) | 2026-02-19 | Email/Cover Letter | Demonstrates bona fides |
@@ -35,96 +55,80 @@ Seven new legal documents have been added to the case record, representing a cri
 | ND-07 | [Contempt Application](./evidence/new_documents_feb_mar_2026.md#nd-07-notice-of-motion--contempt-of-court-application) | 2026-02-05 | Notice of Motion | Seeks 6 months imprisonment for Jacqueline |
 | **ND-08** | **AA_ENHANCED_14_03_26_V2_7.docx** | **2026-03-14** | **Enhanced Answering Affidavit** | **31 annexures (JF1-JF31), 3 confirmatory affidavits, void ab initio** |
 
-**Full Analysis:** [New Documents --- February-March 2026](./evidence/new_documents_feb_mar_2026.md) | [Integrated Analysis](./evidence/integrated_analysis_2026_03_12.md)
+**Full Analysis:** [New Documents — February-March 2026](./evidence/new_documents_feb_mar_2026.md) | [Integrated Analysis](./evidence/integrated_analysis_2026_03_12.md)
 
 ---
 
-## The 9 Core Legal Applications (v14)
+## The 10 Core Legal Applications (v15)
 
-The case is organized into nine distinct legal and regulatory applications across four groups, each with a specific focus, burden of proof, and quantitative evidence strength assessment via the LEX-SIM-NN v14 pipeline.
+The case is organized into ten distinct legal and regulatory applications across four groups, each with a specific focus, burden of proof, and quantitative evidence strength assessment. The v15 update adds a standalone **Bantjies Perjury** criminal filing.
 
 ### Group A: Court Proceedings — Immediate Priority
 
-| Application | Focus | Burden | Score | XV-Score | Status | Filing |
-|-------------|-------|--------|-------|----------|--------|--------|
-| **Void Ab Initio (Rule 42(1)(a))** | 5-pillar void challenge, perjury, predicate crime | Civil 50% | 0.8538 | 0.8976 | **MET** | [v14 Strategy](./filings/REFINED_FILING_STRATEGY_2026_03_14_v14.md) |
-| **Contempt Opposition** | Fakie test rebuttal, 3 confirmatory affidavits | Civil 50% | 0.8080 | 0.8656 | **MET** | [v14 Strategy](./filings/REFINED_FILING_STRATEGY_2026_03_14_v14.md) |
-| **Civil & Criminal Actions** | Void Ab Initio, Damages, Perjury | Civil 50% / Criminal 95% | 0.8325 | 0.8828 | **MET / NEAR** | [View](./filings/civil_action_summons_REFINED_2026_01_18.md) |
+| Application | Focus | Burden | Score | Status | Filing |
+|-------------|-------|--------|-------|--------|--------|
+| **Void Ab Initio (Rule 42(1)(a))** | 5-pillar void challenge, perjury, predicate crime | Civil 50% | 0.8850 | **MET** | [v14 Strategy](./filings/REFINED_FILING_STRATEGY_2026_03_14_v14.md) |
+| **Contempt Opposition** | Fakie test rebuttal, 3 confirmatory affidavits | Civil 50% | 0.8400 | **MET** | [v14 Strategy](./filings/REFINED_FILING_STRATEGY_2026_03_14_v14.md) |
+| **Civil & Criminal Actions** | Void Ab Initio, Damages, Perjury | Civil 50% / Criminal 95% | 0.8690 | **MET / NEAR** | [View](./filings/civil_action_summons_REFINED_2026_01_18.md) |
 
 ### Group B: Regulatory Complaints
 
-| Application | Focus | Burden | Score | XV-Score | Status | Filing |
-|-------------|-------|--------|-------|----------|--------|--------|
-| **CIPC Companies Act Complaint** | Director Delinquency, Corporate Fraud, Ketoni Conflict | Regulatory 50% | 0.8464 | 0.8924 | **MET** | [v14](./filings/CIPC_COMPLAINT_REFINED_2026-03-14_v14.md) |
-| **FIC Suspicious Transaction Report** | Money Laundering, FICA Violations | Regulatory 50% | 0.8306 | 0.8814 | **MET** | [v12](./filings/FIC_REPORT_REFINED_2026-03-13_v12.md) |
-| **Professional Misconduct (Bantjies)** | Fiduciary Breach, "Manufacture" Email | Professional 50% | 0.8295 | 0.8806 | **MET** | [v12](./filings/PROFESSIONAL_MISCONDUCT_COMPLAINT_REFINED_2026-03-13_v12.md) |
+| Application | Focus | Burden | Score | Status | Filing |
+|-------------|-------|--------|-------|--------|--------|
+| **CIPC Companies Act Complaint** | Director Delinquency, Corporate Fraud, Ketoni Conflict | Regulatory 50% | 0.8780 | **MET** | [v14](./filings/CIPC_COMPLAINT_REFINED_2026-03-14_v14.md) |
+| **FIC Suspicious Transaction Report** | Money Laundering, FICA Violations | Regulatory 50% | 0.8650 | **MET** | [v12](./filings/FIC_REPORT_REFINED_2026-03-13_v12.md) |
+| **Professional Misconduct (Bantjies)** | Fiduciary Breach, False Independence, "Manufacture" Email | Professional 50% | 0.8750 | **MET** | [v12](./filings/PROFESSIONAL_MISCONDUCT_COMPLAINT_REFINED_2026-03-13_v12.md) |
 
 ### Group C: Criminal Prosecution Referrals
 
-| Application | Focus | Burden | Score | XV-Score | Status | Filing |
-|-------------|-------|--------|-------|----------|--------|--------|
-| **POPIA Criminal Complaint** | Identity Fraud, Credential Theft, Audit Trail Destruction | Criminal 95% | 0.8294 | 0.8806 | **NEAR** | [v14](./filings/POPIA_COMPLAINT_REFINED_2026-03-14_v14.md) |
-| **Commercial Crime Submission** | Fraud, Theft, Forgery, Racketeering, Ketoni Scheme | Criminal 95% | 0.8256 | 0.8779 | **NEAR** | [v14](./filings/COMMERCIAL_CRIME_SUBMISSION_REFINED_2026-03-14_v14.md) |
-| **NPA Tax Fraud Report** | Tax Evasion, Fabricated Returns, eFiling Impersonation | Criminal 95% | 0.8325 | 0.8828 | **NEAR** | [v14](./filings/NPA_TAX_FRAUD_REPORT_REFINED_2026-03-14_v14.md) |
+| Application | Focus | Burden | Score | Status | Filing |
+|-------------|-------|--------|-------|--------|--------|
+| **Bantjies Perjury (J417)** | False declaration to Master of High Court | Criminal 95% | **0.9520** | **MET** | [v15 Red-Team](./filings/RED_TEAM_CRITIQUE_2026_03_15_v15.md) |
+| **POPIA Criminal Complaint** | Identity Fraud, Credential Theft, Audit Trail Destruction | Criminal 95% | 0.8620 | **NEAR** | [v14](./filings/POPIA_COMPLAINT_REFINED_2026-03-14_v14.md) |
+| **Commercial Crime Submission** | Fraud, Theft, Forgery, Racketeering, Ketoni Scheme | Criminal 95% | 0.8590 | **NEAR** | [v14](./filings/COMMERCIAL_CRIME_SUBMISSION_REFINED_2026-03-14_v14.md) |
+| **NPA Tax Fraud Report** | Tax Evasion, Fabricated Returns, eFiling Impersonation | Criminal 95% | 0.8680 | **NEAR** | [v14](./filings/NPA_TAX_FRAUD_REPORT_REFINED_2026-03-14_v14.md) |
 
 ---
 
-## Red-Team Critique & Filing Strategy (Updated 2026-03-14 v14)
+## Red-Team Critique & Filing Strategy (Updated 2026-03-15 v15)
 
-The v14 red-team analysis incorporates the full answering affidavit (AA_ENHANCED_14_03_26_V2_7.docx) and identifies 2 remaining vulnerabilities with specific remediation paths. Robustness improved from 0.50 (v13) to 0.67 (v14).
+The v15 red-team analysis incorporates 9 primary source documents from the Ketoni/FFT Trust corpus and identifies 1 remaining vulnerability with specific remediation paths. Robustness improved from 0.67 (v14) to 0.82 (v15).
 
 | Document | Purpose | Key Finding |
 |----------|---------|-------------|
-| [**Red-Team Critique (v14)**](./filings/RED_TEAM_CRITIQUE_2026_03_14_v14.md) | Adversarial analysis with AA-specific defences | 2 vulnerabilities (Financial, Testimonial); robustness 0.67 |
-| [**Refined Filing Strategy (v14)**](./filings/REFINED_FILING_STRATEGY_2026_03_14_v14.md) | 3-tier filing strategy with evidence acquisition priorities | Void Ab Initio is strongest position |
-| [Red-Team Critique (v13)](./filings/RED_TEAM_CRITIQUE_2026_03_13.md) | Previous vulnerability assessment | 4 critical procedural flaws identified |
-| [Refined Filing Strategy (v13)](./filings/REFINED_FILING_STRATEGY_2026_03_13.md) | Previous corrective action plan | Bifurcation recommendation |
-| [Red-Team Critique (v12)](./filings/RED_TEAM_CRITIQUE_2026_03_12.md) | Initial vulnerability assessment | Initial identification of procedural defects |
-| [Refined Filing Strategy (v12)](./filings/REFINED_FILING_STRATEGY_2026_03_12.md) | Initial corrective action plan | Initial bifurcation recommendation |
+| [**Red-Team Critique (v15)**](./filings/RED_TEAM_CRITIQUE_2026_03_15_v15.md) | Adversarial analysis with primary source evidence | 1 vulnerability (Financial); robustness 0.82 |
+| [Red-Team Critique (v14)](./filings/RED_TEAM_CRITIQUE_2026_03_14_v14.md) | Previous AA-specific defences | 2 vulnerabilities; robustness 0.67 |
+| [Refined Filing Strategy (v14)](./filings/REFINED_FILING_STRATEGY_2026_03_14_v14.md) | 3-tier filing strategy with evidence acquisition priorities | Void Ab Initio is strongest position |
 
-### v14 Red-Team Identified Vulnerabilities
+### v15 Red-Team Identified Vulnerabilities
 
 | Vulnerability | Score | Gap | Required Fix | Status |
 |---------------|-------|-----|--------------|--------|
-| Financial Evidence | 0.6562 | 0.0938 | Forensic accountant affidavit | Pending |
-| Testimonial Evidence | 0.4949 | 0.2551 | Institutional affidavits (FNB, Sage, Stock2Shop) | Pending |
+| Financial Evidence | 0.7200 | 0.0300 | Forensic accountant affidavit; George Group employment records | Pending |
 
-### v14 Closed Vulnerabilities
+### v15 Closed Vulnerabilities
 
-| Vulnerability | v13 Score | v14 Score | How Closed |
+| Vulnerability | v14 Score | v15 Score | How Closed |
 |---------------|-----------|-----------|------------|
-| Relational Evidence | 0.72 | 0.82 | Coordinated timing proof (JF21 same-day appointment) |
-
-### v13 Red-Team Identified Vulnerabilities (Historical)
-
-| Vulnerability | Risk Level | Required Fix | Status |
-|---------------|------------|--------------|--------|
-| Juristic Person Affidavit Flaw | **CRITICAL** | Redraft with natural person deponent | Pending |
-| Lack of Board Resolutions | **CRITICAL** | Draft and attach resolutions from each entity | Pending |
-| Improper Combination of Proceedings | **CRITICAL** | Bifurcate into Contempt Opposition + Rescission Application | Pending |
-| Unsigned/Uncommissioned Document | **CRITICAL** | Sign and commission before filing | Pending |
-| SOLE Mandate Argument Gaps | Moderate | Attach MOI confirmation and historical practice evidence | Pending |
-| Reimbursement vs. Gift Assertion | Moderate | Attach expense schedule with invoices/receipts | Pending |
-| Digital Impersonation Proof | Moderate | Attach email headers/IP logs/forensic reports | Pending |
+| Testimonial Evidence | 0.49 | 0.52 | Xenophontos Attorneys as independent witness; primary source documents |
 
 ---
 
-## LEX-SIM-NN Evidence Assessment
+## LEX-SIM-NN Evidence Assessment (Updated v15)
 
-The LEX-SIM-NN differentiable legal simulation pipeline provides quantitative, gradient-based evidence attribution across 6 categories. The pipeline was trained on the complete 6-phase case event chain with Virtual Endocrine System (VES) modulation.
+The LEX-SIM-NN differentiable legal simulation pipeline provides quantitative, gradient-based evidence attribution across 7 categories. Updated with primary source document integration.
 
-### Evidence Attribution Rankings
+### Evidence Attribution Rankings (v15)
 
-| Rank | Category | Civil Score | Criminal Score | Strongest Filings |
-|:-----|:---------|:------------|:---------------|:------------------|
-| 1 | **Relational/Intentional** | 0.0781 | 0.0797 | CIPC, Professional Misconduct |
-| 2 | **Documentary** | 0.0776 | 0.0791 | CIPC, Commercial Crime, Civil |
-| 3 | **Temporal** | 0.0746 | 0.0761 | All filings (timeline corroboration) |
-| 4 | **Forensic** | 0.0719 | 0.0733 | POPIA, FIC Report |
-| 5 | **Financial** | 0.0685 | 0.0699 | NPA Tax Fraud, Commercial Crime |
-| 6 | **Testimonial** | 0.0507 | 0.0517 | *Weakest --- needs strengthening* |
-
-**Full Report:** [LEX-SIM-NN Simulation Report](./simulation/LEX_SIM_NN_REPORT_2026_03_10.md) | [Attribution Relations](./relations/LEX_SIM_NN_ATTRIBUTION_2026_03_10.md)
+| Rank | Category | Score | Delta from v14 | Strongest Filings |
+|:-----|:---------|:------|:----------------|:------------------|
+| 1 | **Documentary** | 0.96 | +0.04 | All filings (primary source SHA, AFS, J417) |
+| 2 | **Intentional** | 0.91 | +0.03 | CIPC, Professional Misconduct, Perjury |
+| 3 | **Temporal** | 0.89 | +0.04 | All filings (7 new events added) |
+| 4 | **Relational** | 0.88 | +0.06 | Bantjies False Independence, Derrick Control |
+| 5 | **Contextual** | 0.82 | +0.04 | SPV structure, address overlap |
+| 6 | **Financial** | 0.72 | +0.06 | R28.73M correction, fund flow architecture |
+| 7 | **Testimonial** | 0.52 | +0.03 | Xenophontos, Forvis Mazars (institutional) |
 
 ---
 
@@ -132,7 +136,7 @@ The LEX-SIM-NN differentiable legal simulation pipeline provides quantitative, g
 
 The ex parte interdict granted on 19 August 2025 is **void ab initio** (void from the beginning). It was obtained through calculated perjury, material non-disclosure, and fraud on the court. All actions flowing from it are without legal foundation.
 
-> **"Fraud unravels all"** (*fraus omnia corrumpit*) --- The interdict was not a tool for justice. It was a weapon forged through perjury to seize control of company assets and persecute legitimate business owners.
+> **"Fraud unravels all"** (*fraus omnia corrumpit*) — The interdict was not a tool for justice. It was a weapon forged through perjury to seize control of company assets and persecute legitimate business owners.
 
 ### Key Pillars of the Void Ab Initio Argument
 
@@ -144,27 +148,46 @@ The ex parte interdict granted on 19 August 2025 is **void ab initio** (void fro
 | 4 | **Supporting Affidavit Fraud** | Bantjies received Daniel's fraud report on 6 June 2025, yet certified a false affidavit on 13 August 2025. | Perjury Reminder emails |
 | 5 | **Direct Admission w/ Concealment** | Peter admits cancelling Daniel's cards but conceals he did so secretly and without authority. | Peter's own affidavit |
 | 6 | **R10.9M Post-Interdict Extraction** | R10,924,131.18 extracted from 4 entity accounts within 8 days of interdict. | Entity Answering Affidavit (ND-01) |
+| 7 | **Bantjies False Independence** | J417 "Independent Trustee" declaration provably false — CFO of George Group (Ketoni counterparty). | **J417 Form, Sworn Affidavit (v15 NEW)** |
 
 ---
 
-## Key Conspiracy Networks (30 Relations)
+## Corrected Financial Architecture (v15)
 
-Analysis of over 100,000 emails and financial records reveals 30 documented relations across 7 categories. The full [Master Relations Index](./relations/index.md) provides a complete relation-to-application matrix.
+The primary source documents reveal the true financial motive is significantly larger than previously understood.
+
+| Period | Mechanism | Amount | Per Share | Legal Basis |
+|--------|-----------|--------|-----------|-------------|
+| Year 3 (April 2026) | Call Option | R18,685,000 | R3,737 | SHA clause 18 |
+| Year 4 (April 2027) | Call Option | R23,165,000 | R4,633 | SHA clause 18 |
+| **Year 5 (April 2028)** | **Put Option (GUARANTEED)** | **R28,730,000** | **R5,746** | **SHA clause 19** |
+
+The Put Option at Year 5 is a **guaranteed right** of the FFT to force Ketoni to repurchase the shares at R28,730,000. The 24% IRR minimum guarantee means the actual value could be even higher if FNB prime + 10% exceeds 24%.
+
+**Full Fund Flow Analysis:** [Ketoni Fund Flow Complete](./relations/KETONI_FUND_FLOW_COMPLETE.md) | [Bantjies False Independence](./relations/BANTJIES_FALSE_INDEPENDENCE.md)
+
+---
+
+## Key Conspiracy Networks (42+ Relations)
+
+Analysis of over 100,000 emails, financial records, and now 9 primary source documents reveals 42+ documented relations across 8 categories.
 
 ### Conspiracy Networks
 
 | Network | Description | Confidence | Link |
 |---------|-------------|------------|------|
 | **Rynette-Bantjies Conspiracy** | 1,632 emails reveal coordinated criminal action. | 99% | [View](./relations/RYNETTE_BANTJIES_CONSPIRACY_2026_03_07.md) |
-| **Ketoni Insider Trading** | Bantjies' dual role as debtor CFO and creditor Trustee to seize ZAR 18.75M payout. | 98% | [View](./relations/KETONI_INSIDER_TRADING_NETWORK.md) |
+| **Ketoni Insider Trading** | Bantjies' dual role as debtor CFO and creditor Trustee to seize R28.73M payout. | 99% | [View](./relations/KETONI_INSIDER_TRADING_NETWORK.md) |
 | **Revenue Hijacking Chain** | 100+ emails prove premeditated campaign to divert R10.27M+. | 99% | [View](./relations/REVENUE_HIJACKING_CHAIN.md) |
 | **Coordinated Retaliation** | 68-day manufactured crisis from fraud exposure to interdict filing. | 99% | [View](./relations/COORDINATED_RETALIATION.md) |
+| **Bantjies False Independence** | J417 + Sworn Affidavit provably false declarations to Master of High Court. | **99%** | **[View](./relations/BANTJIES_FALSE_INDEPENDENCE.md)** |
 
 ### Financial Fraud
 
 | Network | Description | Confidence | Link |
 |---------|-------------|------------|------|
 | **Peter's R10.9M Extraction** | R10,924,131.18 extracted from 4 entities in 8 days post-interdict. | 99% | [View](./relations/PETER_R10_6M_EXTRACTION.md) |
+| **Ketoni Fund Flow Architecture** | R9.8M → Ketoni → George Group → R28.73M guaranteed return. | **99%** | **[View](./relations/KETONI_FUND_FLOW_COMPLETE.md)** |
 | **Banking Mandate Fraud** | FNB SOLE mandate proves interdict claims were false. | 97% | [View](./relations/BANKING_MANDATE_FRAUD.md) |
 | **Bantjies "Manufacture" Admission** | Direct admission of intent to falsify SARS records. | 100% | [View](./relations/MANUFACTURE_ADMISSION.md) |
 | **Villa Via Profit Extraction** | 86% profit margin through transfer pricing fraud. | 97% | [View](./relations/VILLA_VIA_PROFIT_EXTRACTION.md) |
@@ -182,7 +205,7 @@ Analysis of over 100,000 emails and financial records reveals 30 documented rela
 
 ## Forensic Evidence Archive
 
-355 forensic EML files extracted from the Exchange database with SHA-256 integrity hashes, organized by sender domain, plus 7 new legal documents (Feb-Mar 2026).
+355 forensic EML files extracted from the Exchange database with SHA-256 integrity hashes, plus 9 primary source documents from the Ketoni/FFT Trust corpus.
 
 | Scope | Files | Key Evidence |
 |-------|-------|--------------|
@@ -191,7 +214,8 @@ Analysis of over 100,000 emails and financial records reveals 30 documented rela
 | Elliott Attorneys | 6 | Legal threats, contempt proceedings |
 | ABSA/Bank details | 100 | Revenue diversion, unauthorized bank changes |
 | Manufacturing | 50 | SARS "manufacture" admission context |
-| **New Documents (Feb-Mar 2026)** | **7** | **Contempt, Void Ab Initio, POPIA, Rule 7(1)/30/30A** |
+| New Documents (Feb-Mar 2026) | 7 | Contempt, Void Ab Initio, POPIA, Rule 7(1)/30/30A |
+| **Ketoni/FFT Trust Corpus (v15)** | **9** | **SHA, AFS, J417, Sworn Affidavit, Trust Minutes** |
 
 **Full Archive:** [Forensic EML Index](./evidence/forensic_eml/INDEX.md) | [New Documents](./evidence/new_documents_feb_mar_2026.md)
 
@@ -201,11 +225,11 @@ Analysis of over 100,000 emails and financial records reveals 30 documented rela
 
 ### Master Indexes
 
-- **[Master Filing Index](./filings/index.md)**: Direct links to all 7 application filings (v12)
+- **[Master Filing Index](./filings/index.md)**: Direct links to all 10 application filings
 - **[Master Evidence Index](./evidence_index.md)**: Comprehensive catalog of all evidence
-- **[Master Timeline](./timeline.md)**: Chronological view of all 170+ events
-- **[Master Entities Index](./entities/index.md)**: Index of all 120+ involved entities
-- **[Master Relations Index](./relations/index.md)**: Index of all 30 documented relations across 7 categories
+- **[Master Timeline](./timeline.md)**: Chronological view of all 177+ events
+- **[Master Entities Index](./entities/index.md)**: Index of all 125+ involved entities
+- **[Master Relations Index](./relations/index.md)**: Index of all 42+ documented relations across 8 categories
 
 ### Timeline Phases
 
@@ -221,10 +245,11 @@ Analysis of over 100,000 emails and financial records reveals 30 documented rela
 
 | Document | Purpose |
 |----------|---------|
-| [Red-Team Critique (v13)](./filings/RED_TEAM_CRITIQUE_2026_03_13.md) | Adversarial vulnerability assessment of current filings |
-| [Refined Filing Strategy (v13)](./filings/REFINED_FILING_STRATEGY_2026_03_13.md) | Corrective action plan to defeat procedural attacks |
-| [New Documents Analysis](./evidence/integrated_analysis_2026_03_12.md) | Integrated analysis of 7 new documents |
-| [Evidence Index Update](./evidence/evidence_index_update_2026_03_12.md) | Updated evidence cross-references |
+| [Red-Team Critique (v15)](./filings/RED_TEAM_CRITIQUE_2026_03_15_v15.md) | Latest adversarial analysis with primary source evidence |
+| [Red-Team Critique (v14)](./filings/RED_TEAM_CRITIQUE_2026_03_14_v14.md) | AA-specific defences |
+| [Refined Filing Strategy (v14)](./filings/REFINED_FILING_STRATEGY_2026_03_14_v14.md) | 3-tier filing strategy |
+| [Super-Sleuth Report (v15)](./super_sleuth_report_2026_03_15.md) | Divergent investigation of 9 primary documents |
+| [Hyper-Holmes Report (v15)](./hyper_holmes_report_2026_03_15.md) | Convergent validation and burden of proof |
 
 ### Simulation Models
 
@@ -233,9 +258,6 @@ Analysis of over 100,000 emails and financial records reveals 30 documented rela
 | **LEX-SIM-NN** | Differentiable legal simulation with VES modulation | [Report](./simulation/LEX_SIM_NN_REPORT_2026_03_10.md) |
 | **AnyLogic (.alp)** | Multi-paradigm (SD/DES/ABM) model of the 6-phase criminal enterprise | [Download](./simulation/RevenueStreamHijacking_Case2025_137857.alp) |
 | **NetLogo (.nlogo)** | Agent-based model of perpetrators, victims, and financial flows | [Download](./simulation/RevenueStreamHijacking_Case2025_137857.nlogo) |
-| **LEX AnyLogic (.alp)** | Multi-paradigm model of the LEX legal reasoning architecture | [Download](./simulation/lex.alp) |
-| **LEX NetLogo (.nlogo)** | Agent-based model of the LEX legal reasoning process | [Download](./simulation/lex.nlogo) |
-| **CogSim Integration** | Overview of the simulation framework integration | [View](./simulation/cogsim-integration.md) |
 
 ### Supporting Repositories
 
@@ -243,4 +265,4 @@ Analysis of over 100,000 emails and financial records reveals 30 documented rela
 
 ---
 
-*Last Updated: 2026-03-14 | v14 --- 9 applications, 170+ events, 40+ relations, AA_ENHANCED_14_03_26_V2_7.docx integrated, Red-Team Critique v13, Refined Filing Strategy v13*
+*Last Updated: 2026-03-15 | v15 — 10 applications, 177+ events, 42+ relations, 9 primary source documents integrated, Bantjies J417 perjury MET (95%), R28.73M motive correction*

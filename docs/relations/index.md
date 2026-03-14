@@ -1,7 +1,7 @@
 # Master Relations Index
 
-**Last Updated:** 2026-03-12  
-**Total Relations:** 30 documented files + 15 JSON-modeled relations  
+**Last Updated:** 2026-03-15 (v15)  
+**Total Relations:** 32 documented files + 15 JSON-modeled relations  
 **Case Number:** 2025-137857
 
 This index catalogs all entity relationships documented in the Revenue Stream Hijacking case, organized by type and cross-referenced to all 7 applications.
@@ -19,6 +19,7 @@ This index catalogs all entity relationships documented in the Revenue Stream Hi
 | **Aymac/Kaylovest/Elliott Network** | Shell Company Network | Aymac, Kaylovest, Elliott | 95% | [View](./AYMAC_KAYLOVEST_ELLIOTT_NETWORK.md) |
 | **Coordinated Retaliation** | Manufactured Crisis | Peter, Rynette, Bantjies | 99% | [View](./COORDINATED_RETALIATION.md) |
 | **Elliott Attorneys Protection** | Obstruction | Elliott, Pottas, Rynette | 95% | [View](./ELLIOTT_ATTORNEYS_PROTECTION.md) |
+| **Bantjies False Independence** | Perjury / False Declaration | Bantjies, Master of High Court | **99%** | **[View](./BANTJIES_FALSE_INDEPENDENCE.md)** |
 
 ## Financial Fraud Relations (5 relations)
 
@@ -29,6 +30,7 @@ This index catalogs all entity relationships documented in the Revenue Stream Hi
 | **ReZonance Debt Fabrication** | Accounting Fraud | Rynette, ReZonance | 96% | [View](./REZONANCE_DEBT_FABRICATION.md) |
 | **Banking Mandate Fraud** | Financial Access Fraud | Peter, Rynette, FNB | 97% | [View](./BANKING_MANDATE_FRAUD.md) |
 | **Bantjies "Manufacture" Admission** | Tax Fraud | Bantjies, Rynette | 100% | [View](./MANUFACTURE_ADMISSION.md) |
+| **Ketoni Fund Flow Complete** | Investment Architecture | FFT, Ketoni, George Group, Bantjies | **99%** | **[View](./KETONI_FUND_FLOW_COMPLETE.md)** |
 
 ## Corporate Governance Violations (4 relations)
 
@@ -146,4 +148,4 @@ The following relations are modeled in structured JSON format within this index 
 
 ---
 
-*Last updated: 2026-03-12 | Comprehensive Refinement — 30 relations documented*
+*Last updated: 2026-03-15 (v15) | 32 relations documented — 2 new (Bantjies False Independence, Ketoni Fund Flow Complete)*
