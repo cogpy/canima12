@@ -1,18 +1,22 @@
 # Case 2025-137857: Revenue Stream Hijacking & Multi-Jurisdictional Fraud
 
-**Last Updated:** 2026-03-14
+**Last Updated:** 2026-03-14 (v14)
 
 This repository provides a comprehensive, evidence-based view of Case 2025-137857, a multi-faceted criminal enterprise involving revenue stream hijacking, trust fraud, identity theft, and corporate malfeasance with a total quantum exceeding **R63,000,000**.
 
-> **Latest Update (2026-03-14):** v13 filing refinements integrating **Ketoni Investment Evidence** --- 624 messages, 154 forensic EMLs, 9 OCR documents processed. New evidence reveals Bantjies' **gross conflict of interest** as George Group CFO and FFT Trustee controlling the **R18.685M** option payout. R9.8M Trust investment fraudulently allocated to Pete's personal loan account. All filings (CIPC, POPIA, Commercial Crime, NPA) updated to v13 with Ketoni-specific evidence. Total events now **180+**, total relations **40+**, across **8 applications**. Extraction quantum: **R10,924,131.18**. Ketoni payout quantum: **R18,685,000** (May 2026).
+> **Latest Update (2026-03-14 v14):** Full LEX-SIM-NN(Neuro-NN(DigiTwin[ALP <=> NLogo])) v14 pipeline integrating **AA_ENHANCED_14_03_26_V2_7.docx** (Answering Affidavit, 14 March 2026). **31 annexures (JF1-JF31)**, **3 confirmatory affidavits** (Oliver JF8, Edgar JF10, Cherie Smith JF11), and **void ab initio defence**. Civil: **0.9915 (MET)**, Criminal: **0.9922 (MET)**, Void Ab Initio: **0.9500 (MET)**, Contempt Defence: **0.95 (NO contempt)**. 2 remaining vulnerabilities (Financial, Testimonial). 9 applications across 4 groups. Phase 7: Procedural Weaponization added. Witness intimidation pattern documented. Total events now **170+**, total relations **40+**. Extraction quantum: **R10,624,131.18**. Ketoni payout quantum: **R18,685,000** (May 2026). Total quantified exposure: **R35,864,492.52**.
 
-> **NEW: [Ketoni Investment Evidence Analysis](./evidence/ketoni_evidence_analysis.md)** --- Comprehensive analysis of the R9.8M FFT investment, the conflict of interest, and the option structure.
+> **NEW: [v14 Simulation Report](./simulation/COMPOSED_REPORT_2026_03_14_v14.md)** | [v14 Red-Team Critique](./filings/RED_TEAM_CRITIQUE_2026_03_14_v14.md) | [v14 Filing Strategy](./filings/REFINED_FILING_STRATEGY_2026_03_14_v14.md) | [Entities v14](./ENTITIES_V14.md) | [Timeline v14](./TIMELINE_V14.md)
+
+> **Previous: [Ketoni Investment Evidence Analysis](./evidence/ketoni_evidence_analysis.md)** --- Comprehensive analysis of the R9.8M FFT investment, the conflict of interest, and the option structure.
 
 ---
 
-## URGENT: Procedural Deadline
+## URGENT: v14 Filing Priorities
 
-> **Rule 30/30A Deadline: ~13 March 2026** --- The Applicant's Rule 30/30A Notice (served 03 March 2026) gives 10 days to remedy the irregular step identified in the Entity Answering Affidavit. See the [Red-Team Critique (v13)](./filings/RED_TEAM_CRITIQUE_2026_03_13.md) and [Refined Filing Strategy (v13)](./filings/REFINED_FILING_STRATEGY_2026_03_13.md) for recommended immediate actions.
+> **Enhanced Answering Affidavit filed 14 March 2026** with 31 annexures and 3 confirmatory affidavits. The void ab initio defence is the strongest strategic position (strength: 0.9500). See the [v14 Red-Team Critique](./filings/RED_TEAM_CRITIQUE_2026_03_14_v14.md) and [v14 Filing Strategy](./filings/REFINED_FILING_STRATEGY_2026_03_14_v14.md) for the 3-tier filing strategy.
+
+> **Witness Intimidation Alert:** Oliver Mphande arrested 6 March 2026 for stating "This is Jacqui Faucitt's company." Protection order served on Jacqueline 14 March 2026 — day before AA filing deadline. Pattern documented in [Timeline v14](./TIMELINE_V14.md).
 
 ---
 
@@ -29,51 +33,69 @@ Seven new legal documents have been added to the case record, representing a cri
 | ND-05 | [Rule 7(1) Notice](./evidence/new_documents_feb_mar_2026.md#nd-05-rule-71-notice) | 2026-03-03 | Procedural Notice | Disputes Daniel's authority |
 | ND-06 | [Rule 30/30A Notice](./evidence/new_documents_feb_mar_2026.md#nd-06-rule-30-andor-30a-notice) | 2026-03-03 | Procedural Notice | Alleges irregular step; **10-day deadline** |
 | ND-07 | [Contempt Application](./evidence/new_documents_feb_mar_2026.md#nd-07-notice-of-motion--contempt-of-court-application) | 2026-02-05 | Notice of Motion | Seeks 6 months imprisonment for Jacqueline |
+| **ND-08** | **AA_ENHANCED_14_03_26_V2_7.docx** | **2026-03-14** | **Enhanced Answering Affidavit** | **31 annexures (JF1-JF31), 3 confirmatory affidavits, void ab initio** |
 
 **Full Analysis:** [New Documents --- February-March 2026](./evidence/new_documents_feb_mar_2026.md) | [Integrated Analysis](./evidence/integrated_analysis_2026_03_12.md)
 
 ---
 
-## The 7 Core Legal Applications
+## The 9 Core Legal Applications (v14)
 
-The case is organized into seven distinct legal and regulatory applications across three groups, each with a specific focus, burden of proof, and quantitative evidence strength assessment via the LEX-SIM-NN pipeline.
+The case is organized into nine distinct legal and regulatory applications across four groups, each with a specific focus, burden of proof, and quantitative evidence strength assessment via the LEX-SIM-NN v14 pipeline.
 
-### Group A: Court Proceedings (Civil & Criminal)
+### Group A: Court Proceedings — Immediate Priority
 
-| Application | Focus | Burden | Score | Status | Filing |
-|-------------|-------|--------|-------|--------|--------|
-| **1. Civil & Criminal Actions** | Void Ab Initio, Damages, Perjury | Civil 50% / Criminal 95% | 86.07% / 84.28% | **MET / NEAR** | [View](./filings/civil_action_summons_REFINED_2026_01_18.md) |
+| Application | Focus | Burden | Score | XV-Score | Status | Filing |
+|-------------|-------|--------|-------|----------|--------|--------|
+| **Void Ab Initio (Rule 42(1)(a))** | 5-pillar void challenge, perjury, predicate crime | Civil 50% | 0.8538 | 0.8976 | **MET** | [v14 Strategy](./filings/REFINED_FILING_STRATEGY_2026_03_14_v14.md) |
+| **Contempt Opposition** | Fakie test rebuttal, 3 confirmatory affidavits | Civil 50% | 0.8080 | 0.8656 | **MET** | [v14 Strategy](./filings/REFINED_FILING_STRATEGY_2026_03_14_v14.md) |
+| **Civil & Criminal Actions** | Void Ab Initio, Damages, Perjury | Civil 50% / Criminal 95% | 0.8325 | 0.8828 | **MET / NEAR** | [View](./filings/civil_action_summons_REFINED_2026_01_18.md) |
 
 ### Group B: Regulatory Complaints
 
-| Application | Focus | Burden | Score | Status | Filing |
-|-------------|-------|--------|-------|--------|--------|
-| **2. CIPC Companies Act Complaint** | Director Delinquency, Corporate Fraud, Ketoni Conflict | Regulatory 50% | 87.09% | **MET** | [v13](./filings/CIPC_COMPLAINT_REFINED_2026-03-14_v13.md) |
-| **3. POPIA Criminal Complaint** | Identity Fraud, Credential Theft, Beneficiary Exclusion | Criminal 95% | 84.96% | **NEAR** | [v13](./filings/POPIA_COMPLAINT_REFINED_2026-03-14_v13.md) |
-| **6. FIC Suspicious Transaction Report** | Money Laundering, FICA Violations | Regulatory 50% | 86.55% | **MET** | [v12](./filings/FIC_REPORT_REFINED_2026-03-13_v12.md) |
-| **7. Professional Misconduct** | Bantjies Fiduciary Breach | Professional 50% | 85.31% | **MET** | [v12](./filings/PROFESSIONAL_MISCONDUCT_COMPLAINT_REFINED_2026-03-13_v12.md) |
+| Application | Focus | Burden | Score | XV-Score | Status | Filing |
+|-------------|-------|--------|-------|----------|--------|--------|
+| **CIPC Companies Act Complaint** | Director Delinquency, Corporate Fraud, Ketoni Conflict | Regulatory 50% | 0.8464 | 0.8924 | **MET** | [v14](./filings/CIPC_COMPLAINT_REFINED_2026-03-14_v14.md) |
+| **FIC Suspicious Transaction Report** | Money Laundering, FICA Violations | Regulatory 50% | 0.8306 | 0.8814 | **MET** | [v12](./filings/FIC_REPORT_REFINED_2026-03-13_v12.md) |
+| **Professional Misconduct (Bantjies)** | Fiduciary Breach, "Manufacture" Email | Professional 50% | 0.8295 | 0.8806 | **MET** | [v12](./filings/PROFESSIONAL_MISCONDUCT_COMPLAINT_REFINED_2026-03-13_v12.md) |
 
 ### Group C: Criminal Prosecution Referrals
 
-| Application | Focus | Burden | Score | Status | Filing |
-|-------------|-------|--------|-------|--------|--------|
-| **4. Commercial Crime Submission** | Fraud, Theft, Forgery, Racketeering, Ketoni Scheme | Criminal 95% | 84.28% | **NEAR** | [v13](./filings/COMMERCIAL_CRIME_SUBMISSION_REFINED_2026-03-14_v13.md) |
-| **5. NPA Tax Fraud Report** | Tax Evasion, Exchange Control, Ketoni Misallocation | Criminal 95% | 85.33% | **NEAR** | [v13](./filings/NPA_TAX_FRAUD_REPORT_REFINED_2026-03-14_v13.md) |
+| Application | Focus | Burden | Score | XV-Score | Status | Filing |
+|-------------|-------|--------|-------|----------|--------|--------|
+| **POPIA Criminal Complaint** | Identity Fraud, Credential Theft, Audit Trail Destruction | Criminal 95% | 0.8294 | 0.8806 | **NEAR** | [v14](./filings/POPIA_COMPLAINT_REFINED_2026-03-14_v14.md) |
+| **Commercial Crime Submission** | Fraud, Theft, Forgery, Racketeering, Ketoni Scheme | Criminal 95% | 0.8256 | 0.8779 | **NEAR** | [v14](./filings/COMMERCIAL_CRIME_SUBMISSION_REFINED_2026-03-14_v14.md) |
+| **NPA Tax Fraud Report** | Tax Evasion, Fabricated Returns, eFiling Impersonation | Criminal 95% | 0.8325 | 0.8828 | **NEAR** | [v14](./filings/NPA_TAX_FRAUD_REPORT_REFINED_2026-03-14_v14.md) |
 
 ---
 
-## Red-Team Critique & Filing Strategy (Updated 2026-03-13)
+## Red-Team Critique & Filing Strategy (Updated 2026-03-14 v14)
 
-A comprehensive adversarial analysis of the current filings has been conducted, identifying procedural vulnerabilities exploited by the Applicant's Rule 7(1) and Rule 30/30A notices. The v13 critique provides a detailed bifurcation strategy and evidentiary fortification plan.
+The v14 red-team analysis incorporates the full answering affidavit (AA_ENHANCED_14_03_26_V2_7.docx) and identifies 2 remaining vulnerabilities with specific remediation paths. Robustness improved from 0.50 (v13) to 0.67 (v14).
 
 | Document | Purpose | Key Finding |
 |----------|---------|-------------|
-| [Red-Team Critique (v13)](./filings/RED_TEAM_CRITIQUE_2026_03_13.md) | Vulnerability assessment of Entity Answering Affidavit | 4 critical procedural flaws identified; substantive defense strong but must be repackaged |
-| [Refined Filing Strategy (v13)](./filings/REFINED_FILING_STRATEGY_2026_03_13.md) | Corrective action plan | Bifurcate: (a) Contempt Opposition by Jacqueline, (b) Rescission Application by entities with board resolutions |
-| [Red-Team Critique (v12)](./filings/RED_TEAM_CRITIQUE_2026_03_12.md) | Previous vulnerability assessment | Initial identification of procedural defects |
-| [Refined Filing Strategy (v12)](./filings/REFINED_FILING_STRATEGY_2026_03_12.md) | Previous corrective action plan | Initial bifurcation recommendation |
+| [**Red-Team Critique (v14)**](./filings/RED_TEAM_CRITIQUE_2026_03_14_v14.md) | Adversarial analysis with AA-specific defences | 2 vulnerabilities (Financial, Testimonial); robustness 0.67 |
+| [**Refined Filing Strategy (v14)**](./filings/REFINED_FILING_STRATEGY_2026_03_14_v14.md) | 3-tier filing strategy with evidence acquisition priorities | Void Ab Initio is strongest position |
+| [Red-Team Critique (v13)](./filings/RED_TEAM_CRITIQUE_2026_03_13.md) | Previous vulnerability assessment | 4 critical procedural flaws identified |
+| [Refined Filing Strategy (v13)](./filings/REFINED_FILING_STRATEGY_2026_03_13.md) | Previous corrective action plan | Bifurcation recommendation |
+| [Red-Team Critique (v12)](./filings/RED_TEAM_CRITIQUE_2026_03_12.md) | Initial vulnerability assessment | Initial identification of procedural defects |
+| [Refined Filing Strategy (v12)](./filings/REFINED_FILING_STRATEGY_2026_03_12.md) | Initial corrective action plan | Initial bifurcation recommendation |
 
-### v13 Red-Team Identified Vulnerabilities
+### v14 Red-Team Identified Vulnerabilities
+
+| Vulnerability | Score | Gap | Required Fix | Status |
+|---------------|-------|-----|--------------|--------|
+| Financial Evidence | 0.6562 | 0.0938 | Forensic accountant affidavit | Pending |
+| Testimonial Evidence | 0.4949 | 0.2551 | Institutional affidavits (FNB, Sage, Stock2Shop) | Pending |
+
+### v14 Closed Vulnerabilities
+
+| Vulnerability | v13 Score | v14 Score | How Closed |
+|---------------|-----------|-----------|------------|
+| Relational Evidence | 0.72 | 0.82 | Coordinated timing proof (JF21 same-day appointment) |
+
+### v13 Red-Team Identified Vulnerabilities (Historical)
 
 | Vulnerability | Risk Level | Required Fix | Status |
 |---------------|------------|--------------|--------|
@@ -221,4 +243,4 @@ Analysis of over 100,000 emails and financial records reveals 30 documented rela
 
 ---
 
-*Last Updated: 2026-03-14 | v13 --- 8 applications, 180+ events, 40+ relations, Ketoni Investment Evidence integrated, Red-Team Critique v13, Refined Filing Strategy v13*
+*Last Updated: 2026-03-14 | v14 --- 9 applications, 170+ events, 40+ relations, AA_ENHANCED_14_03_26_V2_7.docx integrated, Red-Team Critique v13, Refined Filing Strategy v13*
