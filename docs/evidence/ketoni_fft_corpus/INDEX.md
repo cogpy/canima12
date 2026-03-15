@@ -1,7 +1,7 @@
 # Ketoni/FFT Trust Corpus — Evidence Index
 
 **Date Added:** 2026-03-15 (v15)
-**Total Documents:** 9
+**Total Documents:** 13 (9 text extractions + 4 original PDFs)
 **Classification:** Primary Source Documents
 **Reliability:** 1.0 (signed originals)
 
@@ -32,4 +32,19 @@
 
 ---
 
-*Cataloged: 2026-03-15 — Super-Sleuth Evidence Batch*
+## Original PDF Documents (Forensic Originals)
+
+The following are the original signed PDF documents from which the text extractions above were derived. SHA-256 integrity hashes are provided for forensic chain-of-custody purposes.
+
+| # | File | Size | SHA-256 Hash |
+|---|------|------|------|
+| P1 | `Ketoni_Shareholder_Agreement_signed.pdf` | 14.6 MB | `de4dc8b4e355e3763bd93260c7e1ee505186edd56f529f1b43752fc507cdd766` |
+| P2 | `Ketoni_subscription_agreement_signed_2.pdf` | 7.9 MB | `dfd9dde979576b7b820f1031962c48b91c09acab927ea544e8c48728dfd8c964` |
+| P3 | `Ketoni_Investment_Holdings_AFS_2024_-_Signed.pdf` | 388 KB | `432d7392d5184a117b65475081e05947526ea5088ba6e0e2eb9a5d1147503569` |
+| P4 | `Danie_-_missing_pages20250129.pdf` | 812 KB | `fe6cb6a7269e6bc70c04811bd4caa01d3a44977e40251121cdb2f4b7511fa6f2` |
+
+> **Chain of Custody:** These PDFs were received directly from the case principal on 2026-03-15 and archived without modification. The SHA-256 hashes above serve as tamper-evident seals. Any alteration to the files will produce a different hash.
+
+---
+
+*Cataloged: 2026-03-15 — Super-Sleuth Evidence Batch | PDF originals added 2026-03-15*
