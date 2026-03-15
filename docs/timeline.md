@@ -163,6 +163,7 @@ Forensic analysis of fincosys bank statement data cross-referenced with Exchange
 
 | Date | Event | Key Actors | Significance | Evidence |
 |---|---|---|---|---|
+| **2025-01-24** | **Xenophontos Advises Peter on Ketoni** | **Nicos Xenophontos, Peter** | **CRITICAL: Same attorney who commissioned Sage sabotage now advising on R18.75M Ketoni payout** | **[EVENT_018](./events/EVENT_018_XENOPHONTOS_KETONI.md)** |
 | 2025-02-03 | RSA→RST R500,000 Transfer | Rynette (controller) | Largest single "Internet Trf To Transfer" in Feb 2025 pipeline | FIN-FEB25-001 |
 | 2025-02-04 | RSA→RST R400,000 Transfer | Rynette (controller) | Second largest transfer; R2.65M total outflows from RSA in Feb | FIN-FEB25-001 |
 | 2025-02-14 | RSA→RST R450,000 Transfer | Rynette (controller) | Continued pipeline; RST receives R2.96M "From Regima Sa" | FIN-FEB25-002 |
