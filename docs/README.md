@@ -102,3 +102,5 @@ For questions or additional information, please refer to the case documentation 
 *This documentation is maintained as part of Case 2025-137857*
 
 - [Ketoni Conflict Analysis](KETONI_CONFLICT_ANALYSIS.md)
+- [Bantjies TPCA Violations Analysis](BANTJIES_TPCA_VIOLATIONS.md)
+- [TPCA Evidence Reference Table](TPCA_EVIDENCE_REFERENCE.md)
