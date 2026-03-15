@@ -100,3 +100,5 @@ For questions or additional information, please refer to the case documentation 
 ---
 
 *This documentation is maintained as part of Case 2025-137857*
+
+- [Ketoni Conflict Analysis](KETONI_CONFLICT_ANALYSIS.md)

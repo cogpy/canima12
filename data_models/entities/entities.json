@@ -454,7 +454,7 @@
       {
         "entity_id": "PERSON_007",
         "name": "Danie Bantjies",
-        "role": "accountant_and_unknown_trustee",
+        "role": "cfo_george_group_and_trustee_fft",
         "agent_type": "antagonist",
         "involvement_events": 5,
         "primary_actions": [
@@ -490,11 +490,10 @@
         "legal_status": "co_conspirator_and_fiduciary_violator",
         "additional_notes": "Unknown trustee status, dismissed audit request June 10, 2025 (4 days after fraud exposure), controlled accounting system with Rynette using Peter's email, owes R18.685M to trust creating massive conflict of interest, certified Peter's affidavit as Commissioner of Oaths despite material omissions, sent trial balance email Aug 13, 2020; Sent trial balance email Aug 13, 2020 to Bernadine Wright; learned of criminal matters June 10, 2025; ENS Africa suppressed criminal information from Court Aug 29, 2025",
         "conflict_of_interest": {
-          "type": "CFO-Trustee conflict",
-          "description": "As CFO of George Group, Bantjies reports to Kevin Derrick who owns Ketoni which owes R18.75M to FFT where Bantjies is Trustee",
-          "note": "The R18.75M is NOT Bantjies personal debt - it is Ketoni debt to FFT",
-          "professional_loyalty": "To Kevin Derrick (George Group CEO, Ketoni owner)",
-          "fiduciary_duty": "To FFT beneficiaries (Daniel, Jacqui)"
+          "description": "Massive conflict of interest: Serves as CFO of The George Group (which generates Ketoni returns) while simultaneously serving as Trustee of FFT (which owns 100% of Ketoni A-Shares and receives 90% of distributions).",
+          "financial_stake": "R18.75M - R28.73M Ketoni payout to FFT dependent on George Group performance",
+          "loyalty_conflict": "Professional loyalty to George Group CEO (Kevin Derrick) vs fiduciary duty to FFT beneficiaries (Jacqueline & Daniel Faucitt)",
+          "appointment_issue": "Appointed as FFT Trustee by Rynette Farrar in July 2024, creating a controlled network"
         },
         "timeline_events": [
           "EVENT_H018",
@@ -516,7 +515,9 @@
           "JF03 - Trial balance email August 13, 2020",
           "JF04 - Trust documentation showing unknown trustee status",
           "JF07 - Financial records showing R18.685M debt",
-          "JF08 - June 10, 2025 audit dismissal email"
+          "JF08 - June 10, 2025 audit dismissal email",
+          "Ketoni Shareholder Agreement (Signed 24 April 2023)",
+          "Ketoni AFS 2024 (Note 2)"
         ],
         "ad_res_j7_references": [
           "ANNEXURES/SF1_Ketoni_Debt_FFT_Documentation.md",
@@ -551,7 +552,7 @@
           "george_group_connection": "CFO at The George Group where Kevin Derrick (Ketoni Director) is also director",
           "trustee_conflict": "Controls distribution of ZAR 18.75M payout as Trustee while connected to Ketoni Director"
         },
-        "refinement_date": "2026-01-28T05:45:17.386844",
+        "refinement_date": "2026-03-14T20:39:10.482646",
         "burden_of_proof_analysis": {
           "civil_50%": "EXCEEDED - Trustee appointment, debt to trust",
           "criminal_95%": "LIKELY - Conflict of interest, false affidavit",
@@ -1384,7 +1385,7 @@
       },
       {
         "entity_id": "PERSON_32",
-        "name": "Chané Auriele Todd",
+        "name": "Chan\u00e9 Auriele Todd",
         "id_number": "8909280264080",
         "date_of_birth": "1989-09-28",
         "role": "Distributor",
@@ -2896,7 +2897,7 @@
         "registered_address": "37 Sandpiper Street, Ebotse Golf Estate, Benoni, 1514",
         "directors": [
           {
-            "name": "Chané Auriele Todd",
+            "name": "Chan\u00e9 Auriele Todd",
             "status": "ACTIVE"
           },
           {
@@ -3042,9 +3043,9 @@
       },
       {
         "entity_id": "ORG_KETONI_001",
-        "name": "Ketoni Investment Holdings",
-        "type": "investment_company",
-        "role": "financial_nexus",
+        "name": "Ketoni Investment Holdings Proprietary Limited",
+        "type": "investment_holding_company",
+        "role": "pass_through_investment_vehicle",
         "obligation": {
           "amount": "ZAR 18,750,000",
           "recipient": "Faucitt Family Trust",
@@ -3069,10 +3070,13 @@
         ],
         "evidence_strength": "conclusive",
         "criminal_threshold": "95%_exceeded",
-        "evidence": [],
+        "evidence": [
+          "Ketoni Shareholder Agreement (Signed 24 April 2023)",
+          "Ketoni AFS 2024"
+        ],
         "evidence_enhanced_timestamp": "2026-01-18T05:36:58.285233",
         "directors": [],
-        "refinement_date": "2026-01-28T05:45:17.386844",
+        "refinement_date": "2026-03-14T20:39:10.482693",
         "owner_director": {
           "name": "Kevin Michael Derrick",
           "position": "Director and Shareholder",
@@ -3086,6 +3090,31 @@
         "bantjies_connection": {
           "relationship": "Bantjies is CFO of George Group where Kevin Derrick is CEO",
           "conflict": "Bantjies owes professional loyalty to Ketoni owner while being FFT Trustee"
+        },
+        "registration_number": "2023/562189/07",
+        "incorporation_date": "2023-02-20",
+        "shareholding_structure": {
+          "A_Ordinary_Shares": {
+            "holder": "Faucitt Family Trust (FFT)",
+            "shares": 5000,
+            "percentage": "100% of class",
+            "investment_amount": "R9,800,000",
+            "rights": "90% of all distributions (Dividend Sweep) for 5 years 2 months"
+          },
+          "Ordinary_Shares": {
+            "holder": "The Kevin Derrick Trust",
+            "shares": 100,
+            "percentage": "100% of class",
+            "investment_amount": "R1,000",
+            "rights": "10% of distributions, full voting rights"
+          }
+        },
+        "assets": {
+          "The_George_Group": {
+            "ownership_percentage": "8.14%",
+            "shares_held": 456,
+            "valuation": "R9,800,000"
+          }
         }
       },
       {
@@ -3242,20 +3271,19 @@
       },
       {
         "entity_id": "ORG_GEORGE_GROUP",
-        "name": "The George Group",
+        "name": "The George Group Proprietary Limited",
         "type": "holding_company",
-        "role": "corporate_nexus",
+        "role": "revenue_generator_for_ketoni",
         "significance": "Links Bantjies to Ketoni through corporate hierarchy",
         "key_personnel": {
           "ceo": {
             "name": "Kevin Michael Derrick",
             "also_director_of": "Ketoni Investment Holdings",
-            "also_shareholder_of": "Ketoni Investment Holdings"
+            "also_shareholder_of": "Ketoni Investment Holdings (via Trust)"
           },
           "cfo": {
             "name": "Danie Bantjies",
-            "also_trustee_of": "Faucitt Family Trust (unlawfully appointed July 2024)",
-            "also_accountant_for": "RegimA Group companies"
+            "also_trustee_of": "Faucitt Family Trust (unlawfully appointed July 2024)"
           }
         },
         "conflict_of_interest": {
@@ -3264,11 +3292,23 @@
           "loyalty_conflict": "Professional loyalty to Ketoni owner vs fiduciary duty to FFT beneficiaries"
         },
         "evidence": [
-          "Company registration records",
-          "Director appointment records"
+          "Ketoni Shareholder Agreement (Signed 24 April 2023)",
+          "Ketoni AFS 2024"
         ],
         "evidence_strength": "conclusive",
-        "refinement_date": "2026-01-28T06:40:55.405574"
+        "refinement_date": "2026-03-14T20:39:10.482702",
+        "registration_number": "2018/618716/07",
+        "incorporation_date": "2018",
+        "shareholders": [
+          {
+            "name": "Ketoni Investment Holdings",
+            "percentage": "8.14%",
+            "shares": 456
+          }
+        ],
+        "acquisitions": [
+          "Quatro (valuation basis for Ketoni shares)"
+        ]
       },
       {
         "entity_id": "ORG_DE_NOVO",
@@ -3549,7 +3589,16 @@
           "ANNEXURES/JF06 - Court documents and filings"
         ],
         "evidence_enhanced": "2025-12-28T05:36:36.077524",
-        "evidence_strength": "strong"
+        "evidence_strength": "strong",
+        "ketoni_investment": {
+          "vehicle": "Ketoni Investment Holdings",
+          "shares_held": "5,000 A Ordinary Shares",
+          "investment_amount": "R9,800,000",
+          "expected_return": "R28,730,000 (at end year 5)",
+          "distribution_rights": "90% of all distributions",
+          "underlying_asset": "8.14% of The George Group"
+        },
+        "refinement_date": "2026-03-14T20:39:10.482705"
       }
     ],
     "bank_accounts": [
