@@ -5,7 +5,7 @@ title: Master Filing Index
 
 # Master Filing Index
 
-**Last Updated:** 2026-03-14 (v13 + Ketoni)
+**Last Updated:** 2026-03-15 (v15 + Intercompany)
 **Case Number:** 2025-137857
 
 This index provides direct links to the latest versions of all formal legal applications, complaints, and strategic analysis documents prepared for the Revenue Stream Hijacking case. All filings are quantitatively assessed via the **composed LEX-SIM-NN(Neuro-NN(DigiTwin[ALP<=>NLogo]))** v13 differentiable legal simulation pipeline with per-filing meta-cognitive red-team critique, Monte Carlo cross-validation (10 seeds), evidence heatmap, and overconfidence detection.
@@ -39,6 +39,18 @@ This index provides direct links to the latest versions of all formal legal appl
 |-------------|----------------|-----------------|----------------|----------|--------|
 | **4. Commercial Crime Submission** | [v13 (2026-03-14)](./COMMERCIAL_CRIME_SUBMISSION_REFINED_2026-03-14_v13.md) | Criminal (95%) | 84.28% | 91.00% | **NEAR** |
 | **5. NPA Tax Fraud Report** | [v13 (2026-03-14)](./NPA_TAX_FRAUD_REPORT_REFINED_2026-03-14_v13.md) | Criminal (95%) | 85.33% | 91.73% | **NEAR** |
+
+## Group D: Intercompany Transaction & Stock Adjustment Filings (NEW — 2026-03-15)
+
+Four new filings based on Neon DB Exchange mail evidence of intercompany manipulation, stock adjustment fraud, and SARS-flagged invoices. All filings red-team critiqued and refined.
+
+| Filing Type | Latest Version | Burden of Proof | Status |
+|-------------|----------------|-----------------|--------|
+| **SARS Tax Fraud Report** | [Intercompany (2026-03-15)](./SARS_TAX_FRAUD_REPORT_INTERCOMPANY_2026_03_15.md) | Criminal (95%) | **NEW** |
+| **SAICA Misconduct Complaint** | [Bantjies (2026-03-15)](./SAICA_COMPLAINT_BANTJIES_2026_03_15.md) | Professional (50%) | **NEW** |
+| **CIPC Companies Act Complaint** | [Intercompany (2026-03-15)](./CIPC_COMPLAINT_INTERCOMPANY_2026_03_15.md) | Regulatory (50%) | **NEW** |
+| **NPA Commercial Crime** | [Intercompany (2026-03-15)](./NPA_COMMERCIAL_CRIME_INTERCOMPANY_2026_03_15.md) | Criminal (95%) | **NEW** |
+| **Red-Team Critique** | [Intercompany (2026-03-15)](./RED_TEAM_CRITIQUE_INTERCOMPANY_2026_03_15.md) | — | **NEW** |
 
 ## Strategic Analysis (New — 2026-03-13)
 
