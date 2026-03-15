@@ -1,0 +1,41 @@
+{
+  "item_number": 37,
+  "label": "Bernadine_gogga_smiley",
+  "description": "permanently remove this Bernadine gogga \u263a for good!",
+  "wingdings_significance": "Wingdings 'J' = \u263a smiley face - casual/dismissive tone about serious financial misconduct",
+  "message": {
+    "id": "AQMkADMxMzkyY2FlLWNkMGEtNGM2My04OWFiLTNlZDRjNzkyNGUyMwBGAAADSLKv-EI8AESN7LMej4ROLgcAIySisE98NkWmcNijjztGYgAAAgEJAAAAIySisE98NkWmcNijjztGYgAEITMp7QAAAA==",
+    "internet_message_id": "<VI0PR08MB10581C829C2546473198002F1BAA92@VI0PR08MB10581.eurprd08.prod.outlook.com>",
+    "subject": "TB's after stock adjustments - February 2025 - Strategic / Regima Skin / WWD",
+    "from_name": "Rynette Farrar",
+    "from_address": "rynette@regima.zone",
+    "to_recipients": [
+      {
+        "name": "Danie Bantjes",
+        "address": "danie.bantjes@gmail.com"
+      }
+    ],
+    "cc_recipients": null,
+    "received_datetime": "2025-04-04 11:44:00+00:00",
+    "importance": "normal",
+    "has_attachments": true,
+    "conversation_id": "AAQkADMxMzkyY2FlLWNkMGEtNGM2My04OWFiLTNlZDRjNzkyNGUyMwAQALCilYMd2kJGmWwzyMkDH74=",
+    "body_content_type": "html",
+    "body_preview": "Good afternoon Danie\r\n\r\nHerewith the TB\u2019s after I have done all the stock adjustments.\r\n\r\nYou must have a look at Strategic.  I stopped with that system that Bernadine introduce by manufacturing the s"
+  },
+  "source": {
+    "type": "native_mime",
+    "neon_db": "b2bkp-exchange-sync",
+    "user_id": "52a423b7-13e7-4599-8d6f-c833ebce69d7",
+    "extraction_timestamp": "2026-03-15T05:16:02.144948Z"
+  },
+  "integrity": {
+    "sha256": "3e072b3d9a9e405775ff3050d48b9584baf61befa73135ee86ad7b7d9f037d13",
+    "md5": "14cffee8ec0fc2624857b37ee9a55202",
+    "file_size_bytes": 6956
+  },
+  "authentication": {
+    "note": "Internal Exchange message - no external authentication headers"
+  },
+  "internet_headers": null
+}

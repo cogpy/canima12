@@ -1,0 +1,50 @@
+{
+  "annexure_reference": "Annexure G: Rynette \u2014 Intercompany transfers End September 2020 (R1.5M transfer)",
+  "extraction_timestamp": "2026-03-15T04:17:29.468790Z",
+  "pipeline": "Neon DB \u2192 Graph API body/attachment sync \u2192 EML generation \u2192 Transport header fetch",
+  "file_integrity": {
+    "file_size_bytes": 3266,
+    "md5": "d38e500f568fc558696a98aa2d204e90",
+    "sha256": "47c6a3283d61700e9094f50ba30e3ef6bb2e8745a1c34dd05ff6b6c026f0c8cf"
+  },
+  "message_identity": {
+    "db_id": "AAMkADMxMzkyY2FlLWNkMGEtNGM2My04OWFiLTNlZDRjNzkyNGUyMwBGAAAAAABIsq-8QjwARI3ssx6PhE4uBwAjJKKwT3w2RaZw2KOPO0ZiAAAAADlGAAAjJKKwT3w2RaZw2KOPO0ZiAAA-JWrEAAA=",
+    "internet_message_id": "<DBAPR08MB5749C5D8542B96EA7BF65BD5BA350@DBAPR08MB5749.eurprd08.prod.outlook.com>",
+    "conversation_id": "AAQkADMxMzkyY2FlLWNkMGEtNGM2My04OWFiLTNlZDRjNzkyNGUyMwAQAGGebEPw6keCh4Y3--mQrZ4="
+  },
+  "envelope": {
+    "subject": "Intercompany transfers - End September 2020",
+    "from_name": "Rynette Farrar",
+    "from_address": "rynette@regima.zone",
+    "to_recipients": "",
+    "cc_recipients": "[{'name': 'JAX@REGIMA.COM', 'address': 'JAX@REGIMA.COM'}, {'name': 'PETE@REGIMA.COM', 'address': 'PETE@REGIMA.COM'}, {'name': 'Jacqui Faucitt', 'address': 'jax@regima.zone'}]",
+    "received_datetime": "2020-09-28 12:05:32+00:00",
+    "sent_datetime": "2020-09-28 12:05:32+00:00"
+  },
+  "mailbox_context": {
+    "user_id": "52a423b7-13e7-4599-8d6f-c833ebce69d7",
+    "folder_name": null
+  },
+  "body": {
+    "content_type": "html",
+    "body_length_chars": 1848,
+    "preview": "See what you can move around.\r\n\r\nThere is quite bit of the loans accounts that I can clear with one another, but I will run this past Danie first.  Then there will be less need to move money around to clear accounts."
+  },
+  "attachments": [],
+  "transport_forensics": {
+    "available": false,
+    "authentication": {},
+    "transport_hops": [],
+    "exchange_transport": {},
+    "origin": {},
+    "raw_header_count": 0,
+    "transport_hops_count": 0
+  },
+  "chain_of_custody": {
+    "source": "Microsoft 365 Exchange Online (tenant 89727f2e-27c2-4f69-893c-f30d821bc83d)",
+    "extraction_method": "Microsoft Graph API v1.0 (client credentials flow)",
+    "storage": "Neon PostgreSQL (exchange_sync schema)",
+    "verification": "SPF/DKIM/DMARC authentication via internet message headers",
+    "integrity": "SHA-256 hash of generated EML file"
+  }
+}
