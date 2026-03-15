@@ -1,0 +1,79 @@
+[
+  {
+    "id": "evt_2020_09_28_intercompany_transfer",
+    "date": "2020-09-28",
+    "title": "R1.5M Intercompany Transfer to Strategic",
+    "description": "Pete Faucitt (operated by Rynette) transferred R1.5 million from Regima Worldwide savings to Strategic Logistics. Rynette discussed 'clearing loan accounts with one another' to obscure the flows.",
+    "entities_involved": [
+      "rynette_farrar",
+      "pete_faucitt",
+      "regima_worldwide",
+      "strategic_logistics"
+    ],
+    "evidence": [
+      "Exchange email 2020-09-28: 'Intercompany transfers - End September 2020'"
+    ],
+    "type": "Financial Manipulation"
+  },
+  {
+    "id": "evt_2021_08_17_backdated_journals",
+    "date": "2021-08-17",
+    "title": "Rynette Directs Backdated Journal Entries",
+    "description": "Rynette Farrar instructed external accountant Danie Bantjes to make specific, backdated journal entries (dated 01/08/20) to 'fix' intercompany loan accounts, reversing proper financial controls.",
+    "entities_involved": [
+      "rynette_farrar",
+      "danie_bantjes",
+      "strategic_logistics",
+      "regima_skin_treatments",
+      "villa_via"
+    ],
+    "evidence": [
+      "Exchange email 2021-08-17: 'Intercompany loan accounts'"
+    ],
+    "type": "Financial Manipulation"
+  },
+  {
+    "id": "evt_2025_04_04_stock_discrepancy",
+    "date": "2025-04-04",
+    "title": "Discovery of R4.2M Stock Discrepancy",
+    "description": "Rynette revealed to Bantjes a massive stock discrepancy: R1.4M in phantom finished goods on the TB, and a R2.7M credit balance (negative stock). They planned to 'permanently remove' this 'Bernadine gogga' rather than properly restate financials.",
+    "entities_involved": [
+      "rynette_farrar",
+      "danie_bantjes",
+      "strategic_logistics"
+    ],
+    "evidence": [
+      "Exchange email 2025-04-04: 'TB's after stock adjustments'"
+    ],
+    "type": "Financial Manipulation"
+  },
+  {
+    "id": "evt_2025_04_07_bantjes_admission",
+    "date": "2025-04-07",
+    "title": "Bantjes Admits to Years of Financial Gaps",
+    "description": "External accountant Danie Bantjes admitted in writing: 'I suspect there are huge gaps by now, building up over many years' regarding the stock valuation, confirming he signed off on materially misstated financials.",
+    "entities_involved": [
+      "danie_bantjes",
+      "rynette_farrar"
+    ],
+    "evidence": [
+      "Exchange email 2025-04-07: 'Re: TB's after stock adjustments'"
+    ],
+    "type": "Admission of Misconduct"
+  },
+  {
+    "id": "evt_2025_06_05_sars_query",
+    "date": "2025-06-05",
+    "title": "SARS Queries Big Intercompany Invoices",
+    "description": "SARS flagged 'two big inter company invoices' pushed through at the end of February 2025. Rynette admitted to Bantjes that these were done on his request and she had 'no answer' for them.",
+    "entities_involved": [
+      "rynette_farrar",
+      "danie_bantjes",
+      "sars"
+    ],
+    "evidence": [
+      "Exchange email 2025-06-05: 'SARS query re the two big inter company invoices'"
+    ],
+    "type": "Regulatory Action"
+  }
+]

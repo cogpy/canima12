@@ -1,0 +1,30 @@
+[
+  {
+    "id": "danie_bantjes",
+    "name": "Danie Bantjes",
+    "type": "Person",
+    "roles": [
+      "External Accountant",
+      "Trustee (Fraudulent)"
+    ],
+    "evidence": [
+      "Exchange email 2021-08-17: Accepted instructions from bookkeeper to backdate journal entries",
+      "Exchange email 2025-04-07: Admitted to 'huge gaps building up over many years' in stock valuation",
+      "Exchange email 2025-06-05: Pushed through 'two big intercompany invoices' at year-end that triggered SARS query",
+      "Exchange email 2025-06-08: Drafted SARS response for transactions he initiated"
+    ]
+  },
+  {
+    "id": "rynette_farrar",
+    "name": "Rynette Farrar",
+    "type": "Person",
+    "roles": [
+      "Bookkeeper"
+    ],
+    "evidence": [
+      "Exchange email 2021-08-17: Directed external accountant to make backdated journal entries",
+      "Exchange email 2025-04-04: Revealed R4.2M stock discrepancy ('Bernadine gogga') and planned to 'permanently remove' it",
+      "Exchange email 2025-06-06: Admitted having 'no answer' for the two big intercompany invoices queried by SARS"
+    ]
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "source": "rynette_farrar",
+    "target": "danie_bantjes",
+    "type": "Directed Financial Manipulation",
+    "description": "Rynette instructed Bantjes on journal entries and stock adjustments, reversing normal controls"
+  },
+  {
+    "source": "danie_bantjes",
+    "target": "strategic_logistics",
+    "type": "Signed Misstated Financials",
+    "description": "Signed off on financials despite knowing of 'huge gaps building up over many years'"
+  }
+]
