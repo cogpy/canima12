@@ -1,0 +1,41 @@
+{
+  "timestamp": "2026-03-14T20:58:32.286741",
+  "scenario": "Revenue Stream Hijacking, Trust Fraud, and Corporate Sabotage \u2014 Case 2025-137857",
+  "domain": {
+    "primary": "civ",
+    "all": [
+      "civ",
+      "con",
+      "cri",
+      "adm"
+    ]
+  },
+  "corpus": {
+    "total_principles": 10,
+    "relevant": 0
+  },
+  "evidence": {
+    "items": 14,
+    "orders": {
+      "2": 3,
+      "3": 4,
+      "4": 2,
+      "5": 2,
+      "7": 1,
+      "35": 2
+    }
+  },
+  "defenses": {
+    "total": 25,
+    "blocked": 25,
+    "unblocked": 0
+  },
+  "interlocks": 1,
+  "compliance": {
+    "evaluated": 0,
+    "compliant": 0,
+    "violated": 0
+  },
+  "severity": "none",
+  "fixed_point": true
+}
