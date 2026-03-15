@@ -12,6 +12,8 @@
 
 This super-refined submission details a complex, multi-year criminal enterprise that constitutes a pattern of racketeering activity under the Prevention of Organised Crime Act (POCA). The syndicate is responsible for over **R10.2M in direct fraud and theft**, with a total quantum exceeding **R63M**. It integrates all evidence, proving a criminal conspiracy led by Peter Andrew Faucitt, Rynette Farrar, Daniel Jacobus Bantjies, and Kevin Michael Derrick.
 
+**LEX Encode v2.0 Integration**: This submission is anchored by the **Order-35 `interlock-trust-forgery-revenue-capture`**, which binds the temporal dimension (trust forgery timeline) to the structural dimension (corporate structure conflict) via the R18.685M Ketoni payout. This interlock proves the forgery was not opportunistic but was the premeditated mechanism to capture the payout.
+
 The central motive was the unlawful seizure of a **ZAR 18.685M payout** from **Ketoni Investment Holdings** due to the **Faucitt Family Trust**. This structure introduces charges of **insider trading** and **self-dealing** against Trustee Danie Bantjies, who leveraged his insider access to both ends of the transaction.
 
 Conclusive evidence, including **direct admissions of fraud awareness (SF10)**, **proof of identity fraud (SF10)**, **fabricated financial records**, and the **Perjury Defence Matrix (SF15)**—which proves a direct attempt at **obstruction of justice**—meets the 95% criminal burden of proof. The submission establishes *prima facie* cases for Racketeering (POCA), Fraud, Theft, Forgery, Money Laundering (POCA), Insider Trading, Obstruction of Justice, and violations of the Trust Property Control Act, ECTA, and FICA, warranting immediate investigation by the SAPS Commercial Crime Unit and the NPA.

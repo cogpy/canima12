@@ -13,6 +13,8 @@
 
 This complaint details gross professional misconduct by registered accountants **Daniel Jacobus Bantjies (SAICA)** and **Marisca Meyer (SAIPA)** of **De Novo Business Services**. Both individuals have acted as key enablers in a criminal enterprise, abusing their professional status to facilitate fraud, tax evasion, perjury, and breaches of trust with a total quantum exceeding R63M.
 
+**LEX Encode v2.0 Integration**: This complaint relies entirely on the **Order-5 `foreknowledge-chain-bantjies`**, which proves Bantjies swore a confirmatory affidavit 68 days after receiving detailed fraud reports. This foreknowledge chain is the definitive proof of perjury and the kill shot for his SAICA registration.
+
 Their actions violate the fundamental principles of the accounting profession—integrity, objectivity, professional competence, due care, and professional behavior. The evidence, which meets the criminal burden of proof, shows that they knowingly participated in a scheme to defraud beneficiaries, mislead SARS, and obstruct justice. We request an immediate investigation and the institution of disciplinary proceedings to revoke their professional designations and hold them accountable.
 
 ---

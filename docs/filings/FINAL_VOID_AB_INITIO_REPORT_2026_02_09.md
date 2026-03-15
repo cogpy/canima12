@@ -10,6 +10,8 @@
 
 This report concludes that the ex parte interdict (which failed to comply with Uniform Rule 6(4)(a) and 6(12)(b) regarding urgency and material disclosure) granted in case **2025-137857** on 19 August 2025 is **void ab initio (in terms of Uniform Rule 42(1)(a) for being erroneously sought and granted in the absence of the affected party)** (void from the beginning). The order was obtained through a calculated scheme involving **perjury with provable foreknowledge**, **material non-disclosure**, and **fraud on the court** by the applicant, Peter Andrew Faucitt, and his co-conspirators.
 
+**LEX Encode v2.0 Integration**: This analysis is formalized by the **Rule 6(4)(a) Procedural Compliance Evaluation**, which proves 7 distinct material facts were concealed from the court. Under the *Fakie NO v CCII Systems* doctrine, this fraud on the court renders the order void ab initio, and any subsequent contempt application based upon it is an abuse of process.
+
 The analysis, based on the `provable-foreknowledge` framework, classifies the key agents involved according to their level of complicity:
 
 | Agent | Role | Tier | Classification |

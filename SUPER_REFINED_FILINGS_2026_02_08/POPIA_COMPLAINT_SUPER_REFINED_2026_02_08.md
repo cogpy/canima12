@@ -12,6 +12,8 @@
 
 This super-refined complaint details systematic and willful violations of the Protection of Personal Information Act, 2013 (POPIA), by Peter Andrew Faucitt (Responsible Party) and Rynette Farrar (Operator). It integrates all evidence, proving a criminal conspiracy to unlawfully process, sell, and obstruct access to personal information to facilitate an R8.5M+ revenue hijacking scheme, motivated by the ZAR 18.685M Ketoni payout.
 
+**LEX Encode v2.0 Integration**: This complaint is strengthened by the **Order-5 `foreknowledge-chain-rynette`** (6-step chain proving Rynette's systematic identity fraud across SARS, Sage, and banking systems) and the **Order-2 `perjury-bantjies-affidavit`** (proving the supporting affidavit was perjured with provable foreknowledge of the fraud reports).
+
 Conclusive evidence, including **Sage dual-account screenshots (SF10)** proving identity fraud, the **Sage subscription lockout (SF11)** proving obstruction, and the **Perjury Defence Matrix (SF15)** proving consciousness of guilt, meets the criminal burden of proof for offenses under Sections 107(1), 107(2), and 107(3) of POPIA. The actions demonstrate a deliberate abuse of personal information, identity fraud, obstruction of data subject rights, and the unlawful sale of a customer database, warranting immediate criminal prosecution and referral to the Financial Intelligence Centre (FIC).
 
 ---
