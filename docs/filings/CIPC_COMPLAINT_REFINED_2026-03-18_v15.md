@@ -38,6 +38,10 @@ Section 29 requires that financial statements must fairly present the state of a
 ### 3.3 Section 214: False Statements and Reckless Conduct
 The deliberate manipulation of intercompany invoices at financial year-end (February 2025), which were subsequently flagged by SARS, constitutes the making of false statements. Rynette Farrar admitted she had "no answer" for these invoices, which were initiated by Bantjies. [4]
 
+### 3.4 Fiduciary Breach and Conspiracy to Conceal (Section 76)
+Section 76 requires directors and prescribed officers to act in good faith and for a proper purpose. The external accountant, acting in concert with the bookkeeper, deliberately concealed material financial information from the directors.
+- **Evidence:** On 26 May 2025, Bantjies sent an email to the directors positioning himself as a neutral arbiter. Exactly 46 seconds later, he forwarded this exact email to Rynette Farrar with the explicit instruction: *"Ek dink nie jy moet sê ek het hierdie met jou gedeel nie asb."* ("I don't think you should say I shared this with you please.") This establishes premeditated collusion to deceive the directors and conceal the true financial state of the companies. [5]
+
 ## 4. Evidence Index
 
 | Reference | Description | Relevance to Companies Act |
@@ -46,6 +50,7 @@ The deliberate manipulation of intercompany invoices at financial year-end (Febr
 | **[2]** | Email: Rynette to Bantjes (4 Apr 2025) | Proves knowledge of the R4.2M stock discrepancy and cover-up plan (s.29 violation). |
 | **[3]** | Email: Bantjes to Rynette (7 Apr 2025) | Proves admission of "huge gaps" building up over years (s.29 violation). |
 | **[4]** | Email: Rynette to Bantjes (6 Jun 2025) | Proves creation of inexplicable year-end invoices (s.214 violation). |
+| **[5]** | Email: Bantjies to Rynette (26 May 2025) | Proves premeditated collusion and instruction to conceal information from directors (s.76 violation). |
 
 ## 5. Relief Sought
 
@@ -56,4 +61,4 @@ The Complainant requests that the CIPC:
 4. **Delinquency Proceedings:** Support an application to declare Peter Faucitt a delinquent director under Section 162 for failing to prevent this systematic financial manipulation.
 
 ---
-*Drafted based on LEX-SIM-NN v15 Analysis. Evidence sourced from Neon DB Exchange mailbox records.*
+*Drafted based on LEX-SIM-NN v15.1 Analysis. Evidence sourced from Neon DB Exchange mailbox records.*

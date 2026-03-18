@@ -25,6 +25,7 @@ Documentary evidence (emails from the suspects' own accounts, verifiable via Mic
 The suspects engaged in a systematic pattern of misrepresenting the financial position of the entities to stakeholders, regulatory bodies (CIPC), and the tax authority (SARS).
 - **Stock Adjustment Fraud:** On 4 April 2025, Rynette Farrar revealed a R4.2 million discrepancy in the stock valuation of Strategic Logistics (R1.4M phantom stock and R2.7M impossible negative stock). Rather than restating the financials, she proposed to *"permanently remove this Bernadine gogga for good!"* Bantjies agreed, admitting: *"I suspect there are huge gaps by now, building up over many years."* [1][2]
 - **Fraudulent Invoices:** In February 2025, Bantjies initiated "two big inter company invoices" that were so anomalous they were flagged by SARS. Rynette admitted she had "no answer" for these invoices. [3]
+- **Conspiracy to Conceal:** On 26 May 2025, Bantjies sent an email to the directors positioning himself as a neutral arbiter. Exactly 46 seconds later, he forwarded this exact email to Rynette Farrar with the explicit instruction: *"Ek dink nie jy moet sê ek het hierdie met jou gedeel nie asb."* ("I don't think you should say I shared this with you please.") This establishes premeditated collusion and obstruction. [5]
 
 ### 3.2 Forgery and Uttering (Common Law)
 The suspects systematically falsified accounting records to create a deceptive financial narrative.
@@ -49,6 +50,7 @@ These three predicate offences over a 4-year period establish the required patte
 | **[2]** | Email: Bantjes to Rynette (7 Apr 2025) | Proves admission of "huge gaps" building up over years (Fraud). |
 | **[3]** | Email: Rynette to Bantjes (6 Jun 2025) | Proves Bantjes initiated fraudulent year-end invoices flagged by SARS (Fraud). |
 | **[4]** | Email: Rynette to Bantjes (17 Aug 2021) | Proves backdating of journal entries and falsification of records (Forgery). |
+| **[5]** | Email: Bantjies to Rynette (26 May 2025) | Proves premeditated collusion and instruction to conceal information from directors (Conspiracy/Obstruction). |
 
 ## 5. Request for Investigation
 
@@ -58,4 +60,4 @@ We request that the Hawks/NPA:
 3. **Prosecute the Enterprise:** Pursue charges of fraud, forgery, and racketeering against the suspects based on their own written admissions of financial manipulation.
 
 ---
-*Drafted based on LEX-SIM-NN v15 Analysis. Evidence sourced from Neon DB Exchange mailbox records.*
+*Drafted based on LEX-SIM-NN v15.1 Analysis. Evidence sourced from Neon DB Exchange mailbox records.*

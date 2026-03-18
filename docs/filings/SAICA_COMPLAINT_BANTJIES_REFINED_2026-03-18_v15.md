@@ -23,6 +23,7 @@ This complaint details severe and sustained professional misconduct by Daniel Ja
 A chartered accountant must be straightforward and honest in all professional and business relationships. Bantjies violated this principle by knowingly associating himself with materially false or misleading information.
 - **Evidence:** On 7 April 2025, Bantjies admitted in writing regarding a R4.2 million stock discrepancy: *"I suspect there are huge gaps by now, building up over many years."* [1] Despite this knowledge, he continued to sign off on the financial statements for the affected entities and failed to report these material misstatements to CIPC or SARS.
 - **Evidence:** On 4 April 2025, the bookkeeper proposed to *"permanently remove this Bernadine gogga for good!"* rather than properly restating the financials. [2] Bantjies' response must be read in context: he did not propose a formal restatement or disclosure, but rather agreed to "get the real and actual stock values to agree to Pastel" in the context of the bookkeeper's stated intent to "permanently remove" the discrepancy. His failure to insist on proper disclosure and restatement constitutes a breach of integrity.
+- **Evidence (Conspiracy to Conceal):** On 26 May 2025, Bantjies sent an email to the directors positioning himself as a neutral arbiter regarding a financial dispute. Exactly 46 seconds later, he forwarded this exact email to the bookkeeper (an unauthorized third party) with the explicit instruction: *"Ek dink nie jy moet sê ek het hierdie met jou gedeel nie asb."* ("I don't think you should say I shared this with you please.") This proves premeditated collusion and a deliberate intent to deceive the directors. [7]
 
 ### 2.2 Breach of Professional Competence and Due Care (Section 113)
 A chartered accountant must maintain professional knowledge and skill at the level required to ensure that clients receive competent professional service.
@@ -53,4 +54,13 @@ The documentary evidence—consisting of Bantjies' own emails—demonstrates a p
 3. Strike him from the roll of Chartered Accountants upon confirmation of these facts.
 
 ---
-*Drafted based on LEX-SIM-NN v15 Analysis. Evidence sourced from Neon DB Exchange mailbox records.*
+*Drafted based on LEX-SIM-NN v15.1 Analysis. Evidence sourced from Neon DB Exchange mailbox records.*
+
+## References
+[1] Email from Danie Bantjies to Rynette Farrar, 7 April 2025.
+[2] Email from Rynette Farrar to Danie Bantjies, 4 April 2025.
+[3] Email from Rynette Farrar to Danie Bantjies, 17 August 2021.
+[4] Email from Rynette Farrar to Danie Bantjies, February 2025.
+[5] Email from Danie Bantjies to Rynette Farrar, "SARS Response," 2025.
+[6] Master of the High Court, Letters of Authority, Faucitt Family Trust (IT 1014/2000), 1 July 2024.
+[7] Email from Danie Bantjies to Rynette Farrar, "Fwd: Regima Group of Companies," 26 May 2025, 13:07:29.

@@ -26,6 +26,7 @@ On 5 June 2025, SARS independently queried "two big inter company invoices" push
 - **Rynette Farrar's Admission:** On 6 June 2025, the bookkeeper explicitly stated to Bantjies: *"The two big invoices were done on your request, for which I have no answer."* [1] The fact that the bookkeeper who processed the invoices could not explain their nature proves they were not legitimate business transactions.
 - **Concealment of SARS Query:** The SARS query letter was not delivered to the company's official email or eFiling portal, but was instead forwarded via WhatsApp by "Anton" to Peter Faucitt's phone, indicating deliberate concealment. [2]
 - **Conflict of Interest:** Bantjies, the accountant who initiated the transactions, then drafted the response to SARS to explain them, constituting a severe conflict of interest and an attempt to deceive the tax authority. The content of Bantjies' response is highly relevant to determining whether he made false statements to SARS (s.234), and we request SARS to review his response against the actual transaction records. [3]
+- **Conspiracy to Deceive:** On 26 May 2025, Bantjies sent an email to the directors positioning himself as a neutral arbiter. Exactly 46 seconds later, he forwarded this exact email to Rynette Farrar with the explicit instruction: *"Ek dink nie jy moet sê ek het hierdie met jou gedeel nie asb."* ("I don't think you should say I shared this with you please.") This establishes premeditated collusion between the tax practitioner and the bookkeeper to conceal information from the directors, facilitating the tax evasion scheme. [7]
 
 ### 3.2 Section 234: False Statements and Records
 The suspects systematically falsified accounting records to manipulate the financial position of the entities:
@@ -43,6 +44,7 @@ The suspects systematically falsified accounting records to manipulate the finan
 | **[4]** | Email: Rynette to Bantjes (4 Apr 2025) | Proves knowledge of the R4.2M stock discrepancy. |
 | **[5]** | Email: Bantjes to Rynette (7 Apr 2025) | Proves admission of "huge gaps" building up over years. |
 | **[6]** | Email: Rynette to Bantjes (17 Aug 2021) | Proves backdating of journal entries and inversion of financial controls. |
+| **[7]** | Email: Bantjies to Rynette (26 May 2025) | Proves premeditated collusion and instruction to conceal information from directors. |
 
 ## 5. Request for Investigation
 
@@ -52,4 +54,4 @@ We request that SARS Criminal Investigations:
 3. **Review Bantjies' Status:** Suspend Daniel Jacobus Bantjies' status as a registered tax practitioner pending the outcome of this investigation, given his direct involvement in initiating fraudulent transactions and drafting deceptive responses to SARS.
 
 ---
-*Drafted based on LEX-SIM-NN v15 Analysis. Evidence sourced from Neon DB Exchange mailbox records.*
+*Drafted based on LEX-SIM-NN v15.1 Analysis. Evidence sourced from Neon DB Exchange mailbox records.*

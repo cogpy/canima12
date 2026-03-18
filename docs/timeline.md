@@ -2,7 +2,7 @@
 
 **Case:** 2025-137857 - Revenue Stream Hijacking  
 **Last Updated:** 2026-03-18  
-**Total Events:** 166+
+**Total Events:** 167+
 
 This timeline documents all significant events in the revenue stream hijacking case, organized chronologically with T-Months relative to the May 2026 Ketoni payout.
 
@@ -76,6 +76,7 @@ This timeline documents all significant events in the revenue stream hijacking c
 | 2024-07-18 | Stock2Shop Customer Sync Issues | Rynette, Kyle (S2S) | T-22 | Lingering data sync problems from credential change | Stock2Shop ticket |
 | 2024-07-19 | Stock2Shop Sync Ticket Closed | Stock2Shop | T-22 | Partial resolution of sync issues | Stock2Shop ticket |
 | 2024-07-31 | Stock2Shop Failed Order in Queue | Stock2Shop, Rynette | T-21 | Continued instability from the July takeover | Stock2Shop ticket |
+| **2025-05-26** | **Bantjies Secretly Forwards Family Email to Rynette** | Bantjies, Rynette Farrar | **T-12** | **CRITICAL: 46 seconds after sending "neutral" email to family, forwards to Rynette with concealment instruction in Afrikaans** | **[EVENT_137](./events/EVENT_137_BANTJIES_SECRET_FORWARD.md)** |
 | **2025-06-06** | **Dan Exposes Villa Via Fraud to Bantjies** | Daniel Faucitt, Daniel Bantjies | **T-11** | **CRITICAL: Fraud exposure triggers immediate retaliation** | Email to Bantjies 2025-06-06 |
 | **2025-06-07** | **Cards Cancelled <24 Hours After Exposure** | Peter Faucitt, Rynette Farrar, Bantjies | **T-11** | **CRITICAL: Immediate retaliation proves coordination** | Card cancellation records |
 | 2025-06-10 | Bantjies Dismisses Audit Request | Daniel Bantjies, Daniel Faucitt | T-11 | Fraud concealment - dismisses detailed audit | Email 2025-06-10 |
