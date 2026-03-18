@@ -1,65 +1,364 @@
-;; ── Entity-Relation Encoding ─────────────────────────────────────
-;; Generated: 2026-03-14T20:58:30.134571
-;; Entities: 37
-;; Relations: 19
+;; ── Entity-Relation Encoding v16 ────────────────────────────────────
+;; Generated: 2026-03-18T06:21:08
+;; Case: 2025-137857 — Revenue Stream Hijacking, Trust Fraud, Corporate Sabotage
+;; Pipeline: skillm ( lex-sim-nn [ lex-rex | lexrex ] -> lex-encode-workflow )
+;; Entities: 29 | Relations: 14
 ;; ────────────────────────────────────────────────────────────────
 
-;; ── Entities ──────────────────────────────────────────────────────
-(define entity-peter-andrew-faucitt (make-person-entity (name "Peter Andrew Faucitt") (role primary_perpetrator) (id "PERSON_001") (id_number "820430 5708 18 5") (agent_type "antagonist")))
-(define entity-rynette-farrar (make-person-entity (name "Rynette Farrar") (role co_conspirator_operator) (id "PERSON_002") (agent_type "antagonist") (role_detail "bookkeeper who operates Peter's email and controls all financial systems")))
-(define entity-jacqueline-faucitt (make-person-entity (name "Jacqueline Faucitt") (role victim_respondent) (id "PERSON_003") (agent_type "victim")))
-(define entity-daniel-james-faucitt (make-person-entity (name "Daniel James Faucitt") (role victim_respondent) (id "PERSON_004") (agent_type "victim") (role_detail "co-director with sole FNB mandate, built all digital infrastructure")))
-(define entity-daniel-faucitt-sr (make-person-entity (name "Daniel Faucitt Sr") (role victim_trustee) (id "PERSON_005") (agent_type "victim")))
-(define entity-danie-bantjies (make-person-entity (name "Danie Bantjies") (role co_conspirator_accountant) (id "PERSON_006") (saica_number "00105928") (agent_type "antagonist") (role_detail "external accountant, CFO George Group, fraudulently installed trustee")))
-(define entity-kevin-derrick (make-person-entity (name "Kevin Derrick") (role connected_party) (id "PERSON_007") (role_detail "CEO George Group, director Ketoni Investment Holdings")))
-(define entity-kayla-pretorius (make-person-entity (name "Kayla Pretorius") (role deceased_key_person) (id "PERSON_008") (role_detail "original Sage account owner, co-director ReZonance, murdered 13 July 2023")))
-(define entity-kent-rault (make-person-entity (name "Kent Rault") (role employee_participant) (id "PERSON_009") (role_detail "sent bank detail change emails to clients")))
-(define entity-linda-farrar (make-person-entity (name "Linda Farrar") (role employee_participant) (id "PERSON_010") (role_detail "Rynette's sister, sent 39+ bank detail change emails")))
-(define entity-gayane-williams (make-person-entity (name "Gayane Williams") (role employee_participant) (id "PERSON_011") (role_detail "announced email domain change from regima.zone to regimaskin.co.za")))
-(define entity-anton-hechter (make-person-entity (name "Anton Hechter") (role tax_practitioner) (id "PERSON_012") (role_detail "SARS tax practitioner for all RegimA companies")))
-(define entity-clare-payne (make-person-entity (name "Clare Payne") (role cipc_agent) (id "PERSON_013") (role_detail "Corporate and Merchant Administrators — CIPC agent")))
-(define entity-marc-yudaken (make-person-entity (name "Marc Yudaken") (role attorney) (id "PERSON_042") (role_detail "Baker McKenzie — drafted Ketoni SHA/MOI")))
-(define entity-ian-levitt (make-person-entity (name "Ian Levitt") (role attorney) (id "PERSON_014") (role_detail "sent R63M demand letter (SF9) — ignored")))
-(define entity-elliott-attorneys (make-person-entity (name "Elliott Attorneys") (role legal_representative) (id "PERSON_015") (role_detail "Peter's attorneys for interdict application")))
-(define entity-regima-worldwide-distribution-(pty)-ltd (make-organization-entity (name "RegimA Worldwide Distribution (Pty) Ltd") (role primary_company) (id "ORG_001") (cipc_reg "2001/025850/07")))
-(define entity-regima-skin-treatments (make-organization-entity (name "RegimA Skin Treatments") (role trading_entity) (id "ORG_002")))
-(define entity-rwd-(uk)-ltd (make-organization-entity (name "RWD (UK) Ltd") (role uk_entity) (id "ORG_003")))
-(define entity-strategic-logistics-cc (make-organization-entity (name "Strategic Logistics CC") (role logistics_entity) (id "ORG_004")))
-(define entity-rezonance (make-organization-entity (name "ReZonance") (role digital_entity) (id "ORG_005") (role_detail "co-directed by Daniel and Kayla")))
-(define entity-adderory-(pty)-ltd (make-organization-entity (name "Adderory (Pty) Ltd") (role farrar_family_company) (id "ORG_006") (role_detail "Rynette's son's company, registered regimaskin.co.za")))
-(define entity-luxury-products-online (make-organization-entity (name "Luxury Products Online") (role farrar_family_company) (id "ORG_007") (role_detail "distribution channel owned by Rynette's son")))
-(define entity-luxuré (make-organization-entity (name "Luxuré") (role competitor_entity) (id "ORG_008") (role_detail "direct competitor to RegimA, owned by Rynette's son")))
-(define entity-george-group (make-organization-entity (name "George Group") (role connected_corporate) (id "ORG_009") (role_detail "Bantjies is CFO, Kevin Derrick is CEO")))
-(define entity-ketoni-investment-holdings (make-organization-entity (name "Ketoni Investment Holdings") (role debtor_entity) (id "ORG_010") (role_detail "owes R18.685M to FFT, due May 2026")))
-(define entity-de-novo-business-services (make-organization-entity (name "De Novo Business Services") (role fabrication_service) (id "ORG_011") (role_detail "fabricated 2019 accounts removing Kayla")))
-(define entity-baker-mckenzie (make-organization-entity (name "Baker McKenzie") (role law_firm) (id "ORG_025") (role_detail "drafted Ketoni SHA/MOI")))
-(define entity-forvis-mazars (make-organization-entity (name "Forvis Mazars") (role mediator) (id "ORG_012") (role_detail "facilitated settlement mediation September 2025")))
-(define entity-ens-africa (make-organization-entity (name "ENS Africa") (role former_attorneys) (id "ORG_013") (role_detail "Daniel and Jacqueline's attorneys who appeared to act against their interests")))
-(define entity-faucitt-family-trust (make-trust-entity (name "Faucitt Family Trust") (role trust_vehicle) (id "TRUST_001") (role_detail "holds 33% of RWD, creditor of Ketoni R18.685M")))
-(define entity-regimasa-(pty)-ltd (make-organization-entity (name "RegimaSA (Pty) Ltd") (role shell_company) (id "ORG_014") (cipc_reg "2017/087935/07")))
-(define entity-shopify-plus (make-platform-entity (name "Shopify Plus") (role ecommerce_platform) (id "PLATFORM_001")))
-(define entity-sage-business-cloud (make-platform-entity (name "Sage Business Cloud") (role accounting_platform) (id "PLATFORM_002")))
-(define entity-stock2shop (make-platform-entity (name "Stock2Shop") (role integration_platform) (id "PLATFORM_003")))
-(define entity-fnb-business-account-62707308252 (make-account-entity (name "FNB Business Account 62707308252") (role primary_bank_account) (id "ACCOUNT_001") (bank "FNB") (mandate "Daniel sole general powers")))
-(define entity-absa-business-account (make-account-entity (name "ABSA Business Account") (role diversion_account) (id "ACCOUNT_002") (bank "ABSA") (mandate "Peter/Rynette controlled")))
+;; ── Persons ─────────────────────────────────────────────────────
+(define entity-peter-andrew-faucitt
+  (make-person-entity
+    (name "Peter Andrew Faucitt")
+    (role "primary_perpetrator")
+    (id "PERSON_001")
+    (criminal-threshold "95%_exceeded")
+    (financial-impact "R10,269,727.90")
+    
+    
+  ))
+(define entity-rynette-farrar
+  (make-person-entity
+    (name "Rynette Farrar")
+    (role "co_conspirator")
+    (id "PERSON_002")
+    (criminal-threshold "95%_likely")
+    (financial-impact "R4,276,832.85")
+    
+    
+  ))
+(define entity-daniel-jacobus-bantjies
+  (make-person-entity
+    (name "Daniel Jacobus Bantjies")
+    (role "co_conspirator_accountant")
+    (id "PERSON_007")
+    (criminal-threshold "95%_likely")
+    
+    (dual-role "CFO_George_Group_AND_FFT_Trustee")
+    (saica "00105928")
+  ))
+(define entity-jacqueline-faucitt
+  (make-person-entity
+    (name "Jacqueline Faucitt")
+    (role "first_respondent_victim")
+    (id "PERSON_003")
+    
+    
+    
+    
+  ))
+(define entity-daniel-james-faucitt
+  (make-person-entity
+    (name "Daniel James Faucitt")
+    (role "second_respondent_victim")
+    (id "PERSON_004")
+    
+    
+    
+    
+  ))
+(define entity-linda-kruger
+  (make-person-entity
+    (name "Linda Kruger")
+    (role "employee_bookkeeper")
+    (id "PERSON_005")
+    
+    
+    
+    
+  ))
+(define entity-gayane-williams
+  (make-person-entity
+    (name "Gayane Williams")
+    (role "employee")
+    (id "PERSON_006")
+    
+    
+    
+    
+  ))
+(define entity-kevin-michael-derrick
+  (make-person-entity
+    (name "Kevin Michael Derrick")
+    (role "ketoni_director")
+    (id "PERSON_008")
+    
+    
+    
+    
+  ))
+(define entity-darren-farrar
+  (make-person-entity
+    (name "Darren Farrar")
+    (role "accomplice_family")
+    (id "PERSON_009")
+    
+    
+    
+    
+  ))
+(define entity-marc-yudaken
+  (make-person-entity
+    (name "Marc Yudaken")
+    (role "attorney_baker_mckenzie")
+    (id "PERSON_042")
+    
+    
+    
+    
+  ))
+(define entity-david-field
+  (make-person-entity
+    (name "David Field")
+    (role "deal_consultant")
+    (id "PERSON_043")
+    
+    
+    
+    
+  ))
+(define entity-marisca-meyer
+  (make-person-entity
+    (name "Marisca Meyer")
+    (role "professional_accountant")
+    (id "PERSON_010")
+    
+    
+    
+    
+  ))
+(define entity-oliver-mphande
+  (make-person-entity
+    (name "Oliver Mphande")
+    (role "witness")
+    (id "PERSON_011")
+    
+    
+    
+    
+  ))
+(define entity-nick-xenophontos
+  (make-person-entity
+    (name "Nick Xenophontos")
+    (role "independent_attorney_witness")
+    (id "PERSON_045")
+    
+    
+    
+    
+  ))
 
-;; ── Relations ─────────────────────────────────────────────────────
-(define rel-peter-andrew-faucitt-daniel-james-faucitt (make-opposed-to-relation (source entity-peter-andrew-faucitt) (target entity-daniel-james-faucitt) ))
-(define rel-peter-andrew-faucitt-rynette-farrar (make-co-conspirator-relation (source entity-peter-andrew-faucitt) (target entity-rynette-farrar) ))
-(define rel-rynette-farrar-danie-bantjies (make-co-conspirator-relation (source entity-rynette-farrar) (target entity-danie-bantjies) ))
-(define rel-peter-andrew-faucitt-danie-bantjies (make-co-conspirator-relation (source entity-peter-andrew-faucitt) (target entity-danie-bantjies) ))
-(define rel-rynette-farrar-peter-andrew-faucitt (make-operates-identity-of-relation (source entity-rynette-farrar) (target entity-peter-andrew-faucitt) ))
-(define rel-ketoni-investment-holdings-faucitt-family-trust (make-owes-debt-relation (source entity-ketoni-investment-holdings) (target entity-faucitt-family-trust) ))
-(define rel-danie-bantjies-george-group (make-cfo-of-relation (source entity-danie-bantjies) (target entity-george-group) ))
-(define rel-kevin-derrick-george-group (make-ceo-of-relation (source entity-kevin-derrick) (target entity-george-group) ))
-(define rel-kevin-derrick-ketoni-investment-holdings (make-director-of-relation (source entity-kevin-derrick) (target entity-ketoni-investment-holdings) ))
-(define rel-danie-bantjies-faucitt-family-trust (make-trustee-of-relation (source entity-danie-bantjies) (target entity-faucitt-family-trust) ))
-(define rel-daniel-james-faucitt-regima-worldwide-distribution-(pty)-ltd (make-co-director-relation (source entity-daniel-james-faucitt) (target entity-regima-worldwide-distribution-(pty)-ltd) ))
-(define rel-peter-andrew-faucitt-regima-worldwide-distribution-(pty)-ltd (make-co-director-relation (source entity-peter-andrew-faucitt) (target entity-regima-worldwide-distribution-(pty)-ltd) ))
-(define rel-daniel-james-faucitt-fnb-business-account-62707308252 (make-sole-mandate-holder-relation (source entity-daniel-james-faucitt) (target entity-fnb-business-account-62707308252) ))
-(define rel-rynette-farrar-adderory-(pty)-ltd (make-family-company-relation (source entity-rynette-farrar) (target entity-adderory-(pty)-ltd) ))
-(define rel-rynette-farrar-luxury-products-online (make-family-company-relation (source entity-rynette-farrar) (target entity-luxury-products-online) ))
-(define rel-rynette-farrar-luxuré (make-family-company-relation (source entity-rynette-farrar) (target entity-luxuré) ))
-(define rel-de-novo-business-services-regimasa-(pty)-ltd (make-fabricated-records-for-relation (source entity-de-novo-business-services) (target entity-regimasa-(pty)-ltd) ))
-(define rel-jacqueline-faucitt-peter-andrew-faucitt (make-victim-of-relation (source entity-jacqueline-faucitt) (target entity-peter-andrew-faucitt) ))
-(define rel-daniel-james-faucitt-peter-andrew-faucitt (make-victim-of-relation (source entity-daniel-james-faucitt) (target entity-peter-andrew-faucitt) ))
+;; ── Organizations ────────────────────────────────────────────────
+(define entity-regima-worldwide-distribution-pty-ltd
+  (make-organization-entity
+    (name "Regima Worldwide Distribution (Pty) Ltd")
+    (role "primary_company")
+    (id "ORG_001")
+    (reg "2011/005722/07")
+    
+  ))
+(define entity-regima-skin-treatments-cc
+  (make-organization-entity
+    (name "RegimA Skin Treatments CC")
+    (role "close_corporation")
+    (id "ORG_002")
+    (reg "1992/005371/23")
+    
+  ))
+(define entity-strategic-logistics-cc
+  (make-organization-entity
+    (name "Strategic Logistics CC")
+    (role "logistics_entity")
+    (id "ORG_003")
+    (reg "2008/136496/23")
+    
+  ))
+(define entity-villa-via-arcadia-no-2-cc
+  (make-organization-entity
+    (name "Villa Via Arcadia No 2 CC")
+    (role "property_entity")
+    (id "ORG_004")
+    (reg "1996/004451/23")
+    
+  ))
+(define entity-ketoni-investment-holdings-pty-ltd
+  (make-organization-entity
+    (name "Ketoni Investment Holdings (Pty) Ltd")
+    (role "central_financial_motive")
+    (id "ORG_005")
+    
+    (put-option "R28,730,000")
+  ))
+(define entity-adderory-pty-ltd
+  (make-organization-entity
+    (name "Adderory (Pty) Ltd")
+    (role "family_company_farrar")
+    (id "ORG_006")
+    
+    
+  ))
+(define entity-rezonance-pty-ltd
+  (make-organization-entity
+    (name "ReZonance (Pty) Ltd")
+    (role "debt_fabrication_vehicle")
+    (id "ORG_007")
+    
+    
+  ))
+(define entity-regimasa-pty-ltd
+  (make-organization-entity
+    (name "RegimaSA (Pty) Ltd")
+    (role "shell_company")
+    (id "ORG_008")
+    (reg "2017/087935/07")
+    
+  ))
+(define entity-de-novo-business-services-pty-ltd
+  (make-organization-entity
+    (name "De Novo Business Services (Pty) Ltd")
+    (role "fabricated_records_provider")
+    (id "ORG_009")
+    
+    
+  ))
+(define entity-the-george-group
+  (make-organization-entity
+    (name "The George Group")
+    (role "bantjies_employer")
+    (id "ORG_010")
+    
+    
+  ))
+(define entity-baker-mckenzie
+  (make-organization-entity
+    (name "Baker McKenzie")
+    (role "ketoni_attorneys")
+    (id "ORG_025")
+    
+    
+  ))
+
+;; ── Trusts & Platforms ────────────────────────────────────────────
+(define entity-faucitt-family-trust
+  (make-trust-entity
+    (name "Faucitt Family Trust")
+    (role "trust_victim")
+    (id "TRUST_001")
+  ))
+(define entity-sage-business-cloud
+  (make-platform-entity
+    (name "Sage Business Cloud")
+    (role "captured_accounting_system")
+    (id "PLAT_001")
+  ))
+(define entity-sars-efiling
+  (make-platform-entity
+    (name "SARS eFiling")
+    (role "impersonated_tax_platform")
+    (id "PLAT_002")
+  ))
+(define entity-fnb-business-banking
+  (make-platform-entity
+    (name "FNB Business Banking")
+    (role "banking_mandate_fraud_target")
+    (id "PLAT_003")
+  ))
+
+;; ── Relations ────────────────────────────────────────────────────
+(define rel-000-conspiracy
+  (make-conspiracy-relation
+    (source entity-peter-andrew-faucitt)
+    (target entity-rynette-farrar)
+    (nature "primary_conspiracy")
+    (evidence "100+ emails")
+  ))
+(define rel-001-conspiracy
+  (make-conspiracy-relation
+    (source entity-rynette-farrar)
+    (target entity-daniel-jacobus-bantjies)
+    (nature "financial_manipulation")
+    (evidence "1632 communications 2015-2026")
+  ))
+(define rel-002-conspiracy
+  (make-conspiracy-relation
+    (source entity-peter-andrew-faucitt)
+    (target entity-daniel-jacobus-bantjies)
+    (nature "trust_forgery_perjury")
+    
+  ))
+(define rel-003-conflict_of_interest
+  (make-conflict_of_interest-relation
+    (source entity-daniel-jacobus-bantjies)
+    (target entity-ketoni-investment-holdings-(pty)-ltd)
+    (nature "CFO_George_Group_AND_FFT_Trustee")
+    
+  ))
+(define rel-004-victim_of
+  (make-victim_of-relation
+    (source entity-daniel-james-faucitt)
+    (target entity-peter-andrew-faucitt)
+    
+    
+  ))
+(define rel-005-victim_of
+  (make-victim_of-relation
+    (source entity-jacqueline-faucitt)
+    (target entity-peter-andrew-faucitt)
+    
+    
+  ))
+(define rel-006-sole_mandate
+  (make-sole_mandate-relation
+    (source entity-daniel-james-faucitt)
+    (target entity-fnb-business-banking)
+    
+    (evidence "FNB FICA/KYC letter 18 June 2025")
+  ))
+(define rel-007-family_company
+  (make-family_company-relation
+    (source entity-rynette-farrar)
+    (target entity-adderory-(pty)-ltd)
+    
+    
+  ))
+(define rel-008-fabricated_records
+  (make-fabricated_records-relation
+    (source entity-de-novo-business-services-(pty)-ltd)
+    (target entity-regimasa-(pty)-ltd)
+    
+    
+  ))
+(define rel-009-director_of
+  (make-director_of-relation
+    (source entity-kevin-michael-derrick)
+    (target entity-ketoni-investment-holdings-(pty)-ltd)
+    
+    
+  ))
+(define rel-010-trustee_of
+  (make-trustee_of-relation
+    (source entity-daniel-jacobus-bantjies)
+    (target entity-faucitt-family-trust)
+    
+    
+  ))
+(define rel-011-co_director
+  (make-co_director-relation
+    (source entity-daniel-james-faucitt)
+    (target entity-regima-worldwide-distribution-(pty)-ltd)
+    
+    
+  ))
+(define rel-012-co_director
+  (make-co_director-relation
+    (source entity-peter-andrew-faucitt)
+    (target entity-regima-worldwide-distribution-(pty)-ltd)
+    
+    
+  ))
+(define rel-013-employed_by
+  (make-employed_by-relation
+    (source entity-daniel-jacobus-bantjies)
+    (target entity-the-george-group)
+    
+    
+  ))

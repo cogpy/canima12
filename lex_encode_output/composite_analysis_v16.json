@@ -1,0 +1,163 @@
+{
+  "version": "v16",
+  "timestamp": "2026-03-18T06:21:08",
+  "pipeline": "skillm ( lex-sim-nn [ lex-rex | lexrex ] -> lex-encode-workflow ( chainlex | uniform-rules-scm ) )",
+  "total_defenses": 27,
+  "total_blocked": 27,
+  "fixed_point": true,
+  "order_distribution": {
+    "2": 4,
+    "3": 4,
+    "4": 2,
+    "5": 2,
+    "7": 0,
+    "35": 2
+  },
+  "composite_orders": [
+    {
+      "order": 6,
+      "factorization": "2x3",
+      "blocked": true,
+      "rigid": true,
+      "shared_evidence": "FNB-letter-plus-fraud-report-timeline"
+    },
+    {
+      "order": 8,
+      "factorization": "2^3",
+      "blocked": true,
+      "rigid": true,
+      "shared_evidence": "three-independent-FNB-SARS-Sage-anchors"
+    },
+    {
+      "order": 9,
+      "factorization": "3^2",
+      "blocked": true,
+      "rigid": true,
+      "shared_evidence": "trust-forgery-chain-AND-revenue-diversion-chain"
+    },
+    {
+      "order": 10,
+      "factorization": "2x5",
+      "blocked": true,
+      "rigid": true,
+      "shared_evidence": "J417-contradiction-AND-George-Group-employment"
+    }
+  ],
+  "composite_score": 1.0,
+  "complete_composites": 4,
+  "rigid_composites": 4,
+  "filings": {
+    "civil_oppression_s163": {
+      "domain": "civ",
+      "burden": 0.5,
+      "score": 0.869,
+      "xv": 0.905,
+      "met": true
+    },
+    "void_ab_initio_r42": {
+      "domain": "civ",
+      "burden": 0.5,
+      "score": 0.885,
+      "xv": 0.92,
+      "met": true
+    },
+    "cipc_complaint_s28_s29": {
+      "domain": "companies",
+      "burden": 0.5,
+      "score": 0.878,
+      "xv": 0.915,
+      "met": true
+    },
+    "popia_criminal": {
+      "domain": "popia",
+      "burden": 0.95,
+      "score": 0.862,
+      "xv": 0.9,
+      "met": false,
+      "gap": 0.088
+    },
+    "commercial_crime": {
+      "domain": "cri",
+      "burden": 0.95,
+      "score": 0.859,
+      "xv": 0.895,
+      "met": false,
+      "gap": 0.091
+    },
+    "npa_tax_fraud": {
+      "domain": "tax",
+      "burden": 0.95,
+      "score": 0.868,
+      "xv": 0.905,
+      "met": false,
+      "gap": 0.082
+    },
+    "fic_report": {
+      "domain": "civ",
+      "burden": 0.5,
+      "score": 0.865,
+      "xv": 0.9,
+      "met": true
+    },
+    "saica_misconduct": {
+      "domain": "professional",
+      "burden": 0.5,
+      "score": 0.875,
+      "xv": 0.91,
+      "met": true
+    },
+    "perjury_bantjies_j417": {
+      "domain": "cri",
+      "burden": 0.95,
+      "score": 0.952,
+      "xv": 0.97,
+      "met": true
+    },
+    "contempt_opposition": {
+      "domain": "civ",
+      "burden": 0.5,
+      "score": 0.84,
+      "xv": 0.88,
+      "met": true
+    },
+    "sars_intercompany": {
+      "domain": "tax",
+      "burden": 0.95,
+      "score": 0.85,
+      "xv": 0.89,
+      "met": false,
+      "gap": 0.1
+    },
+    "cipc_intercompany": {
+      "domain": "companies",
+      "burden": 0.5,
+      "score": 0.87,
+      "xv": 0.91,
+      "met": true
+    },
+    "npa_intercompany": {
+      "domain": "cri",
+      "burden": 0.95,
+      "score": 0.845,
+      "xv": 0.885,
+      "met": false,
+      "gap": 0.105
+    }
+  },
+  "vulnerabilities": {
+    "financial": {
+      "score": 0.72,
+      "threshold": 0.75,
+      "gap": 0.03,
+      "status": "BORDERLINE",
+      "remediation": "Obtain forensic accountant report on R9.8M flow"
+    },
+    "testimonial": {
+      "score": 0.52,
+      "threshold": 0.75,
+      "gap": 0.23,
+      "status": "IMPROVED",
+      "remediation": "Nick Xenophontos as independent witness reduces gap"
+    }
+  }
+}
