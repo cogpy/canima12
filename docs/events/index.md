@@ -1,7 +1,7 @@
 # Events Index
 
-**Last Updated:** 2026-03-18 (v17)  
-**Total Events:** 167+ documented events across 7 phases  
+**Last Updated:** 2026-03-18 (v18)  
+**Total Events:** 173 documented events across 7 phases  
 **Pipeline:** `/evidence-process(/skillm) -> /ksm-evolve(/regima-org-self) -> /optimal-cognitive-grip`
 
 This index catalogs all events in Case 2025-137857: Revenue Stream Hijacking, organized by phase and significance.

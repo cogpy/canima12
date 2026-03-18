@@ -1,6 +1,6 @@
 # Entities Index
 
-**Last Updated:** 2026-03-18 (v17)  
+**Last Updated:** 2026-03-18 (v18)  
 **Total Entities:** 125+ (reconciled across revstream1 + ad-res-j7)  
 **Pipeline:** `/evidence-process(/skillm) -> /ksm-evolve(/regima-org-self) -> /optimal-cognitive-grip`
 

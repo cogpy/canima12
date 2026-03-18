@@ -1,6 +1,6 @@
 # Master Relations Index
 
-**Last Updated:** 2026-03-18 (v17)  
+**Last Updated:** 2026-03-18 (v18)  
 **Total Relations:** 38 documented files + 15 JSON-modeled relations  
 **Case Number:** 2025-137857  
 **Pipeline:** `/evidence-process(/skillm) -> /ksm-evolve(/regima-org-self) -> /optimal-cognitive-grip`

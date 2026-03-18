@@ -1,18 +1,18 @@
 # Case 2025-137857: Revenue Stream Hijacking — Evidence Repository
 
-**Last Updated:** 2026-03-18 (v17)
+**Last Updated:** 2026-03-18 (v18)
 
 This repository provides a comprehensive, evidence-based view of Case 2025-137857, a multi-faceted criminal enterprise involving revenue stream hijacking, trust fraud, identity theft, and corporate malfeasance with a total quantum exceeding **R63,000,000**.
 
-> **v17 Pipeline (2026-03-18):** `/evidence-process(/skillm) -> /ksm-evolve(/regima-org-self) -> /optimal-cognitive-grip`
+> **v18 Pipeline (2026-03-18):** `/evidence-process(/skillm) -> /ksm-evolve(/regima-org-self) -> /optimal-cognitive-grip`
 >
-> All 6 filings upgraded to v17 with new evidence: **46-second Bantjies secret forward** (EVENT_137) integrated across all applications. NPA Perjury now at **99.15% (MET)**. NPA Commercial Crime at **96.12% (MET)**. SARS Tax Fraud at **95.80% (MET)**. Total entities: **108 files**, events: **167+**, relations: **38+**.
+> **v18 Update:** Data models rebuilt from source (73 entities, 173 events, 36 relations in JSON). Procedural Hierarchy for Setting Aside Ex Parte Interdicts integrated into civil filings. Five-tier framework: Rule 6(12)(c), Rule 6(8), Rule 42(1)(a), Common Law Rescission (*Childerley Estate Stores*), Section 173. NPA Perjury at **99.15% (MET)**. NPA Commercial Crime at **96.12% (MET)**. SARS Tax Fraud at **95.80% (MET)**.
 
-> **v17 Filings:** [Filings Index](./filings/index.md) | [NPA Perjury v17](./filings/NPA_PERJURY_BANTJIES_J417_2026-03-18_v17.md) | [NPA Commercial Crime v17](./filings/NPA_COMMERCIAL_CRIME_REFINED_2026-03-18_v17.md) | [SARS Tax Fraud v17](./filings/SARS_TAX_FRAUD_REPORT_REFINED_2026-03-18_v17.md) | [CIPC v17](./filings/CIPC_COMPLAINT_REFINED_2026-03-18_v17.md) | [SAICA v17](./filings/SAICA_COMPLAINT_BANTJIES_REFINED_2026-03-18_v17.md) | [POPIA v17](./filings/POPIA_COMPLAINT_REFINED_2026-03-18_v17.md)
+> **v18 Filings:** [Filings Index](./filings/index.md) | [NPA Perjury v17](./filings/NPA_PERJURY_BANTJIES_J417_2026-03-18_v17.md) | [NPA Commercial Crime v17](./filings/NPA_COMMERCIAL_CRIME_REFINED_2026-03-18_v17.md) | [SARS Tax Fraud v17](./filings/SARS_TAX_FRAUD_REPORT_REFINED_2026-03-18_v17.md) | [CIPC v17](./filings/CIPC_COMPLAINT_REFINED_2026-03-18_v17.md) | [SAICA v17](./filings/SAICA_COMPLAINT_BANTJIES_REFINED_2026-03-18_v17.md) | [POPIA v17](./filings/POPIA_COMPLAINT_REFINED_2026-03-18_v17.md)
 >
-> **v17 Indexes:** [Entities v17](./entities/index.md) | [Events v17](./events/index.md) | [Relations v17](./relations/index.md) | [Timeline](./timeline.md)
+> **v18 Indexes:** [Entities](./entities/index.md) | [Events](./events/index.md) | [Relations](./relations/index.md) | [Timeline](./timeline.md) | [Procedural Hierarchy](./filings/CIVIL_CONTEMPT_ANALYSIS_2026_02_09.md)
 >
-> **v17 Analysis:** [Red-Team Critique v16.2](./filings/RED_TEAM_CRITIQUE_2026_03_18_v16.md) | [Super-Sleuth Report](./super_sleuth_report_2026_03_15.md) | [Hyper-Holmes Report](./hyper_holmes_report_2026_03_15.md) | [Bantjies Complicity Brief](./filings/LEGAL_BRIEF_BANTJIES_COMPLICITY_2026-03-18.md)
+> **v18 Analysis:** [Red-Team Critique v16.2](./filings/RED_TEAM_CRITIQUE_2026_03_18_v16.md) | [Super-Sleuth Report](./super_sleuth_report_2026_03_15.md) | [Hyper-Holmes Report](./hyper_holmes_report_2026_03_15.md) | [Bantjies Complicity Brief](./filings/LEGAL_BRIEF_BANTJIES_COMPLICITY_2026-03-18.md)
 >
 > **Previous:** [v14 Simulation Report](./simulation/COMPOSED_REPORT_2026_03_14_v14.md) | [LEX-ENCODE v16 Proof Certificate](./lex-encode-v16-proof-certificate.md) | [Ketoni Evidence Analysis](./evidence/ketoni_evidence_analysis.md)
 
