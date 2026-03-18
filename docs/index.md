@@ -1,6 +1,6 @@
 # Case 2025-137857: Revenue Stream Hijacking — Evidence Repository
 
-**Last Updated:** 2026-03-18 (v16.2)
+**Last Updated:** 2026-03-18 (v16.3)
 
 This repository provides a comprehensive, evidence-based view of Case 2025-137857, a multi-faceted criminal enterprise involving revenue stream hijacking, trust fraud, identity theft, and corporate malfeasance with a total quantum exceeding **R63,000,000**.
 
@@ -227,6 +227,11 @@ The ex parte interdict granted on 19 August 2025 is **void ab initio** (void fro
 - [SAICA Misconduct v16](./filings/SAICA_COMPLAINT_BANTJIES_REFINED_2026-03-18_v16.md)
 - [Red-Team Critique v16.2](./filings/RED_TEAM_CRITIQUE_2026_03_18_v16.md)
 
+### Legal Precedent Research
+
+- [**Precedent Authority Document (v16.3)**](./research/PRECEDENT_AUTHORITY_2026_03_18.md) — Comprehensive compilation of 15+ SA precedents across void ab initio, contempt, perjury, delinquency, POCA, trust law, POPIA, and tax fraud
+- [Precedent Research Notes](./research/precedent_research_notes.md) — Raw research notes with full citations and case extracts
+
 ### Analysis & Simulation
 
 - [LEX-SIM-NN v16 Report](./simulation/LEX_SIM_NN_REPORT_v16.md)
@@ -246,5 +251,6 @@ The ex parte interdict granted on 19 August 2025 is **void ab initio** (void fro
 
 ---
 
-*Last updated: 2026-03-18 by LEX-ENCODE-WORKFLOW v16.2 pipeline.*
+*Last updated: 2026-03-18 by LEX-ENCODE-WORKFLOW v16.3 pipeline.*
 *Pipeline: `skillm ( lex-sim-nn [ lex-rex | lexrex ] -> lex-encode-workflow ( chainlex | uniform-rules-scm ) )`*
+*v16.3 addition: Comprehensive lex-rex precedent authority research across 15+ SA cases.*
