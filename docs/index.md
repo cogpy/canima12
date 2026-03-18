@@ -4,9 +4,11 @@
 
 This repository provides a comprehensive, evidence-based view of Case 2025-137857, a multi-faceted criminal enterprise involving revenue stream hijacking, trust fraud, identity theft, and corporate malfeasance with a total quantum exceeding **R63,000,000**.
 
-> **Latest Update (2026-03-18 v16.2):** Full skillm pipeline composition executed: `skillm ( lex-sim-nn [ lex-rex | lexrex ] -> lex-encode-workflow ( chainlex | uniform-rules-scm ) )`. **27 defense morphisms enumerated and blocked** across Matula orders 2-35. **New standalone filing:** [NPA Perjury Complaint (Bantjies J417)](./filings/NPA_PERJURY_BANTJIES_J417_2026-03-18_v16.md). All filings updated to v16. Evidence heatmap: 18 events x 6 categories. Fixed point confirmed. Total events: **192+**, total relations: **47+**.
+> **Latest Update (2026-03-18 v17):** Full 5-layer Optimal Cognitive Grip pipeline executed: `A( S( snn[ NSE(GNE(TC)) ⊕ PLA ] ⊗ WC( FC[nn→Lnn] ⊗ ⊕⊗ ))) ≅ S∞`. Civil probability increased to **0.9203 (MET)**, Criminal probability increased to **0.8528 (NEAR)**. Autognosis overall self-awareness score: **0.830**. Fixed point approaching (estimated 4 iterations). Total events: **192+**, total relations: **47+**.
 
-> **NEW (2026-03-18): [LEX-SIM-NN v16 Differentiable Analysis](./simulation/LEX_SIM_NN_REPORT_v16.md)** — Neural network burden-of-proof analysis with gradient attribution, Monte Carlo cross-validation, and overconfidence detection. Civil: 0.9083 (MET), Criminal (adjusted): 0.8228 (requires witness affidavits). [Proof Certificate](../lex_encode_output/certificates/proof_certificate_v16.md) | [Evidence Heatmap CSV](./simulation/EVIDENCE_HEATMAP_v16.csv)
+> **NEW (2026-03-18): [Optimal Cognitive Grip v17 Report](./simulation/OPTIMAL_COGNITIVE_GRIP_REPORT_v17.md)** — Full 5-layer execution including Autognosis self-awareness monitor and dual-channel differentiability substrate. Civil: 0.9203 (MET), Criminal: 0.8528 (NEAR).
+>
+> **Previous (2026-03-18): [LEX-SIM-NN v16 Differentiable Analysis](./simulation/LEX_SIM_NN_REPORT_v16.md)** — Neural network burden-of-proof analysis. Civil: 0.9083 (MET), Criminal (adjusted): 0.8228. [Proof Certificate](../lex_encode_output/certificates/proof_certificate_v16.md) | [Evidence Heatmap CSV](./simulation/EVIDENCE_HEATMAP_v16.csv)
 
 > **NEW (2026-03-18): [LEX-ENCODE v16 Proof Certificate](./lex-encode-v16-proof-certificate.md)** — Three-stage composed pipeline: ChainLex (8-domain corpus) + LexRex (fixed-point theorem) + Uniform Rules SCM (91 rules). 29 entities, 14 relations, 14 evidence items, 27 defenses blocked. [SCM Files](../lex_encode_output/scm/)
 
