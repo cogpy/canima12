@@ -1,10 +1,10 @@
 # Case 2025-137857: Revenue Stream Hijacking — Evidence Repository
 
-**Last Updated:** 2026-03-15 (v15)
+**Last Updated:** 2026-03-18 (v15.1)
 
 This repository provides a comprehensive, evidence-based view of Case 2025-137857, a multi-faceted criminal enterprise involving revenue stream hijacking, trust fraud, identity theft, and corporate malfeasance with a total quantum exceeding **R63,000,000**.
 
-> **Latest Update (2026-03-15 v15):** Integration of **9 primary source documents** from the Ketoni/FFT Trust corpus. Financial motive **corrected upward to R28.73M** (Put Option Year 5 guarantee, previously cited as R18.685M). **Bantjies J417 perjury** — provably false "Independent Trustee" declaration to Master of High Court — is the **first criminal charge to independently meet the 95% beyond-reasonable-doubt standard**. New entities: PERSON_045 (Nick Xenophontos), ORG_029 (Xenophontos Attorneys), ORG_030 (Forvis Mazars), BANK_ACCOUNT_005 (Ketoni Standard Bank 420469494). Civil: **0.9940 (MET)**, Criminal: **0.9965 (MET)**, Void Ab Initio: **0.9650 (MET)**. 1 remaining vulnerability (Financial). Total events: **177+**, total relations: **42+**.
+> **Latest Update (2026-03-18 v15.1):** Red-team remediation applied to all 4 intercompany filings (CIPC, SAICA, SARS, NPA). **5 new relation files** created (Intercompany Fraud Network, Stock Adjustment Fraud, Backdated Journal Entries, SARS Flagged Invoices, Rule 30/30A Dating Anomaly). **15 missing events** added to master timeline (EVENT_120 through EVENT_136). Filing version manifest updated to v15.1 with canonical file references. All 14 red-team vulnerabilities addressed with specific remediations. Total events: **192+**, total relations: **47+**.
 
 > **NEW (2026-03-15): [Intercompany Transactions & Stock Adjustment Analysis](./evidence/intercompany_stock_analysis.md)** — Three interconnected financial manipulation schemes uncovered via Neon DB mail search: (1) Backdated journal entries directed by bookkeeper (2021), (2) R4.2M stock discrepancy cover-up ("Bernadine's Gogga"), (3) SARS-flagged year-end invoices. All 11 defense morphisms blocked. Civil: 0.9974, Criminal: 0.9973. [Proof Certificate](../lex_encode_output/proof_certificate_intercompany_stock.md) | [LexRex Evidence Trees](../lex_encode_output/evidence_intercompany_stock.scm) | **[Forensic Email Annexures (A-I)](./evidence/annexures/index.md)**
 
@@ -170,9 +170,9 @@ The Put Option at Year 5 is a **guaranteed right** of the FFT to force Ketoni to
 
 ---
 
-## Key Conspiracy Networks (42+ Relations)
+## Key Conspiracy Networks (47+ Relations)
 
-Analysis of over 100,000 emails, financial records, and now 9 primary source documents reveals 42+ documented relations across 8 categories.
+Analysis of over 100,000 emails, financial records, and now 9 primary source documents reveals 47+ documented relations across 9 categories.
 
 ### Conspiracy Networks
 
@@ -193,6 +193,16 @@ Analysis of over 100,000 emails, financial records, and now 9 primary source doc
 | **Banking Mandate Fraud** | FNB SOLE mandate proves interdict claims were false. | 97% | [View](./relations/BANKING_MANDATE_FRAUD.md) |
 | **Bantjies "Manufacture" Admission** | Direct admission of intent to falsify SARS records. | 100% | [View](./relations/MANUFACTURE_ADMISSION.md) |
 | **Villa Via Profit Extraction** | 86% profit margin through transfer pricing fraud. | 97% | [View](./relations/VILLA_VIA_PROFIT_EXTRACTION.md) |
+
+### Intercompany Fraud (NEW v15.1)
+
+| Network | Description | Confidence | Link |
+|---------|-------------|------------|------|
+| **Intercompany Fraud Network** | R58.58M across 364 transfers; systematic manipulation | 97% | [View](./relations/INTERCOMPANY_FRAUD.md) |
+| **Stock Adjustment Fraud** | R4.2M cover-up — "permanently remove this Bernadine gogga" | 99% | [View](./relations/STOCK_ADJUSTMENT_FRAUD.md) |
+| **Backdated Journal Entries** | 2021 forgery — entries dated 01/08/2020 made on 17/08/2021 | 99% | [View](./relations/BACKDATED_ENTRIES.md) |
+| **SARS Flagged Invoices** | Year-end invoices with "no answer" — "manufacture" admission | 98% | [View](./relations/SARS_FLAGGED_INVOICES.md) |
+| **Rule 30/30A Dating Anomaly** | Elliott Attorneys notices dated 03 Feb but critique 19 Feb documents | 100% | [View](./relations/RULE_30_DATING_ANOMALY.md) |
 
 ### Identity & Digital Fraud
 
@@ -229,9 +239,9 @@ Analysis of over 100,000 emails, financial records, and now 9 primary source doc
 
 - **[Master Filing Index](./filings/index.md)**: Direct links to all 10 application filings
 - **[Master Evidence Index](./evidence_index.md)**: Comprehensive catalog of all evidence
-- **[Master Timeline](./timeline.md)**: Chronological view of all 177+ events
+- **[Master Timeline](./timeline.md)**: Chronological view of all 192+ events
 - **[Master Entities Index](./entities/index.md)**: Index of all 125+ involved entities
-- **[Master Relations Index](./relations/index.md)**: Index of all 42+ documented relations across 8 categories
+- **[Master Relations Index](./relations/index.md)**: Index of all 47+ documented relations across 9 categories
 
 ### Timeline Phases
 
@@ -267,4 +277,4 @@ Analysis of over 100,000 emails, financial records, and now 9 primary source doc
 
 ---
 
-*Last Updated: 2026-03-15 | v15 — 10 applications, 177+ events, 42+ relations, 9 primary source documents integrated, Bantjies J417 perjury MET (95%), R28.73M motive correction*
+*Last Updated: 2026-03-18 | v15.1 — 10 applications, 192+ events, 47+ relations, 14 red-team vulnerabilities remediated, 4 filings upgraded to v15.1, 5 new intercompany fraud relations, 15 events added to timeline*

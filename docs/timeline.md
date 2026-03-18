@@ -1,8 +1,8 @@
 # Comprehensive Case Timeline
 
 **Case:** 2025-137857 - Revenue Stream Hijacking  
-**Last Updated:** 2026-03-04  
-**Total Events:** 145+
+**Last Updated:** 2026-03-18  
+**Total Events:** 166+
 
 This timeline documents all significant events in the revenue stream hijacking case, organized chronologically with T-Months relative to the May 2026 Ketoni payout.
 
@@ -16,6 +16,7 @@ This timeline documents all significant events in the revenue stream hijacking c
 | [Operations](#operations-2019-2022) | 2019-2022 | Financial manipulation begins |
 | [Investment](#investment-phase-2023) | 2023 | Ketoni investment, Kayla's death, Rezonance debt, **trust gatekeeping (EVENT_108)** |
 | [Control](#control-consolidation-2024-2025) | 2024-2025 | Trustee appointment, fraud exposure, retaliation, system lockout |
+| [Post-Interdict](#post-interdict-actions-august-2025---march-2026) | Aug 2025-Mar 2026 | Mass extraction, contempt, void ab initio, Rule 30/30A |
 | [Convergence](#convergence-may-2026) | May 2026 | Ketoni payout due |
 
 ---
@@ -118,6 +119,9 @@ All events are referenced relative to the **May 2026 Ketoni payout** (T-0):
 | T-10 | Jul 2025 | Sage system lockout |
 | T-9 | Aug 2025 | Control consolidation via interdict |
 | T-6 | Nov 2025 | Coordinated legal protection |
+| T-4 | Jan 2026 | Stock removal incident, contempt basis |
+| T-3 | Feb 2026 | Contempt application, void ab initio defence, POPIA notice |
+| T-2 | Mar 2026 | Rule 7(1)/30/30A notices, deadline expires, intercompany filings |
 | T-0 | May 2026 | **PAYOUT DUE** |
 
 ---
@@ -139,6 +143,28 @@ All events are referenced relative to the **May 2026 Ketoni payout** (T-0):
 ---
 
 *Last Updated: 2026-03-04*
+
+---
+
+## Post-Interdict Actions (August 2025 - March 2026)
+
+| Date | Event | Key Actors | T-Months | Significance | Evidence |
+|---|---|---|---|---|---|
+| **2021-09-02** | **RST Pays Aymac International Expenses** | Rynette Farrar, Peter Faucitt | **T-56** | **Intercompany fund misappropriation — RST pays personal CC expenses** | **[EVENT_122](./events/EVENT_122.md)** |
+| **2025-03-12** | **Rynette Closes Aymac Bank Account** | Rynette Farrar, Peter Faucitt | **T-14** | **Asset concealment — closing entity accounts on Peter's instruction** | **[EVENT_123](./events/EVENT_123.md)** |
+| **2025-06-06** | **Bantjies "Manufacture" Admission** | Bantjies, Rynette Farrar | **T-11** | **CRITICAL: Bantjies admits he will "manufacture an answer" to SARS about intercompany invoices** | **[EVENT_126](./events/EVENT_126.md)** |
+| **2025-07-23** | **Sage Registration Expires — System Lockout** | Rynette Farrar | **T-10** | **CRITICAL: Rynette (owner) locks out accounting system before interdict** | **[EVENT_128](./events/EVENT_128.md)** |
+| **2025-08-12** | **Rynette Provides Proof of Address for Bantjies** | Rynette Farrar, Bantjies | **T-9** | **Active facilitation of trustee appointment — 1 day before confirmatory affidavit** | **[EVENT_120](./events/EVENT_120.md)** |
+| **2025-09-03 to 2025-09-11** | **R10.9M Mass Extraction from Entity Accounts** | Peter Faucitt, Rynette, Bantjies | **T-8** | **CRITICAL: R10,924,131.18 extracted within 8 days of interdict — pre-planned** | **[EVENT_135](./events/EVENT_135.md)** |
+| **2025-09** | **Peter's R10.6M Post-Interdict Extraction** | Peter Faucitt | **T-8** | **Systematic asset stripping under cover of court order** | **[EVENT_125](./events/EVENT_125.md)** |
+| **2025-11-26** | **Elliott Attorneys Protect Non-Party Rynette** | Elliott Attorneys, Pottas Attorneys, Rynette | **T-6** | **CRITICAL: Peter's attorneys protect Rynette (non-party) from disclosure** | **[EVENT_127](./events/EVENT_127.md)** |
+| **2026-01-10** | **Jacqueline Prevents Stock Removal at Warehouse** | Jacqueline Faucitt, Peter Faucitt, Oliver | **T-4** | **Primary basis for contempt application — Jax prevents removal with bodyguard** | **[EVENT_134](./events/EVENT_134.md)** |
+| **2026-02-05** | **Contempt of Court Application Filed** | Peter Faucitt, Elliott Attorneys | **T-3** | **Peter seeks 6 months imprisonment for Jacqueline** | **[EVENT_129](./events/EVENT_129.md)** |
+| **2026-02-19** | **Entity Answering Affidavit — Void Ab Initio** | Daniel Faucitt, 3rd-6th Respondents | **T-3** | **CRITICAL: Establishes perjury, material non-disclosure, fraud on court** | **[EVENT_130](./events/EVENT_130.md)** |
+| **2026-02-19** | **Formal POPIA Notice Filed** | Jacqueline Faucitt, Daniel Faucitt | **T-3** | **Statutory notice withdrawing consent for personal data processing** | **[EVENT_131](./events/EVENT_131.md)** |
+| **2026-02-19** | **Cover Letter and Draft Affidavit to Elliott Attorneys** | Daniel Faucitt | **T-3** | **Good faith invitation for constructive feedback before formal filing** | **[EVENT_133](./events/EVENT_133.md)** |
+| **2026-03-03** | **Rule 7(1) and Rule 30/30A Notices Filed** | Elliott Attorneys | **T-2** | **CRITICAL ANOMALY: Notices dated "03 February 2026" but critique documents from 19 February — temporal impossibility** | **[EVENT_132](./events/EVENT_132.md)** |
+| **2026-03-13** | **Rule 30/30A Deadline Expires** | Elliott Attorneys | **T-2** | **10-day deadline for remedying Entity Answering Affidavit expires** | **[EVENT_136](./events/EVENT_136.md)** |
 
 ---
 

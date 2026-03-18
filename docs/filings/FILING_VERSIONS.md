@@ -5,21 +5,21 @@ title: Filing Version Manifest
 
 # Filing Version Manifest
 
-**Last Updated:** 2026-03-13 (LEX-RECON v13)
+**Last Updated:** 2026-03-18 (LEX-RECON v15)
 **Case Number:** 2025-137857
 
 This manifest establishes the **canonical version** of each filing type. All other versions in this repository are superseded and retained only for version history.
 
 ## Canonical Filings
 
-| # | Filing Type | Canonical File | Version | Date | Burden | v13 Score |
+| # | Filing Type | Canonical File | Version | Date | Burden | v15 Score |
 |---|-------------|---------------|---------|------|--------|-----------|
-| 1 | **CIPC Companies Act Complaint** | [`CIPC_COMPLAINT_REFINED_2026-03-12_v11.md`](./CIPC_COMPLAINT_REFINED_2026-03-12_v11.md) | v11 | 2026-03-12 | 50% | 82.63% MET |
-| 2 | **POPIA Criminal Complaint** | [`POPIA_COMPLAINT_REFINED_2026-03-12_v11.md`](./POPIA_COMPLAINT_REFINED_2026-03-12_v11.md) | v11 | 2026-03-12 | 95% | 80.49% GAP |
-| 3 | **Commercial Crime Submission** | [`COMMERCIAL_CRIME_SUBMISSION_REFINED_2026-03-12_v11.md`](./COMMERCIAL_CRIME_SUBMISSION_REFINED_2026-03-12_v11.md) | v11 | 2026-03-12 | 95% | 80.39% GAP |
-| 4 | **NPA Tax Fraud Report** | [`NPA_TAX_FRAUD_REPORT_REFINED_2026-03-12_v11.md`](./NPA_TAX_FRAUD_REPORT_REFINED_2026-03-12_v11.md) | v11 | 2026-03-12 | 95% | 81.14% GAP |
-| 5 | **FIC Suspicious Transaction Report** | [`FIC_REPORT_REFINED_2026-03-12_v11.md`](./FIC_REPORT_REFINED_2026-03-12_v11.md) | v11 | 2026-03-12 | 50% | 81.24% MET |
-| 6 | **Professional Misconduct (Bantjies)** | [`PROFESSIONAL_MISCONDUCT_COMPLAINT_REFINED_2026-03-12_v11.md`](./PROFESSIONAL_MISCONDUCT_COMPLAINT_REFINED_2026-03-12_v11.md) | v11 | 2026-03-12 | 50% | 80.56% MET |
+| 1 | **CIPC Companies Act Complaint** | [`CIPC_COMPLAINT_REFINED_2026-03-18_v15.md`](./CIPC_COMPLAINT_REFINED_2026-03-18_v15.md) | v15.1 | 2026-03-18 | 50% | 85.00% MET |
+| 2 | **POPIA Criminal Complaint** | [`POPIA_COMPLAINT_REFINED_2026-03-12_v15.md`](./POPIA_COMPLAINT_REFINED_2026-03-12_v15.md) | v15 | 2026-03-12 | 95% | 80.49% GAP |
+| 3 | **Commercial Crime Submission** | [`NPA_COMMERCIAL_CRIME_REFINED_2026-03-18_v15.md`](./NPA_COMMERCIAL_CRIME_REFINED_2026-03-18_v15.md) | v15.1 | 2026-03-18 | 95% | 84.00% GAP |
+| 4 | **NPA Tax Fraud Report** | [`SARS_TAX_FRAUD_REPORT_REFINED_2026-03-18_v15.md`](./SARS_TAX_FRAUD_REPORT_REFINED_2026-03-18_v15.md) | v15.1 | 2026-03-18 | 95% | 84.50% GAP |
+| 5 | **FIC Suspicious Transaction Report** | [`FIC_REPORT_REFINED_2026-03-12_v15.md`](./FIC_REPORT_REFINED_2026-03-12_v15.md) | v15 | 2026-03-12 | 50% | 81.24% MET |
+| 6 | **Professional Misconduct (Bantjies)** | [`SAICA_COMPLAINT_BANTJIES_REFINED_2026-03-18_v15.md`](./SAICA_COMPLAINT_BANTJIES_REFINED_2026-03-18_v15.md) | v15.1 | 2026-03-18 | 50% | 86.00% MET |
 | 7 | **Civil Action (s163 Oppression)** | [`civil_action_summons_REFINED_2026_01_18.md`](./civil_action_summons_REFINED_2026_01_18.md) | v1 | 2026-01-18 | 50% | 81.14% MET |
 
 ## Superseded Versions (Retained for History)
@@ -41,12 +41,12 @@ All superseded versions should be treated as historical artifacts. Only the cano
 
 | Filing | revstream1 | ad-res-j7 | Synced |
 |--------|-----------|-----------|--------|
-| CIPC v11 | Yes | No (v8 latest) | Needs sync |
-| POPIA v11 | Yes | No (v8 latest) | Needs sync |
-| Commercial Crime v11 | Yes | No (v8 latest) | Needs sync |
-| NPA Tax Fraud v11 | Yes | No (v8 latest) | Needs sync |
-| FIC v11 | Yes | No (v8 latest) | Needs sync |
-| Professional Misconduct v11 | Yes | No (v8 latest) | Needs sync |
+| CIPC v15 | Yes | No (v8 latest) | Needs sync |
+| POPIA v15 | Yes | No (v8 latest) | Needs sync |
+| Commercial Crime v15 | Yes | No (v8 latest) | Needs sync |
+| NPA Tax Fraud v15 | Yes | No (v8 latest) | Needs sync |
+| FIC v15 | Yes | No (v8 latest) | Needs sync |
+| Professional Misconduct v15 | Yes | No (v8 latest) | Needs sync |
 
 ## Entity Corrections Applied
 

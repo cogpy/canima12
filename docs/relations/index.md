@@ -1,7 +1,7 @@
 # Master Relations Index
 
-**Last Updated:** 2026-03-15 (v15)  
-**Total Relations:** 32 documented files + 15 JSON-modeled relations  
+**Last Updated:** 2026-03-18 (v15.1)  
+**Total Relations:** 37 documented files + 15 JSON-modeled relations  
 **Case Number:** 2025-137857
 
 This index catalogs all entity relationships documented in the Revenue Stream Hijacking case, organized by type and cross-referenced to all 7 applications.
@@ -58,6 +58,21 @@ This index catalogs all entity relationships documented in the Revenue Stream Hi
 | **Contempt Relations** | Abuse of Process | Peter | 95% | [View](./CONTEMPT_RELATIONS_2026_02_09.md) |
 | **Forgery/Backdating Relations** | Documentary Fraud | Peter, Rynette, Jacqui | 98% | [View](./FORGERY_BACKDATING_RELATIONS_2026_02_18.md) |
 
+## Intercompany Fraud Relations (4 relations)
+
+| Relation | Type | Key Entities | Confidence | Link |
+|----------|------|-------------|------------|------|
+| **Intercompany Fraud Network** | Systematic Financial Fraud | Rynette, Bantjies, Peter | 97% | [View](./INTERCOMPANY_FRAUD.md) |
+| **Stock Adjustment Fraud** | Cover-Up / Misstatement | Rynette, Bantjies | 99% | [View](./STOCK_ADJUSTMENT_FRAUD.md) |
+| **Backdated Journal Entries** | Forgery / Record Falsification | Rynette, Bantjies | 99% | [View](./BACKDATED_ENTRIES.md) |
+| **SARS Flagged Invoices** | Tax Fraud / SARS Verification | Bantjies, Rynette | 98% | [View](./SARS_FLAGGED_INVOICES.md) |
+
+## Procedural Irregularities (1 relation)
+
+| Relation | Type | Key Entities | Confidence | Link |
+|----------|------|-------------|------------|------|
+| **Rule 30/30A Dating Anomaly** | Procedural Irregularity | Elliott Attorneys | 100% | [View](./RULE_30_DATING_ANOMALY.md) |
+
 ## Evidence-Based & Quantitative Relations
 
 | Relation | Type | Source | Link |
@@ -99,6 +114,11 @@ This matrix maps each relation to the 6 legal applications, indicating primary (
 | Interdict Void Ab Initio | **P** | | | S | | | |
 | Forgery/Backdating | **P** | **P** | **P** | **P** | | | **P** |
 | Mailbox Evidence | S | S | **P** | **P** | S | S | S |
+| Intercompany Fraud Network | **P** | **P** | | **P** | **P** | **P** | **P** |
+| Stock Adjustment Fraud | S | **P** | | **P** | **P** | S | **P** |
+| Backdated Journal Entries | S | **P** | | **P** | S | | **P** |
+| SARS Flagged Invoices | S | S | | **P** | **P** | S | **P** |
+| Rule 30/30A Dating Anomaly | **P** | | | | | | |
 
 **P** = Primary relevance | **S** = Supporting relevance
 
@@ -148,4 +168,4 @@ The following relations are modeled in structured JSON format within this index 
 
 ---
 
-*Last updated: 2026-03-15 (v15) | 32 relations documented — 2 new (Bantjies False Independence, Ketoni Fund Flow Complete)*
+*Last updated: 2026-03-18 (v15.1) | 37 relations documented — 5 new (Intercompany Fraud, Stock Adjustment, Backdated Entries, SARS Flagged Invoices, Rule 30 Dating Anomaly)*
