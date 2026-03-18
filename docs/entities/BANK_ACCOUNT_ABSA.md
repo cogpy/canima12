@@ -15,3 +15,9 @@ The creation and use of these accounts are central to the allegations of fraud, 
 - Allegations made in correspondence and legal filings.
 - Analysis of financial records showing unexplained outflows.
 - Forensic investigation into banking records is required to confirm the existence and ownership of these accounts.
+
+
+## Cross-References
+
+### Relations
+- [Relation: Revenue Hijacking Chain](../relations/REVENUE_HIJACKING_CHAIN.md)

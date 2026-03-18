@@ -32,3 +32,9 @@ Gayane, a RegimA employee, is an active participant in the infrastructure hijack
 
 ## Foreknowledge Analysis (Tier B)
 Gayane is classified as a **Tier B (Active Participant with Proven Knowledge)**. While she may have been following instructions, her direct action in communicating the domain change makes her a key witness and participant in the infrastructure takeover.
+
+
+## Cross-References
+
+### Relations
+- [Relation: Revenue Hijacking Chain](../relations/REVENUE_HIJACKING_CHAIN.md)

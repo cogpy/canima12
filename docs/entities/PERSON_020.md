@@ -32,3 +32,9 @@ Linda, a RegimA employee in sales/accounts, is a key active participant in the e
 
 ## Foreknowledge Analysis (Tier B)
 Linda is classified as a **Tier B (Active Participant with Proven Knowledge)**. While it is possible she was acting on instructions without full knowledge of the overarching fraud, her direct and repeated execution of the payment redirection makes her a key witness and active participant in the mechanism of the theft.
+
+
+## Cross-References
+
+### Relations
+- [Relation: Revenue Hijacking Chain](../relations/REVENUE_HIJACKING_CHAIN.md)

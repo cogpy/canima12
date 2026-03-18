@@ -15,10 +15,10 @@
     "id": "BANKING_MANDATE_FRAUD",
     "title": "Banking Mandate Fraud Network",
     "entities_involved": [
-      "BANK_001",
-      "PERSON_005",
       "PERSON_001",
-      "PERSON_002"
+      "PERSON_002",
+      "PERSON_005",
+      "BANK_001"
     ],
     "file": "docs/relations/BANKING_MANDATE_FRAUD.md"
   },
@@ -50,8 +50,8 @@
     "id": "DUAL_CORPORATE_IDENTITY",
     "title": "Relation: Dual Corporate Identity \u2014 Kaylovest Three / Villa Via",
     "entities_involved": [
-      "ORG_027",
-      "ORG_005"
+      "ORG_005",
+      "ORG_027"
     ],
     "file": "docs/relations/DUAL_CORPORATE_IDENTITY.md"
   },
@@ -65,8 +65,8 @@
     "id": "FORGERY_BACKDATING_RELATIONS_2026_02_18",
     "title": "Forgery & Backdating Relations \u2014 Two-Date Distinction",
     "entities_involved": [
-      "PERSON_007",
-      "PERSON_002"
+      "PERSON_002",
+      "PERSON_007"
     ],
     "file": "docs/relations/FORGERY_BACKDATING_RELATIONS_2026_02_18.md"
   },
@@ -98,12 +98,12 @@
     "id": "KETONI_INSIDER_TRADING_NETWORK",
     "title": "Relation: Ketoni Insider Trading Network",
     "entities_involved": [
-      "ORG_016",
-      "TRUST_001",
       "PERSON_007",
       "PERSON_001",
+      "PERSON_002",
       "PERSON_015",
-      "PERSON_002"
+      "ORG_016",
+      "TRUST_001"
     ],
     "file": "docs/relations/KETONI_INSIDER_TRADING_NETWORK.md"
   },
@@ -132,15 +132,35 @@
     "file": "docs/relations/PETER_R10_6M_EXTRACTION.md"
   },
   {
+    "id": "REL_037",
+    "title": "REL_037: Unauthorized Access to Tax Records",
+    "entities_involved": [
+      "PERSON_001",
+      "PERSON_002",
+      "PLATFORM_002"
+    ],
+    "file": "docs/relations/REL_037.md"
+  },
+  {
+    "id": "REL_038",
+    "title": "REL_038: Deliberate API Severance",
+    "entities_involved": [
+      "PERSON_001",
+      "PERSON_002",
+      "PLATFORM_003"
+    ],
+    "file": "docs/relations/REL_038.md"
+  },
+  {
     "id": "REVENUE_HIJACKING_CHAIN",
     "title": "Relation: Revenue Hijacking Chain",
     "entities_involved": [
-      "PERSON_007",
-      "BANK_ACCOUNT_ABSA",
-      "PERSON_001",
+      "PERSON_002",
       "PERSON_020",
       "PERSON_021",
-      "PERSON_002"
+      "PERSON_001",
+      "PERSON_007",
+      "BANK_ACCOUNT_ABSA"
     ],
     "file": "docs/relations/REVENUE_HIJACKING_CHAIN.md"
   },
@@ -214,19 +234,28 @@
     "id": "director_of",
     "title": "Director Of Relations",
     "entities_involved": [
-      "Ketoni Investment Holdings (ORG_017)",
-      "Strategic Logistics Group (Pty) Ltd (ORG_004)",
-      "Regima Skin Treatments CC (ORG_002)",
-      "ReZonance (Pty) Ltd (ORG_008)",
-      "RegimA SA (ORG_006)",
-      "Jacqueline Faucitt (PERSON_004)",
-      "Peter Andrew Faucitt (PERSON_001)",
-      "Kevin Michael Derrick (PERSON_014)",
-      "Daniel James Faucitt (PERSON_005)",
-      "Regima Worldwide Distribution (Pty) Ltd (ORG_001)",
-      "RegimA Zone Ltd (ORG_003)",
-      "The George Group (ORG_018)",
-      "Kayla Pretorius (PERSON_013)"
+      "PERSON_001",
+      "ORG_001",
+      "PERSON_001",
+      "ORG_002",
+      "PERSON_001",
+      "ORG_004",
+      "PERSON_001",
+      "ORG_006",
+      "PERSON_004",
+      "ORG_001",
+      "PERSON_005",
+      "ORG_001",
+      "PERSON_005",
+      "ORG_003",
+      "PERSON_005",
+      "ORG_008",
+      "PERSON_013",
+      "ORG_008",
+      "PERSON_014",
+      "ORG_017",
+      "PERSON_014",
+      "ORG_018"
     ],
     "file": "docs/relations/director_of.md"
   },
@@ -234,12 +263,12 @@
     "id": "financial_flow",
     "title": "Financial Flow Relations",
     "entities_involved": [
-      "Ketoni Investment Holdings (ORG_017)",
-      "RegimA Worldwide Distribution (Pty) Ltd (ORG_001)",
-      "Suspected Fraudulent ABSA Accounts (BANK_ACCOUNT_ABSA)",
-      "ReZonance (Pty) Ltd (ORG_008)",
-      "Faucitt Family Trust (TRUST_001)",
-      "RegimA Skin Treatments (ORG_002)"
+      "ORG_002",
+      "ORG_008",
+      "ORG_017",
+      "TRUST_001",
+      "ORG_001",
+      "BANK_ACCOUNT_ABSA"
     ],
     "file": "docs/relations/financial_flow.md"
   },
@@ -253,13 +282,16 @@
     "id": "shareholder_of",
     "title": "Shareholder Of Relations",
     "entities_involved": [
-      "Ketoni Investment Holdings (ORG_017)",
-      "ReZonance (Pty) Ltd (ORG_008)",
-      "Faucitt Family Trust (TRUST_001)",
-      "Daniel James Faucitt (PERSON_005)",
-      "Regima Worldwide Distribution (Pty) Ltd (ORG_001)",
-      "RegimA Zone Ltd (ORG_003)",
-      "Kayla Pretorius (PERSON_013)"
+      "TRUST_001",
+      "ORG_001",
+      "TRUST_001",
+      "ORG_017",
+      "PERSON_005",
+      "ORG_003",
+      "PERSON_005",
+      "ORG_008",
+      "PERSON_013",
+      "ORG_008"
     ],
     "file": "docs/relations/shareholder_of.md"
   },
@@ -267,10 +299,12 @@
     "id": "trustee_of",
     "title": "Trustee Of Relations",
     "entities_involved": [
-      "Jacqueline Faucitt (PERSON_004)",
-      "Daniel Jacobus Bantjies (PERSON_007)",
-      "Faucitt Family Trust (TRUST_001)",
-      "Peter Andrew Faucitt (PERSON_001)"
+      "PERSON_001",
+      "TRUST_001",
+      "PERSON_004",
+      "TRUST_001",
+      "PERSON_007",
+      "TRUST_001"
     ],
     "file": "docs/relations/trustee_of.md"
   }
