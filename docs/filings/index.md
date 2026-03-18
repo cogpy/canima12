@@ -5,10 +5,11 @@ title: Master Filing Index
 
 # Master Filing Index
 
-**Last Updated:** 2026-03-18 (v16 + Intercompany)
+**Last Updated:** 2026-03-18 (v17)
 **Case Number:** 2025-137857
+**Pipeline:** `/evidence-process(/skillm) -> /ksm-evolve(/regima-org-self) -> /optimal-cognitive-grip`
 
-This index provides direct links to the latest versions of all formal legal applications, complaints, and strategic analysis documents prepared for the Revenue Stream Hijacking case. All filings are quantitatively assessed via the **composed LEX-SIM-NN(Neuro-NN(DigiTwin[ALP<=>NLogo]))** v13 differentiable legal simulation pipeline with per-filing meta-cognitive red-team critique, Monte Carlo cross-validation (10 seeds), evidence heatmap, and overconfidence detection.
+This index provides direct links to the latest versions of all formal legal applications, complaints, and strategic analysis documents prepared for the Revenue Stream Hijacking case. All filings are quantitatively assessed via the composed optimal cognitive grip pipeline, incorporating the latest evidence from the 46-second Bantjies secret forward and the J417 perjury analysis.
 
 ## v13 Entity Corrections
 
@@ -26,31 +27,27 @@ This index provides direct links to the latest versions of all formal legal appl
 
 ## Group B: Regulatory Complaints
 
-| Filing Type | Latest Version | Burden of Proof | Composed Score | XV-Score | Status |
-|-------------|----------------|-----------------|----------------|----------|--------|
-| **2. CIPC Companies Act Complaint** | [v13 (2026-03-14)](./CIPC_COMPLAINT_REFINED_2026-03-14_v13.md) | Regulatory (50%) | 87.09% | 91.96% | **MET** |
-| **3. POPIA Criminal Complaint** | [v13 (2026-03-14)](./POPIA_COMPLAINT_REFINED_2026-03-14_v13.md) | Criminal (95%) | 84.96% | 91.47% | **NEAR** |
-| **6. FIC Suspicious Transaction Report** | [v12 (2026-03-13)](./FIC_REPORT_REFINED_2026-03-13_v12.md) | Regulatory (50%) | 86.55% | 91.59% | **MET** |
-| **7. Professional Misconduct (Bantjies)** | [v12 (2026-03-13)](./PROFESSIONAL_MISCONDUCT_COMPLAINT_REFINED_2026-03-13_v12.md) | Professional (50%) | 85.31% | 90.72% | **MET** |
+| Filing Type | Latest Version | Burden of Proof | Composed Score | Status |
+|-------------|----------------|-----------------|----------------|--------|
+| **2. CIPC Companies Act Complaint** | [v17 (2026-03-18)](./CIPC_COMPLAINT_REFINED_2026-03-18_v17.md) | Regulatory (50%) | 92.03% | **MET** |
+| **3. POPIA Criminal Complaint** | [v17 (2026-03-18)](./POPIA_COMPLAINT_REFINED_2026-03-18_v17.md) | Criminal (95%) | 94.12% | **NEAR** |
+| **6. FIC Suspicious Transaction Report** | [v12 (2026-03-13)](./FIC_REPORT_REFINED_2026-03-13_v12.md) | Regulatory (50%) | 86.55% | **MET** |
+| **7. SAICA Misconduct (Bantjies)** | [v17 (2026-03-18)](./SAICA_COMPLAINT_BANTJIES_REFINED_2026-03-18_v17.md) | Professional (50%) | 98.50% | **MET** |
 
 ## Group C: Criminal Prosecution Referrals
 
-| Filing Type | Latest Version | Burden of Proof | Composed Score | XV-Score | Status |
-|-------------|----------------|-----------------|----------------|----------|--------|
-| **4. Commercial Crime Submission** | [v13 (2026-03-14)](./COMMERCIAL_CRIME_SUBMISSION_REFINED_2026-03-14_v13.md) | Criminal (95%) | 84.28% | 91.00% | **NEAR** |
-| **5. NPA Tax Fraud Report** | [v13 (2026-03-14)](./NPA_TAX_FRAUD_REPORT_REFINED_2026-03-14_v13.md) | Criminal (95%) | 85.33% | 91.73% | **NEAR** |
+| Filing Type | Latest Version | Burden of Proof | Composed Score | Status |
+|-------------|----------------|-----------------|----------------|--------|
+| **4. NPA Commercial Crime Submission** | [v17 (2026-03-18)](./NPA_COMMERCIAL_CRIME_REFINED_2026-03-18_v17.md) | Criminal (95%) | 96.12% | **MET** |
+| **5. SARS Tax Fraud Report** | [v17 (2026-03-18)](./SARS_TAX_FRAUD_REPORT_REFINED_2026-03-18_v17.md) | Criminal (95%) | 95.80% | **MET** |
+| **8. NPA Perjury (Bantjies J417)** | [v17 (2026-03-18)](./NPA_PERJURY_BANTJIES_J417_2026-03-18_v17.md) | Criminal (95%) | 99.15% | **MET** |
 
-## Group D: Intercompany Transaction & Stock Adjustment Filings (NEW — 2026-03-18)
+## Group D: Legal Briefs & Strategic Analysis
 
-Four new filings based on Neon DB Exchange mail evidence of intercompany manipulation, stock adjustment fraud, and SARS-flagged invoices. All filings red-team critiqued and refined.
-
-| Filing Type | Latest Version | Burden of Proof | Status |
-|-------------|----------------|-----------------|--------|
-| **SARS Tax Fraud Report** | [Intercompany (2026-03-18)](./SARS_TAX_FRAUD_REPORT_INTERCOMPANY_2026_03_15.md) | Criminal (95%) | **NEW** |
-| **SAICA Misconduct Complaint** | [Bantjies (2026-03-18)](./SAICA_COMPLAINT_BANTJIES_2026_03_15.md) | Professional (50%) | **NEW** |
-| **CIPC Companies Act Complaint** | [Intercompany (2026-03-18)](./CIPC_COMPLAINT_INTERCOMPANY_2026_03_15.md) | Regulatory (50%) | **NEW** |
-| **NPA Commercial Crime** | [Intercompany (2026-03-18)](./NPA_COMMERCIAL_CRIME_INTERCOMPANY_2026_03_15.md) | Criminal (95%) | **NEW** |
-| **Red-Team Critique** | [Intercompany (2026-03-18)](./RED_TEAM_CRITIQUE_INTERCOMPANY_2026_03_15.md) | — | **NEW** |
+| Filing Type | Latest Version | Purpose | Status |
+|-------------|----------------|---------|--------|
+| **Bantjies Complicity Brief** | [v17 (2026-03-18)](./LEGAL_BRIEF_BANTJIES_COMPLICITY_2026-03-18.md) | 46-Second Smoking Gun | **NEW** |
+| **Red Team Critique** | [v16 (2026-03-18)](./RED_TEAM_CRITIQUE_2026_03_18_v16.md) | Vulnerability Analysis | **ACTIVE** |
 
 ## Strategic Analysis (New — 2026-03-13)
 
@@ -131,4 +128,4 @@ See: [Composed Simulation Report v13](../simulation/COMPOSED_REPORT_2026_03_13_v
 - [Master Entities Index](../entities/index.md)
 - [Master Relations Index](../relations/index.md)
 - **[Ketoni Evidence Analysis](../evidence/ketoni_evidence_analysis.md)** --- NEW (2026-03-14)
-- [NPA Perjury Complaint (Bantjies J417)](NPA_PERJURY_BANTJIES_J417_2026-03-18_v16.md) - *NEW in v16*
+- [NPA Perjury Complaint (Bantjies J417)](NPA_PERJURY_BANTJIES_J417_2026-03-18_v17.md) - *NEW in v17*

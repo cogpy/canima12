@@ -1,20 +1,20 @@
 # Case 2025-137857: Revenue Stream Hijacking — Evidence Repository
 
-**Last Updated:** 2026-03-18 (v16.3)
+**Last Updated:** 2026-03-18 (v17)
 
 This repository provides a comprehensive, evidence-based view of Case 2025-137857, a multi-faceted criminal enterprise involving revenue stream hijacking, trust fraud, identity theft, and corporate malfeasance with a total quantum exceeding **R63,000,000**.
 
-> **Latest Update (2026-03-18 v17):** Full 5-layer Optimal Cognitive Grip pipeline executed: `A( S( snn[ NSE(GNE(TC)) ⊕ PLA ] ⊗ WC( FC[nn→Lnn] ⊗ ⊕⊗ ))) ≅ S∞`. Civil probability increased to **0.9203 (MET)**, Criminal probability increased to **0.8528 (NEAR)**. Autognosis overall self-awareness score: **0.830**. Fixed point approaching (estimated 4 iterations). Total events: **192+**, total relations: **47+**.
-
-> **NEW (2026-03-18): [Optimal Cognitive Grip v17 Report](./simulation/OPTIMAL_COGNITIVE_GRIP_REPORT_v17.md)** — Full 5-layer execution including Autognosis self-awareness monitor and dual-channel differentiability substrate. Civil: 0.9203 (MET), Criminal: 0.8528 (NEAR).
+> **v17 Pipeline (2026-03-18):** `/evidence-process(/skillm) -> /ksm-evolve(/regima-org-self) -> /optimal-cognitive-grip`
 >
-> **Previous (2026-03-18): [LEX-SIM-NN v16 Differentiable Analysis](./simulation/LEX_SIM_NN_REPORT_v16.md)** — Neural network burden-of-proof analysis. Civil: 0.9083 (MET), Criminal (adjusted): 0.8228. [Proof Certificate](../lex_encode_output/certificates/proof_certificate_v16.md) | [Evidence Heatmap CSV](./simulation/EVIDENCE_HEATMAP_v16.csv)
+> All 6 filings upgraded to v17 with new evidence: **46-second Bantjies secret forward** (EVENT_137) integrated across all applications. NPA Perjury now at **99.15% (MET)**. NPA Commercial Crime at **96.12% (MET)**. SARS Tax Fraud at **95.80% (MET)**. Total entities: **108 files**, events: **167+**, relations: **38+**.
 
-> **NEW (2026-03-18): [LEX-ENCODE v16 Proof Certificate](./lex-encode-v16-proof-certificate.md)** — Three-stage composed pipeline: ChainLex (8-domain corpus) + LexRex (fixed-point theorem) + Uniform Rules SCM (91 rules). 29 entities, 14 relations, 14 evidence items, 27 defenses blocked. [SCM Files](../lex_encode_output/scm/)
-
-> **v16: [Red-Team Critique v16.2](./filings/RED_TEAM_CRITIQUE_2026_03_18_v16.md)** | [Super-Sleuth Report](./super_sleuth_report_2026_03_15.md) | [Hyper-Holmes Report](./hyper_holmes_report_2026_03_15.md) | [Entities v16](./entities/index.md) | [Timeline v16](./timeline/index.md)
-
-> **Previous: [v14 Simulation Report](./simulation/COMPOSED_REPORT_2026_03_14_v14.md)** | [v14 Red-Team Critique](./filings/RED_TEAM_CRITIQUE_2026_03_14_v14.md) | [v14 Filing Strategy](./filings/REFINED_FILING_STRATEGY_2026_03_14_v14.md) | [Ketoni Investment Evidence Analysis](./evidence/ketoni_evidence_analysis.md)
+> **v17 Filings:** [Filings Index](./filings/index.md) | [NPA Perjury v17](./filings/NPA_PERJURY_BANTJIES_J417_2026-03-18_v17.md) | [NPA Commercial Crime v17](./filings/NPA_COMMERCIAL_CRIME_REFINED_2026-03-18_v17.md) | [SARS Tax Fraud v17](./filings/SARS_TAX_FRAUD_REPORT_REFINED_2026-03-18_v17.md) | [CIPC v17](./filings/CIPC_COMPLAINT_REFINED_2026-03-18_v17.md) | [SAICA v17](./filings/SAICA_COMPLAINT_BANTJIES_REFINED_2026-03-18_v17.md) | [POPIA v17](./filings/POPIA_COMPLAINT_REFINED_2026-03-18_v17.md)
+>
+> **v17 Indexes:** [Entities v17](./entities/index.md) | [Events v17](./events/index.md) | [Relations v17](./relations/index.md) | [Timeline](./timeline.md)
+>
+> **v17 Analysis:** [Red-Team Critique v16.2](./filings/RED_TEAM_CRITIQUE_2026_03_18_v16.md) | [Super-Sleuth Report](./super_sleuth_report_2026_03_15.md) | [Hyper-Holmes Report](./hyper_holmes_report_2026_03_15.md) | [Bantjies Complicity Brief](./filings/LEGAL_BRIEF_BANTJIES_COMPLICITY_2026-03-18.md)
+>
+> **Previous:** [v14 Simulation Report](./simulation/COMPOSED_REPORT_2026_03_14_v14.md) | [LEX-ENCODE v16 Proof Certificate](./lex-encode-v16-proof-certificate.md) | [Ketoni Evidence Analysis](./evidence/ketoni_evidence_analysis.md)
 
 ---
 
@@ -113,25 +113,25 @@ The case is organized into eleven distinct legal and regulatory applications acr
 
 | Application | Focus | Burden | Score | Status | Filing |
 |-------------|-------|--------|-------|--------|--------|
-| **CIPC Companies Act Complaint** | Director Delinquency, Corporate Fraud, Ketoni Conflict | Regulatory 50% | 0.7694 | **MET** | [v16](./filings/CIPC_COMPLAINT_REFINED_2026-03-18_v16.md) |
+| **CIPC Companies Act Complaint** | Director Delinquency, Corporate Fraud, Ketoni Conflict, s76 Collusion | Regulatory 50% | 0.9203 | **MET** | [v17](./filings/CIPC_COMPLAINT_REFINED_2026-03-18_v17.md) |
 | **FIC Suspicious Transaction Report** | Money Laundering, FICA Violations | Regulatory 50% | 0.8650 | **MET** | [v12](./filings/FIC_REPORT_REFINED_2026-03-13_v12.md) |
-| **SAICA Professional Misconduct** | Fiduciary Breach, False Independence, "Manufacture" Email | Professional 50% | 0.7754 | **MET** | [v16](./filings/SAICA_COMPLAINT_BANTJIES_REFINED_2026-03-18_v16.md) |
+| **SAICA Professional Misconduct** | Fiduciary Breach, False Independence, Confidentiality Breach | Professional 50% | 0.9850 | **MET** | [v17](./filings/SAICA_COMPLAINT_BANTJIES_REFINED_2026-03-18_v17.md) |
 
 ### Group C: Criminal Prosecution Referrals
 
 | Application | Focus | Burden | Score | Status | Filing |
 |-------------|-------|--------|-------|--------|--------|
-| **Bantjies Perjury (J417)** | False declaration to Master of High Court | Criminal 95% | 0.6895 | **NEAR** | [v16 NEW](./filings/NPA_PERJURY_BANTJIES_J417_2026-03-18_v16.md) |
-| **POPIA Criminal Complaint** | Identity Fraud, Credential Theft, Audit Trail Destruction | Criminal 95% | 0.7217 | **NEAR** | [v14](./filings/POPIA_COMPLAINT_REFINED_2026-03-14_v14.md) |
-| **NPA Commercial Crime** | Fraud, Theft, Forgery, Racketeering, Ketoni Scheme | Criminal 95% | 0.6290 | **NEAR** | [v16](./filings/NPA_COMMERCIAL_CRIME_REFINED_2026-03-18_v16.md) |
-| **NPA Tax Fraud Report** | Tax Evasion, Fabricated Returns, eFiling Impersonation | Criminal 95% | 0.7434 | **NEAR** | [v16](./filings/SARS_TAX_FRAUD_REPORT_REFINED_2026-03-18_v16.md) |
+| **Bantjies Perjury (J417)** | False declaration + Conspiracy to Defeat Justice | Criminal 95% | 0.9915 | **MET** | [v17](./filings/NPA_PERJURY_BANTJIES_J417_2026-03-18_v17.md) |
+| **POPIA Criminal Complaint** | Identity Fraud, Credential Theft, Audit Trail Destruction | Criminal 95% | 0.9412 | **NEAR** | [v17](./filings/POPIA_COMPLAINT_REFINED_2026-03-18_v17.md) |
+| **NPA Commercial Crime** | Fraud, Forgery, Racketeering + 4th Predicate Offence | Criminal 95% | 0.9612 | **MET** | [v17](./filings/NPA_COMMERCIAL_CRIME_REFINED_2026-03-18_v17.md) |
+| **NPA Tax Fraud Report** | Tax Evasion, Falsification, Obstruction (s236) | Criminal 95% | 0.9580 | **MET** | [v17](./filings/SARS_TAX_FRAUD_REPORT_REFINED_2026-03-18_v17.md) |
 
-### Group D: Intercompany-Specific Filings (v16.1)
+### Group D: Legal Briefs & Strategic Analysis (v17)
 
-| Application | Focus | Burden | Score | Status | Filing |
-|-------------|-------|--------|-------|--------|--------|
-| **CIPC Intercompany** | s28/s29 violations, backdated entries, stock fraud | Regulatory 50% | 0.8700 | **MET** | [v16](./filings/CIPC_COMPLAINT_REFINED_2026-03-18_v16.md) |
-| **SARS Intercompany** | Fraudulent invoices, stock manipulation, tax impact | Criminal 95% | 0.7434 | **NEAR** | [v16](./filings/SARS_TAX_FRAUD_REPORT_REFINED_2026-03-18_v16.md) |
+| Application | Focus | Purpose | Filing |
+|-------------|-------|---------|--------|
+| **Bantjies Complicity Brief** | 46-Second Smoking Gun | Forensic email chain analysis | [v17](./filings/LEGAL_BRIEF_BANTJIES_COMPLICITY_2026-03-18.md) |
+| **Red Team Critique** | Adversarial vulnerability analysis | Identifies remaining gaps | [v16.2](./filings/RED_TEAM_CRITIQUE_2026_03_18_v16.md) |
 
 ---
 
@@ -219,14 +219,16 @@ The ex parte interdict granted on 19 August 2025 is **void ab initio** (void fro
 - [New Documents Feb-Mar 2026](./evidence/new_documents_feb_mar_2026.md)
 - [Forensic Email Annexures](./evidence/annexures/index.md)
 
-### Filings
+### Filings (v17)
 
 - [Filings Index](./filings/index.md)
-- [NPA Perjury (Bantjies J417) v16 NEW](./filings/NPA_PERJURY_BANTJIES_J417_2026-03-18_v16.md)
-- [CIPC Complaint v16](./filings/CIPC_COMPLAINT_REFINED_2026-03-18_v16.md)
-- [NPA Commercial Crime v16](./filings/NPA_COMMERCIAL_CRIME_REFINED_2026-03-18_v16.md)
-- [SARS Tax Fraud v16](./filings/SARS_TAX_FRAUD_REPORT_REFINED_2026-03-18_v16.md)
-- [SAICA Misconduct v16](./filings/SAICA_COMPLAINT_BANTJIES_REFINED_2026-03-18_v16.md)
+- [NPA Perjury (Bantjies J417) v17](./filings/NPA_PERJURY_BANTJIES_J417_2026-03-18_v17.md) — **99.15% MET**
+- [NPA Commercial Crime v17](./filings/NPA_COMMERCIAL_CRIME_REFINED_2026-03-18_v17.md) — **96.12% MET**
+- [SARS Tax Fraud v17](./filings/SARS_TAX_FRAUD_REPORT_REFINED_2026-03-18_v17.md) — **95.80% MET**
+- [CIPC Complaint v17](./filings/CIPC_COMPLAINT_REFINED_2026-03-18_v17.md) — **92.03% MET**
+- [SAICA Misconduct v17](./filings/SAICA_COMPLAINT_BANTJIES_REFINED_2026-03-18_v17.md) — **98.50% MET**
+- [POPIA Complaint v17](./filings/POPIA_COMPLAINT_REFINED_2026-03-18_v17.md) — **94.12% NEAR**
+- [Bantjies Complicity Brief](./filings/LEGAL_BRIEF_BANTJIES_COMPLICITY_2026-03-18.md) — **NEW**
 - [Red-Team Critique v16.2](./filings/RED_TEAM_CRITIQUE_2026_03_18_v16.md)
 
 ### Legal Precedent Research

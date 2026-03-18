@@ -1,7 +1,18 @@
 # Entities Index
 
-**Last Updated:** 2026-03-15 (v15)
-**Total Entities:** 125+ (reconciled across revstream1 + ad-res-j7 via LEX-RECON + Super-Sleuth v15)
+**Last Updated:** 2026-03-18 (v17)  
+**Total Entities:** 125+ (reconciled across revstream1 + ad-res-j7)  
+**Pipeline:** `/evidence-process(/skillm) -> /ksm-evolve(/regima-org-self) -> /optimal-cognitive-grip`
+
+| Entity Type | Count | Locations |
+|-------------|-------|----------|
+| Persons (PERSON_) | 44 | docs/entities/, docs/entities/persons/ |
+| Organizations (ORG_) | 46 | docs/entities/, docs/entities/organizations/ |
+| Bank Accounts (BANK_) | 7 | docs/entities/ |
+| Trusts (TRUST_) | 1 | docs/entities/ |
+| Domains (DOMAIN_) | 2 | docs/entities/ |
+| Platforms (PLATFORM_) | 2 | docs/entities/ |
+| **Total Entity Files** | **108** | **across all subdirectories** |
 
 This index catalogs all entities involved in Case 2025-137857: Revenue Stream Hijacking.
 
@@ -214,4 +225,18 @@ Ketoni Investment Holdings (ORG_017)
 
 ---
 
-*Last updated by Super-Sleuth + Hyper-Holmes Pipeline: 2026-03-15 (v15)*
+---
+
+## v17 Entity-Filing Cross-Reference (2026-03-18)
+
+| Entity | Role in Case | Filing Applications |
+|--------|-------------|--------------------|
+| PERSON_001 (Peter Faucitt) | Primary Perpetrator | All 11 applications |
+| PERSON_002 (Rynette Farrar) | Co-Conspirator | CIPC, POPIA, NPA Commercial Crime, SARS, SAICA |
+| PERSON_007 (Bantjies) | Strategic Appointee | NPA Perjury (J417), SAICA, CIPC, SARS, NPA Commercial Crime |
+| PERSON_014 (Kevin Derrick) | Ketoni Connection | NPA Perjury (witness), Civil Actions |
+| ORG_017 (Ketoni) | Central Motive | Civil Actions, NPA Perjury |
+| ORG_018 (George Group) | Bantjies Employer | NPA Perjury, SAICA |
+| TRUST_001 (FFT) | Creditor R28.73M | Void Ab Initio, Civil Actions, NPA Perjury |
+
+*Last updated: 2026-03-18 by /evidence-process(/skillm) -> /ksm-evolve(/regima-org-self) -> /optimal-cognitive-grip pipeline.*

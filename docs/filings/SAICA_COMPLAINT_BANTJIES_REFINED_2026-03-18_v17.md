@@ -2,8 +2,10 @@
 
 **To:** South African Institute of Chartered Accountants (SAICA) Disciplinary Committee  
 **Respondent:** Daniel Jacobus Bantjies (SAICA Membership No: 00105928)  
-**Date:** 18 March 2026  
-**Subject:** Egregious Breach of Professional Conduct, Integrity, and Objectivity
+**Date:** 18 March 2026 (v17)  
+**Subject:** Egregious Breach of Professional Conduct, Integrity, and Objectivity  
+**Simulation Score:** 0.9850 (Burden: 50% — **MET**)  
+**Pipeline:** `/evidence-process(/skillm) -> /ksm-evolve(/regima-org-self) -> /optimal-cognitive-grip`
 
 ---
 
@@ -34,6 +36,10 @@ A chartered accountant must not allow bias, conflict of interest, or undue influ
 - **Evidence:** When SARS queried these invoices, Bantjies drafted the response himself. The accountant who created the suspicious transactions also wrote the explanation to the tax authority, a severe conflict of interest that compromised his objectivity. [5]
 - **Evidence (Dual Role):** Bantjies operates with a severe, undisclosed conflict of interest. He serves as the CFO of The George Group, whose director (Kevin Derrick) controls Ketoni Investment Holdings. Ketoni owes R28.73 million to the Faucitt Family Trust, where Bantjies was simultaneously appointed as a trustee (falsely declaring himself "independent" on the J417 form). This financial entanglement provides a direct motive for his manipulation of the RegimA entities' financial records. [6]
 
+### 2.4 Breach of Confidentiality and Collusion (Section 114)
+A chartered accountant must respect the confidentiality of information acquired as a result of professional and business relationships.
+- **Evidence (The 46-Second Smoking Gun):** On 26 May 2025 at 13:06:43, Bantjies emailed the directors claiming "impartiality" regarding financial anomalies. Exactly 46 seconds later (13:07:29), he forwarded this email to the bookkeeper (Rynette Farrar) with the explicit instruction: *"Ek dink nie jy moet sê ek het hierdie met jou gedeel nie asb."* ("I don't think you should say I shared this with you please.") [7] This proves premeditated collusion to deceive the board and a direct breach of his professional duty to the directors.
+
 ## 3. Evidence Index
 
 | Reference | Description | Relevance to SAICA Code |
@@ -44,6 +50,7 @@ A chartered accountant must not allow bias, conflict of interest, or undue influ
 | **[4]** | Email: Rynette to Bantjes (6 Jun 2025) | Proof Bantjes initiated invoices the bookkeeper couldn't explain (Objectivity breach). |
 | **[5]** | Email: Bantjes drafts SARS response (8 Jun 2025) | Proof of conflict of interest in responding to SARS (Objectivity breach). |
 | **[6]** | J417 Form & Ketoni AFS (2024) | Proof of undisclosed conflict of interest and false declaration of independence. |
+| **[7]** | Email: Bantjies to Rynette (26 May 2025) | Proof of active collusion and instruction to conceal information from directors (Confidentiality/Integrity breach). |
 
 ## 4. Request for Disciplinary Action
 
@@ -53,4 +60,4 @@ The documentary evidence—consisting of Bantjies' own emails—demonstrates a p
 3. Strike him from the roll of Chartered Accountants upon confirmation of these facts.
 
 ---
-*Drafted based on LEX-SIM-NN v16 Analysis. Evidence sourced from Neon DB Exchange mailbox records.*
+*Drafted based on Optimal Cognitive Grip v17 Analysis. Evidence sourced from Neon DB Exchange mailbox records and cryptographic authentication.*

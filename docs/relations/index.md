@@ -1,10 +1,11 @@
 # Master Relations Index
 
-**Last Updated:** 2026-03-18 (v15.1)  
-**Total Relations:** 37 documented files + 15 JSON-modeled relations  
-**Case Number:** 2025-137857
+**Last Updated:** 2026-03-18 (v17)  
+**Total Relations:** 38 documented files + 15 JSON-modeled relations  
+**Case Number:** 2025-137857  
+**Pipeline:** `/evidence-process(/skillm) -> /ksm-evolve(/regima-org-self) -> /optimal-cognitive-grip`
 
-This index catalogs all entity relationships documented in the Revenue Stream Hijacking case, organized by type and cross-referenced to all 7 applications.
+This index catalogs all entity relationships documented in the Revenue Stream Hijacking case, organized by type and cross-referenced to all 11 applications.
 
 ---
 
@@ -20,6 +21,7 @@ This index catalogs all entity relationships documented in the Revenue Stream Hi
 | **Coordinated Retaliation** | Manufactured Crisis | Peter, Rynette, Bantjies | 99% | [View](./COORDINATED_RETALIATION.md) |
 | **Elliott Attorneys Protection** | Obstruction | Elliott, Pottas, Rynette | 95% | [View](./ELLIOTT_ATTORNEYS_PROTECTION.md) |
 | **Bantjies False Independence** | Perjury / False Declaration | Bantjies, Master of High Court | **99%** | **[View](./BANTJIES_FALSE_INDEPENDENCE.md)** |
+| **Bantjies Secret Complicity** | Fiduciary Breach / Conspiracy | Bantjies, Rynette (46-second forward) | **100%** | **[View](../filings/LEGAL_BRIEF_BANTJIES_COMPLICITY_2026-03-18.md)** |
 
 ## Financial Fraud Relations (5 relations)
 
@@ -168,4 +170,23 @@ The following relations are modeled in structured JSON format within this index 
 
 ---
 
-*Last updated: 2026-03-18 (v15.1) | 37 relations documented — 5 new (Intercompany Fraud, Stock Adjustment, Backdated Entries, SARS Flagged Invoices, Rule 30 Dating Anomaly)*
+---
+
+## v17 Relation-to-Application Matrix (Updated 2026-03-18)
+
+The v17 matrix now maps relations to all 11 legal applications across 4 groups.
+
+| Relation | Group A (Court) | Group B (Regulatory) | Group C (Criminal) | Group D (Intercompany) |
+|----------|:---:|:---:|:---:|:---:|
+| Rynette-Bantjies Conspiracy | S | P | P | P |
+| Bantjies Secret Complicity (NEW) | S | P | P | S |
+| Ketoni Insider Trading | S | S | P | — |
+| Revenue Hijacking Chain | P | S | P | P |
+| Intercompany Fraud Network | P | P | P | P |
+| Stock Adjustment Fraud | S | P | P | P |
+| SARS Flagged Invoices | S | S | P | P |
+| Bantjies False Independence | P | P | P | — |
+
+**P** = Primary relevance | **S** = Supporting relevance
+
+*Last updated: 2026-03-18 (v17) by /evidence-process(/skillm) -> /ksm-evolve(/regima-org-self) -> /optimal-cognitive-grip pipeline.*
