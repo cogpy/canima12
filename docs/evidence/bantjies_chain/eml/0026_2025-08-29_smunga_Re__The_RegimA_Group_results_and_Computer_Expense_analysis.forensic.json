@@ -1,0 +1,235 @@
+{
+  "file_integrity": {
+    "file_name": "0026_2025-08-29_smunga_Re__The_RegimA_Group_results_and_Computer_Expense_analysis.eml",
+    "file_size_bytes": 60557,
+    "md5": "979047474eee0a8d69c8dc6a3cabf615",
+    "sha1": "e6cec03bfe17f4512ce03978df0b707c3759ef77",
+    "sha256": "65e508319777818da7fa9090bba5a0fce7815ea3029e8bbabb2d4ae2b9424128"
+  },
+  "message_identity": {
+    "graph_message_id": "AAMkAGE2YjljZjA1LTRlOWUtNDhjYi1iZjNkLWI4ZWRlNDQwYTU0MABGAAAAAADPgXCfMl5uRqA6Xxa9Yh33BwAh607i92PMQLMLAH3HB5h5AAAAAAEMAAAh607i92PMQLMLAH3HB5h5AAkv9X2mAAA=",
+    "internet_message_id": "<JNAP275MB2000AFED7F8DC03131FAB42ED03AA@JNAP275MB2000.ZAFP275.PROD.OUTLOOK.COM>",
+    "conversation_id": "AAQkAGE2YjljZjA1LTRlOWUtNDhjYi1iZjNkLWI4ZWRlNDQwYTU0MAAQANakI1AD4zBNjcS2Ef1er0I="
+  },
+  "envelope": {
+    "subject": "Re: The RegimA Group results and Computer Expense analysis",
+    "from_name": "Shenaaz Munga",
+    "from_address": "smunga@ensafrica.com",
+    "to_recipients": [
+      "d@rzo.io",
+      "jfaucitt@proton.me"
+    ],
+    "cc_recipients": [
+      "dan@regima.com"
+    ],
+    "received_datetime": "2025-08-29T09:45:10Z",
+    "sent_datetime": "2025-08-29T09:44:54Z",
+    "importance": "normal"
+  },
+  "authentication": {
+    "spf": "pass",
+    "dkim": "pass",
+    "dmarc": "pass",
+    "raw_authentication_results": "spf=pass (sender IP is 41.74.201.121) smtp.mailfrom=ensafrica.com; dkim=pass (signature was verified) header.d=ensafrica.com;dmarc=pass action=none header.from=ensafrica.com;compauth=pass reason=100"
+  },
+  "body": {
+    "content_type": "html",
+    "preview": "Received, thanks Daniel.\r\n\r\nWe look forward to receiving the other information you were collating for us.\r\n\r\nKind regards\r\n\r\nShenaaz Munga\r\nExecutive\r\nDispute Resolution\r\n+27 67 180 4706\r\n+27 11 269 7",
+    "body_length_chars": 28956
+  },
+  "internet_headers": {
+    "received": [
+      "from PR3PR09MB4460.eurprd09.prod.outlook.com (2603:10a6:102:3a::18) by DB9PR09MB6743.eurprd09.prod.outlook.com with HTTPS; Fri, 29 Aug 2025 09:45:09 +0000",
+      "from PR3P195CA0012.EURP195.PROD.OUTLOOK.COM (2603:10a6:102:b6::17) by PR3PR09MB4460.eurprd09.prod.outlook.com (2603:10a6:102:3a::18) with Microsoft SMTP Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.9052.21; Fri, 29 Aug 2025 09:45:07 +0000",
+      "from AM4PEPF00025F9C.EURPRD83.prod.outlook.com (2603:10a6:102:b6:cafe::9d) by PR3P195CA0012.outlook.office365.com (2603:10a6:102:b6::17) with Microsoft SMTP Server (version=TLS1_3, cipher=TLS_AES_256_GCM_SHA384) id 15.20.9073.19 via Frontend Transport; Fri, 29 Aug 2025 09:45:07 +0000",
+      "from za-smtp-delivery-121.mimecast.co.za (41.74.201.121) by AM4PEPF00025F9C.mail.protection.outlook.com (10.167.16.11) with Microsoft SMTP Server (version=TLS1_3, cipher=TLS_AES_256_GCM_SHA384) id 15.20.9094.0 via Frontend Transport; Fri, 29 Aug 2025 09:45:06 +0000",
+      "from CT2P275CU008.outbound.protection.outlook.com (mail-southafricawestazon11021096.outbound.protection.outlook.com [40.107.145.96]) by relay.mimecast.com with ESMTP with STARTTLS (version=TLSv1.3, cipher=TLS_AES_256_GCM_SHA384) id za-mta-113-gDM1WT0tNb-edhhC5Z_T3Q-2; Fri, 29 Aug 2025 11:45:00 +0200",
+      "from JNAP275MB2000.ZAFP275.PROD.OUTLOOK.COM (2603:1086:0:94::5) by JN1P275MB2400.ZAFP275.PROD.OUTLOOK.COM (2603:1086:0:a8::14) with Microsoft SMTP Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.9052.24; Fri, 29 Aug 2025 09:44:54 +0000",
+      "from JNAP275MB2000.ZAFP275.PROD.OUTLOOK.COM ([fe80::c3a:ac69:395:9922]) by JNAP275MB2000.ZAFP275.PROD.OUTLOOK.COM ([fe80::c3a:ac69:395:9922%5]) with mapi id 15.20.9052.023; Fri, 29 Aug 2025 09:44:54 +0000"
+    ],
+    "authentication-results": [
+      "spf=pass (sender IP is 41.74.201.121) smtp.mailfrom=ensafrica.com; dkim=pass (signature was verified) header.d=ensafrica.com;dmarc=pass action=none header.from=ensafrica.com;compauth=pass reason=100"
+    ],
+    "received-spf": [
+      "Pass (protection.outlook.com: domain of ensafrica.com designates 41.74.201.121 as permitted sender) receiver=protection.outlook.com; client-ip=41.74.201.121; helo=za-smtp-delivery-121.mimecast.co.za; pr=C"
+    ],
+    "dkim-signature": [
+      "v=1; a=rsa-sha256; c=relaxed/relaxed; d=ensafrica.com;\ts=mimecast20210503; t=1756460704;\th=from:from:reply-to:subject:subject:date:date:message-id:message-id:\t to:to:cc:cc:mime-version:mime-version:content-type:content-type:\t in-reply-to:in-reply-to:references:references;\tbh=YZ+JswrEFUWDupJ3LxStlrnJJ8UGe0oGxCqXjllDoWs=;\tb=NKz8QV5acSMenmsCyAmx8pIZLAJq2NLrzKuOvIVcFoAllLmCDyzJJrO4cYWz4i7DGSBTdf\tZrBvh6Iwg8DZZKCFCOt0XtnLh7BuoQXMD0ttY1eyvRhM7yOuxxNC8qQzhAhxNiH7igmQQ+\tFNWAUbQ8ViMUJXLiAe3tVczyvRjYg9eb1NT4NBvs2rBcVI7vRGEypn3wUeIU8/UICNrwRo\tbh5DT6/a9lwukyDk9fQMuIUcNhy4dFjZRUtgCMBq5pIiNj99HEq06aCfZ/q7V2Sa+TBHpD\ti81ykKDRkJEje66nM6JUWceZOsPLcbwpIOdUKB45Nd/oQINrJ/HYUyiwL7LmOg=="
+    ],
+    "x-mc-unique": [
+      "gDM1WT0tNb-edhhC5Z_T3Q-2"
+    ],
+    "x-mimecast-mfc-agg-id": [
+      "gDM1WT0tNb-edhhC5Z_T3Q_1756460700"
+    ],
+    "from": [
+      "\"Shenaaz Munga\" <smunga@ensafrica.com>"
+    ],
+    "to": [
+      "\"Daniel Faucitt\" <d@rzo.io>, \"j faucitt\" <jfaucitt@proton.me>"
+    ],
+    "cc": [
+      "\"Dan@regima Com (dan@regima.com)\" <dan@regima.com>"
+    ],
+    "subject": [
+      "Re: The RegimA Group results and Computer Expense analysis"
+    ],
+    "thread-topic": [
+      "The RegimA Group results and Computer Expense analysis"
+    ],
+    "thread-index": [
+      "AQHb2d2K1qQjUAPjME2NxLYR/V6vQrP8EckAgABS5ICAfXkNHIAAAZUH"
+    ],
+    "date": [
+      "Fri, 29 Aug 2025 09:44:54 +0000"
+    ],
+    "message-id": [
+      "<JNAP275MB2000AFED7F8DC03131FAB42ED03AA@JNAP275MB2000.ZAFP275.PROD.OUTLOOK.COM>"
+    ],
+    "references": [
+      "<CANC4RXfOGA=KXM5Sxftk9_RiH49wbhPUX0HvD_r4LE3yztR2gA@mail.gmail.com> <DB9PR09MB67430306FB13B959DEE61154D16AA@DB9PR09MB6743.eurprd09.prod.outlook.com> <CANC4RXe+YAHqWH2XNOD7S0D+W5hW_cEceV+NXzAwfcj9o4mTCg@mail.gmail.com> <DB9PR09MB6743648AAD42D3F8D089CF3AD13AA@DB9PR09MB6743.eurprd09.prod.outlook.com>"
+    ],
+    "in-reply-to": [
+      "<DB9PR09MB6743648AAD42D3F8D089CF3AD13AA@DB9PR09MB6743.eurprd09.prod.outlook.com>"
+    ],
+    "accept-language": [
+      "en-US"
+    ],
+    "x-ms-reactions": [
+      "allow"
+    ],
+    "x-ms-traffictypediagnostic": [
+      "JNAP275MB2000:EE_|JN1P275MB2400:EE_|AM4PEPF00025F9C:EE_|PR3PR09MB4460:EE_|DB9PR09MB6743:EE_"
+    ],
+    "x-ms-office365-filtering-correlation-id": [
+      "79d19c37-5a64-4e63-bd18-08dde6e0bcb6"
+    ],
+    "x-egress-defend-domain": [
+      "ensafrica.com"
+    ],
+    "x-ms-exchange-senderadcheck": [
+      "1"
+    ],
+    "x-ms-exchange-antispam-relay": [
+      "0"
+    ],
+    "x-microsoft-antispam-untrusted": [
+      "BCL:0;ARA:13230040|1800799024|366016|376014|38070700018|8096899003|7053199007|19033499003"
+    ],
+    "x-microsoft-antispam-message-info-original": [
+      "1yccqcZS4ocEF/Shf+AMlQX4bT2c8kaZA67vS690cEONATGimAiUFlJGnxoVcnrlGF7brvWhq1hVWfFaU92RCWmd4oTT13+bWs3Y5tX1Hqb9yO4wOlUIzZPK8uYTupRklQ6VmE+bm2373pb0Kdn95pXsG9ebtFzT67isWowjufDW5Qk1j+ctiAyJY5Iqqv3W+2bMyJW6f9PN/Q2YNtn6ctV6A8u/GGlRrIiiq5lFDwYWcnye1H2W7RcIwBDJFbhyvsm0c2bIQbTc/k2XNSNAkTHMFOSltEJISJ+F8OENIbsytvPrJOxul9Eapai1YN2UyKDRn7Sw8SmiLHBkWppH8cbeLBTScEHQBHpKZRIViH5MTneD9DB2lX9cMfYTeOamA2F05X2jzeajhFA61BGojSbvYPHYLfNaO/b/ox/MsNivhFpuSJxzq2nr3zzq6QHFnBOelf0030ROl6i+rtOhZhu1P808u688K/42gzu5/jAWGsFDGgbFcuf2RiLWwkOr3Y5O9qAtnauaE715rUQNZB7bYBBOERLNDRLiveTvLCC09zUHdAYhxA2mJ/0QoQ7Izn9bYKxQkAq7dCyasssgPMcwYhduyDAPGmNulNPDILBkdS1gBMD3bdoBqs/NlMUmT3KIMaMY5um2BsmR22bjIyv8KnBCgvGiG4iWoXYWjUZ7bukcgxD55mfgCxdmyZV5cAn7EI8vMgyv7YITxiUjR7HatP0H4DbN6ukFBetvzGXTxj+2eDfTHiyLbDbOi5ojh5f1tIIT/EVeiq16GXm9aubuN3JHZICvq7kFSIItG1FQhmKDPMYE7VQtrjP4Zm2hku0v1KbjoRgHqlDQj3Jl5VWsZ1FciqyjmY/su//18hi9D0qwttCmyqnsTepkAAKkMtSV7h1qtU9prZ2Tsz5rRcwQJtqRFQ4DbxVCOhOTqLN33u+CqvaqCIefmevWSTiECiGUDxlwy7LcggBtjTeWhabFYQs1ceKdIfGEaZcokkkC0ibiyNrtJkxQGON3rEIRIBFqIoXO7xTuvm5r1yVrEojHIL2K9+zCwXbhRIzzpJgw1CpTSCRVymrI+bHJzGutpmFTG2C09CJT1oXvq0M++V95iUlXUBYwF6HbU9h6S4tRAhPajc+JB9y9cBynf9NSwopG7gOmzYVZHLdKbXEA9gqTbgZB4GduQSkRSPXQgie7W/rH+pxnzR39luLmUodemj69BH2cyf3gCNUnH+6gi01bB+v5mu8o6hlHZWi01R1pdvkEV6NA1FjOD5z4vJokfdfdMR/nramBYZXCl4101Vpms2+GS5/jOPZvQDA6Vp44uESTI5n+uqysji0TVRUUJ1wo34u+z1b3Ha68T4QffaJdh3c1ZBvChe9HoXA3uJjESD0W+VSQUMEvnNlf7J5SB2pbMJSfBSi1/oC0IbQsjLN0msJ55r7+cowwR7eScQV9lmWO44pjQH6WyETLyyvhalYGDDvdE0l7A5u2e//ZeA=="
+    ],
+    "x-forefront-antispam-report-untrusted": [
+      "CIP:255.255.255.255;CTRY:;LANG:en;SCL:1;SRV:;IPV:NLI;SFV:NSPM;H:JNAP275MB2000.ZAFP275.PROD.OUTLOOK.COM;PTR:;CAT:NONE;SFS:(13230040)(1800799024)(366016)(376014)(38070700018)(8096899003)(7053199007)(19033499003);DIR:OUT;SFP:1102"
+    ],
+    "mime-version": [
+      "1.0"
+    ],
+    "x-ms-exchange-transport-crosstenantheadersstamped": [
+      "JN1P275MB2400",
+      "PR3PR09MB4460"
+    ],
+    "x-mimecast-spam-score": [
+      "0"
+    ],
+    "x-mimecast-mfc-proc-id": [
+      "B57jwJ5ErtMwcnn8jlPbOL9uSQ9O6I2uc4n9-c2i-0E_1756460700"
+    ],
+    "x-mimecast-originator": [
+      "ensafrica.com"
+    ],
+    "content-language": [
+      "en-GB"
+    ],
+    "content-type": [
+      "multipart/alternative"
+    ],
+    "return-path": [
+      "smunga@ensafrica.com"
+    ],
+    "x-ms-exchange-organization-expirationstarttime": [
+      "29 Aug 2025 09:45:06.9633 (UTC)"
+    ],
+    "x-ms-exchange-organization-expirationstarttimereason": [
+      "OriginalSubmit"
+    ],
+    "x-ms-exchange-organization-expirationinterval": [
+      "1:00:00:00.0000000"
+    ],
+    "x-ms-exchange-organization-expirationintervalreason": [
+      "OriginalSubmit"
+    ],
+    "x-ms-exchange-organization-network-message-id": [
+      "79d19c37-5a64-4e63-bd18-08dde6e0bcb6"
+    ],
+    "x-eopattributedmessage": [
+      "0"
+    ],
+    "x-eoptenantattributedmessage": [
+      "dc24b9a5-3925-471f-b9f9-0a4a5081b8c5:0"
+    ],
+    "x-ms-exchange-organization-messagedirectionality": [
+      "Incoming"
+    ],
+    "x-ms-exchange-transport-crosstenantheadersstripped": [
+      "AM4PEPF00025F9C.EURPRD83.prod.outlook.com"
+    ],
+    "x-ms-publictraffictype": [
+      "Email"
+    ],
+    "x-ms-exchange-organization-authsource": [
+      "AM4PEPF00025F9C.EURPRD83.prod.outlook.com"
+    ],
+    "x-ms-exchange-organization-authas": [
+      "Anonymous"
+    ],
+    "x-ms-office365-filtering-correlation-id-prvs": [
+      "67ea5e30-8b87-4f49-7268-08dde6e0b57f"
+    ],
+    "x-ms-exchange-organization-scl": [
+      "1"
+    ],
+    "x-microsoft-antispam": [
+      "BCL:0;ARA:13230040|4022899009|69100299015|12012899012|35042699022|1032899013|7053199007|8096899003|2066899003;"
+    ],
+    "x-forefront-antispam-report": [
+      "CIP:41.74.201.121;CTRY:ZA;LANG:en;SCL:1;SRV:;IPV:NLI;SFV:NSPM;H:za-smtp-delivery-121.mimecast.co.za;PTR:za-smtp-delivery-121.mimecast.co.za;CAT:NONE;SFS:(13230040)(4022899009)(69100299015)(12012899012)(35042699022)(1032899013)(7053199007)(8096899003)(2066899003);DIR:INB;"
+    ],
+    "x-ms-exchange-crosstenant-originalarrivaltime": [
+      "29 Aug 2025 09:45:06.1893 (UTC)"
+    ],
+    "x-ms-exchange-crosstenant-network-message-id": [
+      "79d19c37-5a64-4e63-bd18-08dde6e0bcb6"
+    ],
+    "x-ms-exchange-crosstenant-id": [
+      "dc24b9a5-3925-471f-b9f9-0a4a5081b8c5"
+    ],
+    "x-ms-exchange-crosstenant-authsource": [
+      "AM4PEPF00025F9C.EURPRD83.prod.outlook.com"
+    ],
+    "x-ms-exchange-crosstenant-authas": [
+      "Anonymous"
+    ],
+    "x-ms-exchange-crosstenant-fromentityheader": [
+      "Internet"
+    ],
+    "x-ms-exchange-transport-endtoendlatency": [
+      "00:00:03.2416419"
+    ],
+    "x-ms-exchange-processed-by-bccfoldering": [
+      "15.20.9052.000"
+    ],
+    "x-microsoft-antispam-mailbox-delivery": [
+      "abwl:1;ucf:0;jmr:0;auth:0;dest:I;ENG:(910005)(944506478)(944626604)(920097)(821098)(255002)(410001)(930097)(140003)(1310096);"
+    ],
+    "x-microsoft-antispam-message-info": [
+      "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"
+    ]
+  },
+  "extraction_metadata": {
+    "extracted_at": "2026-03-18T10:43:20.603735Z",
+    "source": "Microsoft Graph API v1.0",
+    "user_mailbox": "d@rzo.io",
+    "method": "GET /users/{id}/messages/{id}/$value"
+  }
+}

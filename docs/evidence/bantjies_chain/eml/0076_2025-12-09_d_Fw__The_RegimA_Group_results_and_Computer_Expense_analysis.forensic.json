@@ -1,0 +1,47 @@
+{
+  "file_integrity": {
+    "file_name": "0076_2025-12-09_d_Fw__The_RegimA_Group_results_and_Computer_Expense_analysis.eml",
+    "file_size_bytes": 33612,
+    "md5": "2d702a9fec97c119a171e2cc69535637",
+    "sha1": "8401e8c8cf6292a7399e8062cd859c71c45dc52a",
+    "sha256": "8e13934044849fcc61b37d4e06db09a2a5eee39748f66b24428fd167229eed4d"
+  },
+  "message_identity": {
+    "graph_message_id": "AAMkAGE2YjljZjA1LTRlOWUtNDhjYi1iZjNkLWI4ZWRlNDQwYTU0MABGAAAAAADPgXCfMl5uRqA6Xxa9Yh33BwAh607i92PMQLMLAH3HB5h5AAAAAAEJAAAh607i92PMQLMLAH3HB5h5AAl1wizwAAA=",
+    "internet_message_id": "<DB9PR09MB6743195F2902921823407D77D1A3A@DB9PR09MB6743.eurprd09.prod.outlook.com>",
+    "conversation_id": "AAQkAGE2YjljZjA1LTRlOWUtNDhjYi1iZjNkLWI4ZWRlNDQwYTU0MAAQANakI1AD4zBNjcS2Ef1er0I="
+  },
+  "envelope": {
+    "subject": "Fw: The RegimA Group results and Computer Expense analysis",
+    "from_name": "Daniel Faucitt",
+    "from_address": "d@rzo.io",
+    "to_recipients": [
+      "jax@regima.zone"
+    ],
+    "cc_recipients": [
+      "rudi@pottaslaw.co.za",
+      "stef@riskinternational.co.za"
+    ],
+    "received_datetime": "2025-12-09T07:03:52Z",
+    "sent_datetime": "2025-12-09T07:03:51Z",
+    "importance": "high"
+  },
+  "authentication": {
+    "spf": "unknown",
+    "dkim": "unknown",
+    "dmarc": "unknown",
+    "raw_authentication_results": ""
+  },
+  "body": {
+    "content_type": "html",
+    "preview": "________________________________\r\nFrom: Danie Bantjes <danie.bantjes@gmail.com>\r\nSent: 10 June 2025 3:33 PM\r\nTo: Daniel Faucitt <d@rzo.io>\r\nCc: Peter Andrew Faucitt <pete@regima.com>; Jacqui Faucitt <",
+    "body_length_chars": 19384
+  },
+  "internet_headers": {},
+  "extraction_metadata": {
+    "extracted_at": "2026-03-18T10:46:39.912460Z",
+    "source": "Microsoft Graph API v1.0",
+    "user_mailbox": "d@rzo.io",
+    "method": "GET /users/{id}/messages/{id}/$value"
+  }
+}

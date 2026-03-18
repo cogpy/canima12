@@ -1,0 +1,44 @@
+{
+  "file_integrity": {
+    "file_name": "0021_2025-08-27_d_Fw__danie_reports_250610.eml",
+    "file_size_bytes": 17653193,
+    "md5": "f388c9fe3a627be70fb91027d1b7730d",
+    "sha1": "de3ecd3f31821cad718ab37fa6f9d1ed504390ca",
+    "sha256": "0e3c6a62b10c5794596211e539658400dbf18d94d401dbcd120ab638f8b0d4e8"
+  },
+  "message_identity": {
+    "graph_message_id": "AAMkAGE2YjljZjA1LTRlOWUtNDhjYi1iZjNkLWI4ZWRlNDQwYTU0MABGAAAAAADPgXCfMl5uRqA6Xxa9Yh33BwAh607i92PMQLMLAH3HB5h5AAAAAAEPAAAh607i92PMQLMLAH3HB5h5AAkv9na6AAA=",
+    "internet_message_id": "<DB9PR09MB6743D7EC73C4BD4AD11344C8D138A@DB9PR09MB6743.eurprd09.prod.outlook.com>",
+    "conversation_id": "AAQkAGE2YjljZjA1LTRlOWUtNDhjYi1iZjNkLWI4ZWRlNDQwYTU0MAAQAGU6hEBpPMRCmjI9dm_0s4E="
+  },
+  "envelope": {
+    "subject": "Fw: danie reports 250610",
+    "from_name": "Daniel Faucitt",
+    "from_address": "d@rzo.io",
+    "to_recipients": [
+      "cmakutu@ENSafrica.com"
+    ],
+    "cc_recipients": [],
+    "received_datetime": "2025-08-27T18:11:35Z",
+    "sent_datetime": "2025-08-27T18:11:35Z",
+    "importance": "normal"
+  },
+  "authentication": {
+    "spf": "unknown",
+    "dkim": "unknown",
+    "dmarc": "unknown",
+    "raw_authentication_results": ""
+  },
+  "body": {
+    "content_type": "html",
+    "preview": "Get Outlook for Android\r\n________________________________\r\nFrom: Daniel Faucitt <dan@regima.zone>\r\nSent: Wednesday, August 27, 2025 12:37:46 PM\r\nTo: Daniel Faucitt <dan@regima.zone>\r\nCc: Daniel Faucit",
+    "body_length_chars": 4813
+  },
+  "internet_headers": {},
+  "extraction_metadata": {
+    "extracted_at": "2026-03-18T10:42:30.561921Z",
+    "source": "Microsoft Graph API v1.0",
+    "user_mailbox": "d@rzo.io",
+    "method": "GET /users/{id}/messages/{id}/$value"
+  }
+}
