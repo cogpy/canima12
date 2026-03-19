@@ -3043,17 +3043,28 @@
       },
       {
         "entity_id": "ORG_KETONI_001",
+        "name": "Ketoni Investment Holdings",
+        "full_name": "Ketoni Investment Holdings (Pty) Ltd",
+        "type": "investment_company",
+        "registration_number": "2023/562189/07",
+        "incorporation_date": "2023-02-20",
+        "role": "financial_nexus",
         "name": "Ketoni Investment Holdings Proprietary Limited",
         "type": "investment_holding_company",
         "role": "pass_through_investment_vehicle",
         "obligation": {
           "amount": "ZAR 18,750,000",
-          "recipient": "Faucitt Family Trust",
+          "recipient": "Faucitt Family Trust (IT 003651/2013)",
           "payout_date": "2026-05",
-          "structure": "Three-year payout schedule (May 2026, May 2027, May 2029)"
+          "structure": "Three-year payout schedule (May 2026, May 2027, May 2029)",
+          "beneficiary_split": {
+            "peter_faucitt": "ZAR 6,250,000 (1/3)",
+            "jacqueline_faucitt": "ZAR 6,250,000 (1/3)",
+            "daniel_faucitt": "ZAR 6,250,000 (1/3)"
+          }
         },
         "director": "Kevin Michael Derrick",
-        "shareholder": "Faucitt Family Trust (5,000 A-Ordinary shares)",
+        "shareholder": "Faucitt Family Trust (5,000 A-Ordinary shares, Certificate #3)",
         "investment_date": "2023-04-24",
         "significance": "CENTRAL FINANCIAL MOTIVE - All events converge on May 2026 payout",
         "network_dynamics": {
@@ -3062,15 +3073,61 @@
           "phase_3": "Control Consolidation Phase (Jul 2024 - Aug 2025): Peter consolidates control",
           "phase_4": "Payout Phase (May 2026): ALL EVENTS CONVERGE HERE"
         },
+        "annual_financial_statements": {
+          "fy2024": {
+            "year_end": "2024-02-29",
+            "prepared_by": "Forvis Mazars",
+            "review_type": "Independent Review (not full audit)",
+            "pages": 16,
+            "sections": ["Balance Sheet", "Income Statement", "Notes to Financial Statements", "Directors Report"],
+            "source_email": {
+              "from": "Danie Bantjes <danie.bantjes@gmail.com>",
+              "to": "Rynette Farrar <rynette@regima.zone>",
+              "date": "2025-01-29",
+              "subject": "Re: Faucitt family trust - agreement"
+            },
+            "original_filename": "Ketoni Investment Holdings AFS 2024 - Signed.pdf",
+            "evidentiary_notes": [
+              "First full-year AFS (12 months since incorporation)",
+              "Sent to bookkeeper Rynette, NOT to beneficiaries",
+              "Delivered 57 days before revenue hijacking scheme began (2025-03-01)",
+              "Delivered ~15 months before May 2026 payout option date",
+              "Places AFS within operational planning window of scheme"
+            ],
+            "outstanding_data_extraction": [
+              "Total asset base (ability to pay R18.75M)",
+              "R18.75M shareholder obligation disclosure in liabilities",
+              "Revenue and profitability figures",
+              "Full director listing",
+              "Related party transaction disclosures (George Group, FFT, Bantjies)",
+              "Share capital structure confirmation (FFT 5,000 A-Ordinary)",
+              "Going concern notes (risk indicators for payout)",
+              "Principal business description"
+            ]
+          }
+        },
         "ad_res_j7_references": [
+          "evidence/financial-analysis/ketoni_investment_holdings_afs_2024.md",
           "KETONI_PAYOUT_INTEGRATION_SUMMARY_V48-49.md",
           "evidence/FFT_KETONI_INVESTMENT_TIMELINE_V49.md",
           "lex/entity_relation_framework_v48_ketoni_payout_integrated.scm",
-          "lex/agent_based_model_v48_ketoni_integrated.scm"
+          "lex/agent_based_model_v48_ketoni_integrated.scm",
+          "docs/exchange-evidence/ketoni_motive.md",
+          "ketoni_correction_2026_01_28/KETONI_RELATIONSHIP_CORRECTION_2026_01_28.md",
+          "ANNEXURES/JF10/"
         ],
         "evidence_strength": "conclusive",
         "criminal_threshold": "95%_exceeded",
         "evidence": [
+          "JF10 - Trust Documents (FFT share certificate)",
+          "Ketoni Investment Holdings AFS 2024 - Signed.pdf (16 pages)",
+          "Exchange email 0863_20250129 - AFS sent to Rynette not beneficiaries",
+          "CIPC registration 2023/562189/07",
+          "Share Certificate #3 - 5,000 A-Ordinary shares (2023-04-24)"
+        ],
+        "evidence_enhanced_timestamp": "2026-03-11T00:00:00.000000",
+        "directors": ["Kevin Michael Derrick"],
+        "refinement_date": "2026-03-11T00:00:00.000000",
           "Ketoni Shareholder Agreement (Signed 24 April 2023)",
           "Ketoni AFS 2024"
         ],

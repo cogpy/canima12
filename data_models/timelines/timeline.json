@@ -4,11 +4,11 @@
     "created_date": "2025-11-10",
     "description": "Timeline refined with 7 new events from 1,632 Bantjies-Farrar communications",
     "case_number": "2025-137857",
-    "last_updated": "2026-03-07 08:26:37",
-    "changes": "Added 11 new timeline entries from February 2026 evidence package",
+    "last_updated": "2026-03-11 00:00:00",
+    "changes": "Added 2 AFS-related timeline entries: Ketoni AFS FY2024 year-end (2024-02-29) and AFS delivery to Rynette (2025-01-29)",
     "criminal_threshold_entries": 6,
-    "high_significance_entries": 7,
-    "total_entries": 136,
+    "high_significance_entries": 9,
+    "total_entries": 138,
     "civil_threshold_entries": 0,
     "completeness_audit": "2026-01-22 00:57:20",
     "by_year": {
@@ -37,11 +37,11 @@
       "2021": 5,
       "2022": 3,
       "2023": 11,
-      "2024": 4,
-      "2025": 44,
+      "2024": 5,
+      "2025": 45,
       "2026": 1
     },
-    "total_events": 149
+    "total_events": 151
   },
   "timeline": [
     {
@@ -2192,6 +2192,43 @@
       "event_ref": "EVENT_GEN_20240214"
     },
     {
+      "entry_id": "TL_AFS_001",
+      "date": "2024-02-29",
+      "event_type": "financial_reporting",
+      "title": "Ketoni AFS FY2024 Year-End - First Full-Year Financial Statements",
+      "description": "Ketoni Investment Holdings financial year ends. Annual Financial Statements independently reviewed (not audited) by Forvis Mazars. This is effectively the first full-year AFS since incorporation (2023-02-20). Confirms Ketoni was operationally active during Mar 2023 - Feb 2024.",
+      "key_actors": [
+        "Kevin Michael Derrick"
+      ],
+      "entities_involved": [
+        "ORG_KETONI_001"
+      ],
+      "evidence": [
+        "Ketoni Investment Holdings AFS 2024 - Signed.pdf (16 pages)",
+        "Forvis Mazars independent review engagement"
+      ],
+      "significance": "Confirms Ketoni as active entity with sufficient activity to warrant formal AFS; basis for assessing R18.75M payout capacity",
+      "timing_analysis": "T-26 months before May 2026 payout (~790 days)",
+      "ketoni_context": "AFS would disclose R18.75M liability, related party transactions, and going concern status",
+      "burden_of_proof": "verified_financial_statements",
+      "ad_res_j7_references": [
+        "evidence/financial-analysis/ketoni_investment_holdings_afs_2024.md",
+        "docs/exchange-evidence/ketoni_motive.md"
+      ],
+      "evidence_strength": "conclusive",
+      "key_actor_names": [
+        "Kevin Michael Derrick"
+      ],
+      "ad_res_j7_evidence_enhanced": [
+        "evidence/financial-analysis/ketoni_investment_holdings_afs_2024.md"
+      ],
+      "evidence_enhanced_timestamp": "2026-03-11T00:00:00.000000",
+      "actors": [
+        "Kevin Michael Derrick"
+      ],
+      "event_ref": "EVENT_AFS_20240229"
+    },
+    {
       "entry_id": "TL_KETONI_004",
       "date": "2024-07",
       "event_type": "trustee_appointment",
@@ -2343,6 +2380,54 @@
       ],
       "entities_involved": [],
       "ad_res_j7_evidence_enhanced": []
+    },
+    {
+      "entry_id": "TL_AFS_002",
+      "date": "2025-01-29",
+      "event_type": "document_delivery",
+      "title": "Ketoni AFS 2024 Sent to Rynette - Consciousness of Guilt Indicator",
+      "description": "Danie Bantjes sends Ketoni Investment Holdings AFS 2024 (Signed.pdf, 16 pages) to Rynette Farrar via email, NOT to FFT beneficiaries. AFS for a company owing R18.75M to FFT was sent to the bookkeeper (with no fiduciary role) rather than to Jacqueline Faucitt (Trustee and beneficiary). Consistent with pattern of Bantjes and Rynette controlling information flow while excluding Jacqueline and Daniel.",
+      "key_actors": [
+        "Daniel Jacobus Bantjies",
+        "Rynette Farrar"
+      ],
+      "entities_involved": [
+        "PERSON_007",
+        "PERSON_002",
+        "ORG_KETONI_001"
+      ],
+      "evidence": [
+        "Exchange email 0863_20250129_Re_ Faucitt family trust - agreement",
+        "Ketoni Investment Holdings AFS 2024 - Signed.pdf"
+      ],
+      "significance": "CRITICAL: AFS delivered to bookkeeper 57 days before revenue hijacking scheme began (2025-03-01); ~15 months before May 2026 payout; places AFS within operational planning window",
+      "timing_analysis": "T-15 months before payout (~457 days); 57 days before scheme begins",
+      "ketoni_context": "Information asymmetry - conspirators had AFS data, beneficiaries excluded",
+      "consciousness_of_guilt": {
+        "indicator": "Selective document routing",
+        "question": "Why send AFS for company owing R18.75M to FFT to bookkeeper instead of trustee/beneficiaries?",
+        "pattern": "Consistent with Bantjes-Rynette intermediary information control"
+      },
+      "burden_of_proof": "verified_exchange_email",
+      "ad_res_j7_references": [
+        "evidence/financial-analysis/ketoni_investment_holdings_afs_2024.md",
+        "docs/exchange-evidence/ketoni_motive.md"
+      ],
+      "evidence_strength": "conclusive",
+      "key_actor_names": [
+        "Daniel Jacobus Bantjies",
+        "Rynette Farrar"
+      ],
+      "ad_res_j7_evidence_enhanced": [
+        "evidence/financial-analysis/ketoni_investment_holdings_afs_2024.md",
+        "docs/exchange-evidence/ketoni_motive.md"
+      ],
+      "evidence_enhanced_timestamp": "2026-03-11T00:00:00.000000",
+      "actors": [
+        "Daniel Jacobus Bantjies",
+        "Rynette Farrar"
+      ],
+      "event_ref": "EVENT_AFS_20250129"
     },
     {
       "date": "2025-02-14",
