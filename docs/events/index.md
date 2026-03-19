@@ -1,26 +1,29 @@
 # Events Index
 
-**Last Updated:** 2026-03-03  
-**Total Events:** 150+
+**Last Updated:** 2026-03-18 (v18)  
+**Total Events:** 173 documented events across 7 phases  
+**Pipeline:** `/evidence-process(/skillm) -> /ksm-evolve(/regima-org-self) -> /optimal-cognitive-grip`
 
-This index catalogs all events in Case 2025-137857 organized by phase and significance.
+This index catalogs all events in Case 2025-137857: Revenue Stream Hijacking, organized by phase and significance.
 
 ---
 
 ## Quick Statistics
 
-| Category | Count | Criminal Threshold |
-|----------|-------|-------------------|
-| Total Events | 145+ | - |
-| Criminal Threshold Events | 63 | 95% EXCEEDED |
-| Ketoni-Related Events | 12 | Central Motive |
-| FNB Letter Events | 2 | KEY EVIDENCE |
-| Contempt Events | 7 | NEW EVIDENCE |
-| Void Ab Initio Events | 1 | CRITICAL |
-| **Forgery/Backdating Events** | **3** | **NEW — TWO-DATE DISTINCTION** |
-| **EA-18 Coordinated Action** | **1** | **PATTERN EVIDENCE** |
-| **SARS/Identity Fraud Events** | **2** | **NEW — CREDENTIAL ABUSE** |
-| **Trust Gatekeeping Events** | **1** | **NEW — INFORMATION CONTROL** |
+| Category | Count | Threshold Status |
+|----------|-------|------------------|
+| Total Event Files | 167 | — |
+| Criminal Threshold Events | 67+ | 95% EXCEEDED |
+| Ketoni-Related Events | 14 | Central Motive |
+| Intercompany Pipeline Events | 12 | SARS-Flagged |
+| Contempt/Void Ab Initio Events | 8 | CRITICAL |
+| Forgery/Backdating Events | 5 | TWO-DATE DISTINCTION |
+| SARS/Identity Fraud Events | 4 | CREDENTIAL ABUSE |
+| Trust Gatekeeping Events | 2 | INFORMATION CONTROL |
+| Bantjies Complicity Events | 3 | 46-SECOND SMOKING GUN |
+| Bantjies-Farrar Conspiracy Events | 8+ | COMPLETE NETWORK |
+| Revenue Hijacking Events | 3+ | 100+ EMAILS |
+| Dual Corporate Identity Events | 1 | KAYLOVEST/VILLA VIA |
 
 ---
 
@@ -267,25 +270,31 @@ The following 53 events meet the criminal burden of proof:
 
 ---
 
-*Last updated by LEX Investigation System: 2026-02-18*
-
 ---
 
-## LEX-RECON Reconciliation Updates (2026-03-08)
+## v17 Updates (2026-03-18)
 
-### New Events
+### New Events (March 2026)
 
 | Date | Event | Description | Link |
 |------|-------|-------------|------|
-| **2025-06-18** | **EVENT_121** | **100+ Banking Detail Change Emails** — Massive coordinated campaign to redirect revenue stream | [EVENT_121](./EVENT_121.md) |
+| **2025-05-26** | **EVENT_137** | **Bantjies Secret Forward (46-Second Smoking Gun)** — Forwards family email to Rynette with concealment instruction | [EVENT_137](./EVENT_137_BANTJIES_SECRET_FORWARD.md) |
+| **2026-03-14** | **EVENT_ND08** | **Enhanced Answering Affidavit V2.7** — 31 annexures (JF1-JF31), 3 confirmatory affidavits | — |
+| **2026-03-18** | **EVENT_138** | **Bantjies Complicity Legal Brief** — Forensic email chain analysis with cryptographic authentication | — |
 
-### Updated Statistics
+### v17 Cross-Reference: Events by Filing Application
 
-| Category | Count | Criminal Threshold |
-|----------|-------|-------------------|
-| Total Events | 155+ | - |
-| Criminal Threshold Events | 67 | 95% EXCEEDED |
-| Ketoni-Related Events | 12 | Central Motive |
-| **Bantjies-Farrar Conspiracy Events** | **8** | **NEW — COMPLETE NETWORK** |
-| **Revenue Hijacking Events** | **3** | **NEW — 100+ EMAILS** |
-| **Dual Corporate Identity Events** | **1** | **NEW — KAYLOVEST/VILLA VIA** |
+| Application | Key Events | Burden | Status |
+|-------------|-----------|--------|--------|
+| **Void Ab Initio (Rule 42)** | EVENT_082, EVENT_080, EVENT_081, EVENT_130 | Civil 50% | **MET** |
+| **Contempt Opposition** | EVENT_100, EVENT_101, EVENT_102, EVENT_104 | Civil 50% | **MET** |
+| **CIPC Companies Act** | EVENT_050, EVENT_051, EVENT_106, EVENT_110 | Regulatory 50% | **MET** |
+| **SAICA Misconduct** | EVENT_137, EVENT_063, EVENT_066, EVENT_130 | Professional 50% | **MET** |
+| **Bantjies Perjury (J417)** | EVENT_130, EVENT_137 | Criminal 95% | **NEAR** |
+| **POPIA Criminal** | EVENT_021, EVENT_110, EVENT_121 | Criminal 95% | **NEAR** |
+| **NPA Commercial Crime** | EVENT_050, EVENT_051, EVENT_063, EVENT_H010 | Criminal 95% | **NEAR** |
+| **SARS Tax Fraud** | EVENT_061, EVENT_063, EVENT_067 | Criminal 95% | **NEAR** |
+
+---
+
+*Last updated: 2026-03-18 by /evidence-process(/skillm) -> /ksm-evolve(/regima-org-self) -> /optimal-cognitive-grip pipeline.*

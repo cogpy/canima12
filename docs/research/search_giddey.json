@@ -1,0 +1,79 @@
+{
+  "query": "Giddey NO v JC Barnard void ab initio",
+  "filters": {
+    "nature": "Judgment"
+  },
+  "ordering": "relevance",
+  "total_count": 20,
+  "returned_count": 5,
+  "results": [
+    {
+      "title": "M WvC W (2462/2019) [2022] ZANCHC 79 (19 January 2022) (Reasons)",
+      "url": "https://lawlibrary.org.za/akn/za-nc/judgment/zanchc/2022/79/eng@2022-01-19",
+      "frbr_uri": "/akn/za-nc/judgment/zanchc/2022/79/eng@2022-01-19",
+      "position": "1",
+      "citation": "",
+      "metadata": [
+        "Northern Cape",
+        "19 January 2022",
+        "High Court of South Africa Northern Cape, Kimberley"
+      ],
+      "summary": "Court declares earlier marriage void ab initio for non‑compliance with statutory formalities; 2013 marriage subsists; respondent’s late request for reasons not condoned.",
+      "topics": "Family law – marriage validity – failure to complete marriage register and required Director‑General inquiry under Marriage Act renders a marriage null and void ab initio; Procedural law – Uniform Rules of Court rule 49(1)(c) peremptory; condonation under rule 27(3) required for late request for reasons; declaratory relief for nullity to ensure legal certainty."
+    },
+    {
+      "title": "Bester NNO and OthersvMirror Trading International (Pty) Ltd and Others (15426/2021) [2023] ZAWCHC 38 (26 April 2023)",
+      "url": "https://lawlibrary.org.za/akn/za-wc/judgment/zawchc/2023/38/eng@2023-04-26",
+      "frbr_uri": "/akn/za-wc/judgment/zawchc/2023/38/eng@2023-04-26",
+      "position": "2",
+      "citation": "2024 (1) SA 112 (WCC); [2023] 3 All SA 101 (WCC)",
+      "metadata": [
+        "Western Cape",
+        "26 April 2023",
+        "High Court of South Africa Western Cape, Cape Town"
+      ],
+      "summary": "Court found the bitcoin investment scheme unlawful and investor contracts void ab initio, but declined insolvency-specific declarations.",
+      "topics": "• Financial regulation/consumer protection – pyramid and ponzi schemes – CPA s 43: prohibition on pyramid schemes; • Contracts – effect of statutory illegality and s 51 CPA: agreements void ab initio; • Insolvency law – cryptocurrency (bitcoin) is movable \"property\" under the Insolvency Act; • Evidence/admissibility – use of s 417/418 enquiries and foreign witness material; • Civil procedure – motion proceedings and disputes of fact; when application vs trial appropriate; • Jurisdictional/novel issues – court’s power to declare illegality of internet/crypto business affecting many investors."
+    },
+    {
+      "title": "Camps Bay Ratepayers' and Residents' Association and AnothervHarrison and Another (560/2008) [2010] ZASCA 3 (17 February 2010)",
+      "url": "https://lawlibrary.org.za/akn/za/judgment/zasca/2010/3/eng@2010-02-17",
+      "frbr_uri": "/akn/za/judgment/zasca/2010/3/eng@2010-02-17",
+      "position": "3",
+      "citation": "[2010] 2 All SA 519 (SCA)",
+      "metadata": [
+        "17 February 2010",
+        "Supreme Court of Appeal of South Africa"
+      ],
+      "summary": "Whether municipal approval of amended building plans complied with statutory building, zoning and title‑deed requirements.",
+      "topics": "Administrative law – review of municipal building plan approval – meaning and sufficiency of building control officer’s recommendation; Building Standards Act s 7 – requirements for approval; Zoning Scheme – s 98 (façade height) and s 47 (building lines/setbacks); enforceability of restrictive title‑deed building line (clause D(d)); rider/amendment plans permissible under regulations; delay/laches in review proceedings; new grounds on appeal not entertained."
+    },
+    {
+      "title": "Rogal Holdings (Pty) Ltd and OthersvNaidoo and Others (2023/066197) [2025] ZAGPPHC 719 (7 July 2025)",
+      "url": "https://lawlibrary.org.za/akn/za-gp/judgment/zagpphc/2025/719/eng@2025-07-07",
+      "frbr_uri": "/akn/za-gp/judgment/zagpphc/2025/719/eng@2025-07-07",
+      "position": "4",
+      "citation": "",
+      "metadata": [
+        "Gauteng",
+        "7 July 2025",
+        "High Court of South Africa North Gauteng, Pretoria"
+      ],
+      "summary": "Application for leave to appeal dismissed as court maintains its previous judgment regarding sale validation and party interests.",
+      "topics": "Civil Procedure - Leave to appeal - Condonation - Criteria for appeal success - Executory contract validation."
+    },
+    {
+      "title": "Lutchman N.O. and OthersvAfrican Global Holdings (Pty) Ltd and Others; African Global Holdings (Pty) Ltd and OthersvLutchman N.O. and Others (1088 of 2020; 1135 of 2020) [2022] ZASCA 66 (10 May 2022)",
+      "url": "https://lawlibrary.org.za/akn/za/judgment/zasca/2022/66/eng@2022-05-10",
+      "frbr_uri": "/akn/za/judgment/zasca/2022/66/eng@2022-05-10",
+      "position": "5",
+      "citation": "[2022] 3 All SA 35 (SCA); 2022 (4) SA 529 (SCA)",
+      "metadata": [
+        "10 May 2022",
+        "Supreme Court of Appeal of South Africa"
+      ],
+      "summary": "A business rescue application suspends liquidation only after issue, sheriff service and prescribed notification to affected persons.",
+      "topics": "Company law – business rescue – s 131(6) – meaning of 'application is made' – requires issue, sheriff service on company and Commission, and prescribed notification to affected persons to suspend liquidation; interpretation of consent court order – manifest purpose and context determine whether consultation/consent requirement lapsed; costs – successful respondents entitled to full costs."
+    }
+  ]
+}

@@ -1,0 +1,727 @@
+{
+  "case_number": "2025-137857",
+  "case_name": "Revenue Stream Hijacking",
+  "version": "v13",
+  "date": "2026-03-12",
+  "architecture": "lex-sim-nn(neuro-nn(digitwin[alp <=> nlogo]))",
+  "entity_corrections": {
+    "Linda Kruger": "Office employee (bookkeeper/sales), NOT family member. Sent 39+ banking redirect emails on instructions.",
+    "Gayane Williams": "Office employee, NOT family member. Executed domain change on instructions."
+  },
+  "digitwin": {
+    "burden_assessment": {
+      "civil_probability": 1.0,
+      "criminal_probability": 1.0,
+      "evidence_accumulated": 11900000.0,
+      "legal_exposure": 72300000.0,
+      "diverted_total": 5000000
+    },
+    "agent_states": {
+      "Peter Faucitt": {
+        "name": "Peter Faucitt",
+        "role": "perpetrator",
+        "valence": -1.0,
+        "arousal": 0.259,
+        "cortisol": 0.808,
+        "dopamine": 0.808,
+        "serotonin": 0.22,
+        "norepinephrine": 0.0,
+        "mode": "STRESSED",
+        "event_count": 102
+      },
+      "Rynette Farrar": {
+        "name": "Rynette Farrar",
+        "role": "accomplice",
+        "valence": -1.0,
+        "arousal": 0.27,
+        "cortisol": 0.808,
+        "dopamine": 0.808,
+        "serotonin": 0.22,
+        "norepinephrine": 0.673,
+        "mode": "THREAT",
+        "event_count": 148
+      },
+      "Danie Bantjies": {
+        "name": "Danie Bantjies",
+        "role": "accomplice",
+        "valence": -1.0,
+        "arousal": 0.058,
+        "cortisol": 0.808,
+        "dopamine": 0.808,
+        "serotonin": 0.0,
+        "norepinephrine": 0.673,
+        "mode": "THREAT",
+        "event_count": 53
+      },
+      "Daniel Faucitt": {
+        "name": "Daniel Faucitt",
+        "role": "victim",
+        "valence": 1.0,
+        "arousal": 0.019,
+        "cortisol": 0.808,
+        "dopamine": 0.97,
+        "serotonin": 0.97,
+        "norepinephrine": 0.808,
+        "mode": "THREAT",
+        "event_count": 26
+      },
+      "Jacqui Faucitt": {
+        "name": "Jacqui Faucitt",
+        "role": "victim",
+        "valence": -0.42,
+        "arousal": 0.019,
+        "cortisol": 0.808,
+        "dopamine": 0.808,
+        "serotonin": 0.768,
+        "norepinephrine": 0.808,
+        "mode": "THREAT",
+        "event_count": 12
+      },
+      "Linda Kruger": {
+        "name": "Linda Kruger",
+        "role": "employee",
+        "valence": 0.0,
+        "arousal": 0.107,
+        "cortisol": 0.324,
+        "dopamine": 0.324,
+        "serotonin": 0.0,
+        "norepinephrine": 0.324,
+        "mode": "THREAT",
+        "event_count": 11
+      },
+      "Gayane Williams": {
+        "name": "Gayane Williams",
+        "role": "employee",
+        "valence": -0.32,
+        "arousal": 0.074,
+        "cortisol": 0.324,
+        "dopamine": 0.324,
+        "serotonin": 0.0,
+        "norepinephrine": 0.074,
+        "mode": "STRESSED",
+        "event_count": 8
+      },
+      "Darren Farrar": {
+        "name": "Darren Farrar",
+        "role": "accomplice",
+        "valence": -0.32,
+        "arousal": 0.019,
+        "cortisol": 0.198,
+        "dopamine": 0.324,
+        "serotonin": 0.0,
+        "norepinephrine": 0.0,
+        "mode": "REWARD",
+        "event_count": 4
+      }
+    },
+    "stocks": {
+      "legitimate_revenue": 0,
+      "diverted_revenue": 5000000,
+      "ketoni_receivable": 2000000,
+      "hidden_accounts": 0,
+      "legal_exposure": 72300000.0,
+      "evidence_strength": 11900000.0
+    },
+    "event_count": 190
+  },
+  "lex_sim_nn": {
+    "verdict": {
+      "civil_probability": 0.9987543821334839,
+      "criminal_probability": 0.9988766312599182,
+      "civil_threshold": 0.5,
+      "criminal_threshold": 0.95,
+      "civil_met": true,
+      "criminal_met": true
+    },
+    "attribution": {
+      "civil_attribution": {
+        "Temporal": 6.498916036434821e-07,
+        "Financial": 6.823427725066722e-07,
+        "Documentary": 2.80028359611606e-07,
+        "Testimonial": 4.5454294195224065e-07,
+        "Forensic": 3.685191245494934e-07,
+        "Relational/Intentional": 4.3652025283336116e-07
+      },
+      "criminal_attribution": {
+        "Temporal": 1.5702714790677419e-06,
+        "Financial": 1.5666839772165986e-06,
+        "Documentary": 6.640149763370573e-07,
+        "Testimonial": 1.118250793297193e-06,
+        "Forensic": 8.678283052176994e-07,
+        "Relational/Intentional": 1.0052742709376616e-06
+      }
+    },
+    "convergence": {
+      "final_loss": 1e-06,
+      "initial_loss": 0.053542,
+      "convergence_ratio": 2.6e-05,
+      "epochs_run": 150
+    },
+    "event_heatmap": [
+      {
+        "phase": 1,
+        "name": "Trust Forgery",
+        "civil_prob": 0.9988,
+        "criminal_prob": 0.9989,
+        "category_means": {
+          "Temporal": 0.875,
+          "Financial": 0.525,
+          "Documentary": 0.9125,
+          "Testimonial": 0.425,
+          "Forensic": 0.775,
+          "Relational": 0.875
+        }
+      },
+      {
+        "phase": 1,
+        "name": "Ketoni Registration",
+        "civil_prob": 0.9988,
+        "criminal_prob": 0.9989,
+        "category_means": {
+          "Temporal": 0.9125,
+          "Financial": 0.575,
+          "Documentary": 0.925,
+          "Testimonial": 0.375,
+          "Forensic": 0.825,
+          "Relational": 0.8875
+        }
+      },
+      {
+        "phase": 2,
+        "name": "Banking Mandate Fraud",
+        "civil_prob": 0.9988,
+        "criminal_prob": 0.9989,
+        "category_means": {
+          "Temporal": 0.925,
+          "Financial": 0.825,
+          "Documentary": 0.9125,
+          "Testimonial": 0.525,
+          "Forensic": 0.875,
+          "Relational": 0.8625
+        }
+      },
+      {
+        "phase": 2,
+        "name": "Domain Hijacking",
+        "civil_prob": 0.9988,
+        "criminal_prob": 0.9989,
+        "category_means": {
+          "Temporal": 0.875,
+          "Financial": 0.625,
+          "Documentary": 0.825,
+          "Testimonial": 0.4375,
+          "Forensic": 0.825,
+          "Relational": 0.825
+        }
+      },
+      {
+        "phase": 2,
+        "name": "Sage Account Takeover",
+        "civil_prob": 0.9988,
+        "criminal_prob": 0.9989,
+        "category_means": {
+          "Temporal": 0.8625,
+          "Financial": 0.675,
+          "Documentary": 0.8625,
+          "Testimonial": 0.475,
+          "Forensic": 0.775,
+          "Relational": 0.8125
+        }
+      },
+      {
+        "phase": 3,
+        "name": "Revenue Stream Diversion",
+        "civil_prob": 0.9988,
+        "criminal_prob": 0.9989,
+        "category_means": {
+          "Temporal": 0.9125,
+          "Financial": 0.875,
+          "Documentary": 0.875,
+          "Testimonial": 0.475,
+          "Forensic": 0.825,
+          "Relational": 0.875
+        }
+      },
+      {
+        "phase": 3,
+        "name": "SARS eFiling Impersonation",
+        "civil_prob": 0.9988,
+        "criminal_prob": 0.9989,
+        "category_means": {
+          "Temporal": 0.875,
+          "Financial": 0.725,
+          "Documentary": 0.925,
+          "Testimonial": 0.4875,
+          "Forensic": 0.875,
+          "Relational": 0.875
+        }
+      },
+      {
+        "phase": 4,
+        "name": "Manufacture Email",
+        "civil_prob": 0.9988,
+        "criminal_prob": 0.9989,
+        "category_means": {
+          "Temporal": 0.925,
+          "Financial": 0.675,
+          "Documentary": 0.9375,
+          "Testimonial": 0.5375,
+          "Forensic": 0.875,
+          "Relational": 0.9125
+        }
+      },
+      {
+        "phase": 4,
+        "name": "PP Peter Forgery",
+        "civil_prob": 0.9988,
+        "criminal_prob": 0.9989,
+        "category_means": {
+          "Temporal": 0.875,
+          "Financial": 0.625,
+          "Documentary": 0.9125,
+          "Testimonial": 0.4875,
+          "Forensic": 0.825,
+          "Relational": 0.8625
+        }
+      },
+      {
+        "phase": 5,
+        "name": "Fraud Discovery",
+        "civil_prob": 0.9988,
+        "criminal_prob": 0.9989,
+        "category_means": {
+          "Temporal": 0.925,
+          "Financial": 0.825,
+          "Documentary": 0.775,
+          "Testimonial": 0.575,
+          "Forensic": 0.775,
+          "Relational": 0.8125
+        }
+      },
+      {
+        "phase": 5,
+        "name": "Interdict Weaponization",
+        "civil_prob": 0.9988,
+        "criminal_prob": 0.9989,
+        "category_means": {
+          "Temporal": 0.875,
+          "Financial": 0.575,
+          "Documentary": 0.875,
+          "Testimonial": 0.4875,
+          "Forensic": 0.775,
+          "Relational": 0.8875
+        }
+      },
+      {
+        "phase": 6,
+        "name": "Evidence Compilation",
+        "civil_prob": 0.9988,
+        "criminal_prob": 0.9989,
+        "category_means": {
+          "Temporal": 0.925,
+          "Financial": 0.825,
+          "Documentary": 0.85,
+          "Testimonial": 0.5375,
+          "Forensic": 0.825,
+          "Relational": 0.8625
+        }
+      }
+    ]
+  },
+  "neuro_nn": {
+    "red_team_critique": {
+      "vulnerabilities": [
+        {
+          "category": "Financial",
+          "score": 0.619,
+          "gap": 0.131,
+          "critique": "Financial evidence needs forensic accounting expert testimony. Defence may argue amounts are estimates.",
+          "defence_response": "All financial amounts are derived from actual FNB bank statements, ABSA account records, and Sage accounting data. The R33.2M diversion figure is computed from verifiable transaction records, not estimates."
+        },
+        {
+          "category": "Testimonial",
+          "score": 0.4578,
+          "gap": 0.2922,
+          "critique": "CRITICAL: Prosecution relies heavily on documentary evidence without independent witness corroboration. Defence will argue all evidence is one-sided.",
+          "defence_response": "While formal affidavits are pending, 5 independent witnesses are available: FNB Legal (mandate fraud), Stock2Shop (API breakage), Sage SA (false death claim), Linda Kruger (banking instructions), Gayane Williams (domain instructions). Each can corroborate specific documentary evidence from their own records."
+        },
+        {
+          "category": "Forensic",
+          "score": 0.7319,
+          "gap": 0.0181,
+          "critique": "Forensic evidence is technical. Defence may argue metadata can be spoofed or that digital trails are unreliable.",
+          "defence_response": "Forensic evidence includes CIPC registration records (government database), FNB banking system logs, domain registrar WHOIS records, SARS eFiling audit trails, and Exchange email transport headers \u2014 all maintained by independent third parties with no motive to fabricate."
+        }
+      ],
+      "robustness": 0.5,
+      "category_scores": {
+        "Temporal": 0.8057,
+        "Financial": 0.619,
+        "Documentary": 0.7929,
+        "Testimonial": 0.4578,
+        "Forensic": 0.7319,
+        "Relational": 0.7749
+      }
+    },
+    "meta_cognition": {
+      "overconfidence_detected": true,
+      "adjusted_criminal_probability": 0.9389,
+      "confidence_level": 0.7,
+      "vulnerability_count": 3,
+      "filing_analysis": {
+        "CIPC Companies Act Complaint": {
+          "vulnerable_categories": [
+            {
+              "category": "Financial",
+              "weight": 0.15,
+              "impact": 0.0197,
+              "critique": "Financial evidence needs forensic accounting expert testimony. Defence may argue amounts are estimates.",
+              "defence_response": "All financial amounts are derived from actual FNB bank statements, ABSA account records, and Sage accounting data. The R33.2M diversion figure is computed from verifiable transaction records, not estimates."
+            },
+            {
+              "category": "Forensic",
+              "weight": 0.15,
+              "impact": 0.0027,
+              "critique": "Forensic evidence is technical. Defence may argue metadata can be spoofed or that digital trails are unreliable.",
+              "defence_response": "Forensic evidence includes CIPC registration records (government database), FNB banking system logs, domain registrar WHOIS records, SARS eFiling audit trails, and Exchange email transport headers \u2014 all maintained by independent third parties with no motive to fabricate."
+            }
+          ],
+          "filing_robustness": 0.67,
+          "is_criminal": false,
+          "recommendation": "Filing has 2 vulnerable categories affecting its score. Address Financial, Forensic to strengthen this filing."
+        },
+        "FIC Suspicious Transaction Report": {
+          "vulnerable_categories": [
+            {
+              "category": "Financial",
+              "weight": 0.35,
+              "impact": 0.0459,
+              "critique": "Financial evidence needs forensic accounting expert testimony. Defence may argue amounts are estimates.",
+              "defence_response": "All financial amounts are derived from actual FNB bank statements, ABSA account records, and Sage accounting data. The R33.2M diversion figure is computed from verifiable transaction records, not estimates."
+            },
+            {
+              "category": "Forensic",
+              "weight": 0.2,
+              "impact": 0.0036,
+              "critique": "Forensic evidence is technical. Defence may argue metadata can be spoofed or that digital trails are unreliable.",
+              "defence_response": "Forensic evidence includes CIPC registration records (government database), FNB banking system logs, domain registrar WHOIS records, SARS eFiling audit trails, and Exchange email transport headers \u2014 all maintained by independent third parties with no motive to fabricate."
+            }
+          ],
+          "filing_robustness": 0.67,
+          "is_criminal": false,
+          "recommendation": "Filing has 2 vulnerable categories affecting its score. Address Financial, Forensic to strengthen this filing."
+        },
+        "Civil Action (s163 Oppression)": {
+          "vulnerable_categories": [
+            {
+              "category": "Financial",
+              "weight": 0.25,
+              "impact": 0.0328,
+              "critique": "Financial evidence needs forensic accounting expert testimony. Defence may argue amounts are estimates.",
+              "defence_response": "All financial amounts are derived from actual FNB bank statements, ABSA account records, and Sage accounting data. The R33.2M diversion figure is computed from verifiable transaction records, not estimates."
+            },
+            {
+              "category": "Forensic",
+              "weight": 0.15,
+              "impact": 0.0027,
+              "critique": "Forensic evidence is technical. Defence may argue metadata can be spoofed or that digital trails are unreliable.",
+              "defence_response": "Forensic evidence includes CIPC registration records (government database), FNB banking system logs, domain registrar WHOIS records, SARS eFiling audit trails, and Exchange email transport headers \u2014 all maintained by independent third parties with no motive to fabricate."
+            }
+          ],
+          "filing_robustness": 0.67,
+          "is_criminal": false,
+          "recommendation": "Filing has 2 vulnerable categories affecting its score. Address Financial, Forensic to strengthen this filing."
+        },
+        "Professional Misconduct (Bantjies)": {
+          "vulnerable_categories": [
+            {
+              "category": "Financial",
+              "weight": 0.15,
+              "impact": 0.0197,
+              "critique": "Financial evidence needs forensic accounting expert testimony. Defence may argue amounts are estimates.",
+              "defence_response": "All financial amounts are derived from actual FNB bank statements, ABSA account records, and Sage accounting data. The R33.2M diversion figure is computed from verifiable transaction records, not estimates."
+            },
+            {
+              "category": "Testimonial",
+              "weight": 0.15,
+              "impact": 0.0438,
+              "critique": "CRITICAL: Prosecution relies heavily on documentary evidence without independent witness corroboration. Defence will argue all evidence is one-sided.",
+              "defence_response": "While formal affidavits are pending, 5 independent witnesses are available: FNB Legal (mandate fraud), Stock2Shop (API breakage), Sage SA (false death claim), Linda Kruger (banking instructions), Gayane Williams (domain instructions). Each can corroborate specific documentary evidence from their own records."
+            },
+            {
+              "category": "Forensic",
+              "weight": 0.15,
+              "impact": 0.0027,
+              "critique": "Forensic evidence is technical. Defence may argue metadata can be spoofed or that digital trails are unreliable.",
+              "defence_response": "Forensic evidence includes CIPC registration records (government database), FNB banking system logs, domain registrar WHOIS records, SARS eFiling audit trails, and Exchange email transport headers \u2014 all maintained by independent third parties with no motive to fabricate."
+            }
+          ],
+          "filing_robustness": 0.5,
+          "is_criminal": false,
+          "recommendation": "Filing has 3 vulnerable categories affecting its score. Address Financial, Testimonial, Forensic to strengthen this filing."
+        },
+        "POPIA Criminal Complaint": {
+          "vulnerable_categories": [
+            {
+              "category": "Testimonial",
+              "weight": 0.15,
+              "impact": 0.0438,
+              "critique": "CRITICAL: Prosecution relies heavily on documentary evidence without independent witness corroboration. Defence will argue all evidence is one-sided.",
+              "defence_response": "While formal affidavits are pending, 5 independent witnesses are available: FNB Legal (mandate fraud), Stock2Shop (API breakage), Sage SA (false death claim), Linda Kruger (banking instructions), Gayane Williams (domain instructions). Each can corroborate specific documentary evidence from their own records."
+            },
+            {
+              "category": "Forensic",
+              "weight": 0.3,
+              "impact": 0.0054,
+              "critique": "Forensic evidence is technical. Defence may argue metadata can be spoofed or that digital trails are unreliable.",
+              "defence_response": "Forensic evidence includes CIPC registration records (government database), FNB banking system logs, domain registrar WHOIS records, SARS eFiling audit trails, and Exchange email transport headers \u2014 all maintained by independent third parties with no motive to fabricate."
+            }
+          ],
+          "filing_robustness": 0.67,
+          "is_criminal": true,
+          "recommendation": "Filing has 2 vulnerable categories affecting its score. PRIORITY: Obtain witness affidavits to close the testimonial gap for criminal burden."
+        },
+        "Commercial Crime Submission": {
+          "vulnerable_categories": [
+            {
+              "category": "Financial",
+              "weight": 0.3,
+              "impact": 0.0393,
+              "critique": "Financial evidence needs forensic accounting expert testimony. Defence may argue amounts are estimates.",
+              "defence_response": "All financial amounts are derived from actual FNB bank statements, ABSA account records, and Sage accounting data. The R33.2M diversion figure is computed from verifiable transaction records, not estimates."
+            },
+            {
+              "category": "Forensic",
+              "weight": 0.15,
+              "impact": 0.0027,
+              "critique": "Forensic evidence is technical. Defence may argue metadata can be spoofed or that digital trails are unreliable.",
+              "defence_response": "Forensic evidence includes CIPC registration records (government database), FNB banking system logs, domain registrar WHOIS records, SARS eFiling audit trails, and Exchange email transport headers \u2014 all maintained by independent third parties with no motive to fabricate."
+            }
+          ],
+          "filing_robustness": 0.67,
+          "is_criminal": true,
+          "recommendation": "Filing has 2 vulnerable categories affecting its score. Address Financial, Forensic to strengthen this filing."
+        },
+        "NPA Tax Fraud Report": {
+          "vulnerable_categories": [
+            {
+              "category": "Financial",
+              "weight": 0.25,
+              "impact": 0.0328,
+              "critique": "Financial evidence needs forensic accounting expert testimony. Defence may argue amounts are estimates.",
+              "defence_response": "All financial amounts are derived from actual FNB bank statements, ABSA account records, and Sage accounting data. The R33.2M diversion figure is computed from verifiable transaction records, not estimates."
+            },
+            {
+              "category": "Forensic",
+              "weight": 0.15,
+              "impact": 0.0027,
+              "critique": "Forensic evidence is technical. Defence may argue metadata can be spoofed or that digital trails are unreliable.",
+              "defence_response": "Forensic evidence includes CIPC registration records (government database), FNB banking system logs, domain registrar WHOIS records, SARS eFiling audit trails, and Exchange email transport headers \u2014 all maintained by independent third parties with no motive to fabricate."
+            }
+          ],
+          "filing_robustness": 0.67,
+          "is_criminal": true,
+          "recommendation": "Filing has 2 vulnerable categories affecting its score. Address Financial, Forensic to strengthen this filing."
+        }
+      },
+      "overall_recommendation": "TESTIMONIAL EVIDENCE is the critical gap. Obtain 3-5 independent witness affidavits (FNB Legal, Stock2Shop, Sage SA, Linda Kruger, Gayane Williams) to close the criminal gap."
+    },
+    "personality": {
+      "adversarial": 0.8,
+      "analytical": 0.95,
+      "empathy": 0.6,
+      "skepticism": 0.85,
+      "thoroughness": 0.9
+    }
+  },
+  "filing_scores": {
+    "CIPC Companies Act Complaint": {
+      "evidence_strength": 0.8263,
+      "burden_threshold": 0.5,
+      "burden_met": true,
+      "gap": 0,
+      "cross_validated_strength": 0.8784,
+      "cross_validated_met": true,
+      "category_breakdown": {
+        "Temporal": 0.1358,
+        "Financial": 0.1124,
+        "Documentary": 0.2697,
+        "Testimonial": 0.0512,
+        "Forensic": 0.1256,
+        "Relational": 0.1316
+      },
+      "category_weights": {
+        "Temporal": 0.15,
+        "Financial": 0.15,
+        "Documentary": 0.3,
+        "Testimonial": 0.1,
+        "Forensic": 0.15,
+        "Relational": 0.15
+      },
+      "weakest_weighted_category": "Testimonial"
+    },
+    "FIC Suspicious Transaction Report": {
+      "evidence_strength": 0.8124,
+      "burden_threshold": 0.5,
+      "burden_met": true,
+      "gap": 0,
+      "cross_validated_strength": 0.8687,
+      "cross_validated_met": true,
+      "category_breakdown": {
+        "Temporal": 0.0905,
+        "Financial": 0.2624,
+        "Documentary": 0.1348,
+        "Testimonial": 0.0256,
+        "Forensic": 0.1674,
+        "Relational": 0.1316
+      },
+      "category_weights": {
+        "Temporal": 0.1,
+        "Financial": 0.35,
+        "Documentary": 0.15,
+        "Testimonial": 0.05,
+        "Forensic": 0.2,
+        "Relational": 0.15
+      },
+      "weakest_weighted_category": "Testimonial"
+    },
+    "Civil Action (s163 Oppression)": {
+      "evidence_strength": 0.8114,
+      "burden_threshold": 0.5,
+      "burden_met": true,
+      "gap": 0,
+      "cross_validated_strength": 0.868,
+      "cross_validated_met": true,
+      "category_breakdown": {
+        "Temporal": 0.1358,
+        "Financial": 0.1874,
+        "Documentary": 0.1798,
+        "Testimonial": 0.0512,
+        "Forensic": 0.1256,
+        "Relational": 0.1316
+      },
+      "category_weights": {
+        "Temporal": 0.15,
+        "Financial": 0.25,
+        "Documentary": 0.2,
+        "Testimonial": 0.1,
+        "Forensic": 0.15,
+        "Relational": 0.15
+      },
+      "weakest_weighted_category": "Testimonial"
+    },
+    "Professional Misconduct (Bantjies)": {
+      "evidence_strength": 0.8056,
+      "burden_threshold": 0.5,
+      "burden_met": true,
+      "gap": 0,
+      "cross_validated_strength": 0.8639,
+      "cross_validated_met": true,
+      "category_breakdown": {
+        "Temporal": 0.0905,
+        "Financial": 0.1124,
+        "Documentary": 0.2247,
+        "Testimonial": 0.0768,
+        "Forensic": 0.1256,
+        "Relational": 0.1755
+      },
+      "category_weights": {
+        "Temporal": 0.1,
+        "Financial": 0.15,
+        "Documentary": 0.25,
+        "Testimonial": 0.15,
+        "Forensic": 0.15,
+        "Relational": 0.2
+      },
+      "weakest_weighted_category": "Testimonial"
+    },
+    "POPIA Criminal Complaint": {
+      "evidence_strength": 0.8049,
+      "burden_threshold": 0.95,
+      "burden_met": false,
+      "gap": 0.1451,
+      "cross_validated_strength": 0.8634,
+      "cross_validated_met": false,
+      "category_breakdown": {
+        "Temporal": 0.0905,
+        "Financial": 0.075,
+        "Documentary": 0.1798,
+        "Testimonial": 0.0768,
+        "Forensic": 0.2511,
+        "Relational": 0.1316
+      },
+      "category_weights": {
+        "Temporal": 0.1,
+        "Financial": 0.1,
+        "Documentary": 0.2,
+        "Testimonial": 0.15,
+        "Forensic": 0.3,
+        "Relational": 0.15
+      },
+      "weakest_weighted_category": "Financial"
+    },
+    "Commercial Crime Submission": {
+      "evidence_strength": 0.8039,
+      "burden_threshold": 0.95,
+      "burden_met": false,
+      "gap": 0.1461,
+      "cross_validated_strength": 0.8627,
+      "cross_validated_met": false,
+      "category_breakdown": {
+        "Temporal": 0.1358,
+        "Financial": 0.2249,
+        "Documentary": 0.1348,
+        "Testimonial": 0.0512,
+        "Forensic": 0.1256,
+        "Relational": 0.1316
+      },
+      "category_weights": {
+        "Temporal": 0.15,
+        "Financial": 0.3,
+        "Documentary": 0.15,
+        "Testimonial": 0.1,
+        "Forensic": 0.15,
+        "Relational": 0.15
+      },
+      "weakest_weighted_category": "Testimonial"
+    },
+    "NPA Tax Fraud Report": {
+      "evidence_strength": 0.8114,
+      "burden_threshold": 0.95,
+      "burden_met": false,
+      "gap": 0.1386,
+      "cross_validated_strength": 0.868,
+      "cross_validated_met": false,
+      "category_breakdown": {
+        "Temporal": 0.1358,
+        "Financial": 0.1874,
+        "Documentary": 0.1798,
+        "Testimonial": 0.0512,
+        "Forensic": 0.1256,
+        "Relational": 0.1316
+      },
+      "category_weights": {
+        "Temporal": 0.15,
+        "Financial": 0.25,
+        "Documentary": 0.2,
+        "Testimonial": 0.1,
+        "Forensic": 0.15,
+        "Relational": 0.15
+      },
+      "weakest_weighted_category": "Testimonial"
+    }
+  },
+  "cross_validation": {
+    "alp_diverted": 5000000,
+    "nlogo_diverted": 4993383.9,
+    "nlogo_diverted_std": 59649.07,
+    "diverted_convergence": 0.9987,
+    "alp_exposure": 72300000.0,
+    "nlogo_exposure": 72110453.53,
+    "nlogo_exposure_std": 753311.22,
+    "exposure_convergence": 0.9974,
+    "overall_convergence": 0.998,
+    "converged": true,
+    "ensemble_runs": 10
+  }
+}

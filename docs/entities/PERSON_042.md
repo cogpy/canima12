@@ -38,3 +38,6 @@ Yudaken's correspondence with Bantjies proves that Bantjies had **insider knowle
 
 ---
 *Created: 2026-03-07 | Source: Rynette-Bantjies Communications Analysis*
+
+### Events
+- [EVENT_116: Bantjies Negotiates Ketoni SHA/MOI via George Group](../events/EVENT_116.md)

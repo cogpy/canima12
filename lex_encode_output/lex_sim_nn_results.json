@@ -1,0 +1,237 @@
+{
+  "pipeline": "lex-sim-nn \u2297 (lexrex \u2295 lex-encode-workflow)",
+  "case": "Intercompany Transactions & Stock Adjustments \u2014 Case 2025-137857",
+  "generated_at": "2026-03-14T23:37:55.194824",
+  "training_log": [
+    {
+      "epoch": 91,
+      "loss": 7.986078192819454e-06,
+      "civil_prob": 0.9972767233848572,
+      "criminal_prob": 0.997103750705719,
+      "civil_met": true,
+      "criminal_met": false,
+      "mode": "THREAT"
+    },
+    {
+      "epoch": 92,
+      "loss": 7.944466688059038e-06,
+      "civil_prob": 0.9972507357597351,
+      "criminal_prob": 0.9971458315849304,
+      "civil_met": true,
+      "criminal_met": false,
+      "mode": "THREAT"
+    },
+    {
+      "epoch": 93,
+      "loss": 7.749165282196676e-06,
+      "civil_prob": 0.9973469972610474,
+      "criminal_prob": 0.997137188911438,
+      "civil_met": true,
+      "criminal_met": false,
+      "mode": "THREAT"
+    },
+    {
+      "epoch": 94,
+      "loss": 7.613458971415336e-06,
+      "civil_prob": 0.9973345994949341,
+      "criminal_prob": 0.9971777200698853,
+      "civil_met": true,
+      "criminal_met": false,
+      "mode": "THREAT"
+    },
+    {
+      "epoch": 95,
+      "loss": 7.530116287549997e-06,
+      "civil_prob": 0.9973061084747314,
+      "criminal_prob": 0.9972615242004395,
+      "civil_met": true,
+      "criminal_met": false,
+      "mode": "THREAT"
+    },
+    {
+      "epoch": 96,
+      "loss": 7.4042760995022645e-06,
+      "civil_prob": 0.9973854422569275,
+      "criminal_prob": 0.9971930384635925,
+      "civil_met": true,
+      "criminal_met": false,
+      "mode": "THREAT"
+    },
+    {
+      "epoch": 97,
+      "loss": 7.286161007868941e-06,
+      "civil_prob": 0.9972819089889526,
+      "criminal_prob": 0.9973324537277222,
+      "civil_met": true,
+      "criminal_met": false,
+      "mode": "THREAT"
+    },
+    {
+      "epoch": 98,
+      "loss": 7.183546131273033e-06,
+      "civil_prob": 0.9973739385604858,
+      "criminal_prob": 0.9972214698791504,
+      "civil_met": true,
+      "criminal_met": false,
+      "mode": "THREAT"
+    },
+    {
+      "epoch": 99,
+      "loss": 7.039597145800751e-06,
+      "civil_prob": 0.997405469417572,
+      "criminal_prob": 0.9972906708717346,
+      "civil_met": true,
+      "criminal_met": false,
+      "mode": "THREAT"
+    },
+    {
+      "epoch": 100,
+      "loss": 6.919625169151307e-06,
+      "civil_prob": 0.9974803328514099,
+      "criminal_prob": 0.9972987771034241,
+      "civil_met": true,
+      "criminal_met": false,
+      "mode": "THREAT"
+    }
+  ],
+  "final_verdict": {
+    "civil_probability": 0.9974387884140015,
+    "criminal_probability": 0.997327446937561,
+    "civil_threshold": 0.5,
+    "criminal_threshold": 0.95,
+    "civil_met": true,
+    "criminal_met": true
+  },
+  "lens_scores": {
+    "Temporal": 0.8448514938354492,
+    "Financial": 0.8832378387451172,
+    "Documentary": 0.8266998529434204,
+    "Testimonial": 0.924896240234375,
+    "Forensic": 0.9006621837615967,
+    "Relational": 0.9011388421058655,
+    "Intentional": 0.8005155920982361
+  },
+  "evidence_attributions": [
+    {
+      "event": "R1.5M Intercompany Transfer",
+      "date": "2020-09-28",
+      "civil_attribution": {
+        "Temporal": 6.370308256009594e-05,
+        "Financial": 1.912788866320625e-05,
+        "Documentary": 3.686729905894026e-05,
+        "Testimonial": 7.283317245310172e-05,
+        "Forensic": 7.390091195702553e-05,
+        "Relational/Intentional": 8.167715714080259e-05
+      },
+      "criminal_attribution": {
+        "Temporal": 7.0824651629664e-05,
+        "Financial": 2.1501700757653452e-05,
+        "Documentary": 3.9416354411514476e-05,
+        "Testimonial": 7.954944157972932e-05,
+        "Forensic": 7.868636748753488e-05,
+        "Relational/Intentional": 8.877492655301467e-05
+      }
+    },
+    {
+      "event": "Backdated Journal Entries Directed",
+      "date": "2021-08-17",
+      "civil_attribution": {
+        "Temporal": 4.381435792311095e-05,
+        "Financial": 1.5132285625441e-05,
+        "Documentary": 2.5509836632409133e-05,
+        "Testimonial": 4.914274541079067e-05,
+        "Forensic": 5.155960388947278e-05,
+        "Relational/Intentional": 5.652581239701249e-05
+      },
+      "criminal_attribution": {
+        "Temporal": 4.729787542601116e-05,
+        "Financial": 1.4530874068441335e-05,
+        "Documentary": 2.565311297075823e-05,
+        "Testimonial": 5.1884595450246707e-05,
+        "Forensic": 5.3001076594227925e-05,
+        "Relational/Intentional": 5.9436810261104256e-05
+      }
+    },
+    {
+      "event": "R4.2M Stock Discrepancy Revealed",
+      "date": "2025-04-04",
+      "civil_attribution": {
+        "Temporal": 4.2549123463686556e-05,
+        "Financial": 1.4589658348995727e-05,
+        "Documentary": 2.452882290526759e-05,
+        "Testimonial": 4.670847920351662e-05,
+        "Forensic": 5.011141547583975e-05,
+        "Relational/Intentional": 5.461402906803414e-05
+      },
+      "criminal_attribution": {
+        "Temporal": 4.5778426283504814e-05,
+        "Financial": 1.4079806533118244e-05,
+        "Documentary": 2.467287049512379e-05,
+        "Testimonial": 4.92883991682902e-05,
+        "Forensic": 5.151537334313616e-05,
+        "Relational/Intentional": 5.73466022615321e-05
+      }
+    },
+    {
+      "event": "Bantjes Admits Years of Gaps",
+      "date": "2025-04-07",
+      "civil_attribution": {
+        "Temporal": 4.0630755393067375e-05,
+        "Financial": 1.4606562217522878e-05,
+        "Documentary": 2.3131706257117912e-05,
+        "Testimonial": 4.415657167555764e-05,
+        "Forensic": 4.7774537961231545e-05,
+        "Relational/Intentional": 5.2143870561849326e-05
+      },
+      "criminal_attribution": {
+        "Temporal": 4.371455361251719e-05,
+        "Financial": 1.3982062228024006e-05,
+        "Documentary": 2.317270809726324e-05,
+        "Testimonial": 4.6437860873993486e-05,
+        "Forensic": 4.896766404272057e-05,
+        "Relational/Intentional": 5.4596712288912386e-05
+      }
+    },
+    {
+      "event": "SARS Queries Big Intercompany Invoices",
+      "date": "2025-06-05",
+      "civil_attribution": {
+        "Temporal": 3.183348599122837e-05,
+        "Financial": 1.4083358109928668e-05,
+        "Documentary": 1.8328366422792897e-05,
+        "Testimonial": 3.3713109587552026e-05,
+        "Forensic": 3.805839514825493e-05,
+        "Relational/Intentional": 4.1351009713253006e-05
+      },
+      "criminal_attribution": {
+        "Temporal": 3.385715535841882e-05,
+        "Financial": 1.3417678928817622e-05,
+        "Documentary": 1.798366974981036e-05,
+        "Testimonial": 3.50658010574989e-05,
+        "Forensic": 3.851489600492641e-05,
+        "Relational/Intentional": 4.274825914762914e-05
+      }
+    },
+    {
+      "event": "Bantjes Drafts Own SARS Response",
+      "date": "2025-06-08",
+      "civil_attribution": {
+        "Temporal": 4.2492807551752776e-05,
+        "Financial": 1.4980561900301836e-05,
+        "Documentary": 2.4651086278026924e-05,
+        "Testimonial": 4.722395897260867e-05,
+        "Forensic": 5.002252146368846e-05,
+        "Relational/Intentional": 5.4856875067343935e-05
+      },
+      "criminal_attribution": {
+        "Temporal": 4.586693466990255e-05,
+        "Financial": 1.434811383660417e-05,
+        "Documentary": 2.4748258510953747e-05,
+        "Testimonial": 4.980840458301827e-05,
+        "Forensic": 5.135847459314391e-05,
+        "Relational/Intentional": 5.758370389230549e-05
+      }
+    }
+  ],
+  "events_count": 6
+}

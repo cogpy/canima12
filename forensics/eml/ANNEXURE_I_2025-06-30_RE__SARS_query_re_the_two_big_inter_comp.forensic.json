@@ -1,0 +1,50 @@
+{
+  "annexure_reference": "Annexure I: Rynette confirms SARS documentation uploaded (30 Jun 2025)",
+  "extraction_timestamp": "2026-03-15T04:17:40.378004Z",
+  "pipeline": "Neon DB \u2192 Graph API body/attachment sync \u2192 EML generation \u2192 Transport header fetch",
+  "file_integrity": {
+    "file_size_bytes": 22304,
+    "md5": "33366524600daed1f163b0b428b7276f",
+    "sha256": "6854f76f97c113c9be7faac29c002a090ba9bb4131b520209050c146192e5eed"
+  },
+  "message_identity": {
+    "db_id": "AQMkADMxMzkyY2FlLWNkMGEtNGM2My04OWFiLTNlZDRjNzkyNGUyMwBGAAADSLKv-EI8AESN7LMej4ROLgcAIySisE98NkWmcNijjztGYgAAAgEJAAAAIySisE98NkWmcNijjztGYgAEITOAswAAAA==",
+    "internet_message_id": "<VI0PR08MB10581F9C2CC1810B4EC82D6F9BA46A@VI0PR08MB10581.eurprd08.prod.outlook.com>",
+    "conversation_id": "AAQkADMxMzkyY2FlLWNkMGEtNGM2My04OWFiLTNlZDRjNzkyNGUyMwAQAPc2JgxV3ExOmvaieG_e27Q="
+  },
+  "envelope": {
+    "subject": "RE: SARS query re the two big inter company invoices at the end of February 2025",
+    "from_name": "Rynette Farrar",
+    "from_address": "rynette@regima.zone",
+    "to_recipients": "",
+    "cc_recipients": "[{'name': 'Pete', 'address': 'pete@regima.com'}]",
+    "received_datetime": "2025-06-30 11:25:00+00:00",
+    "sent_datetime": "2025-06-30 11:25:36+00:00"
+  },
+  "mailbox_context": {
+    "user_id": "52a423b7-13e7-4599-8d6f-c833ebce69d7",
+    "folder_name": null
+  },
+  "body": {
+    "content_type": "html",
+    "body_length_chars": 15915,
+    "preview": "Hi\r\n\r\nI uploaded all the documentation they asked for.\r\n\r\nRegards\r\n\r\n\r\n\r\n\r\n\r\nFrom: Danie Bantjes <danie.bantjes@gmail.com>\r\nSent: Monday, June 30, 2025 1:24 PM\r\nTo: Rynette Farrar <rynette@regima.zone>; danieb@quatro.co.za\r\nCc: Pete <PETE@regima.com>\r\nSub"
+  },
+  "attachments": [],
+  "transport_forensics": {
+    "available": false,
+    "authentication": {},
+    "transport_hops": [],
+    "exchange_transport": {},
+    "origin": {},
+    "raw_header_count": 0,
+    "transport_hops_count": 0
+  },
+  "chain_of_custody": {
+    "source": "Microsoft 365 Exchange Online (tenant 89727f2e-27c2-4f69-893c-f30d821bc83d)",
+    "extraction_method": "Microsoft Graph API v1.0 (client credentials flow)",
+    "storage": "Neon PostgreSQL (exchange_sync schema)",
+    "verification": "SPF/DKIM/DMARC authentication via internet message headers",
+    "integrity": "SHA-256 hash of generated EML file"
+  }
+}

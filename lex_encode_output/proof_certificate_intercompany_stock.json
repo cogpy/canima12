@@ -1,0 +1,161 @@
+{
+  "case": "2025-137857",
+  "sub_matter": "Intercompany Transactions & Stock Adjustments",
+  "generated_at": "2026-03-14T23:37:55.196394",
+  "pipeline": "lex-sim-nn ( lexrex ) -> lex-encode-workflow",
+  "fixed_point": {
+    "reached": true,
+    "total_defenses": 11,
+    "blocked": 11,
+    "unblocked": 0,
+    "composite_rigidity_score": 0.93
+  },
+  "burden_of_proof": {
+    "civil_met": true,
+    "criminal_met": true
+  },
+  "schemes": [
+    {
+      "name": "Intercompany Loan Account Manipulation",
+      "period": "2020-2021",
+      "key_evidence": [
+        "R1.5M transfer RWD\u2192SLG (2020-09-28)",
+        "Backdated journal entries directed by bookkeeper (2021-08-17)",
+        "R109,896.92 missing between VVA\u2194RST books"
+      ],
+      "legal_violations": [
+        "Companies Act s.28",
+        "POCA s.4"
+      ]
+    },
+    {
+      "name": "Stock Adjustment Fraud",
+      "period": "2024-2025",
+      "key_evidence": [
+        "R1,443,217.78 phantom finished goods on TB",
+        "R2,756,321.85 negative stock (impossible)",
+        "Cover-up plan: 'permanently remove this Bernadine gogga'",
+        "Bantjes admission: 'huge gaps building up over many years'"
+      ],
+      "legal_violations": [
+        "Companies Act s.28",
+        "Companies Act s.29",
+        "TAA s.234"
+      ]
+    },
+    {
+      "name": "SARS-Flagged Year-End Invoices",
+      "period": "Feb-Jun 2025",
+      "key_evidence": [
+        "SARS query on 'two big inter company invoices'",
+        "Rynette: 'done on your request, for which I have no answer'",
+        "Bantjes drafted own SARS response (conflict of interest)"
+      ],
+      "legal_violations": [
+        "TAA s.235",
+        "SAICA Code"
+      ]
+    }
+  ],
+  "intercompany_flows": {
+    "total_volume_zar": 58580962.89,
+    "total_transactions": 364,
+    "largest_flow": {
+      "from": "RST",
+      "to": "RSA",
+      "amount": 35174935.48,
+      "count": 64
+    }
+  },
+  "defense_blocks": [
+    {
+      "order": 2,
+      "defense": "No knowledge",
+      "blocked": true,
+      "strength": 0.95
+    },
+    {
+      "order": 2,
+      "defense": "Bernadine's fault",
+      "blocked": true,
+      "strength": 0.9
+    },
+    {
+      "order": 2,
+      "defense": "Routine transactions",
+      "blocked": true,
+      "strength": 0.92
+    },
+    {
+      "order": 3,
+      "defense": "Timing coincidental",
+      "blocked": true,
+      "strength": 0.88
+    },
+    {
+      "order": 3,
+      "defense": "Corrections not backdating",
+      "blocked": true,
+      "strength": 0.93
+    },
+    {
+      "order": 4,
+      "defense": "Normal group operations",
+      "blocked": true,
+      "strength": 0.85
+    },
+    {
+      "order": 5,
+      "defense": "No deliberate pattern",
+      "blocked": true,
+      "strength": 0.91
+    },
+    {
+      "order": 7,
+      "defense": "Professional judgment",
+      "blocked": true,
+      "strength": 0.94
+    },
+    {
+      "order": 6,
+      "defense": "Composite: denial+temporal",
+      "blocked": true,
+      "strength": 0.93,
+      "rigidity": "rigid"
+    },
+    {
+      "order": 10,
+      "defense": "Composite: denial+sequence",
+      "blocked": true,
+      "strength": 0.9,
+      "rigidity": "rigid"
+    },
+    {
+      "order": 35,
+      "defense": "Interlock: foreknowledge+comparison",
+      "blocked": true,
+      "strength": 0.95,
+      "rigidity": "rigid"
+    }
+  ],
+  "lex_sim_nn": {
+    "final_verdict": {
+      "civil_probability": 0.9974387884140015,
+      "criminal_probability": 0.997327446937561,
+      "civil_threshold": 0.5,
+      "criminal_threshold": 0.95,
+      "civil_met": true,
+      "criminal_met": true
+    },
+    "lens_scores": {
+      "Temporal": 0.8448514938354492,
+      "Financial": 0.8832378387451172,
+      "Documentary": 0.8266998529434204,
+      "Testimonial": 0.924896240234375,
+      "Forensic": 0.9006621837615967,
+      "Relational": 0.9011388421058655,
+      "Intentional": 0.8005155920982361
+    },
+    "training_epochs": 10
+  }
+}

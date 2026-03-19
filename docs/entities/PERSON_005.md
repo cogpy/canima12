@@ -39,3 +39,9 @@
   "evidence_strength": "strong"
 }
 ```
+
+
+## Cross-References
+
+### Relations
+- [Banking Mandate Fraud Network](../relations/BANKING_MANDATE_FRAUD.md)

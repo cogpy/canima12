@@ -131,7 +131,7 @@ Add ReZonance as ORG_007 with agent_type "victim" and role "creditor_and_service
 
 **Family Extension:** Rynette ↔ Adderory (Son/Company Owner)
 
-**Support Network:** Rynette ↔ Linda (Sister/Employed Bookkeeper)
+**Support Network:** Rynette → Linda Kruger (Employee / Bookkeeper under Rynette's direction)
 
 **Coordination Evidence:**
 - Peter-Bantjies: Both trustees, coordinated trust violations, shared fraud concealment

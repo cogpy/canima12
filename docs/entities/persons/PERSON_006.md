@@ -9,7 +9,7 @@
 No primary actions listed.
 
 ## Relationships
-- sister_of_PERSON_002
+- employee_of_ORG_001
 - employed_bookkeeper
 
 ## Evidence

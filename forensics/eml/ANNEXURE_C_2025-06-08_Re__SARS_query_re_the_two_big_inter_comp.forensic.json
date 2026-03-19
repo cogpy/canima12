@@ -1,0 +1,95 @@
+{
+  "annexure_reference": "Annexure C: Bantjes drafts SARS response with attachments (8 Jun 2025)",
+  "extraction_timestamp": "2026-03-15T04:17:02.793350Z",
+  "pipeline": "Neon DB \u2192 Graph API body/attachment sync \u2192 EML generation \u2192 Transport header fetch",
+  "file_integrity": {
+    "file_size_bytes": 13932,
+    "md5": "6bf4b51f6fe800197d3341f2a4d00519",
+    "sha256": "ce08365a136ba9f3c9f73f3989ffca34dee9fa09a01a3b86701bc3331a32329f"
+  },
+  "message_identity": {
+    "db_id": "AAMkADMxMzkyY2FlLWNkMGEtNGM2My04OWFiLTNlZDRjNzkyNGUyMwBGAAAAAABIsq-8QjwARI3ssx6PhE4uBwAjJKKwT3w2RaZw2KOPO0ZiAAA-JWQ5AAAjJKKwT3w2RaZw2KOPO0ZiAAA-JZndAAA=",
+    "internet_message_id": "<CANC4RXdLwPir6aJgfQEoLdFSBZ0GqEqt-JE+obxCBRE0VS0xLg@mail.gmail.com>",
+    "conversation_id": "AAQkADMxMzkyY2FlLWNkMGEtNGM2My04OWFiLTNlZDRjNzkyNGUyMwAQAPc2JgxV3ExOmvaieG_e27Q="
+  },
+  "envelope": {
+    "subject": "Re: SARS query re the two big inter company invoices at the end of February 2025",
+    "from_name": "Danie Bantjes",
+    "from_address": "danie.bantjes@gmail.com",
+    "to_recipients": "",
+    "cc_recipients": "[{'name': 'Pete', 'address': 'pete@regima.com'}]",
+    "received_datetime": "2025-06-08 08:22:51+00:00",
+    "sent_datetime": "2025-06-08 08:21:57+00:00"
+  },
+  "mailbox_context": {
+    "user_id": "52a423b7-13e7-4599-8d6f-c833ebce69d7",
+    "folder_name": null
+  },
+  "body": {
+    "content_type": "html",
+    "body_length_chars": 9716,
+    "preview": "Hi Rynette\r\n\r\nAttached is a rough draft of what I think we need to have in our reply to the SARS VAT query on RST.\r\n\r\nI'll phone you on Monday to discuss and fill in the blanks.\r\n\r\n\r\nKind regards,\r\n\r\nDanie Bantjes\r\n\r\n\r\nOn Fri, 6 Jun 2025 at 09:29, Rynette"
+  },
+  "attachments": [],
+  "transport_forensics": {
+    "available": true,
+    "authentication": {
+      "raw": "spf=pass (sender IP is 2607:f8b0:4864:20::b34) smtp.mailfrom=gmail.com; dkim=pass (signature was verified) header.d=gmail.com;dmarc=pass action=none header.from=gmail.com;compauth=pass reason=100",
+      "spf": "pass",
+      "dkim": "pass",
+      "dmarc": "pass",
+      "compauth": "pass"
+    },
+    "transport_hops": [
+      {
+        "raw": "from AS8PR08MB7718.eurprd08.prod.outlook.com (::1) by VI0PR08MB10581.eurprd08.prod.outlook.com with HTTPS; Sun, 8 Jun 2025 08:22:51 +0000",
+        "from_server": "as8pr08mb7718.eurprd08.prod.outlook.com (::1)",
+        "by_server": "vi0pr08mb10581.eurprd08.prod.outlook.com",
+        "protocol": "https"
+      },
+      {
+        "raw": "from DU2PR04CA0187.eurprd04.prod.outlook.com (2603:10a6:10:28d::12) by AS8PR08MB7718.eurprd08.prod.outlook.com (2603:10a6:20b:50a::22) with Microsoft SMTP Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_",
+        "from_server": "du2pr04ca0187.eurprd04.prod.outlook.com (2603:10a6:10:28d::12)",
+        "by_server": "as8pr08mb7718.eurprd08.prod.outlook.com (2603:10a6:20b:50a::22)",
+        "protocol": "microsoft smtp server (version=tls1_2, cipher=tls_ecdhe_rsa_with_aes_256_gcm_sha384) id 15.20.8813.2"
+      },
+      {
+        "raw": "from DB1PEPF000509EE.eurprd03.prod.outlook.com (2603:10a6:10:28d:cafe::51) by DU2PR04CA0187.outlook.office365.com (2603:10a6:10:28d::12) with Microsoft SMTP Server (version=TLS1_3, cipher=TLS_AES_256_",
+        "from_server": "db1pepf000509ee.eurprd03.prod.outlook.com (2603:10a6:10:28d:cafe::51)",
+        "by_server": "du2pr04ca0187.outlook.office365.com (2603:10a6:10:28d::12)",
+        "protocol": "microsoft smtp server (version=tls1_3, cipher=tls_aes_256_gcm_sha384) id 15.20.8792.34 via frontend "
+      },
+      {
+        "raw": "from mail-yb1-xb34.google.com (2607:f8b0:4864:20::b34) by DB1PEPF000509EE.mail.protection.outlook.com (2603:10a6:18:3::628) with Microsoft SMTP Server (version=TLS1_3, cipher=TLS_AES_256_GCM_SHA384) i",
+        "from_server": "mail-yb1-xb34.google.com (2607:f8b0:4864:20::b34)",
+        "by_server": "db1pepf000509ee.mail.protection.outlook.com (2603:10a6:18:3::628)",
+        "protocol": "microsoft smtp server (version=tls1_3, cipher=tls_aes_256_gcm_sha384) id 15.20.8835.15 via frontend "
+      },
+      {
+        "raw": "by mail-yb1-xb34.google.com with SMTP id 3f1490d57ef6-e7dc7245bcdso346418276.2        for <rynette@regima.zone>; Sun, 08 Jun 2025 01:22:15 -0700 (PDT)",
+        "protocol": "smtp id 3f1490d57ef6-e7dc7245bcdso346418276.2        for <rynette@regima.zone>"
+      }
+    ],
+    "exchange_transport": {
+      "network_message_id": "057a51df-4b08-4e77-8b78-08dda66593e8",
+      "auth_source": "DB1PEPF000509EE.eurprd03.prod.outlook.com",
+      "auth_as": "Anonymous",
+      "scl": "1",
+      "cross_tenant_id": "89727f2e-27c2-4f69-893c-f30d821bc83d",
+      "cross_tenant_auth_source": "DB1PEPF000509EE.eurprd03.prod.outlook.com",
+      "cross_tenant_auth_as": "Anonymous"
+    },
+    "origin": {
+      "return_path": "danie.bantjes@gmail.com"
+    },
+    "raw_header_count": 53,
+    "transport_hops_count": 5
+  },
+  "chain_of_custody": {
+    "source": "Microsoft 365 Exchange Online (tenant 89727f2e-27c2-4f69-893c-f30d821bc83d)",
+    "extraction_method": "Microsoft Graph API v1.0 (client credentials flow)",
+    "storage": "Neon PostgreSQL (exchange_sync schema)",
+    "verification": "SPF/DKIM/DMARC authentication via internet message headers",
+    "integrity": "SHA-256 hash of generated EML file"
+  }
+}

@@ -1,0 +1,440 @@
+[
+  {
+    "id": "BANK_001",
+    "name": "ABSA Accounts",
+    "type": "Bank/Account",
+    "file": "docs/entities/BANK_001.md"
+  },
+  {
+    "id": "BANK_ACCOUNT_001",
+    "name": "BANK_ACCOUNT_001",
+    "type": "Bank/Account",
+    "file": "docs/entities/BANK_ACCOUNT_001.md"
+  },
+  {
+    "id": "BANK_ACCOUNT_002",
+    "name": "BANK_ACCOUNT_002",
+    "type": "Bank/Account",
+    "file": "docs/entities/BANK_ACCOUNT_002.md"
+  },
+  {
+    "id": "BANK_ACCOUNT_003",
+    "name": "BANK_ACCOUNT_003",
+    "type": "Bank/Account",
+    "file": "docs/entities/BANK_ACCOUNT_003.md"
+  },
+  {
+    "id": "BANK_ACCOUNT_004",
+    "name": "BANK_ACCOUNT_004: Hidden Money Maximiser Account",
+    "type": "Bank/Account",
+    "file": "docs/entities/BANK_ACCOUNT_004.md"
+  },
+  {
+    "id": "BANK_ACCOUNT_005",
+    "name": "Ketoni Standard Bank Account",
+    "type": "Bank/Account",
+    "file": "docs/entities/BANK_ACCOUNT_005.md"
+  },
+  {
+    "id": "BANK_ACCOUNT_ABSA",
+    "name": "BANK_ACCOUNT_ABSA: Suspected Fraudulent ABSA Accounts",
+    "type": "Bank/Account",
+    "file": "docs/entities/BANK_ACCOUNT_ABSA.md"
+  },
+  {
+    "id": "DOMAIN_001",
+    "name": "regimaskin.co.za",
+    "type": "Domain",
+    "file": "docs/entities/DOMAIN_001.md"
+  },
+  {
+    "id": "DOMAIN_002",
+    "name": "regima.zone",
+    "type": "Domain",
+    "file": "docs/entities/DOMAIN_002.md"
+  },
+  {
+    "id": "ORG_001",
+    "name": "Regima Worldwide Distribution",
+    "type": "Organization",
+    "file": "docs/entities/ORG_001.md"
+  },
+  {
+    "id": "ORG_002",
+    "name": "Regima Skin Treatments CC",
+    "type": "Organization",
+    "file": "docs/entities/ORG_002.md"
+  },
+  {
+    "id": "ORG_003",
+    "name": "RegimA Zone Ltd",
+    "type": "Organization",
+    "file": "docs/entities/ORG_003.md"
+  },
+  {
+    "id": "ORG_004",
+    "name": "Strategic Logistics Group",
+    "type": "Organization",
+    "file": "docs/entities/ORG_004.md"
+  },
+  {
+    "id": "ORG_005",
+    "name": "Villa Via",
+    "type": "Organization",
+    "file": "docs/entities/ORG_005.md"
+  },
+  {
+    "id": "ORG_006",
+    "name": "RegimA SA",
+    "type": "Organization",
+    "file": "docs/entities/ORG_006.md"
+  },
+  {
+    "id": "ORG_007",
+    "name": "Ian Levitt Attorneys",
+    "type": "Organization",
+    "file": "docs/entities/ORG_007.md"
+  },
+  {
+    "id": "ORG_008",
+    "name": "ReZonance",
+    "type": "Organization",
+    "file": "docs/entities/ORG_008.md"
+  },
+  {
+    "id": "ORG_009",
+    "name": "Adderory",
+    "type": "Organization",
+    "file": "docs/entities/ORG_009.md"
+  },
+  {
+    "id": "ORG_010",
+    "name": "Adderory Skin",
+    "type": "Organization",
+    "file": "docs/entities/ORG_010.md"
+  },
+  {
+    "id": "ORG_011",
+    "name": "Entity Profile: Elliott Attorneys",
+    "type": "Organization",
+    "file": "docs/entities/ORG_011.md"
+  },
+  {
+    "id": "ORG_012",
+    "name": "RegimaSA",
+    "type": "Organization",
+    "file": "docs/entities/ORG_012.md"
+  },
+  {
+    "id": "ORG_013",
+    "name": "Unicorn Dynamics",
+    "type": "Organization",
+    "file": "docs/entities/ORG_013.md"
+  },
+  {
+    "id": "ORG_014",
+    "name": "RegimA SA",
+    "type": "Organization",
+    "file": "docs/entities/ORG_014.md"
+  },
+  {
+    "id": "ORG_015",
+    "name": "Ketoni Investment Holdings",
+    "type": "Organization",
+    "file": "docs/entities/ORG_015.md"
+  },
+  {
+    "id": "ORG_016",
+    "name": "ORG_017: Ketoni Investment Holdings (Pty) Ltd",
+    "type": "Organization",
+    "file": "docs/entities/ORG_016.md"
+  },
+  {
+    "id": "ORG_017",
+    "name": "ORG_017: Ketoni Investment Holdings (Pty) Ltd",
+    "type": "Organization",
+    "file": "docs/entities/ORG_017.md"
+  },
+  {
+    "id": "ORG_018",
+    "name": "ORG_018: The George Group",
+    "type": "Organization",
+    "file": "docs/entities/ORG_018.md"
+  },
+  {
+    "id": "ORG_019",
+    "name": "ORG_019: Pottas Attorneys",
+    "type": "Organization",
+    "file": "docs/entities/ORG_019.md"
+  },
+  {
+    "id": "ORG_020",
+    "name": "ORG_020: Elliott Attorneys Inc",
+    "type": "Organization",
+    "file": "docs/entities/ORG_020.md"
+  },
+  {
+    "id": "ORG_021",
+    "name": "ORG_021: Pottas Attorneys",
+    "type": "Organization",
+    "file": "docs/entities/ORG_021.md"
+  },
+  {
+    "id": "ORG_022",
+    "name": "ORG_022: ENS Africa",
+    "type": "Organization",
+    "file": "docs/entities/ORG_022.md"
+  },
+  {
+    "id": "ORG_023",
+    "name": "ORG_023: De Novo Business Services",
+    "type": "Organization",
+    "file": "docs/entities/ORG_023.md"
+  },
+  {
+    "id": "ORG_024",
+    "name": "ORG_024: Corporate and Merchant Administrators",
+    "type": "Organization",
+    "file": "docs/entities/ORG_024.md"
+  },
+  {
+    "id": "ORG_025",
+    "name": "ORG_025: Baker McKenzie",
+    "type": "Organization",
+    "file": "docs/entities/ORG_025.md"
+  },
+  {
+    "id": "ORG_026",
+    "name": "ORG_026: Unidentified Financial Entity",
+    "type": "Organization",
+    "file": "docs/entities/ORG_026.md"
+  },
+  {
+    "id": "ORG_027",
+    "name": "ORG_027: Kaylovest Three (Pty) Ltd",
+    "type": "Organization",
+    "file": "docs/entities/ORG_027.md"
+  },
+  {
+    "id": "ORG_028",
+    "name": "Elliott Attorneys Incorporated",
+    "type": "Organization",
+    "file": "docs/entities/ORG_028.md"
+  },
+  {
+    "id": "ORG_029",
+    "name": "Nick Xenophontos Attorneys",
+    "type": "Organization",
+    "file": "docs/entities/ORG_029.md"
+  },
+  {
+    "id": "ORG_030",
+    "name": "Forvis Mazars",
+    "type": "Organization",
+    "file": "docs/entities/ORG_030.md"
+  },
+  {
+    "id": "PERSON_001",
+    "name": "Peter Andrew Faucitt",
+    "type": "Person",
+    "file": "docs/entities/PERSON_001.md"
+  },
+  {
+    "id": "PERSON_002",
+    "name": "Rynette Farrar",
+    "type": "Person",
+    "file": "docs/entities/PERSON_002.md"
+  },
+  {
+    "id": "PERSON_003",
+    "name": "Darren Dennis Farrar",
+    "type": "Person",
+    "file": "docs/entities/PERSON_003.md"
+  },
+  {
+    "id": "PERSON_004",
+    "name": "Jacqueline Faucitt",
+    "type": "Person",
+    "file": "docs/entities/PERSON_004.md"
+  },
+  {
+    "id": "PERSON_005",
+    "name": "Daniel James Faucitt",
+    "type": "Person",
+    "file": "docs/entities/PERSON_005.md"
+  },
+  {
+    "id": "PERSON_006",
+    "name": "Linda Kruger",
+    "type": "Person",
+    "file": "docs/entities/PERSON_006.md"
+  },
+  {
+    "id": "PERSON_007",
+    "name": "Daniel Jacobus Bantjies",
+    "type": "Person",
+    "file": "docs/entities/PERSON_007.md"
+  },
+  {
+    "id": "PERSON_008",
+    "name": "Kayla",
+    "type": "Person",
+    "file": "docs/entities/PERSON_008.md"
+  },
+  {
+    "id": "PERSON_009",
+    "name": "Gee",
+    "type": "Person",
+    "file": "docs/entities/PERSON_009.md"
+  },
+  {
+    "id": "PERSON_010",
+    "name": "Bernadine Wright",
+    "type": "Person",
+    "file": "docs/entities/PERSON_010.md"
+  },
+  {
+    "id": "PERSON_011",
+    "name": "Chantal",
+    "type": "Person",
+    "file": "docs/entities/PERSON_011.md"
+  },
+  {
+    "id": "PERSON_012",
+    "name": "Marisca Meyer",
+    "type": "Person",
+    "file": "docs/entities/PERSON_012.md"
+  },
+  {
+    "id": "PERSON_013",
+    "name": "Kayla Pretorius",
+    "type": "Person",
+    "file": "docs/entities/PERSON_013.md"
+  },
+  {
+    "id": "PERSON_014",
+    "name": "Kevin Michael Derrick",
+    "type": "Person",
+    "file": "docs/entities/PERSON_014.md"
+  },
+  {
+    "id": "PERSON_015",
+    "name": "Chantal",
+    "type": "Person",
+    "file": "docs/entities/PERSON_015.md"
+  },
+  {
+    "id": "PERSON_016",
+    "name": "PERSON_016: Nondu Motlhala",
+    "type": "Person",
+    "file": "docs/entities/PERSON_016.md"
+  },
+  {
+    "id": "PERSON_017",
+    "name": "PERSON_017: Mpumi Netshipale",
+    "type": "Person",
+    "file": "docs/entities/PERSON_017.md"
+  },
+  {
+    "id": "PERSON_018",
+    "name": "PERSON_018: Michelle Habig",
+    "type": "Person",
+    "file": "docs/entities/PERSON_018.md"
+  },
+  {
+    "id": "PERSON_019",
+    "name": "PERSON_019: Oliver",
+    "type": "Person",
+    "file": "docs/entities/PERSON_019.md"
+  },
+  {
+    "id": "PERSON_020",
+    "name": "Linda Kruger",
+    "type": "Person",
+    "file": "docs/entities/PERSON_020.md"
+  },
+  {
+    "id": "PERSON_021",
+    "name": "Gayane Williams",
+    "type": "Person",
+    "file": "docs/entities/PERSON_021.md"
+  },
+  {
+    "id": "PERSON_037",
+    "name": "PERSON_037 - Kent",
+    "type": "Person",
+    "file": "docs/entities/PERSON_037.md"
+  },
+  {
+    "id": "PERSON_038",
+    "name": "PERSON_038 - EL",
+    "type": "Person",
+    "file": "docs/entities/PERSON_038.md"
+  },
+  {
+    "id": "PERSON_039",
+    "name": "PERSON_039: Anton Hechter",
+    "type": "Person",
+    "file": "docs/entities/PERSON_039.md"
+  },
+  {
+    "id": "PERSON_040",
+    "name": "PERSON_040: Clare Payne",
+    "type": "Person",
+    "file": "docs/entities/PERSON_040.md"
+  },
+  {
+    "id": "PERSON_041",
+    "name": "PERSON_041: Kent Rault",
+    "type": "Person",
+    "file": "docs/entities/PERSON_041.md"
+  },
+  {
+    "id": "PERSON_042",
+    "name": "PERSON_042: Marc Yudaken",
+    "type": "Person",
+    "file": "docs/entities/PERSON_042.md"
+  },
+  {
+    "id": "PERSON_043",
+    "name": "PERSON_043: David Field",
+    "type": "Person",
+    "file": "docs/entities/PERSON_043.md"
+  },
+  {
+    "id": "PERSON_044",
+    "name": "PERSON_044: Denny Da Silva",
+    "type": "Person",
+    "file": "docs/entities/PERSON_044.md"
+  },
+  {
+    "id": "PERSON_045",
+    "name": "Nick Xenophontos",
+    "type": "Person",
+    "file": "docs/entities/PERSON_045.md"
+  },
+  {
+    "id": "PERSON_XENOPHONTOS",
+    "name": "Nicos Xenophontos",
+    "type": "Person",
+    "file": "docs/entities/PERSON_XENOPHONTOS.md"
+  },
+  {
+    "id": "PLATFORM_001",
+    "name": "Shopify Platform",
+    "type": "Platform",
+    "file": "docs/entities/PLATFORM_001.md"
+  },
+  {
+    "id": "PLATFORM_002",
+    "name": "PLATFORM_002 - Courier Guy",
+    "type": "Platform",
+    "file": "docs/entities/PLATFORM_002.md"
+  },
+  {
+    "id": "TRUST_001",
+    "name": "Faucitt Family Trust",
+    "type": "Trust",
+    "file": "docs/entities/TRUST_001.md"
+  }
+]

@@ -1,6 +1,6 @@
 # Master Timeline of Events
 
-**Last Updated:** 2026-03-10
+**Last Updated:** 2026-03-15 (v15)
 
 This section provides a comprehensive and chronological breakdown of all events related to case 2025-137857. The timeline is divided into seven distinct phases, each representing a critical stage of the fraudulent scheme and the subsequent investigation. Every event is linked to the specific evidence that substantiates it.
 
@@ -28,9 +28,6 @@ This phase documents the critical events uncovered from the analysis of the Regi
 
 Following the analysis of the mailbox evidence and the clear pattern of operational sabotage, the Board of RWD issued formal notices to all parties, placing them on notice of the documentary evidence of identity misappropriation, material non-disclosure, and fraud.
 
-*   **[RWD/NOTICE/001 (13 Feb 2026)](../rwd-notices/RWD_NOTICE_001.md):** Detailed the identity misappropriation of P.A. Faucitt by Rynette Farrar, the material non-disclosure in the ex parte application (rendering the interdict void ab initio under Uniform Rule 42(1)(a)), and placed all parties on notice of provable knowledge.
-*   **[RWD/NOTICE/002 (14 Feb 2026)](../rwd-notices/RWD_NOTICE_002.md):** Detailed the systematic destruction of the company's e-commerce and fulfillment pipeline, including the shutdown of Shopify and the breaking of The Courier Guy API integration, and refuted allegations of "business interference".
-
 ### Phase 6: LEX-RECON Reconciliation & Filing Refinement (March 2026)
 
 This phase documents the comprehensive cross-repository reconciliation using the LEX-RECON pipeline, the integration of Uniform Rules of Court citations into all filings, and the discovery of critical new evidence.
@@ -53,6 +50,21 @@ This phase documents the application of the LEX-SIM-NN differentiable legal simu
 | 2026-03-10 | **Evidence Attribution Analysis** (EVENT_ATTR_001) | Gradient-based attribution: Relational/Intentional strongest, Testimonial weakest |
 | 2026-03-10 | **All Filings Updated to v10** | LEX-SIM-NN scores and forensic EML cross-references added to all filings |
 
+### Phase 8: Primary Source Document Integration (March 2026) — NEW
+
+This phase documents the integration of 9 primary source documents from the Ketoni/FFT Trust corpus, the discovery of the Bantjies J417 perjury, and the correction of the financial motive from R18.685M to R28.73M.
+
+| Date | Event ID | Event | Significance |
+|:-----|:---------|:------|:-------------|
+| 2023-02-20 | EVENT_130 | **Ketoni Incorporation** | SPV created with KM Derrick as sole director |
+| 2023-04-20 | EVENT_131 | **FFT Investment Resolution** | Peter + Jacqueline only; Daniel excluded from R9.8M decision |
+| 2023-04-24 | EVENT_132 | **Shareholders Agreement Signed** | Establishes R28.73M Put Option guarantee |
+| 2023-04-24 | EVENT_133 | **Subscription Agreement Executed** | R9.8M committed to Ketoni → George Group |
+| 2024-09-02 | EVENT_134 | **Bantjies J417 Signed — "Independent Trustee"** | **PROVABLY FALSE DECLARATION** — CFO of George Group |
+| 2025-01-24 | EVENT_135 | **Missing Pages Flagged by Xenophontos** | Independent attorney identifies document irregularities |
+| 2025-01-24 | EVENT_136 | **Ketoni AFS Issued by Forvis Mazars** | Institutional confirmation of R9.8M George Group investment |
+| 2026-03-15 | EVENT_137 | **v15 Super-Sleuth + Hyper-Holmes Analysis** | 9 primary documents analyzed; J417 perjury MET (95%); R28.73M correction |
+
 ---
 
 For a complete, filterable, and searchable version of the timeline, please refer to the master `timeline.json` data model.
@@ -71,4 +83,4 @@ For a complete, filterable, and searchable version of the timeline, please refer
 
 ---
 
-*Last updated: 2026-03-10 | LEX-SIM-NN & Forensic EML Enhanced*
+*Last updated: 2026-03-15 | v15 — Primary Source Document Integration, Bantjies J417 Perjury, R28.73M Correction*

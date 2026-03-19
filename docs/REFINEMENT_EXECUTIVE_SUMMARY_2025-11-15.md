@@ -157,7 +157,7 @@ Comprehensive analysis and refinement of entities, relations, events, and timeli
 
 **Rynette's Control:**
 - Used Peter's email for accounts system
-- Despite sister Linda employed as bookkeeper
+- Despite Linda Kruger (office employee) employed as bookkeeper
 - Controlled system during 2-year unallocated expense period
 - Trial balance email evidence (2020-08-13)
 

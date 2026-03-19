@@ -42,3 +42,10 @@
   }
 }
 ```
+
+
+## Cross-References
+
+### Events
+- [Kayla Pretorius estate documentation](../events/EVENT_083.md)
+- [Court order for Kayla email account seizure](../events/EVENT_084.md)

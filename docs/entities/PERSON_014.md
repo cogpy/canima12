@@ -36,3 +36,9 @@
   "evidence_strength": "strong"
 }
 ```
+
+
+## Cross-References
+
+### Events
+- [Linda employment records documentation](../events/EVENT_085.md)

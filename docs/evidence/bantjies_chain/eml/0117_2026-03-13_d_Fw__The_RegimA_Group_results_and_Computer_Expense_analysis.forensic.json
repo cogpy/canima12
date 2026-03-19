@@ -1,0 +1,175 @@
+{
+  "file_integrity": {
+    "file_name": "0117_2026-03-13_d_Fw__The_RegimA_Group_results_and_Computer_Expense_analysis.eml",
+    "file_size_bytes": 38214,
+    "md5": "4abeb5433ac5062a554d6704d49f5065",
+    "sha1": "99b3c8f7d942dc48a4511f2c0be3b911cfef25ec",
+    "sha256": "216d2dac55b1aef9b18c4677e2d710e04b1a2ccaeb317e8916b4dc6e583f615a"
+  },
+  "message_identity": {
+    "graph_message_id": "AAMkAGE2YjljZjA1LTRlOWUtNDhjYi1iZjNkLWI4ZWRlNDQwYTU0MABGAAAAAADPgXCfMl5uRqA6Xxa9Yh33BwAh607i92PMQLMLAH3HB5h5AAAAAAEPAAAh607i92PMQLMLAH3HB5h5AAnsbE-iAAA=",
+    "internet_message_id": "<8491358a113f4b619a0c369928a36c5dPR3PR09MB52830D56C76B21CEDE7F180AD145A@PR3PR09MB5283.eurprd09.prod.outlook.com>",
+    "conversation_id": "AAQkAGE2YjljZjA1LTRlOWUtNDhjYi1iZjNkLWI4ZWRlNDQwYTU0MAAQANakI1AD4zBNjcS2Ef1er0I="
+  },
+  "envelope": {
+    "subject": "Fw: The RegimA Group results and Computer Expense analysis",
+    "from_name": "Daniel Faucitt",
+    "from_address": "d@rzo.io",
+    "to_recipients": [
+      "mshengub29@icloud.com",
+      "mshengub29@icloud.com"
+    ],
+    "cc_recipients": [
+      "jax@regima.zone"
+    ],
+    "received_datetime": "2026-03-13T12:48:48Z",
+    "sent_datetime": "2026-03-13T12:32:15Z",
+    "importance": "high"
+  },
+  "authentication": {
+    "spf": "unknown",
+    "dkim": "unknown",
+    "dmarc": "unknown",
+    "raw_authentication_results": "dkim=none (message not signed) header.d=none;dmarc=none action=none header.from=rzo.io;"
+  },
+  "body": {
+    "content_type": "html",
+    "preview": "________________________________\r\nFrom: Danie Bantjes <danie.bantjes@gmail.com>\r\nSent: 10 June 2025 3:33 PM\r\nTo: Daniel Faucitt <d@rzo.io>\r\nCc: Peter Andrew Faucitt <pete@regima.com>; Jacqui Faucitt <",
+    "body_length_chars": 19384
+  },
+  "internet_headers": {
+    "arc-seal": [
+      "i=1; a=rsa-sha256; s=arcselector10001; d=microsoft.com; cv=none; b=NGoXwivKZUruOFdPOnYQhYOtIZpUEc4GImjWGGNPbBOi6zeSJ1G2TerVpe7/5XmxJGLknPjXa1uinP6ohi7d076lk00pGqsERREZ1yaMf9vqMqtiVP7c9oVdDqL8poIzsp+0643rfTR8shZbx2jze8li+uSwNRnsfPfOR1e5gcmDyMgE3pyMiugiyDoiygmVok5eHRmcTeZ0cCdCjmPSQ+/uSix79W5R11MxC9JhjEB4TLrilfY6VFPvg1PIuo05r7DZowOL/dRe6JCuL7l+tezJKfaotUrcBCwOqLOoOibB0mZ/bvrtFpB9ihB/s+m8FJqLqo5lIOkskDQJ+e2SdQ=="
+    ],
+    "arc-message-signature": [
+      "i=1; a=rsa-sha256; c=relaxed/relaxed; d=microsoft.com; s=arcselector10001; h=From:Date:Subject:Message-ID:Content-Type:MIME-Version:X-MS-Exchange-AntiSpam-MessageData-ChunkCount:X-MS-Exchange-AntiSpam-MessageData-0:X-MS-Exchange-AntiSpam-MessageData-1; bh=Tv4mIlsH0o46v/Xr0BAtoZAxVaJi6YMqYMGwH7Plxa0=; b=JxqoYEDPTroMPNjCMU0TjDVvdSS3EG3vH8khv3GIdTqV466bDeOyoya/bDPC4cAoMmc+3TKi/IAOpleK+R/TpBV8OYSEmysDxbXe+AOW+KSfqClKlzPleA6/Uk+0xU+VzrGfxPqJ6ABq0N/aLeH9h3EWfGP3EocByBuVNFlVRny2i0rOH5pip4htgtYoU7g9B+VEvl8xAosDW8QNzatKhjfEB9EWslaLsDAkbkRlMR9hntguHUwAHeWtoS8/NIOt19LkNzeqrWB+5Brq4nsLbFmjby6rU6wbSnxmEbZ3F37QfYDIdlc7Nem49azvIgSpUTXoMaEaEmtEFh4IIfHjsw=="
+    ],
+    "arc-authentication-results": [
+      "i=1; mx.microsoft.com 1; spf=pass smtp.mailfrom=rzo.io; dmarc=pass action=none header.from=rzo.io; dkim=pass header.d=rzo.io; arc=none"
+    ],
+    "dkim-signature": [
+      "v=1; a=rsa-sha256; c=relaxed/relaxed; d=rzon.onmicrosoft.com; s=selector2-rzon-onmicrosoft-com; h=From:Date:Subject:Message-ID:Content-Type:MIME-Version:X-MS-Exchange-SenderADCheck; bh=Tv4mIlsH0o46v/Xr0BAtoZAxVaJi6YMqYMGwH7Plxa0=; b=iihi7nGqhcOV20zY/m/CO5w5IrHUIrDOlzwhyidfIEyy5robndBS2kaoh0DNMNpAfUc0gyLETzdxckM7LoyQQevWZnh31UHzYCDZE10X9cYSLX+edh3q0RYfPl7XFTZGf0gfHCcEDZXgzYf5DaE640l1hqJLKAuYM4ObN+ywNms="
+    ],
+    "received": [
+      "from PR3PR09MB5283.eurprd09.prod.outlook.com (2603:10a6:102:172::22) by GV2PR09MB8421.eurprd09.prod.outlook.com (2603:10a6:150:2d5::16) with Microsoft SMTP Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.9700.16; Fri, 13 Mar 2026 12:32:16 +0000",
+      "from PR3PR09MB5283.eurprd09.prod.outlook.com ([fe80::f1e:9a27:2881:a3cb]) by PR3PR09MB5283.eurprd09.prod.outlook.com ([fe80::f1e:9a27:2881:a3cb%4]) with mapi id 15.20.9700.010; Fri, 13 Mar 2026 12:32:15 +0000"
+    ],
+    "from": [
+      "\"Daniel Faucitt\" <d@rzo.io>"
+    ],
+    "to": [
+      "\"Bobo Mshengu\" <mshengub29@icloud.com>"
+    ],
+    "cc": [
+      "\"Jacqui Faucitt\" <jax@regima.zone>"
+    ],
+    "subject": [
+      "Fw: The RegimA Group results and Computer Expense analysis"
+    ],
+    "thread-topic": [
+      "The RegimA Group results and Computer Expense analysis"
+    ],
+    "thread-index": [
+      "AQHb2d2K1qQjUAPjME2NxLYR/V6vQrP8EckAgABS5ICBsbJKHw=="
+    ],
+    "importance": [
+      "high"
+    ],
+    "x-priority": [
+      "1"
+    ],
+    "date": [
+      "Fri, 13 Mar 2026 12:32:15 +0000"
+    ],
+    "message-id": [
+      "<PR3PR09MB52830D56C76B21CEDE7F180AD145A@PR3PR09MB5283.eurprd09.prod.outlook.com>"
+    ],
+    "references": [
+      "<CANC4RXfOGA=KXM5Sxftk9_RiH49wbhPUX0HvD_r4LE3yztR2gA@mail.gmail.com> <DB9PR09MB67430306FB13B959DEE61154D16AA@DB9PR09MB6743.eurprd09.prod.outlook.com> <CANC4RXe+YAHqWH2XNOD7S0D+W5hW_cEceV+NXzAwfcj9o4mTCg@mail.gmail.com>"
+    ],
+    "in-reply-to": [
+      "<CANC4RXe+YAHqWH2XNOD7S0D+W5hW_cEceV+NXzAwfcj9o4mTCg@mail.gmail.com>"
+    ],
+    "accept-language": [
+      "en-GB, en-US"
+    ],
+    "content-language": [
+      "en-GB"
+    ],
+    "authentication-results": [
+      "dkim=none (message not signed) header.d=none;dmarc=none action=none header.from=rzo.io;"
+    ],
+    "x-ms-publictraffictype": [
+      "Email"
+    ],
+    "x-ms-traffictypediagnostic": [
+      "PR3PR09MB5283:EE_|GV2PR09MB8421:EE_"
+    ],
+    "x-ms-office365-filtering-correlation-id": [
+      "d65e7296-843c-4416-8f83-08de80fc8f0e"
+    ],
+    "x-ms-exchange-senderadcheck": [
+      "1"
+    ],
+    "x-ms-exchange-antispam-relay": [
+      "0"
+    ],
+    "x-microsoft-antispam": [
+      "BCL:0;ARA:13230040|366016|19092799006|376014|1800799024|56012099003|22082099003|18002099003|7053199007|19033499003|38070700021|8096899003;"
+    ],
+    "x-microsoft-antispam-message-info": [
+      "sQzpcpBNE/WK9iqvnFkRnyHqwXtPbZPIK+eOGv1BA/QaLJm7y7ScnCNt8VqzQtjURFA96Z5V/rDSl12CNgyE/62rJLatgKmO7/4R3X4SslA6po7PBu5oiyo2Qtz5qAVK564zaSWPSCYjkDteFfEapZLlrVLcwgs0RVmdqCnjQ+WwtPfeQ1VkkDJz/Dus3dQlIp92leE3jV76Rjg2Hs+6P2J7wiUkc8BLxFMgsYHR9Z/X6aVhRC0iQtvFXV4oF+PsahJsCehTOepg3CaVDnujLFyV0Br8OIeRP6NGd8KvCoyaa/a+O7i5/iBJECAfKw1eAhdfehGBewRdYMRfAzTAzCLd6SVLboVWuw5M5eCYwWn0BQ9oTmIejLRs6wrgQgFmc7W6g5Z+3rbdjkczEl8oKZk/JgjyalkCVYWtW318xmD5g+PJzXoIcrD4TV3Svv58Xj9NlbZOhbHaICz5Tp0mIGF2xf5cmThBzB+uXxkpmHdQ+l5hcuYPkvpfkzVhvc8eXlKsnvONingSRL02NfN//ta0k2XPnnpIoJ2i1DRa1VL8HTAPW7w7qw86FBZbqEdjsXjJTtQuF9bZ6JqAAG6lFLQWFKlpCOlSY9tE2X+R50ZfTd534Z48oaoNZ4g7LAmpWJWZ9Y17ZiW5WpYrvWW1x2OaWaGpZF1/9ys/wZYGaD5ElPcwM6EF+OhfdsZES/8DPJmGF2RSVAPv7qOUCb9aEp1L7+SDulhyPvDFnxDwwvEKJdLy6SrjT7jZU0ZmLbMzyldFf/o27PsXVF/MCLwF7mjggD7qOZfZ9iRaVv68e2k="
+    ],
+    "x-forefront-antispam-report": [
+      "CIP:255.255.255.255;CTRY:;LANG:en;SCL:1;SRV:;IPV:NLI;SFV:NSPM;H:PR3PR09MB5283.eurprd09.prod.outlook.com;PTR:;CAT:NONE;SFS:(13230040)(366016)(19092799006)(376014)(1800799024)(56012099003)(22082099003)(18002099003)(7053199007)(19033499003)(38070700021)(8096899003);DIR:OUT;SFP:1102;"
+    ],
+    "x-ms-exchange-antispam-messagedata-chunkcount": [
+      "1"
+    ],
+    "x-ms-exchange-antispam-messagedata-0": [
+      "LpyZus5NCpAzqplYdMVzflhGc1ctGHgCosR4L2MOqP7P5DFOMniSKKVHETIBcLbgYSYJlbm57HDky26iDrAxBvd2SRqQw1r0M/hDYtq/lJS91lYqNancTgHzX2MU8G6Cvv5UQ6xIClEiaO+pNVEMlrNF7SSqH8QrbtcAAxP/6oJY6gcoWQr8wlMviCtgpUusS3/lccpFij7e5AuAOt1lrlrgfD3rsJkGLtkMk43Z+3t9q+HkSc79mo3mFosgdiBjnaOvGcbO7KJZIplKOovA6dGYXlBTZAiWa/cSq1UitizzYR2/CTmSO/yKhy8ADEX/as5hBFrDDzaUIqAHOLpMuVhXyQJme5gQBkDGqUqFbD/BxzM/6JhusEDiAskesf9GfertkrQ21cdHu5IBBpme8Jd/2fBouz12ElkkcUqeM1vkBfeI86Pue+c4A88qBNXYXsv88nMafjQXewUDYsNX41nCG2acN1MMdN3hMw7ab+7ihCMF5HjIo5h5di46YC/fw5s+oVbI0Mi+AKky7WYzjHTCQlhyCU3KmzTvB+35TL16fH0NyGOL7jNzFoQ0dwF3FCOWPARJ9IvuOTLhKR/8fldSkc4oL72bQMx7NUnRt/WLUQNP9nqTlLfI53Vid7YtO5MviT2+zhMEAOMvBDr1EeCNPTNPdsEmjxekC5X4kIjZlt4U6uLIm1Cx9fzcsrhZT/kraJgwV/+AIK5gZDj1GRgVIMk5VeWyvrZreQlbWQNErcN0FZvedBGpqdR/3x47bZvoiMRYj7KSoJrHODdlZ95Ydc3spfsMbSSDn3+vxl4EQgiyKGyhpSfAXSdPC2j+PZEPiO5D2ZzfVmlYzUVQh1Be6UEctTcYsd4peS8INeIIar0h2rdc8ZbL4z1WH6vAgjV6yPhAlXOKl/cAGrLMW4DaHsI5Xuh0KtOBJfiQrnKIG3ph394GfPGJeBzSsEl4jiVg/NEgaWWC/HccsKlWu3zKZG1OmSdNqugsRa3SOdjVJeOdz1kntc/IiSZ9PnhpuTHbbdwQ6a5awZVigoeFgMs3JweDULIXtJG6jsX82yxo/6UV73L7UyHMl65BWBIwvg/CjIPLmRzCUQhMigfio4r7/kdyuSD8SIEVN6Yk210wJpFgTcsgCH4upppoIOV11EUfGZQNVNCHnxONGK6l5ZMuACF7qS7quPUvZOlTBQan86b8t+n9X6hW1eHou1I4vTAK1CPDyDMdeRakGWnoOuwORVvWIyed/OEMbjDu2nUYU/x9bLy0VuXENJ4EIONAO84nTt7nUA6RBVkVMotP6PcKeGGmwZ813T7lInUTBJOG/BX0criKzTxC3Z7cg4xqvPsJe4NgPf8/1/noPxKn4bjuiww3CNxELikvvRpvACSHFM0Yfu3EN0eUu0L+Lm7sNbEl5zbLdsFPs4VrAk2awugKGxWbId5D/2u/u8k5KZb7Ebj3d+YuegS+Q3BJ4WOsO22qUDICtaF3V/Tj4djcaDM9r1JmqJWI5Gg1tWMvVhJcMKQrTSN5Y+0xkUIfKm1R+b77bC/x6ALPP7lsb7SqbRG5NzNurtN2s2snGQqxwCxUGHtmGBtg9t0KONmtNf/Rwzt6+50buUTS68OygH1GJqmsCh+Isjyh7HlVgdCAm+I5/Uek0krGbnUNyDtxSbtbA5LLewYcLkk9hS54eFCTELYpWUUjB2PJ1zhMQ8N8WRk="
+    ],
+    "content-type": [
+      "multipart/alternative"
+    ],
+    "mime-version": [
+      "1.0"
+    ],
+    "x-originatororg": [
+      "rzo.io"
+    ],
+    "x-ms-exchange-crosstenant-authas": [
+      "Internal"
+    ],
+    "x-ms-exchange-crosstenant-authsource": [
+      "PR3PR09MB5283.eurprd09.prod.outlook.com"
+    ],
+    "x-ms-exchange-crosstenant-network-message-id": [
+      "d65e7296-843c-4416-8f83-08de80fc8f0e"
+    ],
+    "x-ms-exchange-crosstenant-originalarrivaltime": [
+      "13 Mar 2026 12:32:15.3249 (UTC)"
+    ],
+    "x-ms-exchange-crosstenant-fromentityheader": [
+      "Hosted"
+    ],
+    "x-ms-exchange-crosstenant-id": [
+      "dc24b9a5-3925-471f-b9f9-0a4a5081b8c5"
+    ],
+    "x-ms-exchange-crosstenant-mailboxtype": [
+      "HOSTED"
+    ],
+    "x-ms-exchange-crosstenant-userprincipalname": [
+      "GeVfp4AeYDQqiBlOTFAq3LzZ8injKCVRYzbEFtBx9RmjVLnhFbvuTWQXdgPccyXA"
+    ],
+    "x-ms-exchange-transport-crosstenantheadersstamped": [
+      "GV2PR09MB8421"
+    ]
+  },
+  "extraction_metadata": {
+    "extracted_at": "2026-03-18T10:47:20.120807Z",
+    "source": "Microsoft Graph API v1.0",
+    "user_mailbox": "d@rzo.io",
+    "method": "GET /users/{id}/messages/{id}/$value"
+  }
+}

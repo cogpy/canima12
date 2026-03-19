@@ -341,7 +341,7 @@ Date: 2025-12-28
 | **SF5_Adderory_Company_Registration_Stock_Supply.md** | Documents Adderory's company and stock supply arrangement | civil_50 |
 | **SF6_Kayla_Pretorius_Estate_Documentation.md** | CRITICAL: Death of Kayla triggered estate exploitation | civil_50_criminal_95 |
 | **SF7_Court_Order_Kayla_Email_Seizure.md** | Court order for email seizure - estate complications | civil_50 |
-| **SF8_Linda_Employment_Records.md** | Employment records for Linda (Rynette's sister) | civil_50 |
+| **SF8_Linda_Employment_Records.md** | Employment records for Linda Kruger (office employee) | civil_50 |
 | **SF9_Ian_Levitt_Demand_Letter.md** | R63M formal demand letter - ignored by Peter | civil_50_criminal_95 |
 | **JF01** | THE FORENSIC TIME CAPSULE - Shopify Plus email | criminal_95 |
 | **JF04** | CIPC company registration documents | civil_50 |

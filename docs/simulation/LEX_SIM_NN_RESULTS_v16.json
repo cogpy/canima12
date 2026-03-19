@@ -1,0 +1,262 @@
+{
+  "version": "v16",
+  "timestamp": "2026-03-18T06:22:55",
+  "pipeline": "skillm ( lex-sim-nn [ lex-rex | lexrex ] -> lex-encode-workflow ( chainlex | uniform-rules-scm ) )",
+  "architecture": {
+    "input_dim": 108,
+    "hidden_dim": 64,
+    "output_dim": 2,
+    "epochs": 200,
+    "learning_rate": 0.01
+  },
+  "convergence": {
+    "initial_loss": 0.2593731247408576,
+    "final_loss": 0.012291865521477818,
+    "convergence_ratio": 0.04739066753257011
+  },
+  "verdict": {
+    "civil_probability": 0.908296372881329,
+    "criminal_probability_raw": 0.8728222668222326,
+    "criminal_probability_adjusted": 0.8228222668222326,
+    "overconfidence_penalty": 0.05,
+    "civil_met": true,
+    "criminal_met": false
+  },
+  "monte_carlo": {
+    "seeds": 10,
+    "perturbation": 0.05,
+    "civil_mean": 0.9092785365959385,
+    "civil_std": 0.001547832591035287,
+    "criminal_mean": 0.8734906654190157,
+    "criminal_std": 0.0035757106689158916
+  },
+  "category_attribution": {
+    "temporal": {
+      "civil": 0.7734023936184606,
+      "criminal": 0.5671478950973255
+    },
+    "financial": {
+      "civil": 0.8094920679161469,
+      "criminal": 0.5219915649843128
+    },
+    "documentary": {
+      "civil": 0.8362055035599996,
+      "criminal": 0.6337497778266419
+    },
+    "testimonial": {
+      "civil": 1.0,
+      "criminal": 0.7873280535315413
+    },
+    "forensic": {
+      "civil": 0.7064655762673104,
+      "criminal": 0.9708029493648997
+    },
+    "relational": {
+      "civil": 0.7212845841125568,
+      "criminal": 1.0
+    }
+  },
+  "evidence_heatmap": {
+    "Phase 1: Trust Forgery": {
+      "temporal": 0.88,
+      "financial": 0.53,
+      "documentary": 0.91,
+      "testimonial": 0.42,
+      "forensic": 0.78,
+      "relational": 0.88
+    },
+    "Phase 1: Ketoni Registration": {
+      "temporal": 0.91,
+      "financial": 0.57,
+      "documentary": 0.93,
+      "testimonial": 0.38,
+      "forensic": 0.82,
+      "relational": 0.89
+    },
+    "Phase 1: J417 Perjury": {
+      "temporal": 0.95,
+      "financial": 0.72,
+      "documentary": 0.97,
+      "testimonial": 0.52,
+      "forensic": 0.93,
+      "relational": 0.95
+    },
+    "Phase 2: Banking Mandate Fraud": {
+      "temporal": 0.93,
+      "financial": 0.82,
+      "documentary": 0.91,
+      "testimonial": 0.53,
+      "forensic": 0.88,
+      "relational": 0.86
+    },
+    "Phase 2: Domain Hijacking": {
+      "temporal": 0.88,
+      "financial": 0.62,
+      "documentary": 0.82,
+      "testimonial": 0.44,
+      "forensic": 0.82,
+      "relational": 0.82
+    },
+    "Phase 2: Sage Predicate Crime": {
+      "temporal": 0.93,
+      "financial": 0.72,
+      "documentary": 0.94,
+      "testimonial": 0.57,
+      "forensic": 0.9,
+      "relational": 0.88
+    },
+    "Phase 2: SARS eFiling Impersonation": {
+      "temporal": 0.88,
+      "financial": 0.72,
+      "documentary": 0.93,
+      "testimonial": 0.49,
+      "forensic": 0.88,
+      "relational": 0.88
+    },
+    "Phase 3: Revenue Stream Diversion": {
+      "temporal": 0.91,
+      "financial": 0.88,
+      "documentary": 0.88,
+      "testimonial": 0.47,
+      "forensic": 0.82,
+      "relational": 0.88
+    },
+    "Phase 3: Stock Discrepancy R4.2M": {
+      "temporal": 0.89,
+      "financial": 0.91,
+      "documentary": 0.94,
+      "testimonial": 0.54,
+      "forensic": 0.85,
+      "relational": 0.86
+    },
+    "Phase 3: Backdated Journal Entries": {
+      "temporal": 0.94,
+      "financial": 0.78,
+      "documentary": 0.93,
+      "testimonial": 0.49,
+      "forensic": 0.88,
+      "relational": 0.84
+    },
+    "Phase 4: Manufacture Email": {
+      "temporal": 0.93,
+      "financial": 0.68,
+      "documentary": 0.94,
+      "testimonial": 0.54,
+      "forensic": 0.88,
+      "relational": 0.91
+    },
+    "Phase 4: PP Peter Forgery": {
+      "temporal": 0.88,
+      "financial": 0.62,
+      "documentary": 0.91,
+      "testimonial": 0.49,
+      "forensic": 0.82,
+      "relational": 0.86
+    },
+    "Phase 5: Fraud Discovery": {
+      "temporal": 0.93,
+      "financial": 0.82,
+      "documentary": 0.78,
+      "testimonial": 0.57,
+      "forensic": 0.78,
+      "relational": 0.81
+    },
+    "Phase 5: Interdict Weaponization": {
+      "temporal": 0.88,
+      "financial": 0.57,
+      "documentary": 0.88,
+      "testimonial": 0.49,
+      "forensic": 0.78,
+      "relational": 0.89
+    },
+    "Phase 6: R10.6M Extraction": {
+      "temporal": 0.94,
+      "financial": 0.91,
+      "documentary": 0.93,
+      "testimonial": 0.54,
+      "forensic": 0.88,
+      "relational": 0.88
+    },
+    "Phase 7: Contempt Rebuttal": {
+      "temporal": 0.93,
+      "financial": 0.72,
+      "documentary": 0.93,
+      "testimonial": 0.78,
+      "forensic": 0.82,
+      "relational": 0.81
+    },
+    "Phase 7: Void Ab Initio Defence": {
+      "temporal": 0.94,
+      "financial": 0.78,
+      "documentary": 0.94,
+      "testimonial": 0.62,
+      "forensic": 0.88,
+      "relational": 0.91
+    },
+    "Phase 7: Xenophontos SHA Discovery": {
+      "temporal": 0.91,
+      "financial": 0.68,
+      "documentary": 0.89,
+      "testimonial": 0.72,
+      "forensic": 0.85,
+      "relational": 0.87
+    }
+  },
+  "filing_results": {
+    "Void Ab Initio (Rule 42)": {
+      "score": 0.7341280236637032,
+      "met": true,
+      "burden": 0.5
+    },
+    "Civil Oppression (s163)": {
+      "score": 0.8067048400532538,
+      "met": true,
+      "burden": 0.5
+    },
+    "CIPC Complaint (s28/s29)": {
+      "score": 0.7694469085027279,
+      "met": true,
+      "burden": 0.5
+    },
+    "POPIA Criminal": {
+      "score": 0.7216968244304308,
+      "met": false,
+      "burden": 0.95
+    },
+    "Commercial Crime": {
+      "score": 0.6290244725321235,
+      "met": false,
+      "burden": 0.95
+    },
+    "NPA Tax Fraud": {
+      "score": 0.743378535553993,
+      "met": false,
+      "burden": 0.95
+    },
+    "Perjury (Bantjies J417)": {
+      "score": 0.6894706611898452,
+      "met": false,
+      "burden": 0.95
+    },
+    "SAICA Misconduct": {
+      "score": 0.7753796670929004,
+      "met": true,
+      "burden": 0.5
+    },
+    "Contempt Opposition": {
+      "score": 0.7984830617772289,
+      "met": true,
+      "burden": 0.5
+    },
+    "SARS Intercompany": {
+      "score": 0.743378535553993,
+      "met": false,
+      "burden": 0.95
+    }
+  },
+  "overconfidence": {
+    "testimonial_mean": 0.5333333333333333,
+    "financial_mean": 0.7250000000000001,
+    "total_penalty": 0.05
+  }
+}

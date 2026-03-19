@@ -1,0 +1,73 @@
+graph TB
+    subgraph LEX-RECON["LEX-RECON Reconciliation"]
+        REPO0["revstream1<br/>1431 files"]
+        REPO1["ad-res-j7<br/>20421 files"]
+    end
+
+    subgraph EVIDENCE["Evidence Coverage"]
+        DF001["DF001"]
+        DF01["DF01"]
+        DF02["DF02"]
+        DF03["DF03"]
+        DF04["DF04"]
+        DF05["DF05"]
+        DF06["DF06"]
+        DF07["DF07"]
+        DF08["DF08"]
+        DF09["DF09"]
+        DF1["DF1"]
+        DF10["DF10"]
+        DF11["DF11"]
+        DF12["DF12"]
+        DF129["DF129"]
+        DF13["DF13"]
+        DF14["DF14"]
+        DF15["DF15"]
+        DF16["DF16"]
+        DF17["DF17"]
+    end
+
+    REPO0 --> DF001
+    REPO1 --> DF001
+    REPO0 --> DF01
+    REPO1 --> DF01
+    REPO0 --> DF02
+    REPO1 --> DF02
+    REPO0 --> DF03
+    REPO1 --> DF03
+    REPO0 --> DF04
+    REPO1 --> DF04
+    REPO0 --> DF05
+    REPO1 --> DF05
+    REPO0 --> DF06
+    REPO1 --> DF06
+    REPO0 --> DF07
+    REPO1 --> DF07
+    REPO0 --> DF08
+    REPO1 --> DF08
+    REPO0 --> DF09
+    REPO1 --> DF09
+    REPO0 --> DF1
+    REPO1 --> DF1
+    REPO0 --> DF10
+    REPO1 --> DF10
+    REPO0 --> DF11
+    REPO1 --> DF11
+    REPO0 --> DF12
+    REPO1 --> DF12
+    REPO0 --> DF129
+    REPO1 --> DF129
+    REPO0 --> DF13
+    REPO1 --> DF13
+    REPO0 --> DF14
+    REPO1 --> DF14
+    REPO0 --> DF15
+    REPO1 --> DF15
+    REPO0 --> DF16
+    REPO1 --> DF16
+    REPO0 --> DF17
+    REPO1 --> DF17
+
+    classDef green fill:#2d6a2d,color:#fff
+    classDef orange fill:#cc7a00,color:#fff
+    classDef red fill:#cc0000,color:#fff

@@ -1,0 +1,95 @@
+{
+  "annexure_reference": "Annexure E: Bantjes admits 'huge gaps building up over many years' (7 Apr 2025)",
+  "extraction_timestamp": "2026-03-15T04:17:11.469789Z",
+  "pipeline": "Neon DB \u2192 Graph API body/attachment sync \u2192 EML generation \u2192 Transport header fetch",
+  "file_integrity": {
+    "file_size_bytes": 7911,
+    "md5": "492c1120d9927303fa73f6f026b9f40f",
+    "sha256": "b752c483e1d67579d0f0a248ac8974324acf90083048e782e436548b5c5cb63d"
+  },
+  "message_identity": {
+    "db_id": "AAMkADMxMzkyY2FlLWNkMGEtNGM2My04OWFiLTNlZDRjNzkyNGUyMwBGAAAAAABIsq-8QjwARI3ssx6PhE4uBwAjJKKwT3w2RaZw2KOPO0ZiAAA-JWQ5AAAjJKKwT3w2RaZw2KOPO0ZiAAA-JZm8AAA=",
+    "internet_message_id": "<CANC4RXeFnXmSTm6AqETeUi9Y5MZwQ2dYvN_4rbAgM0YMbP_Gkw@mail.gmail.com>",
+    "conversation_id": "AAQkADMxMzkyY2FlLWNkMGEtNGM2My04OWFiLTNlZDRjNzkyNGUyMwAQALCilYMd2kJGmWwzyMkDH74="
+  },
+  "envelope": {
+    "subject": "Re: TB's after stock adjustments - February 2025 - Strategic / Regima Skin / WWD",
+    "from_name": "Danie Bantjes",
+    "from_address": "danie.bantjes@gmail.com",
+    "to_recipients": "",
+    "cc_recipients": "None",
+    "received_datetime": "2025-04-07 10:55:04+00:00",
+    "sent_datetime": "2025-04-07 10:54:42+00:00"
+  },
+  "mailbox_context": {
+    "user_id": "52a423b7-13e7-4599-8d6f-c833ebce69d7",
+    "folder_name": null
+  },
+  "body": {
+    "content_type": "html",
+    "body_length_chars": 5264,
+    "preview": "Hi Rynette\r\n\r\nSorry, snowed under, only looked at this now.\r\n\r\nI agree it is time we get the real and actual stock values to agree to Pastel.\r\n\r\nI suspect there are huge gaps by now, building up over many years.\r\n\r\nI can maybe come out to your neck of the"
+  },
+  "attachments": [],
+  "transport_forensics": {
+    "available": true,
+    "authentication": {
+      "raw": "spf=pass (sender IP is 2607:f8b0:4864:20::b2b) smtp.mailfrom=gmail.com; dkim=pass (signature was verified) header.d=gmail.com;dmarc=pass action=none header.from=gmail.com;compauth=pass reason=100",
+      "spf": "pass",
+      "dkim": "pass",
+      "dmarc": "pass",
+      "compauth": "pass"
+    },
+    "transport_hops": [
+      {
+        "raw": "from GV1PR08MB10534.eurprd08.prod.outlook.com (2603:10a6:150:160::5) by VI0PR08MB10581.eurprd08.prod.outlook.com with HTTPS; Mon, 7 Apr 2025 10:55:03 +0000",
+        "from_server": "gv1pr08mb10534.eurprd08.prod.outlook.com (2603:10a6:150:160::5)",
+        "by_server": "vi0pr08mb10581.eurprd08.prod.outlook.com",
+        "protocol": "https"
+      },
+      {
+        "raw": "from DB3PR06CA0036.eurprd06.prod.outlook.com (2603:10a6:8:1::49) by GV1PR08MB10534.eurprd08.prod.outlook.com (2603:10a6:150:160::5) with Microsoft SMTP Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WIT",
+        "from_server": "db3pr06ca0036.eurprd06.prod.outlook.com (2603:10a6:8:1::49)",
+        "by_server": "gv1pr08mb10534.eurprd08.prod.outlook.com (2603:10a6:150:160::5)",
+        "protocol": "microsoft smtp server (version=tls1_2, cipher=tls_ecdhe_rsa_with_aes_256_gcm_sha384) id 15.20.8606.3"
+      },
+      {
+        "raw": "from DU6PEPF00009525.eurprd02.prod.outlook.com (2603:10a6:8:1:cafe::ce) by DB3PR06CA0036.outlook.office365.com (2603:10a6:8:1::49) with Microsoft SMTP Server (version=TLS1_3, cipher=TLS_AES_256_GCM_SH",
+        "from_server": "du6pepf00009525.eurprd02.prod.outlook.com (2603:10a6:8:1:cafe::ce)",
+        "by_server": "db3pr06ca0036.outlook.office365.com (2603:10a6:8:1::49)",
+        "protocol": "microsoft smtp server (version=tls1_3, cipher=tls_aes_256_gcm_sha384) id 15.20.8489.19 via frontend "
+      },
+      {
+        "raw": "from mail-yb1-xb2b.google.com (2607:f8b0:4864:20::b2b) by DU6PEPF00009525.mail.protection.outlook.com (2603:10a6:18:3::6) with Microsoft SMTP Server (version=TLS1_3, cipher=TLS_AES_256_GCM_SHA384) id ",
+        "from_server": "mail-yb1-xb2b.google.com (2607:f8b0:4864:20::b2b)",
+        "by_server": "du6pepf00009525.mail.protection.outlook.com (2603:10a6:18:3::6)",
+        "protocol": "microsoft smtp server (version=tls1_3, cipher=tls_aes_256_gcm_sha384) id 15.20.8632.13 via frontend "
+      },
+      {
+        "raw": "by mail-yb1-xb2b.google.com with SMTP id 3f1490d57ef6-e6de5f05d2eso537958276.2        for <rynette@regima.zone>; Mon, 07 Apr 2025 03:54:56 -0700 (PDT)",
+        "protocol": "smtp id 3f1490d57ef6-e6de5f05d2eso537958276.2        for <rynette@regima.zone>"
+      }
+    ],
+    "exchange_transport": {
+      "network_message_id": "675d13a4-9557-4575-f9ab-08dd75c2a247",
+      "auth_source": "DU6PEPF00009525.eurprd02.prod.outlook.com",
+      "auth_as": "Anonymous",
+      "scl": "1",
+      "cross_tenant_id": "89727f2e-27c2-4f69-893c-f30d821bc83d",
+      "cross_tenant_auth_source": "DU6PEPF00009525.eurprd02.prod.outlook.com",
+      "cross_tenant_auth_as": "Anonymous"
+    },
+    "origin": {
+      "return_path": "danie.bantjes@gmail.com"
+    },
+    "raw_header_count": 52,
+    "transport_hops_count": 5
+  },
+  "chain_of_custody": {
+    "source": "Microsoft 365 Exchange Online (tenant 89727f2e-27c2-4f69-893c-f30d821bc83d)",
+    "extraction_method": "Microsoft Graph API v1.0 (client credentials flow)",
+    "storage": "Neon PostgreSQL (exchange_sync schema)",
+    "verification": "SPF/DKIM/DMARC authentication via internet message headers",
+    "integrity": "SHA-256 hash of generated EML file"
+  }
+}

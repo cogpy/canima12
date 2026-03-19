@@ -1,0 +1,49 @@
+{
+  "annexure_reference": "Annexure B: Rynette to Bantjes \u2014 'Done on your request, for which I have no answer' (6 Jun 2025)",
+  "extraction_timestamp": "2026-03-15T04:20:42.488815Z",
+  "pipeline": "Neon DB \u2192 Graph API body/attachment sync \u2192 EML generation \u2192 Transport header fetch",
+  "file_integrity": {
+    "file_size_bytes": 13112,
+    "md5": "670c941d443a01e5d9de1ff0d7bcceda",
+    "sha256": "ddcc0b7a8d2970866451cc42eb78747445e0b422c246a6df177dceb784cf4a44"
+  },
+  "message_identity": {
+    "db_id": "AQMkADMxMzkyY2FlLWNkMGEtNGM2My04OWFiLTNlZDRjNzkyNGUyMwBGAAADSLKv-EI8AESN7LMej4ROLgcAIySisE98NkWmcNijjztGYgAAAgEJAAAAIySisE98NkWmcNijjztGYgAEITNMEQAAAA==",
+    "internet_message_id": "<VI0PR08MB10581FFFDF74133C8BFA007D0BA6EA@VI0PR08MB10581.eurprd08.prod.outlook.com>",
+    "conversation_id": "AAQkADMxMzkyY2FlLWNkMGEtNGM2My04OWFiLTNlZDRjNzkyNGUyMwAQAPc2JgxV3ExOmvaieG_e27Q="
+  },
+  "envelope": {
+    "subject": "RE: SARS query re the two big inter company invoices at the end of February 2025",
+    "from_name": "Rynette Farrar",
+    "from_address": "rynette@regima.zone",
+    "to_recipients": "[{'name': 'Danie Bantjes', 'address': 'danie.bantjes@gmail.com'}]",
+    "cc_recipients": "[{'name': 'Pete', 'address': 'PETE@REGIMA.COM'}]",
+    "received_datetime": "2025-06-06 07:28:00+00:00",
+    "sent_datetime": "2025-06-06 07:29:00+00:00"
+  },
+  "mailbox_context": {
+    "user_id": "52a423b7-13e7-4599-8d6f-c833ebce69d7"
+  },
+  "body": {
+    "content_type": "html",
+    "body_length_chars": 9256,
+    "preview": "Hi Danie\r\n\r\nYes, that is correct.  I do respond to all the Vat related queries, if I receive them or I can see them on my portal.  However, I have not received this notification via email, and neither is it filed on my Efiling portal.  Are you saying that"
+  },
+  "attachments": [],
+  "transport_forensics": {
+    "available": false,
+    "authentication": {},
+    "transport_hops": [],
+    "exchange_transport": {},
+    "origin": {},
+    "raw_header_count": 0,
+    "transport_hops_count": 0
+  },
+  "chain_of_custody": {
+    "source": "Microsoft 365 Exchange Online (tenant 89727f2e-27c2-4f69-893c-f30d821bc83d)",
+    "extraction_method": "Microsoft Graph API v1.0 (client credentials flow)",
+    "storage": "Neon PostgreSQL (exchange_sync schema)",
+    "verification": "SPF/DKIM/DMARC authentication via internet message headers",
+    "integrity": "SHA-256 hash of generated EML file"
+  }
+}

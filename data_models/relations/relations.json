@@ -160,6 +160,21 @@
         "confidence": 0.75,
         "evidence_strength": "strong",
         "related_events": []
+      },
+      {
+        "relation_id": "REL_OWN_001",
+        "relation_type": "owns_shares_in",
+        "source_entity": "TRUST_001",
+        "target_entity": "ORG_KETONI_001",
+        "details": "100% of A Ordinary Shares (5,000 shares) for R9.8M",
+        "rights": "90% of distributions"
+      },
+      {
+        "relation_id": "REL_OWN_002",
+        "relation_type": "owns_shares_in",
+        "source_entity": "ORG_KETONI_001",
+        "target_entity": "ORG_GEORGE_GROUP",
+        "details": "8.14% of Ordinary Shares (456 shares) valued at R9.8M"
       }
     ],
     "control_relations": [
@@ -1349,6 +1364,19 @@
         "confidence": 0.95,
         "evidence_strength": "conclusive",
         "related_events": []
+      },
+      {
+        "relation_id": "REL_CONFLICT_002",
+        "relation_type": "fiduciary_conflict_of_interest",
+        "source_entity": "PERSON_007",
+        "target_entity": "TRUST_001",
+        "conflict_description": "Bantjies serves as CFO of The George Group (which generates returns for Ketoni) while simultaneously serving as Trustee of FFT (which owns 100% of Ketoni A-Shares and receives 90% of distributions).",
+        "financial_stake": "R18.75M - R28.73M Ketoni payout to FFT",
+        "evidence": [
+          "Ketoni Shareholder Agreement",
+          "Ketoni AFS 2024"
+        ],
+        "legal_implication": "Breach of fiduciary duty under Trust Property Control Act"
       }
     ],
     "email_control_relations": [

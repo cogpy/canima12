@@ -2029,7 +2029,7 @@
       "entities_involved": [
         "PLATFORM_001"
       ],
-      "description": "CRITICAL EVENT: R1M+ monthly revenue → R0 (100% business shutdown). Central evidence destruction event proving consciousness of guilt. Destruction of audit trails for platform owned, paid, operated by RegimA Zone Ltd (UK) since July 2023 - proves RWD ZA has no independent revenue stream. Orders removed from Shopify following Jacqui's confrontation.",
+      "description": "CRITICAL EVENT: R1M+ monthly revenue \u2192 R0 (100% business shutdown). Central evidence destruction event proving consciousness of guilt. Destruction of audit trails for platform owned, paid, operated by RegimA Zone Ltd (UK) since July 2023 - proves RWD ZA has no independent revenue stream. Orders removed from Shopify following Jacqui's confrontation.",
       "financial_impact": "R1,000,000+ monthly",
       "legal_significance": "consciousness_of_guilt_through_evidence_destruction",
       "evidence": [
@@ -4643,7 +4643,7 @@
       "victims": [],
       "location": "South Africa",
       "financial_impact": 0,
-      "significance": "Documents operational structure showing dual personnel control (Kent/EL), system automation (Shopify→Sage), and third-party verification (Courier Guy). Reveals paper trail: Proforma Invoice → POP → Tax Invoice.",
+      "significance": "Documents operational structure showing dual personnel control (Kent/EL), system automation (Shopify\u2192Sage), and third-party verification (Courier Guy). Reveals paper trail: Proforma Invoice \u2192 POP \u2192 Tax Invoice.",
       "evidence": [
         "Powerpoint-howsaleswork.pdf",
         "rynette_organogram_2025-04-12.md"
@@ -5128,6 +5128,23 @@
         "civil": 0.85
       },
       "refinement_date": "2026-02-09T01:37:55"
+    },
+    {
+      "event_id": "EVT_KETONI_AGREEMENT_2023_04_24",
+      "date": "2023-04-24",
+      "type": "corporate_structuring",
+      "title": "Ketoni Shareholder Agreement Signed",
+      "description": "The Ketoni Shareholder Agreement was signed, establishing the ownership chain where FFT holds 100% of A Ordinary Shares (investing R9.8M) and Kevin Derrick Trust holds 100% of Ordinary Shares. Ketoni's purpose is to invest in The George Group.",
+      "entities_involved": [
+        "TRUST_001",
+        "ORG_KETONI_001",
+        "ORG_GEORGE_GROUP",
+        "PERSON_DERRICK_001"
+      ],
+      "evidence": [
+        "Ketoni Shareholder Agreement (Signed 24 April 2023)"
+      ],
+      "significance": "Establishes the financial structure that creates the massive conflict of interest for Danie Bantjies (CFO of George Group and Trustee of FFT)."
     }
   ]
 }

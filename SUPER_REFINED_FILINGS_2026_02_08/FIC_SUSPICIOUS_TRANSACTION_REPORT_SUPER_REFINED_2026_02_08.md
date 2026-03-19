@@ -12,6 +12,8 @@
 
 This report details a network of suspicious and unusual transactions related to a criminal enterprise engaged in money laundering, tax evasion, and fraud, with a total quantum exceeding R63M. The activities involve the abuse of at least eight ABSA bank accounts, complex inter-company transfers, and the use of identity fraud to control financial systems, all constituting reportable offenses under the Financial Intelligence Centre Act (FICA).
 
+**LEX Encode v2.0 Integration**: This report is anchored by the **Order-3 `revenue-diversion-timeline`** (SARS banking changed 13 months before client emails) and the **Order-4 `corporate-structure-conflict`** (Bantjies' dual CFO/Trustee role enabling insider access to both ends of the R18.685M Ketoni transaction).
+
 The primary suspects, Peter Andrew Faucitt, Rynette Farrar, and Daniel Jacobus Bantjies, have established and utilized a web of entities to conceal the proceeds of crime, primarily derived from the systematic hijacking of an R8.5M/year revenue stream and other fraudulent activities. The motive is the seizure of an impending ZAR 18.685M payout from Ketoni Investment Holdings.
 
 The failure of the responsible parties and accountable institutions (including the suspects themselves in their capacities as directors and accountants) to file Suspicious Transaction Reports (STRs) in the face of overwhelming evidence of financial crime is, in itself, a criminal offense under FICA. This report is submitted to rectify that failure and to request an immediate investigation by the FIC.

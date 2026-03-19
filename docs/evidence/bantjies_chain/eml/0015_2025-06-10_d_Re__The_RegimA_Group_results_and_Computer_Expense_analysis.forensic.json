@@ -1,0 +1,49 @@
+{
+  "file_integrity": {
+    "file_name": "0015_2025-06-10_d_Re__The_RegimA_Group_results_and_Computer_Expense_analysis.eml",
+    "file_size_bytes": 1673157,
+    "md5": "da99b4a72d2f32233bf24f153e1b138b",
+    "sha1": "2bb0798a5d4ca500f3fcc07377a9b3df26766195",
+    "sha256": "21313366a3c92cdfa85371b5551f790789aecfa8496acca7adba74ac0147a157"
+  },
+  "message_identity": {
+    "graph_message_id": "AAMkAGE2YjljZjA1LTRlOWUtNDhjYi1iZjNkLWI4ZWRlNDQwYTU0MABGAAAAAADPgXCfMl5uRqA6Xxa9Yh33BwAh607i92PMQLMLAH3HB5h5AAAAAAEJAAAh607i92PMQLMLAH3HB5h5AAj_O7daAAA=",
+    "internet_message_id": "<DB9PR09MB67430306FB13B959DEE61154D16AA@DB9PR09MB6743.eurprd09.prod.outlook.com>",
+    "conversation_id": "AAQkAGE2YjljZjA1LTRlOWUtNDhjYi1iZjNkLWI4ZWRlNDQwYTU0MAAQANakI1AD4zBNjcS2Ef1er0I="
+  },
+  "envelope": {
+    "subject": "Re: The RegimA Group results and Computer Expense analysis",
+    "from_name": "Daniel Faucitt",
+    "from_address": "d@rzo.io",
+    "to_recipients": [
+      "danie.bantjes@gmail.com",
+      "pete@regima.com",
+      "jax@regima.zone"
+    ],
+    "cc_recipients": [
+      "dan@regima.zone",
+      "d@rzo.io"
+    ],
+    "received_datetime": "2025-06-10T09:45:28Z",
+    "sent_datetime": "2025-06-10T09:45:26Z",
+    "importance": "high"
+  },
+  "authentication": {
+    "spf": "unknown",
+    "dkim": "unknown",
+    "dmarc": "unknown",
+    "raw_authentication_results": ""
+  },
+  "body": {
+    "content_type": "html",
+    "preview": "Hi Danie\r\n\r\nFundamentally the issue is that Worldwide has found itself absorbing all costs of all companies when the cards all expired in Aug 2023 2 weeks after Kayla's murder. As an emergency measure",
+    "body_length_chars": 18084
+  },
+  "internet_headers": {},
+  "extraction_metadata": {
+    "extracted_at": "2026-03-18T10:40:59.365667Z",
+    "source": "Microsoft Graph API v1.0",
+    "user_mailbox": "d@rzo.io",
+    "method": "GET /users/{id}/messages/{id}/$value"
+  }
+}

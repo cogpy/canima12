@@ -1,13 +1,13 @@
 {
   "metadata": {
-    "version": "v28.0_FNB_RESPONSE_2026_01_29",
+    "version": "v28.1_KETONI_INTEGRATED_2026_03_14",
     "created_date": "2025-11-10",
     "description": "Refined event model for Revenue Stream Hijacking case 2025-137857",
     "case_number": "2025-137857",
     "total_events": 80,
     "extended_evidence": "incorporated_from_ad_res_j7",
-    "last_updated": "2026-01-29 03:22:18",
-    "changes": "Added FNB letter cross-references to June 2025 events",
+    "last_updated": "2026-03-14 12:03:59",
+    "changes": "Integrated Ketoni evidence: added new events (investment, accounting irregularity, discovery).",
     "phase_statistics": {
       "PHASE_1": 25,
       "PHASE_2": 4,
@@ -3406,6 +3406,89 @@
         ],
         "timeline": "2025-06-18"
       }
+    },
+    {
+      "event_id": "EVENT_092",
+      "date": "2023-02-20",
+      "description": "Ketoni Investment Holdings incorporated (Reg 2023/562189/07)",
+      "category": "Corporate",
+      "evidence": [
+        "KET-03",
+        "CIPC records"
+      ]
+    },
+    {
+      "event_id": "EVENT_093",
+      "date": "2023-03-15",
+      "description": "Bantjies arranges meeting: Pete, Kevin Derrick, David Field for 2023-03-23",
+      "category": "Meeting",
+      "evidence": [
+        "KET-06"
+      ]
+    },
+    {
+      "event_id": "EVENT_094",
+      "date": "2023-04-19",
+      "description": "Baker McKenzie (Marc Yudaken) sends Ketoni Investment Holdings documents to Kayla, Rynette",
+      "category": "Legal",
+      "evidence": [
+        "KET-05"
+      ]
+    },
+    {
+      "event_id": "EVENT_095",
+      "date": "2023-04-24",
+      "description": "FFT subscribes for 5,000 A-Ordinary Shares in Ketoni for R9,800,000",
+      "category": "Investment",
+      "evidence": [
+        "KET-01",
+        "KET-02"
+      ]
+    },
+    {
+      "event_id": "EVENT_096",
+      "date": "2023-05-03",
+      "description": "Rynette returns signed Trust Minutes for Ketoni investment to Bantjies",
+      "category": "Trust",
+      "evidence": [
+        "KET-04"
+      ]
+    },
+    {
+      "event_id": "EVENT_097",
+      "date": "2023-05-09",
+      "description": "Bantjies instructs Rynette to allocate the R9.8M Ketoni payment to Pete's personal shareholder loan account",
+      "category": "Accounting Irregularity",
+      "evidence": [
+        "KET-06"
+      ]
+    },
+    {
+      "event_id": "EVENT_098",
+      "date": "2024-07-01",
+      "description": "Bantjies appointed as Trustee of FFT (unlawfully by Rynette), creating a major conflict of interest",
+      "category": "Conflict of Interest",
+      "evidence": [
+        "KET-11"
+      ]
+    },
+    {
+      "event_id": "EVENT_099",
+      "date": "2026-01-07",
+      "description": "Jax demands full Ketoni and George Group documents from Bantjies",
+      "category": "Discovery",
+      "evidence": [
+        "KET-08"
+      ]
+    },
+    {
+      "event_id": "EVENT_100",
+      "date": "2026-01-16",
+      "description": "Jax requests share certificates, stating she has never been given them",
+      "category": "Beneficiary Exclusion",
+      "evidence": [
+        "KET-08"
+      ]
     }
   ]
 }

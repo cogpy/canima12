@@ -12,6 +12,8 @@
 
 This super-refined report details conclusive evidence of a criminal enterprise engaged in Tax Fraud, VAT Fraud, and Exchange Control violations, perpetrated by Peter Andrew Faucitt, Rynette Farrar, and their accounting firm, De Novo Business Services. The scheme was motivated by the impending **ZAR 18.685M Ketoni payout** to the Faucitt Family Trust, with the tax fraud designed to bankrupt legitimate entities and neutralize beneficiaries to seize the asset.
 
+**LEX Encode v2.0 Integration**: This report is strengthened by the **Order-3 `revenue-diversion-timeline`**, which proves the SARS eFiling banking details were changed to ABSA on 26 April 2024 — 13 months before the first client email redirects. The **Order-35 `interlock-sabotage-then-frame`** further proves the Sage sabotage was manufactured to create the financial chaos later cited as justification in the ex parte application.
+
 The evidence proves a multi-year scheme to evade taxes through fraudulent accounting, revenue concealment, and the creation of backdated, falsified records, most notably the **fabrication of 2019 financial statements in June 2025**. Peter Faucitt makes a **direct admission of Exchange Control violations in his FNB Fraud Letter (SF10)**, corroborated by Shopify invoices showing **$3,495.92 USD** in monthly dollar-based expenses.
 
 The total quantum of fraud exceeds **R15.5M**, with an estimated tax loss of over **R4.3M**. The case also involves breaches of the Financial Intelligence Centre Act (FICA) due to the failure to report suspicious transactions. The evidence meets the criminal burden of proof and warrants immediate investigation and prosecution by the NPA, SARS, the SARB, and referral to relevant professional bodies.

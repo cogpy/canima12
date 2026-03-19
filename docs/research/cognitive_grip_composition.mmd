@@ -1,0 +1,61 @@
+graph TD
+    subgraph "Convergence Target"
+        SI["skill∞<br/>Fixed Point"]
+    end
+
+    subgraph "Self-Awareness Layer"
+        A["Autognosis<br/>5-Level Hierarchical Self-Image"]
+    end
+
+    subgraph "Executability Shell"
+        SM["skillm<br/>Procedural Language Model<br/>10-Verb Action Vocabulary"]
+    end
+
+    subgraph "Differentiability Layer"
+        SNN["skill-nn<br/>Differentiable Substrate<br/>Forward / Backward / Parameters"]
+        
+        subgraph "Channel ⊕ 1: Neuro-Symbolic"
+            NSE["neuro-symbolic-engine<br/>skill = func(form[flow])"]
+            GNE["glyph-noetic-engine<br/>Glyph-Addressed Cognitive OS"]
+            TC["time-crystal-nn<br/>12-Level Temporal Hierarchy"]
+        end
+        
+        subgraph "Channel ⊕ 2: Constraint"
+            PLA["promise-lambda-attention<br/>λ(KV)⁻¹ Satisfaction"]
+        end
+    end
+
+    subgraph "Composability Core"
+        WC["workflow-creator<br/>Resumable ML Pipelines"]
+        FC["function-creator<br/>F: Skill_A → Skill_B"]
+        NN["nn<br/>Module / Container / Criterion"]
+        LNN["language-nn<br/>Differentiable Language"]
+        CO["⊕⊗ circled-operators<br/>Semiring (R, ⊕, ⊗, 0, 1)"]
+    end
+
+    SI -.->|"T(S∞) = S∞"| A
+    A -->|"monitors"| SM
+    SM -->|"⊗ pipeline"| SNN
+    SNN -->|"⊕ parallel"| NSE
+    SNN -->|"⊕ parallel"| PLA
+    NSE --> GNE
+    GNE --> TC
+    SM -->|"-> pipeline"| WC
+    WC -->|"⊗"| FC
+    FC -->|"nn → Lnn"| NN
+    FC -->|"nn → Lnn"| LNN
+    WC -->|"⊗"| CO
+
+    style SI fill:#FFD700,stroke:#333,stroke-width:3px,color:#000
+    style A fill:#FF6B6B,stroke:#333,stroke-width:2px,color:#fff
+    style SM fill:#4ECDC4,stroke:#333,stroke-width:2px,color:#000
+    style SNN fill:#45B7D1,stroke:#333,stroke-width:2px,color:#000
+    style NSE fill:#96CEB4,stroke:#333,stroke-width:1px,color:#000
+    style GNE fill:#96CEB4,stroke:#333,stroke-width:1px,color:#000
+    style TC fill:#96CEB4,stroke:#333,stroke-width:1px,color:#000
+    style PLA fill:#DDA0DD,stroke:#333,stroke-width:1px,color:#000
+    style WC fill:#F7DC6F,stroke:#333,stroke-width:1px,color:#000
+    style FC fill:#F7DC6F,stroke:#333,stroke-width:1px,color:#000
+    style NN fill:#F7DC6F,stroke:#333,stroke-width:1px,color:#000
+    style LNN fill:#F7DC6F,stroke:#333,stroke-width:1px,color:#000
+    style CO fill:#F7DC6F,stroke:#333,stroke-width:1px,color:#000

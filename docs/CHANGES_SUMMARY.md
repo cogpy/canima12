@@ -124,7 +124,7 @@
 - Rynette ↔ Adderory (Son/Company Owner)
 
 **Support Network:**
-- Rynette ↔ Linda (Sister/Employed Bookkeeper)
+- Rynette → Linda Kruger (Employee / Bookkeeper under Rynette's direction)
 
 **Legal Impact:**
 - Organized crime characteristics
