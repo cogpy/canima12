@@ -1,0 +1,5086 @@
+{
+  "metadata": {
+    "case_number": "2025-137857",
+    "generated_at": "2026-03-20T18:23:32.574564Z",
+    "generator": "CaseEvidenceMapping v1.0",
+    "repositories": {
+      "ad-res-j7": {
+        "role": "evidence_db",
+        "path": "/home/user/ad-res-j7",
+        "available": true
+      },
+      "revstream1": {
+        "role": "data_truth",
+        "path": "/home/user/revstream1",
+        "available": true
+      },
+      "fincosys": {
+        "role": "financial_analysis",
+        "path": "/home/user/fincosys",
+        "available": true
+      },
+      "comcosys": {
+        "role": "comms_forensics",
+        "path": "/home/user/comcosys",
+        "available": true
+      }
+    }
+  },
+  "entities": {
+    "PERSON_001": {
+      "entity_id": "PERSON_001",
+      "name": "Peter Andrew Faucitt",
+      "role": "primary_perpetrator",
+      "agent_type": "antagonist",
+      "evidence_strength": "conclusive",
+      "criminal_threshold": "95%_exceeded",
+      "sources": {
+        "revstream1": {
+          "evidence_codes": [
+            "JF01",
+            "JF04",
+            "JF07",
+            "JF08",
+            "JF09",
+            "SF9"
+          ],
+          "events": [
+            "EVENT_001",
+            "EVENT_002",
+            "EVENT_003",
+            "EVENT_006",
+            "EVENT_007",
+            "EVENT_008",
+            "EVENT_016",
+            "EVENT_017",
+            "EVENT_018",
+            "EVENT_019",
+            "EVENT_020"
+          ],
+          "ad_res_j7_references": [
+            "ANNEXURES/JF01 - Shopify Plus email showing business structure",
+            "ANNEXURES/JF04 - CIPC company registration documents",
+            "ANNEXURES/JF06 - Court applications and filings",
+            "ANNEXURES/JF08/evidence_package_20251012 - Comprehensive fraud timeline",
+            "1-CIVIL-RESPONSE - Answering affidavit documentation",
+            "SF2_Sage_Screenshots_Rynette_Control.md - System control evidence",
+            "SF6_Kayla_Pretorius_Estate_Documentation.md - Trigger event for appropriation",
+            "SF9_Ian_Levitt_Demand_Letter.md - R63M formal demand (ignored)",
+            "KETONI_PAYOUT_INTEGRATION_SUMMARY_V48-49.md - Central financial motive",
+            "evidence/FFT_KETONI_INVESTMENT_TIMELINE_V49.md - Comprehensive timeline"
+          ]
+        },
+        "ad-res-j7": {
+          "annexures": [
+            {
+              "code": "JF01",
+              "path": "ANNEXURES/JF01",
+              "file_count": 2
+            },
+            {
+              "code": "JF04",
+              "path": "ANNEXURES/JF04",
+              "file_count": 6
+            },
+            {
+              "code": "JF07",
+              "path": "ANNEXURES/JF07",
+              "file_count": 186
+            },
+            {
+              "code": "JF08",
+              "path": "ANNEXURES/JF08",
+              "file_count": 38
+            },
+            {
+              "code": "JF09",
+              "path": "ANNEXURES/JF09",
+              "file_count": 8
+            }
+          ],
+          "evidence_files": []
+        },
+        "fincosys": {
+          "accounts": [
+            {
+              "account_number": "55270018789",
+              "account_name": "Pete Platinum Acct",
+              "account_type": "Platinum Cheque Account",
+              "statement_count": 33
+            },
+            {
+              "account_number": "62742245617",
+              "account_name": "Money Maximiser",
+              "account_type": "Money Maximiser",
+              "statement_count": 1
+            },
+            {
+              "account_number": "4483810003374006",
+              "account_name": "FNB Private Wealth Credit Card",
+              "account_type": "Credit Card",
+              "statement_count": 1
+            }
+          ],
+          "statements": [
+            {
+              "count": 33,
+              "date_range": "None - None"
+            },
+            {
+              "count": 1,
+              "date_range": "2021-07-16 - 2021-10-11"
+            },
+            {
+              "count": 1,
+              "date_range": "2021-01-29 - 2021-01-29"
+            }
+          ]
+        },
+        "comcosys": {
+          "emails": [
+            {
+              "address": "pete@regima.com",
+              "message_appearances": 158
+            },
+            {
+              "address": "pete@regima.zone",
+              "message_appearances": 6
+            }
+          ],
+          "keyword_hits": 9
+        }
+      }
+    },
+    "PERSON_002": {
+      "entity_id": "PERSON_002",
+      "name": "Rynette Farrar",
+      "role": "co_conspirator",
+      "agent_type": "antagonist",
+      "evidence_strength": "conclusive",
+      "criminal_threshold": "95%_likely",
+      "sources": {
+        "revstream1": {
+          "evidence_codes": [
+            "JF05",
+            "JF07",
+            "JF08",
+            "JF09"
+          ],
+          "events": [
+            "EVENT_004",
+            "EVENT_005",
+            "EVENT_013",
+            "EVENT_014",
+            "EVENT_015",
+            "EVENT_025",
+            "EVENT_026"
+          ],
+          "ad_res_j7_references": [
+            "SF2_Sage_Screenshots_Rynette_Control.md - Dual account access evidence",
+            "ANNEXURES/JF01 - Email impersonation patterns",
+            "ANNEXURES/JF07 - Sage system screenshots showing control",
+            "SF9_Ian_Levitt_Demand_Letter.md - Implicated in revenue theft scheme",
+            "ANNEXURES/SF2_Sage_Screenshots_Rynette_Control.md - System control proof",
+            "ANNEXURES/JF08/evidence_package_20251012/README.md - Payment redirection evidence",
+            "revenue-stream-hijacking-rynette/ - Dedicated evidence folder"
+          ]
+        },
+        "ad-res-j7": {
+          "annexures": [
+            {
+              "code": "JF05",
+              "path": "ANNEXURES/JF05",
+              "file_count": 7
+            },
+            {
+              "code": "JF07",
+              "path": "ANNEXURES/JF07",
+              "file_count": 186
+            },
+            {
+              "code": "JF08",
+              "path": "ANNEXURES/JF08",
+              "file_count": 38
+            },
+            {
+              "code": "JF09",
+              "path": "ANNEXURES/JF09",
+              "file_count": 8
+            }
+          ],
+          "evidence_files": []
+        },
+        "fincosys": {
+          "accounts": [],
+          "statements": []
+        },
+        "comcosys": {
+          "emails": [
+            {
+              "address": "rynette@regima.zone",
+              "message_appearances": 98
+            }
+          ],
+          "keyword_hits": 1
+        }
+      }
+    },
+    "PERSON_004": {
+      "entity_id": "PERSON_004",
+      "name": "Jacqueline Faucitt",
+      "role": "first_respondent",
+      "agent_type": "victim",
+      "evidence_strength": "strong",
+      "criminal_threshold": "unknown",
+      "sources": {
+        "revstream1": {
+          "evidence_codes": [
+            "JF01",
+            "JF02",
+            "SF9"
+          ],
+          "events": [],
+          "ad_res_j7_references": [
+            "ANNEXURES/JF05 - Correspondence evidence",
+            "ANNEXURES/JF06 - Court documents and filings",
+            "ANNEXURES/JF08 - Evidence packages",
+            "1-CIVIL-RESPONSE - Answering affidavit",
+            "archive/legal-analysis-nov2025/attorney_correspondence/IanLevittAttorneysMemo_2025-11-09.txt"
+          ]
+        },
+        "ad-res-j7": {
+          "annexures": [
+            {
+              "code": "JF01",
+              "path": "ANNEXURES/JF01",
+              "file_count": 2
+            },
+            {
+              "code": "JF02",
+              "path": "ANNEXURES/JF02",
+              "file_count": 3
+            }
+          ],
+          "evidence_files": []
+        },
+        "fincosys": {
+          "accounts": [
+            {
+              "account_number": "62027933606",
+              "account_name": "Jacqui Platinum",
+              "account_type": "Platinum Cheque Account",
+              "statement_count": 27
+            }
+          ],
+          "statements": [
+            {
+              "count": 27,
+              "date_range": "None - None"
+            }
+          ]
+        },
+        "comcosys": {
+          "emails": [
+            {
+              "address": "jax@regima.zone",
+              "message_appearances": 856
+            },
+            {
+              "address": "jax@regima.com",
+              "message_appearances": 732
+            }
+          ],
+          "keyword_hits": 20
+        }
+      }
+    },
+    "PERSON_005": {
+      "entity_id": "PERSON_005",
+      "name": "Daniel James Faucitt",
+      "role": "second_respondent",
+      "agent_type": "victim",
+      "evidence_strength": "strong",
+      "criminal_threshold": "unknown",
+      "sources": {
+        "revstream1": {
+          "evidence_codes": [
+            "JF01",
+            "JF02",
+            "JF06",
+            "SF9"
+          ],
+          "events": [],
+          "ad_res_j7_references": [
+            "ANNEXURES/JF01 - Shopify Plus email (THE FORENSIC TIME CAPSULE)",
+            "ANNEXURES/SF6_Kayla_Pretorius_Estate_Documentation.md - CRITICAL: Death and estate",
+            "ANNEXURES/SF7_Court_Order_Kayla_Email_Seizure.md - Email seizure order",
+            "ANNEXURES/JF02 - Shopify sales reports under her management",
+            "archive/legal-analysis-nov2025/attorney_correspondence/IanLevittAttorneysMemo_2025-11-09.txt"
+          ]
+        },
+        "ad-res-j7": {
+          "annexures": [
+            {
+              "code": "JF01",
+              "path": "ANNEXURES/JF01",
+              "file_count": 2
+            },
+            {
+              "code": "JF02",
+              "path": "ANNEXURES/JF02",
+              "file_count": 3
+            },
+            {
+              "code": "JF06",
+              "path": "ANNEXURES/JF06",
+              "file_count": 5
+            }
+          ],
+          "evidence_files": []
+        },
+        "fincosys": {
+          "accounts": [
+            {
+              "account_number": "62089474309",
+              "account_name": "Daniel J Faucitt",
+              "account_type": "Money On Call",
+              "statement_count": 2
+            },
+            {
+              "account_number": "62462808290",
+              "account_name": "FNB Share Investing",
+              "account_type": "FNB Share Investing",
+              "statement_count": 4
+            },
+            {
+              "account_number": "62471764946",
+              "account_name": "FNB Fusion Pw Account",
+              "account_type": "FNB Fusion Pw Account",
+              "statement_count": 10
+            }
+          ],
+          "statements": [
+            {
+              "count": 2,
+              "date_range": "2021-03-31 - 2021-09-30"
+            },
+            {
+              "count": 4,
+              "date_range": "2000-10-01 - 2001-09-30"
+            },
+            {
+              "count": 10,
+              "date_range": "2021-02-05 - 2021-06-04"
+            }
+          ]
+        },
+        "comcosys": {
+          "emails": [
+            {
+              "address": "dan@regima.com",
+              "message_appearances": 375
+            },
+            {
+              "address": "dan@regima.zone",
+              "message_appearances": 281
+            }
+          ],
+          "keyword_hits": 2
+        }
+      }
+    },
+    "PERSON_006": {
+      "entity_id": "PERSON_006",
+      "name": "Linda",
+      "role": "bookkeeper",
+      "agent_type": "neutral",
+      "evidence_strength": "strong",
+      "criminal_threshold": "unknown",
+      "sources": {
+        "revstream1": {
+          "evidence_codes": [
+            "SF8"
+          ],
+          "events": [],
+          "ad_res_j7_references": [
+            "ANNEXURES/SF8_Linda_Employment_Records.md - Employment documentation",
+            "ANNEXURES/JF08/evidence_package_20251012 - Comprehensive fraud timeline",
+            "1-CIVIL-RESPONSE/RESCISSION_AFFIDAVIT_JACQUELINE_FAUCITT.md - Witness testimony"
+          ]
+        },
+        "ad-res-j7": {
+          "annexures": [],
+          "evidence_files": []
+        },
+        "fincosys": {
+          "accounts": [],
+          "statements": []
+        },
+        "comcosys": {
+          "emails": [],
+          "keyword_hits": 0
+        }
+      }
+    },
+    "PERSON_007": {
+      "entity_id": "PERSON_007",
+      "name": "Danie Bantjies",
+      "role": "cfo_george_group_and_trustee_fft",
+      "agent_type": "antagonist",
+      "evidence_strength": "strong",
+      "criminal_threshold": "95%_likely",
+      "sources": {
+        "revstream1": {
+          "evidence_codes": [
+            "JF03",
+            "JF04",
+            "JF07",
+            "JF08"
+          ],
+          "events": [
+            "EVENT_H018",
+            "EVENT_061",
+            "EVENT_058"
+          ],
+          "ad_res_j7_references": [
+            "ANNEXURES/SF1_Ketoni_Debt_FFT_Documentation.md",
+            "KETONI_PAYOUT_INTEGRATION_SUMMARY_V48-49.md",
+            "evidence/FFT_KETONI_INVESTMENT_TIMELINE_V49.md"
+          ]
+        },
+        "ad-res-j7": {
+          "annexures": [
+            {
+              "code": "JF03",
+              "path": "ANNEXURES/JF03",
+              "file_count": 5
+            },
+            {
+              "code": "JF04",
+              "path": "ANNEXURES/JF04",
+              "file_count": 6
+            },
+            {
+              "code": "JF07",
+              "path": "ANNEXURES/JF07",
+              "file_count": 186
+            },
+            {
+              "code": "JF08",
+              "path": "ANNEXURES/JF08",
+              "file_count": 38
+            }
+          ],
+          "evidence_files": []
+        },
+        "fincosys": {
+          "accounts": [],
+          "statements": []
+        },
+        "comcosys": {
+          "emails": [
+            {
+              "address": "danie.bantjes@gmail.com",
+              "message_appearances": 68
+            }
+          ],
+          "keyword_hits": 30
+        }
+      }
+    },
+    "PERSON_008": {
+      "entity_id": "PERSON_008",
+      "name": "Kayla",
+      "role": "estate_creditor",
+      "agent_type": "victim",
+      "evidence_strength": "strong",
+      "criminal_threshold": "unknown",
+      "sources": {
+        "revstream1": {
+          "evidence_codes": [
+            "JF08",
+            "JF13"
+          ],
+          "events": [
+            "EVENT_023",
+            "EVENT_054"
+          ],
+          "ad_res_j7_references": [
+            "ANNEXURES/JF08 - Email correspondence evidence",
+            "ANNEXURES/JF13 - Recent correspondence",
+            "ANNEXURES/SF6_Kayla_Pretorius_Estate_Documentation.md - Death and estate documentation",
+            "ANNEXURES/SF7_Court_Order_Kayla_Email_Seizure.md - Email seizure court order"
+          ]
+        },
+        "ad-res-j7": {
+          "annexures": [
+            {
+              "code": "JF08",
+              "path": "ANNEXURES/JF08",
+              "file_count": 38
+            },
+            {
+              "code": "JF13",
+              "path": "ANNEXURES/JF13",
+              "file_count": 3
+            }
+          ],
+          "evidence_files": []
+        },
+        "fincosys": {
+          "accounts": [],
+          "statements": []
+        },
+        "comcosys": {
+          "emails": [
+            {
+              "address": "kay@regima.com",
+              "message_appearances": 131
+            },
+            {
+              "address": "kayla@regima.zone",
+              "message_appearances": 60
+            }
+          ],
+          "keyword_hits": 6
+        }
+      }
+    },
+    "PERSON_009": {
+      "entity_id": "PERSON_009",
+      "name": "Gee",
+      "role": "email_sender_witness",
+      "agent_type": "neutral",
+      "evidence_strength": "strong",
+      "criminal_threshold": "unknown",
+      "sources": {
+        "revstream1": {
+          "evidence_codes": [
+            "SF1",
+            "JF10"
+          ],
+          "events": [
+            "EVENT_027"
+          ],
+          "ad_res_j7_references": [
+            "ANNEXURES/JF08/evidence_package_20251012 - Business relationship documentation",
+            "ANNEXURES/JF03 - Financial records showing interactions",
+            "1-CIVIL-RESPONSE - Civil case documentation"
+          ]
+        },
+        "ad-res-j7": {
+          "annexures": [
+            {
+              "code": "JF10",
+              "path": "ANNEXURES/JF10",
+              "file_count": 3
+            }
+          ],
+          "evidence_files": []
+        },
+        "fincosys": {
+          "accounts": [],
+          "statements": []
+        },
+        "comcosys": {
+          "emails": [],
+          "keyword_hits": 0
+        }
+      }
+    },
+    "PERSON_010": {
+      "entity_id": "PERSON_010",
+      "name": "Bernadine Wright",
+      "role": "financial_professional",
+      "agent_type": "neutral",
+      "evidence_strength": "strong",
+      "criminal_threshold": "unknown",
+      "sources": {
+        "revstream1": {
+          "evidence_codes": [
+            "SF6",
+            "JF08"
+          ],
+          "events": [
+            "EVENT_H018"
+          ],
+          "ad_res_j7_references": [
+            "ANNEXURES/JF08/evidence_package_20251012 - Professional relationship evidence",
+            "ANNEXURES/JF06 - Court documents and filings",
+            "1-CIVIL-RESPONSE - Civil case documentation"
+          ]
+        },
+        "ad-res-j7": {
+          "annexures": [
+            {
+              "code": "JF08",
+              "path": "ANNEXURES/JF08",
+              "file_count": 38
+            }
+          ],
+          "evidence_files": []
+        },
+        "fincosys": {
+          "accounts": [],
+          "statements": []
+        },
+        "comcosys": {
+          "emails": [],
+          "keyword_hits": 0
+        }
+      }
+    },
+    "PERSON_003": {
+      "entity_id": "PERSON_003",
+      "name": "Adderory (Rynette's Son)",
+      "role": "co_conspirator_family_member",
+      "agent_type": "accomplice",
+      "evidence_strength": "strong",
+      "criminal_threshold": "unknown",
+      "sources": {
+        "revstream1": {
+          "evidence_codes": [
+            "JF08",
+            "JF09"
+          ],
+          "events": [
+            "EVENT_H009",
+            "EVENT_010",
+            "EVENT_024",
+            "EVENT_027"
+          ],
+          "ad_res_j7_references": [
+            "ANNEXURES/JF01 - Shopify Plus onboarding email (kayp@rzo.io)",
+            "SF6_Kayla_Pretorius_Estate_Documentation.md - Estate documentation",
+            "SF7_Court_Order_Kayla_Email_Seizure.md - Email account seizure order",
+            "ANNEXURES/JF08 - Evidence of independent business operations"
+          ]
+        },
+        "ad-res-j7": {
+          "annexures": [
+            {
+              "code": "JF08",
+              "path": "ANNEXURES/JF08",
+              "file_count": 38
+            },
+            {
+              "code": "JF09",
+              "path": "ANNEXURES/JF09",
+              "file_count": 8
+            }
+          ],
+          "evidence_files": []
+        },
+        "fincosys": {
+          "accounts": [],
+          "statements": []
+        },
+        "comcosys": {
+          "emails": [],
+          "keyword_hits": 0
+        }
+      }
+    },
+    "PERSON_011": {
+      "entity_id": "PERSON_011",
+      "name": "Chantal",
+      "role": "estate_related_party",
+      "agent_type": "neutral",
+      "evidence_strength": "strong",
+      "criminal_threshold": "unknown",
+      "sources": {
+        "revstream1": {
+          "evidence_codes": [
+            "JF08",
+            "JF11"
+          ],
+          "events": [
+            "EVENT_054",
+            "EVENT_023"
+          ],
+          "ad_res_j7_references": [
+            "ANNEXURES/JF08/evidence_package_20251012 - Business operations evidence",
+            "ANNEXURES/JF03 - Financial records",
+            "1-CIVIL-RESPONSE - Civil case documentation"
+          ]
+        },
+        "ad-res-j7": {
+          "annexures": [
+            {
+              "code": "JF08",
+              "path": "ANNEXURES/JF08",
+              "file_count": 38
+            },
+            {
+              "code": "JF11",
+              "path": "ANNEXURES/JF11",
+              "file_count": 1
+            }
+          ],
+          "evidence_files": []
+        },
+        "fincosys": {
+          "accounts": [],
+          "statements": []
+        },
+        "comcosys": {
+          "emails": [],
+          "keyword_hits": 0
+        }
+      }
+    },
+    "PERSON_012": {
+      "entity_id": "PERSON_012",
+      "name": "Jax",
+      "role": "witness_and_victim",
+      "agent_type": "neutral",
+      "evidence_strength": "strong",
+      "criminal_threshold": "unknown",
+      "sources": {
+        "revstream1": {
+          "evidence_codes": [
+            "JF10",
+            "JF13"
+          ],
+          "events": [
+            "EVENT_H020",
+            "EVENT_H021"
+          ],
+          "ad_res_j7_references": [
+            "ANNEXURES/JF08/evidence_package_20251012 - Comprehensive fraud timeline",
+            "ANNEXURES/JF06 - Court documents and filings",
+            "1-CIVIL-RESPONSE/RESCISSION_AFFIDAVIT_JACQUELINE_FAUCITT.md - Witness testimony"
+          ]
+        },
+        "ad-res-j7": {
+          "annexures": [
+            {
+              "code": "JF10",
+              "path": "ANNEXURES/JF10",
+              "file_count": 3
+            },
+            {
+              "code": "JF13",
+              "path": "ANNEXURES/JF13",
+              "file_count": 3
+            }
+          ],
+          "evidence_files": []
+        },
+        "fincosys": {
+          "accounts": [],
+          "statements": []
+        },
+        "comcosys": {
+          "emails": [],
+          "keyword_hits": 0
+        }
+      }
+    },
+    "PERSON_039": {
+      "entity_id": "PERSON_039",
+      "name": "Marisca Meyer",
+      "role": "complicit_accountant",
+      "agent_type": "antagonist",
+      "evidence_strength": "conclusive",
+      "criminal_threshold": "95%_likely",
+      "sources": {
+        "revstream1": {
+          "evidence_codes": [],
+          "events": [],
+          "ad_res_j7_references": []
+        },
+        "ad-res-j7": {
+          "annexures": [],
+          "evidence_files": []
+        },
+        "fincosys": {
+          "accounts": [],
+          "statements": []
+        },
+        "comcosys": {
+          "emails": [],
+          "keyword_hits": 0
+        }
+      }
+    },
+    "PERSON_013": {
+      "entity_id": "PERSON_013",
+      "name": "Kayla Pretorius",
+      "role": "estate_executor_email_account_holder",
+      "agent_type": "neutral",
+      "evidence_strength": "conclusive",
+      "criminal_threshold": "unknown",
+      "sources": {
+        "revstream1": {
+          "evidence_codes": [
+            "SF6",
+            "SF7"
+          ],
+          "events": [
+            "EVENT_086",
+            "EVENT_087"
+          ],
+          "ad_res_j7_references": [
+            "ANNEXURES/JF01 - Shopify Plus email (26 July 2017) - CRITICAL EVIDENCE",
+            "ANNEXURES/SF6_Kayla_Pretorius_Estate_Documentation.md - Estate documentation",
+            "ANNEXURES/SF7_Court_Order_Kayla_Email_Seizure.md - Court order evidence",
+            "ANNEXURES/JF08/evidence_package_20251012 - Comprehensive fraud timeline",
+            "1-CIVIL-RESPONSE - Civil case documentation"
+          ]
+        },
+        "ad-res-j7": {
+          "annexures": [],
+          "evidence_files": []
+        },
+        "fincosys": {
+          "accounts": [],
+          "statements": []
+        },
+        "comcosys": {
+          "emails": [],
+          "keyword_hits": 0
+        }
+      }
+    },
+    "PERSON_015": {
+      "entity_id": "PERSON_015",
+      "name": "Alan Peter Louw",
+      "role": "external_director",
+      "agent_type": "unknown",
+      "evidence_strength": "moderate",
+      "criminal_threshold": "unknown",
+      "sources": {
+        "revstream1": {
+          "evidence_codes": [],
+          "events": [],
+          "ad_res_j7_references": [
+            "evidence/cipc/293350197.pdf - Director search Alan Peter Louw",
+            "evidence/cipc/293350058.pdf - ALOECO (SA) company record"
+          ]
+        },
+        "ad-res-j7": {
+          "annexures": [],
+          "evidence_files": []
+        },
+        "fincosys": {
+          "accounts": [],
+          "statements": []
+        },
+        "comcosys": {
+          "emails": [],
+          "keyword_hits": 0
+        }
+      }
+    },
+    "PERSON_016": {
+      "entity_id": "PERSON_016",
+      "name": "Martin Carlo Rizzotto",
+      "role": "external_director",
+      "agent_type": "unknown",
+      "evidence_strength": "moderate",
+      "criminal_threshold": "unknown",
+      "sources": {
+        "revstream1": {
+          "evidence_codes": [],
+          "events": [],
+          "ad_res_j7_references": [
+            "evidence/cipc/293350204.pdf - Director search Martin Carlo Rizzotto"
+          ]
+        },
+        "ad-res-j7": {
+          "annexures": [],
+          "evidence_files": []
+        },
+        "fincosys": {
+          "accounts": [],
+          "statements": []
+        },
+        "comcosys": {
+          "emails": [],
+          "keyword_hits": 0
+        }
+      }
+    },
+    "PERSON_017": {
+      "entity_id": "PERSON_017",
+      "name": "Christian Gouws",
+      "role": "resigned_director",
+      "agent_type": "neutral",
+      "evidence_strength": "moderate",
+      "criminal_threshold": "unknown",
+      "sources": {
+        "revstream1": {
+          "evidence_codes": [],
+          "events": [],
+          "ad_res_j7_references": [
+            "evidence/cipc/293348688.pdf - RegimA Worldwide Distribution company record"
+          ]
+        },
+        "ad-res-j7": {
+          "annexures": [],
+          "evidence_files": []
+        },
+        "fincosys": {
+          "accounts": [],
+          "statements": []
+        },
+        "comcosys": {
+          "emails": [],
+          "keyword_hits": 0
+        }
+      }
+    },
+    "PERSON_018": {
+      "entity_id": "PERSON_018",
+      "name": "Lisa Clare Frost",
+      "role": "resigned_member",
+      "agent_type": "neutral",
+      "evidence_strength": "weak",
+      "criminal_threshold": "unknown",
+      "sources": {
+        "revstream1": {
+          "evidence_codes": [],
+          "events": [],
+          "ad_res_j7_references": []
+        },
+        "ad-res-j7": {
+          "annexures": [],
+          "evidence_files": []
+        },
+        "fincosys": {
+          "accounts": [],
+          "statements": []
+        },
+        "comcosys": {
+          "emails": [],
+          "keyword_hits": 0
+        }
+      }
+    },
+    "PERSON_019": {
+      "entity_id": "PERSON_019",
+      "name": "Trevor David Stidston",
+      "role": "resigned_member",
+      "agent_type": "neutral",
+      "evidence_strength": "weak",
+      "criminal_threshold": "unknown",
+      "sources": {
+        "revstream1": {
+          "evidence_codes": [],
+          "events": [],
+          "ad_res_j7_references": []
+        },
+        "ad-res-j7": {
+          "annexures": [],
+          "evidence_files": []
+        },
+        "fincosys": {
+          "accounts": [],
+          "statements": []
+        },
+        "comcosys": {
+          "emails": [],
+          "keyword_hits": 0
+        }
+      }
+    },
+    "PERSON_020": {
+      "entity_id": "PERSON_020",
+      "name": "Kerry-Anne Zwicky",
+      "role": "resigned_member",
+      "agent_type": "neutral",
+      "evidence_strength": "weak",
+      "criminal_threshold": "unknown",
+      "sources": {
+        "revstream1": {
+          "evidence_codes": [],
+          "events": [],
+          "ad_res_j7_references": []
+        },
+        "ad-res-j7": {
+          "annexures": [],
+          "evidence_files": []
+        },
+        "fincosys": {
+          "accounts": [],
+          "statements": []
+        },
+        "comcosys": {
+          "emails": [],
+          "keyword_hits": 0
+        }
+      }
+    },
+    "PERSON_021": {
+      "entity_id": "PERSON_021",
+      "name": "Guillaume Jordaan",
+      "role": "resigned_director",
+      "agent_type": "neutral",
+      "evidence_strength": "weak",
+      "criminal_threshold": "unknown",
+      "sources": {
+        "revstream1": {
+          "evidence_codes": [],
+          "events": [],
+          "ad_res_j7_references": []
+        },
+        "ad-res-j7": {
+          "annexures": [],
+          "evidence_files": []
+        },
+        "fincosys": {
+          "accounts": [],
+          "statements": []
+        },
+        "comcosys": {
+          "emails": [],
+          "keyword_hits": 0
+        }
+      }
+    },
+    "PERSON_022": {
+      "entity_id": "PERSON_022",
+      "name": "Gary Ian Cay",
+      "role": "resigned_member",
+      "agent_type": "neutral",
+      "evidence_strength": "weak",
+      "criminal_threshold": "unknown",
+      "sources": {
+        "revstream1": {
+          "evidence_codes": [],
+          "events": [],
+          "ad_res_j7_references": []
+        },
+        "ad-res-j7": {
+          "annexures": [],
+          "evidence_files": []
+        },
+        "fincosys": {
+          "accounts": [],
+          "statements": []
+        },
+        "comcosys": {
+          "emails": [],
+          "keyword_hits": 0
+        }
+      }
+    },
+    "PERSON_023": {
+      "entity_id": "PERSON_023",
+      "name": "Dennis Jacobus Bishop",
+      "role": "shelf_company_director",
+      "agent_type": "neutral",
+      "evidence_strength": "unknown",
+      "criminal_threshold": "unknown",
+      "sources": {
+        "revstream1": {
+          "evidence_codes": [],
+          "events": [],
+          "ad_res_j7_references": []
+        },
+        "ad-res-j7": {
+          "annexures": [],
+          "evidence_files": []
+        },
+        "fincosys": {
+          "accounts": [],
+          "statements": []
+        },
+        "comcosys": {
+          "emails": [],
+          "keyword_hits": 0
+        }
+      }
+    },
+    "PERSON_025": {
+      "entity_id": "PERSON_025",
+      "name": "John Leslie Knowlton",
+      "role": "director",
+      "agent_type": "neutral",
+      "evidence_strength": "unknown",
+      "criminal_threshold": "unknown",
+      "sources": {
+        "revstream1": {
+          "evidence_codes": [],
+          "events": [],
+          "ad_res_j7_references": []
+        },
+        "ad-res-j7": {
+          "annexures": [],
+          "evidence_files": []
+        },
+        "fincosys": {
+          "accounts": [],
+          "statements": []
+        },
+        "comcosys": {
+          "emails": [],
+          "keyword_hits": 0
+        }
+      }
+    },
+    "PERSON_026": {
+      "entity_id": "PERSON_026",
+      "name": "Vanessa Claire Rizzotto",
+      "role": "spouse",
+      "agent_type": "neutral",
+      "evidence_strength": "unknown",
+      "criminal_threshold": "unknown",
+      "sources": {
+        "revstream1": {
+          "evidence_codes": [],
+          "events": [],
+          "ad_res_j7_references": []
+        },
+        "ad-res-j7": {
+          "annexures": [],
+          "evidence_files": []
+        },
+        "fincosys": {
+          "accounts": [],
+          "statements": []
+        },
+        "comcosys": {
+          "emails": [],
+          "keyword_hits": 0
+        }
+      }
+    },
+    "PERSON_027": {
+      "entity_id": "PERSON_027",
+      "name": "Andrew J Fraser",
+      "role": "accounting_officer",
+      "agent_type": "neutral",
+      "evidence_strength": "unknown",
+      "criminal_threshold": "unknown",
+      "sources": {
+        "revstream1": {
+          "evidence_codes": [],
+          "events": [],
+          "ad_res_j7_references": []
+        },
+        "ad-res-j7": {
+          "annexures": [],
+          "evidence_files": []
+        },
+        "fincosys": {
+          "accounts": [],
+          "statements": []
+        },
+        "comcosys": {
+          "emails": [],
+          "keyword_hits": 0
+        }
+      }
+    },
+    "PERSON_29": {
+      "entity_id": "PERSON_29",
+      "name": "Barend Thomas Nortje",
+      "role": "Distributor",
+      "agent_type": "",
+      "evidence_strength": "strong",
+      "criminal_threshold": "unknown",
+      "sources": {
+        "revstream1": {
+          "evidence_codes": [],
+          "events": [],
+          "ad_res_j7_references": []
+        },
+        "ad-res-j7": {
+          "annexures": [],
+          "evidence_files": []
+        },
+        "fincosys": {
+          "accounts": [],
+          "statements": []
+        },
+        "comcosys": {
+          "emails": [],
+          "keyword_hits": 0
+        }
+      }
+    },
+    "PERSON_30": {
+      "entity_id": "PERSON_30",
+      "name": "Sharon Nortje",
+      "role": "Distributor",
+      "agent_type": "",
+      "evidence_strength": "strong",
+      "criminal_threshold": "unknown",
+      "sources": {
+        "revstream1": {
+          "evidence_codes": [],
+          "events": [],
+          "ad_res_j7_references": []
+        },
+        "ad-res-j7": {
+          "annexures": [],
+          "evidence_files": []
+        },
+        "fincosys": {
+          "accounts": [],
+          "statements": []
+        },
+        "comcosys": {
+          "emails": [],
+          "keyword_hits": 0
+        }
+      }
+    },
+    "PERSON_31": {
+      "entity_id": "PERSON_31",
+      "name": "Karen Patricia Avnit",
+      "role": "Distributor",
+      "agent_type": "",
+      "evidence_strength": "conclusive",
+      "criminal_threshold": "unknown",
+      "sources": {
+        "revstream1": {
+          "evidence_codes": [],
+          "events": [],
+          "ad_res_j7_references": []
+        },
+        "ad-res-j7": {
+          "annexures": [],
+          "evidence_files": []
+        },
+        "fincosys": {
+          "accounts": [],
+          "statements": []
+        },
+        "comcosys": {
+          "emails": [],
+          "keyword_hits": 0
+        }
+      }
+    },
+    "PERSON_32": {
+      "entity_id": "PERSON_32",
+      "name": "Chan\u00e9 Auriele Todd",
+      "role": "Distributor",
+      "agent_type": "",
+      "evidence_strength": "strong",
+      "criminal_threshold": "unknown",
+      "sources": {
+        "revstream1": {
+          "evidence_codes": [],
+          "events": [],
+          "ad_res_j7_references": []
+        },
+        "ad-res-j7": {
+          "annexures": [],
+          "evidence_files": []
+        },
+        "fincosys": {
+          "accounts": [],
+          "statements": []
+        },
+        "comcosys": {
+          "emails": [],
+          "keyword_hits": 0
+        }
+      }
+    },
+    "PERSON_33": {
+      "entity_id": "PERSON_33",
+      "name": "Kirby Rae Van Der Stelt",
+      "role": "Former Distributor",
+      "agent_type": "",
+      "evidence_strength": "moderate",
+      "criminal_threshold": "unknown",
+      "sources": {
+        "revstream1": {
+          "evidence_codes": [],
+          "events": [],
+          "ad_res_j7_references": []
+        },
+        "ad-res-j7": {
+          "annexures": [],
+          "evidence_files": []
+        },
+        "fincosys": {
+          "accounts": [],
+          "statements": []
+        },
+        "comcosys": {
+          "emails": [],
+          "keyword_hits": 0
+        }
+      }
+    },
+    "PERSON_34": {
+      "entity_id": "PERSON_34",
+      "name": "Dante Bertani",
+      "role": "Distributor",
+      "agent_type": "",
+      "evidence_strength": "strong",
+      "criminal_threshold": "unknown",
+      "sources": {
+        "revstream1": {
+          "evidence_codes": [],
+          "events": [],
+          "ad_res_j7_references": []
+        },
+        "ad-res-j7": {
+          "annexures": [],
+          "evidence_files": []
+        },
+        "fincosys": {
+          "accounts": [],
+          "statements": []
+        },
+        "comcosys": {
+          "emails": [],
+          "keyword_hits": 0
+        }
+      }
+    },
+    "PERSON_35": {
+      "entity_id": "PERSON_35",
+      "name": "Anna Gertruida Johanna du Toit",
+      "role": "Former Distributor",
+      "agent_type": "",
+      "evidence_strength": "moderate",
+      "criminal_threshold": "unknown",
+      "sources": {
+        "revstream1": {
+          "evidence_codes": [],
+          "events": [],
+          "ad_res_j7_references": []
+        },
+        "ad-res-j7": {
+          "annexures": [],
+          "evidence_files": []
+        },
+        "fincosys": {
+          "accounts": [],
+          "statements": []
+        },
+        "comcosys": {
+          "emails": [],
+          "keyword_hits": 0
+        }
+      }
+    },
+    "PERSON_36": {
+      "entity_id": "PERSON_36",
+      "name": "Adrian Dominic De Fay",
+      "role": "Investment Manager",
+      "agent_type": "",
+      "evidence_strength": "moderate",
+      "criminal_threshold": "unknown",
+      "sources": {
+        "revstream1": {
+          "evidence_codes": [],
+          "events": [],
+          "ad_res_j7_references": []
+        },
+        "ad-res-j7": {
+          "annexures": [],
+          "evidence_files": []
+        },
+        "fincosys": {
+          "accounts": [],
+          "statements": []
+        },
+        "comcosys": {
+          "emails": [],
+          "keyword_hits": 0
+        }
+      }
+    },
+    "PERSON_DERRICK_001": {
+      "entity_id": "PERSON_DERRICK_001",
+      "name": "Kevin Michael Derrick",
+      "role": "ketoni_director",
+      "agent_type": "neutral",
+      "evidence_strength": "unknown",
+      "criminal_threshold": "unknown",
+      "sources": {
+        "revstream1": {
+          "evidence_codes": [],
+          "events": [],
+          "ad_res_j7_references": [
+            "KETONI_PAYOUT_INTEGRATION_SUMMARY_V48-49.md",
+            "lex/agent_based_model_v48_ketoni_integrated.scm"
+          ]
+        },
+        "ad-res-j7": {
+          "annexures": [],
+          "evidence_files": []
+        },
+        "fincosys": {
+          "accounts": [],
+          "statements": []
+        },
+        "comcosys": {
+          "emails": [],
+          "keyword_hits": 0
+        }
+      }
+    },
+    "PERSON_TB_002": {
+      "entity_id": "PERSON_TB_002",
+      "name": "Danie Bantjes",
+      "role": "external_accountant",
+      "agent_type": "key_witness",
+      "evidence_strength": "unknown",
+      "criminal_threshold": "unknown",
+      "sources": {
+        "revstream1": {
+          "evidence_codes": [],
+          "events": [],
+          "ad_res_j7_references": []
+        },
+        "ad-res-j7": {
+          "annexures": [],
+          "evidence_files": []
+        },
+        "fincosys": {
+          "accounts": [],
+          "statements": []
+        },
+        "comcosys": {
+          "emails": [],
+          "keyword_hits": 0
+        }
+      }
+    },
+    "PERSON_037": {
+      "entity_id": "PERSON_037",
+      "name": "Kent (Unknown Surname)",
+      "role": "sales_order_processor",
+      "agent_type": "operational_staff",
+      "evidence_strength": "moderate",
+      "criminal_threshold": "unknown",
+      "sources": {
+        "revstream1": {
+          "evidence_codes": [],
+          "events": [],
+          "ad_res_j7_references": [
+            "ANNEXURES/JF07/Screenshot-2025-06-20-Sage-Account-RegimA-Worldwide-Distribution.md",
+            "ANNEXURES/JF09/APR-SEP-2025.md - POPIA letters to Kent",
+            "evidence_analysis/rynette_organogram_2025-04-12.md"
+          ]
+        },
+        "ad-res-j7": {
+          "annexures": [],
+          "evidence_files": []
+        },
+        "fincosys": {
+          "accounts": [],
+          "statements": []
+        },
+        "comcosys": {
+          "emails": [
+            {
+              "address": "kent@regima.zone",
+              "message_appearances": 93
+            }
+          ],
+          "keyword_hits": 0
+        }
+      }
+    },
+    "PERSON_038": {
+      "entity_id": "PERSON_038",
+      "name": "EL (Unknown Surname)",
+      "role": "sales_order_processor",
+      "agent_type": "operational_staff",
+      "evidence_strength": "moderate",
+      "criminal_threshold": "unknown",
+      "sources": {
+        "revstream1": {
+          "evidence_codes": [],
+          "events": [],
+          "ad_res_j7_references": [
+            "ANNEXURES/JF07/Screenshot-2025-06-20-Sage-Account-RegimA-Worldwide-Distribution.json",
+            "evidence_analysis/rynette_organogram_2025-04-12.md"
+          ]
+        },
+        "ad-res-j7": {
+          "annexures": [],
+          "evidence_files": []
+        },
+        "fincosys": {
+          "accounts": [],
+          "statements": []
+        },
+        "comcosys": {
+          "emails": [],
+          "keyword_hits": 0
+        }
+      }
+    },
+    "PERSON_040": {
+      "entity_id": "PERSON_040",
+      "name": "Nadine Van Greunen",
+      "role": "complicit_accountant",
+      "agent_type": "antagonist",
+      "evidence_strength": "unknown",
+      "criminal_threshold": "unknown",
+      "sources": {
+        "revstream1": {
+          "evidence_codes": [],
+          "events": [],
+          "ad_res_j7_references": []
+        },
+        "ad-res-j7": {
+          "annexures": [],
+          "evidence_files": []
+        },
+        "fincosys": {
+          "accounts": [],
+          "statements": []
+        },
+        "comcosys": {
+          "emails": [],
+          "keyword_hits": 0
+        }
+      }
+    },
+    "PERSON_041": {
+      "entity_id": "PERSON_041",
+      "name": "Gayane Williams",
+      "role": "employee_bookkeeper",
+      "agent_type": "witness",
+      "evidence_strength": "unknown",
+      "criminal_threshold": "unknown",
+      "sources": {
+        "revstream1": {
+          "evidence_codes": [],
+          "events": [],
+          "ad_res_j7_references": []
+        },
+        "ad-res-j7": {
+          "annexures": [],
+          "evidence_files": []
+        },
+        "fincosys": {
+          "accounts": [],
+          "statements": []
+        },
+        "comcosys": {
+          "emails": [],
+          "keyword_hits": 0
+        }
+      }
+    },
+    "ORG_001": {
+      "entity_id": "ORG_001",
+      "name": "Regima Worldwide Distribution (PTY) LTD",
+      "role": "third_respondent",
+      "agent_type": "instrument_of_fraud",
+      "evidence_strength": "conclusive",
+      "criminal_threshold": "unknown",
+      "sources": {
+        "revstream1": {
+          "evidence_codes": [
+            "JF04",
+            "JF05",
+            "JF07"
+          ],
+          "events": [],
+          "ad_res_j7_references": [
+            "ANNEXURES/JF04 - CIPC company registration",
+            "ANNEXURES/JF07 - Sage accounting screenshots",
+            "1-CIVIL-RESPONSE/financial-flows - Revenue hijacking documentation"
+          ]
+        },
+        "ad-res-j7": {
+          "annexures": [
+            {
+              "code": "JF04",
+              "path": "ANNEXURES/JF04",
+              "file_count": 6
+            },
+            {
+              "code": "JF05",
+              "path": "ANNEXURES/JF05",
+              "file_count": 7
+            },
+            {
+              "code": "JF07",
+              "path": "ANNEXURES/JF07",
+              "file_count": 186
+            }
+          ],
+          "evidence_files": []
+        },
+        "fincosys": {
+          "accounts": [
+            {
+              "account_number": "62323196362",
+              "account_name": "Regima Worldwide Distribution",
+              "account_type": "Platinum Business Account",
+              "statement_count": 38
+            },
+            {
+              "account_number": "62836164880",
+              "account_name": "Worldwide Savings",
+              "account_type": "Business Savings Account",
+              "statement_count": 5
+            },
+            {
+              "account_number": "62839612323",
+              "account_name": "CFC Business Global Account",
+              "account_type": "Business Global Account",
+              "statement_count": 42
+            },
+            {
+              "account_number": "62839612331",
+              "account_name": "Business Global Account",
+              "account_type": "Business Global Account",
+              "statement_count": 4
+            },
+            {
+              "account_number": "62839612349",
+              "account_name": "Business Global Account",
+              "account_type": "Business Global Account",
+              "statement_count": 3
+            }
+          ],
+          "statements": [
+            {
+              "count": 38,
+              "date_range": "2021-02-01 - 2021-12-31"
+            },
+            {
+              "count": 5,
+              "date_range": "2020-10-01 - 2021-12-31"
+            },
+            {
+              "count": 42,
+              "date_range": "2021-07-16 - 2022-11-30"
+            },
+            {
+              "count": 4,
+              "date_range": "2021-06-30 - 2022-06-24"
+            },
+            {
+              "count": 3,
+              "date_range": "2021-06-30 - 2022-06-28"
+            }
+          ]
+        },
+        "comcosys": {
+          "emails": [],
+          "keyword_hits": 0
+        }
+      }
+    },
+    "ORG_002": {
+      "entity_id": "ORG_002",
+      "name": "Regima Skin Treatments CC",
+      "role": "fourth_respondent",
+      "agent_type": "affected_entity",
+      "evidence_strength": "strong",
+      "criminal_threshold": "unknown",
+      "sources": {
+        "revstream1": {
+          "evidence_codes": [
+            "JF04",
+            "JF07"
+          ],
+          "events": [],
+          "ad_res_j7_references": [
+            "ANNEXURES/JF04 - CIPC registration documents",
+            "SF3_Strategic_Logistics_Stock_Adjustment.md - Inter-company transactions",
+            "1-CIVIL-RESPONSE/financial-flows - Beneficiary of hijacked revenue"
+          ]
+        },
+        "ad-res-j7": {
+          "annexures": [
+            {
+              "code": "JF04",
+              "path": "ANNEXURES/JF04",
+              "file_count": 6
+            },
+            {
+              "code": "JF07",
+              "path": "ANNEXURES/JF07",
+              "file_count": 186
+            }
+          ],
+          "evidence_files": []
+        },
+        "fincosys": {
+          "accounts": [
+            {
+              "account_number": "55270035642",
+              "account_name": "Regima Skin Treatments",
+              "account_type": "Platinum Business Account",
+              "statement_count": 24
+            },
+            {
+              "account_number": "62134839127",
+              "account_name": "Business Money Market",
+              "account_type": "Money On Call",
+              "statement_count": 35
+            },
+            {
+              "account_number": "62839603819",
+              "account_name": "Business Global Account",
+              "account_type": "Business Global Account",
+              "statement_count": 5
+            },
+            {
+              "account_number": "62839603827",
+              "account_name": "Business Global Account",
+              "account_type": "Business Global Account",
+              "statement_count": 4
+            },
+            {
+              "account_number": "4790812427545003",
+              "account_name": "Business Gold Credit Card",
+              "account_type": "Credit Card",
+              "statement_count": 1
+            },
+            {
+              "account_number": "8812710044279003",
+              "account_name": "Business Credit Card",
+              "account_type": "Credit Card",
+              "statement_count": 1
+            },
+            {
+              "account_number": "62839609635",
+              "account_name": "Business Global Account (Old)",
+              "account_type": "Business Global Account",
+              "statement_count": 1
+            }
+          ],
+          "statements": [
+            {
+              "count": 24,
+              "date_range": "2020-01-02 - 2021-12-24"
+            },
+            {
+              "count": 35,
+              "date_range": "2020-01-16 - 2021-12-17"
+            },
+            {
+              "count": 5,
+              "date_range": "2022-03-22 - 2022-06-28"
+            },
+            {
+              "count": 4,
+              "date_range": "2021-06-30 - 2022-06-24"
+            },
+            {
+              "count": 1,
+              "date_range": "2021-08-31 - 2021-08-31"
+            },
+            {
+              "count": 1,
+              "date_range": "2021-07-31 - 2021-07-31"
+            },
+            {
+              "count": 1,
+              "date_range": "None - None"
+            }
+          ]
+        },
+        "comcosys": {
+          "emails": [],
+          "keyword_hits": 0
+        }
+      }
+    },
+    "ORG_003": {
+      "entity_id": "ORG_003",
+      "name": "RegimA Zone Ltd",
+      "role": "infrastructure_owner",
+      "agent_type": "legitimate_business",
+      "evidence_strength": "strong",
+      "criminal_threshold": "unknown",
+      "sources": {
+        "revstream1": {
+          "evidence_codes": [
+            "JF01",
+            "JF02",
+            "JF06"
+          ],
+          "events": [],
+          "ad_res_j7_references": [
+            "ANNEXURES/JF01 - Shopify Plus email proving ownership",
+            "ANNEXURES/JF02 - Shopify sales reports",
+            "1-CIVIL-RESPONSE - UK company documentation and payment records"
+          ]
+        },
+        "ad-res-j7": {
+          "annexures": [
+            {
+              "code": "JF01",
+              "path": "ANNEXURES/JF01",
+              "file_count": 2
+            },
+            {
+              "code": "JF02",
+              "path": "ANNEXURES/JF02",
+              "file_count": 3
+            },
+            {
+              "code": "JF06",
+              "path": "ANNEXURES/JF06",
+              "file_count": 5
+            }
+          ],
+          "evidence_files": []
+        },
+        "fincosys": {
+          "accounts": [
+            {
+              "account_number": "63176874808",
+              "account_name": "Regima Zone Gold Business",
+              "account_type": "Gold Business Account",
+              "statement_count": 3
+            }
+          ],
+          "statements": [
+            {
+              "count": 3,
+              "date_range": "2025-09-30 - 2025-11-27"
+            }
+          ]
+        },
+        "comcosys": {
+          "emails": [],
+          "keyword_hits": 0
+        }
+      }
+    },
+    "ORG_004": {
+      "entity_id": "ORG_004",
+      "name": "Strategic Logistics Group",
+      "role": "trust_owned_warehouse_and_logistics",
+      "agent_type": "victim_entity",
+      "evidence_strength": "strong",
+      "criminal_threshold": "unknown",
+      "sources": {
+        "revstream1": {
+          "evidence_codes": [
+            "JF03",
+            "JF02"
+          ],
+          "events": [],
+          "ad_res_j7_references": [
+            "ANNEXURES/JF03 - Financial records and analysis",
+            "ANNEXURES/JF04 - CIPC registration documents",
+            "ANNEXURES/JF02 - Shopify sales reports"
+          ]
+        },
+        "ad-res-j7": {
+          "annexures": [
+            {
+              "code": "JF03",
+              "path": "ANNEXURES/JF03",
+              "file_count": 5
+            },
+            {
+              "code": "JF02",
+              "path": "ANNEXURES/JF02",
+              "file_count": 3
+            }
+          ],
+          "evidence_files": []
+        },
+        "fincosys": {
+          "accounts": [
+            {
+              "account_number": "62432501494",
+              "account_name": "Strategic Logistics",
+              "account_type": "Platinum Business Account",
+              "statement_count": 59
+            },
+            {
+              "account_number": "62593375829",
+              "account_name": "Strategic Savings",
+              "account_type": "Business Savings Account",
+              "statement_count": 9
+            },
+            {
+              "account_number": "62839603835",
+              "account_name": "Business Global Account",
+              "account_type": "Business Global Account",
+              "statement_count": 13
+            }
+          ],
+          "statements": [
+            {
+              "count": 59,
+              "date_range": "2021-02-08 - 2021-12-31"
+            },
+            {
+              "count": 9,
+              "date_range": "2020-10-23 - 2021-12-23"
+            },
+            {
+              "count": 13,
+              "date_range": "2021-05-10 - 2022-11-30"
+            }
+          ]
+        },
+        "comcosys": {
+          "emails": [],
+          "keyword_hits": 0
+        }
+      }
+    },
+    "ORG_005": {
+      "entity_id": "ORG_005",
+      "name": "Villa Via",
+      "role": "rental_property_company_wealth_extraction",
+      "agent_type": "instrument_of_wealth_transfer",
+      "evidence_strength": "strong",
+      "criminal_threshold": "unknown",
+      "sources": {
+        "revstream1": {
+          "evidence_codes": [
+            "SF3",
+            "JF03"
+          ],
+          "events": [],
+          "ad_res_j7_references": [
+            "ANNEXURES/SF3_Strategic_Logistics_Stock_Adjustment.md",
+            "ANNEXURES/JF03 - Financial records and analysis",
+            "ANNEXURES/JF04 - CIPC registration documents"
+          ]
+        },
+        "ad-res-j7": {
+          "annexures": [
+            {
+              "code": "JF03",
+              "path": "ANNEXURES/JF03",
+              "file_count": 5
+            }
+          ],
+          "evidence_files": []
+        },
+        "fincosys": {
+          "accounts": [
+            {
+              "account_number": "62423540807",
+              "account_name": "Villa Via Arcadia",
+              "account_type": "Platinum Business Account",
+              "statement_count": 42
+            },
+            {
+              "account_number": "62812835744",
+              "account_name": "Money On Call",
+              "account_type": "Money On Call",
+              "statement_count": 13
+            }
+          ],
+          "statements": [
+            {
+              "count": 42,
+              "date_range": "2021-02-01 - 2022-11-30"
+            },
+            {
+              "count": 13,
+              "date_range": "2020-10-01 - 2021-12-31"
+            }
+          ]
+        },
+        "comcosys": {
+          "emails": [],
+          "keyword_hits": 0
+        }
+      }
+    },
+    "ORG_006": {
+      "entity_id": "ORG_006",
+      "name": "RegimA SA",
+      "role": "revenue_stream_victim",
+      "agent_type": "victim_entity",
+      "evidence_strength": "strong",
+      "criminal_threshold": "unknown",
+      "sources": {
+        "revstream1": {
+          "evidence_codes": [
+            "JF03",
+            "SF2"
+          ],
+          "events": [
+            "diversion_started_2025_03_01"
+          ],
+          "ad_res_j7_references": [
+            "ANNEXURES/JF02 - Shopify sales reports for RegimA SA",
+            "ANNEXURES/JF07 - Sage screenshots showing fraudulent records",
+            "SF2_Sage_Screenshots_Rynette_Control.md - Victim of revenue hijacking"
+          ]
+        },
+        "ad-res-j7": {
+          "annexures": [
+            {
+              "code": "JF03",
+              "path": "ANNEXURES/JF03",
+              "file_count": 5
+            }
+          ],
+          "evidence_files": []
+        },
+        "fincosys": {
+          "accounts": [
+            {
+              "account_number": "62707308252",
+              "account_name": "Regima SA",
+              "account_type": "Platinum Business Account",
+              "statement_count": 26
+            },
+            {
+              "account_number": "62896473974",
+              "account_name": "Trust Account",
+              "account_type": "Trust Account",
+              "statement_count": 46
+            },
+            {
+              "account_number": "62896474972",
+              "account_name": "Business Call Account",
+              "account_type": "Business Call Account",
+              "statement_count": 15
+            },
+            {
+              "account_number": "62896474196",
+              "account_name": "RSA Current Account",
+              "account_type": "Platinum Business Account",
+              "statement_count": 81
+            },
+            {
+              "account_number": "62897307015",
+              "account_name": "RSA Trust Account 7015",
+              "account_type": "Trust Account",
+              "statement_count": 18
+            },
+            {
+              "account_number": "62897307031",
+              "account_name": "RSA Trust Account 7031",
+              "account_type": "Trust Account",
+              "statement_count": 8
+            },
+            {
+              "account_number": "62897307073",
+              "account_name": "RSA Trust Account 7073",
+              "account_type": "Trust Account",
+              "statement_count": 8
+            }
+          ],
+          "statements": [
+            {
+              "count": 26,
+              "date_range": "2022-02-08 - 2022-12-04"
+            },
+            {
+              "count": 46,
+              "date_range": "2021-06-28 - 2021-11-23"
+            },
+            {
+              "count": 15,
+              "date_range": "2021-04-26 - 2021-10-21"
+            },
+            {
+              "count": 81,
+              "date_range": "2024-10-21 - 2025-11-24"
+            },
+            {
+              "count": 18,
+              "date_range": "2024-10-29 - 2025-08-29"
+            },
+            {
+              "count": 8,
+              "date_range": "2024-10-29 - 2025-01-29"
+            },
+            {
+              "count": 8,
+              "date_range": "2024-10-29 - 2025-01-29"
+            }
+          ]
+        },
+        "comcosys": {
+          "emails": [],
+          "keyword_hits": 0
+        }
+      }
+    },
+    "ORG_008": {
+      "entity_id": "ORG_008",
+      "name": "ReZonance (Pty) Ltd",
+      "role": "it_services_provider_and_creditor",
+      "agent_type": "victim",
+      "evidence_strength": "strong",
+      "criminal_threshold": "unknown",
+      "sources": {
+        "revstream1": {
+          "evidence_codes": [
+            "JF03"
+          ],
+          "events": [
+            "first_invoice_2017_06_30",
+            "service_expansion_2017_09_30",
+            "debt_accumulation_2022_03_01",
+            "false_payment_claims_2023",
+            "jax_confrontation_2025_05_15"
+          ],
+          "ad_res_j7_references": [
+            "SF1_Ketoni_Debt_FFT_Documentation.md - Business relationship and debt",
+            "1-CIVIL-RESPONSE/financial-flows - Service provider documentation"
+          ]
+        },
+        "ad-res-j7": {
+          "annexures": [
+            {
+              "code": "JF03",
+              "path": "ANNEXURES/JF03",
+              "file_count": 5
+            }
+          ],
+          "evidence_files": []
+        },
+        "fincosys": {
+          "accounts": [
+            {
+              "account_number": "62707312310",
+              "account_name": "Rezonance",
+              "account_type": "Gold Business Account",
+              "statement_count": 10
+            },
+            {
+              "account_number": "62826022577",
+              "account_name": "Money On Call",
+              "account_type": "Money On Call",
+              "statement_count": 4
+            }
+          ],
+          "statements": [
+            {
+              "count": 10,
+              "date_range": "2021-02-06 - 2021-12-04"
+            },
+            {
+              "count": 4,
+              "date_range": "2020-10-12 - 2021-09-11"
+            }
+          ]
+        },
+        "comcosys": {
+          "emails": [],
+          "keyword_hits": 0
+        }
+      }
+    },
+    "ORG_009": {
+      "entity_id": "ORG_009",
+      "name": "Adderory (Pty) Ltd",
+      "role": "competing_business_fraud_vehicle",
+      "agent_type": "accomplice",
+      "evidence_strength": "strong",
+      "criminal_threshold": "unknown",
+      "sources": {
+        "revstream1": {
+          "evidence_codes": [
+            "SF5",
+            "JF03"
+          ],
+          "events": [
+            "EVENT_H009",
+            "EVENT_010",
+            "EVENT_024",
+            "EVENT_027"
+          ],
+          "ad_res_j7_references": [
+            "ANNEXURES/SF5_Adderory_Company_Registration.md",
+            "ANNEXURES/JF04 - CIPC registration documents",
+            "ANNEXURES/JF03 - Financial records and analysis"
+          ]
+        },
+        "ad-res-j7": {
+          "annexures": [
+            {
+              "code": "JF03",
+              "path": "ANNEXURES/JF03",
+              "file_count": 5
+            }
+          ],
+          "evidence_files": []
+        },
+        "fincosys": {
+          "accounts": [],
+          "statements": []
+        },
+        "comcosys": {
+          "emails": [],
+          "keyword_hits": 0
+        }
+      }
+    },
+    "ORG_010": {
+      "entity_id": "ORG_010",
+      "name": "Adderory Skin (Pty) Ltd",
+      "role": "competing_business_fraud_vehicle",
+      "agent_type": "accomplice",
+      "evidence_strength": "moderate",
+      "criminal_threshold": "unknown",
+      "sources": {
+        "revstream1": {
+          "evidence_codes": [
+            "JF04"
+          ],
+          "events": [
+            "EVENT_H009",
+            "EVENT_027"
+          ],
+          "ad_res_j7_references": [
+            "ANNEXURES/JF04 - CIPC registration documents"
+          ]
+        },
+        "ad-res-j7": {
+          "annexures": [
+            {
+              "code": "JF04",
+              "path": "ANNEXURES/JF04",
+              "file_count": 6
+            }
+          ],
+          "evidence_files": []
+        },
+        "fincosys": {
+          "accounts": [],
+          "statements": []
+        },
+        "comcosys": {
+          "emails": [],
+          "keyword_hits": 0
+        }
+      }
+    },
+    "ORG_012": {
+      "entity_id": "ORG_012",
+      "name": "RegimaSA (Pty) Ltd",
+      "role": "Shell company / Related party entity",
+      "agent_type": "instrument",
+      "evidence_strength": "moderate",
+      "criminal_threshold": "unknown",
+      "sources": {
+        "revstream1": {
+          "evidence_codes": [],
+          "events": [],
+          "ad_res_j7_references": [
+            "ANNEXURES/JF04 - CIPC registration documents",
+            "ANNEXURES/JF03 - Financial records and analysis"
+          ]
+        },
+        "ad-res-j7": {
+          "annexures": [],
+          "evidence_files": []
+        },
+        "fincosys": {
+          "accounts": [],
+          "statements": []
+        },
+        "comcosys": {
+          "emails": [],
+          "keyword_hits": 0
+        }
+      }
+    },
+    "ORG_013": {
+      "entity_id": "ORG_013",
+      "name": "Unicorn Dynamics (Pty) Ltd",
+      "role": "Related party entity",
+      "agent_type": "unknown",
+      "evidence_strength": "moderate",
+      "criminal_threshold": "unknown",
+      "sources": {
+        "revstream1": {
+          "evidence_codes": [],
+          "events": [],
+          "ad_res_j7_references": [
+            "ANNEXURES/JF04 - CIPC registration documents",
+            "ANNEXURES/JF03 - Financial records and analysis"
+          ]
+        },
+        "ad-res-j7": {
+          "annexures": [],
+          "evidence_files": []
+        },
+        "fincosys": {
+          "accounts": [],
+          "statements": []
+        },
+        "comcosys": {
+          "emails": [],
+          "keyword_hits": 0
+        }
+      }
+    },
+    "ORG_014": {
+      "entity_id": "ORG_014",
+      "name": "RegimA SA (Pty) Ltd",
+      "role": "RegimA Group entity",
+      "agent_type": "unknown",
+      "evidence_strength": "moderate",
+      "criminal_threshold": "unknown",
+      "sources": {
+        "revstream1": {
+          "evidence_codes": [],
+          "events": [],
+          "ad_res_j7_references": [
+            "ANNEXURES/JF04 - CIPC registration documents",
+            "ANNEXURES/JF03 - Financial records and analysis"
+          ]
+        },
+        "ad-res-j7": {
+          "annexures": [],
+          "evidence_files": []
+        },
+        "fincosys": {
+          "accounts": [],
+          "statements": []
+        },
+        "comcosys": {
+          "emails": [],
+          "keyword_hits": 0
+        }
+      }
+    },
+    "ORG_015": {
+      "entity_id": "ORG_015",
+      "name": "SARS (South African Revenue Service)",
+      "role": "tax_authority",
+      "agent_type": "regulatory",
+      "evidence_strength": "moderate",
+      "criminal_threshold": "unknown",
+      "sources": {
+        "revstream1": {
+          "evidence_codes": [
+            "SF4"
+          ],
+          "events": [
+            "EVENT_088"
+          ],
+          "ad_res_j7_references": [
+            "ANNEXURES/SF4_SARS_Audit_Email.md"
+          ]
+        },
+        "ad-res-j7": {
+          "annexures": [],
+          "evidence_files": []
+        },
+        "fincosys": {
+          "accounts": [],
+          "statements": []
+        },
+        "comcosys": {
+          "emails": [],
+          "keyword_hits": 0
+        }
+      }
+    },
+    "ORG_007": {
+      "entity_id": "ORG_007",
+      "name": "Ian Levitt Attorneys",
+      "role": "legal_representative",
+      "agent_type": "neutral_third_party",
+      "evidence_strength": "moderate",
+      "criminal_threshold": "unknown",
+      "sources": {
+        "revstream1": {
+          "evidence_codes": [
+            "SF9"
+          ],
+          "events": [
+            "EVENT_SF9"
+          ],
+          "ad_res_j7_references": [
+            "SF9_Ian_Levitt_Demand_Letter.md - Formal demand documentation"
+          ]
+        },
+        "ad-res-j7": {
+          "annexures": [],
+          "evidence_files": []
+        },
+        "fincosys": {
+          "accounts": [],
+          "statements": []
+        },
+        "comcosys": {
+          "emails": [],
+          "keyword_hits": 0
+        }
+      }
+    },
+    "ORG_042": {
+      "entity_id": "ORG_042",
+      "name": "ALOECO (SA)",
+      "role": "",
+      "agent_type": "",
+      "evidence_strength": "moderate",
+      "criminal_threshold": "unknown",
+      "sources": {
+        "revstream1": {
+          "evidence_codes": [],
+          "events": [],
+          "ad_res_j7_references": [
+            "evidence/cipc/293350058.pdf - ALOECO (SA) company record"
+          ]
+        },
+        "ad-res-j7": {
+          "annexures": [],
+          "evidence_files": []
+        },
+        "fincosys": {
+          "accounts": [],
+          "statements": []
+        },
+        "comcosys": {
+          "emails": [],
+          "keyword_hits": 0
+        }
+      }
+    },
+    "ORG_016": {
+      "entity_id": "ORG_016",
+      "name": "Marlouw Group",
+      "role": "",
+      "agent_type": "",
+      "evidence_strength": "moderate",
+      "criminal_threshold": "unknown",
+      "sources": {
+        "revstream1": {
+          "evidence_codes": [],
+          "events": [],
+          "ad_res_j7_references": [
+            "evidence/cipc/293351580.pdf - Marlouw Group company record"
+          ]
+        },
+        "ad-res-j7": {
+          "annexures": [],
+          "evidence_files": []
+        },
+        "fincosys": {
+          "accounts": [],
+          "statements": []
+        },
+        "comcosys": {
+          "emails": [],
+          "keyword_hits": 0
+        }
+      }
+    },
+    "ORG_017": {
+      "entity_id": "ORG_017",
+      "name": "Big Business 301",
+      "role": "",
+      "agent_type": "",
+      "evidence_strength": "moderate",
+      "criminal_threshold": "unknown",
+      "sources": {
+        "revstream1": {
+          "evidence_codes": [],
+          "events": [],
+          "ad_res_j7_references": [
+            "evidence/cipc/293351589.pdf - Big Business 301 company record"
+          ]
+        },
+        "ad-res-j7": {
+          "annexures": [],
+          "evidence_files": []
+        },
+        "fincosys": {
+          "accounts": [],
+          "statements": []
+        },
+        "comcosys": {
+          "emails": [],
+          "keyword_hits": 0
+        }
+      }
+    },
+    "ORG_018": {
+      "entity_id": "ORG_018",
+      "name": "Art of Buzztec (SA)",
+      "role": "",
+      "agent_type": "",
+      "evidence_strength": "moderate",
+      "criminal_threshold": "unknown",
+      "sources": {
+        "revstream1": {
+          "evidence_codes": [],
+          "events": [],
+          "ad_res_j7_references": [
+            "evidence/cipc/293351595.pdf - Art of Buzztec company record"
+          ]
+        },
+        "ad-res-j7": {
+          "annexures": [],
+          "evidence_files": []
+        },
+        "fincosys": {
+          "accounts": [],
+          "statements": []
+        },
+        "comcosys": {
+          "emails": [],
+          "keyword_hits": 0
+        }
+      }
+    },
+    "ORG_019": {
+      "entity_id": "ORG_019",
+      "name": "Rezonance",
+      "role": "",
+      "agent_type": "",
+      "evidence_strength": "moderate",
+      "criminal_threshold": "unknown",
+      "sources": {
+        "revstream1": {
+          "evidence_codes": [],
+          "events": [],
+          "ad_res_j7_references": [
+            "ANNEXURES/JF04 - CIPC registration documents",
+            "ANNEXURES/JF03 - Financial records and analysis"
+          ]
+        },
+        "ad-res-j7": {
+          "annexures": [],
+          "evidence_files": []
+        },
+        "fincosys": {
+          "accounts": [],
+          "statements": []
+        },
+        "comcosys": {
+          "emails": [],
+          "keyword_hits": 0
+        }
+      }
+    },
+    "ORG_020": {
+      "entity_id": "ORG_020",
+      "name": "RegimA Medic",
+      "role": "",
+      "agent_type": "",
+      "evidence_strength": "moderate",
+      "criminal_threshold": "unknown",
+      "sources": {
+        "revstream1": {
+          "evidence_codes": [],
+          "events": [],
+          "ad_res_j7_references": [
+            "ANNEXURES/JF04 - CIPC registration documents",
+            "ANNEXURES/JF03 - Financial records and analysis"
+          ]
+        },
+        "ad-res-j7": {
+          "annexures": [],
+          "evidence_files": []
+        },
+        "fincosys": {
+          "accounts": [],
+          "statements": []
+        },
+        "comcosys": {
+          "emails": [],
+          "keyword_hits": 0
+        }
+      }
+    },
+    "ORG_021": {
+      "entity_id": "ORG_021",
+      "name": "S A Logistic Services",
+      "role": "",
+      "agent_type": "",
+      "evidence_strength": "moderate",
+      "criminal_threshold": "unknown",
+      "sources": {
+        "revstream1": {
+          "evidence_codes": [],
+          "events": [],
+          "ad_res_j7_references": [
+            "ANNEXURES/JF04 - CIPC registration documents",
+            "ANNEXURES/JF03 - Financial records and analysis"
+          ]
+        },
+        "ad-res-j7": {
+          "annexures": [],
+          "evidence_files": []
+        },
+        "fincosys": {
+          "accounts": [],
+          "statements": []
+        },
+        "comcosys": {
+          "emails": [],
+          "keyword_hits": 0
+        }
+      }
+    },
+    "ORG_022": {
+      "entity_id": "ORG_022",
+      "name": "ALOECO (SA) - Original 1982",
+      "role": "",
+      "agent_type": "",
+      "evidence_strength": "moderate",
+      "criminal_threshold": "unknown",
+      "sources": {
+        "revstream1": {
+          "evidence_codes": [],
+          "events": [],
+          "ad_res_j7_references": [
+            "ANNEXURES/JF04 - CIPC registration documents",
+            "ANNEXURES/JF03 - Financial records and analysis"
+          ]
+        },
+        "ad-res-j7": {
+          "annexures": [],
+          "evidence_files": []
+        },
+        "fincosys": {
+          "accounts": [],
+          "statements": []
+        },
+        "comcosys": {
+          "emails": [],
+          "keyword_hits": 0
+        }
+      }
+    },
+    "ORG_023": {
+      "entity_id": "ORG_023",
+      "name": "ALOECO (SA) - CC 2006",
+      "role": "",
+      "agent_type": "",
+      "evidence_strength": "moderate",
+      "criminal_threshold": "unknown",
+      "sources": {
+        "revstream1": {
+          "evidence_codes": [],
+          "events": [],
+          "ad_res_j7_references": [
+            "ANNEXURES/JF04 - CIPC registration documents",
+            "ANNEXURES/JF03 - Financial records and analysis"
+          ]
+        },
+        "ad-res-j7": {
+          "annexures": [],
+          "evidence_files": []
+        },
+        "fincosys": {
+          "accounts": [],
+          "statements": []
+        },
+        "comcosys": {
+          "emails": [],
+          "keyword_hits": 0
+        }
+      }
+    },
+    "ORG_024": {
+      "entity_id": "ORG_024",
+      "name": "LMS Logistic Services",
+      "role": "",
+      "agent_type": "",
+      "evidence_strength": "moderate",
+      "criminal_threshold": "unknown",
+      "sources": {
+        "revstream1": {
+          "evidence_codes": [],
+          "events": [],
+          "ad_res_j7_references": [
+            "ANNEXURES/JF04 - CIPC registration documents",
+            "ANNEXURES/JF03 - Financial records and analysis"
+          ]
+        },
+        "ad-res-j7": {
+          "annexures": [],
+          "evidence_files": []
+        },
+        "fincosys": {
+          "accounts": [],
+          "statements": []
+        },
+        "comcosys": {
+          "emails": [],
+          "keyword_hits": 0
+        }
+      }
+    },
+    "ORG_025": {
+      "entity_id": "ORG_025",
+      "name": "UFO Express",
+      "role": "",
+      "agent_type": "",
+      "evidence_strength": "moderate",
+      "criminal_threshold": "unknown",
+      "sources": {
+        "revstream1": {
+          "evidence_codes": [],
+          "events": [],
+          "ad_res_j7_references": [
+            "ANNEXURES/JF04 - CIPC registration documents",
+            "ANNEXURES/JF03 - Financial records and analysis"
+          ]
+        },
+        "ad-res-j7": {
+          "annexures": [],
+          "evidence_files": []
+        },
+        "fincosys": {
+          "accounts": [],
+          "statements": []
+        },
+        "comcosys": {
+          "emails": [],
+          "keyword_hits": 0
+        }
+      }
+    },
+    "ORG_026": {
+      "entity_id": "ORG_026",
+      "name": "Nanini 262",
+      "role": "",
+      "agent_type": "",
+      "evidence_strength": "moderate",
+      "criminal_threshold": "unknown",
+      "sources": {
+        "revstream1": {
+          "evidence_codes": [],
+          "events": [],
+          "ad_res_j7_references": [
+            "ANNEXURES/JF04 - CIPC registration documents",
+            "ANNEXURES/JF03 - Financial records and analysis"
+          ]
+        },
+        "ad-res-j7": {
+          "annexures": [],
+          "evidence_files": []
+        },
+        "fincosys": {
+          "accounts": [],
+          "statements": []
+        },
+        "comcosys": {
+          "emails": [],
+          "keyword_hits": 0
+        }
+      }
+    },
+    "ORG_027": {
+      "entity_id": "ORG_027",
+      "name": "East Coast Logistics",
+      "role": "",
+      "agent_type": "",
+      "evidence_strength": "moderate",
+      "criminal_threshold": "unknown",
+      "sources": {
+        "revstream1": {
+          "evidence_codes": [],
+          "events": [],
+          "ad_res_j7_references": [
+            "ANNEXURES/JF04 - CIPC registration documents",
+            "ANNEXURES/JF03 - Financial records and analysis"
+          ]
+        },
+        "ad-res-j7": {
+          "annexures": [],
+          "evidence_files": []
+        },
+        "fincosys": {
+          "accounts": [],
+          "statements": []
+        },
+        "comcosys": {
+          "emails": [],
+          "keyword_hits": 0
+        }
+      }
+    },
+    "ORG_028": {
+      "entity_id": "ORG_028",
+      "name": "L'IMAGE",
+      "role": "",
+      "agent_type": "",
+      "evidence_strength": "moderate",
+      "criminal_threshold": "unknown",
+      "sources": {
+        "revstream1": {
+          "evidence_codes": [],
+          "events": [],
+          "ad_res_j7_references": [
+            "ANNEXURES/JF04 - CIPC registration documents",
+            "ANNEXURES/JF03 - Financial records and analysis"
+          ]
+        },
+        "ad-res-j7": {
+          "annexures": [],
+          "evidence_files": []
+        },
+        "fincosys": {
+          "accounts": [],
+          "statements": []
+        },
+        "comcosys": {
+          "emails": [],
+          "keyword_hits": 0
+        }
+      }
+    },
+    "ORG_029": {
+      "entity_id": "ORG_029",
+      "name": "Shaneprop",
+      "role": "",
+      "agent_type": "",
+      "evidence_strength": "moderate",
+      "criminal_threshold": "unknown",
+      "sources": {
+        "revstream1": {
+          "evidence_codes": [],
+          "events": [],
+          "ad_res_j7_references": [
+            "ANNEXURES/JF04 - CIPC registration documents",
+            "ANNEXURES/JF03 - Financial records and analysis"
+          ]
+        },
+        "ad-res-j7": {
+          "annexures": [],
+          "evidence_files": []
+        },
+        "fincosys": {
+          "accounts": [],
+          "statements": []
+        },
+        "comcosys": {
+          "emails": [],
+          "keyword_hits": 0
+        }
+      }
+    },
+    "ORG_030": {
+      "entity_id": "ORG_030",
+      "name": "RegimA International Skin Treatments CC",
+      "role": "",
+      "agent_type": "",
+      "evidence_strength": "moderate",
+      "criminal_threshold": "unknown",
+      "sources": {
+        "revstream1": {
+          "evidence_codes": [],
+          "events": [],
+          "ad_res_j7_references": [
+            "ANNEXURES/JF04 - CIPC registration documents",
+            "ANNEXURES/JF03 - Financial records and analysis"
+          ]
+        },
+        "ad-res-j7": {
+          "annexures": [],
+          "evidence_files": []
+        },
+        "fincosys": {
+          "accounts": [],
+          "statements": []
+        },
+        "comcosys": {
+          "emails": [],
+          "keyword_hits": 0
+        }
+      }
+    },
+    "ORG_031": {
+      "entity_id": "ORG_031",
+      "name": "Glendower Golf Estate Home Owners Association",
+      "role": "",
+      "agent_type": "",
+      "evidence_strength": "moderate",
+      "criminal_threshold": "unknown",
+      "sources": {
+        "revstream1": {
+          "evidence_codes": [],
+          "events": [],
+          "ad_res_j7_references": [
+            "ANNEXURES/JF04 - CIPC registration documents",
+            "ANNEXURES/JF03 - Financial records and analysis"
+          ]
+        },
+        "ad-res-j7": {
+          "annexures": [],
+          "evidence_files": []
+        },
+        "fincosys": {
+          "accounts": [],
+          "statements": []
+        },
+        "comcosys": {
+          "emails": [],
+          "keyword_hits": 0
+        }
+      }
+    },
+    "ORG_32": {
+      "entity_id": "ORG_32",
+      "name": "Dermal Skin Treatments Cape Town",
+      "role": "RegimA Distributor - Cape Town",
+      "agent_type": "",
+      "evidence_strength": "strong",
+      "criminal_threshold": "unknown",
+      "sources": {
+        "revstream1": {
+          "evidence_codes": [],
+          "events": [],
+          "ad_res_j7_references": [
+            "ANNEXURES/JF04 - CIPC registration documents",
+            "ANNEXURES/JF03 - Financial records and analysis"
+          ]
+        },
+        "ad-res-j7": {
+          "annexures": [],
+          "evidence_files": []
+        },
+        "fincosys": {
+          "accounts": [],
+          "statements": []
+        },
+        "comcosys": {
+          "emails": [],
+          "keyword_hits": 0
+        }
+      }
+    },
+    "ORG_33": {
+      "entity_id": "ORG_33",
+      "name": "Kachan Marketing and Distribution",
+      "role": "RegimA Distributor - Gauteng",
+      "agent_type": "",
+      "evidence_strength": "strong",
+      "criminal_threshold": "unknown",
+      "sources": {
+        "revstream1": {
+          "evidence_codes": [],
+          "events": [],
+          "ad_res_j7_references": [
+            "ANNEXURES/JF04 - CIPC registration documents",
+            "ANNEXURES/JF03 - Financial records and analysis"
+          ]
+        },
+        "ad-res-j7": {
+          "annexures": [],
+          "evidence_files": []
+        },
+        "fincosys": {
+          "accounts": [],
+          "statements": []
+        },
+        "comcosys": {
+          "emails": [],
+          "keyword_hits": 0
+        }
+      }
+    },
+    "ORG_34": {
+      "entity_id": "ORG_34",
+      "name": "Dandelion SA",
+      "role": "RegimA Distributor",
+      "agent_type": "",
+      "evidence_strength": "strong",
+      "criminal_threshold": "unknown",
+      "sources": {
+        "revstream1": {
+          "evidence_codes": [],
+          "events": [],
+          "ad_res_j7_references": [
+            "ANNEXURES/JF04 - CIPC registration documents",
+            "ANNEXURES/JF03 - Financial records and analysis"
+          ]
+        },
+        "ad-res-j7": {
+          "annexures": [],
+          "evidence_files": []
+        },
+        "fincosys": {
+          "accounts": [],
+          "statements": []
+        },
+        "comcosys": {
+          "emails": [],
+          "keyword_hits": 0
+        }
+      }
+    },
+    "ORG_35": {
+      "entity_id": "ORG_35",
+      "name": "Bertani International Global",
+      "role": "RegimA Distributor",
+      "agent_type": "",
+      "evidence_strength": "moderate",
+      "criminal_threshold": "unknown",
+      "sources": {
+        "revstream1": {
+          "evidence_codes": [],
+          "events": [],
+          "ad_res_j7_references": [
+            "ANNEXURES/JF04 - CIPC registration documents",
+            "ANNEXURES/JF03 - Financial records and analysis"
+          ]
+        },
+        "ad-res-j7": {
+          "annexures": [],
+          "evidence_files": []
+        },
+        "fincosys": {
+          "accounts": [],
+          "statements": []
+        },
+        "comcosys": {
+          "emails": [],
+          "keyword_hits": 0
+        }
+      }
+    },
+    "ORG_36": {
+      "entity_id": "ORG_36",
+      "name": "George Endermologie Clinic",
+      "role": "Former RegimA Distributor - George",
+      "agent_type": "",
+      "evidence_strength": "moderate",
+      "criminal_threshold": "unknown",
+      "sources": {
+        "revstream1": {
+          "evidence_codes": [],
+          "events": [],
+          "ad_res_j7_references": [
+            "ANNEXURES/JF04 - CIPC registration documents",
+            "ANNEXURES/JF03 - Financial records and analysis"
+          ]
+        },
+        "ad-res-j7": {
+          "annexures": [],
+          "evidence_files": []
+        },
+        "fincosys": {
+          "accounts": [],
+          "statements": []
+        },
+        "comcosys": {
+          "emails": [],
+          "keyword_hits": 0
+        }
+      }
+    },
+    "ORG_37": {
+      "entity_id": "ORG_37",
+      "name": "De Fay Fund Management",
+      "role": "Investment Fund - Nortje Connection",
+      "agent_type": "",
+      "evidence_strength": "moderate",
+      "criminal_threshold": "unknown",
+      "sources": {
+        "revstream1": {
+          "evidence_codes": [],
+          "events": [],
+          "ad_res_j7_references": [
+            "ANNEXURES/JF04 - CIPC registration documents",
+            "ANNEXURES/JF03 - Financial records and analysis"
+          ]
+        },
+        "ad-res-j7": {
+          "annexures": [],
+          "evidence_files": []
+        },
+        "fincosys": {
+          "accounts": [],
+          "statements": []
+        },
+        "comcosys": {
+          "emails": [],
+          "keyword_hits": 0
+        }
+      }
+    },
+    "ORG_KETONI_001": {
+      "entity_id": "ORG_KETONI_001",
+      "name": "Ketoni Investment Holdings Proprietary Limited",
+      "role": "pass_through_investment_vehicle",
+      "agent_type": "",
+      "evidence_strength": "conclusive",
+      "criminal_threshold": "95%_exceeded",
+      "sources": {
+        "revstream1": {
+          "evidence_codes": [
+            "JF10"
+          ],
+          "events": [],
+          "ad_res_j7_references": [
+            "evidence/financial-analysis/ketoni_investment_holdings_afs_2024.md",
+            "KETONI_PAYOUT_INTEGRATION_SUMMARY_V48-49.md",
+            "evidence/FFT_KETONI_INVESTMENT_TIMELINE_V49.md",
+            "lex/entity_relation_framework_v48_ketoni_payout_integrated.scm",
+            "lex/agent_based_model_v48_ketoni_integrated.scm",
+            "docs/exchange-evidence/ketoni_motive.md",
+            "ketoni_correction_2026_01_28/KETONI_RELATIONSHIP_CORRECTION_2026_01_28.md",
+            "ANNEXURES/JF10/"
+          ]
+        },
+        "ad-res-j7": {
+          "annexures": [
+            {
+              "code": "JF10",
+              "path": "ANNEXURES/JF10",
+              "file_count": 3
+            }
+          ],
+          "evidence_files": []
+        },
+        "fincosys": {
+          "accounts": [],
+          "statements": []
+        },
+        "comcosys": {
+          "emails": [],
+          "keyword_hits": 0
+        }
+      }
+    },
+    "ORG_TB_001": {
+      "entity_id": "ORG_TB_001",
+      "name": "DERM",
+      "role": "",
+      "agent_type": "",
+      "evidence_strength": "moderate",
+      "criminal_threshold": "unknown",
+      "sources": {
+        "revstream1": {
+          "evidence_codes": [],
+          "events": [],
+          "ad_res_j7_references": [
+            "ANNEXURES/JF04 - CIPC registration documents",
+            "ANNEXURES/JF03 - Financial records and analysis"
+          ]
+        },
+        "ad-res-j7": {
+          "annexures": [],
+          "evidence_files": []
+        },
+        "fincosys": {
+          "accounts": [],
+          "statements": []
+        },
+        "comcosys": {
+          "emails": [],
+          "keyword_hits": 0
+        }
+      }
+    },
+    "ORG_TB_002": {
+      "entity_id": "ORG_TB_002",
+      "name": "RSA",
+      "role": "",
+      "agent_type": "",
+      "evidence_strength": "moderate",
+      "criminal_threshold": "unknown",
+      "sources": {
+        "revstream1": {
+          "evidence_codes": [],
+          "events": [],
+          "ad_res_j7_references": [
+            "ANNEXURES/JF04 - CIPC registration documents",
+            "ANNEXURES/JF03 - Financial records and analysis"
+          ]
+        },
+        "ad-res-j7": {
+          "annexures": [],
+          "evidence_files": []
+        },
+        "fincosys": {
+          "accounts": [],
+          "statements": []
+        },
+        "comcosys": {
+          "emails": [],
+          "keyword_hits": 0
+        }
+      }
+    },
+    "ORG_TB_003": {
+      "entity_id": "ORG_TB_003",
+      "name": "REU",
+      "role": "",
+      "agent_type": "",
+      "evidence_strength": "moderate",
+      "criminal_threshold": "unknown",
+      "sources": {
+        "revstream1": {
+          "evidence_codes": [],
+          "events": [],
+          "ad_res_j7_references": [
+            "ANNEXURES/JF04 - CIPC registration documents",
+            "ANNEXURES/JF03 - Financial records and analysis"
+          ]
+        },
+        "ad-res-j7": {
+          "annexures": [],
+          "evidence_files": []
+        },
+        "fincosys": {
+          "accounts": [],
+          "statements": []
+        },
+        "comcosys": {
+          "emails": [],
+          "keyword_hits": 0
+        }
+      }
+    },
+    "PLATFORM_001": {
+      "entity_id": "PLATFORM_001",
+      "name": "Shopify Plus Platform",
+      "role": "sales_platform",
+      "agent_type": "",
+      "evidence_strength": "moderate",
+      "criminal_threshold": "unknown",
+      "sources": {
+        "revstream1": {
+          "evidence_codes": [
+            "JF01"
+          ],
+          "events": [],
+          "ad_res_j7_references": []
+        },
+        "ad-res-j7": {
+          "annexures": [
+            {
+              "code": "JF01",
+              "path": "ANNEXURES/JF01",
+              "file_count": 2
+            }
+          ],
+          "evidence_files": []
+        },
+        "fincosys": {
+          "accounts": [],
+          "statements": []
+        },
+        "comcosys": {
+          "emails": [],
+          "keyword_hits": 0
+        }
+      }
+    },
+    "DOMAIN_001": {
+      "entity_id": "DOMAIN_001",
+      "name": "regima.zone Domain",
+      "role": "legitimate_domain",
+      "agent_type": "",
+      "evidence_strength": "moderate",
+      "criminal_threshold": "unknown",
+      "sources": {
+        "revstream1": {
+          "evidence_codes": [],
+          "events": [],
+          "ad_res_j7_references": []
+        },
+        "ad-res-j7": {
+          "annexures": [],
+          "evidence_files": []
+        },
+        "fincosys": {
+          "accounts": [],
+          "statements": []
+        },
+        "comcosys": {
+          "emails": [],
+          "keyword_hits": 0
+        }
+      }
+    },
+    "DOMAIN_002": {
+      "entity_id": "DOMAIN_002",
+      "name": "regimaskin.co.za Domain",
+      "role": "fraudulent_domain",
+      "agent_type": "",
+      "evidence_strength": "moderate",
+      "criminal_threshold": "unknown",
+      "sources": {
+        "revstream1": {
+          "evidence_codes": [],
+          "events": [],
+          "ad_res_j7_references": []
+        },
+        "ad-res-j7": {
+          "annexures": [],
+          "evidence_files": []
+        },
+        "fincosys": {
+          "accounts": [],
+          "statements": []
+        },
+        "comcosys": {
+          "emails": [],
+          "keyword_hits": 0
+        }
+      }
+    },
+    "TRUST_001": {
+      "entity_id": "TRUST_001",
+      "name": "Faucitt Family Trust",
+      "role": "central_asset_holder",
+      "agent_type": "",
+      "evidence_strength": "moderate",
+      "criminal_threshold": "unknown",
+      "sources": {
+        "revstream1": {
+          "evidence_codes": [],
+          "events": [],
+          "ad_res_j7_references": []
+        },
+        "ad-res-j7": {
+          "annexures": [],
+          "evidence_files": []
+        },
+        "fincosys": {
+          "accounts": [],
+          "statements": []
+        },
+        "comcosys": {
+          "emails": [],
+          "keyword_hits": 0
+        }
+      }
+    },
+    "SYS_BANK_ACCOUNTS": {
+      "entity_id": "SYS_BANK_ACCOUNTS",
+      "name": "Bank Accounts",
+      "role": "",
+      "agent_type": "",
+      "evidence_strength": "moderate",
+      "criminal_threshold": "unknown",
+      "sources": {
+        "revstream1": {
+          "evidence_codes": [],
+          "events": [],
+          "ad_res_j7_references": []
+        },
+        "ad-res-j7": {
+          "annexures": [],
+          "evidence_files": []
+        },
+        "fincosys": {
+          "accounts": [],
+          "statements": []
+        },
+        "comcosys": {
+          "emails": [],
+          "keyword_hits": 0
+        }
+      }
+    },
+    "SYS_ACCOUNTS": {
+      "entity_id": "SYS_ACCOUNTS",
+      "name": "Accounting System",
+      "role": "",
+      "agent_type": "",
+      "evidence_strength": "moderate",
+      "criminal_threshold": "unknown",
+      "sources": {
+        "revstream1": {
+          "evidence_codes": [],
+          "events": [],
+          "ad_res_j7_references": []
+        },
+        "ad-res-j7": {
+          "annexures": [],
+          "evidence_files": []
+        },
+        "fincosys": {
+          "accounts": [],
+          "statements": []
+        },
+        "comcosys": {
+          "emails": [],
+          "keyword_hits": 0
+        }
+      }
+    },
+    "SYS_STOCK": {
+      "entity_id": "SYS_STOCK",
+      "name": "Stock/Inventory",
+      "role": "",
+      "agent_type": "",
+      "evidence_strength": "moderate",
+      "criminal_threshold": "unknown",
+      "sources": {
+        "revstream1": {
+          "evidence_codes": [],
+          "events": [],
+          "ad_res_j7_references": []
+        },
+        "ad-res-j7": {
+          "annexures": [],
+          "evidence_files": []
+        },
+        "fincosys": {
+          "accounts": [],
+          "statements": []
+        },
+        "comcosys": {
+          "emails": [],
+          "keyword_hits": 0
+        }
+      }
+    },
+    "SYS_REGIMA_GROUP": {
+      "entity_id": "SYS_REGIMA_GROUP",
+      "name": "RegimA Group",
+      "role": "",
+      "agent_type": "",
+      "evidence_strength": "moderate",
+      "criminal_threshold": "unknown",
+      "sources": {
+        "revstream1": {
+          "evidence_codes": [],
+          "events": [],
+          "ad_res_j7_references": []
+        },
+        "ad-res-j7": {
+          "annexures": [],
+          "evidence_files": []
+        },
+        "fincosys": {
+          "accounts": [],
+          "statements": []
+        },
+        "comcosys": {
+          "emails": [],
+          "keyword_hits": 0
+        }
+      }
+    },
+    "SYS_FINANCIAL_RECORDS": {
+      "entity_id": "SYS_FINANCIAL_RECORDS",
+      "name": "Financial Records",
+      "role": "",
+      "agent_type": "",
+      "evidence_strength": "moderate",
+      "criminal_threshold": "unknown",
+      "sources": {
+        "revstream1": {
+          "evidence_codes": [],
+          "events": [],
+          "ad_res_j7_references": []
+        },
+        "ad-res-j7": {
+          "annexures": [],
+          "evidence_files": []
+        },
+        "fincosys": {
+          "accounts": [],
+          "statements": []
+        },
+        "comcosys": {
+          "emails": [],
+          "keyword_hits": 0
+        }
+      }
+    },
+    "ORG_GEORGE_GROUP": {
+      "entity_id": "ORG_GEORGE_GROUP",
+      "name": "The George Group Proprietary Limited",
+      "role": "revenue_generator_for_ketoni",
+      "agent_type": "",
+      "evidence_strength": "conclusive",
+      "criminal_threshold": "unknown",
+      "sources": {
+        "revstream1": {
+          "evidence_codes": [],
+          "events": [],
+          "ad_res_j7_references": []
+        },
+        "ad-res-j7": {
+          "annexures": [],
+          "evidence_files": []
+        },
+        "fincosys": {
+          "accounts": [],
+          "statements": []
+        },
+        "comcosys": {
+          "emails": [],
+          "keyword_hits": 0
+        }
+      }
+    },
+    "ORG_DE_NOVO": {
+      "entity_id": "ORG_DE_NOVO",
+      "name": "De Novo Business Services (Pty) Ltd",
+      "role": "complicit_accountant",
+      "agent_type": "antagonist",
+      "evidence_strength": "conclusive",
+      "criminal_threshold": "95%_exceeded",
+      "sources": {
+        "revstream1": {
+          "evidence_codes": [],
+          "events": [],
+          "ad_res_j7_references": []
+        },
+        "ad-res-j7": {
+          "annexures": [],
+          "evidence_files": []
+        },
+        "fincosys": {
+          "accounts": [],
+          "statements": []
+        },
+        "comcosys": {
+          "emails": [],
+          "keyword_hits": 0
+        }
+      }
+    },
+    "ORG_053": {
+      "entity_id": "ORG_053",
+      "name": "Elliott Attorneys Inc.",
+      "role": "attorney_for_applicant_peter_faucitt",
+      "agent_type": "legal_representative_applicant",
+      "evidence_strength": "unknown",
+      "criminal_threshold": "unknown",
+      "sources": {
+        "revstream1": {
+          "evidence_codes": [],
+          "events": [],
+          "ad_res_j7_references": []
+        },
+        "ad-res-j7": {
+          "annexures": [],
+          "evidence_files": []
+        },
+        "fincosys": {
+          "accounts": [],
+          "statements": []
+        },
+        "comcosys": {
+          "emails": [],
+          "keyword_hits": 0
+        }
+      }
+    }
+  },
+  "evidence_links": [
+    {
+      "entity_id": "PERSON_001",
+      "source_repo": "ad-res-j7",
+      "evidence_type": "annexure",
+      "reference": "JF01",
+      "path": "ANNEXURES/JF01",
+      "provenance": "annexure_directory"
+    },
+    {
+      "entity_id": "PERSON_001",
+      "source_repo": "ad-res-j7",
+      "evidence_type": "annexure",
+      "reference": "JF04",
+      "path": "ANNEXURES/JF04",
+      "provenance": "annexure_directory"
+    },
+    {
+      "entity_id": "PERSON_001",
+      "source_repo": "ad-res-j7",
+      "evidence_type": "annexure",
+      "reference": "JF07",
+      "path": "ANNEXURES/JF07",
+      "provenance": "annexure_directory"
+    },
+    {
+      "entity_id": "PERSON_001",
+      "source_repo": "ad-res-j7",
+      "evidence_type": "annexure",
+      "reference": "JF08",
+      "path": "ANNEXURES/JF08",
+      "provenance": "annexure_directory"
+    },
+    {
+      "entity_id": "PERSON_001",
+      "source_repo": "ad-res-j7",
+      "evidence_type": "annexure",
+      "reference": "JF09",
+      "path": "ANNEXURES/JF09",
+      "provenance": "annexure_directory"
+    },
+    {
+      "entity_id": "PERSON_002",
+      "source_repo": "ad-res-j7",
+      "evidence_type": "annexure",
+      "reference": "JF05",
+      "path": "ANNEXURES/JF05",
+      "provenance": "annexure_directory"
+    },
+    {
+      "entity_id": "PERSON_002",
+      "source_repo": "ad-res-j7",
+      "evidence_type": "annexure",
+      "reference": "JF07",
+      "path": "ANNEXURES/JF07",
+      "provenance": "annexure_directory"
+    },
+    {
+      "entity_id": "PERSON_002",
+      "source_repo": "ad-res-j7",
+      "evidence_type": "annexure",
+      "reference": "JF08",
+      "path": "ANNEXURES/JF08",
+      "provenance": "annexure_directory"
+    },
+    {
+      "entity_id": "PERSON_002",
+      "source_repo": "ad-res-j7",
+      "evidence_type": "annexure",
+      "reference": "JF09",
+      "path": "ANNEXURES/JF09",
+      "provenance": "annexure_directory"
+    },
+    {
+      "entity_id": "PERSON_004",
+      "source_repo": "ad-res-j7",
+      "evidence_type": "annexure",
+      "reference": "JF01",
+      "path": "ANNEXURES/JF01",
+      "provenance": "annexure_directory"
+    },
+    {
+      "entity_id": "PERSON_004",
+      "source_repo": "ad-res-j7",
+      "evidence_type": "annexure",
+      "reference": "JF02",
+      "path": "ANNEXURES/JF02",
+      "provenance": "annexure_directory"
+    },
+    {
+      "entity_id": "PERSON_005",
+      "source_repo": "ad-res-j7",
+      "evidence_type": "annexure",
+      "reference": "JF01",
+      "path": "ANNEXURES/JF01",
+      "provenance": "annexure_directory"
+    },
+    {
+      "entity_id": "PERSON_005",
+      "source_repo": "ad-res-j7",
+      "evidence_type": "annexure",
+      "reference": "JF02",
+      "path": "ANNEXURES/JF02",
+      "provenance": "annexure_directory"
+    },
+    {
+      "entity_id": "PERSON_005",
+      "source_repo": "ad-res-j7",
+      "evidence_type": "annexure",
+      "reference": "JF06",
+      "path": "ANNEXURES/JF06",
+      "provenance": "annexure_directory"
+    },
+    {
+      "entity_id": "PERSON_007",
+      "source_repo": "ad-res-j7",
+      "evidence_type": "annexure",
+      "reference": "JF03",
+      "path": "ANNEXURES/JF03",
+      "provenance": "annexure_directory"
+    },
+    {
+      "entity_id": "PERSON_007",
+      "source_repo": "ad-res-j7",
+      "evidence_type": "annexure",
+      "reference": "JF04",
+      "path": "ANNEXURES/JF04",
+      "provenance": "annexure_directory"
+    },
+    {
+      "entity_id": "PERSON_007",
+      "source_repo": "ad-res-j7",
+      "evidence_type": "annexure",
+      "reference": "JF07",
+      "path": "ANNEXURES/JF07",
+      "provenance": "annexure_directory"
+    },
+    {
+      "entity_id": "PERSON_007",
+      "source_repo": "ad-res-j7",
+      "evidence_type": "annexure",
+      "reference": "JF08",
+      "path": "ANNEXURES/JF08",
+      "provenance": "annexure_directory"
+    },
+    {
+      "entity_id": "PERSON_008",
+      "source_repo": "ad-res-j7",
+      "evidence_type": "annexure",
+      "reference": "JF08",
+      "path": "ANNEXURES/JF08",
+      "provenance": "annexure_directory"
+    },
+    {
+      "entity_id": "PERSON_008",
+      "source_repo": "ad-res-j7",
+      "evidence_type": "annexure",
+      "reference": "JF13",
+      "path": "ANNEXURES/JF13",
+      "provenance": "annexure_directory"
+    },
+    {
+      "entity_id": "PERSON_009",
+      "source_repo": "ad-res-j7",
+      "evidence_type": "annexure",
+      "reference": "JF10",
+      "path": "ANNEXURES/JF10",
+      "provenance": "annexure_directory"
+    },
+    {
+      "entity_id": "PERSON_010",
+      "source_repo": "ad-res-j7",
+      "evidence_type": "annexure",
+      "reference": "JF08",
+      "path": "ANNEXURES/JF08",
+      "provenance": "annexure_directory"
+    },
+    {
+      "entity_id": "PERSON_003",
+      "source_repo": "ad-res-j7",
+      "evidence_type": "annexure",
+      "reference": "JF08",
+      "path": "ANNEXURES/JF08",
+      "provenance": "annexure_directory"
+    },
+    {
+      "entity_id": "PERSON_003",
+      "source_repo": "ad-res-j7",
+      "evidence_type": "annexure",
+      "reference": "JF09",
+      "path": "ANNEXURES/JF09",
+      "provenance": "annexure_directory"
+    },
+    {
+      "entity_id": "PERSON_011",
+      "source_repo": "ad-res-j7",
+      "evidence_type": "annexure",
+      "reference": "JF08",
+      "path": "ANNEXURES/JF08",
+      "provenance": "annexure_directory"
+    },
+    {
+      "entity_id": "PERSON_011",
+      "source_repo": "ad-res-j7",
+      "evidence_type": "annexure",
+      "reference": "JF11",
+      "path": "ANNEXURES/JF11",
+      "provenance": "annexure_directory"
+    },
+    {
+      "entity_id": "PERSON_012",
+      "source_repo": "ad-res-j7",
+      "evidence_type": "annexure",
+      "reference": "JF10",
+      "path": "ANNEXURES/JF10",
+      "provenance": "annexure_directory"
+    },
+    {
+      "entity_id": "PERSON_012",
+      "source_repo": "ad-res-j7",
+      "evidence_type": "annexure",
+      "reference": "JF13",
+      "path": "ANNEXURES/JF13",
+      "provenance": "annexure_directory"
+    },
+    {
+      "entity_id": "ORG_001",
+      "source_repo": "ad-res-j7",
+      "evidence_type": "annexure",
+      "reference": "JF04",
+      "path": "ANNEXURES/JF04",
+      "provenance": "annexure_directory"
+    },
+    {
+      "entity_id": "ORG_001",
+      "source_repo": "ad-res-j7",
+      "evidence_type": "annexure",
+      "reference": "JF05",
+      "path": "ANNEXURES/JF05",
+      "provenance": "annexure_directory"
+    },
+    {
+      "entity_id": "ORG_001",
+      "source_repo": "ad-res-j7",
+      "evidence_type": "annexure",
+      "reference": "JF07",
+      "path": "ANNEXURES/JF07",
+      "provenance": "annexure_directory"
+    },
+    {
+      "entity_id": "ORG_002",
+      "source_repo": "ad-res-j7",
+      "evidence_type": "annexure",
+      "reference": "JF04",
+      "path": "ANNEXURES/JF04",
+      "provenance": "annexure_directory"
+    },
+    {
+      "entity_id": "ORG_002",
+      "source_repo": "ad-res-j7",
+      "evidence_type": "annexure",
+      "reference": "JF07",
+      "path": "ANNEXURES/JF07",
+      "provenance": "annexure_directory"
+    },
+    {
+      "entity_id": "ORG_003",
+      "source_repo": "ad-res-j7",
+      "evidence_type": "annexure",
+      "reference": "JF01",
+      "path": "ANNEXURES/JF01",
+      "provenance": "annexure_directory"
+    },
+    {
+      "entity_id": "ORG_003",
+      "source_repo": "ad-res-j7",
+      "evidence_type": "annexure",
+      "reference": "JF02",
+      "path": "ANNEXURES/JF02",
+      "provenance": "annexure_directory"
+    },
+    {
+      "entity_id": "ORG_003",
+      "source_repo": "ad-res-j7",
+      "evidence_type": "annexure",
+      "reference": "JF06",
+      "path": "ANNEXURES/JF06",
+      "provenance": "annexure_directory"
+    },
+    {
+      "entity_id": "ORG_004",
+      "source_repo": "ad-res-j7",
+      "evidence_type": "annexure",
+      "reference": "JF03",
+      "path": "ANNEXURES/JF03",
+      "provenance": "annexure_directory"
+    },
+    {
+      "entity_id": "ORG_004",
+      "source_repo": "ad-res-j7",
+      "evidence_type": "annexure",
+      "reference": "JF02",
+      "path": "ANNEXURES/JF02",
+      "provenance": "annexure_directory"
+    },
+    {
+      "entity_id": "ORG_005",
+      "source_repo": "ad-res-j7",
+      "evidence_type": "annexure",
+      "reference": "JF03",
+      "path": "ANNEXURES/JF03",
+      "provenance": "annexure_directory"
+    },
+    {
+      "entity_id": "ORG_006",
+      "source_repo": "ad-res-j7",
+      "evidence_type": "annexure",
+      "reference": "JF03",
+      "path": "ANNEXURES/JF03",
+      "provenance": "annexure_directory"
+    },
+    {
+      "entity_id": "ORG_008",
+      "source_repo": "ad-res-j7",
+      "evidence_type": "annexure",
+      "reference": "JF03",
+      "path": "ANNEXURES/JF03",
+      "provenance": "annexure_directory"
+    },
+    {
+      "entity_id": "ORG_009",
+      "source_repo": "ad-res-j7",
+      "evidence_type": "annexure",
+      "reference": "JF03",
+      "path": "ANNEXURES/JF03",
+      "provenance": "annexure_directory"
+    },
+    {
+      "entity_id": "ORG_010",
+      "source_repo": "ad-res-j7",
+      "evidence_type": "annexure",
+      "reference": "JF04",
+      "path": "ANNEXURES/JF04",
+      "provenance": "annexure_directory"
+    },
+    {
+      "entity_id": "ORG_KETONI_001",
+      "source_repo": "ad-res-j7",
+      "evidence_type": "annexure",
+      "reference": "JF10",
+      "path": "ANNEXURES/JF10",
+      "provenance": "annexure_directory"
+    },
+    {
+      "entity_id": "PLATFORM_001",
+      "source_repo": "ad-res-j7",
+      "evidence_type": "annexure",
+      "reference": "JF01",
+      "path": "ANNEXURES/JF01",
+      "provenance": "annexure_directory"
+    },
+    {
+      "entity_id": "PERSON_005",
+      "source_repo": "fincosys",
+      "evidence_type": "bank_account",
+      "reference": "62089474309",
+      "fincosys_code": "DJF",
+      "statement_count": 2,
+      "provenance": "master_accounts"
+    },
+    {
+      "entity_id": "PERSON_005",
+      "source_repo": "fincosys",
+      "evidence_type": "bank_account",
+      "reference": "62462808290",
+      "fincosys_code": "DJF",
+      "statement_count": 4,
+      "provenance": "master_accounts"
+    },
+    {
+      "entity_id": "PERSON_005",
+      "source_repo": "fincosys",
+      "evidence_type": "bank_account",
+      "reference": "62471764946",
+      "fincosys_code": "DJF",
+      "statement_count": 10,
+      "provenance": "master_accounts"
+    },
+    {
+      "entity_id": "PERSON_004",
+      "source_repo": "fincosys",
+      "evidence_type": "bank_account",
+      "reference": "62027933606",
+      "fincosys_code": "JF",
+      "statement_count": 27,
+      "provenance": "master_accounts"
+    },
+    {
+      "entity_id": "PERSON_001",
+      "source_repo": "fincosys",
+      "evidence_type": "bank_account",
+      "reference": "55270018789",
+      "fincosys_code": "PF",
+      "statement_count": 33,
+      "provenance": "master_accounts"
+    },
+    {
+      "entity_id": "PERSON_001",
+      "source_repo": "fincosys",
+      "evidence_type": "bank_account",
+      "reference": "62742245617",
+      "fincosys_code": "PF",
+      "statement_count": 1,
+      "provenance": "master_accounts"
+    },
+    {
+      "entity_id": "PERSON_001",
+      "source_repo": "fincosys",
+      "evidence_type": "bank_account",
+      "reference": "4483810003374006",
+      "fincosys_code": "PF",
+      "statement_count": 1,
+      "provenance": "master_accounts"
+    },
+    {
+      "entity_id": "ORG_008",
+      "source_repo": "fincosys",
+      "evidence_type": "bank_account",
+      "reference": "62707312310",
+      "fincosys_code": "REZ",
+      "statement_count": 10,
+      "provenance": "master_accounts"
+    },
+    {
+      "entity_id": "ORG_008",
+      "source_repo": "fincosys",
+      "evidence_type": "bank_account",
+      "reference": "62826022577",
+      "fincosys_code": "REZ",
+      "statement_count": 4,
+      "provenance": "master_accounts"
+    },
+    {
+      "entity_id": "ORG_006",
+      "source_repo": "fincosys",
+      "evidence_type": "bank_account",
+      "reference": "62707308252",
+      "fincosys_code": "RSA",
+      "statement_count": 26,
+      "provenance": "master_accounts"
+    },
+    {
+      "entity_id": "ORG_006",
+      "source_repo": "fincosys",
+      "evidence_type": "bank_account",
+      "reference": "62896473974",
+      "fincosys_code": "RSA",
+      "statement_count": 46,
+      "provenance": "master_accounts"
+    },
+    {
+      "entity_id": "ORG_006",
+      "source_repo": "fincosys",
+      "evidence_type": "bank_account",
+      "reference": "62896474972",
+      "fincosys_code": "RSA",
+      "statement_count": 15,
+      "provenance": "master_accounts"
+    },
+    {
+      "entity_id": "ORG_006",
+      "source_repo": "fincosys",
+      "evidence_type": "bank_account",
+      "reference": "62896474196",
+      "fincosys_code": "RSA",
+      "statement_count": 81,
+      "provenance": "master_accounts"
+    },
+    {
+      "entity_id": "ORG_006",
+      "source_repo": "fincosys",
+      "evidence_type": "bank_account",
+      "reference": "62897307015",
+      "fincosys_code": "RSA",
+      "statement_count": 18,
+      "provenance": "master_accounts"
+    },
+    {
+      "entity_id": "ORG_006",
+      "source_repo": "fincosys",
+      "evidence_type": "bank_account",
+      "reference": "62897307031",
+      "fincosys_code": "RSA",
+      "statement_count": 8,
+      "provenance": "master_accounts"
+    },
+    {
+      "entity_id": "ORG_006",
+      "source_repo": "fincosys",
+      "evidence_type": "bank_account",
+      "reference": "62897307073",
+      "fincosys_code": "RSA",
+      "statement_count": 8,
+      "provenance": "master_accounts"
+    },
+    {
+      "entity_id": "ORG_002",
+      "source_repo": "fincosys",
+      "evidence_type": "bank_account",
+      "reference": "55270035642",
+      "fincosys_code": "RST",
+      "statement_count": 24,
+      "provenance": "master_accounts"
+    },
+    {
+      "entity_id": "ORG_002",
+      "source_repo": "fincosys",
+      "evidence_type": "bank_account",
+      "reference": "62134839127",
+      "fincosys_code": "RST",
+      "statement_count": 35,
+      "provenance": "master_accounts"
+    },
+    {
+      "entity_id": "ORG_002",
+      "source_repo": "fincosys",
+      "evidence_type": "bank_account",
+      "reference": "62839603819",
+      "fincosys_code": "RST",
+      "statement_count": 5,
+      "provenance": "master_accounts"
+    },
+    {
+      "entity_id": "ORG_002",
+      "source_repo": "fincosys",
+      "evidence_type": "bank_account",
+      "reference": "62839603827",
+      "fincosys_code": "RST",
+      "statement_count": 4,
+      "provenance": "master_accounts"
+    },
+    {
+      "entity_id": "ORG_002",
+      "source_repo": "fincosys",
+      "evidence_type": "bank_account",
+      "reference": "4790812427545003",
+      "fincosys_code": "RST",
+      "statement_count": 1,
+      "provenance": "master_accounts"
+    },
+    {
+      "entity_id": "ORG_002",
+      "source_repo": "fincosys",
+      "evidence_type": "bank_account",
+      "reference": "8812710044279003",
+      "fincosys_code": "RST",
+      "statement_count": 1,
+      "provenance": "master_accounts"
+    },
+    {
+      "entity_id": "ORG_002",
+      "source_repo": "fincosys",
+      "evidence_type": "bank_account",
+      "reference": "62839609635",
+      "fincosys_code": "RST",
+      "statement_count": 1,
+      "provenance": "master_accounts"
+    },
+    {
+      "entity_id": "ORG_001",
+      "source_repo": "fincosys",
+      "evidence_type": "bank_account",
+      "reference": "62323196362",
+      "fincosys_code": "RWD",
+      "statement_count": 38,
+      "provenance": "master_accounts"
+    },
+    {
+      "entity_id": "ORG_001",
+      "source_repo": "fincosys",
+      "evidence_type": "bank_account",
+      "reference": "62836164880",
+      "fincosys_code": "RWD",
+      "statement_count": 5,
+      "provenance": "master_accounts"
+    },
+    {
+      "entity_id": "ORG_001",
+      "source_repo": "fincosys",
+      "evidence_type": "bank_account",
+      "reference": "62839612323",
+      "fincosys_code": "RWD",
+      "statement_count": 42,
+      "provenance": "master_accounts"
+    },
+    {
+      "entity_id": "ORG_001",
+      "source_repo": "fincosys",
+      "evidence_type": "bank_account",
+      "reference": "62839612331",
+      "fincosys_code": "RWD",
+      "statement_count": 4,
+      "provenance": "master_accounts"
+    },
+    {
+      "entity_id": "ORG_001",
+      "source_repo": "fincosys",
+      "evidence_type": "bank_account",
+      "reference": "62839612349",
+      "fincosys_code": "RWD",
+      "statement_count": 3,
+      "provenance": "master_accounts"
+    },
+    {
+      "entity_id": "ORG_004",
+      "source_repo": "fincosys",
+      "evidence_type": "bank_account",
+      "reference": "62432501494",
+      "fincosys_code": "SLG",
+      "statement_count": 59,
+      "provenance": "master_accounts"
+    },
+    {
+      "entity_id": "ORG_004",
+      "source_repo": "fincosys",
+      "evidence_type": "bank_account",
+      "reference": "62593375829",
+      "fincosys_code": "SLG",
+      "statement_count": 9,
+      "provenance": "master_accounts"
+    },
+    {
+      "entity_id": "ORG_004",
+      "source_repo": "fincosys",
+      "evidence_type": "bank_account",
+      "reference": "62839603835",
+      "fincosys_code": "SLG",
+      "statement_count": 13,
+      "provenance": "master_accounts"
+    },
+    {
+      "entity_id": "ORG_005",
+      "source_repo": "fincosys",
+      "evidence_type": "bank_account",
+      "reference": "62423540807",
+      "fincosys_code": "VVA",
+      "statement_count": 42,
+      "provenance": "master_accounts"
+    },
+    {
+      "entity_id": "ORG_005",
+      "source_repo": "fincosys",
+      "evidence_type": "bank_account",
+      "reference": "62812835744",
+      "fincosys_code": "VVA",
+      "statement_count": 13,
+      "provenance": "master_accounts"
+    },
+    {
+      "entity_id": "ORG_003",
+      "source_repo": "fincosys",
+      "evidence_type": "bank_account",
+      "reference": "63176874808",
+      "fincosys_code": "RZN",
+      "statement_count": 3,
+      "provenance": "master_accounts"
+    },
+    {
+      "entity_id": "PERSON_004",
+      "source_repo": "comcosys",
+      "evidence_type": "email_archive",
+      "reference": "jax@regima.zone",
+      "message_count": 856,
+      "provenance": "forensic_archive"
+    },
+    {
+      "entity_id": "PERSON_004",
+      "source_repo": "comcosys",
+      "evidence_type": "email_archive",
+      "reference": "jax@regima.com",
+      "message_count": 732,
+      "provenance": "forensic_archive"
+    },
+    {
+      "entity_id": "PERSON_005",
+      "source_repo": "comcosys",
+      "evidence_type": "email_archive",
+      "reference": "dan@regima.com",
+      "message_count": 375,
+      "provenance": "forensic_archive"
+    },
+    {
+      "entity_id": "PERSON_005",
+      "source_repo": "comcosys",
+      "evidence_type": "email_archive",
+      "reference": "dan@regima.zone",
+      "message_count": 281,
+      "provenance": "forensic_archive"
+    },
+    {
+      "entity_id": "PERSON_001",
+      "source_repo": "comcosys",
+      "evidence_type": "email_archive",
+      "reference": "pete@regima.com",
+      "message_count": 158,
+      "provenance": "forensic_archive"
+    },
+    {
+      "entity_id": "PERSON_008",
+      "source_repo": "comcosys",
+      "evidence_type": "email_archive",
+      "reference": "kay@regima.com",
+      "message_count": 131,
+      "provenance": "forensic_archive"
+    },
+    {
+      "entity_id": "PERSON_002",
+      "source_repo": "comcosys",
+      "evidence_type": "email_archive",
+      "reference": "rynette@regima.zone",
+      "message_count": 98,
+      "provenance": "forensic_archive"
+    },
+    {
+      "entity_id": "PERSON_037",
+      "source_repo": "comcosys",
+      "evidence_type": "email_archive",
+      "reference": "kent@regima.zone",
+      "message_count": 93,
+      "provenance": "forensic_archive"
+    },
+    {
+      "entity_id": "PERSON_007",
+      "source_repo": "comcosys",
+      "evidence_type": "email_archive",
+      "reference": "danie.bantjes@gmail.com",
+      "message_count": 68,
+      "provenance": "forensic_archive"
+    },
+    {
+      "entity_id": "PERSON_008",
+      "source_repo": "comcosys",
+      "evidence_type": "email_archive",
+      "reference": "kayla@regima.zone",
+      "message_count": 60,
+      "provenance": "forensic_archive"
+    },
+    {
+      "entity_id": "PERSON_001",
+      "source_repo": "comcosys",
+      "evidence_type": "email_archive",
+      "reference": "pete@regima.zone",
+      "message_count": 6,
+      "provenance": "forensic_archive"
+    }
+  ],
+  "cross_repo_references": [
+    {
+      "from_repo": "fincosys",
+      "to_repo": "revstream1",
+      "from_id": "DJF",
+      "to_id": "PERSON_005",
+      "mapping_type": "entity",
+      "confidence": 1.0
+    },
+    {
+      "from_repo": "fincosys",
+      "to_repo": "revstream1",
+      "from_id": "JF",
+      "to_id": "PERSON_004",
+      "mapping_type": "entity",
+      "confidence": 1.0
+    },
+    {
+      "from_repo": "fincosys",
+      "to_repo": "revstream1",
+      "from_id": "PF",
+      "to_id": "PERSON_001",
+      "mapping_type": "entity",
+      "confidence": 1.0
+    },
+    {
+      "from_repo": "fincosys",
+      "to_repo": "revstream1",
+      "from_id": "REZ",
+      "to_id": "ORG_008",
+      "mapping_type": "entity",
+      "confidence": 1.0
+    },
+    {
+      "from_repo": "fincosys",
+      "to_repo": "revstream1",
+      "from_id": "RSA",
+      "to_id": "ORG_006",
+      "mapping_type": "entity",
+      "confidence": 1.0
+    },
+    {
+      "from_repo": "fincosys",
+      "to_repo": "revstream1",
+      "from_id": "RST",
+      "to_id": "ORG_002",
+      "mapping_type": "entity",
+      "confidence": 1.0
+    },
+    {
+      "from_repo": "fincosys",
+      "to_repo": "revstream1",
+      "from_id": "RWD",
+      "to_id": "ORG_001",
+      "mapping_type": "entity",
+      "confidence": 1.0
+    },
+    {
+      "from_repo": "fincosys",
+      "to_repo": "revstream1",
+      "from_id": "SLG",
+      "to_id": "ORG_004",
+      "mapping_type": "entity",
+      "confidence": 1.0
+    },
+    {
+      "from_repo": "fincosys",
+      "to_repo": "revstream1",
+      "from_id": "VVA",
+      "to_id": "ORG_005",
+      "mapping_type": "entity",
+      "confidence": 1.0
+    },
+    {
+      "from_repo": "fincosys",
+      "to_repo": "revstream1",
+      "from_id": "FFT",
+      "to_id": "TRUST_001",
+      "mapping_type": "entity",
+      "confidence": 1.0
+    },
+    {
+      "from_repo": "fincosys",
+      "to_repo": "revstream1",
+      "from_id": "RZN",
+      "to_id": "ORG_003",
+      "mapping_type": "entity",
+      "confidence": 1.0
+    },
+    {
+      "from_repo": "fincosys",
+      "to_repo": "revstream1",
+      "from_id": "KIH",
+      "to_id": "ORG_015",
+      "mapping_type": "entity",
+      "confidence": 1.0
+    },
+    {
+      "from_repo": "comcosys",
+      "to_repo": "revstream1",
+      "from_id": "jax@regima.zone",
+      "to_id": "PERSON_004",
+      "mapping_type": "email_to_entity",
+      "confidence": 1.0
+    },
+    {
+      "from_repo": "comcosys",
+      "to_repo": "revstream1",
+      "from_id": "jax@regima.com",
+      "to_id": "PERSON_004",
+      "mapping_type": "email_to_entity",
+      "confidence": 1.0
+    },
+    {
+      "from_repo": "comcosys",
+      "to_repo": "revstream1",
+      "from_id": "dan@regima.com",
+      "to_id": "PERSON_005",
+      "mapping_type": "email_to_entity",
+      "confidence": 1.0
+    },
+    {
+      "from_repo": "comcosys",
+      "to_repo": "revstream1",
+      "from_id": "dan@regima.zone",
+      "to_id": "PERSON_005",
+      "mapping_type": "email_to_entity",
+      "confidence": 1.0
+    },
+    {
+      "from_repo": "comcosys",
+      "to_repo": "revstream1",
+      "from_id": "pete@regima.com",
+      "to_id": "PERSON_001",
+      "mapping_type": "email_to_entity",
+      "confidence": 1.0
+    },
+    {
+      "from_repo": "comcosys",
+      "to_repo": "revstream1",
+      "from_id": "kay@regima.com",
+      "to_id": "PERSON_008",
+      "mapping_type": "email_to_entity",
+      "confidence": 1.0
+    },
+    {
+      "from_repo": "comcosys",
+      "to_repo": "revstream1",
+      "from_id": "rynette@regima.zone",
+      "to_id": "PERSON_002",
+      "mapping_type": "email_to_entity",
+      "confidence": 1.0
+    },
+    {
+      "from_repo": "comcosys",
+      "to_repo": "revstream1",
+      "from_id": "kent@regima.zone",
+      "to_id": "PERSON_037",
+      "mapping_type": "email_to_entity",
+      "confidence": 1.0
+    },
+    {
+      "from_repo": "comcosys",
+      "to_repo": "revstream1",
+      "from_id": "danie.bantjes@gmail.com",
+      "to_id": "PERSON_007",
+      "mapping_type": "email_to_entity",
+      "confidence": 1.0
+    },
+    {
+      "from_repo": "comcosys",
+      "to_repo": "revstream1",
+      "from_id": "kayla@regima.zone",
+      "to_id": "PERSON_008",
+      "mapping_type": "email_to_entity",
+      "confidence": 1.0
+    },
+    {
+      "from_repo": "comcosys",
+      "to_repo": "revstream1",
+      "from_id": "pete@regima.zone",
+      "to_id": "PERSON_001",
+      "mapping_type": "email_to_entity",
+      "confidence": 1.0
+    }
+  ],
+  "coverage_summary": {
+    "total_entities": 93,
+    "by_repo": {
+      "ad-res-j7": {
+        "entities_with_evidence": 22
+      },
+      "revstream1": {
+        "entities_with_evidence": 26
+      },
+      "fincosys": {
+        "entities_with_evidence": 10
+      },
+      "comcosys": {
+        "entities_with_evidence": 7
+      }
+    },
+    "multi_repo_entities": 22,
+    "fully_covered_entities": 3,
+    "entity_coverage_detail": {
+      "PERSON_001": {
+        "name": "Peter Andrew Faucitt",
+        "repos_with_evidence": [
+          "revstream1",
+          "ad-res-j7",
+          "fincosys",
+          "comcosys"
+        ],
+        "repo_count": 4
+      },
+      "PERSON_002": {
+        "name": "Rynette Farrar",
+        "repos_with_evidence": [
+          "revstream1",
+          "ad-res-j7",
+          "comcosys"
+        ],
+        "repo_count": 3
+      },
+      "PERSON_004": {
+        "name": "Jacqueline Faucitt",
+        "repos_with_evidence": [
+          "revstream1",
+          "ad-res-j7",
+          "fincosys",
+          "comcosys"
+        ],
+        "repo_count": 4
+      },
+      "PERSON_005": {
+        "name": "Daniel James Faucitt",
+        "repos_with_evidence": [
+          "revstream1",
+          "ad-res-j7",
+          "fincosys",
+          "comcosys"
+        ],
+        "repo_count": 4
+      },
+      "PERSON_006": {
+        "name": "Linda",
+        "repos_with_evidence": [
+          "revstream1"
+        ],
+        "repo_count": 1
+      },
+      "PERSON_007": {
+        "name": "Danie Bantjies",
+        "repos_with_evidence": [
+          "revstream1",
+          "ad-res-j7",
+          "comcosys"
+        ],
+        "repo_count": 3
+      },
+      "PERSON_008": {
+        "name": "Kayla",
+        "repos_with_evidence": [
+          "revstream1",
+          "ad-res-j7",
+          "comcosys"
+        ],
+        "repo_count": 3
+      },
+      "PERSON_009": {
+        "name": "Gee",
+        "repos_with_evidence": [
+          "revstream1",
+          "ad-res-j7"
+        ],
+        "repo_count": 2
+      },
+      "PERSON_010": {
+        "name": "Bernadine Wright",
+        "repos_with_evidence": [
+          "revstream1",
+          "ad-res-j7"
+        ],
+        "repo_count": 2
+      },
+      "PERSON_003": {
+        "name": "Adderory (Rynette's Son)",
+        "repos_with_evidence": [
+          "revstream1",
+          "ad-res-j7"
+        ],
+        "repo_count": 2
+      },
+      "PERSON_011": {
+        "name": "Chantal",
+        "repos_with_evidence": [
+          "revstream1",
+          "ad-res-j7"
+        ],
+        "repo_count": 2
+      },
+      "PERSON_012": {
+        "name": "Jax",
+        "repos_with_evidence": [
+          "revstream1",
+          "ad-res-j7"
+        ],
+        "repo_count": 2
+      },
+      "PERSON_039": {
+        "name": "Marisca Meyer",
+        "repos_with_evidence": [],
+        "repo_count": 0
+      },
+      "PERSON_013": {
+        "name": "Kayla Pretorius",
+        "repos_with_evidence": [
+          "revstream1"
+        ],
+        "repo_count": 1
+      },
+      "PERSON_015": {
+        "name": "Alan Peter Louw",
+        "repos_with_evidence": [],
+        "repo_count": 0
+      },
+      "PERSON_016": {
+        "name": "Martin Carlo Rizzotto",
+        "repos_with_evidence": [],
+        "repo_count": 0
+      },
+      "PERSON_017": {
+        "name": "Christian Gouws",
+        "repos_with_evidence": [],
+        "repo_count": 0
+      },
+      "PERSON_018": {
+        "name": "Lisa Clare Frost",
+        "repos_with_evidence": [],
+        "repo_count": 0
+      },
+      "PERSON_019": {
+        "name": "Trevor David Stidston",
+        "repos_with_evidence": [],
+        "repo_count": 0
+      },
+      "PERSON_020": {
+        "name": "Kerry-Anne Zwicky",
+        "repos_with_evidence": [],
+        "repo_count": 0
+      },
+      "PERSON_021": {
+        "name": "Guillaume Jordaan",
+        "repos_with_evidence": [],
+        "repo_count": 0
+      },
+      "PERSON_022": {
+        "name": "Gary Ian Cay",
+        "repos_with_evidence": [],
+        "repo_count": 0
+      },
+      "PERSON_023": {
+        "name": "Dennis Jacobus Bishop",
+        "repos_with_evidence": [],
+        "repo_count": 0
+      },
+      "PERSON_025": {
+        "name": "John Leslie Knowlton",
+        "repos_with_evidence": [],
+        "repo_count": 0
+      },
+      "PERSON_026": {
+        "name": "Vanessa Claire Rizzotto",
+        "repos_with_evidence": [],
+        "repo_count": 0
+      },
+      "PERSON_027": {
+        "name": "Andrew J Fraser",
+        "repos_with_evidence": [],
+        "repo_count": 0
+      },
+      "PERSON_29": {
+        "name": "Barend Thomas Nortje",
+        "repos_with_evidence": [],
+        "repo_count": 0
+      },
+      "PERSON_30": {
+        "name": "Sharon Nortje",
+        "repos_with_evidence": [],
+        "repo_count": 0
+      },
+      "PERSON_31": {
+        "name": "Karen Patricia Avnit",
+        "repos_with_evidence": [],
+        "repo_count": 0
+      },
+      "PERSON_32": {
+        "name": "Chan\u00e9 Auriele Todd",
+        "repos_with_evidence": [],
+        "repo_count": 0
+      },
+      "PERSON_33": {
+        "name": "Kirby Rae Van Der Stelt",
+        "repos_with_evidence": [],
+        "repo_count": 0
+      },
+      "PERSON_34": {
+        "name": "Dante Bertani",
+        "repos_with_evidence": [],
+        "repo_count": 0
+      },
+      "PERSON_35": {
+        "name": "Anna Gertruida Johanna du Toit",
+        "repos_with_evidence": [],
+        "repo_count": 0
+      },
+      "PERSON_36": {
+        "name": "Adrian Dominic De Fay",
+        "repos_with_evidence": [],
+        "repo_count": 0
+      },
+      "PERSON_DERRICK_001": {
+        "name": "Kevin Michael Derrick",
+        "repos_with_evidence": [],
+        "repo_count": 0
+      },
+      "PERSON_TB_002": {
+        "name": "Danie Bantjes",
+        "repos_with_evidence": [],
+        "repo_count": 0
+      },
+      "PERSON_037": {
+        "name": "Kent (Unknown Surname)",
+        "repos_with_evidence": [
+          "comcosys"
+        ],
+        "repo_count": 1
+      },
+      "PERSON_038": {
+        "name": "EL (Unknown Surname)",
+        "repos_with_evidence": [],
+        "repo_count": 0
+      },
+      "PERSON_040": {
+        "name": "Nadine Van Greunen",
+        "repos_with_evidence": [],
+        "repo_count": 0
+      },
+      "PERSON_041": {
+        "name": "Gayane Williams",
+        "repos_with_evidence": [],
+        "repo_count": 0
+      },
+      "ORG_001": {
+        "name": "Regima Worldwide Distribution (PTY) LTD",
+        "repos_with_evidence": [
+          "revstream1",
+          "ad-res-j7",
+          "fincosys"
+        ],
+        "repo_count": 3
+      },
+      "ORG_002": {
+        "name": "Regima Skin Treatments CC",
+        "repos_with_evidence": [
+          "revstream1",
+          "ad-res-j7",
+          "fincosys"
+        ],
+        "repo_count": 3
+      },
+      "ORG_003": {
+        "name": "RegimA Zone Ltd",
+        "repos_with_evidence": [
+          "revstream1",
+          "ad-res-j7",
+          "fincosys"
+        ],
+        "repo_count": 3
+      },
+      "ORG_004": {
+        "name": "Strategic Logistics Group",
+        "repos_with_evidence": [
+          "revstream1",
+          "ad-res-j7",
+          "fincosys"
+        ],
+        "repo_count": 3
+      },
+      "ORG_005": {
+        "name": "Villa Via",
+        "repos_with_evidence": [
+          "revstream1",
+          "ad-res-j7",
+          "fincosys"
+        ],
+        "repo_count": 3
+      },
+      "ORG_006": {
+        "name": "RegimA SA",
+        "repos_with_evidence": [
+          "revstream1",
+          "ad-res-j7",
+          "fincosys"
+        ],
+        "repo_count": 3
+      },
+      "ORG_008": {
+        "name": "ReZonance (Pty) Ltd",
+        "repos_with_evidence": [
+          "revstream1",
+          "ad-res-j7",
+          "fincosys"
+        ],
+        "repo_count": 3
+      },
+      "ORG_009": {
+        "name": "Adderory (Pty) Ltd",
+        "repos_with_evidence": [
+          "revstream1",
+          "ad-res-j7"
+        ],
+        "repo_count": 2
+      },
+      "ORG_010": {
+        "name": "Adderory Skin (Pty) Ltd",
+        "repos_with_evidence": [
+          "revstream1",
+          "ad-res-j7"
+        ],
+        "repo_count": 2
+      },
+      "ORG_012": {
+        "name": "RegimaSA (Pty) Ltd",
+        "repos_with_evidence": [],
+        "repo_count": 0
+      },
+      "ORG_013": {
+        "name": "Unicorn Dynamics (Pty) Ltd",
+        "repos_with_evidence": [],
+        "repo_count": 0
+      },
+      "ORG_014": {
+        "name": "RegimA SA (Pty) Ltd",
+        "repos_with_evidence": [],
+        "repo_count": 0
+      },
+      "ORG_015": {
+        "name": "SARS (South African Revenue Service)",
+        "repos_with_evidence": [
+          "revstream1"
+        ],
+        "repo_count": 1
+      },
+      "ORG_007": {
+        "name": "Ian Levitt Attorneys",
+        "repos_with_evidence": [
+          "revstream1"
+        ],
+        "repo_count": 1
+      },
+      "ORG_042": {
+        "name": "ALOECO (SA)",
+        "repos_with_evidence": [],
+        "repo_count": 0
+      },
+      "ORG_016": {
+        "name": "Marlouw Group",
+        "repos_with_evidence": [],
+        "repo_count": 0
+      },
+      "ORG_017": {
+        "name": "Big Business 301",
+        "repos_with_evidence": [],
+        "repo_count": 0
+      },
+      "ORG_018": {
+        "name": "Art of Buzztec (SA)",
+        "repos_with_evidence": [],
+        "repo_count": 0
+      },
+      "ORG_019": {
+        "name": "Rezonance",
+        "repos_with_evidence": [],
+        "repo_count": 0
+      },
+      "ORG_020": {
+        "name": "RegimA Medic",
+        "repos_with_evidence": [],
+        "repo_count": 0
+      },
+      "ORG_021": {
+        "name": "S A Logistic Services",
+        "repos_with_evidence": [],
+        "repo_count": 0
+      },
+      "ORG_022": {
+        "name": "ALOECO (SA) - Original 1982",
+        "repos_with_evidence": [],
+        "repo_count": 0
+      },
+      "ORG_023": {
+        "name": "ALOECO (SA) - CC 2006",
+        "repos_with_evidence": [],
+        "repo_count": 0
+      },
+      "ORG_024": {
+        "name": "LMS Logistic Services",
+        "repos_with_evidence": [],
+        "repo_count": 0
+      },
+      "ORG_025": {
+        "name": "UFO Express",
+        "repos_with_evidence": [],
+        "repo_count": 0
+      },
+      "ORG_026": {
+        "name": "Nanini 262",
+        "repos_with_evidence": [],
+        "repo_count": 0
+      },
+      "ORG_027": {
+        "name": "East Coast Logistics",
+        "repos_with_evidence": [],
+        "repo_count": 0
+      },
+      "ORG_028": {
+        "name": "L'IMAGE",
+        "repos_with_evidence": [],
+        "repo_count": 0
+      },
+      "ORG_029": {
+        "name": "Shaneprop",
+        "repos_with_evidence": [],
+        "repo_count": 0
+      },
+      "ORG_030": {
+        "name": "RegimA International Skin Treatments CC",
+        "repos_with_evidence": [],
+        "repo_count": 0
+      },
+      "ORG_031": {
+        "name": "Glendower Golf Estate Home Owners Association",
+        "repos_with_evidence": [],
+        "repo_count": 0
+      },
+      "ORG_32": {
+        "name": "Dermal Skin Treatments Cape Town",
+        "repos_with_evidence": [],
+        "repo_count": 0
+      },
+      "ORG_33": {
+        "name": "Kachan Marketing and Distribution",
+        "repos_with_evidence": [],
+        "repo_count": 0
+      },
+      "ORG_34": {
+        "name": "Dandelion SA",
+        "repos_with_evidence": [],
+        "repo_count": 0
+      },
+      "ORG_35": {
+        "name": "Bertani International Global",
+        "repos_with_evidence": [],
+        "repo_count": 0
+      },
+      "ORG_36": {
+        "name": "George Endermologie Clinic",
+        "repos_with_evidence": [],
+        "repo_count": 0
+      },
+      "ORG_37": {
+        "name": "De Fay Fund Management",
+        "repos_with_evidence": [],
+        "repo_count": 0
+      },
+      "ORG_KETONI_001": {
+        "name": "Ketoni Investment Holdings Proprietary Limited",
+        "repos_with_evidence": [
+          "revstream1",
+          "ad-res-j7"
+        ],
+        "repo_count": 2
+      },
+      "ORG_TB_001": {
+        "name": "DERM",
+        "repos_with_evidence": [],
+        "repo_count": 0
+      },
+      "ORG_TB_002": {
+        "name": "RSA",
+        "repos_with_evidence": [],
+        "repo_count": 0
+      },
+      "ORG_TB_003": {
+        "name": "REU",
+        "repos_with_evidence": [],
+        "repo_count": 0
+      },
+      "PLATFORM_001": {
+        "name": "Shopify Plus Platform",
+        "repos_with_evidence": [
+          "revstream1",
+          "ad-res-j7"
+        ],
+        "repo_count": 2
+      },
+      "DOMAIN_001": {
+        "name": "regima.zone Domain",
+        "repos_with_evidence": [],
+        "repo_count": 0
+      },
+      "DOMAIN_002": {
+        "name": "regimaskin.co.za Domain",
+        "repos_with_evidence": [],
+        "repo_count": 0
+      },
+      "TRUST_001": {
+        "name": "Faucitt Family Trust",
+        "repos_with_evidence": [],
+        "repo_count": 0
+      },
+      "SYS_BANK_ACCOUNTS": {
+        "name": "Bank Accounts",
+        "repos_with_evidence": [],
+        "repo_count": 0
+      },
+      "SYS_ACCOUNTS": {
+        "name": "Accounting System",
+        "repos_with_evidence": [],
+        "repo_count": 0
+      },
+      "SYS_STOCK": {
+        "name": "Stock/Inventory",
+        "repos_with_evidence": [],
+        "repo_count": 0
+      },
+      "SYS_REGIMA_GROUP": {
+        "name": "RegimA Group",
+        "repos_with_evidence": [],
+        "repo_count": 0
+      },
+      "SYS_FINANCIAL_RECORDS": {
+        "name": "Financial Records",
+        "repos_with_evidence": [],
+        "repo_count": 0
+      },
+      "ORG_GEORGE_GROUP": {
+        "name": "The George Group Proprietary Limited",
+        "repos_with_evidence": [],
+        "repo_count": 0
+      },
+      "ORG_DE_NOVO": {
+        "name": "De Novo Business Services (Pty) Ltd",
+        "repos_with_evidence": [],
+        "repo_count": 0
+      },
+      "ORG_053": {
+        "name": "Elliott Attorneys Inc.",
+        "repos_with_evidence": [],
+        "repo_count": 0
+      }
+    }
+  }
+}

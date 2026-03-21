@@ -1,0 +1,2214 @@
+{
+  "metadata": {
+    "generated_at": "2026-03-20T18:24:14.705172Z",
+    "source": "ad_res_j7_evidence_bridge",
+    "case_number": "2025-137857",
+    "total_annexures": 17,
+    "total_evidence_files": 338,
+    "entities_with_evidence": 0,
+    "events_with_evidence": 0
+  },
+  "annexure_inventory": [
+    {
+      "annexure_code": "JF01",
+      "directory_name": "JF01",
+      "category": "shopify_email",
+      "description": "Shopify Plus email showing business structure",
+      "file_count": 2,
+      "files": [
+        {
+          "path": "ANNEXURES/JF01/Re_ belongs to regimA.eml",
+          "name": "Re_ belongs to regimA.eml",
+          "size_bytes": 32155,
+          "extension": ".eml"
+        },
+        {
+          "path": "ANNEXURES/JF01/Re_ The RegimA Group results and Computer Expense analysis.eml",
+          "name": "Re_ The RegimA Group results and Computer Expense analysis.eml",
+          "size_bytes": 64715,
+          "extension": ".eml"
+        }
+      ],
+      "path": "ANNEXURES/JF01"
+    },
+    {
+      "annexure_code": "JF02",
+      "directory_name": "JF02",
+      "category": "sales_reports",
+      "description": "Sales and revenue reports",
+      "file_count": 3,
+      "files": [
+        {
+          "path": "ANNEXURES/JF02/RegimASA\u00b7Reports\u00b7Totalsalesovertimebystore\u00b7ShopifyPlus.pdf",
+          "name": "RegimASA\u00b7Reports\u00b7Totalsalesovertimebystore\u00b7ShopifyPlus.pdf",
+          "size_bytes": 1388927,
+          "extension": ".pdf"
+        },
+        {
+          "path": "ANNEXURES/JF02/ShopifyPlusW.pdf",
+          "name": "ShopifyPlusW.pdf",
+          "size_bytes": 659571,
+          "extension": ".pdf"
+        },
+        {
+          "path": "ANNEXURES/JF02/RegimAWW+Zone\u00b7Reports\u00b7Totalsalesovertimebystore\u00b7ShopifyPlusZAR.pdf",
+          "name": "RegimAWW+Zone\u00b7Reports\u00b7Totalsalesovertimebystore\u00b7ShopifyPlusZAR.pdf",
+          "size_bytes": 1352198,
+          "extension": ".pdf"
+        }
+      ],
+      "path": "ANNEXURES/JF02"
+    },
+    {
+      "annexure_code": "JF03",
+      "directory_name": "JF03",
+      "category": "financial_records",
+      "description": "Financial transaction records",
+      "file_count": 5,
+      "files": [
+        {
+          "path": "ANNEXURES/JF03/Fw_ The RegimA Group results and Computer Expense analysis.msg",
+          "name": "Fw_ The RegimA Group results and Computer Expense analysis.msg",
+          "size_bytes": 241664,
+          "extension": ".msg"
+        },
+        {
+          "path": "ANNEXURES/JF03/README.md",
+          "name": "README.md",
+          "size_bytes": 3048,
+          "extension": ".md"
+        },
+        {
+          "path": "ANNEXURES/JF03/COMPUTER EXP MAR AND APR2025 (2).xlsx",
+          "name": "COMPUTER EXP MAR AND APR2025 (2).xlsx",
+          "size_bytes": 218536,
+          "extension": ".xlsx"
+        },
+        {
+          "path": "ANNEXURES/JF03/Fw_ The RegimA Group results and Computer Expense analysis.eml",
+          "name": "Fw_ The RegimA Group results and Computer Expense analysis.eml",
+          "size_bytes": 49019,
+          "extension": ".eml"
+        },
+        {
+          "path": "ANNEXURES/JF03/Re_ The RegimA Group results and Computer Expense analysis.eml",
+          "name": "Re_ The RegimA Group results and Computer Expense analysis.eml",
+          "size_bytes": 64715,
+          "extension": ".eml"
+        }
+      ],
+      "path": "ANNEXURES/JF03"
+    },
+    {
+      "annexure_code": "JF04",
+      "directory_name": "JF04",
+      "category": "cipc_records",
+      "description": "CIPC company registration documents",
+      "file_count": 6,
+      "files": [
+        {
+          "path": "ANNEXURES/JF04/D_FAUCITT_PERSONAL_BANK_RECORDS_20251004.pdf",
+          "name": "D_FAUCITT_PERSONAL_BANK_RECORDS_20251004.pdf",
+          "size_bytes": 160053,
+          "extension": ".pdf"
+        },
+        {
+          "path": "ANNEXURES/JF04/D_FAUCITT_PERSONAL_BANK_RECORDS_20250704.pdf",
+          "name": "D_FAUCITT_PERSONAL_BANK_RECORDS_20250704.pdf",
+          "size_bytes": 156198,
+          "extension": ".pdf"
+        },
+        {
+          "path": "ANNEXURES/JF04/D_FAUCITT_PERSONAL_BANK_RECORDS_20250804.pdf",
+          "name": "D_FAUCITT_PERSONAL_BANK_RECORDS_20250804.pdf",
+          "size_bytes": 179423,
+          "extension": ".pdf"
+        },
+        {
+          "path": "ANNEXURES/JF04/README.md",
+          "name": "README.md",
+          "size_bytes": 9366,
+          "extension": ".md"
+        },
+        {
+          "path": "ANNEXURES/JF04/D_FAUCITT_PERSONAL_BANK_RECORDS_20250904.pdf",
+          "name": "D_FAUCITT_PERSONAL_BANK_RECORDS_20250904.pdf",
+          "size_bytes": 161346,
+          "extension": ".pdf"
+        },
+        {
+          "path": "ANNEXURES/JF04/D_FAUCITT_PERSONAL_BANK_RECORDS_20250604.pdf",
+          "name": "D_FAUCITT_PERSONAL_BANK_RECORDS_20250604.pdf",
+          "size_bytes": 159715,
+          "extension": ".pdf"
+        }
+      ],
+      "path": "ANNEXURES/JF04"
+    },
+    {
+      "annexure_code": "JF05",
+      "directory_name": "JF05",
+      "category": "responsible_person",
+      "description": "Responsible person documentation",
+      "file_count": 7,
+      "files": [
+        {
+          "path": "ANNEXURES/JF05/JF8C_PETER_REFUSAL_TO_ENGAGE.md",
+          "name": "JF8C_PETER_REFUSAL_TO_ENGAGE.md",
+          "size_bytes": 15077,
+          "extension": ".md"
+        },
+        {
+          "path": "ANNEXURES/JF05/README.md",
+          "name": "README.md",
+          "size_bytes": 3931,
+          "extension": ".md"
+        },
+        {
+          "path": "ANNEXURES/JF05/INTEGRATION_GUIDE.md",
+          "name": "INTEGRATION_GUIDE.md",
+          "size_bytes": 12822,
+          "extension": ".md"
+        },
+        {
+          "path": "ANNEXURES/JF05/JF8_CORRESPONDENCE_EVIDENCE.md",
+          "name": "JF8_CORRESPONDENCE_EVIDENCE.md",
+          "size_bytes": 18070,
+          "extension": ".md"
+        },
+        {
+          "path": "ANNEXURES/JF05/JF8A_DOCUMENTATION_LOG.md",
+          "name": "JF8A_DOCUMENTATION_LOG.md",
+          "size_bytes": 20730,
+          "extension": ".md"
+        },
+        {
+          "path": "ANNEXURES/JF05/JF8B_EMAIL_COOPERATION_CHAINS.md",
+          "name": "JF8B_EMAIL_COOPERATION_CHAINS.md",
+          "size_bytes": 16724,
+          "extension": ".md"
+        },
+        {
+          "path": "ANNEXURES/JF05/JF8D_SYSTEM_ACCESS_RESTRICTIONS.md",
+          "name": "JF8D_SYSTEM_ACCESS_RESTRICTIONS.md",
+          "size_bytes": 17605,
+          "extension": ".md"
+        }
+      ],
+      "path": "ANNEXURES/JF05"
+    },
+    {
+      "annexure_code": "JF06",
+      "directory_name": "JF06",
+      "category": "regulatory",
+      "description": "Regulatory compliance documentation",
+      "file_count": 5,
+      "files": [
+        {
+          "path": "ANNEXURES/JF06/KF0019-SecondApplication-03.10.2025.pdf",
+          "name": "KF0019-SecondApplication-03.10.2025.pdf",
+          "size_bytes": 5807902,
+          "extension": ".pdf"
+        },
+        {
+          "path": "ANNEXURES/JF06/0558631 Notice of withdrawal as attorneys of record 250924.pdf",
+          "name": "0558631 Notice of withdrawal as attorneys of record 250924.pdf",
+          "size_bytes": 41477,
+          "extension": ".pdf"
+        },
+        {
+          "path": "ANNEXURES/JF06/3. MAT4719 - 01.10.25 - WP Letter to KE.pdf",
+          "name": "3. MAT4719 - 01.10.25 - WP Letter to KE.pdf",
+          "size_bytes": 1801588,
+          "extension": ".pdf"
+        },
+        {
+          "path": "ANNEXURES/JF06/62432501494.pdf",
+          "name": "62432501494.pdf",
+          "size_bytes": 4370,
+          "extension": ".pdf"
+        },
+        {
+          "path": "ANNEXURES/JF06/62323196362.pdf",
+          "name": "62323196362.pdf",
+          "size_bytes": 45481,
+          "extension": ".pdf"
+        }
+      ],
+      "path": "ANNEXURES/JF06"
+    },
+    {
+      "annexure_code": "JF07",
+      "directory_name": "JF07",
+      "category": "financial_transactions",
+      "description": "Financial transaction records and bank statements",
+      "file_count": 186,
+      "files": [
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0002.md",
+          "name": "CCE20250924_0002.md",
+          "size_bytes": 892,
+          "extension": ".md"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0005.md",
+          "name": "CCE20250924_0005.md",
+          "size_bytes": 784,
+          "extension": ".md"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0008.json",
+          "name": "CCE20250924_0008.json",
+          "size_bytes": 1305,
+          "extension": ".json"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924.jpg",
+          "name": "CCE20250924.jpg",
+          "size_bytes": 389406,
+          "extension": ".jpg"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0011.md",
+          "name": "CCE20250924_0011.md",
+          "size_bytes": 1204,
+          "extension": ".md"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250929_0003.json",
+          "name": "CCE20250929_0003.json",
+          "size_bytes": 2720,
+          "extension": ".json"
+        },
+        {
+          "path": "ANNEXURES/JF07/Screenshot-2025-08-25-Sage-Account-RegimA-Worldwide-Distribution.jpg",
+          "name": "Screenshot-2025-08-25-Sage-Account-RegimA-Worldwide-Distribution.jpg",
+          "size_bytes": 306870,
+          "extension": ".jpg"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0010.md",
+          "name": "CCE20250924_0010.md",
+          "size_bytes": 1571,
+          "extension": ".md"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0010.json",
+          "name": "CCE20250924_0010.json",
+          "size_bytes": 1820,
+          "extension": ".json"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250929_0006.json",
+          "name": "CCE20250929_0006.json",
+          "size_bytes": 1164,
+          "extension": ".json"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0027.json",
+          "name": "CCE20250924_0027.json",
+          "size_bytes": 1451,
+          "extension": ".json"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0028.md",
+          "name": "CCE20250924_0028.md",
+          "size_bytes": 1293,
+          "extension": ".md"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0018.json",
+          "name": "CCE20250924_0018.json",
+          "size_bytes": 1469,
+          "extension": ".json"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0020.json",
+          "name": "CCE20250924_0020.json",
+          "size_bytes": 1442,
+          "extension": ".json"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0051.json",
+          "name": "CCE20250924_0051.json",
+          "size_bytes": 1367,
+          "extension": ".json"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0009.json",
+          "name": "CCE20250924_0009.json",
+          "size_bytes": 1444,
+          "extension": ".json"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250911_0002.jpg",
+          "name": "CCE20250911_0002.jpg",
+          "size_bytes": 559247,
+          "extension": ".jpg"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0033.json",
+          "name": "CCE20250924_0033.json",
+          "size_bytes": 1782,
+          "extension": ".json"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0031.jpg",
+          "name": "CCE20250924_0031.jpg",
+          "size_bytes": 342128,
+          "extension": ".jpg"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0014.json",
+          "name": "CCE20250924_0014.json",
+          "size_bytes": 1464,
+          "extension": ".json"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0033.md",
+          "name": "CCE20250924_0033.md",
+          "size_bytes": 1529,
+          "extension": ".md"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0027.md",
+          "name": "CCE20250924_0027.md",
+          "size_bytes": 1215,
+          "extension": ".md"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0034.json",
+          "name": "CCE20250924_0034.json",
+          "size_bytes": 1277,
+          "extension": ".json"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0008.md",
+          "name": "CCE20250924_0008.md",
+          "size_bytes": 1039,
+          "extension": ".md"
+        },
+        {
+          "path": "ANNEXURES/JF07/Screenshot-2025-08-25-Sage-Account-RegimA-Worldwide-Distribution.json",
+          "name": "Screenshot-2025-08-25-Sage-Account-RegimA-Worldwide-Distribution.json",
+          "size_bytes": 1500,
+          "extension": ".json"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0022.json",
+          "name": "CCE20250924_0022.json",
+          "size_bytes": 1240,
+          "extension": ".json"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0035.jpg",
+          "name": "CCE20250924_0035.jpg",
+          "size_bytes": 326205,
+          "extension": ".jpg"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0037.json",
+          "name": "CCE20250924_0037.json",
+          "size_bytes": 1424,
+          "extension": ".json"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0015.md",
+          "name": "CCE20250924_0015.md",
+          "size_bytes": 446,
+          "extension": ".md"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0021.json",
+          "name": "CCE20250924_0021.json",
+          "size_bytes": 1493,
+          "extension": ".json"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0029.md",
+          "name": "CCE20250924_0029.md",
+          "size_bytes": 1084,
+          "extension": ".md"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0016.json",
+          "name": "CCE20250924_0016.json",
+          "size_bytes": 1295,
+          "extension": ".json"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0047.jpg",
+          "name": "CCE20250924_0047.jpg",
+          "size_bytes": 760827,
+          "extension": ".jpg"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0032.json",
+          "name": "CCE20250924_0032.json",
+          "size_bytes": 1588,
+          "extension": ".json"
+        },
+        {
+          "path": "ANNEXURES/JF07/Screenshot-2025-06-20-Sage-Account-RegimA-Worldwide-Distribution.jpg",
+          "name": "Screenshot-2025-06-20-Sage-Account-RegimA-Worldwide-Distribution.jpg",
+          "size_bytes": 320117,
+          "extension": ".jpg"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0045.jpg",
+          "name": "CCE20250924_0045.jpg",
+          "size_bytes": 841264,
+          "extension": ".jpg"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0006.md",
+          "name": "CCE20250924_0006.md",
+          "size_bytes": 203,
+          "extension": ".md"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250929.md",
+          "name": "CCE20250929.md",
+          "size_bytes": 1467,
+          "extension": ".md"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0001.json",
+          "name": "CCE20250924_0001.json",
+          "size_bytes": 1159,
+          "extension": ".json"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0044.md",
+          "name": "CCE20250924_0044.md",
+          "size_bytes": 907,
+          "extension": ".md"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0043.md",
+          "name": "CCE20250924_0043.md",
+          "size_bytes": 988,
+          "extension": ".md"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0021.jpg",
+          "name": "CCE20250924_0021.jpg",
+          "size_bytes": 299595,
+          "extension": ".jpg"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250929_0003.jpg",
+          "name": "CCE20250929_0003.jpg",
+          "size_bytes": 503570,
+          "extension": ".jpg"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0025.jpg",
+          "name": "CCE20250924_0025.jpg",
+          "size_bytes": 295456,
+          "extension": ".jpg"
+        },
+        {
+          "path": "ANNEXURES/JF07/Screenshot-2025-06-20-Sage-Account-RegimA-Worldwide-Distribution.md",
+          "name": "Screenshot-2025-06-20-Sage-Account-RegimA-Worldwide-Distribution.md",
+          "size_bytes": 1534,
+          "extension": ".md"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0024.md",
+          "name": "CCE20250924_0024.md",
+          "size_bytes": 1191,
+          "extension": ".md"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0041.md",
+          "name": "CCE20250924_0041.md",
+          "size_bytes": 1284,
+          "extension": ".md"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0051.md",
+          "name": "CCE20250924_0051.md",
+          "size_bytes": 1106,
+          "extension": ".md"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0023.json",
+          "name": "CCE20250924_0023.json",
+          "size_bytes": 1517,
+          "extension": ".json"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0050.json",
+          "name": "CCE20250924_0050.json",
+          "size_bytes": 2056,
+          "extension": ".json"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0031.md",
+          "name": "CCE20250924_0031.md",
+          "size_bytes": 1482,
+          "extension": ".md"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0047.md",
+          "name": "CCE20250924_0047.md",
+          "size_bytes": 1257,
+          "extension": ".md"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250929.json",
+          "name": "CCE20250929.json",
+          "size_bytes": 1711,
+          "extension": ".json"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0039.jpg",
+          "name": "CCE20250924_0039.jpg",
+          "size_bytes": 299855,
+          "extension": ".jpg"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0042.md",
+          "name": "CCE20250924_0042.md",
+          "size_bytes": 1297,
+          "extension": ".md"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0003.json",
+          "name": "CCE20250924_0003.json",
+          "size_bytes": 1329,
+          "extension": ".json"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0044.json",
+          "name": "CCE20250924_0044.json",
+          "size_bytes": 1138,
+          "extension": ".json"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250929_0004.jpg",
+          "name": "CCE20250929_0004.jpg",
+          "size_bytes": 421353,
+          "extension": ".jpg"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0001.jpg",
+          "name": "CCE20250924_0001.jpg",
+          "size_bytes": 409485,
+          "extension": ".jpg"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0032.jpg",
+          "name": "CCE20250924_0032.jpg",
+          "size_bytes": 315917,
+          "extension": ".jpg"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250911_0002.md",
+          "name": "CCE20250911_0002.md",
+          "size_bytes": 2823,
+          "extension": ".md"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250929_0004.md",
+          "name": "CCE20250929_0004.md",
+          "size_bytes": 2027,
+          "extension": ".md"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0007.json",
+          "name": "CCE20250924_0007.json",
+          "size_bytes": 1427,
+          "extension": ".json"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0037.jpg",
+          "name": "CCE20250924_0037.jpg",
+          "size_bytes": 288281,
+          "extension": ".jpg"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0014.md",
+          "name": "CCE20250924_0014.md",
+          "size_bytes": 1230,
+          "extension": ".md"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0024.json",
+          "name": "CCE20250924_0024.json",
+          "size_bytes": 1449,
+          "extension": ".json"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0009.jpg",
+          "name": "CCE20250924_0009.jpg",
+          "size_bytes": 297588,
+          "extension": ".jpg"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0046.md",
+          "name": "CCE20250924_0046.md",
+          "size_bytes": 1267,
+          "extension": ".md"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0035.md",
+          "name": "CCE20250924_0035.md",
+          "size_bytes": 1403,
+          "extension": ".md"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0003.md",
+          "name": "CCE20250924_0003.md",
+          "size_bytes": 1096,
+          "extension": ".md"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0049.md",
+          "name": "CCE20250924_0049.md",
+          "size_bytes": 2344,
+          "extension": ".md"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0015.jpg",
+          "name": "CCE20250924_0015.jpg",
+          "size_bytes": 171546,
+          "extension": ".jpg"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0012.md",
+          "name": "CCE20250924_0012.md",
+          "size_bytes": 975,
+          "extension": ".md"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0036.md",
+          "name": "CCE20250924_0036.md",
+          "size_bytes": 1189,
+          "extension": ".md"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0002.json",
+          "name": "CCE20250924_0002.json",
+          "size_bytes": 1122,
+          "extension": ".json"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0029.jpg",
+          "name": "CCE20250924_0029.jpg",
+          "size_bytes": 280363,
+          "extension": ".jpg"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250929_0005.json",
+          "name": "CCE20250929_0005.json",
+          "size_bytes": 2595,
+          "extension": ".json"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0036.jpg",
+          "name": "CCE20250924_0036.jpg",
+          "size_bytes": 293618,
+          "extension": ".jpg"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0006.json",
+          "name": "CCE20250924_0006.json",
+          "size_bytes": 412,
+          "extension": ".json"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0019.jpg",
+          "name": "CCE20250924_0019.jpg",
+          "size_bytes": 272679,
+          "extension": ".jpg"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0042.jpg",
+          "name": "CCE20250924_0042.jpg",
+          "size_bytes": 315113,
+          "extension": ".jpg"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0049.jpg",
+          "name": "CCE20250924_0049.jpg",
+          "size_bytes": 474130,
+          "extension": ".jpg"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0041.json",
+          "name": "CCE20250924_0041.json",
+          "size_bytes": 1534,
+          "extension": ".json"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0013.jpg",
+          "name": "CCE20250924_0013.jpg",
+          "size_bytes": 273396,
+          "extension": ".jpg"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0025.md",
+          "name": "CCE20250924_0025.md",
+          "size_bytes": 1227,
+          "extension": ".md"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0022.jpg",
+          "name": "CCE20250924_0022.jpg",
+          "size_bytes": 248587,
+          "extension": ".jpg"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250929_0003.md",
+          "name": "CCE20250929_0003.md",
+          "size_bytes": 2479,
+          "extension": ".md"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0004.jpg",
+          "name": "CCE20250924_0004.jpg",
+          "size_bytes": 386996,
+          "extension": ".jpg"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0024.jpg",
+          "name": "CCE20250924_0024.jpg",
+          "size_bytes": 277122,
+          "extension": ".jpg"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0011.jpg",
+          "name": "CCE20250924_0011.jpg",
+          "size_bytes": 276364,
+          "extension": ".jpg"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0020.jpg",
+          "name": "CCE20250924_0020.jpg",
+          "size_bytes": 300007,
+          "extension": ".jpg"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0008.jpg",
+          "name": "CCE20250924_0008.jpg",
+          "size_bytes": 300982,
+          "extension": ".jpg"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0051.jpg",
+          "name": "CCE20250924_0051.jpg",
+          "size_bytes": 852412,
+          "extension": ".jpg"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0018.md",
+          "name": "CCE20250924_0018.md",
+          "size_bytes": 1221,
+          "extension": ".md"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0017.jpg",
+          "name": "CCE20250924_0017.jpg",
+          "size_bytes": 212523,
+          "extension": ".jpg"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0025.json",
+          "name": "CCE20250924_0025.json",
+          "size_bytes": 1483,
+          "extension": ".json"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0038.jpg",
+          "name": "CCE20250924_0038.jpg",
+          "size_bytes": 286714,
+          "extension": ".jpg"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250929_0006.md",
+          "name": "CCE20250929_0006.md",
+          "size_bytes": 949,
+          "extension": ".md"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0023.md",
+          "name": "CCE20250924_0023.md",
+          "size_bytes": 1263,
+          "extension": ".md"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250929_0006.jpg",
+          "name": "CCE20250929_0006.jpg",
+          "size_bytes": 292969,
+          "extension": ".jpg"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0003.jpg",
+          "name": "CCE20250924_0003.jpg",
+          "size_bytes": 438215,
+          "extension": ".jpg"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0019.json",
+          "name": "CCE20250924_0019.json",
+          "size_bytes": 1303,
+          "extension": ".json"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0045.md",
+          "name": "CCE20250924_0045.md",
+          "size_bytes": 1370,
+          "extension": ".md"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0040.md",
+          "name": "CCE20250924_0040.md",
+          "size_bytes": 1213,
+          "extension": ".md"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0005.json",
+          "name": "CCE20250924_0005.json",
+          "size_bytes": 1029,
+          "extension": ".json"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0039.md",
+          "name": "CCE20250924_0039.md",
+          "size_bytes": 1231,
+          "extension": ".md"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0005.jpg",
+          "name": "CCE20250924_0005.jpg",
+          "size_bytes": 382661,
+          "extension": ".jpg"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0038.json",
+          "name": "CCE20250924_0038.json",
+          "size_bytes": 1418,
+          "extension": ".json"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0021.md",
+          "name": "CCE20250924_0021.md",
+          "size_bytes": 1242,
+          "extension": ".md"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0028.jpg",
+          "name": "CCE20250924_0028.jpg",
+          "size_bytes": 316184,
+          "extension": ".jpg"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0050.md",
+          "name": "CCE20250924_0050.md",
+          "size_bytes": 1803,
+          "extension": ".md"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0033.jpg",
+          "name": "CCE20250924_0033.jpg",
+          "size_bytes": 337444,
+          "extension": ".jpg"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0046.jpg",
+          "name": "CCE20250924_0046.jpg",
+          "size_bytes": 940952,
+          "extension": ".jpg"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0001.md",
+          "name": "CCE20250924_0001.md",
+          "size_bytes": 929,
+          "extension": ".md"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0043.jpg",
+          "name": "CCE20250924_0043.jpg",
+          "size_bytes": 269421,
+          "extension": ".jpg"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0038.md",
+          "name": "CCE20250924_0038.md",
+          "size_bytes": 1176,
+          "extension": ".md"
+        },
+        {
+          "path": "ANNEXURES/JF07/Screenshot-2025-08-25-Sage-Account-RegimA-Worldwide-Distribution.md",
+          "name": "Screenshot-2025-08-25-Sage-Account-RegimA-Worldwide-Distribution.md",
+          "size_bytes": 1273,
+          "extension": ".md"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0045.json",
+          "name": "CCE20250924_0045.json",
+          "size_bytes": 1632,
+          "extension": ".json"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0048.json",
+          "name": "CCE20250924_0048.json",
+          "size_bytes": 2031,
+          "extension": ".json"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0010.jpg",
+          "name": "CCE20250924_0010.jpg",
+          "size_bytes": 344553,
+          "extension": ".jpg"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0004.md",
+          "name": "CCE20250924_0004.md",
+          "size_bytes": 941,
+          "extension": ".md"
+        },
+        {
+          "path": "ANNEXURES/JF07/Screenshot-2025-06-20-Sage-Account-RegimA-Worldwide-Distribution.json",
+          "name": "Screenshot-2025-06-20-Sage-Account-RegimA-Worldwide-Distribution.json",
+          "size_bytes": 1827,
+          "extension": ".json"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0034.md",
+          "name": "CCE20250924_0034.md",
+          "size_bytes": 1042,
+          "extension": ".md"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0016.jpg",
+          "name": "CCE20250924_0016.jpg",
+          "size_bytes": 307286,
+          "extension": ".jpg"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0039.json",
+          "name": "CCE20250924_0039.json",
+          "size_bytes": 1467,
+          "extension": ".json"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0046.json",
+          "name": "CCE20250924_0046.json",
+          "size_bytes": 1526,
+          "extension": ".json"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250929_0001.jpg",
+          "name": "CCE20250929_0001.jpg",
+          "size_bytes": 534487,
+          "extension": ".jpg"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0048.md",
+          "name": "CCE20250924_0048.md",
+          "size_bytes": 1766,
+          "extension": ".md"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0007.jpg",
+          "name": "CCE20250924_0007.jpg",
+          "size_bytes": 299393,
+          "extension": ".jpg"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0026.jpg",
+          "name": "CCE20250924_0026.jpg",
+          "size_bytes": 258451,
+          "extension": ".jpg"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0007.md",
+          "name": "CCE20250924_0007.md",
+          "size_bytes": 1172,
+          "extension": ".md"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0015.json",
+          "name": "CCE20250924_0015.json",
+          "size_bytes": 681,
+          "extension": ".json"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0037.md",
+          "name": "CCE20250924_0037.md",
+          "size_bytes": 1185,
+          "extension": ".md"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250929_0002.jpg",
+          "name": "CCE20250929_0002.jpg",
+          "size_bytes": 479233,
+          "extension": ".jpg"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0035.json",
+          "name": "CCE20250924_0035.json",
+          "size_bytes": 1652,
+          "extension": ".json"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250929_0001.md",
+          "name": "CCE20250929_0001.md",
+          "size_bytes": 2723,
+          "extension": ".md"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0011.json",
+          "name": "CCE20250924_0011.json",
+          "size_bytes": 1442,
+          "extension": ".json"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0026.json",
+          "name": "CCE20250924_0026.json",
+          "size_bytes": 1320,
+          "extension": ".json"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924.md",
+          "name": "CCE20250924.md",
+          "size_bytes": 778,
+          "extension": ".md"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0019.md",
+          "name": "CCE20250924_0019.md",
+          "size_bytes": 1058,
+          "extension": ".md"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250929_0002.md",
+          "name": "CCE20250929_0002.md",
+          "size_bytes": 2174,
+          "extension": ".md"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0028.json",
+          "name": "CCE20250924_0028.json",
+          "size_bytes": 1543,
+          "extension": ".json"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0022.md",
+          "name": "CCE20250924_0022.md",
+          "size_bytes": 993,
+          "extension": ".md"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250929_0005.md",
+          "name": "CCE20250929_0005.md",
+          "size_bytes": 2349,
+          "extension": ".md"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0016.md",
+          "name": "CCE20250924_0016.md",
+          "size_bytes": 1031,
+          "extension": ".md"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0044.jpg",
+          "name": "CCE20250924_0044.jpg",
+          "size_bytes": 321653,
+          "extension": ".jpg"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0050.jpg",
+          "name": "CCE20250924_0050.jpg",
+          "size_bytes": 353626,
+          "extension": ".jpg"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0013.md",
+          "name": "CCE20250924_0013.md",
+          "size_bytes": 1100,
+          "extension": ".md"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0004.json",
+          "name": "CCE20250924_0004.json",
+          "size_bytes": 1166,
+          "extension": ".json"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0043.json",
+          "name": "CCE20250924_0043.json",
+          "size_bytes": 1223,
+          "extension": ".json"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0013.json",
+          "name": "CCE20250924_0013.json",
+          "size_bytes": 1340,
+          "extension": ".json"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0027.jpg",
+          "name": "CCE20250924_0027.jpg",
+          "size_bytes": 290483,
+          "extension": ".jpg"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0031.json",
+          "name": "CCE20250924_0031.json",
+          "size_bytes": 1726,
+          "extension": ".json"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0032.md",
+          "name": "CCE20250924_0032.md",
+          "size_bytes": 1344,
+          "extension": ".md"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924.json",
+          "name": "CCE20250924.json",
+          "size_bytes": 1015,
+          "extension": ".json"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250929_0001.json",
+          "name": "CCE20250929_0001.json",
+          "size_bytes": 2875,
+          "extension": ".json"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0030.jpg",
+          "name": "CCE20250924_0030.jpg",
+          "size_bytes": 296780,
+          "extension": ".jpg"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250929.jpg",
+          "name": "CCE20250929.jpg",
+          "size_bytes": 327145,
+          "extension": ".jpg"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0047.json",
+          "name": "CCE20250924_0047.json",
+          "size_bytes": 1509,
+          "extension": ".json"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0040.json",
+          "name": "CCE20250924_0040.json",
+          "size_bytes": 1468,
+          "extension": ".json"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0020.md",
+          "name": "CCE20250924_0020.md",
+          "size_bytes": 1203,
+          "extension": ".md"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0049.json",
+          "name": "CCE20250924_0049.json",
+          "size_bytes": 2611,
+          "extension": ".json"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0006.jpg",
+          "name": "CCE20250924_0006.jpg",
+          "size_bytes": 83265,
+          "extension": ".jpg"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0048.jpg",
+          "name": "CCE20250924_0048.jpg",
+          "size_bytes": 627981,
+          "extension": ".jpg"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0009.md",
+          "name": "CCE20250924_0009.md",
+          "size_bytes": 1208,
+          "extension": ".md"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0036.json",
+          "name": "CCE20250924_0036.json",
+          "size_bytes": 1424,
+          "extension": ".json"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0034.jpg",
+          "name": "CCE20250924_0034.jpg",
+          "size_bytes": 264149,
+          "extension": ".jpg"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0029.json",
+          "name": "CCE20250924_0029.json",
+          "size_bytes": 1322,
+          "extension": ".json"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250929_0002.json",
+          "name": "CCE20250929_0002.json",
+          "size_bytes": 2412,
+          "extension": ".json"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0002.jpg",
+          "name": "CCE20250924_0002.jpg",
+          "size_bytes": 412451,
+          "extension": ".jpg"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0041.jpg",
+          "name": "CCE20250924_0041.jpg",
+          "size_bytes": 303347,
+          "extension": ".jpg"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250911_0002.json",
+          "name": "CCE20250911_0002.json",
+          "size_bytes": 3122,
+          "extension": ".json"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250929_0005.jpg",
+          "name": "CCE20250929_0005.jpg",
+          "size_bytes": 507416,
+          "extension": ".jpg"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0030.json",
+          "name": "CCE20250924_0030.json",
+          "size_bytes": 1377,
+          "extension": ".json"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0012.json",
+          "name": "CCE20250924_0012.json",
+          "size_bytes": 1213,
+          "extension": ".json"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0018.jpg",
+          "name": "CCE20250924_0018.jpg",
+          "size_bytes": 294644,
+          "extension": ".jpg"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0014.jpg",
+          "name": "CCE20250924_0014.jpg",
+          "size_bytes": 296384,
+          "extension": ".jpg"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0030.md",
+          "name": "CCE20250924_0030.md",
+          "size_bytes": 1137,
+          "extension": ".md"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0023.jpg",
+          "name": "CCE20250924_0023.jpg",
+          "size_bytes": 311185,
+          "extension": ".jpg"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0040.jpg",
+          "name": "CCE20250924_0040.jpg",
+          "size_bytes": 291046,
+          "extension": ".jpg"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0042.json",
+          "name": "CCE20250924_0042.json",
+          "size_bytes": 1533,
+          "extension": ".json"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250929_0004.json",
+          "name": "CCE20250929_0004.json",
+          "size_bytes": 2266,
+          "extension": ".json"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0012.jpg",
+          "name": "CCE20250924_0012.jpg",
+          "size_bytes": 239287,
+          "extension": ".jpg"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0017.json",
+          "name": "CCE20250924_0017.json",
+          "size_bytes": 916,
+          "extension": ".json"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0017.md",
+          "name": "CCE20250924_0017.md",
+          "size_bytes": 677,
+          "extension": ".md"
+        },
+        {
+          "path": "ANNEXURES/JF07/CCE20250924_0026.md",
+          "name": "CCE20250924_0026.md",
+          "size_bytes": 1068,
+          "extension": ".md"
+        }
+      ],
+      "path": "ANNEXURES/JF07"
+    },
+    {
+      "annexure_code": "JF08",
+      "directory_name": "JF08",
+      "category": "correspondence",
+      "description": "Email correspondence and fraud evidence",
+      "file_count": 38,
+      "files": [
+        {
+          "path": "ANNEXURES/JF08/evidence_package_20250811/LetterofAppointment11082025.pdf",
+          "name": "LetterofAppointment11082025.pdf",
+          "size_bytes": 341794,
+          "extension": ".pdf"
+        },
+        {
+          "path": "ANNEXURES/JF08/evidence_package_20251009/email-body.html",
+          "name": "email-body.html",
+          "size_bytes": 90892,
+          "extension": ".html"
+        },
+        {
+          "path": "ANNEXURES/JF08/evidence_package_20251009/evidence_extraction_summary.md",
+          "name": "evidence_extraction_summary.md",
+          "size_bytes": 6068,
+          "extension": ".md"
+        },
+        {
+          "path": "ANNEXURES/JF08/evidence_package_20251009/email_analysis_findings.md",
+          "name": "email_analysis_findings.md",
+          "size_bytes": 2985,
+          "extension": ".md"
+        },
+        {
+          "path": "ANNEXURES/JF08/evidence_package_20250523/RegimASA\u00b7Reports\u00b7Totalsalesovertimebystore\u00b7ShopifyPlus.pdf",
+          "name": "RegimASA\u00b7Reports\u00b7Totalsalesovertimebystore\u00b7ShopifyPlus.pdf",
+          "size_bytes": 1388927,
+          "extension": ".pdf"
+        },
+        {
+          "path": "ANNEXURES/JF08/evidence_package_20250523/RegimAZone\u00b7Reports\u00b7Totalsalesovertimebystore\u00b7ShopifyPlusZAR.pdf",
+          "name": "RegimAZone\u00b7Reports\u00b7Totalsalesovertimebystore\u00b7ShopifyPlusZAR.pdf",
+          "size_bytes": 1352198,
+          "extension": ".pdf"
+        },
+        {
+          "path": "ANNEXURES/JF08/evidence_package_20250523/image.md",
+          "name": "image.md",
+          "size_bytes": 1306,
+          "extension": ".md"
+        },
+        {
+          "path": "ANNEXURES/JF08/evidence_package_20250523/RegimA_Zone_W_388990813.pdf",
+          "name": "RegimA_Zone_W_388990813.pdf",
+          "size_bytes": 99092,
+          "extension": ".pdf"
+        },
+        {
+          "path": "ANNEXURES/JF08/evidence_package_20250523/image.png",
+          "name": "image.png",
+          "size_bytes": 289330,
+          "extension": ".png"
+        },
+        {
+          "path": "ANNEXURES/JF08/evidence_package_20250523/image.json",
+          "name": "image.json",
+          "size_bytes": 1547,
+          "extension": ".json"
+        },
+        {
+          "path": "ANNEXURES/JF08/evidence_package_20250606/email-body.html",
+          "name": "email-body.html",
+          "size_bytes": 66203,
+          "extension": ".html"
+        },
+        {
+          "path": "ANNEXURES/JF08/evidence_package_20250606/monthly_spending_trend.json",
+          "name": "monthly_spending_trend.json",
+          "size_bytes": 1030,
+          "extension": ".json"
+        },
+        {
+          "path": "ANNEXURES/JF08/evidence_package_20250606/ProfitAndLossReport(RWD).pdf",
+          "name": "ProfitAndLossReport(RWD).pdf",
+          "size_bytes": 87035,
+          "extension": ".pdf"
+        },
+        {
+          "path": "ANNEXURES/JF08/evidence_package_20250606/AccountTransactionsReport.pdf",
+          "name": "AccountTransactionsReport.pdf",
+          "size_bytes": 1056931,
+          "extension": ".pdf"
+        },
+        {
+          "path": "ANNEXURES/JF08/evidence_package_20250606/ProfitandLoss.pdf",
+          "name": "ProfitandLoss.pdf",
+          "size_bytes": 41764,
+          "extension": ".pdf"
+        },
+        {
+          "path": "ANNEXURES/JF08/evidence_package_20250606/monthly_spending_trend.md",
+          "name": "monthly_spending_trend.md",
+          "size_bytes": 737,
+          "extension": ".md"
+        },
+        {
+          "path": "ANNEXURES/JF08/evidence_package_20250606/ComputerExpensesCategorizationReport(Corrected).pdf",
+          "name": "ComputerExpensesCategorizationReport(Corrected).pdf",
+          "size_bytes": 301366,
+          "extension": ".pdf"
+        },
+        {
+          "path": "ANNEXURES/JF08/evidence_package_20250606/evidence_extraction_summary.md",
+          "name": "evidence_extraction_summary.md",
+          "size_bytes": 7258,
+          "extension": ".md"
+        },
+        {
+          "path": "ANNEXURES/JF08/evidence_package_20250606/RezonanceFebr2023.PDF",
+          "name": "RezonanceFebr2023.PDF",
+          "size_bytes": 11559,
+          "extension": ".pdf"
+        },
+        {
+          "path": "ANNEXURES/JF08/evidence_package_20250606/monthly_spending_trend.png",
+          "name": "monthly_spending_trend.png",
+          "size_bytes": 34033,
+          "extension": ".png"
+        },
+        {
+          "path": "ANNEXURES/JF08/evidence_package_20251012/Regima-1March2018to29February2019.PDF",
+          "name": "Regima-1March2018to29February2019.PDF",
+          "size_bytes": 3308,
+          "extension": ".pdf"
+        },
+        {
+          "path": "ANNEXURES/JF08/evidence_package_20251012/email-body.html",
+          "name": "email-body.html",
+          "size_bytes": 3402,
+          "extension": ".html"
+        },
+        {
+          "path": "ANNEXURES/JF08/evidence_package_20251012/uk_transaction_analysis.md",
+          "name": "uk_transaction_analysis.md",
+          "size_bytes": 6424,
+          "extension": ".md"
+        },
+        {
+          "path": "ANNEXURES/JF08/evidence_package_20251012/Regima-1March2019to29February2020.PDF",
+          "name": "Regima-1March2019to29February2020.PDF",
+          "size_bytes": 3220,
+          "extension": ".pdf"
+        },
+        {
+          "path": "ANNEXURES/JF08/evidence_package_20251012/Regima-1March2017to29February2018.PDF",
+          "name": "Regima-1March2017to29February2018.PDF",
+          "size_bytes": 3382,
+          "extension": ".pdf"
+        },
+        {
+          "path": "ANNEXURES/JF08/evidence_package_20251012/image001.json",
+          "name": "image001.json",
+          "size_bytes": 637,
+          "extension": ".json"
+        },
+        {
+          "path": "ANNEXURES/JF08/evidence_package_20251012/Regima-1March2021to28February2022.PDF",
+          "name": "Regima-1March2021to28February2022.PDF",
+          "size_bytes": 4320,
+          "extension": ".pdf"
+        },
+        {
+          "path": "ANNEXURES/JF08/evidence_package_20251012/Regima-1March2024to28February2025.PDF",
+          "name": "Regima-1March2024to28February2025.PDF",
+          "size_bytes": 3461,
+          "extension": ".pdf"
+        },
+        {
+          "path": "ANNEXURES/JF08/evidence_package_20251012/regima_uk_extraction.json",
+          "name": "regima_uk_extraction.json",
+          "size_bytes": 79756,
+          "extension": ".json"
+        },
+        {
+          "path": "ANNEXURES/JF08/evidence_package_20251012/image001.jpg",
+          "name": "image001.jpg",
+          "size_bytes": 193200,
+          "extension": ".jpg"
+        },
+        {
+          "path": "ANNEXURES/JF08/evidence_package_20251012/Regima-1March2023to29February2024.PDF",
+          "name": "Regima-1March2023to29February2024.PDF",
+          "size_bytes": 3302,
+          "extension": ".pdf"
+        },
+        {
+          "path": "ANNEXURES/JF08/evidence_package_20251012/InvIn30040120April2015toInv30482424April2025.PDF",
+          "name": "InvIn30040120April2015toInv30482424April2025.PDF",
+          "size_bytes": 379714,
+          "extension": ".pdf"
+        },
+        {
+          "path": "ANNEXURES/JF08/evidence_package_20251012/structured_analysis.json",
+          "name": "structured_analysis.json",
+          "size_bytes": 12064,
+          "extension": ".json"
+        },
+        {
+          "path": "ANNEXURES/JF08/evidence_package_20251012/image001.md",
+          "name": "image001.md",
+          "size_bytes": 419,
+          "extension": ".md"
+        },
+        {
+          "path": "ANNEXURES/JF08/evidence_package_20251012/Regima-1March2022to28February2023.PDF",
+          "name": "Regima-1March2022to28February2023.PDF",
+          "size_bytes": 3566,
+          "extension": ".pdf"
+        },
+        {
+          "path": "ANNEXURES/JF08/evidence_package_20251012/comprehensive_fraud_timeline_2017_2025.md",
+          "name": "comprehensive_fraud_timeline_2017_2025.md",
+          "size_bytes": 11027,
+          "extension": ".md"
+        },
+        {
+          "path": "ANNEXURES/JF08/evidence_package_20251012/Regima-1March2025to28February2026.PDF",
+          "name": "Regima-1March2025to28February2026.PDF",
+          "size_bytes": 3299,
+          "extension": ".pdf"
+        },
+        {
+          "path": "ANNEXURES/JF08/evidence_package_20251012/Regima-1March2020to28February2021.PDF",
+          "name": "Regima-1March2020to28February2021.PDF",
+          "size_bytes": 3951,
+          "extension": ".pdf"
+        }
+      ],
+      "path": "ANNEXURES/JF08"
+    },
+    {
+      "annexure_code": "JF09",
+      "directory_name": "JF09",
+      "category": "court_timeline",
+      "description": "Court order timeline cross-reference",
+      "file_count": 8,
+      "files": [
+        {
+          "path": "ANNEXURES/JF09/APR-SEP-2025.md",
+          "name": "APR-SEP-2025.md",
+          "size_bytes": 33484,
+          "extension": ".md"
+        },
+        {
+          "path": "ANNEXURES/JF09/ENTITY_RELATION_UPDATES_20250811.md",
+          "name": "ENTITY_RELATION_UPDATES_20250811.md",
+          "size_bytes": 6884,
+          "extension": ".md"
+        },
+        {
+          "path": "ANNEXURES/JF09/COMPREHENSIVE_TIMELINE_2017_2025.md",
+          "name": "COMPREHENSIVE_TIMELINE_2017_2025.md",
+          "size_bytes": 13435,
+          "extension": ".md"
+        },
+        {
+          "path": "ANNEXURES/JF09/court-order-timeline-cross-reference-analysis.md",
+          "name": "court-order-timeline-cross-reference-analysis.md",
+          "size_bytes": 7053,
+          "extension": ".md"
+        },
+        {
+          "path": "ANNEXURES/JF09/ENTITY_RELATION_UPDATES_20250811_COMPLETE.md",
+          "name": "ENTITY_RELATION_UPDATES_20250811_COMPLETE.md",
+          "size_bytes": 939,
+          "extension": ".md"
+        },
+        {
+          "path": "ANNEXURES/JF09/HYPER_HOLMES_ANALYSIS_20250811.md",
+          "name": "HYPER_HOLMES_ANALYSIS_20250811.md",
+          "size_bytes": 1151,
+          "extension": ".md"
+        },
+        {
+          "path": "ANNEXURES/JF09/ENTITY_RELATION_UPDATES_20250523.md",
+          "name": "ENTITY_RELATION_UPDATES_20250523.md",
+          "size_bytes": 20978,
+          "extension": ".md"
+        },
+        {
+          "path": "ANNEXURES/JF09/HYPER_HOLMES_ANALYSIS_20250523.md",
+          "name": "HYPER_HOLMES_ANALYSIS_20250523.md",
+          "size_bytes": 20637,
+          "extension": ".md"
+        }
+      ],
+      "path": "ANNEXURES/JF09"
+    },
+    {
+      "annexure_code": "JF10",
+      "directory_name": "JF10",
+      "category": "director_loans",
+      "description": "Director loan accounts",
+      "file_count": 3,
+      "files": [
+        {
+          "path": "ANNEXURES/JF10/README.md",
+          "name": "README.md",
+          "size_bytes": 6450,
+          "extension": ".md"
+        },
+        {
+          "path": "ANNEXURES/JF10/ACCOUNTING_RECORDS_DIRECTOR_LOAN_ALLOCATION.md",
+          "name": "ACCOUNTING_RECORDS_DIRECTOR_LOAN_ALLOCATION.md",
+          "size_bytes": 13421,
+          "extension": ".md"
+        },
+        {
+          "path": "ANNEXURES/JF10/COMPLETION_NOTES.md",
+          "name": "COMPLETION_NOTES.md",
+          "size_bytes": 6734,
+          "extension": ".md"
+        }
+      ],
+      "path": "ANNEXURES/JF10"
+    },
+    {
+      "annexure_code": "JF11",
+      "directory_name": "JF11",
+      "category": "medical_testing",
+      "description": "Medical testing documentation",
+      "file_count": 1,
+      "files": [
+        {
+          "path": "ANNEXURES/JF11/MED-COERCIVE.md",
+          "name": "MED-COERCIVE.md",
+          "size_bytes": 9512,
+          "extension": ".md"
+        }
+      ],
+      "path": "ANNEXURES/JF11"
+    },
+    {
+      "annexure_code": "JF12",
+      "directory_name": "JF12",
+      "category": "criminal_safety",
+      "description": "Criminal matter safety guide",
+      "file_count": 1,
+      "files": [
+        {
+          "path": "ANNEXURES/JF12/criminal_matter_safety_guide.md",
+          "name": "criminal_matter_safety_guide.md",
+          "size_bytes": 10282,
+          "extension": ".md"
+        }
+      ],
+      "path": "ANNEXURES/JF12"
+    },
+    {
+      "annexure_code": "JF13",
+      "directory_name": "JF13",
+      "category": "additional_evidence",
+      "description": "Additional evidence package",
+      "file_count": 3,
+      "files": [
+        {
+          "path": "ANNEXURES/JF13/KL0034-LetterofDemand-26.11.2025.pdf",
+          "name": "KL0034-LetterofDemand-26.11.2025.pdf",
+          "size_bytes": 233533,
+          "extension": ".pdf"
+        },
+        {
+          "path": "ANNEXURES/JF13/KF0019-LettertoOpp(PottasAttorneys)26.11.2025.pdf",
+          "name": "KF0019-LettertoOpp(PottasAttorneys)26.11.2025.pdf",
+          "size_bytes": 207452,
+          "extension": ".pdf"
+        },
+        {
+          "path": "ANNEXURES/JF13/README.md",
+          "name": "README.md",
+          "size_bytes": 5392,
+          "extension": ".md"
+        }
+      ],
+      "path": "ANNEXURES/JF13"
+    },
+    {
+      "annexure_code": "JF14",
+      "directory_name": "JF14-CIPC-2021",
+      "category": "uncategorized",
+      "description": "JF14-CIPC-2021",
+      "file_count": 19,
+      "files": [
+        {
+          "path": "ANNEXURES/JF14-CIPC-2021/293349755.Pdf",
+          "name": "293349755.Pdf",
+          "size_bytes": 160542,
+          "extension": ".pdf"
+        },
+        {
+          "path": "ANNEXURES/JF14-CIPC-2021/293349141.Pdf",
+          "name": "293349141.Pdf",
+          "size_bytes": 300058,
+          "extension": ".pdf"
+        },
+        {
+          "path": "ANNEXURES/JF14-CIPC-2021/293351102.Pdf",
+          "name": "293351102.Pdf",
+          "size_bytes": 162194,
+          "extension": ".pdf"
+        },
+        {
+          "path": "ANNEXURES/JF14-CIPC-2021/293351595.Pdf",
+          "name": "293351595.Pdf",
+          "size_bytes": 152125,
+          "extension": ".pdf"
+        },
+        {
+          "path": "ANNEXURES/JF14-CIPC-2021/293350730.Pdf",
+          "name": "293350730.Pdf",
+          "size_bytes": 75231,
+          "extension": ".pdf"
+        },
+        {
+          "path": "ANNEXURES/JF14-CIPC-2021/293350681.Pdf",
+          "name": "293350681.Pdf",
+          "size_bytes": 63209,
+          "extension": ".pdf"
+        },
+        {
+          "path": "ANNEXURES/JF14-CIPC-2021/293349762.Pdf",
+          "name": "293349762.Pdf",
+          "size_bytes": 195108,
+          "extension": ".pdf"
+        },
+        {
+          "path": "ANNEXURES/JF14-CIPC-2021/293349153.Pdf",
+          "name": "293349153.Pdf",
+          "size_bytes": 262793,
+          "extension": ".pdf"
+        },
+        {
+          "path": "ANNEXURES/JF14-CIPC-2021/293351580.Pdf",
+          "name": "293351580.Pdf",
+          "size_bytes": 121208,
+          "extension": ".pdf"
+        },
+        {
+          "path": "ANNEXURES/JF14-CIPC-2021/293350058.Pdf",
+          "name": "293350058.Pdf",
+          "size_bytes": 120406,
+          "extension": ".pdf"
+        },
+        {
+          "path": "ANNEXURES/JF14-CIPC-2021/293351589.Pdf",
+          "name": "293351589.Pdf",
+          "size_bytes": 136681,
+          "extension": ".pdf"
+        },
+        {
+          "path": "ANNEXURES/JF14-CIPC-2021/293349147.Pdf",
+          "name": "293349147.Pdf",
+          "size_bytes": 245364,
+          "extension": ".pdf"
+        },
+        {
+          "path": "ANNEXURES/JF14-CIPC-2021/293349377.Pdf",
+          "name": "293349377.Pdf",
+          "size_bytes": 96343,
+          "extension": ".pdf"
+        },
+        {
+          "path": "ANNEXURES/JF14-CIPC-2021/293350028.Pdf",
+          "name": "293350028.Pdf",
+          "size_bytes": 63816,
+          "extension": ".pdf"
+        },
+        {
+          "path": "ANNEXURES/JF14-CIPC-2021/293350197.Pdf",
+          "name": "293350197.Pdf",
+          "size_bytes": 279752,
+          "extension": ".pdf"
+        },
+        {
+          "path": "ANNEXURES/JF14-CIPC-2021/INDEX.md",
+          "name": "INDEX.md",
+          "size_bytes": 3161,
+          "extension": ".md"
+        },
+        {
+          "path": "ANNEXURES/JF14-CIPC-2021/293348688.Pdf",
+          "name": "293348688.Pdf",
+          "size_bytes": 180332,
+          "extension": ".pdf"
+        },
+        {
+          "path": "ANNEXURES/JF14-CIPC-2021/293350204.Pdf",
+          "name": "293350204.Pdf",
+          "size_bytes": 112236,
+          "extension": ".pdf"
+        },
+        {
+          "path": "ANNEXURES/JF14-CIPC-2021/293348650-List-RegimAWorldwideDistribution.Pdf",
+          "name": "293348650-List-RegimAWorldwideDistribution.Pdf",
+          "size_bytes": 63873,
+          "extension": ".pdf"
+        }
+      ],
+      "path": "ANNEXURES/JF14-CIPC-2021"
+    },
+    {
+      "annexure_code": "JF15",
+      "directory_name": "JF15-CIPC-BATCH2-2021",
+      "category": "uncategorized",
+      "description": "JF15-CIPC-BATCH2-2021",
+      "file_count": 19,
+      "files": [
+        {
+          "path": "ANNEXURES/JF15-CIPC-BATCH2-2021/293351625.Pdf",
+          "name": "293351625.Pdf",
+          "size_bytes": 146467,
+          "extension": ".pdf"
+        },
+        {
+          "path": "ANNEXURES/JF15-CIPC-BATCH2-2021/293355412.Pdf",
+          "name": "293355412.Pdf",
+          "size_bytes": 160763,
+          "extension": ".pdf"
+        },
+        {
+          "path": "ANNEXURES/JF15-CIPC-BATCH2-2021/293351615.Pdf",
+          "name": "293351615.Pdf",
+          "size_bytes": 133499,
+          "extension": ".pdf"
+        },
+        {
+          "path": "ANNEXURES/JF15-CIPC-BATCH2-2021/293353100.Pdf",
+          "name": "293353100.Pdf",
+          "size_bytes": 63931,
+          "extension": ".pdf"
+        },
+        {
+          "path": "ANNEXURES/JF15-CIPC-BATCH2-2021/293351642.Pdf",
+          "name": "293351642.Pdf",
+          "size_bytes": 151057,
+          "extension": ".pdf"
+        },
+        {
+          "path": "ANNEXURES/JF15-CIPC-BATCH2-2021/293352194.Pdf",
+          "name": "293352194.Pdf",
+          "size_bytes": 181597,
+          "extension": ".pdf"
+        },
+        {
+          "path": "ANNEXURES/JF15-CIPC-BATCH2-2021/293351622.Pdf",
+          "name": "293351622.Pdf",
+          "size_bytes": 145789,
+          "extension": ".pdf"
+        },
+        {
+          "path": "ANNEXURES/JF15-CIPC-BATCH2-2021/293351602.Pdf",
+          "name": "293351602.Pdf",
+          "size_bytes": 138237,
+          "extension": ".pdf"
+        },
+        {
+          "path": "ANNEXURES/JF15-CIPC-BATCH2-2021/293351648.Pdf",
+          "name": "293351648.Pdf",
+          "size_bytes": 137135,
+          "extension": ".pdf"
+        },
+        {
+          "path": "ANNEXURES/JF15-CIPC-BATCH2-2021/decrypted_TheCosmeticsIndustry(2017-11-14).pdf",
+          "name": "decrypted_TheCosmeticsIndustry(2017-11-14).pdf",
+          "size_bytes": 2602427,
+          "extension": ".pdf"
+        },
+        {
+          "path": "ANNEXURES/JF15-CIPC-BATCH2-2021/293355407.Pdf",
+          "name": "293355407.Pdf",
+          "size_bytes": 137863,
+          "extension": ".pdf"
+        },
+        {
+          "path": "ANNEXURES/JF15-CIPC-BATCH2-2021/293353145.Pdf",
+          "name": "293353145.Pdf",
+          "size_bytes": 167031,
+          "extension": ".pdf"
+        },
+        {
+          "path": "ANNEXURES/JF15-CIPC-BATCH2-2021/293352439.Pdf",
+          "name": "293352439.Pdf",
+          "size_bytes": 155086,
+          "extension": ".pdf"
+        },
+        {
+          "path": "ANNEXURES/JF15-CIPC-BATCH2-2021/293352764.Pdf",
+          "name": "293352764.Pdf",
+          "size_bytes": 145946,
+          "extension": ".pdf"
+        },
+        {
+          "path": "ANNEXURES/JF15-CIPC-BATCH2-2021/293352381.Pdf",
+          "name": "293352381.Pdf",
+          "size_bytes": 96963,
+          "extension": ".pdf"
+        },
+        {
+          "path": "ANNEXURES/JF15-CIPC-BATCH2-2021/INDEX.md",
+          "name": "INDEX.md",
+          "size_bytes": 2946,
+          "extension": ".md"
+        },
+        {
+          "path": "ANNEXURES/JF15-CIPC-BATCH2-2021/293351612.Pdf",
+          "name": "293351612.Pdf",
+          "size_bytes": 137861,
+          "extension": ".pdf"
+        },
+        {
+          "path": "ANNEXURES/JF15-CIPC-BATCH2-2021/293352379.Pdf",
+          "name": "293352379.Pdf",
+          "size_bytes": 96769,
+          "extension": ".pdf"
+        },
+        {
+          "path": "ANNEXURES/JF15-CIPC-BATCH2-2021/293351608.Pdf",
+          "name": "293351608.Pdf",
+          "size_bytes": 117189,
+          "extension": ".pdf"
+        }
+      ],
+      "path": "ANNEXURES/JF15-CIPC-BATCH2-2021"
+    },
+    {
+      "annexure_code": "JF16",
+      "directory_name": "JF16-DISTRIBUTORS",
+      "category": "uncategorized",
+      "description": "JF16-DISTRIBUTORS",
+      "file_count": 28,
+      "files": [
+        {
+          "path": "ANNEXURES/JF16-DISTRIBUTORS/293337582-Company-DermalSkinTreatmentsCapeTown.Pdf",
+          "name": "293337582-Company-DermalSkinTreatmentsCapeTown.Pdf",
+          "size_bytes": 138975,
+          "extension": ".pdf"
+        },
+        {
+          "path": "ANNEXURES/JF16-DISTRIBUTORS/293345607-Property-KarenAvnit(2).Pdf",
+          "name": "293345607-Property-KarenAvnit(2).Pdf",
+          "size_bytes": 86600,
+          "extension": ".pdf"
+        },
+        {
+          "path": "ANNEXURES/JF16-DISTRIBUTORS/293346928-Property-PretoriaSSForestLodge173-4.Pdf",
+          "name": "293346928-Property-PretoriaSSForestLodge173-4.Pdf",
+          "size_bytes": 360521,
+          "extension": ".pdf"
+        },
+        {
+          "path": "ANNEXURES/JF16-DISTRIBUTORS/293347360-PropertyDeeds-SSForestLodge173-4.Pdf",
+          "name": "293347360-PropertyDeeds-SSForestLodge173-4.Pdf",
+          "size_bytes": 54381,
+          "extension": ".pdf"
+        },
+        {
+          "path": "ANNEXURES/JF16-DISTRIBUTORS/293340322-Company-KachanMarketingandDistribution.Pdf",
+          "name": "293340322-Company-KachanMarketingandDistribution.Pdf",
+          "size_bytes": 136832,
+          "extension": ".pdf"
+        },
+        {
+          "path": "ANNEXURES/JF16-DISTRIBUTORS/293342878-Company-BertaniInternationalGlobal.Pdf",
+          "name": "293342878-Company-BertaniInternationalGlobal.Pdf",
+          "size_bytes": 114205,
+          "extension": ".pdf"
+        },
+        {
+          "path": "ANNEXURES/JF16-DISTRIBUTORS/293348224-List-BarendNortje.Pdf",
+          "name": "293348224-List-BarendNortje.Pdf",
+          "size_bytes": 64102,
+          "extension": ".pdf"
+        },
+        {
+          "path": "ANNEXURES/JF16-DISTRIBUTORS/293343017-Director-DanteBertani.Pdf",
+          "name": "293343017-Director-DanteBertani.Pdf",
+          "size_bytes": 113548,
+          "extension": ".pdf"
+        },
+        {
+          "path": "ANNEXURES/JF16-DISTRIBUTORS/293338030-Director-SharonNortje.Pdf",
+          "name": "293338030-Director-SharonNortje.Pdf",
+          "size_bytes": 95824,
+          "extension": ".pdf"
+        },
+        {
+          "path": "ANNEXURES/JF16-DISTRIBUTORS/293330249-List-GeorgeEndermologieClinic.Pdf",
+          "name": "293330249-List-GeorgeEndermologieClinic.Pdf",
+          "size_bytes": 63875,
+          "extension": ".pdf"
+        },
+        {
+          "path": "ANNEXURES/JF16-DISTRIBUTORS/293338023-Director-BarendNortje.Pdf",
+          "name": "293338023-Director-BarendNortje.Pdf",
+          "size_bytes": 145267,
+          "extension": ".pdf"
+        },
+        {
+          "path": "ANNEXURES/JF16-DISTRIBUTORS/293344692-Property-KarenAvnit.Pdf",
+          "name": "293344692-Property-KarenAvnit.Pdf",
+          "size_bytes": 160809,
+          "extension": ".pdf"
+        },
+        {
+          "path": "ANNEXURES/JF16-DISTRIBUTORS/293342834-List-BertaniInternationalGlobal.Pdf",
+          "name": "293342834-List-BertaniInternationalGlobal.Pdf",
+          "size_bytes": 63816,
+          "extension": ".pdf"
+        },
+        {
+          "path": "ANNEXURES/JF16-DISTRIBUTORS/293345403-Property-KachanMarketingandDistribution.Pdf",
+          "name": "293345403-Property-KachanMarketingandDistribution.Pdf",
+          "size_bytes": 90928,
+          "extension": ".pdf"
+        },
+        {
+          "path": "ANNEXURES/JF16-DISTRIBUTORS/293347244-List-Deeds-SB48685-2019.Pdf",
+          "name": "293347244-List-Deeds-SB48685-2019.Pdf",
+          "size_bytes": 65136,
+          "extension": ".pdf"
+        },
+        {
+          "path": "ANNEXURES/JF16-DISTRIBUTORS/293342496-Director-ChaneTodd.Pdf",
+          "name": "293342496-Director-ChaneTodd.Pdf",
+          "size_bytes": 95647,
+          "extension": ".pdf"
+        },
+        {
+          "path": "ANNEXURES/JF16-DISTRIBUTORS/293348251-Property-BarendNortje.Pdf",
+          "name": "293348251-Property-BarendNortje.Pdf",
+          "size_bytes": 115840,
+          "extension": ".pdf"
+        },
+        {
+          "path": "ANNEXURES/JF16-DISTRIBUTORS/293346285-Property-PretoriaSSForestLodge173-20.Pdf",
+          "name": "293346285-Property-PretoriaSSForestLodge173-20.Pdf",
+          "size_bytes": 357917,
+          "extension": ".pdf"
+        },
+        {
+          "path": "ANNEXURES/JF16-DISTRIBUTORS/293340515-Director-KarenAvnit.Pdf",
+          "name": "293340515-Director-KarenAvnit.Pdf",
+          "size_bytes": 95823,
+          "extension": ".pdf"
+        },
+        {
+          "path": "ANNEXURES/JF16-DISTRIBUTORS/293344592-List-KarenAvnit.Pdf",
+          "name": "293344592-List-KarenAvnit.Pdf",
+          "size_bytes": 64544,
+          "extension": ".pdf"
+        },
+        {
+          "path": "ANNEXURES/JF16-DISTRIBUTORS/293342189-List-DandelionSA.Pdf",
+          "name": "293342189-List-DandelionSA.Pdf",
+          "size_bytes": 63807,
+          "extension": ".pdf"
+        },
+        {
+          "path": "ANNEXURES/JF16-DISTRIBUTORS/INDEX.md",
+          "name": "INDEX.md",
+          "size_bytes": 4507,
+          "extension": ".md"
+        },
+        {
+          "path": "ANNEXURES/JF16-DISTRIBUTORS/293342504-Director-KirbyRaeVanDerStelt.Pdf",
+          "name": "293342504-Director-KirbyRaeVanDerStelt.Pdf",
+          "size_bytes": 95566,
+          "extension": ".pdf"
+        },
+        {
+          "path": "ANNEXURES/JF16-DISTRIBUTORS/293338928-Company-DeFayFundManagement.Pdf",
+          "name": "293338928-Company-DeFayFundManagement.Pdf",
+          "size_bytes": 180766,
+          "extension": ".pdf"
+        },
+        {
+          "path": "ANNEXURES/JF16-DISTRIBUTORS/293340240-List-KachanMarketingandDistribution.Pdf",
+          "name": "293340240-List-KachanMarketingandDistribution.Pdf",
+          "size_bytes": 64048,
+          "extension": ".pdf"
+        },
+        {
+          "path": "ANNEXURES/JF16-DISTRIBUTORS/293342245-Company-DandelionSA.Pdf",
+          "name": "293342245-Company-DandelionSA.Pdf",
+          "size_bytes": 132573,
+          "extension": ".pdf"
+        },
+        {
+          "path": "ANNEXURES/JF16-DISTRIBUTORS/293337425-List-DermalSkinTreatmentsCapeTown.Pdf",
+          "name": "293337425-List-DermalSkinTreatmentsCapeTown.Pdf",
+          "size_bytes": 63760,
+          "extension": ".pdf"
+        },
+        {
+          "path": "ANNEXURES/JF16-DISTRIBUTORS/293332765-Company-GeorgeEndermologieClinic.Pdf",
+          "name": "293332765-Company-GeorgeEndermologieClinic.Pdf",
+          "size_bytes": 146851,
+          "extension": ".pdf"
+        }
+      ],
+      "path": "ANNEXURES/JF16-DISTRIBUTORS"
+    },
+    {
+      "annexure_code": "NEW_EVIDENCE_2025_12_19",
+      "directory_name": "NEW_EVIDENCE_2025_12_19",
+      "category": "uncategorized",
+      "description": "NEW_EVIDENCE_2025_12_19",
+      "file_count": 4,
+      "files": [
+        {
+          "path": "ANNEXURES/NEW_EVIDENCE_2025_12_19/Inbox-250618-RE_REGIMAWORLDWIDEDISTRIBUTION(PTY)LTD-[ExternalEmail]-Outlook.pdf",
+          "name": "Inbox-250618-RE_REGIMAWORLDWIDEDISTRIBUTION(PTY)LTD-[ExternalEmail]-Outlook.pdf",
+          "size_bytes": 636314,
+          "extension": ".pdf"
+        },
+        {
+          "path": "ANNEXURES/NEW_EVIDENCE_2025_12_19/README.md",
+          "name": "README.md",
+          "size_bytes": 5667,
+          "extension": ".md"
+        },
+        {
+          "path": "ANNEXURES/NEW_EVIDENCE_2025_12_19/PAF_FNB_FRAUD_LETTER_2025_06_17.jpg",
+          "name": "PAF_FNB_FRAUD_LETTER_2025_06_17.jpg",
+          "size_bytes": 125581,
+          "extension": ".jpg"
+        },
+        {
+          "path": "ANNEXURES/NEW_EVIDENCE_2025_12_19/Inbox-250612-Someoneremovedmycardonyourbirthday.-Outlook.pdf",
+          "name": "Inbox-250612-Someoneremovedmycardonyourbirthday.-Outlook.pdf",
+          "size_bytes": 84775,
+          "extension": ".pdf"
+        }
+      ],
+      "path": "ANNEXURES/NEW_EVIDENCE_2025_12_19"
+    }
+  ],
+  "entity_evidence_map": {},
+  "event_evidence_map": {},
+  "tier_a_evidence_chains": {}
+}
