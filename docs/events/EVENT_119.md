@@ -1,5 +1,10 @@
 # EVENT_119: Bantjies Admits "Manufacturing" SARS Answer — SMOKING GUN
 
+## Event Metadata
+- **Entities Involved:** Unknown
+- **Source:** Unknown
+
+
 ## Event Details
 
 | Field | Value |

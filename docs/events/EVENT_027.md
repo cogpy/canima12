@@ -1,5 +1,11 @@
 # Domain Switch Email Instruction (EVENT_027)
 
+## Event Metadata
+- **Type:** Unknown
+- **Entities Involved:** Unknown
+- **Source:** Unknown
+
+
 **Date:** 2025-06-20
 
 **Description:** Gee instructed to send email: 'don't use regima.zone only use regimaskin.co.za email', active customer diversion to fraudulent domain owned by Adderory

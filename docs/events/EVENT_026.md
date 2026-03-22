@@ -1,5 +1,11 @@
 # Gee Email Explaining Domain Switch Instruction (EVENT_026)
 
+## Event Metadata
+- **Type:** Unknown
+- **Entities Involved:** Unknown
+- **Source:** Unknown
+
+
 **Date:** 2025-08-15
 
 **Description:** Email from Gee to Jax explaining that she was instructed to send out 'don't use regima.zone only use regimaskin.co.za email' on June 20, 2025. Confirms customer hijacking scheme.

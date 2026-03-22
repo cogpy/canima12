@@ -1,5 +1,11 @@
 # Court Order for Kayla Pretorius Email Account Seizure (EVENT_087)
 
+## Event Metadata
+- **Type:** Unknown
+- **Entities Involved:** Unknown
+- **Source:** Unknown
+
+
 **Date:** 2023-09-01
 
 **Description:** Court orders seizure of Kayla Pretorius email account following her murder on 13 July 2023. Email account became estate property and was subject to court-ordered seizure for evidence of fraudulent activities. This enabled unauthorized access to business communications.

@@ -1,5 +1,11 @@
 # EVENT_110: Sage API Breakage & Framing Setup
 
+## Event Metadata
+- **Type:** Unknown
+- **Entities Involved:** Unknown
+- **Source:** Unknown
+
+
 **Date:** 2024-07-10
 
 ## Description

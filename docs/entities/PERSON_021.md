@@ -1,4 +1,5 @@
 # Gayane Williams (RegimA Employee) (PERSON_GAYANE)
+**Type:** Person  
 **Role:** Office Employee, Active Participant in Infrastructure Hijacking  
 **Full Name:** Gayane Williams  
 **Email:** gayane@regima.zone / gayane@regimaskin.co.za  

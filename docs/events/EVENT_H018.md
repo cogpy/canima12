@@ -1,5 +1,11 @@
 # Bantjies Sends Trial Balance Email to Bernadine Wright (EVENT_H018)
 
+## Event Metadata
+- **Type:** Unknown
+- **Entities Involved:** Unknown
+- **Source:** Unknown
+
+
 **Date:** 2020-08-13
 
 **Description:** Bantjies sends trial balance email to Bernadine Wright for financial statement finalization meeting, demonstrating his control over financial systems and accounting records

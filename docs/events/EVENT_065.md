@@ -1,5 +1,11 @@
 # EVENT_065 (EVENT_065)
 
+## Event Metadata
+- **Type:** Unknown
+- **Entities Involved:** Unknown
+- **Source:** Unknown
+
+
 **Date:** 2025-07-23
 
 **Description:** RegimA WWD Sage accounting registration expired; Rynette Farrar controls reactivation

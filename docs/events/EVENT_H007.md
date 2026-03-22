@@ -1,5 +1,11 @@
 # Villa Via Year-End Profit Extraction (EVENT_H007)
 
+## Event Metadata
+- **Type:** Unknown
+- **Entities Involved:** Unknown
+- **Source:** Unknown
+
+
 **Date:** 2020-04-30
 
 **Description:** Villa Via generates R4.4M monthly rental income with R3.7M profit, Members loan account R22.8M indicating systematic capital extraction

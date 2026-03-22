@@ -1,5 +1,10 @@
 # EVENT_116: Bantjies Negotiates Ketoni SHA/MOI via George Group
 
+## Event Metadata
+- **Entities Involved:** Unknown
+- **Source:** Unknown
+
+
 ## Event Details
 
 | Field | Value |

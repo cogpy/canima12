@@ -1,5 +1,12 @@
 # Events Index Update — 2026-03-07
 
+## Event Metadata
+- **Date:** Unknown
+- **Type:** Unknown
+- **Entities Involved:** Unknown
+- **Source:** Unknown
+
+
 ## Source: Rynette-Bantjies Communications Analysis (1,632 messages)
 
 ---

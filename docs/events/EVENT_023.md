@@ -1,5 +1,11 @@
 # Bantjies Dismisses Audit Request (EVENT_023)
 
+## Event Metadata
+- **Type:** Unknown
+- **Entities Involved:** Unknown
+- **Source:** Unknown
+
+
 **Date:** 2025-06-10
 
 **Description:** CRITICAL EVENT: Bantjies dismisses Daniel's audit request 4 days after Daniel exposed Villa Via fraud. Audit would have discovered R5.4M stock adjustment fraud and systematic inter-company manipulation. Demonstrates consciousness of guilt and protection of fraud scheme.

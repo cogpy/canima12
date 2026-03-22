@@ -1,5 +1,6 @@
 # Shopify Platform (PLATFORM_001)
 
+**Type:** Platform  
 **Role:** shopify_ecommerce_platform
 
 ```json

@@ -1,5 +1,11 @@
 # Server Missing from Office (EVENT_056)
 
+## Event Metadata
+- **Type:** Unknown
+- **Entities Involved:** Unknown
+- **Source:** Unknown
+
+
 **Date:** 2025-04-30
 
 **Description:** Physical server hardware disappears from office premises, potential evidence destruction or data harvesting in preparation for subsequent financial crimes

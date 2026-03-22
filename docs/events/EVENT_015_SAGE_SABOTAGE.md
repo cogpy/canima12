@@ -1,5 +1,11 @@
 # Sage System Sabotage and Admin Takeover (EVENT_015)
 
+## Event Metadata
+- **Type:** Unknown
+- **Entities Involved:** Unknown
+- **Source:** Unknown
+
+
 **Date:** 2024-07-08 to 2024-07-12
 
 **Description:** Peter Faucitt and Rynette Farrar deliberately initiated a system-wide administrator switch on the Sage Business Cloud Accounting platform. Peter swore an affidavit before a Commissioner of Oaths to take over the admin role from a deceased employee (Kayla Pretorius). The switch explicitly revoked all other users' access to the company datasets. Rynette Farrar executed the switch with Sage support, which immediately broke all API integrations, including Shopify and Stock2Shop. Rynette and Peter then logged in and "edited permissions" for all users. This sabotage destroyed the automated invoice matching infrastructure. Thirteen months later, Peter demanded Daniel Faucitt produce the very invoices rendered inaccessible by this sabotage, using the failure to produce them as grounds for an *ex parte* interdict.

@@ -1,5 +1,11 @@
 # EVENT_050 (EVENT_050)
 
+## Event Metadata
+- **Type:** Unknown
+- **Entities Involved:** Unknown
+- **Source:** Unknown
+
+
 **Date:** 2025-05-15
 
 **Description:** Jax confronts Rynette about R1,035,000 owed to ReZonance and Kayla's estate

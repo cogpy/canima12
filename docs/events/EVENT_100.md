@@ -1,5 +1,10 @@
 # EVENT_100: Ongoing Contempt - Bank Cards Not Surrendered & Phone Removal
 
+## Event Metadata
+- **Entities Involved:** Unknown
+- **Source:** Unknown
+
+
 | Attribute | Details |
 |---|---|
 | **Date** | 2025-12-02 |

@@ -1,5 +1,11 @@
 # EVENT_108: Faucitt Trust Meeting Coordination — Rynette as Gatekeeper
 
+## Event Metadata
+- **Type:** Unknown
+- **Entities Involved:** Unknown
+- **Source:** Unknown
+
+
 **Event ID:** EVENT_108  
 **Date:** 2023-05-03 to 2023-05-31  
 **Category:** Trust Manipulation / Information Gatekeeping  

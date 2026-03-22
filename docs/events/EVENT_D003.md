@@ -1,5 +1,11 @@
 # ReZonance Final Balance Persistent Debt (EVENT_D003)
 
+## Event Metadata
+- **Type:** Unknown
+- **Entities Involved:** Unknown
+- **Source:** Unknown
+
+
 **Date:** 2023-02-28
 
 **Description:** Final balance showing persistent debt to ReZonance (R1,035,361.34) despite payment claims, debt continues to grow

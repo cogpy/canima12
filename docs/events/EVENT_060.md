@@ -1,5 +1,11 @@
 # Peter Files Founding Affidavit with Material Non-Disclosures (EVENT_060)
 
+## Event Metadata
+- **Type:** Unknown
+- **Entities Involved:** Unknown
+- **Source:** Unknown
+
+
 **Date:** 2025-08-13
 
 **Description:** Peter files founding affidavit containing material non-disclosures and perjury regarding email control, filed 2 days after settlement agreement

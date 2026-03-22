@@ -1,5 +1,10 @@
 # EVENT_118: Bantjies Raises Beneficial Ownership of Trusts
 
+## Event Metadata
+- **Entities Involved:** Unknown
+- **Source:** Unknown
+
+
 ## Event Details
 
 | Field | Value |

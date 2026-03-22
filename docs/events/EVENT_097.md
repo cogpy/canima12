@@ -1,5 +1,10 @@
 # EVENT_097: Second Urgent Application (Variation) Dismissed
 
+## Event Metadata
+- **Entities Involved:** Unknown
+- **Source:** Unknown
+
+
 | Attribute | Details |
 |---|---|
 | **Date** | 2025-11-04 |

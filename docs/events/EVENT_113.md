@@ -1,4 +1,9 @@
 # EVENT_113: Stylometric Analysis Reveals Identity Impersonation
+
+## Event Metadata
+- **Type:** Unknown
+- **Source:** Unknown
+
 **Date:** 2018-07-09 to 2025-07-06
 
 ## Description

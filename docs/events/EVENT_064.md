@@ -1,5 +1,11 @@
 # EVENT_064 (EVENT_064)
 
+## Event Metadata
+- **Type:** Unknown
+- **Entities Involved:** Unknown
+- **Source:** Unknown
+
+
 **Date:** 2025-06-25
 
 **Description:** RegimaSA 2019 financial statements prepared and issued by Marisca Meyer, 6+ years after period end

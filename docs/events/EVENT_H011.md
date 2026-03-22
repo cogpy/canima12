@@ -1,5 +1,11 @@
 # EVENT_H011 (EVENT_H011)
 
+## Event Metadata
+- **Type:** Unknown
+- **Entities Involved:** Unknown
+- **Source:** Unknown
+
+
 **Date:** 2017-02-24
 
 **Description:** RegimaSA (Pty) Ltd incorporated as Collections Agent

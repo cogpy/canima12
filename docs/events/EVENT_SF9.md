@@ -1,5 +1,11 @@
 # R63M Formal Demand by Ian Levitt Attorneys (EVENT_SF9)
 
+## Event Metadata
+- **Type:** Unknown
+- **Entities Involved:** Unknown
+- **Source:** Unknown
+
+
 **Date:** 2025-10-23
 
 **Description:** Attorney letter demanding R60.25M revenue + $150K platform fees, total ~R63M, 48-hour deadline (ignored)

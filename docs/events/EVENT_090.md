@@ -1,5 +1,11 @@
 # Rynette Farrar Demonstrates Sage System Control (EVENT_090)
 
+## Event Metadata
+- **Type:** Unknown
+- **Entities Involved:** Unknown
+- **Source:** Unknown
+
+
 **Date:** 2020-08-15
 
 **Description:** Screenshot evidence shows Rynette with control of Sage accounting system and access to Pete@regima.com email

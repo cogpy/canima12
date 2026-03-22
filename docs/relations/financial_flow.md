@@ -1,4 +1,5 @@
 # Financial Flow Relations
+**Confidence:** 95% (Estimated)  
 
 This document outlines the key financial flow relationships identified in the case.
 

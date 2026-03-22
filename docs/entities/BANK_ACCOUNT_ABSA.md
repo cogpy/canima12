@@ -1,6 +1,6 @@
 # BANK_ACCOUNT_ABSA: Suspected Fraudulent ABSA Accounts
 
-**Type:** Bank Account (Group)
+**Type:** Bank Account
 
 ## Role in Case
 

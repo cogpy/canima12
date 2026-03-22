@@ -1,5 +1,11 @@
 # R5.4M Stock Disappears from Strategic Logistics (EVENT_024)
 
+## Event Metadata
+- **Type:** Unknown
+- **Entities Involved:** Unknown
+- **Source:** Unknown
+
+
 **Date:** 2025-03-01
 
 **Description:** R5.4M worth of stock physically disappears from Strategic Logistics warehouse. Represents 46% of annual sales, 10x historical adjustment rate. Same stock type later supplied by Adderory (Rynette's son (Darren Dennis Farrar)'s company) to RegimA.

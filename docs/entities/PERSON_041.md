@@ -1,4 +1,5 @@
 # PERSON_041: Kent Rault
+**Type:** Person  
 | Attribute | Details |
 |---|---|
 | **Entity Type** | Person |

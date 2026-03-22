@@ -1,5 +1,11 @@
 # Cover Letter and Draft Affidavit to Elliott Attorneys (EVENT_133)
 
+## Event Metadata
+- **Type:** Unknown
+- **Entities Involved:** Unknown
+- **Source:** Unknown
+
+
 **Date:** 2026-02-19
 
 **Description:** Daniel Faucitt sent a cover letter (ND-02) and draft affidavit (ND-04) to Elliott Attorneys, inviting constructive feedback on the Entity Answering Affidavit before formal filing. This demonstrates good faith and a collaborative approach. The cover letter references RWD/NOTICE/001 regarding identity misappropriation concerns and notes ENS Africa's withdrawal as attorneys on 24 September 2025.

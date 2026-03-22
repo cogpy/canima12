@@ -1,5 +1,11 @@
 # Bantjies R18.75M (Ketoni debt to FFT) Debt to Faucitt Family Trust (EVENT_089)
 
+## Event Metadata
+- **Type:** Unknown
+- **Entities Involved:** Unknown
+- **Source:** Unknown
+
+
 **Date:** 2020-02-28
 
 **Description:** Documentation of Ketoni's R18.75M debt to FFT to Faucitt Family Trust, creating massive conflict of interest

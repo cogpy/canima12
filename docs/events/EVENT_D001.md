@@ -1,5 +1,11 @@
 # ReZonance Opening Balance Debt (EVENT_D001)
 
+## Event Metadata
+- **Type:** Unknown
+- **Entities Involved:** Unknown
+- **Source:** Unknown
+
+
 **Date:** 2022-03-01
 
 **Description:** Opening balance showing substantial accumulated debt to ReZonance (R971,587.93), evidence of unpaid services over extended period

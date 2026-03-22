@@ -1,5 +1,11 @@
 # EVENT_106: Villa Via Wrong Company Registration Number Since 2014
 
+## Event Metadata
+- **Type:** Unknown
+- **Entities Involved:** Unknown
+- **Source:** Unknown
+
+
 **Event ID:** EVENT_106  
 **Date:** 2022-01-12 (discovery) / 2014 onwards (error period)  
 **Category:** Professional Negligence / Regulatory Non-Compliance  

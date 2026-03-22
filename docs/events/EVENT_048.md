@@ -1,5 +1,11 @@
 # EVENT_048 (EVENT_048)
 
+## Event Metadata
+- **Type:** Unknown
+- **Entities Involved:** Unknown
+- **Source:** Unknown
+
+
 **Date:** 2020-08-13
 
 **Description:** Bantjies sends trial balance email to finalize financial statements

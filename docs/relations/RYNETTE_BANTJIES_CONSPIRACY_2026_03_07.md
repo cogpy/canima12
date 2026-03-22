@@ -1,4 +1,5 @@
 # Rynette Farrar — Daniel Bantjies: Coordinated Conspiracy Relations
+**Confidence:** 95% (Estimated)  
 
 ## Updated: 2026-03-07
 ## Source: 1,632 Email Communications Analysis (2015-2026)

@@ -1,5 +1,11 @@
 # Trust Asset Misappropriation (EVENT_018)
 
+## Event Metadata
+- **Type:** Unknown
+- **Entities Involved:** Unknown
+- **Source:** Unknown
+
+
 **Date:** 2025-07-25
 
 **Description:** Trust property theft. Documented theft of trust property and breach of fiduciary duty

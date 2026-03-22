@@ -1,5 +1,11 @@
 # Rynette Dual Account Access Discovered (EVENT_SF2A)
 
+## Event Metadata
+- **Type:** Unknown
+- **Entities Involved:** Unknown
+- **Source:** Unknown
+
+
 **Date:** 2025-06-20
 
 **Description:** Discovery of Rynette's dual account access in Sage (Pete@regima.com AND rynette@regima.zone)

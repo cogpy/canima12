@@ -1,5 +1,11 @@
 # RegimA SA Revenue Diversion Started (EVENT_001)
 
+## Event Metadata
+- **Type:** Unknown
+- **Entities Involved:** Unknown
+- **Source:** Unknown
+
+
 **Date:** 2025-03-01
 
 **Description:** Diversion of revenue streams from RegimA SA initiated, marking the beginning of systematic revenue hijacking

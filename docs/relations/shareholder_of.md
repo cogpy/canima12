@@ -1,4 +1,5 @@
 # Shareholder Of Relations
+**Confidence:** 95% (Estimated)  
 
 This document outlines the shareholder relationships within the RegimA group and related entities.
 

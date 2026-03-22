@@ -1,5 +1,11 @@
 # Financial Year Commencement Villa Via (EVENT_H004)
 
+## Event Metadata
+- **Type:** Unknown
+- **Entities Involved:** Unknown
+- **Source:** Unknown
+
+
 **Date:** 2019-05-01
 
 **Description:** Villa Via operates on different financial year, creating complexity in group reporting and enabling profit extraction concealment

@@ -1,5 +1,6 @@
 # Daniel James Faucitt (PERSON_005)
 
+**Type:** Person  
 **Role:** second_respondent
 
 ```json

@@ -1,5 +1,11 @@
 # Coordinated Fund Diversions (EVENT_015)
 
+## Event Metadata
+- **Type:** Unknown
+- **Entities Involved:** Unknown
+- **Source:** Unknown
+
+
 **Date:** 2025-06-30
 
 **Description:** Complex financial flow manipulation. Evidence of sophisticated financial crime coordination. Fund diversions targeted revenue from infrastructure continuously funded by RegimA Zone Ltd

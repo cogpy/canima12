@@ -1,5 +1,6 @@
 # Jacqueline Faucitt (PERSON_004)
 
+**Type:** Person  
 **Role:** first_respondent
 
 ```json

@@ -1,5 +1,6 @@
 # Rynette Farrar (PERSON_002)
 
+**Type:** Person  
 **Role:** Co-Conspirator (Operational Controller)
 **Last Updated:** 2026-02-18
 

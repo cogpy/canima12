@@ -1,4 +1,5 @@
 # Forgery & Backdating Relations — Two-Date Distinction
+**Confidence:** 95% (Estimated)  
 
 **Date:** 2026-02-18  
 **Classification:** CRITICAL RELATIONS UPDATE

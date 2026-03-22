@@ -1,5 +1,11 @@
 # Kayla Pretorius Estate Documentation Initiated (EVENT_086)
 
+## Event Metadata
+- **Type:** Unknown
+- **Entities Involved:** Unknown
+- **Source:** Unknown
+
+
 **Date:** 2023-08-01
 
 **Description:** Estate documentation initiated for Kayla Pretorius following her murder on 13 July 2023. Estate includes R1,035,000 debt owed by RegimA Skin Treatments to Rezonance. Email account became estate property.

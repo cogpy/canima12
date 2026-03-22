@@ -1,5 +1,10 @@
 # EVENT_102: Void Ab Initio Evidence Submitted to Pottas Attorneys
 
+## Event Metadata
+- **Entities Involved:** Unknown
+- **Source:** Unknown
+
+
 **Date:** 2026-02-04
 **Type:** Legal / Evidence Submission
 **Significance:** CRITICAL

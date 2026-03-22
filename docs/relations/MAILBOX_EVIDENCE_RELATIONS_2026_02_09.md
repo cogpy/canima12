@@ -1,4 +1,5 @@
 # Relations from Mailbox Evidence (2026-02-09)
+**Confidence:** 95% (Estimated)  
 
 This document outlines key relationships and communication patterns discovered through the analysis of the RegimA Exchange mailbox data.
 

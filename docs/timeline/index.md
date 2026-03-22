@@ -50,7 +50,7 @@ This phase documents the application of the LEX-SIM-NN differentiable legal simu
 | 2026-03-10 | **Evidence Attribution Analysis** (EVENT_ATTR_001) | Gradient-based attribution: Relational/Intentional strongest, Testimonial weakest |
 | 2026-03-10 | **All Filings Updated to v10** | LEX-SIM-NN scores and forensic EML cross-references added to all filings |
 
-### Phase 8: Primary Source Document Integration (March 2026) — NEW
+### [Phase 8: Primary Source Document Integration (March 2026)](./phase8_primary_source.md)
 
 This phase documents the integration of 9 primary source documents from the Ketoni/FFT Trust corpus, the discovery of the Bantjies J417 perjury, and the correction of the financial motive from R18.685M to R28.73M.
 

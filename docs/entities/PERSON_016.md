@@ -1,6 +1,6 @@
 # PERSON_016: Nondu Motlhala
 
-**Type:** PERSON  
+**Type:** Person  
 **Role:** FNB Representative  
 **Organization:** FNB
 

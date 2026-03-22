@@ -1,5 +1,11 @@
 # Xenophontos Advises Peter on Ketoni Agreement (EVENT_018)
 
+## Event Metadata
+- **Type:** Unknown
+- **Entities Involved:** Unknown
+- **Source:** Unknown
+
+
 **Date:** 2025-01-24
 
 **Description:** Nicos Xenophontos (the same attorney who commissioned Peter's Sage sabotage affidavit in July 2024) emailed Peter Faucitt regarding the "SHAREHOLDERS AGREEMENT BETWEEN KEVIN DERRICK TRUST, FAUCITT FAMILY TRUST AND KETONI INVESTMENT HOLDINGS PROPRIETARY LIMITED". Xenophontos requested "missing pages" of the agreement in order to "advise you accordingly." This proves that the same attorney who facilitated the accounting system takeover was also advising Peter on the R18.75M Ketoni payout structure.

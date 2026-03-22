@@ -1,5 +1,11 @@
 # Bantjies Trial Balance Email Distribution (EVENT_H008)
 
+## Event Metadata
+- **Type:** Unknown
+- **Entities Involved:** Unknown
+- **Source:** Unknown
+
+
 **Date:** 2020-08-13
 
 **Description:** Email from Danie Bantjies with final trial balances to Bernadine Wright, Jax, Peter, Rynette, Daniel for financial statement finalization meeting

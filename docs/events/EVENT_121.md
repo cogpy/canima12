@@ -1,5 +1,11 @@
 # EVENT_121: Discovery of 100+ Banking Detail Change Emails
 
+## Event Metadata
+- **Type:** Unknown
+- **Entities Involved:** Unknown
+- **Source:** Unknown
+
+
 **Date:** 2025-06-18 to 2025-07-30
 
 ## Description

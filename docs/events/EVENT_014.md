@@ -1,5 +1,11 @@
 # Email Impersonation Pattern and Domain Switch Instruction (EVENT_014)
 
+## Event Metadata
+- **Type:** Unknown
+- **Entities Involved:** Unknown
+- **Source:** Unknown
+
+
 **Date:** 2025-06-20
 
 **Description:** R3.1M+ losses enabled by email control. Pattern of impersonation supporting criminal conspiracy charges. Email control facilitated fraud related to platform paid by Dan's UK company since July 2023. Email from Gee in Aug explained to Jax that she was instructed to send out 'don't use regima.zone only use regimaskin.co.za email'.

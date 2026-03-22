@@ -1,5 +1,10 @@
 # EVENT_115: Rynette Obtains VAT Portal Login Credentials
 
+## Event Metadata
+- **Entities Involved:** Unknown
+- **Source:** Unknown
+
+
 ## Event Details
 
 | Field | Value |

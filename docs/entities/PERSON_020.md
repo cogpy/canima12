@@ -1,4 +1,5 @@
 # Linda Kruger (RegimA Employee) (PERSON_LINDA)
+**Type:** Person  
 **Role:** Office Employee (Sales/Accounts), Active Participant in Payment Redirection  
 **Full Name:** Linda Kruger  
 **Email:** linda@regima.zone  

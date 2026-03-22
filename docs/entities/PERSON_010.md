@@ -1,5 +1,6 @@
 # Bernadine Wright (PERSON_010)
 
+**Type:** Person  
 **Role:** financial_professional
 
 ```json

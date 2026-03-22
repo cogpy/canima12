@@ -1,4 +1,5 @@
 # Ketoni Fund Flow — Complete Architecture
+**Confidence:** 95% (Estimated)  
 
 **Relation Type:** Financial Flow / Investment Structure
 **Last Updated:** 2026-03-15

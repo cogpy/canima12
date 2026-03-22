@@ -1,4 +1,5 @@
 # Nicos Xenophontos (PERSON_XENOPHONTOS)
+**Type:** Person  
 
 ## Entity Profile
 

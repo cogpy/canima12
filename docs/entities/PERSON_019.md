@@ -1,4 +1,5 @@
 # PERSON_019: Oliver ("Arthur")
+**Type:** Person  
 
 | Attribute | Details |
 |---|---|

@@ -1,4 +1,9 @@
 # EVENT_111: SARS eFiling Impersonation
+
+## Event Metadata
+- **Type:** Unknown
+- **Source:** Unknown
+
 **Date:** 2024-04-26
 
 ## Description

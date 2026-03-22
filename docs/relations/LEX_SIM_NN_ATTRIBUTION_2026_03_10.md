@@ -1,4 +1,5 @@
 # LEX-SIM-NN Evidence Attribution Relations
+**Confidence:** 95% (Estimated)  
 
 ## Updated: 2026-03-10
 

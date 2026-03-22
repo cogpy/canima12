@@ -1,5 +1,6 @@
 # Linda Kruger (PERSON_006)
 
+**Type:** Person  
 **Role:** Employee (Bookkeeper / Sales-Accounts)  
 **Full Name:** Linda Kruger  
 **Email:** linda@regima.zone  

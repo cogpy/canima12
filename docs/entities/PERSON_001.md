@@ -1,5 +1,6 @@
 # Peter Andrew Faucitt (PERSON_001)
 
+**Type:** Person  
 **Role:** Primary Perpetrator  
 **Last Updated:** 2026-02-04
 

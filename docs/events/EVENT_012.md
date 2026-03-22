@@ -1,5 +1,11 @@
 # Secret Card Cancellations (EVENT_012)
 
+## Event Metadata
+- **Type:** Unknown
+- **Entities Involved:** Unknown
+- **Source:** Unknown
+
+
 **Date:** 2025-06-07
 
 **Description:** Secret cancellation of cards to sabotage Daniel's ability to pay creditors. Rynette may have opened 8 ABSA accounts using Daniel's stolen card.

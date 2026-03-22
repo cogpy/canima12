@@ -1,5 +1,11 @@
 # False Payment Claim #2 to ReZonance (EVENT_D005)
 
+## Event Metadata
+- **Type:** Unknown
+- **Entities Involved:** Unknown
+- **Source:** Unknown
+
+
 **Date:** 2023-09-20
 
 **Description:** Additional false payment claims totaling R765,361.34 to ReZonance, escalation of fraudulent payment claims

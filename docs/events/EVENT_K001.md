@@ -1,5 +1,11 @@
 # Faucitt Family Trust Invests in Ketoni Investment Holdings (EVENT_K001)
 
+## Event Metadata
+- **Type:** Unknown
+- **Entities Involved:** Unknown
+- **Source:** Unknown
+
+
 **Date:** 2023-04-24
 
 **Description:** FFT acquires 5,000 A-Ordinary shares in Ketoni Investment Holdings with ZAR 18.75M payout option exercisable in May 2026. This investment establishes the central financial motive for all subsequent trust actions.

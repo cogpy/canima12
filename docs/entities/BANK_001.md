@@ -1,5 +1,6 @@
 # ABSA Accounts (8 suspected fraudulent accounts) (BANK_001)
 
+**Type:** Bank Account  
 **Role:** allegedly_fraudulently_opened
 
 ```json

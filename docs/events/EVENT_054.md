@@ -1,5 +1,11 @@
 # Chantal Delivers Letter About Kayla Estate Finalization (EVENT_054)
 
+## Event Metadata
+- **Type:** Unknown
+- **Entities Involved:** Unknown
+- **Source:** Unknown
+
+
 **Date:** 2025-01-15
 
 **Description:** Chantal delivers letter to office regarding Kayla estate finalization, indicating ongoing exploitation of deceased victim's estate

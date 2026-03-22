@@ -1,5 +1,6 @@
 # Chantal (PERSON_011)
 
+**Type:** Person  
 **Role:** estate_related_party
 
 ```json

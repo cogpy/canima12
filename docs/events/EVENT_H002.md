@@ -1,5 +1,11 @@
 # ReZonance Service Expansion (EVENT_H002)
 
+## Event Metadata
+- **Type:** Unknown
+- **Entities Involved:** Unknown
+- **Source:** Unknown
+
+
 **Date:** 2017-09-30
 
 **Description:** Major service expansion with multiple enterprise services (R100,000+), substantial increase in service provision and financial exposure

@@ -1,5 +1,11 @@
 # Settlement Agreement Signed / Main Trustee Coordination (EVENT_059)
 
+## Event Metadata
+- **Type:** Unknown
+- **Entities Involved:** Unknown
+- **Source:** Unknown
+
+
 **Date:** 2025-08-11  
 **Description:** Settlement agreement signed on the same day Rynette emails the backdated "Main Trustee" appointment to Bantjies — 2-3 days before interdict filing, demonstrating strategic coordination.
 

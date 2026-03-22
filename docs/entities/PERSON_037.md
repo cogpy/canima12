@@ -1,6 +1,7 @@
 # PERSON_037 - Kent (Unknown Surname)
 
 **Entity Type:** Person  
+**Type:** Person  
 **Role:** Sales/Order Processor  
 **Agent Type:** Operational Staff  
 **Email:** kent@regima.zone

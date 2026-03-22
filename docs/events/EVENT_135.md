@@ -1,5 +1,11 @@
 # R10.9M Mass Extraction from Entity Accounts (EVENT_135)
 
+## Event Metadata
+- **Type:** Unknown
+- **Entities Involved:** Unknown
+- **Source:** Unknown
+
+
 **Date:** 2025-09-03 to 2025-09-11
 
 **Description:** Within 8 days of the interdict being granted on 19 August 2025, a total of R10,924,131.18 was extracted from the four corporate entity accounts. The Entity Answering Affidavit (ND-01) documents the specific amounts: R5,164,131.18 from RWD (3 Sep), R3,090,000 from RST (11 Sep), R1,730,000 from VVA (11 Sep), R640,000 from SLG (11 Sep), and R300,000 from VVA to ENS Attorneys (26 Aug). The speed and coordination of the extraction suggests it was pre-planned, awaiting only the legal cover of the court order.

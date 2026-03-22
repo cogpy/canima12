@@ -1,5 +1,11 @@
 # EVENT_047 (EVENT_047)
 
+## Event Metadata
+- **Type:** Unknown
+- **Entities Involved:** Unknown
+- **Source:** Unknown
+
+
 **Date:** 2025-06-10
 
 **Description:** Bantjies dismisses Daniel's audit request 4 days after fraud exposure

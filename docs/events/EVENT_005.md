@@ -1,5 +1,11 @@
 # Bank Account Change Letter for RegimA Worldwide (EVENT_005)
 
+## Event Metadata
+- **Type:** Unknown
+- **Entities Involved:** Unknown
+- **Source:** Unknown
+
+
 **Date:** 2025-04-14
 
 **Description:** Setup for R3.14M+ revenue theft. First documented act in coordinated scheme. Attempted redirect of payments from Dan's UK-funded infrastructure

@@ -1,5 +1,11 @@
 # Adderory Companies Registration - Pre-Planning Phase (EVENT_H009)
 
+## Event Metadata
+- **Type:** Unknown
+- **Entities Involved:** Unknown
+- **Source:** Unknown
+
+
 **Date:** 2021-04-01
 
 **Description:** Rynette's son, Darren Dennis Farrar, registered Adderory (Pty) Ltd and Adderory Skin (Pty) Ltd, establishing competing business infrastructure 4 years before fraud escalation. Demonstrates long-term conspiracy planning.

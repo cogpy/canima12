@@ -1,5 +1,11 @@
 # EVENT_049 (EVENT_049)
 
+## Event Metadata
+- **Type:** Unknown
+- **Entities Involved:** Unknown
+- **Source:** Unknown
+
+
 **Date:** 2025-08-13
 
 **Description:** Bantjies certifies Peter's affidavit as Commissioner of Oaths despite material omissions

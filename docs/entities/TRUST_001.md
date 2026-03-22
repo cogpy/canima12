@@ -1,5 +1,6 @@
 # Faucitt Family Trust (TRUST_001)
 
+**Type:** Trust  
 **Role:** family_trust_structure_manipulated
 **Last Updated:** 2026-03-15 (v15)
 

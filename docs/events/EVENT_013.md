@@ -1,5 +1,11 @@
 # Systematic Trust Violations (EVENT_013)
 
+## Event Metadata
+- **Type:** Unknown
+- **Entities Involved:** Unknown
+- **Source:** Unknown
+
+
 **Date:** 2025-06-18
 
 **Description:** Trustee misconduct and self-dealing. Clear evidence of trustee misconduct and self-dealing

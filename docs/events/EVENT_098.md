@@ -1,5 +1,10 @@
 # EVENT_098: Jacqueline Blocks Stock Removal from Storage (Contempt Act 1)
 
+## Event Metadata
+- **Entities Involved:** Unknown
+- **Source:** Unknown
+
+
 | Attribute | Details |
 |---|---|
 | **Date** | 2026-01-10 |

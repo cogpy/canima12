@@ -1,5 +1,6 @@
 # Nick Xenophontos (PERSON_045)
 
+**Type:** Person  
 **Role:** Attorney — FFT Legal Advisor (Ketoni Matter)
 **Last Updated:** 2026-03-15
 

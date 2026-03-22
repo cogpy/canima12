@@ -1,5 +1,11 @@
 # Jacqueline Prevents Stock Removal at Warehouse (EVENT_134)
 
+## Event Metadata
+- **Type:** Unknown
+- **Entities Involved:** Unknown
+- **Source:** Unknown
+
+
 **Date:** 2026-01-10
 
 **Description:** Jacqueline Faucitt allegedly prevented Peter Faucitt and warehouse manager Oliver (accompanied by a bodyguard from Risk International) from removing stock from the warehouse. This incident forms the primary basis for the contempt of court application (ND-07). The Applicant alleges this constitutes a breach of the court order of 19 August 2025.

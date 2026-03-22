@@ -1,5 +1,11 @@
 # R900,000 Unauthorized Transfers from RegimA SA (EVENT_022)
 
+## Event Metadata
+- **Type:** Unknown
+- **Entities Involved:** Unknown
+- **Source:** Unknown
+
+
 **Date:** 2025-02-14
 
 **Description:** Peter made unauthorized transfers of R900,000 from RegimA SA without Daniel's authority as co-director

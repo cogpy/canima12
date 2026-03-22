@@ -1,5 +1,10 @@
 # EVENT_174: SARS eFiling Audit Logs Confirm Unauthorized Access
 
+## Event Metadata
+- **Entities Involved:** Unknown
+- **Source:** Unknown
+
+
 **Date:** 2024-07-15
 **Type:** Technical Evidence / Cybercrime
 **Status:** Verified

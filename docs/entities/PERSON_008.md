@@ -1,5 +1,6 @@
 # Kayla (PERSON_008)
 
+**Type:** Person  
 **Role:** estate_creditor
 
 ```json

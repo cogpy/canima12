@@ -1,5 +1,11 @@
 # Rule 7(1) and Rule 30/30A Notices Filed (EVENT_132)
 
+## Event Metadata
+- **Type:** Unknown
+- **Entities Involved:** Unknown
+- **Source:** Unknown
+
+
 **Date:** 2026-03-03
 
 **Description:** Elliott Attorneys filed two procedural notices on behalf of the Applicant. The Rule 7(1) Notice disputes Daniel Faucitt's authority to act on behalf of the 1st, 3rd-6th Respondents, demanding board resolutions and powers of attorney. The Rule 30/30A Notice alleges the Entity Answering Affidavit is an irregular step because it is unsigned, not commissioned, drafted in the name of juristic entities, lacks board resolutions, and improperly combines a rescission application with a contempt opposition. A 10-day deadline is imposed to remedy the defects.

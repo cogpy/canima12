@@ -1,5 +1,6 @@
 # Darren Dennis Farrar (PERSON_003)
 
+**Type:** Person  
 **Role:** co_conspirator_family_member (Rynette Farrar's son, Director of Addarory)
 
 ```json

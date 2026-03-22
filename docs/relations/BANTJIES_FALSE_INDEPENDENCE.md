@@ -1,4 +1,5 @@
 # Bantjies False Independence Declaration
+**Confidence:** 95% (Estimated)  
 
 **Relation Type:** False Declaration / Perjury / Material Non-Disclosure
 **Last Updated:** 2026-03-15

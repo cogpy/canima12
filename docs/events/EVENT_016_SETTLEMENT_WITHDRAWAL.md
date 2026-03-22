@@ -1,5 +1,11 @@
 # Notice of Withdrawal from Settlement Agreements (EVENT_016)
 
+## Event Metadata
+- **Type:** Unknown
+- **Entities Involved:** Unknown
+- **Source:** Unknown
+
+
 **Date:** 2025-09-22
 
 **Description:** Daniel and Jacqueline Faucitt formally withdrew from the settlement agreements signed on 18 September 2025. The withdrawal was served on ENS Africa and Elliott Attorneys. The withdrawal cited seven grounds, including immediate fundamental breach by Peter Faucitt (who physically prevented Jacqueline from performing POPIA duties and assaulted an employee the day after signing), material non-disclosure (concealing the transfer of R12,330,131.18 from supposedly protected accounts on 11 September 2025, seven days before mediation), duress, absence of legitimate disputes, impossible terms, procedural irregularities, and illegality.

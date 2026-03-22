@@ -1,5 +1,10 @@
 # EVENT_093: Peter writes fraud letter to FNB
 
+## Event Metadata
+- **Type:** Unknown
+- **Source:** Unknown
+
+
 **Date:** June 17, 2025  
 **Category:** fraud_allegation  
 **Entities:** PERSON_001 (Peter Faucitt), PERSON_016 (Nondu Motlhala), BANK_001 (FNB), ORG_002 (RegimA Worldwide Distribution)

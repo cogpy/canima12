@@ -1,6 +1,7 @@
 # PERSON_038 - EL (Unknown Surname)
 
 **Entity Type:** Person  
+**Type:** Person  
 **Role:** Sales/Order Processor  
 **Agent Type:** Operational Staff  
 **Email:** el@regimazone

@@ -1,5 +1,11 @@
 # First Structured Payment to ReZonance (EVENT_D002)
 
+## Event Metadata
+- **Type:** Unknown
+- **Entities Involved:** Unknown
+- **Source:** Unknown
+
+
 **Date:** 2022-07-11
 
 **Description:** First structured payment to ReZonance (R40,000), attempt to manage debt through partial payments

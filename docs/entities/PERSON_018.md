@@ -1,6 +1,6 @@
 # PERSON_018: Michelle Habig
 
-**Type:** PERSON  
+**Type:** Person  
 **Role:** FNB Relationship Analyst  
 **Organization:** FNB Commercial  
 **Contact:** mhabig@fnb.co.za, +27 87 335 6829

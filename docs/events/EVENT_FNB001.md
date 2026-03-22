@@ -1,5 +1,11 @@
 # EVENT_FNB001: Peter's FNB Fraud Letter
 
+## Event Metadata
+- **Type:** Unknown
+- **Entities Involved:** Unknown
+- **Source:** Unknown
+
+
 **Date:** 2025-06-17  
 **T-Months:** T-11 (11 months before May 2026 payout)  
 **Evidence ID:** SF10 / PAF_FNB_FRAUD_LETTER_2025_06_17

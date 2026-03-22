@@ -1,5 +1,10 @@
 # EVENT_096: Notice of Withdrawal from Settlement Agreements (Signed Under Duress)
 
+## Event Metadata
+- **Entities Involved:** Unknown
+- **Source:** Unknown
+
+
 | Attribute | Details |
 |---|---|
 | **Date** | 2025-09-22 |

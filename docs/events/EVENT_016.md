@@ -1,5 +1,11 @@
 # Warehouse POPI Violations (EVENT_016)
 
+## Event Metadata
+- **Type:** Unknown
+- **Entities Involved:** Unknown
+- **Source:** Unknown
+
+
 **Date:** 2025-07-08
 
 **Description:** Complete operational shutdown. Documented evidence of systematic business destruction. Shutdown of operations for platform continuously funded by RegimA Zone Ltd (28 months)

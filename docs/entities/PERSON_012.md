@@ -1,5 +1,6 @@
 # Marisca Meyer (PERSON_012)
 
+**Type:** Person  
 **Role:** Professional Accountant (SA)
 
 ```json

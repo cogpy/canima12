@@ -1,5 +1,10 @@
 # EVENT_095: Mediation Between Parties
 
+## Event Metadata
+- **Entities Involved:** Unknown
+- **Source:** Unknown
+
+
 | Attribute | Details |
 |---|---|
 | **Date** | 2025-09-18 |

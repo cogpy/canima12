@@ -1,5 +1,11 @@
 # R5.4M Stock Adjustment Processed Without Investigation (EVENT_025)
 
+## Event Metadata
+- **Type:** Unknown
+- **Entities Involved:** Unknown
+- **Source:** Unknown
+
+
 **Date:** 2025-03-15
 
 **Description:** R5.4M written off as simple 'stock adjustment' without investigation, supporting documentation, or proper authorization. Bantjies as accountant should have investigated 46% loss but did not, demonstrating complicity.

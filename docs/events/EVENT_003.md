@@ -1,5 +1,11 @@
 # Two Years Unallocated Expenses Dumped (EVENT_003)
 
+## Event Metadata
+- **Type:** Unknown
+- **Entities Involved:** Unknown
+- **Source:** Unknown
+
+
 **Date:** 2025-03-30
 
 **Description:** Rynette and Peter dumped two years' worth of unallocated expenses from all companies into RegimA Worldwide and pressured Daniel to sign off within 12 hours for SARS VAT & Annual Accounts. Daniel used time until June 6th to finalize reports and uncover fraud.

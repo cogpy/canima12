@@ -1,5 +1,11 @@
 # ENS Africa Acknowledges Criminal Matters Then Suppresses (EVENT_061)
 
+## Event Metadata
+- **Type:** Unknown
+- **Entities Involved:** Unknown
+- **Source:** Unknown
+
+
 **Date:** 2025-08-29
 
 **Description:** ENS Africa acknowledges receipt of criminal matters information with 'Received, thanks Daniel' email, then suppresses this information from Court

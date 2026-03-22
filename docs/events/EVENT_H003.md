@@ -1,5 +1,11 @@
 # Financial Year Commencement RST/SLG (EVENT_H003)
 
+## Event Metadata
+- **Type:** Unknown
+- **Entities Involved:** Unknown
+- **Source:** Unknown
+
+
 **Date:** 2019-03-01
 
 **Description:** Financial year commencement for RegimA Skin Treatments and Strategic Logistics, beginning of period covered by trial balance evidence

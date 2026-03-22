@@ -1,6 +1,6 @@
 # PERSON_017: Mpumi Netshipale
 
-**Type:** PERSON  
+**Type:** Person  
 **Role:** FNB Business Relationship Manager  
 **Organization:** FNB Commercial Banking, Gauteng East Mid Touch  
 **Contact:** Mpumi.Netshipale@fnb.co.za, +27 87 030 0801

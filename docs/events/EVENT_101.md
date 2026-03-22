@@ -1,5 +1,10 @@
 # EVENT_101: Contempt of Court Application Filed
 
+## Event Metadata
+- **Entities Involved:** Unknown
+- **Source:** Unknown
+
+
 | Attribute | Details |
 |---|---|
 | **Date** | 2026-02-04 |

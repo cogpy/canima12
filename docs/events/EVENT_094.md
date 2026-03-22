@@ -1,5 +1,10 @@
 # EVENT_094: FNB correctly refuses Peter's attempt to weaponize bank against directors
 
+## Event Metadata
+- **Type:** Unknown
+- **Source:** Unknown
+
+
 **Date:** June 18, 2025  
 **Category:** institutional_obstruction  
 **Entities:** PERSON_017 (Mpumi Netshipale), PERSON_018 (Michelle Habig), PERSON_016 (Nondu Motlhala), BANK_001 (FNB), ORG_002 (RegimA Worldwide Distribution)

@@ -1,5 +1,6 @@
 # Gee (PERSON_009)
 
+**Type:** Person  
 **Role:** email_sender_witness
 
 ```json

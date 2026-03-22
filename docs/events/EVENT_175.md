@@ -1,5 +1,10 @@
 # EVENT_175: Stock2Shop API Access Records Confirm Severance Timeline
 
+## Event Metadata
+- **Entities Involved:** Unknown
+- **Source:** Unknown
+
+
 **Date:** 2024-07-08
 **Type:** Technical Evidence / Cybercrime
 **Status:** Verified

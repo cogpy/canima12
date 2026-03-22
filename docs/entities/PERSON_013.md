@@ -1,5 +1,6 @@
 # Kayla Pretorius (PERSON_013)
 
+**Type:** Person  
 **Role:** estate_executor_email_account_holder
 
 ```json

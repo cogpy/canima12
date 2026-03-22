@@ -1,6 +1,6 @@
 # Ketoni Standard Bank Account (BANK_ACCOUNT_005)
 
-**Type:** Standard Bank Business Account
+**Type:** Bank Account
 **Last Updated:** 2026-03-15
 
 ## Account Details

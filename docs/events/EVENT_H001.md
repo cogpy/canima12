@@ -1,5 +1,11 @@
 # First ReZonance Invoice to RST (EVENT_H001)
 
+## Event Metadata
+- **Type:** Unknown
+- **Entities Involved:** Unknown
+- **Source:** Unknown
+
+
 **Date:** 2017-06-30
 
 **Description:** First invoice from ReZonance to RegimA Skin Treatments for Google GSuite services (R250.80), marking the beginning of business relationship

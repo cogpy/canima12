@@ -1,5 +1,11 @@
 # R5.2M SLG Stock Missing & Large Invoice (EVENT_028)
 
+## Event Metadata
+- **Type:** Unknown
+- **Entities Involved:** Unknown
+- **Source:** Unknown
+
+
 **Date:** 2025-02-25
 
 **Description:** R5.2M SLG stock missing with simultaneous R5.2M invoice from SLG to RST. Stock physically disappeared, same type later supplied by Adderory to RegimA. Systematic asset stripping begins.

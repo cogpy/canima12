@@ -3,7 +3,8 @@
 **Entity ID:** `PERSON_015`
 
 - **Entity Type:** person
-- **Role:** Estate executor correspondent
+- **Type:** Person  
+**Role:** Estate executor correspondent
 - **Involvement Events:** 1
 - **Primary Actions:** 
   - estate_correspondence

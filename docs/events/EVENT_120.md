@@ -1,5 +1,10 @@
 # EVENT_120: Rynette Provides Proof of Address for Bantjies Trustee Appointment
 
+## Event Metadata
+- **Entities Involved:** Unknown
+- **Source:** Unknown
+
+
 ## Event Details
 
 | Field | Value |

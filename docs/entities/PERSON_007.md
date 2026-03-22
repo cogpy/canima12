@@ -1,4 +1,5 @@
 # Daniel Jacobus Bantjies (PERSON_007)
+**Type:** Person  
 **Role:** Strategic Appointee / FFT Trustee / Accountant / CFO
 **Last Updated:** 2026-02-18
 

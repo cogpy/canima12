@@ -1,5 +1,11 @@
 # Sage Subscription Expired - Access Obstruction (EVENT_SF2B)
 
+## Event Metadata
+- **Type:** Unknown
+- **Entities Involved:** Unknown
+- **Source:** Unknown
+
+
 **Date:** 2025-07-23
 
 **Description:** Sage accounting subscription expired, Rynette controls reactivation, all parties denied access for over 1 month

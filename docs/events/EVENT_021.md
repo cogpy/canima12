@@ -1,5 +1,11 @@
 # Accounts Emptied (EVENT_021)
 
+## Event Metadata
+- **Type:** Unknown
+- **Entities Involved:** Unknown
+- **Source:** Unknown
+
+
 **Date:** 2025-09-11
 
 **Description:** Accounts emptied, potentially because Daniel was still managing to pay creditors despite 6 months of sabotage

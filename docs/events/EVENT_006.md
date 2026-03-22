@@ -1,5 +1,11 @@
 # Unauthorized Beneficiary Changes (EVENT_006)
 
+## Event Metadata
+- **Type:** Unknown
+- **Entities Involved:** Unknown
+- **Source:** Unknown
+
+
 **Date:** 2025-05-02
 
 **Description:** Exclusion of legitimate beneficiaries. Direct violation of trust obligations and beneficiary rights

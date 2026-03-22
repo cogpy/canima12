@@ -1,5 +1,11 @@
 # Cloud IT Systems Removal Order (EVENT_029)
 
+## Event Metadata
+- **Type:** Unknown
+- **Entities Involved:** Unknown
+- **Source:** Unknown
+
+
 **Date:** 2025-04-22
 
 **Description:** Peter ordered Cloud IT systems removal, seizing infrastructure control from legitimate operators.

@@ -1,4 +1,5 @@
 # PERSON_040: Clare Payne
+**Type:** Person  
 | Attribute | Details |
 |---|---|
 | **Entity Type** | Person |

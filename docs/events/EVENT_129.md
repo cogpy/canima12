@@ -1,5 +1,11 @@
 # Contempt of Court Application Filed (EVENT_129)
 
+## Event Metadata
+- **Type:** Unknown
+- **Entities Involved:** Unknown
+- **Source:** Unknown
+
+
 **Date:** 2026-02-05
 
 **Description:** Peter Andrew Faucitt filed a Notice of Motion seeking to have Jacqueline Faucitt declared in contempt of the court order issued on 19 August 2025. The application seeks six months imprisonment and punitive costs. Allegations include preventing stock removal (10 Jan 2026), failure to surrender bank cards, and interference with employee Oliver.

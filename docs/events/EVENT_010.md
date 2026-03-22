@@ -1,5 +1,11 @@
 # Domain Registration (Identity Fraud) (EVENT_010)
 
+## Event Metadata
+- **Type:** Unknown
+- **Entities Involved:** Unknown
+- **Source:** Unknown
+
+
 **Date:** 2025-05-29
 
 **Description:** Customer hijacking platform. Family conspiracy escalation and digital impersonation. Domain registered to impersonate business on Dan's UK-funded platform. New domain regimaskin.co.za registered by Adderory (Rynette's son (Darren Dennis Farrar)'s company) following Shopify shutdown.

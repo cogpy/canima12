@@ -1,5 +1,10 @@
 # EVENT_092: Peter blocks Jacqui's card on his birthday
 
+## Event Metadata
+- **Type:** Unknown
+- **Source:** Unknown
+
+
 **Date:** June 12, 2025  
 **Category:** obstruction  
 **Entities:** PERSON_001 (Peter Faucitt), PERSON_002 (Jacqui Faucitt), BANK_001 (FNB)

@@ -1,7 +1,7 @@
 # PLATFORM_002 - Courier Guy
 
 **Entity Type:** Platform  
-**Type:** Logistics Platform  
+**Type:** Platform  
 **Role:** Delivery Service
 
 ---

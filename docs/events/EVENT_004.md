@@ -1,5 +1,11 @@
 # Payment Redirection Scheme (EVENT_004)
 
+## Event Metadata
+- **Type:** Unknown
+- **Entities Involved:** Unknown
+- **Source:** Unknown
+
+
 **Date:** 2025-04-01
 
 **Description:** Part of R4.28M+ financial diversions. Payments redirected from platform owned/paid by RegimA Zone Ltd (UK)

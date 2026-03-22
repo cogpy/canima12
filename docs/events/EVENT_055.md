@@ -1,5 +1,11 @@
 # Peter Orders Cloud IT Systems Removal (EVENT_055)
 
+## Event Metadata
+- **Type:** Unknown
+- **Entities Involved:** Unknown
+- **Source:** Unknown
+
+
 **Date:** 2025-04-22
 
 **Description:** Peter instructs removal of all cloud IT systems, systematic dismantling of cloud-based infrastructure as preparation for evidence destruction

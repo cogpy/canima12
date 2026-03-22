@@ -1,5 +1,11 @@
 # EA-18: Coordinated Trust/Sage Takeover — 10-Day Window (EVENT_105)
 
+## Event Metadata
+- **Type:** Unknown
+- **Entities Involved:** Unknown
+- **Source:** Unknown
+
+
 **Date Range:** 2024-06-28 to 2024-07-09  
 **Category:** Coordinated Criminal Action / Pattern Evidence  
 **Criminal Threshold:** 95% EXCEEDED  

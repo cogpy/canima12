@@ -1,5 +1,11 @@
 # EVENT_053 (EVENT_053)
 
+## Event Metadata
+- **Type:** Unknown
+- **Entities Involved:** Unknown
+- **Source:** Unknown
+
+
 **Date:** 2020-04-30
 
 **Description:** Villa Via financial year-end showing R3.7M profit and R22.8M members loan

@@ -1,5 +1,11 @@
 # Entity Answering Affidavit — Void Ab Initio (EVENT_130)
 
+## Event Metadata
+- **Type:** Unknown
+- **Entities Involved:** Unknown
+- **Source:** Unknown
+
+
 **Date:** 2026-02-19
 
 **Description:** The Third to Sixth Respondents (RegimA entities) filed an Answering Affidavit asserting the ex parte interdict of 19 August 2025 is void ab initio. The affidavit establishes that the founding affidavit contained perjury (SOLE mandate concealment), material non-disclosure (FNB Legal letter, card sabotage), and fraud (R500K was a reimbursement, not a gift). Also opposes the contempt application.

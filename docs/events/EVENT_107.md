@@ -1,5 +1,11 @@
 # EVENT_107: Rynette Logs Into SARS eFiling as Bantjies
 
+## Event Metadata
+- **Type:** Unknown
+- **Entities Involved:** Unknown
+- **Source:** Unknown
+
+
 **Event ID:** EVENT_107  
 **Date:** 2024-04-26  
 **Category:** Identity Fraud / Unauthorized Access / SARS eFiling Abuse  

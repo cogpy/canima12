@@ -1,5 +1,11 @@
 # EVENT_051 (EVENT_051)
 
+## Event Metadata
+- **Type:** Unknown
+- **Entities Involved:** Unknown
+- **Source:** Unknown
+
+
 **Date:** 2020-02-20
 
 **Description:** Multiple adjusting journal entries across entities for inter-company cost reallocations

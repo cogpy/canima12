@@ -1,5 +1,11 @@
 # EVENT_052 (EVENT_052)
 
+## Event Metadata
+- **Type:** Unknown
+- **Entities Involved:** Unknown
+- **Source:** Unknown
+
+
 **Date:** 2020-02-28
 
 **Description:** SLG pays R414,334.09 interest to RST per loan agreement

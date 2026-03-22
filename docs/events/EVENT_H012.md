@@ -1,5 +1,11 @@
 # EVENT_H012 (EVENT_H012)
 
+## Event Metadata
+- **Type:** Unknown
+- **Entities Involved:** Unknown
+- **Source:** Unknown
+
+
 **Date:** 2019-02-28
 
 **Description:** RegimaSA first financial year end (15 months) showing zero revenue, R1,589 loss, minimal activity

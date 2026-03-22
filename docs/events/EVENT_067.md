@@ -1,5 +1,11 @@
 # EVENT_067 (EVENT_067)
 
+## Event Metadata
+- **Type:** Unknown
+- **Entities Involved:** Unknown
+- **Source:** Unknown
+
+
 **Date:** 2022-07-30
 
 **Description:** RegimA WWD paid R157k+ to ReZonance, reducing debt from R85k to R22k (July-December 2022)

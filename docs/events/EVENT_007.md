@@ -1,5 +1,11 @@
 # Jacqui Confronts Rynette About R1,035,000 Debt (EVENT_007)
 
+## Event Metadata
+- **Type:** Unknown
+- **Entities Involved:** Unknown
+- **Source:** Unknown
+
+
 **Date:** 2025-05-15
 
 **Description:** Jacqui confronted Rynette regarding R1,035,000 owed by RegimA Skin Treatments to Rezonance since Feb 2023. Jacqui stated these funds were part of Kayla's estate and keeping them would be profiting from proceeds of murder.

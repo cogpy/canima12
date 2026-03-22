@@ -1,5 +1,6 @@
 # Kevin Michael Derrick (PERSON_014)
 
+**Type:** Person  
 **Role:** ketoni_director
 
 ```json

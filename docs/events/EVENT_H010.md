@@ -1,5 +1,11 @@
 # Kayla Pretorius Murder (EVENT_H010)
 
+## Event Metadata
+- **Type:** Unknown
+- **Entities Involved:** Unknown
+- **Source:** Unknown
+
+
 **Date:** 2023-07-13
 
 **Description:** Murder of Kayla Pretorius (Daniel's partner), creating estate complications, law enforcement investigation, and family trauma. Estate includes ReZonance debt of R1,035,000. This is the critical trigger event for subsequent asset appropriation.

@@ -1,5 +1,10 @@
 # EVENT_114: Anton Hechter Removal from VAT Portal
 
+## Event Metadata
+- **Entities Involved:** Unknown
+- **Source:** Unknown
+
+
 ## Event Details
 
 | Field | Value |

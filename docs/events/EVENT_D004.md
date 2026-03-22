@@ -1,5 +1,11 @@
 # False Payment Claim #1 to ReZonance (EVENT_D004)
 
+## Event Metadata
+- **Type:** Unknown
+- **Entities Involved:** Unknown
+- **Source:** Unknown
+
+
 **Date:** 2023-03-15
 
 **Description:** RegimA claims payment of R470,000 to ReZonance not reflected in ReZonance records, first documented false payment claim

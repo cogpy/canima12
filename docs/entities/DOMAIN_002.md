@@ -1,5 +1,6 @@
 # regima.zone (DOMAIN_002)
 
+**Type:** Domain  
 **Role:** fraudulent_domain_for_customer_hijacking
 
 ```json

@@ -1,5 +1,6 @@
 # regimaskin.co.za (DOMAIN_001)
 
+**Type:** Domain  
 **Role:** legitimate_domain
 
 ```json

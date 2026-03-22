@@ -1,5 +1,10 @@
 # EVENT_117: Ketoni Payment Allocated to Pete's Shareholder Loan Account
 
+## Event Metadata
+- **Entities Involved:** Unknown
+- **Source:** Unknown
+
+
 ## Event Details
 
 | Field | Value |

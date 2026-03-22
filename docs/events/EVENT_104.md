@@ -1,5 +1,11 @@
 # Rynette Emails Backdated "Main Trustee" Appointment to Bantjies (EVENT_104)
 
+## Event Metadata
+- **Type:** Unknown
+- **Entities Involved:** Unknown
+- **Source:** Unknown
+
+
 **Date:** 2025-08-11  
 **Backdated To:** 2025-07-01  
 **Category:** Fraud / Backdating / Trust Manipulation  

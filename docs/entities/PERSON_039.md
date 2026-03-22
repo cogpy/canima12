@@ -1,4 +1,5 @@
 # PERSON_039: Anton Hechter
+**Type:** Person  
 | Attribute | Details |
 |---|---|
 | **Entity Type** | Person |

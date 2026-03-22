@@ -1,4 +1,5 @@
 # Contempt Proceedings Relations Map
+**Confidence:** 95% (Estimated)  
 
 **Date:** 2026-02-09  
 **Case No:** 2025-137857

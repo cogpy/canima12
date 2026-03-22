@@ -1,5 +1,11 @@
 # Unauthorized Transfers (R850K+) (EVENT_008)
 
+## Event Metadata
+- **Type:** Unknown
+- **Entities Involved:** Unknown
+- **Source:** Unknown
+
+
 **Date:** 2025-05-15
 
 **Description:** R850,000+ unauthorized transfers. Direct evidence of financial authority abuse and theft. R850K+ included revenue from platform paid by UK company (28 months)

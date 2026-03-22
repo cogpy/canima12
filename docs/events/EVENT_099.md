@@ -1,5 +1,10 @@
 # EVENT_099: Attorney Correspondence - Stock Contempt Demand (PF15/PF16)
 
+## Event Metadata
+- **Entities Involved:** Unknown
+- **Source:** Unknown
+
+
 | Attribute | Details |
 |---|---|
 | **Date** | 2026-01-12 |

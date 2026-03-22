@@ -1,5 +1,11 @@
 # Rule 30/30A Deadline Expires (EVENT_136)
 
+## Event Metadata
+- **Type:** Unknown
+- **Entities Involved:** Unknown
+- **Source:** Unknown
+
+
 **Date:** 2026-03-13
 
 **Description:** The 10-day deadline imposed by the Applicant's Rule 30/30A Notice (ND-06, filed 03 March 2026) expires. If the irregular step (the Entity Answering Affidavit) is not remedied by this date, the Applicant may approach the Court to set aside the document and seek punitive costs. The Red-Team Critique recommends withdrawing the defective document and replacing it with properly bifurcated proceedings: (a) a Contempt Opposition by Jacqueline Faucitt and (b) a formal Rescission Application by the entities with proper Notice of Motion, board resolutions, and commissioned affidavit.

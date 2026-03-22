@@ -1,5 +1,11 @@
 # Adderory Company Registration and Stock Supply Arrangement (EVENT_091)
 
+## Event Metadata
+- **Type:** Unknown
+- **Entities Involved:** Unknown
+- **Source:** Unknown
+
+
 **Date:** 2019-11-20
 
 **Description:** Adderory company registration and stock supply arrangement with RegimA (potential fictitious supplier)

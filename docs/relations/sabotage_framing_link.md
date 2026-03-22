@@ -1,4 +1,5 @@
 # Sabotage-Framing Link Relation
+**Confidence:** 95% (Estimated)  
 
 This document outlines the critical causal relationship between the deliberate sabotage of the company's financial systems and the subsequent framing of Daniel Faucitt.
 

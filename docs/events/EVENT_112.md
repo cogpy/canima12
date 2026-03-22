@@ -1,4 +1,9 @@
 # EVENT_112: CIPC Erasure Campaign
+
+## Event Metadata
+- **Type:** Unknown
+- **Source:** Unknown
+
 **Date:** 2023-11-02 to 2025-07-16
 
 ## Description
