@@ -3,7 +3,29 @@
     "id": "BANK_001",
     "name": "ABSA Accounts",
     "type": "Bank/Account",
-    "file": "docs/entities/BANK_001.md"
+    "file": "docs/entities/BANK_001.md",
+    "role": "allegedly_fraudulently_opened",
+    "relationships": [
+      "instrument_of_fraud",
+      "linked_to_fraud_scheme"
+    ],
+    "primary_actions": [
+      "linked_to_fraud_scheme",
+      "allegedly_fraudulently_opened",
+      "instrument_of_fraud"
+    ],
+    "evidence_refs": [
+      "JF07",
+      "JF08"
+    ],
+    "legal_categories": [
+      "theft",
+      "revenue_diversion",
+      "fraud"
+    ],
+    "applications": [
+      "app1_civil_criminal"
+    ]
   },
   {
     "id": "BANK_ACCOUNT_001",
@@ -27,7 +49,15 @@
     "id": "BANK_ACCOUNT_004",
     "name": "BANK_ACCOUNT_004: Hidden Money Maximiser Account",
     "type": "Bank/Account",
-    "file": "docs/entities/BANK_ACCOUNT_004.md"
+    "file": "docs/entities/BANK_ACCOUNT_004.md",
+    "legal_categories": [
+      "identity_fraud",
+      "conspiracy"
+    ],
+    "applications": [
+      "app1_civil_criminal",
+      "app2_cipc_popia"
+    ]
   },
   {
     "id": "BANK_ACCOUNT_005",
@@ -39,181 +69,626 @@
     "id": "BANK_ACCOUNT_ABSA",
     "name": "BANK_ACCOUNT_ABSA: Suspected Fraudulent ABSA Accounts",
     "type": "Bank/Account",
-    "file": "docs/entities/BANK_ACCOUNT_ABSA.md"
+    "file": "docs/entities/BANK_ACCOUNT_ABSA.md",
+    "legal_categories": [
+      "theft",
+      "money_laundering",
+      "revenue_diversion",
+      "fraud"
+    ],
+    "applications": [
+      "app1_civil_criminal",
+      "app3_commercial_crime_tax"
+    ]
   },
   {
     "id": "DOMAIN_001",
     "name": "regimaskin.co.za",
     "type": "Domain",
-    "file": "docs/entities/DOMAIN_001.md"
+    "file": "docs/entities/DOMAIN_001.md",
+    "role": "legitimate_domain",
+    "relationships": [
+      "use_regima_zone_instead_of_addarory_domain"
+    ],
+    "evidence_refs": [
+      "JF09",
+      "SF05"
+    ],
+    "legal_categories": [
+      "fraud"
+    ],
+    "applications": [
+      "app1_civil_criminal"
+    ]
   },
   {
     "id": "DOMAIN_002",
     "name": "regima.zone",
     "type": "Domain",
-    "file": "docs/entities/DOMAIN_002.md"
+    "file": "docs/entities/DOMAIN_002.md",
+    "role": "fraudulent_domain_for_customer_hijacking",
+    "relationships": [
+      "instrument_of_fraud"
+    ],
+    "primary_actions": [
+      "fraudulent_domain_for_customer_hijacking",
+      "fraudulent_domain",
+      "identity_fraud_customer_hijacking",
+      "instrument_of_fraud"
+    ],
+    "evidence_refs": [
+      "JF01",
+      "JF08"
+    ],
+    "legal_categories": [
+      "revenue_diversion",
+      "identity_fraud",
+      "fraud"
+    ],
+    "applications": [
+      "app1_civil_criminal",
+      "app2_cipc_popia"
+    ]
   },
   {
     "id": "ORG_001",
     "name": "Regima Worldwide Distribution",
     "type": "Organization",
-    "file": "docs/entities/ORG_001.md"
+    "file": "docs/entities/ORG_001.md",
+    "role": "third_respondent",
+    "relationships": [
+      "instrument_of_fraud"
+    ],
+    "primary_actions": [
+      "instrument_of_fraud"
+    ],
+    "evidence_refs": [
+      "EVENT121",
+      "JF04",
+      "JF05",
+      "JF07"
+    ],
+    "legal_categories": [
+      "revenue_diversion",
+      "companies_act_violation",
+      "fraud"
+    ],
+    "applications": [
+      "app1_civil_criminal",
+      "app2_cipc_popia"
+    ]
   },
   {
     "id": "ORG_002",
     "name": "Regima Skin Treatments CC",
     "type": "Organization",
-    "file": "docs/entities/ORG_002.md"
+    "file": "docs/entities/ORG_002.md",
+    "role": "fourth_respondent",
+    "relationships": [
+      "related_to_ORG_001"
+    ],
+    "evidence_refs": [
+      "EVENT079",
+      "EVENT081",
+      "EVENT082",
+      "EVENT085",
+      "JF04",
+      "JF07"
+    ],
+    "legal_categories": [
+      "tax_fraud",
+      "intercompany_fraud",
+      "companies_act_violation",
+      "revenue_diversion"
+    ],
+    "applications": [
+      "app1_civil_criminal",
+      "app2_cipc_popia",
+      "app3_commercial_crime_tax"
+    ]
   },
   {
     "id": "ORG_003",
     "name": "RegimA Zone Ltd",
     "type": "Organization",
-    "file": "docs/entities/ORG_003.md"
+    "file": "docs/entities/ORG_003.md",
+    "role": "infrastructure_owner",
+    "evidence_refs": [
+      "EVENT078",
+      "EVENT080",
+      "EVENT081",
+      "JF01",
+      "JF02",
+      "JF06"
+    ],
+    "legal_categories": [
+      "tax_fraud"
+    ],
+    "applications": [
+      "app3_commercial_crime_tax"
+    ]
   },
   {
     "id": "ORG_004",
     "name": "Strategic Logistics Group",
     "type": "Organization",
-    "file": "docs/entities/ORG_004.md"
+    "file": "docs/entities/ORG_004.md",
+    "role": "trust_owned_warehouse_and_logistics",
+    "relationships": [
+      "interest_payment_to_rst",
+      "related_to_ORG_001",
+      "supplier_relationship_with_PERSON_003_company",
+      "debtor_to_ORG_002_R13M",
+      "interest_payer_to_ORG_002",
+      "debtor_to_ORG_002_R13M",
+      "interest_payer_to_ORG_002"
+    ],
+    "primary_actions": [
+      "loss_entity_in_inter_company_manipulation"
+    ],
+    "evidence_refs": [
+      "EVENT078",
+      "JF02",
+      "JF03",
+      "JF04"
+    ],
+    "legal_categories": [
+      "companies_act_violation"
+    ],
+    "applications": [
+      "app2_cipc_popia"
+    ]
   },
   {
     "id": "ORG_005",
     "name": "Villa Via",
     "type": "Organization",
-    "file": "docs/entities/ORG_005.md"
+    "file": "docs/entities/ORG_005.md",
+    "role": "rental_property_company_wealth_extraction",
+    "relationships": [
+      "instrument_of_wealth_transfer",
+      "rent_charged_to_director_owner",
+      "related_to_ORG_002",
+      "different_financial_year_may_to_april"
+    ],
+    "evidence_refs": [
+      "JF03",
+      "JF04",
+      "SF03"
+    ],
+    "legal_categories": [
+      "identity_fraud",
+      "companies_act_violation"
+    ],
+    "applications": [
+      "app2_cipc_popia"
+    ]
   },
   {
     "id": "ORG_006",
     "name": "RegimA SA",
     "type": "Organization",
-    "file": "docs/entities/ORG_006.md"
+    "file": "docs/entities/ORG_006.md",
+    "role": "revenue_stream_victim",
+    "relationships": [
+      "related_to_ORG_001"
+    ],
+    "primary_actions": [
+      "diversion_started_2025_03_01"
+    ],
+    "evidence_refs": [
+      "JF02",
+      "JF03",
+      "JF07",
+      "SF02"
+    ],
+    "legal_categories": [
+      "revenue_diversion",
+      "companies_act_violation",
+      "fraud"
+    ],
+    "applications": [
+      "app1_civil_criminal",
+      "app2_cipc_popia"
+    ]
   },
   {
     "id": "ORG_007",
     "name": "Ian Levitt Attorneys",
     "type": "Organization",
-    "file": "docs/entities/ORG_007.md"
+    "file": "docs/entities/ORG_007.md",
+    "role": "legal_representative",
+    "evidence_refs": [
+      "JF06",
+      "JF08",
+      "SF09"
+    ],
+    "legal_categories": [
+      "revenue_diversion",
+      "theft"
+    ],
+    "applications": [
+      "app1_civil_criminal"
+    ]
   },
   {
     "id": "ORG_008",
     "name": "ReZonance",
     "type": "Organization",
-    "file": "docs/entities/ORG_008.md"
+    "file": "docs/entities/ORG_008.md",
+    "role": "it_services_provider_and_creditor",
+    "relationships": [
+      "creditor_to_regima_group",
+      "part_of_kayla_estate"
+    ],
+    "primary_actions": [
+      "false_payment_fraud"
+    ],
+    "evidence_refs": [
+      "EVENT078",
+      "JF04",
+      "JF14",
+      "JF15"
+    ],
+    "legal_categories": [
+      "companies_act_violation",
+      "fraud"
+    ],
+    "applications": [
+      "app1_civil_criminal",
+      "app2_cipc_popia"
+    ]
   },
   {
     "id": "ORG_009",
     "name": "Adderory",
     "type": "Organization",
-    "file": "docs/entities/ORG_009.md"
+    "file": "docs/entities/ORG_009.md",
+    "role": "competing_business_fraud_vehicle",
+    "relationships": [
+      "relationship_to_PERSON_002",
+      "stock_supplier_to_regima",
+      "beneficiary_of_slg_stock_disappearance"
+    ],
+    "primary_actions": [
+      "stock_fraud_connection",
+      "identity_fraud",
+      "stock_supply_fraud",
+      "domain_registration_for_identity_fraud",
+      "competing_business_fraud_vehicle",
+      "transfer_pricing_manipulation",
+      "revenue_theft",
+      "stock_fraud"
+    ],
+    "evidence_refs": [
+      "EVENT010",
+      "EVENT024",
+      "EVENT027",
+      "JF03",
+      "JF04",
+      "SF05"
+    ],
+    "legal_categories": [
+      "revenue_diversion",
+      "identity_fraud",
+      "fraud",
+      "conspiracy",
+      "theft",
+      "companies_act_violation"
+    ],
+    "applications": [
+      "app1_civil_criminal",
+      "app2_cipc_popia"
+    ]
   },
   {
     "id": "ORG_010",
     "name": "Adderory Skin",
     "type": "Organization",
-    "file": "docs/entities/ORG_010.md"
+    "file": "docs/entities/ORG_010.md",
+    "role": "competing_business_fraud_vehicle",
+    "relationships": [
+      "relationship_to_PERSON_002",
+      "part_of_adderory_group"
+    ],
+    "primary_actions": [
+      "revenue_theft",
+      "identity_fraud",
+      "competing_business_fraud_vehicle"
+    ],
+    "evidence_refs": [
+      "EVENT027",
+      "JF04",
+      "JF08",
+      "SF05"
+    ],
+    "legal_categories": [
+      "revenue_diversion",
+      "identity_fraud",
+      "fraud",
+      "theft",
+      "companies_act_violation"
+    ],
+    "applications": [
+      "app1_civil_criminal",
+      "app2_cipc_popia"
+    ]
   },
   {
     "id": "ORG_011",
     "name": "Entity Profile: Elliott Attorneys",
     "type": "Organization",
-    "file": "docs/entities/ORG_011.md"
+    "file": "docs/entities/ORG_011.md",
+    "role": "legal_representation",
+    "evidence_refs": [
+      "EVENT075",
+      "EVENT076",
+      "EVENT077",
+      "JF13",
+      "KF0019"
+    ]
   },
   {
     "id": "ORG_012",
     "name": "RegimaSA",
     "type": "Organization",
-    "file": "docs/entities/ORG_012.md"
+    "file": "docs/entities/ORG_012.md",
+    "role": "Shell company / Related party entity",
+    "relationships": [
+      "nature_of_business"
+    ],
+    "evidence_refs": [
+      "JF04",
+      "JF08",
+      "JF14"
+    ],
+    "legal_categories": [
+      "revenue_diversion",
+      "intercompany_fraud",
+      "companies_act_violation",
+      "conspiracy"
+    ],
+    "applications": [
+      "app1_civil_criminal",
+      "app2_cipc_popia"
+    ]
   },
   {
     "id": "ORG_013",
     "name": "Unicorn Dynamics",
     "type": "Organization",
-    "file": "docs/entities/ORG_013.md"
+    "file": "docs/entities/ORG_013.md",
+    "role": "Related party entity",
+    "relationships": [
+      "nature_of_business"
+    ],
+    "evidence_refs": [
+      "JF04",
+      "JF08",
+      "JF15"
+    ],
+    "legal_categories": [
+      "intercompany_fraud",
+      "companies_act_violation"
+    ],
+    "applications": [
+      "app2_cipc_popia"
+    ]
   },
   {
     "id": "ORG_014",
     "name": "RegimA SA",
     "type": "Organization",
-    "file": "docs/entities/ORG_014.md"
+    "file": "docs/entities/ORG_014.md",
+    "role": "RegimA Group entity",
+    "evidence_refs": [
+      "EVENT082",
+      "JF02",
+      "JF04",
+      "JF14"
+    ],
+    "legal_categories": [
+      "companies_act_violation"
+    ],
+    "applications": [
+      "app2_cipc_popia"
+    ]
   },
   {
     "id": "ORG_015",
     "name": "Ketoni Investment Holdings",
     "type": "Organization",
-    "file": "docs/entities/ORG_015.md"
+    "file": "docs/entities/ORG_015.md",
+    "relationships": [
+      "payout_obligor_to_FFT"
+    ],
+    "evidence_refs": [
+      "EVENT081"
+    ],
+    "legal_categories": [
+      "tax_fraud",
+      "breach_of_trust",
+      "companies_act_violation",
+      "fraud"
+    ],
+    "applications": [
+      "app1_civil_criminal",
+      "app2_cipc_popia",
+      "app3_commercial_crime_tax"
+    ]
   },
   {
     "id": "ORG_016",
     "name": "ORG_017: Ketoni Investment Holdings (Pty) Ltd",
     "type": "Organization",
-    "file": "docs/entities/ORG_016.md"
+    "file": "docs/entities/ORG_016.md",
+    "legal_categories": [
+      "revenue_diversion",
+      "companies_act_violation",
+      "conspiracy"
+    ],
+    "applications": [
+      "app1_civil_criminal",
+      "app2_cipc_popia"
+    ]
   },
   {
     "id": "ORG_017",
     "name": "ORG_017: Ketoni Investment Holdings (Pty) Ltd",
     "type": "Organization",
-    "file": "docs/entities/ORG_017.md"
+    "file": "docs/entities/ORG_017.md",
+    "evidence_refs": [
+      "EVENT116",
+      "EVENT117",
+      "SF06",
+      "SF14"
+    ],
+    "legal_categories": [
+      "breach_of_fiduciary_duty",
+      "companies_act_violation",
+      "conspiracy"
+    ],
+    "applications": [
+      "app1_civil_criminal",
+      "app2_cipc_popia"
+    ]
   },
   {
     "id": "ORG_018",
     "name": "ORG_018: The George Group",
     "type": "Organization",
-    "file": "docs/entities/ORG_018.md"
+    "file": "docs/entities/ORG_018.md",
+    "evidence_refs": [
+      "SF14"
+    ],
+    "legal_categories": [
+      "companies_act_violation",
+      "conspiracy"
+    ],
+    "applications": [
+      "app1_civil_criminal",
+      "app2_cipc_popia"
+    ]
   },
   {
     "id": "ORG_019",
     "name": "ORG_019: Pottas Attorneys",
     "type": "Organization",
-    "file": "docs/entities/ORG_019.md"
+    "file": "docs/entities/ORG_019.md",
+    "evidence_refs": [
+      "SF13"
+    ],
+    "legal_categories": [
+      "conspiracy"
+    ],
+    "applications": [
+      "app1_civil_criminal"
+    ]
   },
   {
     "id": "ORG_020",
     "name": "ORG_020: Elliott Attorneys Inc",
     "type": "Organization",
-    "file": "docs/entities/ORG_020.md"
+    "file": "docs/entities/ORG_020.md",
+    "evidence_refs": [
+      "KF0019"
+    ],
+    "legal_categories": [
+      "contempt_of_court",
+      "conspiracy"
+    ],
+    "applications": [
+      "app1_civil_criminal"
+    ]
   },
   {
     "id": "ORG_021",
     "name": "ORG_021: Pottas Attorneys",
     "type": "Organization",
-    "file": "docs/entities/ORG_021.md"
+    "file": "docs/entities/ORG_021.md",
+    "legal_categories": [
+      "contempt_of_court"
+    ],
+    "applications": []
   },
   {
     "id": "ORG_022",
     "name": "ORG_022: ENS Africa",
     "type": "Organization",
-    "file": "docs/entities/ORG_022.md"
+    "file": "docs/entities/ORG_022.md",
+    "role": "Legal Firm"
   },
   {
     "id": "ORG_023",
     "name": "ORG_023: De Novo Business Services",
     "type": "Organization",
-    "file": "docs/entities/ORG_023.md"
+    "file": "docs/entities/ORG_023.md",
+    "legal_categories": [
+      "forgery",
+      "fraud"
+    ],
+    "applications": [
+      "app1_civil_criminal",
+      "app3_commercial_crime_tax"
+    ]
   },
   {
     "id": "ORG_024",
     "name": "ORG_024: Corporate and Merchant Administrators",
     "type": "Organization",
-    "file": "docs/entities/ORG_024.md"
+    "file": "docs/entities/ORG_024.md",
+    "legal_categories": [
+      "companies_act_violation"
+    ],
+    "applications": [
+      "app2_cipc_popia"
+    ]
   },
   {
     "id": "ORG_025",
     "name": "ORG_025: Baker McKenzie",
     "type": "Organization",
-    "file": "docs/entities/ORG_025.md"
+    "file": "docs/entities/ORG_025.md",
+    "evidence_refs": [
+      "EVENT116"
+    ],
+    "legal_categories": [
+      "conspiracy"
+    ],
+    "applications": [
+      "app1_civil_criminal"
+    ]
   },
   {
     "id": "ORG_026",
     "name": "ORG_026: Unidentified Financial Entity",
     "type": "Organization",
-    "file": "docs/entities/ORG_026.md"
+    "file": "docs/entities/ORG_026.md",
+    "evidence_refs": [
+      "EVENT122",
+      "EVENT123"
+    ],
+    "legal_categories": [
+      "conspiracy"
+    ],
+    "applications": [
+      "app1_civil_criminal"
+    ]
   },
   {
     "id": "ORG_027",
     "name": "ORG_027: Kaylovest Three (Pty) Ltd",
     "type": "Organization",
-    "file": "docs/entities/ORG_027.md"
+    "file": "docs/entities/ORG_027.md",
+    "evidence_refs": [
+      "EVENT124"
+    ],
+    "legal_categories": [
+      "identity_fraud"
+    ],
+    "applications": [
+      "app2_cipc_popia"
+    ]
   },
   {
     "id": "ORG_028",
@@ -225,216 +700,707 @@
     "id": "ORG_029",
     "name": "Nick Xenophontos Attorneys",
     "type": "Organization",
-    "file": "docs/entities/ORG_029.md"
+    "file": "docs/entities/ORG_029.md",
+    "role": "Legal Practice — FFT/Peter's Legal Advisors (Ketoni Matter)",
+    "relationships": [
+      "legal_advisor_to_TRUST_001"
+    ]
   },
   {
     "id": "ORG_030",
     "name": "Forvis Mazars",
     "type": "Organization",
-    "file": "docs/entities/ORG_030.md"
+    "file": "docs/entities/ORG_030.md",
+    "role": "Audit/Review Firm — Ketoni AFS Preparer"
   },
   {
     "id": "PERSON_001",
     "name": "Peter Andrew Faucitt",
     "type": "Person",
-    "file": "docs/entities/PERSON_001.md"
+    "file": "docs/entities/PERSON_001.md",
+    "role": "Primary Perpetrator",
+    "id_number": "820430 5708 18 5",
+    "relationships": [
+      "trustee_of_family_trust",
+      "director_of_RWD_ZA",
+      "director_of_RST",
+      "director_of_SLG",
+      "co_conspirator_with_PERSON_002",
+      "beneficiary_of_FFT"
+    ],
+    "primary_actions": [
+      "trust_breach",
+      "fnb_fraud_acknowledgment",
+      "account_manipulation",
+      "warehouse_popi_violations",
+      "trust_asset_misappropriation",
+      "financial_manipulation",
+      "trust_violations",
+      "revenue_theft",
+      "trust_structure_manipulation",
+      "exchange_control_violations"
+    ],
+    "evidence_refs": [
+      "EVENT001",
+      "EVENT002",
+      "EVENT003",
+      "EVENT006",
+      "EVENT007",
+      "EVENT008",
+      "EVENT016",
+      "EVENT017",
+      "EVENT018",
+      "EVENT019",
+      "EVENT020",
+      "JF01",
+      "JF04",
+      "JF06",
+      "JF07",
+      "JF08",
+      "JF09",
+      "SF01",
+      "SF09",
+      "SF10",
+      "SF11"
+    ],
+    "legal_categories": [
+      "contempt_of_court",
+      "revenue_diversion",
+      "fraud",
+      "exchange_control_violation",
+      "forgery",
+      "conspiracy",
+      "theft",
+      "companies_act_violation"
+    ],
+    "applications": [
+      "app1_civil_criminal",
+      "app2_cipc_popia",
+      "app3_commercial_crime_tax"
+    ]
   },
   {
     "id": "PERSON_002",
     "name": "Rynette Farrar",
     "type": "Person",
-    "file": "docs/entities/PERSON_002.md"
+    "file": "docs/entities/PERSON_002.md",
+    "role": "Co-Conspirator (Operational Controller)",
+    "relationships": [
+      "co_conspirator_with_PERSON_001",
+      "mother_of_PERSON_003"
+    ],
+    "primary_actions": [
+      "financial_manipulation",
+      "domain_registration_identity_fraud",
+      "coordinated_fund_diversions",
+      "revenue_theft",
+      "bantjies_trustee_appointment_via_forgery_28_june_2024",
+      "email_diversion_control"
+    ],
+    "evidence_refs": [
+      "EVENT004",
+      "EVENT005",
+      "EVENT013",
+      "EVENT014",
+      "EVENT015",
+      "EVENT025",
+      "EVENT026",
+      "EVENT063",
+      "EVENT103",
+      "EVENT104",
+      "EVENT105",
+      "JF01",
+      "JF05",
+      "JF07",
+      "JF08",
+      "JF09",
+      "SF02",
+      "SF10"
+    ],
+    "legal_categories": [
+      "revenue_diversion",
+      "identity_fraud",
+      "fraud",
+      "forgery",
+      "conspiracy",
+      "theft"
+    ],
+    "applications": [
+      "app1_civil_criminal",
+      "app2_cipc_popia",
+      "app3_commercial_crime_tax"
+    ]
   },
   {
     "id": "PERSON_003",
     "name": "Darren Dennis Farrar",
     "type": "Person",
-    "file": "docs/entities/PERSON_003.md"
+    "file": "docs/entities/PERSON_003.md",
+    "role": "co_conspirator_family_member (Rynette Farrar's son, Director of Addarory)",
+    "relationships": [
+      "son_of_PERSON_002",
+      "owner_of_ORG_009",
+      "owner_of_ORG_010",
+      "director_of_dream_media_studios",
+      "director_of_luxure",
+      "director_of_luxury_products_online",
+      "director_of_black_water_weddings"
+    ],
+    "primary_actions": [
+      "stock_fraud_connection",
+      "raw_material_supply_fraud",
+      "identity_fraud",
+      "domain_registration_for_identity_fraud",
+      "stock_supply_fraud_facilitation",
+      "revenue_theft",
+      "stock_fraud"
+    ],
+    "evidence_refs": [
+      "EVENT010",
+      "EVENT024",
+      "EVENT027",
+      "JF01",
+      "JF08",
+      "JF09"
+    ],
+    "legal_categories": [
+      "revenue_diversion",
+      "identity_fraud",
+      "fraud",
+      "conspiracy",
+      "theft"
+    ],
+    "applications": [
+      "app1_civil_criminal",
+      "app2_cipc_popia"
+    ]
   },
   {
     "id": "PERSON_004",
     "name": "Jacqueline Faucitt",
     "type": "Person",
-    "file": "docs/entities/PERSON_004.md"
+    "file": "docs/entities/PERSON_004.md",
+    "role": "first_respondent",
+    "id_number": "570607 0088 08 6",
+    "evidence_refs": [
+      "JF01",
+      "JF02",
+      "JF05",
+      "JF06",
+      "JF08"
+    ]
   },
   {
     "id": "PERSON_005",
     "name": "Daniel James Faucitt",
     "type": "Person",
-    "file": "docs/entities/PERSON_005.md"
+    "file": "docs/entities/PERSON_005.md",
+    "role": "second_respondent",
+    "id_number": "820775 5800 18 2",
+    "relationships": [
+      "victim_of_theft"
+    ],
+    "primary_actions": [
+      "victim_of_theft"
+    ],
+    "evidence_refs": [
+      "JF01",
+      "JF02",
+      "JF06"
+    ],
+    "legal_categories": [
+      "theft",
+      "fraud"
+    ],
+    "applications": [
+      "app1_civil_criminal"
+    ]
   },
   {
     "id": "PERSON_006",
     "name": "Linda Kruger",
     "type": "Person",
-    "file": "docs/entities/PERSON_006.md"
+    "file": "docs/entities/PERSON_006.md",
+    "role": "Employee (Bookkeeper / Sales-Accounts)",
+    "relationships": [
+      "employee_of_ORG_001",
+      "reports_to_PERSON_002"
+    ],
+    "evidence_refs": [
+      "JF05",
+      "JF08",
+      "SF08"
+    ],
+    "legal_categories": [
+      "revenue_diversion"
+    ],
+    "applications": [
+      "app1_civil_criminal"
+    ]
   },
   {
     "id": "PERSON_007",
     "name": "Daniel Jacobus Bantjies",
     "type": "Person",
-    "file": "docs/entities/PERSON_007.md"
+    "file": "docs/entities/PERSON_007.md",
+    "role": "Strategic Appointee / FFT Trustee / Accountant / CFO",
+    "relationships": [
+      "breach_of_fiduciary_duty",
+      "accounting_system_control_with_rynette",
+      "commissioner_of_oaths_misconduct",
+      "insider_access_to_ketoni",
+      "co_conspirator_with_PERSON_001",
+      "co_conspirator_with_PERSON_002",
+      "trustee_of_TRUST_001",
+      "colleague_of_PERSON_014",
+      "insider_access_to_ORG_017",
+      "breach_of_fiduciary_duty",
+      "conflict_of_interest",
+      "conflict_of_interest"
+    ],
+    "primary_actions": [
+      "breach_of_fiduciary_duty",
+      "accounting_fraud",
+      "long_term_financial_access_concealment",
+      "stock_adjustment_fraud_concealment",
+      "fraud_concealment",
+      "stock_fraud_concealment",
+      "active_trust_manipulation"
+    ],
+    "evidence_refs": [
+      "EVENT103",
+      "EVENT104",
+      "EVENT105"
+    ],
+    "legal_categories": [
+      "perjury",
+      "breach_of_fiduciary_duty",
+      "fraud",
+      "tax_fraud",
+      "forgery",
+      "conspiracy"
+    ],
+    "applications": [
+      "app1_civil_criminal",
+      "app3_commercial_crime_tax"
+    ]
   },
   {
     "id": "PERSON_008",
     "name": "Kayla",
     "type": "Person",
-    "file": "docs/entities/PERSON_008.md"
+    "file": "docs/entities/PERSON_008.md",
+    "role": "estate_creditor",
+    "relationships": [
+      "estate_creditor_of_ORG_002",
+      "email_account_subject_to_court_order"
+    ],
+    "primary_actions": [
+      "estate_fraud"
+    ],
+    "evidence_refs": [
+      "EVENT023",
+      "EVENT054",
+      "JF08",
+      "JF13"
+    ],
+    "legal_categories": [
+      "contempt_of_court",
+      "fraud"
+    ],
+    "applications": [
+      "app1_civil_criminal"
+    ]
   },
   {
     "id": "PERSON_009",
     "name": "Gee",
     "type": "Person",
-    "file": "docs/entities/PERSON_009.md"
+    "file": "docs/entities/PERSON_009.md",
+    "role": "email_sender_witness",
+    "relationships": [
+      "explained_instruction_to_jax",
+      "witness_to_domain_hijacking"
+    ],
+    "primary_actions": [
+      "email_sender_for_customer_diversion"
+    ],
+    "evidence_refs": [
+      "EVENT027",
+      "JF05",
+      "JF07",
+      "JF08"
+    ],
+    "legal_categories": [
+      "revenue_diversion",
+      "conspiracy"
+    ],
+    "applications": [
+      "app1_civil_criminal"
+    ]
   },
   {
     "id": "PERSON_010",
     "name": "Bernadine Wright",
     "type": "Person",
-    "file": "docs/entities/PERSON_010.md"
+    "file": "docs/entities/PERSON_010.md",
+    "role": "financial_professional",
+    "relationships": [
+      "recipient_of_trial_balance_email"
+    ],
+    "evidence_refs": [
+      "JF05",
+      "JF07",
+      "JF08"
+    ]
   },
   {
     "id": "PERSON_011",
     "name": "Chantal",
     "type": "Person",
-    "file": "docs/entities/PERSON_011.md"
+    "file": "docs/entities/PERSON_011.md",
+    "role": "estate_related_party",
+    "relationships": [
+      "connected_to_kayla_estate"
+    ],
+    "evidence_refs": [
+      "EVENT023",
+      "EVENT054",
+      "JF05",
+      "JF07",
+      "JF08"
+    ]
   },
   {
     "id": "PERSON_012",
     "name": "Marisca Meyer",
     "type": "Person",
-    "file": "docs/entities/PERSON_012.md"
+    "file": "docs/entities/PERSON_012.md",
+    "role": "Professional Accountant (SA)",
+    "evidence_refs": [
+      "JF05",
+      "JF07",
+      "JF08"
+    ]
   },
   {
     "id": "PERSON_013",
     "name": "Kayla Pretorius",
     "type": "Person",
-    "file": "docs/entities/PERSON_013.md"
+    "file": "docs/entities/PERSON_013.md",
+    "role": "estate_executor_email_account_holder",
+    "relationships": [
+      "email_account_subject_to_court_seizure",
+      "email_account_subject_to_court_ordered_seizure",
+      "burden_of_proof"
+    ],
+    "evidence_refs": [
+      "EVENT083",
+      "EVENT084",
+      "EVENT086",
+      "EVENT087",
+      "JF01",
+      "JF02",
+      "SF06",
+      "SF07"
+    ],
+    "legal_categories": [
+      "contempt_of_court"
+    ],
+    "applications": []
   },
   {
     "id": "PERSON_014",
     "name": "Kevin Michael Derrick",
     "type": "Person",
-    "file": "docs/entities/PERSON_014.md"
+    "file": "docs/entities/PERSON_014.md",
+    "role": "ketoni_director",
+    "relationships": [
+      "director_of_ORG_015",
+      "colleague_of_PERSON_007"
+    ],
+    "evidence_refs": [
+      "EVENT085"
+    ]
   },
   {
     "id": "PERSON_015",
     "name": "Chantal",
     "type": "Person",
-    "file": "docs/entities/PERSON_015.md"
+    "file": "docs/entities/PERSON_015.md",
+    "role": "Estate executor correspondent",
+    "evidence_refs": [
+      "EVENT023",
+      "JF08",
+      "SF06"
+    ]
   },
   {
     "id": "PERSON_016",
     "name": "PERSON_016: Nondu Motlhala",
     "type": "Person",
-    "file": "docs/entities/PERSON_016.md"
+    "file": "docs/entities/PERSON_016.md",
+    "role": "FNB Representative",
+    "legal_categories": [
+      "exchange_control_violation",
+      "fraud"
+    ],
+    "applications": [
+      "app1_civil_criminal",
+      "app3_commercial_crime_tax"
+    ]
   },
   {
     "id": "PERSON_017",
     "name": "PERSON_017: Mpumi Netshipale",
     "type": "Person",
-    "file": "docs/entities/PERSON_017.md"
+    "file": "docs/entities/PERSON_017.md",
+    "role": "FNB Business Relationship Manager",
+    "legal_categories": [
+      "fraud"
+    ],
+    "applications": [
+      "app1_civil_criminal"
+    ]
   },
   {
     "id": "PERSON_018",
     "name": "PERSON_018: Michelle Habig",
     "type": "Person",
-    "file": "docs/entities/PERSON_018.md"
+    "file": "docs/entities/PERSON_018.md",
+    "role": "FNB Relationship Analyst",
+    "legal_categories": [
+      "fraud"
+    ],
+    "applications": [
+      "app1_civil_criminal"
+    ]
   },
   {
     "id": "PERSON_019",
     "name": "PERSON_019: Oliver",
     "type": "Person",
-    "file": "docs/entities/PERSON_019.md"
+    "file": "docs/entities/PERSON_019.md",
+    "evidence_refs": [
+      "EVENT098",
+      "EVENT100"
+    ],
+    "legal_categories": [
+      "contempt_of_court"
+    ],
+    "applications": []
   },
   {
     "id": "PERSON_020",
     "name": "Linda Kruger",
     "type": "Person",
-    "file": "docs/entities/PERSON_020.md"
+    "file": "docs/entities/PERSON_020.md",
+    "role": "Office Employee (Sales/Accounts), Active Participant in Payment Redirection",
+    "relationships": [
+      "employee_of_ORG_001"
+    ],
+    "legal_categories": [
+      "theft",
+      "revenue_diversion",
+      "conspiracy",
+      "fraud"
+    ],
+    "applications": [
+      "app1_civil_criminal"
+    ]
   },
   {
     "id": "PERSON_021",
     "name": "Gayane Williams",
     "type": "Person",
-    "file": "docs/entities/PERSON_021.md"
+    "file": "docs/entities/PERSON_021.md",
+    "role": "Office Employee, Active Participant in Infrastructure Hijacking",
+    "relationships": [
+      "employee_of_ORG_001"
+    ],
+    "legal_categories": [
+      "revenue_diversion",
+      "conspiracy"
+    ],
+    "applications": [
+      "app1_civil_criminal"
+    ]
   },
   {
     "id": "PERSON_037",
     "name": "PERSON_037 - Kent",
     "type": "Person",
-    "file": "docs/entities/PERSON_037.md"
+    "file": "docs/entities/PERSON_037.md",
+    "role": "Sales/Order Processor",
+    "evidence_refs": [
+      "JF07",
+      "JF09"
+    ],
+    "legal_categories": [
+      "popia_violation"
+    ],
+    "applications": [
+      "app2_cipc_popia"
+    ]
   },
   {
     "id": "PERSON_038",
     "name": "PERSON_038 - EL",
     "type": "Person",
-    "file": "docs/entities/PERSON_038.md"
+    "file": "docs/entities/PERSON_038.md",
+    "role": "Sales/Order Processor",
+    "evidence_refs": [
+      "JF07"
+    ]
   },
   {
     "id": "PERSON_039",
     "name": "PERSON_039: Anton Hechter",
     "type": "Person",
-    "file": "docs/entities/PERSON_039.md"
+    "file": "docs/entities/PERSON_039.md",
+    "legal_categories": [
+      "tax_fraud",
+      "fraud"
+    ],
+    "applications": [
+      "app1_civil_criminal",
+      "app3_commercial_crime_tax"
+    ]
   },
   {
     "id": "PERSON_040",
     "name": "PERSON_040: Clare Payne",
     "type": "Person",
-    "file": "docs/entities/PERSON_040.md"
+    "file": "docs/entities/PERSON_040.md",
+    "legal_categories": [
+      "companies_act_violation"
+    ],
+    "applications": [
+      "app2_cipc_popia"
+    ]
   },
   {
     "id": "PERSON_041",
     "name": "PERSON_041: Kent Rault",
     "type": "Person",
-    "file": "docs/entities/PERSON_041.md"
+    "file": "docs/entities/PERSON_041.md",
+    "legal_categories": [
+      "revenue_diversion"
+    ],
+    "applications": [
+      "app1_civil_criminal"
+    ]
   },
   {
     "id": "PERSON_042",
     "name": "PERSON_042: Marc Yudaken",
     "type": "Person",
-    "file": "docs/entities/PERSON_042.md"
+    "file": "docs/entities/PERSON_042.md",
+    "evidence_refs": [
+      "EVENT116"
+    ]
   },
   {
     "id": "PERSON_043",
     "name": "PERSON_043: David Field",
     "type": "Person",
-    "file": "docs/entities/PERSON_043.md"
+    "file": "docs/entities/PERSON_043.md",
+    "evidence_refs": [
+      "EVENT116"
+    ]
   },
   {
     "id": "PERSON_044",
     "name": "PERSON_044: Denny Da Silva",
     "type": "Person",
-    "file": "docs/entities/PERSON_044.md"
+    "file": "docs/entities/PERSON_044.md",
+    "legal_categories": [
+      "conspiracy"
+    ],
+    "applications": [
+      "app1_civil_criminal"
+    ]
   },
   {
     "id": "PERSON_045",
     "name": "Nick Xenophontos",
     "type": "Person",
-    "file": "docs/entities/PERSON_045.md"
+    "file": "docs/entities/PERSON_045.md",
+    "role": "Attorney — FFT Legal Advisor (Ketoni Matter)",
+    "relationships": [
+      "legal_advisor_to_PERSON_001",
+      "legal_advisor_to_TRUST_001"
+    ],
+    "evidence_refs": [
+      "EVENT135"
+    ]
   },
   {
     "id": "PERSON_XENOPHONTOS",
     "name": "Nicos Xenophontos",
     "type": "Person",
-    "file": "docs/entities/PERSON_XENOPHONTOS.md"
+    "file": "docs/entities/PERSON_XENOPHONTOS.md",
+    "legal_categories": [
+      "revenue_diversion",
+      "conspiracy",
+      "fraud"
+    ],
+    "applications": [
+      "app1_civil_criminal"
+    ]
   },
   {
     "id": "PLATFORM_001",
     "name": "Shopify Platform",
     "type": "Platform",
-    "file": "docs/entities/PLATFORM_001.md"
+    "file": "docs/entities/PLATFORM_001.md",
+    "role": "shopify_ecommerce_platform",
+    "relationships": [
+      "percentage_of_total_events"
+    ],
+    "evidence_refs": [
+      "JF01",
+      "JF02",
+      "JF06"
+    ],
+    "legal_categories": [
+      "revenue_diversion"
+    ],
+    "applications": [
+      "app1_civil_criminal"
+    ]
   },
   {
     "id": "PLATFORM_002",
     "name": "PLATFORM_002 - Courier Guy",
     "type": "Platform",
-    "file": "docs/entities/PLATFORM_002.md"
+    "file": "docs/entities/PLATFORM_002.md",
+    "role": "Delivery Service",
+    "legal_categories": [
+      "revenue_diversion",
+      "fraud"
+    ],
+    "applications": [
+      "app1_civil_criminal"
+    ]
   },
   {
     "id": "TRUST_001",
     "name": "Faucitt Family Trust",
     "type": "Trust",
-    "file": "docs/entities/TRUST_001.md"
+    "file": "docs/entities/TRUST_001.md",
+    "role": "family_trust_structure_manipulated",
+    "primary_actions": [
+      "trust_structure_manipulation_and_beneficiary_attack"
+    ],
+    "legal_categories": [
+      "perjury",
+      "breach_of_trust",
+      "fraud"
+    ],
+    "applications": [
+      "app1_civil_criminal",
+      "app3_commercial_crime_tax"
+    ]
   }
 ]

@@ -1,20 +1,42 @@
 # Case 2025-137857: Revenue Stream Hijacking — Evidence Repository
 
-**Last Updated:** 2026-03-18 (v18)
+**Last Updated:** 2026-03-23 (v20)
 
 This repository provides a comprehensive, evidence-based view of Case 2025-137857, a multi-faceted criminal enterprise involving revenue stream hijacking, trust fraud, identity theft, and corporate malfeasance with a total quantum exceeding **R63,000,000**.
 
-> **v18 Pipeline (2026-03-18):** `/evidence-process(/skillm) -> /ksm-evolve(/regima-org-self) -> /optimal-cognitive-grip`
+> **v20 Pipeline (2026-03-23):** `/optimal-cognitive-grip(/stable-skill-diffusion[/temporal-code-archaeology, /chainlex])`
 >
-> **v18 Update:** Data models rebuilt from source (73 entities, 173 events, 36 relations in JSON). Procedural Hierarchy for Setting Aside Ex Parte Interdicts integrated into civil filings. Five-tier framework: Rule 6(12)(c), Rule 6(8), Rule 42(1)(a), Common Law Rescission (*Childerley Estate Stores*), Section 173. NPA Perjury at **99.15% (MET)**. NPA Commercial Crime at **96.12% (MET)**. SARS Tax Fraud at **95.80% (MET)**.
+> **v20 Update:** Data models enriched via ChainLex legal corpus analysis and temporal code archaeology. 73 entities (46 with roles, 47 with evidence refs), 175 events (146 with ISO dates, 162 with evidence refs), 38 relations (13 with entity links, 24 with evidence refs). 17 ChainLex legal categories mapped. Filing scores reconciled and canonicalized. NPA Perjury at **99.15% (MET)**. NPA Commercial Crime at **96.12% (MET)**. SARS Tax Fraud at **95.80% (MET)**.
 
-> **v18 Filings:** [Filings Index](./filings/index.md) | [NPA Perjury v17](./filings/NPA_PERJURY_BANTJIES_J417_2026-03-18_v17.md) | [NPA Commercial Crime v17](./filings/NPA_COMMERCIAL_CRIME_REFINED_2026-03-18_v17.md) | [SARS Tax Fraud v17](./filings/SARS_TAX_FRAUD_REPORT_REFINED_2026-03-18_v17.md) | [CIPC v17](./filings/CIPC_COMPLAINT_REFINED_2026-03-18_v17.md) | [SAICA v17](./filings/SAICA_COMPLAINT_BANTJIES_REFINED_2026-03-18_v17.md) | [POPIA v17](./filings/POPIA_COMPLAINT_REFINED_2026-03-18_v17.md)
+> **v20 Filings:** [Filings Index](./filings/index.md) | [Filing Versions](./filings/FILING_VERSIONS.md) | [NPA Perjury v17](./filings/NPA_PERJURY_BANTJIES_J417_2026-03-18_v17.md) | [NPA Commercial Crime v17](./filings/NPA_COMMERCIAL_CRIME_REFINED_2026-03-18_v17.md) | [SARS Tax Fraud v17](./filings/SARS_TAX_FRAUD_REPORT_REFINED_2026-03-18_v17.md) | [CIPC v17](./filings/CIPC_COMPLAINT_REFINED_2026-03-18_v17.md) | [SAICA v17](./filings/SAICA_COMPLAINT_BANTJIES_REFINED_2026-03-18_v17.md) | [POPIA v18](./filings/POPIA_COMPLAINT_REFINED_2026-03-18_v18.md)
 >
-> **v18 Indexes:** [Entities](./entities/index.md) | [Events](./events/index.md) | [Relations](./relations/index.md) | [Timeline](./timeline.md) | [Procedural Hierarchy](./filings/CIVIL_CONTEMPT_ANALYSIS_2026_02_09.md)
+> **v20 Indexes:** [Entities](./entities/index.md) | [Events](./events/index.md) | [Relations](./relations/index.md) | [Timeline](./timeline.md) | [Procedural Hierarchy](./filings/CIVIL_CONTEMPT_ANALYSIS_2026_02_09.md)
 >
-> **v18 Analysis:** [Red-Team Critique v16.2](./filings/RED_TEAM_CRITIQUE_2026_03_18_v16.md) | [Super-Sleuth Report](./super_sleuth_report_2026_03_15.md) | [Hyper-Holmes Report](./hyper_holmes_report_2026_03_15.md) | [Bantjies Complicity Brief](./filings/LEGAL_BRIEF_BANTJIES_COMPLICITY_2026-03-18.md)
+> **v20 Analysis:** [Red-Team Critique v16.2](./filings/RED_TEAM_CRITIQUE_2026_03_18_v16.md) | [Super-Sleuth Report](./super_sleuth_report_2026_03_15.md) | [Hyper-Holmes Report](./hyper_holmes_report_2026_03_15.md) | [Bantjies Complicity Brief](./filings/LEGAL_BRIEF_BANTJIES_COMPLICITY_2026-03-18.md)
 >
-> **Previous:** [v14 Simulation Report](./simulation/COMPOSED_REPORT_2026_03_14_v14.md) | [LEX-ENCODE v16 Proof Certificate](./lex-encode-v16-proof-certificate.md) | [Ketoni Evidence Analysis](./evidence/ketoni_evidence_analysis.md)
+> **Previous:** [v18 Index](./index_v15_backup.md) | [v14 Simulation Report](./simulation/COMPOSED_REPORT_2026_03_14_v14.md) | [LEX-ENCODE v16 Proof Certificate](./lex-encode-v16-proof-certificate.md) | [Ketoni Evidence Analysis](./evidence/ketoni_evidence_analysis.md)
+
+---
+
+## Quick Navigation: Three Application Groups
+
+| Group | Applications | Burden | Status | Key Filings |
+|-------|-------------|--------|--------|-------------|
+| **A: Civil & Criminal** | Void Ab Initio, Contempt Opposition, Civil & Criminal Actions | 50% / 95% | **MET / NEAR** | [Civil Action](./filings/civil_action_summons_REFINED_2026_01_18.md), [Criminal](./filings/criminal_case_submission_REFINED_2026_01_18.md) |
+| **B: Regulatory** | CIPC (92.03%), FIC (86.55%), SAICA (98.50%) | 50% | **ALL MET** | [CIPC v17](./filings/CIPC_COMPLAINT_REFINED_2026-03-18_v17.md), [SAICA v17](./filings/SAICA_COMPLAINT_BANTJIES_REFINED_2026-03-18_v17.md) |
+| **C: Criminal Prosecution** | Perjury (99.15%), Commercial Crime (96.12%), Tax Fraud (95.80%), POPIA (94.12%) | 95% | **3 MET, 1 NEAR** | [Perjury v17](./filings/NPA_PERJURY_BANTJIES_J417_2026-03-18_v17.md), [NPA v17](./filings/NPA_COMMERCIAL_CRIME_REFINED_2026-03-18_v17.md) |
+
+### v20 Data Model Statistics
+
+| Metric | v18 | v20 | Improvement |
+|--------|-----|-----|-------------|
+| Entities with Roles | 0 | 46 | +46 |
+| Events with ISO Dates | ~140 | 146 | +6 fixed |
+| Events with Evidence Refs | 0 | 162 | +162 |
+| Relations with Entity Links | 0 | 13 | +13 |
+| Relations with Evidence Refs | 0 | 24 | +24 |
+| ChainLex Legal Categories | 0 | 17 | +17 |
+| Application Cross-References | 0 | All | Full coverage |
 
 ---
 
@@ -255,6 +277,34 @@ The ex parte interdict granted on 19 August 2025 is **void ab initio** (void fro
 
 ---
 
-*Last updated: 2026-03-18 by LEX-ENCODE-WORKFLOW v16.3 pipeline.*
-*Pipeline: `skillm ( lex-sim-nn [ lex-rex | lexrex ] -> lex-encode-workflow ( chainlex | uniform-rules-scm ) )`*
-*v16.3 addition: Comprehensive lex-rex precedent authority research across 15+ SA cases.*
+---
+
+## v20 ChainLex Legal Category Coverage
+
+The v20 enrichment maps all entities, events, and relations to 17 ChainLex legal categories from the SA legal corpus:
+
+| Category | Domain | Entities | Events | Relations | Burden |
+|----------|--------|----------|--------|-----------|--------|
+| Fraud | Criminal | 25 | 80 | 26 | 95% |
+| Conspiracy | Criminal | 19 | 65 | 19 | 95% |
+| Revenue Diversion | Criminal | 22 | 49 | 12 | 95% |
+| Theft | Criminal | 10 | 37 | 6 | 95% |
+| Companies Act Violation | Company | 18 | 35 | 18 | 50% |
+| Identity Fraud | Criminal | 8 | 35 | 14 | 95% |
+| Contempt of Court | Criminal | 6 | 24 | 5 | 95% |
+| Tax Fraud | Criminal | 5 | 22 | 20 | 95% |
+| Forgery | Criminal | 4 | 21 | 17 | 95% |
+| Perjury | Criminal | 2 | 20 | 9 | 95% |
+| Breach of Fiduciary Duty | Civil | 2 | 18 | 2 | 50% |
+| POPIA Violation | Data Protection | 1 | 17 | 11 | 95% |
+| Intercompany Fraud | Company | 3 | 12 | 7 | 50% |
+| Breach of Trust | Civil | 2 | 6 | 1 | 50% |
+| Abuse of Process | Civil | 0 | 3 | 0 | 50% |
+| Money Laundering | Criminal | 1 | 3 | 4 | 95% |
+| Exchange Control Violation | Criminal | 2 | 2 | 0 | 95% |
+
+---
+
+*Last updated: 2026-03-23 by optimal-cognitive-grip v20 pipeline.*
+*Pipeline: `/optimal-cognitive-grip(/stable-skill-diffusion[/temporal-code-archaeology, /chainlex])`*
+*v20: ChainLex enrichment, temporal archaeology, data model enrichment, filing score reconciliation.*

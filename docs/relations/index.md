@@ -1,192 +1,49 @@
-# Master Relations Index
-
-**Last Updated:** 2026-03-18 (v18)  
-**Total Relations:** 38 documented files + 15 JSON-modeled relations  
-**Case Number:** 2025-137857  
-**Pipeline:** `/evidence-process(/skillm) -> /ksm-evolve(/regima-org-self) -> /optimal-cognitive-grip`
-
-This index catalogs all entity relationships documented in the Revenue Stream Hijacking case, organized by type and cross-referenced to all 11 applications.
-
+---
+layout: default
+title: Relations Index
 ---
 
-## Conspiracy Networks (7 relations)
+# Relations Index
 
-| Relation | Type | Key Entities | Confidence | Link |
-|----------|------|-------------|------------|------|
-| **Rynette-Bantjies Conspiracy** | Coordinated Criminal Action | Rynette, Bantjies | 99% | [View](./RYNETTE_BANTJIES_CONSPIRACY_2026_03_07.md) |
-| **Ketoni Insider Trading Network** | Financial Conspiracy | Bantjies, Peter, Kevin Derrick, FFT | 98% | [View](./KETONI_INSIDER_TRADING_NETWORK.md) |
-| **Revenue Hijacking Chain** | Financial Crime | Rynette, Linda, Gayane, Peter, Bantjies | 99% | [View](./REVENUE_HIJACKING_CHAIN.md) |
-| **Trust Capture Sequence** | Trust Fraud | Rynette, Bantjies, Peter | 99% | [View](./TRUST_CAPTURE_SEQUENCE.md) |
-| **Aymac/Kaylovest/Elliott Network** | Shell Company Network | Aymac, Kaylovest, Elliott | 95% | [View](./AYMAC_KAYLOVEST_ELLIOTT_NETWORK.md) |
-| **Coordinated Retaliation** | Manufactured Crisis | Peter, Rynette, Bantjies | 99% | [View](./COORDINATED_RETALIATION.md) |
-| **Elliott Attorneys Protection** | Obstruction | Elliott, Pottas, Rynette | 95% | [View](./ELLIOTT_ATTORNEYS_PROTECTION.md) |
-| **Bantjies False Independence** | Perjury / False Declaration | Bantjies, Master of High Court | **99%** | **[View](./BANTJIES_FALSE_INDEPENDENCE.md)** |
-| **Bantjies Secret Complicity** | Fiduciary Breach / Conspiracy | Bantjies, Rynette (46-second forward) | **100%** | **[View](../filings/LEGAL_BRIEF_BANTJIES_COMPLICITY_2026-03-18.md)** |
+**Last Updated:** 2026-03-23
 
-## Financial Fraud Relations (5 relations)
-
-| Relation | Type | Key Entities | Confidence | Link |
-|----------|------|-------------|------------|------|
-| **Peter's R10.6M Extraction** | Post-Interdict Theft | Peter, 4 entities | 99% | [View](./PETER_R10_6M_EXTRACTION.md) |
-| **Villa Via Profit Extraction** | Transfer Pricing Fraud | Villa Via, RWW | 97% | [View](./VILLA_VIA_PROFIT_EXTRACTION.md) |
-| **ReZonance Debt Fabrication** | Accounting Fraud | Rynette, ReZonance | 96% | [View](./REZONANCE_DEBT_FABRICATION.md) |
-| **Banking Mandate Fraud** | Financial Access Fraud | Peter, Rynette, FNB | 97% | [View](./BANKING_MANDATE_FRAUD.md) |
-| **Bantjies "Manufacture" Admission** | Tax Fraud | Bantjies, Rynette | 100% | [View](./MANUFACTURE_ADMISSION.md) |
-| **Ketoni Fund Flow Complete** | Investment Architecture | FFT, Ketoni, George Group, Bantjies | **99%** | **[View](./KETONI_FUND_FLOW_COMPLETE.md)** |
-
-## Corporate Governance Violations (4 relations)
-
-| Relation | Type | Key Entities | Confidence | Link |
-|----------|------|-------------|------------|------|
-| **Dual Corporate Identity** | CIPC Fraud | Villa Via / Kaylovest Three | 95% | [View](./DUAL_CORPORATE_IDENTITY.md) |
-| **Villa Via / Kaylovest Identity** | Registration Fraud | Villa Via, Kaylovest | 95% | [View](./VILLA_VIA_KAYLOVEST_IDENTITY.md) |
-| **Sabotage-Framing Link** | Operational Sabotage | Peter, Rynette | 95% | [View](./sabotage_framing_link.md) |
-| **Stock2Shop Disruption** | Platform Sabotage | Rynette, Stock2Shop | 95% | [View](./STOCK2SHOP_DISRUPTION.md) |
-
-## Identity & Digital Fraud (4 relations)
-
-| Relation | Type | Key Entities | Confidence | Link |
-|----------|------|-------------|------------|------|
-| **Identity Fraud Network** | Systematic Impersonation | Rynette | 98% | [View](./IDENTITY_FRAUD_NETWORK.md) |
-| **SARS Credential Abuse** | Tax System Fraud | Rynette, Bantjies | 98% | [View](./SARS_CREDENTIAL_ABUSE.md) |
-| **Sage System Capture** | Accounting System Fraud | Rynette | 96% | [View](./SAGE_SYSTEM_CAPTURE.md) |
-| **Domain & Digital Identity Fraud** | Platform Fraud | Rynette | 97% | [View](./DOMAIN_IDENTITY_FRAUD.md) |
-
-## Legal Process Abuse (3 relations)
-
-| Relation | Type | Key Entities | Confidence | Link |
-|----------|------|-------------|------------|------|
-| **Interdict Void Ab Initio** | Fraud on Court | Peter, Bantjies | 99% | [View](./INTERDICT_VOID_AB_INITIO.md) |
-| **Contempt Relations** | Abuse of Process | Peter | 95% | [View](./CONTEMPT_RELATIONS_2026_02_09.md) |
-| **Forgery/Backdating Relations** | Documentary Fraud | Peter, Rynette, Jacqui | 98% | [View](./FORGERY_BACKDATING_RELATIONS_2026_02_18.md) |
-
-## Intercompany Fraud Relations (4 relations)
-
-| Relation | Type | Key Entities | Confidence | Link |
-|----------|------|-------------|------------|------|
-| **Intercompany Fraud Network** | Systematic Financial Fraud | Rynette, Bantjies, Peter | 97% | [View](./INTERCOMPANY_FRAUD.md) |
-| **Stock Adjustment Fraud** | Cover-Up / Misstatement | Rynette, Bantjies | 99% | [View](./STOCK_ADJUSTMENT_FRAUD.md) |
-| **Backdated Journal Entries** | Forgery / Record Falsification | Rynette, Bantjies | 99% | [View](./BACKDATED_ENTRIES.md) |
-| **SARS Flagged Invoices** | Tax Fraud / SARS Verification | Bantjies, Rynette | 98% | [View](./SARS_FLAGGED_INVOICES.md) |
-
-## Procedural Irregularities (1 relation)
-
-| Relation | Type | Key Entities | Confidence | Link |
-|----------|------|-------------|------------|------|
-| **Rule 30/30A Dating Anomaly** | Procedural Irregularity | Elliott Attorneys | 100% | [View](./RULE_30_DATING_ANOMALY.md) |
-
-## Evidence-Based & Quantitative Relations
-
-| Relation | Type | Source | Link |
-|----------|------|--------|------|
-| **Mailbox Evidence Relations** | Communication Patterns | 101,215 email analysis | [View](./MAILBOX_EVIDENCE_RELATIONS_2026_02_09.md) |
-| **LEX-SIM-NN Attribution** | Quantitative Assessment | Differentiable simulation | [View](./LEX_SIM_NN_ATTRIBUTION_2026_03_10.md) |
-
-## Structural Relations
-
-| Relation | Type | Description | Link |
-|----------|------|-------------|------|
-| **Director Of** | Corporate Governance | Director-company relationships | [View](./director_of.md) |
-| **Shareholder Of** | Ownership | Shareholding relationships | [View](./shareholder_of.md) |
-| **Trustee Of** | Trust Law | Trustee-trust relationships | [View](./trustee_of.md) |
-| **Financial Flow** | Financial | Inter-entity fund flows | [View](./financial_flow.md) |
-
----
-
-## Relation-to-Application Matrix
-
-This matrix maps each relation to the 6 legal applications, indicating primary (P) and supporting (S) relevance.
-
-| Relation | App 1: Civil | App 2: CIPC | App 3: POPIA | App 4: Crime | App 5: Tax | App 6: FIC | App 7: Misconduct |
-|----------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| Rynette-Bantjies Conspiracy | S | S | S | **P** | S | S | **P** |
-| Ketoni Insider Trading | S | S | | **P** | **P** | **P** | **P** |
-| Revenue Hijacking Chain | **P** | S | S | **P** | **P** | **P** | S |
-| Trust Capture Sequence | **P** | **P** | S | **P** | S | S | **P** |
-| Coordinated Retaliation | **P** | S | | **P** | | | S |
-| Peter's R10.6M Extraction | **P** | S | | **P** | **P** | **P** | |
-| Villa Via Profit Extraction | **P** | **P** | | S | **P** | **P** | |
-| Banking Mandate Fraud | **P** | S | | **P** | | | |
-| Manufacture Admission | S | **P** | | **P** | **P** | S | **P** |
-| SARS Credential Abuse | | S | **P** | **P** | **P** | S | **P** |
-| Identity Fraud Network | S | S | **P** | **P** | S | S | |
-| Sage System Capture | | **P** | **P** | S | | | |
-| Domain Identity Fraud | S | S | **P** | **P** | | | |
-| Dual Corporate Identity | S | **P** | | S | **P** | **P** | |
-| Interdict Void Ab Initio | **P** | | | S | | | |
-| Forgery/Backdating | **P** | **P** | **P** | **P** | | | **P** |
-| Mailbox Evidence | S | S | **P** | **P** | S | S | S |
-| Intercompany Fraud Network | **P** | **P** | | **P** | **P** | **P** | **P** |
-| Stock Adjustment Fraud | S | **P** | | **P** | **P** | S | **P** |
-| Backdated Journal Entries | S | **P** | | **P** | S | | **P** |
-| SARS Flagged Invoices | S | S | | **P** | **P** | S | **P** |
-| Rule 30/30A Dating Anomaly | **P** | | | | | | |
-
-**P** = Primary relevance | **S** = Supporting relevance
-
----
-
-## JSON-Modeled Relations (Structured Data)
-
-The following relations are modeled in structured JSON format within this index for programmatic access:
-
-### Ownership Relations
-- **REL_OWN_001:** PERSON_005 (Dan) → ORG_003 (RegimA Zone UK) — Complete ownership, legitimate
-
-### Control Relations
-- **REL_CTRL_001:** PERSON_001 (Peter) → ORG_001 (RWW) — Directorial control, disputed
-- **REL_CTRL_002:** PERSON_002 (Rynette) → ORG_001 (RWW) — Financial controller, fraudulent
-- **REL_CTRL_009:** PERSON_004 (Jax) → PERSON_002 (Rynette) — Email diversion instruction
-- **REL_CTRL_010:** PERSON_002 (Rynette) → PERSON_LINDA — Payment redirection instruction
-- **REL_CTRL_011:** PERSON_002 (Rynette) → PERSON_GAYANE — Domain change instruction
-
-### Conspiracy Relations
-- **REL_CONSP_001:** PERSON_001 (Peter) ↔ PERSON_002 (Rynette) — Coordinated criminal activity, conclusive
-- **REL_CONSP_002:** PERSON_002 (Rynette) ↔ PERSON_007 (Bantjies) — 1,632 emails, coordinated fraud
-- **REL_CONSP_003:** PERSON_007 (Bantjies) ↔ PERSON_001 (Peter) — Fraud concealment, conclusive
-- **REL_CONSP_004:** PERSON_001 (Peter) ↔ Elliott Attorneys — Non-party protection of Rynette
-
-### Access Relations
-- **REL_ACCESS_001:** PERSON_007 (Bantjies) → ORG_001 — Financial access since 2020
-- **REL_ACCESS_002:** PERSON_002 (Rynette) → ORG_001 — Sage control since 2020
-
-### Insider Relations
-- **REL_INSIDER_001:** PERSON_007 (Bantjies) → ORG_017 (Ketoni) — Insider knowledge via George Group
-
-### Employee Collusion (KF0019 Evidence)
-- **Rynette Farrar & Peter Faucitt:** Farrar provided confirmatory affidavit (PF19) supporting Peter's contempt application against Jax.
-- **Gayane Williams & Peter Faucitt:** Williams provided confirmatory affidavit (PF20) supporting Peter's contempt application against Jax.
-- **Oliver Mphande & Peter Faucitt:** Mphande provided stock sheets (PF18) to Peter while Peter was attempting to assert control over Jax's business.
-
----
-
-## Cross-References
-
-- [Entities Index](../entities/index.md)
-- [Events Index](../events/index.md)
-- [Timeline](../timeline.md)
-- [Filings Index](../filings/index.md)
-- [Main Index](../index.md)
-
----
-
----
-
-## v17 Relation-to-Application Matrix (Updated 2026-03-18)
-
-The v17 matrix now maps relations to all 11 legal applications across 4 groups.
-
-| Relation | Group A (Court) | Group B (Regulatory) | Group C (Criminal) | Group D (Intercompany) |
-|----------|:---:|:---:|:---:|:---:|
-| Rynette-Bantjies Conspiracy | S | P | P | P |
-| Bantjies Secret Complicity (NEW) | S | P | P | S |
-| Ketoni Insider Trading | S | S | P | — |
-| Revenue Hijacking Chain | P | S | P | P |
-| Intercompany Fraud Network | P | P | P | P |
-| Stock Adjustment Fraud | S | P | P | P |
-| SARS Flagged Invoices | S | S | P | P |
-| Bantjies False Independence | P | P | P | — |
-
-**P** = Primary relevance | **S** = Supporting relevance
-
-*Last updated: 2026-03-18 (v17) by /evidence-process(/skillm) -> /ksm-evolve(/regima-org-self) -> /optimal-cognitive-grip pipeline.*
+| ID | Title | Entities | Evidence |
+|----|-------|----------|----------|
+| AYMAC_KAYLOVEST_ELLIOTT_NETWORK | [Aymac-Kaylovest-Elliott Network](./AYMAC_KAYLOVEST_ELLIOTT_NETWORK.md) | PERSON_001, PERSON_002, ORG_026, ORG_027, ORG_028, ORG_002 |  |
+| BACKDATED_ENTRIES | [Backdated Journal Entries — 2021 Forgery](./BACKDATED_ENTRIES.md) |  |  |
+| BANKING_MANDATE_FRAUD | [Banking Mandate Fraud Network](./BANKING_MANDATE_FRAUD.md) | PERSON_001, PERSON_002, PERSON_005, BANK_001 | EVENT107, SF10, SF11 |
+| BANTJIES_FALSE_INDEPENDENCE | [Bantjies False Independence Declaration](./BANTJIES_FALSE_INDEPENDENCE.md) |  |  |
+| CONTEMPT_RELATIONS_2026_02_09 | [Contempt Proceedings Relations Map](./CONTEMPT_RELATIONS_2026_02_09.md) |  | EVENT060, EVENT095, EVENT096, EVENT097, EVENT098, EVENT099, EVENT100, EVENT101 |
+| COORDINATED_RETALIATION | [Coordinated Retaliation Pattern](./COORDINATED_RETALIATION.md) |  | SF10, SF11 |
+| DOMAIN_IDENTITY_FRAUD | [Domain & Digital Identity Fraud](./DOMAIN_IDENTITY_FRAUD.md) |  | EVENT105, EVENT107, EVENT113, SF10 |
+| DUAL_CORPORATE_IDENTITY | [Relation: Dual Corporate Identity — Kaylovest Three / Villa Via](./DUAL_CORPORATE_IDENTITY.md) | ORG_005, ORG_027 | EVENT106, EVENT124 |
+| ELLIOTT_ATTORNEYS_PROTECTION | [Elliott Attorneys — Non-Party Protection](./ELLIOTT_ATTORNEYS_PROTECTION.md) |  | SF13 |
+| FORGERY_BACKDATING_RELATIONS_2026_02_18 | [Forgery & Backdating Relations — Two-Date Distinction](./FORGERY_BACKDATING_RELATIONS_2026_02_18.md) | PERSON_002, PERSON_007 | EVENT049, EVENT063, EVENT103, EVENT104, EVENT105, SF15 |
+| IDENTITY_FRAUD_NETWORK | [Relation: Identity Fraud Network](./IDENTITY_FRAUD_NETWORK.md) |  | EVENT103, EVENT105, EVENT107, EVENT108, EVENT113, SF10 |
+| INTERCOMPANY_FRAUD | [Intercompany Fraud Network](./INTERCOMPANY_FRAUD.md) |  |  |
+| INTERDICT_VOID_AB_INITIO | [Interdict Void Ab Initio — Complete Analysis](./INTERDICT_VOID_AB_INITIO.md) |  |  |
+| KETONI_FUND_FLOW_COMPLETE | [Ketoni Fund Flow — Complete Architecture](./KETONI_FUND_FLOW_COMPLETE.md) |  |  |
+| KETONI_INSIDER_TRADING_NETWORK | [Relation: Ketoni Insider Trading Network](./KETONI_INSIDER_TRADING_NETWORK.md) | PERSON_007, PERSON_001, PERSON_002, PERSON_015, ORG_016, TRUST_001 | EVENT103, EVENT117, EVENT119 |
+| LEX_SIM_NN_ATTRIBUTION_2026_03_10 | [LEX-SIM-NN Evidence Attribution Relations](./LEX_SIM_NN_ATTRIBUTION_2026_03_10.md) |  |  |
+| MAILBOX_EVIDENCE_RELATIONS_2026_02_09 | [Relations from Mailbox Evidence (2026-02-09)](./MAILBOX_EVIDENCE_RELATIONS_2026_02_09.md) |  |  |
+| MANUFACTURE_ADMISSION | [Bantjies "Manufacture" Admission](./MANUFACTURE_ADMISSION.md) |  | EVENT119 |
+| PETER_R10_6M_EXTRACTION | [Peter's R10.6M Post-Interdict Extraction](./PETER_R10_6M_EXTRACTION.md) |  |  |
+| REL_037 | [REL_037: Unauthorized Access to Tax Records](./REL_037.md) | PERSON_001, PERSON_002, PLATFORM_002 | EVENT174 |
+| REL_038 | [REL_038: Deliberate API Severance](./REL_038.md) | PERSON_001, PERSON_002, PLATFORM_003 | EVENT175 |
+| REVENUE_HIJACKING_CHAIN | [Relation: Revenue Hijacking Chain](./REVENUE_HIJACKING_CHAIN.md) | PERSON_002, PERSON_020, PERSON_021, PERSON_001, PERSON_007, BANK_ACCOUNT_ABSA | EVENT114, EVENT115, EVENT119, EVENT121, SF10 |
+| REZONANCE_DEBT_FABRICATION | [ReZonance Debt Fabrication](./REZONANCE_DEBT_FABRICATION.md) |  |  |
+| RULE_30_DATING_ANOMALY | [Rule 30/30A Dating Anomaly — Elliott Attorneys](./RULE_30_DATING_ANOMALY.md) |  | EVENT103, EVENT132 |
+| RYNETTE_BANTJIES_CONSPIRACY_2026_03_07 | [Rynette Farrar — Daniel Bantjies: Coordinated Conspiracy Relations](./RYNETTE_BANTJIES_CONSPIRACY_2026_03_07.md) |  | EVENT103, EVENT114, EVENT115, EVENT116, EVENT117, EVENT119, EVENT120 |
+| SAGE_SYSTEM_CAPTURE | [Sage Accounting System Capture](./SAGE_SYSTEM_CAPTURE.md) |  | EVENT105, EVENT110, SF11 |
+| SARS_CREDENTIAL_ABUSE | [SARS Credential Abuse Network](./SARS_CREDENTIAL_ABUSE.md) |  | EVENT103, EVENT107 |
+| SARS_FLAGGED_INVOICES | [SARS Flagged Invoices — February 2025](./SARS_FLAGGED_INVOICES.md) |  | EVENT126 |
+| STOCK2SHOP_DISRUPTION | [Stock2Shop Platform Disruption](./STOCK2SHOP_DISRUPTION.md) |  |  |
+| STOCK_ADJUSTMENT_FRAUD | [Stock Adjustment Fraud — R4.2M Discrepancy](./STOCK_ADJUSTMENT_FRAUD.md) |  |  |
+| TRUST_CAPTURE_SEQUENCE | [Relation: Trust Capture Sequence](./TRUST_CAPTURE_SEQUENCE.md) |  | EVENT103, EVENT104, EVENT105, EVENT107, EVENT108, EVENT114, EVENT115, EVENT117, SF15 |
+| VILLA_VIA_KAYLOVEST_IDENTITY | [Villa Via Arcadia No 2 CC and Kaylovest Three (Pty) Ltd — Dual Entity Under Same Base Number](./VILLA_VIA_KAYLOVEST_IDENTITY.md) | ORG_005, ORG_027, PERSON_001 | EVENT106 |
+| VILLA_VIA_PROFIT_EXTRACTION | [Villa Via Profit Extraction Scheme](./VILLA_VIA_PROFIT_EXTRACTION.md) |  | EVENT124 |
+| director_of | [Director Of Relations](./director_of.md) | PERSON_001, ORG_001, PERSON_001, ORG_002, PERSON_001, ORG_004, PERSON_001, ORG_006, PERSON_004, ORG_001, PERSON_005, ORG_001, PERSON_005, ORG_003, PERSON_005, ORG_008, PERSON_013, ORG_008, PERSON_014, ORG_017, PERSON_014, ORG_018 |  |
+| financial_flow | [Financial Flow Relations](./financial_flow.md) | ORG_002, ORG_008, ORG_017, TRUST_001, ORG_001, BANK_ACCOUNT_ABSA | SF12 |
+| sabotage_framing_link | [Sabotage-Framing Link Relation](./sabotage_framing_link.md) |  | EVENT110 |
+| shareholder_of | [Shareholder Of Relations](./shareholder_of.md) | TRUST_001, ORG_001, TRUST_001, ORG_017, PERSON_005, ORG_003, PERSON_005, ORG_008, PERSON_013, ORG_008 |  |
+| trustee_of | [Trustee Of Relations](./trustee_of.md) | PERSON_001, TRUST_001, PERSON_004, TRUST_001, PERSON_007, TRUST_001 | SF15 |
