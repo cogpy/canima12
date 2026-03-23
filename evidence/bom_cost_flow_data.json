@@ -1,0 +1,340 @@
+{
+  "generated": "2026-03-22T17:23:39.942272",
+  "description": "BOM Forensic Cost Flow Analysis \u2014 Strategic Logistics CC",
+  "slg_account": "62432501494",
+  "rst_account": "55270035642",
+  "fiscal_year_cost_flows": {
+    "FY2016": {
+      "manufacturer": 0,
+      "packaging": 0,
+      "raw_materials": 0,
+      "logistics": 0,
+      "other": 7500.0,
+      "total_input": 7500.0,
+      "estimated_cogs": 0
+    },
+    "FY2017": {
+      "manufacturer": 1179014.0,
+      "packaging": 4554819.31,
+      "raw_materials": 821431.56,
+      "logistics": 0,
+      "other": 1174227.11,
+      "total_input": 7729491.98,
+      "estimated_cogs": 6555264.87
+    },
+    "FY2018": {
+      "manufacturer": 6960903.95,
+      "packaging": 8026434.37,
+      "raw_materials": 1747270.54,
+      "logistics": 0,
+      "other": 1127519.72,
+      "total_input": 17862128.58,
+      "estimated_cogs": 16734608.86
+    },
+    "FY2019": {
+      "manufacturer": 6515301.68,
+      "packaging": 4570790.0,
+      "raw_materials": 2602473.22,
+      "logistics": 0,
+      "other": 1979927.69,
+      "total_input": 15668492.59,
+      "estimated_cogs": 13688564.9
+    },
+    "FY2020": {
+      "manufacturer": 6258436.46,
+      "packaging": 3958232.48,
+      "raw_materials": 2494210.93,
+      "logistics": 65903.41,
+      "other": 1851558.03,
+      "total_input": 14628341.31,
+      "estimated_cogs": 12710879.87,
+      "tb_finished_goods": 934840.08,
+      "tb_cost_of_sales": 13993637.14,
+      "note": "TB shows R935K finished goods; BOM already active"
+    },
+    "FY2021": {
+      "manufacturer": 7986982.4,
+      "packaging": 3286331.67,
+      "raw_materials": 3481537.45,
+      "logistics": 188330.35,
+      "other": 1678329.63,
+      "total_input": 16621511.5,
+      "estimated_cogs": 14754851.52
+    },
+    "FY2022": {
+      "manufacturer": 8222537.2,
+      "packaging": 9281491.78,
+      "raw_materials": 5269540.34,
+      "logistics": 308867.74,
+      "other": 1784369.24,
+      "total_input": 24866806.3,
+      "estimated_cogs": 22773569.32
+    },
+    "FY2023": {
+      "manufacturer": 9636935.67,
+      "packaging": 5118605.71,
+      "raw_materials": 5756267.82,
+      "logistics": 277307.61,
+      "other": 1543016.05,
+      "total_input": 22332132.86,
+      "estimated_cogs": 20511809.2
+    },
+    "FY2024": {
+      "manufacturer": 4876964.8,
+      "packaging": 3540262.61,
+      "raw_materials": 1302579.12,
+      "logistics": 172692.95,
+      "other": 5624151.86,
+      "total_input": 15516651.34,
+      "estimated_cogs": 9719806.53,
+      "tb_phantom_stock": 1443217.78,
+      "tb_negative_stock": 2756321.85,
+      "total_discrepancy": 4199539.63,
+      "note": "R4.2M discrepancy: R1.44M phantom + R2.76M negative"
+    },
+    "FY2025": {
+      "manufacturer": 0,
+      "packaging": 0,
+      "raw_materials": 0,
+      "logistics": 0,
+      "other": 855306.87,
+      "total_input": 855306.87,
+      "estimated_cogs": 0
+    },
+    "FY2026": {
+      "manufacturer": 0,
+      "packaging": 0,
+      "raw_materials": 0,
+      "logistics": 0,
+      "other": 1501977.1,
+      "total_input": 1501977.1,
+      "estimated_cogs": 0
+    }
+  },
+  "top_vendors": {
+    "Prime Product Manufacturing (Prime Regima)": {
+      "total": 42574669.23,
+      "count": 102,
+      "first_transaction": "2016-12-13",
+      "last_transaction": "2023-08-30"
+    },
+    "Young Pioneer Containers": {
+      "total": 10260213.11,
+      "count": 24,
+      "first_transaction": "2016-08-04",
+      "last_transaction": "2019-05-02"
+    },
+    "Proficos": {
+      "total": 9062406.93,
+      "count": 61,
+      "first_transaction": "2016-11-07",
+      "last_transaction": "2023-08-30"
+    },
+    "Containers Floraison": {
+      "total": 8935658.54,
+      "count": 15,
+      "first_transaction": "2019-06-22",
+      "last_transaction": "2021-10-29"
+    },
+    "Regima Jars": {
+      "total": 6376758.05,
+      "count": 13,
+      "first_transaction": "2021-07-27",
+      "last_transaction": "2023-07-24"
+    },
+    "Masterpack": {
+      "total": 5733980.28,
+      "count": 66,
+      "first_transaction": "2016-11-30",
+      "last_transaction": "2023-08-31"
+    },
+    "CJP Chemicals (Seppic actives)": {
+      "total": 5252889.77,
+      "count": 48,
+      "first_transaction": "2016-12-31",
+      "last_transaction": "2023-08-31"
+    },
+    "Natchem (Botanical extracts)": {
+      "total": 4170047.43,
+      "count": 72,
+      "first_transaction": "2016-12-31",
+      "last_transaction": "2023-08-31"
+    },
+    "Mosaic": {
+      "total": 3903080.17,
+      "count": 8,
+      "first_transaction": "2017-06-30",
+      "last_transaction": "2017-11-29"
+    },
+    "Carst & Walker (Mibelle peptides)": {
+      "total": 3144602.3,
+      "count": 48,
+      "first_transaction": "2017-01-31",
+      "last_transaction": "2023-08-31"
+    },
+    "Alistin (Peptide ingredient)": {
+      "total": 2506785.2,
+      "count": 10,
+      "first_transaction": "2020-08-28",
+      "last_transaction": "2023-01-31"
+    },
+    "Consupaq": {
+      "total": 1889829.11,
+      "count": 33,
+      "first_transaction": "2018-07-31",
+      "last_transaction": "2023-08-31"
+    },
+    "FNB OB 000000091 Dan": {
+      "total": 1500000.0,
+      "count": 3,
+      "first_transaction": "2025-07-16",
+      "last_transaction": "2025-07-16"
+    },
+    "Drieline": {
+      "total": 1498615.6,
+      "count": 13,
+      "first_transaction": "2021-06-03",
+      "last_transaction": "2022-11-16"
+    },
+    "Strategic Log - Chem": {
+      "total": 1452358.8,
+      "count": 46,
+      "first_transaction": "2016-10-27",
+      "last_transaction": "2023-08-31"
+    },
+    "Labelpak": {
+      "total": 1445479.82,
+      "count": 107,
+      "first_transaction": "2016-10-24",
+      "last_transaction": "2023-08-31"
+    },
+    "Meganede (Specialty ingredients)": {
+      "total": 1426693.6,
+      "count": 36,
+      "first_transaction": "2017-07-31",
+      "last_transaction": "2023-06-30"
+    },
+    "Chempure (Chemicals)": {
+      "total": 1361159.6,
+      "count": 22,
+      "first_transaction": "2018-09-11",
+      "last_transaction": "2023-08-31"
+    },
+    "Croda (Matrixyl peptides)": {
+      "total": 1280023.72,
+      "count": 35,
+      "first_transaction": "2017-03-01",
+      "last_transaction": "2023-03-31"
+    },
+    "Merck (Chemicals)": {
+      "total": 1200407.9,
+      "count": 28,
+      "first_transaction": "2016-12-31",
+      "last_transaction": "2022-03-31"
+    },
+    "Materia Medica": {
+      "total": 1184826.6,
+      "count": 7,
+      "first_transaction": "2018-08-02",
+      "last_transaction": "2023-04-21"
+    },
+    "Crystal Pack": {
+      "total": 1177393.25,
+      "count": 14,
+      "first_transaction": "2017-06-15",
+      "last_transaction": "2023-08-07"
+    },
+    "Regima Containers": {
+      "total": 1115960.0,
+      "count": 2,
+      "first_transaction": "2022-06-17",
+      "last_transaction": "2022-06-17"
+    },
+    "Savannah Fine Chem": {
+      "total": 1062769.27,
+      "count": 24,
+      "first_transaction": "2017-06-30",
+      "last_transaction": "2023-06-30"
+    },
+    "FNB OB 000000001 Bar": {
+      "total": 797407.03,
+      "count": 1,
+      "first_transaction": "2016-03-23",
+      "last_transaction": "2016-03-23"
+    },
+    "Hexachem": {
+      "total": 780763.75,
+      "count": 8,
+      "first_transaction": "2018-09-29",
+      "last_transaction": "2020-12-31"
+    },
+    "FNB OB 000000087 Con": {
+      "total": 703915.0,
+      "count": 1,
+      "first_transaction": "2024-03-19",
+      "last_transaction": "2024-03-19"
+    },
+    "Courier Logix": {
+      "total": 688362.9,
+      "count": 30,
+      "first_transaction": "2019-08-08",
+      "last_transaction": "2023-05-23"
+    },
+    "FNB OB 000000009 Pri": {
+      "total": 617734.58,
+      "count": 1,
+      "first_transaction": "2023-09-29",
+      "last_transaction": "2023-09-29"
+    },
+    "Blakelin Plastics": {
+      "total": 557623.88,
+      "count": 19,
+      "first_transaction": "2017-02-28",
+      "last_transaction": "2022-10-31"
+    }
+  },
+  "category_totals": {
+    "manufacturer": 51637076.16,
+    "other": 19127883.3,
+    "raw_materials": 23475310.98,
+    "packaging": 42336967.93,
+    "logistics": 1013102.06
+  },
+  "rst_manufacturer_payments": {
+    "Prime Product Manufacturing (Prime Regima)": 20266578.55,
+    "Proficos": 7070180.73
+  },
+  "trial_balance_reference": {
+    "FY2020": {
+      "period": "Mar 2019 \u2013 Feb 2020",
+      "finished_goods_7700": 934840.08,
+      "finished_goods_7700_adjusted": 693510.89,
+      "raw_mat_primary_7540": 1516479.49,
+      "raw_mat_empty_cont_7650": 4274946.92,
+      "raw_mat_boxes_7750": 8231078.0,
+      "cost_of_sales_2000": 13993637.14,
+      "inventory_adjustment_2100_dr": 48423.24,
+      "inventory_adjustment_2100_cr": 164089.4,
+      "source": "SL - TRIAL BALANCE 2020.xlsx (forensic_trial_balances.json)"
+    },
+    "FY2024": {
+      "period": "Mar 2023 \u2013 Feb 2024",
+      "finished_goods_tb": 1443217.78,
+      "finished_goods_valuation": 0.0,
+      "finished_goods_credit": 2756321.85,
+      "total_discrepancy": 4199539.63,
+      "source": "Rynette email 4 Apr 2025 to Bantjies"
+    }
+  },
+  "methodology": {
+    "data_source": "FNB bank statements via fincosys/fund_flow/all_transactions_enriched.csv",
+    "classification": "Vendors classified by name matching against known supplier categories",
+    "fiscal_year": "March to February (aligned with SLG financial year)",
+    "limitations": [
+      "Bank payments show gross amounts, not unit prices or quantities",
+      "Some vendors may be misclassified in \"other\" category",
+      "No item-level Pastel stock transaction data available",
+      "Manufacturing invoices from Prime/Proficos not individually available"
+    ]
+  }
+}
