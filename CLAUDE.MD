@@ -512,3 +512,70 @@ Additionally, the **fabricated 2019 financial statements for "RegimA SA"** were 
 ---
 
 *Last updated: 2026-02-09*
+
+---
+
+## Current Investigation: Stock Audit & Inventory Forensics (2026-03-23)
+
+### Session Context
+Branch: `claude/investigate-stock-audit-issues-zdJeF`
+This repo provides the structured data models and BOM cost flow analysis for the stock audit investigation.
+
+### Work Completed This Session
+
+#### BOM Forensic Cost Flow Analysis
+- Added `evidence/bom_cost_flow_data.json` — comprehensive Bill of Materials cost flow analysis for SLG stock audit
+- Documents the manufacturing-to-distribution cost chain: RST (manufacturing) → RWD (distribution) → SLG (logistics) → RSA (retail)
+- Maps how phantom entries in RST manufacturing (via Pastel manufacturing module) propagate through the entire supply chain
+
+#### Entity-Relation Model Updates
+- `data_models/entities.json` — 86+ entities including all stock-related entities
+- `data_models/events.json` — 130+ events including stock adjustment events
+- `data_models/relations.json` — 123+ relations including intercompany stock flows
+
+### Key Data Assets for Stock Investigation
+
+| File | Purpose |
+|------|---------|
+| `evidence/bom_cost_flow_data.json` | BOM cost flow chain (RST→RWD→SLG→RSA) |
+| `evidence/intercompany_stock_analysis.md` | Intercompany stock movement analysis |
+| `data_models/entities/` | All entity definitions (companies, persons, accounts) |
+| `data_models/events/` | Chronological event records |
+| `data_models/stock_flow_model_2026_03_07.json` | Stock flow dynamics model |
+| `data_models/entity_relation_framework_v50_bantjies_farrar.scm` | Latest Scheme framework with Bantjies/Farrar roles |
+| `evidence/accounting/` | Accounting records and trial balances |
+| `evidence/fabricated_accounts/` | Fabricated account evidence (De Novo) |
+
+### Findings Relevant to This Repo
+
+1. **R5.4M SLG stock disappearance** — documented in BOM cost flow analysis showing supply chain break
+2. **RST phantom entries** — Pastel manufacturing module used to inflate finished goods (R1,443,217.78)
+3. **R58.58M unreconciled intercompany volume** — no reconciliation at any point in the RWD hub
+4. **Rynette's sole control** — all stock adjustments across all entities controlled by single person
+5. **Bantjies' complicity** — acknowledged "huge gaps" but took no action; dismissed R246K flag
+
+### Next Steps for Next Iteration
+
+#### Priority 1 — Data Model Updates
+- [ ] Update `data_models/entities.json` with enriched inventory entity data from ad-res-j7/analysis
+- [ ] Add new stock-audit-specific events to `data_models/events.json` (Bantjies Feb 2024 flag, SARS query, Pastel seizure Jul 2025)
+- [ ] Create new relations linking Rynette to stock adjustments across all entities
+- [ ] Update Scheme framework (v51) with inventory control failure patterns
+
+#### Priority 2 — Evidence Enrichment
+- [ ] Cross-reference BOM cost flow data with fincosys transaction records for validation
+- [ ] Search comcosys email archive for evidence of stock adjustment instructions
+- [ ] Add SARS correspondence regarding year-end intercompany invoices to evidence catalog
+
+#### Priority 3 — Filing Updates
+- [ ] Update SARS complaint in `SUPER_REFINED_FILINGS_2026_02_08/` with stock audit quantification
+- [ ] Add stock disappearance evidence to NPA referral (PRECCA threshold exceeded at R5.4M)
+- [ ] Integrate inventory findings into foreknowledge register (`provable-foreknowledge/`)
+
+#### Priority 4 — Visualization
+- [ ] Generate stock flow diagram showing RST→RWD→SLG→RSA chain with loss points
+- [ ] Update GitHub Pages documentation with stock audit findings
+- [ ] Create Ketoni payout impact diagram showing how stock losses reduce trust assets
+
+### Ecosystem Role
+This repo synthesizes evidence from ad-res-j7 (annexures JF01-JF16, SF1-SF8+) into structured data models that feed the lex inference engine. The BOM cost flow analysis is a key new asset that should be referenced by the ad-res-j7 entity files and the analysis repo's consolidated reports.
