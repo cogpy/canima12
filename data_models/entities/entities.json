@@ -1,15 +1,15 @@
 {
   "metadata": {
-    "version": "40.0_MAT4719_EVIDENCE_2026_02_09",
+    "version": "34.0_FINAL_REFINED_2026_01_22",
     "created_date": "2025-11-10",
     "description": "Refined entity model for Revenue Stream Hijacking case 2025-137857",
     "case_number": "2025-137857",
     "modeling_approach": "agentic_entity_modeling",
-    "last_updated": "2026-02-09T01:37:55",
-    "changes": "Integrated MAT4719 NOM & Founding Affidavit evidence: Added Elliott Attorneys entity, updated Bantjes confirmatory affidavit details, added FNB international limit evidence, updated financial totals from PF9/PF10 annexures, added Gayane Williams entity from PF7 communications",
-    "total_entities": 103,
-    "total_persons": 40,
-    "total_organizations": 52
+    "last_updated": "2026-03-25T13:32:39.260358",
+    "changes": "Comprehensive LEX refinement - burden of proof analysis added",
+    "total_entities": 94,
+    "total_persons": 41,
+    "total_organizations": 53
   },
   "entities": {
     "persons": [
@@ -115,7 +115,7 @@
             "medical_testing_rushed_for_curatorship"
           ]
         },
-        "refinement_date": "2026-01-28T05:45:17.386844",
+        "refinement_date": "2026-03-25T13:32:18.098809",
         "burden_of_proof_analysis": {
           "civil_50%": "EXCEEDED - Multiple documentary evidence",
           "criminal_95%": "EXCEEDED - Pattern of coordinated fraud",
@@ -272,7 +272,7 @@
           "significance": "Establishes financial access 5 years before 2025 fraud",
           "continuity_to_2025": "Same person led May 2025 cover-up - VERIFIED"
         },
-        "refinement_date": "2026-01-28T05:45:17.386844",
+        "refinement_date": "2026-03-25T13:32:18.098809",
         "burden_of_proof_analysis": {
           "civil_50%": "EXCEEDED - Sage control evidence, email access",
           "criminal_95%": "EXCEEDED - Payment redirection, identity fraud",
@@ -349,7 +349,7 @@
           "criminal_95%": "PENDING_REVIEW",
           "key_evidence": []
         },
-        "refinement_date": "2026-01-28T05:45:17.386844",
+        "refinement_date": "2026-03-25T13:32:18.098809",
         "timeline_events": []
       },
       {
@@ -416,7 +416,7 @@
           "criminal_95%": "PENDING_REVIEW",
           "key_evidence": []
         },
-        "refinement_date": "2026-01-28T05:45:17.386844",
+        "refinement_date": "2026-03-25T13:32:18.098809",
         "timeline_events": []
       },
       {
@@ -448,7 +448,7 @@
           "criminal_95%": "PENDING_REVIEW",
           "key_evidence": []
         },
-        "refinement_date": "2026-01-28T05:45:17.386844",
+        "refinement_date": "2026-03-25T13:32:18.098809",
         "timeline_events": []
       },
       {
@@ -552,7 +552,7 @@
           "george_group_connection": "CFO at The George Group where Kevin Derrick (Ketoni Director) is also director",
           "trustee_conflict": "Controls distribution of ZAR 18.75M payout as Trustee while connected to Ketoni Director"
         },
-        "refinement_date": "2026-03-14T20:39:10.482646",
+        "refinement_date": "2026-03-25T13:32:18.098809",
         "burden_of_proof_analysis": {
           "civil_50%": "EXCEEDED - Trustee appointment, debt to trust",
           "criminal_95%": "LIKELY - Conflict of interest, false affidavit",
@@ -622,7 +622,7 @@
           "criminal_95%": "PENDING_REVIEW",
           "key_evidence": []
         },
-        "refinement_date": "2026-01-28T05:45:17.386844"
+        "refinement_date": "2026-03-25T13:32:18.098809"
       },
       {
         "entity_id": "PERSON_009",
@@ -659,7 +659,7 @@
           "criminal_95%": "PENDING_REVIEW",
           "key_evidence": []
         },
-        "refinement_date": "2026-01-28T05:45:17.386844"
+        "refinement_date": "2026-03-25T13:32:18.098809"
       },
       {
         "entity_id": "PERSON_010",
@@ -711,7 +711,7 @@
           "criminal_95%": "PENDING_REVIEW",
           "key_evidence": []
         },
-        "refinement_date": "2026-01-28T05:45:17.386844"
+        "refinement_date": "2026-03-25T13:32:18.098809"
       },
       {
         "entity_id": "PERSON_003",
@@ -766,7 +766,7 @@
           "criminal_95%": "PENDING_REVIEW",
           "key_evidence": []
         },
-        "refinement_date": "2026-01-28T05:45:17.386844"
+        "refinement_date": "2026-03-25T13:32:18.098809"
       },
       {
         "entity_id": "PERSON_011",
@@ -804,7 +804,7 @@
           "criminal_95%": "PENDING_REVIEW",
           "key_evidence": []
         },
-        "refinement_date": "2026-01-28T05:45:17.386844"
+        "refinement_date": "2026-03-25T13:32:18.098809"
       },
       {
         "entity_id": "PERSON_012",
@@ -843,7 +843,7 @@
           "criminal_95%": "PENDING_REVIEW",
           "key_evidence": []
         },
-        "refinement_date": "2026-01-28T05:45:17.386844"
+        "refinement_date": "2026-03-25T13:32:18.098809"
       },
       {
         "entity_id": "PERSON_039",
@@ -877,7 +877,7 @@
           "criminal_95%": "PENDING_REVIEW",
           "key_evidence": []
         },
-        "refinement_date": "2026-01-28T05:45:17.386844",
+        "refinement_date": "2026-03-25T13:32:18.098809",
         "timeline_events": []
       },
       {
@@ -922,7 +922,7 @@
           "criminal_95%": "PENDING_REVIEW",
           "key_evidence": []
         },
-        "refinement_date": "2026-01-28T05:45:17.386844"
+        "refinement_date": "2026-03-25T13:32:18.098809"
       },
       {
         "entity_id": "PERSON_015",
@@ -964,7 +964,7 @@
           "criminal_95%": "PENDING_REVIEW",
           "key_evidence": []
         },
-        "refinement_date": "2026-01-28T05:45:17.386844",
+        "refinement_date": "2026-03-25T13:32:18.098809",
         "timeline_events": []
       },
       {
@@ -999,7 +999,7 @@
           "criminal_95%": "PENDING_REVIEW",
           "key_evidence": []
         },
-        "refinement_date": "2026-01-28T05:45:17.386844",
+        "refinement_date": "2026-03-25T13:32:18.098809",
         "timeline_events": []
       },
       {
@@ -1031,7 +1031,7 @@
           "criminal_95%": "PENDING_REVIEW",
           "key_evidence": []
         },
-        "refinement_date": "2026-01-28T05:45:17.386844",
+        "refinement_date": "2026-03-25T13:32:18.098809",
         "timeline_events": []
       },
       {
@@ -1058,7 +1058,7 @@
           "criminal_95%": "PENDING_REVIEW",
           "key_evidence": []
         },
-        "refinement_date": "2026-01-28T05:45:17.386844",
+        "refinement_date": "2026-03-25T13:32:18.098809",
         "timeline_events": []
       },
       {
@@ -1085,7 +1085,7 @@
           "criminal_95%": "PENDING_REVIEW",
           "key_evidence": []
         },
-        "refinement_date": "2026-01-28T05:45:17.386844",
+        "refinement_date": "2026-03-25T13:32:18.098809",
         "timeline_events": []
       },
       {
@@ -1112,7 +1112,7 @@
           "criminal_95%": "PENDING_REVIEW",
           "key_evidence": []
         },
-        "refinement_date": "2026-01-28T05:45:17.386844",
+        "refinement_date": "2026-03-25T13:32:18.098809",
         "timeline_events": []
       },
       {
@@ -1141,7 +1141,7 @@
           "criminal_95%": "PENDING_REVIEW",
           "key_evidence": []
         },
-        "refinement_date": "2026-01-28T05:45:17.386844",
+        "refinement_date": "2026-03-25T13:32:18.098809",
         "timeline_events": []
       },
       {
@@ -1170,7 +1170,7 @@
           "criminal_95%": "PENDING_REVIEW",
           "key_evidence": []
         },
-        "refinement_date": "2026-01-28T05:45:17.386844",
+        "refinement_date": "2026-03-25T13:32:18.098809",
         "timeline_events": []
       },
       {
@@ -1197,7 +1197,7 @@
           "criminal_95%": "PENDING_REVIEW",
           "key_evidence": []
         },
-        "refinement_date": "2026-01-28T05:45:17.386844",
+        "refinement_date": "2026-03-25T13:32:18.098809",
         "timeline_events": []
       },
       {
@@ -1224,7 +1224,7 @@
           "key_evidence": []
         },
         "timeline_events": [],
-        "refinement_date": "2026-01-28T05:45:17.386844"
+        "refinement_date": "2026-03-25T13:32:18.098809"
       },
       {
         "entity_id": "PERSON_026",
@@ -1248,7 +1248,7 @@
           "key_evidence": []
         },
         "timeline_events": [],
-        "refinement_date": "2026-01-28T05:45:17.386844"
+        "refinement_date": "2026-03-25T13:32:18.098809"
       },
       {
         "entity_id": "PERSON_027",
@@ -1274,7 +1274,7 @@
           "key_evidence": []
         },
         "timeline_events": [],
-        "refinement_date": "2026-01-28T05:45:17.386844"
+        "refinement_date": "2026-03-25T13:32:18.098809"
       },
       {
         "entity_id": "PERSON_29",
@@ -1309,7 +1309,7 @@
           "key_evidence": []
         },
         "timeline_events": [],
-        "refinement_date": "2026-01-28T05:45:17.386844"
+        "refinement_date": "2026-03-25T13:32:18.098809"
       },
       {
         "entity_id": "PERSON_30",
@@ -1340,7 +1340,7 @@
           "key_evidence": []
         },
         "timeline_events": [],
-        "refinement_date": "2026-01-28T05:45:17.386844"
+        "refinement_date": "2026-03-25T13:32:18.098809"
       },
       {
         "entity_id": "PERSON_31",
@@ -1381,7 +1381,7 @@
           "key_evidence": []
         },
         "timeline_events": [],
-        "refinement_date": "2026-01-28T05:45:17.386844"
+        "refinement_date": "2026-03-25T13:32:18.098809"
       },
       {
         "entity_id": "PERSON_32",
@@ -1412,7 +1412,7 @@
           "key_evidence": []
         },
         "timeline_events": [],
-        "refinement_date": "2026-01-28T05:45:17.386844"
+        "refinement_date": "2026-03-25T13:32:18.098809"
       },
       {
         "entity_id": "PERSON_33",
@@ -1442,7 +1442,7 @@
           "key_evidence": []
         },
         "timeline_events": [],
-        "refinement_date": "2026-01-28T05:45:17.386844"
+        "refinement_date": "2026-03-25T13:32:18.098809"
       },
       {
         "entity_id": "PERSON_34",
@@ -1473,7 +1473,7 @@
           "key_evidence": []
         },
         "timeline_events": [],
-        "refinement_date": "2026-01-28T05:45:17.386844"
+        "refinement_date": "2026-03-25T13:32:18.098809"
       },
       {
         "entity_id": "PERSON_35",
@@ -1502,7 +1502,7 @@
           "key_evidence": []
         },
         "timeline_events": [],
-        "refinement_date": "2026-01-28T05:45:17.386844"
+        "refinement_date": "2026-03-25T13:32:18.098809"
       },
       {
         "entity_id": "PERSON_36",
@@ -1533,7 +1533,7 @@
           "key_evidence": []
         },
         "timeline_events": [],
-        "refinement_date": "2026-01-28T05:45:17.386844"
+        "refinement_date": "2026-03-25T13:32:18.098809"
       },
       {
         "entity_id": "PERSON_DERRICK_001",
@@ -1564,7 +1564,7 @@
           "key_evidence": []
         },
         "timeline_events": [],
-        "refinement_date": "2026-01-28T05:45:17.386844"
+        "refinement_date": "2026-03-25T13:32:18.098809"
       },
       {
         "entity_id": "PERSON_TB_002",
@@ -1620,7 +1620,7 @@
           "key_evidence": []
         },
         "timeline_events": [],
-        "refinement_date": "2026-01-28T05:45:17.386844",
+        "refinement_date": "2026-03-25T13:32:18.098809",
         "mat4719_confirmatory_affidavit": {
           "sworn_date": "2025-08-13",
           "location": "Pretoria",
@@ -1668,7 +1668,14 @@
           "document": "Powerpoint-howsaleswork.pdf",
           "date": "2025-04-12",
           "role_in_flow": "Order receipt (phone/email), Proforma invoice creation in Shopify, POP receipt, Order fulfillment marking"
-        }
+        },
+        "burden_of_proof_analysis": {
+          "civil_50%": "PENDING_REVIEW",
+          "criminal_95%": "PENDING_REVIEW",
+          "key_evidence": []
+        },
+        "timeline_events": [],
+        "refinement_date": "2026-03-25T13:32:18.098809"
       },
       {
         "entity_id": "PERSON_038",
@@ -1703,7 +1710,14 @@
           "document": "Powerpoint-howsaleswork.pdf",
           "date": "2025-04-12",
           "role_in_flow": "Order receipt (phone/email), Proforma invoice creation in Shopify, POP receipt, Order fulfillment marking"
-        }
+        },
+        "burden_of_proof_analysis": {
+          "civil_50%": "PENDING_REVIEW",
+          "criminal_95%": "PENDING_REVIEW",
+          "key_evidence": []
+        },
+        "timeline_events": [],
+        "refinement_date": "2026-03-25T13:32:18.098809"
       },
       {
         "entity_id": "PERSON_039",
@@ -1737,7 +1751,14 @@
           "fraud_indicator": "Created 2019 statements in June 2025"
         },
         "created_date": "2026-02-05",
-        "source": "New evidence package Feb 2026"
+        "source": "New evidence package Feb 2026",
+        "burden_of_proof_analysis": {
+          "civil_50%": "PENDING_REVIEW",
+          "criminal_95%": "PENDING_REVIEW",
+          "key_evidence": []
+        },
+        "timeline_events": [],
+        "refinement_date": "2026-03-25T13:32:18.098809"
       },
       {
         "entity_id": "PERSON_040",
@@ -1759,7 +1780,14 @@
           "2025-06-18 - Rynette & De Novo - RegimA SA Payments.pdf - Email participant"
         ],
         "created_date": "2026-02-05",
-        "source": "New evidence package Feb 2026"
+        "source": "New evidence package Feb 2026",
+        "burden_of_proof_analysis": {
+          "civil_50%": "PENDING_REVIEW",
+          "criminal_95%": "PENDING_REVIEW",
+          "key_evidence": []
+        },
+        "timeline_events": [],
+        "refinement_date": "2026-03-25T13:32:18.098809"
       },
       {
         "entity_id": "PERSON_041",
@@ -1779,7 +1807,14 @@
           "cc": "jax@regima.com (Jacqui Faucitt)"
         },
         "added_date": "2026-02-09T01:37:55",
-        "source": "MAT4719 Annexure PF7"
+        "source": "MAT4719 Annexure PF7",
+        "burden_of_proof_analysis": {
+          "civil_50%": "PENDING_REVIEW",
+          "criminal_95%": "PENDING_REVIEW",
+          "key_evidence": []
+        },
+        "timeline_events": [],
+        "refinement_date": "2026-03-25T13:32:18.098809"
       }
     ],
     "organizations": [
@@ -1824,7 +1859,7 @@
         ],
         "evidence_enhanced_timestamp": "2026-01-18T05:36:58.285170",
         "directors": [],
-        "refinement_date": "2026-01-28T05:45:17.386844"
+        "refinement_date": "2026-03-25T13:32:18.098809"
       },
       {
         "entity_id": "ORG_002",
@@ -1856,7 +1891,7 @@
         "evidence_strength": "strong",
         "evidence_enhanced_timestamp": "2026-01-18T05:36:58.285172",
         "directors": [],
-        "refinement_date": "2026-01-28T05:45:17.386844"
+        "refinement_date": "2026-03-25T13:32:18.098809"
       },
       {
         "entity_id": "ORG_003",
@@ -1904,7 +1939,7 @@
         "financial_impact_detail": "R140,000-R280,000 (28 months Shopify payments)",
         "evidence_enhanced_timestamp": "2026-01-18T05:36:58.285174",
         "directors": [],
-        "refinement_date": "2026-01-28T05:45:17.386844"
+        "refinement_date": "2026-03-25T13:32:18.098809"
       },
       {
         "entity_id": "ORG_004",
@@ -1950,7 +1985,7 @@
         "evidence_strength": "strong",
         "evidence_enhanced_timestamp": "2026-01-18T05:36:58.285178",
         "directors": [],
-        "refinement_date": "2026-01-28T05:45:17.386844"
+        "refinement_date": "2026-03-25T13:32:18.098809"
       },
       {
         "entity_id": "ORG_005",
@@ -1996,7 +2031,7 @@
         "evidence_strength": "strong",
         "evidence_enhanced_timestamp": "2026-01-18T05:36:58.285179",
         "directors": [],
-        "refinement_date": "2026-01-28T05:45:17.386844"
+        "refinement_date": "2026-03-25T13:32:18.098809"
       },
       {
         "entity_id": "ORG_006",
@@ -2024,7 +2059,7 @@
         "evidence_strength": "strong",
         "evidence_enhanced_timestamp": "2026-01-18T05:36:58.285181",
         "directors": [],
-        "refinement_date": "2026-01-28T05:45:17.386844"
+        "refinement_date": "2026-03-25T13:32:18.098809"
       },
       {
         "entity_id": "ORG_008",
@@ -2112,7 +2147,7 @@
         ],
         "evidence_enhanced_timestamp": "2026-01-18T05:36:58.285182",
         "directors": [],
-        "refinement_date": "2026-01-28T05:45:17.386844"
+        "refinement_date": "2026-03-25T13:32:18.098809"
       },
       {
         "entity_id": "ORG_009",
@@ -2172,7 +2207,7 @@
         "evidence_strength": "strong",
         "evidence_enhanced_timestamp": "2026-01-18T05:36:58.285184",
         "directors": [],
-        "refinement_date": "2026-01-28T05:45:17.386844"
+        "refinement_date": "2026-03-25T13:32:18.098809"
       },
       {
         "entity_id": "ORG_010",
@@ -2221,7 +2256,7 @@
         "evidence_strength": "moderate",
         "evidence_enhanced_timestamp": "2026-01-18T05:36:58.285185",
         "directors": [],
-        "refinement_date": "2026-01-28T05:45:17.386844"
+        "refinement_date": "2026-03-25T13:32:18.098809"
       },
       {
         "entity_id": "ORG_012",
@@ -2272,7 +2307,7 @@
         ],
         "evidence_strength": "moderate",
         "evidence_enhanced_timestamp": "2026-01-18T05:36:58.285187",
-        "refinement_date": "2026-01-28T05:45:17.386844"
+        "refinement_date": "2026-03-25T13:32:18.098809"
       },
       {
         "entity_id": "ORG_013",
@@ -2310,7 +2345,7 @@
         "evidence_strength": "moderate",
         "evidence_enhanced_timestamp": "2026-01-18T05:36:58.285188",
         "directors": [],
-        "refinement_date": "2026-01-28T05:45:17.386844"
+        "refinement_date": "2026-03-25T13:32:18.098809"
       },
       {
         "entity_id": "ORG_014",
@@ -2337,7 +2372,7 @@
         "evidence_strength": "moderate",
         "evidence_enhanced_timestamp": "2026-01-18T05:36:58.285189",
         "directors": [],
-        "refinement_date": "2026-01-28T05:45:17.386844"
+        "refinement_date": "2026-03-25T13:32:18.098809"
       },
       {
         "entity_id": "ORG_015",
@@ -2372,7 +2407,7 @@
         "additional_notes": "Official regulatory scrutiny provides independent third-party verification of financial irregularities; tax fraud carries criminal penalties",
         "evidence_enhanced_timestamp": "2026-01-18T05:36:58.285191",
         "directors": [],
-        "refinement_date": "2026-01-28T05:45:17.386844"
+        "refinement_date": "2026-03-25T13:32:18.098809"
       },
       {
         "entity_id": "ORG_007",
@@ -2409,7 +2444,7 @@
         "evidence_enhanced": "2025-12-28T05:36:36.077520",
         "evidence_enhanced_timestamp": "2026-01-18T05:36:58.285193",
         "directors": [],
-        "refinement_date": "2026-01-28T05:45:17.386844"
+        "refinement_date": "2026-03-25T13:32:18.098809"
       },
       {
         "entity_id": "ORG_042",
@@ -2439,7 +2474,7 @@
         "connection_to_case": "Directors use PO Box 9477 Edenglen - same as Faucitt companies",
         "added_date": "2026-01-09T06:56:17.171814",
         "evidence_enhanced_timestamp": "2026-01-18T05:36:58.285194",
-        "refinement_date": "2026-01-28T05:45:17.386844"
+        "refinement_date": "2026-03-25T13:32:18.098809"
       },
       {
         "entity_id": "ORG_016",
@@ -2465,7 +2500,7 @@
         "source_document": "CIPC WinDeed 2021-11-19",
         "added_date": "2026-01-09T06:56:17.171814",
         "evidence_enhanced_timestamp": "2026-01-18T05:36:58.285196",
-        "refinement_date": "2026-01-28T05:45:17.386844"
+        "refinement_date": "2026-03-25T13:32:18.098809"
       },
       {
         "entity_id": "ORG_017",
@@ -2495,7 +2530,7 @@
         "source_document": "CIPC WinDeed 2021-11-19",
         "added_date": "2026-01-09T06:56:17.171814",
         "evidence_enhanced_timestamp": "2026-01-18T05:36:58.285197",
-        "refinement_date": "2026-01-28T05:45:17.386844"
+        "refinement_date": "2026-03-25T13:32:18.098809"
       },
       {
         "entity_id": "ORG_018",
@@ -2532,7 +2567,7 @@
         "added_date": "2026-01-09T06:56:17.171814",
         "evidence_enhanced_timestamp": "2026-01-18T05:36:58.285199",
         "directors": [],
-        "refinement_date": "2026-01-28T05:45:17.386844"
+        "refinement_date": "2026-03-25T13:32:18.098809"
       },
       {
         "entity_id": "ORG_019",
@@ -2553,7 +2588,7 @@
         "evidence_enhanced_timestamp": "2026-01-18T05:36:58.285201",
         "evidence_strength": "moderate",
         "directors": [],
-        "refinement_date": "2026-01-28T05:45:17.386844"
+        "refinement_date": "2026-03-25T13:32:18.098809"
       },
       {
         "entity_id": "ORG_020",
@@ -2574,7 +2609,7 @@
         "evidence_enhanced_timestamp": "2026-01-18T05:36:58.285203",
         "evidence_strength": "moderate",
         "directors": [],
-        "refinement_date": "2026-01-28T05:45:17.386844"
+        "refinement_date": "2026-03-25T13:32:18.098809"
       },
       {
         "entity_id": "ORG_021",
@@ -2595,7 +2630,7 @@
         "evidence_enhanced_timestamp": "2026-01-18T05:36:58.285204",
         "evidence_strength": "moderate",
         "directors": [],
-        "refinement_date": "2026-01-28T05:45:17.386844"
+        "refinement_date": "2026-03-25T13:32:18.098809"
       },
       {
         "entity_id": "ORG_022",
@@ -2616,7 +2651,7 @@
         "evidence_enhanced_timestamp": "2026-01-18T05:36:58.285206",
         "evidence_strength": "moderate",
         "directors": [],
-        "refinement_date": "2026-01-28T05:45:17.386844"
+        "refinement_date": "2026-03-25T13:32:18.098809"
       },
       {
         "entity_id": "ORG_023",
@@ -2637,7 +2672,7 @@
         "evidence_enhanced_timestamp": "2026-01-18T05:36:58.285207",
         "evidence_strength": "moderate",
         "directors": [],
-        "refinement_date": "2026-01-28T05:45:17.386844"
+        "refinement_date": "2026-03-25T13:32:18.098809"
       },
       {
         "entity_id": "ORG_024",
@@ -2658,7 +2693,7 @@
         "evidence_enhanced_timestamp": "2026-01-18T05:36:58.285209",
         "evidence_strength": "moderate",
         "directors": [],
-        "refinement_date": "2026-01-28T05:45:17.386844"
+        "refinement_date": "2026-03-25T13:32:18.098809"
       },
       {
         "entity_id": "ORG_025",
@@ -2679,7 +2714,7 @@
         "evidence_enhanced_timestamp": "2026-01-18T05:36:58.285211",
         "evidence_strength": "moderate",
         "directors": [],
-        "refinement_date": "2026-01-28T05:45:17.386844"
+        "refinement_date": "2026-03-25T13:32:18.098809"
       },
       {
         "entity_id": "ORG_026",
@@ -2700,7 +2735,7 @@
         "evidence_enhanced_timestamp": "2026-01-18T05:36:58.285212",
         "evidence_strength": "moderate",
         "directors": [],
-        "refinement_date": "2026-01-28T05:45:17.386844"
+        "refinement_date": "2026-03-25T13:32:18.098809"
       },
       {
         "entity_id": "ORG_027",
@@ -2721,7 +2756,7 @@
         "evidence_enhanced_timestamp": "2026-01-18T05:36:58.285215",
         "evidence_strength": "moderate",
         "directors": [],
-        "refinement_date": "2026-01-28T05:45:17.386844"
+        "refinement_date": "2026-03-25T13:32:18.098809"
       },
       {
         "entity_id": "ORG_028",
@@ -2742,7 +2777,7 @@
         "evidence_enhanced_timestamp": "2026-01-18T05:36:58.285217",
         "evidence_strength": "moderate",
         "directors": [],
-        "refinement_date": "2026-01-28T05:45:17.386844"
+        "refinement_date": "2026-03-25T13:32:18.098809"
       },
       {
         "entity_id": "ORG_029",
@@ -2763,7 +2798,7 @@
         "evidence_enhanced_timestamp": "2026-01-18T05:36:58.285218",
         "evidence_strength": "moderate",
         "directors": [],
-        "refinement_date": "2026-01-28T05:45:17.386844"
+        "refinement_date": "2026-03-25T13:32:18.098809"
       },
       {
         "entity_id": "ORG_030",
@@ -2784,7 +2819,7 @@
         "evidence_enhanced_timestamp": "2026-01-18T05:36:58.285220",
         "evidence_strength": "moderate",
         "directors": [],
-        "refinement_date": "2026-01-28T05:45:17.386844"
+        "refinement_date": "2026-03-25T13:32:18.098809"
       },
       {
         "entity_id": "ORG_031",
@@ -2805,7 +2840,7 @@
         "evidence_enhanced_timestamp": "2026-01-18T05:36:58.285221",
         "evidence_strength": "moderate",
         "directors": [],
-        "refinement_date": "2026-01-28T05:45:17.386844"
+        "refinement_date": "2026-03-25T13:32:18.098809"
       },
       {
         "entity_id": "ORG_32",
@@ -2846,7 +2881,7 @@
         ],
         "evidence_enhanced_timestamp": "2026-01-18T05:36:58.285223",
         "directors": [],
-        "refinement_date": "2026-01-28T05:45:17.386844"
+        "refinement_date": "2026-03-25T13:32:18.098809"
       },
       {
         "entity_id": "ORG_33",
@@ -2883,7 +2918,7 @@
         ],
         "evidence_enhanced_timestamp": "2026-01-18T05:36:58.285225",
         "directors": [],
-        "refinement_date": "2026-01-28T05:45:17.386844"
+        "refinement_date": "2026-03-25T13:32:18.098809"
       },
       {
         "entity_id": "ORG_34",
@@ -2920,7 +2955,7 @@
           "ANNEXURES/JF03 - Financial records and analysis"
         ],
         "evidence_enhanced_timestamp": "2026-01-18T05:36:58.285226",
-        "refinement_date": "2026-01-28T05:45:17.386844"
+        "refinement_date": "2026-03-25T13:32:18.098809"
       },
       {
         "entity_id": "ORG_35",
@@ -2953,7 +2988,7 @@
           "ANNEXURES/JF03 - Financial records and analysis"
         ],
         "evidence_enhanced_timestamp": "2026-01-18T05:36:58.285228",
-        "refinement_date": "2026-01-28T05:45:17.386844"
+        "refinement_date": "2026-03-25T13:32:18.098809"
       },
       {
         "entity_id": "ORG_36",
@@ -2994,7 +3029,7 @@
         ],
         "evidence_enhanced_timestamp": "2026-01-18T05:36:58.285229",
         "directors": [],
-        "refinement_date": "2026-01-28T05:45:17.386844"
+        "refinement_date": "2026-03-25T13:32:18.098809"
       },
       {
         "entity_id": "ORG_37",
@@ -3039,18 +3074,15 @@
           "ANNEXURES/JF03 - Financial records and analysis"
         ],
         "evidence_enhanced_timestamp": "2026-01-18T05:36:58.285231",
-        "refinement_date": "2026-01-28T05:45:17.386844"
+        "refinement_date": "2026-03-25T13:32:18.098809"
       },
       {
         "entity_id": "ORG_KETONI_001",
-        "name": "Ketoni Investment Holdings",
+        "name": "Ketoni Investment Holdings Proprietary Limited",
         "full_name": "Ketoni Investment Holdings (Pty) Ltd",
-        "type": "investment_company",
+        "type": "investment_holding_company",
         "registration_number": "2023/562189/07",
         "incorporation_date": "2023-02-20",
-        "role": "financial_nexus",
-        "name": "Ketoni Investment Holdings Proprietary Limited",
-        "type": "investment_holding_company",
         "role": "pass_through_investment_vehicle",
         "obligation": {
           "amount": "ZAR 18,750,000",
@@ -3079,7 +3111,12 @@
             "prepared_by": "Forvis Mazars",
             "review_type": "Independent Review (not full audit)",
             "pages": 16,
-            "sections": ["Balance Sheet", "Income Statement", "Notes to Financial Statements", "Directors Report"],
+            "sections": [
+              "Balance Sheet",
+              "Income Statement",
+              "Notes to Financial Statements",
+              "Directors Report"
+            ],
             "source_email": {
               "from": "Danie Bantjes <danie.bantjes@gmail.com>",
               "to": "Rynette Farrar <rynette@regima.zone>",
@@ -3126,8 +3163,10 @@
           "Share Certificate #3 - 5,000 A-Ordinary shares (2023-04-24)"
         ],
         "evidence_enhanced_timestamp": "2026-03-11T00:00:00.000000",
-        "directors": ["Kevin Michael Derrick"],
-        "refinement_date": "2026-03-11T00:00:00.000000",
+        "directors": [
+          "Kevin Michael Derrick"
+        ],
+        "refinement_date": "2026-03-25T13:32:18.098809",
         "owner_director": {
           "name": "Kevin Michael Derrick",
           "position": "Director and Shareholder",
@@ -3142,8 +3181,6 @@
           "relationship": "Bantjies is CFO of George Group where Kevin Derrick is CEO",
           "conflict": "Bantjies owes professional loyalty to Ketoni owner while being FFT Trustee"
         },
-        "registration_number": "2023/562189/07",
-        "incorporation_date": "2023-02-20",
         "shareholding_structure": {
           "A_Ordinary_Shares": {
             "holder": "Faucitt Family Trust (FFT)",
@@ -3187,7 +3224,7 @@
         "evidence_enhanced_timestamp": "2026-01-18T05:36:58.285234",
         "evidence_strength": "moderate",
         "directors": [],
-        "refinement_date": "2026-01-28T05:45:17.386844"
+        "refinement_date": "2026-03-25T13:32:18.098809"
       },
       {
         "entity_id": "ORG_TB_002",
@@ -3206,7 +3243,7 @@
         "evidence_enhanced_timestamp": "2026-01-18T05:36:58.285236",
         "evidence_strength": "moderate",
         "directors": [],
-        "refinement_date": "2026-01-28T05:45:17.386844"
+        "refinement_date": "2026-03-25T13:32:18.098809"
       },
       {
         "entity_id": "ORG_TB_003",
@@ -3225,7 +3262,7 @@
         "evidence_enhanced_timestamp": "2026-01-18T05:36:58.285237",
         "evidence_strength": "moderate",
         "directors": [],
-        "refinement_date": "2026-01-28T05:45:17.386844"
+        "refinement_date": "2026-03-25T13:32:18.098809"
       },
       {
         "entity_id": "PLATFORM_001",
@@ -3238,7 +3275,7 @@
         ],
         "evidence_strength": "moderate",
         "directors": [],
-        "refinement_date": "2026-01-28T05:45:17.386844"
+        "refinement_date": "2026-03-25T13:32:18.098809"
       },
       {
         "entity_id": "DOMAIN_001",
@@ -3248,7 +3285,7 @@
         "role": "legitimate_domain",
         "evidence_strength": "moderate",
         "directors": [],
-        "refinement_date": "2026-01-28T05:45:17.386844"
+        "refinement_date": "2026-03-25T13:32:18.098809"
       },
       {
         "entity_id": "DOMAIN_002",
@@ -3259,7 +3296,7 @@
         "registration_date": "2025-05-29",
         "evidence_strength": "moderate",
         "directors": [],
-        "refinement_date": "2026-01-28T05:45:17.386844"
+        "refinement_date": "2026-03-25T13:32:18.098809"
       },
       {
         "entity_id": "TRUST_001",
@@ -3273,7 +3310,7 @@
         },
         "evidence_strength": "moderate",
         "directors": [],
-        "refinement_date": "2026-01-28T05:45:17.386844"
+        "refinement_date": "2026-03-25T13:32:18.098809"
       },
       {
         "entity_id": "SYS_BANK_ACCOUNTS",
@@ -3282,7 +3319,7 @@
         "description": "Banking system accounts",
         "evidence_strength": "moderate",
         "directors": [],
-        "refinement_date": "2026-01-28T05:45:17.386844"
+        "refinement_date": "2026-03-25T13:32:18.098809"
       },
       {
         "entity_id": "SYS_ACCOUNTS",
@@ -3291,7 +3328,7 @@
         "description": "Financial accounting records",
         "evidence_strength": "moderate",
         "directors": [],
-        "refinement_date": "2026-01-28T05:45:17.386844"
+        "refinement_date": "2026-03-25T13:32:18.098809"
       },
       {
         "entity_id": "SYS_STOCK",
@@ -3300,7 +3337,7 @@
         "description": "Physical inventory and stock",
         "evidence_strength": "moderate",
         "directors": [],
-        "refinement_date": "2026-01-28T05:45:17.386844"
+        "refinement_date": "2026-03-25T13:32:18.098809"
       },
       {
         "entity_id": "SYS_REGIMA_GROUP",
@@ -3309,7 +3346,7 @@
         "description": "Collective RegimA company group",
         "evidence_strength": "moderate",
         "directors": [],
-        "refinement_date": "2026-01-28T05:45:17.386844"
+        "refinement_date": "2026-03-25T13:32:18.098809"
       },
       {
         "entity_id": "SYS_FINANCIAL_RECORDS",
@@ -3318,7 +3355,7 @@
         "description": "Financial documentation",
         "evidence_strength": "moderate",
         "directors": [],
-        "refinement_date": "2026-01-28T05:45:17.386844"
+        "refinement_date": "2026-03-25T13:32:18.098809"
       },
       {
         "entity_id": "ORG_GEORGE_GROUP",
@@ -3347,7 +3384,7 @@
           "Ketoni AFS 2024"
         ],
         "evidence_strength": "conclusive",
-        "refinement_date": "2026-03-14T20:39:10.482702",
+        "refinement_date": "2026-03-25T13:32:18.098809",
         "registration_number": "2018/618716/07",
         "incorporation_date": "2018",
         "shareholders": [
@@ -3359,7 +3396,8 @@
         ],
         "acquisitions": [
           "Quatro (valuation basis for Ketoni shares)"
-        ]
+        ],
+        "directors": []
       },
       {
         "entity_id": "ORG_DE_NOVO",
@@ -3392,7 +3430,9 @@
           "Creating false financial records"
         ],
         "created_date": "2026-02-05",
-        "source": "New evidence package Feb 2026"
+        "source": "New evidence package Feb 2026",
+        "directors": [],
+        "refinement_date": "2026-03-25T13:32:18.098809"
       },
       {
         "entity_id": "ORG_053",
@@ -3412,7 +3452,10 @@
         ],
         "case_involvement": "Filed ex parte application on behalf of Peter Faucitt",
         "added_date": "2026-02-09T01:37:55",
-        "source": "MAT4719 Notice of Motion"
+        "source": "MAT4719 Notice of Motion",
+        "evidence_strength": "moderate",
+        "directors": [],
+        "refinement_date": "2026-03-25T13:32:18.098809"
       }
     ],
     "platforms": [

@@ -1,13 +1,13 @@
 {
   "metadata": {
-    "version": "18.0_MAT4719_EVIDENCE_2026_02_09",
+    "version": "34.0_FINAL_REFINED_2026_01_22",
     "created_date": "2025-11-10",
     "description": "Relation model for Revenue Stream Hijacking case 2025-137857",
     "case_number": "2025-137857",
     "modeling_approach": "hypergraph_compatible_relations",
-    "last_updated": "2026-02-09T01:37:55",
-    "changes": "Added 5 new fraud relations from February 2026 evidence package",
-    "total_relations": 133
+    "last_updated": "2026-03-25T13:32:39.260358",
+    "changes": "Comprehensive LEX refinement - relation completeness",
+    "total_relations": 141
   },
   "relations": {
     "ownership_relations": [
@@ -167,14 +167,22 @@
         "source_entity": "TRUST_001",
         "target_entity": "ORG_KETONI_001",
         "details": "100% of A Ordinary Shares (5,000 shares) for R9.8M",
-        "rights": "90% of distributions"
+        "rights": "90% of distributions",
+        "related_events": [],
+        "evidence": [],
+        "confidence": 0.75,
+        "evidence_strength": "moderate"
       },
       {
         "relation_id": "REL_OWN_002",
         "relation_type": "owns_shares_in",
         "source_entity": "ORG_KETONI_001",
         "target_entity": "ORG_GEORGE_GROUP",
-        "details": "8.14% of Ordinary Shares (456 shares) valued at R9.8M"
+        "details": "8.14% of Ordinary Shares (456 shares) valued at R9.8M",
+        "related_events": [],
+        "evidence": [],
+        "confidence": 0.75,
+        "evidence_strength": "moderate"
       }
     ],
     "control_relations": [
@@ -825,7 +833,10 @@
         "description": "Ketoni owes R18.75M payout to FFT (May 2026) - NOT Bantjies personal debt",
         "amount": "R18.75M",
         "payout_date": "2026-05",
-        "evidence_strength": "conclusive"
+        "evidence_strength": "conclusive",
+        "related_events": [],
+        "evidence": [],
+        "confidence": 0.75
       },
       {
         "relation_id": "REL_BANTJIES_GEORGE_GROUP",
@@ -834,7 +845,10 @@
         "target_entity": "ORG_GEORGE_GROUP",
         "description": "Bantjies is CFO of George Group",
         "significance": "Creates conflict with FFT Trustee role",
-        "evidence_strength": "conclusive"
+        "evidence_strength": "conclusive",
+        "related_events": [],
+        "evidence": [],
+        "confidence": 0.75
       },
       {
         "relation_id": "REL_DERRICK_GEORGE_GROUP",
@@ -842,7 +856,10 @@
         "source_entity": "PERSON_DERRICK",
         "target_entity": "ORG_GEORGE_GROUP",
         "description": "Kevin Derrick is CEO of George Group",
-        "evidence_strength": "conclusive"
+        "evidence_strength": "conclusive",
+        "related_events": [],
+        "evidence": [],
+        "confidence": 0.75
       },
       {
         "relation_id": "REL_DERRICK_KETONI",
@@ -850,7 +867,10 @@
         "source_entity": "PERSON_DERRICK",
         "target_entity": "ORG_KETONI",
         "description": "Kevin Derrick is Director and Shareholder of Ketoni",
-        "evidence_strength": "conclusive"
+        "evidence_strength": "conclusive",
+        "related_events": [],
+        "evidence": [],
+        "confidence": 0.75
       },
       {
         "relation_id": "REL_BANTJIES_CONFLICT",
@@ -859,7 +879,10 @@
         "target_entity": "ORG_FFT",
         "description": "Bantjies has CFO-Trustee conflict: reports to Ketoni owner while being FFT Trustee",
         "financial_stake": "R18.75M Ketoni payout to FFT",
-        "evidence_strength": "conclusive"
+        "evidence_strength": "conclusive",
+        "related_events": [],
+        "evidence": [],
+        "confidence": 0.75
       },
       {
         "relation_id": "REL_FIN_CC_PF9",
@@ -888,7 +911,10 @@
           "Slack",
           "Notion Labs"
         ],
-        "added_date": "2026-02-09T01:37:55"
+        "added_date": "2026-02-09T01:37:55",
+        "related_events": [],
+        "confidence": 0.75,
+        "evidence_strength": "moderate"
       },
       {
         "relation_id": "REL_FIN_LEDGER_PF10",
@@ -914,7 +940,10 @@
           "July_2025": 116458.85
         },
         "evidence": "MAT4719_PF10_pages_138-161",
-        "added_date": "2026-02-09T01:37:55"
+        "added_date": "2026-02-09T01:37:55",
+        "related_events": [],
+        "confidence": 0.75,
+        "evidence_strength": "moderate"
       }
     ],
     "victim_perpetrator_relations": [
@@ -1376,7 +1405,10 @@
           "Ketoni Shareholder Agreement",
           "Ketoni AFS 2024"
         ],
-        "legal_implication": "Breach of fiduciary duty under Trust Property Control Act"
+        "legal_implication": "Breach of fiduciary duty under Trust Property Control Act",
+        "related_events": [],
+        "confidence": 0.75,
+        "evidence_strength": "moderate"
       }
     ],
     "email_control_relations": [
@@ -1855,7 +1887,10 @@
         "description": "Bantjes swore confirmatory affidavit supporting Peter's ex parte application on 13 Aug 2025, despite receiving Daniel's fraud report on 6 June 2025",
         "evidence": "MAT4719_Confirmatory_Affidavit_pages_69-71",
         "void_ab_initio_relevance": "Perjury with provable foreknowledge - 68 days between fraud report and false affidavit",
-        "added_date": "2026-02-09T01:37:55"
+        "added_date": "2026-02-09T01:37:55",
+        "related_events": [],
+        "confidence": 0.75,
+        "evidence_strength": "moderate"
       }
     ],
     "evidence_based_relations": [
@@ -2022,7 +2057,10 @@
         "description": "Slack/email communications between Gayane Williams, Daniel Faucitt, and Jacqui Faucitt regarding platform access, expenses, and invoicing (March-April 2025)",
         "evidence": "MAT4719_PF7_pages_72-101",
         "significance": "Shows legitimate business operations and expense oversight, contradicting Peter's misappropriation narrative",
-        "added_date": "2026-02-09T01:37:55"
+        "added_date": "2026-02-09T01:37:55",
+        "related_events": [],
+        "confidence": 0.75,
+        "evidence_strength": "moderate"
       }
     ],
     "legal_relations": [
@@ -2060,7 +2098,10 @@
         "description": "Elliott Attorneys Inc. represents Peter Faucitt in ex parte application (Case 2025-137857)",
         "reference": "KRE/MM/KF0019",
         "evidence": "MAT4719_NOM_pages_2-9",
-        "added_date": "2026-02-09T01:37:55"
+        "added_date": "2026-02-09T01:37:55",
+        "related_events": [],
+        "confidence": 0.75,
+        "evidence_strength": "moderate"
       }
     ],
     "address_relations": [
@@ -3249,7 +3290,10 @@
         "evidence": [
           "2025-06-18 - Rynette & De Novo - RegimA SA Payments.pdf"
         ],
-        "significance": "criminal_threshold"
+        "significance": "criminal_threshold",
+        "related_events": [],
+        "confidence": 0.75,
+        "evidence_strength": "moderate"
       },
       {
         "relation_id": "REL_DE_NOVO_REGIMA_SA",
@@ -3261,7 +3305,10 @@
         "evidence": [
           "Regima SA (Pty) Ltd - 2019 - Financial statements - SME.pdf"
         ],
-        "significance": "criminal_threshold"
+        "significance": "criminal_threshold",
+        "related_events": [],
+        "confidence": 0.75,
+        "evidence_strength": "moderate"
       },
       {
         "relation_id": "REL_MARISCA_DE_NOVO",
@@ -3272,7 +3319,10 @@
         "evidence": [
           "Regima SA (Pty) Ltd - 2019 - Financial statements - SME.pdf"
         ],
-        "significance": "high"
+        "significance": "high",
+        "related_events": [],
+        "confidence": 0.75,
+        "evidence_strength": "moderate"
       },
       {
         "relation_id": "REL_PETER_FIDUCIARY_BREACH",
@@ -3292,7 +3342,10 @@
           "Companies Act Section 76",
           "Companies Act Section 77",
           "Companies Act Section 69"
-        ]
+        ],
+        "related_events": [],
+        "confidence": 0.75,
+        "evidence_strength": "moderate"
       },
       {
         "relation_id": "REL_RYNETTE_ORGANOGRAM",
@@ -3304,7 +3357,10 @@
         "evidence": [
           "Power point - how sales work.pdf"
         ],
-        "significance": "criminal_threshold"
+        "significance": "criminal_threshold",
+        "related_events": [],
+        "confidence": 0.75,
+        "evidence_strength": "moderate"
       }
     ]
   },

@@ -1,14 +1,14 @@
 {
   "metadata": {
-    "version": "v33_bantjies_farrar_comms",
+    "version": "29.0_FINAL_REFINED_2026_01_22",
     "created_date": "2025-11-10",
     "description": "Timeline refined with 7 new events from 1,632 Bantjies-Farrar communications",
     "case_number": "2025-137857",
-    "last_updated": "2026-03-11 00:00:00",
-    "changes": "Added 2 AFS-related timeline entries: Ketoni AFS FY2024 year-end (2024-02-29) and AFS delivery to Rynette (2025-01-29)",
+    "last_updated": "2026-03-25T13:32:39.260358",
+    "changes": "Comprehensive LEX refinement - timeline completeness",
     "criminal_threshold_entries": 6,
     "high_significance_entries": 9,
-    "total_entries": 138,
+    "total_entries": 151,
     "civil_threshold_entries": 0,
     "completeness_audit": "2026-01-22 00:57:20",
     "by_year": {
@@ -35,10 +35,10 @@
       "2019": 9,
       "2020": 7,
       "2021": 5,
-      "2022": 3,
-      "2023": 11,
-      "2024": 5,
-      "2025": 45,
+      "2022": 5,
+      "2023": 13,
+      "2024": 6,
+      "2025": 53,
       "2026": 1
     },
     "total_events": 151
@@ -1718,7 +1718,8 @@
         "knowledge": "VAT portal access and control structure",
         "date_acquired": "2022-06-01",
         "evidence": "Direct email confirmation"
-      }
+      },
+      "ad_res_j7_evidence_enhanced": []
     },
     {
       "date": "2022-06-23",
@@ -1754,7 +1755,8 @@
         "knowledge": "Full eFiling portal access credentials",
         "date_acquired": "2022-06-23",
         "evidence": "Email with credentials in plaintext"
-      }
+      },
+      "ad_res_j7_evidence_enhanced": []
     },
     {
       "date": "2022-07-11",
@@ -1911,7 +1913,8 @@
         "knowledge": "Ketoni deal terms, SHA/MOI structure, payout timeline",
         "date_acquired": "2023-04-12",
         "evidence": "Direct email correspondence with Baker McKenzie"
-      }
+      },
+      "ad_res_j7_evidence_enhanced": []
     },
     {
       "date": "2023-04-24",
@@ -1994,7 +1997,8 @@
         "knowledge": "Ketoni payment allocation method",
         "date_acquired": "2023-05-09",
         "evidence": "Email instruction from Bantjies"
-      }
+      },
+      "ad_res_j7_evidence_enhanced": []
     },
     {
       "date": "2023-07-13",
@@ -2315,7 +2319,8 @@
         "opening_balance": "R1,925,869.31",
         "closing_balance": "R2,554,860.93",
         "status": "HEALTHY"
-      }
+      },
+      "ad_res_j7_evidence_enhanced": []
     },
     {
       "date": "2024-11-19",
@@ -2348,7 +2353,8 @@
         "knowledge": "Trust beneficial ownership regulations",
         "date_acquired": "2024-11-19",
         "evidence": "Email to Rynette, Pete, and Jax"
-      }
+      },
+      "ad_res_j7_evidence_enhanced": []
     },
     {
       "date": "2025-01-15",
@@ -2530,7 +2536,7 @@
       "category": "asset_stripping",
       "event_ref": "EVENT_BANK_STRIPPED_2025_03",
       "actors": [
-        "PERSON_001"
+        "Peter Andrew Faucitt"
       ],
       "entities_involved": [
         "ORG_REGIMA_SA"
@@ -2540,7 +2546,8 @@
         "closing_balance": "R5,284.08",
         "decline_percentage": "99.8%",
         "status": "STRIPPED"
-      }
+      },
+      "ad_res_j7_evidence_enhanced": []
     },
     {
       "date": "2025-03-15",
@@ -2618,7 +2625,13 @@
         "PERSON_002"
       ],
       "event_ref": "EVT_MAT4719_005",
-      "evidence_enhanced_timestamp": "2026-02-09T01:37:55"
+      "evidence_enhanced_timestamp": "2026-02-09T01:37:55",
+      "actors": [
+        "Gayane Williams",
+        "Daniel James Faucitt",
+        "Jacqueline Faucitt"
+      ],
+      "ad_res_j7_evidence_enhanced": []
     },
     {
       "date": "2025-04-01",
@@ -2659,7 +2672,12 @@
         "PERSON_GAYANE"
       ],
       "event_ref": "EVT_MAT4719_006",
-      "evidence_enhanced_timestamp": "2026-02-09T01:37:55"
+      "evidence_enhanced_timestamp": "2026-02-09T01:37:55",
+      "actors": [
+        "Jacqueline Faucitt",
+        "Gayane Williams"
+      ],
+      "ad_res_j7_evidence_enhanced": []
     },
     {
       "date": "2025-04-11",
@@ -2671,12 +2689,13 @@
       "event_ref": "EVENT_ORGANOGRAM_2025_04_11",
       "actors": [
         "PERSON_002",
-        "PERSON_001"
+        "Peter Andrew Faucitt"
       ],
       "entities_involved": [
         "ORG_REGIMA_SA",
         "PLATFORM_SHOPIFY"
-      ]
+      ],
+      "ad_res_j7_evidence_enhanced": []
     },
     {
       "date": "2025-04-14",
@@ -2866,13 +2885,14 @@
       "category": "revenue_theft",
       "event_ref": "EVENT_SHOPIFY_SABOTAGE_2025_05_22",
       "actors": [
-        "PERSON_001",
+        "Peter Andrew Faucitt",
         "PERSON_002"
       ],
       "entities_involved": [
         "ORG_REGIMA_SA",
         "PLATFORM_SHOPIFY"
-      ]
+      ],
+      "ad_res_j7_evidence_enhanced": []
     },
     {
       "date": "2025-05-23",
@@ -2965,13 +2985,14 @@
       "category": "whistleblowing",
       "event_ref": "EVENT_DAN_FRAUD_REPORT_2025_06_06",
       "actors": [
-        "PERSON_003",
-        "PERSON_004"
+        "Rynette Farrar",
+        "Jacqueline Faucitt"
       ],
       "entities_involved": [
         "ORG_REGIMA_SA",
         "ORG_REGIMA_ZONE"
-      ]
+      ],
+      "ad_res_j7_evidence_enhanced": []
     },
     {
       "date": "2025-06-06",
@@ -3014,7 +3035,8 @@
         "knowledge": "SARS verification query on intercompany invoices, intent to fabricate response",
         "date_acquired": "2025-06-06",
         "evidence": "Direct email admission: 'I will manufacture an answer'"
-      }
+      },
+      "ad_res_j7_evidence_enhanced": []
     },
     {
       "date": "2025-06-07",
@@ -3060,11 +3082,12 @@
       "category": "retaliation",
       "event_ref": "EVENT_CARD_CANCELLATION_2025_06_07",
       "actors": [
-        "PERSON_001"
+        "Peter Andrew Faucitt"
       ],
       "entities_involved": [
         "ORG_REGIMA_SA"
-      ]
+      ],
+      "ad_res_j7_evidence_enhanced": []
     },
     {
       "date": "2025-06-10",
@@ -3125,7 +3148,8 @@
       "entities_involved": [
         "ORG_DE_NOVO",
         "ORG_REGIMA_SA"
-      ]
+      ],
+      "ad_res_j7_evidence_enhanced": []
     },
     {
       "date": "2025-06-18",
@@ -3226,7 +3250,8 @@
       ],
       "entities_involved": [
         "ORG_REGIMA_SA"
-      ]
+      ],
+      "ad_res_j7_evidence_enhanced": []
     },
     {
       "date": "2025-06-30",
@@ -3288,12 +3313,13 @@
       "category": "compliance_demand",
       "event_ref": "EVENT_FORMAL_NOTICE_2025_07_08",
       "actors": [
-        "PERSON_003",
-        "PERSON_001"
+        "Rynette Farrar",
+        "Peter Andrew Faucitt"
       ],
       "entities_involved": [
         "ORG_REGIMA_SA"
-      ]
+      ],
+      "ad_res_j7_evidence_enhanced": []
     },
     {
       "date": "2025-07-08",
@@ -3304,12 +3330,13 @@
       "category": "compliance_demand",
       "event_ref": "EVENT_POPIA_NOTICE_2025_07_08",
       "actors": [
-        "PERSON_003",
-        "PERSON_001"
+        "Rynette Farrar",
+        "Peter Andrew Faucitt"
       ],
       "entities_involved": [
         "ORG_REGIMA_SA"
-      ]
+      ],
+      "ad_res_j7_evidence_enhanced": []
     },
     {
       "date": "2025-07-12",
@@ -3403,7 +3430,12 @@
         "BANK_FNB"
       ],
       "event_ref": "EVT_MAT4719_007",
-      "evidence_enhanced_timestamp": "2026-02-09T01:37:55"
+      "evidence_enhanced_timestamp": "2026-02-09T01:37:55",
+      "actors": [
+        "Peter Faucitt",
+        "FNB"
+      ],
+      "ad_res_j7_evidence_enhanced": []
     },
     {
       "date": "2025-08-10",
@@ -3498,7 +3530,8 @@
         "knowledge": "Bantjies' trustee appointment process and timeline",
         "date_acquired": "2025-08-12",
         "evidence": "Email with proof of address attachment"
-      }
+      },
+      "ad_res_j7_evidence_enhanced": []
     },
     {
       "date": "2025-08-13",
@@ -3554,7 +3587,12 @@
         "PERSON_BANTJES"
       ],
       "event_ref": "EVT_MAT4719_001",
-      "evidence_enhanced_timestamp": "2026-02-09T01:37:55"
+      "evidence_enhanced_timestamp": "2026-02-09T01:37:55",
+      "actors": [
+        "Peter Faucitt",
+        "Daniel Bantjes"
+      ],
+      "ad_res_j7_evidence_enhanced": []
     },
     {
       "date": "2025-08-14",
@@ -3570,7 +3608,12 @@
         "PERSON_001"
       ],
       "event_ref": "EVT_MAT4719_003",
-      "evidence_enhanced_timestamp": "2026-02-09T01:37:55"
+      "evidence_enhanced_timestamp": "2026-02-09T01:37:55",
+      "actors": [
+        "Elliott Attorneys",
+        "Peter Faucitt"
+      ],
+      "ad_res_j7_evidence_enhanced": []
     },
     {
       "date": "2025-08-15",
@@ -3607,7 +3650,11 @@
         "PERSON_001"
       ],
       "event_ref": "EVT_MAT4719_004",
-      "evidence_enhanced_timestamp": "2026-02-09T01:37:55"
+      "evidence_enhanced_timestamp": "2026-02-09T01:37:55",
+      "actors": [
+        "Peter Faucitt"
+      ],
+      "ad_res_j7_evidence_enhanced": []
     },
     {
       "date": "2025-08-20",
@@ -3704,7 +3751,8 @@
       "entities_involved": [
         "ORG_REGIMA_SA",
         "PLATFORM_SHOPIFY"
-      ]
+      ],
+      "ad_res_j7_evidence_enhanced": []
     },
     {
       "date": "2025-10-23",
