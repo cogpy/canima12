@@ -70,6 +70,7 @@ This financial motive explains:
 ## 📈 Evidence & Analysis
 
 ### Core Documentation
+- **[Narrative Overview](./narrative-overview.md)** - Plain-language summary of the case, timeline, and laws broken
 - **[Ketoni Payout Timeline](./ketoni-timeline.md)** - Central financial motive (ZAR 18.75M May 2026)
 - **[Comprehensive Evidence Index](./evidence-index-enhanced.md)** - All evidence categorized and cross-referenced
 - **[Master Timeline](./timeline.md)** - Complete chronological event sequence (151 entries)
