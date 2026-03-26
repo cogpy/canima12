@@ -33,7 +33,9 @@ On **24 April 2023**, the Faucitt Family Trust (FFT) invested in Ketoni Investme
 
 To maximize his own share and maintain absolute control over this impending windfall, Peter Faucitt needed to consolidate power over the Trust. 
 
-In **July 2024** (exactly 10 months before the payout window), Rynette Farrar unlawfully appointed **Daniel Jacobus Bantjies** as a Trustee of the FFT. This appointment was a severe conflict of interest: Bantjies was the CFO of The George Group (whose CEO is the director of Ketoni, the very company owing the ZAR 18.75M to the Trust). Furthermore, Bantjies was acting as the independent external accountant for the RegimA companies, while simultaneously holding power as a Trustee over those same companies.
+On **8 July 2024** (exactly 10 months before the payout window), Rynette Farrar unlawfully appointed **Daniel Jacobus Bantjies** as a Trustee of the FFT via a signed J417 form. This appointment was a severe conflict of interest: Bantjies was the CFO of The George Group (whose CEO is the director of Ketoni, the very company owing the ZAR 18.75M to the Trust). Furthermore, Bantjies was acting as the independent external accountant for the RegimA companies, while simultaneously holding power as a Trustee over those same companies.
+
+Crucially, on this exact same day—**8 July 2024**—the perpetrators submitted a forged Sage transfer form to unlawfully seize control of the company's accounting data. This synchronized action demonstrates a coordinated effort to consolidate both legal trust control and operational financial control simultaneously.
 
 ---
 
@@ -58,7 +60,7 @@ Less than 24 hours after Daniel submitted the fraud report, on **7 June 2025**, 
 Simultaneously, a massive cover-up operation was launched to destroy the audit trails:
 - **17 June 2025:** Rynette instructed De Novo (an accounting firm) to create fraudulent loan accounts.
 - **25 June 2025:** De Novo created backdated 2019 financial statements—six years after the fact—to justify missing funds.
-- **July 2025:** The perpetrators submitted a forged Sage transfer form to unlawfully seize control of the company's accounting data, severing API connections and locking Daniel out of the financial systems. Shopify access logs were deliberately deleted to hide the diversion of e-commerce revenue **(Evidence: JF13, JF17)**.
+- **July 2025:** The perpetrators weaponized the control they had seized a year prior (via the 8 July 2024 forged Sage transfer form), severing API connections and locking Daniel out of the financial systems. Shopify access logs were deliberately deleted to hide the diversion of e-commerce revenue **(Evidence: JF13, JF17)**.
 
 ---
 
@@ -92,7 +94,11 @@ The evidence compiled in the `ad-res-j7` repository demonstrates severe violatio
 - **Perjury and Fraud on the Court:** Committed by Peter Faucitt and Daniel Bantjies by swearing to founding and confirmatory affidavits on 13 August 2025 that contained deliberate, material non-disclosures designed to mislead the High Court.
 - **Theft and Fraud:** The systematic diversion of revenue from RegimA Worldwide to Villa Via, and the unauthorized transfer of R900,000 from RegimA SA in February 2025.
 
-#### 4. Tax Administration Act & SAICA Code of Professional Conduct
+#### 4. Trust Property Control Act 57 of 1988
+- **Section 9 (Care, Diligence, and Skill):** Breached by Peter Faucitt and Daniel Bantjies. A trustee must act with the care, diligence, and skill which can reasonably be expected of a person who manages the affairs of another. By weaponizing the trust to attack a beneficiary (Daniel), backdating trustee powers, and facilitating the diversion of funds from trust-owned entities (RegimA Worldwide) to personally-owned entities (Villa Via), the trustees fundamentally breached their fiduciary duty to the beneficiaries.
+- **Conflict of Interest:** Bantjies' acceptance of the trustee appointment while serving as the external accountant for the trust's companies—and while holding a senior position at The George Group (linked to the Ketoni debt)—constitutes a severe conflict of interest incompatible with the duties of a trustee.
+
+#### 5. Tax Administration Act & SAICA Code of Professional Conduct
 - **Tax Fraud:** Concealing SARS queries regarding "two big inter company invoices" and manufacturing deceptive responses.
 - **SAICA Violations:** Daniel Bantjies breached the fundamental principles of Integrity, Objectivity, and Confidentiality (Sections 111, 112, 114) by operating with an undisclosed conflict of interest (Ketoni/George Group), colluding with a bookkeeper against a director, and signing off on manipulated financials.
 
