@@ -5,7 +5,9 @@ title: Entity Index
 
 # Entity Index
 
-**Last Updated:** 2026-03-23
+**Last Updated:** 2026-04-14
+
+> **Refinement Note (2026-04-14):** The entity model has been normalized for GitHub Pages navigation. The canonical records for the most material duplicate-name entities are now explicitly identified in the index. In particular: **PERSON_006** is the canonical Linda Kruger record, **ORG_017** is the canonical Ketoni company record, **ORG_019** is the canonical Pottas Attorneys record, **ORG_006** is the operational RegimA SA victim-stream record, and **ORG_014** is the legal company-record view of RegimA SA (Pty) Ltd. Legacy analytical aliases are retained where they still help preserve historical citations in older filings and event pages.
 
 | ID | Name | Type | Role | Evidence |
 |----|------|------|------|----------|
@@ -23,7 +25,7 @@ title: Entity Index
 | ORG_003 | [RegimA Zone Ltd](./ORG_003.md) | Organization | infrastructure_owner | EVENT078, EVENT080, EVENT081, JF01, JF02, JF06 |
 | ORG_004 | [Strategic Logistics Group](./ORG_004.md) | Organization | trust_owned_warehouse_and_logistics | EVENT078, JF02, JF03, JF04 |
 | ORG_005 | [Villa Via](./ORG_005.md) | Organization | rental_property_company_wealth_extraction | JF03, JF04, SF03 |
-| ORG_006 | [RegimA SA](./ORG_006.md) | Organization | revenue_stream_victim | JF02, JF03, JF07, SF02 |
+| ORG_006 | [RegimA SA — operating victim stream](./ORG_006.md) | Organization | revenue_stream_victim | JF02, JF03, JF07, SF02 |
 | ORG_007 | [Ian Levitt Attorneys](./ORG_007.md) | Organization | legal_representative | JF06, JF08, SF09 |
 | ORG_008 | [ReZonance](./ORG_008.md) | Organization | it_services_provider_and_creditor | EVENT078, JF04, JF14, JF15 |
 | ORG_009 | [Adderory](./ORG_009.md) | Organization | competing_business_fraud_vehicle | EVENT010, EVENT024, EVENT027, JF03, JF04, SF05 |
@@ -31,14 +33,14 @@ title: Entity Index
 | ORG_011 | [Entity Profile: Elliott Attorneys](./ORG_011.md) | Organization | legal_representation | EVENT075, EVENT076, EVENT077, JF13, KF0019 |
 | ORG_012 | [RegimaSA](./ORG_012.md) | Organization | Shell company / Related party entity | JF04, JF08, JF14 |
 | ORG_013 | [Unicorn Dynamics](./ORG_013.md) | Organization | Related party entity | JF04, JF08, JF15 |
-| ORG_014 | [RegimA SA](./ORG_014.md) | Organization | RegimA Group entity | EVENT082, JF02, JF04, JF14 |
+| ORG_014 | [RegimA SA (Pty) Ltd — legal company record](./ORG_014.md) | Organization | RegimA Group entity | EVENT082, JF02, JF04, JF14 |
 | ORG_015 | [Ketoni Investment Holdings](./ORG_015.md) | Organization |  | EVENT081 |
-| ORG_016 | [ORG_017: Ketoni Investment Holdings (Pty) Ltd](./ORG_016.md) | Organization |  |  |
-| ORG_017 | [ORG_017: Ketoni Investment Holdings (Pty) Ltd](./ORG_017.md) | Organization |  | EVENT116, EVENT117, SF06, SF14 |
+| ORG_016 | [Ketoni Investment Holdings — legacy summary alias](./ORG_016.md) | Organization | legacy_alias_to_ORG_017 | SF06, SF14 |
+| ORG_017 | [Ketoni Investment Holdings (Pty) Ltd](./ORG_017.md) | Organization | central_financial_motive_entity | EVENT116, EVENT117, SF06, SF14 |
 | ORG_018 | [ORG_018: The George Group](./ORG_018.md) | Organization |  | SF14 |
 | ORG_019 | [ORG_019: Pottas Attorneys](./ORG_019.md) | Organization |  | SF13 |
 | ORG_020 | [ORG_020: Elliott Attorneys Inc](./ORG_020.md) | Organization |  | KF0019 |
-| ORG_021 | [ORG_021: Pottas Attorneys](./ORG_021.md) | Organization |  |  |
+| ORG_021 | [Pottas Attorneys — legacy representation alias](./ORG_021.md) | Organization | legacy_alias_to_ORG_019 | SF13 |
 | ORG_022 | [ORG_022: ENS Africa](./ORG_022.md) | Organization | Legal Firm |  |
 | ORG_023 | [ORG_023: De Novo Business Services](./ORG_023.md) | Organization |  |  |
 | ORG_024 | [ORG_024: Corporate and Merchant Administrators](./ORG_024.md) | Organization |  |  |
@@ -67,7 +69,7 @@ title: Entity Index
 | PERSON_017 | [PERSON_017: Mpumi Netshipale](./PERSON_017.md) | Person | FNB Business Relationship Manager |  |
 | PERSON_018 | [PERSON_018: Michelle Habig](./PERSON_018.md) | Person | FNB Relationship Analyst |  |
 | PERSON_019 | [PERSON_019: Oliver](./PERSON_019.md) | Person |  | EVENT098, EVENT100 |
-| PERSON_020 | [Linda Kruger](./PERSON_020.md) | Person | Office Employee (Sales/Accounts), Active Participant in Payment Redirection |  |
+| PERSON_020 | [Linda Kruger — legacy analytical alias](./PERSON_020.md) | Person | Office Employee (Sales/Accounts), Active Participant in Payment Redirection | EVENT121, MAILBOX_LINDA_CHANGE_OF_BANK_JUNE_2025 |
 | PERSON_021 | [Gayane Williams](./PERSON_021.md) | Person | Office Employee, Active Participant in Infrastructure Hijacking |  |
 | PERSON_037 | [PERSON_037 - Kent](./PERSON_037.md) | Person | Sales/Order Processor | JF07, JF09 |
 | PERSON_038 | [PERSON_038 - EL](./PERSON_038.md) | Person | Sales/Order Processor | JF07 |

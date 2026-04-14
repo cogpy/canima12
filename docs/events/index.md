@@ -1,10 +1,12 @@
 # Events Index
 
-**Last Updated:** 2026-03-18 (v18)  
+**Last Updated:** 2026-04-14 (v18.1)  
 **Total Events:** 173 documented events across 7 phases  
 **Pipeline:** `/evidence-process(/skillm) -> /ksm-evolve(/regima-org-self) -> /optimal-cognitive-grip`
 
 This index catalogs all events in Case 2025-137857: Revenue Stream Hijacking, organized by phase and significance.
+
+> **Refinement Note (2026-04-14):** The event model has been re-read against the latest entity normalization and filing structure. The most consequential event families remain the **Ketoni motive sequence**, the **June 2025 retaliation cluster**, the **August 2025 backdating/interdict sprint**, and the **post-interdict extraction/contempt sequence**. See the detailed [Entity, Relation, Event, and Timeline Refinement Report](../reports/ENTITY_RELATION_EVENT_TIMELINE_REFINEMENT_2026-04-14.md).
 
 ---
 

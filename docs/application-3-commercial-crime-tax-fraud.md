@@ -1,6 +1,8 @@
 # Application 3: Commercial Crime & Tax Fraud
 
-**Last Updated:** 2026-03-25
+**Last Updated:** 2026-04-14
+
+> **Refinement Note (2026-04-14):** This commercial-crime / tax-fraud landing page should now be read together with the [Filings Index](./filings/index.md), the [Filing Refinement Addendum](./filings/FILING_REFINEMENT_ADDENDUM_2026-04-14.md), and the [Red-Team Critique v22](./filings/RED_TEAM_CRITIQUE_2026-04-14_v22.md). Those documents carry the current timeline-anchor, canonical-entity, and rebuttal updates.
 
 ## Overview
 
@@ -69,6 +71,9 @@ This application covers commercial crime charges and tax fraud reports for submi
 
 ## Key Evidence
 
+> **Current emphasis:** The strongest present framing is a continuous chain of conduct: **fraud exposure -> retaliation -> redirected payments / manipulated records -> procedural weaponization -> post-order extraction**. That structure should guide every reading of the commercial-crime and tax-fraud materials.
+
+
 ### Financial Records
 - **JF03** - Financial records and analysis
 - **SF3** - Strategic Logistics Stock Adjustment (R5.4M loss)
@@ -87,16 +92,18 @@ This application covers commercial crime charges and tax fraud reports for submi
 
 | Filing | Status | Date |
 |--------|--------|------|
-| Commercial Crime Submission | ✅ REFINED | 2026-03-25 |
-| NPA Tax Fraud Report | ✅ REFINED | 2026-03-25 |
+| Commercial Crime Submission | ✅ REFINED + v21.1 addendum | 2026-03-25 / 2026-04-14 |
+| NPA Tax Fraud Report | ✅ REFINED + v21.1 addendum | 2026-03-25 / 2026-04-14 |
 
 ## Cross-References
 
-- **[Commercial Crime Filing](./filings/COMMERCIAL_CRIME_REFINED_2026_03_25.md)**
-- **[NPA Tax Fraud Filing](./filings/NPA_REFINED_2026_03_25.md)**
+- **[NPA Commercial Crime Filing v21](./filings/NPA_COMMERCIAL_CRIME_REFINED_2026-03-25_v21.md)**
+- **[SARS Tax Fraud Filing v21](./filings/SARS_TAX_FRAUD_REPORT_REFINED_2026-03-25_v21.md)**
+- **[Filing Refinement Addendum](./filings/FILING_REFINEMENT_ADDENDUM_2026-04-14.md)**
+- **[Red-Team Critique v22](./filings/RED_TEAM_CRITIQUE_2026-04-14_v22.md)**
 - **[Evidence Index](./evidence-index-enhanced.md)**
 - **[Fund Flow Analysis](./fund-flow-analysis.md)**
 
 ---
 
-*Last updated by LEX Investigation System: 2026-03-25 13:34:16*
+*Last updated by LEX Investigation System: 2026-04-14 — filing links and refinement layer updated.*

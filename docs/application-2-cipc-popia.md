@@ -1,6 +1,8 @@
 # Application 2: CIPC & POPIA Complaints
 
-**Last Updated:** 2026-03-25
+**Last Updated:** 2026-04-14
+
+> **Refinement Note (2026-04-14):** This regulatory / POPIA landing page now sits beneath the current [Filings Index](./filings/index.md), the [Filing Refinement Addendum](./filings/FILING_REFINEMENT_ADDENDUM_2026-04-14.md), and the [Red-Team Critique v22](./filings/RED_TEAM_CRITIQUE_2026-04-14_v22.md). Use those resources for the latest chronology, canonical entities, and defence-defeat updates.
 
 ## Overview
 
@@ -55,6 +57,9 @@ This application covers regulatory complaints under the Companies Act and POPIA 
 
 ## Key Evidence
 
+> **Current emphasis:** The strongest current rebuttal theme is that this application is not about abstract access or governance concerns in isolation. It is about **misuse of company control and data/system access for redirected payments, identity deception, and exclusionary conduct**.
+
+
 ### CIPC Records
 - **JF04** - CIPC company registration documents
 - **JF14** - CIPC historical records (2021)
@@ -80,15 +85,17 @@ This application covers regulatory complaints under the Companies Act and POPIA 
 
 | Filing | Status | Date |
 |--------|--------|------|
-| CIPC Complaint | ✅ REFINED | 2026-03-25 |
-| POPIA Complaint | ✅ REFINED | 2026-03-25 |
+| CIPC Complaint | ✅ REFINED + v21.1 addendum | 2026-03-25 / 2026-04-14 |
+| POPIA Complaint | ✅ REFINED + v21.1 addendum | 2026-03-25 / 2026-04-14 |
 
 ## Cross-References
 
-- **[CIPC Complaint Filing](./filings/CIPC_REFINED_2026_03_25.md)**
-- **[POPIA Complaint Filing](./filings/POPIA_REFINED_2026_03_25.md)**
+- **[CIPC Complaint Filing v21](./filings/CIPC_COMPLAINT_REFINED_2026-03-25_v21.md)**
+- **[POPIA Complaint Filing v21](./filings/POPIA_COMPLAINT_REFINED_2026-03-25_v21.md)**
+- **[Filing Refinement Addendum](./filings/FILING_REFINEMENT_ADDENDUM_2026-04-14.md)**
+- **[Red-Team Critique v22](./filings/RED_TEAM_CRITIQUE_2026-04-14_v22.md)**
 - **[Evidence Index](./evidence-index-enhanced.md)**
 
 ---
 
-*Last updated by LEX Investigation System: 2026-03-25 13:34:16*
+*Last updated by LEX Investigation System: 2026-04-14 — filing links and refinement layer updated.*

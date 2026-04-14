@@ -1,6 +1,6 @@
 # Case 2025-137857: Revenue Stream Hijacking — Evidence Repository
 
-**Last Updated:** 2026-03-25 (v21 — SA Forensic Audit)
+**Last Updated:** 2026-04-14 (v21.1 — Timeline / Filing Refinement)
 
 This repository provides a comprehensive, evidence-based view of Case 2025-137857, a multi-faceted criminal enterprise involving revenue stream hijacking, trust fraud, identity theft, and corporate malfeasance with a total quantum exceeding **R63,000,000**.
 
@@ -10,7 +10,7 @@ This repository provides a comprehensive, evidence-based view of Case 2025-13785
 >
 > **v21 Indexes:** [Entities](./entities/index.md) | [Events](./events/index.md) | [Relations](./relations/index.md) | [Timeline](./timeline.md)
 >
-> **v21 Analysis:** [Red-Team Critique v16.2](./filings/RED_TEAM_CRITIQUE_2026_03_18_v16.md) | [Bantjies Complicity Brief](./filings/LEGAL_BRIEF_BANTJIES_COMPLICITY_2026-03-18.md)
+> **v21 Analysis:** [Red-Team Critique v22](./filings/RED_TEAM_CRITIQUE_2026-04-14_v22.md) | [Filing Refinement Addendum](./filings/FILING_REFINEMENT_ADDENDUM_2026-04-14.md) | [Case-Model Refinement Report](./reports/ENTITY_RELATION_EVENT_TIMELINE_REFINEMENT_2026-04-14.md) | [Bantjies Complicity Brief](./filings/LEGAL_BRIEF_BANTJIES_COMPLICITY_2026-03-18.md)
 
 ## 🎯 CRITICAL: Ketoni ZAR 18.75M Payout - Central Financial Motive
 
@@ -29,6 +29,8 @@ This financial motive explains:
 **[→ View Complete Ketoni Timeline](./ketoni-timeline.md)**
 
 ---
+
+> **2026-04-14 Refinement Note:** The GitHub Pages surface has been normalized around canonical entity references, timeline-driven filing improvements, and updated red-team critique materials. Where older filing versions remain in place for historical continuity, use the live [Filings Index](./filings/index.md), the [Filing Refinement Addendum](./filings/FILING_REFINEMENT_ADDENDUM_2026-04-14.md), and the [Red-Team Critique v22](./filings/RED_TEAM_CRITIQUE_2026-04-14_v22.md) as the current upgrade layer.
 
 ## 📊 Quick Navigation by Application
 
@@ -126,6 +128,8 @@ This financial motive explains:
 
 ### All Filings
 - **[Filings Index](./filings/index.md)** - All legal filings organized by type, date, and application group
+- **[Filing Refinement Addendum (2026-04-14)](./filings/FILING_REFINEMENT_ADDENDUM_2026-04-14.md)** - Canonical entities, timeline anchors, and defence-defeat language
+- **[Red-Team Critique v22 (2026-04-14)](./filings/RED_TEAM_CRITIQUE_2026-04-14_v22.md)** - Cross-application loophole analysis and rebuttal strategy
 
 ---
 
@@ -240,10 +244,10 @@ For comprehensive supporting evidence, see the **[ad-res-j7 repository](https://
 
 *This documentation is continuously updated as new evidence is analyzed and legal filings are refined. All evidence references are cross-linked to the ad-res-j7 repository for verification and detailed examination.*
 
-**Data Model Versions (v21):**
-- Entities: 94 (v21 — deduplicated, subtypes added, roles enriched)
-- Events: 148 (v21 — 29 unknown dates resolved, evidence refs added)
-- Relations: 141 (v21 — source/target fields added, cross-references fixed)
-- Timeline: 151 entries (v21 — synchronized with events)
+**Live Data Model Surface:**
+- [Entities Index](./entities/index.md) — canonical entity notes updated 2026-04-14
+- [Events Index](./events/index.md) — timeline cluster note updated 2026-04-14
+- [Relations Index](./relations/index.md) — canonical cross-reference note updated 2026-04-14
+- [Master Timeline](./timeline.md) — refinement note updated 2026-04-14
 
-**Last Refinement:** 2026-03-25 — `/fin-audit-za-v2(/evidence-process)` SA Forensic Audit Pipeline
+**Last Refinement:** 2026-04-14 — timeline / filing refinement layer added on top of the v21 forensic-audit baseline

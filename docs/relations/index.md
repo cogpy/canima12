@@ -5,7 +5,9 @@ title: Relations Index
 
 # Relations Index
 
-**Last Updated:** 2026-03-23
+**Last Updated:** 2026-04-14
+
+> **Refinement Note (2026-04-14):** Relation pages should now preferentially cite the normalized entity records introduced in the 2026-04-14 refinement cycle: **PERSON_006** for Linda Kruger, **ORG_017** for Ketoni, **ORG_019** for Pottas Attorneys, **ORG_006** for the operating RegimA SA victim stream, and **ORG_014** for the legal company-record view. See the [Entity, Relation, Event, and Timeline Refinement Report](../reports/ENTITY_RELATION_EVENT_TIMELINE_REFINEMENT_2026-04-14.md).
 
 | ID | Title | Entities | Evidence |
 |----|-------|----------|----------|

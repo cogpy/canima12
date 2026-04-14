@@ -5,7 +5,9 @@ title: Master Timeline
 
 # Master Timeline
 
-**Last Updated:** 2026-03-23
+**Last Updated:** 2026-04-14
+
+> **Refinement Note (2026-04-14):** The timeline has been reviewed against the current entity and filing model. The most important chronology clusters for the next filing cycle are: **(i)** Ketoni motive and trustee-control preparation, **(ii)** June 2025 fraud exposure and retaliation, **(iii)** the August 2025 backdating/interdict sprint, and **(iv)** post-interdict extraction and contempt. See the detailed [Entity, Relation, Event, and Timeline Refinement Report](./reports/ENTITY_RELATION_EVENT_TIMELINE_REFINEMENT_2026-04-14.md).
 
 | Date | Event | Entities | T-Months | Evidence |
 |------|-------|----------|----------|----------|
