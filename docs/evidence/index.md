@@ -1,6 +1,6 @@
 # Evidence Catalog
 
-**Last Updated:** 2026-02-04
+**Last Updated:** 2026-04-20
 
 This section provides a catalog of the critical evidence that forms the foundation of case 2025-137857. The evidence is organized by category to provide a clear and accessible overview of the supporting documentation.
 
@@ -20,6 +20,10 @@ This category includes all financial records, transaction histories, and analyse
 
 This category includes all email correspondence, internal communications, and other documented interactions that reveal the intent, coordination, and deception of the perpetrators.
 
+**Newly surfaced item (2026-04-20):** [Danie Mailbox 000277 — "I will manufacture an answer"](./DANIE_000277_MANUFACTURE_AN_ANSWER_2026-04-20.md), a 6 June 2025 email tied to a SARS / VAT query about two inter-company invoices and preserved with forensic JSON metadata.
+
+**Full-mailbox intake layer (2026-04-20):** [Exchange Export Intake — Rynette Mailbox / Conversation-Led Evidence Layer](./EXCHANGE_EXPORT_RYNETTE_CONVERSATION_INTAKE_2026-04-20.md), documenting the preservation of the full `exchange-eml-export-rynette@regima.zone.tar.gz` corpus and the relevant legal-forensic skill stack applied to it.
+
 ### [FNB Correspondence](./fnb_correspondence/EVIDENCE_PACKAGE_COMBINED.md)
 
 Critical FNB correspondence proving SOLE authority and perjury:
@@ -31,4 +35,4 @@ Critical FNB correspondence proving SOLE authority and perjury:
 
 ---
 
-For a complete and detailed index of all 1,700+ evidence files, please refer to the `ad-res-j7` repository and the `EVIDENCE_CROSS_REFERENCE_2026_01_14.md` document.
+For a complete and detailed index of all 1,700+ evidence files, please refer to the `ad-res-j7` repository and the `EVIDENCE_CROSS_REFERENCE_2026_01_14.md` document. The new Danie mailbox archive, the specifically flagged `000277` message, and the full Rynette Exchange export corpus have now been preserved in both repositories.

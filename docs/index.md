@@ -251,5 +251,6 @@ For comprehensive supporting evidence, see the **[ad-res-j7 repository](https://
 - [Events Index](./events/index.md) — appeal-stage event layer updated 2026-04-20
 - [Relations Index](./relations/index.md) — appellate representation mapping added 2026-04-20
 - [Master Timeline](./timeline.md) — appeal-stage chronology updated 2026-04-20
+- [Exchange Export Intake](./evidence/EXCHANGE_EXPORT_RYNETTE_CONVERSATION_INTAKE_2026-04-20.md) — full-mailbox conversation layer and skill-aware intake note added 2026-04-20
 
-**Last Refinement:** 2026-04-20 — appeal-stage evidence, event, relation, and filing layer added on top of the v21 / v21.1 baseline
+**Last Refinement:** 2026-04-20 — appeal-stage evidence, Danie mailbox evidence, and full Rynette Exchange-export conversation layer added on top of the v21 / v21.1 baseline
