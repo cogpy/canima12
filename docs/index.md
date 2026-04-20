@@ -1,6 +1,6 @@
 # Case 2025-137857: Revenue Stream Hijacking — Evidence Repository
 
-**Last Updated:** 2026-04-14 (v21.1 — Timeline / Filing Refinement)
+**Last Updated:** 2026-04-20 (v21.2 — Appeal-Stage Refinement)
 
 This repository provides a comprehensive, evidence-based view of Case 2025-137857, a multi-faceted criminal enterprise involving revenue stream hijacking, trust fraud, identity theft, and corporate malfeasance with a total quantum exceeding **R63,000,000**.
 
@@ -11,6 +11,8 @@ This repository provides a comprehensive, evidence-based view of Case 2025-13785
 > **v21 Indexes:** [Entities](./entities/index.md) | [Events](./events/index.md) | [Relations](./relations/index.md) | [Timeline](./timeline.md)
 >
 > **v21 Analysis:** [Red-Team Critique v22](./filings/RED_TEAM_CRITIQUE_2026-04-14_v22.md) | [Filing Refinement Addendum](./filings/FILING_REFINEMENT_ADDENDUM_2026-04-14.md) | [Case-Model Refinement Report](./reports/ENTITY_RELATION_EVENT_TIMELINE_REFINEMENT_2026-04-14.md) | [Bantjies Complicity Brief](./filings/LEGAL_BRIEF_BANTJIES_COMPLICITY_2026-03-18.md)
+>
+> **v21.2 Appeal Layer (2026-04-20):** [EVENT_176 Judgment](./events/EVENT_176.md) | [EVENT_177 Leave to Appeal](./events/EVENT_177.md) | [Appeal Red-Team Critique](./filings/APPEAL_RED_TEAM_CRITIQUE_2026-04-20.md) | [Appeal Rebuttal Addendum](./filings/APPEAL_REBUTTAL_ADDENDUM_2026-04-20.md) | [Leave-to-Appeal Opposition Framework](./filings/LEAVE_TO_APPEAL_OPPOSITION_FRAMEWORK_2026-04-20.md)
 
 ## 🎯 CRITICAL: Ketoni ZAR 18.75M Payout - Central Financial Motive
 
@@ -30,7 +32,7 @@ This financial motive explains:
 
 ---
 
-> **2026-04-14 Refinement Note:** The GitHub Pages surface has been normalized around canonical entity references, timeline-driven filing improvements, and updated red-team critique materials. Where older filing versions remain in place for historical continuity, use the live [Filings Index](./filings/index.md), the [Filing Refinement Addendum](./filings/FILING_REFINEMENT_ADDENDUM_2026-04-14.md), and the [Red-Team Critique v22](./filings/RED_TEAM_CRITIQUE_2026-04-14_v22.md) as the current upgrade layer.
+> **2026-04-20 Refinement Note:** The GitHub Pages surface now includes an appellate-stage refinement layer anchored to the **26 March 2026 contempt judgment** and the **30 March 2026 leave-to-appeal notice**. Where older filing versions remain in place for historical continuity, use the live [Filings Index](./filings/index.md), [EVENT_176](./events/EVENT_176.md), [EVENT_177](./events/EVENT_177.md), the [Appeal Red-Team Critique](./filings/APPEAL_RED_TEAM_CRITIQUE_2026-04-20.md), and the [Appeal Rebuttal Addendum](./filings/APPEAL_REBUTTAL_ADDENDUM_2026-04-20.md) as the current upgrade layer.
 
 ## 📊 Quick Navigation by Application
 
@@ -75,10 +77,10 @@ This financial motive explains:
 - **[Narrative Overview](./narrative-overview.md)** - Plain-language summary of the case, timeline, and laws broken
 - **[Ketoni Payout Timeline](./ketoni-timeline.md)** - Central financial motive (ZAR 18.75M May 2026)
 - **[Comprehensive Evidence Index](./evidence-index-enhanced.md)** - All evidence categorized and cross-referenced
-- **[Master Timeline](./timeline.md)** - Complete chronological event sequence (151 entries)
-- **[Entities Directory](./entities/index.md)** - All persons and organizations (94 entities)
-- **[Events Directory](./events/)** - Detailed event documentation (148 events)
-- **[Relations Analysis](./relations/index.md)** - Entity relationship mapping (141 relations)
+- **[Master Timeline](./timeline.md)** - Complete chronological event sequence (now includes 26/30 March 2026 appellate-stage entries)
+- **[Entities Directory](./entities/index.md)** - All persons and organizations, including Burger Huyser appellate-stage representation entity
+- **[Events Directory](./events/)** - Detailed event documentation, including EVENT_176 and EVENT_177
+- **[Relations Analysis](./relations/index.md)** - Entity relationship mapping, including appeal-stage representation mapping
 - **[LEX Skills Framework](./skills/index.md)** - 128 legal reasoning skills across 7 domains
 
 ### Evidence Packages (JF Series)
@@ -245,9 +247,9 @@ For comprehensive supporting evidence, see the **[ad-res-j7 repository](https://
 *This documentation is continuously updated as new evidence is analyzed and legal filings are refined. All evidence references are cross-linked to the ad-res-j7 repository for verification and detailed examination.*
 
 **Live Data Model Surface:**
-- [Entities Index](./entities/index.md) — canonical entity notes updated 2026-04-14
-- [Events Index](./events/index.md) — timeline cluster note updated 2026-04-14
-- [Relations Index](./relations/index.md) — canonical cross-reference note updated 2026-04-14
-- [Master Timeline](./timeline.md) — refinement note updated 2026-04-14
+- [Entities Index](./entities/index.md) — canonical entity notes updated 2026-04-20
+- [Events Index](./events/index.md) — appeal-stage event layer updated 2026-04-20
+- [Relations Index](./relations/index.md) — appellate representation mapping added 2026-04-20
+- [Master Timeline](./timeline.md) — appeal-stage chronology updated 2026-04-20
 
-**Last Refinement:** 2026-04-14 — timeline / filing refinement layer added on top of the v21 forensic-audit baseline
+**Last Refinement:** 2026-04-20 — appeal-stage evidence, event, relation, and filing layer added on top of the v21 / v21.1 baseline

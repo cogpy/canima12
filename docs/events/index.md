@@ -1,7 +1,7 @@
 # Events Index
 
-**Last Updated:** 2026-04-14 (v18.1)  
-**Total Events:** 173 documented events across 7 phases  
+**Last Updated:** 2026-04-20 (v18.2)  
+**Total Events:** 175 documented events across 7 phases  
 **Pipeline:** `/evidence-process(/skillm) -> /ksm-evolve(/regima-org-self) -> /optimal-cognitive-grip`
 
 This index catalogs all events in Case 2025-137857: Revenue Stream Hijacking, organized by phase and significance.
@@ -14,11 +14,11 @@ This index catalogs all events in Case 2025-137857: Revenue Stream Hijacking, or
 
 | Category | Count | Threshold Status |
 |----------|-------|------------------|
-| Total Event Files | 167 | — |
+| Total Event Files | 169 | — |
 | Criminal Threshold Events | 67+ | 95% EXCEEDED |
 | Ketoni-Related Events | 14 | Central Motive |
 | Intercompany Pipeline Events | 12 | SARS-Flagged |
-| Contempt/Void Ab Initio Events | 8 | CRITICAL |
+| Contempt/Void Ab Initio Events | 10 | CRITICAL |
 | Forgery/Backdating Events | 5 | TWO-DATE DISTINCTION |
 | SARS/Identity Fraud Events | 4 | CREDENTIAL ABUSE |
 | Trust Gatekeeping Events | 2 | INFORMATION CONTROL |
@@ -253,6 +253,13 @@ The following 53 events meet the criminal burden of proof:
 |------|-------|--------------|------|
 | **2026-02-04** | **Void Ab Initio Evidence Submitted to Pottas Attorneys** | FNB SOLE mandate proof, perjury evidence destroys interdict foundation | [EVENT_102](./EVENT_102.md) |
 
+### Judgment and Appeal Stage
+
+| Date | Event | Significance | Link |
+|------|-------|--------------|------|
+| **2026-03-26** | **Contempt Judgment Delivered (Justice Labuschagne)** | Appellate grounds later confirm the applicant lost the judgment/order in material respects and was hit with punitive costs | [EVENT_176](./EVENT_176.md) |
+| **2026-03-30** | **Notice of Application for Leave to Appeal Filed** | Opens the appellate phase; isolates the applicant's current theory on Fakie, Plascon-Evans, clause 2.5, stock, training, and costs | [EVENT_177](./EVENT_177.md) |
+
 ---
 
 ## Evidence Cross-References
@@ -299,4 +306,4 @@ The following 53 events meet the criminal burden of proof:
 
 ---
 
-*Last updated: 2026-03-18 by /evidence-process(/skillm) -> /ksm-evolve(/regima-org-self) -> /optimal-cognitive-grip pipeline.*
+*Last updated: 2026-04-20 by /evidence-process(/skillm) -> /ksm-evolve(/regima-org-self) -> /optimal-cognitive-grip pipeline.*

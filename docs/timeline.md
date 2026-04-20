@@ -5,7 +5,7 @@ title: Master Timeline
 
 # Master Timeline
 
-**Last Updated:** 2026-04-14
+**Last Updated:** 2026-04-20
 
 > **Refinement Note (2026-04-14):** The timeline has been reviewed against the current entity and filing model. The most important chronology clusters for the next filing cycle are: **(i)** Ketoni motive and trustee-control preparation, **(ii)** June 2025 fraud exposure and retaliation, **(iii)** the August 2025 backdating/interdict sprint, and **(iv)** post-interdict extraction and contempt. See the detailed [Entity, Relation, Event, and Timeline Refinement Report](./reports/ENTITY_RELATION_EVENT_TIMELINE_REFINEMENT_2026-04-14.md).
 
@@ -157,3 +157,5 @@ title: Master Timeline
 | 2026-03-10 | [EVENT_SIM_001: LEX-SIM-NN Differentiable Legal Simulation Executed](./events/EVENT_SIM_001.md) |  |  |  |
 | 2026-03-10 | [EVENT_XPLAT_AUDIT_001: Cross-Platform Forensic Transport Audit](./events/EVENT_XPLAT_AUDIT_001.md) |  |  |  |
 | 2026-03-13 | [Rule 30/30A Deadline Expires (EVENT_136)](./events/EVENT_136.md) |  |  | EVENT136 |
+| 2026-03-26 | [Contempt Judgment Delivered (EVENT_176)](./events/EVENT_176.md) | PERSON_001, PERSON_004, PERSON_005, ORG_020 |  | KF0019 leave-to-appeal notice |
+| 2026-03-30 | [Notice of Application for Leave to Appeal Filed (EVENT_177)](./events/EVENT_177.md) | PERSON_001, PERSON_004, PERSON_005, ORG_020, ORG_031 |  | KF0019 leave-to-appeal notice |

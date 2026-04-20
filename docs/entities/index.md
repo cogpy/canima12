@@ -50,6 +50,7 @@ title: Entity Index
 | ORG_028 | [Elliott Attorneys Incorporated](./ORG_028.md) | Organization |  |  |
 | ORG_029 | [Nick Xenophontos Attorneys](./ORG_029.md) | Organization | Legal Practice — FFT/Peter's Legal Advisors (Ketoni Matter) |  |
 | ORG_030 | [Forvis Mazars](./ORG_030.md) | Organization | Audit/Review Firm — Ketoni AFS Preparer |  |
+| ORG_031 | [Burger Huyser Attorneys – Bedfordview Inc](./ORG_031.md) | Organization | respondent_side_attorneys_at_leave_to_appeal_stage | KF0019 leave-to-appeal notice |
 | PERSON_001 | [Peter Andrew Faucitt](./PERSON_001.md) | Person | Primary Perpetrator | EVENT001, EVENT002, EVENT003, EVENT006, EVENT007, EVENT008, EVENT016, EVENT017, EVENT018, EVENT019, EVENT020, JF01, JF04, JF06, JF07, JF08, JF09, SF01, SF09, SF10, SF11 |
 | PERSON_002 | [Rynette Farrar](./PERSON_002.md) | Person | Co-Conspirator (Operational Controller) | EVENT004, EVENT005, EVENT013, EVENT014, EVENT015, EVENT025, EVENT026, EVENT063, EVENT103, EVENT104, EVENT105, JF01, JF05, JF07, JF08, JF09, SF02, SF10 |
 | PERSON_003 | [Darren Dennis Farrar](./PERSON_003.md) | Person | co_conspirator_family_member (Rynette Farrar's son, Director of Addarory) | EVENT010, EVENT024, EVENT027, JF01, JF08, JF09 |

@@ -11,6 +11,7 @@ title: Relations Index
 
 | ID | Title | Entities | Evidence |
 |----|-------|----------|----------|
+| APPEAL_STAGE_REPRESENTATION_2026_03_30 | [Appeal-Stage Representation Mapping — 30 March 2026](./APPEAL_STAGE_REPRESENTATION_2026_03_30.md) | PERSON_001, PERSON_004, PERSON_005, ORG_019, ORG_020, ORG_031 | KF0019 leave-to-appeal notice |
 | AYMAC_KAYLOVEST_ELLIOTT_NETWORK | [Aymac-Kaylovest-Elliott Network](./AYMAC_KAYLOVEST_ELLIOTT_NETWORK.md) | PERSON_001, PERSON_002, ORG_026, ORG_027, ORG_028, ORG_002 |  |
 | BACKDATED_ENTRIES | [Backdated Journal Entries — 2021 Forgery](./BACKDATED_ENTRIES.md) |  |  |
 | BANKING_MANDATE_FRAUD | [Banking Mandate Fraud Network](./BANKING_MANDATE_FRAUD.md) | PERSON_001, PERSON_002, PERSON_005, BANK_001 | EVENT107, SF10, SF11 |
