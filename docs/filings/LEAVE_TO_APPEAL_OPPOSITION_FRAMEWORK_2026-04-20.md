@@ -1,202 +1,137 @@
-# Leave-to-Appeal Opposition Framework — KF0019 (2026-04-20)
+# Leave-to-Appeal Opposition Framework
 
-**Source evidence:** `KF0019-NoticeofApplicationforLeavetoAppeal-2026-03-30.pdf`  
-**Companion analysis:** [Appeal Red-Team Critique](./APPEAL_RED_TEAM_CRITIQUE_2026-04-20.md) and [Appeal Rebuttal Addendum](./APPEAL_REBUTTAL_ADDENDUM_2026-04-20.md)
+**Primary sources:** `LABUSCHAGNE_CONTEMPT_JUDGMENT_2026-03-26_TRANSCRIPTION.md`; `KF0019-NoticeofApplicationforLeavetoAppeal-2026-03-30.pdf`  
+**Companion documents:** [Leave-to-Appeal Opposition Note (2026-04-21)](./LEAVE_TO_APPEAL_OPPOSITION_NOTE_2026-04-21.md); [Direct-Judgment Appeal Critique](./APPEAL_RED_TEAM_CRITIQUE_2026-04-21_DIRECT_JUDGMENT.md); [Direct-Judgment Appeal Rebuttal](./APPEAL_REBUTTAL_ADDENDUM_2026-04-21_DIRECT_JUDGMENT.md)
 
 ---
 
 ## Purpose
 
-This framework explains how the 30 March 2026 **Notice of Application for Leave to Appeal** should refine the live filing stack across the case repositories. The filing is procedurally important, but its effects are **not uniform** across all applications. It has its strongest impact on the **civil contempt / void-*ab-initio* / abuse-of-process** line, and a more limited evidential impact on the already high-scoring regulatory and criminal referrals.
+This framework explains how the **30 March 2026 Notice of Application for Leave to Appeal** should now be handled across the live filing stack **after integration of the full 26 March 2026 judgment**. The central point is no longer that the appellate filing reveals a missing-document problem. That problem has been cured. The present task is to organize the repositories around a disciplined **opposition posture** grounded in section 17 of the Superior Courts Act and the court's actual reasons for dismissing the contempt application.
+
+---
+
+## Core Opposition Premise
+
+The direct judgment establishes the decisive proposition for the opposition package: the court accepted that the order existed and that knowledge was present, but held that **breach** and **wilfulness** had not been proved. The leave-to-appeal notice does not yet demonstrate why another court **would** overturn that finding. The correct repository-wide posture is therefore:
+
+> The appeal application should be opposed because it largely re-argues a fact-sensitive contempt dispute after the court has already found that the decisive merits elements of contempt were not established.
 
 ---
 
 ## Filing Impact Matrix
 
-| Filing family | Impact of leave-to-appeal notice | Required action |
+| Filing family | Impact of leave-to-appeal application after full judgment integration | Required action |
 |---|---|---|
-| Civil contempt / contempt opposition | High | Add appellate-phase chronology and rebuttal structure |
-| Void-*ab-initio* / rescission line | High | Use notice as evidence that applicant still depends on the challenged order |
-| Civil action / malicious prosecution themes | Medium-High | Use notice to extend legal-weaponisation chronology |
-| CIPC complaint | Low-Medium | Mention as further evidence of control conflict, but no score jump from filing alone |
-| POPIA complaint | Low | No direct new data-breach proof created by notice |
-| NPA commercial crime | Low-Medium | Procedural persistence may support consciousness-of-wrongdoing narrative, but financial proof remains primary |
-| SARS tax fraud | Low | No direct tax proof added |
-| NPA perjury / SAICA misconduct | Medium | Useful as a persistence-and-evasion indicator, but core proof still comes from documentary contradictions |
+| Leave-to-appeal opposition | Very High | Use the 2026-04-21 opposition note as the primary filing-ready respondent-side document |
+| Civil contempt / contempt opposition | High | Add direct judgment reasoning and section 17 threshold framing |
+| Void-*ab-initio* / rescission line | High | Use the appeal as evidence that applicant still depends on the challenged order |
+| Civil action / abuse-of-process / legal weaponisation | Medium-High | Extend the chronology from failed contempt to appellate escalation |
+| CIPC complaint | Low-Medium | Mention only as continuing control-conflict context |
+| POPIA complaint | Low | Chronology only; no direct evidential score increase |
+| NPA commercial crime | Low-Medium | Pattern evidence only, not core proof |
+| SARS tax fraud | Low | No direct tax increment |
+| NPA perjury / SAICA misconduct | Medium | Persistence marker only; documentary contradiction proof remains primary |
 
 ---
 
-## 1. Civil / Contempt / Rule 42 Line
+## 1. The Main Respondent-Side Product
 
-The new filing most directly affects the **contempt opposition** and **void-*ab-initio*** branches.
+The primary answer should now be the **Leave-to-Appeal Opposition Note (2026-04-21)**. That note should be treated as the current respondent-side appellate package because it combines:
+
+1. the direct judgment;
+2. the statutory section 17 threshold;
+3. the applicant's actual grounds from the notice; and
+4. a filing-ready submission showing why leave should be refused.
+
+### Practical repository rule
+
+Where any public page or filing note refers to appellate opposition, it should direct users first to:
+
+- the **Opposition Note**;
+- the **Direct-Judgment Appeal Critique**; and
+- the **Direct-Judgment Appeal Rebuttal**.
+
+---
+
+## 2. Civil / Contempt / Rule 42 Line
+
+The appellate filing remains most important in the **civil contempt / void-*ab-initio* / abuse-of-process** branch.
 
 ### Why
 
-The notice shows that, after an adverse judgment on 26 March 2026, the applicant continues to rely on the same central propositions:
+The application still depends on the same narrow set of propositions:
 
-- broad interpretation of clause 2.5,
-- stock and training incidents as contempt,
-- witness-credibility attacks,
-- rejection of the respondent version,
-- punitive-costs challenge,
-- insistence that the contempt burden was misapplied.
+- a broader reading of clause 2.5;
+- stock and training incidents as contempt;
+- an attack on the respondent version;
+- a challenge to punitive costs; and
+- dissatisfaction with the court's handling of motion-paper disputes.
 
-### Filing refinement to implement
+### Required insertion language
 
-Any respondent-side contempt or rescission filing should now include a short **appellate-phase section** with the following proposition:
-
-> The 30 March 2026 notice for leave to appeal confirms that the applicant's post-interdict litigation strategy remains anchored to the same disputed operational incidents and the same contested order integrity, notwithstanding an adverse judgment dated 26 March 2026.
-
-### Practical use
-
-- Add the 26 March 2026 and 30 March 2026 events to chronology sections.
-- Cross-link to the red-team critique and rebuttal addendum.
-- Avoid overstating the notice as proof of merits; use it as proof of litigation posture and identified attack lines.
+> The leave-to-appeal application does not disclose a realistic prospect that another court would reverse the finding that breach and wilfulness were not established on the motion papers. It instead seeks to restate the same stock, training, and practical-control allegations already rejected in the 26 March 2026 judgment.
 
 ---
 
-## 2. Civil Action / Abuse of Process / Legal Weaponisation
+## 3. Civil Action / Abuse of Process / Legal Weaponisation
 
-The notice is useful as a **continuation event** in the broader legal-weaponisation chronology.
+The appellate filing should also be integrated as a **continuation event** in the larger procedural-pressure chronology.
 
-### Why
+### Required insertion language
 
-It shows that the applicant did not abandon the contempt theory after losing at first instance. Instead, he escalated into the appellate stage on substantially the same operational allegations.
+> The 30 March 2026 leave-to-appeal application extended the same contempt narrative into the appellate phase after the applicant had already failed to prove contempt at first instance, thereby strengthening the chronology of process escalation.
 
-### Filing refinement to implement
-
-In the civil-action narrative, add a sentence along these lines:
-
-> The 30 March 2026 leave-to-appeal notice extended the same contempt narrative into the appellate phase, reinforcing the pattern of process escalation built around contested stock and training incidents rather than a proven fraud-free underlying order.
-
-### Use cautiously
-
-This strengthens **pattern evidence**, but it does not independently prove damages or malice. Those still need separate evidential support.
+This use remains important because the direct judgment itself records concern that the contempt proceedings were being used to bolster the applicant's forfeiture position in the divorce.
 
 ---
 
-## 3. CIPC Companies Act Complaint
+## 4. Limited-Impact Filing Families
 
-The notice has **limited direct value** for the CIPC complaint.
+The following filing families should not be overstated on the strength of the appeal alone.
 
-### Why
-
-The Companies Act complaint lives or dies on:
-- directorship and fiduciary-duty facts,
-- CIPC record manipulation,
-- false authority claims,
-- control over company administration,
-- use of corporate structures to prejudice co-directors/members.
-
-The leave-to-appeal notice does not add new CIPC records or new company-law admissions. It mainly confirms that control over stock, training, and operational decision-making remained contested enough to drive continued litigation.
-
-### Filing refinement to implement
-
-At most, add a note that the appellate notice shows **continuing reliance on alleged practical control over the companies** as part of the wider governance dispute.
-
-### No score change recommended
-
-The notice should **not** materially increase the CIPC complaint score on its own.
-
----
-
-## 4. POPIA Criminal Complaint
-
-The notice has **minimal direct effect** on the POPIA filing.
-
-### Why
-
-It adds no new proof of:
-- unlawful processing,
-- security compromise,
-- identity misuse,
-- unauthorized system access,
-- disclosure of personal information.
-
-### Filing refinement to implement
-
-None beyond a light chronology cross-reference if helpful.
-
-### No score change recommended
-
-The POPIA complaint should continue to depend on the documentary technical evidence already in the record.
-
----
-
-## 5. NPA Commercial Crime Submission
-
-The notice has **secondary relevance only**.
-
-### Why
-
-It may support a narrative of persistence, consciousness of exposure, or ongoing attempt to control the frame of the dispute through litigation. But it does not itself add new commercial-crime proof comparable to fund-flow, document fabrication, forged authority, or payment diversion evidence.
-
-### Filing refinement to implement
-
-Use only as a **late chronology marker** in the legal-weaponisation strand, not as a core criminal proof item.
-
----
-
-## 6. SARS Tax Fraud Report
-
-The notice is essentially **neutral** on the tax-fraud case.
-
-### Why
-
-It contains no new tax records, no new accounting admissions, and no new explanation for suspicious nil-income or inter-entity mismatches.
-
-### Filing refinement to implement
-
-None beyond preserving chronology continuity if needed.
-
----
-
-## 7. NPA Perjury / SAICA Misconduct
-
-The notice has **moderate indirect value**.
-
-### Why
-
-Its importance is not that it proves a false statement by itself, but that it shows the applicant's continued dependence on a litigation framework that still avoids directly neutralizing the deeper documentary contradictions already identified elsewhere in the record.
-
-### Filing refinement to implement
-
-Use the notice as a persistence marker:
-
-> Even after an adverse 26 March 2026 judgment, the applicant's appellate framing continued to focus on re-characterizing contested operational incidents, rather than squarely answering the documentary contradictions underpinning the void-*ab-initio*, perjury, and authority-misrepresentation lines.
-
-### Caution
-
-Do not use the notice as a standalone perjury proof document.
-
----
-
-## Recommended Integration Language by Filing Family
-
-| Filing family | Suggested insertion language |
+| Filing family | Safe use |
 |---|---|
-| Contempt / Rescission | "The appellate notice of 30 March 2026 confirms the applicant's continuing reliance on the same disputed operational incidents after the 26 March 2026 adverse judgment." |
-| Civil action | "The leave-to-appeal filing extends the chronology of legal weaponisation into the appellate phase." |
-| CIPC | "The notice reflects the persistence of the practical-control dispute but does not itself alter the company-law evidential baseline." |
-| POPIA | "No direct POPIA increment arises from this filing; chronology only." |
-| Commercial Crime | "Use as pattern evidence only, not as core criminal proof." |
-| Tax Fraud | "No score change; retain existing tax-documentary baseline." |
-| Perjury / SAICA | "Persistence marker only; core contradiction proof remains documentary." |
+| CIPC | Persistence of practical-control dispute only |
+| POPIA | Chronology cross-reference only |
+| Commercial Crime | Pattern evidence only |
+| Tax Fraud | No score change |
+| Perjury / SAICA | Persistence marker only |
+
+The reason is unchanged: the appellate filing does not create new company records, new data-breach proof, new tax evidence, or new core contradiction evidence. Its value lies mainly in the **civil-procedural escalation** lane.
 
 ---
 
-## Evidence Still Needed
+## 5. Evidence Status Update
 
-| Priority | Item |
-|---|---|
-| High | Full 26 March 2026 judgment and order |
-| High | Full leave-to-appeal PDF transcription beyond page 1 |
-| High | Exact clause 2.5 wording bundle |
-| Medium | Any respondent-side notice opposing leave to appeal |
-| Medium | Formal mandate/substitution trail for Burger Huyser Attorneys |
+The earlier high-priority evidence gap for the full 26 March 2026 judgment is now **closed**. The direct judgment is preserved in both repositories and should be treated as the canonical appellate anchor.
+
+### Current evidence priorities
+
+| Priority | Item | Status |
+|---|---|---|
+| High | Full 26 March 2026 judgment and transcription | **Closed / integrated** |
+| High | Full 30 March 2026 leave-to-appeal notice | Available |
+| High | Exact clause 2.5 wording bundle | Still desirable for annexure discipline |
+| Medium | Any respondent-side notice opposing leave to appeal | Now supplied by the 2026-04-21 opposition note |
+| Medium | Formal mandate / substitution trail | Still useful |
+
+---
+
+## 6. GitHub Pages Routing Rule
+
+The public documentation should now route appellate readers in this order:
+
+1. **Leave-to-Appeal Opposition Note (2026-04-21)**
+2. **Direct-Judgment Appeal Critique (2026-04-21)**
+3. **Direct-Judgment Appeal Rebuttal (2026-04-21)**
+4. **EVENT_176** and **EVENT_177**
+5. **March 2026 Contempt-to-Appeal Cluster**
+
+That routing ensures that readers encounter the **opposition posture first**, rather than only the critique layer or the raw event pages.
 
 ---
 
 ## Bottom Line
 
-The leave-to-appeal notice is an **important chronology and strategy document**, but not a universal merits upgrade. It should be used most aggressively in the **civil contempt / void-*ab-initio* / abuse-of-process** lane, while being integrated more cautiously into the CIPC, POPIA, commercial-crime, tax, perjury, and professional-misconduct filing families.
+The repositories should now treat the appellate phase as an **opposition problem**, not merely an analysis problem. The strongest respondent-side position is that the application for leave to appeal does not satisfy section 17 because it fails to show that another court would disturb the finding that **breach and wilfulness were not proved**, and it identifies no separate compelling reason for appellate intervention. The direct judgment therefore remains the center of gravity for every further refinement.

@@ -1,8 +1,8 @@
 # Application 1: Civil & Criminal Actions
 
-**Last Updated:** 2026-04-14
+**Last Updated:** 2026-04-21
 
-> **Refinement Note (2026-04-14):** This application page remains the public landing page for the civil/criminal branch, but the live rebuttal and chronology upgrades now sit in the [Filing Refinement Addendum](./filings/FILING_REFINEMENT_ADDENDUM_2026-04-14.md) and the [Red-Team Critique v22](./filings/RED_TEAM_CRITIQUE_2026-04-14_v22.md). Use those documents together with the [Filings Index](./filings/index.md) when assessing the current state of the filing set.
+> **Refinement Note (2026-04-21):** This application page remains the public landing page for the civil/criminal branch, but the live appellate-response layer now sits in the [Leave-to-Appeal Opposition Note](./filings/LEAVE_TO_APPEAL_OPPOSITION_NOTE_2026-04-21.md), the [Updated Opposition Framework](./filings/LEAVE_TO_APPEAL_OPPOSITION_FRAMEWORK_2026-04-20.md), the [Direct-Judgment Appeal Critique](./filings/APPEAL_RED_TEAM_CRITIQUE_2026-04-21_DIRECT_JUDGMENT.md), and the [Direct-Judgment Appeal Rebuttal](./filings/APPEAL_REBUTTAL_ADDENDUM_2026-04-21_DIRECT_JUDGMENT.md). Use those documents together with the [Filings Index](./filings/index.md) when assessing the current state of the filing set.
 
 ## Overview
 
@@ -66,6 +66,8 @@ This application covers civil claims and criminal charges arising from the reven
 - Fraud exposure followed by card cancellation in the immediate retaliation window
 - Interdict filed in the August 2025 control-seizure sprint
 - Main Trustee power backdated / weaponized in the same chronology cluster
+- Contempt application dismissed with punitive costs on 26 March 2026
+- Leave-to-appeal application filed on 30 March 2026, extending the process-escalation line
 - Post-interdict extraction and continuing prejudice remain part of the live harm narrative
 
 ## Legal Elements
@@ -87,8 +89,10 @@ This application covers civil claims and criminal charges arising from the reven
 ## Cross-References
 
 - **[Filings Index](./filings/index.md)**
-- **[Filing Refinement Addendum](./filings/FILING_REFINEMENT_ADDENDUM_2026-04-14.md)**
-- **[Red-Team Critique v22](./filings/RED_TEAM_CRITIQUE_2026-04-14_v22.md)**
+- **[Leave-to-Appeal Opposition Note](./filings/LEAVE_TO_APPEAL_OPPOSITION_NOTE_2026-04-21.md)**
+- **[Updated Opposition Framework](./filings/LEAVE_TO_APPEAL_OPPOSITION_FRAMEWORK_2026-04-20.md)**
+- **[Direct-Judgment Appeal Critique](./filings/APPEAL_RED_TEAM_CRITIQUE_2026-04-21_DIRECT_JUDGMENT.md)**
+- **[Direct-Judgment Appeal Rebuttal](./filings/APPEAL_REBUTTAL_ADDENDUM_2026-04-21_DIRECT_JUDGMENT.md)**
 - **[Evidence Index](./evidence-index-enhanced.md)**
 - **[Timeline](./timeline.md)**
 - **[Entities](./entities/index.md)**
@@ -96,4 +100,4 @@ This application covers civil claims and criminal charges arising from the reven
 
 ---
 
-*Last updated by LEX Investigation System: 2026-04-14 — timeline / filing refinement layer added.*
+*Last updated by LEX Investigation System: 2026-04-21 — direct-judgment and leave-to-appeal opposition layer added.*

@@ -1,6 +1,6 @@
 # Legal Filings Index
 
-**Last Updated:** 2026-04-21 (v21.4 — Direct Judgment Integration Layer)
+**Last Updated:** 2026-04-21 (v21.5 — Opposition Package Layer)
 
 > **v21 Pipeline:** `/fin-audit-za-v2(/evidence-process)` applied SOX 404/ICFR methodology, SA regulatory overlays (SARS, FICA, POCA, Companies Act 71/2008, PRECCA), and forensic evidence standards to all filings.  
 > **v21.1 Refinement Layer (2026-04-14):** Canonical entity references, timeline-anchor discipline, updated red-team critique, and a cross-filing addendum have been added on top of the v21 filing baseline. Use the live refinement artifacts below whenever a filing still points to an older direct version.
@@ -43,7 +43,8 @@
 | **Appeal Rebuttal Addendum** | [2026-04-20 baseline](./APPEAL_REBUTTAL_ADDENDUM_2026-04-20.md) | Evidence-focused response directions | **ACTIVE** |
 | **Direct-Judgment Appeal Critique** | [2026-04-21](./APPEAL_RED_TEAM_CRITIQUE_2026-04-21_DIRECT_JUDGMENT.md) | Appeal loophole analysis after integrating the full judgment | **ACTIVE** |
 | **Direct-Judgment Appeal Rebuttal** | [2026-04-21](./APPEAL_REBUTTAL_ADDENDUM_2026-04-21_DIRECT_JUDGMENT.md) | Respondent-side answer anchored to the court's actual findings | **ACTIVE** |
-| **Leave-to-Appeal Opposition Framework** | [2026-04-20](./LEAVE_TO_APPEAL_OPPOSITION_FRAMEWORK_2026-04-20.md) | Cross-filing impact and integration discipline | **ACTIVE** |
+| **Leave-to-Appeal Opposition Note** | [2026-04-21](./LEAVE_TO_APPEAL_OPPOSITION_NOTE_2026-04-21.md) | Filing-ready respondent-side opposition under section 17 | **ACTIVE** |
+| **Leave-to-Appeal Opposition Framework** | [2026-04-20 / updated 2026-04-21](./LEAVE_TO_APPEAL_OPPOSITION_FRAMEWORK_2026-04-20.md) | Cross-filing impact and integration discipline | **ACTIVE** |
 | **Forensic Audit Memorandum** | [2026-04-20](./FORENSIC_AUDIT_MEMORANDUM_2026-04-20.md) | fin-audit-za-v2 control findings, deficiency mapping, filing impact | **ACTIVE** |
 | **Filing Refinement Addendum** | [v21.1 (2026-04-14)](./FILING_REFINEMENT_ADDENDUM_2026-04-14.md) | Canonical entities, timeline anchors, rebuttal language | **ACTIVE** |
 | **Red-Team Rebuttal Addendum** | [2026-04-21](./RED_TEAM_REBUTTAL_ADDENDUM_2026-04-21.md) | Latest defence-defeat language based on April 21 chronology/entity refinements | **ACTIVE** |
@@ -69,6 +70,7 @@ The v21 update applies the `/fin-audit-za-v2` SA forensic audit methodology to a
 | **Forensic Audit Refresh (2026-04-20)** | Added a dedicated fin-audit-za-v2 memorandum mapping current evidence to material weaknesses, tax/VAT risk, and filing implications |
 | **Coherence Refresh (2026-04-21)** | Added a rebuttal addendum aligned to the updated June retaliation and August control-seizure relation pages, plus the latest case-model refinement report |
 | **Direct Judgment Refresh (2026-04-21)** | Added a direct-evidence integration report, a judgment-anchored appeal critique, and a judgment-anchored appellate rebuttal layer |
+| **Opposition Package Refresh (2026-04-21)** | Added a filing-ready leave-to-appeal opposition note and updated the framework to an opposition-first posture |
 | **SOX 404 Control Testing** | Applied ICFR methodology to financial control deficiencies |
 | **SA Regulatory Mapping** | Mapped all violations to SARS, FICA/POCA, Companies Act 71/2008, PRECCA |
 
@@ -121,6 +123,7 @@ The v21 update applies the `/fin-audit-za-v2` SA forensic audit methodology to a
 | Appeal Rebuttal Addendum (baseline) | [View](./APPEAL_REBUTTAL_ADDENDUM_2026-04-20.md) |
 | Direct-Judgment Appeal Critique | [View](./APPEAL_RED_TEAM_CRITIQUE_2026-04-21_DIRECT_JUDGMENT.md) |
 | Direct-Judgment Appeal Rebuttal | [View](./APPEAL_REBUTTAL_ADDENDUM_2026-04-21_DIRECT_JUDGMENT.md) |
+| Leave-to-Appeal Opposition Note | [View](./LEAVE_TO_APPEAL_OPPOSITION_NOTE_2026-04-21.md) |
 | Direct Judgment Integration Report | [View](../reports/JUDGMENT_DIRECT_EVIDENCE_INTEGRATION_2026-04-21.md) |
 | Leave-to-Appeal Opposition Framework | [View](./LEAVE_TO_APPEAL_OPPOSITION_FRAMEWORK_2026-04-20.md) |
 | Forensic Audit Memorandum | [View](./FORENSIC_AUDIT_MEMORANDUM_2026-04-20.md) |
