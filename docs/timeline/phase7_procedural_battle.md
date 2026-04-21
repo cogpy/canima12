@@ -102,6 +102,7 @@ T-Months = Months relative to May 2026 Ketoni ZAR 18.685M payout (T-0)
 | 2026-03-03 | Rule 7(1) Notice filed (disputes Daniel's authority) | T-2 | ND-05 | Procedural Challenge |
 | 2026-03-03 | Rule 30/30A Notice filed (alleges irregular step) | T-2 | ND-06 | Procedural Challenge |
 | 2026-03-13 | Rule 30/30A 10-day deadline expires | T-2 | ND-06 | **DEADLINE** |
+| 2026-03-16 | Supplementary founding affidavit for Part B sworn; applicant pivots to delinquency-director / probation relief and internally destabilises respondent numbering (RWD/RST reversal) | T-2 | F-supplementary-founding-affidavit, EVENT_178 | Pleading Instability / Part B Escalation |
 | 2026-03-26 | Contempt application dismissed with attorney-client punitive costs | T-2 | Labuschagne contempt judgment, EVENT_176 | Judgment |
 | 2026-03-30 | Notice of application for leave to appeal filed against whole judgment and order | T-2 | KF0019 leave-to-appeal notice, EVENT_177 | Appeal Trigger |
 

@@ -257,6 +257,7 @@ The following 53 events meet the criminal burden of proof:
 
 | Date | Event | Significance | Link |
 |------|-------|--------------|------|
+| **2026-03-16** | **Supplementary Founding Affidavit for Part B Sworn** | Adds a March 2026 delinquency-director / probation layer, relies on PF36/PF37, and exposes an internal RWD/RST respondent-number reversal that must be neutralised through legal-name normalization | [EVENT_178](./EVENT_178.md) |
 | **2026-03-26** | **Contempt Judgment Delivered (Justice Labuschagne)** | Appellate grounds later confirm the applicant lost the judgment/order in material respects and was hit with punitive costs | [EVENT_176](./EVENT_176.md) |
 | **2026-03-30** | **Notice of Application for Leave to Appeal Filed** | Opens the appellate phase; isolates the applicant's current theory on Fakie, Plascon-Evans, clause 2.5, stock, training, and costs | [EVENT_177](./EVENT_177.md) |
 
