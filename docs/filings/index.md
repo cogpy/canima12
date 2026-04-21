@@ -1,10 +1,11 @@
 # Legal Filings Index
 
-**Last Updated:** 2026-04-21 (v21.6 — Supplementary Affidavit Layer)
+**Last Updated:** 2026-04-21 (v21.7 — Composite Legal-Simulation Layer)
 
 > **v21 Pipeline:** `/fin-audit-za-v2(/evidence-process)` applied SOX 404/ICFR methodology, SA regulatory overlays (SARS, FICA, POCA, Companies Act 71/2008, PRECCA), and forensic evidence standards to all filings.  
 > **v21.1 Refinement Layer (2026-04-14):** Canonical entity references, timeline-anchor discipline, updated red-team critique, and a cross-filing addendum have been added on top of the v21 filing baseline. Use the live refinement artifacts below whenever a filing still points to an older direct version.  
-> **v21.6 Supplementary Affidavit Layer (2026-04-21):** A newly transcribed 16 March 2026 supplementary founding affidavit has been integrated as `EVENT_178`, together with an affidavit-specific refinement report, focused red-team critique, and rebuttal addendum. Use this layer whenever filings touch the Part B delinquency/probation theory, PF36/PF37 reliance, or the March 2026 RWD/RST respondent-number instability.
+> **v21.6 Supplementary Affidavit Layer (2026-04-21):** A newly transcribed 16 March 2026 supplementary founding affidavit has been integrated as `EVENT_178`, together with an affidavit-specific refinement report, focused red-team critique, and rebuttal addendum. Use this layer whenever filings touch the Part B delinquency/probation theory, PF36/PF37 reliance, or the March 2026 RWD/RST respondent-number instability.  
+> **v21.7 Composite Legal-Simulation Layer (2026-04-21):** An `optimal-cognitive-grip` interpretation has now been applied to the `lex-digitwin-nn` workflow, producing a case-level methodology report and a filing-facing addendum that tighten threshold honesty, annexure control, entity precision, and process atomization across the live filing stack.
 
 ---
 
@@ -51,6 +52,7 @@
 | **Red-Team Rebuttal Addendum** | [2026-04-21](./RED_TEAM_REBUTTAL_ADDENDUM_2026-04-21.md) | Latest defence-defeat language based on April 21 chronology/entity refinements | **ACTIVE** |
 | **Supplementary Affidavit Red-Team Critique** | [2026-04-21](./SUPPLEMENTARY_FOUNDING_AFFIDAVIT_RED_TEAM_2026-04-21.md) | Focused loophole analysis for the 16 March 2026 Part B affidavit | **ACTIVE** |
 | **Supplementary Affidavit Rebuttal Addendum** | [2026-04-21](./SUPPLEMENTARY_FOUNDING_AFFIDAVIT_REBUTTAL_2026-04-21.md) | Controlled response language defeating the affidavit-specific attacks | **ACTIVE** |
+| **Optimal Cognitive Grip / LEX-DigiTwin-NN Addendum** | [2026-04-21](./OPTIMAL_COGNITIVE_GRIP_LEX_DIGITWIN_NN_ADDENDUM_2026-04-21.md) | Filing instructions derived from the composite legal-simulation layer | **ACTIVE** |
 | **Procedural Hierarchy** | [Five-Tier Framework](./CIVIL_CONTEMPT_ANALYSIS_2026_02_09.md) | *Schlesinger* + *Mokweni* + *Dreyer* | **DOCUMENTED** |
 
 ---
@@ -75,6 +77,7 @@ The v21 update applies the `/fin-audit-za-v2` SA forensic audit methodology to a
 | **Direct Judgment Refresh (2026-04-21)** | Added a direct-evidence integration report, a judgment-anchored appeal critique, and a judgment-anchored appellate rebuttal layer |
 | **Opposition Package Refresh (2026-04-21)** | Added a filing-ready leave-to-appeal opposition note and updated the framework to an opposition-first posture |
 | **Supplementary Affidavit Refresh (2026-04-21)** | Added EVENT_178, a source-specific refinement report, and affidavit-specific critique/rebuttal pages addressing PF36/PF37 reliance and the RWD/RST numbering reversal |
+| **Composite Legal-Simulation Refresh (2026-04-21)** | Added an optimal-cognitive-grip / lex-digitwin-nn report and filing addendum focused on threshold honesty, annexure control, entity precision, and process atomization |
 | **SOX 404 Control Testing** | Applied ICFR methodology to financial control deficiencies |
 | **SA Regulatory Mapping** | Mapped all violations to SARS, FICA/POCA, Companies Act 71/2008, PRECCA |
 
@@ -133,7 +136,9 @@ The v21 update applies the `/fin-audit-za-v2` SA forensic audit methodology to a
 | Forensic Audit Memorandum | [View](./FORENSIC_AUDIT_MEMORANDUM_2026-04-20.md) |
 | Supplementary Affidavit Red-Team Critique | [View](./SUPPLEMENTARY_FOUNDING_AFFIDAVIT_RED_TEAM_2026-04-21.md) |
 | Supplementary Affidavit Rebuttal Addendum | [View](./SUPPLEMENTARY_FOUNDING_AFFIDAVIT_REBUTTAL_2026-04-21.md) |
+| Optimal Cognitive Grip / LEX-DigiTwin-NN Addendum | [View](./OPTIMAL_COGNITIVE_GRIP_LEX_DIGITWIN_NN_ADDENDUM_2026-04-21.md) |
 | Case-Model Refinement Report (2026-04-21) | [View](../reports/ENTITY_RELATION_EVENT_TIMELINE_REFINEMENT_2026-04-21.md) |
+| Optimal Cognitive Grip / LEX-DigiTwin-NN Report | [View](../reports/OPTIMAL_COGNITIVE_GRIP_LEX_DIGITWIN_NN_2026-04-21.md) |
 | Supplementary Affidavit Refinement Report (2026-04-21) | [View](../reports/SUPPLEMENTARY_FOUNDING_AFFIDAVIT_REFINEMENT_2026-04-21.md) |
 | Evidence Index | [View](../evidence-index-enhanced.md) |
 | Entities Directory | [View](../entities/index.md) |
@@ -143,4 +148,4 @@ The v21 update applies the `/fin-audit-za-v2` SA forensic audit methodology to a
 
 ---
 
-*Generated by `/fin-audit-za-v2(/evidence-process)` pipeline on 2026-03-25, updated on 2026-04-14 with the timeline / filing refinement layer, updated on 2026-04-20 with the appeal-stage and forensic-audit refinement layers, and updated on 2026-04-21 with the direct-judgment integration layer plus the supplementary-affidavit critique/rebuttal layer.*
+*Generated by `/fin-audit-za-v2(/evidence-process)` pipeline on 2026-03-25, updated on 2026-04-14 with the timeline / filing refinement layer, updated on 2026-04-20 with the appeal-stage and forensic-audit refinement layers, and updated on 2026-04-21 with the direct-judgment integration layer, the supplementary-affidavit critique/rebuttal layer, and the composite legal-simulation layer.*

@@ -1,6 +1,6 @@
 # Case 2025-137857: Revenue Stream Hijacking — Evidence Repository
 
-**Last Updated:** 2026-04-21 (v21.6 — Supplementary Affidavit Layer)
+**Last Updated:** 2026-04-21 (v21.7 — Composite Legal-Simulation Layer)
 
 This repository provides a comprehensive, evidence-based view of Case 2025-137857, a multi-faceted criminal enterprise involving revenue stream hijacking, trust fraud, identity theft, and corporate malfeasance with a total quantum exceeding **R63,000,000**.
 
@@ -21,6 +21,8 @@ This repository provides a comprehensive, evidence-based view of Case 2025-13785
 > **v21.5 Opposition Layer (2026-04-21):** [Leave-to-Appeal Opposition Note](./filings/LEAVE_TO_APPEAL_OPPOSITION_NOTE_2026-04-21.md) | [Updated Opposition Framework](./filings/LEAVE_TO_APPEAL_OPPOSITION_FRAMEWORK_2026-04-20.md)
 >
 > **v21.6 Supplementary Affidavit Layer (2026-04-21):** [EVENT_178](./events/EVENT_178.md) | [Supplementary Affidavit Refinement Report](./reports/SUPPLEMENTARY_FOUNDING_AFFIDAVIT_REFINEMENT_2026-04-21.md) | [Supplementary Affidavit Red-Team Critique](./filings/SUPPLEMENTARY_FOUNDING_AFFIDAVIT_RED_TEAM_2026-04-21.md) | [Supplementary Affidavit Rebuttal](./filings/SUPPLEMENTARY_FOUNDING_AFFIDAVIT_REBUTTAL_2026-04-21.md)
+>
+> **v21.7 Composite Legal-Simulation Layer (2026-04-21):** [Optimal Cognitive Grip / LEX-DigiTwin-NN Report](./reports/OPTIMAL_COGNITIVE_GRIP_LEX_DIGITWIN_NN_2026-04-21.md) | [Optimal Cognitive Grip / LEX-DigiTwin-NN Addendum](./filings/OPTIMAL_COGNITIVE_GRIP_LEX_DIGITWIN_NN_ADDENDUM_2026-04-21.md)
 
 ## 🎯 CRITICAL: Ketoni ZAR 18.75M Payout - Central Financial Motive
 
@@ -40,7 +42,7 @@ This financial motive explains:
 
 ---
 
-> **2026-04-21 Refinement Note:** The GitHub Pages surface now includes a **direct-judgment integration layer**, a filing-ready **opposition layer**, and a new **supplementary-affidavit layer** built from the full **26 March 2026 contempt judgment**, the **30 March 2026 leave-to-appeal notice**, and the newly transcribed **16 March 2026 supplementary founding affidavit**. Where older filing versions remain in place for historical continuity, use the live [Filings Index](./filings/index.md), [EVENT_176](./events/EVENT_176.md), [EVENT_177](./events/EVENT_177.md), [EVENT_178](./events/EVENT_178.md), the [Leave-to-Appeal Opposition Note](./filings/LEAVE_TO_APPEAL_OPPOSITION_NOTE_2026-04-21.md), the [Updated Opposition Framework](./filings/LEAVE_TO_APPEAL_OPPOSITION_FRAMEWORK_2026-04-20.md), the [Direct Judgment Integration Report](./reports/JUDGMENT_DIRECT_EVIDENCE_INTEGRATION_2026-04-21.md), the [Supplementary Affidavit Refinement Report](./reports/SUPPLEMENTARY_FOUNDING_AFFIDAVIT_REFINEMENT_2026-04-21.md), the [Supplementary Affidavit Red-Team Critique](./filings/SUPPLEMENTARY_FOUNDING_AFFIDAVIT_RED_TEAM_2026-04-21.md), and the [Supplementary Affidavit Rebuttal](./filings/SUPPLEMENTARY_FOUNDING_AFFIDAVIT_REBUTTAL_2026-04-21.md) as the current March 2026 refinement layer.
+> **2026-04-21 Refinement Note:** The GitHub Pages surface now includes a **direct-judgment integration layer**, a filing-ready **opposition layer**, a **supplementary-affidavit layer**, and a new **composite legal-simulation layer** that applies an optimal-cognitive-grip reading to the lex-digitwin-nn workflow. Where older filing versions remain in place for historical continuity, use the live [Filings Index](./filings/index.md), [EVENT_176](./events/EVENT_176.md), [EVENT_177](./events/EVENT_177.md), [EVENT_178](./events/EVENT_178.md), the [Leave-to-Appeal Opposition Note](./filings/LEAVE_TO_APPEAL_OPPOSITION_NOTE_2026-04-21.md), the [Updated Opposition Framework](./filings/LEAVE_TO_APPEAL_OPPOSITION_FRAMEWORK_2026-04-20.md), the [Direct Judgment Integration Report](./reports/JUDGMENT_DIRECT_EVIDENCE_INTEGRATION_2026-04-21.md), the [Supplementary Affidavit Refinement Report](./reports/SUPPLEMENTARY_FOUNDING_AFFIDAVIT_REFINEMENT_2026-04-21.md), the [Supplementary Affidavit Red-Team Critique](./filings/SUPPLEMENTARY_FOUNDING_AFFIDAVIT_RED_TEAM_2026-04-21.md), the [Supplementary Affidavit Rebuttal](./filings/SUPPLEMENTARY_FOUNDING_AFFIDAVIT_REBUTTAL_2026-04-21.md), the [Optimal Cognitive Grip / LEX-DigiTwin-NN Report](./reports/OPTIMAL_COGNITIVE_GRIP_LEX_DIGITWIN_NN_2026-04-21.md), and the [Optimal Cognitive Grip / LEX-DigiTwin-NN Addendum](./filings/OPTIMAL_COGNITIVE_GRIP_LEX_DIGITWIN_NN_ADDENDUM_2026-04-21.md) as the current March 2026 refinement layer.
 
 ## 📊 Quick Navigation by Application
 
@@ -89,7 +91,7 @@ This financial motive explains:
 - **[Leave-to-Appeal Opposition Note](./filings/LEAVE_TO_APPEAL_OPPOSITION_NOTE_2026-04-21.md)** - Filing-ready respondent-side answer under section 17
 - **[Entities Directory](./entities/index.md)** - All persons and organizations, including updated March 2026 entity-layer notes
 - **[Events Directory](./events/)** - Detailed event documentation, including EVENT_178 (supplementary affidavit), judgment-upgraded EVENT_176, and EVENT_177
-- **[Relations Analysis](./relations/index.md)** - Entity relationship mapping, including appeal-stage representation, the March 2026 contempt-to-appeal cluster, and the new affidavit-driven entity-normalization issue
+- **[Relations Analysis](./relations/index.md)** - Entity relationship mapping, including appeal-stage representation, the March 2026 contempt-to-appeal cluster, the affidavit-driven entity-normalization issue, and the latest composite legal-simulation discipline rules
 - **[March 2026 Contempt-to-Appeal Cluster](./relations/MARCH_2026_CONTEMPT_APPEAL_CLUSTER.md)** - Direct judgment to leave-to-appeal procedural escalation bridge
 - **[Procedural Control-Seizure Cluster](./relations/PROCEDURAL_CONTROL_SEIZURE_CLUSTER_2025-08.md)** - August 2025 backdating / affidavit / filing / order / extraction bridge
 - **[Coordinated Retaliation Pattern](./relations/COORDINATED_RETALIATION.md)** - June 2025 fraud-exposure to payment-redirection retaliation sequence
