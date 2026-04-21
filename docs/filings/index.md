@@ -44,6 +44,7 @@
 | **Leave-to-Appeal Opposition Framework** | [2026-04-20](./LEAVE_TO_APPEAL_OPPOSITION_FRAMEWORK_2026-04-20.md) | Cross-filing impact and integration discipline | **ACTIVE** |
 | **Forensic Audit Memorandum** | [2026-04-20](./FORENSIC_AUDIT_MEMORANDUM_2026-04-20.md) | fin-audit-za-v2 control findings, deficiency mapping, filing impact | **ACTIVE** |
 | **Filing Refinement Addendum** | [v21.1 (2026-04-14)](./FILING_REFINEMENT_ADDENDUM_2026-04-14.md) | Canonical entities, timeline anchors, rebuttal language | **ACTIVE** |
+| **Red-Team Rebuttal Addendum** | [2026-04-21](./RED_TEAM_REBUTTAL_ADDENDUM_2026-04-21.md) | Latest defence-defeat language based on April 21 chronology/entity refinements | **ACTIVE** |
 | **Procedural Hierarchy** | [Five-Tier Framework](./CIVIL_CONTEMPT_ANALYSIS_2026_02_09.md) | *Schlesinger* + *Mokweni* + *Dreyer* | **DOCUMENTED** |
 
 ---
@@ -64,6 +65,7 @@ The v21 update applies the `/fin-audit-za-v2` SA forensic audit methodology to a
 | **Red-Team Refresh** | Replaced the v16.2 critique with a v22 cross-application loophole analysis |
 | **Appeal-Stage Layer** | Added leave-to-appeal critique, rebuttal, and cross-filing framework tied to the 26/30 March 2026 chronology |
 | **Forensic Audit Refresh (2026-04-20)** | Added a dedicated fin-audit-za-v2 memorandum mapping current evidence to material weaknesses, tax/VAT risk, and filing implications |
+| **Coherence Refresh (2026-04-21)** | Added a rebuttal addendum aligned to the updated June retaliation and August control-seizure relation pages, plus the latest case-model refinement report |
 | **SOX 404 Control Testing** | Applied ICFR methodology to financial control deficiencies |
 | **SA Regulatory Mapping** | Mapped all violations to SARS, FICA/POCA, Companies Act 71/2008, PRECCA |
 
@@ -110,11 +112,13 @@ The v21 update applies the `/fin-audit-za-v2` SA forensic audit methodology to a
 | Application 2: CIPC and POPIA | [View](../application-2-cipc-popia.md) |
 | Application 3: Commercial Crime and Tax Fraud | [View](../application-3-commercial-crime-tax-fraud.md) |
 | Filing Refinement Addendum | [View](./FILING_REFINEMENT_ADDENDUM_2026-04-14.md) |
+| Red-Team Rebuttal Addendum | [View](./RED_TEAM_REBUTTAL_ADDENDUM_2026-04-21.md) |
 | Red-Team Critique v22 | [View](./RED_TEAM_CRITIQUE_2026-04-14_v22.md) |
 | Appeal Red-Team Critique | [View](./APPEAL_RED_TEAM_CRITIQUE_2026-04-20.md) |
 | Appeal Rebuttal Addendum | [View](./APPEAL_REBUTTAL_ADDENDUM_2026-04-20.md) |
 | Leave-to-Appeal Opposition Framework | [View](./LEAVE_TO_APPEAL_OPPOSITION_FRAMEWORK_2026-04-20.md) |
 | Forensic Audit Memorandum | [View](./FORENSIC_AUDIT_MEMORANDUM_2026-04-20.md) |
+| Case-Model Refinement Report (2026-04-21) | [View](../reports/ENTITY_RELATION_EVENT_TIMELINE_REFINEMENT_2026-04-21.md) |
 | Evidence Index | [View](../evidence-index-enhanced.md) |
 | Entities Directory | [View](../entities/index.md) |
 | Events Directory | [View](../events/index.md) |

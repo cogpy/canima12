@@ -86,7 +86,7 @@ T-Months = Months relative to May 2026 Ketoni ZAR 18.685M payout (T-0)
 | 2025-11-04 | Second urgent application to vary 19 Aug order (DISMISSED) | T-6 | ND-07 | Legal Proceedings |
 | 2025-12-02 | Elliott warns Pottas of potential contempt proceedings | T-5 | ND-07 | Legal Escalation |
 
-## Phase 6: The Contempt Weapon and Defense (Jan-Mar 2026)
+## Phase 6: The Contempt Weapon, Judgment, and Appeal Trigger (Jan-Mar 2026)
 
 | Date | Event | T-Months | Evidence | Category |
 |------|-------|----------|----------|----------|
@@ -102,13 +102,18 @@ T-Months = Months relative to May 2026 Ketoni ZAR 18.685M payout (T-0)
 | 2026-03-03 | Rule 7(1) Notice filed (disputes Daniel's authority) | T-2 | ND-05 | Procedural Challenge |
 | 2026-03-03 | Rule 30/30A Notice filed (alleges irregular step) | T-2 | ND-06 | Procedural Challenge |
 | 2026-03-13 | Rule 30/30A 10-day deadline expires | T-2 | ND-06 | **DEADLINE** |
+| 2026-03-26 | Contempt judgment delivered | T-2 | KF0019 leave-to-appeal notice, EVENT_176 | Judgment |
+| 2026-03-30 | Notice of application for leave to appeal filed | T-2 | KF0019 leave-to-appeal notice, EVENT_177 | Appeal Trigger |
 
 ## Phase 7: Approaching Ketoni Payout (Apr-May 2026)
 
 | Date | Event | T-Months | Evidence | Category |
 |------|-------|----------|----------|----------|
+| 2026-04 | External Johannesburg opposed-summary-judgment court-roll PDF transcribed but not integrated into the case chronology pending party-match verification | T-1 | External PDF received 2026-04-21 | Evidence Intake Note |
 | 2026-05 | Ketoni ZAR 18.685M payout due | T-0 | Subscription Agreement | **CENTRAL MOTIVE** |
 
-**Total Timeline Entries: 68**
+> **Integration discipline note (2026-04-21):** The external court-roll PDF received on 2026-04-21 has been transcribed for preservation, but it has **not** yet been promoted into the substantive case-event layer because the visible matter names on the roll do not presently map to the core parties in Case 2025-137857. This preserves the "no flow, no event" discipline and avoids chronology inflation.
+
+**Total Timeline Entries: 71**
 **Total Extraction: R10,624,131.18**
 **Total Fraud Estimate: R63M+**

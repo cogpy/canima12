@@ -10,9 +10,11 @@ This repository provides a comprehensive, evidence-based view of Case 2025-13785
 >
 > **v21 Indexes:** [Entities](./entities/index.md) | [Events](./events/index.md) | [Relations](./relations/index.md) | [Timeline](./timeline.md)
 >
-> **v21 Analysis:** [Red-Team Critique v22](./filings/RED_TEAM_CRITIQUE_2026-04-14_v22.md) | [Filing Refinement Addendum](./filings/FILING_REFINEMENT_ADDENDUM_2026-04-14.md) | [Case-Model Refinement Report](./reports/ENTITY_RELATION_EVENT_TIMELINE_REFINEMENT_2026-04-14.md) | [Bantjies Complicity Brief](./filings/LEGAL_BRIEF_BANTJIES_COMPLICITY_2026-03-18.md)
+> **v21 Analysis:** [Red-Team Critique v22](./filings/RED_TEAM_CRITIQUE_2026-04-14_v22.md) | [Filing Refinement Addendum](./filings/FILING_REFINEMENT_ADDENDUM_2026-04-14.md) | [Case-Model Refinement Report](./reports/ENTITY_RELATION_EVENT_TIMELINE_REFINEMENT_2026-04-21.md) | [Bantjies Complicity Brief](./filings/LEGAL_BRIEF_BANTJIES_COMPLICITY_2026-03-18.md)
 >
 > **v21.2 Appeal Layer (2026-04-20):** [EVENT_176 Judgment](./events/EVENT_176.md) | [EVENT_177 Leave to Appeal](./events/EVENT_177.md) | [Appeal Red-Team Critique](./filings/APPEAL_RED_TEAM_CRITIQUE_2026-04-20.md) | [Appeal Rebuttal Addendum](./filings/APPEAL_REBUTTAL_ADDENDUM_2026-04-20.md) | [Leave-to-Appeal Opposition Framework](./filings/LEAVE_TO_APPEAL_OPPOSITION_FRAMEWORK_2026-04-20.md)
+>
+> **v21.3 Coherence Layer (2026-04-21):** [Refinement Report](./reports/ENTITY_RELATION_EVENT_TIMELINE_REFINEMENT_2026-04-21.md) | [Red-Team Rebuttal Addendum](./filings/RED_TEAM_REBUTTAL_ADDENDUM_2026-04-21.md) | [Procedural Control-Seizure Cluster](./relations/PROCEDURAL_CONTROL_SEIZURE_CLUSTER_2025-08.md) | [Updated Retaliation Cluster](./relations/COORDINATED_RETALIATION.md)
 
 ## 🎯 CRITICAL: Ketoni ZAR 18.75M Payout - Central Financial Motive
 
@@ -81,6 +83,8 @@ This financial motive explains:
 - **[Entities Directory](./entities/index.md)** - All persons and organizations, including Burger Huyser appellate-stage representation entity
 - **[Events Directory](./events/)** - Detailed event documentation, including EVENT_176 and EVENT_177
 - **[Relations Analysis](./relations/index.md)** - Entity relationship mapping, including appeal-stage representation mapping
+- **[Procedural Control-Seizure Cluster](./relations/PROCEDURAL_CONTROL_SEIZURE_CLUSTER_2025-08.md)** - August 2025 backdating / affidavit / filing / order / extraction bridge
+- **[Coordinated Retaliation Pattern](./relations/COORDINATED_RETALIATION.md)** - June 2025 fraud-exposure to payment-redirection retaliation sequence
 - **[LEX Skills Framework](./skills/index.md)** - 128 legal reasoning skills across 7 domains
 
 ### Evidence Packages (JF Series)
