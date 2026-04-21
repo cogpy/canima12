@@ -157,5 +157,5 @@ title: Master Timeline
 | 2026-03-10 | [EVENT_SIM_001: LEX-SIM-NN Differentiable Legal Simulation Executed](./events/EVENT_SIM_001.md) |  |  |  |
 | 2026-03-10 | [EVENT_XPLAT_AUDIT_001: Cross-Platform Forensic Transport Audit](./events/EVENT_XPLAT_AUDIT_001.md) |  |  |  |
 | 2026-03-13 | [Rule 30/30A Deadline Expires (EVENT_136)](./events/EVENT_136.md) |  |  | EVENT136 |
-| 2026-03-26 | [Contempt Judgment Delivered (EVENT_176)](./events/EVENT_176.md) | PERSON_001, PERSON_004, PERSON_005, ORG_020 |  | KF0019 leave-to-appeal notice |
-| 2026-03-30 | [Notice of Application for Leave to Appeal Filed (EVENT_177)](./events/EVENT_177.md) | PERSON_001, PERSON_004, PERSON_005, ORG_020, ORG_031 |  | KF0019 leave-to-appeal notice |
+| 2026-03-26 | [Contempt Application Dismissed with Punitive Costs (EVENT_176)](./events/EVENT_176.md) | PERSON_001, PERSON_004, PERSON_005, ORG_001, ORG_002, ORG_003, ORG_004, ORG_020 |  | Labuschagne contempt judgment |
+| 2026-03-30 | [Notice of Application for Leave to Appeal Filed (EVENT_177)](./events/EVENT_177.md) | PERSON_001, PERSON_004, PERSON_005, ORG_020, ORG_031 |  | KF0019 leave-to-appeal notice (targets whole 26 Mar 2026 judgment and order) |

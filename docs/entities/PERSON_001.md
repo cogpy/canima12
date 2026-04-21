@@ -2,11 +2,11 @@
 
 **Type:** Person  
 **Role:** Primary Perpetrator  
-**Last Updated:** 2026-02-04
+**Last Updated:** 2026-04-21
 
 ## Summary
 
-Peter Andrew Faucitt is the primary perpetrator in Case 2025-137857, orchestrating a systematic revenue stream hijacking scheme with an estimated financial impact of **R10,269,727.90**, motivated by control over the **ZAR 18.75M Ketoni payout** due in May 2026.
+Peter Andrew Faucitt is the primary perpetrator in Case 2025-137857, orchestrating a systematic revenue stream hijacking scheme with an estimated financial impact of **R10,269,727.90**, motivated by control over the **ZAR 18.75M Ketoni payout** due in May 2026. The direct **26 March 2026 contempt judgment** now also places him in the role of the unsuccessful applicant whose contempt application was dismissed with punitive attorney-client costs.
 
 ## Entity Profile
 
@@ -17,7 +17,7 @@ Peter Andrew Faucitt is the primary perpetrator in Case 2025-137857, orchestrati
   "id_number": "820430 5708 18 5",
   "role": "primary_perpetrator",
   "agent_type": "antagonist",
-  "involvement_events": 15,
+  "involvement_events": 17,
   "primary_actions": [
     "trust_structure_manipulation",
     "unauthorized_transfers",
@@ -28,7 +28,9 @@ Peter Andrew Faucitt is the primary perpetrator in Case 2025-137857, orchestrati
     "trust_breach",
     "fnb_fraud_acknowledgment",
     "exchange_control_admission",
-    "main_trustee_power_backdating"
+    "main_trustee_power_backdating",
+    "failed_contempt_escalation",
+    "leave_to_appeal_escalation"
   ],
   "relationships": [
     "trustee_of_family_trust",
@@ -49,7 +51,7 @@ Peter Andrew Faucitt is the primary perpetrator in Case 2025-137857, orchestrati
       "exchange_control_violations"
     ]
   },
-  "legal_status": "applicant_in_case_2025_137857",
+  "legal_status": "applicant_in_case_2025_137857_and_failed_contempt_applicant",
   "timeline_events": [
     "EVENT_001",
     "EVENT_002",
@@ -63,7 +65,9 @@ Peter Andrew Faucitt is the primary perpetrator in Case 2025-137857, orchestrati
     "EVENT_019",
     "EVENT_020",
     "EVENT_FNB_001",
-    "EVENT_FNB_002"
+    "EVENT_FNB_002",
+    "EVENT_176",
+    "EVENT_177"
   ],
   "evidence": [
     "JF01 - Shopify Plus email evidence",
@@ -74,7 +78,9 @@ Peter Andrew Faucitt is the primary perpetrator in Case 2025-137857, orchestrati
     "SF1 - Ketoni R18.75M Payout Documentation",
     "SF9 - Ian Levitt R63M demand letter",
     "SF10 - FNB Fraud Letter (2025-06-17)",
-    "SF11 - FNB Response Email (2025-06-18)"
+    "SF11 - FNB Response Email (2025-06-18)",
+    "Labuschagne contempt judgment (2026-03-26)",
+    "KF0019 leave-to-appeal notice (2026-03-30)"
   ],
   "ad_res_j7_references": [
     "evidence/FNB_FRAUD_LETTER_2025_06_17/PAF_FNB_FRAUD_LETTER_2025_06_17_OCR.md",
@@ -117,6 +123,10 @@ Peter's letter to FNB dated 17 June 2025 contains critical admissions:
 | **Peter's Share** | 1/3 as beneficiary = ZAR 6.25M |
 | **Control Strategy** | Neutralize Jax and Dan to control full payout |
 
+## Latest Litigation Anchor
+
+The direct March 2026 judgment is now part of the canonical entity record. Labuschagne J held that, although the existence of the order and knowledge of it were established, **neither breach nor wilfulness had been proved**. The court also recorded concern that repeated urgent litigation was being used to bolster the applicant's forfeiture position in the pending divorce.
+
 ## Timeline of Control Actions
 
 | Date | Event | T-Months |
@@ -128,6 +138,8 @@ Peter's letter to FNB dated 17 June 2025 contains critical admissions:
 | 2025-06-17 | FNB Fraud Letter written | T-11 |
 | 2025-08-11 | Main Trustee power backdated | T-9 |
 | 2025-08-13 | Interdict filed against Jax & Dan | T-9 |
+| 2026-03-26 | Contempt application dismissed with punitive costs | T-2 |
+| 2026-03-30 | Leave to appeal filed against whole judgment and order | T-2 |
 | 2026-05 | Ketoni payout due | T-0 |
 
 ## Evidence Cross-References
@@ -140,4 +152,4 @@ Peter's letter to FNB dated 17 June 2025 contains critical admissions:
 
 ---
 
-*Last updated: 2026-02-04*
+*Last updated: 2026-04-21*

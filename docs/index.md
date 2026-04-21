@@ -1,6 +1,6 @@
 # Case 2025-137857: Revenue Stream Hijacking — Evidence Repository
 
-**Last Updated:** 2026-04-20 (v21.2 — Appeal-Stage Refinement)
+**Last Updated:** 2026-04-21 (v21.4 — Direct Judgment Integration Layer)
 
 This repository provides a comprehensive, evidence-based view of Case 2025-137857, a multi-faceted criminal enterprise involving revenue stream hijacking, trust fraud, identity theft, and corporate malfeasance with a total quantum exceeding **R63,000,000**.
 
@@ -15,6 +15,8 @@ This repository provides a comprehensive, evidence-based view of Case 2025-13785
 > **v21.2 Appeal Layer (2026-04-20):** [EVENT_176 Judgment](./events/EVENT_176.md) | [EVENT_177 Leave to Appeal](./events/EVENT_177.md) | [Appeal Red-Team Critique](./filings/APPEAL_RED_TEAM_CRITIQUE_2026-04-20.md) | [Appeal Rebuttal Addendum](./filings/APPEAL_REBUTTAL_ADDENDUM_2026-04-20.md) | [Leave-to-Appeal Opposition Framework](./filings/LEAVE_TO_APPEAL_OPPOSITION_FRAMEWORK_2026-04-20.md)
 >
 > **v21.3 Coherence Layer (2026-04-21):** [Refinement Report](./reports/ENTITY_RELATION_EVENT_TIMELINE_REFINEMENT_2026-04-21.md) | [Red-Team Rebuttal Addendum](./filings/RED_TEAM_REBUTTAL_ADDENDUM_2026-04-21.md) | [Procedural Control-Seizure Cluster](./relations/PROCEDURAL_CONTROL_SEIZURE_CLUSTER_2025-08.md) | [Updated Retaliation Cluster](./relations/COORDINATED_RETALIATION.md)
+>
+> **v21.4 Direct Judgment Layer (2026-04-21):** [Direct Judgment Integration Report](./reports/JUDGMENT_DIRECT_EVIDENCE_INTEGRATION_2026-04-21.md) | [Direct-Judgment Appeal Critique](./filings/APPEAL_RED_TEAM_CRITIQUE_2026-04-21_DIRECT_JUDGMENT.md) | [Direct-Judgment Appeal Rebuttal](./filings/APPEAL_REBUTTAL_ADDENDUM_2026-04-21_DIRECT_JUDGMENT.md) | [March 2026 Contempt-to-Appeal Cluster](./relations/MARCH_2026_CONTEMPT_APPEAL_CLUSTER.md)
 
 ## 🎯 CRITICAL: Ketoni ZAR 18.75M Payout - Central Financial Motive
 
@@ -34,7 +36,7 @@ This financial motive explains:
 
 ---
 
-> **2026-04-20 Refinement Note:** The GitHub Pages surface now includes an appellate-stage refinement layer anchored to the **26 March 2026 contempt judgment** and the **30 March 2026 leave-to-appeal notice**. Where older filing versions remain in place for historical continuity, use the live [Filings Index](./filings/index.md), [EVENT_176](./events/EVENT_176.md), [EVENT_177](./events/EVENT_177.md), the [Appeal Red-Team Critique](./filings/APPEAL_RED_TEAM_CRITIQUE_2026-04-20.md), and the [Appeal Rebuttal Addendum](./filings/APPEAL_REBUTTAL_ADDENDUM_2026-04-20.md) as the current upgrade layer.
+> **2026-04-21 Refinement Note:** The GitHub Pages surface now includes a **direct-judgment integration layer** built from the full **26 March 2026 contempt judgment** and the **30 March 2026 leave-to-appeal notice**. Where older filing versions remain in place for historical continuity, use the live [Filings Index](./filings/index.md), [EVENT_176](./events/EVENT_176.md), [EVENT_177](./events/EVENT_177.md), the [Direct Judgment Integration Report](./reports/JUDGMENT_DIRECT_EVIDENCE_INTEGRATION_2026-04-21.md), the [Direct-Judgment Appeal Critique](./filings/APPEAL_RED_TEAM_CRITIQUE_2026-04-21_DIRECT_JUDGMENT.md), and the [Direct-Judgment Appeal Rebuttal](./filings/APPEAL_REBUTTAL_ADDENDUM_2026-04-21_DIRECT_JUDGMENT.md) as the current appellate upgrade layer.
 
 ## 📊 Quick Navigation by Application
 
@@ -79,10 +81,11 @@ This financial motive explains:
 - **[Narrative Overview](./narrative-overview.md)** - Plain-language summary of the case, timeline, and laws broken
 - **[Ketoni Payout Timeline](./ketoni-timeline.md)** - Central financial motive (ZAR 18.75M May 2026)
 - **[Comprehensive Evidence Index](./evidence-index-enhanced.md)** - All evidence categorized and cross-referenced
-- **[Master Timeline](./timeline.md)** - Complete chronological event sequence (now includes 26/30 March 2026 appellate-stage entries)
-- **[Entities Directory](./entities/index.md)** - All persons and organizations, including Burger Huyser appellate-stage representation entity
-- **[Events Directory](./events/)** - Detailed event documentation, including EVENT_176 and EVENT_177
-- **[Relations Analysis](./relations/index.md)** - Entity relationship mapping, including appeal-stage representation mapping
+- **[Master Timeline](./timeline.md)** - Complete chronological event sequence, now directly anchored to the 26 March 2026 judgment text
+- **[Entities Directory](./entities/index.md)** - All persons and organizations, including updated March 2026 entity-layer notes
+- **[Events Directory](./events/)** - Detailed event documentation, including judgment-upgraded EVENT_176 and EVENT_177
+- **[Relations Analysis](./relations/index.md)** - Entity relationship mapping, including appeal-stage representation and the March 2026 contempt-to-appeal cluster
+- **[March 2026 Contempt-to-Appeal Cluster](./relations/MARCH_2026_CONTEMPT_APPEAL_CLUSTER.md)** - Direct judgment to leave-to-appeal procedural escalation bridge
 - **[Procedural Control-Seizure Cluster](./relations/PROCEDURAL_CONTROL_SEIZURE_CLUSTER_2025-08.md)** - August 2025 backdating / affidavit / filing / order / extraction bridge
 - **[Coordinated Retaliation Pattern](./relations/COORDINATED_RETALIATION.md)** - June 2025 fraud-exposure to payment-redirection retaliation sequence
 - **[LEX Skills Framework](./skills/index.md)** - 128 legal reasoning skills across 7 domains

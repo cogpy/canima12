@@ -5,7 +5,7 @@ title: Relations Index
 
 # Relations Index
 
-**Last Updated:** 2026-04-14
+**Last Updated:** 2026-04-21
 
 > **Refinement Note (2026-04-14):** Relation pages should now preferentially cite the normalized entity records introduced in the 2026-04-14 refinement cycle: **PERSON_006** for Linda Kruger, **ORG_017** for Ketoni, **ORG_019** for Pottas Attorneys, **ORG_006** for the operating RegimA SA victim stream, and **ORG_014** for the legal company-record view. See the [Entity, Relation, Event, and Timeline Refinement Report](../reports/ENTITY_RELATION_EVENT_TIMELINE_REFINEMENT_2026-04-14.md).
 
@@ -29,6 +29,7 @@ title: Relations Index
 | KETONI_INSIDER_TRADING_NETWORK | [Relation: Ketoni Insider Trading Network](./KETONI_INSIDER_TRADING_NETWORK.md) | PERSON_007, PERSON_001, PERSON_002, PERSON_015, ORG_016, TRUST_001 | EVENT103, EVENT117, EVENT119 |
 | LEX_SIM_NN_ATTRIBUTION_2026_03_10 | [LEX-SIM-NN Evidence Attribution Relations](./LEX_SIM_NN_ATTRIBUTION_2026_03_10.md) |  |  |
 | MAILBOX_EVIDENCE_RELATIONS_2026_02_09 | [Relations from Mailbox Evidence (2026-02-09)](./MAILBOX_EVIDENCE_RELATIONS_2026_02_09.md) |  |  |
+| MARCH_2026_CONTEMPT_APPEAL_CLUSTER | [March 2026 Contempt-to-Appeal Cluster](./MARCH_2026_CONTEMPT_APPEAL_CLUSTER.md) | PERSON_001, PERSON_004, PERSON_005, ORG_001, ORG_002, ORG_003, ORG_004, ORG_020 | Labuschagne contempt judgment, KF0019 leave-to-appeal notice |
 | MANUFACTURE_ADMISSION | [Bantjies "Manufacture" Admission](./MANUFACTURE_ADMISSION.md) |  | EVENT119 |
 | PETER_R10_6M_EXTRACTION | [Peter's R10.6M Post-Interdict Extraction](./PETER_R10_6M_EXTRACTION.md) |  |  |
 | REL_037 | [REL_037: Unauthorized Access to Tax Records](./REL_037.md) | PERSON_001, PERSON_002, PLATFORM_002 | EVENT174 |
