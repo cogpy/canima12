@@ -24,14 +24,11 @@ This repository provides a comprehensive, evidence-based view of Case 2025-13785
 >
 > **v21.7 Composite Legal-Simulation Layer (2026-04-21):** [Optimal Cognitive Grip / LEX-DigiTwin-NN Report](./reports/OPTIMAL_COGNITIVE_GRIP_LEX_DIGITWIN_NN_2026-04-21.md) | [Optimal Cognitive Grip / LEX-DigiTwin-NN Addendum](./filings/OPTIMAL_COGNITIVE_GRIP_LEX_DIGITWIN_NN_ADDENDUM_2026-04-21.md)
 >
-> **v21.8 CourtOnline Layer (2026-04-22):** [CourtOnline Strategy](./filings/COURTONLINE_DOCUMENT_STRATEGY_2026-04-22.md) | [Template Matrix](./filings/COURTONLINE_TEMPLATE_MATRIX_2026-04-22.md) | [Appeal Response Template](./filings/COURTONLINE_APPEAL_RESPONSE_TEMPLATE_2026-04-22.md)
+> **v21.8 CourtOnline Layer (2026-04-22):** [CourtOnline Strategy](./filings/COURTONLINE_DOCUMENT_STRATEGY_2026-04-22.md) | [Template Matrix](./filings/COURTONLINE_TEMPLATE_MATRIX_2026-04-22.md) | [Appeal Response Template](./filings/templates/appeals_and_review/COURTONLINE_APPEAL_RESPONSE_TEMPLATE_2026-04-22.md)
 >
-> **v22.0 Templates Folder Layer (2026-04-22):** [Templates Hub](./filings/templates/index.md) | [Template Inventory](./filings/templates/TEMPLATE_INVENTORY_2026-04-22.md) | [Administrative Templates](./filings/templates/administrative/index.md) | [Action Proceedings Templates](./filings/templates/action_proceedings/index.md)
-ONSE_TEMPLATE_2026-04-22.md)
+> **v21.9 Uniform Rules Template Layer (2026-04-22):** [Template Taxonomy](./filings/templates/reference/UNIFORM_RULES_TEMPLATE_TAXONOMY_2026-04-22.md) | [Template Library](./filings/templates/reference/UNIFORM_RULES_TEMPLATE_LIBRARY_2026-04-22.md) | [Case-Priority Missing Templates](./filings/templates/reference/CASE_PRIORITY_MISSING_TEMPLATES_2026-04-22.md)
 >
-> **v21.9 Uniform Rules Template Layer (2026-04-22):** [Templates Hub](./filings/templates/index.md) | [Template Taxonomy](./filings/templates/reference/UNIFORM_RULES_TEMPLATE_TAXONOMY_2026-04-22.md) | [Template Library](./filings/templates/reference/UNIFORM_RULES_TEMPLATE_LIBRARY_2026-04-22.md) | [Case-Priority Missing Templates](./filings/templates/reference/CASE_PRIORITY_MISSING_TEMPLATES_2026-04-22.md)
->
-> **v22.0 Templates Folder Layer (2026-04-22):** [Templates Index](./filings/templates/index.md) | [Motion Proceedings](./filings/templates/motion_proceedings/) | [Action Proceedings](./filings/templates/action_proceedings/) | [Irregularity & Compliance](./filings/templates/irregularity_and_compliance/) | [Appeals & Review](./filings/templates/appeals_and_review/)
+> **v22.0 Templates Folder Layer (2026-04-22):** [Templates Hub](./filings/templates/index.md) | [Template Inventory](./filings/templates/TEMPLATE_INVENTORY_2026-04-22.md) | [Administrative Templates](./filings/templates/administrative/index.md) | [Motion Proceedings Templates](./filings/templates/motion_proceedings/index.md) | [Action Proceedings Templates](./filings/templates/action_proceedings/index.md) | [Appeals & Review Templates](./filings/templates/appeals_and_review/index.md)
 
 ## 🎯 CRITICAL: Ketoni ZAR 18.75M Payout - Central Financial Motive
 
@@ -105,7 +102,7 @@ This financial motive explains:
 - **[Procedural Control-Seizure Cluster](./relations/PROCEDURAL_CONTROL_SEIZURE_CLUSTER_2025-08.md)** - August 2025 backdating / affidavit / filing / order / extraction bridge
 - **[Coordinated Retaliation Pattern](./relations/COORDINATED_RETALIATION.md)** - June 2025 fraud-exposure to payment-redirection retaliation sequence
 - **[LEX Skills Framework](./skills/index.md)** - 128 legal reasoning skills across 7 domains
-- **[CourtOnline Strate- **[CourtOnline Strategy](./filings/COURTONLINE_DOCUMENT_STRATEGY_2026-04-22.md)** - Posture-aware use of the supplied eight-template CourtOnline pack
+- **[CourtOnline Strategy](./filings/COURTONLINE_DOCUMENT_STRATEGY_2026-04-22.md)** - Posture-aware use of the supplied eight-template CourtOnline pack
 - **[CourtOnline Template Matrix](./filings/COURTONLINE_TEMPLATE_MATRIX_2026-04-22.md)** - Immediate-use checklist for action, motion, and platform-access documents
 - **[CourtOnline Appeal Response Template](./filings/templates/appeals_and_review/COURTONLINE_APPEAL_RESPONSE_TEMPLATE_2026-04-22.md)** - Case-specific respondent-side wrapper for the current leave-to-appeal posture, now housed in the templates folder
 - **[Templates Hub](./filings/templates/index.md)** - Canonical reusable drafting surface for High Court and CourtOnline templates
@@ -113,12 +110,11 @@ This financial motive explains:
 - **[Uniform Rules Template Taxonomy](./filings/templates/reference/UNIFORM_RULES_TEMPLATE_TAXONOMY_2026-04-22.md)** - Filing-producing rule map and gap analysis for the High Court template surface
 - **[Uniform Rules Template Library](./filings/templates/reference/UNIFORM_RULES_TEMPLATE_LIBRARY_2026-04-22.md)** - Comprehensive practical precedent library for reusable Uniform Rules filings
 - **[Case-Priority Missing Templates Pack](./filings/templates/reference/CASE_PRIORITY_MISSING_TEMPLATES_2026-04-22.md)** - Focused case-priority template subset aligned to the current procedural posture
-ty Missing Templates Pack](./filings/templates/reference/CASE_PRIORITY_MISSING_TEMPLATES_2026-04-22.md)** - Focused Rule 6 / 7 / 27 / 30 / 30A / 42 templates aligned to the current case posture
-- **[Templates Folder Index](./filings/templates/index.md)** - Canonical home for reusable procedural templates, categorized by litigation function
-- **[Motion Proceedings Templates](./filings/templates/motion_proceedings/)** - Rule 6 notices and affidavit-sequence skeletons
-- **[Action Proceedings Templates](./filings/templates/action_proceedings/)** - Summons, pleadings, bar, amendment, and reconvention templates
-- **[Irregularity and Compliance Templates](./filings/templates/irregularity_and_compliance/)** - Rules 7, 27, 30, 30A, and 42 corrective process templates
-- **[Appeals and Review Templates](./filings/templates/appeals_and_review/)** - Leave-to-appeal, review, joinder, and amicus templates
+- **[Administrative Templates](./filings/templates/administrative/index.md)** - Appointment, access, mandate, oppose, and abide templates
+- **[Motion Proceedings Templates](./filings/templates/motion_proceedings/index.md)** - Rule 6 notices and affidavit-sequence skeletons
+- **[Action Proceedings Templates](./filings/templates/action_proceedings/index.md)** - Summons, pleadings, bar, amendment, reconvention, and judgment templates
+- **[Irregularity and Compliance Templates](./filings/templates/irregularity_and_compliance/index.md)** - Rules 7, 27, 30, 30A, and 42 corrective process templates
+- **[Appeals and Review Templates](./filings/templates/appeals_and_review/index.md)** - Leave-to-appeal, review, joinder, and amicus templates
 
 ### Evidence Packages (JF Series)
 
