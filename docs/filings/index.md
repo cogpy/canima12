@@ -1,6 +1,6 @@
 # Legal Filings Index
 
-**Last Updated:** 2026-04-22 (v21.9 — Uniform Rules Template Library Layer)
+**Last Updated:** 2026-04-22 (v22.0 — Dedicated Templates Folder Layer)
 
 > **v21 Pipeline:** `/fin-audit-za-v2(/evidence-process)` applied SOX 404/ICFR methodology, SA regulatory overlays (SARS, FICA, POCA, Companies Act 71/2008, PRECCA), and forensic evidence standards to all filings.  
 > **v21.1 Refinement Layer (2026-04-14):** Canonical entity references, timeline-anchor discipline, updated red-team critique, and a cross-filing addendum have been added on top of the v21 filing baseline. Use the live refinement artifacts below whenever a filing still points to an older direct version.  
@@ -55,10 +55,12 @@
 | **Optimal Cognitive Grip / LEX-DigiTwin-NN Addendum** | [2026-04-21](./OPTIMAL_COGNITIVE_GRIP_LEX_DIGITWIN_NN_ADDENDUM_2026-04-21.md) | Filing instructions derived from the composite legal-simulation layer | **ACTIVE** |
 | **CourtOnline Document Strategy** | [2026-04-22](./COURTONLINE_DOCUMENT_STRATEGY_2026-04-22.md) | Optimal-cognitive-grip analysis of the eight-template CourtOnline pack | **ACTIVE** |
 | **CourtOnline Template Matrix** | [2026-04-22](./COURTONLINE_TEMPLATE_MATRIX_2026-04-22.md) | Immediate-use applicability, prerequisites, and misuse warnings | **ACTIVE** |
-| **CourtOnline Appeal Response Template** | [2026-04-22](./COURTONLINE_APPEAL_RESPONSE_TEMPLATE_2026-04-22.md) | Case-specific respondent-side appellate wrapper | **ACTIVE** |
-| **Uniform Rules Template Taxonomy** | [2026-04-22](./UNIFORM_RULES_TEMPLATE_TAXONOMY_2026-04-22.md) | Practical map of the filing-producing Uniform Rules and current template gaps | **ACTIVE** |
-| **Uniform Rules Template Library** | [2026-04-22](./UNIFORM_RULES_TEMPLATE_LIBRARY_2026-04-22.md) | Comprehensive High Court precedent library for the main reusable rule-based filings | **ACTIVE** |
-| **Case-Priority Missing Templates Pack** | [2026-04-22](./CASE_PRIORITY_MISSING_TEMPLATES_2026-04-22.md) | Focused Rule 6 / 7 / 27 / 30 / 30A / 42 templates for Case 2025-137857 | **ACTIVE** |
+| **Templates Hub** | [2026-04-22](./templates/index.md) | Canonical folder for reusable High Court and CourtOnline template assets | **ACTIVE** |
+| **CourtOnline Appeal Response Template** | [2026-04-22](./templates/appeals_and_review/COURTONLINE_APPEAL_RESPONSE_TEMPLATE_2026-04-22.md) | Case-specific respondent-side appellate wrapper | **ACTIVE** |
+| **Uniform Rules Template Taxonomy** | [2026-04-22](./templates/reference/UNIFORM_RULES_TEMPLATE_TAXONOMY_2026-04-22.md) | Practical map of the filing-producing Uniform Rules and current template gaps | **ACTIVE** |
+| **Uniform Rules Template Library** | [2026-04-22](./templates/reference/UNIFORM_RULES_TEMPLATE_LIBRARY_2026-04-22.md) | Comprehensive High Court precedent library for the main reusable rule-based filings | **ACTIVE** |
+| **Case-Priority Missing Templates Pack** | [2026-04-22](./templates/reference/CASE_PRIORITY_MISSING_TEMPLATES_2026-04-22.md) | Focused Rule 6 / 7 / 27 / 30 / 30A / 42 templates for Case 2025-137857 | **ACTIVE** |
+| **Templates Folder Index** | [2026-04-22](./templates/index.md) | Canonical directory for reusable procedural templates and subfolder navigation | **ACTIVE** |
 | **Procedural Hierarchy** | [Five-Tier Framework](./CIVIL_CONTEMPT_ANALYSIS_2026_02_09.md) | *Schlesinger* + *Mokweni* + *Dreyer* | **DOCUMENTED** |
 
 ---
@@ -86,6 +88,8 @@ The v21 update applies the `/fin-audit-za-v2` SA forensic audit methodology to a
 | **Composite Legal-Simulation Refresh (2026-04-21)** | Added an optimal-cognitive-grip / lex-digitwin-nn report and filing addendum focused on threshold honesty, annexure control, entity precision, and process atomization |
 | **CourtOnline Workflow Layer (2026-04-22)** | Added a posture-aware strategy note, immediate-use matrix, and appellate-response wrapper derived from the supplied eight-template set |
 | **Uniform Rules Template Library Layer (2026-04-22)** | Added a filing taxonomy, a comprehensive High Court template library, and a case-priority pack of the previously missing Rule 6 / 7 / 27 / 30 / 30A / 42 templates |
+| **Templates Folder Reorganization Layer (2026-04-22)** | Moved reusable template assets into `docs/filings/templates/`, generated individual template files by procedure category, and exposed a canonical templates hub for GitHub Pages navigation |
+| **Dedicated Templates Folder Layer (2026-04-22)** | Created a canonical `templates/` hierarchy with category subfolders, copied legacy template assets into canonical locations, and generated individual template files for the main Uniform Rules procedural families |
 | **SOX 404 Control Testing** | Applied ICFR methodology to financial control deficiencies |
 | **SA Regulatory Mapping** | Mapped all violations to SARS, FICA/POCA, Companies Act 71/2008, PRECCA |
 
@@ -150,10 +154,17 @@ The v21 update applies the `/fin-audit-za-v2` SA forensic audit methodology to a
 | Supplementary Affidavit Refinement Report (2026-04-21) | [View](../reports/SUPPLEMENTARY_FOUNDING_AFFIDAVIT_REFINEMENT_2026-04-21.md) |
 | CourtOnline Document Strategy (2026-04-22) | [View](./COURTONLINE_DOCUMENT_STRATEGY_2026-04-22.md) |
 | CourtOnline Template Matrix (2026-04-22) | [View](./COURTONLINE_TEMPLATE_MATRIX_2026-04-22.md) |
-| CourtOnline Appeal Response Template (2026-04-22) | [View](./COURTONLINE_APPEAL_RESPONSE_TEMPLATE_2026-04-22.md) |
-| Uniform Rules Template Taxonomy (2026-04-22) | [View](./UNIFORM_RULES_TEMPLATE_TAXONOMY_2026-04-22.md) |
-| Uniform Rules Template Library (2026-04-22) | [View](./UNIFORM_RULES_TEMPLATE_LIBRARY_2026-04-22.md) |
-| Case-Priority Missing Templates Pack (2026-04-22) | [View](./CASE_PRIORITY_MISSING_TEMPLATES_2026-04-22.md) |
+| Templates Hub (2026-04-22) | [View](./templates/index.md) |
+| CourtOnline Appeal Response Template (2026-04-22) | [View](./templates/appeals_and_review/COURTONLINE_APPEAL_RESPONSE_TEMPLATE_2026-04-22.md) |
+| Uniform Rules Template Taxonomy (2026-04-22) | [View](./templates/reference/UNIFORM_RULES_TEMPLATE_TAXONOMY_2026-04-22.md) |
+| Uniform Rules Template Library (2026-04-22) | [View](./templates/reference/UNIFORM_RULES_TEMPLATE_LIBRARY_2026-04-22.md) |
+| Case-Priority Missing Templates Pack (2026-04-22) | [View](./templates/reference/CASE_PRIORITY_MISSING_TEMPLATES_2026-04-22.md) |
+| Templates Folder Index | [View](./templates/index.md) |
+| Motion Proceedings Templates | [View](./templates/motion_proceedings/) |
+| Action Proceedings Templates | [View](./templates/action_proceedings/) |
+| Irregularity and Compliance Templates | [View](./templates/irregularity_and_compliance/) |
+| Appeals and Review Templates | [View](./templates/appeals_and_review/) |
+| Corporate and Evidence Templates | [View](./templates/corporate_and_evidence/) |
 | Evidence Index | [View](../evidence-index-enhanced.md) |
 | Entities Directory | [View](../entities/index.md) |
 | Events Directory | [View](../events/index.md) |
@@ -162,4 +173,4 @@ The v21 update applies the `/fin-audit-za-v2` SA forensic audit methodology to a
 
 ---
 
-*Generated by `/fin-audit-za-v2(/evidence-process)` pipeline on 2026-03-25, updated on 2026-04-14 with the timeline / filing refinement layer, updated on 2026-04-20 with the appeal-stage and forensic-audit refinement layers, updated on 2026-04-21 with the direct-judgment integration layer, the supplementary-affidavit critique/rebuttal layer, and the composite legal-simulation layer, and updated on 2026-04-22 with the CourtOnline workflow layer and the Uniform Rules template-library layer.*
+*Generated by `/fin-audit-za-v2(/evidence-process)` pipeline on 2026-03-25, updated on 2026-04-14 with the timeline / filing refinement layer, updated on 2026-04-20 with the appeal-stage and forensic-audit refinement layers, updated on 2026-04-21 with the direct-judgment integration layer, the supplementary-affidavit critique/rebuttal layer, and the composite legal-simulation layer, and updated on 2026-04-22 with the CourtOnline workflow layer, the Uniform Rules template-library layer, and the dedicated templates-folder layer.*
