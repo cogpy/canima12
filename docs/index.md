@@ -1,6 +1,6 @@
 # Case 2025-137857: Revenue Stream Hijacking — Evidence Repository
 
-**Last Updated:** 2026-04-21 (v21.7 — Composite Legal-Simulation Layer)
+**Last Updated:** 2026-04-22 (v21.9 — Uniform Rules Template Library Layer)
 
 This repository provides a comprehensive, evidence-based view of Case 2025-137857, a multi-faceted criminal enterprise involving revenue stream hijacking, trust fraud, identity theft, and corporate malfeasance with a total quantum exceeding **R63,000,000**.
 
@@ -25,6 +25,8 @@ This repository provides a comprehensive, evidence-based view of Case 2025-13785
 > **v21.7 Composite Legal-Simulation Layer (2026-04-21):** [Optimal Cognitive Grip / LEX-DigiTwin-NN Report](./reports/OPTIMAL_COGNITIVE_GRIP_LEX_DIGITWIN_NN_2026-04-21.md) | [Optimal Cognitive Grip / LEX-DigiTwin-NN Addendum](./filings/OPTIMAL_COGNITIVE_GRIP_LEX_DIGITWIN_NN_ADDENDUM_2026-04-21.md)
 >
 > **v21.8 CourtOnline Layer (2026-04-22):** [CourtOnline Strategy](./filings/COURTONLINE_DOCUMENT_STRATEGY_2026-04-22.md) | [Template Matrix](./filings/COURTONLINE_TEMPLATE_MATRIX_2026-04-22.md) | [Appeal Response Template](./filings/COURTONLINE_APPEAL_RESPONSE_TEMPLATE_2026-04-22.md)
+>
+> **v21.9 Uniform Rules Template Layer (2026-04-22):** [Template Taxonomy](./filings/UNIFORM_RULES_TEMPLATE_TAXONOMY_2026-04-22.md) | [Template Library](./filings/UNIFORM_RULES_TEMPLATE_LIBRARY_2026-04-22.md) | [Case-Priority Missing Templates](./filings/CASE_PRIORITY_MISSING_TEMPLATES_2026-04-22.md)
 
 ## 🎯 CRITICAL: Ketoni ZAR 18.75M Payout - Central Financial Motive
 
@@ -101,6 +103,9 @@ This financial motive explains:
 - **[CourtOnline Strategy](./filings/COURTONLINE_DOCUMENT_STRATEGY_2026-04-22.md)** - Posture-aware use of the supplied eight-template CourtOnline pack
 - **[CourtOnline Template Matrix](./filings/COURTONLINE_TEMPLATE_MATRIX_2026-04-22.md)** - Immediate-use checklist for action, motion, and platform-access documents
 - **[CourtOnline Appeal Response Template](./filings/COURTONLINE_APPEAL_RESPONSE_TEMPLATE_2026-04-22.md)** - Case-specific respondent-side wrapper for the current leave-to-appeal posture
+- **[Uniform Rules Template Taxonomy](./filings/UNIFORM_RULES_TEMPLATE_TAXONOMY_2026-04-22.md)** - Filing-producing rule map and gap analysis for the High Court template surface
+- **[Uniform Rules Template Library](./filings/UNIFORM_RULES_TEMPLATE_LIBRARY_2026-04-22.md)** - Comprehensive practical precedent library for reusable Uniform Rules filings
+- **[Case-Priority Missing Templates Pack](./filings/CASE_PRIORITY_MISSING_TEMPLATES_2026-04-22.md)** - Focused Rule 6 / 7 / 27 / 30 / 30A / 42 templates aligned to the current case posture
 
 ### Evidence Packages (JF Series)
 
