@@ -23,6 +23,8 @@ This repository provides a comprehensive, evidence-based view of Case 2025-13785
 > **v21.6 Supplementary Affidavit Layer (2026-04-21):** [EVENT_178](./events/EVENT_178.md) | [Supplementary Affidavit Refinement Report](./reports/SUPPLEMENTARY_FOUNDING_AFFIDAVIT_REFINEMENT_2026-04-21.md) | [Supplementary Affidavit Red-Team Critique](./filings/SUPPLEMENTARY_FOUNDING_AFFIDAVIT_RED_TEAM_2026-04-21.md) | [Supplementary Affidavit Rebuttal](./filings/SUPPLEMENTARY_FOUNDING_AFFIDAVIT_REBUTTAL_2026-04-21.md)
 >
 > **v21.7 Composite Legal-Simulation Layer (2026-04-21):** [Optimal Cognitive Grip / LEX-DigiTwin-NN Report](./reports/OPTIMAL_COGNITIVE_GRIP_LEX_DIGITWIN_NN_2026-04-21.md) | [Optimal Cognitive Grip / LEX-DigiTwin-NN Addendum](./filings/OPTIMAL_COGNITIVE_GRIP_LEX_DIGITWIN_NN_ADDENDUM_2026-04-21.md)
+>
+> **v21.8 CourtOnline Layer (2026-04-22):** [CourtOnline Strategy](./filings/COURTONLINE_DOCUMENT_STRATEGY_2026-04-22.md) | [Template Matrix](./filings/COURTONLINE_TEMPLATE_MATRIX_2026-04-22.md) | [Appeal Response Template](./filings/COURTONLINE_APPEAL_RESPONSE_TEMPLATE_2026-04-22.md)
 
 ## 🎯 CRITICAL: Ketoni ZAR 18.75M Payout - Central Financial Motive
 
@@ -96,6 +98,9 @@ This financial motive explains:
 - **[Procedural Control-Seizure Cluster](./relations/PROCEDURAL_CONTROL_SEIZURE_CLUSTER_2025-08.md)** - August 2025 backdating / affidavit / filing / order / extraction bridge
 - **[Coordinated Retaliation Pattern](./relations/COORDINATED_RETALIATION.md)** - June 2025 fraud-exposure to payment-redirection retaliation sequence
 - **[LEX Skills Framework](./skills/index.md)** - 128 legal reasoning skills across 7 domains
+- **[CourtOnline Strategy](./filings/COURTONLINE_DOCUMENT_STRATEGY_2026-04-22.md)** - Posture-aware use of the supplied eight-template CourtOnline pack
+- **[CourtOnline Template Matrix](./filings/COURTONLINE_TEMPLATE_MATRIX_2026-04-22.md)** - Immediate-use checklist for action, motion, and platform-access documents
+- **[CourtOnline Appeal Response Template](./filings/COURTONLINE_APPEAL_RESPONSE_TEMPLATE_2026-04-22.md)** - Case-specific respondent-side wrapper for the current leave-to-appeal posture
 
 ### Evidence Packages (JF Series)
 

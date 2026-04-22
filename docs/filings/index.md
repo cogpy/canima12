@@ -53,6 +53,9 @@
 | **Supplementary Affidavit Red-Team Critique** | [2026-04-21](./SUPPLEMENTARY_FOUNDING_AFFIDAVIT_RED_TEAM_2026-04-21.md) | Focused loophole analysis for the 16 March 2026 Part B affidavit | **ACTIVE** |
 | **Supplementary Affidavit Rebuttal Addendum** | [2026-04-21](./SUPPLEMENTARY_FOUNDING_AFFIDAVIT_REBUTTAL_2026-04-21.md) | Controlled response language defeating the affidavit-specific attacks | **ACTIVE** |
 | **Optimal Cognitive Grip / LEX-DigiTwin-NN Addendum** | [2026-04-21](./OPTIMAL_COGNITIVE_GRIP_LEX_DIGITWIN_NN_ADDENDUM_2026-04-21.md) | Filing instructions derived from the composite legal-simulation layer | **ACTIVE** |
+| **CourtOnline Document Strategy** | [2026-04-22](./COURTONLINE_DOCUMENT_STRATEGY_2026-04-22.md) | Optimal-cognitive-grip analysis of the eight-template CourtOnline pack | **ACTIVE** |
+| **CourtOnline Template Matrix** | [2026-04-22](./COURTONLINE_TEMPLATE_MATRIX_2026-04-22.md) | Immediate-use applicability, prerequisites, and misuse warnings | **ACTIVE** |
+| **CourtOnline Appeal Response Template** | [2026-04-22](./COURTONLINE_APPEAL_RESPONSE_TEMPLATE_2026-04-22.md) | Case-specific respondent-side appellate wrapper | **ACTIVE** |
 | **Procedural Hierarchy** | [Five-Tier Framework](./CIVIL_CONTEMPT_ANALYSIS_2026_02_09.md) | *Schlesinger* + *Mokweni* + *Dreyer* | **DOCUMENTED** |
 
 ---
@@ -78,6 +81,7 @@ The v21 update applies the `/fin-audit-za-v2` SA forensic audit methodology to a
 | **Opposition Package Refresh (2026-04-21)** | Added a filing-ready leave-to-appeal opposition note and updated the framework to an opposition-first posture |
 | **Supplementary Affidavit Refresh (2026-04-21)** | Added EVENT_178, a source-specific refinement report, and affidavit-specific critique/rebuttal pages addressing PF36/PF37 reliance and the RWD/RST numbering reversal |
 | **Composite Legal-Simulation Refresh (2026-04-21)** | Added an optimal-cognitive-grip / lex-digitwin-nn report and filing addendum focused on threshold honesty, annexure control, entity precision, and process atomization |
+| **CourtOnline Workflow Layer (2026-04-22)** | Added a posture-aware strategy note, immediate-use matrix, and appellate-response wrapper derived from the supplied eight-template set |
 | **SOX 404 Control Testing** | Applied ICFR methodology to financial control deficiencies |
 | **SA Regulatory Mapping** | Mapped all violations to SARS, FICA/POCA, Companies Act 71/2008, PRECCA |
 
@@ -140,6 +144,9 @@ The v21 update applies the `/fin-audit-za-v2` SA forensic audit methodology to a
 | Case-Model Refinement Report (2026-04-21) | [View](../reports/ENTITY_RELATION_EVENT_TIMELINE_REFINEMENT_2026-04-21.md) |
 | Optimal Cognitive Grip / LEX-DigiTwin-NN Report | [View](../reports/OPTIMAL_COGNITIVE_GRIP_LEX_DIGITWIN_NN_2026-04-21.md) |
 | Supplementary Affidavit Refinement Report (2026-04-21) | [View](../reports/SUPPLEMENTARY_FOUNDING_AFFIDAVIT_REFINEMENT_2026-04-21.md) |
+| CourtOnline Document Strategy (2026-04-22) | [View](./COURTONLINE_DOCUMENT_STRATEGY_2026-04-22.md) |
+| CourtOnline Template Matrix (2026-04-22) | [View](./COURTONLINE_TEMPLATE_MATRIX_2026-04-22.md) |
+| CourtOnline Appeal Response Template (2026-04-22) | [View](./COURTONLINE_APPEAL_RESPONSE_TEMPLATE_2026-04-22.md) |
 | Evidence Index | [View](../evidence-index-enhanced.md) |
 | Entities Directory | [View](../entities/index.md) |
 | Events Directory | [View](../events/index.md) |
