@@ -328,6 +328,6 @@ This priority pack is designed to work with the broader **Uniform Rules Template
 
 ## References
 
-[1]: file:///home/ubuntu/revstream1/docs/filings/UNIFORM_RULES_TEMPLATE_TAXONOMY_2026-04-22.md "Uniform Rules Template Taxonomy (2026-04-22)"
-[2]: file:///home/ubuntu/revstream1/docs/filings/UNIFORM_RULES_TEMPLATE_LIBRARY_2026-04-22.md "Uniform Rules Template Library (2026-04-22)"
+[1]: file:///home/ubuntu/revstream1/docs/filings/templates/reference/UNIFORM_RULES_TEMPLATE_TAXONOMY_2026-04-22.md "Uniform Rules Template Taxonomy (2026-04-22)"
+[2]: file:///home/ubuntu/revstream1/docs/filings/templates/reference/UNIFORM_RULES_TEMPLATE_LIBRARY_2026-04-22.md "Uniform Rules Template Library (2026-04-22)"
 [3]: file:///home/ubuntu/revstream1/docs/filings/LEAVE_TO_APPEAL_OPPOSITION_FRAMEWORK_2026-04-20.md "Leave-to-Appeal Opposition Framework (updated 2026-04-21)"

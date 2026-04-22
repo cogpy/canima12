@@ -1141,5 +1141,5 @@ This library is intentionally broad, but it is not infinite. It covers the **pri
 ## References
 
 [1]: file:///home/ubuntu/skills/uniform-rules-of-court/references/key_rules.md "Uniform Rules of Court reference digest"
-[2]: file:///home/ubuntu/revstream1/docs/filings/UNIFORM_RULES_TEMPLATE_TAXONOMY_2026-04-22.md "Uniform Rules Template Taxonomy (2026-04-22)"
+[2]: file:///home/ubuntu/revstream1/docs/filings/templates/reference/UNIFORM_RULES_TEMPLATE_TAXONOMY_2026-04-22.md "Uniform Rules Template Taxonomy (2026-04-22)"
 [3]: file:///home/ubuntu/revstream1/docs/filings/COURTONLINE_DOCUMENT_STRATEGY_2026-04-22.md "CourtOnline Document Strategy (2026-04-22)"

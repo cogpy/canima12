@@ -43,7 +43,7 @@ This NGO connects individuals with private attorneys who work for free [5].
 If you cannot secure an attorney before the 10 March deadline, you must file an Answering Affidavit yourself to prevent the matter from proceeding unopposed.
 
 ### How to File:
-1.  **Draft the Affidavit:** Use the template provided in `docs/filings/TEMPLATE_ANSWERING_AFFIDAVIT_LIP.md`.
+1.  **Draft the Affidavit:** Use the template provided in `docs/filings/templates/motion_proceedings/TEMPLATE_ANSWERING_AFFIDAVIT_LIP.md`.
 2.  **Commission the Affidavit:** Print the document and take it to a Commissioner of Oaths (any police station, post office, or bank manager). You must sign it in their presence.
 3.  **Scan to PDF:** Scan the signed and stamped document into a single PDF file.
 4.  **Upload to Court Online:** Log into Court Online, navigate to Case 2025-137857, and upload the PDF under the correct document type ("Answering Affidavit"). **Do not select "other"** [3].

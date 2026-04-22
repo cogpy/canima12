@@ -1,85 +1,64 @@
 # High Court Templates Index
 
 **Last Updated:** 2026-04-22  
-**Purpose:** Provide a dedicated home for reusable template documents, separate them from live filing analyses, and map the current template inventory against the missing High Court procedural templates that still need to be generated.[1] [2] [3]
+**Purpose:** This folder is the **canonical reusable template library** for the Case 2025-137857 filing workspace. It separates reusable precedent material from live evidence-driven filings, while preserving direct access to the Uniform Rules taxonomy, the master precedent library, the case-priority missing-template pack, and the CourtOnline workflow layer.[1] [2] [3] [4] [5]
 
-## Purpose
+## Overview
 
-This folder now serves as the **canonical template surface** for reusable documents. The objective is to separate three different document classes that had started to mix together in `docs/filings`:
+The templates surface is now organized by **procedural function** rather than chronology. That structure makes it easier to find the correct drafting instrument quickly, reduces duplication, and keeps the live filings index focused on case-ready substantive documents rather than reusable drafting skeletons.[1] [2] [3]
 
-| Document class | What belongs here | What does not |
+| Category | Folder | Coverage |
 |---|---|---|
-| **Reusable templates** | Notices, motions, affidavits, pleadings, mandates, resolution templates, and adaptable precedent skeletons | Case-specific red-team critiques, evidence reports, or narrative memoranda |
-| **Template indexes and reference maps** | Taxonomies, template inventories, warning matrices, and folder navigation | Final live filing versions for actual submission |
-| **Supporting precedent packs** | Rule-family libraries and case-priority skeletons | Historical versions kept only for record or audit purposes |
+| **Administrative** | [administrative](./administrative/index.md) | Appointment, opposition gateway, access, abide, mandate, correspondence |
+| **Motion Proceedings** | [motion_proceedings](./motion_proceedings/index.md) | Rule 6 notice of motion and affidavit sequence |
+| **Action Proceedings** | [action_proceedings](./action_proceedings/index.md) | Summonses, pleadings, judgment applications, amendment and bar mechanics |
+| **Irregularity and Compliance** | [irregularity_and_compliance](./irregularity_and_compliance/index.md) | Rules 7, 27, 30, 30A, and 42 corrective instruments |
+| **Discovery and Trial** | [discovery_and_trial](./discovery_and_trial/index.md) | Discovery, offers / tenders, expert process, pre-trial, affidavit evidence |
+| **Settlement and Mediation** | [settlement_and_mediation](./settlement_and_mediation/index.md) | Withdrawal / discontinuance and Rule 41A mediation |
+| **Appeals and Review** | [appeals_and_review](./appeals_and_review/index.md) | Leave to appeal, respondent-side appellate response, review, joinder, amicus |
+| **Execution and Costs** | [execution_and_costs](./execution_and_costs/index.md) | Stays, security for costs, review of taxation |
+| **Special Proceedings** | [special_proceedings](./special_proceedings/index.md) | Interpleader and other specialist procedural forms |
+| **Corporate and Evidence** | [corporate_and_evidence](./corporate_and_evidence/index.md) | Governance, POPIA release control, and corporate-side support templates |
+| **Reference** | [reference](./reference/index.md) | Taxonomy, master library, case-priority pack, CourtOnline support documents |
 
-## Proposed Folder Structure
+## Current Canonical Coverage
 
-The template library is best organized by **procedural function** rather than by the date a template was created.[2] [3]
+The templates hierarchy now contains the previously missing reusable instruments that were identified in the Uniform Rules mapping exercise, together with the pre-existing corporate and CourtOnline assets.[2] [3]
 
-| Folder | Function | Status |
+| Template family | Status | Notes |
 |---|---|---|
-| [templates/administrative/](./administrative/index.md) | CourtOnline access, attorney appointment, mandates, service/admin forms | Active |
-| [templates/motion_proceedings/](./motion_proceedings/index.md) | Rule 6 motion notices and affidavit sequence | Active |
-| [templates/action_proceedings/](./action_proceedings/index.md) | Summons, declaration, plea, exception, reconvention, bar, amendment | Active |
-| [templates/irregularity_and_compliance/](./irregularity_and_compliance/index.md) | Rules 7, 27, 30, 30A, 42 and related corrective process | Active |
-| [templates/discovery_and_trial/](./discovery_and_trial/index.md) | Rules 31, 32, 33, 34, 35, 36, 37, 38 and trial-preparation templates | Active |
-| [templates/settlement_and_mediation/](./settlement_and_mediation/index.md) | Rule 41 / 41A templates | Active |
-| [templates/appeals_and_review/](./appeals_and_review/index.md) | Rule 49 / 53 / leave-to-appeal / review templates | Active |
-| [templates/execution_and_costs/](./execution_and_costs/index.md) | Rules 45A, 47, 48 templates | Active |
-| [templates/special_proceedings/](./special_proceedings/index.md) | Rule 58 interpleader and other specialist forms | Active |
-| [templates/corporate_and_evidence/](./corporate_and_evidence/index.md) | Board resolutions, POPIA release schedules, governance invitations, limited mandates | Active |
-| [templates/reference/](./reference/index.md) | Taxonomies, master libraries, gap analyses, usage notes | Active |
+| **Administrative / access** | Complete | Includes request-to-access, appointment, oppose, abide, mandate, and inquiry templates |
+| **Motion proceedings** | Complete | Includes the core Rule 6 notice and affidavit sequence, plus the litigant-in-person answering-affidavit asset |
+| **Action proceedings** | Complete | Includes summonses, declaration, plea, exception / strike-out, reconvention, amendment, bar, default judgment, summary judgment, and stated-case instruments |
+| **Irregularity / compliance** | Complete | Includes Rule 7, Rule 27, Rule 30, Rule 30A, and Rule 42 instruments |
+| **Discovery / trial** | Complete | Includes discovery affidavit, Rule 35(3), Rule 34 offer / tender, Rule 36, Rule 37, and Rule 38 templates |
+| **Settlement / mediation** | Complete | Includes withdrawal / discontinuance and Rule 41A mediation templates |
+| **Appeals / review** | Complete | Includes leave-to-appeal, respondent-side opposition, Rule 53, amicus, joinder, and the case-specific CourtOnline appeal-response template |
+| **Execution / costs** | Complete | Includes Rule 45A, Rule 47, and Rule 48 templates |
+| **Special proceedings** | Complete | Includes interpleader templates |
+| **Corporate / evidence** | Complete | Includes board resolution, POPIA release schedule, and governance invitation templates |
 
-## Existing Template Assets Identified
+## Key Reference Resources
 
-The following files already exist and should either remain in this folder or be moved into subfolders beneath it.
+The following reference documents remain important because they explain how the reusable templates were selected, how they map to the Uniform Rules, and how they connect back to the current case posture.[2] [3] [4] [5]
 
-| Current file | Recommended destination | Reason |
-|---|---|---|
-| `templates/BOARD_RESOLUTION_TEMPLATE.md` | `templates/corporate_and_evidence/` | Existing reusable corporate template |
-| `templates/CORRESPONDENT_MANDATE_TEMPLATE.md` | `templates/administrative/` | Existing mandate / appointment template |
-| `templates/EMAIL_RADEMEYER_INQUIRY.md` | `templates/administrative/` | Existing correspondence / engagement template |
-| `templates/POPIA_EVIDENCE_RELEASE_SCHEDULE.md` | `templates/corporate_and_evidence/` | Existing evidence-release template |
-| `../TEMPLATE_ANSWERING_AFFIDAVIT_LIP.md` | `templates/motion_proceedings/` | Existing affidavit template asset |
-| `../TEMPLATE_CORPORATE_GOVERNANCE_INVITATION.md` | `templates/corporate_and_evidence/` | Existing governance-affidavit template asset |
-| `../COURTONLINE_APPEAL_RESPONSE_TEMPLATE_2026-04-22.md` | `templates/appeals_and_review/` | Existing case-specific appellate wrapper |
-| `../UNIFORM_RULES_TEMPLATE_LIBRARY_2026-04-22.md` | `templates/reference/` | Master precedent pack for rule families |
-| `../UNIFORM_RULES_TEMPLATE_TAXONOMY_2026-04-22.md` | `templates/reference/` | Gap analysis and structure guide |
-| `../CASE_PRIORITY_MISSING_TEMPLATES_2026-04-22.md` | `templates/reference/` | Case-priority pack feeding individual template files |
-
-## Missing Template Families to Generate as Individual Files
-
-The current gap is not analytical anymore; it is structural. The master library exists, but most template families still need to be materialized as **individual files** inside the folder hierarchy.[2] [3]
-
-| Category | Missing individual files to generate |
+| Resource | Purpose |
 |---|---|
-| Administrative | Request to access a case; notice of appointment as attorney of record; notice to abide |
-| Motion proceedings | general notice of motion; founding affidavit skeleton; answering affidavit skeleton; replying affidavit skeleton |
-| Action proceedings | combined summons; simple summons; notice of intention to defend; declaration; plea; exception / strike-out; claim in reconvention; notice of bar; notice of amendment |
-| Irregularity and compliance | Rule 7 notice; Rule 27 condonation / removal of bar; Rule 30 notice; Rule 30 application; Rule 30A notice; Rule 30A application; Rule 42 rescission / variation |
-| Discovery and trial | discovery affidavit; Rule 35(3) further discovery notice; expert notice and summary; Rule 37 pre-trial notice; Rule 38 affidavit-evidence application |
-| Settlement and mediation | withdrawal / discontinuance notice; Rule 41A mediation notice |
-| Appeals and review | leave-to-appeal notice; opposition to leave to appeal; Rule 53 review notice; amicus curiae application; joinder application |
-| Execution and costs | Rule 45A stay / suspension application; Rule 47 security notice; Rule 47 security application; Rule 48 review of taxation |
-| Special proceedings | Rule 58 interpleader |
+| [Template Inventory](./TEMPLATE_INVENTORY_2026-04-22.md) | Master list of files currently present in the templates hierarchy |
+| [Uniform Rules Template Taxonomy](./reference/UNIFORM_RULES_TEMPLATE_TAXONOMY_2026-04-22.md) | Practical rule map and gap analysis |
+| [Uniform Rules Template Library](./reference/UNIFORM_RULES_TEMPLATE_LIBRARY_2026-04-22.md) | Consolidated precedent source document |
+| [Case-Priority Missing Templates Pack](./reference/CASE_PRIORITY_MISSING_TEMPLATES_2026-04-22.md) | Case-focused drafting subset aligned to current procedural pressure points |
+| [CourtOnline Document Strategy](./reference/COURTONLINE_DOCUMENT_STRATEGY_2026-04-22.md) | Strategy note for CourtOnline usage and filing selection |
+| [CourtOnline Template Matrix](./reference/COURTONLINE_TEMPLATE_MATRIX_2026-04-22.md) | Immediate-use matrix for the CourtOnline-oriented forms |
 
-## Migration Logic
+## Usage Guidance
 
-The migration should follow three rules.
-
-| Rule | Practical meaning |
-|---|---|
-| **Keep live filings visible** | Existing filing indexes should still point to important template resources even after the move. |
-| **Prefer one template per file** | The master library should remain as a consolidated reference, but practical drafting works best when each template has its own file. |
-| **Preserve historical source files where useful** | If a root-level template has value as provenance, it may be retained or replaced by a forwarding note after migration. |
-
-## Next Build Step
-
-The next implementation step is therefore to create the subfolders above, move the existing template assets into their category folders, and generate the missing individual template files from the master library and case-priority pack.[2] [3]
+This folder should be treated as the **reusable drafting layer**. When a filing is being prepared for actual use in the case, the correct workflow is to begin here with the relevant template, adapt it to the facts, then integrate the evidence, chronology, entity references, and red-team rebuttal material from the live filings and reports surfaces.[1] [4] [5]
 
 ## References
 
 [1]: file:///home/ubuntu/revstream1/docs/filings/index.md "Legal Filings Index"
-[2]: file:///home/ubuntu/revstream1/docs/filings/UNIFORM_RULES_TEMPLATE_LIBRARY_2026-04-22.md "Uniform Rules Template Library (2026-04-22)"
-[3]: file:///home/ubuntu/revstream1/docs/filings/UNIFORM_RULES_TEMPLATE_TAXONOMY_2026-04-22.md "Uniform Rules Template Taxonomy (2026-04-22)"
+[2]: file:///home/ubuntu/revstream1/docs/filings/templates/reference/UNIFORM_RULES_TEMPLATE_TAXONOMY_2026-04-22.md "Uniform Rules Template Taxonomy (2026-04-22)"
+[3]: file:///home/ubuntu/revstream1/docs/filings/templates/reference/UNIFORM_RULES_TEMPLATE_LIBRARY_2026-04-22.md "Uniform Rules Template Library (2026-04-22)"
+[4]: file:///home/ubuntu/revstream1/docs/filings/templates/reference/CASE_PRIORITY_MISSING_TEMPLATES_2026-04-22.md "Case-Priority Missing Templates Pack (2026-04-22)"
+[5]: file:///home/ubuntu/revstream1/docs/filings/templates/reference/COURTONLINE_DOCUMENT_STRATEGY_2026-04-22.md "CourtOnline Document Strategy (2026-04-22)"

@@ -1,10 +1,10 @@
-    # Special Proceedings Templates
+# Special Proceedings Templates
 
-    **Parent Index:** [Templates Folder Index](../index.md)
+**Parent Index:** [Templates Folder Index](../index.md)
 
-    These templates cover specialist procedural devices such as interpleader.
+These templates support joinder, amicus participation, and interpleader-style specialist procedures.
 
-    | File | Purpose |
-    |---|---|
-    | [RULE58_INTERPLEADER_TEMPLATE.md](RULE58_INTERPLEADER_TEMPLATE.md) | Reusable template resource |
-| [rule58_interpleader_notice_application.md](rule58_interpleader_notice_application.md) | Reusable template resource |
+| File | Purpose |
+|---|---|
+| [INTERPLEADER_NOTICE_OR_APPLICATION_TEMPLATE.md](INTERPLEADER_NOTICE_OR_APPLICATION_TEMPLATE.md) | Reusable template resource |
+| [RULE58_INTERPLEADER_TEMPLATE.md](RULE58_INTERPLEADER_TEMPLATE.md) | Reusable template resource |
