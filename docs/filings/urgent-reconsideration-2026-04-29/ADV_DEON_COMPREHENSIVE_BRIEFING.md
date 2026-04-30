@@ -1,4 +1,4 @@
-# COMPREHENSIVE BRIEFING FOR ADV. DEON
+# COMPREHENSIVE BRIEFING FOR ADV POOL
 
 **CASE NO: 2025-137857 — FAUCITT v FAUCITT & OTHERS**
 **HIGH COURT OF SOUTH AFRICA, GAUTENG DIVISION, PRETORIA**
@@ -8,7 +8,7 @@
 
 ## PART 1: EXECUTIVE SUMMARY
 
-Advocate Deon, this briefing provides the complete historical context, evidentiary pillars, and strategic analysis required to support the Applicants' (Jacqueline and Daniel Faucitt) Urgent Reconsideration Application filed on 29 April 2026. The First Applicant (Jacqueline) has filed a Founding Affidavit seeking reconsideration of the *ex parte* interim order granted by Khumalo J on 19 August 2025. The Second Applicant (Daniel) has filed a Responding Affidavit introducing the documentary evidence that proves the order was obtained through fraud.
+Advocate Pool, this briefing provides the complete historical context, evidentiary pillars, and strategic analysis required to support the Applicants' (Jacqueline and Daniel Faucitt) Urgent Reconsideration Application filed on 29 April 2026. The First Applicant (Jacqueline) has filed a Founding Affidavit seeking reconsideration of the *ex parte* interim order granted by Khumalo J on 19 August 2025. The Second Applicant (Daniel) has filed a Responding Affidavit introducing the documentary evidence that proves the order was obtained through fraud.
 
 The central thesis is that the *ex parte* interdict is **void *ab initio*** because it was obtained through a coordinated campaign of perjury, material non-disclosure, and fraud on the court. The objective of this campaign was not to protect the companies, but to execute a hostile takeover of the Faucitt Family Trust (FFT) and the RegimA group of companies to capture a pending **ZAR 18.685 million** payout from Ketoni Investment Holdings, due in **May 2026**.
 
@@ -85,6 +85,8 @@ Beginning in May 2025, over 39 emails were sent to clients redirecting payments 
 
 Daniel formally reported the financial fraud to Bantjies on **6 June 2025** and **10 June 2025**. Bantjies acknowledged receipt and forwarded the reports to his work email. On **13 August 2025** — 68 days later — Bantjies swore a confirmatory affidavit supporting Peter's founding affidavit, directly contradicting everything Daniel had reported. This constitutes deliberate perjury with provable foreknowledge.
 
+Furthermore, on **6 June 2025 at 07:50**, Bantjies emailed Rynette Farrar regarding a SARS query about two large intercompany invoices. Bantjies explicitly stated: *"I will manufacture an answer to the 2 interco invoices over the weekend."* This is documentary proof of the company accountant admitting to fabricating responses to the revenue service regarding suspicious transactions.
+
 Crucially, in the 6 June 2025 email, Daniel provided Bantjies with the exact legal entity structure, proving there are four legally distinct groups of ownership:
 *   **J+P Companies:** CORPCLO 2065, CORPCLO 2304, VILLA VIA ARCADIA NO 2, REGIMA SKIN TREATMENTS, REGIMA INTERNATIONAL SKIN TREATMENTS
 *   **D+J+P Companies:** AYMAC INTERNATIONAL, STRATEGIC LOGISTICS, REGIMA MEDIC, REGIMA SPAZONE, REGIMA WORLDWIDE DISTRIBUTION
@@ -93,11 +95,13 @@ Crucially, in the 6 June 2025 email, Daniel provided Bantjies with the exact leg
 
 Daniel explicitly warned Bantjies: *"The problem is that since the ownership of the companies is not the same... there is no fixed 'group' or intercompany and moving assets from a company where I am a director to a company where I am not is essentially theft or at the very least fraudulent for tax purposes."*
 
-**Evidence:** Daniel's fraud reports dated 6 and 10 June 2025; Bantjies' confirmatory affidavit dated 13 August 2025.
+**Evidence:** Daniel's fraud reports dated 6 and 10 June 2025; Bantjies' "manufacture an answer" email dated 6 June 2025; Bantjies' confirmatory affidavit dated 13 August 2025.
 
 ### Pillar 6: The De Novo Fabrication (18 June 2025)
 
 On the same day FNB Legal confirmed Daniel's sole mandate, Rynette instructed De Novo Business Services to fabricate fake 2019 annual accounts. These fabricated accounts removed all records of Kayla Pretorius as a director and erased the company name K-OZ Creative from the historical record. This was deliberate evidence destruction.
+
+On **18 June 2025**, Rynette instructed De Novo to create a loan account for "Rezonance" in RegimA SA and post QuickBooks/Corel expenses there. In the same email thread, Rynette asked *"Who is Dermal Skincare?"* — proving she did not even know the identity of a key distribution partner despite controlling all accounts. De Novo confirmed they were *"done with the processing until Feb 2021. We will shortly start drafting the annual financial statements for 2019, 2020 and 2021."* This proves De Novo was fabricating historical accounts from 2019 onwards, under Rynette's instruction, without Daniel's knowledge or involvement.
 
 **Evidence:** De Novo correspondence dated 18 June 2025; original 2019 accounts showing Kayla as director.
 
