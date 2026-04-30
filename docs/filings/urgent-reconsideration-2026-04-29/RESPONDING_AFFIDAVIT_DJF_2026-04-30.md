@@ -76,7 +76,8 @@ do hereby make oath and state that:
 
 7.1 The *ex parte* application relied on a confirmatory affidavit from Danie Bantjies, sworn on 13 August 2025.
 7.2 Mr. Bantjies swore this affidavit 68 days after I had formally reported the financial fraud to him in writing on 6 June 2025 and 10 June 2025. My investigation into this fraud commenced on 30 March 2025, following an irregular demand to sign off on two years of unallocated expenses. Mr. Bantjies therefore had provable foreknowledge of the fraud when he attested to the First Respondent's false claims.
-7.3 Furthermore, Mr. Bantjies' standing as a trustee of the Faucitt Family Trust was obtained through forgery. On 28 June 2024, the Second/Tenth Respondent signed a trust amendment resolution installing Mr. Bantjies as a trustee, signing it "pp Peter" (per procurationem) without the knowledge or consent of the First Applicant or myself. I attach this email as **Annexure DJF5**.
+7.3 In my email to Mr. Bantjies on 6 June 2025, I explicitly detailed the actual legal entity structure of the companies, demonstrating that there are four legally distinct groups of ownership (J+P, D+J+P, D+P, and D only). I explicitly warned him that because the ownership is not the same, "there is no fixed 'group' or intercompany and moving assets from a company where I am a director to a company where I am not is essentially theft or at the very least fraudulent for tax purposes." I attach this email as **Annexure DJF5**.
+7.4 Furthermore, Mr. Bantjies' standing as a trustee of the Faucitt Family Trust was obtained through forgery. On 28 June 2024, the Second/Tenth Respondent signed a trust amendment resolution installing Mr. Bantjies as a trustee, signing it "pp Peter" (per procurationem) without the knowledge or consent of the First Applicant or myself. I attach this email as **Annexure DJF6**.
 
 ## 8. THE PRAYER FOR PROVISIONAL WINDING-UP
 

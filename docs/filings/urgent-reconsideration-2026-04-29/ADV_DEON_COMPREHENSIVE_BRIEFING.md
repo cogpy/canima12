@@ -85,6 +85,14 @@ Beginning in May 2025, over 39 emails were sent to clients redirecting payments 
 
 Daniel formally reported the financial fraud to Bantjies on **6 June 2025** and **10 June 2025**. Bantjies acknowledged receipt and forwarded the reports to his work email. On **13 August 2025** — 68 days later — Bantjies swore a confirmatory affidavit supporting Peter's founding affidavit, directly contradicting everything Daniel had reported. This constitutes deliberate perjury with provable foreknowledge.
 
+Crucially, in the 6 June 2025 email, Daniel provided Bantjies with the exact legal entity structure, proving there are four legally distinct groups of ownership:
+*   **J+P Companies:** CORPCLO 2065, CORPCLO 2304, VILLA VIA ARCADIA NO 2, REGIMA SKIN TREATMENTS, REGIMA INTERNATIONAL SKIN TREATMENTS
+*   **D+J+P Companies:** AYMAC INTERNATIONAL, STRATEGIC LOGISTICS, REGIMA MEDIC, REGIMA SPAZONE, REGIMA WORLDWIDE DISTRIBUTION
+*   **D+P Companies:** REGIMA SA
+*   **D Only Companies:** REGIMA ZONE, REGIMA ZONE ACADEMY, REGIMA ZONE IMPACT, REZONANCE, UNICORN DYNAMICS, JOZI WAY TRADING, PANDAMANIA, VILLA PALMER HOA
+
+Daniel explicitly warned Bantjies: *"The problem is that since the ownership of the companies is not the same... there is no fixed 'group' or intercompany and moving assets from a company where I am a director to a company where I am not is essentially theft or at the very least fraudulent for tax purposes."*
+
 **Evidence:** Daniel's fraud reports dated 6 and 10 June 2025; Bantjies' confirmatory affidavit dated 13 August 2025.
 
 ### Pillar 6: The De Novo Fabrication (18 June 2025)
