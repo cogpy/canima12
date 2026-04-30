@@ -28,16 +28,62 @@ The central thesis is that the *ex parte* interdict is **void *ab initio*** beca
 
 ## PART 3: THE CORPORATE STRUCTURE
 
-The RegimA group comprises four entities, all family-operated for 33 years:
+The so-called "RegimA Group" is **not** a single corporate group. As Daniel documented in his email to Bantjies on 6 June 2025, the entities fall into **four legally distinct ownership groups** between which simple intercompany transactions require additional transactions to justify asset transfers. This is the critical structural fact that the *ex parte* application concealed from the court.
 
-| Entity | Registration | Key Persons | Purpose |
-|--------|-------------|-------------|---------|
-| **RegimA Worldwide Distribution (Pty) Ltd** | 2011/005722/07 | Peter (Dir), Jacqueline (Dir), Daniel (Dir) | Main distribution company |
-| **RegimA Skin Treatments CC** | CK1992/058937/23 | Peter, Jacqueline, Daniel (members) | Skincare treatments |
-| **Villa Via Arcadia No 2 CC** | CK2003/032024/23 | Peter, Jacqueline, Daniel (members) | Property holding |
-| **Strategic Logistics CC** | CK2001/049447/23 | Peter, Daniel (members) | Logistics operations |
+### Group 1: J + P Companies (Daniel is NOT a director or member)
 
-The **Faucitt Family Trust (FFT)** (Trust No: 003651/2013) holds a 33% stake in RWD and SL. Trustees: Peter (Founder), Jacqueline, and (unlawfully) Danie Bantjies.
+These are entities controlled exclusively by Jacqueline (J) and Peter (P). Daniel has no directorship, membership, or signing authority over any of these entities. Moving assets from entities where Daniel is a director into these entities is, as Daniel warned Bantjies, *"essentially theft or at the very least fraudulent for tax purposes."*
+
+| Entity | Registration No. | Type |
+|--------|-----------------|------|
+| RegimA Skin Treatments | 1992/005371/23 | CC — Manufacturer |
+| RegimA International Skin Treatments | 2008/127748/23 | CC — International |
+| Villa Via Arcadia No 2 | 1996/004451/23 | CC — Property |
+| CORPCLO 2065 | 2003/086391/23 | CC |
+| CORPCLO 2304 | 2005/014378/23 | CC |
+
+### Group 2: D + J + P Companies (All three are directors/members)
+
+These are the entities where Daniel, Jacqueline, and Peter all hold directorship or membership. These are the only entities that could legitimately be described as "family companies."
+
+| Entity | Registration No. | Type |
+|--------|-----------------|------|
+| RegimA Worldwide Distribution (Pty) Ltd | 2011/005722/07 | Pty Ltd — Main Distribution |
+| Strategic Logistics | 2008/136496/23 | CC — Logistics |
+| Aymac International | 1999/061687/23 | CC — International |
+| RegimA Medic (Pty) Ltd | 2017/087877/07 | Pty Ltd — Medical |
+| RegimA SpaZone (Pty) Ltd | 2017/081833/07 | Pty Ltd — Spa |
+
+### Group 3: D + P Company (Jacqueline is NOT a director)
+
+| Entity | Registration No. | Type |
+|--------|-----------------|------|
+| RegimA SA (Pty) Ltd | 2017/087935/07 | Pty Ltd — Distribution Hub |
+
+### Group 4: D Only Companies (Daniel is sole director)
+
+These are Daniel's own companies, over which neither Peter nor Jacqueline has any directorship, membership, or authority.
+
+| Entity | Registration No. | Type |
+|--------|-----------------|------|
+| RegimA Zone (Pty) Ltd | 2017/110437/07 | Pty Ltd — Distribution Aggregation |
+| RegimA Zone Academy (Pty) Ltd | 2017/113134/07 | Pty Ltd — Training |
+| RegimA Zone Impact (Pty) Ltd | 2017/109415/07 | Pty Ltd — Impact |
+| ReZonance (Pty) Ltd | 2017/081396/07 | Pty Ltd — IT & Technology |
+| Unicorn Dynamics (Pty) Ltd | 2016/307425/07 | Pty Ltd — Technology |
+| Jozi Way Trading (Pty) Ltd | 2016/240702/07 | Pty Ltd — Trading |
+| Pandamania (Pty) Ltd | 2021/306676/07 | Pty Ltd — Creative |
+| Villa Palmer HOA | 2003/030388/08 | NPC — Homeowners |
+
+### The Faucitt Family Trust (FFT)
+
+Trust No: 003651/2013. Holds a 33% stake in RWD and SL. Legitimate trustees: Peter (Founder) and Jacqueline. Danie Bantjies was unlawfully installed as a trustee via the forged resolution of 28 June 2024.
+
+### Why This Structure Matters
+
+The *ex parte* application treated all entities as a single "group" under Peter's control. This is legally false. The revenue diversion scheme moved income from Group 2 and Group 3 entities (where Daniel is a director) into Group 1 entities (where Daniel has no standing). As Daniel explicitly warned Bantjies: *"there is no fixed 'group' or intercompany and moving assets from a company where I am a director to a company where I am not is essentially theft or at the very least fraudulent for tax purposes."*
+
+The QuickBooks registry further shows 8 ZA entities and 4 UK entities under Daniel's administration, none of which were disclosed to the court.
 
 ---
 
