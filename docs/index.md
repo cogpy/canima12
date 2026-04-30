@@ -1,9 +1,19 @@
-# Case 2025-137857: Revenue Stream Hijacking — Evidence Repository
+# Case 2025-137857: Revenue Stream Hijacking & Trust Fraud — Evidence Repository
 
-**Last Updated:** 2026-04-22 (v22.0 — Dedicated Templates Folder Layer)
+**Last Updated:** 2026-04-30 (v23.0 — LEX-DigiTwin-NN Optimal Cognitive Grip Layer)
 
 This repository provides a comprehensive, evidence-based view of Case 2025-137857, a multi-faceted criminal enterprise involving revenue stream hijacking, trust fraud, identity theft, and corporate malfeasance with a total quantum exceeding **R63,000,000**.
 
+> **v23 Pipeline (2026-04-30):** `/optimal-cognitive-grip ( /lex-digitwin-nn ( /metamathematical-consciousness -> /ksm-lex-evidence-grip < /circled-operators > ) )` — Composed differentiable legal simulation with red-team critique, enterprise scoping, and KSM evidence evolution.
+>
+> **v23 Filings:** [Responding Affidavit (Reconsideration)](./filings/urgent-reconsideration-2026-04-29/RESPONDING_AFFIDAVIT_DJF_2026-04-30_REFINED.md) | [Red-Team Critique (Reconsideration)](./filings/urgent-reconsideration-2026-04-29/RED_TEAM_CRITIQUE_RECONSIDERATION.md) | [Adv. Deon Briefing](./filings/urgent-reconsideration-2026-04-29/ADV_DEON_COMPREHENSIVE_BRIEFING.md)
+>
+> **v23 Analysis:** [LEX-DigiTwin-NN Simulation Report](./reports/LEX_DIGITWIN_NN_SIMULATION_2026-04-30.md) | [Enterprise Scoping Pack](./enterprise_scope_2026-04-30.md) | [4-Group Corporate Structure](./filings/urgent-reconsideration-2026-04-29/DAN_COMPANY_STRUCTURES_EMAILS.md)
+>
+> **v23 Data:** Entities v27 | Events v31 (94 events incl. April 2026 reconsideration) | Relations v32
+>
+> **v23 Burden Assessment:** Civil 74.0% (EXCEEDED) | Criminal 73.0% adversarial (STRONG — needs independent affidavits) | All regulatory filings EXCEED threshold
+>
 > **v21 Pipeline (2026-03-25):** `/fin-audit-za-v2(/evidence-process)` — SA Forensic Audit with SOX 404/ICFR methodology, SARS/FICA/POCA/Companies Act 71/2008/PRECCA regulatory overlays.
 >
 > **v21 Filings:** [Filings Index](./filings/index.md) | [NPA Perjury v21](./filings/NPA_PERJURY_BANTJIES_J417_2026-03-25_v21.md) | [NPA Commercial Crime v21](./filings/NPA_COMMERCIAL_CRIME_REFINED_2026-03-25_v21.md) | [SARS Tax Fraud v21](./filings/SARS_TAX_FRAUD_REPORT_REFINED_2026-03-25_v21.md) | [CIPC v21](./filings/CIPC_COMPLAINT_REFINED_2026-03-25_v21.md) | [SAICA v21](./filings/SAICA_COMPLAINT_BANTJIES_REFINED_2026-03-25_v21.md) | [POPIA v21](./filings/POPIA_COMPLAINT_REFINED_2026-03-25_v21.md)
@@ -286,4 +296,6 @@ For comprehensive supporting evidence, see the **[ad-res-j7 repository](https://
 - [Master Timeline](./timeline.md) — appeal-stage chronology updated 2026-04-20
 - [Exchange Export Intake](./evidence/EXCHANGE_EXPORT_RYNETTE_CONVERSATION_INTAKE_2026-04-20.md) — full-mailbox conversation layer and skill-aware intake note added 2026-04-20
 
-**Last Refinement:** 2026-04-20 — appeal-stage evidence, Danie mailbox evidence, and full Rynette Exchange-export conversation layer added on top of the v21 / v21.1 baseline
+**Last Refinement:** 2026-04-30 — v23 LEX-DigiTwin-NN composed pipeline: enterprise scoping, differentiable legal simulation, red-team critique (8 vulnerabilities with counter-strategies), entity refinement (v27), event update (v31), refined responding affidavit with 4-group corporate structure, Ketoni motive architecture framing, and negative proof strategy.
+
+**Previous Refinement:** 2026-04-20 — appeal-stage evidence, Danie mailbox evidence, and full Rynette Exchange-export conversation layer added on top of the v21 / v21.1 baseline
