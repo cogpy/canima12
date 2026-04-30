@@ -1,0 +1,152 @@
+{
+  "date": "2026-04-30T09:12:04.400419",
+  "category_scores": {
+    "Trust Forgery": 0.86,
+    "Revenue Diversion": 0.878,
+    "Sage System Capture": 0.896,
+    "Bantjies Conflicts": 0.852,
+    "Ketoni Motive": 0.856,
+    "POPIA Violations": 0.794,
+    "Corporate Structure Concealment": 0.882,
+    "Curatorship Fraud": 0.7,
+    "Premeditated Entrapment": 0.896
+  },
+  "filing_results": [
+    {
+      "filing": "Civil Action (Void Ab Initio)",
+      "type": "civil",
+      "burden": 0.5,
+      "raw_score": 0.8774,
+      "adversarial_score": 0.8072,
+      "burden_met": true,
+      "gap": 0
+    },
+    {
+      "filing": "Criminal Case Submission",
+      "type": "criminal",
+      "burden": 0.95,
+      "raw_score": 0.8681,
+      "adversarial_score": 0.7987,
+      "burden_met": false,
+      "gap": 0.1513
+    },
+    {
+      "filing": "CIPC Companies Act Complaint",
+      "type": "regulatory",
+      "burden": 0.5,
+      "raw_score": 0.8691,
+      "adversarial_score": 0.7996,
+      "burden_met": true,
+      "gap": 0
+    },
+    {
+      "filing": "POPIA Criminal Complaint",
+      "type": "regulatory",
+      "burden": 0.5,
+      "raw_score": 0.854,
+      "adversarial_score": 0.7857,
+      "burden_met": true,
+      "gap": 0
+    },
+    {
+      "filing": "Commercial Crime Submission",
+      "type": "criminal",
+      "burden": 0.95,
+      "raw_score": 0.8688,
+      "adversarial_score": 0.7993,
+      "burden_met": false,
+      "gap": 0.1507
+    },
+    {
+      "filing": "NPA Tax Fraud Report",
+      "type": "criminal",
+      "burden": 0.95,
+      "raw_score": 0.8637,
+      "adversarial_score": 0.7946,
+      "burden_met": false,
+      "gap": 0.1554
+    },
+    {
+      "filing": "SAICA Professional Misconduct",
+      "type": "regulatory",
+      "burden": 0.5,
+      "raw_score": 0.8648,
+      "adversarial_score": 0.7956,
+      "burden_met": true,
+      "gap": 0
+    },
+    {
+      "filing": "Responding Affidavit (Reconsideration)",
+      "type": "civil",
+      "burden": 0.5,
+      "raw_score": 0.868,
+      "adversarial_score": 0.7985,
+      "burden_met": true,
+      "gap": 0
+    }
+  ],
+  "evidence_categories": {
+    "Trust Forgery": {
+      "documentary": 0.95,
+      "testimonial": 0.55,
+      "circumstantial": 0.95,
+      "corroboration": 0.9
+    },
+    "Revenue Diversion": {
+      "documentary": 0.98,
+      "testimonial": 0.5,
+      "circumstantial": 0.95,
+      "corroboration": 0.98
+    },
+    "Sage System Capture": {
+      "documentary": 1.0,
+      "testimonial": 0.55,
+      "circumstantial": 0.98,
+      "corroboration": 0.95
+    },
+    "Bantjies Conflicts": {
+      "documentary": 0.92,
+      "testimonial": 0.55,
+      "circumstantial": 0.95,
+      "corroboration": 0.92
+    },
+    "Ketoni Motive": {
+      "documentary": 0.95,
+      "testimonial": 0.45,
+      "circumstantial": 0.98,
+      "corroboration": 0.95
+    },
+    "POPIA Violations": {
+      "documentary": 0.92,
+      "testimonial": 0.4,
+      "circumstantial": 0.88,
+      "corroboration": 0.85
+    },
+    "Corporate Structure Concealment": {
+      "documentary": 0.98,
+      "testimonial": 0.55,
+      "circumstantial": 0.95,
+      "corroboration": 0.95
+    },
+    "Curatorship Fraud": {
+      "documentary": 0.75,
+      "testimonial": 0.45,
+      "circumstantial": 0.9,
+      "corroboration": 0.65
+    },
+    "Premeditated Entrapment": {
+      "documentary": 1.0,
+      "testimonial": 0.55,
+      "circumstantial": 0.98,
+      "corroboration": 0.95
+    }
+  },
+  "new_evidence_impact": {
+    "sage_disclaimer_form": "Upgrades Sage System Capture documentary to 1.00 (perfect)",
+    "letter_of_demand_94_pdfs": "Upgrades Revenue Diversion corroboration to 0.98",
+    "rwd_entity_notices": "Upgrades Corporate Structure corroboration to 0.95",
+    "aa_enhanced_jacqui": "Upgrades testimonial across all categories by +0.10-0.15",
+    "provable_foreknowledge_pdf": "Creates new Premeditated Entrapment category at 0.90",
+    "elliott_withdrawal": "Confirms ENSafrica involvement (external validation)"
+  }
+}

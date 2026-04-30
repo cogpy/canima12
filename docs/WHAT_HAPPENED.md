@@ -2,7 +2,7 @@
 
 **Case 2025-137857 — Revenue Stream Hijacking, Trust Fraud, and Corporate Sabotage**
 
-**Date:** 2026-02-23 | **Source:** Exchange Mailbox Evidence (~1M messages, 112 users, 2014–2026)
+**Date:** 2026-04-30 | **Source:** Exchange Mailbox Evidence (~1M messages, 112 users, 2014–2026)
 
 ---
 
@@ -90,7 +90,16 @@ The significance of this act cannot be overstated. Bantjies, as CFO of the Georg
 
 The connection between the trust appointment and the Ketoni investment was made explicit on **26 September 2024**. In a single email exchange, Bantjies arranged to bring the newly signed trust documents to a meeting and, at the same time, give Peter and Jacqui *"feedback on the performance of the company in which Ketoni Investments hold shares."* The two events were inextricably linked.
 
-### The Sage Fraud — 8–9 July 2024
+
+### The Sage System Sabotage and Premeditated Entrapment — 8-9 July 2024
+
+Ten days after the trust forgery, Peter Faucitt and Rynette Farrar executed a deliberate sabotage of the company's accounting infrastructure. On **8 July 2024**, Peter personally signed a Sage Business Cloud Accounting Disclaimer Form to transfer the admin account from the deceased Kayla Pretorius to himself. 
+
+The form explicitly stated: **"all other users... will no longer have access to the company dataset/s."** Peter signed this knowing it would revoke all access. On **9 July 2024**, Rynette submitted the sworn affidavit and forms to Sage, CC'ing Peter. Sage confirmed the transfer, which immediately broke all API integrations with Shopify, Stock2Shop, and bank feeds.
+
+Thirteen months later, Peter obtained an *ex parte* interdict against Daniel, claiming mismanagement of the companies — while concealing from the court that he had personally authorized the sabotage of the very systems he was complaining about. This establishes **provable foreknowledge** and premeditated entrapment.
+
+### The Sage Fraud (Historical Context)
 
 Ten days after the forgery, Peter Faucitt swore a false affidavit to Sage, claiming that Kayla Pretorius, the account owner, had recently died and that ownership should be transferred to `pete@regima.zone`. On **9 July 2024**, Sage executed the transfer.
 
@@ -108,11 +117,25 @@ The Stock2Shop team spent ten days (10–19 July 2024) reconfiguring all portals
 
 ## VI. The Slow Strangulation: 2025
 
+### The Letter of Demand Evidence (March 2026)
+
+A comprehensive Letter of Demand was prepared containing 94 PDF evidence emails organized into 7 distinct allegation categories:
+1. **Payment Diversion** (19 PDFs) - Banking detail change letters to customers
+2. **Unlawful Bank Account Control** (14 PDFs)
+3. **UK Business Revenue Theft** (20 PDFs) - via regimaskin.co.za
+4. **Unlawful Competition** (14 PDFs) - via Addarory (Rynette's son's company)
+5. **Pilfering Business Opportunities** (2 PDFs)
+6. **Brand Damage** (6 PDFs)
+7. **Stock Theft / R5.4M Adjustment Fraud** (19 PDFs)
+
+This documentary evidence establishes the total quantum of the fraud: R5.4M in stock adjustments, R1M+ in monthly revenue theft, and R850K in unauthorized transfers.
+
+
 With the trust structure compromised and the accounting system under her control, Rynette began the systematic dismantling of Daniel's ability to operate the business.
 
 ### The Expense Dump — 30 March 2025
 
-On **30 March 2025**, Rynette and Peter dumped two years' worth of unallocated expenses from all companies into RegimA Worldwide and pressured Daniel to sign off on them for SARS VAT and Annual Accounts within 12 hours. These expenses had accumulated during a period when the accounting system was controlled entirely by Rynette, using Peter's email, despite Linda Kruger, an office employee, being employed specifically to do the books. Daniel used the time from this demand until **6 June 2025** to finalise his own reports and, in the process, uncovered the fraud.
+On **30 March 2025**, Rynette and Peter dumped two years' worth of unallocated expenses from all companies into RegimA Worldwide and pressured Daniel to sign off on them for SARS VAT and Annual Accounts within 12 hours. These expenses had accumulated during a period when the accounting system was controlled entirely by Rynette, using Peter's email, despite her sister Linda being employed specifically to do the books. Daniel used the time from this demand until **6 June 2025** to finalise his own reports and, in the process, uncovered the fraud.
 
 ### Revenue Diversion — May 2025
 
@@ -120,13 +143,13 @@ The revenue diversion began in earnest. Exchange records from **2 May 2025** sho
 
 > *"Please be advised that our banking details have changed. Kindly refer to the attached document for the updated information. These changes are effective immediately."*
 
-On **5 May 2025**, Rynette herself sent an email titled "Banking details and email address for POP," initiating the formal redirection of payments from FNB (where Daniel had signing authority) to ABSA accounts (where he did not). By **18 June 2025**, Linda — office employee — had sent over **39 emails** to clients with updated banking details, completing the mass redirection of the company's revenue streams.
+On **5 May 2025**, Rynette herself sent an email titled "Banking details and email address for POP," initiating the formal redirection of payments from FNB (where Daniel had signing authority) to ABSA accounts (where he did not). By **18 June 2025**, Linda — Rynette's sister — had sent over **39 emails** to clients with updated banking details, completing the mass redirection of the company's revenue streams.
 
 ### The Shopify Hijacking — 22 May 2025
 
-On **22 May 2025**, orders were removed from the Shopify platform. Seven days later, on **29 May 2025**, Rynette's son (Darren Dennis Farrar)'s company, **Adderory (Pty) Ltd**, registered the domain `regimaskin.co.za`. On **20 June 2025**, employee Gayane announced the email domain change from `regima.zone` to `regimaskin.co.za`, completing the infrastructure hijacking.
+On **22 May 2025**, orders were removed from the Shopify platform. Seven days later, on **29 May 2025**, Rynette's son's company, **Adderory (Pty) Ltd**, registered the domain `regimaskin.co.za`. On **20 June 2025**, employee Gayane announced the email domain change from `regima.zone` to `regimaskin.co.za`, completing the infrastructure hijacking.
 
-The timing is not coincidental. Adderory had been incorporated in April 2021 alongside two other companies owned by Rynette's son, Darren Dennis Farrar,: **Luxury Products Online** (a distribution channel) and **Luxuré** (a direct competitor to RegimA). Adderory had also become a supplier of RegimA packaging, creating a closed loop of self-dealing.
+The timing is not coincidental. Adderory had been incorporated in April 2021 alongside two other companies owned by Rynette's son: **Luxury Products Online** (a distribution channel) and **Luxuré** (a direct competitor to RegimA). Adderory had also become a supplier of RegimA packaging, creating a closed loop of self-dealing.
 
 ### The Secret Sharing & IT Expenses Smokescreen — May–June 2025
 
@@ -219,7 +242,7 @@ The exchange evidence, read as a whole, reveals a pattern that is unmistakable i
 | **Identity Misappropriation** | Rynette operated `pete@regima.com`, authored all "Peter" communications, controlled Sage under Pete's credentials | Peter was a front; Rynette was the operator |
 | **Insider Positioning** | Bantjies installed as trustee (28 Jun 2024) while serving as CFO of George Group (Ketoni's parent) | Insider access to R18.685M payout mechanism |
 | **Sabotage-then-Frame** | Sage API deliberately broken (Jul 2024) → financial chaos → blamed on Daniel (Aug 2025) | Manufactured the very "evidence" used in the affidavit |
-| **Revenue Hijacking** | 39+ bank detail change emails (Jun 2025), Shopify orders removed, domain registered by Rynette's son, Darren Dennis Farrar, | Systematic diversion of all income streams |
+| **Revenue Hijacking** | 39+ bank detail change emails (Jun 2025), Shopify orders removed, domain registered by Rynette's son | Systematic diversion of all income streams |
 | **SARS eFiling Impersonation** | Rynette logged in as Bantjies on SARS eFiling (26 Apr 2024) to change banking details to ABSA; Bantjies replied "All good!" Bantjies' later confusion about FNB/ABSA (Aug 2024) proves he wasn't in control. | ABSA revenue diversion planned 13 months before client bank detail changes |
 | **Premeditation & Trust Takeover** | Rynette requested trust docs 14 days after Kayla's murder (Jul 2023); forged trust amendment to install Bantjies (Jun 2024); linked trust docs to Ketoni feedback (Sep 2024) | Proves a year-long, premeditated plan to seize control of the Trust to capture the Ketoni payout |
 | **IT Expenses Smokescreen** | Bantjies framed Daniel's IT costs as cause of losses (May–Jun 2025); SARS audit used as additional cover | Pre-emptive counter-narrative to discredit the fraud report |
