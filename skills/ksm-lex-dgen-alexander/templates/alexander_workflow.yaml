@@ -1,0 +1,80 @@
+name: ksm-lex-dgen-alexander
+description: "12-Step Structure-Preserving Transformation Cycle for Legal Evidence"
+version: "1.0.0"
+
+metadata:
+  domain: "legal-evidence"
+  framework: "alexander-15-qualities"
+  composition: "/ksm-evolve [ /lex-digitwin-nn ⊗ /apl253 ] -> /dte-dgen-narrative"
+
+execution:
+  checkpointing: true
+  retry_on_failure: true
+  max_retries: 3
+
+ml_integration:
+  enabled: true
+  models:
+    narrative: "lucid-v1-extra-large"
+    analysis: "sonar-reasoning-pro"
+
+stages:
+  - name: "observe_wholeness"
+    skill: "ksm-evolve"
+    action: "observe"
+    description: "Scan the current evidentiary field (wholeness)."
+    
+  - name: "identify_centers"
+    skill: "ksm-evolve"
+    action: "identify"
+    description: "Locate the strongest and weakest legal centers."
+    
+  - name: "detect_latent"
+    skill: "ksm-evolve"
+    action: "detect"
+    description: "Find the latent center where a new legal argument wants to emerge."
+    
+  - name: "think_transformation"
+    skill: "lex-digitwin-nn"
+    action: "analyze"
+    description: "Analyze which transformation would most intensify the existing case."
+    
+  - name: "discover_properties"
+    skill: "apl253"
+    action: "evaluate"
+    description: "Determine which of the 15 properties could be strengthened."
+    
+  - name: "inspect_structure"
+    skill: "apl253"
+    action: "verify"
+    description: "Verify the proposed filing preserves existing legal structure."
+    
+  - name: "mutate_case"
+    skill: "lex-digitwin-nn"
+    action: "apply"
+    description: "Apply the transformation (draft/refine the filing)."
+    
+  - name: "create_center"
+    skill: "lex-digitwin-nn"
+    action: "instantiate"
+    description: "Instantiate the new legal center (concrete evidence integration)."
+    
+  - name: "observe_mirror"
+    skill: "ksm-evolve"
+    action: "test"
+    description: "Apply the 'mirror of the self' test (does this serve justice/truth?)."
+    
+  - name: "observe_new_wholeness"
+    skill: "ksm-evolve"
+    action: "re-evaluate"
+    description: "Re-evaluate the entire evidentiary field after the change."
+    
+  - name: "create_record"
+    skill: "ksm-evolve"
+    action: "record"
+    description: "Record the iteration in organizational memory."
+    
+  - name: "orchestrate_narrative"
+    skill: "dte-dgen-narrative"
+    action: "generate"
+    description: "Generate the DreamGen narrative of the evolution and prepare for the next cycle."
