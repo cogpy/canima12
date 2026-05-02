@@ -1,0 +1,38 @@
+{
+  "cycle7_results": {
+    "step_9_mirror_of_self": {
+      "passed": true,
+      "test": "Each cycle 7 filing names the reciprocal echo channel using only third-party correspondence (attorney letters citing Bantjies; Bantjies instructions citing attorney letters). No allegation in Pillar XV depends on inference; each is documentary.",
+      "verdict": "Pillar XV stands as living truth — the structure preserves the existing case while making explicit a relation that was previously latent."
+    },
+    "step_10_15_qualities": {
+      "Levels_of_Scale": 0.930,
+      "Strong_Centers": 0.960,
+      "Boundaries": 0.910,
+      "Alternating_Repetition": 0.940,
+      "Positive_Space": 0.920,
+      "Good_Shape": 0.910,
+      "Local_Symmetries": 0.940,
+      "Deep_Interlock": 0.960,
+      "Contrast": 0.910,
+      "Gradients": 0.950,
+      "Roughness": 0.910,
+      "Echoes": 0.970,
+      "The_Void": 0.940,
+      "Simplicity_Inner_Calm": 0.920,
+      "Not_Separateness": 0.920,
+      "geometric_mean": 0.9329
+    },
+    "deltas_from_cycle6": {
+      "Echoes": "+0.080 (target weakness — converted to strongest)",
+      "Strong_Centers": "+0.010",
+      "Deep_Interlock": "+0.020",
+      "Alternating_Repetition": "+0.030"
+    },
+    "weakest_quality_for_cycle8": {
+      "name": "Good_Shape",
+      "score": 0.910,
+      "rationale": "Internal coherence of each filing — opportunity to harmonize length, tone, paragraph numbering across all 8 forums."
+    }
+  }
+}
