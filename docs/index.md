@@ -299,4 +299,4 @@ For comprehensive supporting evidence, see the **[ad-res-j7 repository](https://
 **Last Refinement:** 2026-04-30 — v23 LEX-DigiTwin-NN composed pipeline: enterprise scoping, differentiable legal simulation, red-team critique (8 vulnerabilities with counter-strategies), entity refinement (v27), event update (v31), refined responding affidavit with 4-group corporate structure, Ketoni motive architecture framing, and negative proof strategy.
 
 **Previous Refinement:** 2026-04-20 — appeal-stage evidence, Danie mailbox evidence, and full Rynette Exchange-export conversation layer added on top of the v21 / v21.1 baseline
-- [Cycle 4 Index](cycle4/INDEX.md)
+- [Cycle 4 Index](cycle5/INDEX.md)
