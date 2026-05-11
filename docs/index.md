@@ -1,6 +1,6 @@
 # Case 2025-137857: Revenue Stream Hijacking & Trust Fraud — Evidence Repository
 
-**Last Updated:** 2026-04-30 (v23.0 — LEX-DigiTwin-NN Optimal Cognitive Grip Layer)
+**Last Updated:** 2026-05-11 (v23.1 — Leave-to-Appeal Judgment Outcome Layer)
 
 This repository provides a comprehensive, evidence-based view of Case 2025-137857, a multi-faceted criminal enterprise involving revenue stream hijacking, trust fraud, identity theft, and corporate malfeasance with a total quantum exceeding **R63,000,000**.
 
@@ -11,6 +11,8 @@ This repository provides a comprehensive, evidence-based view of Case 2025-13785
 > **v23 Analysis:** [LEX-DigiTwin-NN Simulation Report](./reports/LEX_DIGITWIN_NN_SIMULATION_2026-04-30.md) | [Enterprise Scoping Pack](./enterprise_scope_2026-04-30.md) | [4-Group Corporate Structure](./filings/urgent-reconsideration-2026-04-29/DAN_COMPANY_STRUCTURES_EMAILS.md)
 >
 > **v23 Data:** Entities v27 | Events v31 (94 events incl. April 2026 reconsideration) | Relations v32
+>
+> **v23.1 Leave-to-Appeal Judgment Outcome (2026-05-11):** [EVENT_179 Leave-to-Appeal Judgment](./events/EVENT_179.md) | [Outcome Note](./filings/LEAVE_TO_APPEAL_JUDGMENT_OUTCOME_NOTE_2026-05-11.md) | [Integration Report](./reports/LEAVE_TO_APPEAL_JUDGMENT_INTEGRATION_2026-05-11.md) | [Identical Transcription](./evidence/court/judgments/139F-faucitt-v-faucitt-leave-to-appeal-judgment-2026-05-04.identical-transcription.md)
 >
 > **v23 Burden Assessment:** Civil 74.0% (EXCEEDED) | Criminal 73.0% adversarial (STRONG — needs independent affidavits) | All regulatory filings EXCEED threshold
 >
@@ -103,8 +105,9 @@ This financial motive explains:
 - **[Narrative Overview](./narrative-overview.md)** - Plain-language summary of the case, timeline, and laws broken
 - **[Ketoni Payout Timeline](./ketoni-timeline.md)** - Central financial motive (ZAR 18.75M May 2026)
 - **[Comprehensive Evidence Index](./evidence-index-enhanced.md)** - All evidence categorized and cross-referenced
-- **[Master Timeline](./timeline.md)** - Complete chronological event sequence, now directly anchored to the 16 March 2026 supplementary affidavit, the 26 March 2026 judgment text, and the 30 March 2026 appeal notice
+- **[Master Timeline](./timeline.md)** - Complete chronological event sequence, now directly anchored to the 16 March 2026 supplementary affidavit, the 26 March 2026 contempt judgment, the 30 March 2026 appeal notice, and the 4 May 2026 leave-to-appeal judgment outcome
 - **[Leave-to-Appeal Opposition Note](./filings/LEAVE_TO_APPEAL_OPPOSITION_NOTE_2026-04-21.md)** - Filing-ready respondent-side answer under section 17
+- **[Leave-to-Appeal Judgment Outcome Note](./filings/LEAVE_TO_APPEAL_JUDGMENT_OUTCOME_NOTE_2026-05-11.md)** - Post-outcome filing note anchored to the 4 May 2026 dismissal of leave to appeal
 - **[Entities Directory](./entities/index.md)** - All persons and organizations, including updated March 2026 entity-layer notes
 - **[Events Directory](./events/)** - Detailed event documentation, including EVENT_178 (supplementary affidavit), judgment-upgraded EVENT_176, and EVENT_177
 - **[Relations Analysis](./relations/index.md)** - Entity relationship mapping, including appeal-stage representation, the March 2026 contempt-to-appeal cluster, the affidavit-driven entity-normalization issue, and the latest composite legal-simulation discipline rules

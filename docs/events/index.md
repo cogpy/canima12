@@ -1,7 +1,7 @@
 # Events Index
 
-**Last Updated:** 2026-04-20 (v18.2)  
-**Total Events:** 175 documented events across 7 phases  
+**Last Updated:** 2026-05-11 (v18.3)  
+**Total Events:** 176 documented events across 7 phases  
 **Pipeline:** `/evidence-process(/skillm) -> /ksm-evolve(/regima-org-self) -> /optimal-cognitive-grip`
 
 This index catalogs all events in Case 2025-137857: Revenue Stream Hijacking, organized by phase and significance.
@@ -260,6 +260,7 @@ The following 53 events meet the criminal burden of proof:
 | **2026-03-16** | **Supplementary Founding Affidavit for Part B Sworn** | Adds a March 2026 delinquency-director / probation layer, relies on PF36/PF37, and exposes an internal RWD/RST respondent-number reversal that must be neutralised through legal-name normalization | [EVENT_178](./EVENT_178.md) |
 | **2026-03-26** | **Contempt Judgment Delivered (Justice Labuschagne)** | Appellate grounds later confirm the applicant lost the judgment/order in material respects and was hit with punitive costs | [EVENT_176](./EVENT_176.md) |
 | **2026-03-30** | **Notice of Application for Leave to Appeal Filed** | Opens the appellate phase; isolates the applicant's current theory on Fakie, Plascon-Evans, clause 2.5, stock, training, and costs | [EVENT_177](./EVENT_177.md) |
+| **2026-05-04** | **Leave-to-Appeal Judgment Dismisses Appeal Attempt** | Closes the immediate appellate phase; confirms no reasonable prospects, no compelling reason, and Scale C costs subject to the 16 April wasted-cost carve-out | [EVENT_179](./EVENT_179.md) |
 
 ---
 
@@ -307,4 +308,4 @@ The following 53 events meet the criminal burden of proof:
 
 ---
 
-*Last updated: 2026-04-20 by /evidence-process(/skillm) -> /ksm-evolve(/regima-org-self) -> /optimal-cognitive-grip pipeline.*
+*Last updated: 2026-05-11 by /identical-transcribe -> /evidence-process(/skillm) -> /ksm-evolve(/regima-org-self) -> /optimal-cognitive-grip pipeline.*

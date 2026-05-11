@@ -1,7 +1,7 @@
 # Revenue Stream Hijacking Case Documentation
 
 **Case Number**: 2025-137857  
-**Last Updated**: 2026-01-01
+**Last Updated**: 2026-05-11
 
 ## Overview
 
@@ -92,6 +92,7 @@ All claims in legal filings are supported by evidence from the **ad-res-j7** rep
 - **2026-01-01**: Data models refined (33 entities, 75 relations, 77 events)
 - **2026-01-01**: Legal filings enhanced with burden of proof assessment
 - **2026-01-01**: GitHub Pages reorganized with clear evidence references
+- **2026-05-11**: Added 4 May 2026 leave-to-appeal judgment PDF, identical transcription, EVENT_179, outcome note, and integration report
 
 ## Contact
 

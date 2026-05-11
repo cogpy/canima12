@@ -5,7 +5,7 @@ title: Master Timeline
 
 # Master Timeline
 
-**Last Updated:** 2026-04-20
+**Last Updated:** 2026-05-11
 
 > **Refinement Note (2026-04-14):** The timeline has been reviewed against the current entity and filing model. The most important chronology clusters for the next filing cycle are: **(i)** Ketoni motive and trustee-control preparation, **(ii)** June 2025 fraud exposure and retaliation, **(iii)** the August 2025 backdating/interdict sprint, and **(iv)** post-interdict extraction and contempt. See the detailed [Entity, Relation, Event, and Timeline Refinement Report](./reports/ENTITY_RELATION_EVENT_TIMELINE_REFINEMENT_2026-04-14.md).
 
@@ -160,3 +160,4 @@ title: Master Timeline
 | 2026-03-16 | [Supplementary Founding Affidavit for Part B Sworn; respondent mapping destabilised (EVENT_178)](./events/EVENT_178.md) | PERSON_001, PERSON_004, PERSON_005, ORG_001, ORG_002, ORG_004, ORG_005 |  | F-supplementary-founding-affidavit; PF36; PF37 |
 | 2026-03-26 | [Contempt Application Dismissed with Punitive Costs (EVENT_176)](./events/EVENT_176.md) | PERSON_001, PERSON_004, PERSON_005, ORG_001, ORG_002, ORG_003, ORG_004, ORG_020 |  | Labuschagne contempt judgment |
 | 2026-03-30 | [Notice of Application for Leave to Appeal Filed (EVENT_177)](./events/EVENT_177.md) | PERSON_001, PERSON_004, PERSON_005, ORG_020, ORG_031 |  | KF0019 leave-to-appeal notice (targets whole 26 Mar 2026 judgment and order) |
+| 2026-05-04 | [Leave-to-Appeal Judgment Dismisses Application (EVENT_179)](./events/EVENT_179.md) | PERSON_001, PERSON_004, PERSON_005, Labuschagne J | T-0 | 139F leave-to-appeal judgment; [identical transcription](./evidence/court/judgments/139F-faucitt-v-faucitt-leave-to-appeal-judgment-2026-05-04.identical-transcription.md) |

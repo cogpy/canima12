@@ -40,4 +40,5 @@ The notice frames the appeal as having both a **reasonable prospect of success**
 
 ## Related Events
 - [EVENT_176](./EVENT_176.md) — 26 March 2026 judgment and order attacked on appeal
+- [EVENT_179](./EVENT_179.md) — 4 May 2026 leave-to-appeal judgment dismissing the appeal attempt
 - [KF0019 Detailed Analysis](./KF0019_DETAILED_ANALYSIS.md) — 25 February 2026 contempt-stage record
