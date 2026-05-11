@@ -54,3 +54,15 @@ For civil and regulatory filings, the event exceeds the balance-of-probabilities
 ---
 
 *Integrated by the `/identical-transcribe -> /evidence-process(/skillm) -> /ksm-evolve(/regima-org-self) -> /optimal-cognitive-grip` workflow on 2026-05-11.*
+
+## Cycle 10 Structural Interpretation
+
+The KSM-LEX-DGen-Alexander Cycle 10 analysis treats this event as the **judicial closure and conduct-contrast center** for the March-May 2026 appeal sequence. For filing purposes, the event should be used strongly where the question is the leave-to-appeal outcome, clause 2.5 interpretation, costs chronology, or motion-proceedings proof. It should be used cautiously where the forum requires criminal-threshold proof, because criminal allegations must remain anchored in direct source documents showing intent, falsehood, money movement, or tax effect.
+
+- [Cycle 10 Report](../reports/KSM_LEX_ALEXANDER_CYCLE10_2026-05-11.md)
+- [Conduct-Contrast Schedule](../analysis/ksm-cycle10/CONDUCT_CONTRAST_SCHEDULE_2026-05-11.md)
+
+
+## Cycle 10 Structure-Preserving Analysis
+
+The KSM-LEX-DGen-Alexander Cycle 10 pass treats this event as the judicial-closure center for the March-May 2026 contempt-to-appeal sequence. Use the [Cycle 10 report](../reports/KSM_LEX_ALEXANDER_CYCLE10_2026-05-11.md) and [Conduct-Contrast Schedule](../analysis/ksm-cycle10/CONDUCT_CONTRAST_SCHEDULE_2026-05-11.md) when translating this judgment into civil, regulatory, or criminal filing posture. The operative rule is threshold discipline: the judgment is strong civil-procedural proof of leave-to-appeal failure and contextual corroboration for regulatory/criminal filings, but direct source evidence remains necessary for criminal intent, POPIA conduct, tax effect, and commercial-crime elements.

@@ -1,6 +1,6 @@
 # Case 2025-137857: Revenue Stream Hijacking & Trust Fraud — Evidence Repository
 
-**Last Updated:** 2026-05-11 (v23.1 — Leave-to-Appeal Judgment Outcome Layer)
+**Last Updated:** 2026-05-11 (v23.2 — KSM-LEX-DGen-Alexander Cycle 10 Conduct-Contrast Layer)
 
 This repository provides a comprehensive, evidence-based view of Case 2025-137857, a multi-faceted criminal enterprise involving revenue stream hijacking, trust fraud, identity theft, and corporate malfeasance with a total quantum exceeding **R63,000,000**.
 
@@ -13,6 +13,8 @@ This repository provides a comprehensive, evidence-based view of Case 2025-13785
 > **v23 Data:** Entities v27 | Events v31 (94 events incl. April 2026 reconsideration) | Relations v32
 >
 > **v23.1 Leave-to-Appeal Judgment Outcome (2026-05-11):** [EVENT_179 Leave-to-Appeal Judgment](./events/EVENT_179.md) | [Outcome Note](./filings/LEAVE_TO_APPEAL_JUDGMENT_OUTCOME_NOTE_2026-05-11.md) | [Integration Report](./reports/LEAVE_TO_APPEAL_JUDGMENT_INTEGRATION_2026-05-11.md) | [Identical Transcription](./evidence/court/judgments/139F-faucitt-v-faucitt-leave-to-appeal-judgment-2026-05-04.identical-transcription.md)
+>
+> **v23.2 KSM-LEX-DGen-Alexander Cycle 10 (2026-05-11):** [Cycle 10 Index](./cycle10/) | [Cycle 10 Report](./reports/KSM_LEX_ALEXANDER_CYCLE10_2026-05-11.md) | [Conduct-Contrast Schedule](./analysis/ksm-cycle10/CONDUCT_CONTRAST_SCHEDULE_2026-05-11.md)
 >
 > **v23 Burden Assessment:** Civil 74.0% (EXCEEDED) | Criminal 73.0% adversarial (STRONG — needs independent affidavits) | All regulatory filings EXCEED threshold
 >
@@ -108,6 +110,7 @@ This financial motive explains:
 - **[Master Timeline](./timeline.md)** - Complete chronological event sequence, now directly anchored to the 16 March 2026 supplementary affidavit, the 26 March 2026 contempt judgment, the 30 March 2026 appeal notice, and the 4 May 2026 leave-to-appeal judgment outcome
 - **[Leave-to-Appeal Opposition Note](./filings/LEAVE_TO_APPEAL_OPPOSITION_NOTE_2026-04-21.md)** - Filing-ready respondent-side answer under section 17
 - **[Leave-to-Appeal Judgment Outcome Note](./filings/LEAVE_TO_APPEAL_JUDGMENT_OUTCOME_NOTE_2026-05-11.md)** - Post-outcome filing note anchored to the 4 May 2026 dismissal of leave to appeal
+- **[KSM-LEX-DGen-Alexander Cycle 10 Report](./reports/KSM_LEX_ALEXANDER_CYCLE10_2026-05-11.md)** - Judicial closure and conduct-contrast interpretation for the 4 May 2026 leave-to-appeal judgment
 - **[Entities Directory](./entities/index.md)** - All persons and organizations, including updated March 2026 entity-layer notes
 - **[Events Directory](./events/)** - Detailed event documentation, including EVENT_178 (supplementary affidavit), judgment-upgraded EVENT_176, and EVENT_177
 - **[Relations Analysis](./relations/index.md)** - Entity relationship mapping, including appeal-stage representation, the March 2026 contempt-to-appeal cluster, the affidavit-driven entity-normalization issue, and the latest composite legal-simulation discipline rules

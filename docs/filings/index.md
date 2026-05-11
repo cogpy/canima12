@@ -1,11 +1,13 @@
 # Legal Filings Index
 
-**Last Updated:** 2026-04-22 (v22.0 — Dedicated Templates Folder Layer)
+**Last Updated:** 2026-05-11 (v23.2 — KSM-LEX-DGen-Alexander Cycle 10 Conduct-Contrast Layer)
 
 > **v21 Pipeline:** `/fin-audit-za-v2(/evidence-process)` applied SOX 404/ICFR methodology, SA regulatory overlays (SARS, FICA, POCA, Companies Act 71/2008, PRECCA), and forensic evidence standards to all filings.  
 > **v21.1 Refinement Layer (2026-04-14):** Canonical entity references, timeline-anchor discipline, updated red-team critique, and a cross-filing addendum have been added on top of the v21 filing baseline. Use the live refinement artifacts below whenever a filing still points to an older direct version.  
 > **v21.6 Supplementary Affidavit Layer (2026-04-21):** A newly transcribed 16 March 2026 supplementary founding affidavit has been integrated as `EVENT_178`, together with an affidavit-specific refinement report, focused red-team critique, and rebuttal addendum. Use this layer whenever filings touch the Part B delinquency/probation theory, PF36/PF37 reliance, or the March 2026 RWD/RST respondent-number instability.  
 > **v21.7 Composite Legal-Simulation Layer (2026-04-21):** An `optimal-cognitive-grip` interpretation has now been applied to the `lex-digitwin-nn` workflow, producing a case-level methodology report and a filing-facing addendum that tighten threshold honesty, annexure control, entity precision, and process atomization across the live filing stack.
+> **v23.2 KSM-LEX-DGen-Alexander Layer (2026-05-11):** Cycle 10 adds a judicial-closure and conduct-contrast schedule for the 4 May 2026 leave-to-appeal judgment. Use it to replace predictive leave-to-appeal language with outcome language and to keep criminal-threshold allegations anchored to direct source evidence.
+> **v23.2 KSM-LEX-DGen-Alexander Cycle 10 (2026-05-11):** The 4 May 2026 leave-to-appeal judgment has been transformed into a conduct-contrast schedule. Use the Cycle 10 report and conduct schedule as the current post-judgment routing layer for appeal-stage, CIPC, POPIA, Commercial Crime, NPA, SARS, and costs materials.
 
 ---
 
@@ -47,6 +49,10 @@
 | **Direct-Judgment Appeal Rebuttal** | [2026-04-21](./APPEAL_REBUTTAL_ADDENDUM_2026-04-21_DIRECT_JUDGMENT.md) | Respondent-side answer anchored to the court's actual findings | **ACTIVE** |
 | **Leave-to-Appeal Opposition Note** | [2026-04-21](./LEAVE_TO_APPEAL_OPPOSITION_NOTE_2026-04-21.md) | Filing-ready respondent-side opposition under section 17 | **ACTIVE** |
 | **Leave-to-Appeal Opposition Framework** | [2026-04-20 / updated 2026-04-21](./LEAVE_TO_APPEAL_OPPOSITION_FRAMEWORK_2026-04-20.md) | Cross-filing impact and integration discipline | **ACTIVE** |
+| **Cycle 10 Judicial Closure Report** | [2026-05-11](../reports/KSM_LEX_ALEXANDER_CYCLE10_2026-05-11.md) | KSM-LEX-DGen-Alexander conduct-contrast layer for the dismissed leave-to-appeal judgment | **ACTIVE** |
+| **Cycle 10 Conduct-Contrast Schedule** | [2026-05-11](../analysis/ksm-cycle10/CONDUCT_CONTRAST_SCHEDULE_2026-05-11.md) | Forum-specific burden boundaries for judgment use | **ACTIVE** |
+| **Leave-to-Appeal Judgment Outcome Note** | [2026-05-11](./LEAVE_TO_APPEAL_JUDGMENT_OUTCOME_NOTE_2026-05-11.md) | Post-judgment closure note for EVENT 179 and the dismissed leave-to-appeal application | **ACTIVE** |
+| **KSM-LEX-DGen-Alexander Cycle 10** | [2026-05-11](../reports/KSM_LEX_ALEXANDER_CYCLE10_2026-05-11.md) | Conduct-contrast and burden-routing layer for post-judgment filing refinement | **ACTIVE** |
 | **Forensic Audit Memorandum** | [2026-04-20](./FORENSIC_AUDIT_MEMORANDUM_2026-04-20.md) | fin-audit-za-v2 control findings, deficiency mapping, filing impact | **ACTIVE** |
 | **Filing Refinement Addendum** | [v21.1 (2026-04-14)](./FILING_REFINEMENT_ADDENDUM_2026-04-14.md) | Canonical entities, timeline anchors, rebuttal language | **ACTIVE** |
 | **Red-Team Rebuttal Addendum** | [2026-04-21](./RED_TEAM_REBUTTAL_ADDENDUM_2026-04-21.md) | Latest defence-defeat language based on April 21 chronology/entity refinements | **ACTIVE** |
@@ -90,6 +96,7 @@ The v21 update applies the `/fin-audit-za-v2` SA forensic audit methodology to a
 | **Uniform Rules Template Library Layer (2026-04-22)** | Added a filing taxonomy, a comprehensive High Court template library, and a case-priority pack of the previously missing Rule 6 / 7 / 27 / 30 / 30A / 42 templates |
 | **Templates Folder Reorganization Layer (2026-04-22)** | Moved reusable template assets into `docs/filings/templates/`, generated individual template files by procedure category, and exposed a canonical templates hub for GitHub Pages navigation |
 | **Dedicated Templates Folder Layer (2026-04-22)** | Created a canonical `templates/` hierarchy with category subfolders, copied legacy template assets into canonical locations, and generated individual template files for the main Uniform Rules procedural families |
+| **Cycle 10 Judicial Closure Layer (2026-05-11)** | Added a KSM-LEX-DGen-Alexander Cycle 10 report, conduct-contrast schedule, relation-cluster closure update, and post-judgment filing-routing rules that route the 4 May 2026 leave-to-appeal judgment across civil, regulatory, and criminal filing burdens |
 | **SOX 404 Control Testing** | Applied ICFR methodology to financial control deficiencies |
 | **SA Regulatory Mapping** | Mapped all violations to SARS, FICA/POCA, Companies Act 71/2008, PRECCA |
 
@@ -145,6 +152,9 @@ The v21 update applies the `/fin-audit-za-v2` SA forensic audit methodology to a
 | Leave-to-Appeal Opposition Note | [View](./LEAVE_TO_APPEAL_OPPOSITION_NOTE_2026-04-21.md) |
 | Direct Judgment Integration Report | [View](../reports/JUDGMENT_DIRECT_EVIDENCE_INTEGRATION_2026-04-21.md) |
 | Leave-to-Appeal Opposition Framework | [View](./LEAVE_TO_APPEAL_OPPOSITION_FRAMEWORK_2026-04-20.md) |
+| Leave-to-Appeal Judgment Outcome Note | [View](./LEAVE_TO_APPEAL_JUDGMENT_OUTCOME_NOTE_2026-05-11.md) |
+| KSM-LEX-DGen-Alexander Cycle 10 Report | [View](../reports/KSM_LEX_ALEXANDER_CYCLE10_2026-05-11.md) |
+| Cycle 10 Conduct-Contrast Schedule | [View](../analysis/ksm-cycle10/CONDUCT_CONTRAST_SCHEDULE_2026-05-11.md) |
 | Forensic Audit Memorandum | [View](./FORENSIC_AUDIT_MEMORANDUM_2026-04-20.md) |
 | Supplementary Affidavit Red-Team Critique | [View](./SUPPLEMENTARY_FOUNDING_AFFIDAVIT_RED_TEAM_2026-04-21.md) |
 | Supplementary Affidavit Rebuttal Addendum | [View](./SUPPLEMENTARY_FOUNDING_AFFIDAVIT_REBUTTAL_2026-04-21.md) |
@@ -177,5 +187,6 @@ The v21 update applies the `/fin-audit-za-v2` SA forensic audit methodology to a
 
 
 
-> **2026-05-11 Outcome Layer:** The 4 May 2026 leave-to-appeal judgment is now preserved and indexed. Use [EVENT_179](../events/EVENT_179.md), the [Outcome Note](./LEAVE_TO_APPEAL_JUDGMENT_OUTCOME_NOTE_2026-05-11.md), and the [Integration Report](../reports/LEAVE_TO_APPEAL_JUDGMENT_INTEGRATION_2026-05-11.md) as the post-judgment closure layer for the appeal sequence.
+> **2026-05-11 Outcome Layer:** The 4 May 2026 leave-to-appeal judgment is now preserved and indexed. Use [EVENT_179](../events/EVENT_179.md), the [Outcome Note](./LEAVE_TO_APPEAL_JUDGMENT_OUTCOME_NOTE_2026-05-11.md), the [Integration Report](../reports/LEAVE_TO_APPEAL_JUDGMENT_INTEGRATION_2026-05-11.md), the [Cycle 10 KSM-LEX-DGen-Alexander Report](../reports/KSM_LEX_ALEXANDER_CYCLE10_2026-05-11.md), and the [Conduct-Contrast Schedule](../analysis/ksm-cycle10/CONDUCT_CONTRAST_SCHEDULE_2026-05-11.md) as the post-judgment closure layer for the appeal sequence.
 
+> **2026-05-11 Cycle 10 Conduct-Contrast Layer:** The [KSM-LEX-DGen-Alexander Cycle 10 Report](../reports/KSM_LEX_ALEXANDER_CYCLE10_2026-05-11.md) and [Conduct-Contrast Schedule](../analysis/ksm-cycle10/CONDUCT_CONTRAST_SCHEDULE_2026-05-11.md) now provide the current interpretive layer for the 4 May 2026 leave-to-appeal judgment. Use this layer to preserve burden-specific discipline when updating civil, regulatory, and criminal filing families.

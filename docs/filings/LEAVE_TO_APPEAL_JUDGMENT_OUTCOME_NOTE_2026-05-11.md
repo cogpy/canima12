@@ -32,3 +32,7 @@ The leave-to-appeal application was dismissed with costs on a party-and-party sc
 ---
 
 *Prepared by Manus AI for the live filing index on 2026-05-11.*
+
+## Cycle 10 Conduct-Contrast Use
+
+The outcome note should now be read with the [KSM-LEX-DGen-Alexander Cycle 10 report](../reports/KSM_LEX_ALEXANDER_CYCLE10_2026-05-11.md). Cycle 10 supplies the conduct-contrast layer requested by the prior Alexander cycle: allegation is paired with proof, judicial holding, filing use, and burden boundary. This is the recommended bridge between the raw judgment and any forum-specific filing revision.
