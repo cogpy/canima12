@@ -1,6 +1,6 @@
 # Case 2025-137857: Revenue Stream Hijacking & Trust Fraud — Evidence Repository
 
-**Last Updated:** 2026-05-18 (v23.5 — KSM-LEX-DGen-Alexander Cycle 13 The Void via Optimal Cognitive Grip)
+**Last Updated:** 2026-05-18 (v23.6 — KSM-LEX-DGen-Alexander Cycle 14 Positive Space via Optimal Cognitive Grip)
 
 This repository provides a comprehensive, evidence-based view of Case 2025-137857, a multi-faceted criminal enterprise involving revenue stream hijacking, trust fraud, identity theft, and corporate malfeasance with a total quantum exceeding **R63,000,000**.
 
@@ -21,6 +21,8 @@ This repository provides a comprehensive, evidence-based view of Case 2025-13785
 > **v23.4 KSM-LEX-DGen-Alexander Cycle 12 (2026-05-18):** [Cycle 12 Report](./reports/KSM_LEX_ALEXANDER_CYCLE12_2026-05-18.md) | [Living Structure Evaluation](./reports/LIVING_STRUCTURE_EVALUATION_CYCLE12_2026-05-18.md) | *Cross-Repository Synchronization (ad-res-j7)*
 >
 > **v23.5 KSM-LEX-DGen-Alexander Cycle 13 (2026-05-18):** [NPA Executive Master Summary](./filings/NPA_EXECUTIVE_MASTER_SUMMARY_2026-05-18.md) | [Cycle 13 Report](./reports/KSM_LEX_ALEXANDER_CYCLE13_2026-05-18.md) | [Red-Team Critique Cycle 13](./filings/RED_TEAM_CRITIQUE_NPA_SUMMARY_2026-05-18.md) | [Living Structure Evaluation](./reports/LIVING_STRUCTURE_EVALUATION_CYCLE13_2026-05-18.md)
+>
+> **v23.6 KSM-LEX-DGen-Alexander Cycle 14 (2026-05-18):** [NPA Annexure Index](./filings/NPA_ANNEXURE_INDEX_2026-05-18.md) | [Cycle 14 Report](./reports/KSM_LEX_ALEXANDER_CYCLE14_2026-05-18.md) | [Living Structure Evaluation](./reports/LIVING_STRUCTURE_EVALUATION_CYCLE14_2026-05-18.md)
 >
 > **v23 Burden Assessment:** Civil 74.0% (EXCEEDED) | Criminal 73.0% adversarial (STRONG — needs independent affidavits) | All regulatory filings EXCEED threshold
 >
