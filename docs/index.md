@@ -1,6 +1,6 @@
 # Case 2025-137857: Revenue Stream Hijacking & Trust Fraud — Evidence Repository
 
-**Last Updated:** 2026-05-18 (v23.3 — KSM-LEX-DGen-Alexander Cycle 11 Simplicity / Inner Calm)
+**Last Updated:** 2026-05-18 (v23.4 — KSM-LEX-DGen-Alexander Cycle 12 Not-Separateness via Optimal Cognitive Grip)
 
 This repository provides a comprehensive, evidence-based view of Case 2025-137857, a multi-faceted criminal enterprise involving revenue stream hijacking, trust fraud, identity theft, and corporate malfeasance with a total quantum exceeding **R63,000,000**.
 
@@ -17,6 +17,8 @@ This repository provides a comprehensive, evidence-based view of Case 2025-13785
 > **v23.2 KSM-LEX-DGen-Alexander Cycle 10 (2026-05-11):** [Cycle 10 Index](./cycle10/) | [Cycle 10 Report](./reports/KSM_LEX_ALEXANDER_CYCLE10_2026-05-11.md) | [Conduct-Contrast Schedule](./analysis/ksm-cycle10/CONDUCT_CONTRAST_SCHEDULE_2026-05-11.md)
 >
 > **v23.3 KSM-LEX-DGen-Alexander Cycle 11 (2026-05-18):** [Forum Routing Map](./filings/FORUM_ROUTING_MAP_2026-05-18.md) | [Cycle 11 Report](./reports/KSM_LEX_ALEXANDER_CYCLE11_2026-05-18.md) | [Red-Team Critique Cycle 11](./filings/RED_TEAM_CRITIQUE_CYCLE11_2026-05-18.md) | [Living Structure Evaluation](./reports/LIVING_STRUCTURE_EVALUATION_CYCLE11_2026-05-18.md)
+>
+> **v23.4 KSM-LEX-DGen-Alexander Cycle 12 (2026-05-18):** [Cycle 12 Report](./reports/KSM_LEX_ALEXANDER_CYCLE12_2026-05-18.md) | [Living Structure Evaluation](./reports/LIVING_STRUCTURE_EVALUATION_CYCLE12_2026-05-18.md) | *Cross-Repository Synchronization (ad-res-j7)*
 >
 > **v23 Burden Assessment:** Civil 74.0% (EXCEEDED) | Criminal 73.0% adversarial (STRONG — needs independent affidavits) | All regulatory filings EXCEED threshold
 >
