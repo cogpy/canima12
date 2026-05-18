@@ -2,7 +2,7 @@
 
 ## Overview
 
-This section contains the draft filings for the dispute over the domain name `regimaskin.co.za`, which was registered by a related party (Addarory (Pty) Ltd, owned by Rynette Farrar's son) on 29 May 2025, just 7 days after the company's Shopify e-commerce audit trails were deleted. The domain was then used to impersonate directors and divert revenue.
+This section contains the draft filings for the dispute over the domain name `regimaskin.co.za`, which was registered by a related party (Addarory (Pty) Ltd, owned by Rynette Farrar's son) on 29 May 2025, just 7 days after the company's Shopify e-commerce orders were secretly rerouted to Rynette Farrar's Pastel accounts. The domain was then used to impersonate directors and divert revenue.
 
 There are two parallel processes for this:
 

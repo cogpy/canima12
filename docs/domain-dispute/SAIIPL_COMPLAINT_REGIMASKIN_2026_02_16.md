@@ -91,7 +91,7 @@ The domain `regimaskin.co.za` is an abusive registration for the following reaso
 
 **(a) Registered to Disrupt Complainant's Business (Regulation 4(1)(c))**
 
-The domain was registered on **29 May 2025**, just 7 days after the Complainant's primary e-commerce audit trails on its Shopify platform were deleted. The domain was then used to create a parallel, unauthorized communication and sales channel, diverting customers and revenue away from the Complainant's legitimate infrastructure. This constitutes a textbook case of disruption.
+The domain was registered on **29 May 2025**, just 7 days after the Complainant's primary e-commerce audit trails on its Shopify platform were secretly rerouted to Rynette Farrar's Pastel accounts. The domain was then used to create a parallel, unauthorized communication and sales channel, diverting customers and revenue away from the Complainant's legitimate infrastructure. This constitutes a textbook case of disruption.
 
 **(b) Registered to Unfairly Attract Internet Users by Creating Confusion (Regulation 4(1)(d))**
 

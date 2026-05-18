@@ -22,7 +22,7 @@ It is hereby resolved by a majority of the Board of Directors of the Company tha
 
     *   **Grounds for Determination:**
         *   **Fraud on the Court:** Knowingly providing false and misleading information under oath to the High Court to obtain an ex parte interdict on 19 August 2025, constituting a gross abuse of his position and a breach of his fiduciary duties.
-        *   **Systematic Operational Sabotage:** Overseeing the deliberate dismantling of the Company’s core revenue-generating infrastructure, including the decommissioning of the Shopify e-commerce platform and the destruction of the automated fulfillment pipeline, thereby intentionally inflicting harm upon the Company.
+        *   **Systematic Operational Sabotage:** Overseeing the deliberate dismantling of the Company’s core revenue-generating infrastructure, including the secret rerouting of Shopify e-commerce orders to Rynette Farrar's Pastel accounts, severing the automated fulfillment pipeline, thereby intentionally inflicting harm upon the Company.
         *   **Abdication of Duty:** Failing to act in the best interests of the Company by allowing an unauthorised third party, Ms. Rynette Farrar, to misappropriate his identity and act on his behalf in all company matters, including the fraudulent transfer of critical financial systems.
 
 2.  **REMOVAL OF DIRECTOR:** In light of the above determination, Director Peter Andrew Faucitt is hereby **removed from the office of director** of Regima Worldwide Distribution (Pty) Ltd, and all its subsidiary and related entities, with immediate effect.

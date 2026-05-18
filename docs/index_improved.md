@@ -78,7 +78,7 @@ The timeline reveals coordinated action across three distinct crime categories:
 
 Two critical evidence destruction events demonstrating consciousness of guilt:
 
-- **May 22, 2025:** Shopify audit trail hijacking (platform destruction)
+- **May 22, 2025:** Shopify order rerouting to Pastel (audit trail severed)
 - **August 20, 2025:** Financial evidence concealment (cover-up operations)
 
 ### 4. Family Conspiracy Elements

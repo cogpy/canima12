@@ -145,7 +145,7 @@ The timeline reveals coordinated action across multiple crime categories:
 
 Critical evidence destruction events demonstrating consciousness of guilt:
 
-- **May 22, 2025:** Shopify audit trail hijacking (platform destruction)
+- **May 22, 2025:** Shopify order rerouting to Pastel (audit trail severed)
 - **August 20, 2025:** Financial evidence concealment (cover-up operations)
 - **June 10, 2025:** Bantjies dismisses audit request (fraud concealment)
 

@@ -229,7 +229,7 @@ All tax fraud must be understood within the context of the R18.75M Ketoni Invest
 | 2024-07 | Bantjies appointed trustee | Facilitates fraud | SF1 |
 | 2025-03-30 | 2 years expenses dumped | Artificial debt creation | SF2, JF03 |
 | 2025-04-14 | Bank letter for RWW diversion | Revenue concealment | JF05 |
-| 2025-05-22 | Shopify audit trail deleted | Evidence destruction | JF01 |
+| 2025-05-22 | Shopify orders secretly rerouted to Pastel | Evidence destruction | JF01 |
 | 2025-06-06 | Villa Via fraud exposed | Trigger for retaliation | SF3 |
 | 2025-06-07 | 15 cards cancelled | Sabotage creditor payments | JF08 |
 | 2025-06-10 | Bantjies dismisses audit | Fraud concealment | SF4 |
@@ -308,7 +308,7 @@ All tax fraud must be understood within the context of the R18.75M Ketoni Invest
 
 ### 7.3. Obstruction of Justice
 - **Audit dismissal:** Bantjies dismissed audit June 10, 2025
-- **Evidence destruction:** Shopify audit trail deleted May 22, 2025
+- **Evidence destruction:** Shopify orders secretly rerouted to Pastel May 22, 2025
 - **Criminal suppression:** ENS Africa suppressed info August 29, 2025
 
 ## 8. Relief Sought

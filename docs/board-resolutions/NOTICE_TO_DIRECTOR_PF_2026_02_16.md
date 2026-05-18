@@ -25,7 +25,7 @@ The Board will vote on the following resolution:
 The grounds for this proposed removal are your neglect and dereliction of the functions of a director, as evidenced by, but not limited to, the following conduct:
 
 1.  **Fraud on the High Court:** You swore under oath in an affidavit dated 19 August 2025 that your co-directors were making “unauthorized” transactions, when you had provable foreknowledge that this was false. This constitutes a gross abuse of your position and a breach of your fiduciary duties.
-2.  **Systematic Operational Sabotage:** You have overseen the deliberate dismantling of the Company’s core revenue-generating infrastructure, including the decommissioning of the Shopify e-commerce platform and the destruction of the automated fulfillment pipeline, thereby intentionally inflicting harm upon the Company.
+2.  **Systematic Operational Sabotage:** You have overseen the deliberate dismantling of the Company’s core revenue-generating infrastructure, including the secret rerouting of Shopify e-commerce orders to Rynette Farrar's Pastel accounts, severing the automated fulfillment pipeline, thereby intentionally inflicting harm upon the Company.
 3.  **Abdication of Duty:** You have failed to act in the best interests of the Company by allowing an unauthorised third party, Ms. Rynette Farrar, to misappropriate your identity and act on your behalf in all company matters.
 
 The full details and documentary evidence supporting these grounds are contained in the previously delivered notices **RWD/NOTICE/001** and **RWD/NOTICE/002**.

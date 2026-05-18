@@ -173,7 +173,7 @@ The evidence demonstrates that violations were **intentional** and part of a cal
 **Timeline Showing Intent:**
 - **March 30, 2025:** Expense dumping (using Sage system)
 - **April 14, 2025:** Bank letter (using Peter's identity)
-- **May 22, 2025:** Shopify audit trail deleted (7 days after confrontation)
+- **May 22, 2025:** Shopify orders secretly rerouted to Pastel (7 days after confrontation)
 - **June 7, 2025:** Card cancellations (1 day after fraud exposure)
 - **June 20, 2025:** Email instruction to redirect customers
 - **September 11, 2025:** Accounts emptied

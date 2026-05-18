@@ -216,7 +216,7 @@ The data model contains **25 entities** across five categories:
 **Escalation Trigger Analysis** (PHASE_003):
 - **Trigger Event**: EVENT_007 (2025-05-15) - Jacqui confronts Rynette about R1,035,000 debt
 - **Retaliation Sequence**:
-  - **7 days later** (2025-05-22): Shopify audit trail destruction (EVENT_009)
+  - **7 days later** (2025-05-22): Shopify order rerouting to Pastel (EVENT_009)
   - **14 days later** (2025-05-29): Fraudulent domain registration by Adderory (EVENT_010)
   - **23 days later** (2025-06-07): Secret card cancellations
 
@@ -335,7 +335,7 @@ The data model contains **25 entities** across five categories:
 ### 7.3 Critical Evidence Destruction Pattern
 
 **May 15, 2025**: Jacqui confronts Rynette (Trigger Event)  
-**May 22, 2025** (+7 days): Shopify audit trail destruction  
+**May 22, 2025** (+7 days): Shopify order rerouting to Pastel  
 **May 29, 2025** (+14 days): Fraudulent domain registration  
 **June 7, 2025** (+23 days): Secret card cancellations
 

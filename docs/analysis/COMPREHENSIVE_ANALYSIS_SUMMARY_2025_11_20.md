@@ -161,7 +161,7 @@ The case spans **8 distinct phases** over an 8-year period (2017-2025):
    - Settlement signing → Final cover-up operations
 
 2. **Evidence Destruction Pattern**
-   - May 22, 2025: Shopify audit trail destruction
+   - May 22, 2025: Shopify order rerouting to Pastel
    - August 20, 2025: Financial evidence concealment
    - June 10, 2025: Audit dismissal by Bantjies
 

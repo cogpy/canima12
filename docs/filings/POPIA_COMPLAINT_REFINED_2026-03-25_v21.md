@@ -10,7 +10,7 @@
 
 This criminal complaint is filed with the Information Regulator and the South African Police Service (SAPS) in terms of the Protection of Personal Information Act 4 of 2013 (POPIA). It details egregious violations of data privacy, identity fraud, and the destruction of audit trails by Peter Faucitt and Rynette Farrar.
 
-The v21 evidence incorporates the Answering Affidavit filed 14 March 2026, which introduces 31 annexures proving the forgery of the Sage transfer form and the deletion of Shopify access logs, as well as the 18 March 2026 Bantjies Complicity Brief detailing the 46-second secret forward.
+The v21 evidence incorporates the Answering Affidavit filed 14 March 2026, which introduces 31 annexures proving the forgery of the Sage transfer form and the secret rerouting of Shopify orders to Rynette Farrar's Pastel accounts, as well as the 18 March 2026 Bantjies Complicity Brief detailing the 46-second secret forward.
 
 ## 2. Suspects
 
@@ -27,8 +27,8 @@ The v21 evidence incorporates the Answering Affidavit filed 14 March 2026, which
 - **"pp Peter" Forgeries:** Rynette Farrar systematically forged the director's signature on official documents, including trust deed amendments (Annexure JF22).
 - **SARS eFiling Impersonation:** Rynette Farrar logged into the SARS eFiling platform using the credentials of Daniel Jacobus Bantjies.
 
-### 3.3 Section 19: Security Safeguards and Audit Trail Destruction
-- **Shopify Log Deletion:** Rynette Farrar deliberately deleted the Shopify access logs (Annexure JF17) to conceal the unauthorized access and revenue diversion.
+### 3.3 Section 19: Security Safeguards and Audit Trail Severance
+- **Shopify Order Rerouting:** Rynette Farrar deliberately and secretly rerouted Shopify orders to her own Pastel accounts on 22 May 2025 (Annexure JF17). This severed the audit trail from the perspective of the legitimate directors, concealing the unauthorized access and revenue diversion.
 
 ## 4. Evidence Index (v21 Updates)
 
@@ -36,7 +36,7 @@ The v21 evidence incorporates the Answering Affidavit filed 14 March 2026, which
 |----------|-------------|--------------------|
 | **JF13** | Sage Transfer Form (8 Jul 2024) | Proves unlawful access to accounting data; sworn before Commissioner of Oaths |
 | **JF13A** | Rynette emails (10-12 Jul 2024) | Proves foreknowledge of the API breakage caused by the unlawful access |
-| **JF17** | Shopify audit trail deletion | Proves destruction of security logs (s19 violation) |
+| **JF17** | Shopify order rerouting to Pastel | Proves severance of security logs and revenue diversion (s19 violation) |
 | **JF20** | Domain registration records | Proves digital identity hijacking |
 | **JF22** | Trust deed amendments | Proves identity fraud ("pp Peter" forgery) |
 | **EVENT_137** | Bantjies Secret Forward (26 May 2025) | Proves unlawful sharing of confidential family communications with unauthorized third party (Rynette) |

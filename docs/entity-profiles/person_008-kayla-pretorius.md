@@ -60,7 +60,7 @@
 ## Timeline Significance
 
 **22 May 2025:** Kayla's death  
-**22 May 2025:** Shopify audit trail destruction (attempted evidence destruction)  
+**22 May 2025:** Shopify order rerouting to Pastel (attempted evidence destruction)  
 **23 May 2025:** First evidence package created (immediate response)
 
 **Pattern:** Kayla's death triggered immediate business appropriation and evidence destruction attempts, but JF1 (the "Forensic Time Capsule") preserved the irrefutable truth.

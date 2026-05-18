@@ -53,7 +53,7 @@ The entities index contains 78 distinct entries with canonical IDs (PERSON_001 t
 ## Loophole 4: The POPIA Filing Still Needs Independent Platform Records
 
 ### Red-Team Critique
-The POPIA complaint relies heavily on the complainant's own email evidence and interpretation of system behaviour. The defence will argue that without independent platform records (Sage SA logs, Shopify access logs, SARS eFiling audit trail), the complaint is one-sided.
+The POPIA complaint relies heavily on the complainant's own email evidence and interpretation of system behaviour. The defence will argue that without independent platform records (Sage SA logs, Shopify order routing logs, SARS eFiling audit trail), the complaint is one-sided.
 
 ### Defeat Response
 The POPIA filing already notes this gap and requests subpoenas for the platform records. However, the filing should be strengthened by:

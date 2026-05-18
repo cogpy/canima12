@@ -222,7 +222,7 @@ This extension demonstrates:
 
 **Kayla Estate - Trigger Point:**
 - May 15, 2025 confrontation about R1.035M debt
-- Within 7 days: Shopify audit trail destruction
+- Within 7 days: Shopify order rerouting to Pastel
 - Within 14 days: Fraudulent domain registration
 - Within 23 days: Secret card cancellations
 - **Pattern:** Rapid escalation when fraud exposure threatened
