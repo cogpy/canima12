@@ -1,6 +1,6 @@
 # Case 2025-137857: Revenue Stream Hijacking & Trust Fraud — Evidence Repository
 
-**Last Updated:** 2026-05-11 (v23.2 — KSM-LEX-DGen-Alexander Cycle 10 Conduct-Contrast Layer)
+**Last Updated:** 2026-05-18 (v23.3 — KSM-LEX-DGen-Alexander Cycle 11 Simplicity / Inner Calm)
 
 This repository provides a comprehensive, evidence-based view of Case 2025-137857, a multi-faceted criminal enterprise involving revenue stream hijacking, trust fraud, identity theft, and corporate malfeasance with a total quantum exceeding **R63,000,000**.
 
@@ -15,6 +15,8 @@ This repository provides a comprehensive, evidence-based view of Case 2025-13785
 > **v23.1 Leave-to-Appeal Judgment Outcome (2026-05-11):** [EVENT_179 Leave-to-Appeal Judgment](./events/EVENT_179.md) | [Outcome Note](./filings/LEAVE_TO_APPEAL_JUDGMENT_OUTCOME_NOTE_2026-05-11.md) | [Integration Report](./reports/LEAVE_TO_APPEAL_JUDGMENT_INTEGRATION_2026-05-11.md) | [Identical Transcription](./evidence/court/judgments/139F-faucitt-v-faucitt-leave-to-appeal-judgment-2026-05-04.identical-transcription.md)
 >
 > **v23.2 KSM-LEX-DGen-Alexander Cycle 10 (2026-05-11):** [Cycle 10 Index](./cycle10/) | [Cycle 10 Report](./reports/KSM_LEX_ALEXANDER_CYCLE10_2026-05-11.md) | [Conduct-Contrast Schedule](./analysis/ksm-cycle10/CONDUCT_CONTRAST_SCHEDULE_2026-05-11.md)
+>
+> **v23.3 KSM-LEX-DGen-Alexander Cycle 11 (2026-05-18):** [Forum Routing Map](./filings/FORUM_ROUTING_MAP_2026-05-18.md) | [Cycle 11 Report](./reports/KSM_LEX_ALEXANDER_CYCLE11_2026-05-18.md) | [Red-Team Critique Cycle 11](./filings/RED_TEAM_CRITIQUE_CYCLE11_2026-05-18.md) | [Living Structure Evaluation](./reports/LIVING_STRUCTURE_EVALUATION_CYCLE11_2026-05-18.md)
 >
 > **v23 Burden Assessment:** Civil 74.0% (EXCEEDED) | Criminal 73.0% adversarial (STRONG — needs independent affidavits) | All regulatory filings EXCEED threshold
 >
@@ -44,6 +46,10 @@ This repository provides a comprehensive, evidence-based view of Case 2025-13785
 >
 > **v22.0 Templates Folder Layer (2026-04-22):** [Templates Hub](./filings/templates/index.md) | [Template Inventory](./filings/templates/TEMPLATE_INVENTORY_2026-04-22.md) | [Administrative Templates](./filings/templates/administrative/index.md) | [Motion Proceedings Templates](./filings/templates/motion_proceedings/index.md) | [Action Proceedings Templates](./filings/templates/action_proceedings/index.md) | [Appeals & Review Templates](./filings/templates/appeals_and_review/index.md)
 
+## 🧭 Start Here: Cycle 11 Forum Routing Map
+**[One-Page Forum Routing Map (2026-05-18)](./filings/FORUM_ROUTING_MAP_2026-05-18.md)**  
+*Use this map to find the correct filing, the three anchor facts, the applicable burden of proof, and the evidentiary cautions for any forum.*
+
 ## 🎯 CRITICAL: Ketoni ZAR 18.75M Payout - Central Financial Motive
 
 **BREAKING DISCOVERY:** A **ZAR 18.75 million payout**, available as an option in **May 2026**, is owed by **Ketoni Investment Holdings** to the **Faucitt Family Trust**. This revelation fundamentally recontextualizes all events since April 2023.
@@ -62,7 +68,11 @@ This financial motive explains:
 
 ---
 
-> **2026-04-21 Refinement Note:** The GitHub Pages surface now includes a **direct-judgment integration layer**, a filing-ready **opposition layer**, a **supplementary-affidavit layer**, and a new **composite legal-simulation layer** that applies an optimal-cognitive-grip reading to the lex-digitwin-nn workflow. Where older filing versions remain in place for historical continuity, use the live [Filings Index](./filings/index.md), [EVENT_176](./events/EVENT_176.md), [EVENT_177](./events/EVENT_177.md), [EVENT_178](./events/EVENT_178.md), the [Leave-to-Appeal Opposition Note](./filings/LEAVE_TO_APPEAL_OPPOSITION_NOTE_2026-04-21.md), the [Updated Opposition Framework](./filings/LEAVE_TO_APPEAL_OPPOSITION_FRAMEWORK_2026-04-20.md), the [Direct Judgment Integration Report](./reports/JUDGMENT_DIRECT_EVIDENCE_INTEGRATION_2026-04-21.md), the [Supplementary Affidavit Refinement Report](./reports/SUPPLEMENTARY_FOUNDING_AFFIDAVIT_REFINEMENT_2026-04-21.md), the [Supplementary Affidavit Red-Team Critique](./filings/SUPPLEMENTARY_FOUNDING_AFFIDAVIT_RED_TEAM_2026-04-21.md), the [Supplementary Affidavit Rebuttal](./filings/SUPPLEMENTARY_FOUNDING_AFFIDAVIT_REBUTTAL_2026-04-21.md), the [Optimal Cognitive Grip / LEX-DigiTwin-NN Report](./reports/OPTIMAL_COGNITIVE_GRIP_LEX_DIGITWIN_NN_2026-04-21.md), and the [Optimal Cognitive Grip / LEX-DigiTwin-NN Addendum](./filings/OPTIMAL_COGNITIVE_GRIP_LEX_DIGITWIN_NN_ADDENDUM_2026-04-21.md) as the current March 2026 refinement layer.
+> **Cycle 11 (2026-05-18):** Added the One-Page Forum Routing Map to reduce cognitive friction and ensure evidence is applied correctly across different legal forums and burdens of proof.
+
+**Cycle 10 (2026-05-11):** Integrated the 4 May 2026 leave-to-appeal judgment (Labuschagne J) dismissing the applicant's appeal with costs. This closes the immediate appellate-risk node and provides judicial confirmation that the contempt threshold was not met.
+
+**2026-04-21 Refinement Note:** The GitHub Pages surface now includes a **direct-judgment integration layer**, a filing-ready **opposition layer**, a **supplementary-affidavit layer**, and a new **composite legal-simulation layer** that applies an optimal-cognitive-grip reading to the lex-digitwin-nn workflow. Where older filing versions remain in place for historical continuity, use the live [Filings Index](./filings/index.md), [EVENT_176](./events/EVENT_176.md), [EVENT_177](./events/EVENT_177.md), [EVENT_178](./events/EVENT_178.md), the [Leave-to-Appeal Opposition Note](./filings/LEAVE_TO_APPEAL_OPPOSITION_NOTE_2026-04-21.md), the [Updated Opposition Framework](./filings/LEAVE_TO_APPEAL_OPPOSITION_FRAMEWORK_2026-04-20.md), the [Direct Judgment Integration Report](./reports/JUDGMENT_DIRECT_EVIDENCE_INTEGRATION_2026-04-21.md), the [Supplementary Affidavit Refinement Report](./reports/SUPPLEMENTARY_FOUNDING_AFFIDAVIT_REFINEMENT_2026-04-21.md), the [Supplementary Affidavit Red-Team Critique](./filings/SUPPLEMENTARY_FOUNDING_AFFIDAVIT_RED_TEAM_2026-04-21.md), the [Supplementary Affidavit Rebuttal](./filings/SUPPLEMENTARY_FOUNDING_AFFIDAVIT_REBUTTAL_2026-04-21.md), the [Optimal Cognitive Grip / LEX-DigiTwin-NN Report](./reports/OPTIMAL_COGNITIVE_GRIP_LEX_DIGITWIN_NN_2026-04-21.md), and the [Optimal Cognitive Grip / LEX-DigiTwin-NN Addendum](./filings/OPTIMAL_COGNITIVE_GRIP_LEX_DIGITWIN_NN_ADDENDUM_2026-04-21.md) as the current March 2026 refinement layer.
 
 ## 📊 Quick Navigation by Application
 

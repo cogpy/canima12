@@ -60,6 +60,10 @@ The 4 May 2026 judgment converts this relation cluster from an open appellate br
 
 For the full KSM-LEX-DGen-Alexander interpretation, use the [Cycle 10 report](../reports/KSM_LEX_ALEXANDER_CYCLE10_2026-05-11.md) and the [Conduct-Contrast Schedule](../analysis/ksm-cycle10/CONDUCT_CONTRAST_SCHEDULE_2026-05-11.md).
 
+## Cycle 11 Simplicity Layer
+
+To see how this closed cluster is routed across different legal forums and burdens of proof, consult the **[Cycle 11 One-Page Forum Routing Map](../filings/FORUM_ROUTING_MAP_2026-05-18.md)**.
+
 ## Cross-References
 
 - [Procedural Control-Seizure Cluster (August 2025)](./PROCEDURAL_CONTROL_SEIZURE_CLUSTER_2025-08.md)
