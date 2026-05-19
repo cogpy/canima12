@@ -5,8 +5,10 @@ title: Master Timeline
 
 # Master Timeline
 
-**Last Updated:** 2026-05-11
+**Last Updated:** 2026-05-19
 
+> **Cycle 15 Good Shape Correction (2026-05-19):** The 22 May 2025 EVENT_009 timeline entry is now expressed as **Shopify Order Rerouting to Pastel**. The live chronology should treat “audit-trail destruction” wording in older drafts as practical audit-trail severance/concealment unless platform forensic logs prove literal deletion.
+>
 > **Refinement Note (2026-04-14):** The timeline has been reviewed against the current entity and filing model. The most important chronology clusters for the next filing cycle are: **(i)** Ketoni motive and trustee-control preparation, **(ii)** June 2025 fraud exposure and retaliation, **(iii)** the August 2025 backdating/interdict sprint, and **(iv)** post-interdict extraction and contempt. See the detailed [Entity, Relation, Event, and Timeline Refinement Report](./reports/ENTITY_RELATION_EVENT_TIMELINE_REFINEMENT_2026-04-14.md).
 
 | Date | Event | Entities | T-Months | Evidence |
@@ -86,7 +88,7 @@ title: Master Timeline
 | 2025-05-15 | [Jacqui Confronts Rynette About R1,035,000 Debt (EVENT_007)](./events/EVENT_007.md) |  |  | EVENT007, JF01, JF03, JF08 |
 | 2025-05-15 | [Unauthorized Transfers (R850K+) (EVENT_008)](./events/EVENT_008.md) |  |  | EVENT008, JF01, JF03, JF04, JF07, JF10 |
 | 2025-05-15 | [EVENT_050 (EVENT_050)](./events/EVENT_050.md) |  |  | EVENT050, JF01, JF03, JF08, JF09 |
-| 2025-05-22 | [Shopify Audit Trail Hijacking (EVENT_009)](./events/EVENT_009.md) |  |  | EVENT009, JF01, JF02, JF03, JF07, SF06 |
+| 2025-05-22 | [Shopify Order Rerouting to Pastel (EVENT_009)](./events/EVENT_009.md) | PLATFORM_001; Pastel/Sage pathway; legitimate directors |  | EVENT009, JF01, JF02, JF03, JF07, SF06; [routing relation](./relations/SHOPIFY_PASTEL_ROUTING_2026_05_19.md) |
 | 2025-05-26 | [EVENT_137: Bantjies Secretly Forwards Family Communication to Rynette](./events/EVENT_137_BANTJIES_SECRET_FORWARD.md) | PERSON_005, PERSON_004, PERSON_001, PERSON_002, PERSON_003 |  | EVENT120, EVENT126, EVENT137 |
 | 2025-05-29 | [Domain Registration (Identity Fraud) (EVENT_010)](./events/EVENT_010.md) |  |  | EVENT010, JF01, JF02, JF03, JF07 |
 | 2025-06-06 | [Daniel Finalizes Fraud Reports (EVENT_011)](./events/EVENT_011.md) |  |  | EVENT011, JF03, JF08 |

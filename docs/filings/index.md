@@ -1,6 +1,6 @@
 # Legal Filings Index
 
-**Last Updated:** 2026-05-11 (v23.2 — KSM-LEX-DGen-Alexander Cycle 10 Conduct-Contrast Layer)
+**Last Updated:** 2026-05-19 (v23.3 — KSM-LEX-DGen-Alexander Cycle 15 Shopify/Pastel Good Shape Layer)
 
 > **v21 Pipeline:** `/fin-audit-za-v2(/evidence-process)` applied SOX 404/ICFR methodology, SA regulatory overlays (SARS, FICA, POCA, Companies Act 71/2008, PRECCA), and forensic evidence standards to all filings.  
 > **v21.1 Refinement Layer (2026-04-14):** Canonical entity references, timeline-anchor discipline, updated red-team critique, and a cross-filing addendum have been added on top of the v21 filing baseline. Use the live refinement artifacts below whenever a filing still points to an older direct version.  
@@ -8,6 +8,7 @@
 > **v21.7 Composite Legal-Simulation Layer (2026-04-21):** An `optimal-cognitive-grip` interpretation has now been applied to the `lex-digitwin-nn` workflow, producing a case-level methodology report and a filing-facing addendum that tighten threshold honesty, annexure control, entity precision, and process atomization across the live filing stack.
 > **v23.2 KSM-LEX-DGen-Alexander Layer (2026-05-11):** Cycle 10 adds a judicial-closure and conduct-contrast schedule for the 4 May 2026 leave-to-appeal judgment. Use it to replace predictive leave-to-appeal language with outcome language and to keep criminal-threshold allegations anchored to direct source evidence.
 > **v23.2 KSM-LEX-DGen-Alexander Cycle 10 (2026-05-11):** The 4 May 2026 leave-to-appeal judgment has been transformed into a conduct-contrast schedule. Use the Cycle 10 report and conduct schedule as the current post-judgment routing layer for appeal-stage, CIPC, POPIA, Commercial Crime, NPA, SARS, and costs materials.
+> **v23.3 KSM-LEX-DGen-Alexander Cycle 15 (2026-05-19):** EVENT_009 is now standardized as **Shopify Order Rerouting to Pastel**. Use the [Shopify/Pastel Burden Routing Note](./SHOPIFY_PASTEL_BURDEN_ROUTING_NOTE_2026-05-19.md) and [Cycle 15 correction matrix](../analysis/ksm-cycle15/SHOPIFY_PASTEL_GOOD_SHAPE_CORRECTION_MATRIX_2026-05-19.md) to replace over-broad deletion/destruction phrasing with practical audit-trail severance and platform-log preservation requests.
 
 ---
 
@@ -51,6 +52,8 @@
 | **Leave-to-Appeal Opposition Framework** | [2026-04-20 / updated 2026-04-21](./LEAVE_TO_APPEAL_OPPOSITION_FRAMEWORK_2026-04-20.md) | Cross-filing impact and integration discipline | **ACTIVE** |
 | **Cycle 10 Judicial Closure Report** | [2026-05-11](../reports/KSM_LEX_ALEXANDER_CYCLE10_2026-05-11.md) | KSM-LEX-DGen-Alexander conduct-contrast layer for the dismissed leave-to-appeal judgment | **ACTIVE** |
 | **Cycle 10 Conduct-Contrast Schedule** | [2026-05-11](../analysis/ksm-cycle10/CONDUCT_CONTRAST_SCHEDULE_2026-05-11.md) | Forum-specific burden boundaries for judgment use | **ACTIVE** |
+| **Cycle 15 Shopify/Pastel Burden Routing Note** | [2026-05-19](./SHOPIFY_PASTEL_BURDEN_ROUTING_NOTE_2026-05-19.md) | Filing-safe EVENT_009 language across civil, CIPC, POPIA, Commercial Crime, NPA, SARS, and SAICA use | **ACTIVE** |
+| **Cycle 15 Good Shape Correction Matrix** | [2026-05-19](../analysis/ksm-cycle15/SHOPIFY_PASTEL_GOOD_SHAPE_CORRECTION_MATRIX_2026-05-19.md) | Canonical correction from deletion/destruction wording to Shopify-to-Pastel rerouting and audit-trail severance | **ACTIVE** |
 | **Leave-to-Appeal Judgment Outcome Note** | [2026-05-11](./LEAVE_TO_APPEAL_JUDGMENT_OUTCOME_NOTE_2026-05-11.md) | Post-judgment closure note for EVENT 179 and the dismissed leave-to-appeal application | **ACTIVE** |
 | **KSM-LEX-DGen-Alexander Cycle 10** | [2026-05-11](../reports/KSM_LEX_ALEXANDER_CYCLE10_2026-05-11.md) | Conduct-contrast and burden-routing layer for post-judgment filing refinement | **ACTIVE** |
 | **Forensic Audit Memorandum** | [2026-04-20](./FORENSIC_AUDIT_MEMORANDUM_2026-04-20.md) | fin-audit-za-v2 control findings, deficiency mapping, filing impact | **ACTIVE** |
@@ -97,6 +100,7 @@ The v21 update applies the `/fin-audit-za-v2` SA forensic audit methodology to a
 | **Templates Folder Reorganization Layer (2026-04-22)** | Moved reusable template assets into `docs/filings/templates/`, generated individual template files by procedure category, and exposed a canonical templates hub for GitHub Pages navigation |
 | **Dedicated Templates Folder Layer (2026-04-22)** | Created a canonical `templates/` hierarchy with category subfolders, copied legacy template assets into canonical locations, and generated individual template files for the main Uniform Rules procedural families |
 | **Cycle 10 Judicial Closure Layer (2026-05-11)** | Added a KSM-LEX-DGen-Alexander Cycle 10 report, conduct-contrast schedule, relation-cluster closure update, and post-judgment filing-routing rules that route the 4 May 2026 leave-to-appeal judgment across civil, regulatory, and criminal filing burdens |
+| **Cycle 15 Shopify/Pastel Good Shape Layer (2026-05-19)** | Standardized EVENT_009 as Shopify Order Rerouting to Pastel, added a burden-routing filing note, and clarified that literal deletion should be treated as a forensic question unless platform logs prove it |
 | **SOX 404 Control Testing** | Applied ICFR methodology to financial control deficiencies |
 | **SA Regulatory Mapping** | Mapped all violations to SARS, FICA/POCA, Companies Act 71/2008, PRECCA |
 
@@ -139,6 +143,8 @@ The v21 update applies the `/fin-audit-za-v2` SA forensic audit methodology to a
 | Resource | Link |
 |----------|------|
 | Main GitHub Pages Home | [View](../index.md) |
+| Cycle 15 Shopify/Pastel Burden Routing Note | [View](./SHOPIFY_PASTEL_BURDEN_ROUTING_NOTE_2026-05-19.md) |
+| Cycle 15 Good Shape Correction Matrix | [View](../analysis/ksm-cycle15/SHOPIFY_PASTEL_GOOD_SHAPE_CORRECTION_MATRIX_2026-05-19.md) |
 | Application 1: Civil and Criminal | [View](../application-1-civil-criminal.md) |
 | Application 2: CIPC and POPIA | [View](../application-2-cipc-popia.md) |
 | Application 3: Commercial Crime and Tax Fraud | [View](../application-3-commercial-crime-tax-fraud.md) |

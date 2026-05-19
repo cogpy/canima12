@@ -1,6 +1,6 @@
 # Case 2025-137857: Revenue Stream Hijacking & Trust Fraud — Evidence Repository
 
-**Last Updated:** 2026-05-18 (v23.6 — KSM-LEX-DGen-Alexander Cycle 14 Positive Space via Optimal Cognitive Grip)
+**Last Updated:** 2026-05-19 (v23.7 — KSM-LEX-DGen-Alexander Cycle 15 Shopify/Pastel Good Shape Correction)
 
 This repository provides a comprehensive, evidence-based view of Case 2025-137857, a multi-faceted criminal enterprise involving revenue stream hijacking, trust fraud, identity theft, and corporate malfeasance with a total quantum exceeding **R63,000,000**.
 
@@ -23,6 +23,8 @@ This repository provides a comprehensive, evidence-based view of Case 2025-13785
 > **v23.5 KSM-LEX-DGen-Alexander Cycle 13 (2026-05-18):** [NPA Executive Master Summary](./filings/NPA_EXECUTIVE_MASTER_SUMMARY_2026-05-18.md) | [Cycle 13 Report](./reports/KSM_LEX_ALEXANDER_CYCLE13_2026-05-18.md) | [Red-Team Critique Cycle 13](./filings/RED_TEAM_CRITIQUE_NPA_SUMMARY_2026-05-18.md) | [Living Structure Evaluation](./reports/LIVING_STRUCTURE_EVALUATION_CYCLE13_2026-05-18.md)
 >
 > **v23.6 KSM-LEX-DGen-Alexander Cycle 14 (2026-05-18):** [NPA Annexure Index](./filings/NPA_ANNEXURE_INDEX_2026-05-18.md) | [Cycle 14 Report](./reports/KSM_LEX_ALEXANDER_CYCLE14_2026-05-18.md) | [Living Structure Evaluation](./reports/LIVING_STRUCTURE_EVALUATION_CYCLE14_2026-05-18.md)
+>
+> **v23.7 KSM-LEX-DGen-Alexander Cycle 15 (2026-05-19):** [Shopify/Pastel Burden Routing Note](./filings/SHOPIFY_PASTEL_BURDEN_ROUTING_NOTE_2026-05-19.md) | [Good Shape Correction Matrix](./analysis/ksm-cycle15/SHOPIFY_PASTEL_GOOD_SHAPE_CORRECTION_MATRIX_2026-05-19.md) | [Cycle 15 Report](./reports/KSM_LEX_ALEXANDER_CYCLE15_2026-05-19.md) | [Living Structure Evaluation](./reports/LIVING_STRUCTURE_EVALUATION_CYCLE15_2026-05-19.md) | [DreamGen Narrative](./reports/DREAMGEN_NARRATIVE_CYCLE15_2026-05-19.md) | [Routing Relation](./relations/SHOPIFY_PASTEL_ROUTING_2026_05_19.md)
 >
 > **v23 Burden Assessment:** Civil 74.0% (EXCEEDED) | Criminal 73.0% adversarial (STRONG — needs independent affidavits) | All regulatory filings EXCEED threshold
 >
@@ -52,11 +54,18 @@ This repository provides a comprehensive, evidence-based view of Case 2025-13785
 >
 > **v22.0 Templates Folder Layer (2026-04-22):** [Templates Hub](./filings/templates/index.md) | [Template Inventory](./filings/templates/TEMPLATE_INVENTORY_2026-04-22.md) | [Administrative Templates](./filings/templates/administrative/index.md) | [Motion Proceedings Templates](./filings/templates/motion_proceedings/index.md) | [Action Proceedings Templates](./filings/templates/action_proceedings/index.md) | [Appeals & Review Templates](./filings/templates/appeals_and_review/index.md)
 
-## 🧭 Start Here: Cycle 11 Forum Routing Map
+## Start Here: Cycle 15 Shopify/Pastel Good Shape Correction
+**[Shopify/Pastel Burden Routing Note (2026-05-19)](./filings/SHOPIFY_PASTEL_BURDEN_ROUTING_NOTE_2026-05-19.md)**  
+*Use this note whenever EVENT_009 is cited. The canonical live formulation is Shopify Order Rerouting to Pastel and practical audit-trail severance, with literal deletion treated as a forensic question unless platform logs prove it.*
+
+**[DreamGen Narrative Cycle 15 — The Event Learns Its True Shape](./reports/DREAMGEN_NARRATIVE_CYCLE15_2026-05-19.md)**  
+*Use this narrative as the organizational-memory seal for the Cycle 15 Good Shape transformation.*
+
+## Start Here: Cycle 11 Forum Routing Map
 **[One-Page Forum Routing Map (2026-05-18)](./filings/FORUM_ROUTING_MAP_2026-05-18.md)**  
 *Use this map to find the correct filing, the three anchor facts, the applicable burden of proof, and the evidentiary cautions for any forum.*
 
-## 🎯 CRITICAL: Ketoni ZAR 18.75M Payout - Central Financial Motive
+## Critical: Ketoni ZAR 18.75M Payout - Central Financial Motive
 
 **BREAKING DISCOVERY:** A **ZAR 18.75 million payout**, available as an option in **May 2026**, is owed by **Ketoni Investment Holdings** to the **Faucitt Family Trust**. This revelation fundamentally recontextualizes all events since April 2023.
 
@@ -123,13 +132,13 @@ This financial motive explains:
 - **[Narrative Overview](./narrative-overview.md)** - Plain-language summary of the case, timeline, and laws broken
 - **[Ketoni Payout Timeline](./ketoni-timeline.md)** - Central financial motive (ZAR 18.75M May 2026)
 - **[Comprehensive Evidence Index](./evidence-index-enhanced.md)** - All evidence categorized and cross-referenced
-- **[Master Timeline](./timeline.md)** - Complete chronological event sequence, now directly anchored to the 16 March 2026 supplementary affidavit, the 26 March 2026 contempt judgment, the 30 March 2026 appeal notice, and the 4 May 2026 leave-to-appeal judgment outcome
+- **[Master Timeline](./timeline.md)** - Complete chronological event sequence, now directly anchored to the 16 March 2026 supplementary affidavit, the 26 March 2026 contempt judgment, the 30 March 2026 appeal notice, the 4 May 2026 leave-to-appeal judgment outcome, and the Cycle 15 EVENT_009 Shopify/Pastel correction
 - **[Leave-to-Appeal Opposition Note](./filings/LEAVE_TO_APPEAL_OPPOSITION_NOTE_2026-04-21.md)** - Filing-ready respondent-side answer under section 17
 - **[Leave-to-Appeal Judgment Outcome Note](./filings/LEAVE_TO_APPEAL_JUDGMENT_OUTCOME_NOTE_2026-05-11.md)** - Post-outcome filing note anchored to the 4 May 2026 dismissal of leave to appeal
 - **[KSM-LEX-DGen-Alexander Cycle 10 Report](./reports/KSM_LEX_ALEXANDER_CYCLE10_2026-05-11.md)** - Judicial closure and conduct-contrast interpretation for the 4 May 2026 leave-to-appeal judgment
 - **[Entities Directory](./entities/index.md)** - All persons and organizations, including updated March 2026 entity-layer notes
 - **[Events Directory](./events/)** - Detailed event documentation, including EVENT_178 (supplementary affidavit), judgment-upgraded EVENT_176, and EVENT_177
-- **[Relations Analysis](./relations/index.md)** - Entity relationship mapping, including appeal-stage representation, the March 2026 contempt-to-appeal cluster, the affidavit-driven entity-normalization issue, and the latest composite legal-simulation discipline rules
+- **[Relations Analysis](./relations/index.md)** - Entity relationship mapping, including appeal-stage representation, the March 2026 contempt-to-appeal cluster, the affidavit-driven entity-normalization issue, the latest composite legal-simulation discipline rules, and the Cycle 15 Shopify/Pastel routing relation
 - **[March 2026 Contempt-to-Appeal Cluster](./relations/MARCH_2026_CONTEMPT_APPEAL_CLUSTER.md)** - Direct judgment to leave-to-appeal procedural escalation bridge
 - **[Procedural Control-Seizure Cluster](./relations/PROCEDURAL_CONTROL_SEIZURE_CLUSTER_2025-08.md)** - August 2025 backdating / affidavit / filing / order / extraction bridge
 - **[Coordinated Retaliation Pattern](./relations/COORDINATED_RETALIATION.md)** - June 2025 fraud-exposure to payment-redirection retaliation sequence

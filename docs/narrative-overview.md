@@ -7,7 +7,7 @@ permalink: /narrative-overview/
 # Case 2025-137857: The Revenue Stream Hijacking
 ## A Narrative Overview of the Evidence
 
-**Last Updated:** 2026-03-25
+**Last Updated:** 2026-05-19 (Cycle 15 Shopify/Pastel Good Shape correction)
 
 This document provides a plain-language, chronological narrative of Case 2025-137857. It synthesizes thousands of pages of evidence, financial records, and court filings into an accessible overview of how a multi-million Rand revenue stream was hijacked, and how the South African legal system was weaponized to cover it up.
 
@@ -57,10 +57,10 @@ The response to Daniel's whistleblowing was immediate, aggressive, and retaliato
 
 Less than 24 hours after Daniel submitted the fraud report, on **7 June 2025**, Peter Faucitt cancelled all of Daniel's corporate bank cards. This forced over **R1,062,446.04** in legitimate company expenses onto Daniel's personal accounts, financially crippling him.
 
-Simultaneously, a massive cover-up operation was launched to destroy the audit trails:
+Simultaneously, a cover-up and access-impairment operation was launched to sever practical audit continuity:
 - **17 June 2025:** Rynette instructed De Novo (an accounting firm) to create fraudulent loan accounts.
 - **25 June 2025:** De Novo created backdated 2019 financial statements—six years after the fact—to justify missing funds.
-- **July 2025:** The perpetrators weaponized the control they had seized a year prior (via the 8 July 2024 forged Sage transfer form), severing API connections and locking Daniel out of the financial systems. Shopify access logs were deliberately deleted to hide the diversion of e-commerce revenue **(Evidence: JF13, JF17)**.
+- **July 2025:** The perpetrators weaponized the control they had seized a year prior (via the 8 July 2024 forged Sage transfer form), severing API connections and locking Daniel out of the financial systems. Under the Cycle 15 correction, the live formulation is that Shopify order visibility and accounting continuity were impaired through rerouting or concealment into the Pastel/Sage pathway; literal deletion of logs should be pleaded only if platform forensic logs prove it **(Evidence: JF13, JF17; see EVENT_009 and the Cycle 15 Shopify/Pastel burden-routing note)**.
 
 ---
 
@@ -88,7 +88,7 @@ The evidence compiled in the `ad-res-j7` repository demonstrates severe violatio
 #### 2. Protection of Personal Information Act 4 of 2013 (POPIA)
 - **Section 105 (Unlawful Access):** Breached by Rynette Farrar and Peter Faucitt through the submission of the forged Sage transfer form to hijack accounting data.
 - **Section 107 (Identity Fraud):** Breached by Rynette Farrar through systematic "pp Peter" forgeries on official documents and logging into SARS eFiling using Bantjies' credentials.
-- **Section 19 (Security Safeguards):** Breached by the deliberate deletion of Shopify access logs to destroy the audit trail.
+- **Section 19 (Security Safeguards):** Potentially breached by failures to preserve access, security, and audit continuity across Shopify and Pastel/Sage systems; literal deletion remains a forensic sub-issue for platform logs.
 
 #### 3. Common Law and Criminal Offenses
 - **Perjury and Fraud on the Court:** Committed by Peter Faucitt and Daniel Bantjies by swearing to founding and confirmatory affidavits on 13 August 2025 that contained deliberate, material non-disclosures designed to mislead the High Court.

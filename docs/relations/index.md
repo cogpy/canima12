@@ -5,8 +5,10 @@ title: Relations Index
 
 # Relations Index
 
-**Last Updated:** 2026-05-11
+**Last Updated:** 2026-05-19
 
+> **Cycle 15 Good Shape Correction (2026-05-19):** The new [Shopify Order Rerouting to Pastel relation](./SHOPIFY_PASTEL_ROUTING_2026_05_19.md) links EVENT_009 to platform ownership, Pastel/Sage reconciliation, practical audit-trail severance, and forum-specific burden gradients.
+>
 > **Cycle 10 Judicial Closure Note (2026-05-11):** The [March 2026 Contempt-to-Appeal Cluster](./MARCH_2026_CONTEMPT_APPEAL_CLUSTER.md) now includes the 4 May 2026 leave-to-appeal judgment, the [Cycle 10 KSM-LEX-DGen-Alexander report](../reports/KSM_LEX_ALEXANDER_CYCLE10_2026-05-11.md), and the [Conduct-Contrast Schedule](../analysis/ksm-cycle10/CONDUCT_CONTRAST_SCHEDULE_2026-05-11.md). Use these surfaces to distinguish allegation, proof, judicial holding, and forum-specific filing burden.
 
 > **Refinement Note (2026-04-14):** Relation pages should now preferentially cite the normalized entity records introduced in the 2026-04-14 refinement cycle: **PERSON_006** for Linda Kruger, **ORG_017** for Ketoni, **ORG_019** for Pottas Attorneys, **ORG_006** for the operating RegimA SA victim stream, and **ORG_014** for the legal company-record view. See the [Entity, Relation, Event, and Timeline Refinement Report](../reports/ENTITY_RELATION_EVENT_TIMELINE_REFINEMENT_2026-04-14.md).
@@ -44,6 +46,7 @@ title: Relations Index
 | SAGE_SYSTEM_CAPTURE | [Sage Accounting System Capture](./SAGE_SYSTEM_CAPTURE.md) |  | EVENT105, EVENT110, SF11 |
 | SARS_CREDENTIAL_ABUSE | [SARS Credential Abuse Network](./SARS_CREDENTIAL_ABUSE.md) |  | EVENT103, EVENT107 |
 | SARS_FLAGGED_INVOICES | [SARS Flagged Invoices — February 2025](./SARS_FLAGGED_INVOICES.md) |  | EVENT126 |
+| SHOPIFY_PASTEL_ROUTING_2026_05_19 | [Shopify Order Rerouting to Pastel](./SHOPIFY_PASTEL_ROUTING_2026_05_19.md) | PLATFORM_001, RegimA Zone Ltd, Pastel/Sage pathway, legitimate directors | EVENT_009, Cycle 15 correction matrix |
 | STOCK2SHOP_DISRUPTION | [Stock2Shop Platform Disruption](./STOCK2SHOP_DISRUPTION.md) |  |  |
 | STOCK_ADJUSTMENT_FRAUD | [Stock Adjustment Fraud — R4.2M Discrepancy](./STOCK_ADJUSTMENT_FRAUD.md) |  |  |
 | TRUST_CAPTURE_SEQUENCE | [Relation: Trust Capture Sequence](./TRUST_CAPTURE_SEQUENCE.md) |  | EVENT103, EVENT104, EVENT105, EVENT107, EVENT108, EVENT114, EVENT115, EVENT117, SF15 |
