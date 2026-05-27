@@ -1,6 +1,6 @@
 # Case 2025-137857: Revenue Stream Hijacking & Trust Fraud — Evidence Repository
 
-**Last Updated:** 2026-05-19 (v23.7 — KSM-LEX-DGen-Alexander Cycle 15 Shopify/Pastel Good Shape Correction)
+**Last Updated:** 2026-05-27 (v23.8 — KSM-LEX-DGen-Alexander Cycle 16 Rule 6(12)(c) Reconsideration Matrix)
 
 This repository provides a comprehensive, evidence-based view of Case 2025-137857, a multi-faceted criminal enterprise involving revenue stream hijacking, trust fraud, identity theft, and corporate malfeasance with a total quantum exceeding **R63,000,000**.
 
@@ -25,6 +25,8 @@ This repository provides a comprehensive, evidence-based view of Case 2025-13785
 > **v23.6 KSM-LEX-DGen-Alexander Cycle 14 (2026-05-18):** [NPA Annexure Index](./filings/NPA_ANNEXURE_INDEX_2026-05-18.md) | [Cycle 14 Report](./reports/KSM_LEX_ALEXANDER_CYCLE14_2026-05-18.md) | [Living Structure Evaluation](./reports/LIVING_STRUCTURE_EVALUATION_CYCLE14_2026-05-18.md)
 >
 > **v23.7 KSM-LEX-DGen-Alexander Cycle 15 (2026-05-19):** [Shopify/Pastel Burden Routing Note](./filings/SHOPIFY_PASTEL_BURDEN_ROUTING_NOTE_2026-05-19.md) | [Good Shape Correction Matrix](./analysis/ksm-cycle15/SHOPIFY_PASTEL_GOOD_SHAPE_CORRECTION_MATRIX_2026-05-19.md) | [Cycle 15 Report](./reports/KSM_LEX_ALEXANDER_CYCLE15_2026-05-19.md) | [Living Structure Evaluation](./reports/LIVING_STRUCTURE_EVALUATION_CYCLE15_2026-05-19.md) | [DreamGen Narrative](./reports/DREAMGEN_NARRATIVE_CYCLE15_2026-05-19.md) | [Routing Relation](./relations/SHOPIFY_PASTEL_ROUTING_2026_05_19.md)
+>
+> **v23.8 KSM-LEX-DGen-Alexander Cycle 16 (2026-05-27):** [Rule 6(12)(c) Reconsideration KSM Report](./analysis/ksm-cycle16/F012_RULE6_12C_KSM_LEX_DGEN_ALEXANDER_REPORT_2026-05-27.md) | [Entities/Relations/Events JSON](./analysis/ksm-cycle16/F012_RULE6_12C_ENTITIES_RELATIONS_EVENTS_2026-05-27.json) | [Transcription Package](../transcriptions/F012-rule6-12c-reconsideration-application/) | [Audit Schedule TODO](./analysis/ksm-cycle16/TODO_AUDIT_CONTRADICTION_SCHEDULE.md)
 >
 > **v23 Burden Assessment:** Civil 74.0% (EXCEEDED) | Criminal 73.0% adversarial (STRONG — needs independent affidavits) | All regulatory filings EXCEED threshold
 >
@@ -53,6 +55,10 @@ This repository provides a comprehensive, evidence-based view of Case 2025-13785
 > **v21.9 Uniform Rules Template Layer (2026-04-22):** [Template Taxonomy](./filings/templates/reference/UNIFORM_RULES_TEMPLATE_TAXONOMY_2026-04-22.md) | [Template Library](./filings/templates/reference/UNIFORM_RULES_TEMPLATE_LIBRARY_2026-04-22.md) | [Case-Priority Missing Templates](./filings/templates/reference/CASE_PRIORITY_MISSING_TEMPLATES_2026-04-22.md)
 >
 > **v22.0 Templates Folder Layer (2026-04-22):** [Templates Hub](./filings/templates/index.md) | [Template Inventory](./filings/templates/TEMPLATE_INVENTORY_2026-04-22.md) | [Administrative Templates](./filings/templates/administrative/index.md) | [Motion Proceedings Templates](./filings/templates/motion_proceedings/index.md) | [Action Proceedings Templates](./filings/templates/action_proceedings/index.md) | [Appeals & Review Templates](./filings/templates/appeals_and_review/index.md)
+
+## Start Here: Cycle 16 Rule 6(12)(c) Reconsideration Evidence Matrix
+**[Rule 6(12)(c) KSM-LEX-DGen-Alexander Report (2026-05-27)](./analysis/ksm-cycle16/F012_RULE6_12C_KSM_LEX_DGEN_ALEXANDER_REPORT_2026-05-27.md)**  
+*Use this report to navigate the reconsideration application as a proportionality, governance-restoration, financial-transparency, and forum-routing evidence center. The source package preserves both PDF copies and the page-separated transcription.*
 
 ## Start Here: Cycle 15 Shopify/Pastel Good Shape Correction
 **[Shopify/Pastel Burden Routing Note (2026-05-19)](./filings/SHOPIFY_PASTEL_BURDEN_ROUTING_NOTE_2026-05-19.md)**  
@@ -94,6 +100,8 @@ This financial motive explains:
 ### Application 1: Civil & Criminal Actions
 **[View Full Application →](./application-1-civil-criminal.md)**
 
+**Cycle 16 Update:** [Rule 6(12)(c) Reconsideration Matrix](./analysis/ksm-cycle16/F012_RULE6_12C_KSM_LEX_DGEN_ALEXANDER_REPORT_2026-05-27.md) links the F012 application to civil proportionality, governance restoration, and financial-transparency relief.
+
 | Category | Status | Evidence Strength |
 |----------|--------|-------------------|
 | Civil Claims (50% burden) | ✅ EXCEEDED | Conclusive |
@@ -105,6 +113,8 @@ This financial motive explains:
 ### Application 2: CIPC & POPIA Complaints
 **[View Full Application →](./application-2-cipc-popia.md)**
 
+**Cycle 16 Update:** [Structured entities/relations/events](./analysis/ksm-cycle16/F012_RULE6_12C_ENTITIES_RELATIONS_EVENTS_2026-05-27.json) identifies role-status, director/member, CIPC, and information-access issues for complaint refinement.
+
 | Violation Type | Status | Key Sections |
 |----------------|--------|--------------|
 | Companies Act Violations | ✅ DOCUMENTED | s76(3), s77, s214 |
@@ -115,6 +125,8 @@ This financial motive explains:
 
 ### Application 3: Commercial Crime & Tax Fraud
 **[View Full Application →](./application-3-commercial-crime-tax-fraud.md)**
+
+**Cycle 16 Update:** The F012 matrix treats bank transfers, legal-fee payments, customer-payment redirection, and VAT/accounting issues as investigation leads requiring independent source schedules before criminal-proof assertions.
 
 | Crime Category | Status | Evidence |
 |----------------|--------|----------|

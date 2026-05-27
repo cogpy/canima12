@@ -1,0 +1,268 @@
+{
+  "document_id": "F012_RULE6_12C_RECONSIDERATION_APPLICATION",
+  "analysis_id": "KSM_LEX_DGEN_ALEXANDER_2026_05_27",
+  "source_package": "transcriptions/F012-rule6-12c-reconsideration-application",
+  "source_order_note": "Both PDF copies place internal affidavit page 41 before internal affidavit page 40, followed by internal page 42. The source order is preserved and should be cited with this caveat.",
+  "living_structure_score": 0.7946,
+  "principal_thesis": "The interim order should be reconsidered or varied because, on the applicant's version, a preservatory ex parte order has evolved into an indefinite exclusionary governance, financial-information, litigation-pressure, and patrimonial-prejudice mechanism.",
+  "entities": [
+    {
+      "id": "PERSON_JACQUELINE_FAUCITT",
+      "name": "Jacqueline Faucitt",
+      "type": "person",
+      "roles": ["applicant", "director/member/shareholder claimant", "deponent"],
+      "evidence_function": "Party seeking reconsideration, regulated governance participation, financial transparency, and patrimonial protection."
+    },
+    {
+      "id": "PERSON_PETER_FAUCITT",
+      "name": "Peter Andrew Faucitt",
+      "type": "person",
+      "roles": ["first respondent", "alleged controller of operational and financial exclusion"],
+      "evidence_function": "Central counterparty whose alleged conduct is said to convert the interim order into an exclusionary governance mechanism."
+    },
+    {
+      "id": "PERSON_DANIEL_FAUCITT",
+      "name": "Daniel James Faucitt",
+      "type": "person",
+      "roles": ["second respondent"],
+      "evidence_function": "Referenced in relation to alleged transaction and broader business/family context."
+    },
+    {
+      "id": "PERSON_REINETTE_FARRAR",
+      "name": "Reinette Farrar",
+      "type": "person",
+      "roles": ["bookkeeper", "alleged ABSA account controller", "related protection-order actor"],
+      "evidence_function": "Relevant to account-control, workplace-access, and operational-conflict allegations."
+    },
+    {
+      "id": "ORG_REGIMA_WORLDWIDE",
+      "name": "RegimA Worldwide Distribution (Pty) Ltd",
+      "type": "company",
+      "roles": ["third respondent"],
+      "evidence_function": "Company account, creditor, and financial-transparency evidence center."
+    },
+    {
+      "id": "ORG_REGIMA_SKIN",
+      "name": "RegimA Skin Treatments CC",
+      "type": "close_corporation",
+      "roles": ["fourth respondent"],
+      "evidence_function": "Relevant to account-transfer, legal-fee payment, remuneration, dividend, and loan-account allegations."
+    },
+    {
+      "id": "ORG_VILLA_VIA_ARCADIA",
+      "name": "Villa Via Arcadia No 2 CC",
+      "type": "close_corporation",
+      "roles": ["fifth respondent"],
+      "evidence_function": "Relevant to loan-account/drawdown and payment evidence."
+    },
+    {
+      "id": "ORG_STRATEGIC_LOGISTICS",
+      "name": "Strategic Logistics CC",
+      "type": "close_corporation",
+      "roles": ["sixth respondent"],
+      "evidence_function": "Relevant to alleged R500,000 transaction and logistics/stock context."
+    },
+    {
+      "id": "BANK_FNB",
+      "name": "FirstRand Bank Ltd t/a First National Bank",
+      "type": "bank",
+      "roles": ["seventh respondent"],
+      "evidence_function": "Mandate, account-access, and consolidated-report evidence center."
+    },
+    {
+      "id": "BANK_ABSA",
+      "name": "ABSA Bank Limited",
+      "type": "bank",
+      "roles": ["eighth respondent"],
+      "evidence_function": "Relevant to alleged ABSA account control and financial-transparency issues."
+    },
+    {
+      "id": "REGULATOR_CIPC",
+      "name": "Companies and Intellectual Property Commission",
+      "type": "regulator",
+      "roles": ["ninth respondent", "Companies Act governance context"],
+      "evidence_function": "Relevant to role-status proof and Companies Act complaint routing."
+    }
+  ],
+  "relations": [
+    {
+      "id": "REL_DIRECTOR_MEMBER_SHAREHOLDER_INTEREST",
+      "from": "PERSON_JACQUELINE_FAUCITT",
+      "to": ["ORG_REGIMA_WORLDWIDE", "ORG_REGIMA_SKIN", "ORG_VILLA_VIA_ARCADIA", "ORG_STRATEGIC_LOGISTICS"],
+      "type": "governance_and_patrimonial_interest",
+      "evidence_function": "Supports locus standi for governance participation and financial-information access."
+    },
+    {
+      "id": "REL_UNILATERAL_CONTROL_ALLEGATION",
+      "from": "PERSON_PETER_FAUCITT",
+      "to": ["ORG_REGIMA_WORLDWIDE", "ORG_REGIMA_SKIN", "ORG_VILLA_VIA_ARCADIA", "ORG_STRATEGIC_LOGISTICS"],
+      "type": "alleged_control",
+      "evidence_function": "Supports proportionality, variation, and independent-oversight relief."
+    },
+    {
+      "id": "REL_BANK_MANDATE_INDEPENDENCE",
+      "from": "BANK_FNB",
+      "to": ["PERSON_JACQUELINE_FAUCITT", "PERSON_PETER_FAUCITT"],
+      "type": "banking_authority",
+      "evidence_function": "Undermines any assumption that all banking action required joint or unilateral respondent control, subject to documentary verification."
+    },
+    {
+      "id": "REL_FINANCIAL_INFORMATION_WITHHOLDING",
+      "from": ["PERSON_PETER_FAUCITT", "ORG_REGIMA_WORLDWIDE", "ORG_REGIMA_SKIN", "ORG_VILLA_VIA_ARCADIA", "ORG_STRATEGIC_LOGISTICS"],
+      "to": "PERSON_JACQUELINE_FAUCITT",
+      "type": "alleged_information_exclusion",
+      "evidence_function": "Supports disclosure, oversight, and regulated participation relief."
+    },
+    {
+      "id": "REL_LITIGATION_RESOURCE_ASYMMETRY",
+      "from": ["ORG_REGIMA_SKIN", "ORG_VILLA_VIA_ARCADIA", "PERSON_PETER_FAUCITT"],
+      "to": "litigation_events",
+      "type": "alleged_company_funded_litigation_advantage",
+      "evidence_function": "Supports financial-abuse, balance-of-convenience, and prejudice arguments."
+    },
+    {
+      "id": "REL_CUSTOMER_PAYMENT_REDIRECTION",
+      "from": "PERSON_PETER_FAUCITT",
+      "to": "customer_payment_channels",
+      "type": "alleged_payment_redirection",
+      "evidence_function": "Supports financial transparency and commercial-crime investigation leads, pending source-document verification."
+    },
+    {
+      "id": "REL_PROPERTY_STOCK_CONFLICT",
+      "from": "stock_facility_at_matrimonial_home",
+      "to": ["PERSON_JACQUELINE_FAUCITT", "PERSON_PETER_FAUCITT"],
+      "type": "operational_conflict",
+      "evidence_function": "Supports narrow property-access and stock-collection variation relief."
+    }
+  ],
+  "events": [
+    {
+      "id": "EVT_2025_06_07_BANK_CARD_CANCELLATION",
+      "date": "2025-06-07",
+      "description": "Applicant alleges that business bank cards were claimed/cancelled before later-discovered July discrepancies.",
+      "forum_relevance": ["Rule 6(12)(c)", "civil", "financial transparency"]
+    },
+    {
+      "id": "EVT_2025_06_18_FNB_MANDATE_EMAIL",
+      "date": "2025-06-18",
+      "description": "FNB relationship manager allegedly confirmed that directors could act independently unless the mandate had changed.",
+      "forum_relevance": ["Rule 6(12)(c)", "bank mandate", "governance"]
+    },
+    {
+      "id": "EVT_2025_07_16_R500K_TRANSFER",
+      "date": "2025-07-16",
+      "description": "R500,000 transfer allegedly made by the Second Respondent from Strategic Logistics to himself.",
+      "forum_relevance": ["Rule 6(12)(c)", "commercial crime lead", "financial chronology"]
+    },
+    {
+      "id": "EVT_2025_08_19_EX_PARTE_INTERIM_ORDER",
+      "date": "2025-08-19",
+      "description": "Interim order granted ex parte by Khumalo J.",
+      "forum_relevance": ["Rule 6(12)(c)", "civil procedure"]
+    },
+    {
+      "id": "EVT_2025_08_26_ENS_PAYMENT",
+      "date": "2025-08-26",
+      "description": "R300,000 allegedly paid from Villa Via Arcadia to ENS.",
+      "forum_relevance": ["litigation asymmetry", "financial transparency"]
+    },
+    {
+      "id": "EVT_2025_09_11_ACCOUNT_TRANSFERS",
+      "date": "2025-09-11",
+      "description": "Approximately R10 million allegedly transferred from company current accounts; specific Villa Via and RegimA Skin transfers alleged.",
+      "forum_relevance": ["oversight", "commercial crime lead", "financial disclosure"]
+    },
+    {
+      "id": "EVT_2025_09_11_ELLIOT_PAYMENT",
+      "date": "2025-09-11",
+      "description": "R90,000 allegedly paid from RegimA Skin Treatments to Elliot Attorneys.",
+      "forum_relevance": ["litigation asymmetry", "financial disclosure"]
+    },
+    {
+      "id": "EVT_2025_11_CONTEMPT_PATTERN",
+      "date": "2025-11",
+      "description": "Repeated contempt-related proceedings allegedly instituted after the interim order.",
+      "forum_relevance": ["proportionality", "urgency", "litigation pressure"]
+    },
+    {
+      "id": "EVT_2026_03_11_AUDIT_COMPLETED",
+      "date": "2026-03-11",
+      "description": "Forensic audit allegedly completed.",
+      "forum_relevance": ["changed circumstances", "Rule 6(12)(c)"]
+    },
+    {
+      "id": "EVT_2026_03_18_AUDIT_DISCLOSED",
+      "date": "2026-03-18",
+      "description": "Audit report allegedly became known to the applicant through a supplementary affidavit.",
+      "forum_relevance": ["urgency chronology", "changed circumstances"]
+    },
+    {
+      "id": "EVT_2026_05_04_LEAVE_TO_APPEAL_JUDGMENT",
+      "date": "2026-05-04",
+      "description": "Leave-to-appeal judgment allegedly received.",
+      "forum_relevance": ["urgency explanation", "procedural chronology"]
+    },
+    {
+      "id": "EVT_2026_05_11_STOCK_LETTER",
+      "date": "2026-05-11",
+      "description": "Correspondence allegedly received concerning stock-take interference, improper supply, and lock changes.",
+      "forum_relevance": ["operational variation", "property safety"]
+    },
+    {
+      "id": "EVT_2026_05_15_STOCK_DEMAND_THREATS",
+      "date": "2026-05-15",
+      "description": "First Respondent allegedly demanded immediate stock release and made further threats.",
+      "forum_relevance": ["operational variation", "urgency"]
+    },
+    {
+      "id": "EVT_2026_05_21_CLIENT_CIRCULAR",
+      "date": "2026-05-21",
+      "description": "Circular allegedly redirected clients to different payment arrangements.",
+      "forum_relevance": ["financial transparency", "commercial crime lead", "urgency"]
+    },
+    {
+      "id": "EVT_2026_06_09_RECONSIDERATION_HEARING",
+      "date": "2026-06-09",
+      "description": "Notice of Motion seeks enrolment for reconsideration.",
+      "forum_relevance": ["Rule 6(12)(c)", "procedural endpoint"]
+    }
+  ],
+  "forum_routing": [
+    {
+      "forum": "High Court Rule 6(12)(c) reconsideration",
+      "support_level": "strong",
+      "burden_posture": "civil balance/procedural discretion; above 50% working coherence",
+      "recommended_next_step": "Prepare one-page relief-evidence matrix and chronology."
+    },
+    {
+      "forum": "Civil patrimonial/divorce response",
+      "support_level": "strong",
+      "burden_posture": "civil balance; schedules required",
+      "recommended_next_step": "Link financial-disclosure and loan-account schedules."
+    },
+    {
+      "forum": "Companies Act / CIPC complaint",
+      "support_level": "medium-high",
+      "burden_posture": "administrative/regulatory complaint threshold; requires role records and resolutions",
+      "recommended_next_step": "Add CIPC role records, MOIs, and governance correspondence."
+    },
+    {
+      "forum": "POPIA criminal complaint",
+      "support_level": "medium",
+      "burden_posture": "requires specific data-processing proof beyond F012 alone",
+      "recommended_next_step": "Cross-reference domain, email, and personal-information processing evidence from the broader corpus."
+    },
+    {
+      "forum": "Commercial crime submission",
+      "support_level": "medium",
+      "burden_posture": "investigation-ready leads; criminal proof requires independent source records",
+      "recommended_next_step": "Create transaction schedule with bank statements and beneficial-recipient mapping."
+    },
+    {
+      "forum": "NPA/SARS tax-fraud report",
+      "support_level": "preliminary-to-medium",
+      "burden_posture": "requires VAT, SARS, ledger, audit, and accounting source records",
+      "recommended_next_step": "Treat F012 as lead material until tax/accounting exhibits are assembled."
+    }
+  ]
+}
