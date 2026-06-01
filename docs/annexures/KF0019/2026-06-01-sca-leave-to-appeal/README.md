@@ -16,3 +16,7 @@ The PDF has no embedded text layer. The transcription was prepared from rendered
 ## Timeline Linkage
 
 This filing is indexed as [EVENT_180](../../../events/EVENT_180.md): **KF0019 Supreme Court of Appeal Leave-to-Appeal Application Filed (1 June 2026)**.
+
+## Analysis and recommended actions
+
+- [Analysis of 1 June 2026 SCA leave-to-appeal application and recommended actions](20260601084507289_sca_analysis_recommended_actions.md)
