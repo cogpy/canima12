@@ -4,76 +4,101 @@
 **Underlying case:** Peter Andrew Faucitt v Daniel Faucitt and Jacqueline Faucitt, High Court case no. 2025/137857  
 **Opposing parties:** Daniel Faucitt and Jacqueline Faucitt  
 **Petitioner:** Peter Andrew Faucitt  
-**Draft date:** 2026-06-01  
+**Matter:** Peter Andrew Faucitt v Daniel Faucitt and Jacqueline Faucitt, High Court case no. 2025/137857  
+**Bundle version:** v33 consolidated complete draft  
+**Draft date:** 2026-06-01, consolidated 2026-06-01  
 **Prepared by:** Manus AI
+
+> **Verification note.** This draft consolidates the most complete historical repository versions into a single working filing. It is not legal advice and must be verified against the court file, source annexures, page numbers, service addresses, prescribed forms, commissioning requirements and forum-specific filing rules before signature or submission.
+
+
+## Consolidated source lineage
+
+This v33 opposition retains the v32 SCA-specific structure because the 1 June 2026 petition is the controlling event for this filing. It expands that structure with the KF0019 transcription, the SCA analysis report, the leave-to-appeal opposition note, the Rule 42 consolidation and the burden-of-proof distinction between appellate contempt issues and separate investigative referrals.[1] [2] [3] [7]
 
 ## Introduction
 
-This is a complete draft opposition to Peter Andrew Faucitt's 1 June 2026 petition to the Supreme Court of Appeal. The petition seeks to revive a dismissed contempt application. The respondents oppose the petition because it does not meet the section 17 leave-to-appeal threshold and does not identify a compelling reason for appellate intervention.[1] [2] [3] [7]
+The respondents oppose Peter Andrew Faucitt’s 1 June 2026 petition to the Supreme Court of Appeal. The petition seeks to revive contempt relief after the High Court declined to find breach, wilfulness and *mala fides*. The petition should be refused because it does not meet the section 17 threshold and because contempt cannot safely be used to expand an ambiguous or disputed foundation order into punitive relief.[1] [2] [3] [14] [15]
+
+This opposition is confined to the appellate question. The respondents separately prepare a Rule 42/common-law rescission application directed at the foundation order itself and separate criminal/regulatory referrals directed at investigation. The SCA need not decide those collateral issues to refuse the petition; it need only conclude that the proposed appeal has no reasonable prospect of disturbing the High Court’s contempt outcome and presents no compelling reason for appellate intervention.[14] [15]
 
 ## Preliminary matters to verify before filing
 
 | Matter | Required verification |
 |---|---|
-| Filing date and service date | Confirm the date on which the petition was lodged and served. |
-| SCA rule timetable | Confirm the applicable period for opposition and any required format. |
-| Condonation | Identify whether the petitioner seeks condonation or whether respondents must raise lateness/non-compliance. |
-| Annexure pagination | Ensure that SCA page references align to the official record, not only the repository transcript. |
+| SCA filing timetable | Confirm the date of service, deadline for opposition, form of response and whether condonation is required. |
+| Record completeness | Confirm that all references are to the official SCA record and not only repository transcriptions. |
+| Petition posture | Identify whether the petition seeks ordinary leave, special leave, condonation, costs relief or any combination. |
+| Respondent authority | Confirm whether both Daniel and Jacqueline file jointly, separately, or through attorneys. |
+| Parallel proceedings | Decide whether to disclose the Rule 42 filing as pending, intended or annexed, depending on timing. |
 
 ## Main answer to the petition
 
-The petition fails because it does not overcome the High Court's decisive findings on contempt. The petitioner had to establish the order, knowledge, non-compliance and the basis for wilful and *mala fide* disobedience. The High Court accepted the existence of the order and knowledge, but found that breach and wilfulness were not proved. That finding is fatal to contempt relief.[2] [3] [8]
+The petition fails at the threshold stage. In contempt proceedings, the applicant must establish the order, service or knowledge, non-compliance and the factual basis for wilful and *mala fide* disobedience. The High Court’s refusal of contempt relief was not a technicality: it followed from the absence of proof of breach and wilfulness on the record before it.[2] [3] [15]
 
-The petition attempts to expand the meaning of paragraph 2.5 of the foundation order. That approach should be rejected. A broad, uncertain or operationally contested reading of an order is not a safe basis for punitive contempt. If the order is unclear, the correct remedy is clarification or rescission, not quasi-criminal punishment.
+The petition attempts to reinterpret paragraph 2.5 of the foundation order broadly enough to capture disputed operational, business-continuity and professional conduct. That approach is legally unsafe. Where an order is ambiguous, contested or dependent on unresolved governance facts, the correct path is clarification, variation or rescission. It is not quasi-criminal punishment through contempt.
 
-## Section 17 analysis
+## Section 17 threshold analysis
 
 | Section 17 issue | Opposition response |
 |---|---|
-| Reasonable prospects | Another court would not reasonably find contempt on a record where breach and wilfulness were not proved. |
-| Compelling reason | The matter is fact-bound and does not raise a novel legal issue requiring SCA intervention. |
-| Interests of justice | The interests of justice favour finality and the disciplined separation of appeal, rescission and criminal/regulatory processes. |
-| Costs issue | The punitive-costs challenge may be the petitioner's strongest point, but it does not justify reviving the contempt merits. |
+| Reasonable prospects of success | Another court would not reasonably find contempt where the petition still depends on an expanded reading of the order and unresolved factual disputes. |
+| Compelling reason | The petition is fact-bound. It does not raise a novel legal question requiring SCA intervention. |
+| Interests of justice | The interests of justice favour finality of the contempt dismissal, preservation of the Rule 42 route for the foundation order and referral of regulatory matters to proper forums. |
+| Costs | Any discrete costs issue can be separated from the contempt merits; it does not justify reviving punitive contempt relief. |
+| Record sufficiency | A petition resting on selective or incomplete factual material should not be used to bypass the evidentiary discipline required in contempt proceedings. |
 
-## Response to core grounds
+## Response to petition themes
 
-| Petition theme | Respondents' response |
+| Petition theme | Respondents’ consolidated answer |
 |---|---|
-| Alleged misapplication of *Fakie* | *Fakie* does not remove the need to prove non-compliance. The evidential burden on wilfulness arises only after breach is established. |
-| Alleged factual misdirection | The petition asks the SCA to re-evaluate disputed operational facts in motion proceedings, which is not a proper basis for special appellate intervention. |
-| Alleged breach by stock or training conduct | The conduct is disputed, context-dependent and reasonably explained. It does not establish wilful and *mala fide* contempt. |
-| Costs | If necessary, costs can be considered separately, but the contempt dismissal should stand. |
+| Alleged misapplication of *Fakie* | *Fakie* does not eliminate the need to prove non-compliance. The evidential burden on wilfulness arises only after breach is established.[15] |
+| Alleged factual misdirection | The petition asks the appellate court to revisit contested operational facts in motion proceedings. That is not a proper basis for special appellate intervention. |
+| Alleged breach by stock, training or business conduct | The conduct is context-dependent and reasonably explained on the available record. It does not establish wilful and *mala fide* contempt. |
+| Reliance on the foundation order | If the order is unclear or materially defective, the correct remedy is Rule 42/common-law rescission, not appellate contempt expansion. |
+| Continued prejudice | Any legitimate commercial prejudice should be resolved by ordinary civil, corporate or regulatory remedies supported by a complete record. |
 
 ## Relationship to Rule 42 rescission
 
-The respondents are also preparing a Rule 42/common-law rescission application. That application attacks the foundation order directly. The SCA opposition does not depend on the rescission application being decided first. The petition should fail on the contempt record even if the foundation order is assumed to exist. The rescission application provides an additional reason not to expand the order through appellate contempt proceedings.[3]
+The Rule 42/common-law rescission application attacks the foundation order directly. The SCA opposition does not depend on rescission being granted first. The petition should fail even if the order is assumed to exist, because contempt relief still required proof of breach and wilfulness. Rescission is nevertheless relevant because it confirms that the foundation order’s scope, origin and disclosure basis remain contested and should not be enlarged by appellate contempt proceedings.[8] [10]
 
 ## Draft order sought
 
-The respondents ask that the petition be dismissed or refused, that any condonation application be refused or, if granted, that leave/special leave still be refused, and that the respondents receive costs on an appropriate scale.
+The respondents ask that the petition be dismissed or refused; that any condonation application be refused or, if condonation is granted, that leave or special leave nevertheless be refused; that the petitioner be directed to pay costs on an appropriate scale; and that no finding in the SCA opposition should prejudice the respondents’ right to pursue Rule 42 rescission, criminal referrals, CIPC complaints, SARS/NPA tax referrals or POPIA complaints in the proper forums.
 
-## Core evidence schedule
+## Common evidence schedule
 
-| Evidence item | Description | Principal use |
+| Evidence item | Description | Principal use across the bundle |
 |---|---|---|
-| E1 | August 2025 foundation order and the papers on which it was sought | Tests the validity, scope and disclosure basis of the order. |
-| E2 | March 2026 contempt judgment and order | Shows that breach, wilfulness and *mala fides* were not established on the contempt record. |
-| E3 | SCA petition dated 1 June 2026 and the identical transcript | Shows the continued attempt to revive contempt relief and the legal theory advanced by Peter Andrew Faucitt. |
-| E4 | Banking, mandate, FNB, company-authority and operational records | Tests whether the foundation-order narrative omitted material governance and economic-control facts. |
-| E5 | Email, attorney correspondence, court-service and chronology records | Shows knowledge, timing, foreknowledge, persistence and whether disputed assertions continued after contradictory records existed. |
-| E6 | Existing void-ab-initio, contempt-evidence and rescission workpapers in the repository | Provides the structured evidence backbone and cross-reference trail. |
+| E1 | August 2025 foundation order and the application papers on which it was sought | Tests validity, disclosure, scope and the later attempt to use the order as a contempt platform.[1] |
+| E2 | March 2026 contempt judgment and order | Shows that the High Court did not find breach, wilfulness or *mala fides* established on the contempt record.[2] [3] |
+| E3 | SCA petition dated 1 June 2026, together with the identical transcription and analysis report | Shows the continued attempt to revive contempt relief after the contempt application failed.[1] [2] [3] |
+| E4 | Banking mandates, FNB communications, company-authority documents and operational-control records | Tests whether the foundation narrative omitted or misdescribed governance and economic-control facts.[4] [5] [6] |
+| E5 | Email, attorney correspondence, court-service records and chronology entries | Establishes timing, knowledge, persistence and whether disputed assertions continued after contradictory documents existed.[6] [7] |
+| E6 | Historical void-ab-initio, Rule 42, perjury, tax, CIPC, POPIA and commercial-crime workpapers | Supplies the consolidated evidence map and historical draft lineage used to generate this v33 bundle.[8] [9] [10] [11] [12] [13] |
+
 
 ## Verification and filing note
 
-This is a complete draft prepared from the repository evidence record. It is not a substitute for advice from admitted attorneys with the complete court file. Before submission, the filing party must verify case numbers, party descriptions, service addresses, page references, annexure numbers, deadlines, commissioning requirements and forum-specific filing rules.
+Before filing, this document must be converted to the SCA-required format, aligned to official pagination, signed by the appropriate opposing party or attorneys and checked against the SCA rules. If the SCA form requires concise heads rather than an affidavit-style response, this draft should be reduced into a focused opposition note while preserving the section 17, contempt and procedural-separation structure.
 
 ## References
 
-[1]: ../../annexures/KF0019/2026-06-01-sca-leave-to-appeal/ "KF0019 SCA leave-to-appeal evidence dossier, 1 June 2026"
-[2]: ../../annexures/KF0019/2026-06-01-sca-leave-to-appeal/20260601084507289_identical_transcription.md "Identical transcription of the SCA petition, 1 June 2026"
-[3]: ../../annexures/KF0019/2026-06-01-sca-leave-to-appeal/20260601084507289_sca_analysis_recommended_actions.md "SCA petition analysis and recommended action report"
-[4]: ../LEAVE_TO_APPEAL_OPPOSITION_NOTE_2026-04-21.md "Leave-to-appeal opposition note, 21 April 2026"
-[5]: ../../events/EVENT_180.md "EVENT_180 — SCA petition, 1 June 2026"
-[6]: ../../events/ "Evidence chronology index"
-[7]: https://www.saflii.org/za/legis/consol_act/sca2013224/ "Superior Courts Act 10 of 2013"
-[8]: https://www.saflii.org/za/cases/ZASCA/2006/52.html "Fakie NO v CCII Systems (Pty) Ltd [2006] ZASCA 52"
+[1]: ../../annexures/KF0019/2026-06-01-sca-leave-to-appeal/ "KF0019 SCA leave-to-appeal evidence dossier, 1 June 2026"  
+[2]: ../../annexures/KF0019/2026-06-01-sca-leave-to-appeal/20260601084507289_identical_transcription.md "Identical transcription of the SCA petition, 1 June 2026"  
+[3]: ../../annexures/KF0019/2026-06-01-sca-leave-to-appeal/20260601084507289_sca_analysis_recommended_actions.md "SCA petition analysis and recommended action report"  
+[4]: ../../events/EVENT_180.md "EVENT_180 — SCA petition, 1 June 2026"  
+[5]: ../../events/ "Evidence chronology index"  
+[6]: ../../timeline.md "Repository master timeline"  
+[7]: ../LEAVE_TO_APPEAL_OPPOSITION_NOTE_2026-04-21.md "Leave-to-appeal opposition note, 21 April 2026"  
+[8]: https://github.com/cogpy/ad-res-j7/blob/main/FINAL_AFFIDAVIT_PACKAGE/COMPREHENSIVE_RESPONDING_AFFIDAVIT_VOID_AB_INITIO.md "Comprehensive responding affidavit — void ab initio historical source"  
+[9]: https://github.com/cogpy/ad-res-j7/blob/main/EXTENDED_AFFIDAVIT_PACKAGE/EXTENDED_AFFIDAVIT_PERJURY_VOID_AB_INITIO.md "Extended affidavit — perjury with provable knowledge historical source"  
+[10]: https://github.com/cogpy/ad-res-j7/blob/main/jax-response/dan-response-materials/rule-42-rescission/LEGAL_ARGUMENT_MEMORANDUM_Void_Ab_Initio.md "Legal argument memorandum — void ab initio doctrine"  
+[11]: https://github.com/cogpy/revstream1/blob/main/docs/filings/regulatory/NPA_TAX_FRAUD_REPORT_COMPREHENSIVE_2025_12_28.md "NPA tax fraud report — comprehensive evidence-based submission"  
+[12]: https://github.com/cogpy/revstream1/blob/main/docs/filings/archive/pre_v11/CIPC_COMPLAINT_EVIDENCE_ENHANCED_20251215_REFINED.md "CIPC complaint — evidence-enhanced historical draft"  
+[13]: https://github.com/cogpy/revstream1/blob/main/docs/filings/archive/pre_v11/POPIA_COMPLAINT_REFINED_2025_12_10_UPDATED_2025_12_12.md "POPIA complaint — enhanced historical draft"  
+[14]: https://www.saflii.org/za/legis/consol_act/sca2013224/ "Superior Courts Act 10 of 2013"  
+[15]: https://www.saflii.org/za/cases/ZASCA/2006/52.html "Fakie NO v CCII Systems (Pty) Ltd [2006] ZASCA 52"  
+[16]: https://www.gov.za/documents/companies-act "Companies Act 71 of 2008"  
+[17]: https://www.gov.za/documents/protection-personal-information-act "Protection of Personal Information Act 4 of 2013"  
+[18]: https://www.gov.za/documents/tax-administration-act "Tax Administration Act 28 of 2011"

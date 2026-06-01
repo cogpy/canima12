@@ -1,6 +1,6 @@
 # Legal Filings Index
 
-**Last Updated:** 2026-05-19 (v23.3 — KSM-LEX-DGen-Alexander Cycle 15 Shopify/Pastel Good Shape Layer)
+**Last Updated:** 2026-06-01 (v33 — consolidated SCA response and multi-forum complete filing bundle)
 
 > **v21 Pipeline:** `/fin-audit-za-v2(/evidence-process)` applied SOX 404/ICFR methodology, SA regulatory overlays (SARS, FICA, POCA, Companies Act 71/2008, PRECCA), and forensic evidence standards to all filings.  
 > **v21.1 Refinement Layer (2026-04-14):** Canonical entity references, timeline-anchor discipline, updated red-team critique, and a cross-filing addendum have been added on top of the v21 filing baseline. Use the live refinement artifacts below whenever a filing still points to an older direct version.  
@@ -10,7 +10,7 @@
 > **v23.2 KSM-LEX-DGen-Alexander Cycle 10 (2026-05-11):** The 4 May 2026 leave-to-appeal judgment has been transformed into a conduct-contrast schedule. Use the Cycle 10 report and conduct schedule as the current post-judgment routing layer for appeal-stage, CIPC, POPIA, Commercial Crime, NPA, SARS, and costs materials.
 > **v23.3 KSM-LEX-DGen-Alexander Cycle 15 (2026-05-19):** EVENT_009 is now standardized as **Shopify Order Rerouting to Pastel**. Use the [Shopify/Pastel Burden Routing Note](./SHOPIFY_PASTEL_BURDEN_ROUTING_NOTE_2026-05-19.md) and [Cycle 15 correction matrix](../analysis/ksm-cycle15/SHOPIFY_PASTEL_GOOD_SHAPE_CORRECTION_MATRIX_2026-05-19.md) to replace over-broad deletion/destruction phrasing with practical audit-trail severance and platform-log preservation requests.
 
-> **v31 SCA Response Layer (2026-06-01):** Peter Andrew Faucitt’s 1 June 2026 SCA petition is now routed through a dedicated multi-track response bundle. Use the [SCA response bundle](./2026-06-01-sca-response-bundle/) for civil/SCA opposition, Rule 42 rescission acceleration, CIPC, POPIA, commercial-crime, and NPA/SARS threshold-safe updates.
+> **v33 Consolidated SCA Response Layer (2026-06-01):** Peter Andrew Faucitt’s 1 June 2026 SCA petition is now routed through the consolidated multi-track response bundle. Use the [SCA response bundle](./2026-06-01-sca-response-bundle/) for the complete Rule 42/common-law rescission framework, civil/SCA opposition, criminal perjury referral, CIPC, POPIA, Commercial Crime, and NPA/SARS threshold-safe filings.
 
 ---
 
@@ -44,7 +44,7 @@
 
 | Filing Type | Latest Version | Purpose | Status |
 |-------------|----------------|---------|--------|
-| **SCA Response Bundle v31** | [2026-06-01 multi-track response bundle](./2026-06-01-sca-response-bundle/) | Civil, criminal, CIPC, POPIA, Commercial Crime, and NPA/SARS supplements after EVENT_180 | **ACTIVE** |
+| **SCA Response Bundle v33** | [2026-06-01 consolidated multi-track response bundle](./2026-06-01-sca-response-bundle/) | Complete civil, criminal, CIPC, POPIA, Commercial Crime, and NPA/SARS filings after EVENT_180 | **ACTIVE** |
 | **Bantjies Complicity Brief** | [v21 (2026-03-25)](./LEGAL_BRIEF_BANTJIES_COMPLICITY_2026-03-18.md) | 46-Second Smoking Gun | **ACTIVE** |
 | **Red Team Critique** | [v22 (2026-04-14)](./RED_TEAM_CRITIQUE_2026-04-14_v22.md) | Vulnerability Analysis | **ACTIVE** |
 | **Appeal Red-Team Critique** | [2026-04-20 baseline](./APPEAL_RED_TEAM_CRITIQUE_2026-04-20.md) | Leave-to-appeal loophole analysis | **ACTIVE** |
@@ -104,7 +104,7 @@ The v21 update applies the `/fin-audit-za-v2` SA forensic audit methodology to a
 | **Dedicated Templates Folder Layer (2026-04-22)** | Created a canonical `templates/` hierarchy with category subfolders, copied legacy template assets into canonical locations, and generated individual template files for the main Uniform Rules procedural families |
 | **Cycle 10 Judicial Closure Layer (2026-05-11)** | Added a KSM-LEX-DGen-Alexander Cycle 10 report, conduct-contrast schedule, relation-cluster closure update, and post-judgment filing-routing rules that route the 4 May 2026 leave-to-appeal judgment across civil, regulatory, and criminal filing burdens |
 | **Cycle 15 Shopify/Pastel Good Shape Layer (2026-05-19)** | Standardized EVENT_009 as Shopify Order Rerouting to Pastel, added a burden-routing filing note, and clarified that literal deletion should be treated as a forensic question unless platform logs prove it |
-| **SCA Response Bundle Layer (2026-06-01)** | Added a dedicated v31 filing bundle routing EVENT_180 through SCA opposition, Rule 42/common-law rescission, CIPC, POPIA, Commercial Crime, and NPA/SARS tracks while preserving burden-of-proof boundaries. |
+| **SCA Response Bundle Layer (2026-06-01)** | Added and then consolidated into the v33 filing bundle routing EVENT_180 through SCA opposition, Rule 42/common-law rescission, criminal perjury referral, CIPC, POPIA, Commercial Crime, and NPA/SARS tracks while preserving burden-of-proof boundaries. |
 | **SOX 404 Control Testing** | Applied ICFR methodology to financial control deficiencies |
 | **SA Regulatory Mapping** | Mapped all violations to SARS, FICA/POCA, Companies Act 71/2008, PRECCA |
 
@@ -201,9 +201,9 @@ The v21 update applies the `/fin-audit-za-v2` SA forensic audit methodology to a
 
 > **2026-05-11 Cycle 10 Conduct-Contrast Layer:** The [KSM-LEX-DGen-Alexander Cycle 10 Report](../reports/KSM_LEX_ALEXANDER_CYCLE10_2026-05-11.md) and [Conduct-Contrast Schedule](../analysis/ksm-cycle10/CONDUCT_CONTRAST_SCHEDULE_2026-05-11.md) now provide the current interpretive layer for the 4 May 2026 leave-to-appeal judgment. Use this layer to preserve burden-specific discipline when updating civil, regulatory, and criminal filing families.
 
-### 2026-06-01 — Complete v32 SCA response and multi-forum filing bundle
+### 2026-06-01 — Complete v33 SCA response and multi-forum filing bundle
 
-The complete v32 bundle replaces the earlier supplement-style v31 materials and contains full drafts for Rule 42/common-law rescission, SCA opposition, criminal referral, NPA Commercial Crime, NPA/SARS tax-fraud, CIPC Companies Act and POPIA complaint routes.
+The complete v33 bundle replaces the earlier supplement-style v31 materials and the v32 baseline. It consolidates the strongest historical versions into full drafts for Rule 42/common-law rescission, SCA opposition, criminal perjury and defeating-justice referral, NPA Commercial Crime, NPA/SARS tax-fraud, CIPC Companies Act and POPIA complaint routes.
 
 - [Bundle index and action matrix](2026-06-01-sca-response-bundle/)
 - [Civil Rule 42/common-law rescission response](2026-06-01-sca-response-bundle/CIVIL_RULE42_RESPONSE.md)

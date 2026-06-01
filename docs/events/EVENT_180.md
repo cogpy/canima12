@@ -40,12 +40,12 @@ For **civil filings**, this document supports chronology, litigation-procedure, 
 
 ## Response filing updates
 
-The SCA petition has now been routed into a dedicated [2026-06-01 SCA response filing bundle](../filings/2026-06-01-sca-response-bundle/), covering civil/SCA opposition, Rule 42/common-law rescission acceleration, criminal referral boundaries, CIPC, POPIA, Commercial Crime, and NPA/SARS supplements. The bundle preserves the distinction between civil proof, regulatory concern, and criminal-referral thresholds.
+The SCA petition has now been routed into the consolidated v33 [2026-06-01 SCA response filing bundle](../filings/2026-06-01-sca-response-bundle/), covering civil/SCA opposition, Rule 42/common-law rescission, criminal perjury and defeating-justice referral, CIPC, POPIA, Commercial Crime, and NPA/SARS tax-fraud investigation routes. The bundle preserves the distinction between civil proof, regulatory concern, investigation thresholds, and criminal-referral burdens.
 
 
-### Complete v32 response filing bundle
+### Complete v33 response filing bundle
 
-The v31 supplement-style response bundle has been replaced with a complete v32 submission bundle for unfiled civil, criminal, NPA/SARS, CIPC and POPIA tracks:
+The earlier v31 supplement-style response bundle and v32 baseline have been replaced with a complete v33 consolidated submission bundle for unfiled civil, criminal, NPA/SARS, CIPC and POPIA tracks:
 
 - [Complete filing bundle index](../filings/2026-06-01-sca-response-bundle/)
 - [Civil Rule 42/common-law rescission response](../filings/2026-06-01-sca-response-bundle/CIVIL_RULE42_RESPONSE.md)
