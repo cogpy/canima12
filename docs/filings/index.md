@@ -200,3 +200,16 @@ The v21 update applies the `/fin-audit-za-v2` SA forensic audit methodology to a
 > **2026-05-11 Outcome Layer:** The 4 May 2026 leave-to-appeal judgment is now preserved and indexed. Use [EVENT_179](../events/EVENT_179.md), the [Outcome Note](./LEAVE_TO_APPEAL_JUDGMENT_OUTCOME_NOTE_2026-05-11.md), the [Integration Report](../reports/LEAVE_TO_APPEAL_JUDGMENT_INTEGRATION_2026-05-11.md), the [Cycle 10 KSM-LEX-DGen-Alexander Report](../reports/KSM_LEX_ALEXANDER_CYCLE10_2026-05-11.md), and the [Conduct-Contrast Schedule](../analysis/ksm-cycle10/CONDUCT_CONTRAST_SCHEDULE_2026-05-11.md) as the post-judgment closure layer for the appeal sequence.
 
 > **2026-05-11 Cycle 10 Conduct-Contrast Layer:** The [KSM-LEX-DGen-Alexander Cycle 10 Report](../reports/KSM_LEX_ALEXANDER_CYCLE10_2026-05-11.md) and [Conduct-Contrast Schedule](../analysis/ksm-cycle10/CONDUCT_CONTRAST_SCHEDULE_2026-05-11.md) now provide the current interpretive layer for the 4 May 2026 leave-to-appeal judgment. Use this layer to preserve burden-specific discipline when updating civil, regulatory, and criminal filing families.
+
+### 2026-06-01 — Complete v32 SCA response and multi-forum filing bundle
+
+The complete v32 bundle replaces the earlier supplement-style v31 materials and contains full drafts for Rule 42/common-law rescission, SCA opposition, criminal referral, NPA Commercial Crime, NPA/SARS tax-fraud, CIPC Companies Act and POPIA complaint routes.
+
+- [Bundle index and action matrix](2026-06-01-sca-response-bundle/)
+- [Civil Rule 42/common-law rescission response](2026-06-01-sca-response-bundle/CIVIL_RULE42_RESPONSE.md)
+- [Civil/SCA opposition](2026-06-01-sca-response-bundle/CIVIL_SCA_OPPOSITION.md)
+- [Criminal perjury and defeating-justice referral](2026-06-01-sca-response-bundle/CRIMINAL_PERJURY_AND_DEFEATING_JUSTICE.md)
+- [NPA Commercial Crime submission](2026-06-01-sca-response-bundle/NPA_COMMERCIAL_CRIME.md)
+- [NPA/SARS tax-fraud submission](2026-06-01-sca-response-bundle/NPA_SARS_TAX_FRAUD.md)
+- [CIPC Companies Act complaint](2026-06-01-sca-response-bundle/CIPC_COMPANIES_ACT.md)
+- [POPIA complaint](2026-06-01-sca-response-bundle/POPIA_COMPLAINT.md)

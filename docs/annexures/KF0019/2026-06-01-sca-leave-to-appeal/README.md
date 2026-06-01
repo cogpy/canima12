@@ -24,3 +24,10 @@ This filing is indexed as [EVENT_180](../../../events/EVENT_180.md): **KF0019 Su
 ## Response filing bundle
 
 - [2026-06-01 SCA response filing bundle v31](../../../filings/2026-06-01-sca-response-bundle/) — civil/SCA, Rule 42, criminal, CIPC, POPIA, Commercial Crime, and NPA/SARS response updates.
+
+
+## Complete v32 response filing bundle
+
+The SCA dossier is now linked to a complete submission bundle, replacing the earlier supplement-only drafts. The bundle contains complete drafts for the civil Rule 42/common-law rescission response, SCA opposition, criminal referral, NPA Commercial Crime, NPA/SARS tax-fraud, CIPC Companies Act and POPIA tracks.
+
+- [Complete v32 filing bundle](../../../filings/2026-06-01-sca-response-bundle/)
