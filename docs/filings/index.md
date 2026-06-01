@@ -10,6 +10,8 @@
 > **v23.2 KSM-LEX-DGen-Alexander Cycle 10 (2026-05-11):** The 4 May 2026 leave-to-appeal judgment has been transformed into a conduct-contrast schedule. Use the Cycle 10 report and conduct schedule as the current post-judgment routing layer for appeal-stage, CIPC, POPIA, Commercial Crime, NPA, SARS, and costs materials.
 > **v23.3 KSM-LEX-DGen-Alexander Cycle 15 (2026-05-19):** EVENT_009 is now standardized as **Shopify Order Rerouting to Pastel**. Use the [Shopify/Pastel Burden Routing Note](./SHOPIFY_PASTEL_BURDEN_ROUTING_NOTE_2026-05-19.md) and [Cycle 15 correction matrix](../analysis/ksm-cycle15/SHOPIFY_PASTEL_GOOD_SHAPE_CORRECTION_MATRIX_2026-05-19.md) to replace over-broad deletion/destruction phrasing with practical audit-trail severance and platform-log preservation requests.
 
+> **v31 SCA Response Layer (2026-06-01):** Peter Andrew Faucitt’s 1 June 2026 SCA petition is now routed through a dedicated multi-track response bundle. Use the [SCA response bundle](./2026-06-01-sca-response-bundle/) for civil/SCA opposition, Rule 42 rescission acceleration, CIPC, POPIA, commercial-crime, and NPA/SARS threshold-safe updates.
+
 ---
 
 ## Group A: Civil and Criminal Actions
@@ -42,6 +44,7 @@
 
 | Filing Type | Latest Version | Purpose | Status |
 |-------------|----------------|---------|--------|
+| **SCA Response Bundle v31** | [2026-06-01 multi-track response bundle](./2026-06-01-sca-response-bundle/) | Civil, criminal, CIPC, POPIA, Commercial Crime, and NPA/SARS supplements after EVENT_180 | **ACTIVE** |
 | **Bantjies Complicity Brief** | [v21 (2026-03-25)](./LEGAL_BRIEF_BANTJIES_COMPLICITY_2026-03-18.md) | 46-Second Smoking Gun | **ACTIVE** |
 | **Red Team Critique** | [v22 (2026-04-14)](./RED_TEAM_CRITIQUE_2026-04-14_v22.md) | Vulnerability Analysis | **ACTIVE** |
 | **Appeal Red-Team Critique** | [2026-04-20 baseline](./APPEAL_RED_TEAM_CRITIQUE_2026-04-20.md) | Leave-to-appeal loophole analysis | **ACTIVE** |
@@ -101,6 +104,7 @@ The v21 update applies the `/fin-audit-za-v2` SA forensic audit methodology to a
 | **Dedicated Templates Folder Layer (2026-04-22)** | Created a canonical `templates/` hierarchy with category subfolders, copied legacy template assets into canonical locations, and generated individual template files for the main Uniform Rules procedural families |
 | **Cycle 10 Judicial Closure Layer (2026-05-11)** | Added a KSM-LEX-DGen-Alexander Cycle 10 report, conduct-contrast schedule, relation-cluster closure update, and post-judgment filing-routing rules that route the 4 May 2026 leave-to-appeal judgment across civil, regulatory, and criminal filing burdens |
 | **Cycle 15 Shopify/Pastel Good Shape Layer (2026-05-19)** | Standardized EVENT_009 as Shopify Order Rerouting to Pastel, added a burden-routing filing note, and clarified that literal deletion should be treated as a forensic question unless platform logs prove it |
+| **SCA Response Bundle Layer (2026-06-01)** | Added a dedicated v31 filing bundle routing EVENT_180 through SCA opposition, Rule 42/common-law rescission, CIPC, POPIA, Commercial Crime, and NPA/SARS tracks while preserving burden-of-proof boundaries. |
 | **SOX 404 Control Testing** | Applied ICFR methodology to financial control deficiencies |
 | **SA Regulatory Mapping** | Mapped all violations to SARS, FICA/POCA, Companies Act 71/2008, PRECCA |
 

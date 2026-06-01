@@ -37,3 +37,7 @@ For **civil filings**, this document supports chronology, litigation-procedure, 
 ---
 
 *Integrated by the `/identical-transcribe -> /evidence-process(/skillm) -> /ksm-evolve(/regima-org-self) -> /optimal-cognitive-grip` workflow on 2026-06-01.*
+
+## Response filing updates
+
+The SCA petition has now been routed into a dedicated [2026-06-01 SCA response filing bundle](../filings/2026-06-01-sca-response-bundle/), covering civil/SCA opposition, Rule 42/common-law rescission acceleration, criminal referral boundaries, CIPC, POPIA, Commercial Crime, and NPA/SARS supplements. The bundle preserves the distinction between civil proof, regulatory concern, and criminal-referral thresholds.

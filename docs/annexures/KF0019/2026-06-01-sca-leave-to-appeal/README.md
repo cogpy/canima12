@@ -20,3 +20,7 @@ This filing is indexed as [EVENT_180](../../../events/EVENT_180.md): **KF0019 Su
 ## Analysis and recommended actions
 
 - [Analysis of 1 June 2026 SCA leave-to-appeal application and recommended actions](20260601084507289_sca_analysis_recommended_actions.md)
+
+## Response filing bundle
+
+- [2026-06-01 SCA response filing bundle v31](../../../filings/2026-06-01-sca-response-bundle/) — civil/SCA, Rule 42, criminal, CIPC, POPIA, Commercial Crime, and NPA/SARS response updates.
