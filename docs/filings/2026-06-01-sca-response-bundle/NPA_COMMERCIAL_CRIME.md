@@ -1,61 +1,53 @@
-# Complete Draft Filing — NPA / Commercial Crime Submission
+# V34 Referral — NPA / Commercial Crime / Hawks Investigation Request
 
-**Recipient:** National Prosecuting Authority / Commercial Crime / Hawks routing  
-**Complainants:** Daniel Faucitt and Jacqueline Faucitt  
-**Matter:** Peter Andrew Faucitt v Daniel Faucitt and Jacqueline Faucitt, High Court case no. 2025/137857  
-**Bundle version:** v33 consolidated complete draft  
-**Draft date:** 2026-06-01, consolidated 2026-06-01  
-**Prepared by:** Manus AI
-
-> **Verification note.** This draft consolidates the most complete historical repository versions into a single working filing. It is not legal advice and must be verified against the court file, source annexures, page numbers, service addresses, prescribed forms, commissioning requirements and forum-specific filing rules before signature or submission.
+> **Repository preparation note.** This v34 document corrects the v33 formatting issue by presenting the material in the procedural style expected by the receiving forum. Repository links are retained for evidence control; filing copies should be paginated, commissioned where required, checked by attorneys, and redacted for public use.
 
 
-## Consolidated source lineage
+## Referral letter
 
-This v33 submission aggregates the v32 Commercial Crime filing with the canonical v21 commercial-crime submission, the broader v10 commercial-crime strategy draft and the later cycle-9 forum-structure template. The result is a complete investigation request that preserves threshold-safe language while identifying the commercial-crime indicators requiring documentary investigation.
-
-## Purpose
-
-This submission asks the appropriate NPA, Commercial Crime or Hawks routing authority to investigate whether civil court process, banking-control steps, company-governance actions, information-system access and revenue-control conduct formed part of an economic-control, extraction or concealment scheme.
-
-The matter is not presented as a resolved criminal finding. It is presented as an evidence-based request for commercial-crime screening, preservation of records, forensic accounting, subpoena direction and referral to the correct investigative unit.
-
-## Executive summary
-
-The repository record suggests a convergence between litigation leverage and commercial control. The foundation order, contempt application and 1 June 2026 SCA petition sit alongside disputes about bank mandates, operational access, company authority, revenue streams, stock values, accounting records and correspondence. That convergence is commercially significant because legal process may have been used not only to resolve a private dispute but also to secure or defend economic control.[1] [2] [3]
-
-Historical commercial-crime drafts identify recurring indicators: alleged backdated entries, stock discrepancies, questionable intercompany invoices, potential revenue diversion, secret forwarding or disclosure of communications, and use of litigation to reinforce economic leverage. Those indicators must be independently tested by original records and forensic accounting.
-
-## Commercial-crime theory for investigation
-
-| Theme | Evidence question | Investigation route |
-|---|---|---|
-| Litigation leverage | Was court process used to obtain commercial or governance advantage rather than only to resolve a bona fide legal dispute? | Compare litigation chronology to banking, revenue and operational-control events. |
-| Banking and mandate control | Were banking mandates, access rights or account controls manipulated, concealed or misrepresented? | Obtain bank records, mandate histories and FNB communications. |
-| Revenue and stock control | Were revenue streams, stock valuations, invoices or accounting entries misallocated or misrepresented? | Commission forensic accounting and reconcile source ledgers to bank records. |
-| Governance capture | Were company records, director authority or operational roles altered or misdescribed to support litigation leverage? | Obtain CIPC records, resolutions, internal communications and director-access records. |
-| Documentary persistence | Were disputed claims repeated after contradictory records existed? | Compare dates of knowledge, correspondence, affidavits and the SCA petition. |
-| Cross-forum coordination | Do the facts overlap with SARS, CIPC, POPIA or ordinary SAPS jurisdiction? | Route subpoenas and referrals without duplicating dockets unnecessarily. |
-
-## Possible offence categories for screening
-
-| Category | Threshold-safe description |
+| Field | Detail |
 |---|---|
-| Fraud | Investigate whether misrepresentations about authority, money, stock, invoices or legal entitlement induced economic prejudice. |
-| Forgery and uttering | Investigate whether any mandate, resolution, accounting entry or supporting document was backdated, altered or used as if genuine. |
-| Theft or unlawful appropriation | Investigate whether revenue, stock, funds or business opportunities were diverted from the lawful beneficiary. |
-| Money-laundering or POCA predicate conduct | Investigate only if bank-flow analysis shows proceeds of unlawful activity or concealment structures. |
-| Defeating the administration of justice | Investigate whether litigation was used to shield, prolong or enforce the economic-control pattern. |
+| To | National Prosecuting Authority, Commercial Crime Unit and/or Directorate for Priority Crime Investigation intake channel |
+| From | Daniel Faucitt / affected complainants or authorised entity representatives |
+| Subject | Request for prosecutorial screening and commercial-crime investigation concerning litigation-driven economic control, alleged misrepresentations and revenue-stream interference |
+| Filing posture | Referral letter and investigation request, not a sworn affidavit unless separately commissioned |
 
-## Why Commercial Crime routing is appropriate
+Dear Sir / Madam,
 
-The matter contains multiple commercial indicators that are not efficiently resolved in ordinary civil litigation: banking records, company authority, revenue allocation, invoices, stock discrepancies, accounting ledgers, electronic communications and litigation-linked economic benefit. A commercial-crime screening unit is better placed to decide whether forensic accounting, bank subpoenas, digital preservation and cross-agency referrals are warranted.
+This referral requests prosecutorial screening and, where appropriate, Commercial Crime or Hawks investigation into a pattern of conduct in which court processes, company-control assertions, information use and economic-flow disputes appear to intersect. The purpose is not to ask the NPA to decide civil rescission issues. The purpose is to identify whether the evidence supports investigation into commercial crime, fraud, defeating the administration of justice, or related offences.
+
+## Executive summary for intake
+
+The evidence presently indicates that an August 2025 foundation order, a March 2026 contempt record and a 1 June 2026 SCA petition must be considered together with company-authority records, banking mandates, trust-capacity distinctions and economic-flow documents. The concern is that litigation steps may have been used to obtain or preserve economic control while material factual qualifications were omitted or understated.
+
+## Persons and entities for screening
+
+| Category | Description |
+|---|---|
+| Primary litigation actors | Persons who deposed to, instructed, advanced or materially relied on disputed court allegations. |
+| Corporate-control actors | Directors, officers, accountants, trustees, information officers or agents involved in authority, banking, accounting or information-control decisions. |
+| Benefiting entities | Entities that may have benefited from revenue diversion, expense dumping, rent extraction, e-commerce control or litigation-driven exclusion. |
+| Professional intermediaries | Attorneys, accountants or service providers only to the extent that evidence shows knowledge, participation or relevant record custody. |
+
+## Commercial-crime screening table
+
+| Issue | Why it is commercially significant | Investigation requested |
+|---|---|---|
+| Court-order procurement and enforcement | A court order may have been used as leverage for economic control. | Compare sworn allegations with source documents available at the time. |
+| Revenue-stream interference | Entity-specific revenues, expenses and e-commerce infrastructure may have been redirected or controlled through disputed authority assertions. | Trace funds, platform control, merchant accounts, Shopify costs and beneficial receipts. |
+| Company and trust capacity confusion | Founder powers, trustee powers, director powers and shareholder powers may have been conflated. | Obtain trust deed, company registers, resolutions and mandate records. |
+| Accounting and expense allocation | Expense dumping and profit extraction allegations require source-ledger review. | Obtain ledgers, journals, invoices, rent schedules and related-party transaction records. |
+| Litigation information use | Personal and sensitive information may have been used to advance commercial pressure. | Obtain information-use logs, correspondence and filing-source records. |
 
 ## Requested action
 
-The complainants request that the NPA/Commercial Crime/Hawks identify the correct investigative unit; preserve court, bank, company and accounting records; obtain source ledgers, invoices, VAT/tax records, stock records and mandate histories; interview relevant directors, bankers, employees, attorneys and accountants; coordinate with SARS, CIPC, the Information Regulator and SAPS where jurisdiction overlaps; and provide a docket or referral pathway for prosecutorial decision-making.
+The complainants request that the NPA or Commercial Crime intake office open a screening file, identify the appropriate investigative forum, direct preservation of records, obtain statements from relevant custodians, and consider subpoenas or production requests for banking, accounting, company, trust, platform and litigation records. If the screening indicates statutory tax, company-law, POPIA or Companies Act issues, the referral should be cross-routed to SARS Criminal Investigations, CIPC or the Information Regulator as appropriate.
 
-## Common evidence schedule
+## Attachment and evidence-control schedule
+
+The documents listed below should be treated as an intake bundle. They are not exhaustive. They identify the minimum source record required for a prosecutor or investigator to decide whether the matter should proceed as a criminal or commercial-crime investigation.
+
+## Documentary annexure schedule
 
 | Evidence item | Description | Principal use across the bundle |
 |---|---|---|
@@ -64,12 +56,13 @@ The complainants request that the NPA/Commercial Crime/Hawks identify the correc
 | E3 | SCA petition dated 1 June 2026, together with the identical transcription and analysis report | Shows the continued attempt to revive contempt relief after the contempt application failed.[1] [2] [3] |
 | E4 | Banking mandates, FNB communications, company-authority documents and operational-control records | Tests whether the foundation narrative omitted or misdescribed governance and economic-control facts.[4] [5] [6] |
 | E5 | Email, attorney correspondence, court-service records and chronology entries | Establishes timing, knowledge, persistence and whether disputed assertions continued after contradictory documents existed.[6] [7] |
-| E6 | Historical void-ab-initio, Rule 42, perjury, tax, CIPC, POPIA and commercial-crime workpapers | Supplies the consolidated evidence map and historical draft lineage used to generate this v33 bundle.[8] [9] [10] [11] [12] [13] |
+| E6 | Historical void-ab-initio, Rule 42, perjury, tax, CIPC, POPIA and commercial-crime workpapers | Supplies the consolidated evidence map and historical draft lineage used to generate this v34 forum-specific filing pack.[8] [9] [10] [11] [12] [13] |
 
 
-## Verification and filing note
+## Repository preparation note: source lineage
 
-Before filing, this submission should be accompanied by a concise commercial-crime annexure bundle: chronology, parties map, bank-account list, company/entity list, disputed transaction list, affidavit contradiction table and requested subpoena schedule. The submission should avoid emotive language and preserve the distinction between reasonable suspicion for investigation and proof beyond reasonable doubt.
+This v34 filing preserves the consolidated evidence synthesis from the v33 bundle, but moves historical source-lineage material out of the first substantive filing section. The formal document now opens in the format expected by the receiving forum. The principal sources remain the comprehensive void-*ab-initio* affidavit package, the extended perjury affidavit, the Rule 42 legal memorandum, the SCA petition evidence dossier, the comprehensive NPA tax-fraud report, the evidence-enhanced CIPC complaint and the refined POPIA complaint.
+
 
 ## References
 

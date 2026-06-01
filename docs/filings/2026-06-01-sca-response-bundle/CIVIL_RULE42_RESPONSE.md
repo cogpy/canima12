@@ -1,33 +1,23 @@
-# Complete Draft Filing — Civil Rule 42 and Common-Law Rescission Response
+# V34 Court Filing — Rule 42 and Common-Law Rescission Application Pack
 
-**Court:** High Court of South Africa, Gauteng Division  
-**Applicants:** Daniel Faucitt and Jacqueline Faucitt  
-**Respondent:** Peter Andrew Faucitt  
-**Matter:** Peter Andrew Faucitt v Daniel Faucitt and Jacqueline Faucitt, High Court case no. 2025/137857  
-**Bundle version:** v33 consolidated complete draft  
-**Draft date:** 2026-06-01, consolidated 2026-06-01  
-**Prepared by:** Manus AI
-
-> **Verification note.** This draft consolidates the most complete historical repository versions into a single working filing. It is not legal advice and must be verified against the court file, source annexures, page numbers, service addresses, prescribed forms, commissioning requirements and forum-specific filing rules before signature or submission.
+> **Repository preparation note.** This v34 document corrects the v33 formatting issue by presenting the material in the procedural style expected by the receiving forum. Repository links are retained for evidence control; filing copies should be paginated, commissioned where required, checked by attorneys, and redacted for public use.
 
 
-## Consolidated source lineage
+## In the High Court of South Africa, Gauteng Division
 
-This v33 draft aggregates the concise v32 bundle filing with the most complete historical civil materials: the comprehensive responding affidavit, the Daniel Faucitt Rule 42 founding affidavit, the Rule 42 notice of motion and the void-ab-initio legal memorandum. Those sources are consolidated here to produce a filing that can stand on its own rather than operate as a supplement.[8] [10]
-
-| Historical component | Strongest contribution retained in this draft |
+| Field | Filing detail |
 |---|---|
-| Comprehensive responding affidavit | Full affidavit architecture, seven-pillar invalidity model, annexure map, material non-disclosure taxonomy and relief logic.[8] |
-| Rule 42 founding affidavit | Daniel’s factual background, revenue-control context, fraud-report chronology and retaliatory-timing theory.[10] |
-| Notice of motion | Procedural relief, alternative prayers, production-of-record request and interim restraint language.[10] |
-| Legal argument memorandum | Void-versus-voidable distinction, mandatory rescission logic and ex parte disclosure doctrine.[10] |
-| Current v32 filing bundle | SCA-linked posture, common evidence schedule and threshold-safe cross-filing organization.[1] [2] [3] |
+| Case number | 2025/137857 |
+| Applicants | Daniel Faucitt and Jacqueline Faucitt |
+| Respondent | Peter Andrew Faucitt |
+| Instrument | Notice of motion, draft order and founding-affidavit framework |
+| Procedural purpose | Rule 42 and common-law rescission, variation, declaration of voidness, preservation and case-management relief |
 
 ## Notice of motion
 
-**TAKE NOTICE** that Daniel Faucitt and Jacqueline Faucitt intend applying to this Honourable Court for an order rescinding, alternatively varying, alternatively declaring unenforceable for contempt purposes, the August 2025 foundation order relied upon by Peter Andrew Faucitt in later contempt and appellate proceedings. The application is brought under Rule 42(1)(a), alternatively Rule 42(1)(b), alternatively the common law, and further alternatively the Court’s inherent power to protect the integrity of its own process.[1] [2] [3]
+TAKE NOTICE that Daniel Faucitt and Jacqueline Faucitt intend applying to this Honourable Court for an order rescinding, alternatively varying, alternatively declaring unenforceable for contempt purposes, the August 2025 foundation order relied upon by Peter Andrew Faucitt in later contempt and appellate proceedings. The application is brought under Rule 42(1)(a), alternatively Rule 42(1)(b), alternatively the common law, and further alternatively the Court’s inherent power to protect the integrity of its own process.[1] [2] [3]
 
-The applicants contend that the order was sought and later deployed on an incomplete and materially misleading record. The point is not to ask this Court to make final criminal findings in a civil application. The point is remedial: where an order was obtained or later enforced on a record that omitted material banking, mandate, governance, operational-control and knowledge facts, the order should not remain available as the platform for punitive contempt, operational exclusion or appellate escalation.[8] [10]
+TAKE NOTICE FURTHER that any party wishing to oppose this application must deliver a notice of intention to oppose and answering affidavit in accordance with the Uniform Rules of Court or any directive issued by the Court.
 
 ## Draft order sought
 
@@ -38,23 +28,25 @@ The applicants contend that the order was sought and later deployed on an incomp
 | Alternative variation | Varying the order to remove ambiguity and to make clear that it does not prohibit lawful operational, professional, governance, director-related, information-officer or business-continuity conduct absent a further specific court order. |
 | Interim restraint | Directing that the order may not be used to support contempt, punitive sanctions, coercive settlement pressure or operational exclusion pending final determination of this rescission application. |
 | Production of record | Directing production of the complete application record, service record, affidavit trail, founding papers, banking mandates, FNB communications, company records, authority documents, correspondence and any document relied upon or omitted when the order was sought. |
-| Referral / preservation | Directing that original electronic evidence, emails, bank records and company records relevant to the grant and enforcement of the order be preserved pending civil, regulatory or criminal investigation. |
+| Preservation | Directing that original electronic evidence, emails, bank records and company records relevant to the grant and enforcement of the order be preserved pending civil, regulatory or criminal investigation. |
 | Costs | Costs on an appropriate scale, including attorney-and-client costs if the Court finds material non-disclosure, misrepresentation, abuse of process or persistence in a known false narrative. |
 | Further relief | Further and/or alternative relief. |
 
-## Founding affidavit framework
+## Founding affidavit
 
-I, **Daniel Faucitt**, state that the facts in this affidavit are within my personal knowledge unless the source is identified. I make this affidavit for myself and, where authorised, for Jacqueline Faucitt. The purpose is to rescind, vary or neutralise the foundation order that Peter Andrew Faucitt continues to use as the basis for punitive contempt proceedings and the 1 June 2026 SCA petition.[1] [2] [3]
+### A. Deponent, authority and purpose
 
-This application is directed at the procedural integrity of the foundation order. It is not a disguised appeal against the March 2026 contempt judgment. The contempt judgment and SCA petition are relevant because they show the consequences of leaving the disputed order uncorrected: a foundation order whose meaning and factual basis remain contested is being used as a platform for quasi-criminal contempt relief after the High Court found that breach and wilfulness were not established.[2] [3] [15]
+1. I, Daniel Faucitt, state that the facts in this affidavit are within my personal knowledge unless the source is identified. I make this affidavit for myself and, where authorised, for Jacqueline Faucitt. The purpose is to rescind, vary or neutralise the foundation order that Peter Andrew Faucitt continues to use as the basis for punitive contempt proceedings and the 1 June 2026 SCA petition.[1] [2] [3]
 
-## Legal basis for rescission and neutralisation
+2. This application is directed at the procedural integrity of the foundation order. It is not a disguised appeal against the March 2026 contempt judgment. The contempt judgment and SCA petition are relevant because they show the consequences of leaving the disputed order uncorrected: a foundation order whose meaning and factual basis remain contested is being used as a platform for quasi-criminal contempt relief after the High Court found that breach and wilfulness were not established.[2] [3] [15]
 
-Rule 42(1)(a) permits rescission where an order was erroneously sought or erroneously granted in the absence of a party affected thereby. Rule 42(1)(b) permits correction where the order contains ambiguity, patent error or omission. The common law permits rescission where fraud, material misrepresentation or non-disclosure vitiated the process by which the order was obtained.[10]
+### B. Legal basis for rescission and neutralisation
 
-The legal distinction matters. If an order is merely irregular, the appropriate remedy may be appeal, variation or clarification. If the order was obtained through material falsehood or non-disclosure, the complaint is deeper: the Court was asked to act on a record that did not contain the material facts necessary for a fair exercise of discretion. A civil rescission court need not determine criminal guilt; it need only decide whether the order should remain effective where the integrity of the process is sufficiently impeached.[10]
+3. Rule 42(1)(a) permits rescission where an order was erroneously sought or erroneously granted in the absence of a party affected thereby. Rule 42(1)(b) permits correction where the order contains ambiguity, patent error or omission. The common law permits rescission where fraud, material misrepresentation or non-disclosure vitiated the process by which the order was obtained.[10]
 
-## Consolidated grounds for rescission
+4. If an order was obtained through material falsehood or non-disclosure, the complaint is not merely appellate. The Court was asked to act on a record that did not contain the material facts necessary for a fair exercise of discretion. A civil rescission court need not determine criminal guilt; it need only decide whether the order should remain effective where the integrity of the process is sufficiently impeached.[10]
+
+### C. Consolidated grounds for rescission
 
 | Ground | Consolidated factual focus | Remedy engaged |
 |---|---|---|
@@ -64,9 +56,7 @@ The legal distinction matters. If an order is merely irregular, the appropriate 
 | Ambiguity in paragraph 2.5 | The order is now read broadly enough to criminalise ordinary or reasonably explained operational conduct. | Rule 42(1)(b), variation and anti-contempt clarification. |
 | Abuse of process | Litigation steps, contempt proceedings and appellate escalation are alleged to have been used as commercial or governance leverage. | Interim restraint, costs and preservation orders. |
 
-## Material non-disclosure matrix
-
-The historical affidavit package identifies recurring concealed-fact categories. These categories should be converted into sworn paragraphs only after the annexures are final-paginated and verified.[8]
+### D. Material non-disclosure schedule
 
 | Category | Why it is material to the foundation order | Evidence to verify before filing |
 |---|---|---|
@@ -77,7 +67,7 @@ The historical affidavit package identifies recurring concealed-fact categories.
 | Information-officer and regulatory-role context | Conduct framed as prohibited interference may overlap with statutory or governance duties. | POPIA, company-record and compliance documentation. |
 | Contradictory correspondence existing before or during enforcement | Persistence after contradictory documents existed is relevant to both rescission and costs. | Email trails, attorney letters and service records. |
 
-## Chronology for founding affidavit
+### E. Chronology for founding affidavit
 
 | Period | Event cluster | Rule 42 relevance |
 |---|---|---|
@@ -87,7 +77,13 @@ The historical affidavit package identifies recurring concealed-fact categories.
 | March 2026 | Contempt application dismissed | Demonstrates that breach and wilfulness were not proved on the contempt record.[2] [3] |
 | 1 June 2026 | SCA petition lodged | Demonstrates continued reliance on the same foundation order and contempt theory.[1] [2] [3] |
 
-## Common evidence schedule
+### F. Filing posture and case-management request
+
+5. The applicants should ask the Court to manage this application as a procedural-integrity matter. The Court can determine whether the order should be rescinded, varied or neutralised without making final findings on criminal guilt, tax liability, POPIA contraventions or director delinquency. Those issues are separately routed to the competent investigative or regulatory forums in the companion filings.
+
+6. Before filing, this affidavit should be converted into a signed and commissioned affidavit with final annexure numbers, page references and service addresses. The strongest immediate annexures are the foundation order and papers, the contempt judgment, the 1 June 2026 SCA petition, FNB/banking materials, company-authority records, attorney correspondence and the historical void-ab-initio workpapers.[1] [2] [3] [8] [10]
+
+## Documentary annexure schedule
 
 | Evidence item | Description | Principal use across the bundle |
 |---|---|---|
@@ -96,14 +92,13 @@ The historical affidavit package identifies recurring concealed-fact categories.
 | E3 | SCA petition dated 1 June 2026, together with the identical transcription and analysis report | Shows the continued attempt to revive contempt relief after the contempt application failed.[1] [2] [3] |
 | E4 | Banking mandates, FNB communications, company-authority documents and operational-control records | Tests whether the foundation narrative omitted or misdescribed governance and economic-control facts.[4] [5] [6] |
 | E5 | Email, attorney correspondence, court-service records and chronology entries | Establishes timing, knowledge, persistence and whether disputed assertions continued after contradictory documents existed.[6] [7] |
-| E6 | Historical void-ab-initio, Rule 42, perjury, tax, CIPC, POPIA and commercial-crime workpapers | Supplies the consolidated evidence map and historical draft lineage used to generate this v33 bundle.[8] [9] [10] [11] [12] [13] |
+| E6 | Historical void-ab-initio, Rule 42, perjury, tax, CIPC, POPIA and commercial-crime workpapers | Supplies the consolidated evidence map and historical draft lineage used to generate this v34 forum-specific filing pack.[8] [9] [10] [11] [12] [13] |
 
 
-## Filing posture and requested case management
+## Repository preparation note: source lineage
 
-The applicants should ask the Court to manage this application as a procedural-integrity matter. The Court can determine whether the order should be rescinded, varied or neutralised without making final findings on criminal guilt, tax liability, POPIA contraventions or director delinquency. Those issues are separately routed to the competent investigative or regulatory forums in the companion filings.
+This v34 filing preserves the consolidated evidence synthesis from the v33 bundle, but moves historical source-lineage material out of the first substantive filing section. The formal document now opens in the format expected by the receiving forum. The principal sources remain the comprehensive void-*ab-initio* affidavit package, the extended perjury affidavit, the Rule 42 legal memorandum, the SCA petition evidence dossier, the comprehensive NPA tax-fraud report, the evidence-enhanced CIPC complaint and the refined POPIA complaint.
 
-Before filing, the affidavit should be converted from this framework into a commissioned affidavit with numbered paragraphs, a final annexure index and verified page references. The strongest immediate annexures are the foundation order and papers, the contempt judgment, the 1 June 2026 SCA petition, FNB/banking materials, company-authority records, attorney correspondence and the historical void-ab-initio workpapers.[1] [2] [3] [8] [10]
 
 ## References
 

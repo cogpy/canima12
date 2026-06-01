@@ -1,70 +1,68 @@
-# Complete Draft Criminal Referral — Perjury and Defeating the Administration of Justice
+# V34 SAPS Statement — Perjury and Defeating the Administration of Justice
 
-**Recipient:** SAPS / Commercial Crime / prosecuting authority  
-**Complainants:** Daniel Faucitt and Jacqueline Faucitt  
-**Primary subjects:** Peter Andrew Faucitt and any other person who knowingly made, procured, adopted or persisted in materially false sworn evidence  
-**Matter:** Peter Andrew Faucitt v Daniel Faucitt and Jacqueline Faucitt, High Court case no. 2025/137857  
-**Bundle version:** v33 consolidated complete draft  
-**Draft date:** 2026-06-01, consolidated 2026-06-01  
-**Prepared by:** Manus AI
-
-> **Verification note.** This draft consolidates the most complete historical repository versions into a single working filing. It is not legal advice and must be verified against the court file, source annexures, page numbers, service addresses, prescribed forms, commissioning requirements and forum-specific filing rules before signature or submission.
+> **Repository preparation note.** This v34 document corrects the v33 formatting issue by presenting the material in the procedural style expected by the receiving forum. Repository links are retained for evidence control; filing copies should be paginated, commissioned where required, checked by attorneys, and redacted for public use.
 
 
-## Consolidated source lineage
+## Statement to the South African Police Service
 
-This v33 referral aggregates the concise v32 threshold-safe criminal referral with the extended perjury/void-ab-initio affidavit, earlier criminal complaint materials and burden-of-proof workpapers. The historical drafts contain stronger factual narration, but this consolidated version deliberately avoids asserting final guilt. It requests investigation, preservation and prosecutorial assessment.[9]
+| Field | Detail to complete before commissioning |
+|---|---|
+| Police station | `[insert SAPS station / Commercial Crime intake point]` |
+| CAS number | `[to be allocated]` |
+| Complainants | Daniel Faucitt and Jacqueline Faucitt, or the affected person/entity authorised to complain |
+| Suspected offences | Perjury, defeating or obstructing the administration of justice, fraud on the court and related offences to be determined by investigators |
+| Requested action | Open a docket, allocate an investigating officer, preserve records and refer to Commercial Crime or the prosecuting authority where appropriate |
 
-## Purpose and threshold posture
+## Complainant’s sworn statement
 
-This document requests investigation of suspected perjury, false sworn evidence, material non-disclosure in court proceedings, fraud on the court, obstruction and conduct potentially amounting to defeating or obstructing the administration of justice. It is drafted as a criminal referral, not as a verdict. The complainants state that the documentary record appears sufficient to justify a docket, preservation of original records, witness interviews and prosecutorial assessment; proof beyond reasonable doubt remains for the criminal process.
+1. I am the complainant identified above. I request that the South African Police Service open a docket and investigate whether perjury, defeating or obstructing the administration of justice, fraud on the court, or related offences were committed in connection with the August 2025 foundation order, the March 2026 contempt proceedings and the SCA petition dated 1 June 2026.
 
-The referral should be read together with the civil Rule 42 filing. The civil filing asks a court to neutralise a defective order on a balance-of-probabilities and procedural-integrity basis. This criminal referral asks investigators to determine whether any person knowingly made or persisted in materially false statements under oath or used court process despite knowledge of contradictory facts.[8] [9] [10]
+2. I make this statement from facts within my personal knowledge and from documents in my possession or accessible through the court and repository evidence record. Where a fact is derived from a document, I identify the document in the exhibit schedule and request that the document be obtained, verified and placed in the docket.
 
-## Summary of suspected conduct
+3. I understand that criminal liability must be investigated and proved by the State. I therefore do not ask SAPS to accept legal conclusions from this statement. I ask SAPS to investigate the factual contradictions, knowledge indicators, omitted documents and procedural consequences identified below.
 
-The concern is that court process may have been used to obtain and enforce an order on an incomplete or misleading factual foundation, and that the same theory was then continued through contempt proceedings and the 1 June 2026 SCA petition after the High Court declined to find breach and wilfulness.[1] [2] [3]
+## Chronological statement of facts
 
-The strongest historical perjury source organizes the allegation around **provable-knowledge events**. For a criminal complaint, those events should be treated as investigative leads. Each lead requires source-document verification, deponent comparison, timing analysis and a prosecutor’s assessment of materiality, knowledge and intent.[9]
-
-## Suspected offence categories
-
-| Category | Investigative question | Principal evidence focus |
+| Date / period | Fact for investigation | Documents / witnesses |
 |---|---|---|
-| Perjury / false sworn evidence | Were sworn statements materially false when made, and did the deponent know or foresee that they were false? | Affidavits, confirmatory affidavits, commissioning records and source documents. |
-| Defeating or obstructing justice | Was court process used or persisted in despite knowledge of contradictory facts? | Chronology, attorney correspondence, SCA petition and contempt papers. |
-| Fraud on the court | Was the Court induced to grant or enforce relief on a materially misleading record? | Foundation application record, omitted banking/company materials and later persistence. |
-| Conspiracy, procurement or assistance | Did any person knowingly assist, draft, procure, adopt or continue false or incomplete evidence? | Email trails, draft documents, instructions to attorneys and witness coordination. |
-| Documentary suppression or misdirection | Were material records withheld, selectively produced or mischaracterised? | Banking, CIPC, FNB, accounting, information-system and attorney records. |
+| Pre-August 2025 | Banking, governance, mandate and operational-control disputes existed before the foundation order. | FNB records, company-authority documents, trust documents, correspondence and chronology. |
+| August 2025 | A foundation order was obtained on a record that may have omitted or misdescribed material authority, mandate, company and economic-control facts. | Foundation application papers and omitted source documents. |
+| March 2026 | The High Court contempt proceedings did not result in findings that breach, wilfulness or *mala fides* were established. | Contempt judgment and order.[2] [3] |
+| 1 June 2026 | A petition for leave or special leave to appeal sought to revive or continue coercive relief notwithstanding the failed contempt record. | SCA petition, identical transcription and analysis report.[1] [2] [3] |
+| Ongoing | Certain allegations appear to have been repeated after documents existed that could contradict, qualify or contextualise them. | Attorney correspondence, email records, timeline entries and evidence event pages.[4] [6] |
 
-## Provable-knowledge investigation matrix
+## Suspected offence-screening matrix
 
-| Lead | Knowledge issue to test | Why it matters |
+| Suspected offence category | Investigative question | Evidence presently available |
 |---|---|---|
-| PK-1 | Whether bank mandates or FNB communications contradicted allegations of unauthorised access. | If contradictory records existed before sworn statements, investigators must assess knowledge and materiality. |
-| PK-2 | Whether card-cancellation and access-control chronology caused or explained conduct later framed as breach. | Causation affects falsity, materiality and wilfulness. |
-| PK-3 | Whether governance records showed lawful or contested authority rather than clear prohibition. | A sworn narrative omitting governance complexity may be materially misleading. |
-| PK-4 | Whether settlement, withdrawal or prior procedural history altered what was fairly disclosable. | Courts dealing with urgent or ex parte relief require candour about adverse facts. |
-| PK-5 | Whether later contempt and SCA filings repeated disputed claims after contradictory records were known. | Persistence after notice of contradiction may support an inference requiring prosecutorial assessment. |
-| PK-6 | Whether any attorney, agent or witness was used to transmit a known false narrative. | Procurement or assistance can be relevant even where the principal deponent is not the only actor. |
+| Perjury or false statement under oath | Were sworn statements made that were false, material and known to be false, or made without proper belief in their truth? | Affidavits, application papers, contradictory source documents and chronology. |
+| Defeating or obstructing justice | Was the court process used in a manner that suppressed material facts or sought relief on an incomplete record? | Foundation order record, contempt proceedings and SCA petition. |
+| Fraud on the court | Were material non-disclosures or misrepresentations used to obtain or enforce a court order? | Rule 42 evidence map and annexure schedule. |
+| Economic-control motive | Did disputed court steps serve an economic-control or revenue-stream purpose? | Company records, financial flows, operational-control records and entity chronology. |
 
-## Chronology for investigators
+## Witnesses and records requested
 
-| Period | Event | Criminal relevance |
-|---|---|---|
-| Pre-order period | Banking, governance, access and operational disputes arose. | Establishes what was known before the foundation order was sought. |
-| August 2025 | Foundation order obtained. | Potential moment of material non-disclosure or false sworn evidence. |
-| Post-order period | The order was used to affect operational and contempt positions. | Shows whether an allegedly misleading narrative was deployed beyond the initial order. |
-| March 2026 | Contempt application dismissed. | Demonstrates that breach and wilfulness were not established on the contempt record.[2] [3] |
-| 1 June 2026 | SCA petition lodged. | Shows continuing reliance on the same contempt theory after dismissal.[1] [2] [3] |
+Investigators are requested to obtain statements from the complainants, affected company representatives, custodians of banking and accounting records, any attorney or service-record custodians, and any person who can explain the authority distinctions between founder, trustee, director, shareholder, employee and information-officer capacities.
 
-## Requested investigative action
+Investigators are further requested to obtain original court filings, commissioned affidavits, source banking records, attorney correspondence, FNB mandate records, company registers, trust instruments, accounting ledgers and access logs for information used in the litigation record.
 
-The complainants request that SAPS, Commercial Crime or the prosecuting authority open an inquiry or docket; obtain the complete court record; preserve original affidavits and commissioning records; secure emails, metadata, bank records, company records and accounting ledgers; interview deponents, attorneys, bankers, directors, employees and relevant witnesses; compare sworn statements to source documents; and refer the matter for prosecution if the evidence supports charges.
+## Request for docket and preservation
 
-The investigators should also consider whether the matter overlaps with commercial crime, CIPC, SARS and POPIA investigations. If so, the docket should preserve a clean evidentiary chain while coordinating subpoenas and avoiding inconsistent factual findings.
+I request that SAPS allocate a CAS number, preserve the documents identified in this statement, consider Commercial Crime allocation, and refer the matter to the prosecuting authority if the investigation confirms the required elements of any offence. I also request that investigators consider whether any urgent preservation letter or subpoena process is required to prevent deletion or alteration of email, accounting, banking or litigation-source records.
 
-## Common evidence schedule
+## Oath block for filing copy
+
+I certify that the contents of this statement are true and correct to the best of my knowledge and belief, save where I expressly state that a matter is based on documents or information requiring investigation. I know and understand the contents of this declaration. I have no objection to taking the prescribed oath. I consider the oath binding on my conscience.
+
+| Signature and commissioning | Detail |
+|---|---|
+| Deponent signature | ______________________________ |
+| Place | ______________________________ |
+| Date | ______________________________ |
+| Commissioner of oaths | ______________________________ |
+| SAPS / rank / force number | ______________________________ |
+
+## Documentary annexure schedule
 
 | Evidence item | Description | Principal use across the bundle |
 |---|---|---|
@@ -73,12 +71,13 @@ The investigators should also consider whether the matter overlaps with commerci
 | E3 | SCA petition dated 1 June 2026, together with the identical transcription and analysis report | Shows the continued attempt to revive contempt relief after the contempt application failed.[1] [2] [3] |
 | E4 | Banking mandates, FNB communications, company-authority documents and operational-control records | Tests whether the foundation narrative omitted or misdescribed governance and economic-control facts.[4] [5] [6] |
 | E5 | Email, attorney correspondence, court-service records and chronology entries | Establishes timing, knowledge, persistence and whether disputed assertions continued after contradictory documents existed.[6] [7] |
-| E6 | Historical void-ab-initio, Rule 42, perjury, tax, CIPC, POPIA and commercial-crime workpapers | Supplies the consolidated evidence map and historical draft lineage used to generate this v33 bundle.[8] [9] [10] [11] [12] [13] |
+| E6 | Historical void-ab-initio, Rule 42, perjury, tax, CIPC, POPIA and commercial-crime workpapers | Supplies the consolidated evidence map and historical draft lineage used to generate this v34 forum-specific filing pack.[8] [9] [10] [11] [12] [13] |
 
 
-## Verification and filing note
+## Repository preparation note: source lineage
 
-Before submission, each alleged false statement should be placed in a three-column annexure: the sworn statement, the contradicting source evidence and the knowledge/timing evidence. That annexure is essential because criminal referrals should not rely on broad narrative accusation where a precise statement-by-statement comparison is available.
+This v34 filing preserves the consolidated evidence synthesis from the v33 bundle, but moves historical source-lineage material out of the first substantive filing section. The formal document now opens in the format expected by the receiving forum. The principal sources remain the comprehensive void-*ab-initio* affidavit package, the extended perjury affidavit, the Rule 42 legal memorandum, the SCA petition evidence dossier, the comprehensive NPA tax-fraud report, the evidence-enhanced CIPC complaint and the refined POPIA complaint.
+
 
 ## References
 

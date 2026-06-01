@@ -40,18 +40,18 @@ For **civil filings**, this document supports chronology, litigation-procedure, 
 
 ## Response filing updates
 
-The SCA petition has now been routed into the consolidated v33 [2026-06-01 SCA response filing bundle](../filings/2026-06-01-sca-response-bundle/), covering civil/SCA opposition, Rule 42/common-law rescission, criminal perjury and defeating-justice referral, CIPC, POPIA, Commercial Crime, and NPA/SARS tax-fraud investigation routes. The bundle preserves the distinction between civil proof, regulatory concern, investigation thresholds, and criminal-referral burdens.
+The SCA petition has now been routed into the corrected v34 [2026-06-01 SCA response filing pack](../filings/2026-06-01-sca-response-bundle/), covering a High Court Rule 42 notice/founding-affidavit framework, SCA opposing affidavit, SAPS complainant statement, CIPC CoR135.1-style complaint narrative, Information Regulator POPIA complaint statement, Commercial Crime referral, and NPA/SARS tax-risk referral. The pack preserves the distinction between civil proof, regulatory concern, investigation thresholds, and criminal-referral burdens while using the expected format for each receiving body.
 
 
-### Complete v33 response filing bundle
+### Complete v34 forum-specific response filing pack
 
-The earlier v31 supplement-style response bundle and v32 baseline have been replaced with a complete v33 consolidated submission bundle for unfiled civil, criminal, NPA/SARS, CIPC and POPIA tracks:
+The earlier v31 supplement-style response bundle, v32 baseline and v33 memorandum-style consolidation have been replaced with a complete v34 forum-specific filing pack for unfiled civil, criminal, NPA/SARS, CIPC and POPIA tracks:
 
 - [Complete filing bundle index](../filings/2026-06-01-sca-response-bundle/)
-- [Civil Rule 42/common-law rescission response](../filings/2026-06-01-sca-response-bundle/CIVIL_RULE42_RESPONSE.md)
-- [Civil/SCA opposition](../filings/2026-06-01-sca-response-bundle/CIVIL_SCA_OPPOSITION.md)
-- [Criminal perjury and defeating-justice referral](../filings/2026-06-01-sca-response-bundle/CRIMINAL_PERJURY_AND_DEFEATING_JUSTICE.md)
-- [NPA Commercial Crime submission](../filings/2026-06-01-sca-response-bundle/NPA_COMMERCIAL_CRIME.md)
-- [NPA/SARS tax-fraud submission](../filings/2026-06-01-sca-response-bundle/NPA_SARS_TAX_FRAUD.md)
-- [CIPC Companies Act complaint](../filings/2026-06-01-sca-response-bundle/CIPC_COMPANIES_ACT.md)
-- [POPIA complaint](../filings/2026-06-01-sca-response-bundle/POPIA_COMPLAINT.md)
+- [High Court Rule 42 notice, draft order and founding-affidavit framework](../filings/2026-06-01-sca-response-bundle/CIVIL_RULE42_RESPONSE.md)
+- [SCA opposing / answering affidavit](../filings/2026-06-01-sca-response-bundle/CIVIL_SCA_OPPOSITION.md)
+- [SAPS complainant statement for perjury and defeating-justice investigation](../filings/2026-06-01-sca-response-bundle/CRIMINAL_PERJURY_AND_DEFEATING_JUSTICE.md)
+- [NPA / Commercial Crime referral letter](../filings/2026-06-01-sca-response-bundle/NPA_COMMERCIAL_CRIME.md)
+- [SARS Criminal Investigations / NPA tax-risk referral letter](../filings/2026-06-01-sca-response-bundle/NPA_SARS_TAX_FRAUD.md)
+- [CIPC CoR135.1-style Companies Act complaint narrative](../filings/2026-06-01-sca-response-bundle/CIPC_COMPANIES_ACT.md)
+- [Information Regulator POPIA complaint statement](../filings/2026-06-01-sca-response-bundle/POPIA_COMPLAINT.md)
