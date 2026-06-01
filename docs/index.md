@@ -343,3 +343,11 @@ For comprehensive supporting evidence, see the **[ad-res-j7 repository](https://
 
 **Previous Refinement:** 2026-04-20 — appeal-stage evidence, Danie mailbox evidence, and full Rynette Exchange-export conversation layer added on top of the v21 / v21.1 baseline
 - [Cycle 4 Index](cycle9/INDEX.md)
+
+## Recent Updates
+
+
+### 2026-06-01 — KF0019 SCA Leave-to-Appeal Filing
+
+A new Supreme Court of Appeal filing dated **1 June 2026** has been preserved with its source PDF, identical transcription, and QA notes. See [EVENT_180](./events/EVENT_180.md) and the [KF0019 SCA annexure folder](./annexures/KF0019/2026-06-01-sca-leave-to-appeal/README.md).
+

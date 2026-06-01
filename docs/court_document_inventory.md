@@ -120,3 +120,14 @@ Additionally, related procedural notices filed on 3 March 2026:
 ---
 
 *Compiled: 14 March 2026*
+
+## 8. KF0019 — Supreme Court of Appeal Leave-to-Appeal Application — 1 June 2026
+
+This is the **Supreme Court of Appeal application** dated 1 June 2026, under reference **KF0019**, in which Peter Andrew Faucitt seeks leave to appeal against the whole of the 26 March 2026 judgment and order of Labuschagne J in case number 2025/137857. The source PDF contains 56 scanned pages and no embedded text layer.
+
+| File | Repository Path | Pages | Status | Notes |
+|---|---|---:|---|---|
+| KF0019-SCA-LeaveToAppeal-2026-06-01.pdf | `docs/annexures/KF0019/2026-06-01-sca-leave-to-appeal/` | 56 | **FOUND** | Primary scanned SCA filing supplied on 1 June 2026. |
+| KF0019-SCA-LeaveToAppeal-2026-06-01.identical-transcription.md | `docs/annexures/KF0019/2026-06-01-sca-leave-to-appeal/` | 56 | **TRANSCRIBED** | Page-separated identical Markdown transcription with OCR/visual review. |
+| transcription_QA_report.md | `docs/annexures/KF0019/2026-06-01-sca-leave-to-appeal/` | — | **QA COMPLETE** | Confirms page count and manual correction of page 55 handwritten amendment. |
+
