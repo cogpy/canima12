@@ -31,19 +31,22 @@
     "id": "BANK_ACCOUNT_001",
     "name": "BANK_ACCOUNT_001",
     "type": "Bank/Account",
-    "file": "docs/entities/BANK_ACCOUNT_001.md"
+    "file": "docs/entities/BANK_ACCOUNT_001.md",
+    "role": "unclassified"
   },
   {
     "id": "BANK_ACCOUNT_002",
     "name": "BANK_ACCOUNT_002",
     "type": "Bank/Account",
-    "file": "docs/entities/BANK_ACCOUNT_002.md"
+    "file": "docs/entities/BANK_ACCOUNT_002.md",
+    "role": "unclassified"
   },
   {
     "id": "BANK_ACCOUNT_003",
     "name": "BANK_ACCOUNT_003",
     "type": "Bank/Account",
-    "file": "docs/entities/BANK_ACCOUNT_003.md"
+    "file": "docs/entities/BANK_ACCOUNT_003.md",
+    "role": "unclassified"
   },
   {
     "id": "BANK_ACCOUNT_004",
@@ -57,13 +60,15 @@
     "applications": [
       "app1_civil_criminal",
       "app2_cipc_popia"
-    ]
+    ],
+    "role": "unclassified"
   },
   {
     "id": "BANK_ACCOUNT_005",
     "name": "Ketoni Standard Bank Account",
     "type": "Bank/Account",
-    "file": "docs/entities/BANK_ACCOUNT_005.md"
+    "file": "docs/entities/BANK_ACCOUNT_005.md",
+    "role": "unclassified"
   },
   {
     "id": "BANK_ACCOUNT_ABSA",
@@ -79,7 +84,8 @@
     "applications": [
       "app1_civil_criminal",
       "app3_commercial_crime_tax"
-    ]
+    ],
+    "role": "unclassified"
   },
   {
     "id": "DOMAIN_001",
@@ -515,7 +521,8 @@
       "app1_civil_criminal",
       "app2_cipc_popia",
       "app3_commercial_crime_tax"
-    ]
+    ],
+    "role": "unclassified"
   },
   {
     "id": "ORG_016",
@@ -530,7 +537,8 @@
     "applications": [
       "app1_civil_criminal",
       "app2_cipc_popia"
-    ]
+    ],
+    "role": "unclassified"
   },
   {
     "id": "ORG_017",
@@ -551,7 +559,8 @@
     "applications": [
       "app1_civil_criminal",
       "app2_cipc_popia"
-    ]
+    ],
+    "role": "unclassified"
   },
   {
     "id": "ORG_018",
@@ -568,7 +577,8 @@
     "applications": [
       "app1_civil_criminal",
       "app2_cipc_popia"
-    ]
+    ],
+    "role": "unclassified"
   },
   {
     "id": "ORG_019",
@@ -583,7 +593,8 @@
     ],
     "applications": [
       "app1_civil_criminal"
-    ]
+    ],
+    "role": "unclassified"
   },
   {
     "id": "ORG_020",
@@ -599,7 +610,8 @@
     ],
     "applications": [
       "app1_civil_criminal"
-    ]
+    ],
+    "role": "unclassified"
   },
   {
     "id": "ORG_021",
@@ -609,7 +621,8 @@
     "legal_categories": [
       "contempt_of_court"
     ],
-    "applications": []
+    "applications": [],
+    "role": "unclassified"
   },
   {
     "id": "ORG_022",
@@ -630,7 +643,8 @@
     "applications": [
       "app1_civil_criminal",
       "app3_commercial_crime_tax"
-    ]
+    ],
+    "role": "unclassified"
   },
   {
     "id": "ORG_024",
@@ -642,7 +656,8 @@
     ],
     "applications": [
       "app2_cipc_popia"
-    ]
+    ],
+    "role": "unclassified"
   },
   {
     "id": "ORG_025",
@@ -657,7 +672,8 @@
     ],
     "applications": [
       "app1_civil_criminal"
-    ]
+    ],
+    "role": "unclassified"
   },
   {
     "id": "ORG_026",
@@ -673,7 +689,8 @@
     ],
     "applications": [
       "app1_civil_criminal"
-    ]
+    ],
+    "role": "unclassified"
   },
   {
     "id": "ORG_027",
@@ -688,13 +705,15 @@
     ],
     "applications": [
       "app2_cipc_popia"
-    ]
+    ],
+    "role": "unclassified"
   },
   {
     "id": "ORG_028",
     "name": "Elliott Attorneys Incorporated",
     "type": "Organization",
-    "file": "docs/entities/ORG_028.md"
+    "file": "docs/entities/ORG_028.md",
+    "role": "unclassified"
   },
   {
     "id": "ORG_029",
@@ -1188,7 +1207,8 @@
     "legal_categories": [
       "contempt_of_court"
     ],
-    "applications": []
+    "applications": [],
+    "role": "unclassified"
   },
   {
     "id": "PERSON_020",
@@ -1265,7 +1285,8 @@
     "applications": [
       "app1_civil_criminal",
       "app3_commercial_crime_tax"
-    ]
+    ],
+    "role": "unclassified"
   },
   {
     "id": "PERSON_040",
@@ -1277,7 +1298,8 @@
     ],
     "applications": [
       "app2_cipc_popia"
-    ]
+    ],
+    "role": "unclassified"
   },
   {
     "id": "PERSON_041",
@@ -1289,7 +1311,8 @@
     ],
     "applications": [
       "app1_civil_criminal"
-    ]
+    ],
+    "role": "unclassified"
   },
   {
     "id": "PERSON_042",
@@ -1298,7 +1321,8 @@
     "file": "docs/entities/PERSON_042.md",
     "evidence_refs": [
       "EVENT116"
-    ]
+    ],
+    "role": "unclassified"
   },
   {
     "id": "PERSON_043",
@@ -1307,7 +1331,8 @@
     "file": "docs/entities/PERSON_043.md",
     "evidence_refs": [
       "EVENT116"
-    ]
+    ],
+    "role": "unclassified"
   },
   {
     "id": "PERSON_044",
@@ -1319,7 +1344,8 @@
     ],
     "applications": [
       "app1_civil_criminal"
-    ]
+    ],
+    "role": "unclassified"
   },
   {
     "id": "PERSON_045",
@@ -1347,7 +1373,8 @@
     ],
     "applications": [
       "app1_civil_criminal"
-    ]
+    ],
+    "role": "unclassified"
   },
   {
     "id": "PLATFORM_001",
@@ -1402,5 +1429,27 @@
       "app1_civil_criminal",
       "app3_commercial_crime_tax"
     ]
+  },
+  {
+    "id": "PLATFORM_003",
+    "name": "Platform 003",
+    "type": "unknown",
+    "role": "referenced_but_undefined",
+    "relationships": [],
+    "primary_actions": [],
+    "evidence_refs": [],
+    "legal_categories": [],
+    "applications": []
+  },
+  {
+    "id": "PERSON_LINDA",
+    "name": "Person Linda",
+    "type": "unknown",
+    "role": "referenced_but_undefined",
+    "relationships": [],
+    "primary_actions": [],
+    "evidence_refs": [],
+    "legal_categories": [],
+    "applications": []
   }
 ]

@@ -41,7 +41,8 @@
       "app1_civil_criminal",
       "app2_cipc_popia",
       "app3_commercial_crime_tax"
-    ]
+    ],
+    "relation_type": "unclassified"
   },
   {
     "id": "BANKING_MANDATE_FRAUD",
@@ -69,7 +70,8 @@
       "app1_civil_criminal",
       "app2_cipc_popia",
       "app3_commercial_crime_tax"
-    ]
+    ],
+    "relation_type": "unclassified"
   },
   {
     "id": "BANTJIES_FALSE_INDEPENDENCE",
@@ -90,7 +92,8 @@
       "app1_civil_criminal",
       "app2_cipc_popia",
       "app3_commercial_crime_tax"
-    ]
+    ],
+    "relation_type": "unclassified"
   },
   {
     "id": "CONTEMPT_RELATIONS_2026_02_09",
@@ -114,7 +117,8 @@
     ],
     "applications": [
       "app1_civil_criminal"
-    ]
+    ],
+    "relation_type": "unclassified"
   },
   {
     "id": "COORDINATED_RETALIATION",
@@ -133,7 +137,8 @@
     "applications": [
       "app1_civil_criminal",
       "app3_commercial_crime_tax"
-    ]
+    ],
+    "relation_type": "unclassified"
   },
   {
     "id": "DOMAIN_IDENTITY_FRAUD",
@@ -156,7 +161,8 @@
       "app1_civil_criminal",
       "app2_cipc_popia",
       "app3_commercial_crime_tax"
-    ]
+    ],
+    "relation_type": "unclassified"
   },
   {
     "id": "DUAL_CORPORATE_IDENTITY",
@@ -183,7 +189,8 @@
       "app1_civil_criminal",
       "app2_cipc_popia",
       "app3_commercial_crime_tax"
-    ]
+    ],
+    "relation_type": "unclassified"
   },
   {
     "id": "ELLIOTT_ATTORNEYS_PROTECTION",
@@ -199,7 +206,8 @@
     ],
     "applications": [
       "app1_civil_criminal"
-    ]
+    ],
+    "relation_type": "unclassified"
   },
   {
     "id": "FORGERY_BACKDATING_RELATIONS_2026_02_18",
@@ -226,7 +234,8 @@
     "applications": [
       "app1_civil_criminal",
       "app3_commercial_crime_tax"
-    ]
+    ],
+    "relation_type": "unclassified"
   },
   {
     "id": "IDENTITY_FRAUD_NETWORK",
@@ -254,7 +263,8 @@
       "app1_civil_criminal",
       "app2_cipc_popia",
       "app3_commercial_crime_tax"
-    ]
+    ],
+    "relation_type": "unclassified"
   },
   {
     "id": "INTERCOMPANY_FRAUD",
@@ -276,7 +286,8 @@
       "app1_civil_criminal",
       "app2_cipc_popia",
       "app3_commercial_crime_tax"
-    ]
+    ],
+    "relation_type": "unclassified"
   },
   {
     "id": "INTERDICT_VOID_AB_INITIO",
