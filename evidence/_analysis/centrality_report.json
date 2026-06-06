@@ -1,0 +1,352 @@
+[
+  {
+    "node_id": "MAILBOX_EVIDENCE_RELATIONS_2026_02_09",
+    "label": "MAILBOX_EVIDENCE_RELATIONS_2026_02_09",
+    "type": "claim",
+    "degree": 229,
+    "centrality": 0.5363
+  },
+  {
+    "node_id": "LEX_SIM_NN_ATTRIBUTION_2026_03_10",
+    "label": "LEX_SIM_NN_ATTRIBUTION_2026_03_10",
+    "type": "claim",
+    "degree": 229,
+    "centrality": 0.5363
+  },
+  {
+    "node_id": "EVT-077",
+    "label": "EVT-077",
+    "type": "claim",
+    "degree": 229,
+    "centrality": 0.5363
+  },
+  {
+    "node_id": "EVENT_070",
+    "label": "EVENT_070",
+    "type": "claim",
+    "degree": 229,
+    "centrality": 0.5363
+  },
+  {
+    "node_id": "EVENT_020",
+    "label": "EVENT_020",
+    "type": "claim",
+    "degree": 229,
+    "centrality": 0.5363
+  },
+  {
+    "node_id": "KF0019_ANALYSIS",
+    "label": "KF0019_ANALYSIS",
+    "type": "claim",
+    "degree": 229,
+    "centrality": 0.5363
+  },
+  {
+    "node_id": "EVENT_EML_001",
+    "label": "EVENT_EML_001",
+    "type": "claim",
+    "degree": 229,
+    "centrality": 0.5363
+  },
+  {
+    "node_id": "EVT-067",
+    "label": "EVT-067",
+    "type": "claim",
+    "degree": 229,
+    "centrality": 0.5363
+  },
+  {
+    "node_id": "EVENT_102",
+    "label": "EVENT_102",
+    "type": "claim",
+    "degree": 229,
+    "centrality": 0.5363
+  },
+  {
+    "node_id": "EVENT_019",
+    "label": "EVENT_019",
+    "type": "claim",
+    "degree": 229,
+    "centrality": 0.5363
+  },
+  {
+    "node_id": "EVENT_005",
+    "label": "EVENT_005",
+    "type": "claim",
+    "degree": 81,
+    "centrality": 0.1897
+  },
+  {
+    "node_id": "EVENT_123",
+    "label": "EVENT_123",
+    "type": "claim",
+    "degree": 69,
+    "centrality": 0.1616
+  },
+  {
+    "node_id": "SARS_FLAGGED_INVOICES",
+    "label": "SARS_FLAGGED_INVOICES",
+    "type": "claim",
+    "degree": 69,
+    "centrality": 0.1616
+  },
+  {
+    "node_id": "EVENT_112",
+    "label": "EVENT_112",
+    "type": "claim",
+    "degree": 65,
+    "centrality": 0.1522
+  },
+  {
+    "node_id": "EVENT_FNB002",
+    "label": "EVENT_FNB002",
+    "type": "claim",
+    "degree": 57,
+    "centrality": 0.1335
+  },
+  {
+    "node_id": "IMAGE_2CA73A1308C2",
+    "label": "IMAGE_2CA73A1308C2",
+    "type": "evidence_item",
+    "degree": 57,
+    "centrality": 0.1335
+  },
+  {
+    "node_id": "EMAIL_D4BE52B4F815",
+    "label": "EMAIL_D4BE52B4F815",
+    "type": "evidence_item",
+    "degree": 53,
+    "centrality": 0.1241
+  },
+  {
+    "node_id": "EMAIL_3913620B19B1",
+    "label": "EMAIL_3913620B19B1",
+    "type": "evidence_item",
+    "degree": 53,
+    "centrality": 0.1241
+  },
+  {
+    "node_id": "EMAIL_78C0883C28FA",
+    "label": "EMAIL_78C0883C28FA",
+    "type": "evidence_item",
+    "degree": 49,
+    "centrality": 0.1148
+  },
+  {
+    "node_id": "EMAIL_CE7DA123AA8A",
+    "label": "EMAIL_CE7DA123AA8A",
+    "type": "evidence_item",
+    "degree": 49,
+    "centrality": 0.1148
+  },
+  {
+    "node_id": "EVENT_175",
+    "label": "EVENT_175",
+    "type": "claim",
+    "degree": 47,
+    "centrality": 0.1101
+  },
+  {
+    "node_id": "DOCUMENT_64DB6080EC56",
+    "label": "DOCUMENT_64DB6080EC56",
+    "type": "evidence_item",
+    "degree": 46,
+    "centrality": 0.1077
+  },
+  {
+    "node_id": "KF0019_DETAILED_ANALYSIS",
+    "label": "KF0019_DETAILED_ANALYSIS",
+    "type": "claim",
+    "degree": 44,
+    "centrality": 0.103
+  },
+  {
+    "node_id": "EVENT_085",
+    "label": "EVENT_085",
+    "type": "claim",
+    "degree": 44,
+    "centrality": 0.103
+  },
+  {
+    "node_id": "REL_037",
+    "label": "REL_037",
+    "type": "claim",
+    "degree": 44,
+    "centrality": 0.103
+  },
+  {
+    "node_id": "DOCUMENT_F389C1DC0988",
+    "label": "DOCUMENT_F389C1DC0988",
+    "type": "evidence_item",
+    "degree": 44,
+    "centrality": 0.103
+  },
+  {
+    "node_id": "DOCUMENT_18599C37AB5C",
+    "label": "DOCUMENT_18599C37AB5C",
+    "type": "evidence_item",
+    "degree": 44,
+    "centrality": 0.103
+  },
+  {
+    "node_id": "DOCUMENT_B33772144A20",
+    "label": "DOCUMENT_B33772144A20",
+    "type": "evidence_item",
+    "degree": 44,
+    "centrality": 0.103
+  },
+  {
+    "node_id": "EVT-063",
+    "label": "EVT-063",
+    "type": "claim",
+    "degree": 43,
+    "centrality": 0.1007
+  },
+  {
+    "node_id": "UNKNOWN_E7316BE06044",
+    "label": "UNKNOWN_E7316BE06044",
+    "type": "evidence_item",
+    "degree": 42,
+    "centrality": 0.0984
+  },
+  {
+    "node_id": "DOCUMENT_46085CB73EB2",
+    "label": "DOCUMENT_46085CB73EB2",
+    "type": "evidence_item",
+    "degree": 42,
+    "centrality": 0.0984
+  },
+  {
+    "node_id": "IMAGE_3200516AD048",
+    "label": "IMAGE_3200516AD048",
+    "type": "evidence_item",
+    "degree": 41,
+    "centrality": 0.096
+  },
+  {
+    "node_id": "DOCUMENT_E7D6BCACAE4D",
+    "label": "DOCUMENT_E7D6BCACAE4D",
+    "type": "evidence_item",
+    "degree": 41,
+    "centrality": 0.096
+  },
+  {
+    "node_id": "IMAGE_C3B9C14A57C1",
+    "label": "IMAGE_C3B9C14A57C1",
+    "type": "evidence_item",
+    "degree": 40,
+    "centrality": 0.0937
+  },
+  {
+    "node_id": "UNKNOWN_BF4AFADD2030",
+    "label": "UNKNOWN_BF4AFADD2030",
+    "type": "evidence_item",
+    "degree": 38,
+    "centrality": 0.089
+  },
+  {
+    "node_id": "DOCUMENT_E6188282BF4E",
+    "label": "DOCUMENT_E6188282BF4E",
+    "type": "evidence_item",
+    "degree": 38,
+    "centrality": 0.089
+  },
+  {
+    "node_id": "UNKNOWN_7595AB85DF20",
+    "label": "UNKNOWN_7595AB85DF20",
+    "type": "evidence_item",
+    "degree": 38,
+    "centrality": 0.089
+  },
+  {
+    "node_id": "DOCUMENT_024BCEF36AEA",
+    "label": "DOCUMENT_024BCEF36AEA",
+    "type": "evidence_item",
+    "degree": 38,
+    "centrality": 0.089
+  },
+  {
+    "node_id": "UNKNOWN_6CC42B772F00",
+    "label": "UNKNOWN_6CC42B772F00",
+    "type": "evidence_item",
+    "degree": 38,
+    "centrality": 0.089
+  },
+  {
+    "node_id": "DOCUMENT_2CE763EC13BC",
+    "label": "DOCUMENT_2CE763EC13BC",
+    "type": "evidence_item",
+    "degree": 38,
+    "centrality": 0.089
+  },
+  {
+    "node_id": "EVT-070",
+    "label": "EVT-070",
+    "type": "claim",
+    "degree": 37,
+    "centrality": 0.0867
+  },
+  {
+    "node_id": "EVENT_084",
+    "label": "EVENT_084",
+    "type": "claim",
+    "degree": 37,
+    "centrality": 0.0867
+  },
+  {
+    "node_id": "IMAGE_551E3003D18E",
+    "label": "IMAGE_551E3003D18E",
+    "type": "evidence_item",
+    "degree": 37,
+    "centrality": 0.0867
+  },
+  {
+    "node_id": "DOCUMENT_B707D84563A8",
+    "label": "DOCUMENT_B707D84563A8",
+    "type": "evidence_item",
+    "degree": 36,
+    "centrality": 0.0843
+  },
+  {
+    "node_id": "DOCUMENT_90EB0F5602A8",
+    "label": "DOCUMENT_90EB0F5602A8",
+    "type": "evidence_item",
+    "degree": 36,
+    "centrality": 0.0843
+  },
+  {
+    "node_id": "DOCUMENT_16A15C9575BC",
+    "label": "DOCUMENT_16A15C9575BC",
+    "type": "evidence_item",
+    "degree": 36,
+    "centrality": 0.0843
+  },
+  {
+    "node_id": "RYNETTE_BANTJIES_CONSPIRACY_2026_03_07",
+    "label": "RYNETTE_BANTJIES_CONSPIRACY_2026_03_07",
+    "type": "claim",
+    "degree": 35,
+    "centrality": 0.082
+  },
+  {
+    "node_id": "IMAGE_C3BC08255B44",
+    "label": "IMAGE_C3BC08255B44",
+    "type": "evidence_item",
+    "degree": 35,
+    "centrality": 0.082
+  },
+  {
+    "node_id": "EVENT_108",
+    "label": "EVENT_108",
+    "type": "claim",
+    "degree": 33,
+    "centrality": 0.0773
+  },
+  {
+    "node_id": "EVT-064",
+    "label": "EVT-064",
+    "type": "claim",
+    "degree": 32,
+    "centrality": 0.0749
+  }
+]

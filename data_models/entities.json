@@ -39,14 +39,22 @@
     "name": "BANK_ACCOUNT_002",
     "type": "Bank/Account",
     "file": "docs/entities/BANK_ACCOUNT_002.md",
-    "role": "unclassified"
+    "role": "unclassified",
+    "metadata": {
+      "orphan_flagged": "2026-06-06T06:20:29.218879",
+      "needs_connection": true
+    }
   },
   {
     "id": "BANK_ACCOUNT_003",
     "name": "BANK_ACCOUNT_003",
     "type": "Bank/Account",
     "file": "docs/entities/BANK_ACCOUNT_003.md",
-    "role": "unclassified"
+    "role": "unclassified",
+    "metadata": {
+      "orphan_flagged": "2026-06-06T06:20:29.218891",
+      "needs_connection": true
+    }
   },
   {
     "id": "BANK_ACCOUNT_004",
@@ -61,14 +69,22 @@
       "app1_civil_criminal",
       "app2_cipc_popia"
     ],
-    "role": "unclassified"
+    "role": "unclassified",
+    "metadata": {
+      "orphan_flagged": "2026-06-06T06:20:29.218893",
+      "needs_connection": true
+    }
   },
   {
     "id": "BANK_ACCOUNT_005",
     "name": "Ketoni Standard Bank Account",
     "type": "Bank/Account",
     "file": "docs/entities/BANK_ACCOUNT_005.md",
-    "role": "unclassified"
+    "role": "unclassified",
+    "metadata": {
+      "orphan_flagged": "2026-06-06T06:18:55.191120",
+      "needs_connection": true
+    }
   },
   {
     "id": "BANK_ACCOUNT_ABSA",
@@ -105,7 +121,11 @@
     ],
     "applications": [
       "app1_civil_criminal"
-    ]
+    ],
+    "metadata": {
+      "orphan_flagged": "2026-06-06T06:20:29.218896",
+      "needs_connection": true
+    }
   },
   {
     "id": "DOMAIN_002",
@@ -134,7 +154,11 @@
     "applications": [
       "app1_civil_criminal",
       "app2_cipc_popia"
-    ]
+    ],
+    "metadata": {
+      "orphan_flagged": "2026-06-06T06:20:29.218898",
+      "needs_connection": true
+    }
   },
   {
     "id": "ORG_001",
@@ -315,7 +339,11 @@
     ],
     "applications": [
       "app1_civil_criminal"
-    ]
+    ],
+    "metadata": {
+      "orphan_flagged": "2026-06-06T06:18:55.191138",
+      "needs_connection": true
+    }
   },
   {
     "id": "ORG_008",
@@ -385,7 +413,11 @@
     "applications": [
       "app1_civil_criminal",
       "app2_cipc_popia"
-    ]
+    ],
+    "metadata": {
+      "orphan_flagged": "2026-06-06T06:20:29.218902",
+      "needs_connection": true
+    }
   },
   {
     "id": "ORG_010",
@@ -418,7 +450,11 @@
     "applications": [
       "app1_civil_criminal",
       "app2_cipc_popia"
-    ]
+    ],
+    "metadata": {
+      "orphan_flagged": "2026-06-06T06:16:35.917153",
+      "needs_connection": true
+    }
   },
   {
     "id": "ORG_011",
@@ -432,7 +468,11 @@
       "EVENT077",
       "JF13",
       "KF0019"
-    ]
+    ],
+    "metadata": {
+      "orphan_flagged": "2026-06-06T06:18:55.191141",
+      "needs_connection": true
+    }
   },
   {
     "id": "ORG_012",
@@ -457,7 +497,11 @@
     "applications": [
       "app1_civil_criminal",
       "app2_cipc_popia"
-    ]
+    ],
+    "metadata": {
+      "orphan_flagged": "2026-06-06T06:16:35.917156",
+      "needs_connection": true
+    }
   },
   {
     "id": "ORG_013",
@@ -479,7 +523,11 @@
     ],
     "applications": [
       "app2_cipc_popia"
-    ]
+    ],
+    "metadata": {
+      "orphan_flagged": "2026-06-06T06:16:35.917158",
+      "needs_connection": true
+    }
   },
   {
     "id": "ORG_014",
@@ -594,7 +642,11 @@
     "applications": [
       "app1_civil_criminal"
     ],
-    "role": "unclassified"
+    "role": "unclassified",
+    "metadata": {
+      "orphan_flagged": "2026-06-06T06:20:29.218907",
+      "needs_connection": true
+    }
   },
   {
     "id": "ORG_020",
@@ -611,7 +663,11 @@
     "applications": [
       "app1_civil_criminal"
     ],
-    "role": "unclassified"
+    "role": "unclassified",
+    "metadata": {
+      "orphan_flagged": "2026-06-06T06:18:55.191145",
+      "needs_connection": true
+    }
   },
   {
     "id": "ORG_021",
@@ -622,14 +678,22 @@
       "contempt_of_court"
     ],
     "applications": [],
-    "role": "unclassified"
+    "role": "unclassified",
+    "metadata": {
+      "orphan_flagged": "2026-06-06T06:20:29.218909",
+      "needs_connection": true
+    }
   },
   {
     "id": "ORG_022",
     "name": "ORG_022: ENS Africa",
     "type": "Organization",
     "file": "docs/entities/ORG_022.md",
-    "role": "Legal Firm"
+    "role": "Legal Firm",
+    "metadata": {
+      "orphan_flagged": "2026-06-06T06:20:29.218911",
+      "needs_connection": true
+    }
   },
   {
     "id": "ORG_023",
@@ -644,7 +708,11 @@
       "app1_civil_criminal",
       "app3_commercial_crime_tax"
     ],
-    "role": "unclassified"
+    "role": "unclassified",
+    "metadata": {
+      "orphan_flagged": "2026-06-06T06:20:29.218912",
+      "needs_connection": true
+    }
   },
   {
     "id": "ORG_024",
@@ -657,7 +725,11 @@
     "applications": [
       "app2_cipc_popia"
     ],
-    "role": "unclassified"
+    "role": "unclassified",
+    "metadata": {
+      "orphan_flagged": "2026-06-06T06:18:55.191150",
+      "needs_connection": true
+    }
   },
   {
     "id": "ORG_025",
@@ -723,14 +795,22 @@
     "role": "Legal Practice — FFT/Peter's Legal Advisors (Ketoni Matter)",
     "relationships": [
       "legal_advisor_to_TRUST_001"
-    ]
+    ],
+    "metadata": {
+      "orphan_flagged": "2026-06-06T06:20:29.218915",
+      "needs_connection": true
+    }
   },
   {
     "id": "ORG_030",
     "name": "Forvis Mazars",
     "type": "Organization",
     "file": "docs/entities/ORG_030.md",
-    "role": "Audit/Review Firm — Ketoni AFS Preparer"
+    "role": "Audit/Review Firm — Ketoni AFS Preparer",
+    "metadata": {
+      "orphan_flagged": "2026-06-06T06:18:55.191154",
+      "needs_connection": true
+    }
   },
   {
     "id": "PERSON_001",
@@ -955,7 +1035,11 @@
     ],
     "applications": [
       "app1_civil_criminal"
-    ]
+    ],
+    "metadata": {
+      "orphan_flagged": "2026-06-06T06:20:29.218919",
+      "needs_connection": true
+    }
   },
   {
     "id": "PERSON_007",
@@ -1029,7 +1113,11 @@
     ],
     "applications": [
       "app1_civil_criminal"
-    ]
+    ],
+    "metadata": {
+      "orphan_flagged": "2026-06-06T06:18:55.191160",
+      "needs_connection": true
+    }
   },
   {
     "id": "PERSON_009",
@@ -1056,7 +1144,11 @@
     ],
     "applications": [
       "app1_civil_criminal"
-    ]
+    ],
+    "metadata": {
+      "orphan_flagged": "2026-06-06T06:20:29.218921",
+      "needs_connection": true
+    }
   },
   {
     "id": "PERSON_010",
@@ -1088,7 +1180,11 @@
       "JF05",
       "JF07",
       "JF08"
-    ]
+    ],
+    "metadata": {
+      "orphan_flagged": "2026-06-06T06:20:29.218923",
+      "needs_connection": true
+    }
   },
   {
     "id": "PERSON_012",
@@ -1100,7 +1196,11 @@
       "JF05",
       "JF07",
       "JF08"
-    ]
+    ],
+    "metadata": {
+      "orphan_flagged": "2026-06-06T06:20:29.218925",
+      "needs_connection": true
+    }
   },
   {
     "id": "PERSON_013",
@@ -1167,7 +1267,11 @@
     "applications": [
       "app1_civil_criminal",
       "app3_commercial_crime_tax"
-    ]
+    ],
+    "metadata": {
+      "orphan_flagged": "2026-06-06T06:20:29.218928",
+      "needs_connection": true
+    }
   },
   {
     "id": "PERSON_017",
@@ -1180,7 +1284,11 @@
     ],
     "applications": [
       "app1_civil_criminal"
-    ]
+    ],
+    "metadata": {
+      "orphan_flagged": "2026-06-06T06:18:55.191167",
+      "needs_connection": true
+    }
   },
   {
     "id": "PERSON_018",
@@ -1193,7 +1301,11 @@
     ],
     "applications": [
       "app1_civil_criminal"
-    ]
+    ],
+    "metadata": {
+      "orphan_flagged": "2026-06-06T06:18:55.191169",
+      "needs_connection": true
+    }
   },
   {
     "id": "PERSON_019",
@@ -1208,7 +1320,11 @@
       "contempt_of_court"
     ],
     "applications": [],
-    "role": "unclassified"
+    "role": "unclassified",
+    "metadata": {
+      "orphan_flagged": "2026-06-06T06:18:55.191170",
+      "needs_connection": true
+    }
   },
   {
     "id": "PERSON_020",
@@ -1271,7 +1387,11 @@
     "role": "Sales/Order Processor",
     "evidence_refs": [
       "JF07"
-    ]
+    ],
+    "metadata": {
+      "orphan_flagged": "2026-06-06T06:20:29.218931",
+      "needs_connection": true
+    }
   },
   {
     "id": "PERSON_039",
@@ -1299,7 +1419,11 @@
     "applications": [
       "app2_cipc_popia"
     ],
-    "role": "unclassified"
+    "role": "unclassified",
+    "metadata": {
+      "orphan_flagged": "2026-06-06T06:20:29.218933",
+      "needs_connection": true
+    }
   },
   {
     "id": "PERSON_041",
@@ -1312,7 +1436,11 @@
     "applications": [
       "app1_civil_criminal"
     ],
-    "role": "unclassified"
+    "role": "unclassified",
+    "metadata": {
+      "orphan_flagged": "2026-06-06T06:18:55.191175",
+      "needs_connection": true
+    }
   },
   {
     "id": "PERSON_042",
@@ -1345,7 +1473,11 @@
     "applications": [
       "app1_civil_criminal"
     ],
-    "role": "unclassified"
+    "role": "unclassified",
+    "metadata": {
+      "orphan_flagged": "2026-06-06T06:20:29.218936",
+      "needs_connection": true
+    }
   },
   {
     "id": "PERSON_045",
@@ -1359,7 +1491,11 @@
     ],
     "evidence_refs": [
       "EVENT135"
-    ]
+    ],
+    "metadata": {
+      "orphan_flagged": "2026-06-06T06:18:55.191179",
+      "needs_connection": true
+    }
   },
   {
     "id": "PERSON_XENOPHONTOS",
@@ -1374,7 +1510,11 @@
     "applications": [
       "app1_civil_criminal"
     ],
-    "role": "unclassified"
+    "role": "unclassified",
+    "metadata": {
+      "orphan_flagged": "2026-06-06T06:18:55.191180",
+      "needs_connection": true
+    }
   },
   {
     "id": "PLATFORM_001",
@@ -1395,7 +1535,11 @@
     ],
     "applications": [
       "app1_civil_criminal"
-    ]
+    ],
+    "metadata": {
+      "orphan_flagged": "2026-06-06T06:20:29.218938",
+      "needs_connection": true
+    }
   },
   {
     "id": "PLATFORM_002",

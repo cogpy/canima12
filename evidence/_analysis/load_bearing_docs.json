@@ -1,0 +1,374 @@
+[
+  {
+    "item_id": "UNKNOWN_6CC42B772F00",
+    "type": "unknown",
+    "date": "0091-42-97",
+    "source_path": "evidence/trademark/FW_Trademarkregistrationnos.UK00914297063REGIMAZONEinclasses03,05and44inthenameofREGIMASKINTREATMENTSCC[Witzref_CS2511.UK.03+]-DanielFaucitt-Outlook.md",
+    "priority_score": 7.5,
+    "centrality": 0.089,
+    "structural_importance": 8.62,
+    "entities": [
+      "PERSON_005",
+      "ORG_003",
+      "ORG_002",
+      "PERSON_007",
+      "ORG_006",
+      "TRUST_001",
+      "PERSON_004",
+      "PERSON_001",
+      "ORG_010",
+      "ORG_014",
+      "ORG_001"
+    ]
+  },
+  {
+    "item_id": "DOCUMENT_2CE763EC13BC",
+    "type": "document",
+    "date": "0091-42-97",
+    "source_path": "evidence/trademark/FW_Trademarkregistrationnos.UK00914297063REGIMAZONEinclasses03,05and44inthenameofREGIMASKINTREATMENTSCC[Witzref_CS2511.UK.03+]-DanielFaucitt-Outlook.pdf",
+    "priority_score": 7.5,
+    "centrality": 0.089,
+    "structural_importance": 8.62,
+    "entities": [
+      "PERSON_005",
+      "ORG_003",
+      "ORG_002",
+      "PERSON_007",
+      "ORG_006",
+      "TRUST_001",
+      "PERSON_004",
+      "PERSON_001",
+      "ORG_010",
+      "ORG_014",
+      "ORG_001"
+    ]
+  },
+  {
+    "item_id": "DOCUMENT_64DB6080EC56",
+    "type": "document",
+    "date": "2025-06-18",
+    "source_path": "evidence/2026-02-05_new_evidence/2025-06-18 - Rynette & De Novo - RegimA SA Payments.pdf",
+    "priority_score": 8.167,
+    "centrality": 0.1077,
+    "structural_importance": 8.514,
+    "entities": [
+      "ORG_003",
+      "ORG_002",
+      "ORG_006",
+      "ORG_001",
+      "ORG_014",
+      "PERSON_002"
+    ]
+  },
+  {
+    "item_id": "EMAIL_D4BE52B4F815",
+    "type": "email",
+    "date": null,
+    "source_path": "evidence/fabricated_accounts/Fw_RegimaREZONANCE.eml",
+    "priority_score": 5.5,
+    "centrality": 0.1241,
+    "structural_importance": 8.473,
+    "entities": [
+      "BANK_001",
+      "ORG_003",
+      "BANK_ACCOUNT_005",
+      "ORG_002",
+      "ORG_006",
+      "ORG_008",
+      "ORG_014",
+      "BANK_ACCOUNT_004",
+      "ORG_001",
+      "BANK_ACCOUNT_ABSA"
+    ]
+  },
+  {
+    "item_id": "EMAIL_3913620B19B1",
+    "type": "email",
+    "date": null,
+    "source_path": "evidence/fabricated_accounts/Fw_RegimaREZONANCE.msg",
+    "priority_score": 5.5,
+    "centrality": 0.1241,
+    "structural_importance": 8.473,
+    "entities": [
+      "BANK_001",
+      "ORG_003",
+      "BANK_ACCOUNT_005",
+      "ORG_002",
+      "ORG_006",
+      "ORG_008",
+      "ORG_014",
+      "BANK_ACCOUNT_004",
+      "ORG_001",
+      "BANK_ACCOUNT_ABSA"
+    ]
+  },
+  {
+    "item_id": "DOCUMENT_E7D6BCACAE4D",
+    "type": "document",
+    "date": null,
+    "source_path": "evidence/fabricated_accounts/RegimaSA(Pty)Ltd-2019-Financialstatements-SME.pdf",
+    "priority_score": 5.5,
+    "centrality": 0.096,
+    "structural_importance": 8.43,
+    "entities": [
+      "BANK_001",
+      "ORG_026",
+      "BANK_ACCOUNT_005",
+      "ORG_002",
+      "ORG_003",
+      "ORG_006",
+      "ORG_017",
+      "ORG_027",
+      "ORG_014",
+      "BANK_ACCOUNT_004",
+      "ORG_001",
+      "ORG_016",
+      "ORG_012",
+      "BANK_ACCOUNT_ABSA"
+    ]
+  },
+  {
+    "item_id": "EMAIL_78C0883C28FA",
+    "type": "email",
+    "date": null,
+    "source_path": "evidence/fabricated_accounts/Fw_RE_RegimASAPayments.eml",
+    "priority_score": 5.5,
+    "centrality": 0.1148,
+    "structural_importance": 8.194,
+    "entities": [
+      "BANK_001",
+      "ORG_003",
+      "BANK_ACCOUNT_005",
+      "ORG_002",
+      "ORG_006",
+      "ORG_014",
+      "BANK_ACCOUNT_004",
+      "ORG_001",
+      "ORG_012",
+      "BANK_ACCOUNT_ABSA"
+    ]
+  },
+  {
+    "item_id": "EMAIL_CE7DA123AA8A",
+    "type": "email",
+    "date": null,
+    "source_path": "evidence/fabricated_accounts/Fw_RE_RegimASAPayments.msg",
+    "priority_score": 5.5,
+    "centrality": 0.1148,
+    "structural_importance": 8.194,
+    "entities": [
+      "BANK_001",
+      "ORG_003",
+      "BANK_ACCOUNT_005",
+      "ORG_002",
+      "ORG_006",
+      "ORG_014",
+      "BANK_ACCOUNT_004",
+      "ORG_001",
+      "ORG_012",
+      "BANK_ACCOUNT_ABSA"
+    ]
+  },
+  {
+    "item_id": "IMAGE_B3A654639E43",
+    "type": "image",
+    "date": "2025-09-11",
+    "source_path": "evidence/bank-statements/2025-09/2025-09-11_-_FNB_Account_Statement_-_RegimA_Skin_Treatments_5642.jpg",
+    "priority_score": 8.167,
+    "centrality": 0.0749,
+    "structural_importance": 7.931,
+    "entities": [
+      "ORG_003",
+      "BANK_ACCOUNT_005",
+      "ORG_002",
+      "ORG_006",
+      "ORG_010",
+      "ORG_001",
+      "ORG_014",
+      "BANK_ACCOUNT_004"
+    ]
+  },
+  {
+    "item_id": "DOCUMENT_B33772144A20",
+    "type": "document",
+    "date": null,
+    "source_path": "evidence/fabricated_accounts/Fw_RegimaREZONANCE.pdf",
+    "priority_score": 5.5,
+    "centrality": 0.103,
+    "structural_importance": 7.84,
+    "entities": [
+      "BANK_001",
+      "ORG_003",
+      "BANK_ACCOUNT_005",
+      "ORG_002",
+      "ORG_006",
+      "ORG_008",
+      "ORG_014",
+      "BANK_ACCOUNT_004",
+      "ORG_001",
+      "BANK_ACCOUNT_ABSA"
+    ]
+  },
+  {
+    "item_id": "DOCUMENT_F389C1DC0988",
+    "type": "document",
+    "date": "2025-04-14",
+    "source_path": "evidence/critical_analysis/2025-04-14 - Rynette Instruction to Clients to Pay into a New Bank Account only.pdf",
+    "priority_score": 8.167,
+    "centrality": 0.103,
+    "structural_importance": 7.773,
+    "entities": [
+      "PERSON_002",
+      "BANK_ACCOUNT_005",
+      "BANK_ACCOUNT_004"
+    ]
+  },
+  {
+    "item_id": "DOCUMENT_18599C37AB5C",
+    "type": "document",
+    "date": "2025-04-14",
+    "source_path": "evidence/critical_analysis/Fw_ 2025-04-14 - Rynette Instruction to Clients to Pay into a New Bank Account o.pdf",
+    "priority_score": 8.167,
+    "centrality": 0.103,
+    "structural_importance": 7.773,
+    "entities": [
+      "PERSON_002",
+      "BANK_ACCOUNT_005",
+      "BANK_ACCOUNT_004"
+    ]
+  },
+  {
+    "item_id": "IMAGE_D7DE0D54BCA2",
+    "type": "image",
+    "date": "2025-09-11",
+    "source_path": "evidence/bank-statements/2025-09/2025-09-11_-_FNB_Account_Statement_-_RegimA_Worldwide_Distribution_6362.jpg",
+    "priority_score": 8.167,
+    "centrality": 0.0749,
+    "structural_importance": 7.731,
+    "entities": [
+      "ORG_003",
+      "BANK_ACCOUNT_005",
+      "ORG_002",
+      "ORG_006",
+      "ORG_001",
+      "ORG_014",
+      "BANK_ACCOUNT_004"
+    ]
+  },
+  {
+    "item_id": "IMAGE_027417722282",
+    "type": "image",
+    "date": "2025-09-11",
+    "source_path": "evidence/bank-statements/2025-09/2025-09-11_-_FNB_Account_Statement_-_RegimA_Worldwide_Distribution_6362_p2.jpg",
+    "priority_score": 8.167,
+    "centrality": 0.0749,
+    "structural_importance": 7.731,
+    "entities": [
+      "ORG_003",
+      "BANK_ACCOUNT_005",
+      "ORG_002",
+      "ORG_006",
+      "ORG_001",
+      "ORG_014",
+      "BANK_ACCOUNT_004"
+    ]
+  },
+  {
+    "item_id": "IMAGE_2CA73A1308C2",
+    "type": "image",
+    "date": null,
+    "source_path": "evidence/emails/RYNETTE_BANTJIES_SARS_5_JUNE_2025.jpg",
+    "priority_score": 6.167,
+    "centrality": 0.1335,
+    "structural_importance": 7.489,
+    "entities": [
+      "PERSON_007",
+      "PERSON_002"
+    ]
+  },
+  {
+    "item_id": "DOCUMENT_263F689C49F2",
+    "type": "document",
+    "date": "2025-06-04",
+    "source_path": "evidence/bank_records/daniel_personal/D_FAUCITT_PERSONAL_BANK_RECORDS_20250604.pdf",
+    "priority_score": 8.167,
+    "centrality": 0.0679,
+    "structural_importance": 7.321,
+    "entities": [
+      "PERSON_005",
+      "PERSON_007",
+      "TRUST_001",
+      "PERSON_004",
+      "PERSON_001",
+      "PERSON_LINDA"
+    ]
+  },
+  {
+    "item_id": "DOCUMENT_3B1D668DA7A1",
+    "type": "document",
+    "date": "2025-07-04",
+    "source_path": "evidence/bank_records/daniel_personal/D_FAUCITT_PERSONAL_BANK_RECORDS_20250704.pdf",
+    "priority_score": 8.167,
+    "centrality": 0.0679,
+    "structural_importance": 7.321,
+    "entities": [
+      "PERSON_005",
+      "PERSON_007",
+      "TRUST_001",
+      "PERSON_004",
+      "PERSON_001",
+      "PERSON_LINDA"
+    ]
+  },
+  {
+    "item_id": "DOCUMENT_6A2613C67072",
+    "type": "document",
+    "date": "2025-08-04",
+    "source_path": "evidence/bank_records/daniel_personal/D_FAUCITT_PERSONAL_BANK_RECORDS_20250804.pdf",
+    "priority_score": 8.167,
+    "centrality": 0.0679,
+    "structural_importance": 7.321,
+    "entities": [
+      "PERSON_005",
+      "PERSON_007",
+      "TRUST_001",
+      "PERSON_004",
+      "PERSON_001",
+      "PERSON_LINDA"
+    ]
+  },
+  {
+    "item_id": "DOCUMENT_574AEAAF1603",
+    "type": "document",
+    "date": "2025-09-04",
+    "source_path": "evidence/bank_records/daniel_personal/D_FAUCITT_PERSONAL_BANK_RECORDS_20250904.pdf",
+    "priority_score": 8.167,
+    "centrality": 0.0679,
+    "structural_importance": 7.321,
+    "entities": [
+      "PERSON_005",
+      "PERSON_007",
+      "TRUST_001",
+      "PERSON_004",
+      "PERSON_001",
+      "PERSON_LINDA"
+    ]
+  },
+  {
+    "item_id": "DOCUMENT_7F249BF28E88",
+    "type": "document",
+    "date": "2025-10-04",
+    "source_path": "evidence/bank_records/daniel_personal/D_FAUCITT_PERSONAL_BANK_RECORDS_20251004.pdf",
+    "priority_score": 8.167,
+    "centrality": 0.0679,
+    "structural_importance": 7.321,
+    "entities": [
+      "PERSON_005",
+      "PERSON_007",
+      "TRUST_001",
+      "PERSON_004",
+      "PERSON_001",
+      "PERSON_LINDA"
+    ]
+  }
+]

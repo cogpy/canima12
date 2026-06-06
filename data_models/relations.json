@@ -304,7 +304,8 @@
     "applications": [
       "app1_civil_criminal",
       "app3_commercial_crime_tax"
-    ]
+    ],
+    "relation_type": "unclassified"
   },
   {
     "id": "KETONI_FUND_FLOW_COMPLETE",
@@ -316,7 +317,8 @@
     ],
     "applications": [
       "app1_civil_criminal"
-    ]
+    ],
+    "relation_type": "unclassified"
   },
   {
     "id": "KETONI_INSIDER_TRADING_NETWORK",
@@ -345,7 +347,8 @@
     "applications": [
       "app1_civil_criminal",
       "app3_commercial_crime_tax"
-    ]
+    ],
+    "relation_type": "unclassified"
   },
   {
     "id": "LEX_SIM_NN_ATTRIBUTION_2026_03_10",
@@ -364,7 +367,8 @@
       "app1_civil_criminal",
       "app2_cipc_popia",
       "app3_commercial_crime_tax"
-    ]
+    ],
+    "relation_type": "unclassified"
   },
   {
     "id": "MAILBOX_EVIDENCE_RELATIONS_2026_02_09",
@@ -376,7 +380,8 @@
     ],
     "applications": [
       "app1_civil_criminal"
-    ]
+    ],
+    "relation_type": "unclassified"
   },
   {
     "id": "MANUFACTURE_ADMISSION",
@@ -399,7 +404,8 @@
       "app1_civil_criminal",
       "app2_cipc_popia",
       "app3_commercial_crime_tax"
-    ]
+    ],
+    "relation_type": "unclassified"
   },
   {
     "id": "PETER_R10_6M_EXTRACTION",
@@ -419,7 +425,8 @@
     "applications": [
       "app1_civil_criminal",
       "app3_commercial_crime_tax"
-    ]
+    ],
+    "relation_type": "unclassified"
   },
   {
     "id": "REL_037",
@@ -442,7 +449,8 @@
       "app1_civil_criminal",
       "app2_cipc_popia",
       "app3_commercial_crime_tax"
-    ]
+    ],
+    "relation_type": "unclassified"
   },
   {
     "id": "REL_038",
@@ -461,7 +469,8 @@
     ],
     "applications": [
       "app1_civil_criminal"
-    ]
+    ],
+    "relation_type": "unclassified"
   },
   {
     "id": "REVENUE_HIJACKING_CHAIN",
@@ -497,7 +506,8 @@
       "app1_civil_criminal",
       "app2_cipc_popia",
       "app3_commercial_crime_tax"
-    ]
+    ],
+    "relation_type": "unclassified"
   },
   {
     "id": "REZONANCE_DEBT_FABRICATION",
@@ -515,7 +525,8 @@
       "app1_civil_criminal",
       "app2_cipc_popia",
       "app3_commercial_crime_tax"
-    ]
+    ],
+    "relation_type": "unclassified"
   },
   {
     "id": "RULE_30_DATING_ANOMALY",
@@ -533,7 +544,8 @@
     ],
     "applications": [
       "app3_commercial_crime_tax"
-    ]
+    ],
+    "relation_type": "unclassified"
   },
   {
     "id": "RYNETTE_BANTJIES_CONSPIRACY_2026_03_07",
@@ -561,7 +573,8 @@
       "app1_civil_criminal",
       "app2_cipc_popia",
       "app3_commercial_crime_tax"
-    ]
+    ],
+    "relation_type": "unclassified"
   },
   {
     "id": "SAGE_SYSTEM_CAPTURE",

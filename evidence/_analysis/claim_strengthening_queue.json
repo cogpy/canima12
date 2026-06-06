@@ -1,0 +1,72 @@
+[
+  {
+    "claim": "KETONI_INSIDER_TRADING_NETWORK",
+    "current_support_count": 1,
+    "status": "needs_corroboration",
+    "flagged": "2026-06-06T06:20:30.812408",
+    "suggested_sources": []
+  },
+  {
+    "claim": "shareholder_of",
+    "current_support_count": 1,
+    "status": "needs_corroboration",
+    "flagged": "2026-06-06T06:20:30.812423",
+    "suggested_sources": []
+  },
+  {
+    "claim": "EVENT_028",
+    "current_support_count": 1,
+    "status": "needs_corroboration",
+    "flagged": "2026-06-06T06:20:30.812426",
+    "suggested_sources": []
+  },
+  {
+    "claim": "EVENT_025",
+    "current_support_count": 1,
+    "status": "needs_corroboration",
+    "flagged": "2026-06-06T06:20:30.812428",
+    "suggested_sources": []
+  },
+  {
+    "claim": "EVENT_SF9",
+    "current_support_count": 1,
+    "status": "needs_corroboration",
+    "flagged": "2026-06-06T06:20:30.812429",
+    "suggested_sources": []
+  },
+  {
+    "claim": "COORDINATED_RETALIATION",
+    "current_support_count": 1,
+    "status": "needs_corroboration",
+    "flagged": "2026-06-06T06:20:30.812431",
+    "suggested_sources": []
+  },
+  {
+    "claim": "timeline",
+    "current_support_count": 1,
+    "status": "needs_corroboration",
+    "flagged": "2026-06-06T06:20:30.812433",
+    "suggested_sources": []
+  },
+  {
+    "claim": "BACKDATED_ENTRIES",
+    "current_support_count": 1,
+    "status": "needs_corroboration",
+    "flagged": "2026-06-06T06:20:30.812435",
+    "suggested_sources": []
+  },
+  {
+    "claim": "EVENT_015",
+    "current_support_count": 1,
+    "status": "needs_corroboration",
+    "flagged": "2026-06-06T06:20:30.812436",
+    "suggested_sources": []
+  },
+  {
+    "claim": "EVENT_003",
+    "current_support_count": 1,
+    "status": "needs_corroboration",
+    "flagged": "2026-06-06T06:20:30.812438",
+    "suggested_sources": []
+  }
+]
