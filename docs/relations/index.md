@@ -5,9 +5,11 @@ title: Relations Index
 
 # Relations Index
 
-**Last Updated:** 2026-05-19
+**Last Updated:** 2026-06-08
 
 > **Cycle 15 Good Shape Correction (2026-05-19):** The new [Shopify Order Rerouting to Pastel relation](./SHOPIFY_PASTEL_ROUTING_2026_05_19.md) links EVENT_009 to platform ownership, Pastel/Sage reconciliation, practical audit-trail severance, and forum-specific burden gradients.
+>
+> **Cycle 18.5 Funding Conflict Update (2026-06-08):** [RST → Elliott Attorneys Legal-Funding Conflict Pattern](./RST_ELLIOTT_LEGAL_FUNDING_CONFLICT_2026-06-08.md) links RST payments, Elliott Attorneys’ litigation posture, and mandate/conflict-check disclosure issues arising from [EVENT_181](../events/EVENT_181.md).
 >
 > **Cycle 10 Judicial Closure Note (2026-05-11):** The [March 2026 Contempt-to-Appeal Cluster](./MARCH_2026_CONTEMPT_APPEAL_CLUSTER.md) now includes the 4 May 2026 leave-to-appeal judgment, the [Cycle 10 KSM-LEX-DGen-Alexander report](../reports/KSM_LEX_ALEXANDER_CYCLE10_2026-05-11.md), and the [Conduct-Contrast Schedule](../analysis/ksm-cycle10/CONDUCT_CONTRAST_SCHEDULE_2026-05-11.md). Use these surfaces to distinguish allegation, proof, judicial holding, and forum-specific filing burden.
 
@@ -42,6 +44,7 @@ title: Relations Index
 | REVENUE_HIJACKING_CHAIN | [Relation: Revenue Hijacking Chain](./REVENUE_HIJACKING_CHAIN.md) | PERSON_002, PERSON_020, PERSON_021, PERSON_001, PERSON_007, BANK_ACCOUNT_ABSA | EVENT114, EVENT115, EVENT119, EVENT121, SF10 |
 | REZONANCE_DEBT_FABRICATION | [ReZonance Debt Fabrication](./REZONANCE_DEBT_FABRICATION.md) |  |  |
 | RULE_30_DATING_ANOMALY | [Rule 30/30A Dating Anomaly — Elliott Attorneys](./RULE_30_DATING_ANOMALY.md) |  | EVENT103, EVENT132 |
+| RST_ELLIOTT_LEGAL_FUNDING_CONFLICT_2026-06-08 | [RST → Elliott Attorneys Legal-Funding Conflict Pattern](./RST_ELLIOTT_LEGAL_FUNDING_CONFLICT_2026-06-08.md) | ORG_002, ORG_020, PERSON_001, PERSON_004, PERSON_002 | EVENT_181; ABSA payment extract |
 | RYNETTE_BANTJIES_CONSPIRACY_2026_03_07 | [Rynette Farrar — Daniel Bantjies: Coordinated Conspiracy Relations](./RYNETTE_BANTJIES_CONSPIRACY_2026_03_07.md) |  | EVENT103, EVENT114, EVENT115, EVENT116, EVENT117, EVENT119, EVENT120 |
 | SAGE_SYSTEM_CAPTURE | [Sage Accounting System Capture](./SAGE_SYSTEM_CAPTURE.md) |  | EVENT105, EVENT110, SF11 |
 | SARS_CREDENTIAL_ABUSE | [SARS Credential Abuse Network](./SARS_CREDENTIAL_ABUSE.md) |  | EVENT103, EVENT107 |

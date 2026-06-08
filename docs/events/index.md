@@ -1,12 +1,14 @@
 # Events Index
 
-**Last Updated:** 2026-05-19 (v18.4 — Cycle 15 Good Shape correction)  
+**Last Updated:** 2026-06-08 (v18.5 — Elliott Attorneys / RST-funded legal-cost conflict anomaly)  
 **Total Events:** 176 documented events across 7 phases  
 **Pipeline:** `/evidence-process(/skillm) -> /ksm-evolve(/regima-org-self) -> /optimal-cognitive-grip`
 
 This index catalogs all events in Case 2025-137857: Revenue Stream Hijacking, organized by phase and significance.
 
 > **Cycle 15 Good Shape Correction (2026-05-19):** EVENT_009 is expressed as **Shopify Order Rerouting to Pastel**, not literal Shopify record deletion. The evidentiary point is revenue diversion and audit-trail severance from the legitimate directors’ perspective; older draft wording using “destruction” should be treated as shorthand only where it refers to the practical severance of usable audit access.
+>
+> **Cycle 18.5 Funding Conflict Update (2026-06-08):** [EVENT_181](./EVENT_181.md) indexes the RST-funded Elliott Attorneys payment schedule totalling **R478,957.93** from **25 August 2025** to **15 April 2026**. Use it as a mandate, authority, invoice, and conflict-check disclosure issue; do not overstate criminal intent without the missing retainer/invoice proof.
 >
 > **Refinement Note (2026-04-14):** The event model has been re-read against the latest entity normalization and filing structure. The most consequential event families remain the **Ketoni motive sequence**, the **June 2025 retaliation cluster**, the **August 2025 backdating/interdict sprint**, and the **post-interdict extraction/contempt sequence**. See the detailed [Entity, Relation, Event, and Timeline Refinement Report](../reports/ENTITY_RELATION_EVENT_TIMELINE_REFINEMENT_2026-04-14.md).
 
@@ -28,6 +30,15 @@ This index catalogs all events in Case 2025-137857: Revenue Stream Hijacking, or
 | Bantjies-Farrar Conspiracy Events | 8+ | COMPLETE NETWORK |
 | Revenue Hijacking Events | 3+ | 100+ EMAILS |
 | Dual Corporate Identity Events | 1 | KAYLOVEST/VILLA VIA |
+| Legal-Funding Conflict Events | 1 | RST → Elliott Attorneys R478,957.93 |
+
+---
+
+## Latest Legal-Funding Conflict Event
+
+| Date range | Event | Significance | Link |
+|---|---|---|---|
+| **2025-08-25 to 2026-04-15** | **RST-funded Elliott Attorneys payment schedule** | R478,957.93 paid by RST to Elliott Attorneys; disclosure required for retainer, invoices, authority, and conflict checks | [EVENT_181](./EVENT_181.md) |
 
 ---
 

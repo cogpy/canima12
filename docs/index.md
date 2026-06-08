@@ -1,6 +1,6 @@
 # Case 2025-137857: Revenue Stream Hijacking & Trust Fraud — Evidence Repository
 
-**Last Updated:** 2026-05-27 (v23.8 — KSM-LEX-DGen-Alexander Cycle 16 Rule 6(12)(c) Reconsideration Matrix)
+**Last Updated:** 2026-06-08 (v23.9 — Elliott Attorneys / RST-funded legal-cost conflict anomaly)
 
 This repository provides a comprehensive, evidence-based view of Case 2025-137857, a multi-faceted criminal enterprise involving revenue stream hijacking, trust fraud, identity theft, and corporate malfeasance with a total quantum exceeding **R63,000,000**.
 
@@ -27,6 +27,8 @@ This repository provides a comprehensive, evidence-based view of Case 2025-13785
 > **v23.7 KSM-LEX-DGen-Alexander Cycle 15 (2026-05-19):** [Shopify/Pastel Burden Routing Note](./filings/SHOPIFY_PASTEL_BURDEN_ROUTING_NOTE_2026-05-19.md) | [Good Shape Correction Matrix](./analysis/ksm-cycle15/SHOPIFY_PASTEL_GOOD_SHAPE_CORRECTION_MATRIX_2026-05-19.md) | [Cycle 15 Report](./reports/KSM_LEX_ALEXANDER_CYCLE15_2026-05-19.md) | [Living Structure Evaluation](./reports/LIVING_STRUCTURE_EVALUATION_CYCLE15_2026-05-19.md) | [DreamGen Narrative](./reports/DREAMGEN_NARRATIVE_CYCLE15_2026-05-19.md) | [Routing Relation](./relations/SHOPIFY_PASTEL_ROUTING_2026_05_19.md)
 >
 > **v23.8 KSM-LEX-DGen-Alexander Cycle 16 (2026-05-27):** [Rule 6(12)(c) Reconsideration KSM Report](./analysis/ksm-cycle16/F012_RULE6_12C_KSM_LEX_DGEN_ALEXANDER_REPORT_2026-05-27.md) | [Entities/Relations/Events JSON](./analysis/ksm-cycle16/F012_RULE6_12C_ENTITIES_RELATIONS_EVENTS_2026-05-27.json) | [Transcription Package](../transcriptions/F012-rule6-12c-reconsideration-application/) | [Audit Schedule TODO](./analysis/ksm-cycle16/TODO_AUDIT_CONTRADICTION_SCHEDULE.md)
+>
+> **v23.9 Elliott Attorneys / RST Funding Conflict (2026-06-08):** [EVENT_181](./events/EVENT_181.md) | [Conflict Funding Analysis](./analysis/ELLIOTT_ATTORNEYS_RST_CONFLICT_FUNDING_2026-06-08.md) | [Funding Relation](./relations/RST_ELLIOTT_LEGAL_FUNDING_CONFLICT_2026-06-08.md) | [Source Payment Extract](./evidence/financial/RST_ABSA_4112241409_ELLIOTT_ATTORNEYS_PAYMENTS_2025-08_2026-04.txt)
 >
 > **v23 Burden Assessment:** Civil 74.0% (EXCEEDED) | Criminal 73.0% adversarial (STRONG — needs independent affidavits) | All regulatory filings EXCEED threshold
 >
@@ -55,6 +57,13 @@ This repository provides a comprehensive, evidence-based view of Case 2025-13785
 > **v21.9 Uniform Rules Template Layer (2026-04-22):** [Template Taxonomy](./filings/templates/reference/UNIFORM_RULES_TEMPLATE_TAXONOMY_2026-04-22.md) | [Template Library](./filings/templates/reference/UNIFORM_RULES_TEMPLATE_LIBRARY_2026-04-22.md) | [Case-Priority Missing Templates](./filings/templates/reference/CASE_PRIORITY_MISSING_TEMPLATES_2026-04-22.md)
 >
 > **v22.0 Templates Folder Layer (2026-04-22):** [Templates Hub](./filings/templates/index.md) | [Template Inventory](./filings/templates/TEMPLATE_INVENTORY_2026-04-22.md) | [Administrative Templates](./filings/templates/administrative/index.md) | [Motion Proceedings Templates](./filings/templates/motion_proceedings/index.md) | [Action Proceedings Templates](./filings/templates/action_proceedings/index.md) | [Appeals & Review Templates](./filings/templates/appeals_and_review/index.md)
+
+## Start Here: Elliott Attorneys / RST-Funded Legal-Cost Conflict
+**[EVENT_181: RST-Funded Elliott Attorneys Payment Schedule](./events/EVENT_181.md)**  
+*Use this event to navigate the R478,957.93 payment schedule, mandate/invoice disclosure issue, conflict-check questions, and cautious burden routing across civil, CIPC/CC governance, LPC, and commercial-crime forums.*
+
+**[Detailed Conflict Funding Analysis](./analysis/ELLIOTT_ATTORNEYS_RST_CONFLICT_FUNDING_2026-06-08.md)**  
+*The payment evidence is conclusive as to transfers but investigative as to illegality. Do not assert criminal intent without retainer, invoice, authority, and conflict-check records.*
 
 ## Start Here: Cycle 16 Rule 6(12)(c) Reconsideration Evidence Matrix
 **[Rule 6(12)(c) KSM-LEX-DGen-Alexander Report (2026-05-27)](./analysis/ksm-cycle16/F012_RULE6_12C_KSM_LEX_DGEN_ALEXANDER_REPORT_2026-05-27.md)**  
@@ -90,6 +99,8 @@ This financial motive explains:
 ---
 
 > **Cycle 11 (2026-05-18):** Added the One-Page Forum Routing Map to reduce cognitive friction and ensure evidence is applied correctly across different legal forums and burdens of proof.
+
+**Cycle 18.5 (2026-06-08):** Added the Elliott Attorneys / RST-funded legal-cost conflict analysis and EVENT_181 to preserve clear evidence references for the three application surfaces and to route the issue by burden of proof.
 
 **Cycle 10 (2026-05-11):** Integrated the 4 May 2026 leave-to-appeal judgment (Labuschagne J) dismissing the applicant's appeal with costs. This closes the immediate appellate-risk node and provides judicial confirmation that the contempt threshold was not met.
 

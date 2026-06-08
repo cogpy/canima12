@@ -1,6 +1,6 @@
 # Application 3: Commercial Crime & Tax Fraud
 
-**Last Updated:** 2026-04-14
+**Last Updated:** 2026-06-08
 
 > **Refinement Note (2026-04-14):** This commercial-crime / tax-fraud landing page should now be read together with the [Filings Index](./filings/index.md), the [Filing Refinement Addendum](./filings/FILING_REFINEMENT_ADDENDUM_2026-04-14.md), and the [Red-Team Critique v22](./filings/RED_TEAM_CRITIQUE_2026-04-14_v22.md). Those documents carry the current timeline-anchor, canonical-entity, and rebuttal updates.
 
@@ -38,6 +38,7 @@ This application covers commercial crime charges and tax fraud reports for submi
 | Proceeds of unlawful activity | Fund flow analysis | ✅ INDICATORS |
 | Concealment | Multiple accounts | ✅ INDICATORS |
 | Acquisition/possession | JF03 | ✅ INDICATORS |
+| Legal-cost funding anomaly | [EVENT_181](./events/EVENT_181.md): RST paid Elliott Attorneys R478,957.93 | ⚠️ DISCLOSURE REQUIRED; criminal characterisation requires proof of mandate defect, deception, authority failure, and intent |
 
 ## Tax Fraud
 
@@ -83,6 +84,7 @@ This application covers commercial crime charges and tax fraud reports for submi
 - **JF07** - Financial transaction records
 - Payment redirection documentation
 - Bank account change letters
+- **EVENT_181** - RST-funded Elliott Attorneys payment schedule totalling **R478,957.93**; use as an investigation lead rather than a standalone criminal-proof assertion until mandate and invoice records are obtained
 
 ### Third-Party Verification
 - **SF9** - Ian Levitt R63M Demand Letter
@@ -103,7 +105,8 @@ This application covers commercial crime charges and tax fraud reports for submi
 - **[Red-Team Critique v22](./filings/RED_TEAM_CRITIQUE_2026-04-14_v22.md)**
 - **[Evidence Index](./evidence-index-enhanced.md)**
 - **[Fund Flow Analysis](./fund-flow-analysis.md)**
+- **[RST / Elliott Attorneys Conflict Funding Analysis](./analysis/ELLIOTT_ATTORNEYS_RST_CONFLICT_FUNDING_2026-06-08.md)**
 
 ---
 
-*Last updated by LEX Investigation System: 2026-04-14 — filing links and refinement layer updated.*
+*Last updated by LEX Investigation System: 2026-06-08 — Elliott Attorneys / RST-funded legal-cost conflict issue added with cautious criminal-burden routing.*

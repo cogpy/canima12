@@ -1,0 +1,20 @@
+Raw Transactions: ABSA 4112241409											
+Entity: RegimA Skin Treatments CC. This sheet is a raw account-level transaction list retaining source statement and source-file traceability.											-R 478,957.93
+											
+Account	Entity	Statement	Seq	Date	Description	Counterparty	Counterparty Normalized	Direction	Role	Category	Amount
+4112241409	RegimA Skin Treatments CC	4112241409-0019	4	2025-08-25	Digital Payment Dt           Settlement Absa Bank Elliott Attorneys	Elliott Attorneys	ELLIOTT ATTORNEYS	Debit	Supplier / outgoing payment	debit	-R 23,410.45
+4112241409	RegimA Skin Treatments CC	4112241409-0019	48	2025-09-10	Digital Payment Dt           Settlement Absa Bank Elliott Attorneys	Elliott Attorneys	ELLIOTT ATTORNEYS	Debit	Supplier / outgoing payment	debit	-R 25,833.95
+4112241409	RegimA Skin Treatments CC	4112241409-0020	1	2025-09-17	Digital Payment Dt           Settlement Absa Bank Elliott Attorneys	Elliott Attorneys	ELLIOTT ATTORNEYS	Debit	Supplier / outgoing payment	debit	-R 1,592.75
+4112241409	RegimA Skin Treatments CC	4112241409-0020	10	2025-09-23	Digital Payment Dt           Settlement Absa Bank Elliott Attorneys	Elliott Attorneys	ELLIOTT ATTORNEYS	Debit	Supplier / outgoing payment	debit	-R 21,118.60
+4112241409	RegimA Skin Treatments CC	4112241409-0020	13	2025-09-25	Digital Payment Dt           Settlement Absa Bank Elliott Attorneys	Elliott Attorneys	ELLIOTT ATTORNEYS	Debit	Supplier / outgoing payment	debit	-R 79,326.38
+4112241409	RegimA Skin Treatments CC	4112241409-0020	78	2025-10-15	Digital Payment Dt           Settlement Absa Bank Elliott Attorneys	Elliott Attorneys	ELLIOTT ATTORNEYS	Debit	Supplier / outgoing payment	debit	-R 44,556.75
+4112241409	RegimA Skin Treatments CC	4112241409-0022	2	2025-11-17	Digital Payment Dt           Settlement Absa Bank Elliott Attorneys	Elliott Attorneys	ELLIOTT ATTORNEYS	Debit	Supplier / outgoing payment	debit	-R 16,432.05
+4112241409	RegimA Skin Treatments CC	4112241409-0022	30	2025-11-26	Digital Payment Dt           Settlement Absa Bank Elliott Attorneys	Elliott Attorneys	ELLIOTT ATTORNEYS	Debit	Supplier / outgoing payment	debit	-R 47,846.40
+4112241409	RegimA Skin Treatments CC	4112241409-0022	82	2025-12-12	Digital Payment Dt           Settlement Absa Bank Elliott Attorneys	Elliott Attorneys	ELLIOTT ATTORNEYS	Debit	Supplier / outgoing payment	debit	-R 12,877.70
+4112241409	RegimA Skin Treatments CC	4112241409-0024	2	2026-01-20	Digital Payment Dt           Settlement Absa Bank Elliott Attorneys	Elliott Attorneys	ELLIOTT ATTORNEYS	Debit	Supplier / outgoing payment	debit	-R 11,517.25
+4112241409	RegimA Skin Treatments CC	4112241409-0025	2	2026-02-17	Digital Payment Dt           Settlement Absa Bank Elliott Attorneys	Elliott Attorneys	ELLIOTT ATTORNEYS	Debit	Supplier / outgoing payment	debit	-R 29,166.30
+4112241409	RegimA Skin Treatments CC	4112241409-0025	3	2026-02-17	Digital Payment Dt           Settlement Absa Bank Elliott Attorneys	Elliott Attorneys	ELLIOTT ATTORNEYS	Debit	Supplier / outgoing payment	debit	-R 5,416.50
+4112241409	RegimA Skin Treatments CC	4112241409-0025	4	2026-02-17	Digital Payment Dt           Settlement Absa Bank Elliott Attorneys	Elliott Attorneys	ELLIOTT ATTORNEYS	Debit	Supplier / outgoing payment	debit	-R 7,662.45
+4112241409	RegimA Skin Treatments CC	4112241409-0025	72	2026-03-13	Digital Payment Dt           Settlement Absa Bank Elliott Attorneys	Elliott Attorneys	ELLIOTT ATTORNEYS	Debit	Supplier / outgoing payment	debit	-R 39,753.20
+4112241409	RegimA Skin Treatments CC	4112241409-0026	71	2026-04-15	Digital Payment Dt           Settlement Absa Bank Elliott Attorneys	Elliott Attorneys	ELLIOTT ATTORNEYS	Debit	Supplier / outgoing payment	debit	-R 112,320.70
+4112241409	RegimA Skin Treatments CC	4112241409-0026	73	2026-04-15	Digital Payment Dt           Settlement Absa Bank Elliott Attorneys	Elliott Attorneys	ELLIOTT ATTORNEYS	Debit	Supplier / outgoing payment	debit	-R 126.50

@@ -1,6 +1,6 @@
 # Application 2: CIPC & POPIA Complaints
 
-**Last Updated:** 2026-04-14
+**Last Updated:** 2026-06-08
 
 > **Refinement Note (2026-04-14):** This regulatory / POPIA landing page now sits beneath the current [Filings Index](./filings/index.md), the [Filing Refinement Addendum](./filings/FILING_REFINEMENT_ADDENDUM_2026-04-14.md), and the [Red-Team Critique v22](./filings/RED_TEAM_CRITIQUE_2026-04-14_v22.md). Use those resources for the latest chronology, canonical entities, and defence-defeat updates.
 
@@ -15,7 +15,7 @@ This application covers regulatory complaints under the Companies Act and POPIA 
 |-----------|----------|--------|
 | Failed to act with care, skill and diligence | JF03, SF2 | ✅ DOCUMENTED |
 | Failed to act in best interests of company | JF07, JF08 | ✅ DOCUMENTED |
-| Conflict of interest not disclosed | SF1, SF6 | ✅ DOCUMENTED |
+| Conflict of interest not disclosed | SF1, SF6; [EVENT_181](./events/EVENT_181.md) | ✅ DOCUMENTED / DISCLOSURE REQUIRED |
 
 ### Section 77 - Liability of Directors
 | Violation | Evidence | Status |
@@ -68,6 +68,7 @@ This application covers regulatory complaints under the Companies Act and POPIA 
 ### Control Evidence
 - **SF2** - Sage Screenshots showing Rynette's dual account access
 - **SF1** - Bantjies Debt Documentation
+- **EVENT_181** - RST-funded Elliott Attorneys payments totalling **R478,957.93**, requiring disclosure of mandate, invoices, authority, and conflict-check records
 
 ### Identity Fraud Evidence
 - **SF5** - Adderory Company Registration
@@ -95,7 +96,8 @@ This application covers regulatory complaints under the Companies Act and POPIA 
 - **[Filing Refinement Addendum](./filings/FILING_REFINEMENT_ADDENDUM_2026-04-14.md)**
 - **[Red-Team Critique v22](./filings/RED_TEAM_CRITIQUE_2026-04-14_v22.md)**
 - **[Evidence Index](./evidence-index-enhanced.md)**
+- **[RST / Elliott Attorneys Conflict Funding Analysis](./analysis/ELLIOTT_ATTORNEYS_RST_CONFLICT_FUNDING_2026-06-08.md)**
 
 ---
 
-*Last updated by LEX Investigation System: 2026-04-14 — filing links and refinement layer updated.*
+*Last updated by LEX Investigation System: 2026-06-08 — Elliott Attorneys / RST-funded legal-cost conflict issue added.*

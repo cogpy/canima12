@@ -1,6 +1,6 @@
 # Application 1: Civil & Criminal Actions
 
-**Last Updated:** 2026-04-21
+**Last Updated:** 2026-06-08
 
 > **Refinement Note (2026-04-21):** This application page remains the public landing page for the civil/criminal branch, but the live appellate-response layer now sits in the [Leave-to-Appeal Opposition Note](./filings/LEAVE_TO_APPEAL_OPPOSITION_NOTE_2026-04-21.md), the [Updated Opposition Framework](./filings/LEAVE_TO_APPEAL_OPPOSITION_FRAMEWORK_2026-04-20.md), the [Direct-Judgment Appeal Critique](./filings/APPEAL_RED_TEAM_CRITIQUE_2026-04-21_DIRECT_JUDGMENT.md), and the [Direct-Judgment Appeal Rebuttal](./filings/APPEAL_REBUTTAL_ADDENDUM_2026-04-21_DIRECT_JUDGMENT.md). Use those documents together with the [Filings Index](./filings/index.md) when assessing the current state of the filing set.
 
@@ -69,6 +69,7 @@ This application covers civil claims and criminal charges arising from the reven
 - Contempt application dismissed with punitive costs on 26 March 2026
 - Leave-to-appeal application filed on 30 March 2026, extending the process-escalation line
 - Post-interdict extraction and continuing prejudice remain part of the live harm narrative
+- RST-funded Elliott Attorneys payments totalling **R478,957.93** now require mandate, invoice, authority, and conflict-check disclosure because they may evidence company-funded litigation pressure against Jax while she paid personally for defence ([EVENT_181](./events/EVENT_181.md))
 
 ## Legal Elements
 
@@ -94,10 +95,11 @@ This application covers civil claims and criminal charges arising from the reven
 - **[Direct-Judgment Appeal Critique](./filings/APPEAL_RED_TEAM_CRITIQUE_2026-04-21_DIRECT_JUDGMENT.md)**
 - **[Direct-Judgment Appeal Rebuttal](./filings/APPEAL_REBUTTAL_ADDENDUM_2026-04-21_DIRECT_JUDGMENT.md)**
 - **[Evidence Index](./evidence-index-enhanced.md)**
+- **[RST / Elliott Attorneys Conflict Funding Analysis](./analysis/ELLIOTT_ATTORNEYS_RST_CONFLICT_FUNDING_2026-06-08.md)**
 - **[Timeline](./timeline.md)**
 - **[Entities](./entities/index.md)**
 - **[ad-res-j7 Repository](https://github.com/cogpy/ad-res-j7)**
 
 ---
 
-*Last updated by LEX Investigation System: 2026-04-21 — direct-judgment and leave-to-appeal opposition layer added.*
+*Last updated by LEX Investigation System: 2026-06-08 — Elliott Attorneys / RST-funded legal-cost conflict issue added.*
