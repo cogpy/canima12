@@ -8,12 +8,16 @@
     {
       "id": "PERSON_007",
       "type": "entity",
-      "label": "PERSON_007"
+      "label": "Rynette Faucitt",
+      "canonical_name": "Rynette Faucitt",
+      "original_id": "PERSON_007"
     },
     {
       "id": "PERSON_005",
       "type": "entity",
-      "label": "PERSON_005"
+      "label": "Danie Bantjes",
+      "canonical_name": "Danie Bantjes",
+      "original_id": "PERSON_005"
     },
     {
       "id": "PERSON_LINDA",
@@ -153,22 +157,30 @@
     {
       "id": "ORG_017",
       "type": "entity",
-      "label": "ORG_017"
+      "label": "Ketoni Investment Holdings",
+      "canonical_name": "Ketoni Investment Holdings",
+      "original_id": "ORG_017"
     },
     {
       "id": "ORG_016",
       "type": "entity",
-      "label": "ORG_016"
+      "label": "ReZonance",
+      "canonical_name": "ReZonance",
+      "original_id": "ORG_016"
     },
     {
       "id": "ORG_015",
       "type": "entity",
-      "label": "ORG_015"
+      "label": "The George Group",
+      "canonical_name": "The George Group",
+      "original_id": "ORG_015"
     },
     {
       "id": "BANK_ACCOUNT_005",
       "type": "entity",
-      "label": "BANK_ACCOUNT_005"
+      "label": "FNB",
+      "canonical_name": "FNB",
+      "original_id": "BANK_ACCOUNT_005"
     },
     {
       "id": "KETONI_INSIDER_TRADING_NETWORK",
@@ -1088,17 +1100,23 @@
     {
       "id": "TRUST_001",
       "type": "entity",
-      "label": "TRUST_001"
+      "label": "Faucitt Family Trust",
+      "canonical_name": "Faucitt Family Trust",
+      "original_id": "TRUST_001"
     },
     {
       "id": "PERSON_004",
       "type": "entity",
-      "label": "PERSON_004"
+      "label": "Kevin Michael Derrick",
+      "canonical_name": "Kevin Michael Derrick",
+      "original_id": "PERSON_004"
     },
     {
       "id": "PERSON_001",
       "type": "entity",
-      "label": "PERSON_001"
+      "label": "Peter Faucitt",
+      "canonical_name": "Peter Faucitt",
+      "original_id": "PERSON_001"
     },
     {
       "id": "DOCUMENT_3B1D668DA7A1",
@@ -1493,7 +1511,9 @@
     {
       "id": "ORG_018",
       "type": "entity",
-      "label": "ORG_018"
+      "label": "LinkedIn",
+      "canonical_name": "LinkedIn",
+      "original_id": "ORG_018"
     },
     {
       "id": "DOCUMENT_F0486BC50BFE",
@@ -2145,12 +2165,14 @@
     {
       "source": "UNKNOWN_ABD8F9F45206",
       "target": "PERSON_007",
-      "type": "mentions_entity"
+      "type": "mentions_entity",
+      "target_canonical": "Rynette Faucitt"
     },
     {
       "source": "UNKNOWN_ABD8F9F45206",
       "target": "PERSON_005",
-      "type": "mentions_entity"
+      "type": "mentions_entity",
+      "target_canonical": "Danie Bantjes"
     },
     {
       "source": "UNKNOWN_ABD8F9F45206",
@@ -2330,22 +2352,26 @@
     {
       "source": "DOCUMENT_A34F34671A0C",
       "target": "ORG_017",
-      "type": "mentions_entity"
+      "type": "mentions_entity",
+      "target_canonical": "Ketoni Investment Holdings"
     },
     {
       "source": "DOCUMENT_A34F34671A0C",
       "target": "ORG_016",
-      "type": "mentions_entity"
+      "type": "mentions_entity",
+      "target_canonical": "ReZonance"
     },
     {
       "source": "DOCUMENT_A34F34671A0C",
       "target": "ORG_015",
-      "type": "mentions_entity"
+      "type": "mentions_entity",
+      "target_canonical": "The George Group"
     },
     {
       "source": "DOCUMENT_A34F34671A0C",
       "target": "BANK_ACCOUNT_005",
-      "type": "mentions_entity"
+      "type": "mentions_entity",
+      "target_canonical": "FNB"
     },
     {
       "source": "DOCUMENT_A34F34671A0C",
@@ -3710,7 +3736,8 @@
     {
       "source": "DOCUMENT_60BC81A57B1D",
       "target": "ORG_017",
-      "type": "mentions_entity"
+      "type": "mentions_entity",
+      "target_canonical": "Ketoni Investment Holdings"
     },
     {
       "source": "DOCUMENT_60BC81A57B1D",
@@ -3730,7 +3757,8 @@
     {
       "source": "DOCUMENT_60BC81A57B1D",
       "target": "ORG_016",
-      "type": "mentions_entity"
+      "type": "mentions_entity",
+      "target_canonical": "ReZonance"
     },
     {
       "source": "DOCUMENT_60BC81A57B1D",
@@ -6980,7 +7008,8 @@
     {
       "source": "UNKNOWN_D7B0C101CD69",
       "target": "BANK_ACCOUNT_005",
-      "type": "mentions_entity"
+      "type": "mentions_entity",
+      "target_canonical": "FNB"
     },
     {
       "source": "UNKNOWN_D7B0C101CD69",
@@ -7080,7 +7109,8 @@
     {
       "source": "DOCUMENT_05CA9C483DA6",
       "target": "BANK_ACCOUNT_005",
-      "type": "mentions_entity"
+      "type": "mentions_entity",
+      "target_canonical": "FNB"
     },
     {
       "source": "DOCUMENT_05CA9C483DA6",
@@ -7180,7 +7210,8 @@
     {
       "source": "UNKNOWN_8E9503A03869",
       "target": "BANK_ACCOUNT_005",
-      "type": "mentions_entity"
+      "type": "mentions_entity",
+      "target_canonical": "FNB"
     },
     {
       "source": "UNKNOWN_8E9503A03869",
@@ -7280,7 +7311,8 @@
     {
       "source": "DOCUMENT_6C12CF381695",
       "target": "BANK_ACCOUNT_005",
-      "type": "mentions_entity"
+      "type": "mentions_entity",
+      "target_canonical": "FNB"
     },
     {
       "source": "DOCUMENT_6C12CF381695",
@@ -7385,7 +7417,8 @@
     {
       "source": "IMAGE_B3A654639E43",
       "target": "BANK_ACCOUNT_005",
-      "type": "mentions_entity"
+      "type": "mentions_entity",
+      "target_canonical": "FNB"
     },
     {
       "source": "IMAGE_B3A654639E43",
@@ -7545,7 +7578,8 @@
     {
       "source": "IMAGE_D7DE0D54BCA2",
       "target": "BANK_ACCOUNT_005",
-      "type": "mentions_entity"
+      "type": "mentions_entity",
+      "target_canonical": "FNB"
     },
     {
       "source": "IMAGE_D7DE0D54BCA2",
@@ -7705,7 +7739,8 @@
     {
       "source": "IMAGE_027417722282",
       "target": "BANK_ACCOUNT_005",
-      "type": "mentions_entity"
+      "type": "mentions_entity",
+      "target_canonical": "FNB"
     },
     {
       "source": "IMAGE_027417722282",
@@ -7865,7 +7900,8 @@
     {
       "source": "IMAGE_9B0AD111ED9B",
       "target": "BANK_ACCOUNT_005",
-      "type": "mentions_entity"
+      "type": "mentions_entity",
+      "target_canonical": "FNB"
     },
     {
       "source": "IMAGE_9B0AD111ED9B",
@@ -7985,7 +8021,8 @@
     {
       "source": "IMAGE_656883ACBED1",
       "target": "BANK_ACCOUNT_005",
-      "type": "mentions_entity"
+      "type": "mentions_entity",
+      "target_canonical": "FNB"
     },
     {
       "source": "IMAGE_656883ACBED1",
@@ -8130,7 +8167,8 @@
     {
       "source": "UNKNOWN_7BC88904F6F1",
       "target": "BANK_ACCOUNT_005",
-      "type": "mentions_entity"
+      "type": "mentions_entity",
+      "target_canonical": "FNB"
     },
     {
       "source": "UNKNOWN_7BC88904F6F1",
@@ -8250,7 +8288,8 @@
     {
       "source": "DOCUMENT_632A3F1DF832",
       "target": "BANK_ACCOUNT_005",
-      "type": "mentions_entity"
+      "type": "mentions_entity",
+      "target_canonical": "FNB"
     },
     {
       "source": "DOCUMENT_632A3F1DF832",
@@ -8690,27 +8729,32 @@
     {
       "source": "DOCUMENT_263F689C49F2",
       "target": "PERSON_005",
-      "type": "mentions_entity"
+      "type": "mentions_entity",
+      "target_canonical": "Danie Bantjes"
     },
     {
       "source": "DOCUMENT_263F689C49F2",
       "target": "PERSON_007",
-      "type": "mentions_entity"
+      "type": "mentions_entity",
+      "target_canonical": "Rynette Faucitt"
     },
     {
       "source": "DOCUMENT_263F689C49F2",
       "target": "TRUST_001",
-      "type": "mentions_entity"
+      "type": "mentions_entity",
+      "target_canonical": "Faucitt Family Trust"
     },
     {
       "source": "DOCUMENT_263F689C49F2",
       "target": "PERSON_004",
-      "type": "mentions_entity"
+      "type": "mentions_entity",
+      "target_canonical": "Kevin Michael Derrick"
     },
     {
       "source": "DOCUMENT_263F689C49F2",
       "target": "PERSON_001",
-      "type": "mentions_entity"
+      "type": "mentions_entity",
+      "target_canonical": "Peter Faucitt"
     },
     {
       "source": "DOCUMENT_263F689C49F2",
@@ -8835,27 +8879,32 @@
     {
       "source": "DOCUMENT_3B1D668DA7A1",
       "target": "PERSON_005",
-      "type": "mentions_entity"
+      "type": "mentions_entity",
+      "target_canonical": "Danie Bantjes"
     },
     {
       "source": "DOCUMENT_3B1D668DA7A1",
       "target": "PERSON_007",
-      "type": "mentions_entity"
+      "type": "mentions_entity",
+      "target_canonical": "Rynette Faucitt"
     },
     {
       "source": "DOCUMENT_3B1D668DA7A1",
       "target": "TRUST_001",
-      "type": "mentions_entity"
+      "type": "mentions_entity",
+      "target_canonical": "Faucitt Family Trust"
     },
     {
       "source": "DOCUMENT_3B1D668DA7A1",
       "target": "PERSON_004",
-      "type": "mentions_entity"
+      "type": "mentions_entity",
+      "target_canonical": "Kevin Michael Derrick"
     },
     {
       "source": "DOCUMENT_3B1D668DA7A1",
       "target": "PERSON_001",
-      "type": "mentions_entity"
+      "type": "mentions_entity",
+      "target_canonical": "Peter Faucitt"
     },
     {
       "source": "DOCUMENT_3B1D668DA7A1",
@@ -8980,27 +9029,32 @@
     {
       "source": "DOCUMENT_6A2613C67072",
       "target": "PERSON_005",
-      "type": "mentions_entity"
+      "type": "mentions_entity",
+      "target_canonical": "Danie Bantjes"
     },
     {
       "source": "DOCUMENT_6A2613C67072",
       "target": "PERSON_007",
-      "type": "mentions_entity"
+      "type": "mentions_entity",
+      "target_canonical": "Rynette Faucitt"
     },
     {
       "source": "DOCUMENT_6A2613C67072",
       "target": "TRUST_001",
-      "type": "mentions_entity"
+      "type": "mentions_entity",
+      "target_canonical": "Faucitt Family Trust"
     },
     {
       "source": "DOCUMENT_6A2613C67072",
       "target": "PERSON_004",
-      "type": "mentions_entity"
+      "type": "mentions_entity",
+      "target_canonical": "Kevin Michael Derrick"
     },
     {
       "source": "DOCUMENT_6A2613C67072",
       "target": "PERSON_001",
-      "type": "mentions_entity"
+      "type": "mentions_entity",
+      "target_canonical": "Peter Faucitt"
     },
     {
       "source": "DOCUMENT_6A2613C67072",
@@ -9125,27 +9179,32 @@
     {
       "source": "DOCUMENT_574AEAAF1603",
       "target": "PERSON_005",
-      "type": "mentions_entity"
+      "type": "mentions_entity",
+      "target_canonical": "Danie Bantjes"
     },
     {
       "source": "DOCUMENT_574AEAAF1603",
       "target": "PERSON_007",
-      "type": "mentions_entity"
+      "type": "mentions_entity",
+      "target_canonical": "Rynette Faucitt"
     },
     {
       "source": "DOCUMENT_574AEAAF1603",
       "target": "TRUST_001",
-      "type": "mentions_entity"
+      "type": "mentions_entity",
+      "target_canonical": "Faucitt Family Trust"
     },
     {
       "source": "DOCUMENT_574AEAAF1603",
       "target": "PERSON_004",
-      "type": "mentions_entity"
+      "type": "mentions_entity",
+      "target_canonical": "Kevin Michael Derrick"
     },
     {
       "source": "DOCUMENT_574AEAAF1603",
       "target": "PERSON_001",
-      "type": "mentions_entity"
+      "type": "mentions_entity",
+      "target_canonical": "Peter Faucitt"
     },
     {
       "source": "DOCUMENT_574AEAAF1603",
@@ -9270,27 +9329,32 @@
     {
       "source": "DOCUMENT_7F249BF28E88",
       "target": "PERSON_005",
-      "type": "mentions_entity"
+      "type": "mentions_entity",
+      "target_canonical": "Danie Bantjes"
     },
     {
       "source": "DOCUMENT_7F249BF28E88",
       "target": "PERSON_007",
-      "type": "mentions_entity"
+      "type": "mentions_entity",
+      "target_canonical": "Rynette Faucitt"
     },
     {
       "source": "DOCUMENT_7F249BF28E88",
       "target": "TRUST_001",
-      "type": "mentions_entity"
+      "type": "mentions_entity",
+      "target_canonical": "Faucitt Family Trust"
     },
     {
       "source": "DOCUMENT_7F249BF28E88",
       "target": "PERSON_004",
-      "type": "mentions_entity"
+      "type": "mentions_entity",
+      "target_canonical": "Kevin Michael Derrick"
     },
     {
       "source": "DOCUMENT_7F249BF28E88",
       "target": "PERSON_001",
-      "type": "mentions_entity"
+      "type": "mentions_entity",
+      "target_canonical": "Peter Faucitt"
     },
     {
       "source": "DOCUMENT_7F249BF28E88",
@@ -14710,7 +14774,8 @@
     {
       "source": "DOCUMENT_8C641995E458",
       "target": "ORG_018",
-      "type": "mentions_entity"
+      "type": "mentions_entity",
+      "target_canonical": "LinkedIn"
     },
     {
       "source": "DOCUMENT_8C641995E458",
@@ -14775,7 +14840,8 @@
     {
       "source": "DOCUMENT_F0486BC50BFE",
       "target": "ORG_018",
-      "type": "mentions_entity"
+      "type": "mentions_entity",
+      "target_canonical": "LinkedIn"
     },
     {
       "source": "DOCUMENT_F0486BC50BFE",
@@ -16420,7 +16486,8 @@
     {
       "source": "DOCUMENT_F389C1DC0988",
       "target": "BANK_ACCOUNT_005",
-      "type": "mentions_entity"
+      "type": "mentions_entity",
+      "target_canonical": "FNB"
     },
     {
       "source": "DOCUMENT_F389C1DC0988",
@@ -17055,7 +17122,8 @@
     {
       "source": "DOCUMENT_18599C37AB5C",
       "target": "BANK_ACCOUNT_005",
-      "type": "mentions_entity"
+      "type": "mentions_entity",
+      "target_canonical": "FNB"
     },
     {
       "source": "DOCUMENT_18599C37AB5C",
@@ -17450,22 +17518,26 @@
     {
       "source": "DOCUMENT_16A15C9575BC",
       "target": "PERSON_004",
-      "type": "mentions_entity"
+      "type": "mentions_entity",
+      "target_canonical": "Kevin Michael Derrick"
     },
     {
       "source": "DOCUMENT_16A15C9575BC",
       "target": "TRUST_001",
-      "type": "mentions_entity"
+      "type": "mentions_entity",
+      "target_canonical": "Faucitt Family Trust"
     },
     {
       "source": "DOCUMENT_16A15C9575BC",
       "target": "PERSON_005",
-      "type": "mentions_entity"
+      "type": "mentions_entity",
+      "target_canonical": "Danie Bantjes"
     },
     {
       "source": "DOCUMENT_16A15C9575BC",
       "target": "PERSON_001",
-      "type": "mentions_entity"
+      "type": "mentions_entity",
+      "target_canonical": "Peter Faucitt"
     },
     {
       "source": "DOCUMENT_16A15C9575BC",
@@ -18030,7 +18102,8 @@
     {
       "source": "IMAGE_3200516AD048",
       "target": "PERSON_007",
-      "type": "mentions_entity"
+      "type": "mentions_entity",
+      "target_canonical": "Rynette Faucitt"
     },
     {
       "source": "IMAGE_3200516AD048",
@@ -18370,7 +18443,8 @@
     {
       "source": "UNKNOWN_BF4AFADD2030",
       "target": "PERSON_005",
-      "type": "mentions_entity"
+      "type": "mentions_entity",
+      "target_canonical": "Danie Bantjes"
     },
     {
       "source": "UNKNOWN_BF4AFADD2030",
@@ -18380,22 +18454,26 @@
     {
       "source": "UNKNOWN_BF4AFADD2030",
       "target": "PERSON_007",
-      "type": "mentions_entity"
+      "type": "mentions_entity",
+      "target_canonical": "Rynette Faucitt"
     },
     {
       "source": "UNKNOWN_BF4AFADD2030",
       "target": "TRUST_001",
-      "type": "mentions_entity"
+      "type": "mentions_entity",
+      "target_canonical": "Faucitt Family Trust"
     },
     {
       "source": "UNKNOWN_BF4AFADD2030",
       "target": "PERSON_004",
-      "type": "mentions_entity"
+      "type": "mentions_entity",
+      "target_canonical": "Kevin Michael Derrick"
     },
     {
       "source": "UNKNOWN_BF4AFADD2030",
       "target": "PERSON_001",
-      "type": "mentions_entity"
+      "type": "mentions_entity",
+      "target_canonical": "Peter Faucitt"
     },
     {
       "source": "UNKNOWN_BF4AFADD2030",
@@ -18560,7 +18638,8 @@
     {
       "source": "DOCUMENT_E6188282BF4E",
       "target": "PERSON_005",
-      "type": "mentions_entity"
+      "type": "mentions_entity",
+      "target_canonical": "Danie Bantjes"
     },
     {
       "source": "DOCUMENT_E6188282BF4E",
@@ -18570,22 +18649,26 @@
     {
       "source": "DOCUMENT_E6188282BF4E",
       "target": "PERSON_007",
-      "type": "mentions_entity"
+      "type": "mentions_entity",
+      "target_canonical": "Rynette Faucitt"
     },
     {
       "source": "DOCUMENT_E6188282BF4E",
       "target": "TRUST_001",
-      "type": "mentions_entity"
+      "type": "mentions_entity",
+      "target_canonical": "Faucitt Family Trust"
     },
     {
       "source": "DOCUMENT_E6188282BF4E",
       "target": "PERSON_004",
-      "type": "mentions_entity"
+      "type": "mentions_entity",
+      "target_canonical": "Kevin Michael Derrick"
     },
     {
       "source": "DOCUMENT_E6188282BF4E",
       "target": "PERSON_001",
-      "type": "mentions_entity"
+      "type": "mentions_entity",
+      "target_canonical": "Peter Faucitt"
     },
     {
       "source": "DOCUMENT_E6188282BF4E",
@@ -18750,7 +18833,8 @@
     {
       "source": "UNKNOWN_7595AB85DF20",
       "target": "PERSON_005",
-      "type": "mentions_entity"
+      "type": "mentions_entity",
+      "target_canonical": "Danie Bantjes"
     },
     {
       "source": "UNKNOWN_7595AB85DF20",
@@ -18760,22 +18844,26 @@
     {
       "source": "UNKNOWN_7595AB85DF20",
       "target": "PERSON_007",
-      "type": "mentions_entity"
+      "type": "mentions_entity",
+      "target_canonical": "Rynette Faucitt"
     },
     {
       "source": "UNKNOWN_7595AB85DF20",
       "target": "TRUST_001",
-      "type": "mentions_entity"
+      "type": "mentions_entity",
+      "target_canonical": "Faucitt Family Trust"
     },
     {
       "source": "UNKNOWN_7595AB85DF20",
       "target": "PERSON_004",
-      "type": "mentions_entity"
+      "type": "mentions_entity",
+      "target_canonical": "Kevin Michael Derrick"
     },
     {
       "source": "UNKNOWN_7595AB85DF20",
       "target": "PERSON_001",
-      "type": "mentions_entity"
+      "type": "mentions_entity",
+      "target_canonical": "Peter Faucitt"
     },
     {
       "source": "UNKNOWN_7595AB85DF20",
@@ -18940,7 +19028,8 @@
     {
       "source": "DOCUMENT_024BCEF36AEA",
       "target": "PERSON_005",
-      "type": "mentions_entity"
+      "type": "mentions_entity",
+      "target_canonical": "Danie Bantjes"
     },
     {
       "source": "DOCUMENT_024BCEF36AEA",
@@ -18950,22 +19039,26 @@
     {
       "source": "DOCUMENT_024BCEF36AEA",
       "target": "PERSON_007",
-      "type": "mentions_entity"
+      "type": "mentions_entity",
+      "target_canonical": "Rynette Faucitt"
     },
     {
       "source": "DOCUMENT_024BCEF36AEA",
       "target": "TRUST_001",
-      "type": "mentions_entity"
+      "type": "mentions_entity",
+      "target_canonical": "Faucitt Family Trust"
     },
     {
       "source": "DOCUMENT_024BCEF36AEA",
       "target": "PERSON_004",
-      "type": "mentions_entity"
+      "type": "mentions_entity",
+      "target_canonical": "Kevin Michael Derrick"
     },
     {
       "source": "DOCUMENT_024BCEF36AEA",
       "target": "PERSON_001",
-      "type": "mentions_entity"
+      "type": "mentions_entity",
+      "target_canonical": "Peter Faucitt"
     },
     {
       "source": "DOCUMENT_024BCEF36AEA",
@@ -19130,7 +19223,8 @@
     {
       "source": "IMAGE_C3BC08255B44",
       "target": "PERSON_001",
-      "type": "mentions_entity"
+      "type": "mentions_entity",
+      "target_canonical": "Peter Faucitt"
     },
     {
       "source": "IMAGE_C3BC08255B44",
@@ -19305,7 +19399,8 @@
     {
       "source": "IMAGE_2CA73A1308C2",
       "target": "PERSON_007",
-      "type": "mentions_entity"
+      "type": "mentions_entity",
+      "target_canonical": "Rynette Faucitt"
     },
     {
       "source": "IMAGE_2CA73A1308C2",
@@ -19590,7 +19685,8 @@
     {
       "source": "IMAGE_C3B9C14A57C1",
       "target": "PERSON_001",
-      "type": "mentions_entity"
+      "type": "mentions_entity",
+      "target_canonical": "Peter Faucitt"
     },
     {
       "source": "IMAGE_C3B9C14A57C1",
@@ -19790,27 +19886,32 @@
     {
       "source": "UNKNOWN_E7316BE06044",
       "target": "PERSON_005",
-      "type": "mentions_entity"
+      "type": "mentions_entity",
+      "target_canonical": "Danie Bantjes"
     },
     {
       "source": "UNKNOWN_E7316BE06044",
       "target": "PERSON_007",
-      "type": "mentions_entity"
+      "type": "mentions_entity",
+      "target_canonical": "Rynette Faucitt"
     },
     {
       "source": "UNKNOWN_E7316BE06044",
       "target": "TRUST_001",
-      "type": "mentions_entity"
+      "type": "mentions_entity",
+      "target_canonical": "Faucitt Family Trust"
     },
     {
       "source": "UNKNOWN_E7316BE06044",
       "target": "PERSON_004",
-      "type": "mentions_entity"
+      "type": "mentions_entity",
+      "target_canonical": "Kevin Michael Derrick"
     },
     {
       "source": "UNKNOWN_E7316BE06044",
       "target": "PERSON_001",
-      "type": "mentions_entity"
+      "type": "mentions_entity",
+      "target_canonical": "Peter Faucitt"
     },
     {
       "source": "UNKNOWN_E7316BE06044",
@@ -20000,27 +20101,32 @@
     {
       "source": "DOCUMENT_46085CB73EB2",
       "target": "PERSON_005",
-      "type": "mentions_entity"
+      "type": "mentions_entity",
+      "target_canonical": "Danie Bantjes"
     },
     {
       "source": "DOCUMENT_46085CB73EB2",
       "target": "PERSON_007",
-      "type": "mentions_entity"
+      "type": "mentions_entity",
+      "target_canonical": "Rynette Faucitt"
     },
     {
       "source": "DOCUMENT_46085CB73EB2",
       "target": "TRUST_001",
-      "type": "mentions_entity"
+      "type": "mentions_entity",
+      "target_canonical": "Faucitt Family Trust"
     },
     {
       "source": "DOCUMENT_46085CB73EB2",
       "target": "PERSON_004",
-      "type": "mentions_entity"
+      "type": "mentions_entity",
+      "target_canonical": "Kevin Michael Derrick"
     },
     {
       "source": "DOCUMENT_46085CB73EB2",
       "target": "PERSON_001",
-      "type": "mentions_entity"
+      "type": "mentions_entity",
+      "target_canonical": "Peter Faucitt"
     },
     {
       "source": "DOCUMENT_46085CB73EB2",
@@ -20210,27 +20316,32 @@
     {
       "source": "UNKNOWN_AB98BBAE1037",
       "target": "PERSON_005",
-      "type": "mentions_entity"
+      "type": "mentions_entity",
+      "target_canonical": "Danie Bantjes"
     },
     {
       "source": "UNKNOWN_AB98BBAE1037",
       "target": "PERSON_007",
-      "type": "mentions_entity"
+      "type": "mentions_entity",
+      "target_canonical": "Rynette Faucitt"
     },
     {
       "source": "UNKNOWN_AB98BBAE1037",
       "target": "TRUST_001",
-      "type": "mentions_entity"
+      "type": "mentions_entity",
+      "target_canonical": "Faucitt Family Trust"
     },
     {
       "source": "UNKNOWN_AB98BBAE1037",
       "target": "PERSON_004",
-      "type": "mentions_entity"
+      "type": "mentions_entity",
+      "target_canonical": "Kevin Michael Derrick"
     },
     {
       "source": "UNKNOWN_AB98BBAE1037",
       "target": "PERSON_001",
-      "type": "mentions_entity"
+      "type": "mentions_entity",
+      "target_canonical": "Peter Faucitt"
     },
     {
       "source": "UNKNOWN_AB98BBAE1037",
@@ -20365,27 +20476,32 @@
     {
       "source": "DOCUMENT_B3CB9B612DA8",
       "target": "PERSON_005",
-      "type": "mentions_entity"
+      "type": "mentions_entity",
+      "target_canonical": "Danie Bantjes"
     },
     {
       "source": "DOCUMENT_B3CB9B612DA8",
       "target": "PERSON_007",
-      "type": "mentions_entity"
+      "type": "mentions_entity",
+      "target_canonical": "Rynette Faucitt"
     },
     {
       "source": "DOCUMENT_B3CB9B612DA8",
       "target": "TRUST_001",
-      "type": "mentions_entity"
+      "type": "mentions_entity",
+      "target_canonical": "Faucitt Family Trust"
     },
     {
       "source": "DOCUMENT_B3CB9B612DA8",
       "target": "PERSON_004",
-      "type": "mentions_entity"
+      "type": "mentions_entity",
+      "target_canonical": "Kevin Michael Derrick"
     },
     {
       "source": "DOCUMENT_B3CB9B612DA8",
       "target": "PERSON_001",
-      "type": "mentions_entity"
+      "type": "mentions_entity",
+      "target_canonical": "Peter Faucitt"
     },
     {
       "source": "DOCUMENT_B3CB9B612DA8",
@@ -20530,7 +20646,8 @@
     {
       "source": "EMAIL_78C0883C28FA",
       "target": "BANK_ACCOUNT_005",
-      "type": "mentions_entity"
+      "type": "mentions_entity",
+      "target_canonical": "FNB"
     },
     {
       "source": "EMAIL_78C0883C28FA",
@@ -20775,7 +20892,8 @@
     {
       "source": "EMAIL_CE7DA123AA8A",
       "target": "BANK_ACCOUNT_005",
-      "type": "mentions_entity"
+      "type": "mentions_entity",
+      "target_canonical": "FNB"
     },
     {
       "source": "EMAIL_CE7DA123AA8A",
@@ -21020,7 +21138,8 @@
     {
       "source": "EMAIL_D4BE52B4F815",
       "target": "BANK_ACCOUNT_005",
-      "type": "mentions_entity"
+      "type": "mentions_entity",
+      "target_canonical": "FNB"
     },
     {
       "source": "EMAIL_D4BE52B4F815",
@@ -21285,7 +21404,8 @@
     {
       "source": "EMAIL_3913620B19B1",
       "target": "BANK_ACCOUNT_005",
-      "type": "mentions_entity"
+      "type": "mentions_entity",
+      "target_canonical": "FNB"
     },
     {
       "source": "EMAIL_3913620B19B1",
@@ -21550,7 +21670,8 @@
     {
       "source": "DOCUMENT_B33772144A20",
       "target": "BANK_ACCOUNT_005",
-      "type": "mentions_entity"
+      "type": "mentions_entity",
+      "target_canonical": "FNB"
     },
     {
       "source": "DOCUMENT_B33772144A20",
@@ -21770,7 +21891,8 @@
     {
       "source": "DOCUMENT_E7D6BCACAE4D",
       "target": "BANK_ACCOUNT_005",
-      "type": "mentions_entity"
+      "type": "mentions_entity",
+      "target_canonical": "FNB"
     },
     {
       "source": "DOCUMENT_E7D6BCACAE4D",
@@ -21790,7 +21912,8 @@
     {
       "source": "DOCUMENT_E7D6BCACAE4D",
       "target": "ORG_017",
-      "type": "mentions_entity"
+      "type": "mentions_entity",
+      "target_canonical": "Ketoni Investment Holdings"
     },
     {
       "source": "DOCUMENT_E7D6BCACAE4D",
@@ -21815,7 +21938,8 @@
     {
       "source": "DOCUMENT_E7D6BCACAE4D",
       "target": "ORG_016",
-      "type": "mentions_entity"
+      "type": "mentions_entity",
+      "target_canonical": "ReZonance"
     },
     {
       "source": "DOCUMENT_E7D6BCACAE4D",
@@ -21965,7 +22089,8 @@
     {
       "source": "IMAGE_551E3003D18E",
       "target": "ORG_015",
-      "type": "mentions_entity"
+      "type": "mentions_entity",
+      "target_canonical": "The George Group"
     },
     {
       "source": "IMAGE_551E3003D18E",
@@ -21975,12 +22100,14 @@
     {
       "source": "IMAGE_551E3003D18E",
       "target": "PERSON_007",
-      "type": "mentions_entity"
+      "type": "mentions_entity",
+      "target_canonical": "Rynette Faucitt"
     },
     {
       "source": "IMAGE_551E3003D18E",
       "target": "ORG_017",
-      "type": "mentions_entity"
+      "type": "mentions_entity",
+      "target_canonical": "Ketoni Investment Holdings"
     },
     {
       "source": "IMAGE_551E3003D18E",
@@ -21990,7 +22117,8 @@
     {
       "source": "IMAGE_551E3003D18E",
       "target": "ORG_016",
-      "type": "mentions_entity"
+      "type": "mentions_entity",
+      "target_canonical": "ReZonance"
     },
     {
       "source": "IMAGE_551E3003D18E",
@@ -22150,27 +22278,32 @@
     {
       "source": "UNKNOWN_BE06839FD591",
       "target": "PERSON_005",
-      "type": "mentions_entity"
+      "type": "mentions_entity",
+      "target_canonical": "Danie Bantjes"
     },
     {
       "source": "UNKNOWN_BE06839FD591",
       "target": "PERSON_007",
-      "type": "mentions_entity"
+      "type": "mentions_entity",
+      "target_canonical": "Rynette Faucitt"
     },
     {
       "source": "UNKNOWN_BE06839FD591",
       "target": "TRUST_001",
-      "type": "mentions_entity"
+      "type": "mentions_entity",
+      "target_canonical": "Faucitt Family Trust"
     },
     {
       "source": "UNKNOWN_BE06839FD591",
       "target": "PERSON_004",
-      "type": "mentions_entity"
+      "type": "mentions_entity",
+      "target_canonical": "Kevin Michael Derrick"
     },
     {
       "source": "UNKNOWN_BE06839FD591",
       "target": "PERSON_001",
-      "type": "mentions_entity"
+      "type": "mentions_entity",
+      "target_canonical": "Peter Faucitt"
     },
     {
       "source": "UNKNOWN_BE06839FD591",
@@ -22255,27 +22388,32 @@
     {
       "source": "DOCUMENT_998CCD55627B",
       "target": "PERSON_005",
-      "type": "mentions_entity"
+      "type": "mentions_entity",
+      "target_canonical": "Danie Bantjes"
     },
     {
       "source": "DOCUMENT_998CCD55627B",
       "target": "PERSON_007",
-      "type": "mentions_entity"
+      "type": "mentions_entity",
+      "target_canonical": "Rynette Faucitt"
     },
     {
       "source": "DOCUMENT_998CCD55627B",
       "target": "TRUST_001",
-      "type": "mentions_entity"
+      "type": "mentions_entity",
+      "target_canonical": "Faucitt Family Trust"
     },
     {
       "source": "DOCUMENT_998CCD55627B",
       "target": "PERSON_004",
-      "type": "mentions_entity"
+      "type": "mentions_entity",
+      "target_canonical": "Kevin Michael Derrick"
     },
     {
       "source": "DOCUMENT_998CCD55627B",
       "target": "PERSON_001",
-      "type": "mentions_entity"
+      "type": "mentions_entity",
+      "target_canonical": "Peter Faucitt"
     },
     {
       "source": "DOCUMENT_998CCD55627B",
@@ -22780,22 +22918,26 @@
     {
       "source": "UNKNOWN_A0AD12B39413",
       "target": "PERSON_005",
-      "type": "mentions_entity"
+      "type": "mentions_entity",
+      "target_canonical": "Danie Bantjes"
     },
     {
       "source": "UNKNOWN_A0AD12B39413",
       "target": "PERSON_007",
-      "type": "mentions_entity"
+      "type": "mentions_entity",
+      "target_canonical": "Rynette Faucitt"
     },
     {
       "source": "UNKNOWN_A0AD12B39413",
       "target": "TRUST_001",
-      "type": "mentions_entity"
+      "type": "mentions_entity",
+      "target_canonical": "Faucitt Family Trust"
     },
     {
       "source": "UNKNOWN_A0AD12B39413",
       "target": "PERSON_004",
-      "type": "mentions_entity"
+      "type": "mentions_entity",
+      "target_canonical": "Kevin Michael Derrick"
     },
     {
       "source": "UNKNOWN_A0AD12B39413",
@@ -22805,7 +22947,8 @@
     {
       "source": "UNKNOWN_A0AD12B39413",
       "target": "PERSON_001",
-      "type": "mentions_entity"
+      "type": "mentions_entity",
+      "target_canonical": "Peter Faucitt"
     },
     {
       "source": "UNKNOWN_A0AD12B39413",
@@ -22940,22 +23083,26 @@
     {
       "source": "DOCUMENT_9A49FE9F5C07",
       "target": "PERSON_005",
-      "type": "mentions_entity"
+      "type": "mentions_entity",
+      "target_canonical": "Danie Bantjes"
     },
     {
       "source": "DOCUMENT_9A49FE9F5C07",
       "target": "PERSON_007",
-      "type": "mentions_entity"
+      "type": "mentions_entity",
+      "target_canonical": "Rynette Faucitt"
     },
     {
       "source": "DOCUMENT_9A49FE9F5C07",
       "target": "TRUST_001",
-      "type": "mentions_entity"
+      "type": "mentions_entity",
+      "target_canonical": "Faucitt Family Trust"
     },
     {
       "source": "DOCUMENT_9A49FE9F5C07",
       "target": "PERSON_004",
-      "type": "mentions_entity"
+      "type": "mentions_entity",
+      "target_canonical": "Kevin Michael Derrick"
     },
     {
       "source": "DOCUMENT_9A49FE9F5C07",
@@ -22965,7 +23112,8 @@
     {
       "source": "DOCUMENT_9A49FE9F5C07",
       "target": "PERSON_001",
-      "type": "mentions_entity"
+      "type": "mentions_entity",
+      "target_canonical": "Peter Faucitt"
     },
     {
       "source": "DOCUMENT_9A49FE9F5C07",
@@ -23100,27 +23248,32 @@
     {
       "source": "UNKNOWN_0B5210BF2327",
       "target": "PERSON_005",
-      "type": "mentions_entity"
+      "type": "mentions_entity",
+      "target_canonical": "Danie Bantjes"
     },
     {
       "source": "UNKNOWN_0B5210BF2327",
       "target": "PERSON_007",
-      "type": "mentions_entity"
+      "type": "mentions_entity",
+      "target_canonical": "Rynette Faucitt"
     },
     {
       "source": "UNKNOWN_0B5210BF2327",
       "target": "TRUST_001",
-      "type": "mentions_entity"
+      "type": "mentions_entity",
+      "target_canonical": "Faucitt Family Trust"
     },
     {
       "source": "UNKNOWN_0B5210BF2327",
       "target": "PERSON_004",
-      "type": "mentions_entity"
+      "type": "mentions_entity",
+      "target_canonical": "Kevin Michael Derrick"
     },
     {
       "source": "UNKNOWN_0B5210BF2327",
       "target": "PERSON_001",
-      "type": "mentions_entity"
+      "type": "mentions_entity",
+      "target_canonical": "Peter Faucitt"
     },
     {
       "source": "UNKNOWN_0B5210BF2327",
@@ -23235,27 +23388,32 @@
     {
       "source": "DOCUMENT_236683D23F36",
       "target": "PERSON_005",
-      "type": "mentions_entity"
+      "type": "mentions_entity",
+      "target_canonical": "Danie Bantjes"
     },
     {
       "source": "DOCUMENT_236683D23F36",
       "target": "PERSON_007",
-      "type": "mentions_entity"
+      "type": "mentions_entity",
+      "target_canonical": "Rynette Faucitt"
     },
     {
       "source": "DOCUMENT_236683D23F36",
       "target": "TRUST_001",
-      "type": "mentions_entity"
+      "type": "mentions_entity",
+      "target_canonical": "Faucitt Family Trust"
     },
     {
       "source": "DOCUMENT_236683D23F36",
       "target": "PERSON_004",
-      "type": "mentions_entity"
+      "type": "mentions_entity",
+      "target_canonical": "Kevin Michael Derrick"
     },
     {
       "source": "DOCUMENT_236683D23F36",
       "target": "PERSON_001",
-      "type": "mentions_entity"
+      "type": "mentions_entity",
+      "target_canonical": "Peter Faucitt"
     },
     {
       "source": "DOCUMENT_236683D23F36",
@@ -23370,12 +23528,14 @@
     {
       "source": "UNKNOWN_2734CE92E30B",
       "target": "PERSON_005",
-      "type": "mentions_entity"
+      "type": "mentions_entity",
+      "target_canonical": "Danie Bantjes"
     },
     {
       "source": "UNKNOWN_2734CE92E30B",
       "target": "PERSON_007",
-      "type": "mentions_entity"
+      "type": "mentions_entity",
+      "target_canonical": "Rynette Faucitt"
     },
     {
       "source": "UNKNOWN_2734CE92E30B",
@@ -23385,17 +23545,20 @@
     {
       "source": "UNKNOWN_2734CE92E30B",
       "target": "TRUST_001",
-      "type": "mentions_entity"
+      "type": "mentions_entity",
+      "target_canonical": "Faucitt Family Trust"
     },
     {
       "source": "UNKNOWN_2734CE92E30B",
       "target": "PERSON_004",
-      "type": "mentions_entity"
+      "type": "mentions_entity",
+      "target_canonical": "Kevin Michael Derrick"
     },
     {
       "source": "UNKNOWN_2734CE92E30B",
       "target": "PERSON_001",
-      "type": "mentions_entity"
+      "type": "mentions_entity",
+      "target_canonical": "Peter Faucitt"
     },
     {
       "source": "UNKNOWN_2734CE92E30B",
@@ -23525,12 +23688,14 @@
     {
       "source": "DOCUMENT_4D4F47244166",
       "target": "PERSON_005",
-      "type": "mentions_entity"
+      "type": "mentions_entity",
+      "target_canonical": "Danie Bantjes"
     },
     {
       "source": "DOCUMENT_4D4F47244166",
       "target": "PERSON_007",
-      "type": "mentions_entity"
+      "type": "mentions_entity",
+      "target_canonical": "Rynette Faucitt"
     },
     {
       "source": "DOCUMENT_4D4F47244166",
@@ -23540,17 +23705,20 @@
     {
       "source": "DOCUMENT_4D4F47244166",
       "target": "TRUST_001",
-      "type": "mentions_entity"
+      "type": "mentions_entity",
+      "target_canonical": "Faucitt Family Trust"
     },
     {
       "source": "DOCUMENT_4D4F47244166",
       "target": "PERSON_004",
-      "type": "mentions_entity"
+      "type": "mentions_entity",
+      "target_canonical": "Kevin Michael Derrick"
     },
     {
       "source": "DOCUMENT_4D4F47244166",
       "target": "PERSON_001",
-      "type": "mentions_entity"
+      "type": "mentions_entity",
+      "target_canonical": "Peter Faucitt"
     },
     {
       "source": "DOCUMENT_4D4F47244166",
@@ -23680,12 +23848,14 @@
     {
       "source": "UNKNOWN_E863EAACC326",
       "target": "PERSON_005",
-      "type": "mentions_entity"
+      "type": "mentions_entity",
+      "target_canonical": "Danie Bantjes"
     },
     {
       "source": "UNKNOWN_E863EAACC326",
       "target": "PERSON_007",
-      "type": "mentions_entity"
+      "type": "mentions_entity",
+      "target_canonical": "Rynette Faucitt"
     },
     {
       "source": "UNKNOWN_E863EAACC326",
@@ -23695,17 +23865,20 @@
     {
       "source": "UNKNOWN_E863EAACC326",
       "target": "TRUST_001",
-      "type": "mentions_entity"
+      "type": "mentions_entity",
+      "target_canonical": "Faucitt Family Trust"
     },
     {
       "source": "UNKNOWN_E863EAACC326",
       "target": "PERSON_004",
-      "type": "mentions_entity"
+      "type": "mentions_entity",
+      "target_canonical": "Kevin Michael Derrick"
     },
     {
       "source": "UNKNOWN_E863EAACC326",
       "target": "PERSON_001",
-      "type": "mentions_entity"
+      "type": "mentions_entity",
+      "target_canonical": "Peter Faucitt"
     },
     {
       "source": "UNKNOWN_E863EAACC326",
@@ -23840,12 +24013,14 @@
     {
       "source": "DOCUMENT_F6DA30801106",
       "target": "PERSON_005",
-      "type": "mentions_entity"
+      "type": "mentions_entity",
+      "target_canonical": "Danie Bantjes"
     },
     {
       "source": "DOCUMENT_F6DA30801106",
       "target": "PERSON_007",
-      "type": "mentions_entity"
+      "type": "mentions_entity",
+      "target_canonical": "Rynette Faucitt"
     },
     {
       "source": "DOCUMENT_F6DA30801106",
@@ -23855,17 +24030,20 @@
     {
       "source": "DOCUMENT_F6DA30801106",
       "target": "TRUST_001",
-      "type": "mentions_entity"
+      "type": "mentions_entity",
+      "target_canonical": "Faucitt Family Trust"
     },
     {
       "source": "DOCUMENT_F6DA30801106",
       "target": "PERSON_004",
-      "type": "mentions_entity"
+      "type": "mentions_entity",
+      "target_canonical": "Kevin Michael Derrick"
     },
     {
       "source": "DOCUMENT_F6DA30801106",
       "target": "PERSON_001",
-      "type": "mentions_entity"
+      "type": "mentions_entity",
+      "target_canonical": "Peter Faucitt"
     },
     {
       "source": "DOCUMENT_F6DA30801106",
@@ -24000,7 +24178,8 @@
     {
       "source": "DOCUMENT_A54FA3C2A734",
       "target": "BANK_ACCOUNT_005",
-      "type": "mentions_entity"
+      "type": "mentions_entity",
+      "target_canonical": "FNB"
     },
     {
       "source": "DOCUMENT_A54FA3C2A734",
@@ -24910,7 +25089,8 @@
     {
       "source": "UNKNOWN_6CC42B772F00",
       "target": "PERSON_005",
-      "type": "mentions_entity"
+      "type": "mentions_entity",
+      "target_canonical": "Danie Bantjes"
     },
     {
       "source": "UNKNOWN_6CC42B772F00",
@@ -24925,7 +25105,8 @@
     {
       "source": "UNKNOWN_6CC42B772F00",
       "target": "PERSON_007",
-      "type": "mentions_entity"
+      "type": "mentions_entity",
+      "target_canonical": "Rynette Faucitt"
     },
     {
       "source": "UNKNOWN_6CC42B772F00",
@@ -24935,17 +25116,20 @@
     {
       "source": "UNKNOWN_6CC42B772F00",
       "target": "TRUST_001",
-      "type": "mentions_entity"
+      "type": "mentions_entity",
+      "target_canonical": "Faucitt Family Trust"
     },
     {
       "source": "UNKNOWN_6CC42B772F00",
       "target": "PERSON_004",
-      "type": "mentions_entity"
+      "type": "mentions_entity",
+      "target_canonical": "Kevin Michael Derrick"
     },
     {
       "source": "UNKNOWN_6CC42B772F00",
       "target": "PERSON_001",
-      "type": "mentions_entity"
+      "type": "mentions_entity",
+      "target_canonical": "Peter Faucitt"
     },
     {
       "source": "UNKNOWN_6CC42B772F00",
@@ -25100,7 +25284,8 @@
     {
       "source": "DOCUMENT_2CE763EC13BC",
       "target": "PERSON_005",
-      "type": "mentions_entity"
+      "type": "mentions_entity",
+      "target_canonical": "Danie Bantjes"
     },
     {
       "source": "DOCUMENT_2CE763EC13BC",
@@ -25115,7 +25300,8 @@
     {
       "source": "DOCUMENT_2CE763EC13BC",
       "target": "PERSON_007",
-      "type": "mentions_entity"
+      "type": "mentions_entity",
+      "target_canonical": "Rynette Faucitt"
     },
     {
       "source": "DOCUMENT_2CE763EC13BC",
@@ -25125,17 +25311,20 @@
     {
       "source": "DOCUMENT_2CE763EC13BC",
       "target": "TRUST_001",
-      "type": "mentions_entity"
+      "type": "mentions_entity",
+      "target_canonical": "Faucitt Family Trust"
     },
     {
       "source": "DOCUMENT_2CE763EC13BC",
       "target": "PERSON_004",
-      "type": "mentions_entity"
+      "type": "mentions_entity",
+      "target_canonical": "Kevin Michael Derrick"
     },
     {
       "source": "DOCUMENT_2CE763EC13BC",
       "target": "PERSON_001",
-      "type": "mentions_entity"
+      "type": "mentions_entity",
+      "target_canonical": "Peter Faucitt"
     },
     {
       "source": "DOCUMENT_2CE763EC13BC",

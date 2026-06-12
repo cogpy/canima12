@@ -1,0 +1,452 @@
+{
+  "Ketoni Investment Holdings": {
+    "canonical_id": "Ketoni Investment Holdings",
+    "canonical_name": "Ketoni Investment Holdings",
+    "entity_type": "other",
+    "aliases": [
+      "Ketoni Investment Holdings"
+    ],
+    "mention_count": 42,
+    "attributes": {}
+  },
+  "Danie Bantjes": {
+    "canonical_id": "Danie Bantjes",
+    "canonical_name": "Danie Bantjes",
+    "entity_type": "other",
+    "aliases": [
+      "Danie Bantjes"
+    ],
+    "mention_count": 42,
+    "attributes": {}
+  },
+  "ReZonance": {
+    "canonical_id": "ReZonance",
+    "canonical_name": "ReZonance",
+    "entity_type": "other",
+    "aliases": [
+      "ReZonance"
+    ],
+    "mention_count": 28,
+    "attributes": {}
+  },
+  "Faucitt Family Trust": {
+    "canonical_id": "Faucitt Family Trust",
+    "canonical_name": "Faucitt Family Trust",
+    "entity_type": "other",
+    "aliases": [
+      "Faucitt Family Trust"
+    ],
+    "mention_count": 88,
+    "attributes": {}
+  },
+  "The George Group": {
+    "canonical_id": "The George Group",
+    "canonical_name": "The George Group",
+    "entity_type": "other",
+    "aliases": [
+      "The George Group"
+    ],
+    "mention_count": 88,
+    "attributes": {}
+  },
+  "LinkedIn": {
+    "canonical_id": "LinkedIn",
+    "canonical_name": "LinkedIn",
+    "entity_type": "other",
+    "aliases": [
+      "LinkedIn"
+    ],
+    "mention_count": 7,
+    "attributes": {}
+  },
+  "Peter Faucitt": {
+    "canonical_id": "Peter Faucitt",
+    "canonical_name": "Peter Faucitt",
+    "entity_type": "other",
+    "aliases": [
+      "Peter Faucitt"
+    ],
+    "mention_count": 97,
+    "attributes": {}
+  },
+  "Kevin Michael Derrick": {
+    "canonical_id": "Kevin Michael Derrick",
+    "canonical_name": "Kevin Michael Derrick",
+    "entity_type": "other",
+    "aliases": [
+      "Kevin Michael Derrick"
+    ],
+    "mention_count": 82,
+    "attributes": {}
+  },
+  "Rynette Faucitt": {
+    "canonical_id": "Rynette Faucitt",
+    "canonical_name": "Rynette Faucitt",
+    "entity_type": "other",
+    "aliases": [
+      "Rynette Faucitt"
+    ],
+    "mention_count": 101,
+    "attributes": {}
+  },
+  "ORG_029": {
+    "canonical_id": "ORG_029",
+    "canonical_name": "ORG_029",
+    "entity_type": "organization",
+    "aliases": [
+      "ORG_029"
+    ],
+    "mention_count": 0,
+    "attributes": {}
+  },
+  "ORG_004": {
+    "canonical_id": "ORG_004",
+    "canonical_name": "ORG_004",
+    "entity_type": "organization",
+    "aliases": [
+      "ORG_004"
+    ],
+    "mention_count": 0,
+    "attributes": {}
+  },
+  "ORG_003": {
+    "canonical_id": "ORG_003",
+    "canonical_name": "ORG_003",
+    "entity_type": "organization",
+    "aliases": [
+      "ORG_003"
+    ],
+    "mention_count": 0,
+    "attributes": {}
+  },
+  "ORG_005": {
+    "canonical_id": "ORG_005",
+    "canonical_name": "ORG_005",
+    "entity_type": "organization",
+    "aliases": [
+      "ORG_005"
+    ],
+    "mention_count": 0,
+    "attributes": {}
+  },
+  "ORG_002": {
+    "canonical_id": "ORG_002",
+    "canonical_name": "ORG_002",
+    "entity_type": "organization",
+    "aliases": [
+      "ORG_002"
+    ],
+    "mention_count": 0,
+    "attributes": {}
+  },
+  "ORG_009": {
+    "canonical_id": "ORG_009",
+    "canonical_name": "ORG_009",
+    "entity_type": "organization",
+    "aliases": [
+      "ORG_009"
+    ],
+    "mention_count": 0,
+    "attributes": {}
+  },
+  "PLATFORM_003": {
+    "canonical_id": "PLATFORM_003",
+    "canonical_name": "PLATFORM_003",
+    "entity_type": "other",
+    "aliases": [
+      "PLATFORM_003"
+    ],
+    "mention_count": 0,
+    "attributes": {}
+  },
+  "PERSON_006": {
+    "canonical_id": "PERSON_006",
+    "canonical_name": "PERSON_006",
+    "entity_type": "person",
+    "aliases": [
+      "PERSON_006"
+    ],
+    "mention_count": 0,
+    "attributes": {}
+  },
+  "ORG_008": {
+    "canonical_id": "ORG_008",
+    "canonical_name": "ORG_008",
+    "entity_type": "organization",
+    "aliases": [
+      "ORG_008"
+    ],
+    "mention_count": 0,
+    "attributes": {}
+  },
+  "PLATFORM_001": {
+    "canonical_id": "PLATFORM_001",
+    "canonical_name": "PLATFORM_001",
+    "entity_type": "other",
+    "aliases": [
+      "PLATFORM_001"
+    ],
+    "mention_count": 0,
+    "attributes": {}
+  },
+  "BANK_ACCOUNT_004": {
+    "canonical_id": "BANK_ACCOUNT_004",
+    "canonical_name": "BANK_ACCOUNT_004",
+    "entity_type": "bank_account",
+    "aliases": [
+      "BANK_ACCOUNT_004"
+    ],
+    "mention_count": 0,
+    "attributes": {}
+  },
+  "ORG_028": {
+    "canonical_id": "ORG_028",
+    "canonical_name": "ORG_028",
+    "entity_type": "organization",
+    "aliases": [
+      "ORG_028"
+    ],
+    "mention_count": 0,
+    "attributes": {}
+  },
+  "ORG_014": {
+    "canonical_id": "ORG_014",
+    "canonical_name": "ORG_014",
+    "entity_type": "organization",
+    "aliases": [
+      "ORG_014"
+    ],
+    "mention_count": 0,
+    "attributes": {}
+  },
+  "ORG_026": {
+    "canonical_id": "ORG_026",
+    "canonical_name": "ORG_026",
+    "entity_type": "organization",
+    "aliases": [
+      "ORG_026"
+    ],
+    "mention_count": 0,
+    "attributes": {}
+  },
+  "ORG_022": {
+    "canonical_id": "ORG_022",
+    "canonical_name": "ORG_022",
+    "entity_type": "organization",
+    "aliases": [
+      "ORG_022"
+    ],
+    "mention_count": 0,
+    "attributes": {}
+  },
+  "PERSON_003": {
+    "canonical_id": "PERSON_003",
+    "canonical_name": "PERSON_003",
+    "entity_type": "person",
+    "aliases": [
+      "PERSON_003"
+    ],
+    "mention_count": 0,
+    "attributes": {}
+  },
+  "PERSON_002": {
+    "canonical_id": "PERSON_002",
+    "canonical_name": "PERSON_002",
+    "entity_type": "person",
+    "aliases": [
+      "PERSON_002"
+    ],
+    "mention_count": 0,
+    "attributes": {}
+  },
+  "BANK_ACCOUNT_ABSA": {
+    "canonical_id": "BANK_ACCOUNT_ABSA",
+    "canonical_name": "BANK_ACCOUNT_ABSA",
+    "entity_type": "bank_account",
+    "aliases": [
+      "BANK_ACCOUNT_ABSA"
+    ],
+    "mention_count": 0,
+    "attributes": {}
+  },
+  "ORG_006": {
+    "canonical_id": "ORG_006",
+    "canonical_name": "ORG_006",
+    "entity_type": "organization",
+    "aliases": [
+      "ORG_006"
+    ],
+    "mention_count": 0,
+    "attributes": {}
+  },
+  "PERSON_LINDA": {
+    "canonical_id": "PERSON_LINDA",
+    "canonical_name": "PERSON_LINDA",
+    "entity_type": "person",
+    "aliases": [
+      "PERSON_LINDA"
+    ],
+    "mention_count": 0,
+    "attributes": {}
+  },
+  "ORG_012": {
+    "canonical_id": "ORG_012",
+    "canonical_name": "ORG_012",
+    "entity_type": "organization",
+    "aliases": [
+      "ORG_012"
+    ],
+    "mention_count": 0,
+    "attributes": {}
+  },
+  "ORG_011": {
+    "canonical_id": "ORG_011",
+    "canonical_name": "ORG_011",
+    "entity_type": "organization",
+    "aliases": [
+      "ORG_011"
+    ],
+    "mention_count": 0,
+    "attributes": {}
+  },
+  "PERSON_008": {
+    "canonical_id": "PERSON_008",
+    "canonical_name": "PERSON_008",
+    "entity_type": "person",
+    "aliases": [
+      "PERSON_008"
+    ],
+    "mention_count": 0,
+    "attributes": {}
+  },
+  "ORG_007": {
+    "canonical_id": "ORG_007",
+    "canonical_name": "ORG_007",
+    "entity_type": "organization",
+    "aliases": [
+      "ORG_007"
+    ],
+    "mention_count": 0,
+    "attributes": {}
+  },
+  "ORG_020": {
+    "canonical_id": "ORG_020",
+    "canonical_name": "ORG_020",
+    "entity_type": "organization",
+    "aliases": [
+      "ORG_020"
+    ],
+    "mention_count": 0,
+    "attributes": {}
+  },
+  "BANK_001": {
+    "canonical_id": "BANK_001",
+    "canonical_name": "BANK_001",
+    "entity_type": "bank_account",
+    "aliases": [
+      "BANK_001"
+    ],
+    "mention_count": 0,
+    "attributes": {}
+  },
+  "ORG_019": {
+    "canonical_id": "ORG_019",
+    "canonical_name": "ORG_019",
+    "entity_type": "organization",
+    "aliases": [
+      "ORG_019"
+    ],
+    "mention_count": 0,
+    "attributes": {}
+  },
+  "PERSON_020": {
+    "canonical_id": "PERSON_020",
+    "canonical_name": "PERSON_020",
+    "entity_type": "person",
+    "aliases": [
+      "PERSON_020"
+    ],
+    "mention_count": 0,
+    "attributes": {}
+  },
+  "PERSON_014": {
+    "canonical_id": "PERSON_014",
+    "canonical_name": "PERSON_014",
+    "entity_type": "person",
+    "aliases": [
+      "PERSON_014"
+    ],
+    "mention_count": 0,
+    "attributes": {}
+  },
+  "ORG_027": {
+    "canonical_id": "ORG_027",
+    "canonical_name": "ORG_027",
+    "entity_type": "organization",
+    "aliases": [
+      "ORG_027"
+    ],
+    "mention_count": 0,
+    "attributes": {}
+  },
+  "ORG_001": {
+    "canonical_id": "ORG_001",
+    "canonical_name": "ORG_001",
+    "entity_type": "organization",
+    "aliases": [
+      "ORG_001"
+    ],
+    "mention_count": 0,
+    "attributes": {}
+  },
+  "ORG_023": {
+    "canonical_id": "ORG_023",
+    "canonical_name": "ORG_023",
+    "entity_type": "organization",
+    "aliases": [
+      "ORG_023"
+    ],
+    "mention_count": 0,
+    "attributes": {}
+  },
+  "ORG_021": {
+    "canonical_id": "ORG_021",
+    "canonical_name": "ORG_021",
+    "entity_type": "organization",
+    "aliases": [
+      "ORG_021"
+    ],
+    "mention_count": 0,
+    "attributes": {}
+  },
+  "ORG_013": {
+    "canonical_id": "ORG_013",
+    "canonical_name": "ORG_013",
+    "entity_type": "organization",
+    "aliases": [
+      "ORG_013"
+    ],
+    "mention_count": 0,
+    "attributes": {}
+  },
+  "ORG_010": {
+    "canonical_id": "ORG_010",
+    "canonical_name": "ORG_010",
+    "entity_type": "organization",
+    "aliases": [
+      "ORG_010"
+    ],
+    "mention_count": 0,
+    "attributes": {}
+  },
+  "PERSON_013": {
+    "canonical_id": "PERSON_013",
+    "canonical_name": "PERSON_013",
+    "entity_type": "person",
+    "aliases": [
+      "PERSON_013"
+    ],
+    "mention_count": 0,
+    "attributes": {}
+  }
+}

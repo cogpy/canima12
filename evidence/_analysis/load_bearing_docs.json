@@ -1,242 +1,112 @@
 [
   {
-    "item_id": "IMAGE_2CA73A1308C2",
-    "centrality": 57,
-    "source_path": "evidence/emails/RYNETTE_BANTJIES_SARS_5_JUNE_2025.jpg",
-    "claims": [
-      "EVENT_108",
-      "MAILBOX_EVIDENCE_RELATIONS_2026_02_09",
-      "EVENT_007",
-      "EVENT_103",
-      "LEX_SIM_NN_ATTRIBUTION_2026_03_10"
-    ]
-  },
-  {
     "item_id": "EMAIL_D4BE52B4F815",
-    "centrality": 53,
-    "source_path": "evidence/fabricated_accounts/Fw_RegimaREZONANCE.eml",
-    "claims": [
-      "MAILBOX_EVIDENCE_RELATIONS_2026_02_09",
-      "EVT-075",
-      "LEX_SIM_NN_ATTRIBUTION_2026_03_10",
-      "EVENT_063",
-      "EVT-077"
-    ]
+    "centrality": 56250,
+    "rank": 1
   },
   {
     "item_id": "EMAIL_3913620B19B1",
-    "centrality": 53,
-    "source_path": "evidence/fabricated_accounts/Fw_RegimaREZONANCE.msg",
-    "claims": [
-      "MAILBOX_EVIDENCE_RELATIONS_2026_02_09",
-      "EVT-075",
-      "LEX_SIM_NN_ATTRIBUTION_2026_03_10",
-      "EVENT_063",
-      "EVT-077"
-    ]
+    "centrality": 53550,
+    "rank": 2
   },
   {
     "item_id": "EMAIL_78C0883C28FA",
-    "centrality": 49,
-    "source_path": "evidence/fabricated_accounts/Fw_RE_RegimASAPayments.eml",
-    "claims": [
-      "MAILBOX_EVIDENCE_RELATIONS_2026_02_09",
-      "EVT-075",
-      "EVENT_H006",
-      "LEX_SIM_NN_ATTRIBUTION_2026_03_10",
-      "EVENT_063"
-    ]
+    "centrality": 53300,
+    "rank": 3
   },
   {
     "item_id": "EMAIL_CE7DA123AA8A",
-    "centrality": 49,
-    "source_path": "evidence/fabricated_accounts/Fw_RE_RegimASAPayments.msg",
-    "claims": [
-      "MAILBOX_EVIDENCE_RELATIONS_2026_02_09",
-      "EVT-075",
-      "EVENT_H006",
-      "LEX_SIM_NN_ATTRIBUTION_2026_03_10",
-      "EVENT_063"
-    ]
-  },
-  {
-    "item_id": "DOCUMENT_64DB6080EC56",
-    "centrality": 46,
-    "source_path": "evidence/2026-02-05_new_evidence/2025-06-18 - Rynette & De Novo - RegimA SA Payments.pdf",
-    "claims": [
-      "EVENT_108",
-      "MAILBOX_EVIDENCE_RELATIONS_2026_02_09",
-      "EVENT_007",
-      "EVENT_H006",
-      "EVENT_103"
-    ]
-  },
-  {
-    "item_id": "DOCUMENT_F389C1DC0988",
-    "centrality": 44,
-    "source_path": "evidence/critical_analysis/2025-04-14 - Rynette Instruction to Clients to Pay into a New Bank Account only.pdf",
-    "claims": [
-      "EVENT_108",
-      "MAILBOX_EVIDENCE_RELATIONS_2026_02_09",
-      "EVT-075",
-      "EVENT_007",
-      "EVENT_103"
-    ]
-  },
-  {
-    "item_id": "DOCUMENT_18599C37AB5C",
-    "centrality": 44,
-    "source_path": "evidence/critical_analysis/Fw_ 2025-04-14 - Rynette Instruction to Clients to Pay into a New Bank Account o.pdf",
-    "claims": [
-      "EVENT_108",
-      "MAILBOX_EVIDENCE_RELATIONS_2026_02_09",
-      "EVT-075",
-      "EVENT_007",
-      "EVENT_103"
-    ]
-  },
-  {
-    "item_id": "DOCUMENT_B33772144A20",
-    "centrality": 44,
-    "source_path": "evidence/fabricated_accounts/Fw_RegimaREZONANCE.pdf",
-    "claims": [
-      "MAILBOX_EVIDENCE_RELATIONS_2026_02_09",
-      "EVT-075",
-      "LEX_SIM_NN_ATTRIBUTION_2026_03_10",
-      "EVT-077",
-      "EVENT_070"
-    ]
-  },
-  {
-    "item_id": "UNKNOWN_E7316BE06044",
-    "centrality": 42,
-    "source_path": "evidence/emails/TRUSTEEFw_CopyofyourID-DanielFaucitt-Outlook.md",
-    "claims": [
-      "trustee_of",
-      "EVENT_108",
-      "MAILBOX_EVIDENCE_RELATIONS_2026_02_09",
-      "EVENT_089",
-      "EVENT_103"
-    ]
-  },
-  {
-    "item_id": "DOCUMENT_46085CB73EB2",
-    "centrality": 42,
-    "source_path": "evidence/emails/TRUSTEEFw_CopyofyourID-DanielFaucitt-Outlook.pdf",
-    "claims": [
-      "trustee_of",
-      "EVENT_108",
-      "MAILBOX_EVIDENCE_RELATIONS_2026_02_09",
-      "EVENT_089",
-      "EVENT_103"
-    ]
-  },
-  {
-    "item_id": "IMAGE_3200516AD048",
-    "centrality": 41,
-    "source_path": "evidence/emails/BANTJIES_COMPUTER_EXPENSES_3_JUNE_2025.jpg",
-    "claims": [
-      "MAILBOX_EVIDENCE_RELATIONS_2026_02_09",
-      "LEX_SIM_NN_ATTRIBUTION_2026_03_10",
-      "EVENT_063",
-      "EVT-077",
-      "EVT-063"
-    ]
+    "centrality": 51250,
+    "rank": 4
   },
   {
     "item_id": "DOCUMENT_E7D6BCACAE4D",
-    "centrality": 41,
-    "source_path": "evidence/fabricated_accounts/RegimaSA(Pty)Ltd-2019-Financialstatements-SME.pdf",
-    "claims": [
-      "MAILBOX_EVIDENCE_RELATIONS_2026_02_09",
-      "EVT-075",
-      "LEX_SIM_NN_ATTRIBUTION_2026_03_10",
-      "EVT-077",
-      "EVENT_070"
-    ]
-  },
-  {
-    "item_id": "IMAGE_C3B9C14A57C1",
-    "centrality": 40,
-    "source_path": "evidence/emails/SARS_PETER_REP_REQUEST_28_MAR_2025.jpg",
-    "claims": [
-      "MAILBOX_EVIDENCE_RELATIONS_2026_02_09",
-      "EVENT_103",
-      "LEX_SIM_NN_ATTRIBUTION_2026_03_10",
-      "EVENT_063",
-      "EVT-069"
-    ]
-  },
-  {
-    "item_id": "UNKNOWN_BF4AFADD2030",
-    "centrality": 38,
-    "source_path": "evidence/emails/Fw_update-SomeInitialInformation&OperatingEntityLists-DanielFaucitt-Outlook.md",
-    "claims": [
-      "FORGERY_BACKDATING_RELATIONS_2026_02_18",
-      "EVENT_108",
-      "MAILBOX_EVIDENCE_RELATIONS_2026_02_09",
-      "MULTI_ENTITY_CORRESPONDENT_FRAMEWORK",
-      "LEX_SIM_NN_ATTRIBUTION_2026_03_10"
-    ]
-  },
-  {
-    "item_id": "DOCUMENT_E6188282BF4E",
-    "centrality": 38,
-    "source_path": "evidence/emails/Fw_update-SomeInitialInformation&OperatingEntityLists-DanielFaucitt-Outlook.pdf",
-    "claims": [
-      "FORGERY_BACKDATING_RELATIONS_2026_02_18",
-      "EVENT_108",
-      "MAILBOX_EVIDENCE_RELATIONS_2026_02_09",
-      "MULTI_ENTITY_CORRESPONDENT_FRAMEWORK",
-      "LEX_SIM_NN_ATTRIBUTION_2026_03_10"
-    ]
-  },
-  {
-    "item_id": "UNKNOWN_7595AB85DF20",
-    "centrality": 38,
-    "source_path": "evidence/emails/Fw_update-SomeInitialInformation&OperatingEntityLists-DanielFaucitt-Outlook1.md",
-    "claims": [
-      "FORGERY_BACKDATING_RELATIONS_2026_02_18",
-      "EVENT_108",
-      "MAILBOX_EVIDENCE_RELATIONS_2026_02_09",
-      "MULTI_ENTITY_CORRESPONDENT_FRAMEWORK",
-      "LEX_SIM_NN_ATTRIBUTION_2026_03_10"
-    ]
-  },
-  {
-    "item_id": "DOCUMENT_024BCEF36AEA",
-    "centrality": 38,
-    "source_path": "evidence/emails/Fw_update-SomeInitialInformation&OperatingEntityLists-DanielFaucitt-Outlook1.pdf",
-    "claims": [
-      "FORGERY_BACKDATING_RELATIONS_2026_02_18",
-      "EVENT_108",
-      "MAILBOX_EVIDENCE_RELATIONS_2026_02_09",
-      "MULTI_ENTITY_CORRESPONDENT_FRAMEWORK",
-      "LEX_SIM_NN_ATTRIBUTION_2026_03_10"
-    ]
+    "centrality": 21112,
+    "rank": 5
   },
   {
     "item_id": "UNKNOWN_6CC42B772F00",
-    "centrality": 38,
-    "source_path": "evidence/trademark/FW_Trademarkregistrationnos.UK00914297063REGIMAZONEinclasses03,05and44inthenameofREGIMASKINTREATMENTSCC[Witzref_CS2511.UK.03+]-DanielFaucitt-Outlook.md",
-    "claims": [
-      "EVENT_108",
-      "MAILBOX_EVIDENCE_RELATIONS_2026_02_09",
-      "LEX_SIM_NN_ATTRIBUTION_2026_03_10",
-      "EVENT_010",
-      "EVT-077"
-    ]
+    "centrality": 16200,
+    "rank": 6
   },
   {
     "item_id": "DOCUMENT_2CE763EC13BC",
-    "centrality": 38,
-    "source_path": "evidence/trademark/FW_Trademarkregistrationnos.UK00914297063REGIMAZONEinclasses03,05and44inthenameofREGIMASKINTREATMENTSCC[Witzref_CS2511.UK.03+]-DanielFaucitt-Outlook.pdf",
-    "claims": [
-      "EVENT_108",
-      "MAILBOX_EVIDENCE_RELATIONS_2026_02_09",
-      "LEX_SIM_NN_ATTRIBUTION_2026_03_10",
-      "EVENT_010",
-      "EVT-077"
-    ]
+    "centrality": 16200,
+    "rank": 7
+  },
+  {
+    "item_id": "DOCUMENT_B33772144A20",
+    "centrality": 15480,
+    "rank": 8
+  },
+  {
+    "item_id": "DOCUMENT_60BC81A57B1D",
+    "centrality": 6417,
+    "rank": 9
+  },
+  {
+    "item_id": "IMAGE_B3A654639E43",
+    "centrality": 6032,
+    "rank": 10
+  },
+  {
+    "item_id": "IMAGE_D7DE0D54BCA2",
+    "centrality": 5481,
+    "rank": 11
+  },
+  {
+    "item_id": "IMAGE_027417722282",
+    "centrality": 5481,
+    "rank": 12
+  },
+  {
+    "item_id": "DOCUMENT_F389C1DC0988",
+    "centrality": 4902,
+    "rank": 13
+  },
+  {
+    "item_id": "DOCUMENT_18599C37AB5C",
+    "centrality": 4902,
+    "rank": 14
+  },
+  {
+    "item_id": "DOCUMENT_64DB6080EC56",
+    "centrality": 4536,
+    "rank": 15
+  },
+  {
+    "item_id": "IMAGE_551E3003D18E",
+    "centrality": 3960,
+    "rank": 16
+  },
+  {
+    "item_id": "DOCUMENT_5565C35169DF",
+    "centrality": 3036,
+    "rank": 17
+  },
+  {
+    "item_id": "DOCUMENT_CD201D9F64F0",
+    "centrality": 3024,
+    "rank": 18
+  },
+  {
+    "item_id": "UNKNOWN_7BC88904F6F1",
+    "centrality": 2592,
+    "rank": 19
+  },
+  {
+    "item_id": "DOCUMENT_A34F34671A0C",
+    "centrality": 2080,
+    "rank": 20
+  },
+  {
+    "item_id": "UNKNOWN_35767B2390E1",
+    "centrality": 1980,
+    "rank": 21
+  },
+  {
+    "item_id": "DOCUMENT_6D73DDFCFFBF",
+    "centrality": 1980,
+    "rank": 22
   }
 ]
