@@ -35,19 +35,24 @@
       "ABUSE_OF_PROCESS_ANALYSIS",
       "EVT-064"
     ],
-    "claims_contradicted": [],
+    "claims_contradicted": [
+      "EVENT_059",
+      "EVENT_116"
+    ],
     "source_strength": "primary",
-    "corroboration_count": 10,
-    "contradiction_count": 0,
+    "corroboration_count": 228,
+    "contradiction_count": 2,
     "legal_weight": 0,
     "urgency_weight": 0,
     "duplication_score": 0,
     "human_rating": null,
-    "regulation_state": "unprocessed",
+    "regulation_state": "upregulated",
     "metadata": {
       "enrichment_flagged": "2026-06-06T06:18:54.288503",
       "enriched": true,
-      "enrichment_timestamp": "2026-06-06T06:20:26.092790"
+      "enrichment_timestamp": "2026-06-06T06:20:26.092790",
+      "enrichment_needed": true,
+      "gap_acknowledged": "2026-06-12T08:03:01.554596"
     }
   },
   {
@@ -68,19 +73,24 @@
       "EVT-067",
       "EVENT_070"
     ],
-    "claims_contradicted": [],
+    "claims_contradicted": [
+      "EVT-063",
+      "EVT-064"
+    ],
     "source_strength": "primary",
-    "corroboration_count": 10,
-    "contradiction_count": 0,
+    "corroboration_count": 228,
+    "contradiction_count": 2,
     "legal_weight": 0,
     "urgency_weight": 0,
     "duplication_score": 0,
     "human_rating": null,
-    "regulation_state": "unprocessed",
+    "regulation_state": "upregulated",
     "metadata": {
       "enrichment_flagged": "2026-06-06T06:18:54.288517",
       "enriched": true,
-      "enrichment_timestamp": "2026-06-06T06:20:26.093045"
+      "enrichment_timestamp": "2026-06-06T06:20:26.093045",
+      "enrichment_needed": true,
+      "gap_acknowledged": "2026-06-12T08:03:01.554608"
     }
   },
   {
@@ -114,19 +124,24 @@
       "EVENT_070",
       "EVENT_018_XENOPHONTOS_KETONI"
     ],
-    "claims_contradicted": [],
+    "claims_contradicted": [
+      "EVT-063",
+      "EVT-064"
+    ],
     "source_strength": "primary",
-    "corroboration_count": 10,
-    "contradiction_count": 0,
+    "corroboration_count": 228,
+    "contradiction_count": 2,
     "legal_weight": 0,
     "urgency_weight": 0,
     "duplication_score": 0,
     "human_rating": null,
-    "regulation_state": "unprocessed",
+    "regulation_state": "upregulated",
     "metadata": {
       "enrichment_flagged": "2026-06-06T06:18:54.288519",
       "enriched": true,
-      "enrichment_timestamp": "2026-06-06T06:20:26.093315"
+      "enrichment_timestamp": "2026-06-06T06:20:26.093315",
+      "enrichment_needed": true,
+      "gap_acknowledged": "2026-06-12T08:03:01.554610"
     }
   },
   {
@@ -153,19 +168,24 @@
       "EVT-063",
       "EVENT_070"
     ],
-    "claims_contradicted": [],
+    "claims_contradicted": [
+      "EVT-064",
+      "EVENT_123"
+    ],
     "source_strength": "primary",
-    "corroboration_count": 10,
-    "contradiction_count": 0,
+    "corroboration_count": 228,
+    "contradiction_count": 2,
     "legal_weight": 0,
     "urgency_weight": 0,
     "duplication_score": 0,
     "human_rating": null,
-    "regulation_state": "unprocessed",
+    "regulation_state": "upregulated",
     "metadata": {
       "enrichment_flagged": "2026-06-06T06:18:54.288521",
       "enriched": true,
-      "enrichment_timestamp": "2026-06-06T06:20:26.093573"
+      "enrichment_timestamp": "2026-06-06T06:20:26.093573",
+      "enrichment_needed": true,
+      "gap_acknowledged": "2026-06-12T08:03:01.554612"
     }
   },
   {
@@ -191,19 +211,24 @@
       "EVENT_002",
       "EVENT_070"
     ],
-    "claims_contradicted": [],
+    "claims_contradicted": [
+      "EVT-063",
+      "EVT-064"
+    ],
     "source_strength": "primary",
-    "corroboration_count": 10,
-    "contradiction_count": 0,
+    "corroboration_count": 228,
+    "contradiction_count": 2,
     "legal_weight": 0,
     "urgency_weight": 0,
     "duplication_score": 0,
     "human_rating": null,
-    "regulation_state": "unprocessed",
+    "regulation_state": "upregulated",
     "metadata": {
       "enrichment_flagged": "2026-06-06T06:18:54.288522",
       "enriched": true,
-      "enrichment_timestamp": "2026-06-06T06:20:26.093840"
+      "enrichment_timestamp": "2026-06-06T06:20:26.093840",
+      "enrichment_needed": true,
+      "gap_acknowledged": "2026-06-12T08:03:01.554614"
     }
   },
   {
@@ -239,19 +264,24 @@
       "ABUSE_OF_PROCESS_ANALYSIS",
       "EVENT_025"
     ],
-    "claims_contradicted": [],
+    "claims_contradicted": [
+      "EVT-064",
+      "EVENT_123"
+    ],
     "source_strength": "primary",
-    "corroboration_count": 10,
-    "contradiction_count": 0,
+    "corroboration_count": 228,
+    "contradiction_count": 2,
     "legal_weight": 0,
     "urgency_weight": 0,
     "duplication_score": 0,
     "human_rating": null,
-    "regulation_state": "unprocessed",
+    "regulation_state": "upregulated",
     "metadata": {
       "enrichment_flagged": "2026-06-06T06:18:54.288524",
       "enriched": true,
-      "enrichment_timestamp": "2026-06-06T06:20:26.094095"
+      "enrichment_timestamp": "2026-06-06T06:20:26.094095",
+      "enrichment_needed": true,
+      "gap_acknowledged": "2026-06-12T08:03:01.554615"
     }
   },
   {
@@ -309,19 +339,24 @@
       "EVENT_019",
       "EVT-070"
     ],
-    "claims_contradicted": [],
+    "claims_contradicted": [
+      "EVT-063",
+      "EVT-064"
+    ],
     "source_strength": "primary",
-    "corroboration_count": 10,
-    "contradiction_count": 0,
+    "corroboration_count": 228,
+    "contradiction_count": 2,
     "legal_weight": 0,
     "urgency_weight": 0,
     "duplication_score": 0,
     "human_rating": null,
-    "regulation_state": "unprocessed",
+    "regulation_state": "upregulated",
     "metadata": {
       "enrichment_flagged": "2026-06-06T06:18:54.288526",
       "enriched": true,
-      "enrichment_timestamp": "2026-06-06T06:20:26.094407"
+      "enrichment_timestamp": "2026-06-06T06:20:26.094407",
+      "strong_centre": true,
+      "centrality_rank": 6
     }
   },
   {
@@ -344,19 +379,24 @@
       "EVT-067",
       "EVENT_070"
     ],
-    "claims_contradicted": [],
+    "claims_contradicted": [
+      "EVT-063",
+      "EVT-064"
+    ],
     "source_strength": "primary",
-    "corroboration_count": 10,
-    "contradiction_count": 0,
+    "corroboration_count": 228,
+    "contradiction_count": 2,
     "legal_weight": 0,
     "urgency_weight": 0,
     "duplication_score": 0,
     "human_rating": null,
-    "regulation_state": "unprocessed",
+    "regulation_state": "upregulated",
     "metadata": {
       "enrichment_flagged": "2026-06-06T06:18:54.288528",
       "enriched": true,
-      "enrichment_timestamp": "2026-06-06T06:20:26.094700"
+      "enrichment_timestamp": "2026-06-06T06:20:26.094700",
+      "enrichment_needed": true,
+      "gap_acknowledged": "2026-06-12T08:03:01.554618"
     }
   },
   {
@@ -380,25 +420,30 @@
       "EVENT_070",
       "SARS_FLAGGED_INVOICES"
     ],
-    "claims_contradicted": [],
+    "claims_contradicted": [
+      "EVT-063",
+      "EVT-064"
+    ],
     "source_strength": "primary",
-    "corroboration_count": 10,
-    "contradiction_count": 0,
+    "corroboration_count": 228,
+    "contradiction_count": 2,
     "legal_weight": 0,
     "urgency_weight": 0,
     "duplication_score": 0,
     "human_rating": null,
-    "regulation_state": "unprocessed",
+    "regulation_state": "upregulated",
     "metadata": {
       "enrichment_flagged": "2026-06-06T06:18:54.288530",
       "enriched": true,
-      "enrichment_timestamp": "2026-06-06T06:20:26.094968"
+      "enrichment_timestamp": "2026-06-06T06:20:26.094968",
+      "enrichment_needed": true,
+      "gap_acknowledged": "2026-06-12T08:03:01.554619"
     }
   },
   {
     "item_id": "DOCUMENT_F58CAD4FD02F",
     "type": "document",
-    "date": null,
+    "date": "2026-02-05",
     "source_path": "evidence/2026-02-05_new_evidence/FORMAL NOTICE - CESSATION OF CRIMINAL INSTRUCTIONS.pdf",
     "entities": [],
     "claims_supported": [
@@ -426,25 +471,32 @@
       "EVT-065",
       "EVENT_SF9"
     ],
-    "claims_contradicted": [],
+    "claims_contradicted": [
+      "EVT-063",
+      "EVT-064"
+    ],
     "source_strength": "primary",
-    "corroboration_count": 10,
-    "contradiction_count": 0,
+    "corroboration_count": 228,
+    "contradiction_count": 2,
     "legal_weight": 0,
     "urgency_weight": 0,
     "duplication_score": 0,
     "human_rating": null,
-    "regulation_state": "unprocessed",
+    "regulation_state": "upregulated",
     "metadata": {
       "enrichment_flagged": "2026-06-06T06:18:54.288532",
       "enriched": true,
-      "enrichment_timestamp": "2026-06-06T06:20:26.095296"
+      "enrichment_timestamp": "2026-06-06T06:20:26.095296",
+      "date_inferred": true,
+      "date_source": "filename_pattern",
+      "enrichment_needed": true,
+      "gap_acknowledged": "2026-06-12T08:03:01.554621"
     }
   },
   {
     "item_id": "DOCUMENT_2F7939BFEF15",
     "type": "document",
-    "date": null,
+    "date": "2026-02-05",
     "source_path": "evidence/2026-02-05_new_evidence/Fw_ update - Some Initial Information & Operating Entity Lists.pdf",
     "entities": [
       "ORG_026"
@@ -468,25 +520,30 @@
       "EVT-067",
       "EVENT_070"
     ],
-    "claims_contradicted": [],
+    "claims_contradicted": [
+      "EVT-063",
+      "EVT-064"
+    ],
     "source_strength": "primary",
-    "corroboration_count": 10,
-    "contradiction_count": 0,
+    "corroboration_count": 228,
+    "contradiction_count": 2,
     "legal_weight": 0,
     "urgency_weight": 0,
     "duplication_score": 0,
     "human_rating": null,
-    "regulation_state": "unprocessed",
+    "regulation_state": "upregulated",
     "metadata": {
       "enrichment_flagged": "2026-06-06T06:18:54.288534",
       "enriched": true,
-      "enrichment_timestamp": "2026-06-06T06:20:26.095625"
+      "enrichment_timestamp": "2026-06-06T06:20:26.095625",
+      "date_inferred": true,
+      "date_source": "filename_pattern"
     }
   },
   {
     "item_id": "DOCUMENT_D73C44C0DA69",
     "type": "document",
-    "date": null,
+    "date": "2026-02-05",
     "source_path": "evidence/2026-02-05_new_evidence/POPIA_VIOLATION_NOTICE_&_RETALIATION_TIMELINE.pdf",
     "entities": [],
     "claims_supported": [
@@ -510,25 +567,32 @@
       "EVENT_019",
       "EVT-065"
     ],
-    "claims_contradicted": [],
+    "claims_contradicted": [
+      "EVT-063",
+      "EVT-064"
+    ],
     "source_strength": "primary",
-    "corroboration_count": 10,
-    "contradiction_count": 0,
+    "corroboration_count": 228,
+    "contradiction_count": 2,
     "legal_weight": 0,
     "urgency_weight": 0,
     "duplication_score": 0,
     "human_rating": null,
-    "regulation_state": "unprocessed",
+    "regulation_state": "upregulated",
     "metadata": {
       "enrichment_flagged": "2026-06-06T06:18:54.288535",
       "enriched": true,
-      "enrichment_timestamp": "2026-06-06T06:20:26.095936"
+      "enrichment_timestamp": "2026-06-06T06:20:26.095936",
+      "date_inferred": true,
+      "date_source": "filename_pattern",
+      "enrichment_needed": true,
+      "gap_acknowledged": "2026-06-12T08:03:01.554623"
     }
   },
   {
     "item_id": "DOCUMENT_FD867F80EF40",
     "type": "document",
-    "date": null,
+    "date": "2026-02-05",
     "source_path": "evidence/2026-02-05_new_evidence/Power point - how sales work.pdf",
     "entities": [],
     "claims_supported": [
@@ -546,25 +610,32 @@
       "EVT-064",
       "EVENT_070"
     ],
-    "claims_contradicted": [],
+    "claims_contradicted": [
+      "EVT-063",
+      "EVENT_123"
+    ],
     "source_strength": "primary",
-    "corroboration_count": 10,
-    "contradiction_count": 0,
+    "corroboration_count": 228,
+    "contradiction_count": 2,
     "legal_weight": 0,
     "urgency_weight": 0,
     "duplication_score": 0,
     "human_rating": null,
-    "regulation_state": "unprocessed",
+    "regulation_state": "upregulated",
     "metadata": {
       "enrichment_flagged": "2026-06-06T06:18:54.288537",
       "enriched": true,
-      "enrichment_timestamp": "2026-06-06T06:20:26.096206"
+      "enrichment_timestamp": "2026-06-06T06:20:26.096206",
+      "date_inferred": true,
+      "date_source": "filename_pattern",
+      "enrichment_needed": true,
+      "gap_acknowledged": "2026-06-12T08:03:01.554625"
     }
   },
   {
     "item_id": "DOCUMENT_5565C35169DF",
     "type": "document",
-    "date": null,
+    "date": "2026-02-05",
     "source_path": "evidence/2026-02-05_new_evidence/RegimA SA ┬╖ Reports ┬╖ Total sales over time by store ┬╖ Shopify Plus.pdf",
     "entities": [
       "PLATFORM_001",
@@ -597,19 +668,24 @@
       "EVENT_019",
       "EVT-070"
     ],
-    "claims_contradicted": [],
+    "claims_contradicted": [
+      "EVT-063",
+      "EVT-064"
+    ],
     "source_strength": "primary",
-    "corroboration_count": 10,
-    "contradiction_count": 0,
+    "corroboration_count": 228,
+    "contradiction_count": 2,
     "legal_weight": 0,
     "urgency_weight": 0,
     "duplication_score": 0,
     "human_rating": null,
-    "regulation_state": "unprocessed",
+    "regulation_state": "upregulated",
     "metadata": {
       "enrichment_flagged": "2026-06-06T06:18:54.288539",
       "enriched": true,
-      "enrichment_timestamp": "2026-06-06T06:20:26.096580"
+      "enrichment_timestamp": "2026-06-06T06:20:26.096580",
+      "date_inferred": true,
+      "date_source": "filename_pattern"
     }
   },
   {
@@ -644,15 +720,18 @@
       "EVENT_022",
       "EVENT_070"
     ],
-    "claims_contradicted": [],
+    "claims_contradicted": [
+      "EVT-063",
+      "EVT-064"
+    ],
     "source_strength": "primary",
-    "corroboration_count": 10,
-    "contradiction_count": 0,
+    "corroboration_count": 228,
+    "contradiction_count": 2,
     "legal_weight": 0,
     "urgency_weight": 0,
     "duplication_score": 0,
     "human_rating": null,
-    "regulation_state": "unprocessed",
+    "regulation_state": "upregulated",
     "metadata": {
       "enrichment_flagged": "2026-06-06T06:18:54.288541",
       "enriched": true,
@@ -662,7 +741,7 @@
   {
     "item_id": "DOCUMENT_60BC81A57B1D",
     "type": "document",
-    "date": null,
+    "date": "2026-02-05",
     "source_path": "evidence/2026-02-05_new_evidence/Regima SA (Pty) Ltd - 2019 - Financial statements - SME.pdf",
     "entities": [
       "ORG_003",
@@ -698,25 +777,30 @@
       "EVENT_H003",
       "EVT-070"
     ],
-    "claims_contradicted": [],
+    "claims_contradicted": [
+      "EVT-063",
+      "EVT-064"
+    ],
     "source_strength": "primary",
-    "corroboration_count": 10,
-    "contradiction_count": 0,
+    "corroboration_count": 228,
+    "contradiction_count": 2,
     "legal_weight": 0,
     "urgency_weight": 0,
     "duplication_score": 0,
     "human_rating": null,
-    "regulation_state": "unprocessed",
+    "regulation_state": "upregulated",
     "metadata": {
       "enrichment_flagged": "2026-06-06T06:18:54.288543",
       "enriched": true,
-      "enrichment_timestamp": "2026-06-06T06:20:26.097160"
+      "enrichment_timestamp": "2026-06-06T06:20:26.097160",
+      "date_inferred": true,
+      "date_source": "filename_pattern"
     }
   },
   {
     "item_id": "UNKNOWN_C243FD2E1491",
     "type": "unknown",
-    "date": null,
+    "date": "2026-02-05",
     "source_path": "evidence/2026-02-05_new_evidence/analysis_notes.md",
     "entities": [],
     "claims_supported": [
@@ -737,25 +821,32 @@
       "EVT-063",
       "EVENT_070"
     ],
-    "claims_contradicted": [],
+    "claims_contradicted": [
+      "EVT-064",
+      "EVENT_123"
+    ],
     "source_strength": "primary",
-    "corroboration_count": 10,
-    "contradiction_count": 0,
+    "corroboration_count": 228,
+    "contradiction_count": 2,
     "legal_weight": 0,
     "urgency_weight": 0,
     "duplication_score": 0,
     "human_rating": null,
-    "regulation_state": "unprocessed",
+    "regulation_state": "upregulated",
     "metadata": {
       "enrichment_flagged": "2026-06-06T06:18:54.288545",
       "enriched": true,
-      "enrichment_timestamp": "2026-06-06T06:20:26.097428"
+      "enrichment_timestamp": "2026-06-06T06:20:26.097428",
+      "date_inferred": true,
+      "date_source": "filename_pattern",
+      "enrichment_needed": true,
+      "gap_acknowledged": "2026-06-12T08:03:01.554627"
     }
   },
   {
     "item_id": "UNKNOWN_4228A5D9EA2B",
     "type": "unknown",
-    "date": null,
+    "date": "2026-03-28",
     "source_path": "evidence/2026-03-28-mail-forensics/audit_findings.md",
     "entities": [],
     "claims_supported": [
@@ -778,25 +869,32 @@
       "EVENT_081",
       "EVENT_023"
     ],
-    "claims_contradicted": [],
+    "claims_contradicted": [
+      "EVT-063",
+      "EVT-064"
+    ],
     "source_strength": "primary",
-    "corroboration_count": 10,
-    "contradiction_count": 0,
+    "corroboration_count": 228,
+    "contradiction_count": 2,
     "legal_weight": 0,
     "urgency_weight": 0,
     "duplication_score": 0,
     "human_rating": null,
-    "regulation_state": "unprocessed",
+    "regulation_state": "upregulated",
     "metadata": {
       "enrichment_flagged": "2026-06-06T06:18:54.288547",
       "enriched": true,
-      "enrichment_timestamp": "2026-06-06T06:20:26.097695"
+      "enrichment_timestamp": "2026-06-06T06:20:26.097695",
+      "date_inferred": true,
+      "date_source": "filename_pattern",
+      "enrichment_needed": true,
+      "gap_acknowledged": "2026-06-12T08:03:01.554629"
     }
   },
   {
     "item_id": "UNKNOWN_93A2D6FB31A5",
     "type": "unknown",
-    "date": null,
+    "date": "2026-03-28",
     "source_path": "evidence/2026-03-28-mail-forensics/batch_extract_resume.py",
     "entities": [],
     "claims_supported": [
@@ -815,25 +913,32 @@
       "EVENT_070",
       "EVENT_GWS_AUDIT_001"
     ],
-    "claims_contradicted": [],
+    "claims_contradicted": [
+      "EVT-063",
+      "EVT-064"
+    ],
     "source_strength": "primary",
-    "corroboration_count": 10,
-    "contradiction_count": 0,
+    "corroboration_count": 228,
+    "contradiction_count": 2,
     "legal_weight": 0,
     "urgency_weight": 0,
     "duplication_score": 0,
     "human_rating": null,
-    "regulation_state": "unprocessed",
+    "regulation_state": "upregulated",
     "metadata": {
       "enrichment_flagged": "2026-06-06T06:18:54.288549",
       "enriched": true,
-      "enrichment_timestamp": "2026-06-06T06:20:26.097965"
+      "enrichment_timestamp": "2026-06-06T06:20:26.097965",
+      "date_inferred": true,
+      "date_source": "filename_pattern",
+      "enrichment_needed": true,
+      "gap_acknowledged": "2026-06-12T08:03:01.554630"
     }
   },
   {
     "item_id": "UNKNOWN_E7064DA28DCD",
     "type": "unknown",
-    "date": null,
+    "date": "2026-03-28",
     "source_path": "evidence/2026-03-28-mail-forensics/batch_extract_v2.py",
     "entities": [],
     "claims_supported": [
@@ -852,25 +957,32 @@
       "EVENT_070",
       "EVENT_GWS_AUDIT_001"
     ],
-    "claims_contradicted": [],
+    "claims_contradicted": [
+      "EVT-063",
+      "EVT-064"
+    ],
     "source_strength": "primary",
-    "corroboration_count": 10,
-    "contradiction_count": 0,
+    "corroboration_count": 228,
+    "contradiction_count": 2,
     "legal_weight": 0,
     "urgency_weight": 0,
     "duplication_score": 0,
     "human_rating": null,
-    "regulation_state": "unprocessed",
+    "regulation_state": "upregulated",
     "metadata": {
       "enrichment_flagged": "2026-06-06T06:18:54.288551",
       "enriched": true,
-      "enrichment_timestamp": "2026-06-06T06:20:26.098238"
+      "enrichment_timestamp": "2026-06-06T06:20:26.098238",
+      "date_inferred": true,
+      "date_source": "filename_pattern",
+      "enrichment_needed": true,
+      "gap_acknowledged": "2026-06-12T08:03:01.554632"
     }
   },
   {
     "item_id": "UNKNOWN_6B422D305A2E",
     "type": "unknown",
-    "date": null,
+    "date": "2026-03-28",
     "source_path": "evidence/2026-03-28-mail-forensics/create_audit_charts.py",
     "entities": [],
     "claims_supported": [
@@ -893,24 +1005,31 @@
       "EVENT_081",
       "EVENT_023"
     ],
-    "claims_contradicted": [],
+    "claims_contradicted": [
+      "EVT-063",
+      "EVT-064"
+    ],
     "source_strength": "primary",
-    "corroboration_count": 10,
-    "contradiction_count": 0,
+    "corroboration_count": 228,
+    "contradiction_count": 2,
     "legal_weight": 0,
     "urgency_weight": 0,
     "duplication_score": 0,
     "human_rating": null,
-    "regulation_state": "unprocessed",
+    "regulation_state": "upregulated",
     "metadata": {
       "enriched": true,
-      "enrichment_timestamp": "2026-06-06T06:20:26.098500"
+      "enrichment_timestamp": "2026-06-06T06:20:26.098500",
+      "date_inferred": true,
+      "date_source": "filename_pattern",
+      "enrichment_needed": true,
+      "gap_acknowledged": "2026-06-12T08:03:01.554634"
     }
   },
   {
     "item_id": "UNKNOWN_D36C16D7CAEB",
     "type": "unknown",
-    "date": null,
+    "date": "2026-03-28",
     "source_path": "evidence/2026-03-28-mail-forensics/download_boms_r2.py",
     "entities": [],
     "claims_supported": [
@@ -929,24 +1048,31 @@
       "EVENT_070",
       "EVENT_GWS_AUDIT_001"
     ],
-    "claims_contradicted": [],
+    "claims_contradicted": [
+      "EVT-063",
+      "EVT-064"
+    ],
     "source_strength": "primary",
-    "corroboration_count": 10,
-    "contradiction_count": 0,
+    "corroboration_count": 228,
+    "contradiction_count": 2,
     "legal_weight": 0,
     "urgency_weight": 0,
     "duplication_score": 0,
     "human_rating": null,
-    "regulation_state": "unprocessed",
+    "regulation_state": "upregulated",
     "metadata": {
       "enriched": true,
-      "enrichment_timestamp": "2026-06-06T06:20:26.098759"
+      "enrichment_timestamp": "2026-06-06T06:20:26.098759",
+      "date_inferred": true,
+      "date_source": "filename_pattern",
+      "enrichment_needed": true,
+      "gap_acknowledged": "2026-06-12T08:03:01.554636"
     }
   },
   {
     "item_id": "UNKNOWN_8E7C554006E0",
     "type": "unknown",
-    "date": null,
+    "date": "2026-03-28",
     "source_path": "evidence/2026-03-28-mail-forensics/final_extraction_report.md",
     "entities": [],
     "claims_supported": [
@@ -971,24 +1097,31 @@
       "PETER_R10_6M_EXTRACTION",
       "EVENT_019"
     ],
-    "claims_contradicted": [],
+    "claims_contradicted": [
+      "EVT-063",
+      "EVT-064"
+    ],
     "source_strength": "primary",
-    "corroboration_count": 10,
-    "contradiction_count": 0,
+    "corroboration_count": 228,
+    "contradiction_count": 2,
     "legal_weight": 0,
     "urgency_weight": 0,
     "duplication_score": 0,
     "human_rating": null,
-    "regulation_state": "unprocessed",
+    "regulation_state": "upregulated",
     "metadata": {
       "enriched": true,
-      "enrichment_timestamp": "2026-06-06T06:20:26.099025"
+      "enrichment_timestamp": "2026-06-06T06:20:26.099025",
+      "date_inferred": true,
+      "date_source": "filename_pattern",
+      "enrichment_needed": true,
+      "gap_acknowledged": "2026-06-12T08:03:01.554638"
     }
   },
   {
     "item_id": "IMAGE_0E593181CDBB",
     "type": "image",
-    "date": null,
+    "date": "2026-03-28",
     "source_path": "evidence/2026-03-28-mail-forensics/forensic_audit_charts.png",
     "entities": [],
     "claims_supported": [
@@ -1011,24 +1144,31 @@
       "EVENT_081",
       "EVENT_023"
     ],
-    "claims_contradicted": [],
+    "claims_contradicted": [
+      "EVT-063",
+      "EVT-064"
+    ],
     "source_strength": "primary",
-    "corroboration_count": 10,
-    "contradiction_count": 0,
+    "corroboration_count": 228,
+    "contradiction_count": 2,
     "legal_weight": 0,
     "urgency_weight": 0,
     "duplication_score": 0,
     "human_rating": null,
-    "regulation_state": "unprocessed",
+    "regulation_state": "upregulated",
     "metadata": {
       "enriched": true,
-      "enrichment_timestamp": "2026-06-06T06:20:26.099285"
+      "enrichment_timestamp": "2026-06-06T06:20:26.099285",
+      "date_inferred": true,
+      "date_source": "filename_pattern",
+      "enrichment_needed": true,
+      "gap_acknowledged": "2026-06-12T08:03:01.554640"
     }
   },
   {
     "item_id": "UNKNOWN_BC1B51CC7E21",
     "type": "unknown",
-    "date": null,
+    "date": "2026-03-28",
     "source_path": "evidence/2026-03-28-mail-forensics/forensic_audit_program_96k.md",
     "entities": [],
     "claims_supported": [
@@ -1051,24 +1191,31 @@
       "EVENT_081",
       "EVENT_023"
     ],
-    "claims_contradicted": [],
+    "claims_contradicted": [
+      "EVT-063",
+      "EVT-064"
+    ],
     "source_strength": "primary",
-    "corroboration_count": 10,
-    "contradiction_count": 0,
+    "corroboration_count": 228,
+    "contradiction_count": 2,
     "legal_weight": 0,
     "urgency_weight": 0,
     "duplication_score": 0,
     "human_rating": null,
-    "regulation_state": "unprocessed",
+    "regulation_state": "upregulated",
     "metadata": {
       "enriched": true,
-      "enrichment_timestamp": "2026-06-06T06:20:26.099560"
+      "enrichment_timestamp": "2026-06-06T06:20:26.099560",
+      "date_inferred": true,
+      "date_source": "filename_pattern",
+      "enrichment_needed": true,
+      "gap_acknowledged": "2026-06-12T08:03:01.554642"
     }
   },
   {
     "item_id": "UNKNOWN_8E85D6129104",
     "type": "unknown",
-    "date": null,
+    "date": "2026-03-28",
     "source_path": "evidence/2026-03-28-mail-forensics/forensic_audit_readiness_report.md",
     "entities": [],
     "claims_supported": [
@@ -1091,24 +1238,31 @@
       "EVENT_081",
       "EVENT_023"
     ],
-    "claims_contradicted": [],
+    "claims_contradicted": [
+      "EVT-063",
+      "EVT-064"
+    ],
     "source_strength": "primary",
-    "corroboration_count": 10,
-    "contradiction_count": 0,
+    "corroboration_count": 228,
+    "contradiction_count": 2,
     "legal_weight": 0,
     "urgency_weight": 0,
     "duplication_score": 0,
     "human_rating": null,
-    "regulation_state": "unprocessed",
+    "regulation_state": "upregulated",
     "metadata": {
       "enriched": true,
-      "enrichment_timestamp": "2026-06-06T06:20:26.099837"
+      "enrichment_timestamp": "2026-06-06T06:20:26.099837",
+      "date_inferred": true,
+      "date_source": "filename_pattern",
+      "enrichment_needed": true,
+      "gap_acknowledged": "2026-06-12T08:03:01.554643"
     }
   },
   {
     "item_id": "UNKNOWN_C755CBD26C35",
     "type": "unknown",
-    "date": null,
+    "date": "2026-03-28",
     "source_path": "evidence/2026-03-28-mail-forensics/forensic_audit_workpaper_slg.md",
     "entities": [],
     "claims_supported": [
@@ -1131,24 +1285,31 @@
       "EVENT_081",
       "EVENT_023"
     ],
-    "claims_contradicted": [],
+    "claims_contradicted": [
+      "EVT-063",
+      "EVT-064"
+    ],
     "source_strength": "primary",
-    "corroboration_count": 10,
-    "contradiction_count": 0,
+    "corroboration_count": 228,
+    "contradiction_count": 2,
     "legal_weight": 0,
     "urgency_weight": 0,
     "duplication_score": 0,
     "human_rating": null,
-    "regulation_state": "unprocessed",
+    "regulation_state": "upregulated",
     "metadata": {
       "enriched": true,
-      "enrichment_timestamp": "2026-06-06T06:20:26.100099"
+      "enrichment_timestamp": "2026-06-06T06:20:26.100099",
+      "date_inferred": true,
+      "date_source": "filename_pattern",
+      "enrichment_needed": true,
+      "gap_acknowledged": "2026-06-12T08:03:01.554645"
     }
   },
   {
     "item_id": "UNKNOWN_A3EC75C839A5",
     "type": "unknown",
-    "date": null,
+    "date": "2026-03-28",
     "source_path": "evidence/2026-03-28-mail-forensics/forensic_mail_analysis_report.md",
     "entities": [],
     "claims_supported": [
@@ -1171,24 +1332,31 @@
       "EVENT_070",
       "EVENT_GWS_AUDIT_001"
     ],
-    "claims_contradicted": [],
+    "claims_contradicted": [
+      "EVT-064",
+      "EVENT_123"
+    ],
     "source_strength": "primary",
-    "corroboration_count": 10,
-    "contradiction_count": 0,
+    "corroboration_count": 228,
+    "contradiction_count": 2,
     "legal_weight": 0,
     "urgency_weight": 0,
     "duplication_score": 0,
     "human_rating": null,
-    "regulation_state": "unprocessed",
+    "regulation_state": "upregulated",
     "metadata": {
       "enriched": true,
-      "enrichment_timestamp": "2026-06-06T06:20:26.100367"
+      "enrichment_timestamp": "2026-06-06T06:20:26.100367",
+      "date_inferred": true,
+      "date_source": "filename_pattern",
+      "enrichment_needed": true,
+      "gap_acknowledged": "2026-06-12T08:03:01.554647"
     }
   },
   {
     "item_id": "UNKNOWN_442A31EDA33D",
     "type": "unknown",
-    "date": null,
+    "date": "2026-03-28",
     "source_path": "evidence/2026-03-28-mail-forensics/mail_sync_status_report.md",
     "entities": [],
     "claims_supported": [
@@ -1207,24 +1375,31 @@
       "EVENT_070",
       "EVENT_GWS_AUDIT_001"
     ],
-    "claims_contradicted": [],
+    "claims_contradicted": [
+      "EVT-063",
+      "EVT-064"
+    ],
     "source_strength": "primary",
-    "corroboration_count": 10,
-    "contradiction_count": 0,
+    "corroboration_count": 228,
+    "contradiction_count": 2,
     "legal_weight": 0,
     "urgency_weight": 0,
     "duplication_score": 0,
     "human_rating": null,
-    "regulation_state": "unprocessed",
+    "regulation_state": "upregulated",
     "metadata": {
       "enriched": true,
-      "enrichment_timestamp": "2026-06-06T06:20:26.100652"
+      "enrichment_timestamp": "2026-06-06T06:20:26.100652",
+      "date_inferred": true,
+      "date_source": "filename_pattern",
+      "enrichment_needed": true,
+      "gap_acknowledged": "2026-06-12T08:03:01.554649"
     }
   },
   {
     "item_id": "UNKNOWN_35767B2390E1",
     "type": "unknown",
-    "date": null,
+    "date": "2026-03-28",
     "source_path": "evidence/2026-03-28-mail-forensics/regima_mail_data_report.md",
     "entities": [
       "ORG_003",
@@ -1255,18 +1430,25 @@
       "EVENT_019",
       "EVT-070"
     ],
-    "claims_contradicted": [],
+    "claims_contradicted": [
+      "EVT-063",
+      "EVT-064"
+    ],
     "source_strength": "primary",
-    "corroboration_count": 10,
-    "contradiction_count": 0,
+    "corroboration_count": 228,
+    "contradiction_count": 2,
     "legal_weight": 0,
     "urgency_weight": 0,
     "duplication_score": 0,
     "human_rating": null,
-    "regulation_state": "unprocessed",
+    "regulation_state": "upregulated",
     "metadata": {
       "enriched": true,
-      "enrichment_timestamp": "2026-06-06T06:20:26.100928"
+      "enrichment_timestamp": "2026-06-06T06:20:26.100928",
+      "date_inferred": true,
+      "date_source": "filename_pattern",
+      "enrichment_needed": true,
+      "gap_acknowledged": "2026-06-12T08:03:01.554651"
     }
   },
   {
@@ -1300,18 +1482,23 @@
       "DOMAIN_IDENTITY_FRAUD",
       "EVENT_093"
     ],
-    "claims_contradicted": [],
+    "claims_contradicted": [
+      "EVT-063",
+      "EVT-064"
+    ],
     "source_strength": "primary",
-    "corroboration_count": 10,
-    "contradiction_count": 0,
+    "corroboration_count": 228,
+    "contradiction_count": 2,
     "legal_weight": 0,
     "urgency_weight": 0,
     "duplication_score": 0,
     "human_rating": null,
-    "regulation_state": "unprocessed",
+    "regulation_state": "upregulated",
     "metadata": {
       "enriched": true,
-      "enrichment_timestamp": "2026-06-06T06:20:26.101198"
+      "enrichment_timestamp": "2026-06-06T06:20:26.101198",
+      "enrichment_needed": true,
+      "gap_acknowledged": "2026-06-12T08:03:01.554653"
     }
   },
   {
@@ -1345,18 +1532,23 @@
       "DOMAIN_IDENTITY_FRAUD",
       "EVENT_093"
     ],
-    "claims_contradicted": [],
+    "claims_contradicted": [
+      "EVT-063",
+      "EVT-064"
+    ],
     "source_strength": "primary",
-    "corroboration_count": 10,
-    "contradiction_count": 0,
+    "corroboration_count": 228,
+    "contradiction_count": 2,
     "legal_weight": 0,
     "urgency_weight": 0,
     "duplication_score": 0,
     "human_rating": null,
-    "regulation_state": "unprocessed",
+    "regulation_state": "upregulated",
     "metadata": {
       "enriched": true,
-      "enrichment_timestamp": "2026-06-06T06:20:26.101470"
+      "enrichment_timestamp": "2026-06-06T06:20:26.101470",
+      "enrichment_needed": true,
+      "gap_acknowledged": "2026-06-12T08:03:01.554654"
     }
   },
   {
@@ -1390,18 +1582,23 @@
       "EVT-070",
       "EVT-064"
     ],
-    "claims_contradicted": [],
+    "claims_contradicted": [
+      "EVENT_123",
+      "EVENT_011"
+    ],
     "source_strength": "primary",
-    "corroboration_count": 10,
-    "contradiction_count": 0,
+    "corroboration_count": 228,
+    "contradiction_count": 2,
     "legal_weight": 0,
     "urgency_weight": 0,
     "duplication_score": 0,
     "human_rating": null,
-    "regulation_state": "unprocessed",
+    "regulation_state": "upregulated",
     "metadata": {
       "enriched": true,
-      "enrichment_timestamp": "2026-06-06T06:20:26.101761"
+      "enrichment_timestamp": "2026-06-06T06:20:26.101761",
+      "enrichment_needed": true,
+      "gap_acknowledged": "2026-06-12T08:03:01.554656"
     }
   },
   {
@@ -1435,18 +1632,23 @@
       "EVT-070",
       "EVT-064"
     ],
-    "claims_contradicted": [],
+    "claims_contradicted": [
+      "EVENT_123",
+      "EVENT_011"
+    ],
     "source_strength": "primary",
-    "corroboration_count": 10,
-    "contradiction_count": 0,
+    "corroboration_count": 228,
+    "contradiction_count": 2,
     "legal_weight": 0,
     "urgency_weight": 0,
     "duplication_score": 0,
     "human_rating": null,
-    "regulation_state": "unprocessed",
+    "regulation_state": "upregulated",
     "metadata": {
       "enriched": true,
-      "enrichment_timestamp": "2026-06-06T06:20:26.102059"
+      "enrichment_timestamp": "2026-06-06T06:20:26.102059",
+      "enrichment_needed": true,
+      "gap_acknowledged": "2026-06-12T08:03:01.554658"
     }
   },
   {
@@ -1470,18 +1672,23 @@
       "EVENT_060",
       "EVENT_070"
     ],
-    "claims_contradicted": [],
+    "claims_contradicted": [
+      "EVT-063",
+      "EVT-064"
+    ],
     "source_strength": "primary",
-    "corroboration_count": 10,
-    "contradiction_count": 0,
+    "corroboration_count": 228,
+    "contradiction_count": 2,
     "legal_weight": 0,
     "urgency_weight": 0,
     "duplication_score": 0,
     "human_rating": null,
-    "regulation_state": "unprocessed",
+    "regulation_state": "upregulated",
     "metadata": {
       "enriched": true,
-      "enrichment_timestamp": "2026-06-06T06:20:26.102319"
+      "enrichment_timestamp": "2026-06-06T06:20:26.102319",
+      "enrichment_needed": true,
+      "gap_acknowledged": "2026-06-12T08:03:01.554659"
     }
   },
   {
@@ -1508,18 +1715,23 @@
       "EVENT_060",
       "EVENT_070"
     ],
-    "claims_contradicted": [],
+    "claims_contradicted": [
+      "EVT-063",
+      "EVT-064"
+    ],
     "source_strength": "primary",
-    "corroboration_count": 10,
-    "contradiction_count": 0,
+    "corroboration_count": 228,
+    "contradiction_count": 2,
     "legal_weight": 0,
     "urgency_weight": 0,
     "duplication_score": 0,
     "human_rating": null,
-    "regulation_state": "unprocessed",
+    "regulation_state": "upregulated",
     "metadata": {
       "enriched": true,
-      "enrichment_timestamp": "2026-06-06T06:20:26.102600"
+      "enrichment_timestamp": "2026-06-06T06:20:26.102600",
+      "enrichment_needed": true,
+      "gap_acknowledged": "2026-06-12T08:03:01.554661"
     }
   },
   {
@@ -1546,18 +1758,23 @@
       "EVENT_060",
       "EVENT_070"
     ],
-    "claims_contradicted": [],
+    "claims_contradicted": [
+      "EVT-063",
+      "EVT-064"
+    ],
     "source_strength": "primary",
-    "corroboration_count": 10,
-    "contradiction_count": 0,
+    "corroboration_count": 228,
+    "contradiction_count": 2,
     "legal_weight": 0,
     "urgency_weight": 0,
     "duplication_score": 0,
     "human_rating": null,
-    "regulation_state": "unprocessed",
+    "regulation_state": "upregulated",
     "metadata": {
       "enriched": true,
-      "enrichment_timestamp": "2026-06-06T06:20:26.102881"
+      "enrichment_timestamp": "2026-06-06T06:20:26.102881",
+      "enrichment_needed": true,
+      "gap_acknowledged": "2026-06-12T08:03:01.554663"
     }
   },
   {
@@ -1581,18 +1798,23 @@
       "EVENT_060",
       "EVENT_070"
     ],
-    "claims_contradicted": [],
+    "claims_contradicted": [
+      "EVT-063",
+      "EVT-064"
+    ],
     "source_strength": "primary",
-    "corroboration_count": 10,
-    "contradiction_count": 0,
+    "corroboration_count": 228,
+    "contradiction_count": 2,
     "legal_weight": 0,
     "urgency_weight": 0,
     "duplication_score": 0,
     "human_rating": null,
-    "regulation_state": "unprocessed",
+    "regulation_state": "upregulated",
     "metadata": {
       "enriched": true,
-      "enrichment_timestamp": "2026-06-06T06:20:26.103156"
+      "enrichment_timestamp": "2026-06-06T06:20:26.103156",
+      "enrichment_needed": true,
+      "gap_acknowledged": "2026-06-12T08:03:01.554665"
     }
   },
   {
@@ -1629,18 +1851,23 @@
       "EVENT_019",
       "EVT-070"
     ],
-    "claims_contradicted": [],
+    "claims_contradicted": [
+      "EVT-063",
+      "EVT-064"
+    ],
     "source_strength": "primary",
-    "corroboration_count": 10,
-    "contradiction_count": 0,
+    "corroboration_count": 228,
+    "contradiction_count": 2,
     "legal_weight": 0,
     "urgency_weight": 0,
     "duplication_score": 0,
     "human_rating": null,
-    "regulation_state": "unprocessed",
+    "regulation_state": "upregulated",
     "metadata": {
       "enriched": true,
-      "enrichment_timestamp": "2026-06-06T06:20:26.103444"
+      "enrichment_timestamp": "2026-06-06T06:20:26.103444",
+      "enrichment_needed": true,
+      "gap_acknowledged": "2026-06-12T08:03:01.554666"
     }
   },
   {
@@ -1677,18 +1904,23 @@
       "EVENT_019",
       "EVT-070"
     ],
-    "claims_contradicted": [],
+    "claims_contradicted": [
+      "EVT-063",
+      "EVT-064"
+    ],
     "source_strength": "primary",
-    "corroboration_count": 10,
-    "contradiction_count": 0,
+    "corroboration_count": 228,
+    "contradiction_count": 2,
     "legal_weight": 0,
     "urgency_weight": 0,
     "duplication_score": 0,
     "human_rating": null,
-    "regulation_state": "unprocessed",
+    "regulation_state": "upregulated",
     "metadata": {
       "enriched": true,
-      "enrichment_timestamp": "2026-06-06T06:20:26.103774"
+      "enrichment_timestamp": "2026-06-06T06:20:26.103774",
+      "enrichment_needed": true,
+      "gap_acknowledged": "2026-06-12T08:03:01.554668"
     }
   },
   {
@@ -1720,18 +1952,23 @@
       "EVT-072",
       "EVENT_019"
     ],
-    "claims_contradicted": [],
+    "claims_contradicted": [
+      "EVT-063",
+      "EVT-064"
+    ],
     "source_strength": "primary",
-    "corroboration_count": 10,
-    "contradiction_count": 0,
+    "corroboration_count": 228,
+    "contradiction_count": 2,
     "legal_weight": 0,
     "urgency_weight": 0,
     "duplication_score": 0,
     "human_rating": null,
-    "regulation_state": "unprocessed",
+    "regulation_state": "upregulated",
     "metadata": {
       "enriched": true,
-      "enrichment_timestamp": "2026-06-06T06:20:26.104066"
+      "enrichment_timestamp": "2026-06-06T06:20:26.104066",
+      "enrichment_needed": true,
+      "gap_acknowledged": "2026-06-12T08:03:01.554670"
     }
   },
   {
@@ -1759,18 +1996,23 @@
       "EVENT_060",
       "EVENT_024"
     ],
-    "claims_contradicted": [],
+    "claims_contradicted": [
+      "EVT-063",
+      "EVT-064"
+    ],
     "source_strength": "primary",
-    "corroboration_count": 10,
-    "contradiction_count": 0,
+    "corroboration_count": 228,
+    "contradiction_count": 2,
     "legal_weight": 0,
     "urgency_weight": 0,
     "duplication_score": 0,
     "human_rating": null,
-    "regulation_state": "unprocessed",
+    "regulation_state": "upregulated",
     "metadata": {
       "enriched": true,
-      "enrichment_timestamp": "2026-06-06T06:20:26.104356"
+      "enrichment_timestamp": "2026-06-06T06:20:26.104356",
+      "enrichment_needed": true,
+      "gap_acknowledged": "2026-06-12T08:03:01.554672"
     }
   },
   {
@@ -1802,18 +2044,23 @@
       "EVENT_019",
       "EVENT_H003"
     ],
-    "claims_contradicted": [],
+    "claims_contradicted": [
+      "EVT-063",
+      "EVT-064"
+    ],
     "source_strength": "primary",
-    "corroboration_count": 10,
-    "contradiction_count": 0,
+    "corroboration_count": 228,
+    "contradiction_count": 2,
     "legal_weight": 0,
     "urgency_weight": 0,
     "duplication_score": 0,
     "human_rating": null,
-    "regulation_state": "unprocessed",
+    "regulation_state": "upregulated",
     "metadata": {
       "enriched": true,
-      "enrichment_timestamp": "2026-06-06T06:20:26.104641"
+      "enrichment_timestamp": "2026-06-06T06:20:26.104641",
+      "enrichment_needed": true,
+      "gap_acknowledged": "2026-06-12T08:03:01.554674"
     }
   },
   {
@@ -1838,18 +2085,23 @@
       "EVENT_060",
       "EVENT_070"
     ],
-    "claims_contradicted": [],
+    "claims_contradicted": [
+      "EVT-063",
+      "EVT-064"
+    ],
     "source_strength": "primary",
-    "corroboration_count": 10,
-    "contradiction_count": 0,
+    "corroboration_count": 228,
+    "contradiction_count": 2,
     "legal_weight": 0,
     "urgency_weight": 0,
     "duplication_score": 0,
     "human_rating": null,
-    "regulation_state": "unprocessed",
+    "regulation_state": "upregulated",
     "metadata": {
       "enriched": true,
-      "enrichment_timestamp": "2026-06-06T06:20:26.104935"
+      "enrichment_timestamp": "2026-06-06T06:20:26.104935",
+      "enrichment_needed": true,
+      "gap_acknowledged": "2026-06-12T08:03:01.554676"
     }
   },
   {
@@ -1876,18 +2128,23 @@
       "EVENT_060",
       "EVENT_070"
     ],
-    "claims_contradicted": [],
+    "claims_contradicted": [
+      "EVENT_123",
+      "EVENT_011"
+    ],
     "source_strength": "primary",
-    "corroboration_count": 10,
-    "contradiction_count": 0,
+    "corroboration_count": 228,
+    "contradiction_count": 2,
     "legal_weight": 0,
     "urgency_weight": 0,
     "duplication_score": 0,
     "human_rating": null,
-    "regulation_state": "unprocessed",
+    "regulation_state": "upregulated",
     "metadata": {
       "enriched": true,
-      "enrichment_timestamp": "2026-06-06T06:20:26.105218"
+      "enrichment_timestamp": "2026-06-06T06:20:26.105218",
+      "enrichment_needed": true,
+      "gap_acknowledged": "2026-06-12T08:03:01.554678"
     }
   },
   {
@@ -1914,18 +2171,23 @@
       "EVENT_060",
       "EVENT_070"
     ],
-    "claims_contradicted": [],
+    "claims_contradicted": [
+      "EVENT_123",
+      "EVENT_011"
+    ],
     "source_strength": "primary",
-    "corroboration_count": 10,
-    "contradiction_count": 0,
+    "corroboration_count": 228,
+    "contradiction_count": 2,
     "legal_weight": 0,
     "urgency_weight": 0,
     "duplication_score": 0,
     "human_rating": null,
-    "regulation_state": "unprocessed",
+    "regulation_state": "upregulated",
     "metadata": {
       "enriched": true,
-      "enrichment_timestamp": "2026-06-06T06:20:26.105510"
+      "enrichment_timestamp": "2026-06-06T06:20:26.105510",
+      "enrichment_needed": true,
+      "gap_acknowledged": "2026-06-12T08:03:01.554679"
     }
   },
   {
@@ -1949,18 +2211,23 @@
       "EVENT_060",
       "EVENT_070"
     ],
-    "claims_contradicted": [],
+    "claims_contradicted": [
+      "EVT-063",
+      "EVT-064"
+    ],
     "source_strength": "primary",
-    "corroboration_count": 10,
-    "contradiction_count": 0,
+    "corroboration_count": 228,
+    "contradiction_count": 2,
     "legal_weight": 0,
     "urgency_weight": 0,
     "duplication_score": 0,
     "human_rating": null,
-    "regulation_state": "unprocessed",
+    "regulation_state": "upregulated",
     "metadata": {
       "enriched": true,
-      "enrichment_timestamp": "2026-06-06T06:20:26.105811"
+      "enrichment_timestamp": "2026-06-06T06:20:26.105811",
+      "enrichment_needed": true,
+      "gap_acknowledged": "2026-06-12T08:03:01.554681"
     }
   },
   {
@@ -1985,18 +2252,23 @@
       "EVENT_060",
       "EVENT_070"
     ],
-    "claims_contradicted": [],
+    "claims_contradicted": [
+      "EVT-063",
+      "EVT-064"
+    ],
     "source_strength": "primary",
-    "corroboration_count": 10,
-    "contradiction_count": 0,
+    "corroboration_count": 228,
+    "contradiction_count": 2,
     "legal_weight": 0,
     "urgency_weight": 0,
     "duplication_score": 0,
     "human_rating": null,
-    "regulation_state": "unprocessed",
+    "regulation_state": "upregulated",
     "metadata": {
       "enriched": true,
-      "enrichment_timestamp": "2026-06-06T06:20:26.106139"
+      "enrichment_timestamp": "2026-06-06T06:20:26.106139",
+      "enrichment_needed": true,
+      "gap_acknowledged": "2026-06-12T08:03:01.554683"
     }
   },
   {
@@ -2022,18 +2294,23 @@
       "EVENT_060",
       "EVENT_070"
     ],
-    "claims_contradicted": [],
+    "claims_contradicted": [
+      "EVT-063",
+      "EVT-064"
+    ],
     "source_strength": "primary",
-    "corroboration_count": 10,
-    "contradiction_count": 0,
+    "corroboration_count": 228,
+    "contradiction_count": 2,
     "legal_weight": 0,
     "urgency_weight": 0,
     "duplication_score": 0,
     "human_rating": null,
-    "regulation_state": "unprocessed",
+    "regulation_state": "upregulated",
     "metadata": {
       "enriched": true,
-      "enrichment_timestamp": "2026-06-06T06:20:26.106423"
+      "enrichment_timestamp": "2026-06-06T06:20:26.106423",
+      "enrichment_needed": true,
+      "gap_acknowledged": "2026-06-12T08:03:01.554684"
     }
   },
   {
@@ -2058,18 +2335,23 @@
       "EVENT_060",
       "EVENT_070"
     ],
-    "claims_contradicted": [],
+    "claims_contradicted": [
+      "EVT-064",
+      "EVENT_123"
+    ],
     "source_strength": "primary",
-    "corroboration_count": 10,
-    "contradiction_count": 0,
+    "corroboration_count": 228,
+    "contradiction_count": 2,
     "legal_weight": 0,
     "urgency_weight": 0,
     "duplication_score": 0,
     "human_rating": null,
-    "regulation_state": "unprocessed",
+    "regulation_state": "upregulated",
     "metadata": {
       "enriched": true,
-      "enrichment_timestamp": "2026-06-06T06:20:26.106728"
+      "enrichment_timestamp": "2026-06-06T06:20:26.106728",
+      "enrichment_needed": true,
+      "gap_acknowledged": "2026-06-12T08:03:01.554686"
     }
   },
   {
@@ -2093,18 +2375,23 @@
       "EVENT_060",
       "EVENT_070"
     ],
-    "claims_contradicted": [],
+    "claims_contradicted": [
+      "EVT-063",
+      "EVT-064"
+    ],
     "source_strength": "primary",
-    "corroboration_count": 10,
-    "contradiction_count": 0,
+    "corroboration_count": 228,
+    "contradiction_count": 2,
     "legal_weight": 0,
     "urgency_weight": 0,
     "duplication_score": 0,
     "human_rating": null,
-    "regulation_state": "unprocessed",
+    "regulation_state": "upregulated",
     "metadata": {
       "enriched": true,
-      "enrichment_timestamp": "2026-06-06T06:20:26.107011"
+      "enrichment_timestamp": "2026-06-06T06:20:26.107011",
+      "enrichment_needed": true,
+      "gap_acknowledged": "2026-06-12T08:03:01.554688"
     }
   },
   {
@@ -2129,18 +2416,23 @@
       "EVENT_060",
       "EVENT_070"
     ],
-    "claims_contradicted": [],
+    "claims_contradicted": [
+      "EVT-063",
+      "EVT-064"
+    ],
     "source_strength": "primary",
-    "corroboration_count": 10,
-    "contradiction_count": 0,
+    "corroboration_count": 228,
+    "contradiction_count": 2,
     "legal_weight": 0,
     "urgency_weight": 0,
     "duplication_score": 0,
     "human_rating": null,
-    "regulation_state": "unprocessed",
+    "regulation_state": "upregulated",
     "metadata": {
       "enriched": true,
-      "enrichment_timestamp": "2026-06-06T06:20:26.107255"
+      "enrichment_timestamp": "2026-06-06T06:20:26.107255",
+      "enrichment_needed": true,
+      "gap_acknowledged": "2026-06-12T08:03:01.554690"
     }
   },
   {
@@ -2172,18 +2464,23 @@
       "EVENT_017",
       "EVENT_070"
     ],
-    "claims_contradicted": [],
+    "claims_contradicted": [
+      "EVT-063",
+      "EVT-064"
+    ],
     "source_strength": "primary",
-    "corroboration_count": 10,
-    "contradiction_count": 0,
+    "corroboration_count": 228,
+    "contradiction_count": 2,
     "legal_weight": 0,
     "urgency_weight": 0,
     "duplication_score": 0,
     "human_rating": null,
-    "regulation_state": "unprocessed",
+    "regulation_state": "upregulated",
     "metadata": {
       "enriched": true,
-      "enrichment_timestamp": "2026-06-06T06:20:26.107502"
+      "enrichment_timestamp": "2026-06-06T06:20:26.107502",
+      "enrichment_needed": true,
+      "gap_acknowledged": "2026-06-12T08:03:01.554691"
     }
   },
   {
@@ -2215,18 +2512,23 @@
       "EVENT_017",
       "EVENT_070"
     ],
-    "claims_contradicted": [],
+    "claims_contradicted": [
+      "EVT-063",
+      "EVT-064"
+    ],
     "source_strength": "primary",
-    "corroboration_count": 10,
-    "contradiction_count": 0,
+    "corroboration_count": 228,
+    "contradiction_count": 2,
     "legal_weight": 0,
     "urgency_weight": 0,
     "duplication_score": 0,
     "human_rating": null,
-    "regulation_state": "unprocessed",
+    "regulation_state": "upregulated",
     "metadata": {
       "enriched": true,
-      "enrichment_timestamp": "2026-06-06T06:20:26.107761"
+      "enrichment_timestamp": "2026-06-06T06:20:26.107761",
+      "enrichment_needed": true,
+      "gap_acknowledged": "2026-06-12T08:03:01.554693"
     }
   },
   {
@@ -2258,18 +2560,23 @@
       "EVENT_017",
       "EVENT_070"
     ],
-    "claims_contradicted": [],
+    "claims_contradicted": [
+      "EVT-063",
+      "EVT-064"
+    ],
     "source_strength": "primary",
-    "corroboration_count": 10,
-    "contradiction_count": 0,
+    "corroboration_count": 228,
+    "contradiction_count": 2,
     "legal_weight": 0,
     "urgency_weight": 0,
     "duplication_score": 0,
     "human_rating": null,
-    "regulation_state": "unprocessed",
+    "regulation_state": "upregulated",
     "metadata": {
       "enriched": true,
-      "enrichment_timestamp": "2026-06-06T06:20:26.107997"
+      "enrichment_timestamp": "2026-06-06T06:20:26.107997",
+      "enrichment_needed": true,
+      "gap_acknowledged": "2026-06-12T08:03:01.554695"
     }
   },
   {
@@ -2301,18 +2608,23 @@
       "EVENT_017",
       "EVENT_070"
     ],
-    "claims_contradicted": [],
+    "claims_contradicted": [
+      "EVT-063",
+      "EVT-064"
+    ],
     "source_strength": "primary",
-    "corroboration_count": 10,
-    "contradiction_count": 0,
+    "corroboration_count": 228,
+    "contradiction_count": 2,
     "legal_weight": 0,
     "urgency_weight": 0,
     "duplication_score": 0,
     "human_rating": null,
-    "regulation_state": "unprocessed",
+    "regulation_state": "upregulated",
     "metadata": {
       "enriched": true,
-      "enrichment_timestamp": "2026-06-06T06:20:26.108238"
+      "enrichment_timestamp": "2026-06-06T06:20:26.108238",
+      "enrichment_needed": true,
+      "gap_acknowledged": "2026-06-12T08:03:01.554696"
     }
   },
   {
@@ -2356,15 +2668,18 @@
       "EVENT_019",
       "EVT-070"
     ],
-    "claims_contradicted": [],
+    "claims_contradicted": [
+      "EVT-063",
+      "EVT-064"
+    ],
     "source_strength": "primary",
-    "corroboration_count": 10,
-    "contradiction_count": 0,
+    "corroboration_count": 228,
+    "contradiction_count": 2,
     "legal_weight": 0,
     "urgency_weight": 0,
     "duplication_score": 0,
     "human_rating": null,
-    "regulation_state": "unprocessed",
+    "regulation_state": "upregulated",
     "metadata": {
       "enriched": true,
       "enrichment_timestamp": "2026-06-06T06:20:26.108543"
@@ -2411,15 +2726,18 @@
       "EVENT_019",
       "EVT-070"
     ],
-    "claims_contradicted": [],
+    "claims_contradicted": [
+      "EVT-063",
+      "EVT-064"
+    ],
     "source_strength": "primary",
-    "corroboration_count": 10,
-    "contradiction_count": 0,
+    "corroboration_count": 228,
+    "contradiction_count": 2,
     "legal_weight": 0,
     "urgency_weight": 0,
     "duplication_score": 0,
     "human_rating": null,
-    "regulation_state": "unprocessed",
+    "regulation_state": "upregulated",
     "metadata": {
       "enriched": true,
       "enrichment_timestamp": "2026-06-06T06:20:26.108877"
@@ -2466,15 +2784,18 @@
       "EVENT_019",
       "EVT-070"
     ],
-    "claims_contradicted": [],
+    "claims_contradicted": [
+      "EVT-063",
+      "EVT-064"
+    ],
     "source_strength": "primary",
-    "corroboration_count": 10,
-    "contradiction_count": 0,
+    "corroboration_count": 228,
+    "contradiction_count": 2,
     "legal_weight": 0,
     "urgency_weight": 0,
     "duplication_score": 0,
     "human_rating": null,
-    "regulation_state": "unprocessed",
+    "regulation_state": "upregulated",
     "metadata": {
       "enriched": true,
       "enrichment_timestamp": "2026-06-06T06:20:26.109190"
@@ -2513,15 +2834,18 @@
       "EVENT_084",
       "EVENT_019"
     ],
-    "claims_contradicted": [],
+    "claims_contradicted": [
+      "EVT-063",
+      "EVT-064"
+    ],
     "source_strength": "primary",
-    "corroboration_count": 10,
-    "contradiction_count": 0,
+    "corroboration_count": 228,
+    "contradiction_count": 2,
     "legal_weight": 0,
     "urgency_weight": 0,
     "duplication_score": 0,
     "human_rating": null,
-    "regulation_state": "unprocessed",
+    "regulation_state": "upregulated",
     "metadata": {
       "enriched": true,
       "enrichment_timestamp": "2026-06-06T06:20:26.109493"
@@ -2564,15 +2888,18 @@
       "EVENT_084",
       "EVENT_019"
     ],
-    "claims_contradicted": [],
+    "claims_contradicted": [
+      "EVT-063",
+      "EVT-064"
+    ],
     "source_strength": "primary",
-    "corroboration_count": 10,
-    "contradiction_count": 0,
+    "corroboration_count": 228,
+    "contradiction_count": 2,
     "legal_weight": 0,
     "urgency_weight": 0,
     "duplication_score": 0,
     "human_rating": null,
-    "regulation_state": "unprocessed",
+    "regulation_state": "upregulated",
     "metadata": {
       "enriched": true,
       "enrichment_timestamp": "2026-06-06T06:20:26.109791"
@@ -2613,18 +2940,23 @@
       "EVENT_084",
       "EVENT_019"
     ],
-    "claims_contradicted": [],
+    "claims_contradicted": [
+      "EVT-063",
+      "EVT-064"
+    ],
     "source_strength": "primary",
-    "corroboration_count": 10,
-    "contradiction_count": 0,
+    "corroboration_count": 228,
+    "contradiction_count": 2,
     "legal_weight": 0,
     "urgency_weight": 0,
     "duplication_score": 0,
     "human_rating": null,
-    "regulation_state": "unprocessed",
+    "regulation_state": "upregulated",
     "metadata": {
       "enriched": true,
-      "enrichment_timestamp": "2026-06-06T06:20:26.110087"
+      "enrichment_timestamp": "2026-06-06T06:20:26.110087",
+      "enrichment_needed": true,
+      "gap_acknowledged": "2026-06-12T08:03:01.554699"
     }
   },
   {
@@ -2658,18 +2990,23 @@
       "EVENT_084",
       "EVENT_019"
     ],
-    "claims_contradicted": [],
+    "claims_contradicted": [
+      "EVT-063",
+      "EVT-064"
+    ],
     "source_strength": "primary",
-    "corroboration_count": 10,
-    "contradiction_count": 0,
+    "corroboration_count": 228,
+    "contradiction_count": 2,
     "legal_weight": 0,
     "urgency_weight": 0,
     "duplication_score": 0,
     "human_rating": null,
-    "regulation_state": "unprocessed",
+    "regulation_state": "upregulated",
     "metadata": {
       "enriched": true,
-      "enrichment_timestamp": "2026-06-06T06:20:26.110398"
+      "enrichment_timestamp": "2026-06-06T06:20:26.110398",
+      "enrichment_needed": true,
+      "gap_acknowledged": "2026-06-12T08:03:01.554701"
     }
   },
   {
@@ -2695,18 +3032,23 @@
       "EVENT_070",
       "SARS_FLAGGED_INVOICES"
     ],
-    "claims_contradicted": [],
+    "claims_contradicted": [
+      "EVT-063",
+      "EVT-064"
+    ],
     "source_strength": "primary",
-    "corroboration_count": 10,
-    "contradiction_count": 0,
+    "corroboration_count": 228,
+    "contradiction_count": 2,
     "legal_weight": 0,
     "urgency_weight": 0,
     "duplication_score": 0,
     "human_rating": null,
-    "regulation_state": "unprocessed",
+    "regulation_state": "upregulated",
     "metadata": {
       "enriched": true,
-      "enrichment_timestamp": "2026-06-06T06:20:26.110654"
+      "enrichment_timestamp": "2026-06-06T06:20:26.110654",
+      "enrichment_needed": true,
+      "gap_acknowledged": "2026-06-12T08:03:01.554703"
     }
   },
   {
@@ -2732,18 +3074,23 @@
       "EVENT_070",
       "SARS_FLAGGED_INVOICES"
     ],
-    "claims_contradicted": [],
+    "claims_contradicted": [
+      "EVT-063",
+      "EVT-064"
+    ],
     "source_strength": "primary",
-    "corroboration_count": 10,
-    "contradiction_count": 0,
+    "corroboration_count": 228,
+    "contradiction_count": 2,
     "legal_weight": 0,
     "urgency_weight": 0,
     "duplication_score": 0,
     "human_rating": null,
-    "regulation_state": "unprocessed",
+    "regulation_state": "upregulated",
     "metadata": {
       "enriched": true,
-      "enrichment_timestamp": "2026-06-06T06:20:26.110917"
+      "enrichment_timestamp": "2026-06-06T06:20:26.110917",
+      "enrichment_needed": true,
+      "gap_acknowledged": "2026-06-12T08:03:01.554704"
     }
   },
   {
@@ -2773,18 +3120,23 @@
       "EVENT_175",
       "EVENT_019"
     ],
-    "claims_contradicted": [],
+    "claims_contradicted": [
+      "EVT-063",
+      "EVT-064"
+    ],
     "source_strength": "primary",
-    "corroboration_count": 10,
-    "contradiction_count": 0,
+    "corroboration_count": 228,
+    "contradiction_count": 2,
     "legal_weight": 0,
     "urgency_weight": 0,
     "duplication_score": 0,
     "human_rating": null,
-    "regulation_state": "unprocessed",
+    "regulation_state": "upregulated",
     "metadata": {
       "enriched": true,
-      "enrichment_timestamp": "2026-06-06T06:20:26.111177"
+      "enrichment_timestamp": "2026-06-06T06:20:26.111177",
+      "enrichment_needed": true,
+      "gap_acknowledged": "2026-06-12T08:03:01.554706"
     }
   },
   {
@@ -2812,18 +3164,23 @@
       "EVENT_070",
       "SARS_FLAGGED_INVOICES"
     ],
-    "claims_contradicted": [],
+    "claims_contradicted": [
+      "EVT-063",
+      "EVT-064"
+    ],
     "source_strength": "primary",
-    "corroboration_count": 10,
-    "contradiction_count": 0,
+    "corroboration_count": 228,
+    "contradiction_count": 2,
     "legal_weight": 0,
     "urgency_weight": 0,
     "duplication_score": 0,
     "human_rating": null,
-    "regulation_state": "unprocessed",
+    "regulation_state": "upregulated",
     "metadata": {
       "enriched": true,
-      "enrichment_timestamp": "2026-06-06T06:20:26.111431"
+      "enrichment_timestamp": "2026-06-06T06:20:26.111431",
+      "enrichment_needed": true,
+      "gap_acknowledged": "2026-06-12T08:03:01.554708"
     }
   },
   {
@@ -2864,15 +3221,18 @@
       "EVENT_019",
       "EVT-064"
     ],
-    "claims_contradicted": [],
+    "claims_contradicted": [
+      "EVT-063",
+      "INTERDICT_VOID_AB_INITIO"
+    ],
     "source_strength": "primary",
-    "corroboration_count": 10,
-    "contradiction_count": 0,
+    "corroboration_count": 228,
+    "contradiction_count": 2,
     "legal_weight": 0,
     "urgency_weight": 0,
     "duplication_score": 0,
     "human_rating": null,
-    "regulation_state": "unprocessed",
+    "regulation_state": "upregulated",
     "metadata": {
       "enriched": true,
       "enrichment_timestamp": "2026-06-06T06:20:26.111739"
@@ -2916,15 +3276,18 @@
       "EVENT_019",
       "EVT-064"
     ],
-    "claims_contradicted": [],
+    "claims_contradicted": [
+      "EVT-063",
+      "INTERDICT_VOID_AB_INITIO"
+    ],
     "source_strength": "primary",
-    "corroboration_count": 10,
-    "contradiction_count": 0,
+    "corroboration_count": 228,
+    "contradiction_count": 2,
     "legal_weight": 0,
     "urgency_weight": 0,
     "duplication_score": 0,
     "human_rating": null,
-    "regulation_state": "unprocessed",
+    "regulation_state": "upregulated",
     "metadata": {
       "enriched": true,
       "enrichment_timestamp": "2026-06-06T06:20:26.112030"
@@ -2968,15 +3331,18 @@
       "EVENT_019",
       "EVT-064"
     ],
-    "claims_contradicted": [],
+    "claims_contradicted": [
+      "EVT-063",
+      "INTERDICT_VOID_AB_INITIO"
+    ],
     "source_strength": "primary",
-    "corroboration_count": 10,
-    "contradiction_count": 0,
+    "corroboration_count": 228,
+    "contradiction_count": 2,
     "legal_weight": 0,
     "urgency_weight": 0,
     "duplication_score": 0,
     "human_rating": null,
-    "regulation_state": "unprocessed",
+    "regulation_state": "upregulated",
     "metadata": {
       "enriched": true,
       "enrichment_timestamp": "2026-06-06T06:20:26.112318"
@@ -3020,15 +3386,18 @@
       "EVENT_019",
       "EVT-064"
     ],
-    "claims_contradicted": [],
+    "claims_contradicted": [
+      "EVT-063",
+      "INTERDICT_VOID_AB_INITIO"
+    ],
     "source_strength": "primary",
-    "corroboration_count": 10,
-    "contradiction_count": 0,
+    "corroboration_count": 228,
+    "contradiction_count": 2,
     "legal_weight": 0,
     "urgency_weight": 0,
     "duplication_score": 0,
     "human_rating": null,
-    "regulation_state": "unprocessed",
+    "regulation_state": "upregulated",
     "metadata": {
       "enriched": true,
       "enrichment_timestamp": "2026-06-06T06:20:26.112613"
@@ -3072,15 +3441,18 @@
       "EVENT_019",
       "EVT-064"
     ],
-    "claims_contradicted": [],
+    "claims_contradicted": [
+      "EVT-063",
+      "INTERDICT_VOID_AB_INITIO"
+    ],
     "source_strength": "primary",
-    "corroboration_count": 10,
-    "contradiction_count": 0,
+    "corroboration_count": 228,
+    "contradiction_count": 2,
     "legal_weight": 0,
     "urgency_weight": 0,
     "duplication_score": 0,
     "human_rating": null,
-    "regulation_state": "unprocessed",
+    "regulation_state": "upregulated",
     "metadata": {
       "enriched": true,
       "enrichment_timestamp": "2026-06-06T06:20:26.112908"
@@ -3116,18 +3488,23 @@
       "EVENT_019",
       "ABUSE_OF_PROCESS_ANALYSIS"
     ],
-    "claims_contradicted": [],
+    "claims_contradicted": [
+      "EVT-064",
+      "EVENT_011"
+    ],
     "source_strength": "primary",
-    "corroboration_count": 10,
-    "contradiction_count": 0,
+    "corroboration_count": 228,
+    "contradiction_count": 2,
     "legal_weight": 0,
     "urgency_weight": 0,
     "duplication_score": 0,
     "human_rating": null,
-    "regulation_state": "unprocessed",
+    "regulation_state": "upregulated",
     "metadata": {
       "enriched": true,
-      "enrichment_timestamp": "2026-06-06T06:20:26.113170"
+      "enrichment_timestamp": "2026-06-06T06:20:26.113170",
+      "enrichment_needed": true,
+      "gap_acknowledged": "2026-06-12T08:03:01.554710"
     }
   },
   {
@@ -3155,18 +3532,23 @@
       "EVENT_070",
       "SARS_FLAGGED_INVOICES"
     ],
-    "claims_contradicted": [],
+    "claims_contradicted": [
+      "EVT-063",
+      "EVT-064"
+    ],
     "source_strength": "primary",
-    "corroboration_count": 10,
-    "contradiction_count": 0,
+    "corroboration_count": 228,
+    "contradiction_count": 2,
     "legal_weight": 0,
     "urgency_weight": 0,
     "duplication_score": 0,
     "human_rating": null,
-    "regulation_state": "unprocessed",
+    "regulation_state": "upregulated",
     "metadata": {
       "enriched": true,
-      "enrichment_timestamp": "2026-06-06T06:20:26.113420"
+      "enrichment_timestamp": "2026-06-06T06:20:26.113420",
+      "enrichment_needed": true,
+      "gap_acknowledged": "2026-06-12T08:03:01.554712"
     }
   },
   {
@@ -3197,18 +3579,23 @@
       "EVENT_175",
       "EVENT_019"
     ],
-    "claims_contradicted": [],
+    "claims_contradicted": [
+      "EVT-063",
+      "EVT-064"
+    ],
     "source_strength": "primary",
-    "corroboration_count": 10,
-    "contradiction_count": 0,
+    "corroboration_count": 228,
+    "contradiction_count": 2,
     "legal_weight": 0,
     "urgency_weight": 0,
     "duplication_score": 0,
     "human_rating": null,
-    "regulation_state": "unprocessed",
+    "regulation_state": "upregulated",
     "metadata": {
       "enriched": true,
-      "enrichment_timestamp": "2026-06-06T06:20:26.113696"
+      "enrichment_timestamp": "2026-06-06T06:20:26.113696",
+      "enrichment_needed": true,
+      "gap_acknowledged": "2026-06-12T08:03:01.554713"
     }
   },
   {
@@ -3236,18 +3623,23 @@
       "EVENT_070",
       "SARS_FLAGGED_INVOICES"
     ],
-    "claims_contradicted": [],
+    "claims_contradicted": [
+      "EVT-063",
+      "EVT-064"
+    ],
     "source_strength": "primary",
-    "corroboration_count": 10,
-    "contradiction_count": 0,
+    "corroboration_count": 228,
+    "contradiction_count": 2,
     "legal_weight": 0,
     "urgency_weight": 0,
     "duplication_score": 0,
     "human_rating": null,
-    "regulation_state": "unprocessed",
+    "regulation_state": "upregulated",
     "metadata": {
       "enriched": true,
-      "enrichment_timestamp": "2026-06-06T06:20:26.113955"
+      "enrichment_timestamp": "2026-06-06T06:20:26.113955",
+      "enrichment_needed": true,
+      "gap_acknowledged": "2026-06-12T08:03:01.554715"
     }
   },
   {
@@ -3275,18 +3667,23 @@
       "EVENT_070",
       "SARS_FLAGGED_INVOICES"
     ],
-    "claims_contradicted": [],
+    "claims_contradicted": [
+      "EVT-063",
+      "EVT-064"
+    ],
     "source_strength": "primary",
-    "corroboration_count": 10,
-    "contradiction_count": 0,
+    "corroboration_count": 228,
+    "contradiction_count": 2,
     "legal_weight": 0,
     "urgency_weight": 0,
     "duplication_score": 0,
     "human_rating": null,
-    "regulation_state": "unprocessed",
+    "regulation_state": "upregulated",
     "metadata": {
       "enriched": true,
-      "enrichment_timestamp": "2026-06-06T06:20:26.114207"
+      "enrichment_timestamp": "2026-06-06T06:20:26.114207",
+      "enrichment_needed": true,
+      "gap_acknowledged": "2026-06-12T08:03:01.554716"
     }
   },
   {
@@ -3317,18 +3714,23 @@
       "EVENT_175",
       "EVENT_019"
     ],
-    "claims_contradicted": [],
+    "claims_contradicted": [
+      "EVT-063",
+      "EVT-064"
+    ],
     "source_strength": "primary",
-    "corroboration_count": 10,
-    "contradiction_count": 0,
+    "corroboration_count": 228,
+    "contradiction_count": 2,
     "legal_weight": 0,
     "urgency_weight": 0,
     "duplication_score": 0,
     "human_rating": null,
-    "regulation_state": "unprocessed",
+    "regulation_state": "upregulated",
     "metadata": {
       "enriched": true,
-      "enrichment_timestamp": "2026-06-06T06:20:26.114482"
+      "enrichment_timestamp": "2026-06-06T06:20:26.114482",
+      "enrichment_needed": true,
+      "gap_acknowledged": "2026-06-12T08:03:01.554718"
     }
   },
   {
@@ -3356,18 +3758,23 @@
       "EVENT_070",
       "SARS_FLAGGED_INVOICES"
     ],
-    "claims_contradicted": [],
+    "claims_contradicted": [
+      "EVT-063",
+      "EVT-064"
+    ],
     "source_strength": "primary",
-    "corroboration_count": 10,
-    "contradiction_count": 0,
+    "corroboration_count": 228,
+    "contradiction_count": 2,
     "legal_weight": 0,
     "urgency_weight": 0,
     "duplication_score": 0,
     "human_rating": null,
-    "regulation_state": "unprocessed",
+    "regulation_state": "upregulated",
     "metadata": {
       "enriched": true,
-      "enrichment_timestamp": "2026-06-06T06:20:26.114749"
+      "enrichment_timestamp": "2026-06-06T06:20:26.114749",
+      "enrichment_needed": true,
+      "gap_acknowledged": "2026-06-12T08:03:01.554720"
     }
   },
   {
@@ -3395,18 +3802,23 @@
       "EVENT_070",
       "SARS_FLAGGED_INVOICES"
     ],
-    "claims_contradicted": [],
+    "claims_contradicted": [
+      "EVT-063",
+      "EVT-064"
+    ],
     "source_strength": "primary",
-    "corroboration_count": 10,
-    "contradiction_count": 0,
+    "corroboration_count": 228,
+    "contradiction_count": 2,
     "legal_weight": 0,
     "urgency_weight": 0,
     "duplication_score": 0,
     "human_rating": null,
-    "regulation_state": "unprocessed",
+    "regulation_state": "upregulated",
     "metadata": {
       "enriched": true,
-      "enrichment_timestamp": "2026-06-06T06:20:26.115000"
+      "enrichment_timestamp": "2026-06-06T06:20:26.115000",
+      "enrichment_needed": true,
+      "gap_acknowledged": "2026-06-12T08:03:01.554721"
     }
   },
   {
@@ -3437,18 +3849,23 @@
       "EVENT_175",
       "EVENT_019"
     ],
-    "claims_contradicted": [],
+    "claims_contradicted": [
+      "EVT-063",
+      "EVT-064"
+    ],
     "source_strength": "primary",
-    "corroboration_count": 10,
-    "contradiction_count": 0,
+    "corroboration_count": 228,
+    "contradiction_count": 2,
     "legal_weight": 0,
     "urgency_weight": 0,
     "duplication_score": 0,
     "human_rating": null,
-    "regulation_state": "unprocessed",
+    "regulation_state": "upregulated",
     "metadata": {
       "enriched": true,
-      "enrichment_timestamp": "2026-06-06T06:20:26.115276"
+      "enrichment_timestamp": "2026-06-06T06:20:26.115276",
+      "enrichment_needed": true,
+      "gap_acknowledged": "2026-06-12T08:03:01.554723"
     }
   },
   {
@@ -3476,18 +3893,23 @@
       "EVENT_070",
       "SARS_FLAGGED_INVOICES"
     ],
-    "claims_contradicted": [],
+    "claims_contradicted": [
+      "EVT-063",
+      "EVT-064"
+    ],
     "source_strength": "primary",
-    "corroboration_count": 10,
-    "contradiction_count": 0,
+    "corroboration_count": 228,
+    "contradiction_count": 2,
     "legal_weight": 0,
     "urgency_weight": 0,
     "duplication_score": 0,
     "human_rating": null,
-    "regulation_state": "unprocessed",
+    "regulation_state": "upregulated",
     "metadata": {
       "enriched": true,
-      "enrichment_timestamp": "2026-06-06T06:20:26.115537"
+      "enrichment_timestamp": "2026-06-06T06:20:26.115537",
+      "enrichment_needed": true,
+      "gap_acknowledged": "2026-06-12T08:03:01.554724"
     }
   },
   {
@@ -3515,18 +3937,23 @@
       "EVENT_070",
       "SARS_FLAGGED_INVOICES"
     ],
-    "claims_contradicted": [],
+    "claims_contradicted": [
+      "EVT-063",
+      "EVT-064"
+    ],
     "source_strength": "primary",
-    "corroboration_count": 10,
-    "contradiction_count": 0,
+    "corroboration_count": 228,
+    "contradiction_count": 2,
     "legal_weight": 0,
     "urgency_weight": 0,
     "duplication_score": 0,
     "human_rating": null,
-    "regulation_state": "unprocessed",
+    "regulation_state": "upregulated",
     "metadata": {
       "enriched": true,
-      "enrichment_timestamp": "2026-06-06T06:20:26.115816"
+      "enrichment_timestamp": "2026-06-06T06:20:26.115816",
+      "enrichment_needed": true,
+      "gap_acknowledged": "2026-06-12T08:03:01.554726"
     }
   },
   {
@@ -3557,18 +3984,23 @@
       "EVENT_175",
       "EVENT_019"
     ],
-    "claims_contradicted": [],
+    "claims_contradicted": [
+      "EVT-063",
+      "EVT-064"
+    ],
     "source_strength": "primary",
-    "corroboration_count": 10,
-    "contradiction_count": 0,
+    "corroboration_count": 228,
+    "contradiction_count": 2,
     "legal_weight": 0,
     "urgency_weight": 0,
     "duplication_score": 0,
     "human_rating": null,
-    "regulation_state": "unprocessed",
+    "regulation_state": "upregulated",
     "metadata": {
       "enriched": true,
-      "enrichment_timestamp": "2026-06-06T06:20:26.116098"
+      "enrichment_timestamp": "2026-06-06T06:20:26.116098",
+      "enrichment_needed": true,
+      "gap_acknowledged": "2026-06-12T08:03:01.554728"
     }
   },
   {
@@ -3596,18 +4028,23 @@
       "EVENT_070",
       "SARS_FLAGGED_INVOICES"
     ],
-    "claims_contradicted": [],
+    "claims_contradicted": [
+      "EVT-063",
+      "EVT-064"
+    ],
     "source_strength": "primary",
-    "corroboration_count": 10,
-    "contradiction_count": 0,
+    "corroboration_count": 228,
+    "contradiction_count": 2,
     "legal_weight": 0,
     "urgency_weight": 0,
     "duplication_score": 0,
     "human_rating": null,
-    "regulation_state": "unprocessed",
+    "regulation_state": "upregulated",
     "metadata": {
       "enriched": true,
-      "enrichment_timestamp": "2026-06-06T06:20:26.116361"
+      "enrichment_timestamp": "2026-06-06T06:20:26.116361",
+      "enrichment_needed": true,
+      "gap_acknowledged": "2026-06-12T08:03:01.554730"
     }
   },
   {
@@ -3635,18 +4072,23 @@
       "EVENT_070",
       "SARS_FLAGGED_INVOICES"
     ],
-    "claims_contradicted": [],
+    "claims_contradicted": [
+      "EVT-063",
+      "EVT-064"
+    ],
     "source_strength": "primary",
-    "corroboration_count": 10,
-    "contradiction_count": 0,
+    "corroboration_count": 228,
+    "contradiction_count": 2,
     "legal_weight": 0,
     "urgency_weight": 0,
     "duplication_score": 0,
     "human_rating": null,
-    "regulation_state": "unprocessed",
+    "regulation_state": "upregulated",
     "metadata": {
       "enriched": true,
-      "enrichment_timestamp": "2026-06-06T06:20:26.116624"
+      "enrichment_timestamp": "2026-06-06T06:20:26.116624",
+      "enrichment_needed": true,
+      "gap_acknowledged": "2026-06-12T08:03:01.554731"
     }
   },
   {
@@ -3677,18 +4119,23 @@
       "EVENT_175",
       "EVENT_019"
     ],
-    "claims_contradicted": [],
+    "claims_contradicted": [
+      "EVT-063",
+      "EVT-064"
+    ],
     "source_strength": "primary",
-    "corroboration_count": 10,
-    "contradiction_count": 0,
+    "corroboration_count": 228,
+    "contradiction_count": 2,
     "legal_weight": 0,
     "urgency_weight": 0,
     "duplication_score": 0,
     "human_rating": null,
-    "regulation_state": "unprocessed",
+    "regulation_state": "upregulated",
     "metadata": {
       "enriched": true,
-      "enrichment_timestamp": "2026-06-06T06:20:26.116912"
+      "enrichment_timestamp": "2026-06-06T06:20:26.116912",
+      "enrichment_needed": true,
+      "gap_acknowledged": "2026-06-12T08:03:01.554733"
     }
   },
   {
@@ -3716,18 +4163,23 @@
       "EVENT_070",
       "SARS_FLAGGED_INVOICES"
     ],
-    "claims_contradicted": [],
+    "claims_contradicted": [
+      "EVT-063",
+      "EVT-064"
+    ],
     "source_strength": "primary",
-    "corroboration_count": 10,
-    "contradiction_count": 0,
+    "corroboration_count": 228,
+    "contradiction_count": 2,
     "legal_weight": 0,
     "urgency_weight": 0,
     "duplication_score": 0,
     "human_rating": null,
-    "regulation_state": "unprocessed",
+    "regulation_state": "upregulated",
     "metadata": {
       "enriched": true,
-      "enrichment_timestamp": "2026-06-06T06:20:26.117199"
+      "enrichment_timestamp": "2026-06-06T06:20:26.117199",
+      "enrichment_needed": true,
+      "gap_acknowledged": "2026-06-12T08:03:01.554734"
     }
   },
   {
@@ -3755,18 +4207,23 @@
       "EVENT_070",
       "SARS_FLAGGED_INVOICES"
     ],
-    "claims_contradicted": [],
+    "claims_contradicted": [
+      "EVT-063",
+      "EVT-064"
+    ],
     "source_strength": "primary",
-    "corroboration_count": 10,
-    "contradiction_count": 0,
+    "corroboration_count": 228,
+    "contradiction_count": 2,
     "legal_weight": 0,
     "urgency_weight": 0,
     "duplication_score": 0,
     "human_rating": null,
-    "regulation_state": "unprocessed",
+    "regulation_state": "upregulated",
     "metadata": {
       "enriched": true,
-      "enrichment_timestamp": "2026-06-06T06:20:26.117453"
+      "enrichment_timestamp": "2026-06-06T06:20:26.117453",
+      "enrichment_needed": true,
+      "gap_acknowledged": "2026-06-12T08:03:01.554736"
     }
   },
   {
@@ -3797,18 +4254,23 @@
       "EVENT_175",
       "EVENT_019"
     ],
-    "claims_contradicted": [],
+    "claims_contradicted": [
+      "EVT-063",
+      "EVT-064"
+    ],
     "source_strength": "primary",
-    "corroboration_count": 10,
-    "contradiction_count": 0,
+    "corroboration_count": 228,
+    "contradiction_count": 2,
     "legal_weight": 0,
     "urgency_weight": 0,
     "duplication_score": 0,
     "human_rating": null,
-    "regulation_state": "unprocessed",
+    "regulation_state": "upregulated",
     "metadata": {
       "enriched": true,
-      "enrichment_timestamp": "2026-06-06T06:20:26.117738"
+      "enrichment_timestamp": "2026-06-06T06:20:26.117738",
+      "enrichment_needed": true,
+      "gap_acknowledged": "2026-06-12T08:03:01.554738"
     }
   },
   {
@@ -3836,18 +4298,23 @@
       "EVENT_070",
       "SARS_FLAGGED_INVOICES"
     ],
-    "claims_contradicted": [],
+    "claims_contradicted": [
+      "EVT-063",
+      "EVT-064"
+    ],
     "source_strength": "primary",
-    "corroboration_count": 10,
-    "contradiction_count": 0,
+    "corroboration_count": 228,
+    "contradiction_count": 2,
     "legal_weight": 0,
     "urgency_weight": 0,
     "duplication_score": 0,
     "human_rating": null,
-    "regulation_state": "unprocessed",
+    "regulation_state": "upregulated",
     "metadata": {
       "enriched": true,
-      "enrichment_timestamp": "2026-06-06T06:20:26.118001"
+      "enrichment_timestamp": "2026-06-06T06:20:26.118001",
+      "enrichment_needed": true,
+      "gap_acknowledged": "2026-06-12T08:03:01.554740"
     }
   },
   {
@@ -3875,18 +4342,23 @@
       "EVENT_070",
       "SARS_FLAGGED_INVOICES"
     ],
-    "claims_contradicted": [],
+    "claims_contradicted": [
+      "EVT-063",
+      "EVT-064"
+    ],
     "source_strength": "primary",
-    "corroboration_count": 10,
-    "contradiction_count": 0,
+    "corroboration_count": 228,
+    "contradiction_count": 2,
     "legal_weight": 0,
     "urgency_weight": 0,
     "duplication_score": 0,
     "human_rating": null,
-    "regulation_state": "unprocessed",
+    "regulation_state": "upregulated",
     "metadata": {
       "enriched": true,
-      "enrichment_timestamp": "2026-06-06T06:20:26.118270"
+      "enrichment_timestamp": "2026-06-06T06:20:26.118270",
+      "enrichment_needed": true,
+      "gap_acknowledged": "2026-06-12T08:03:01.554741"
     }
   },
   {
@@ -3917,18 +4389,23 @@
       "EVENT_175",
       "EVENT_019"
     ],
-    "claims_contradicted": [],
+    "claims_contradicted": [
+      "EVT-063",
+      "EVT-064"
+    ],
     "source_strength": "primary",
-    "corroboration_count": 10,
-    "contradiction_count": 0,
+    "corroboration_count": 228,
+    "contradiction_count": 2,
     "legal_weight": 0,
     "urgency_weight": 0,
     "duplication_score": 0,
     "human_rating": null,
-    "regulation_state": "unprocessed",
+    "regulation_state": "upregulated",
     "metadata": {
       "enriched": true,
-      "enrichment_timestamp": "2026-06-06T06:20:26.118543"
+      "enrichment_timestamp": "2026-06-06T06:20:26.118543",
+      "enrichment_needed": true,
+      "gap_acknowledged": "2026-06-12T08:03:01.554743"
     }
   },
   {
@@ -3956,18 +4433,23 @@
       "EVENT_070",
       "SARS_FLAGGED_INVOICES"
     ],
-    "claims_contradicted": [],
+    "claims_contradicted": [
+      "EVT-063",
+      "EVT-064"
+    ],
     "source_strength": "primary",
-    "corroboration_count": 10,
-    "contradiction_count": 0,
+    "corroboration_count": 228,
+    "contradiction_count": 2,
     "legal_weight": 0,
     "urgency_weight": 0,
     "duplication_score": 0,
     "human_rating": null,
-    "regulation_state": "unprocessed",
+    "regulation_state": "upregulated",
     "metadata": {
       "enriched": true,
-      "enrichment_timestamp": "2026-06-06T06:20:26.118806"
+      "enrichment_timestamp": "2026-06-06T06:20:26.118806",
+      "enrichment_needed": true,
+      "gap_acknowledged": "2026-06-12T08:03:01.554745"
     }
   },
   {
@@ -3995,18 +4477,23 @@
       "EVENT_070",
       "SARS_FLAGGED_INVOICES"
     ],
-    "claims_contradicted": [],
+    "claims_contradicted": [
+      "EVT-063",
+      "EVT-064"
+    ],
     "source_strength": "primary",
-    "corroboration_count": 10,
-    "contradiction_count": 0,
+    "corroboration_count": 228,
+    "contradiction_count": 2,
     "legal_weight": 0,
     "urgency_weight": 0,
     "duplication_score": 0,
     "human_rating": null,
-    "regulation_state": "unprocessed",
+    "regulation_state": "upregulated",
     "metadata": {
       "enriched": true,
-      "enrichment_timestamp": "2026-06-06T06:20:26.119058"
+      "enrichment_timestamp": "2026-06-06T06:20:26.119058",
+      "enrichment_needed": true,
+      "gap_acknowledged": "2026-06-12T08:03:01.554746"
     }
   },
   {
@@ -4037,18 +4524,23 @@
       "EVENT_175",
       "EVENT_019"
     ],
-    "claims_contradicted": [],
+    "claims_contradicted": [
+      "EVT-063",
+      "EVT-064"
+    ],
     "source_strength": "primary",
-    "corroboration_count": 10,
-    "contradiction_count": 0,
+    "corroboration_count": 228,
+    "contradiction_count": 2,
     "legal_weight": 0,
     "urgency_weight": 0,
     "duplication_score": 0,
     "human_rating": null,
-    "regulation_state": "unprocessed",
+    "regulation_state": "upregulated",
     "metadata": {
       "enriched": true,
-      "enrichment_timestamp": "2026-06-06T06:20:26.119350"
+      "enrichment_timestamp": "2026-06-06T06:20:26.119350",
+      "enrichment_needed": true,
+      "gap_acknowledged": "2026-06-12T08:03:01.554748"
     }
   },
   {
@@ -4076,18 +4568,23 @@
       "EVENT_070",
       "SARS_FLAGGED_INVOICES"
     ],
-    "claims_contradicted": [],
+    "claims_contradicted": [
+      "EVT-063",
+      "EVT-064"
+    ],
     "source_strength": "primary",
-    "corroboration_count": 10,
-    "contradiction_count": 0,
+    "corroboration_count": 228,
+    "contradiction_count": 2,
     "legal_weight": 0,
     "urgency_weight": 0,
     "duplication_score": 0,
     "human_rating": null,
-    "regulation_state": "unprocessed",
+    "regulation_state": "upregulated",
     "metadata": {
       "enriched": true,
-      "enrichment_timestamp": "2026-06-06T06:20:26.119617"
+      "enrichment_timestamp": "2026-06-06T06:20:26.119617",
+      "enrichment_needed": true,
+      "gap_acknowledged": "2026-06-12T08:03:01.554750"
     }
   },
   {
@@ -4115,18 +4612,23 @@
       "EVENT_070",
       "SARS_FLAGGED_INVOICES"
     ],
-    "claims_contradicted": [],
+    "claims_contradicted": [
+      "EVT-063",
+      "EVT-064"
+    ],
     "source_strength": "primary",
-    "corroboration_count": 10,
-    "contradiction_count": 0,
+    "corroboration_count": 228,
+    "contradiction_count": 2,
     "legal_weight": 0,
     "urgency_weight": 0,
     "duplication_score": 0,
     "human_rating": null,
-    "regulation_state": "unprocessed",
+    "regulation_state": "upregulated",
     "metadata": {
       "enriched": true,
-      "enrichment_timestamp": "2026-06-06T06:20:26.119911"
+      "enrichment_timestamp": "2026-06-06T06:20:26.119911",
+      "enrichment_needed": true,
+      "gap_acknowledged": "2026-06-12T08:03:01.554751"
     }
   },
   {
@@ -4154,18 +4656,23 @@
       "EVENT_070",
       "SARS_FLAGGED_INVOICES"
     ],
-    "claims_contradicted": [],
+    "claims_contradicted": [
+      "EVT-063",
+      "EVT-064"
+    ],
     "source_strength": "primary",
-    "corroboration_count": 10,
-    "contradiction_count": 0,
+    "corroboration_count": 228,
+    "contradiction_count": 2,
     "legal_weight": 0,
     "urgency_weight": 0,
     "duplication_score": 0,
     "human_rating": null,
-    "regulation_state": "unprocessed",
+    "regulation_state": "upregulated",
     "metadata": {
       "enriched": true,
-      "enrichment_timestamp": "2026-06-06T06:20:26.120194"
+      "enrichment_timestamp": "2026-06-06T06:20:26.120194",
+      "enrichment_needed": true,
+      "gap_acknowledged": "2026-06-12T08:03:01.554753"
     }
   },
   {
@@ -4193,18 +4700,23 @@
       "EVENT_070",
       "SARS_FLAGGED_INVOICES"
     ],
-    "claims_contradicted": [],
+    "claims_contradicted": [
+      "EVT-063",
+      "EVT-064"
+    ],
     "source_strength": "primary",
-    "corroboration_count": 10,
-    "contradiction_count": 0,
+    "corroboration_count": 228,
+    "contradiction_count": 2,
     "legal_weight": 0,
     "urgency_weight": 0,
     "duplication_score": 0,
     "human_rating": null,
-    "regulation_state": "unprocessed",
+    "regulation_state": "upregulated",
     "metadata": {
       "enriched": true,
-      "enrichment_timestamp": "2026-06-06T06:20:26.120476"
+      "enrichment_timestamp": "2026-06-06T06:20:26.120476",
+      "enrichment_needed": true,
+      "gap_acknowledged": "2026-06-12T08:03:01.554755"
     }
   },
   {
@@ -4232,18 +4744,23 @@
       "EVENT_070",
       "SARS_FLAGGED_INVOICES"
     ],
-    "claims_contradicted": [],
+    "claims_contradicted": [
+      "EVT-063",
+      "EVT-064"
+    ],
     "source_strength": "primary",
-    "corroboration_count": 10,
-    "contradiction_count": 0,
+    "corroboration_count": 228,
+    "contradiction_count": 2,
     "legal_weight": 0,
     "urgency_weight": 0,
     "duplication_score": 0,
     "human_rating": null,
-    "regulation_state": "unprocessed",
+    "regulation_state": "upregulated",
     "metadata": {
       "enriched": true,
-      "enrichment_timestamp": "2026-06-06T06:20:26.120763"
+      "enrichment_timestamp": "2026-06-06T06:20:26.120763",
+      "enrichment_needed": true,
+      "gap_acknowledged": "2026-06-12T08:03:01.554756"
     }
   },
   {
@@ -4271,18 +4788,23 @@
       "EVENT_070",
       "SARS_FLAGGED_INVOICES"
     ],
-    "claims_contradicted": [],
+    "claims_contradicted": [
+      "EVT-063",
+      "EVT-064"
+    ],
     "source_strength": "primary",
-    "corroboration_count": 10,
-    "contradiction_count": 0,
+    "corroboration_count": 228,
+    "contradiction_count": 2,
     "legal_weight": 0,
     "urgency_weight": 0,
     "duplication_score": 0,
     "human_rating": null,
-    "regulation_state": "unprocessed",
+    "regulation_state": "upregulated",
     "metadata": {
       "enriched": true,
-      "enrichment_timestamp": "2026-06-06T06:20:26.121046"
+      "enrichment_timestamp": "2026-06-06T06:20:26.121046",
+      "enrichment_needed": true,
+      "gap_acknowledged": "2026-06-12T08:03:01.554758"
     }
   },
   {
@@ -4310,18 +4832,23 @@
       "EVENT_070",
       "SARS_FLAGGED_INVOICES"
     ],
-    "claims_contradicted": [],
+    "claims_contradicted": [
+      "EVT-063",
+      "EVT-064"
+    ],
     "source_strength": "primary",
-    "corroboration_count": 10,
-    "contradiction_count": 0,
+    "corroboration_count": 228,
+    "contradiction_count": 2,
     "legal_weight": 0,
     "urgency_weight": 0,
     "duplication_score": 0,
     "human_rating": null,
-    "regulation_state": "unprocessed",
+    "regulation_state": "upregulated",
     "metadata": {
       "enriched": true,
-      "enrichment_timestamp": "2026-06-06T06:20:26.121342"
+      "enrichment_timestamp": "2026-06-06T06:20:26.121342",
+      "enrichment_needed": true,
+      "gap_acknowledged": "2026-06-12T08:03:01.554760"
     }
   },
   {
@@ -4349,18 +4876,23 @@
       "EVENT_070",
       "SARS_FLAGGED_INVOICES"
     ],
-    "claims_contradicted": [],
+    "claims_contradicted": [
+      "EVT-063",
+      "EVT-064"
+    ],
     "source_strength": "primary",
-    "corroboration_count": 10,
-    "contradiction_count": 0,
+    "corroboration_count": 228,
+    "contradiction_count": 2,
     "legal_weight": 0,
     "urgency_weight": 0,
     "duplication_score": 0,
     "human_rating": null,
-    "regulation_state": "unprocessed",
+    "regulation_state": "upregulated",
     "metadata": {
       "enriched": true,
-      "enrichment_timestamp": "2026-06-06T06:20:26.121615"
+      "enrichment_timestamp": "2026-06-06T06:20:26.121615",
+      "enrichment_needed": true,
+      "gap_acknowledged": "2026-06-12T08:03:01.554762"
     }
   },
   {
@@ -4388,18 +4920,23 @@
       "EVENT_070",
       "SARS_FLAGGED_INVOICES"
     ],
-    "claims_contradicted": [],
+    "claims_contradicted": [
+      "EVT-063",
+      "EVT-064"
+    ],
     "source_strength": "primary",
-    "corroboration_count": 10,
-    "contradiction_count": 0,
+    "corroboration_count": 228,
+    "contradiction_count": 2,
     "legal_weight": 0,
     "urgency_weight": 0,
     "duplication_score": 0,
     "human_rating": null,
-    "regulation_state": "unprocessed",
+    "regulation_state": "upregulated",
     "metadata": {
       "enriched": true,
-      "enrichment_timestamp": "2026-06-06T06:20:26.121923"
+      "enrichment_timestamp": "2026-06-06T06:20:26.121923",
+      "enrichment_needed": true,
+      "gap_acknowledged": "2026-06-12T08:03:01.554764"
     }
   },
   {
@@ -4427,18 +4964,23 @@
       "EVENT_070",
       "SARS_FLAGGED_INVOICES"
     ],
-    "claims_contradicted": [],
+    "claims_contradicted": [
+      "EVT-063",
+      "EVT-064"
+    ],
     "source_strength": "primary",
-    "corroboration_count": 10,
-    "contradiction_count": 0,
+    "corroboration_count": 228,
+    "contradiction_count": 2,
     "legal_weight": 0,
     "urgency_weight": 0,
     "duplication_score": 0,
     "human_rating": null,
-    "regulation_state": "unprocessed",
+    "regulation_state": "upregulated",
     "metadata": {
       "enriched": true,
-      "enrichment_timestamp": "2026-06-06T06:20:26.122198"
+      "enrichment_timestamp": "2026-06-06T06:20:26.122198",
+      "enrichment_needed": true,
+      "gap_acknowledged": "2026-06-12T08:03:01.554766"
     }
   },
   {
@@ -4473,15 +5015,18 @@
       "EVENT_022",
       "EVENT_H008"
     ],
-    "claims_contradicted": [],
+    "claims_contradicted": [
+      "EVT-063",
+      "EVT-064"
+    ],
     "source_strength": "primary",
-    "corroboration_count": 10,
-    "contradiction_count": 0,
+    "corroboration_count": 228,
+    "contradiction_count": 2,
     "legal_weight": 0,
     "urgency_weight": 0,
     "duplication_score": 0,
     "human_rating": null,
-    "regulation_state": "unprocessed",
+    "regulation_state": "upregulated",
     "metadata": {
       "enriched": true,
       "enrichment_timestamp": "2026-06-06T06:20:26.122467"
@@ -4506,18 +5051,23 @@
       "EVT-067",
       "EVENT_070"
     ],
-    "claims_contradicted": [],
+    "claims_contradicted": [
+      "EVT-063",
+      "EVT-064"
+    ],
     "source_strength": "primary",
-    "corroboration_count": 10,
-    "contradiction_count": 0,
+    "corroboration_count": 228,
+    "contradiction_count": 2,
     "legal_weight": 0,
     "urgency_weight": 0,
     "duplication_score": 0,
     "human_rating": null,
-    "regulation_state": "unprocessed",
+    "regulation_state": "upregulated",
     "metadata": {
       "enriched": true,
-      "enrichment_timestamp": "2026-06-06T06:20:26.122700"
+      "enrichment_timestamp": "2026-06-06T06:20:26.122700",
+      "enrichment_needed": true,
+      "gap_acknowledged": "2026-06-12T08:03:01.554768"
     }
   },
   {
@@ -4539,18 +5089,23 @@
       "EVT-067",
       "EVENT_070"
     ],
-    "claims_contradicted": [],
+    "claims_contradicted": [
+      "EVT-063",
+      "EVT-064"
+    ],
     "source_strength": "primary",
-    "corroboration_count": 10,
-    "contradiction_count": 0,
+    "corroboration_count": 228,
+    "contradiction_count": 2,
     "legal_weight": 0,
     "urgency_weight": 0,
     "duplication_score": 0,
     "human_rating": null,
-    "regulation_state": "unprocessed",
+    "regulation_state": "upregulated",
     "metadata": {
       "enriched": true,
-      "enrichment_timestamp": "2026-06-06T06:20:26.122938"
+      "enrichment_timestamp": "2026-06-06T06:20:26.122938",
+      "enrichment_needed": true,
+      "gap_acknowledged": "2026-06-12T08:03:01.554770"
     }
   },
   {
@@ -4572,18 +5127,23 @@
       "EVT-067",
       "EVENT_070"
     ],
-    "claims_contradicted": [],
+    "claims_contradicted": [
+      "EVT-063",
+      "EVT-064"
+    ],
     "source_strength": "primary",
-    "corroboration_count": 10,
-    "contradiction_count": 0,
+    "corroboration_count": 228,
+    "contradiction_count": 2,
     "legal_weight": 0,
     "urgency_weight": 0,
     "duplication_score": 0,
     "human_rating": null,
-    "regulation_state": "unprocessed",
+    "regulation_state": "upregulated",
     "metadata": {
       "enriched": true,
-      "enrichment_timestamp": "2026-06-06T06:20:26.123171"
+      "enrichment_timestamp": "2026-06-06T06:20:26.123171",
+      "enrichment_needed": true,
+      "gap_acknowledged": "2026-06-12T08:03:01.554771"
     }
   },
   {
@@ -4605,18 +5165,23 @@
       "EVT-067",
       "EVENT_070"
     ],
-    "claims_contradicted": [],
+    "claims_contradicted": [
+      "EVT-063",
+      "EVT-064"
+    ],
     "source_strength": "primary",
-    "corroboration_count": 10,
-    "contradiction_count": 0,
+    "corroboration_count": 228,
+    "contradiction_count": 2,
     "legal_weight": 0,
     "urgency_weight": 0,
     "duplication_score": 0,
     "human_rating": null,
-    "regulation_state": "unprocessed",
+    "regulation_state": "upregulated",
     "metadata": {
       "enriched": true,
-      "enrichment_timestamp": "2026-06-06T06:20:26.123397"
+      "enrichment_timestamp": "2026-06-06T06:20:26.123397",
+      "enrichment_needed": true,
+      "gap_acknowledged": "2026-06-12T08:03:01.554774"
     }
   },
   {
@@ -4638,18 +5203,23 @@
       "EVT-067",
       "EVENT_070"
     ],
-    "claims_contradicted": [],
+    "claims_contradicted": [
+      "EVT-063",
+      "EVT-064"
+    ],
     "source_strength": "primary",
-    "corroboration_count": 10,
-    "contradiction_count": 0,
+    "corroboration_count": 228,
+    "contradiction_count": 2,
     "legal_weight": 0,
     "urgency_weight": 0,
     "duplication_score": 0,
     "human_rating": null,
-    "regulation_state": "unprocessed",
+    "regulation_state": "upregulated",
     "metadata": {
       "enriched": true,
-      "enrichment_timestamp": "2026-06-06T06:20:26.123640"
+      "enrichment_timestamp": "2026-06-06T06:20:26.123640",
+      "enrichment_needed": true,
+      "gap_acknowledged": "2026-06-12T08:03:01.554775"
     }
   },
   {
@@ -4671,18 +5241,23 @@
       "EVT-067",
       "EVENT_070"
     ],
-    "claims_contradicted": [],
+    "claims_contradicted": [
+      "EVT-063",
+      "EVT-064"
+    ],
     "source_strength": "primary",
-    "corroboration_count": 10,
-    "contradiction_count": 0,
+    "corroboration_count": 228,
+    "contradiction_count": 2,
     "legal_weight": 0,
     "urgency_weight": 0,
     "duplication_score": 0,
     "human_rating": null,
-    "regulation_state": "unprocessed",
+    "regulation_state": "upregulated",
     "metadata": {
       "enriched": true,
-      "enrichment_timestamp": "2026-06-06T06:20:26.123914"
+      "enrichment_timestamp": "2026-06-06T06:20:26.123914",
+      "enrichment_needed": true,
+      "gap_acknowledged": "2026-06-12T08:03:01.554777"
     }
   },
   {
@@ -4704,18 +5279,23 @@
       "EVT-067",
       "EVENT_070"
     ],
-    "claims_contradicted": [],
+    "claims_contradicted": [
+      "EVT-063",
+      "EVT-064"
+    ],
     "source_strength": "primary",
-    "corroboration_count": 10,
-    "contradiction_count": 0,
+    "corroboration_count": 228,
+    "contradiction_count": 2,
     "legal_weight": 0,
     "urgency_weight": 0,
     "duplication_score": 0,
     "human_rating": null,
-    "regulation_state": "unprocessed",
+    "regulation_state": "upregulated",
     "metadata": {
       "enriched": true,
-      "enrichment_timestamp": "2026-06-06T06:20:26.124153"
+      "enrichment_timestamp": "2026-06-06T06:20:26.124153",
+      "enrichment_needed": true,
+      "gap_acknowledged": "2026-06-12T08:03:01.554779"
     }
   },
   {
@@ -4737,18 +5317,23 @@
       "EVT-067",
       "EVENT_070"
     ],
-    "claims_contradicted": [],
+    "claims_contradicted": [
+      "EVT-063",
+      "EVT-064"
+    ],
     "source_strength": "primary",
-    "corroboration_count": 10,
-    "contradiction_count": 0,
+    "corroboration_count": 228,
+    "contradiction_count": 2,
     "legal_weight": 0,
     "urgency_weight": 0,
     "duplication_score": 0,
     "human_rating": null,
-    "regulation_state": "unprocessed",
+    "regulation_state": "upregulated",
     "metadata": {
       "enriched": true,
-      "enrichment_timestamp": "2026-06-06T06:20:26.124388"
+      "enrichment_timestamp": "2026-06-06T06:20:26.124388",
+      "enrichment_needed": true,
+      "gap_acknowledged": "2026-06-12T08:03:01.554781"
     }
   },
   {
@@ -4770,18 +5355,23 @@
       "EVT-067",
       "EVENT_070"
     ],
-    "claims_contradicted": [],
+    "claims_contradicted": [
+      "EVT-063",
+      "EVT-064"
+    ],
     "source_strength": "primary",
-    "corroboration_count": 10,
-    "contradiction_count": 0,
+    "corroboration_count": 228,
+    "contradiction_count": 2,
     "legal_weight": 0,
     "urgency_weight": 0,
     "duplication_score": 0,
     "human_rating": null,
-    "regulation_state": "unprocessed",
+    "regulation_state": "upregulated",
     "metadata": {
       "enriched": true,
-      "enrichment_timestamp": "2026-06-06T06:20:26.124624"
+      "enrichment_timestamp": "2026-06-06T06:20:26.124624",
+      "enrichment_needed": true,
+      "gap_acknowledged": "2026-06-12T08:03:01.554782"
     }
   },
   {
@@ -4803,18 +5393,23 @@
       "EVT-067",
       "EVENT_070"
     ],
-    "claims_contradicted": [],
+    "claims_contradicted": [
+      "EVT-063",
+      "EVT-064"
+    ],
     "source_strength": "primary",
-    "corroboration_count": 10,
-    "contradiction_count": 0,
+    "corroboration_count": 228,
+    "contradiction_count": 2,
     "legal_weight": 0,
     "urgency_weight": 0,
     "duplication_score": 0,
     "human_rating": null,
-    "regulation_state": "unprocessed",
+    "regulation_state": "upregulated",
     "metadata": {
       "enriched": true,
-      "enrichment_timestamp": "2026-06-06T06:20:26.124872"
+      "enrichment_timestamp": "2026-06-06T06:20:26.124872",
+      "enrichment_needed": true,
+      "gap_acknowledged": "2026-06-12T08:03:01.554784"
     }
   },
   {
@@ -4836,18 +5431,23 @@
       "EVT-067",
       "EVENT_070"
     ],
-    "claims_contradicted": [],
+    "claims_contradicted": [
+      "EVT-063",
+      "EVT-064"
+    ],
     "source_strength": "primary",
-    "corroboration_count": 10,
-    "contradiction_count": 0,
+    "corroboration_count": 228,
+    "contradiction_count": 2,
     "legal_weight": 0,
     "urgency_weight": 0,
     "duplication_score": 0,
     "human_rating": null,
-    "regulation_state": "unprocessed",
+    "regulation_state": "upregulated",
     "metadata": {
       "enriched": true,
-      "enrichment_timestamp": "2026-06-06T06:20:26.125139"
+      "enrichment_timestamp": "2026-06-06T06:20:26.125139",
+      "enrichment_needed": true,
+      "gap_acknowledged": "2026-06-12T08:03:01.554786"
     }
   },
   {
@@ -4869,18 +5469,23 @@
       "EVT-067",
       "EVENT_070"
     ],
-    "claims_contradicted": [],
+    "claims_contradicted": [
+      "EVT-063",
+      "EVT-064"
+    ],
     "source_strength": "primary",
-    "corroboration_count": 10,
-    "contradiction_count": 0,
+    "corroboration_count": 228,
+    "contradiction_count": 2,
     "legal_weight": 0,
     "urgency_weight": 0,
     "duplication_score": 0,
     "human_rating": null,
-    "regulation_state": "unprocessed",
+    "regulation_state": "upregulated",
     "metadata": {
       "enriched": true,
-      "enrichment_timestamp": "2026-06-06T06:20:26.125363"
+      "enrichment_timestamp": "2026-06-06T06:20:26.125363",
+      "enrichment_needed": true,
+      "gap_acknowledged": "2026-06-12T08:03:01.554787"
     }
   },
   {
@@ -4902,18 +5507,23 @@
       "EVT-067",
       "EVENT_070"
     ],
-    "claims_contradicted": [],
+    "claims_contradicted": [
+      "EVT-063",
+      "EVT-064"
+    ],
     "source_strength": "primary",
-    "corroboration_count": 10,
-    "contradiction_count": 0,
+    "corroboration_count": 228,
+    "contradiction_count": 2,
     "legal_weight": 0,
     "urgency_weight": 0,
     "duplication_score": 0,
     "human_rating": null,
-    "regulation_state": "unprocessed",
+    "regulation_state": "upregulated",
     "metadata": {
       "enriched": true,
-      "enrichment_timestamp": "2026-06-06T06:20:26.125589"
+      "enrichment_timestamp": "2026-06-06T06:20:26.125589",
+      "enrichment_needed": true,
+      "gap_acknowledged": "2026-06-12T08:03:01.554789"
     }
   },
   {
@@ -4935,18 +5545,23 @@
       "EVT-067",
       "EVENT_070"
     ],
-    "claims_contradicted": [],
+    "claims_contradicted": [
+      "EVT-063",
+      "EVT-064"
+    ],
     "source_strength": "primary",
-    "corroboration_count": 10,
-    "contradiction_count": 0,
+    "corroboration_count": 228,
+    "contradiction_count": 2,
     "legal_weight": 0,
     "urgency_weight": 0,
     "duplication_score": 0,
     "human_rating": null,
-    "regulation_state": "unprocessed",
+    "regulation_state": "upregulated",
     "metadata": {
       "enriched": true,
-      "enrichment_timestamp": "2026-06-06T06:20:26.125825"
+      "enrichment_timestamp": "2026-06-06T06:20:26.125825",
+      "enrichment_needed": true,
+      "gap_acknowledged": "2026-06-12T08:03:01.554791"
     }
   },
   {
@@ -4968,18 +5583,23 @@
       "EVT-067",
       "EVENT_070"
     ],
-    "claims_contradicted": [],
+    "claims_contradicted": [
+      "EVT-063",
+      "EVT-064"
+    ],
     "source_strength": "primary",
-    "corroboration_count": 10,
-    "contradiction_count": 0,
+    "corroboration_count": 228,
+    "contradiction_count": 2,
     "legal_weight": 0,
     "urgency_weight": 0,
     "duplication_score": 0,
     "human_rating": null,
-    "regulation_state": "unprocessed",
+    "regulation_state": "upregulated",
     "metadata": {
       "enriched": true,
-      "enrichment_timestamp": "2026-06-06T06:20:26.126053"
+      "enrichment_timestamp": "2026-06-06T06:20:26.126053",
+      "enrichment_needed": true,
+      "gap_acknowledged": "2026-06-12T08:03:01.554793"
     }
   },
   {
@@ -5001,18 +5621,23 @@
       "EVT-067",
       "EVENT_070"
     ],
-    "claims_contradicted": [],
+    "claims_contradicted": [
+      "EVT-063",
+      "EVT-064"
+    ],
     "source_strength": "primary",
-    "corroboration_count": 10,
-    "contradiction_count": 0,
+    "corroboration_count": 228,
+    "contradiction_count": 2,
     "legal_weight": 0,
     "urgency_weight": 0,
     "duplication_score": 0,
     "human_rating": null,
-    "regulation_state": "unprocessed",
+    "regulation_state": "upregulated",
     "metadata": {
       "enriched": true,
-      "enrichment_timestamp": "2026-06-06T06:20:26.126278"
+      "enrichment_timestamp": "2026-06-06T06:20:26.126278",
+      "enrichment_needed": true,
+      "gap_acknowledged": "2026-06-12T08:03:01.554794"
     }
   },
   {
@@ -5034,18 +5659,23 @@
       "EVT-067",
       "EVENT_070"
     ],
-    "claims_contradicted": [],
+    "claims_contradicted": [
+      "EVT-063",
+      "EVT-064"
+    ],
     "source_strength": "primary",
-    "corroboration_count": 10,
-    "contradiction_count": 0,
+    "corroboration_count": 228,
+    "contradiction_count": 2,
     "legal_weight": 0,
     "urgency_weight": 0,
     "duplication_score": 0,
     "human_rating": null,
-    "regulation_state": "unprocessed",
+    "regulation_state": "upregulated",
     "metadata": {
       "enriched": true,
-      "enrichment_timestamp": "2026-06-06T06:20:26.126505"
+      "enrichment_timestamp": "2026-06-06T06:20:26.126505",
+      "enrichment_needed": true,
+      "gap_acknowledged": "2026-06-12T08:03:01.554796"
     }
   },
   {
@@ -5067,18 +5697,23 @@
       "EVT-067",
       "EVENT_070"
     ],
-    "claims_contradicted": [],
+    "claims_contradicted": [
+      "EVT-063",
+      "EVT-064"
+    ],
     "source_strength": "primary",
-    "corroboration_count": 10,
-    "contradiction_count": 0,
+    "corroboration_count": 228,
+    "contradiction_count": 2,
     "legal_weight": 0,
     "urgency_weight": 0,
     "duplication_score": 0,
     "human_rating": null,
-    "regulation_state": "unprocessed",
+    "regulation_state": "upregulated",
     "metadata": {
       "enriched": true,
-      "enrichment_timestamp": "2026-06-06T06:20:26.126738"
+      "enrichment_timestamp": "2026-06-06T06:20:26.126738",
+      "enrichment_needed": true,
+      "gap_acknowledged": "2026-06-12T08:03:01.554798"
     }
   },
   {
@@ -5100,18 +5735,23 @@
       "EVT-067",
       "EVENT_070"
     ],
-    "claims_contradicted": [],
+    "claims_contradicted": [
+      "EVT-063",
+      "EVT-064"
+    ],
     "source_strength": "primary",
-    "corroboration_count": 10,
-    "contradiction_count": 0,
+    "corroboration_count": 228,
+    "contradiction_count": 2,
     "legal_weight": 0,
     "urgency_weight": 0,
     "duplication_score": 0,
     "human_rating": null,
-    "regulation_state": "unprocessed",
+    "regulation_state": "upregulated",
     "metadata": {
       "enriched": true,
-      "enrichment_timestamp": "2026-06-06T06:20:26.126964"
+      "enrichment_timestamp": "2026-06-06T06:20:26.126964",
+      "enrichment_needed": true,
+      "gap_acknowledged": "2026-06-12T08:03:01.554799"
     }
   },
   {
@@ -5133,18 +5773,23 @@
       "EVT-067",
       "EVENT_070"
     ],
-    "claims_contradicted": [],
+    "claims_contradicted": [
+      "EVT-063",
+      "EVT-064"
+    ],
     "source_strength": "primary",
-    "corroboration_count": 10,
-    "contradiction_count": 0,
+    "corroboration_count": 228,
+    "contradiction_count": 2,
     "legal_weight": 0,
     "urgency_weight": 0,
     "duplication_score": 0,
     "human_rating": null,
-    "regulation_state": "unprocessed",
+    "regulation_state": "upregulated",
     "metadata": {
       "enriched": true,
-      "enrichment_timestamp": "2026-06-06T06:20:26.127191"
+      "enrichment_timestamp": "2026-06-06T06:20:26.127191",
+      "enrichment_needed": true,
+      "gap_acknowledged": "2026-06-12T08:03:01.554801"
     }
   },
   {
@@ -5166,18 +5811,23 @@
       "EVT-067",
       "EVENT_070"
     ],
-    "claims_contradicted": [],
+    "claims_contradicted": [
+      "EVT-063",
+      "EVT-064"
+    ],
     "source_strength": "primary",
-    "corroboration_count": 10,
-    "contradiction_count": 0,
+    "corroboration_count": 228,
+    "contradiction_count": 2,
     "legal_weight": 0,
     "urgency_weight": 0,
     "duplication_score": 0,
     "human_rating": null,
-    "regulation_state": "unprocessed",
+    "regulation_state": "upregulated",
     "metadata": {
       "enriched": true,
-      "enrichment_timestamp": "2026-06-06T06:20:26.127419"
+      "enrichment_timestamp": "2026-06-06T06:20:26.127419",
+      "enrichment_needed": true,
+      "gap_acknowledged": "2026-06-12T08:03:01.554802"
     }
   },
   {
@@ -5199,18 +5849,23 @@
       "EVT-067",
       "EVENT_070"
     ],
-    "claims_contradicted": [],
+    "claims_contradicted": [
+      "EVT-063",
+      "EVT-064"
+    ],
     "source_strength": "primary",
-    "corroboration_count": 10,
-    "contradiction_count": 0,
+    "corroboration_count": 228,
+    "contradiction_count": 2,
     "legal_weight": 0,
     "urgency_weight": 0,
     "duplication_score": 0,
     "human_rating": null,
-    "regulation_state": "unprocessed",
+    "regulation_state": "upregulated",
     "metadata": {
       "enriched": true,
-      "enrichment_timestamp": "2026-06-06T06:20:26.127682"
+      "enrichment_timestamp": "2026-06-06T06:20:26.127682",
+      "enrichment_needed": true,
+      "gap_acknowledged": "2026-06-12T08:03:01.554804"
     }
   },
   {
@@ -5232,18 +5887,23 @@
       "EVT-067",
       "EVENT_070"
     ],
-    "claims_contradicted": [],
+    "claims_contradicted": [
+      "EVT-063",
+      "EVT-064"
+    ],
     "source_strength": "primary",
-    "corroboration_count": 10,
-    "contradiction_count": 0,
+    "corroboration_count": 228,
+    "contradiction_count": 2,
     "legal_weight": 0,
     "urgency_weight": 0,
     "duplication_score": 0,
     "human_rating": null,
-    "regulation_state": "unprocessed",
+    "regulation_state": "upregulated",
     "metadata": {
       "enriched": true,
-      "enrichment_timestamp": "2026-06-06T06:20:26.127934"
+      "enrichment_timestamp": "2026-06-06T06:20:26.127934",
+      "enrichment_needed": true,
+      "gap_acknowledged": "2026-06-12T08:03:01.554805"
     }
   },
   {
@@ -5265,18 +5925,23 @@
       "EVT-067",
       "EVENT_070"
     ],
-    "claims_contradicted": [],
+    "claims_contradicted": [
+      "EVT-063",
+      "EVT-064"
+    ],
     "source_strength": "primary",
-    "corroboration_count": 10,
-    "contradiction_count": 0,
+    "corroboration_count": 228,
+    "contradiction_count": 2,
     "legal_weight": 0,
     "urgency_weight": 0,
     "duplication_score": 0,
     "human_rating": null,
-    "regulation_state": "unprocessed",
+    "regulation_state": "upregulated",
     "metadata": {
       "enriched": true,
-      "enrichment_timestamp": "2026-06-06T06:20:26.128172"
+      "enrichment_timestamp": "2026-06-06T06:20:26.128172",
+      "enrichment_needed": true,
+      "gap_acknowledged": "2026-06-12T08:03:01.554807"
     }
   },
   {
@@ -5298,18 +5963,23 @@
       "EVT-067",
       "EVENT_070"
     ],
-    "claims_contradicted": [],
+    "claims_contradicted": [
+      "EVT-063",
+      "EVT-064"
+    ],
     "source_strength": "primary",
-    "corroboration_count": 10,
-    "contradiction_count": 0,
+    "corroboration_count": 228,
+    "contradiction_count": 2,
     "legal_weight": 0,
     "urgency_weight": 0,
     "duplication_score": 0,
     "human_rating": null,
-    "regulation_state": "unprocessed",
+    "regulation_state": "upregulated",
     "metadata": {
       "enriched": true,
-      "enrichment_timestamp": "2026-06-06T06:20:26.128410"
+      "enrichment_timestamp": "2026-06-06T06:20:26.128410",
+      "enrichment_needed": true,
+      "gap_acknowledged": "2026-06-12T08:03:01.554808"
     }
   },
   {
@@ -5331,18 +6001,23 @@
       "EVT-067",
       "EVENT_070"
     ],
-    "claims_contradicted": [],
+    "claims_contradicted": [
+      "EVT-063",
+      "EVT-064"
+    ],
     "source_strength": "primary",
-    "corroboration_count": 10,
-    "contradiction_count": 0,
+    "corroboration_count": 228,
+    "contradiction_count": 2,
     "legal_weight": 0,
     "urgency_weight": 0,
     "duplication_score": 0,
     "human_rating": null,
-    "regulation_state": "unprocessed",
+    "regulation_state": "upregulated",
     "metadata": {
       "enriched": true,
-      "enrichment_timestamp": "2026-06-06T06:20:26.128646"
+      "enrichment_timestamp": "2026-06-06T06:20:26.128646",
+      "enrichment_needed": true,
+      "gap_acknowledged": "2026-06-12T08:03:01.554810"
     }
   },
   {
@@ -5364,18 +6039,23 @@
       "EVT-067",
       "EVENT_070"
     ],
-    "claims_contradicted": [],
+    "claims_contradicted": [
+      "EVT-063",
+      "EVT-064"
+    ],
     "source_strength": "primary",
-    "corroboration_count": 10,
-    "contradiction_count": 0,
+    "corroboration_count": 228,
+    "contradiction_count": 2,
     "legal_weight": 0,
     "urgency_weight": 0,
     "duplication_score": 0,
     "human_rating": null,
-    "regulation_state": "unprocessed",
+    "regulation_state": "upregulated",
     "metadata": {
       "enriched": true,
-      "enrichment_timestamp": "2026-06-06T06:20:26.128891"
+      "enrichment_timestamp": "2026-06-06T06:20:26.128891",
+      "enrichment_needed": true,
+      "gap_acknowledged": "2026-06-12T08:03:01.554811"
     }
   },
   {
@@ -5397,18 +6077,23 @@
       "EVT-067",
       "EVENT_070"
     ],
-    "claims_contradicted": [],
+    "claims_contradicted": [
+      "EVT-063",
+      "EVT-064"
+    ],
     "source_strength": "primary",
-    "corroboration_count": 10,
-    "contradiction_count": 0,
+    "corroboration_count": 228,
+    "contradiction_count": 2,
     "legal_weight": 0,
     "urgency_weight": 0,
     "duplication_score": 0,
     "human_rating": null,
-    "regulation_state": "unprocessed",
+    "regulation_state": "upregulated",
     "metadata": {
       "enriched": true,
-      "enrichment_timestamp": "2026-06-06T06:20:26.129135"
+      "enrichment_timestamp": "2026-06-06T06:20:26.129135",
+      "enrichment_needed": true,
+      "gap_acknowledged": "2026-06-12T08:03:01.554813"
     }
   },
   {
@@ -5430,18 +6115,23 @@
       "EVT-067",
       "EVENT_070"
     ],
-    "claims_contradicted": [],
+    "claims_contradicted": [
+      "EVT-063",
+      "EVT-064"
+    ],
     "source_strength": "primary",
-    "corroboration_count": 10,
-    "contradiction_count": 0,
+    "corroboration_count": 228,
+    "contradiction_count": 2,
     "legal_weight": 0,
     "urgency_weight": 0,
     "duplication_score": 0,
     "human_rating": null,
-    "regulation_state": "unprocessed",
+    "regulation_state": "upregulated",
     "metadata": {
       "enriched": true,
-      "enrichment_timestamp": "2026-06-06T06:20:26.129395"
+      "enrichment_timestamp": "2026-06-06T06:20:26.129395",
+      "enrichment_needed": true,
+      "gap_acknowledged": "2026-06-12T08:03:01.554814"
     }
   },
   {
@@ -5463,18 +6153,23 @@
       "EVT-067",
       "EVENT_070"
     ],
-    "claims_contradicted": [],
+    "claims_contradicted": [
+      "EVT-063",
+      "EVT-064"
+    ],
     "source_strength": "primary",
-    "corroboration_count": 10,
-    "contradiction_count": 0,
+    "corroboration_count": 228,
+    "contradiction_count": 2,
     "legal_weight": 0,
     "urgency_weight": 0,
     "duplication_score": 0,
     "human_rating": null,
-    "regulation_state": "unprocessed",
+    "regulation_state": "upregulated",
     "metadata": {
       "enriched": true,
-      "enrichment_timestamp": "2026-06-06T06:20:26.129623"
+      "enrichment_timestamp": "2026-06-06T06:20:26.129623",
+      "enrichment_needed": true,
+      "gap_acknowledged": "2026-06-12T08:03:01.554816"
     }
   },
   {
@@ -5496,18 +6191,23 @@
       "EVT-067",
       "EVENT_070"
     ],
-    "claims_contradicted": [],
+    "claims_contradicted": [
+      "EVT-063",
+      "EVT-064"
+    ],
     "source_strength": "primary",
-    "corroboration_count": 10,
-    "contradiction_count": 0,
+    "corroboration_count": 228,
+    "contradiction_count": 2,
     "legal_weight": 0,
     "urgency_weight": 0,
     "duplication_score": 0,
     "human_rating": null,
-    "regulation_state": "unprocessed",
+    "regulation_state": "upregulated",
     "metadata": {
       "enriched": true,
-      "enrichment_timestamp": "2026-06-06T06:20:26.129857"
+      "enrichment_timestamp": "2026-06-06T06:20:26.129857",
+      "enrichment_needed": true,
+      "gap_acknowledged": "2026-06-12T08:03:01.554818"
     }
   },
   {
@@ -5529,18 +6229,23 @@
       "EVT-067",
       "EVENT_070"
     ],
-    "claims_contradicted": [],
+    "claims_contradicted": [
+      "EVT-063",
+      "EVT-064"
+    ],
     "source_strength": "primary",
-    "corroboration_count": 10,
-    "contradiction_count": 0,
+    "corroboration_count": 228,
+    "contradiction_count": 2,
     "legal_weight": 0,
     "urgency_weight": 0,
     "duplication_score": 0,
     "human_rating": null,
-    "regulation_state": "unprocessed",
+    "regulation_state": "upregulated",
     "metadata": {
       "enriched": true,
-      "enrichment_timestamp": "2026-06-06T06:20:26.130085"
+      "enrichment_timestamp": "2026-06-06T06:20:26.130085",
+      "enrichment_needed": true,
+      "gap_acknowledged": "2026-06-12T08:03:01.554819"
     }
   },
   {
@@ -5562,18 +6267,23 @@
       "EVT-067",
       "EVENT_070"
     ],
-    "claims_contradicted": [],
+    "claims_contradicted": [
+      "EVT-063",
+      "EVT-064"
+    ],
     "source_strength": "primary",
-    "corroboration_count": 10,
-    "contradiction_count": 0,
+    "corroboration_count": 228,
+    "contradiction_count": 2,
     "legal_weight": 0,
     "urgency_weight": 0,
     "duplication_score": 0,
     "human_rating": null,
-    "regulation_state": "unprocessed",
+    "regulation_state": "upregulated",
     "metadata": {
       "enriched": true,
-      "enrichment_timestamp": "2026-06-06T06:20:26.130314"
+      "enrichment_timestamp": "2026-06-06T06:20:26.130314",
+      "enrichment_needed": true,
+      "gap_acknowledged": "2026-06-12T08:03:01.554821"
     }
   },
   {
@@ -5595,18 +6305,23 @@
       "EVT-067",
       "EVENT_070"
     ],
-    "claims_contradicted": [],
+    "claims_contradicted": [
+      "EVT-063",
+      "EVT-064"
+    ],
     "source_strength": "primary",
-    "corroboration_count": 10,
-    "contradiction_count": 0,
+    "corroboration_count": 228,
+    "contradiction_count": 2,
     "legal_weight": 0,
     "urgency_weight": 0,
     "duplication_score": 0,
     "human_rating": null,
-    "regulation_state": "unprocessed",
+    "regulation_state": "upregulated",
     "metadata": {
       "enriched": true,
-      "enrichment_timestamp": "2026-06-06T06:20:26.130543"
+      "enrichment_timestamp": "2026-06-06T06:20:26.130543",
+      "enrichment_needed": true,
+      "gap_acknowledged": "2026-06-12T08:03:01.554822"
     }
   },
   {
@@ -5640,15 +6355,18 @@
       "EVENT_022",
       "EVENT_070"
     ],
-    "claims_contradicted": [],
+    "claims_contradicted": [
+      "EVT-063",
+      "EVT-064"
+    ],
     "source_strength": "primary",
-    "corroboration_count": 10,
-    "contradiction_count": 0,
+    "corroboration_count": 228,
+    "contradiction_count": 2,
     "legal_weight": 0,
     "urgency_weight": 0,
     "duplication_score": 0,
     "human_rating": null,
-    "regulation_state": "unprocessed",
+    "regulation_state": "upregulated",
     "metadata": {
       "enriched": true,
       "enrichment_timestamp": "2026-06-06T06:20:26.130797"
@@ -5685,18 +6403,23 @@
       "EVENT_022",
       "EVENT_070"
     ],
-    "claims_contradicted": [],
+    "claims_contradicted": [
+      "EVT-063",
+      "EVT-064"
+    ],
     "source_strength": "primary",
-    "corroboration_count": 10,
-    "contradiction_count": 0,
+    "corroboration_count": 228,
+    "contradiction_count": 2,
     "legal_weight": 0,
     "urgency_weight": 0,
     "duplication_score": 0,
     "human_rating": null,
-    "regulation_state": "unprocessed",
+    "regulation_state": "upregulated",
     "metadata": {
       "enriched": true,
-      "enrichment_timestamp": "2026-06-06T06:20:26.131042"
+      "enrichment_timestamp": "2026-06-06T06:20:26.131042",
+      "enrichment_needed": true,
+      "gap_acknowledged": "2026-06-12T08:03:01.554824"
     }
   },
   {
@@ -5718,18 +6441,23 @@
       "EVT-067",
       "EVENT_070"
     ],
-    "claims_contradicted": [],
+    "claims_contradicted": [
+      "EVT-063",
+      "EVT-064"
+    ],
     "source_strength": "primary",
-    "corroboration_count": 10,
-    "contradiction_count": 0,
+    "corroboration_count": 228,
+    "contradiction_count": 2,
     "legal_weight": 0,
     "urgency_weight": 0,
     "duplication_score": 0,
     "human_rating": null,
-    "regulation_state": "unprocessed",
+    "regulation_state": "upregulated",
     "metadata": {
       "enriched": true,
-      "enrichment_timestamp": "2026-06-06T06:20:26.131307"
+      "enrichment_timestamp": "2026-06-06T06:20:26.131307",
+      "enrichment_needed": true,
+      "gap_acknowledged": "2026-06-12T08:03:01.554826"
     }
   },
   {
@@ -5754,15 +6482,18 @@
       "EVT-067",
       "EVENT_070"
     ],
-    "claims_contradicted": [],
+    "claims_contradicted": [
+      "EVT-063",
+      "EVT-064"
+    ],
     "source_strength": "primary",
-    "corroboration_count": 10,
-    "contradiction_count": 0,
+    "corroboration_count": 228,
+    "contradiction_count": 2,
     "legal_weight": 0,
     "urgency_weight": 0,
     "duplication_score": 0,
     "human_rating": null,
-    "regulation_state": "unprocessed",
+    "regulation_state": "upregulated",
     "metadata": {
       "enriched": true,
       "enrichment_timestamp": "2026-06-06T06:20:26.131597"
@@ -5793,15 +6524,18 @@
       "EVENT_070",
       "EVT-074"
     ],
-    "claims_contradicted": [],
+    "claims_contradicted": [
+      "EVT-063",
+      "EVT-064"
+    ],
     "source_strength": "primary",
-    "corroboration_count": 10,
-    "contradiction_count": 0,
+    "corroboration_count": 228,
+    "contradiction_count": 2,
     "legal_weight": 0,
     "urgency_weight": 0,
     "duplication_score": 0,
     "human_rating": null,
-    "regulation_state": "unprocessed",
+    "regulation_state": "upregulated",
     "metadata": {
       "enriched": true,
       "enrichment_timestamp": "2026-06-06T06:20:26.131882"
@@ -5830,15 +6564,18 @@
       "EVT-067",
       "EVENT_070"
     ],
-    "claims_contradicted": [],
+    "claims_contradicted": [
+      "EVT-063",
+      "EVT-064"
+    ],
     "source_strength": "primary",
-    "corroboration_count": 10,
-    "contradiction_count": 0,
+    "corroboration_count": 228,
+    "contradiction_count": 2,
     "legal_weight": 0,
     "urgency_weight": 0,
     "duplication_score": 0,
     "human_rating": null,
-    "regulation_state": "unprocessed",
+    "regulation_state": "upregulated",
     "metadata": {
       "enriched": true,
       "enrichment_timestamp": "2026-06-06T06:20:26.132173"
@@ -5870,15 +6607,18 @@
       "EVENT_070",
       "EVT-074"
     ],
-    "claims_contradicted": [],
+    "claims_contradicted": [
+      "EVT-063",
+      "EVT-064"
+    ],
     "source_strength": "primary",
-    "corroboration_count": 10,
-    "contradiction_count": 0,
+    "corroboration_count": 228,
+    "contradiction_count": 2,
     "legal_weight": 0,
     "urgency_weight": 0,
     "duplication_score": 0,
     "human_rating": null,
-    "regulation_state": "unprocessed",
+    "regulation_state": "upregulated",
     "metadata": {
       "enriched": true,
       "enrichment_timestamp": "2026-06-06T06:20:26.132461"
@@ -5904,18 +6644,23 @@
       "EVT-067",
       "EVENT_070"
     ],
-    "claims_contradicted": [],
+    "claims_contradicted": [
+      "EVT-063",
+      "EVT-064"
+    ],
     "source_strength": "primary",
-    "corroboration_count": 10,
-    "contradiction_count": 0,
+    "corroboration_count": 228,
+    "contradiction_count": 2,
     "legal_weight": 0,
     "urgency_weight": 0,
     "duplication_score": 0,
     "human_rating": null,
-    "regulation_state": "unprocessed",
+    "regulation_state": "upregulated",
     "metadata": {
       "enriched": true,
-      "enrichment_timestamp": "2026-06-06T06:20:26.132741"
+      "enrichment_timestamp": "2026-06-06T06:20:26.132741",
+      "enrichment_needed": true,
+      "gap_acknowledged": "2026-06-12T08:03:01.554828"
     }
   },
   {
@@ -5938,18 +6683,23 @@
       "EVT-067",
       "EVENT_070"
     ],
-    "claims_contradicted": [],
+    "claims_contradicted": [
+      "EVT-063",
+      "EVT-064"
+    ],
     "source_strength": "primary",
-    "corroboration_count": 10,
-    "contradiction_count": 0,
+    "corroboration_count": 228,
+    "contradiction_count": 2,
     "legal_weight": 0,
     "urgency_weight": 0,
     "duplication_score": 0,
     "human_rating": null,
-    "regulation_state": "unprocessed",
+    "regulation_state": "upregulated",
     "metadata": {
       "enriched": true,
-      "enrichment_timestamp": "2026-06-06T06:20:26.133010"
+      "enrichment_timestamp": "2026-06-06T06:20:26.133010",
+      "enrichment_needed": true,
+      "gap_acknowledged": "2026-06-12T08:03:01.554829"
     }
   },
   {
@@ -5976,18 +6726,23 @@
       "EVENT_070",
       "EVT-074"
     ],
-    "claims_contradicted": [],
+    "claims_contradicted": [
+      "EVT-063",
+      "EVT-064"
+    ],
     "source_strength": "primary",
-    "corroboration_count": 10,
-    "contradiction_count": 0,
+    "corroboration_count": 228,
+    "contradiction_count": 2,
     "legal_weight": 0,
     "urgency_weight": 0,
     "duplication_score": 0,
     "human_rating": null,
-    "regulation_state": "unprocessed",
+    "regulation_state": "upregulated",
     "metadata": {
       "enriched": true,
-      "enrichment_timestamp": "2026-06-06T06:20:26.133281"
+      "enrichment_timestamp": "2026-06-06T06:20:26.133281",
+      "enrichment_needed": true,
+      "gap_acknowledged": "2026-06-12T08:03:01.554831"
     }
   },
   {
@@ -6012,15 +6767,18 @@
       "EVT-067",
       "EVENT_H008"
     ],
-    "claims_contradicted": [],
+    "claims_contradicted": [
+      "EVT-063",
+      "EVT-064"
+    ],
     "source_strength": "primary",
-    "corroboration_count": 10,
-    "contradiction_count": 0,
+    "corroboration_count": 228,
+    "contradiction_count": 2,
     "legal_weight": 0,
     "urgency_weight": 0,
     "duplication_score": 0,
     "human_rating": null,
-    "regulation_state": "unprocessed",
+    "regulation_state": "upregulated",
     "metadata": {
       "enriched": true,
       "enrichment_timestamp": "2026-06-06T06:20:26.133566"
@@ -6051,15 +6809,18 @@
       "EVENT_070",
       "EVT-074"
     ],
-    "claims_contradicted": [],
+    "claims_contradicted": [
+      "EVT-063",
+      "EVT-064"
+    ],
     "source_strength": "primary",
-    "corroboration_count": 10,
-    "contradiction_count": 0,
+    "corroboration_count": 228,
+    "contradiction_count": 2,
     "legal_weight": 0,
     "urgency_weight": 0,
     "duplication_score": 0,
     "human_rating": null,
-    "regulation_state": "unprocessed",
+    "regulation_state": "upregulated",
     "metadata": {
       "enriched": true,
       "enrichment_timestamp": "2026-06-06T06:20:26.133859"
@@ -6085,18 +6846,23 @@
       "EVT-067",
       "EVENT_070"
     ],
-    "claims_contradicted": [],
+    "claims_contradicted": [
+      "EVT-063",
+      "EVT-064"
+    ],
     "source_strength": "primary",
-    "corroboration_count": 10,
-    "contradiction_count": 0,
+    "corroboration_count": 228,
+    "contradiction_count": 2,
     "legal_weight": 0,
     "urgency_weight": 0,
     "duplication_score": 0,
     "human_rating": null,
-    "regulation_state": "unprocessed",
+    "regulation_state": "upregulated",
     "metadata": {
       "enriched": true,
-      "enrichment_timestamp": "2026-06-06T06:20:26.134127"
+      "enrichment_timestamp": "2026-06-06T06:20:26.134127",
+      "enrichment_needed": true,
+      "gap_acknowledged": "2026-06-12T08:03:01.554833"
     }
   },
   {
@@ -6118,18 +6884,23 @@
       "EVT-067",
       "EVENT_070"
     ],
-    "claims_contradicted": [],
+    "claims_contradicted": [
+      "EVT-063",
+      "EVT-064"
+    ],
     "source_strength": "primary",
-    "corroboration_count": 10,
-    "contradiction_count": 0,
+    "corroboration_count": 228,
+    "contradiction_count": 2,
     "legal_weight": 0,
     "urgency_weight": 0,
     "duplication_score": 0,
     "human_rating": null,
-    "regulation_state": "unprocessed",
+    "regulation_state": "upregulated",
     "metadata": {
       "enriched": true,
-      "enrichment_timestamp": "2026-06-06T06:20:26.134388"
+      "enrichment_timestamp": "2026-06-06T06:20:26.134388",
+      "enrichment_needed": true,
+      "gap_acknowledged": "2026-06-12T08:03:01.554834"
     }
   },
   {
@@ -6154,18 +6925,23 @@
       "EVENT_070",
       "EVT-074"
     ],
-    "claims_contradicted": [],
+    "claims_contradicted": [
+      "EVT-063",
+      "EVT-064"
+    ],
     "source_strength": "primary",
-    "corroboration_count": 10,
-    "contradiction_count": 0,
+    "corroboration_count": 228,
+    "contradiction_count": 2,
     "legal_weight": 0,
     "urgency_weight": 0,
     "duplication_score": 0,
     "human_rating": null,
-    "regulation_state": "unprocessed",
+    "regulation_state": "upregulated",
     "metadata": {
       "enriched": true,
-      "enrichment_timestamp": "2026-06-06T06:20:26.134656"
+      "enrichment_timestamp": "2026-06-06T06:20:26.134656",
+      "enrichment_needed": true,
+      "gap_acknowledged": "2026-06-12T08:03:01.554836"
     }
   },
   {
@@ -6188,18 +6964,23 @@
       "EVT-067",
       "EVENT_070"
     ],
-    "claims_contradicted": [],
+    "claims_contradicted": [
+      "EVT-063",
+      "EVT-064"
+    ],
     "source_strength": "primary",
-    "corroboration_count": 10,
-    "contradiction_count": 0,
+    "corroboration_count": 228,
+    "contradiction_count": 2,
     "legal_weight": 0,
     "urgency_weight": 0,
     "duplication_score": 0,
     "human_rating": null,
-    "regulation_state": "unprocessed",
+    "regulation_state": "upregulated",
     "metadata": {
       "enriched": true,
-      "enrichment_timestamp": "2026-06-06T06:20:26.134925"
+      "enrichment_timestamp": "2026-06-06T06:20:26.134925",
+      "enrichment_needed": true,
+      "gap_acknowledged": "2026-06-12T08:03:01.554838"
     }
   },
   {
@@ -6222,18 +7003,23 @@
       "EVT-067",
       "EVENT_070"
     ],
-    "claims_contradicted": [],
+    "claims_contradicted": [
+      "EVT-063",
+      "EVT-064"
+    ],
     "source_strength": "primary",
-    "corroboration_count": 10,
-    "contradiction_count": 0,
+    "corroboration_count": 228,
+    "contradiction_count": 2,
     "legal_weight": 0,
     "urgency_weight": 0,
     "duplication_score": 0,
     "human_rating": null,
-    "regulation_state": "unprocessed",
+    "regulation_state": "upregulated",
     "metadata": {
       "enriched": true,
-      "enrichment_timestamp": "2026-06-06T06:20:26.135204"
+      "enrichment_timestamp": "2026-06-06T06:20:26.135204",
+      "enrichment_needed": true,
+      "gap_acknowledged": "2026-06-12T08:03:01.554839"
     }
   },
   {
@@ -6256,18 +7042,23 @@
       "EVENT_122",
       "EVENT_070"
     ],
-    "claims_contradicted": [],
+    "claims_contradicted": [
+      "EVT-063",
+      "EVT-064"
+    ],
     "source_strength": "primary",
-    "corroboration_count": 10,
-    "contradiction_count": 0,
+    "corroboration_count": 228,
+    "contradiction_count": 2,
     "legal_weight": 0,
     "urgency_weight": 0,
     "duplication_score": 0,
     "human_rating": null,
-    "regulation_state": "unprocessed",
+    "regulation_state": "upregulated",
     "metadata": {
       "enriched": true,
-      "enrichment_timestamp": "2026-06-06T06:20:26.135496"
+      "enrichment_timestamp": "2026-06-06T06:20:26.135496",
+      "enrichment_needed": true,
+      "gap_acknowledged": "2026-06-12T08:03:01.554841"
     }
   },
   {
@@ -6293,18 +7084,23 @@
       "EVENT_070",
       "EVT-074"
     ],
-    "claims_contradicted": [],
+    "claims_contradicted": [
+      "EVT-063",
+      "EVT-064"
+    ],
     "source_strength": "primary",
-    "corroboration_count": 10,
-    "contradiction_count": 0,
+    "corroboration_count": 228,
+    "contradiction_count": 2,
     "legal_weight": 0,
     "urgency_weight": 0,
     "duplication_score": 0,
     "human_rating": null,
-    "regulation_state": "unprocessed",
+    "regulation_state": "upregulated",
     "metadata": {
       "enriched": true,
-      "enrichment_timestamp": "2026-06-06T06:20:26.135784"
+      "enrichment_timestamp": "2026-06-06T06:20:26.135784",
+      "enrichment_needed": true,
+      "gap_acknowledged": "2026-06-12T08:03:01.554842"
     }
   },
   {
@@ -6327,18 +7123,23 @@
       "EVT-067",
       "EVENT_070"
     ],
-    "claims_contradicted": [],
+    "claims_contradicted": [
+      "EVT-063",
+      "EVT-064"
+    ],
     "source_strength": "primary",
-    "corroboration_count": 10,
-    "contradiction_count": 0,
+    "corroboration_count": 228,
+    "contradiction_count": 2,
     "legal_weight": 0,
     "urgency_weight": 0,
     "duplication_score": 0,
     "human_rating": null,
-    "regulation_state": "unprocessed",
+    "regulation_state": "upregulated",
     "metadata": {
       "enriched": true,
-      "enrichment_timestamp": "2026-06-06T06:20:26.136053"
+      "enrichment_timestamp": "2026-06-06T06:20:26.136053",
+      "enrichment_needed": true,
+      "gap_acknowledged": "2026-06-12T08:03:01.554844"
     }
   },
   {
@@ -6360,18 +7161,23 @@
       "EVT-067",
       "EVENT_070"
     ],
-    "claims_contradicted": [],
+    "claims_contradicted": [
+      "EVT-063",
+      "EVT-064"
+    ],
     "source_strength": "primary",
-    "corroboration_count": 10,
-    "contradiction_count": 0,
+    "corroboration_count": 228,
+    "contradiction_count": 2,
     "legal_weight": 0,
     "urgency_weight": 0,
     "duplication_score": 0,
     "human_rating": null,
-    "regulation_state": "unprocessed",
+    "regulation_state": "upregulated",
     "metadata": {
       "enriched": true,
-      "enrichment_timestamp": "2026-06-06T06:20:26.136319"
+      "enrichment_timestamp": "2026-06-06T06:20:26.136319",
+      "enrichment_needed": true,
+      "gap_acknowledged": "2026-06-12T08:03:01.554846"
     }
   },
   {
@@ -6393,18 +7199,23 @@
       "EVT-067",
       "EVENT_070"
     ],
-    "claims_contradicted": [],
+    "claims_contradicted": [
+      "EVT-063",
+      "EVT-064"
+    ],
     "source_strength": "primary",
-    "corroboration_count": 10,
-    "contradiction_count": 0,
+    "corroboration_count": 228,
+    "contradiction_count": 2,
     "legal_weight": 0,
     "urgency_weight": 0,
     "duplication_score": 0,
     "human_rating": null,
-    "regulation_state": "unprocessed",
+    "regulation_state": "upregulated",
     "metadata": {
       "enriched": true,
-      "enrichment_timestamp": "2026-06-06T06:20:26.136602"
+      "enrichment_timestamp": "2026-06-06T06:20:26.136602",
+      "enrichment_needed": true,
+      "gap_acknowledged": "2026-06-12T08:03:01.554847"
     }
   },
   {
@@ -6429,15 +7240,18 @@
       "EVT-067",
       "EVENT_H008"
     ],
-    "claims_contradicted": [],
+    "claims_contradicted": [
+      "EVT-063",
+      "EVT-064"
+    ],
     "source_strength": "primary",
-    "corroboration_count": 10,
-    "contradiction_count": 0,
+    "corroboration_count": 228,
+    "contradiction_count": 2,
     "legal_weight": 0,
     "urgency_weight": 0,
     "duplication_score": 0,
     "human_rating": null,
-    "regulation_state": "unprocessed",
+    "regulation_state": "upregulated",
     "metadata": {
       "enriched": true,
       "enrichment_timestamp": "2026-06-06T06:20:26.136913"
@@ -6462,18 +7276,23 @@
       "EVT-067",
       "EVENT_070"
     ],
-    "claims_contradicted": [],
+    "claims_contradicted": [
+      "EVT-063",
+      "EVT-064"
+    ],
     "source_strength": "primary",
-    "corroboration_count": 10,
-    "contradiction_count": 0,
+    "corroboration_count": 228,
+    "contradiction_count": 2,
     "legal_weight": 0,
     "urgency_weight": 0,
     "duplication_score": 0,
     "human_rating": null,
-    "regulation_state": "unprocessed",
+    "regulation_state": "upregulated",
     "metadata": {
       "enriched": true,
-      "enrichment_timestamp": "2026-06-06T06:20:26.137189"
+      "enrichment_timestamp": "2026-06-06T06:20:26.137189",
+      "enrichment_needed": true,
+      "gap_acknowledged": "2026-06-12T08:03:01.554849"
     }
   },
   {
@@ -6495,18 +7314,23 @@
       "EVT-067",
       "EVENT_070"
     ],
-    "claims_contradicted": [],
+    "claims_contradicted": [
+      "EVT-063",
+      "EVT-064"
+    ],
     "source_strength": "primary",
-    "corroboration_count": 10,
-    "contradiction_count": 0,
+    "corroboration_count": 228,
+    "contradiction_count": 2,
     "legal_weight": 0,
     "urgency_weight": 0,
     "duplication_score": 0,
     "human_rating": null,
-    "regulation_state": "unprocessed",
+    "regulation_state": "upregulated",
     "metadata": {
       "enriched": true,
-      "enrichment_timestamp": "2026-06-06T06:20:26.137495"
+      "enrichment_timestamp": "2026-06-06T06:20:26.137495",
+      "enrichment_needed": true,
+      "gap_acknowledged": "2026-06-12T08:03:01.554851"
     }
   },
   {
@@ -6528,18 +7352,23 @@
       "EVT-067",
       "EVENT_070"
     ],
-    "claims_contradicted": [],
+    "claims_contradicted": [
+      "EVT-063",
+      "EVT-064"
+    ],
     "source_strength": "primary",
-    "corroboration_count": 10,
-    "contradiction_count": 0,
+    "corroboration_count": 228,
+    "contradiction_count": 2,
     "legal_weight": 0,
     "urgency_weight": 0,
     "duplication_score": 0,
     "human_rating": null,
-    "regulation_state": "unprocessed",
+    "regulation_state": "upregulated",
     "metadata": {
       "enriched": true,
-      "enrichment_timestamp": "2026-06-06T06:20:26.137815"
+      "enrichment_timestamp": "2026-06-06T06:20:26.137815",
+      "enrichment_needed": true,
+      "gap_acknowledged": "2026-06-12T08:03:01.554852"
     }
   },
   {
@@ -6561,18 +7390,23 @@
       "EVT-067",
       "EVENT_070"
     ],
-    "claims_contradicted": [],
+    "claims_contradicted": [
+      "EVT-063",
+      "EVT-064"
+    ],
     "source_strength": "primary",
-    "corroboration_count": 10,
-    "contradiction_count": 0,
+    "corroboration_count": 228,
+    "contradiction_count": 2,
     "legal_weight": 0,
     "urgency_weight": 0,
     "duplication_score": 0,
     "human_rating": null,
-    "regulation_state": "unprocessed",
+    "regulation_state": "upregulated",
     "metadata": {
       "enriched": true,
-      "enrichment_timestamp": "2026-06-06T06:20:26.138086"
+      "enrichment_timestamp": "2026-06-06T06:20:26.138086",
+      "enrichment_needed": true,
+      "gap_acknowledged": "2026-06-12T08:03:01.554854"
     }
   },
   {
@@ -6594,18 +7428,23 @@
       "EVT-067",
       "EVENT_070"
     ],
-    "claims_contradicted": [],
+    "claims_contradicted": [
+      "EVT-063",
+      "EVT-064"
+    ],
     "source_strength": "primary",
-    "corroboration_count": 10,
-    "contradiction_count": 0,
+    "corroboration_count": 228,
+    "contradiction_count": 2,
     "legal_weight": 0,
     "urgency_weight": 0,
     "duplication_score": 0,
     "human_rating": null,
-    "regulation_state": "unprocessed",
+    "regulation_state": "upregulated",
     "metadata": {
       "enriched": true,
-      "enrichment_timestamp": "2026-06-06T06:20:26.138378"
+      "enrichment_timestamp": "2026-06-06T06:20:26.138378",
+      "enrichment_needed": true,
+      "gap_acknowledged": "2026-06-12T08:03:01.554856"
     }
   },
   {
@@ -6627,18 +7466,23 @@
       "EVT-067",
       "EVENT_070"
     ],
-    "claims_contradicted": [],
+    "claims_contradicted": [
+      "EVT-063",
+      "EVT-064"
+    ],
     "source_strength": "primary",
-    "corroboration_count": 10,
-    "contradiction_count": 0,
+    "corroboration_count": 228,
+    "contradiction_count": 2,
     "legal_weight": 0,
     "urgency_weight": 0,
     "duplication_score": 0,
     "human_rating": null,
-    "regulation_state": "unprocessed",
+    "regulation_state": "upregulated",
     "metadata": {
       "enriched": true,
-      "enrichment_timestamp": "2026-06-06T06:20:26.138686"
+      "enrichment_timestamp": "2026-06-06T06:20:26.138686",
+      "enrichment_needed": true,
+      "gap_acknowledged": "2026-06-12T08:03:01.554857"
     }
   },
   {
@@ -6660,18 +7504,23 @@
       "EVT-067",
       "EVENT_070"
     ],
-    "claims_contradicted": [],
+    "claims_contradicted": [
+      "EVT-063",
+      "EVT-064"
+    ],
     "source_strength": "primary",
-    "corroboration_count": 10,
-    "contradiction_count": 0,
+    "corroboration_count": 228,
+    "contradiction_count": 2,
     "legal_weight": 0,
     "urgency_weight": 0,
     "duplication_score": 0,
     "human_rating": null,
-    "regulation_state": "unprocessed",
+    "regulation_state": "upregulated",
     "metadata": {
       "enriched": true,
-      "enrichment_timestamp": "2026-06-06T06:20:26.139007"
+      "enrichment_timestamp": "2026-06-06T06:20:26.139007",
+      "enrichment_needed": true,
+      "gap_acknowledged": "2026-06-12T08:03:01.554859"
     }
   },
   {
@@ -6727,18 +7576,23 @@
       "EVENT_019",
       "ABUSE_OF_PROCESS_ANALYSIS"
     ],
-    "claims_contradicted": [],
+    "claims_contradicted": [
+      "EVT-064",
+      "EVENT_011"
+    ],
     "source_strength": "primary",
-    "corroboration_count": 10,
-    "contradiction_count": 0,
+    "corroboration_count": 228,
+    "contradiction_count": 2,
     "legal_weight": 0,
     "urgency_weight": 0,
     "duplication_score": 0,
     "human_rating": null,
-    "regulation_state": "unprocessed",
+    "regulation_state": "upregulated",
     "metadata": {
       "enriched": true,
-      "enrichment_timestamp": "2026-06-06T06:20:26.139345"
+      "enrichment_timestamp": "2026-06-06T06:20:26.139345",
+      "strong_centre": true,
+      "centrality_rank": 7
     }
   },
   {
@@ -6785,18 +7639,23 @@
       "EVENT_019",
       "ABUSE_OF_PROCESS_ANALYSIS"
     ],
-    "claims_contradicted": [],
+    "claims_contradicted": [
+      "EVT-064",
+      "EVENT_123"
+    ],
     "source_strength": "primary",
-    "corroboration_count": 10,
-    "contradiction_count": 0,
+    "corroboration_count": 228,
+    "contradiction_count": 2,
     "legal_weight": 0,
     "urgency_weight": 0,
     "duplication_score": 0,
     "human_rating": null,
-    "regulation_state": "unprocessed",
+    "regulation_state": "upregulated",
     "metadata": {
       "enriched": true,
-      "enrichment_timestamp": "2026-06-06T06:20:26.139725"
+      "enrichment_timestamp": "2026-06-06T06:20:26.139725",
+      "enrichment_needed": true,
+      "gap_acknowledged": "2026-06-12T08:03:01.554860"
     }
   },
   {
@@ -6822,18 +7681,23 @@
       "EVT-063",
       "EVENT_070"
     ],
-    "claims_contradicted": [],
+    "claims_contradicted": [
+      "EVT-064",
+      "EVENT_123"
+    ],
     "source_strength": "primary",
-    "corroboration_count": 10,
-    "contradiction_count": 0,
+    "corroboration_count": 228,
+    "contradiction_count": 2,
     "legal_weight": 0,
     "urgency_weight": 0,
     "duplication_score": 0,
     "human_rating": null,
-    "regulation_state": "unprocessed",
+    "regulation_state": "upregulated",
     "metadata": {
       "enriched": true,
-      "enrichment_timestamp": "2026-06-06T06:20:26.140000"
+      "enrichment_timestamp": "2026-06-06T06:20:26.140000",
+      "enrichment_needed": true,
+      "gap_acknowledged": "2026-06-12T08:03:01.554862"
     }
   },
   {
@@ -6860,18 +7724,23 @@
       "EVT-063",
       "EVENT_070"
     ],
-    "claims_contradicted": [],
+    "claims_contradicted": [
+      "EVT-064",
+      "EVENT_123"
+    ],
     "source_strength": "primary",
-    "corroboration_count": 10,
-    "contradiction_count": 0,
+    "corroboration_count": 228,
+    "contradiction_count": 2,
     "legal_weight": 0,
     "urgency_weight": 0,
     "duplication_score": 0,
     "human_rating": null,
-    "regulation_state": "unprocessed",
+    "regulation_state": "upregulated",
     "metadata": {
       "enriched": true,
-      "enrichment_timestamp": "2026-06-06T06:20:26.140270"
+      "enrichment_timestamp": "2026-06-06T06:20:26.140270",
+      "enrichment_needed": true,
+      "gap_acknowledged": "2026-06-12T08:03:01.554863"
     }
   },
   {
@@ -6898,18 +7767,23 @@
       "EVT-063",
       "EVENT_070"
     ],
-    "claims_contradicted": [],
+    "claims_contradicted": [
+      "EVT-064",
+      "EVENT_123"
+    ],
     "source_strength": "primary",
-    "corroboration_count": 10,
-    "contradiction_count": 0,
+    "corroboration_count": 228,
+    "contradiction_count": 2,
     "legal_weight": 0,
     "urgency_weight": 0,
     "duplication_score": 0,
     "human_rating": null,
-    "regulation_state": "unprocessed",
+    "regulation_state": "upregulated",
     "metadata": {
       "enriched": true,
-      "enrichment_timestamp": "2026-06-06T06:20:26.140536"
+      "enrichment_timestamp": "2026-06-06T06:20:26.140536",
+      "enrichment_needed": true,
+      "gap_acknowledged": "2026-06-12T08:03:01.554865"
     }
   },
   {
@@ -6965,18 +7839,23 @@
       "EVENT_019",
       "ABUSE_OF_PROCESS_ANALYSIS"
     ],
-    "claims_contradicted": [],
+    "claims_contradicted": [
+      "EVT-064",
+      "EVENT_011"
+    ],
     "source_strength": "primary",
-    "corroboration_count": 10,
-    "contradiction_count": 0,
+    "corroboration_count": 228,
+    "contradiction_count": 2,
     "legal_weight": 0,
     "urgency_weight": 0,
     "duplication_score": 0,
     "human_rating": null,
-    "regulation_state": "unprocessed",
+    "regulation_state": "upregulated",
     "metadata": {
       "enriched": true,
-      "enrichment_timestamp": "2026-06-06T06:20:26.140902"
+      "enrichment_timestamp": "2026-06-06T06:20:26.140902",
+      "strong_centre": true,
+      "centrality_rank": 8
     }
   },
   {
@@ -7023,18 +7902,23 @@
       "EVENT_019",
       "ABUSE_OF_PROCESS_ANALYSIS"
     ],
-    "claims_contradicted": [],
+    "claims_contradicted": [
+      "EVT-064",
+      "EVENT_123"
+    ],
     "source_strength": "primary",
-    "corroboration_count": 10,
-    "contradiction_count": 0,
+    "corroboration_count": 228,
+    "contradiction_count": 2,
     "legal_weight": 0,
     "urgency_weight": 0,
     "duplication_score": 0,
     "human_rating": null,
-    "regulation_state": "unprocessed",
+    "regulation_state": "upregulated",
     "metadata": {
       "enriched": true,
-      "enrichment_timestamp": "2026-06-06T06:20:26.141228"
+      "enrichment_timestamp": "2026-06-06T06:20:26.141228",
+      "enrichment_needed": true,
+      "gap_acknowledged": "2026-06-12T08:03:01.554867"
     }
   },
   {
@@ -7082,18 +7966,23 @@
       "EVT-065",
       "EVENT_093"
     ],
-    "claims_contradicted": [],
+    "claims_contradicted": [
+      "EVT-064",
+      "EVENT_123"
+    ],
     "source_strength": "primary",
-    "corroboration_count": 10,
-    "contradiction_count": 0,
+    "corroboration_count": 228,
+    "contradiction_count": 2,
     "legal_weight": 0,
     "urgency_weight": 0,
     "duplication_score": 0,
     "human_rating": null,
-    "regulation_state": "unprocessed",
+    "regulation_state": "upregulated",
     "metadata": {
       "enriched": true,
-      "enrichment_timestamp": "2026-06-06T06:20:26.141553"
+      "enrichment_timestamp": "2026-06-06T06:20:26.141553",
+      "enrichment_needed": true,
+      "gap_acknowledged": "2026-06-12T08:03:01.554869"
     }
   },
   {
@@ -7120,18 +8009,23 @@
       "EVT-063",
       "EVENT_070"
     ],
-    "claims_contradicted": [],
+    "claims_contradicted": [
+      "EVT-064",
+      "EVENT_123"
+    ],
     "source_strength": "primary",
-    "corroboration_count": 10,
-    "contradiction_count": 0,
+    "corroboration_count": 228,
+    "contradiction_count": 2,
     "legal_weight": 0,
     "urgency_weight": 0,
     "duplication_score": 0,
     "human_rating": null,
-    "regulation_state": "unprocessed",
+    "regulation_state": "upregulated",
     "metadata": {
       "enriched": true,
-      "enrichment_timestamp": "2026-06-06T06:20:26.141844"
+      "enrichment_timestamp": "2026-06-06T06:20:26.141844",
+      "enrichment_needed": true,
+      "gap_acknowledged": "2026-06-12T08:03:01.554871"
     }
   },
   {
@@ -7158,18 +8052,23 @@
       "EVT-063",
       "EVENT_070"
     ],
-    "claims_contradicted": [],
+    "claims_contradicted": [
+      "EVT-064",
+      "EVENT_123"
+    ],
     "source_strength": "primary",
-    "corroboration_count": 10,
-    "contradiction_count": 0,
+    "corroboration_count": 228,
+    "contradiction_count": 2,
     "legal_weight": 0,
     "urgency_weight": 0,
     "duplication_score": 0,
     "human_rating": null,
-    "regulation_state": "unprocessed",
+    "regulation_state": "upregulated",
     "metadata": {
       "enriched": true,
-      "enrichment_timestamp": "2026-06-06T06:20:26.142114"
+      "enrichment_timestamp": "2026-06-06T06:20:26.142114",
+      "enrichment_needed": true,
+      "gap_acknowledged": "2026-06-12T08:03:01.554872"
     }
   },
   {
@@ -7196,18 +8095,23 @@
       "EVT-063",
       "EVENT_070"
     ],
-    "claims_contradicted": [],
+    "claims_contradicted": [
+      "EVT-064",
+      "EVENT_123"
+    ],
     "source_strength": "primary",
-    "corroboration_count": 10,
-    "contradiction_count": 0,
+    "corroboration_count": 228,
+    "contradiction_count": 2,
     "legal_weight": 0,
     "urgency_weight": 0,
     "duplication_score": 0,
     "human_rating": null,
-    "regulation_state": "unprocessed",
+    "regulation_state": "upregulated",
     "metadata": {
       "enriched": true,
-      "enrichment_timestamp": "2026-06-06T06:20:26.142383"
+      "enrichment_timestamp": "2026-06-06T06:20:26.142383",
+      "enrichment_needed": true,
+      "gap_acknowledged": "2026-06-12T08:03:01.554874"
     }
   },
   {
@@ -7234,18 +8138,23 @@
       "EVT-063",
       "EVENT_070"
     ],
-    "claims_contradicted": [],
+    "claims_contradicted": [
+      "EVT-064",
+      "EVENT_123"
+    ],
     "source_strength": "primary",
-    "corroboration_count": 10,
-    "contradiction_count": 0,
+    "corroboration_count": 228,
+    "contradiction_count": 2,
     "legal_weight": 0,
     "urgency_weight": 0,
     "duplication_score": 0,
     "human_rating": null,
-    "regulation_state": "unprocessed",
+    "regulation_state": "upregulated",
     "metadata": {
       "enriched": true,
-      "enrichment_timestamp": "2026-06-06T06:20:26.142651"
+      "enrichment_timestamp": "2026-06-06T06:20:26.142651",
+      "enrichment_needed": true,
+      "gap_acknowledged": "2026-06-12T08:03:01.554876"
     }
   },
   {
@@ -7272,18 +8181,23 @@
       "EVT-063",
       "EVENT_070"
     ],
-    "claims_contradicted": [],
+    "claims_contradicted": [
+      "EVT-064",
+      "EVENT_123"
+    ],
     "source_strength": "primary",
-    "corroboration_count": 10,
-    "contradiction_count": 0,
+    "corroboration_count": 228,
+    "contradiction_count": 2,
     "legal_weight": 0,
     "urgency_weight": 0,
     "duplication_score": 0,
     "human_rating": null,
-    "regulation_state": "unprocessed",
+    "regulation_state": "upregulated",
     "metadata": {
       "enriched": true,
-      "enrichment_timestamp": "2026-06-06T06:20:26.142929"
+      "enrichment_timestamp": "2026-06-06T06:20:26.142929",
+      "enrichment_needed": true,
+      "gap_acknowledged": "2026-06-12T08:03:01.554877"
     }
   },
   {
@@ -7336,18 +8250,25 @@
       "EVT-070",
       "EVENT_104"
     ],
-    "claims_contradicted": [],
+    "claims_contradicted": [
+      "EVT-064",
+      "EVENT_123"
+    ],
     "source_strength": "primary",
-    "corroboration_count": 10,
-    "contradiction_count": 0,
+    "corroboration_count": 228,
+    "contradiction_count": 2,
     "legal_weight": 0,
     "urgency_weight": 0,
     "duplication_score": 0,
     "human_rating": null,
-    "regulation_state": "unprocessed",
+    "regulation_state": "upregulated",
     "metadata": {
       "enriched": true,
-      "enrichment_timestamp": "2026-06-06T06:20:26.143206"
+      "enrichment_timestamp": "2026-06-06T06:20:26.143206",
+      "enrichment_needed": true,
+      "gap_acknowledged": "2026-06-12T08:03:01.554879",
+      "strong_centre": true,
+      "centrality_rank": 12
     }
   },
   {
@@ -7385,18 +8306,23 @@
       "EVT-070",
       "EVT-064"
     ],
-    "claims_contradicted": [],
+    "claims_contradicted": [
+      "EVENT_123",
+      "EVENT_011"
+    ],
     "source_strength": "primary",
-    "corroboration_count": 10,
-    "contradiction_count": 0,
+    "corroboration_count": 228,
+    "contradiction_count": 2,
     "legal_weight": 0,
     "urgency_weight": 0,
     "duplication_score": 0,
     "human_rating": null,
-    "regulation_state": "unprocessed",
+    "regulation_state": "upregulated",
     "metadata": {
       "enriched": true,
-      "enrichment_timestamp": "2026-06-06T06:20:26.143472"
+      "enrichment_timestamp": "2026-06-06T06:20:26.143472",
+      "enrichment_needed": true,
+      "gap_acknowledged": "2026-06-12T08:03:01.554881"
     }
   },
   {
@@ -7446,18 +8372,25 @@
       "EVT-070",
       "EVT-064"
     ],
-    "claims_contradicted": [],
+    "claims_contradicted": [
+      "EVENT_123",
+      "EVENT_005"
+    ],
     "source_strength": "primary",
-    "corroboration_count": 10,
-    "contradiction_count": 0,
+    "corroboration_count": 228,
+    "contradiction_count": 2,
     "legal_weight": 0,
     "urgency_weight": 0,
     "duplication_score": 0,
     "human_rating": null,
-    "regulation_state": "unprocessed",
+    "regulation_state": "upregulated",
     "metadata": {
       "enriched": true,
-      "enrichment_timestamp": "2026-06-06T06:20:26.143798"
+      "enrichment_timestamp": "2026-06-06T06:20:26.143798",
+      "enrichment_needed": true,
+      "gap_acknowledged": "2026-06-12T08:03:01.554882",
+      "strong_centre": true,
+      "centrality_rank": 15
     }
   },
   {
@@ -7507,18 +8440,25 @@
       "EVT-070",
       "EVT-064"
     ],
-    "claims_contradicted": [],
+    "claims_contradicted": [
+      "EVENT_123",
+      "EVENT_005"
+    ],
     "source_strength": "primary",
-    "corroboration_count": 10,
-    "contradiction_count": 0,
+    "corroboration_count": 228,
+    "contradiction_count": 2,
     "legal_weight": 0,
     "urgency_weight": 0,
     "duplication_score": 0,
     "human_rating": null,
-    "regulation_state": "unprocessed",
+    "regulation_state": "upregulated",
     "metadata": {
       "enriched": true,
-      "enrichment_timestamp": "2026-06-06T06:20:26.144117"
+      "enrichment_timestamp": "2026-06-06T06:20:26.144117",
+      "enrichment_needed": true,
+      "gap_acknowledged": "2026-06-12T08:03:01.554884",
+      "strong_centre": true,
+      "centrality_rank": 16
     }
   },
   {
@@ -7568,18 +8508,25 @@
       "EVT-070",
       "EVT-064"
     ],
-    "claims_contradicted": [],
+    "claims_contradicted": [
+      "EVENT_123",
+      "EVENT_005"
+    ],
     "source_strength": "primary",
-    "corroboration_count": 10,
-    "contradiction_count": 0,
+    "corroboration_count": 228,
+    "contradiction_count": 2,
     "legal_weight": 0,
     "urgency_weight": 0,
     "duplication_score": 0,
     "human_rating": null,
-    "regulation_state": "unprocessed",
+    "regulation_state": "upregulated",
     "metadata": {
       "enriched": true,
-      "enrichment_timestamp": "2026-06-06T06:20:26.144428"
+      "enrichment_timestamp": "2026-06-06T06:20:26.144428",
+      "enrichment_needed": true,
+      "gap_acknowledged": "2026-06-12T08:03:01.554885",
+      "strong_centre": true,
+      "centrality_rank": 17
     }
   },
   {
@@ -7629,18 +8576,25 @@
       "EVT-070",
       "EVT-064"
     ],
-    "claims_contradicted": [],
+    "claims_contradicted": [
+      "EVENT_123",
+      "EVENT_005"
+    ],
     "source_strength": "primary",
-    "corroboration_count": 10,
-    "contradiction_count": 0,
+    "corroboration_count": 228,
+    "contradiction_count": 2,
     "legal_weight": 0,
     "urgency_weight": 0,
     "duplication_score": 0,
     "human_rating": null,
-    "regulation_state": "unprocessed",
+    "regulation_state": "upregulated",
     "metadata": {
       "enriched": true,
-      "enrichment_timestamp": "2026-06-06T06:20:26.144755"
+      "enrichment_timestamp": "2026-06-06T06:20:26.144755",
+      "enrichment_needed": true,
+      "gap_acknowledged": "2026-06-12T08:03:01.554887",
+      "strong_centre": true,
+      "centrality_rank": 18
     }
   },
   {
@@ -7687,18 +8641,23 @@
       "EVT-070",
       "EVENT_093"
     ],
-    "claims_contradicted": [],
+    "claims_contradicted": [
+      "EVT-064",
+      "EVENT_123"
+    ],
     "source_strength": "primary",
-    "corroboration_count": 10,
-    "contradiction_count": 0,
+    "corroboration_count": 228,
+    "contradiction_count": 2,
     "legal_weight": 0,
     "urgency_weight": 0,
     "duplication_score": 0,
     "human_rating": null,
-    "regulation_state": "unprocessed",
+    "regulation_state": "upregulated",
     "metadata": {
       "enriched": true,
-      "enrichment_timestamp": "2026-06-06T06:20:26.145014"
+      "enrichment_timestamp": "2026-06-06T06:20:26.145014",
+      "enrichment_needed": true,
+      "gap_acknowledged": "2026-06-12T08:03:01.554888"
     }
   },
   {
@@ -7767,18 +8726,25 @@
       "EVT-070",
       "EVENT_104"
     ],
-    "claims_contradicted": [],
+    "claims_contradicted": [
+      "EVT-064",
+      "EVENT_011"
+    ],
     "source_strength": "primary",
-    "corroboration_count": 10,
-    "contradiction_count": 0,
+    "corroboration_count": 228,
+    "contradiction_count": 2,
     "legal_weight": 0,
     "urgency_weight": 0,
     "duplication_score": 0,
     "human_rating": null,
-    "regulation_state": "unprocessed",
+    "regulation_state": "upregulated",
     "metadata": {
       "enriched": true,
-      "enrichment_timestamp": "2026-06-06T06:20:26.145287"
+      "enrichment_timestamp": "2026-06-06T06:20:26.145287",
+      "enrichment_needed": true,
+      "gap_acknowledged": "2026-06-12T08:03:01.554890",
+      "strong_centre": true,
+      "centrality_rank": 1
     }
   },
   {
@@ -7830,18 +8796,25 @@
       "EVT-070",
       "EVENT_093"
     ],
-    "claims_contradicted": [],
+    "claims_contradicted": [
+      "EVT-064",
+      "EVENT_123"
+    ],
     "source_strength": "primary",
-    "corroboration_count": 10,
-    "contradiction_count": 0,
+    "corroboration_count": 228,
+    "contradiction_count": 2,
     "legal_weight": 0,
     "urgency_weight": 0,
     "duplication_score": 0,
     "human_rating": null,
-    "regulation_state": "unprocessed",
+    "regulation_state": "upregulated",
     "metadata": {
       "enriched": true,
-      "enrichment_timestamp": "2026-06-06T06:20:26.145558"
+      "enrichment_timestamp": "2026-06-06T06:20:26.145558",
+      "enrichment_needed": true,
+      "gap_acknowledged": "2026-06-12T08:03:01.554891",
+      "strong_centre": true,
+      "centrality_rank": 14
     }
   },
   {
@@ -7895,18 +8868,25 @@
       "EVENT_013",
       "EVENT_104"
     ],
-    "claims_contradicted": [],
+    "claims_contradicted": [
+      "EVENT_123",
+      "EVENT_005"
+    ],
     "source_strength": "primary",
-    "corroboration_count": 10,
-    "contradiction_count": 0,
+    "corroboration_count": 228,
+    "contradiction_count": 2,
     "legal_weight": 0,
     "urgency_weight": 0,
     "duplication_score": 0,
     "human_rating": null,
-    "regulation_state": "unprocessed",
+    "regulation_state": "upregulated",
     "metadata": {
       "enriched": true,
-      "enrichment_timestamp": "2026-06-06T06:20:26.145840"
+      "enrichment_timestamp": "2026-06-06T06:20:26.145840",
+      "enrichment_needed": true,
+      "gap_acknowledged": "2026-06-12T08:03:01.554893",
+      "strong_centre": true,
+      "centrality_rank": 10
     }
   },
   {
@@ -7960,18 +8940,25 @@
       "EVENT_013",
       "EVENT_104"
     ],
-    "claims_contradicted": [],
+    "claims_contradicted": [
+      "EVENT_123",
+      "EVENT_005"
+    ],
     "source_strength": "primary",
-    "corroboration_count": 10,
-    "contradiction_count": 0,
+    "corroboration_count": 228,
+    "contradiction_count": 2,
     "legal_weight": 0,
     "urgency_weight": 0,
     "duplication_score": 0,
     "human_rating": null,
-    "regulation_state": "unprocessed",
+    "regulation_state": "upregulated",
     "metadata": {
       "enriched": true,
-      "enrichment_timestamp": "2026-06-06T06:20:26.146115"
+      "enrichment_timestamp": "2026-06-06T06:20:26.146115",
+      "enrichment_needed": true,
+      "gap_acknowledged": "2026-06-12T08:03:01.554895",
+      "strong_centre": true,
+      "centrality_rank": 11
     }
   },
   {
@@ -8014,18 +9001,23 @@
       "EVT-070",
       "EVT-064"
     ],
-    "claims_contradicted": [],
+    "claims_contradicted": [
+      "EVENT_123",
+      "EVENT_005"
+    ],
     "source_strength": "primary",
-    "corroboration_count": 10,
-    "contradiction_count": 0,
+    "corroboration_count": 228,
+    "contradiction_count": 2,
     "legal_weight": 0,
     "urgency_weight": 0,
     "duplication_score": 0,
     "human_rating": null,
-    "regulation_state": "unprocessed",
+    "regulation_state": "upregulated",
     "metadata": {
       "enriched": true,
-      "enrichment_timestamp": "2026-06-06T06:20:26.146360"
+      "enrichment_timestamp": "2026-06-06T06:20:26.146360",
+      "enrichment_needed": true,
+      "gap_acknowledged": "2026-06-12T08:03:01.554896"
     }
   },
   {
@@ -8068,18 +9060,23 @@
       "EVT-070",
       "EVT-064"
     ],
-    "claims_contradicted": [],
+    "claims_contradicted": [
+      "EVENT_123",
+      "EVENT_005"
+    ],
     "source_strength": "primary",
-    "corroboration_count": 10,
-    "contradiction_count": 0,
+    "corroboration_count": 228,
+    "contradiction_count": 2,
     "legal_weight": 0,
     "urgency_weight": 0,
     "duplication_score": 0,
     "human_rating": null,
-    "regulation_state": "unprocessed",
+    "regulation_state": "upregulated",
     "metadata": {
       "enriched": true,
-      "enrichment_timestamp": "2026-06-06T06:20:26.146629"
+      "enrichment_timestamp": "2026-06-06T06:20:26.146629",
+      "enrichment_needed": true,
+      "gap_acknowledged": "2026-06-12T08:03:01.554898"
     }
   },
   {
@@ -8140,18 +9137,25 @@
       "EVENT_019",
       "EVT-070"
     ],
-    "claims_contradicted": [],
+    "claims_contradicted": [
+      "EVT-064",
+      "EVENT_011"
+    ],
     "source_strength": "primary",
-    "corroboration_count": 10,
-    "contradiction_count": 0,
+    "corroboration_count": 228,
+    "contradiction_count": 2,
     "legal_weight": 0,
     "urgency_weight": 0,
     "duplication_score": 0,
     "human_rating": null,
-    "regulation_state": "unprocessed",
+    "regulation_state": "upregulated",
     "metadata": {
       "enriched": true,
-      "enrichment_timestamp": "2026-06-06T06:20:26.146918"
+      "enrichment_timestamp": "2026-06-06T06:20:26.146918",
+      "enrichment_needed": true,
+      "gap_acknowledged": "2026-06-12T08:03:01.554899",
+      "strong_centre": true,
+      "centrality_rank": 4
     }
   },
   {
@@ -8212,18 +9216,25 @@
       "EVENT_019",
       "EVT-070"
     ],
-    "claims_contradicted": [],
+    "claims_contradicted": [
+      "EVT-064",
+      "EVENT_011"
+    ],
     "source_strength": "primary",
-    "corroboration_count": 10,
-    "contradiction_count": 0,
+    "corroboration_count": 228,
+    "contradiction_count": 2,
     "legal_weight": 0,
     "urgency_weight": 0,
     "duplication_score": 0,
     "human_rating": null,
-    "regulation_state": "unprocessed",
+    "regulation_state": "upregulated",
     "metadata": {
       "enriched": true,
-      "enrichment_timestamp": "2026-06-06T06:20:26.147178"
+      "enrichment_timestamp": "2026-06-06T06:20:26.147178",
+      "enrichment_needed": true,
+      "gap_acknowledged": "2026-06-12T08:03:01.554901",
+      "strong_centre": true,
+      "centrality_rank": 5
     }
   },
   {
@@ -8288,18 +9299,25 @@
       "EVENT_D001",
       "EVT-070"
     ],
-    "claims_contradicted": [],
+    "claims_contradicted": [
+      "EVT-064",
+      "EVENT_011"
+    ],
     "source_strength": "primary",
-    "corroboration_count": 10,
-    "contradiction_count": 0,
+    "corroboration_count": 228,
+    "contradiction_count": 2,
     "legal_weight": 0,
     "urgency_weight": 0,
     "duplication_score": 0,
     "human_rating": null,
-    "regulation_state": "unprocessed",
+    "regulation_state": "upregulated",
     "metadata": {
       "enriched": true,
-      "enrichment_timestamp": "2026-06-06T06:20:26.147437"
+      "enrichment_timestamp": "2026-06-06T06:20:26.147437",
+      "enrichment_needed": true,
+      "gap_acknowledged": "2026-06-12T08:03:01.554902",
+      "strong_centre": true,
+      "centrality_rank": 2
     }
   },
   {
@@ -8364,18 +9382,25 @@
       "EVENT_D001",
       "EVT-070"
     ],
-    "claims_contradicted": [],
+    "claims_contradicted": [
+      "EVT-064",
+      "EVENT_011"
+    ],
     "source_strength": "primary",
-    "corroboration_count": 10,
-    "contradiction_count": 0,
+    "corroboration_count": 228,
+    "contradiction_count": 2,
     "legal_weight": 0,
     "urgency_weight": 0,
     "duplication_score": 0,
     "human_rating": null,
-    "regulation_state": "unprocessed",
+    "regulation_state": "upregulated",
     "metadata": {
       "enriched": true,
-      "enrichment_timestamp": "2026-06-06T06:20:26.147696"
+      "enrichment_timestamp": "2026-06-06T06:20:26.147696",
+      "enrichment_needed": true,
+      "gap_acknowledged": "2026-06-12T08:03:01.554904",
+      "strong_centre": true,
+      "centrality_rank": 3
     }
   },
   {
@@ -8431,18 +9456,25 @@
       "EVENT_D001",
       "EVT-070"
     ],
-    "claims_contradicted": [],
+    "claims_contradicted": [
+      "EVT-063",
+      "EVT-064"
+    ],
     "source_strength": "primary",
-    "corroboration_count": 10,
-    "contradiction_count": 0,
+    "corroboration_count": 228,
+    "contradiction_count": 2,
     "legal_weight": 0,
     "urgency_weight": 0,
     "duplication_score": 0,
     "human_rating": null,
-    "regulation_state": "unprocessed",
+    "regulation_state": "upregulated",
     "metadata": {
       "enriched": true,
-      "enrichment_timestamp": "2026-06-06T06:20:26.148004"
+      "enrichment_timestamp": "2026-06-06T06:20:26.148004",
+      "enrichment_needed": true,
+      "gap_acknowledged": "2026-06-12T08:03:01.554905",
+      "strong_centre": true,
+      "centrality_rank": 9
     }
   },
   {
@@ -8495,18 +9527,25 @@
       "EVENT_H003",
       "EVT-070"
     ],
-    "claims_contradicted": [],
+    "claims_contradicted": [
+      "EVT-063",
+      "EVT-064"
+    ],
     "source_strength": "primary",
-    "corroboration_count": 10,
-    "contradiction_count": 0,
+    "corroboration_count": 228,
+    "contradiction_count": 2,
     "legal_weight": 0,
     "urgency_weight": 0,
     "duplication_score": 0,
     "human_rating": null,
-    "regulation_state": "unprocessed",
+    "regulation_state": "upregulated",
     "metadata": {
       "enriched": true,
-      "enrichment_timestamp": "2026-06-06T06:20:26.148319"
+      "enrichment_timestamp": "2026-06-06T06:20:26.148319",
+      "enrichment_needed": true,
+      "gap_acknowledged": "2026-06-12T08:03:01.554907",
+      "strong_centre": true,
+      "centrality_rank": 13
     }
   },
   {
@@ -8555,18 +9594,23 @@
       "EVENT_019",
       "EVENT_H003"
     ],
-    "claims_contradicted": [],
+    "claims_contradicted": [
+      "EVT-063",
+      "EVT-064"
+    ],
     "source_strength": "primary",
-    "corroboration_count": 10,
-    "contradiction_count": 0,
+    "corroboration_count": 228,
+    "contradiction_count": 2,
     "legal_weight": 0,
     "urgency_weight": 0,
     "duplication_score": 0,
     "human_rating": null,
-    "regulation_state": "unprocessed",
+    "regulation_state": "upregulated",
     "metadata": {
       "enriched": true,
-      "enrichment_timestamp": "2026-06-06T06:20:26.148598"
+      "enrichment_timestamp": "2026-06-06T06:20:26.148598",
+      "enrichment_needed": true,
+      "gap_acknowledged": "2026-06-12T08:03:01.554909"
     }
   },
   {
@@ -8599,18 +9643,23 @@
       "EVENT_057",
       "EVENT_070"
     ],
-    "claims_contradicted": [],
+    "claims_contradicted": [
+      "EVT-063",
+      "EVENT_123"
+    ],
     "source_strength": "primary",
-    "corroboration_count": 10,
-    "contradiction_count": 0,
+    "corroboration_count": 228,
+    "contradiction_count": 2,
     "legal_weight": 0,
     "urgency_weight": 0,
     "duplication_score": 0,
     "human_rating": null,
-    "regulation_state": "unprocessed",
+    "regulation_state": "upregulated",
     "metadata": {
       "enriched": true,
-      "enrichment_timestamp": "2026-06-06T06:20:26.148885"
+      "enrichment_timestamp": "2026-06-06T06:20:26.148885",
+      "enrichment_needed": true,
+      "gap_acknowledged": "2026-06-12T08:03:01.554910"
     }
   },
   {
@@ -8643,18 +9692,23 @@
       "EVENT_057",
       "EVENT_070"
     ],
-    "claims_contradicted": [],
+    "claims_contradicted": [
+      "EVT-063",
+      "EVENT_123"
+    ],
     "source_strength": "primary",
-    "corroboration_count": 10,
-    "contradiction_count": 0,
+    "corroboration_count": 228,
+    "contradiction_count": 2,
     "legal_weight": 0,
     "urgency_weight": 0,
     "duplication_score": 0,
     "human_rating": null,
-    "regulation_state": "unprocessed",
+    "regulation_state": "upregulated",
     "metadata": {
       "enriched": true,
-      "enrichment_timestamp": "2026-06-06T06:20:26.149170"
+      "enrichment_timestamp": "2026-06-06T06:20:26.149170",
+      "enrichment_needed": true,
+      "gap_acknowledged": "2026-06-12T08:03:01.554912"
     }
   },
   {
@@ -8694,18 +9748,23 @@
       "EVENT_107",
       "EVENT_019"
     ],
-    "claims_contradicted": [],
+    "claims_contradicted": [
+      "EVT-063",
+      "EVT-064"
+    ],
     "source_strength": "primary",
-    "corroboration_count": 10,
-    "contradiction_count": 0,
+    "corroboration_count": 228,
+    "contradiction_count": 2,
     "legal_weight": 0,
     "urgency_weight": 0,
     "duplication_score": 0,
     "human_rating": null,
-    "regulation_state": "unprocessed",
+    "regulation_state": "upregulated",
     "metadata": {
       "enriched": true,
-      "enrichment_timestamp": "2026-06-06T06:20:26.149439"
+      "enrichment_timestamp": "2026-06-06T06:20:26.149439",
+      "enrichment_needed": true,
+      "gap_acknowledged": "2026-06-12T08:03:01.554913"
     }
   },
   {
@@ -8745,15 +9804,18 @@
       "EVENT_107",
       "EVENT_019"
     ],
-    "claims_contradicted": [],
+    "claims_contradicted": [
+      "EVT-063",
+      "EVT-064"
+    ],
     "source_strength": "primary",
-    "corroboration_count": 10,
-    "contradiction_count": 0,
+    "corroboration_count": 228,
+    "contradiction_count": 2,
     "legal_weight": 0,
     "urgency_weight": 0,
     "duplication_score": 0,
     "human_rating": null,
-    "regulation_state": "unprocessed",
+    "regulation_state": "upregulated",
     "metadata": {
       "enriched": true,
       "enrichment_timestamp": "2026-06-06T06:20:26.149750"
@@ -8796,18 +9858,23 @@
       "EVENT_107",
       "EVENT_019"
     ],
-    "claims_contradicted": [],
+    "claims_contradicted": [
+      "EVT-063",
+      "EVT-064"
+    ],
     "source_strength": "primary",
-    "corroboration_count": 10,
-    "contradiction_count": 0,
+    "corroboration_count": 228,
+    "contradiction_count": 2,
     "legal_weight": 0,
     "urgency_weight": 0,
     "duplication_score": 0,
     "human_rating": null,
-    "regulation_state": "unprocessed",
+    "regulation_state": "upregulated",
     "metadata": {
       "enriched": true,
-      "enrichment_timestamp": "2026-06-06T06:20:26.150040"
+      "enrichment_timestamp": "2026-06-06T06:20:26.150040",
+      "enrichment_needed": true,
+      "gap_acknowledged": "2026-06-12T08:03:01.554915"
     }
   },
   {
@@ -8851,18 +9918,23 @@
       "EVENT_114",
       "EVT-064"
     ],
-    "claims_contradicted": [],
+    "claims_contradicted": [
+      "EVT-063",
+      "EVENT_123"
+    ],
     "source_strength": "primary",
-    "corroboration_count": 10,
-    "contradiction_count": 0,
+    "corroboration_count": 228,
+    "contradiction_count": 2,
     "legal_weight": 0,
     "urgency_weight": 0,
     "duplication_score": 0,
     "human_rating": null,
-    "regulation_state": "unprocessed",
+    "regulation_state": "upregulated",
     "metadata": {
       "enriched": true,
-      "enrichment_timestamp": "2026-06-06T06:20:26.150403"
+      "enrichment_timestamp": "2026-06-06T06:20:26.150403",
+      "enrichment_needed": true,
+      "gap_acknowledged": "2026-06-12T08:03:01.554916"
     }
   },
   {
@@ -8908,16 +9980,18 @@
     ],
     "claims_contradicted": [],
     "source_strength": "primary",
-    "corroboration_count": 10,
+    "corroboration_count": 228,
     "contradiction_count": 0,
     "legal_weight": 0,
     "urgency_weight": 0,
     "duplication_score": 0,
     "human_rating": null,
-    "regulation_state": "unprocessed",
+    "regulation_state": "upregulated",
     "metadata": {
       "enriched": true,
-      "enrichment_timestamp": "2026-06-06T06:20:26.150812"
+      "enrichment_timestamp": "2026-06-06T06:20:26.150812",
+      "enrichment_needed": true,
+      "gap_acknowledged": "2026-06-12T08:03:01.554918"
     }
   },
   {
@@ -8958,16 +10032,18 @@
     ],
     "claims_contradicted": [],
     "source_strength": "primary",
-    "corroboration_count": 10,
+    "corroboration_count": 228,
     "contradiction_count": 0,
     "legal_weight": 0,
     "urgency_weight": 0,
     "duplication_score": 0,
     "human_rating": null,
-    "regulation_state": "unprocessed",
+    "regulation_state": "upregulated",
     "metadata": {
       "enriched": true,
-      "enrichment_timestamp": "2026-06-06T06:20:26.151115"
+      "enrichment_timestamp": "2026-06-06T06:20:26.151115",
+      "enrichment_needed": true,
+      "gap_acknowledged": "2026-06-12T08:03:01.554920"
     }
   },
   {
@@ -9008,16 +10084,18 @@
     ],
     "claims_contradicted": [],
     "source_strength": "primary",
-    "corroboration_count": 10,
+    "corroboration_count": 228,
     "contradiction_count": 0,
     "legal_weight": 0,
     "urgency_weight": 0,
     "duplication_score": 0,
     "human_rating": null,
-    "regulation_state": "unprocessed",
+    "regulation_state": "upregulated",
     "metadata": {
       "enriched": true,
-      "enrichment_timestamp": "2026-06-06T06:20:26.151414"
+      "enrichment_timestamp": "2026-06-06T06:20:26.151414",
+      "enrichment_needed": true,
+      "gap_acknowledged": "2026-06-12T08:03:01.554921"
     }
   },
   {
@@ -9062,16 +10140,18 @@
     ],
     "claims_contradicted": [],
     "source_strength": "primary",
-    "corroboration_count": 10,
+    "corroboration_count": 228,
     "contradiction_count": 0,
     "legal_weight": 0,
     "urgency_weight": 0,
     "duplication_score": 0,
     "human_rating": null,
-    "regulation_state": "unprocessed",
+    "regulation_state": "upregulated",
     "metadata": {
       "enriched": true,
-      "enrichment_timestamp": "2026-06-06T06:20:26.151742"
+      "enrichment_timestamp": "2026-06-06T06:20:26.151742",
+      "enrichment_needed": true,
+      "gap_acknowledged": "2026-06-12T08:03:01.554923"
     }
   },
   {
@@ -9116,16 +10196,18 @@
     ],
     "claims_contradicted": [],
     "source_strength": "primary",
-    "corroboration_count": 10,
+    "corroboration_count": 228,
     "contradiction_count": 0,
     "legal_weight": 0,
     "urgency_weight": 0,
     "duplication_score": 0,
     "human_rating": null,
-    "regulation_state": "unprocessed",
+    "regulation_state": "upregulated",
     "metadata": {
       "enriched": true,
-      "enrichment_timestamp": "2026-06-06T06:20:26.152040"
+      "enrichment_timestamp": "2026-06-06T06:20:26.152040",
+      "enrichment_needed": true,
+      "gap_acknowledged": "2026-06-12T08:03:01.554924"
     }
   },
   {
@@ -9171,16 +10253,18 @@
     ],
     "claims_contradicted": [],
     "source_strength": "primary",
-    "corroboration_count": 10,
+    "corroboration_count": 228,
     "contradiction_count": 0,
     "legal_weight": 0,
     "urgency_weight": 0,
     "duplication_score": 0,
     "human_rating": null,
-    "regulation_state": "unprocessed",
+    "regulation_state": "upregulated",
     "metadata": {
       "enriched": true,
-      "enrichment_timestamp": "2026-06-06T06:20:26.152329"
+      "enrichment_timestamp": "2026-06-06T06:20:26.152329",
+      "enrichment_needed": true,
+      "gap_acknowledged": "2026-06-12T08:03:01.554926"
     }
   },
   {
@@ -9226,16 +10310,18 @@
     ],
     "claims_contradicted": [],
     "source_strength": "primary",
-    "corroboration_count": 10,
+    "corroboration_count": 228,
     "contradiction_count": 0,
     "legal_weight": 0,
     "urgency_weight": 0,
     "duplication_score": 0,
     "human_rating": null,
-    "regulation_state": "unprocessed",
+    "regulation_state": "upregulated",
     "metadata": {
       "enriched": true,
-      "enrichment_timestamp": "2026-06-06T06:20:26.152620"
+      "enrichment_timestamp": "2026-06-06T06:20:26.152620",
+      "enrichment_needed": true,
+      "gap_acknowledged": "2026-06-12T08:03:01.554927"
     }
   },
   {
@@ -9270,16 +10356,18 @@
     ],
     "claims_contradicted": [],
     "source_strength": "primary",
-    "corroboration_count": 10,
+    "corroboration_count": 228,
     "contradiction_count": 0,
     "legal_weight": 0,
     "urgency_weight": 0,
     "duplication_score": 0,
     "human_rating": null,
-    "regulation_state": "unprocessed",
+    "regulation_state": "upregulated",
     "metadata": {
       "enriched": true,
-      "enrichment_timestamp": "2026-06-06T06:20:26.152914"
+      "enrichment_timestamp": "2026-06-06T06:20:26.152914",
+      "enrichment_needed": true,
+      "gap_acknowledged": "2026-06-12T08:03:01.554929"
     }
   },
   {
@@ -9306,16 +10394,18 @@
     ],
     "claims_contradicted": [],
     "source_strength": "primary",
-    "corroboration_count": 10,
+    "corroboration_count": 228,
     "contradiction_count": 0,
     "legal_weight": 0,
     "urgency_weight": 0,
     "duplication_score": 0,
     "human_rating": null,
-    "regulation_state": "unprocessed",
+    "regulation_state": "upregulated",
     "metadata": {
       "enriched": true,
-      "enrichment_timestamp": "2026-06-06T06:20:26.153194"
+      "enrichment_timestamp": "2026-06-06T06:20:26.153194",
+      "enrichment_needed": true,
+      "gap_acknowledged": "2026-06-12T08:03:01.554930"
     }
   },
   {
@@ -9341,16 +10431,18 @@
     ],
     "claims_contradicted": [],
     "source_strength": "primary",
-    "corroboration_count": 10,
+    "corroboration_count": 228,
     "contradiction_count": 0,
     "legal_weight": 0,
     "urgency_weight": 0,
     "duplication_score": 0,
     "human_rating": null,
-    "regulation_state": "unprocessed",
+    "regulation_state": "upregulated",
     "metadata": {
       "enriched": true,
-      "enrichment_timestamp": "2026-06-06T06:20:26.153462"
+      "enrichment_timestamp": "2026-06-06T06:20:26.153462",
+      "enrichment_needed": true,
+      "gap_acknowledged": "2026-06-12T08:03:01.554932"
     }
   },
   {
@@ -9375,16 +10467,18 @@
     ],
     "claims_contradicted": [],
     "source_strength": "primary",
-    "corroboration_count": 10,
+    "corroboration_count": 228,
     "contradiction_count": 0,
     "legal_weight": 0,
     "urgency_weight": 0,
     "duplication_score": 0,
     "human_rating": null,
-    "regulation_state": "unprocessed",
+    "regulation_state": "upregulated",
     "metadata": {
       "enriched": true,
-      "enrichment_timestamp": "2026-06-06T06:20:26.153754"
+      "enrichment_timestamp": "2026-06-06T06:20:26.153754",
+      "enrichment_needed": true,
+      "gap_acknowledged": "2026-06-12T08:03:01.554933"
     }
   },
   {
@@ -9411,16 +10505,18 @@
     ],
     "claims_contradicted": [],
     "source_strength": "primary",
-    "corroboration_count": 10,
+    "corroboration_count": 228,
     "contradiction_count": 0,
     "legal_weight": 0,
     "urgency_weight": 0,
     "duplication_score": 0,
     "human_rating": null,
-    "regulation_state": "unprocessed",
+    "regulation_state": "upregulated",
     "metadata": {
       "enriched": true,
-      "enrichment_timestamp": "2026-06-06T06:20:26.154018"
+      "enrichment_timestamp": "2026-06-06T06:20:26.154018",
+      "enrichment_needed": true,
+      "gap_acknowledged": "2026-06-12T08:03:01.554935"
     }
   },
   {
@@ -9460,16 +10556,18 @@
     ],
     "claims_contradicted": [],
     "source_strength": "primary",
-    "corroboration_count": 10,
+    "corroboration_count": 228,
     "contradiction_count": 0,
     "legal_weight": 0,
     "urgency_weight": 0,
     "duplication_score": 0,
     "human_rating": null,
-    "regulation_state": "unprocessed",
+    "regulation_state": "upregulated",
     "metadata": {
       "enriched": true,
-      "enrichment_timestamp": "2026-06-06T06:20:26.154300"
+      "enrichment_timestamp": "2026-06-06T06:20:26.154300",
+      "enrichment_needed": true,
+      "gap_acknowledged": "2026-06-12T08:03:01.554936"
     }
   },
   {
@@ -9498,16 +10596,18 @@
     ],
     "claims_contradicted": [],
     "source_strength": "primary",
-    "corroboration_count": 10,
+    "corroboration_count": 228,
     "contradiction_count": 0,
     "legal_weight": 0,
     "urgency_weight": 0,
     "duplication_score": 0,
     "human_rating": null,
-    "regulation_state": "unprocessed",
+    "regulation_state": "upregulated",
     "metadata": {
       "enriched": true,
-      "enrichment_timestamp": "2026-06-06T06:20:26.154576"
+      "enrichment_timestamp": "2026-06-06T06:20:26.154576",
+      "enrichment_needed": true,
+      "gap_acknowledged": "2026-06-12T08:03:01.554938"
     }
   },
   {
@@ -9539,16 +10639,18 @@
     ],
     "claims_contradicted": [],
     "source_strength": "primary",
-    "corroboration_count": 10,
+    "corroboration_count": 228,
     "contradiction_count": 0,
     "legal_weight": 0,
     "urgency_weight": 0,
     "duplication_score": 0,
     "human_rating": null,
-    "regulation_state": "unprocessed",
+    "regulation_state": "upregulated",
     "metadata": {
       "enriched": true,
-      "enrichment_timestamp": "2026-06-06T06:20:26.154860"
+      "enrichment_timestamp": "2026-06-06T06:20:26.154860",
+      "enrichment_needed": true,
+      "gap_acknowledged": "2026-06-12T08:03:01.554939"
     }
   },
   {
@@ -9585,16 +10687,18 @@
     ],
     "claims_contradicted": [],
     "source_strength": "primary",
-    "corroboration_count": 10,
+    "corroboration_count": 228,
     "contradiction_count": 0,
     "legal_weight": 0,
     "urgency_weight": 0,
     "duplication_score": 0,
     "human_rating": null,
-    "regulation_state": "unprocessed",
+    "regulation_state": "upregulated",
     "metadata": {
       "enriched": true,
-      "enrichment_timestamp": "2026-06-06T06:20:26.155132"
+      "enrichment_timestamp": "2026-06-06T06:20:26.155132",
+      "enrichment_needed": true,
+      "gap_acknowledged": "2026-06-12T08:03:01.554941"
     }
   },
   {
@@ -9631,16 +10735,18 @@
     ],
     "claims_contradicted": [],
     "source_strength": "primary",
-    "corroboration_count": 10,
+    "corroboration_count": 228,
     "contradiction_count": 0,
     "legal_weight": 0,
     "urgency_weight": 0,
     "duplication_score": 0,
     "human_rating": null,
-    "regulation_state": "unprocessed",
+    "regulation_state": "upregulated",
     "metadata": {
       "enriched": true,
-      "enrichment_timestamp": "2026-06-06T06:20:26.155409"
+      "enrichment_timestamp": "2026-06-06T06:20:26.155409",
+      "enrichment_needed": true,
+      "gap_acknowledged": "2026-06-12T08:03:01.554943"
     }
   },
   {
@@ -9692,16 +10798,20 @@
     ],
     "claims_contradicted": [],
     "source_strength": "primary",
-    "corroboration_count": 10,
+    "corroboration_count": 228,
     "contradiction_count": 0,
     "legal_weight": 0,
     "urgency_weight": 0,
     "duplication_score": 0,
     "human_rating": null,
-    "regulation_state": "unprocessed",
+    "regulation_state": "upregulated",
     "metadata": {
       "enriched": true,
-      "enrichment_timestamp": "2026-06-06T06:20:26.155818"
+      "enrichment_timestamp": "2026-06-06T06:20:26.155818",
+      "enrichment_needed": true,
+      "gap_acknowledged": "2026-06-12T08:03:01.554944",
+      "strong_centre": true,
+      "centrality_rank": 19
     }
   },
   {
@@ -9753,16 +10863,18 @@
     ],
     "claims_contradicted": [],
     "source_strength": "primary",
-    "corroboration_count": 10,
+    "corroboration_count": 228,
     "contradiction_count": 0,
     "legal_weight": 0,
     "urgency_weight": 0,
     "duplication_score": 0,
     "human_rating": null,
-    "regulation_state": "unprocessed",
+    "regulation_state": "upregulated",
     "metadata": {
       "enriched": true,
-      "enrichment_timestamp": "2026-06-06T06:20:26.156216"
+      "enrichment_timestamp": "2026-06-06T06:20:26.156216",
+      "strong_centre": true,
+      "centrality_rank": 20
     }
   }
 ]
