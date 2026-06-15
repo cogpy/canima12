@@ -1,0 +1,140 @@
+{
+  "search_timestamp": "2026-06-15T15:25:57.915754",
+  "targets": [
+    "137857",
+    "034662",
+    "115880",
+    "faucitt"
+  ],
+  "total_matches": 5,
+  "matches": [
+    {
+      "date": "2025-08-19",
+      "description": "Original ex parte interdict (Kumalo J)",
+      "location": "Pretoria",
+      "ScheduleStartDate": null,
+      "Case": "PETER ANDREW FAUCITT  v. JACQUELINE  FAUCITT # 2025-137857 # KF0019",
+      "Location": null,
+      "Proceeding": "Urgent Court",
+      "Judge": null,
+      "EventTitle": "Urgent Applications  PETER ANDREW FAUCITT  v. JACQUELINE  FAUCITT # 2025-137857 # KF0019",
+      "CourtRoom": null
+    },
+    {
+      "date": "2026-03-17",
+      "description": "Hearing (Labuschagne J)",
+      "location": "Pretoria",
+      "ScheduleStartDate": null,
+      "Case": "PETER ANDREW FAUCITT  v. JACQUELINE  FAUCITT # 2025-137857 # KF0019",
+      "Location": null,
+      "Proceeding": "Urgent Court",
+      "Judge": null,
+      "EventTitle": "Urgent Applications  PETER ANDREW FAUCITT  v. JACQUELINE  FAUCITT # 2025-137857 # KF0019",
+      "CourtRoom": null
+    },
+    {
+      "date": "2026-05-04",
+      "description": "Leave formally refused",
+      "location": "Pretoria",
+      "ScheduleStartDate": null,
+      "Case": "PETER ANDREW FAUCITT  v. JACQUELINE  FAUCITT # 2026-034662 # KF0021",
+      "Location": null,
+      "Proceeding": "Motion",
+      "Judge": "Selemeng Mokose",
+      "EventTitle": "Unopposed Divorce Applications  PETER ANDREW FAUCITT  v. JACQUELINE  FAUCITT # 2026-034662 # KF0021",
+      "CourtRoom": null
+    },
+    {
+      "date": "2026-05-26",
+      "description": "Stock order granted",
+      "location": "Pretoria",
+      "ScheduleStartDate": null,
+      "Case": "PETER ANDREW FAUCITT  v. JACQUELINE  FAUCITT # 2026-115880 # KF0019",
+      "Location": null,
+      "Proceeding": "Urgent Court",
+      "Judge": null,
+      "EventTitle": "Urgent Applications  PETER ANDREW FAUCITT  v. JACQUELINE  FAUCITT # 2026-115880 # KF0019",
+      "CourtRoom": null
+    },
+    {
+      "date": "2026-06-15",
+      "description": "Divorce enrolled (today)",
+      "location": "Pretoria",
+      "ScheduleStartDate": null,
+      "Case": "PETER ANDREW FAUCITT  v. JACQUELINE  FAUCITT # 2026-034662 # KF0021",
+      "Location": null,
+      "Proceeding": "Motion",
+      "Judge": "Selemeng Mokose",
+      "EventTitle": "Unopposed Divorce Applications  PETER ANDREW FAUCITT  v. JACQUELINE  FAUCITT # 2026-034662 # KF0021",
+      "CourtRoom": null
+    }
+  ],
+  "by_case": {
+    "PETER ANDREW FAUCITT  v. JACQUELINE  FAUCITT # 2025-137857 # KF0019": [
+      {
+        "date": "2025-08-19",
+        "description": "Original ex parte interdict (Kumalo J)",
+        "location": "Pretoria",
+        "ScheduleStartDate": null,
+        "Case": "PETER ANDREW FAUCITT  v. JACQUELINE  FAUCITT # 2025-137857 # KF0019",
+        "Location": null,
+        "Proceeding": "Urgent Court",
+        "Judge": null,
+        "EventTitle": "Urgent Applications  PETER ANDREW FAUCITT  v. JACQUELINE  FAUCITT # 2025-137857 # KF0019",
+        "CourtRoom": null
+      },
+      {
+        "date": "2026-03-17",
+        "description": "Hearing (Labuschagne J)",
+        "location": "Pretoria",
+        "ScheduleStartDate": null,
+        "Case": "PETER ANDREW FAUCITT  v. JACQUELINE  FAUCITT # 2025-137857 # KF0019",
+        "Location": null,
+        "Proceeding": "Urgent Court",
+        "Judge": null,
+        "EventTitle": "Urgent Applications  PETER ANDREW FAUCITT  v. JACQUELINE  FAUCITT # 2025-137857 # KF0019",
+        "CourtRoom": null
+      }
+    ],
+    "PETER ANDREW FAUCITT  v. JACQUELINE  FAUCITT # 2026-034662 # KF0021": [
+      {
+        "date": "2026-05-04",
+        "description": "Leave formally refused",
+        "location": "Pretoria",
+        "ScheduleStartDate": null,
+        "Case": "PETER ANDREW FAUCITT  v. JACQUELINE  FAUCITT # 2026-034662 # KF0021",
+        "Location": null,
+        "Proceeding": "Motion",
+        "Judge": "Selemeng Mokose",
+        "EventTitle": "Unopposed Divorce Applications  PETER ANDREW FAUCITT  v. JACQUELINE  FAUCITT # 2026-034662 # KF0021",
+        "CourtRoom": null
+      },
+      {
+        "date": "2026-06-15",
+        "description": "Divorce enrolled (today)",
+        "location": "Pretoria",
+        "ScheduleStartDate": null,
+        "Case": "PETER ANDREW FAUCITT  v. JACQUELINE  FAUCITT # 2026-034662 # KF0021",
+        "Location": null,
+        "Proceeding": "Motion",
+        "Judge": "Selemeng Mokose",
+        "EventTitle": "Unopposed Divorce Applications  PETER ANDREW FAUCITT  v. JACQUELINE  FAUCITT # 2026-034662 # KF0021",
+        "CourtRoom": null
+      }
+    ],
+    "PETER ANDREW FAUCITT  v. JACQUELINE  FAUCITT # 2026-115880 # KF0019": [
+      {
+        "date": "2026-05-26",
+        "description": "Stock order granted",
+        "location": "Pretoria",
+        "ScheduleStartDate": null,
+        "Case": "PETER ANDREW FAUCITT  v. JACQUELINE  FAUCITT # 2026-115880 # KF0019",
+        "Location": null,
+        "Proceeding": "Urgent Court",
+        "Judge": null,
+        "EventTitle": "Urgent Applications  PETER ANDREW FAUCITT  v. JACQUELINE  FAUCITT # 2026-115880 # KF0019",
+        "CourtRoom": null
+      }
+    ]
+  }
+}
