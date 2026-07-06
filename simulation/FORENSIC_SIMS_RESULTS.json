@@ -1,0 +1,140 @@
+{
+  "simulation_summary": {
+    "months_simulated": 19,
+    "total_events_processed": 181,
+    "final_endocrine_mode": "THREAT",
+    "hypergraph_entries": 301
+  },
+  "economic_engine": {
+    "stocks": {
+      "legitimate_revenue": 0.0,
+      "diverted_revenue": 1190000,
+      "trust_assets": 1050000,
+      "litigation_funding": 568765,
+      "operational_capital": 0,
+      "elliott_payments": 568765,
+      "rst_corporate": 0,
+      "rwd_corporate": 200000,
+      "shopify_revenue": 6158.5
+    },
+    "total_diverted": 1190000,
+    "total_elliott": 568765,
+    "anomalies": [
+      {
+        "type": "unauthorized_payment_pattern",
+        "entity": "Elliott Attorneys",
+        "total": 568765,
+        "count": 19,
+        "severity": "CRITICAL",
+        "evidence": "No board resolution, no CEO knowledge"
+      }
+    ]
+  },
+  "supply_chain_des": {
+    "legitimate_throughput": 4199,
+    "diverted_throughput": 2274,
+    "diversion_ratio": 0.35130542252433183,
+    "warehouse_utilization": 0.9992558299595572
+  },
+  "legal_reasoning": {
+    "civil_burden_met": 0.9946,
+    "criminal_burden_met": 0.671,
+    "overall_evidence_strength": 1.1684,
+    "filing_scores": {
+      "SCA_Opposition": 1.0,
+      "Part_B_Delinquency": 1.0,
+      "Rule_42_Rescission": 1.0,
+      "CIPC_Complaint": 1.0,
+      "LPC_Complaint": 1.0,
+      "POPIA_Complaint": 1.0,
+      "SARS_Tax_Fraud": 1.0,
+      "Criminal_Perjury": 1.0,
+      "NPA_Referral": 1.0,
+      "SAICA_Misconduct": 1.0
+    },
+    "evidence_attribution": {
+      "temporal": 0.8867,
+      "financial": 0.85,
+      "documentary": 0.875,
+      "testimonial": 0.87,
+      "forensic": 0.7875,
+      "relational": 0.875
+    }
+  },
+  "persona_dynamics": {
+    "agents": {
+      "PERSON_001": {
+        "stress": 1.0,
+        "trust": 0,
+        "loyalty": 0.5
+      },
+      "PERSON_002": {
+        "stress": 1.0,
+        "trust": 0,
+        "loyalty": 0.5
+      },
+      "PERSON_003": {
+        "stress": 1.0,
+        "trust": 0,
+        "loyalty": 0.5
+      },
+      "PERSON_004": {
+        "stress": 0.997,
+        "trust": 0,
+        "loyalty": 0.5
+      },
+      "PERSON_BANTJIES": {
+        "stress": 1.0,
+        "trust": 0,
+        "loyalty": 0.5
+      }
+    },
+    "groups": {
+      "peter_faction": {
+        "cohesion": 0.661,
+        "members": 2
+      },
+      "daniel_faction": {
+        "cohesion": 0.578,
+        "members": 2
+      },
+      "professional_services": {
+        "cohesion": 0.496,
+        "members": 0
+      }
+    },
+    "network_density": 16
+  },
+  "endocrine_state": {
+    "mode": "THREAT",
+    "concentrations": {
+      "CRH": 0.877,
+      "ACTH": 0.9364,
+      "Cortisol": 0.9806,
+      "Dopamine_tonic": 0.9762,
+      "Dopamine_phasic": 0.7937,
+      "Serotonin": 0.9917,
+      "Norepinephrine": 0.9253,
+      "Oxytocin": 0.0584,
+      "T3_T4": 0.0617,
+      "Melatonin": 0.0,
+      "Insulin": 0.1464,
+      "Glucagon": 0.6078,
+      "IL6": 0.4593,
+      "Anandamide": 0.0889,
+      "Reserved_14": 0.0,
+      "Reserved_15": 0.0
+    }
+  },
+  "hypergraph_dict": {
+    "total_entries": 301,
+    "by_type": {
+      "entity": 78,
+      "relation": 42,
+      "event": 181
+    },
+    "updates": 19,
+    "last_mode": "THREAT"
+  },
+  "lex_vocab_size": 301
+}
