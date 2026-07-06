@@ -1,0 +1,51 @@
+---
+title: VVA Savings (62812835744) — Forensic Fund Flow
+---
+flowchart LR
+    subgraph SOURCES["INFLOWS (R40.98M)"]
+        MM["Money Market\nR11.75M"]
+        INT["Interest\nR2.32M"]
+        LARGE["Large Unclassified\nR25.8M"]
+        OPS_IN["Operational\nR0.81M"]
+    end
+
+    subgraph VVA["VVA SAVINGS\n62812835744\nNet: R1.66M"]
+        ACCT[("Villa Via\nSavings")]
+    end
+
+    subgraph DESTINATIONS["OUTFLOWS (R39.32M)"]
+        IC["Inter-Company\nR12.42M"]
+        LOAN["Loan Accounts\nR8.81M"]
+        LU["Large Unclassified\nR15.88M"]
+        SUP["Suppliers\nR0.23M"]
+        OPS_OUT["Operational\nR0.95M"]
+    end
+
+    subgraph IC_DETAIL["Inter-Company Detail"]
+        RST["RST (RegimA Skin)\nR5.79M OUT"]
+        SLG["SLG (Strategic Logistics)\nR5.33M OUT"]
+        RWD["RWD (Worldwide)\nR1.0M OUT"]
+        VVA_SELF["VVA Self\nR3.29M OUT"]
+    end
+
+    MM -->|R11.75M| ACCT
+    INT -->|R2.32M| ACCT
+    LARGE -->|R25.8M| ACCT
+    OPS_IN -->|R0.81M| ACCT
+
+    ACCT -->|R12.42M| IC
+    ACCT -->|R8.81M| LOAN
+    ACCT -->|R15.88M| LU
+    ACCT -->|R0.23M| SUP
+    ACCT -->|R0.95M| OPS_OUT
+
+    IC --> RST
+    IC --> SLG
+    IC --> RWD
+    IC --> VVA_SELF
+
+    style VVA fill:#ff6b6b,stroke:#c92a2a,color:#fff
+    style IC fill:#ffa94d,stroke:#e67700
+    style LOAN fill:#ffa94d,stroke:#e67700
+    style RST fill:#ff8787,stroke:#c92a2a
+    style SLG fill:#ff8787,stroke:#c92a2a

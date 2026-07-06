@@ -1,0 +1,520 @@
+{
+  "generated": "2026-07-06T15:10:11.326060",
+  "account": "62812835744",
+  "entity": "VVA",
+  "name": "Villa Via Savings",
+  "total_transactions": 327,
+  "total_credits": 40978150.32,
+  "total_debits": 39322647.9,
+  "net_movement": 1655502.4200000018,
+  "large_transfers_count": 144,
+  "counterparties": {
+    "Unknown: Trs To Money On Call": {
+      "in": 13350000.0,
+      "out": 0,
+      "count": 32
+    },
+    "FNB Money on Call (Internal)": {
+      "in": 9600000.0,
+      "out": 1030000.0,
+      "count": 22
+    },
+    "RST (RegimA Skin Treatments)": {
+      "in": 0,
+      "out": 9026587.55,
+      "count": 15
+    },
+    "FNB (Internal)": {
+      "in": 0,
+      "out": 7321034.1000000015,
+      "count": 20
+    },
+    "SLG (Strategic Logistics)": {
+      "in": 0,
+      "out": 4892380.65,
+      "count": 7
+    },
+    "Unknown: Trs To Money Mkt": {
+      "in": 3500000.0,
+      "out": 1000000.0,
+      "count": 6
+    },
+    "Loan Account (Internal)": {
+      "in": 0,
+      "out": 4017260.25,
+      "count": 6
+    },
+    "VVA (Villa Via \u2014 self)": {
+      "in": 305000.0,
+      "out": 3292403.0,
+      "count": 14
+    },
+    "Unknown: Trs To Vv": {
+      "in": 1655000.0,
+      "out": 1755000.0,
+      "count": 19
+    },
+    "Unknown: Trs To Moneyoncall": {
+      "in": 2800000.0,
+      "out": 0,
+      "count": 4
+    },
+    "Unknown: Trs For Pmts": {
+      "in": 0,
+      "out": 2500000.0,
+      "count": 2
+    },
+    "Unknown: Trs For Prov Tax": {
+      "in": 800000.0,
+      "out": 1600000.0,
+      "count": 3
+    },
+    "FNB (Interest)": {
+      "in": 2318150.320000001,
+      "out": 6664.63,
+      "count": 115
+    },
+    "FNB Savings (Internal)": {
+      "in": 2150000.0,
+      "out": 0,
+      "count": 5
+    },
+    "Unknown: Trs Money On Call": {
+      "in": 2000000.0,
+      "out": 100000.0,
+      "count": 5
+    },
+    "Unknown: Trs To Mmark": {
+      "in": 500000.0,
+      "out": 1000000.0,
+      "count": 3
+    },
+    "Unidentified": {
+      "in": 0,
+      "out": 500225.0,
+      "count": 34
+    },
+    "Unknown: Trs To Moneyoc": {
+      "in": 500000.0,
+      "out": 0,
+      "count": 1
+    },
+    "Unknown: Trs To Vv On Call": {
+      "in": 500000.0,
+      "out": 0,
+      "count": 1
+    },
+    "Unknown: Vv Trs To Money On C": {
+      "in": 500000.0,
+      "out": 0,
+      "count": 1
+    },
+    "Unknown: Tr Money On Call": {
+      "in": 500000.0,
+      "out": 0,
+      "count": 1
+    },
+    "Unknown: TRF                TRF FROM VV": {
+      "in": 0,
+      "out": 301677.0,
+      "count": 3
+    },
+    "Materia Medica (Supplier)": {
+      "in": 0,
+      "out": 227642.5,
+      "count": 1
+    },
+    "Unknown: Trs For Salaries": {
+      "in": 0,
+      "out": 200000.0,
+      "count": 1
+    },
+    "Unknown: Tax For Vv": {
+      "in": 0,
+      "out": 126112.56,
+      "count": 1
+    },
+    "Unknown: Vv On Call Parker Do": {
+      "in": 0,
+      "out": 120000.0,
+      "count": 1
+    },
+    "Unknown: Tfs For VAT Pmt Vvia": {
+      "in": 0,
+      "out": 100000.0,
+      "count": 1
+    },
+    "Unknown: Trs For VAT To V Via": {
+      "in": 0,
+      "out": 95660.66,
+      "count": 1
+    },
+    "Unknown: Trs To Money Max -vv": {
+      "in": 0,
+      "out": 60000.0,
+      "count": 1
+    },
+    "Unknown: Money On Call To Vv": {
+      "in": 0,
+      "out": 50000.0,
+      "count": 1
+    }
+  },
+  "flow_types": {
+    "INTERNAL_SWEEP": {
+      "in": 11750000.0,
+      "out": 1030000.0,
+      "count": 27
+    },
+    "INTER_COMPANY": {
+      "in": 305000.0,
+      "out": 12418990.55,
+      "count": 29
+    },
+    "LOAN_MOVEMENT": {
+      "in": 0,
+      "out": 8809640.9,
+      "count": 13
+    },
+    "LARGE_UNCLASSIFIED": {
+      "in": 25800000.0,
+      "out": 15876998.559999999,
+      "count": 66
+    },
+    "OPERATIONAL": {
+      "in": 805000.0,
+      "out": 952710.7599999999,
+      "count": 76
+    },
+    "INTEREST": {
+      "in": 2318150.320000001,
+      "out": 6664.63,
+      "count": 115
+    },
+    "SUPPLIER_PAYMENT": {
+      "in": 0,
+      "out": 227642.5,
+      "count": 1
+    }
+  },
+  "inter_company_total_in": 305000.0,
+  "inter_company_total_out": 17211371.200000003,
+  "inter_company_net": -16906371.200000003,
+  "anomalous_transfers": [
+    {
+      "amount": -2999443.0,
+      "date": "2024-06-07",
+      "description": "FNB OB Pmt FNB OB 000000005 Inv                                              Inv 5373",
+      "counterparty": "FNB (Internal)",
+      "flow_type": "LARGE_UNCLASSIFIED"
+    },
+    {
+      "amount": -2999443.0,
+      "date": "2024-06-07",
+      "description": "FNB OB 000000005 INV 0.00 - 5373",
+      "counterparty": "FNB (Internal)",
+      "flow_type": "LARGE_UNCLASSIFIED"
+    },
+    {
+      "amount": 2000000.0,
+      "date": "2021-06-06",
+      "description": "Internet Trf From                      Trs To Money On Call",
+      "counterparty": "Unknown: Trs To Money On Call",
+      "flow_type": "LARGE_UNCLASSIFIED"
+    },
+    {
+      "amount": -2000000.0,
+      "date": "2023-08-29",
+      "description": "Internet Trf To Trs For Pmts",
+      "counterparty": "Unknown: Trs For Pmts",
+      "flow_type": "LARGE_UNCLASSIFIED"
+    },
+    {
+      "amount": -1500000.0,
+      "date": "2021-06-06",
+      "description": "Internet Trf To                        Loan For Packaging",
+      "counterparty": "Loan Account (Internal)",
+      "flow_type": "LOAN_MOVEMENT"
+    },
+    {
+      "amount": -1445636.25,
+      "date": "2023-07-24",
+      "description": "Internet Trf To Loan Containers",
+      "counterparty": "Loan Account (Internal)",
+      "flow_type": "LOAN_MOVEMENT"
+    },
+    {
+      "amount": -1441036.25,
+      "date": "15 Jun",
+      "description": "Internet Trf To Loan Strat Jars",
+      "counterparty": "SLG (Strategic Logistics)",
+      "flow_type": "LOAN_MOVEMENT"
+    },
+    {
+      "amount": -1221340.25,
+      "date": "2022-11-30",
+      "description": "Internet Pmt To Regima Jars                                                   Qu0056879",
+      "counterparty": "RST (RegimA Skin Treatments)",
+      "flow_type": "INTER_COMPANY"
+    },
+    {
+      "amount": 1200000.0,
+      "date": "23 Jun",
+      "description": "Internet Trf From Trs To Moneyoncall",
+      "counterparty": "Unknown: Trs To Moneyoncall",
+      "flow_type": "LARGE_UNCLASSIFIED"
+    },
+    {
+      "amount": -1095382.0,
+      "date": "30 May",
+      "description": "Internet Trf To Loan For Strat",
+      "counterparty": "SLG (Strategic Logistics)",
+      "flow_type": "LOAN_MOVEMENT"
+    },
+    {
+      "amount": -1000403.0,
+      "date": "2022-11-29",
+      "description": "Internet Pmt To Villa Via Prov Tax                                            9636866841P00032022",
+      "counterparty": "VVA (Villa Via \u2014 self)",
+      "flow_type": "INTER_COMPANY"
+    },
+    {
+      "amount": 1000000.0,
+      "date": "2021-04-06",
+      "description": "Internet Trf From Trs To Money Mkt",
+      "counterparty": "Unknown: Trs To Money Mkt",
+      "flow_type": "LARGE_UNCLASSIFIED"
+    },
+    {
+      "amount": 1000000.0,
+      "date": "2021-04-06",
+      "description": "Internet Trf From Trs To Money Mkt",
+      "counterparty": "Unknown: Trs To Money Mkt",
+      "flow_type": "LARGE_UNCLASSIFIED"
+    },
+    {
+      "amount": 1000000.0,
+      "date": "2021-06-07",
+      "description": "Internet Trf From                      Trs To Money On Call",
+      "counterparty": "Unknown: Trs To Money On Call",
+      "flow_type": "LARGE_UNCLASSIFIED"
+    },
+    {
+      "amount": 1000000.0,
+      "date": "2021-06-08",
+      "description": "Internet Trf From                      Trs To Money On Call",
+      "counterparty": "Unknown: Trs To Money On Call",
+      "flow_type": "LARGE_UNCLASSIFIED"
+    },
+    {
+      "amount": 1000000.0,
+      "date": "2023-02-25",
+      "description": "Internet Trf From Trs To M On Call",
+      "counterparty": "FNB Money on Call (Internal)",
+      "flow_type": "INTERNAL_SWEEP"
+    },
+    {
+      "amount": 1000000.0,
+      "date": "2023-03-24",
+      "description": "Internet Trf From Trs To M On Call",
+      "counterparty": "FNB Money on Call (Internal)",
+      "flow_type": "INTERNAL_SWEEP"
+    },
+    {
+      "amount": -1000000.0,
+      "date": "2023-07-17",
+      "description": "Internet Trf To Trs M On Call",
+      "counterparty": "FNB Money on Call (Internal)",
+      "flow_type": "INTERNAL_SWEEP"
+    },
+    {
+      "amount": 1000000.0,
+      "date": "2023-08-26",
+      "description": "Internet Trf From Trs To M On Call",
+      "counterparty": "FNB Money on Call (Internal)",
+      "flow_type": "INTERNAL_SWEEP"
+    },
+    {
+      "amount": -1000000.0,
+      "date": "2024-04-11",
+      "description": "FNB OB Pmt FNB OB 000000001 Vil                                              Villa Via Sav To Abs",
+      "counterparty": "VVA (Villa Via \u2014 self)",
+      "flow_type": "INTER_COMPANY"
+    },
+    {
+      "amount": -1000000.0,
+      "date": "2024-04-11",
+      "description": "FNB OB 000000001 VILLA 0.00 - VIA SAV TO ABS",
+      "counterparty": "FNB (Internal)",
+      "flow_type": "LARGE_UNCLASSIFIED"
+    },
+    {
+      "amount": -1000000.0,
+      "date": "2024-04-12",
+      "description": "FNB OB Pmt FNB OB 000000002 Reg                                              Regima Skin Treatmen",
+      "counterparty": "RST (RegimA Skin Treatments)",
+      "flow_type": "INTER_COMPANY"
+    },
+    {
+      "amount": -1000000.0,
+      "date": "2024-04-12",
+      "description": "FNB OB 000000002 0.00 - REGIMA SKIN TREATMEN",
+      "counterparty": "RST (RegimA Skin Treatments)",
+      "flow_type": "INTER_COMPANY"
+    },
+    {
+      "amount": -1000000.0,
+      "date": "2024-04-25",
+      "description": "FNB OB Pmt FNB OB 000000004 Reg                                              Regima ABSA Trs",
+      "counterparty": "RST (RegimA Skin Treatments)",
+      "flow_type": "INTER_COMPANY"
+    },
+    {
+      "amount": -1000000.0,
+      "date": "2024-04-25",
+      "description": "FNB OB 000000004 0.00 - REGIMA ABSA TRS",
+      "counterparty": "RST (RegimA Skin Treatments)",
+      "flow_type": "INTER_COMPANY"
+    },
+    {
+      "amount": -1000000.0,
+      "date": "2024-11-18",
+      "description": "FNB OB Pmt FNB OB 000000006 Abs                                                ABSA Regima Skin 18.",
+      "counterparty": "RST (RegimA Skin Treatments)",
+      "flow_type": "INTER_COMPANY"
+    },
+    {
+      "amount": -1000000.0,
+      "date": "2024-11-18",
+      "description": "FNB OB 000000006 ABSA 0.00 - REGIMA SKIN 18.",
+      "counterparty": "RST (RegimA Skin Treatments)",
+      "flow_type": "INTER_COMPANY"
+    },
+    {
+      "amount": 1000000.0,
+      "date": "????-04-06",
+      "description": "Internet Trf From Trs To Money Mkt",
+      "counterparty": "Unknown: Trs To Money Mkt",
+      "flow_type": "LARGE_UNCLASSIFIED"
+    },
+    {
+      "amount": -902792.9,
+      "date": "30 Jun",
+      "description": "Internet Trf To Loan To Strat",
+      "counterparty": "SLG (Strategic Logistics)",
+      "flow_type": "LOAN_MOVEMENT"
+    },
+    {
+      "amount": 900000.0,
+      "date": "2021-08-05",
+      "description": "Internet Trf From                        Trs To Money On Call",
+      "counterparty": "Unknown: Trs To Money On Call",
+      "flow_type": "LARGE_UNCLASSIFIED"
+    },
+    {
+      "amount": -800000.0,
+      "date": "2021-04-29",
+      "description": "Internet Trf To Trs For Prov Tax",
+      "counterparty": "Unknown: Trs For Prov Tax",
+      "flow_type": "LARGE_UNCLASSIFIED"
+    },
+    {
+      "amount": -800000.0,
+      "date": "2021-04-29",
+      "description": "Internet Trf To Trs For Prov Tax",
+      "counterparty": "Unknown: Trs For Prov Tax",
+      "flow_type": "LARGE_UNCLASSIFIED"
+    },
+    {
+      "amount": 800000.0,
+      "date": "2022-07-22",
+      "description": "Internet Trf From Trs To M On Call",
+      "counterparty": "FNB Money on Call (Internal)",
+      "flow_type": "INTERNAL_SWEEP"
+    },
+    {
+      "amount": 800000.0,
+      "date": "2022-09-22",
+      "description": "Internet Trf From Trs Money On Call",
+      "counterparty": "Unknown: Trs Money On Call",
+      "flow_type": "LARGE_UNCLASSIFIED"
+    },
+    {
+      "amount": 800000.0,
+      "date": "2023-01-26",
+      "description": "Internet Trf From Trs To M On Call",
+      "counterparty": "FNB Money on Call (Internal)",
+      "flow_type": "INTERNAL_SWEEP"
+    },
+    {
+      "amount": 800000.0,
+      "date": "23 Jun",
+      "description": "Internet Trf From Trs To Moneyoncall",
+      "counterparty": "Unknown: Trs To Moneyoncall",
+      "flow_type": "LARGE_UNCLASSIFIED"
+    },
+    {
+      "amount": 800000.0,
+      "date": "????-04-29",
+      "description": "Internet Trf To Trs For Prov Tax",
+      "counterparty": "Unknown: Trs For Prov Tax",
+      "flow_type": "LARGE_UNCLASSIFIED"
+    },
+    {
+      "amount": -700000.0,
+      "date": "2021-05-29",
+      "description": "Internet Trf To Trs To Vv",
+      "counterparty": "Unknown: Trs To Vv",
+      "flow_type": "LARGE_UNCLASSIFIED"
+    },
+    {
+      "amount": -700000.0,
+      "date": "2021-05-29",
+      "description": "Internet Trf To Trs To Vv",
+      "counterparty": "Unknown: Trs To Vv",
+      "flow_type": "LARGE_UNCLASSIFIED"
+    },
+    {
+      "amount": 700000.0,
+      "date": "????-05-29",
+      "description": "Internet Trf To Trs To Vv",
+      "counterparty": "Unknown: Trs To Vv",
+      "flow_type": "LARGE_UNCLASSIFIED"
+    },
+    {
+      "amount": 600000.0,
+      "date": "2021-02-05",
+      "description": "Internet Trf From                      Trs V V Savings",
+      "counterparty": "FNB Savings (Internal)",
+      "flow_type": "INTERNAL_SWEEP"
+    },
+    {
+      "amount": -600000.0,
+      "date": "2023-03-30",
+      "description": "Internet Trf To Trs To Strat",
+      "counterparty": "SLG (Strategic Logistics)",
+      "flow_type": "INTER_COMPANY"
+    },
+    {
+      "amount": -557980.0,
+      "date": "2022-06-17",
+      "description": "Internet Trf To Strat Loan Cont",
+      "counterparty": "SLG (Strategic Logistics)",
+      "flow_type": "LOAN_MOVEMENT"
+    },
+    {
+      "amount": 550000.0,
+      "date": "2021-07-04",
+      "description": "Internet Trf From                      Trs To Money On Call",
+      "counterparty": "Unknown: Trs To Money On Call",
+      "flow_type": "LARGE_UNCLASSIFIED"
+    }
+  ],
+  "coordinated_clusters": [
+    {
+      "statement": null,
+      "count": 144,
+      "total": 306736.20999999996
+    }
+  ]
+}
