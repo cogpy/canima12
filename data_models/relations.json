@@ -26,7 +26,7 @@
   },
   {
     "id": "BACKDATED_ENTRIES",
-    "title": "Backdated Journal Entries \u2014 2021 Forgery",
+    "title": "Backdated Journal Entries — 2021 Forgery",
     "entities_involved": [],
     "file": "docs/relations/BACKDATED_ENTRIES.md",
     "legal_categories": [
@@ -166,7 +166,7 @@
   },
   {
     "id": "DUAL_CORPORATE_IDENTITY",
-    "title": "Relation: Dual Corporate Identity \u2014 Kaylovest Three / Villa Via",
+    "title": "Relation: Dual Corporate Identity — Kaylovest Three / Villa Via",
     "entities_involved": [
       "ORG_005",
       "ORG_027"
@@ -194,7 +194,7 @@
   },
   {
     "id": "ELLIOTT_ATTORNEYS_PROTECTION",
-    "title": "Elliott Attorneys \u2014 Non-Party Protection",
+    "title": "Elliott Attorneys — Non-Party Protection",
     "entities_involved": [],
     "file": "docs/relations/ELLIOTT_ATTORNEYS_PROTECTION.md",
     "evidence_refs": [
@@ -211,7 +211,7 @@
   },
   {
     "id": "FORGERY_BACKDATING_RELATIONS_2026_02_18",
-    "title": "Forgery & Backdating Relations \u2014 Two-Date Distinction",
+    "title": "Forgery & Backdating Relations — Two-Date Distinction",
     "entities_involved": [
       "PERSON_002",
       "PERSON_007"
@@ -291,7 +291,7 @@
   },
   {
     "id": "INTERDICT_VOID_AB_INITIO",
-    "title": "Interdict Void Ab Initio \u2014 Complete Analysis",
+    "title": "Interdict Void Ab Initio — Complete Analysis",
     "entities_involved": [],
     "file": "docs/relations/INTERDICT_VOID_AB_INITIO.md",
     "legal_categories": [
@@ -309,7 +309,7 @@
   },
   {
     "id": "KETONI_FUND_FLOW_COMPLETE",
-    "title": "Ketoni Fund Flow \u2014 Complete Architecture",
+    "title": "Ketoni Fund Flow — Complete Architecture",
     "entities_involved": [],
     "file": "docs/relations/KETONI_FUND_FLOW_COMPLETE.md",
     "legal_categories": [
@@ -530,7 +530,7 @@
   },
   {
     "id": "RULE_30_DATING_ANOMALY",
-    "title": "Rule 30/30A Dating Anomaly \u2014 Elliott Attorneys",
+    "title": "Rule 30/30A Dating Anomaly — Elliott Attorneys",
     "entities_involved": [],
     "file": "docs/relations/RULE_30_DATING_ANOMALY.md",
     "evidence_refs": [
@@ -549,7 +549,7 @@
   },
   {
     "id": "RYNETTE_BANTJIES_CONSPIRACY_2026_03_07",
-    "title": "Rynette Farrar \u2014 Daniel Bantjies: Coordinated Conspiracy Relations",
+    "title": "Rynette Farrar — Daniel Bantjies: Coordinated Conspiracy Relations",
     "entities_involved": [],
     "file": "docs/relations/RYNETTE_BANTJIES_CONSPIRACY_2026_03_07.md",
     "evidence_refs": [
@@ -623,7 +623,7 @@
   },
   {
     "id": "SARS_FLAGGED_INVOICES",
-    "title": "SARS Flagged Invoices \u2014 February 2025",
+    "title": "SARS Flagged Invoices — February 2025",
     "entities_involved": [],
     "file": "docs/relations/SARS_FLAGGED_INVOICES.md",
     "evidence_refs": [
@@ -661,7 +661,7 @@
   },
   {
     "id": "STOCK_ADJUSTMENT_FRAUD",
-    "title": "Stock Adjustment Fraud \u2014 R4.2M Discrepancy",
+    "title": "Stock Adjustment Fraud — R4.2M Discrepancy",
     "entities_involved": [],
     "file": "docs/relations/STOCK_ADJUSTMENT_FRAUD.md",
     "legal_categories": [
@@ -713,7 +713,7 @@
   },
   {
     "id": "VILLA_VIA_KAYLOVEST_IDENTITY",
-    "title": "Villa Via Arcadia No 2 CC and Kaylovest Three (Pty) Ltd \u2014 Dual Entity Under Same Base Number",
+    "title": "Villa Via Arcadia No 2 CC and Kaylovest Three (Pty) Ltd — Dual Entity Under Same Base Number",
     "entities_involved": [
       "ORG_005",
       "ORG_027",
@@ -885,7 +885,7 @@
       "RST_ABSA_4112241409_ELLIOTT_ATTORNEYS_PAYMENTS_2025-08_2026-04.txt"
     ],
     "added_date": "2026-07-06",
-    "source": "iterative-micro-improvement-v1"
+    "data_source": "iterative-micro-improvement-v1"
   },
   {
     "id": "REL_PETER_ADMISSION_CHAIN",
@@ -902,7 +902,7 @@
       "F-first-respondents-answering-affidavit.pdf"
     ],
     "added_date": "2026-07-06",
-    "source": "iterative-micro-improvement-v1"
+    "data_source": "iterative-micro-improvement-v1"
   },
   {
     "id": "REL_CASE_NUMBER_COLLISION",
@@ -919,7 +919,7 @@
       "Peter AA para 7.5"
     ],
     "added_date": "2026-07-06",
-    "source": "iterative-micro-improvement-v1"
+    "data_source": "iterative-micro-improvement-v1"
   },
   {
     "id": "REL_MAZARS_ENGAGEMENT_ANOMALY",
@@ -936,6 +936,6 @@
       "Mazars report 11 Mar 2026"
     ],
     "added_date": "2026-07-06",
-    "source": "iterative-micro-improvement-v1"
+    "data_source": "iterative-micro-improvement-v1"
   }
 ]

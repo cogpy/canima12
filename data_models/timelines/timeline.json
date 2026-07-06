@@ -2,9 +2,9 @@
   "metadata": {
     "version": "30.0_SIMULATION_REFINED_2026_07_06",
     "created_date": "2025-11-10",
-    "description": "Timeline of Revenue Stream Hijacking Case 2025-137857 \u2014 157 events (refined by iterative-micro-improvement simulation)",
+    "description": "Timeline of Revenue Stream Hijacking Case 2025-137857 — 157 events (refined by iterative-micro-improvement simulation)",
     "case_number": "2025-137857",
-    "last_updated": "2026-03-25T13:32:39.260358",
+    "last_updated": "2026-07-06T09:17:59.276413",
     "changes": "Comprehensive LEX refinement - timeline completeness",
     "criminal_threshold_entries": 6,
     "high_significance_entries": 9,
@@ -41,7 +41,7 @@
       "2025": 53,
       "2026": 1
     },
-    "total_events": 151
+    "total_events": 157
   },
   "timeline": [
     {
@@ -606,11 +606,11 @@
     },
     {
       "date": "2016-07-05",
-      "event": "Chan\u00e9 Todd becomes director of Dandelion SA; Kirby Van Der Stelt resigns",
+      "event": "Chané Todd becomes director of Dandelion SA; Kirby Van Der Stelt resigns",
       "category": "directorship_change",
       "entities": [
         "Dandelion SA",
-        "Chan\u00e9 Auriele Todd",
+        "Chané Auriele Todd",
         "Kirby Rae Van Der Stelt"
       ],
       "evidence": [
@@ -2660,7 +2660,7 @@
     },
     {
       "date": "2025-04-03",
-      "event": "Jacqui Faucitt emails Gayane: 'WE NEED TO STOP PAYING SOME IF THESE WHO REFUSE TO GIVE INVOICES' \u2014 active financial oversight",
+      "event": "Jacqui Faucitt emails Gayane: 'WE NEED TO STOP PAYING SOME IF THESE WHO REFUSE TO GIVE INVOICES' — active financial oversight",
       "entity": "Jacqui Faucitt / Gayane Williams",
       "source": "MAT4719 Annexure PF7 (page 101)",
       "key_actor_names": [
@@ -2852,7 +2852,7 @@
       "date": "2025-05-22",
       "event_ref": "EVENT_009",
       "title": "Shopify Audit Trail Hijacking",
-      "description": "CRITICAL EVENT: R1M+ monthly revenue \u2192 R0 (100% business shutdown). Central evidence destruction event proving consciousness of guilt. Destruction of audit trails for platform owned, paid, operated by RegimA Zone Ltd (UK) since July 2023 - proves RWD ZA has no independent revenue stream. Orders removed from Shopify following Jacqui's confrontation.",
+      "description": "CRITICAL EVENT: R1M+ monthly revenue → R0 (100% business shutdown). Central evidence destruction event proving consciousness of guilt. Destruction of audit trails for platform owned, paid, operated by RegimA Zone Ltd (UK) since July 2023 - proves RWD ZA has no independent revenue stream. Orders removed from Shopify following Jacqui's confrontation.",
       "category": "revenue_hijacking",
       "significance_level": "low",
       "evidence_refs": [
@@ -2998,7 +2998,7 @@
       "date": "2025-06-06",
       "event_id": "EVENT_119",
       "title": "SMOKING GUN: Bantjies Admits Manufacturing SARS Answer",
-      "event": "Bantjies states in email to Rynette: 'I will manufacture an answer to the 2 interco invoices over the weekend' \u2014 direct admission of tax fraud",
+      "event": "Bantjies states in email to Rynette: 'I will manufacture an answer to the 2 interco invoices over the weekend' — direct admission of tax fraud",
       "entity": [
         "PERSON_007",
         "PERSON_002"
@@ -3418,7 +3418,7 @@
     },
     {
       "date": "2025-07-31",
-      "event": "FNB SMS to Pete Faucitt: '80% of international limit reached' \u2014 Peter aware of scale of international platform payments",
+      "event": "FNB SMS to Pete Faucitt: '80% of international limit reached' — Peter aware of scale of international platform payments",
       "entity": "FNB / Peter Faucitt",
       "source": "MAT4719 Annexure PF11 (page 162)",
       "key_actor_names": [
@@ -3575,7 +3575,7 @@
     },
     {
       "date": "2025-08-13",
-      "event": "Peter Faucitt swears founding affidavit at Bedfordview SAPS; Bantjes swears confirmatory affidavit at Equestria, Pretoria \u2014 both contain material non-disclosures",
+      "event": "Peter Faucitt swears founding affidavit at Bedfordview SAPS; Bantjes swears confirmatory affidavit at Equestria, Pretoria — both contain material non-disclosures",
       "entity": "Peter Faucitt / Daniel Bantjes",
       "source": "MAT4719 Founding Affidavit (pages 10-38) & Confirmatory Affidavit (pages 69-71)",
       "key_actor_names": [
@@ -3640,7 +3640,7 @@
     },
     {
       "date": "2025-08-19",
-      "event": "Ex parte hearing at 10h00 \u2014 Court grants interim interdict (Part A) based on perjured affidavits; order subsequently challenged as void ab initio",
+      "event": "Ex parte hearing at 10h00 — Court grants interim interdict (Part A) based on perjured affidavits; order subsequently challenged as void ab initio",
       "entity": "High Court / Peter Faucitt",
       "source": "MAT4719 Notice of Motion (pages 2-9)",
       "key_actor_names": [
@@ -3905,7 +3905,7 @@
       "date": "2026-06-10",
       "event_ref": "EVENT_184",
       "title": "Reconsideration Struck from Roll for Want of Urgency",
-      "description": "Case 2026-115880 reconsideration struck from roll \u2014 no order as to costs, merits not determined, interim order stands",
+      "description": "Case 2026-115880 reconsideration struck from roll — no order as to costs, merits not determined, interim order stands",
       "category": "legal_proceedings",
       "significance_level": 7,
       "actors": [
@@ -3943,7 +3943,7 @@
     {
       "date": "2026-06-15",
       "event_ref": "EVENT_186",
-      "title": "Divorce Enrolled \u2014 Jax Under Notice of Bar",
+      "title": "Divorce Enrolled — Jax Under Notice of Bar",
       "description": "Divorce proceedings (case 2026-034662) enrolled with Jax under notice of bar",
       "category": "legal_proceedings",
       "significance_level": 6,
@@ -3957,7 +3957,7 @@
       ],
       "added_date": "2026-07-06",
       "evidence_refs": [
-        "07_JUNE_FILINGS_ANALYSIS \u00a72.6"
+        "07_JUNE_FILINGS_ANALYSIS §2.6"
       ]
     }
   ],
@@ -3981,7 +3981,7 @@
       "action_required": "Map Rynette's access evolution from 2020 to 2025"
     },
     "bantjes_connection": {
-      "insight": "Danie Bantjes: 2020 accountant \u2192 2024 Trustee appointment",
+      "insight": "Danie Bantjes: 2020 accountant → 2024 Trustee appointment",
       "implication": "Links financial manipulation expertise to trust control",
       "strategic_value": "Explains why Bantjes was chosen as Trustee",
       "action_required": "Investigate Bantjes' role in both capacities"
