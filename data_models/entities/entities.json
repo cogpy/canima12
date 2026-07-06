@@ -33,9 +33,17 @@
           "shopify_revenue_diversion"
         ],
         "relationships": [
-          "trustee_of_family_trust",
-          "director_of_RWD_ZA",
-          "co_conspirator_with_PERSON_002"
+          "husband_of:PERSON_004:Jacqueline_Faucitt",
+          "father_of:PERSON_005:Daniel_James_Faucitt",
+          "founder_of:FFT:Faucitt_Family_Trust",
+          "50pct_shareholder_of:ORG_002:RST",
+          "50pct_shareholder_of:ORG_VV:Villa_Via",
+          "33pct_shareholder_of:ORG_SLG:Strategic_Logistics",
+          "director_of:ORG_001:RWW",
+          "director_of:ORG_002:RST",
+          "director_of:ORG_VV:Villa_Via",
+          "approved_payments_to:ORG_ADDARORY:Addarory",
+          "co_conspirator_with:PERSON_002:Rynette_Farrar"
         ],
         "financial_impact": {
           "direct_involvement": "R10,269,727.90",
@@ -166,6 +174,17 @@
             "R500,000 transferred to 2nd respondent after cards taken",
             "Fear of concealment/destruction of documents"
           ]
+        },
+        "ownership": {
+          "RST": "50% shareholder",
+          "Villa_Via": "50% shareholder",
+          "SLG": "33% co-director/shareholder",
+          "RWW": "Director (via FFT sole shareholder)",
+          "FFT": "Founder with sole general powers"
+        },
+        "family": {
+          "wife": "Jacqueline Faucitt (PERSON_004)",
+          "son": "Daniel James Faucitt (PERSON_005)"
         }
       },
       {
@@ -186,12 +205,15 @@
           "coordinated_financial_statement_fabrication"
         ],
         "relationships": [
-          "co_conspirator_with_PERSON_001",
-          "mother_of_PERSON_003",
-          "financial_controller",
-          "controls_sage:ORG_001",
-          "email_access:PERSON_001",
-          "instructed_ORG_DE_NOVO"
+          "co_conspirator_with:PERSON_001:Peter_Faucitt",
+          "son_owns:ORG_ADDARORY:Addarory",
+          "personal_bookkeeper_for:ALL_COMPANIES",
+          "financial_controller:ORG_002:RST",
+          "financial_controller:ORG_001:RWW",
+          "financial_controller:ORG_SLG:SLG",
+          "controls_sage:ORG_001:RWW",
+          "manages_chinese_supplier:ORG_ADDARORY:Addarory",
+          "instructed_bank_not_to_return_funds:2025-08-18"
         ],
         "financial_impact": {
           "direct_involvement": "R4,276,832.85",
@@ -295,18 +317,24 @@
           "document": "Power point - how sales work.pdf",
           "purpose": "Created for Pete showing Shopify centrality",
           "significance": "40 days before May 22 sabotage - proves premeditation"
-        }
+        },
+        "note": "Son owns Addarory. Rynette manages Addarory de facto, handles Chinese supplier relationship, and controls all company bookkeeping."
       },
       {
         "entity_id": "PERSON_004",
         "name": "Jacqueline Faucitt",
         "id_number": "570607 0088 08 6",
-        "role": "first_respondent",
+        "role": "CEO_RST_50pct_shareholder",
         "agent_type": "victim",
         "involvement_events": 8,
         "primary_actions": [],
         "relationships": [
-          "first_respondent_in_case",
+          "mother_of:PERSON_005:Daniel_James_Faucitt",
+          "wife_of:PERSON_001:Peter_Andrew_Faucitt",
+          "50pct_shareholder_of:ORG_002:RST",
+          "CEO_of:ORG_002:RST",
+          "POPIA_Information_Officer:ORG_002:RST",
+          "director_of:ORG_002:RST",
           "shopify_platform_operator",
           "regima_zone_ltd_operator"
         ],
@@ -350,21 +378,37 @@
           "key_evidence": []
         },
         "refinement_date": "2026-03-25T13:32:18.098809",
-        "timeline_events": []
+        "timeline_events": [],
+        "ownership": {
+          "RST": "50% shareholder",
+          "NOTE": "Daniel is her SON (not husband)"
+        },
+        "family": {
+          "husband": "Peter Andrew Faucitt (PERSON_001)",
+          "son": "Daniel James Faucitt (PERSON_005)"
+        }
       },
       {
         "entity_id": "PERSON_005",
         "name": "Daniel James Faucitt",
         "id_number": "820775 5800 18 2",
-        "role": "second_respondent",
+        "role": "CIO_employee_of_RST_NOT_shareholder",
         "agent_type": "victim",
         "involvement_events": 15,
         "primary_actions": [],
         "relationships": [
-          "second_respondent_in_case",
-          "owner_regima_zone_ltd",
+          "son_of:PERSON_004:Jacqueline_Faucitt",
+          "son_of:PERSON_001:Peter_Andrew_Faucitt",
+          "employee_of:ORG_002:RST",
+          "NOT_shareholder_of:ORG_002:RST",
+          "NOT_director_of:ORG_002:RST",
+          "33pct_shareholder_of:ORG_SLG:Strategic_Logistics",
+          "33pct_shareholder_of:ORG_001:RWW",
+          "director_of:ORG_SLG:Strategic_Logistics",
+          "director_of:ORG_001:RWW",
+          "owner_of:ORG_003:RegimA_Zone_Ltd",
           "shopify_platform_owner",
-          "shopify_platform_operator"
+          "victim_of_revenue_stream_hijacking"
         ],
         "financial_impact": {
           "victim_of_theft": "R10,269,727.90",
@@ -417,7 +461,18 @@
           "key_evidence": []
         },
         "refinement_date": "2026-03-25T13:32:18.098809",
-        "timeline_events": []
+        "timeline_events": [],
+        "ownership": {
+          "RST": "NONE - employee only (NOT shareholder/director)",
+          "SLG": "33% co-director/shareholder",
+          "RWW": "33% co-director/shareholder",
+          "RegimA_Zone_Ltd": "100% owner (UK company)",
+          "NOTE": "Daniel is son of Peter & Jacqui. He is NOT a 50% member of RST."
+        },
+        "family": {
+          "mother": "Jacqueline Faucitt (PERSON_004)",
+          "father": "Peter Andrew Faucitt (PERSON_001)"
+        }
       },
       {
         "entity_id": "PERSON_006",
@@ -1906,8 +1961,21 @@
         "evidence_enhanced": "2025-12-28T05:36:36.077491",
         "evidence_strength": "strong",
         "evidence_enhanced_timestamp": "2026-01-18T05:36:58.285172",
-        "directors": [],
-        "refinement_date": "2026-03-25T13:32:18.098809"
+        "directors": [
+          "Peter Andrew Faucitt",
+          "Jacqueline Faucitt"
+        ],
+        "refinement_date": "2026-03-25T13:32:18.098809",
+        "ownership": {
+          "Jacqueline_Faucitt": "50%",
+          "Peter_Andrew_Faucitt": "50%",
+          "Daniel_James_Faucitt": "NONE (employee only)",
+          "NOTE": "Daniel is an EMPLOYEE of RST, NOT a director or shareholder"
+        },
+        "employees": [
+          "Daniel James Faucitt (CIO)",
+          "Rynette Farrar (bookkeeper)"
+        ]
       },
       {
         "entity_id": "ORG_003",
