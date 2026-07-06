@@ -73,6 +73,8 @@
 | **Uniform Rules Template Library** | [2026-04-22](./templates/reference/UNIFORM_RULES_TEMPLATE_LIBRARY_2026-04-22.md) | Comprehensive High Court precedent library for the main reusable rule-based filings | **ACTIVE** |
 | **Case-Priority Missing Templates Pack** | [2026-04-22](./templates/reference/CASE_PRIORITY_MISSING_TEMPLATES_2026-04-22.md) | Focused Rule 6 / 7 / 27 / 30 / 30A / 42 templates for Case 2025-137857 | **ACTIVE** |
 | **Templates Folder Index** | [2026-04-22](./templates/index.md) | Canonical directory for reusable procedural templates and subfolder navigation | **ACTIVE** |
+| **LPC Complaint (Elliott Attorneys)** | [v35 (2026-07-06)](./2026-06-01-sca-response-bundle/LPC_COMPLAINT_ELLIOTT_ATTORNEYS.md) | R478,958 conflict-of-interest funding | **NEW** |
+| **Part B Counter-Application (Delinquency)** | [v35 (2026-07-06)](./PART_B_COUNTER_APPLICATION_DELINQUENCY.md) | s162(5)(c) delinquency declaration | **NEW** |
 | **Procedural Hierarchy** | [Five-Tier Framework](./CIVIL_CONTEMPT_ANALYSIS_2026_02_09.md) | *Schlesinger* + *Mokweni* + *Dreyer* | **DOCUMENTED** |
 
 ---

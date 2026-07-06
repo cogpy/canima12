@@ -791,7 +791,7 @@
   },
   {
     "id": "EVENT_108",
-    "title": "EVENT_108: Faucitt Trust Meeting Coordination — Rynette as Gatekeeper",
+    "title": "EVENT_108: Faucitt Trust Meeting Coordination \u2014 Rynette as Gatekeeper",
     "date": "2023-05-03",
     "entities_involved": [],
     "file": "docs/events/EVENT_108.md",
@@ -2292,7 +2292,7 @@
   },
   {
     "id": "EVENT_128",
-    "title": "EVENT_128: Sage Registration Expires — System Lockout",
+    "title": "EVENT_128: Sage Registration Expires \u2014 System Lockout",
     "date": "2025-07-23",
     "entities_involved": [],
     "file": "docs/events/EVENT_128.md",
@@ -2925,7 +2925,7 @@
   },
   {
     "id": "EVENT_130",
-    "title": "Entity Answering Affidavit — Void Ab Initio (EVENT_130)",
+    "title": "Entity Answering Affidavit \u2014 Void Ab Initio (EVENT_130)",
     "date": "2026-02-19",
     "entities_involved": [],
     "file": "docs/events/EVENT_130.md",
@@ -2992,7 +2992,7 @@
   },
   {
     "id": "KF0019_DETAILED_ANALYSIS",
-    "title": "KF0019 Analysis — Urgent Contempt Application (17 March 2026)",
+    "title": "KF0019 Analysis \u2014 Urgent Contempt Application (17 March 2026)",
     "date": "2026-02-25",
     "entities_involved": [],
     "file": "docs/events/KF0019_DETAILED_ANALYSIS.md",
@@ -3272,7 +3272,7 @@
   },
   {
     "id": "EVENT_105",
-    "title": "EA-18: Coordinated Trust/Sage Takeover — 10-Day Window (EVENT_105)",
+    "title": "EA-18: Coordinated Trust/Sage Takeover \u2014 10-Day Window (EVENT_105)",
     "date": "Unknown",
     "entities_involved": [],
     "file": "docs/events/EVENT_105.md",
@@ -3416,7 +3416,7 @@
   },
   {
     "id": "EVENT_119",
-    "title": "EVENT_119: Bantjies Admits \"Manufacturing\" SARS Answer — SMOKING GUN",
+    "title": "EVENT_119: Bantjies Admits \"Manufacturing\" SARS Answer \u2014 SMOKING GUN",
     "date": "Unknown",
     "entities_involved": [
       "PERSON_002",
@@ -3473,7 +3473,7 @@
   },
   {
     "id": "EVENT_INDEX_UPDATE_2026_03_07",
-    "title": "Events Index Update — 2026-03-07",
+    "title": "Events Index Update \u2014 2026-03-07",
     "date": "Unknown",
     "entities_involved": [],
     "file": "docs/events/EVENT_INDEX_UPDATE_2026_03_07.md",
@@ -3510,7 +3510,7 @@
   },
   {
     "id": "EVT-070",
-    "title": "EVT-070: Email Domain Migration — @regima.zone to @regimaskin.co.za",
+    "title": "EVT-070: Email Domain Migration \u2014 @regima.zone to @regimaskin.co.za",
     "date": "Unknown",
     "entities_involved": [],
     "file": "docs/events/EVT-070.md",
@@ -3603,7 +3603,7 @@
   },
   {
     "id": "EVT-076",
-    "title": "EVT-076: Missing Bank Statements — 16-Month Black Hole (Nov 2022 – Apr 2024)",
+    "title": "EVT-076: Missing Bank Statements \u2014 16-Month Black Hole (Nov 2022 \u2013 Apr 2024)",
     "date": "Unknown",
     "entities_involved": [],
     "file": "docs/events/EVT-076.md",
@@ -3630,7 +3630,7 @@
   },
   {
     "id": "EVT-078",
-    "title": "EVT-078: Identity Impersonation — pete@regima.com → pete@regimaskin.co.za",
+    "title": "EVT-078: Identity Impersonation \u2014 pete@regima.com \u2192 pete@regimaskin.co.za",
     "date": "Unknown",
     "entities_involved": [],
     "file": "docs/events/EVT-078.md",
@@ -3711,5 +3711,105 @@
       "app2_cipc_popia",
       "app3_commercial_crime_tax"
     ]
+  },
+  {
+    "id": "EVENT_182",
+    "title": "Peter's 149-Page Answering Affidavit with 12+ Material Admissions",
+    "date": "2026-06-03",
+    "description": "Peter swears answering affidavit (SAPS Bedfordview, Elliott ref KF0019) containing admissions at paras 39.3, 45.6, 53.3, 62.4, 63.5, 63.8, 64.2, 65.3, 75.4, 77.2, 83.2, 84.9, 185.2 that contradict the founding narrative",
+    "entities_involved": [
+      "PERSON_001"
+    ],
+    "evidence_refs": [
+      "F-first-respondents-answering-affidavit.pdf"
+    ],
+    "significance_level": 9,
+    "phase": "appeal_and_response",
+    "added_date": "2026-07-06",
+    "source": "iterative-micro-improvement-v1"
+  },
+  {
+    "id": "EVENT_183",
+    "title": "Stock-Removal Order Granted Ex Parte Under Case 2026-115880",
+    "date": "2026-05-26",
+    "description": "Peter obtains stock-removal order under same case number as Jax's reconsideration application, creating case-number collision",
+    "entities_involved": [
+      "PERSON_001"
+    ],
+    "evidence_refs": [
+      "Peter AA para 7.5"
+    ],
+    "significance_level": 8,
+    "phase": "appeal_and_response",
+    "added_date": "2026-07-06",
+    "source": "iterative-micro-improvement-v1"
+  },
+  {
+    "id": "EVENT_184",
+    "title": "Reconsideration Struck from Roll for Want of Urgency",
+    "date": "2026-06-10",
+    "description": "Case 2026-115880 reconsideration struck from roll \u2014 no order as to costs, merits not determined, interim order stands",
+    "entities_involved": [
+      "PERSON_004"
+    ],
+    "evidence_refs": [
+      "Pool email 10 Jun 18:04",
+      "LETTER TO ELLIOT 10.06.2026.doc"
+    ],
+    "significance_level": 7,
+    "phase": "appeal_and_response",
+    "added_date": "2026-07-06",
+    "source": "iterative-micro-improvement-v1"
+  },
+  {
+    "id": "EVENT_185",
+    "title": "Rynette Farrar / Danie Bantjies Forensic Review Completed",
+    "date": "2026-06-13",
+    "description": "Comprehensive forensic review of Rynette Farrar and Danie Bantjies completed",
+    "entities_involved": [
+      "PERSON_002",
+      "PERSON_007"
+    ],
+    "evidence_refs": [
+      "Rynette_Farrar_Danie_Bantjes_Forensic_Review.docx/pdf"
+    ],
+    "significance_level": 8,
+    "phase": "appeal_and_response",
+    "added_date": "2026-07-06",
+    "source": "iterative-micro-improvement-v1"
+  },
+  {
+    "id": "EVENT_186",
+    "title": "Divorce Enrolled \u2014 Jax Under Notice of Bar",
+    "date": "2026-06-15",
+    "description": "Divorce proceedings (case 2026-034662) enrolled with Jax under notice of bar",
+    "entities_involved": [
+      "PERSON_001",
+      "PERSON_004"
+    ],
+    "evidence_refs": [
+      "07_JUNE_FILINGS_ANALYSIS \u00a72.6"
+    ],
+    "significance_level": 6,
+    "phase": "appeal_and_response",
+    "added_date": "2026-07-06",
+    "source": "iterative-micro-improvement-v1"
+  },
+  {
+    "id": "EVENT_187",
+    "title": "Elliott Attorneys RST Conflict-Funding Pattern Documented",
+    "date": "2026-06-08",
+    "description": "Full R478,957.93 payment schedule from RST ABSA account to Elliott Attorneys documented and analyzed",
+    "entities_involved": [
+      "PERSON_001",
+      "ORG_020"
+    ],
+    "evidence_refs": [
+      "RST_ABSA_4112241409_ELLIOTT_ATTORNEYS_PAYMENTS_2025-08_2026-04.txt"
+    ],
+    "significance_level": 9,
+    "phase": "appeal_and_response",
+    "added_date": "2026-07-06",
+    "source": "iterative-micro-improvement-v1"
   }
 ]

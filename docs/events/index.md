@@ -322,3 +322,33 @@ The following 53 events meet the criminal burden of proof:
 ---
 
 *Last updated: 2026-05-11 by /identical-transcribe -> /evidence-process(/skillm) -> /ksm-evolve(/regima-org-self) -> /optimal-cognitive-grip pipeline.*
+
+---
+
+## v35 Updates (2026-07-06) — Iterative Micro-Improvement Simulation
+
+### New Events (May–June 2026)
+
+| Date | Event | Description | Link |
+|------|-------|-------------|------|
+| **2026-05-26** | **EVENT_183** | **Stock-Removal Order Granted Ex Parte** — Case 2026-115880 collision | [EVENT_183](./EVENT_183.md) |
+| **2026-06-03** | **EVENT_182** | **Peter's 149-Page AA with 12+ Material Admissions** — Contradicts founding narrative | [EVENT_182](./EVENT_182.md) |
+| **2026-06-08** | **EVENT_187** | **Elliott Attorneys RST Conflict-Funding Pattern** — R478,958 documented | [EVENT_187](./EVENT_187.md) |
+| **2026-06-10** | **EVENT_184** | **Reconsideration Struck from Roll** — Want of urgency, interim order stands | [EVENT_184](./EVENT_184.md) |
+| **2026-06-13** | **EVENT_185** | **Rynette/Bantjies Forensic Review Completed** — Criminal threshold evidence | [EVENT_185](./EVENT_185.md) |
+| **2026-06-15** | **EVENT_186** | **Divorce Enrolled** — Jax under notice of bar | [EVENT_186](./EVENT_186.md) |
+
+### v35 Cross-Reference: Events by Filing Application
+
+| Application | Key Events | Burden | Status |
+|-------------|-----------|--------|--------|
+| **SCA Opposition** | EVENT_180, EVENT_182 | Civil 50% | **MET** |
+| **Part B Counter-Application** | EVENT_182, EVENT_181, EVENT_187 | Civil 50% | **MET** |
+| **LPC Complaint** | EVENT_181, EVENT_187 | Professional 50% | **MET** |
+| **Stock-Order Challenge** | EVENT_183 | Civil 50% | **MET** |
+| **Void Ab Initio (Rule 42)** | EVENT_082, EVENT_080, EVENT_081, EVENT_130, EVENT_182 | Civil 50% | **EXCEEDED** |
+| **NPA Commercial Crime** | EVENT_050, EVENT_051, EVENT_063, EVENT_181, EVENT_185 | Criminal 95% | **NEAR** |
+| **Bantjies Perjury (J417)** | EVENT_130, EVENT_137, EVENT_185 | Criminal 95% | **NEAR** |
+
+---
+*Last updated: 2026-07-06 by /skill-genesis(/iterative-micro-improvement) pipeline.*

@@ -85,3 +85,11 @@ title: Entity Index
 | PLATFORM_001 | [Shopify Platform](./PLATFORM_001.md) | Platform | shopify_ecommerce_platform | JF01, JF02, JF06 |
 | PLATFORM_002 | [PLATFORM_002 - Courier Guy](./PLATFORM_002.md) | Platform | Delivery Service |  |
 | TRUST_001 | [Faucitt Family Trust](./TRUST_001.md) | Trust | family_trust_structure_manipulated |  |
+
+## v35 New Entities (2026-07-06)
+
+| ID | Name | Type | Role | Link |
+|----|------|------|------|------|
+| ORG_MAZARS | Mazars (Forvis Mazars) | Professional Services | ISRS 4400 engagement post-interdict | [ORG_MAZARS](./ORG_MAZARS.md) |
+| ORG_LERENA | Lerena Attorneys | Legal | Jax's attorneys for reconsideration | [ORG_LERENA](./ORG_LERENA.md) |
+| PERSON_ADV_POOL | Advocate Deon M Pool | Legal Counsel | Counsel for Jax and Dan | [PERSON_ADV_POOL](./PERSON_ADV_POOL.md) |

@@ -4,6 +4,19 @@
 
 This repository provides a comprehensive, evidence-based view of Case 2025-137857, a multi-faceted criminal enterprise involving revenue stream hijacking, trust fraud, identity theft, and corporate malfeasance with a total quantum exceeding **R63,000,000**.
 
+> **v35 Iterative Micro-Improvement Layer (2026-07-06):** Self-improving legal simulation framework applied. 6 new events (EVENT_182–187), 4 new relations, 3 new entities, LPC complaint against Elliott Attorneys, Part B counter-application for delinquency. Simulation composition: `/skill-genesis(/iterative-micro-improvement(/lexrex[/anylogic-modeler(/ai-env-grp-dyn) + /scm-des(/digitwin) + /cogsim-pml(/acc-fund-flow)]))`.
+>
+> **v35 New Filings:** [LPC Complaint (Elliott Attorneys)](./filings/2026-06-01-sca-response-bundle/LPC_COMPLAINT_ELLIOTT_ATTORNEYS.md) | [Part B Counter-Application (Delinquency)](./filings/PART_B_COUNTER_APPLICATION_DELINQUENCY.md)
+>
+> **v35 New Events:** [EVENT_182](./events/EVENT_182.md) | [EVENT_183](./events/EVENT_183.md) | [EVENT_184](./events/EVENT_184.md) | [EVENT_185](./events/EVENT_185.md) | [EVENT_186](./events/EVENT_186.md) | [EVENT_187](./events/EVENT_187.md)
+>
+> **v35 New Relations:** [RST-Elliott Conflict](./relations/REL_RST_ELLIOTT_CONFLICT.md) | [Peter Admission Chain](./relations/REL_PETER_ADMISSION_CHAIN.md) | [Case Number Collision](./relations/REL_CASE_NUMBER_COLLISION.md) | [Mazars Engagement Anomaly](./relations/REL_MAZARS_ENGAGEMENT_ANOMALY.md)
+>
+> **v35 Burden Assessment:** Civil 80.0% (EXCEEDED) | Criminal 73.0% adversarial (STRONG — needs independent affidavits) | All regulatory filings EXCEED threshold | LPC complaint NEW
+>
+> **v35 Simulation Report:** [Improvement Report](../simulation/IMPROVEMENT_REPORT.json) | [Simulation Framework](../simulation/iterative_micro_improvement.py)
+>
+
 > **v23 Pipeline (2026-04-30):** `/optimal-cognitive-grip ( /lex-digitwin-nn ( /metamathematical-consciousness -> /ksm-lex-evidence-grip < /circled-operators > ) )` — Composed differentiable legal simulation with red-team critique, enterprise scoping, and KSM evidence evolution.
 >
 > **v23 Filings:** [Responding Affidavit (Reconsideration)](./filings/urgent-reconsideration-2026-04-29/RESPONDING_AFFIDAVIT_DJF_2026-04-30_REFINED.md) | [Red-Team Critique (Reconsideration)](./filings/urgent-reconsideration-2026-04-29/RED_TEAM_CRITIQUE_RECONSIDERATION.md) | [Adv. Deon Briefing](./filings/urgent-reconsideration-2026-04-29/ADV_DEON_COMPREHENSIVE_BRIEFING.md)

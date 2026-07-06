@@ -60,3 +60,17 @@ title: Relations Index
 | sabotage_framing_link | [Sabotage-Framing Link Relation](./sabotage_framing_link.md) |  | EVENT110 |
 | shareholder_of | [Shareholder Of Relations](./shareholder_of.md) | TRUST_001, ORG_001, TRUST_001, ORG_017, PERSON_005, ORG_003, PERSON_005, ORG_008, PERSON_013, ORG_008 |  |
 | trustee_of | [Trustee Of Relations](./trustee_of.md) | PERSON_001, TRUST_001, PERSON_004, TRUST_001, PERSON_007, TRUST_001 | SF15 |
+
+---
+
+## v35 New Relations (2026-07-06)
+
+| Relation | Type | Entities | Evidence Strength | Link |
+|----------|------|----------|-------------------|------|
+| **RST-Elliott Legal Funding Conflict** | funds_adversarial_litigation | RST → Elliott Attorneys | 95% | [REL_RST_ELLIOTT_CONFLICT](./REL_RST_ELLIOTT_CONFLICT.md) |
+| **Peter's Self-Contradicting Admission Chain** | self_contradiction | Peter → Peter | 98% | [REL_PETER_ADMISSION_CHAIN](./REL_PETER_ADMISSION_CHAIN.md) |
+| **Case 2026-115880 Number Collision** | procedural_anomaly | Peter → Jax | 90% | [REL_CASE_NUMBER_COLLISION](./REL_CASE_NUMBER_COLLISION.md) |
+| **Mazars Engagement Under Peter's Control** | controlled_engagement | Peter → Mazars | 92% | [REL_MAZARS_ENGAGEMENT_ANOMALY](./REL_MAZARS_ENGAGEMENT_ANOMALY.md) |
+
+---
+*Last updated: 2026-07-06 by /skill-genesis(/iterative-micro-improvement) pipeline.*

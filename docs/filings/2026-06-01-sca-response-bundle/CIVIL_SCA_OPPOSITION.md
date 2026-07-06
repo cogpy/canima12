@@ -99,3 +99,15 @@ This v34 filing preserves the consolidated evidence synthesis from the v33 bundl
 [16]: https://www.gov.za/documents/companies-act "Companies Act 71 of 2008"  
 [17]: https://www.gov.za/documents/protection-personal-information-act "Protection of Personal Information Act 4 of 2013"  
 [18]: https://www.gov.za/documents/tax-administration-act "Tax Administration Act 28 of 2011"
+
+## 4A. Fatal Admissions in Petitioner's 3 June 2026 Answering Affidavit
+
+The Petitioner's subsequent answering affidavit in the main action (sworn 3 June 2026, EVENT_182) contains material admissions that directly contradict the narrative advanced in this petition:
+
+1. **Admission of Unilateral Platform Interference:** At paragraph 63.5, the Petitioner admits "Halting the use thereof [Shopify] was well justified," directly contradicting the founding narrative that the platform failure was a system error or the Respondents' fault.
+2. **Admission of Withholding Financial Records:** At paragraph 75.4, the Petitioner admits financial statements were withheld "pending a final decision," contradicting claims of transparent governance.
+3. **Admission of Factional Agency:** At paragraph 64.2, the Petitioner states "Ms Farrar acts on my instructions only," legally binding the Petitioner to the bookkeeper's actions (including the 8 July 2024 forged Sage transfer and 17 June 2025 fraudulent loan creation).
+4. **Contradiction of Foundation Interdict:** At paragraphs 77.2, 83.2, and 185.2, the Petitioner claims the Respondents were "merely interdicted… not excluded," which directly contradicts the express wording of his own 19 August 2025 order (para 2.6: "to the exclusion of").
+
+These sworn admissions fundamentally undermine the prospects of success on appeal, as the Petitioner's own subsequent evidence defeats the case advanced in the petition.
+

@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "version": "29.0_FINAL_REFINED_2026_01_22",
+    "version": "30.0_SIMULATION_REFINED_2026_07_06",
     "created_date": "2025-11-10",
-    "description": "Timeline refined with 7 new events from 1,632 Bantjies-Farrar communications",
+    "description": "Timeline of Revenue Stream Hijacking Case 2025-137857 \u2014 157 events (refined by iterative-micro-improvement simulation)",
     "case_number": "2025-137857",
     "last_updated": "2026-03-25T13:32:39.260358",
     "changes": "Comprehensive LEX refinement - timeline completeness",
@@ -3844,6 +3844,121 @@
         "Daniel Jacobus Bantjies"
       ],
       "event_ref": "EVENT_GEN_202605"
+    },
+    {
+      "date": "2026-05-26",
+      "event_ref": "EVENT_183",
+      "title": "Stock-Removal Order Granted Ex Parte Under Case 2026-115880",
+      "description": "Peter obtains stock-removal order under same case number as Jax's reconsideration application, creating case-number collision",
+      "category": "legal_proceedings",
+      "significance_level": 8,
+      "actors": [
+        "PERSON_001"
+      ],
+      "entities_involved": [
+        "PERSON_001"
+      ],
+      "added_date": "2026-07-06",
+      "evidence_refs": [
+        "Peter AA para 7.5"
+      ]
+    },
+    {
+      "date": "2026-06-03",
+      "event_ref": "EVENT_182",
+      "title": "Peter's 149-Page Answering Affidavit with 12+ Material Admissions",
+      "description": "Peter swears answering affidavit (SAPS Bedfordview, Elliott ref KF0019) containing admissions at paras 39.3, 45.6, 53.3, 62.4, 63.5, 63.8, 64.2, 65.3, 75.4, 77.2, 83.2, 84.9, 185.2 that contradict the founding narrative",
+      "category": "legal_proceedings",
+      "significance_level": 9,
+      "actors": [
+        "PERSON_001"
+      ],
+      "entities_involved": [
+        "PERSON_001"
+      ],
+      "added_date": "2026-07-06",
+      "evidence_refs": [
+        "F-first-respondents-answering-affidavit.pdf"
+      ]
+    },
+    {
+      "date": "2026-06-08",
+      "event_ref": "EVENT_187",
+      "title": "Elliott Attorneys RST Conflict-Funding Pattern Documented",
+      "description": "Full R478,957.93 payment schedule from RST ABSA account to Elliott Attorneys documented and analyzed",
+      "category": "legal_proceedings",
+      "significance_level": 9,
+      "actors": [
+        "PERSON_001",
+        "ORG_020"
+      ],
+      "entities_involved": [
+        "PERSON_001",
+        "ORG_020"
+      ],
+      "added_date": "2026-07-06",
+      "evidence_refs": [
+        "RST_ABSA_4112241409_ELLIOTT_ATTORNEYS_PAYMENTS_2025-08_2026-04.txt"
+      ]
+    },
+    {
+      "date": "2026-06-10",
+      "event_ref": "EVENT_184",
+      "title": "Reconsideration Struck from Roll for Want of Urgency",
+      "description": "Case 2026-115880 reconsideration struck from roll \u2014 no order as to costs, merits not determined, interim order stands",
+      "category": "legal_proceedings",
+      "significance_level": 7,
+      "actors": [
+        "PERSON_004"
+      ],
+      "entities_involved": [
+        "PERSON_004"
+      ],
+      "added_date": "2026-07-06",
+      "evidence_refs": [
+        "Pool email 10 Jun 18:04",
+        "LETTER TO ELLIOT 10.06.2026.doc"
+      ]
+    },
+    {
+      "date": "2026-06-13",
+      "event_ref": "EVENT_185",
+      "title": "Rynette Farrar / Danie Bantjies Forensic Review Completed",
+      "description": "Comprehensive forensic review of Rynette Farrar and Danie Bantjies completed",
+      "category": "legal_proceedings",
+      "significance_level": 8,
+      "actors": [
+        "PERSON_002",
+        "PERSON_007"
+      ],
+      "entities_involved": [
+        "PERSON_002",
+        "PERSON_007"
+      ],
+      "added_date": "2026-07-06",
+      "evidence_refs": [
+        "Rynette_Farrar_Danie_Bantjes_Forensic_Review.docx/pdf"
+      ]
+    },
+    {
+      "date": "2026-06-15",
+      "event_ref": "EVENT_186",
+      "title": "Divorce Enrolled \u2014 Jax Under Notice of Bar",
+      "description": "Divorce proceedings (case 2026-034662) enrolled with Jax under notice of bar",
+      "category": "legal_proceedings",
+      "significance_level": 6,
+      "actors": [
+        "PERSON_001",
+        "PERSON_004"
+      ],
+      "entities_involved": [
+        "PERSON_001",
+        "PERSON_004"
+      ],
+      "added_date": "2026-07-06",
+      "evidence_refs": [
+        "07_JUNE_FILINGS_ANALYSIS \u00a72.6"
+      ]
     }
   ],
   "strategic_implications": {

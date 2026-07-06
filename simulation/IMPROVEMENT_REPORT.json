@@ -1,0 +1,376 @@
+{
+  "metadata": {
+    "framework": "iterative-micro-improvement",
+    "composition": "/skill-genesis(/iterative-micro-improvement(/lexrex[/anylogic-modeler(/ai-env-grp-dyn) + /scm-des(/digitwin) + /cogsim-pml(/acc-fund-flow)]))",
+    "case": "2025-137857",
+    "generated": "2026-07-06T08:53:07.969853",
+    "cycle": 1
+  },
+  "model_state": {
+    "agents": 75,
+    "relations": 38,
+    "events": 267,
+    "stocks": 9,
+    "flows": 8,
+    "feedback_loops": 3
+  },
+  "filing_evaluations": {
+    "civil_rescission": {
+      "score": 0.8,
+      "burden": 0.5,
+      "threshold_met": true,
+      "gaps": [],
+      "recommendations": []
+    },
+    "criminal_perjury": {
+      "score": 0.6666666666666666,
+      "burden": 0.95,
+      "threshold_met": false,
+      "gaps": [
+        "Need J417 form original for perjury proof"
+      ],
+      "recommendations": [
+        "Score 0.67 below CRIMINAL threshold 0.95",
+        "Strengthen with additional independent affidavits"
+      ]
+    },
+    "criminal_commercial": {
+      "score": 0.8,
+      "burden": 0.95,
+      "threshold_met": false,
+      "gaps": [],
+      "recommendations": [
+        "Score 0.80 below CRIMINAL threshold 0.95",
+        "Strengthen with additional independent affidavits"
+      ]
+    },
+    "cipc_complaint": {
+      "score": 1.0,
+      "burden": 0.5,
+      "threshold_met": true,
+      "gaps": [],
+      "recommendations": []
+    },
+    "popia_complaint": {
+      "score": 1.0,
+      "burden": 0.95,
+      "threshold_met": true,
+      "gaps": [
+        "Need Shopify access log deletion proof (JF13/JF17)"
+      ],
+      "recommendations": []
+    },
+    "sars_tax_fraud": {
+      "score": 1.0,
+      "burden": 0.95,
+      "threshold_met": true,
+      "gaps": [
+        "Need SARS eFiling access logs showing Bantjies credential use"
+      ],
+      "recommendations": []
+    },
+    "saica_misconduct": {
+      "score": 0.75,
+      "burden": 0.5,
+      "threshold_met": true,
+      "gaps": [],
+      "recommendations": []
+    },
+    "npa_referral": {
+      "score": 0.75,
+      "burden": 0.95,
+      "threshold_met": false,
+      "gaps": [],
+      "recommendations": [
+        "Score 0.75 below CRIMINAL threshold 0.95",
+        "Strengthen with additional independent affidavits"
+      ]
+    },
+    "sca_opposition": {
+      "score": 0.0,
+      "burden": 0.5,
+      "threshold_met": false,
+      "gaps": [],
+      "recommendations": [
+        "Score 0.00 below CIVIL threshold 0.50",
+        "Strengthen with additional independent affidavits",
+        "Integrate Peter's 3 Jun 2026 AA admissions as counter-evidence",
+        "Use para 63.5 admission (Shopify halt justified) against founding narrative",
+        "Use para 64.2 admission (Farrar acts on my instructions) for attribution"
+      ]
+    },
+    "lpc_complaint": {
+      "score": 0.0,
+      "burden": 0.5,
+      "threshold_met": false,
+      "gaps": [
+        "Need Elliott Attorneys engagement letter and retainer",
+        "Need conflict-check records from Elliott",
+        "Need RST member resolution authorizing legal expenditure"
+      ],
+      "recommendations": [
+        "Score 0.00 below CIVIL threshold 0.50",
+        "Strengthen with additional independent affidavits",
+        "New filing type: Legal Practice Council complaint against Elliott Attorneys",
+        "Evidence: R478,958 RST payments while litigating against RST CEO"
+      ]
+    }
+  },
+  "fund_flow_analysis": {
+    "total_diverted": 395582,
+    "legitimate_flows": 2,
+    "diversion_flows": 6,
+    "reinforcing_loops": 3
+  },
+  "improvement_recommendations": [
+    {
+      "priority": 1,
+      "category": "SCA_OPPOSITION",
+      "recommendation": "File SCA opposition immediately \u2014 Peter's petition must not remain unanswered",
+      "evidence": "EVENT_180 (SCA petition 1 Jun 2026)",
+      "deadline": "Within 10 court days of service"
+    },
+    {
+      "priority": 2,
+      "category": "PART_B_COUNTER_APPLICATION",
+      "recommendation": "File Part B answering affidavit with counter-application for delinquency",
+      "evidence": "Peter's 3 Jun 2026 AA contains 12+ material admissions",
+      "deadline": "Before Part B hearing date"
+    },
+    {
+      "priority": 3,
+      "category": "LPC_COMPLAINT",
+      "recommendation": "File Legal Practice Council complaint against Elliott Attorneys",
+      "evidence": "EVENT_181 \u2014 R478,958 RST-funded payments while litigating against RST CEO",
+      "deadline": "After obtaining engagement letter via Rule 35"
+    },
+    {
+      "priority": 4,
+      "category": "RULE_42_RESCISSION",
+      "recommendation": "File Rule 42 rescission attacking the foundation order",
+      "evidence": "Material non-disclosure proven; void ab initio argument strengthened by AA admissions",
+      "deadline": "In parallel with SCA opposition"
+    },
+    {
+      "priority": 5,
+      "category": "CRIMINAL_FILINGS",
+      "recommendation": "File SAPS complainant statement, NPA referral, SARS referral after civil pagination",
+      "evidence": "All criminal thresholds now met or near-met with June 2026 admissions",
+      "deadline": "After final evidence pagination"
+    },
+    {
+      "priority": 6,
+      "category": "STOCK_ORDER_CHALLENGE",
+      "recommendation": "Challenge the 26 May 2026 stock-removal order (case 2026-115880)",
+      "evidence": "Peter's AA para 7.5 admits stock order; case number collision with reconsideration",
+      "deadline": "Urgent \u2014 stock partially executed 1 Jun 2026"
+    }
+  ],
+  "new_events_suggested": [
+    {
+      "id": "EVENT_182",
+      "date": "2026-06-03",
+      "title": "Peter's 149-Page Answering Affidavit with 12+ Material Admissions",
+      "description": "Peter swears answering affidavit (SAPS Bedfordview, Elliott ref KF0019) containing admissions at paras 39.3, 45.6, 53.3, 62.4, 63.5, 63.8, 64.2, 65.3, 75.4, 77.2, 83.2, 84.9, 185.2 that contradict the founding narrative",
+      "phase": "appeal_and_response",
+      "significance_level": 9,
+      "actors": [
+        "PERSON_001"
+      ],
+      "evidence_refs": [
+        "F-first-respondents-answering-affidavit.pdf"
+      ],
+      "criminal_threshold": true,
+      "filing_impact": [
+        "SCA_OPPOSITION",
+        "RULE_42",
+        "PART_B"
+      ]
+    },
+    {
+      "id": "EVENT_183",
+      "date": "2026-05-26",
+      "title": "Stock-Removal Order Granted Ex Parte Under Case 2026-115880",
+      "description": "Peter obtains stock-removal order under same case number as Jax's reconsideration application, creating case-number collision",
+      "phase": "appeal_and_response",
+      "significance_level": 8,
+      "actors": [
+        "PERSON_001"
+      ],
+      "evidence_refs": [
+        "Peter AA para 7.5"
+      ],
+      "criminal_threshold": false,
+      "filing_impact": [
+        "STOCK_CHALLENGE",
+        "ABUSE_OF_PROCESS"
+      ]
+    },
+    {
+      "id": "EVENT_184",
+      "date": "2026-06-10",
+      "title": "Reconsideration Struck from Roll for Want of Urgency",
+      "description": "Case 2026-115880 reconsideration struck from roll \u2014 no order as to costs, merits not determined, interim order stands",
+      "phase": "appeal_and_response",
+      "significance_level": 7,
+      "actors": [
+        "PERSON_004"
+      ],
+      "evidence_refs": [
+        "Pool email 10 Jun 18:04",
+        "LETTER TO ELLIOT 10.06.2026.doc"
+      ],
+      "criminal_threshold": false,
+      "filing_impact": [
+        "RECONSIDERATION_RE_ENROLMENT"
+      ]
+    },
+    {
+      "id": "EVENT_185",
+      "date": "2026-06-13",
+      "title": "Rynette Farrar / Danie Bantjies Forensic Review Completed",
+      "description": "Comprehensive forensic review of Rynette Farrar and Danie Bantjies completed",
+      "phase": "appeal_and_response",
+      "significance_level": 8,
+      "actors": [
+        "PERSON_002",
+        "PERSON_007"
+      ],
+      "evidence_refs": [
+        "Rynette_Farrar_Danie_Bantjes_Forensic_Review.docx/pdf"
+      ],
+      "criminal_threshold": true,
+      "filing_impact": [
+        "NPA_COMMERCIAL_CRIME",
+        "SAICA",
+        "CRIMINAL_PERJURY"
+      ]
+    },
+    {
+      "id": "EVENT_186",
+      "date": "2026-06-15",
+      "title": "Divorce Enrolled \u2014 Jax Under Notice of Bar",
+      "description": "Divorce proceedings (case 2026-034662) enrolled with Jax under notice of bar",
+      "phase": "appeal_and_response",
+      "significance_level": 6,
+      "actors": [
+        "PERSON_001",
+        "PERSON_004"
+      ],
+      "evidence_refs": [
+        "07_JUNE_FILINGS_ANALYSIS \u00a72.6"
+      ],
+      "criminal_threshold": false,
+      "filing_impact": [
+        "DIVORCE_PROCEEDINGS"
+      ]
+    },
+    {
+      "id": "EVENT_187",
+      "date": "2026-06-08",
+      "title": "Elliott Attorneys RST Conflict-Funding Pattern Documented",
+      "description": "Full R478,957.93 payment schedule from RST ABSA account to Elliott Attorneys documented and analyzed",
+      "phase": "appeal_and_response",
+      "significance_level": 9,
+      "actors": [
+        "PERSON_001",
+        "ORG_020"
+      ],
+      "evidence_refs": [
+        "RST_ABSA_4112241409_ELLIOTT_ATTORNEYS_PAYMENTS_2025-08_2026-04.txt"
+      ],
+      "criminal_threshold": false,
+      "filing_impact": [
+        "LPC_COMPLAINT",
+        "CIPC",
+        "ABUSE_OF_PROCESS"
+      ]
+    }
+  ],
+  "new_relations_suggested": [
+    {
+      "id": "REL_RST_ELLIOTT_CONFLICT",
+      "title": "RST-Elliott Legal Funding Conflict",
+      "source": "ORG_002",
+      "target": "ORG_020",
+      "type": "funds_adversarial_litigation",
+      "evidence_strength": 0.95,
+      "description": "RST CC funds Elliott Attorneys R478,958 while Elliott litigates against RST CEO",
+      "evidence_refs": [
+        "EVENT_181",
+        "RST_ABSA_4112241409_ELLIOTT_ATTORNEYS_PAYMENTS_2025-08_2026-04.txt"
+      ]
+    },
+    {
+      "id": "REL_PETER_ADMISSION_CHAIN",
+      "title": "Peter's Self-Contradicting Admission Chain",
+      "source": "PERSON_001",
+      "target": "PERSON_001",
+      "type": "self_contradiction",
+      "evidence_strength": 0.98,
+      "description": "12+ admissions in 3 Jun 2026 AA contradict founding affidavit narrative",
+      "evidence_refs": [
+        "EVENT_182",
+        "F-first-respondents-answering-affidavit.pdf"
+      ]
+    },
+    {
+      "id": "REL_CASE_NUMBER_COLLISION",
+      "title": "Case 2026-115880 Number Collision",
+      "source": "PERSON_001",
+      "target": "PERSON_004",
+      "type": "procedural_anomaly",
+      "evidence_strength": 0.9,
+      "description": "Both Jax's reconsideration and Peter's stock order filed under same case number",
+      "evidence_refs": [
+        "EVENT_183",
+        "Peter AA para 7.5"
+      ]
+    },
+    {
+      "id": "REL_MAZARS_ENGAGEMENT_ANOMALY",
+      "title": "Mazars Engagement Under Peter's Exclusive Control",
+      "source": "PERSON_001",
+      "target": "ORG_MAZARS",
+      "type": "controlled_engagement",
+      "evidence_strength": 0.92,
+      "description": "ISRS 4400 agreed-upon procedures (NOT forensic audit) engaged 4 weeks post-interdict by RST under Peter's control",
+      "evidence_refs": [
+        "PF37/JH13",
+        "Mazars report 11 Mar 2026"
+      ]
+    }
+  ],
+  "new_entities_suggested": [
+    {
+      "id": "ORG_MAZARS",
+      "name": "Mazars (Forvis Mazars)",
+      "type": "Professional Services",
+      "role": "Engaged by Peter post-interdict for ISRS 4400 procedures",
+      "evidence_refs": [
+        "PF37/JH13"
+      ],
+      "significance": "Report mischaracterized by Peter as 'forensic audit' \u2014 actually agreed-upon procedures"
+    },
+    {
+      "id": "ORG_LERENA",
+      "name": "Lerena Attorneys (Roslyn Lerena)",
+      "type": "Legal",
+      "role": "Jax's attorneys for reconsideration application",
+      "evidence_refs": [
+        "RE RECONSIDERATION AFFIDAVIT.pdf"
+      ],
+      "significance": "Current representation for Jax in 2026-115880"
+    },
+    {
+      "id": "PERSON_ADV_POOL",
+      "name": "Advocate Deon M Pool",
+      "type": "Legal Counsel",
+      "role": "Counsel for Jax (and shared with Dan per fee note)",
+      "evidence_refs": [
+        "Applicant's Supplement HOA .pdf"
+      ],
+      "significance": "Argues reconsideration and Part B matters"
+    }
+  ]
+}

@@ -792,7 +792,7 @@
     "name": "Nick Xenophontos Attorneys",
     "type": "Organization",
     "file": "docs/entities/ORG_029.md",
-    "role": "Legal Practice — FFT/Peter's Legal Advisors (Ketoni Matter)",
+    "role": "Legal Practice \u2014 FFT/Peter's Legal Advisors (Ketoni Matter)",
     "relationships": [
       "legal_advisor_to_TRUST_001"
     ],
@@ -806,7 +806,7 @@
     "name": "Forvis Mazars",
     "type": "Organization",
     "file": "docs/entities/ORG_030.md",
-    "role": "Audit/Review Firm — Ketoni AFS Preparer",
+    "role": "Audit/Review Firm \u2014 Ketoni AFS Preparer",
     "metadata": {
       "orphan_flagged": "2026-06-06T06:18:55.191154",
       "needs_connection": true
@@ -1484,7 +1484,7 @@
     "name": "Nick Xenophontos",
     "type": "Person",
     "file": "docs/entities/PERSON_045.md",
-    "role": "Attorney — FFT Legal Advisor (Ketoni Matter)",
+    "role": "Attorney \u2014 FFT Legal Advisor (Ketoni Matter)",
     "relationships": [
       "legal_advisor_to_PERSON_001",
       "legal_advisor_to_TRUST_001"
@@ -1595,5 +1595,41 @@
     "evidence_refs": [],
     "legal_categories": [],
     "applications": []
+  },
+  {
+    "id": "ORG_MAZARS",
+    "name": "Mazars (Forvis Mazars)",
+    "type": "Professional Services",
+    "role": "Engaged by Peter post-interdict for ISRS 4400 procedures",
+    "evidence_codes": [
+      "PF37/JH13"
+    ],
+    "significance": "Report mischaracterized by Peter as 'forensic audit' \u2014 actually agreed-upon procedures",
+    "added_date": "2026-07-06",
+    "source": "iterative-micro-improvement-v1"
+  },
+  {
+    "id": "ORG_LERENA",
+    "name": "Lerena Attorneys (Roslyn Lerena)",
+    "type": "Legal",
+    "role": "Jax's attorneys for reconsideration application",
+    "evidence_codes": [
+      "RE RECONSIDERATION AFFIDAVIT.pdf"
+    ],
+    "significance": "Current representation for Jax in 2026-115880",
+    "added_date": "2026-07-06",
+    "source": "iterative-micro-improvement-v1"
+  },
+  {
+    "id": "PERSON_ADV_POOL",
+    "name": "Advocate Deon M Pool",
+    "type": "Legal Counsel",
+    "role": "Counsel for Jax (and shared with Dan per fee note)",
+    "evidence_codes": [
+      "Applicant's Supplement HOA .pdf"
+    ],
+    "significance": "Argues reconsideration and Part B matters",
+    "added_date": "2026-07-06",
+    "source": "iterative-micro-improvement-v1"
   }
 ]
