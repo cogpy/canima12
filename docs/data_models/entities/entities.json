@@ -1,139 +1,15 @@
 {
   "metadata": {
-    "version": "v32.0_COMPLETE_CIPC_MANDATES_2026_01_29",
+    "version": "40.0_COMPREHENSIVE_BACKFILL_2026_07_06",
     "created_date": "2025-11-10",
     "description": "Refined entity model for Revenue Stream Hijacking case 2025-137857",
     "case_number": "2025-137857",
     "modeling_approach": "agentic_entity_modeling",
-    "last_updated": "2026-03-25 13:32:30",
-    "changes": "Added Daniel as RWD Director with FNB mandate, completed SLG mandates, updated all juristic entities with CIPC/Windeed data",
-    "total_entities": 65,
-    "account_mandates_summary": {
-      "fnb_rwd_mandate": {
-        "entity": "Regima Worldwide Distribution (Pty) Ltd",
-        "account": "62323196362",
-        "bank": "FNB",
-        "mandate_type": "INDEPENDENT_DIRECTOR_AUTHORITY",
-        "description": "Any director may act independently of each other",
-        "co_signature_required": false,
-        "directors_with_authority": [
-          "PERSON_001",
-          "PERSON_004"
-        ],
-        "confirmation_date": "2025-06-18",
-        "confirmed_by": "Mpumi Netshipale (FNB Business Relationship Manager)",
-        "evidence": "FNB_RESPONSE_EMAIL_2025_06_18"
-      }
-    },
-    "corporate_structure_summary": {
-      "trust": {
-        "TRUST_001": {
-          "name": "Faucitt Family Trust",
-          "trustees": [
-            {
-              "id": "PERSON_001",
-              "name": "Peter Andrew Faucitt",
-              "role": "Main Trustee",
-              "status": "active"
-            },
-            {
-              "id": "PERSON_004",
-              "name": "Jacqueline Faucitt",
-              "role": "Trustee",
-              "status": "active"
-            },
-            {
-              "id": "PERSON_007",
-              "name": "Danie Bantjies",
-              "role": "Trustee",
-              "status": "active",
-              "appointment": "unlawful"
-            }
-          ],
-          "beneficiaries": [
-            {
-              "id": "PERSON_001",
-              "name": "Peter Andrew Faucitt",
-              "share": "1/3"
-            },
-            {
-              "id": "PERSON_004",
-              "name": "Jacqueline Faucitt",
-              "share": "1/3"
-            },
-            {
-              "id": "PERSON_005",
-              "name": "Daniel James Faucitt",
-              "share": "1/3"
-            }
-          ],
-          "assets": [
-            "ORG_001",
-            "ORG_005"
-          ],
-          "pending_payout": {
-            "source": "Ketoni Investment Holdings",
-            "amount": "ZAR 18,750,000",
-            "due_date": "May 2026"
-          }
-        }
-      },
-      "companies": {
-        "ORG_001": {
-          "name": "Regima Worldwide Distribution (Pty) Ltd",
-          "directors": [
-            "PERSON_001",
-            "PERSON_004"
-          ],
-          "bank_mandate": "Independent director authority (FNB)"
-        },
-        "ORG_002": {
-          "name": "Regima Skin Treatments CC",
-          "members": [
-            {
-              "id": "PERSON_001",
-              "share": "50%"
-            },
-            {
-              "id": "PERSON_004",
-              "share": "50%",
-              "role": "CEO"
-            }
-          ]
-        },
-        "ORG_003": {
-          "name": "RegimA Zone Ltd",
-          "jurisdiction": "United Kingdom",
-          "owner": "PERSON_005",
-          "role": "Infrastructure owner (Shopify)"
-        },
-        "ORG_004": {
-          "name": "Strategic Logistics Group",
-          "directors": [
-            "PERSON_001"
-          ],
-          "shareholding": [
-            {
-              "id": "PERSON_001",
-              "share": "33%"
-            }
-          ]
-        },
-        "ORG_005": {
-          "name": "Villa Via",
-          "directors": [
-            "PERSON_001"
-          ],
-          "shareholding": [
-            {
-              "id": "PERSON_001",
-              "share": "50%"
-            }
-          ],
-          "role": "Rental property / wealth extraction"
-        }
-      }
-    }
+    "last_updated": "2026-07-06T12:15:27.086912",
+    "changes": "Comprehensive LEX refinement - burden of proof analysis added",
+    "total_entities": 94,
+    "total_persons": 42,
+    "total_organizations": 53
   },
   "entities": {
     "persons": [
@@ -143,7 +19,7 @@
         "id_number": "820430 5708 18 5",
         "role": "primary_perpetrator",
         "agent_type": "antagonist",
-        "involvement_events": 11,
+        "involvement_events": 12,
         "primary_actions": [
           "trust_structure_manipulation",
           "unauthorized_transfers",
@@ -151,7 +27,10 @@
           "warehouse_popi_violations",
           "account_manipulation",
           "trust_asset_misappropriation",
-          "trust_breach"
+          "trust_breach",
+          "fiduciary_breach_regima_sa",
+          "company_destruction_to_harm_co_director",
+          "shopify_revenue_diversion"
         ],
         "relationships": [
           "trustee_of_family_trust",
@@ -178,8 +57,7 @@
           "EVENT_017",
           "EVENT_018",
           "EVENT_019",
-          "EVENT_020",
-          "EVENT_FNB_001"
+          "EVENT_020"
         ],
         "evidence": [
           "JF01 - Shopify Plus email evidence",
@@ -188,7 +66,12 @@
           "JF08 - Email correspondence and fraud evidence",
           "JF09 - Court order timeline cross-reference",
           "SF9 - Ian Levitt R63M demand letter",
-          "PAF_FNB_FRAUD_LETTER_2025_06_17 - Director's letter acknowledging suspected fraud"
+          "347975701_REGIMA_SA_K201708793507.Pdf - CIPC record showing director status",
+          "FORMAL NOTICE - CESSATION OF CRIMINAL INSTRUCTIONS.pdf",
+          "POPIA_VIOLATION_NOTICE_&_RETALIATION_TIMELINE.pdf",
+          "62707308252 2024-10-07.pdf - Bank statement showing healthy business",
+          "62707308252 2025-03-06.pdf - Bank statement showing asset stripping",
+          "RegimA SA Shopify Plus - Total sales over time.pdf"
         ],
         "ad_res_j7_references": [
           "ANNEXURES/JF01 - Shopify Plus email showing business structure",
@@ -199,265 +82,116 @@
           "SF2_Sage_Screenshots_Rynette_Control.md - System control evidence",
           "SF6_Kayla_Pretorius_Estate_Documentation.md - Trigger event for appropriation",
           "SF9_Ian_Levitt_Demand_Letter.md - R63M formal demand (ignored)",
-          "ANNEXURES/JF08/evidence_package_20251012/README.md - Comprehensive fraud documentation",
-          "ANNEXURES/SF1_Bantjies_Debt_Documentation.md - Financial manipulation evidence",
-          "jax-response/ANSWERING_AFFIDAVIT_JACQUI.md - Court testimony"
+          "KETONI_PAYOUT_INTEGRATION_SUMMARY_V48-49.md - Central financial motive",
+          "evidence/FFT_KETONI_INVESTMENT_TIMELINE_V49.md - Comprehensive timeline"
         ],
-        "evidence_enhanced": "2026-01-29T03:13:56.415951",
+        "evidence_enhanced": "2025-12-28T05:36:36.077423",
         "evidence_strength": "conclusive",
         "criminal_threshold": "95%_exceeded",
-        "fnb_fraud_letter_admission": {
-          "date": "2025-06-17",
-          "key_admissions": [
-            "Suspected fraud on RWD account",
-            "Prior request to cancel 3 debit cards",
-            "FNB could be accessory after the fact",
-            "Potential Exchange Control violations"
+        "ad_res_j7_evidence_enhanced": [
+          "ANNEXURES/JF01 - Shopify Plus email evidence",
+          "ANNEXURES/JF04 - CIPC company records",
+          "ANNEXURES/JF08/evidence_package_20251012",
+          "1-CIVIL-RESPONSE/ANSWERING_AFFIDAVIT_JACQUI.md",
+          "SF9_Ian_Levitt_Demand_Letter.md"
+        ],
+        "evidence_enhanced_timestamp": "2026-01-18T05:36:58.285069",
+        "ketoni_payout_context": {
+          "financial_motive": "Control and maximize personal share of ZAR 18.75M Ketoni payout (May 2026)",
+          "payout_amount": "ZAR 18.75M",
+          "payout_date": "2026-05",
+          "beneficiary_entitlement": "1/3 share as FFT beneficiary",
+          "control_mechanisms": [
+            "forum_shopping_family_court",
+            "trustee_power_backdating",
+            "beneficiary_neutralization_via_interdict",
+            "curatorship_fraud_attempt"
           ],
-          "contradicts_court_position": true
+          "timing_analysis": "All control actions T-9 to T-10 months before May 2026 payout - VERIFIED",
+          "red_flags": [
+            "family_court_instead_of_commercial_court",
+            "main_trustee_backdated_to_2025-07-01",
+            "interdict_filed_2025-08-13_T-9_months",
+            "medical_testing_rushed_for_curatorship"
+          ]
         },
-        "shareholdings": [
-          {
-            "entity_id": "ORG_001",
-            "entity_name": "Regima Worldwide Distribution (Pty) Ltd",
-            "percentage": "unknown",
-            "status": "active",
-            "evidence": [
-              "CIPC records",
-              "JF04"
-            ]
-          },
-          {
-            "entity_id": "ORG_002",
-            "entity_name": "Regima Skin Treatments CC",
-            "percentage": "50%",
-            "status": "active",
-            "evidence": [
-              "CIPC records",
-              "JF04"
-            ]
-          },
-          {
-            "entity_id": "ORG_004",
-            "entity_name": "Strategic Logistics Group",
-            "percentage": "33%",
-            "status": "active",
-            "evidence": [
-              "CIPC records"
-            ]
-          },
-          {
-            "entity_id": "ORG_005",
-            "entity_name": "Villa Via",
-            "percentage": "50%",
-            "status": "active",
-            "evidence": [
-              "CIPC records"
-            ]
-          }
-        ],
-        "directorships": [
-          {
-            "entity_id": "ORG_001",
-            "entity_name": "Regima Worldwide Distribution (Pty) Ltd",
-            "role": "Director",
-            "status": "active",
-            "appointment_date": "unknown",
-            "evidence": [
-              "CIPC records",
-              "JF04",
-              "FNB_RESPONSE_EMAIL_2025_06_18"
-            ]
-          },
-          {
-            "entity_id": "ORG_002",
-            "entity_name": "Regima Skin Treatments CC",
-            "role": "Member",
-            "status": "active",
-            "evidence": [
-              "CIPC records"
-            ]
-          },
-          {
-            "entity_id": "ORG_004",
-            "entity_name": "Strategic Logistics Group",
-            "role": "Director",
-            "status": "active",
-            "evidence": [
-              "CIPC records"
-            ]
-          },
-          {
-            "entity_id": "ORG_005",
-            "entity_name": "Villa Via",
-            "role": "Director",
-            "status": "active",
-            "evidence": [
-              "CIPC records"
-            ]
-          }
-        ],
-        "account_mandates": [
-          {
-            "entity_id": "ORG_001",
-            "entity_name": "Regima Worldwide Distribution (Pty) Ltd",
-            "bank": "FNB",
-            "account_number": "62323196362",
-            "authority_type": "SOLE_INDEPENDENT_AUTHORITY",
-            "description": "SOLE authority to act independently - no co-signature required",
-            "co_signature_required": false,
-            "evidence": [
-              "FNB_RESPONSE_EMAIL_2025_06_18"
-            ],
-            "fnb_confirmation_date": "2025-06-18",
-            "fnb_contact": "Mpumi Netshipale (Business Relationship Manager)",
-            "can_act_alone": true,
-            "NOT_percentage_based": true,
-            "fnb_confirmation": {
-              "date": "2025-06-18",
-              "source": "FNB Response Email",
-              "contact": "Mpumi Netshipale (Business Relationship Manager)",
-              "quote": "The current mandate states that any of the directors of the company may act independently of each other"
-            }
-          },
-          {
-            "entity_id": "ORG_004",
-            "entity_name": "Strategic Logistics Group CC",
-            "bank": "FNB",
-            "authority_type": "MEMBER_AUTHORITY",
-            "description": "Member authority based on CC agreement",
-            "evidence": [
-              "CC agreement"
-            ]
-          }
-        ],
-        "trustee_positions": [
-          {
-            "trust_id": "TRUST_001",
-            "trust_name": "Faucitt Family Trust",
-            "role": "Main Trustee",
-            "status": "active",
-            "appointment_date": "2025-07-01",
-            "backdated": true,
-            "backdating_evidence": "Document signed 2025-08-11, backdated to 2025-07-01",
-            "evidence": [
-              "Trust documents",
-              "JF06"
-            ]
-          }
-        ],
-        "fiduciary_duties": [
-          {
-            "entity_id": "TRUST_001",
-            "entity_name": "Faucitt Family Trust",
-            "duty_type": "Trustee fiduciary duty",
-            "beneficiaries": [
-              "PERSON_001",
-              "PERSON_004",
-              "PERSON_005"
-            ],
-            "status": "BREACHED",
-            "breach_evidence": [
-              "Interdict against beneficiaries",
-              "Asset control actions"
-            ]
-          },
-          {
-            "entity_id": "ORG_001",
-            "entity_name": "Regima Worldwide Distribution (Pty) Ltd",
-            "duty_type": "Director fiduciary duty (Companies Act s76)",
-            "status": "BREACHED",
-            "breach_evidence": [
-              "FNB fraud letter admission",
-              "Revenue diversion"
-            ]
-          }
-        ],
-        "memberships": [
-          {
-            "entity_id": "ORG_004",
-            "entity_name": "Strategic Logistics Group CC",
-            "role": "Member",
-            "percentage": "33%",
-            "status": "active",
-            "evidence": [
-              "JF14-CIPC-2021"
-            ]
-          }
-        ],
-        "fiduciary_roles": [
-          {
-            "entity_id": "ORG_001",
-            "entity_name": "Regima Worldwide Distribution (Pty) Ltd",
-            "role": "Director",
-            "duty": "Companies Act s76 - Fiduciary duty to act in good faith and in best interests of company",
-            "status": "BREACHED",
-            "breach_evidence": [
-              "FNB_FRAUD_LETTER_2025_06_17",
-              "Secret card cancellations",
-              "Expense dumping"
-            ]
-          },
-          {
-            "entity_id": "ORG_002",
-            "entity_name": "Regima Skin Treatments CC",
-            "role": "Member (50%)",
-            "duty": "Close Corporations Act - Fiduciary duty as member",
-            "status": "BREACHED"
-          },
-          {
-            "entity_id": "ORG_004",
-            "entity_name": "Strategic Logistics Group CC",
-            "role": "Member (33%)",
-            "duty": "Close Corporations Act - Fiduciary duty as member",
-            "status": "BREACHED"
-          },
-          {
-            "entity_id": "TRUST_001",
-            "entity_name": "Faucitt Family Trust",
-            "role": "Main Trustee / Founder",
-            "duty": "Trust Property Control Act - Fiduciary duty to beneficiaries",
-            "status": "BREACHED",
-            "breach_evidence": [
-              "Backdated appointment",
-              "Attack on beneficiary Daniel",
-              "Ketoni payout motive"
-            ]
-          }
-        ],
-        "statutory_roles": [
-          {
-            "entity_id": "ORG_001",
-            "entity_name": "Regima Worldwide Distribution (Pty) Ltd",
-            "role": "Director",
-            "statute": "Companies Act 71 of 2008",
-            "sections": [
-              "s76 - Standards of directors' conduct",
-              "s77 - Liability of directors"
-            ]
-          }
-        ]
+        "refinement_date": "2026-03-25T13:32:18.098809",
+        "burden_of_proof_analysis": {
+          "civil_50%": "EXCEEDED - Multiple documentary evidence",
+          "criminal_95%": "EXCEEDED - Pattern of coordinated fraud",
+          "key_evidence": [
+            "Ketoni Share Certificate J246",
+            "Trust Deed beneficiary provisions",
+            "Interdict timing T-9 months before payout",
+            "Card cancellation <24 hours after fraud exposure",
+            "Forum shopping to Family Court"
+          ]
+        },
+        "fiduciary_breach_evidence": {
+          "company": "RegimA SA (Pty) Ltd",
+          "registration": "2017/087935/07",
+          "director_since": "2021-03-08",
+          "co_director": "Daniel Faucitt",
+          "jacqui_status": "NOT a director or shareholder",
+          "breach_actions": [
+            "Allowed company bank account to be stripped from R2.5M to R5K",
+            "Diverted Shopify revenue stream (R8.5M annual)",
+            "Failed to fulfill orders causing 9 consecutive payment failures",
+            "Instructed staff to bypass Shopify systems",
+            "Cancelled co-director's bank cards"
+          ],
+          "companies_act_violations": [
+            "Section 76 - Duty to act in good faith",
+            "Section 77 - Liability for breach of fiduciary duties",
+            "Section 69 - Grounds for director disqualification"
+          ]
+        },
+        "shopify_diversion_evidence": {
+          "pre_diversion_revenue": "R800K-1.1M monthly",
+          "post_diversion_revenue": "R0 (June 2025 onwards)",
+          "diversion_date": "~22 May 2025",
+          "organogram_date": "11 April 2025",
+          "premeditation_gap": "40 days"
+        },
+        "mat4719_founding_affidavit": {
+          "sworn_date": "2025-08-13",
+          "location": "Bedfordview SAPS, 60 Van Buuren Rd, Bedfordview",
+          "hearing_date": "2025-08-19",
+          "application_type": "ex_parte_urgent",
+          "rule_invoked": "Rule 6(12)(a)",
+          "address_stated": "20 River Road, Morning Hill, Bedfordview",
+          "evidence_reference": "MAT4719_Founding_Affidavit_pages_10-38",
+          "key_allegations": [
+            "Respondents misappropriating funds",
+            "R500,000 transferred to 2nd respondent after cards taken",
+            "Fear of concealment/destruction of documents"
+          ]
+        }
       },
       {
         "entity_id": "PERSON_002",
         "name": "Rynette Farrar",
         "role": "co_conspirator",
         "agent_type": "antagonist",
-        "involvement_events": 8,
+        "involvement_events": 3,
         "primary_actions": [
           "payment_redirection_scheme",
           "bank_account_change_letter",
           "unauthorized_beneficiary_changes",
           "domain_registration_identity_fraud",
           "email_impersonation_pattern",
-          "coordinated_fund_diversions"
+          "coordinated_fund_diversions",
+          "instructed_de_novo_fraudulent_records",
+          "created_shopify_centrality_organogram",
+          "coordinated_financial_statement_fabrication"
         ],
         "relationships": [
           "co_conspirator_with_PERSON_001",
           "mother_of_PERSON_003",
           "financial_controller",
           "controls_sage:ORG_001",
-          "email_access:PERSON_001"
+          "email_access:PERSON_001",
+          "instructed_ORG_DE_NOVO"
         ],
         "financial_impact": {
           "direct_involvement": "R4,276,832.85",
@@ -493,7 +227,11 @@
           "JF05 - Sage accounting system control evidence",
           "JF07 - Payment redirection documentation",
           "JF08 - Email impersonation evidence",
-          "JF09 - Domain registration fraud evidence"
+          "JF09 - Domain registration fraud evidence",
+          "Trial Balance Email 2020-08-13 - Financial access evidence",
+          "Trial Balance Email 2020-08-13 - Financial access evidence",
+          "2025-06-18 - Rynette & De Novo - RegimA SA Payments.pdf",
+          "Power point - how sales work.pdf (11 Apr 2025)"
         ],
         "ad_res_j7_references": [
           "SF2_Sage_Screenshots_Rynette_Control.md - Dual account access evidence",
@@ -505,82 +243,58 @@
           "revenue-stream-hijacking-rynette/ - Dedicated evidence folder"
         ],
         "evidence_enhanced": "2025-12-28T05:36:36.077448",
-        "evidence_strength": "strong",
+        "evidence_strength": "conclusive",
         "criminal_threshold": "95%_likely",
-        "shareholdings": [],
-        "directorships": [],
-        "account_mandates": [
-          {
-            "entity_id": "ORG_001",
-            "entity_name": "Regima Worldwide Distribution (Pty) Ltd",
-            "bank": "FNB",
-            "account_number": "62323196362",
-            "authority_type": "OPERATIONAL_CONTROL",
-            "description": "Controls accounting system (Sage) and email access",
-            "co_signature_required": false,
-            "evidence": [
-              "SF2_Sage_Screenshots",
-              "Email access evidence"
-            ],
-            "sage_user_accounts": [
-              "Pete@regima.com",
-              "rynette@regima.zone"
-            ]
-          },
-          {
-            "entity_id": "ABSA_ACCOUNTS",
-            "entity_name": "Multiple ABSA Accounts",
-            "bank": "ABSA",
-            "account_number": "multiple",
-            "authority_type": "SUSPECTED_UNAUTHORIZED",
-            "description": "Potentially opened 8 ABSA accounts using stolen card",
-            "evidence": [
-              "Investigation pending"
-            ]
-          }
+        "evidence_upgraded": "2026-01-04T05:34:37.785444",
+        "ad_res_j7_evidence_enhanced": [
+          "ANNEXURES/SF2_Sage_Screenshots_Rynette_Control.md",
+          "ANNEXURES/JF07 - Sage system screenshots",
+          "ANNEXURES/JF08/evidence_package_20251012",
+          "SF9_Ian_Levitt_Demand_Letter.md"
         ],
-        "trustee_positions": [],
-        "employment_roles": [
-          {
-            "entity_id": "ORG_001",
-            "entity_name": "Regima Worldwide Distribution (Pty) Ltd",
-            "role": "Financial Controller / Operations Manager",
-            "status": "active",
-            "evidence": [
-              "SF2_Sage_Screenshots",
-              "Email correspondence"
-            ]
-          }
-        ],
-        "system_access": {
-          "sage_accounting": {
-            "subscription_owner": "RegimA Worldwide Distribution (Pty) Ltd",
-            "user_accounts": [
-              "Pete@regima.com",
-              "rynette@regima.zone"
-            ],
-            "expiry_date": "2025-07-23",
-            "evidence": [
-              "SF2_Sage_Screenshots"
-            ]
-          },
-          "email_access": {
-            "pete_email": "Pete@regima.com",
-            "own_email": "rynette@regima.zone",
-            "evidence": "Sage screenshot 2025-06-20 shows Rynette with user account Pete@regima.com"
-          }
+        "evidence_enhanced_timestamp": "2026-01-18T05:36:58.285093",
+        "ketoni_payout_context": {
+          "role": "operational_controller_NOT_TRUSTEE",
+          "key_action": "Appointed Bantjies as Trustee (July 2024, T-10 months before payout)",
+          "timing_significance": "Trustee appointment exactly T-10 months before ZAR 18.75M payout",
+          "control_areas": [
+            "accounting_systems",
+            "email_access_pete@regima.com",
+            "bank_accounts",
+            "financial_operations"
+          ],
+          "connection_to_payout": "Facilitated control consolidation before May 2026"
         },
-        "fiduciary_roles": [],
-        "statutory_roles": [],
-        "operational_control": {
-          "note": "Neither director nor employee of Worldwide Distribution but has complete control without liability",
-          "evidence": "Daniel's June 10, 2025 email to Bantjies",
-          "control_mechanisms": [
-            "Sage Accounting System - Full Control",
-            "Email Access (pete@regima.com)",
-            "Bank account access (suspected unauthorized)",
-            "Accounts exist solely on Rynette's computer"
+        "trustee_status_clarification": "NOT A TRUSTEE - Bantjies is the Trustee appointed July 2024",
+        "trial_balance_2020_access": {
+          "date": "2020-08-13",
+          "evidence": "Email recipient for final trial balances",
+          "significance": "Establishes financial access 5 years before 2025 fraud",
+          "continuity_to_2025": "Same person led May 2025 cover-up - VERIFIED"
+        },
+        "refinement_date": "2026-03-25T13:32:18.098809",
+        "burden_of_proof_analysis": {
+          "civil_50%": "EXCEEDED - Sage control evidence, email access",
+          "criminal_95%": "EXCEEDED - Payment redirection, identity fraud",
+          "key_evidence": [
+            "SF2 - Sage Screenshots showing dual account access",
+            "Trial Balance Email 2020-08-13",
+            "Domain registration fraud evidence",
+            "Bank account change letter"
           ]
+        },
+        "de_novo_fraud_evidence": {
+          "date": "2025-06-17 to 2025-06-18",
+          "instruction": "Create loan account within RegimA SA for other company expenses",
+          "purpose": "Hide expenses not belonging to RegimA SA",
+          "recipient": "Marisca Meyer at De Novo Business Services",
+          "dan_knowledge": "NOT copied - done without director knowledge"
+        },
+        "organogram_evidence": {
+          "date": "2025-04-11",
+          "document": "Power point - how sales work.pdf",
+          "purpose": "Created for Pete showing Shopify centrality",
+          "significance": "40 days before May 22 sabotage - proves premeditation"
         }
       },
       {
@@ -589,7 +303,7 @@
         "id_number": "570607 0088 08 6",
         "role": "first_respondent",
         "agent_type": "victim",
-        "involvement_events": 0,
+        "involvement_events": 8,
         "primary_actions": [],
         "relationships": [
           "first_respondent_in_case",
@@ -600,193 +314,43 @@
         "evidence": [
           "JF01 - Shopify platform operator evidence",
           "JF02 - Business operations documentation",
-          "1-CIVIL-RESPONSE - Answering affidavit"
+          "1-CIVIL-RESPONSE - Answering affidavit",
+          "SF9 - Ian Levitt Attorney Memo (MAT4719)"
         ],
         "ad_res_j7_references": [
           "ANNEXURES/JF05 - Correspondence evidence",
           "ANNEXURES/JF06 - Court documents and filings",
           "ANNEXURES/JF08 - Evidence packages",
-          "1-CIVIL-RESPONSE - Answering affidavit"
+          "1-CIVIL-RESPONSE - Answering affidavit",
+          "archive/legal-analysis-nov2025/attorney_correspondence/IanLevittAttorneysMemo_2025-11-09.txt"
         ],
         "evidence_enhanced": "2025-12-28T05:36:36.077452",
         "evidence_strength": "strong",
-        "shareholdings": [],
-        "directorships": [
-          {
-            "entity_id": "ORG_002",
-            "entity_name": "Regima Skin Treatments CC",
-            "role": "CEO",
-            "status": "active",
-            "evidence": [
-              "CIPC records"
-            ]
-          }
+        "ad_res_j7_evidence_enhanced": [
+          "1-CIVIL-RESPONSE/ANSWERING_AFFIDAVIT_JACQUI.md",
+          "ANNEXURES/JF01 - Shopify platform operator evidence",
+          "ANNEXURES/JF06 - Court documents"
         ],
-        "account_mandates": [
-          {
-            "entity_id": "ORG_001",
-            "entity_name": "Regima Worldwide Distribution (Pty) Ltd",
-            "bank": "FNB",
-            "account_number": "62323196362",
-            "authority_type": "SOLE_INDEPENDENT_AUTHORITY",
-            "description": "SOLE authority to act independently - no co-signature required",
-            "co_signature_required": false,
-            "evidence": [
-              "FNB_RESPONSE_EMAIL_2025_06_18"
-            ],
-            "fnb_confirmation_date": "2025-06-18",
-            "can_act_alone": true,
-            "NOT_percentage_based": true,
-            "fnb_confirmation": {
-              "date": "2025-06-18",
-              "source": "FNB Response Email",
-              "contact": "Mpumi Netshipale (Business Relationship Manager)",
-              "quote": "The current mandate states that any of the directors of the company may act independently of each other"
-            }
+        "evidence_enhanced_timestamp": "2026-01-18T05:36:58.285095",
+        "ketoni_payout_context": {
+          "status": "NEUTRALIZED_TRUSTEE",
+          "beneficiary_entitlement": "1/3 share of ZAR 18.75M as FFT beneficiary",
+          "betrayal_timeline": {
+            "cooperation": "2025-08-11 - Signed Main Trustee backdating document",
+            "betrayal": "2025-08-13 - Interdicted by Peter 48 hours later",
+            "timing": "T-9 months before May 2026 payout",
+            "motive": "Neutralize Jax as trustee before payout distribution"
           },
-          {
-            "entity_id": "ORG_004",
-            "entity_name": "Strategic Logistics Group CC",
-            "bank": "FNB",
-            "authority_type": "MEMBER_AUTHORITY",
-            "description": "Member authority based on CC agreement - 66% vote for director loans",
-            "director_loan_authority": true,
-            "evidence": [
-              "JF-STRATEGIC-LOGISTICS-ANALYSIS.md"
-            ]
-          }
-        ],
-        "trustee_positions": [
-          {
-            "trust_id": "TRUST_001",
-            "trust_name": "Faucitt Family Trust",
-            "role": "Trustee",
-            "status": "active",
-            "evidence": [
-              "Trust documents"
-            ]
-          }
-        ],
-        "statutory_roles": [
-          {
-            "entity_id": "ORG_002",
-            "entity_name": "Regima Skin Treatments CC",
-            "role": "Information Officer",
-            "statute": "POPIA (Protection of Personal Information Act 4 of 2013)",
-            "sections": [
-              "s55 - Information Officer responsibilities",
-              "s56 - Deputy Information Officers"
-            ],
-            "responsibilities": [
-              "Ensure POPIA compliance",
-              "Handle data subject requests",
-              "Report to Information Regulator",
-              "Maintain processing records"
-            ],
-            "registration": "Registered with Information Regulator",
-            "evidence": "Registration Certificate - Information Regulator"
-          },
-          {
-            "entity_id": "ORG_001",
-            "entity_name": "Regima Worldwide Distribution (Pty) Ltd",
-            "role": "Director",
-            "statute": "Companies Act 71 of 2008",
-            "sections": [
-              "s76",
-              "s77"
-            ]
-          }
-        ],
-        "fiduciary_duties": [
-          {
-            "entity_id": "TRUST_001",
-            "entity_name": "Faucitt Family Trust",
-            "duty_type": "Trustee fiduciary duty",
-            "beneficiaries": [
-              "PERSON_001",
-              "PERSON_004",
-              "PERSON_005"
-            ],
-            "status": "ACTIVE"
-          },
-          {
-            "entity_id": "ORG_002",
-            "entity_name": "Regima Skin Treatments CC",
-            "duty_type": "CEO fiduciary duty",
-            "status": "ACTIVE"
-          }
-        ],
-        "memberships": [
-          {
-            "entity_id": "ORG_004",
-            "entity_name": "Strategic Logistics Group CC",
-            "role": "Member",
-            "percentage": "33%",
-            "status": "active",
-            "evidence": [
-              "JF14-CIPC-2021"
-            ]
-          }
-        ],
-        "fiduciary_roles": [
-          {
-            "entity_id": "ORG_001",
-            "entity_name": "Regima Worldwide Distribution (Pty) Ltd",
-            "role": "Director",
-            "duty": "Companies Act s76 - Fiduciary duty to act in good faith",
-            "status": "ACTIVE - UNINFORMED VICTIM",
-            "status_note": "Jacqui was kept uninformed by Rynette's secret operations - no breach"
-          },
-          {
-            "entity_id": "ORG_002",
-            "entity_name": "Regima Skin Treatments CC",
-            "role": "Member (50%) / CEO",
-            "duty": "Close Corporations Act - Fiduciary duty as member and CEO",
-            "status": "ACTIVE - UNINFORMED VICTIM",
-            "status_note": "Jacqui was kept uninformed by Rynette's secret operations - no breach"
-          },
-          {
-            "entity_id": "ORG_004",
-            "entity_name": "Strategic Logistics Group CC",
-            "role": "Member (33%)",
-            "duty": "Close Corporations Act - Fiduciary duty as member",
-            "status": "ACTIVE"
-          },
-          {
-            "entity_id": "TRUST_001",
-            "entity_name": "Faucitt Family Trust",
-            "role": "Trustee",
-            "duty": "Trust Property Control Act - Fiduciary duty to beneficiaries",
-            "status": "ACTIVE - UNINFORMED VICTIM",
-            "status_note": "Jacqui was kept uninformed by Rynette's secret operations - no breach"
-          }
-        ],
-        "victim_status": {
-          "description": "Kept uninformed by Rynette's secret operations allegedly on Peter's behalf",
-          "evidence": [
-            "Confronted Rynette on 15 May 2025 about R1,035,000 debt",
-            "Not informed of card cancellations (7 June 2025)",
-            "Not informed of mandate change attempts",
-            "Accounts existed solely on Rynette's computer - no visibility",
-            "Also a beneficiary of FFT under attack alongside Daniel"
-          ],
-          "key_event": {
-            "date": "2025-05-15",
-            "description": "Jacqui confronted Rynette about ZAR 1,035,000 owed by RST to Rezonance since Feb 2023",
-            "jacqui_statement": "These funds were part of Kayla's estate and keeping them would be profiting from the proceeds of murder"
-          }
+          "result": "Cannot oppose Peter's payout decisions as neutralized trustee",
+          "threat_to_peter": "Could protect beneficiaries' interests including Dan's share"
         },
-        "fiduciary_status_clarification": {
-          "has_breached": false,
-          "reason": "Everything was carried out in secret by Rynette allegedly acting on behalf of Peter without Jacqui's knowledge or consent",
-          "same_position_as_daniel": true,
-          "evidence_of_good_faith": [
-            "Confronted Rynette about unpaid debt (15 May 2025)",
-            "Stated keeping funds would be 'profiting from proceeds of murder'",
-            "Was not informed of secret card cancellations",
-            "Had no access to accounts (existed only on Rynette's computer)"
-          ]
-        }
+        "burden_of_proof_analysis": {
+          "civil_50%": "PENDING_REVIEW",
+          "criminal_95%": "PENDING_REVIEW",
+          "key_evidence": []
+        },
+        "refinement_date": "2026-03-25T13:32:18.098809",
+        "timeline_events": []
       },
       {
         "entity_id": "PERSON_005",
@@ -794,18 +358,13 @@
         "id_number": "820775 5800 18 2",
         "role": "second_respondent",
         "agent_type": "victim",
-        "involvement_events": 0,
+        "involvement_events": 15,
         "primary_actions": [],
         "relationships": [
           "second_respondent_in_case",
           "owner_regima_zone_ltd",
-          "director_of_RWD_ZA",
-          "director_of_RSA_ZA",
-          "director_of_ReZonance",
-          "founding_member_of_SLG",
           "shopify_platform_owner",
-          "shopify_platform_operator",
-          "beneficiary_of_TRUST_001"
+          "shopify_platform_operator"
         ],
         "financial_impact": {
           "victim_of_theft": "R10,269,727.90",
@@ -817,225 +376,48 @@
           "JF01 - Shopify Plus subscription ownership",
           "JF02 - RegimA Zone Ltd company documentation",
           "JF06 - Platform investment evidence",
-          "1-CIVIL-RESPONSE - Answering affidavit"
+          "1-CIVIL-RESPONSE - Answering affidavit",
+          "SF9 - Ian Levitt Attorney Memo (MAT4719)"
         ],
         "ad_res_j7_references": [
           "ANNEXURES/JF01 - Shopify Plus email (THE FORENSIC TIME CAPSULE)",
           "ANNEXURES/SF6_Kayla_Pretorius_Estate_Documentation.md - CRITICAL: Death and estate",
           "ANNEXURES/SF7_Court_Order_Kayla_Email_Seizure.md - Email seizure order",
-          "ANNEXURES/JF02 - Shopify sales reports under her management"
+          "ANNEXURES/JF02 - Shopify sales reports under her management",
+          "archive/legal-analysis-nov2025/attorney_correspondence/IanLevittAttorneysMemo_2025-11-09.txt"
         ],
         "evidence_enhanced": "2025-12-28T05:36:36.077454",
         "evidence_strength": "strong",
-        "shareholdings": [
-          {
-            "entity_id": "ORG_003",
-            "entity_name": "RegimA Zone Ltd",
-            "percentage": "100%",
-            "status": "active",
-            "jurisdiction": "United Kingdom",
-            "evidence": [
-              "UK company records",
-              "JF01",
-              "JF02"
-            ]
-          },
-          {
-            "entity_id": "ORG_008",
-            "entity_name": "ReZonance (Pty) Ltd",
-            "percentage": "50%",
-            "status": "active",
-            "evidence": [
-              "CIPC records"
-            ]
-          }
+        "ad_res_j7_evidence_enhanced": [
+          "ANNEXURES/JF01 - Shopify Plus email",
+          "ANNEXURES/SF6_Kayla_Pretorius_Estate_Documentation.md",
+          "ANNEXURES/SF7_Court_Order_Kayla_Email_Seizure.md"
         ],
-        "directorships": [
-          {
-            "entity_id": "ORG_001",
-            "entity_name": "Regima Worldwide Distribution (Pty) Ltd",
-            "role": "Director",
-            "status": "active",
-            "evidence": [
-              "JF-DAN-WITNESS.md",
-              "JF14-CIPC-2021",
-              "FNB_RESPONSE_EMAIL_2025_06_18"
-            ]
+        "evidence_enhanced_timestamp": "2026-01-18T05:36:58.285098",
+        "ketoni_payout_context": {
+          "status": "TARGETED_BENEFICIARY",
+          "beneficiary_entitlement": "1/3 share of ZAR 18.75M as FFT beneficiary",
+          "threat_to_peter": "Curatorship = Peter controls Dan's entire share of ZAR 18.75M",
+          "retaliation_timeline": {
+            "fraud_exposure": "2025-06-06 - Dan exposes Villa Via fraud to Bantjies",
+            "immediate_retaliation": "2025-06-07 - Cards cancelled <24 hours later",
+            "interdict_filed": "2025-08-13 - T-9 months before payout",
+            "medical_testing_rushed": "2025-08 - Curatorship fraud attempt"
           },
-          {
-            "entity_id": "ORG_003",
-            "entity_name": "RegimA Zone Ltd",
-            "role": "Managing Director",
-            "status": "active",
-            "jurisdiction": "United Kingdom",
-            "evidence": [
-              "UK company records"
-            ]
-          },
-          {
-            "entity_id": "ORG_006",
-            "entity_name": "RegimA SA (Pty) Ltd",
-            "role": "Co-Director",
-            "status": "active",
-            "evidence": [
-              "CIPC records",
-              "2017/087935/07"
-            ]
-          },
-          {
-            "entity_id": "ORG_008",
-            "entity_name": "ReZonance (Pty) Ltd",
-            "role": "Director",
-            "status": "active",
-            "evidence": [
-              "CIPC records"
-            ]
-          }
-        ],
-        "account_mandates": [
-          {
-            "entity_id": "ORG_001",
-            "entity_name": "Regima Worldwide Distribution (Pty) Ltd",
-            "bank": "FNB",
-            "account_number": "62323196362",
-            "authority_type": "INDEPENDENT_DIRECTOR_AUTHORITY",
-            "description": "Any director may act independently of each other",
-            "co_signature_required": false,
-            "evidence": [
-              "FNB_RESPONSE_EMAIL_2025_06_18"
-            ],
-            "fnb_confirmation_date": "2025-06-18",
-            "fnb_contact": "Mpumi Netshipale (Business Relationship Manager)"
-          },
-          {
-            "entity_id": "ORG_004",
-            "entity_name": "Strategic Logistics Group CC",
-            "bank": "FNB",
-            "authority_type": "MEMBER_AUTHORITY",
-            "description": "Member authority based on CC agreement - 66% vote for director loans",
-            "director_loan_authority": true,
-            "evidence": [
-              "JF-STRATEGIC-LOGISTICS-ANALYSIS.md"
-            ]
-          },
-          {
-            "entity_id": "ORG_003",
-            "entity_name": "RegimA Zone Ltd",
-            "bank": "UK Bank",
-            "authority_type": "SOLE_SIGNATORY",
-            "description": "Full control as sole owner and director",
-            "evidence": [
-              "UK company records"
-            ]
-          }
-        ],
-        "trustee_positions": [],
-        "beneficiary_positions": [
-          {
-            "trust_id": "TRUST_001",
-            "trust_name": "Faucitt Family Trust",
-            "role": "Beneficiary",
-            "share": "1/3",
-            "estimated_value": "ZAR 6,250,000 (from Ketoni payout)",
-            "status": "UNDER_ATTACK",
-            "attack_evidence": [
-              "Interdict",
-              "Curatorship fraud attempt"
-            ]
-          }
-        ],
-        "platform_ownership": [
-          {
-            "platform": "Shopify Plus",
-            "entity_id": "ORG_003",
-            "role": "Owner and Payer",
-            "monthly_cost": "$1,000 - $2,000 USD",
-            "duration": "28 months",
-            "total_investment": "R140,000 - R280,000",
-            "evidence": [
-              "JF01 - Shopify Plus email"
-            ]
-          }
-        ],
-        "memberships": [
-          {
-            "entity_id": "ORG_004",
-            "entity_name": "Strategic Logistics Group CC",
-            "role": "Founding Member",
-            "percentage": "33%",
-            "status": "active",
-            "founded": "2008",
-            "evidence": [
-              "JF-DAN-WITNESS.md",
-              "JF14-CIPC-2021"
-            ]
-          }
-        ],
-        "fiduciary_roles": [
-          {
-            "entity_id": "ORG_001",
-            "entity_name": "Regima Worldwide Distribution (Pty) Ltd",
-            "role": "Director",
-            "duty": "Companies Act s76 - Fiduciary duty to act in good faith",
-            "status": "ACTIVE - COMPLIANT"
-          },
-          {
-            "entity_id": "ORG_003",
-            "entity_name": "RegimA Zone Ltd",
-            "role": "Managing Director (100%)",
-            "duty": "UK Companies Act 2006 - Director duties",
-            "status": "ACTIVE - COMPLIANT"
-          },
-          {
-            "entity_id": "ORG_006",
-            "entity_name": "RegimA SA (Pty) Ltd",
-            "role": "Co-Director",
-            "duty": "Companies Act s76 - Fiduciary duty",
-            "status": "ACTIVE"
-          },
-          {
-            "entity_id": "ORG_004",
-            "entity_name": "Strategic Logistics Group CC",
-            "role": "Founding Member (33%)",
-            "duty": "Close Corporations Act - Fiduciary duty as founding member",
-            "status": "ACTIVE - COMPLIANT"
-          },
-          {
-            "entity_id": "ORG_008",
-            "entity_name": "ReZonance (Pty) Ltd",
-            "role": "Director (50%)",
-            "duty": "Companies Act s76 - Fiduciary duty",
-            "status": "ACTIVE - COMPLIANT"
-          }
-        ],
-        "statutory_roles": [
-          {
-            "entity_id": "ORG_001",
-            "entity_name": "Regima Worldwide Distribution (Pty) Ltd",
-            "role": "Director",
-            "statute": "Companies Act 71 of 2008",
-            "sections": [
-              "s76",
-              "s77"
-            ]
-          },
-          {
-            "entity_id": "ORG_003",
-            "entity_name": "RegimA Zone Ltd",
-            "role": "Director",
-            "statute": "UK Companies Act 2006",
-            "sections": [
-              "s171-177 - General duties of directors"
-            ]
-          }
-        ],
-        "NOT_a_member_of": [
-          {
-            "entity_id": "ORG_002",
-            "entity_name": "Regima Skin Treatments CC",
-            "note": "Daniel explicitly stated in June 10, 2025 email: 'I am not a member of RegimA Skin Treatments'"
-          }
-        ]
+          "red_flags": [
+            "fraud_exposure_triggered_immediate_retaliation",
+            "timing_T-9_months_before_payout",
+            "no_medical_basis_for_testing",
+            "competence_demonstrated_by_fraud_analysis"
+          ]
+        },
+        "burden_of_proof_analysis": {
+          "civil_50%": "PENDING_REVIEW",
+          "criminal_95%": "PENDING_REVIEW",
+          "key_evidence": []
+        },
+        "refinement_date": "2026-03-25T13:32:18.098809",
+        "timeline_events": []
       },
       {
         "entity_id": "PERSON_006",
@@ -1051,23 +433,30 @@
         "additional_notes": "Employed to do books while Rynette controlled accounts system",
         "ad_res_j7_references": [
           "ANNEXURES/SF8_Linda_Employment_Records.md - Employment documentation",
-          "ANNEXURES/JF08/evidence_package_20251012 - Business operations evidence",
-          "ANNEXURES/JF05 - Correspondence patterns"
+          "ANNEXURES/JF08/evidence_package_20251012 - Comprehensive fraud timeline",
+          "1-CIVIL-RESPONSE/RESCISSION_AFFIDAVIT_JACQUELINE_FAUCITT.md - Witness testimony"
         ],
-        "evidence_enhanced": "2026-01-10T05:37:04.462428",
+        "evidence_enhanced": "2026-01-09T05:36:07.294877",
         "evidence_strength": "strong",
         "evidence": [
           "SF8 - Linda Employment Records",
-          "JF08 - Business operations documentation",
-          "JF05 - Correspondence evidence"
-        ]
+          "Employment documentation"
+        ],
+        "evidence_enhanced_timestamp": "2026-01-18T05:36:58.285099",
+        "burden_of_proof_analysis": {
+          "civil_50%": "PENDING_REVIEW",
+          "criminal_95%": "PENDING_REVIEW",
+          "key_evidence": []
+        },
+        "refinement_date": "2026-03-25T13:32:18.098809",
+        "timeline_events": []
       },
       {
         "entity_id": "PERSON_007",
         "name": "Danie Bantjies",
-        "role": "accountant_and_unknown_trustee",
+        "role": "cfo_george_group_and_trustee_fft",
         "agent_type": "antagonist",
-        "involvement_events": 3,
+        "involvement_events": 5,
         "primary_actions": [
           "accounting_system_control_with_rynette",
           "audit_request_dismissal",
@@ -1085,12 +474,11 @@
           "creditor_with_motive",
           "debtor_to_TRUST_001",
           "commissioner_of_oaths",
-          "email_correspondent_bernadine_wright",
-          "colleague_of_PERSON_014"
+          "email_correspondent_bernadine_wright"
         ],
         "financial_impact": {
-          "debt_motive": "R18,685,000",
-          "debt_to_trust": "R18,685,000",
+          "debt_motive": "Ketoni R18.75M payout to FFT",
+          "ketoni_payout_to_fft": "R18.75M",
           "stock_fraud_concealment": "R5,400,000",
           "primary_categories": [
             "fraud_concealment",
@@ -1102,18 +490,10 @@
         "legal_status": "co_conspirator_and_fiduciary_violator",
         "additional_notes": "Unknown trustee status, dismissed audit request June 10, 2025 (4 days after fraud exposure), controlled accounting system with Rynette using Peter's email, owes R18.685M to trust creating massive conflict of interest, certified Peter's affidavit as Commissioner of Oaths despite material omissions, sent trial balance email Aug 13, 2020; Sent trial balance email Aug 13, 2020 to Bernadine Wright; learned of criminal matters June 10, 2025; ENS Africa suppressed criminal information from Court Aug 29, 2025",
         "conflict_of_interest": {
-          "triple_conflict": true,
-          "roles": [
-            "Trustee of Faucitt Family Trust",
-            "Debtor to Trust (R18,685,000)",
-            "Accountant for all RegimA companies",
-            "Commissioner of Oaths"
-          ],
-          "motive": "Prevent discovery of R18,685,000 debt to trust",
-          "ketoni_connection": {
-            "colleague": "Kevin Michael Derrick (Ketoni Director)",
-            "significance": "Links Bantjies appointment to ZAR 18.75M payout"
-          }
+          "description": "Massive conflict of interest: Serves as CFO of The George Group (which generates Ketoni returns) while simultaneously serving as Trustee of FFT (which owns 100% of Ketoni A-Shares and receives 90% of distributions).",
+          "financial_stake": "R18.75M - R28.73M Ketoni payout to FFT dependent on George Group performance",
+          "loyalty_conflict": "Professional loyalty to George Group CEO (Kevin Derrick) vs fiduciary duty to FFT beneficiaries (Jacqueline & Daniel Faucitt)",
+          "appointment_issue": "Appointed as FFT Trustee by Rynette Farrar in July 2024, creating a controlled network"
         },
         "timeline_events": [
           "EVENT_H018",
@@ -1136,112 +516,69 @@
           "JF04 - Trust documentation showing unknown trustee status",
           "JF07 - Financial records showing R18.685M debt",
           "JF08 - June 10, 2025 audit dismissal email",
-          "Ketoni connection analysis"
+          "Ketoni Shareholder Agreement (Signed 24 April 2023)",
+          "Ketoni AFS 2024 (Note 2)"
         ],
         "ad_res_j7_references": [
-          "ANNEXURES/JF03 - HMRC pension fraud analysis",
-          "ANNEXURES/JF04 - Trust and company documentation",
-          "ANNEXURES/JF07 - Debt and financial conflict evidence",
-          "ANNEXURES/JF08/evidence_package_20250606 - Email evidence extraction",
-          "ANNEXURES/SF1_Bantjies_Debt_Documentation.md - R18.685M debt to trust",
-          "ANNEXURES/SF3_Strategic_Logistics_Stock_Adjustment.md - Stock fraud concealment",
-          "ANNEXURES/SF4_SARS_Audit_Email.md - SARS audit coordination",
-          "1-CIVIL-RESPONSE/SUPPORTING_AFFIDAVIT_BANTJIES_MEDICAL_TESTING.md - Medical testing proposal",
-          "ANNEXURES/SF1_Bantjies_Debt_Documentation.md - Debt and conflict of interest",
-          "ANNEXURES/JF08/evidence_package_20251012/README.md - Accounting fraud evidence",
+          "ANNEXURES/SF1_Ketoni_Debt_FFT_Documentation.md",
+          "KETONI_PAYOUT_INTEGRATION_SUMMARY_V48-49.md",
           "evidence/FFT_KETONI_INVESTMENT_TIMELINE_V49.md"
         ],
         "evidence_enhanced": "2025-12-28T05:36:36.077460",
         "evidence_strength": "strong",
-        "criminal_threshold": "95%_exceeded",
-        "ketoni_connection": {
-          "colleague": "Kevin Michael Derrick (Ketoni Director)",
-          "appointment_timing": "T-10 months before ZAR 18.75M payout (May 2026)",
-          "significance": "Strategic appointment to consolidate trust control before payout"
+        "criminal_threshold": "95%_likely",
+        "evidence_upgraded": "2026-01-04T05:34:37.785483",
+        "ad_res_j7_evidence_enhanced": [
+          "ANNEXURES/SF1_Ketoni_Debt_FFT_Documentation.md",
+          "ANNEXURES/JF03 - Financial records",
+          "ANNEXURES/JF08/evidence_package_20251012"
+        ],
+        "evidence_enhanced_timestamp": "2026-01-18T05:36:58.285101",
+        "ketoni_payout_context": {
+          "appointment": "July 2024 - T-10 months before ZAR 18.75M payout",
+          "ketoni_connection": "Colleague of Kevin Derrick (Ketoni Director)",
+          "role": "Strategic appointee to consolidate trust control before payout",
+          "timing_red_flags": [
+            "appointed_T-10_months_before_payout",
+            "appointee_connected_to_ketoni_director",
+            "appointment_before_distribution_date"
+          ],
+          "dual_role_conflict": {
+            "accountant": "Accountant for all Faucitt companies",
+            "trustee": "FFT Trustee (appointed July 2024 by Rynette)",
+            "conflict": "Dan contacted as accountant, unaware of trustee appointment"
+          },
+          "appointment_timing": "T-10 months before May 2026 payout - VERIFIED",
+          "george_group_connection": "CFO at The George Group where Kevin Derrick (Ketoni Director) is also director",
+          "trustee_conflict": "Controls distribution of ZAR 18.75M payout as Trustee while connected to Ketoni Director"
         },
-        "shareholdings": [],
-        "directorships": [],
-        "account_mandates": [],
-        "trustee_positions": [
-          {
-            "trust_id": "TRUST_001",
-            "trust_name": "Faucitt Family Trust",
-            "role": "Trustee",
-            "status": "active",
-            "appointment_date": "2024-07",
-            "appointed_by": "Rynette Farrar (unlawfully)",
-            "appointment_timing": "T-10 months before ZAR 18.75M Ketoni payout",
-            "evidence": [
-              "Trust documents",
-              "SF1_Bantjies_Debt_Documentation"
-            ]
-          }
-        ],
-        "professional_roles": [
-          {
-            "role": "Accountant",
-            "clients": [
-              "All RegimA Group companies",
-              "Faucitt Family Trust"
-            ],
-            "duration": "30+ years",
-            "note": "Daniel contacted Bantjies on June 6 & 10, 2025 in his capacity as Accountant, unaware of Trustee appointment"
-          },
-          {
-            "role": "Commissioner of Oaths",
-            "conflict": "Certified Peter's affidavit despite conflict of interest"
-          },
-          {
-            "role": "CFO",
-            "entity": "George Group",
-            "connection": "Kevin Derrick (Ketoni Director) is CEO of George Group"
-          }
-        ],
-        "debts": [
-          {
-            "creditor_id": "TRUST_001",
-            "creditor_name": "Faucitt Family Trust",
-            "amount": "R18,685,000",
-            "status": "outstanding",
-            "significance": "Creates massive conflict of interest as Trustee",
-            "evidence": [
-              "SF1_Bantjies_Debt_Documentation",
-              "Ketoni analysis"
-            ]
-          }
-        ],
-        "fiduciary_roles": [
-          {
-            "entity_id": "TRUST_001",
-            "entity_name": "Faucitt Family Trust",
-            "role": "Trustee (Unlawfully Appointed)",
-            "duty": "Trust Property Control Act - Fiduciary duty to beneficiaries",
-            "status": "BREACHED - CONFLICTED",
-            "conflict": "Owes R18,685,000 to Trust via Ketoni connection"
-          }
-        ],
-        "statutory_roles": [
-          {
-            "entity_id": "ORG_002",
-            "entity_name": "Regima Skin Treatments CC",
-            "role": "Accounting Officer",
-            "statute": "Close Corporations Act 69 of 1984",
-            "sections": [
-              "s59 - Accounting officer duties"
-            ],
-            "duration": "30+ years"
-          },
-          {
-            "entity_id": "ORG_004",
-            "entity_name": "Strategic Logistics Group CC",
-            "role": "Accounting Officer",
-            "statute": "Close Corporations Act 69 of 1984",
-            "sections": [
-              "s59"
-            ],
-            "duration": "Since 2008"
-          }
-        ]
+        "refinement_date": "2026-03-25T13:32:18.098809",
+        "burden_of_proof_analysis": {
+          "civil_50%": "EXCEEDED - Trustee appointment, debt to trust",
+          "criminal_95%": "LIKELY - Conflict of interest, false affidavit",
+          "key_evidence": [
+            "SF1 - Ketoni R18.75M Payout to FFT Documentation R1,048,000",
+            "Trustee appointment July 2024",
+            "George Group CFO position",
+            "Kevin Derrick connection"
+          ]
+        },
+        "corporate_positions": {
+          "george_group": "CFO",
+          "regima_group": "Accountant",
+          "fft": "Trustee (unlawfully appointed by Rynette July 2024)"
+        },
+        "mat4719_confirmatory_affidavit": {
+          "sworn_date": "2025-08-13",
+          "location": "Pretoria",
+          "commissioner": "Hannelle Evert, Chartered Business Accountant (SA), SAIBA16721",
+          "commissioner_address": "Libertas Office Park, Block E, Cnr The Highway and Libertas Roads, Equestria 0184",
+          "saica_number": "00105928",
+          "id_number": "581004 5103 089",
+          "role_in_application": "Confirmatory deponent - confirmed Peter's allegations",
+          "evidence_reference": "MAT4719_Confirmatory_Affidavit_pages_69-71",
+          "void_ab_initio_relevance": "Received Daniel's fraud report on 6 June 2025; certified false affidavit on 13 August 2025"
+        }
       },
       {
         "entity_id": "PERSON_008",
@@ -1249,7 +586,7 @@
         "status": "deceased",
         "role": "estate_creditor",
         "agent_type": "victim",
-        "involvement_events": 2,
+        "involvement_events": 0,
         "relationships": [
           "estate_creditor_of_ORG_002",
           "email_account_subject_to_court_order"
@@ -1278,14 +615,21 @@
           "ANNEXURES/SF7_Court_Order_Kayla_Email_Seizure.md - Email seizure court order"
         ],
         "evidence_enhanced": "2025-12-28T05:36:36.077463",
-        "evidence_strength": "strong"
+        "evidence_strength": "strong",
+        "evidence_enhanced_timestamp": "2026-01-18T05:36:58.285103",
+        "burden_of_proof_analysis": {
+          "civil_50%": "PENDING_REVIEW",
+          "criminal_95%": "PENDING_REVIEW",
+          "key_evidence": []
+        },
+        "refinement_date": "2026-03-25T13:32:18.098809"
       },
       {
         "entity_id": "PERSON_009",
         "name": "Gee",
         "role": "email_sender_witness",
         "agent_type": "neutral",
-        "involvement_events": 2,
+        "involvement_events": 0,
         "primary_actions": [
           "sent_domain_switch_instruction_email",
           "explained_instruction_to_jax"
@@ -1299,24 +643,30 @@
           "EVENT_027"
         ],
         "ad_res_j7_references": [
-          "ANNEXURES/JF08/evidence_package_20251012 - Business operations",
-          "ANNEXURES/JF05 - Professional correspondence",
-          "ANNEXURES/JF07 - System access documentation"
+          "ANNEXURES/JF08/evidence_package_20251012 - Business relationship documentation",
+          "ANNEXURES/JF03 - Financial records showing interactions",
+          "1-CIVIL-RESPONSE - Civil case documentation"
         ],
         "evidence": [
-          "JF08 - Business documentation",
-          "JF05 - Professional correspondence",
-          "JF07 - System access records"
+          "SF1 - Ketoni R18.75M Payout to FFT Documentation",
+          "JF10 - Accounting records"
         ],
-        "evidence_enhanced": "2026-01-10T05:37:04.462452",
-        "evidence_strength": "strong"
+        "evidence_enhanced": "2026-01-09T05:36:07.294947",
+        "evidence_strength": "strong",
+        "evidence_enhanced_timestamp": "2026-01-18T05:36:58.285109",
+        "burden_of_proof_analysis": {
+          "civil_50%": "PENDING_REVIEW",
+          "criminal_95%": "PENDING_REVIEW",
+          "key_evidence": []
+        },
+        "refinement_date": "2026-03-25T13:32:18.098809"
       },
       {
         "entity_id": "PERSON_010",
         "name": "Bernadine Wright",
         "role": "financial_professional",
         "agent_type": "neutral",
-        "involvement_events": 1,
+        "involvement_events": 0,
         "relationships": [
           "recipient_of_trial_balance_email",
           "financial_statement_finalization_meeting"
@@ -1327,24 +677,48 @@
         ],
         "role_clarification": "Recipient of trial balance email from Bantjies, witness to his financial system control",
         "ad_res_j7_references": [
-          "ANNEXURES/JF08/evidence_package_20251012 - Professional documentation",
-          "ANNEXURES/JF05 - Email correspondence evidence",
-          "ANNEXURES/JF07 - Business operations records"
+          "ANNEXURES/JF08/evidence_package_20251012 - Professional relationship evidence",
+          "ANNEXURES/JF06 - Court documents and filings",
+          "1-CIVIL-RESPONSE - Civil case documentation"
         ],
         "evidence": [
-          "JF08 - Professional evidence",
-          "JF05 - Email correspondence with Danie Bantjies",
-          "JF07 - Business operations"
+          "SF6 - Kayla estate documentation",
+          "JF08 - Evidence packages"
         ],
-        "evidence_enhanced": "2026-01-10T05:37:04.462465",
-        "evidence_strength": "strong"
+        "evidence_enhanced": "2026-01-09T05:36:07.294955",
+        "evidence_strength": "strong",
+        "trial_balance_evidence": {
+          "entity_id": "PERSON_TB_001",
+          "name": "Bernadine Wright",
+          "role": "financial_decision_maker",
+          "agent_type": "key_witness",
+          "email_domain": "regima.zone",
+          "significance": "Primary recipient of 2020 financial statements, key financial decision-maker",
+          "investigation_priority": "CRITICAL",
+          "evidence": [
+            "Email from Danie Bantjes 2020-08-13",
+            "Trial balance documentation"
+          ],
+          "investigation_leads": [
+            "Identify Bernadine Wright's role and authority",
+            "Determine current status and location",
+            "Subpoena for testimony regarding financial structures"
+          ]
+        },
+        "evidence_enhanced_timestamp": "2026-01-18T05:36:58.285111",
+        "burden_of_proof_analysis": {
+          "civil_50%": "PENDING_REVIEW",
+          "criminal_95%": "PENDING_REVIEW",
+          "key_evidence": []
+        },
+        "refinement_date": "2026-03-25T13:32:18.098809"
       },
       {
         "entity_id": "PERSON_003",
         "name": "Adderory (Rynette's Son)",
         "role": "co_conspirator_family_member",
         "agent_type": "accomplice",
-        "involvement_events": 5,
+        "involvement_events": 0,
         "primary_actions": [
           "domain_registration_for_identity_fraud",
           "company_registration_for_competing_business",
@@ -1386,81 +760,20 @@
         ],
         "evidence_enhanced": "2025-12-28T05:36:36.077477",
         "evidence_strength": "strong",
-        "shareholdings": [
-          {
-            "entity_id": "ORG_009",
-            "entity_name": "Adderory (Pty) Ltd",
-            "percentage": "100%",
-            "status": "active",
-            "incorporation_date": "2021-04-30",
-            "evidence": [
-              "CIPC records",
-              "SF5"
-            ]
-          },
-          {
-            "entity_id": "ORG_010",
-            "entity_name": "Luxury Products Online",
-            "percentage": "100%",
-            "status": "active",
-            "incorporation_date": "2021-04-14",
-            "evidence": [
-              "CIPC records"
-            ]
-          },
-          {
-            "entity_id": "ORG_011",
-            "entity_name": "Luxur\u00e9",
-            "percentage": "100%",
-            "status": "active",
-            "incorporation_date": "2021-04-29",
-            "note": "Competitor to R\u00e9gimA",
-            "evidence": [
-              "CIPC records"
-            ]
-          }
-        ],
-        "directorships": [
-          {
-            "entity_id": "ORG_009",
-            "entity_name": "Adderory (Pty) Ltd",
-            "role": "Director",
-            "status": "active",
-            "evidence": [
-              "CIPC records"
-            ]
-          }
-        ],
-        "domain_ownership": [
-          {
-            "domain": "regimaskin.co.za",
-            "registration_date": "2025-05-29",
-            "purpose": "Customer hijacking infrastructure",
-            "identity_fraud": "Registered using Daniel's identity",
-            "evidence": [
-              "Domain registration records",
-              "JF08"
-            ]
-          }
-        ],
-        "supply_relationships": [
-          {
-            "supplier_entity": "ORG_009",
-            "customer_entity": "ORG_004",
-            "product": "Stock (same type that disappeared)",
-            "connection_to_fraud": "R5,400,000 stock adjustment",
-            "evidence": [
-              "SF3_Strategic_Logistics_Stock_Adjustment"
-            ]
-          }
-        ]
+        "evidence_enhanced_timestamp": "2026-01-18T05:36:58.285113",
+        "burden_of_proof_analysis": {
+          "civil_50%": "PENDING_REVIEW",
+          "criminal_95%": "PENDING_REVIEW",
+          "key_evidence": []
+        },
+        "refinement_date": "2026-03-25T13:32:18.098809"
       },
       {
         "entity_id": "PERSON_011",
         "name": "Chantal",
         "role": "estate_related_party",
         "agent_type": "neutral",
-        "involvement_events": 2,
+        "involvement_events": 0,
         "primary_actions": [
           "estate_finalization_communication"
         ],
@@ -1475,24 +788,30 @@
         "additional_notes": "Delivered letter about Kayla estate finalization in January 2025, potential witness to estate exploitation",
         "role_clarification": "Delivered letter about Kayla estate finalization January 2025",
         "ad_res_j7_references": [
-          "ANNEXURES/JF08/evidence_package_20251012 - Business operations",
-          "ANNEXURES/JF05 - Professional correspondence",
-          "ANNEXURES/JF07 - System access records"
+          "ANNEXURES/JF08/evidence_package_20251012 - Business operations evidence",
+          "ANNEXURES/JF03 - Financial records",
+          "1-CIVIL-RESPONSE - Civil case documentation"
         ],
         "evidence": [
-          "JF08 - Business operations",
-          "JF05 - Professional correspondence",
-          "JF07 - System records"
+          "JF08 - Witness evidence",
+          "JF11 - Medical coercion evidence"
         ],
-        "evidence_enhanced": "2026-01-10T05:37:04.462473",
-        "evidence_strength": "strong"
+        "evidence_enhanced": "2026-01-09T05:36:07.294960",
+        "evidence_strength": "strong",
+        "evidence_enhanced_timestamp": "2026-01-18T05:36:58.285115",
+        "burden_of_proof_analysis": {
+          "civil_50%": "PENDING_REVIEW",
+          "criminal_95%": "PENDING_REVIEW",
+          "key_evidence": []
+        },
+        "refinement_date": "2026-03-25T13:32:18.098809"
       },
       {
         "entity_id": "PERSON_012",
         "name": "Jax",
         "role": "witness_and_victim",
         "agent_type": "neutral",
-        "involvement_events": 2,
+        "involvement_events": 0,
         "primary_actions": [
           "received_domain_switch_email",
           "confronted_rynette_about_missing_money"
@@ -1508,20 +827,26 @@
         ],
         "additional_notes": "Received email from Gee about domain switch instruction, confronted Rynette on May 15, 2025 about R1,035,000 owed to ReZonance",
         "ad_res_j7_references": [
-          "ANNEXURES/JF08/evidence_package_20251012 - Timeline evidence",
-          "ANNEXURES/JF05 - Witness correspondence",
-          "ANNEXURES/JF07 - Business operations"
+          "ANNEXURES/JF08/evidence_package_20251012 - Comprehensive fraud timeline",
+          "ANNEXURES/JF06 - Court documents and filings",
+          "1-CIVIL-RESPONSE/RESCISSION_AFFIDAVIT_JACQUELINE_FAUCITT.md - Witness testimony"
         ],
         "evidence": [
-          "JF08 - Comprehensive timeline",
-          "JF05 - Witness correspondence",
-          "JF07 - Business documentation"
+          "JF10 - Accounting records",
+          "JF13 - Recent correspondence"
         ],
-        "evidence_enhanced": "2026-01-10T05:37:04.462478",
-        "evidence_strength": "strong"
+        "evidence_enhanced": "2026-01-09T05:36:07.294964",
+        "evidence_strength": "strong",
+        "evidence_enhanced_timestamp": "2026-01-18T05:36:58.285117",
+        "burden_of_proof_analysis": {
+          "civil_50%": "PENDING_REVIEW",
+          "criminal_95%": "PENDING_REVIEW",
+          "key_evidence": []
+        },
+        "refinement_date": "2026-03-25T13:32:18.098809"
       },
       {
-        "entity_id": "PERSON_012",
+        "entity_id": "PERSON_039",
         "name": "Marisca Meyer",
         "full_name": "Marisca Meyer",
         "role": "Professional Accountant (SA)",
@@ -1535,24 +860,32 @@
         ],
         "significance": "Prepared 6-year-old financial statements retrospectively in June 2025, timing coincides with legal proceedings",
         "evidence": [
-          "JF08 - Comprehensive timeline",
-          "JF05 - Witness correspondence",
-          "JF07 - Business documentation"
+          "JF10 - Accounting records",
+          "JF13 - Recent correspondence"
         ],
         "ad_res_j7_references": [
-          "ANNEXURES/JF08/evidence_package_20251012 - Timeline evidence",
-          "ANNEXURES/JF05 - Witness correspondence",
-          "ANNEXURES/JF07 - Business operations"
+          "ANNEXURES/JF08/evidence_package_20251012 - Comprehensive fraud timeline",
+          "ANNEXURES/JF06 - Court documents and filings",
+          "1-CIVIL-RESPONSE/RESCISSION_AFFIDAVIT_JACQUELINE_FAUCITT.md - Witness testimony"
         ],
-        "evidence_enhanced": "2026-01-10T05:37:04.462482",
-        "evidence_strength": "strong"
+        "evidence_enhanced": "2026-01-09T05:36:07.294990",
+        "evidence_strength": "strong",
+        "involvement_events": 0,
+        "evidence_enhanced_timestamp": "2026-01-18T05:36:58.285118",
+        "burden_of_proof_analysis": {
+          "civil_50%": "PENDING_REVIEW",
+          "criminal_95%": "PENDING_REVIEW",
+          "key_evidence": []
+        },
+        "refinement_date": "2026-03-25T13:32:18.098809",
+        "timeline_events": []
       },
       {
         "entity_id": "PERSON_013",
         "name": "Kayla Pretorius",
         "role": "estate_executor_email_account_holder",
         "agent_type": "neutral",
-        "involvement_events": 2,
+        "involvement_events": 0,
         "primary_actions": [
           "estate_executor",
           "email_account_subject_to_court_seizure"
@@ -1567,196 +900,937 @@
           "EVENT_087"
         ],
         "evidence": [
-          "JF01 - Shopify Plus email (CRITICAL FORENSIC TIME CAPSULE)",
           "SF6 - Kayla Pretorius Estate Documentation",
-          "SF7 - Court Order Email Seizure",
-          "JF02 - Shopify sales reports"
+          "SF7 - Court Order for Kayla Email Account Seizure"
         ],
         "ad_res_j7_references": [
-          "ANNEXURES/JF01/Re_ The RegimA Group results and Computer Expense analysis.eml - THE FORENSIC TIME CAPSULE",
-          "ANNEXURES/SF6_Kayla_Pretorius_Estate_Documentation.md - Death and estate trigger",
-          "ANNEXURES/SF7_Court_Order_Kayla_Email_Seizure.md - Email seizure order",
-          "ANNEXURES/JF02 - Shopify sales reports under her management"
+          "ANNEXURES/JF01 - Shopify Plus email (26 July 2017) - CRITICAL EVIDENCE",
+          "ANNEXURES/SF6_Kayla_Pretorius_Estate_Documentation.md - Estate documentation",
+          "ANNEXURES/SF7_Court_Order_Kayla_Email_Seizure.md - Court order evidence",
+          "ANNEXURES/JF08/evidence_package_20251012 - Comprehensive fraud timeline",
+          "1-CIVIL-RESPONSE - Civil case documentation"
         ],
-        "evidence_enhanced": "2026-01-10T05:37:04.462487",
+        "evidence_enhanced": "2026-01-09T05:36:07.294996",
         "evidence_strength": "conclusive",
         "burden_of_proof": {
           "civil": "HIGH",
           "criminal": "MEDIUM"
-        }
-      },
-      {
-        "entity_id": "PERSON_014",
-        "name": "Kevin Michael Derrick",
-        "role": "ketoni_director",
-        "agent_type": "neutral",
-        "involvement_events": 1,
-        "primary_actions": [
-          "ketoni_director",
-          "payout_obligation_holder"
-        ],
-        "relationships": [
-          "director_of_ORG_015",
-          "colleague_of_PERSON_007",
-          "ketoni_payout_obligor"
-        ],
-        "financial_impact": {
-          "payout_obligation": "ZAR 18,750,000",
-          "payout_date": "May 2026"
         },
-        "significance": "Director of Ketoni Investment Holdings; colleague of Bantjies; links Bantjies appointment to ZAR 18.75M payout",
-        "evidence": [
-          "Ketoni company records",
-          "Professional records",
-          "Bantjies connection analysis"
-        ],
-        "ad_res_j7_references": [
-          "evidence/FFT_KETONI_INVESTMENT_TIMELINE_V49.md",
-          "lex/agent_based_model_v48_ketoni_integrated.scm"
-        ],
-        "evidence_enhanced": "2026-01-16T05:34:42.470728",
-        "evidence_strength": "strong",
-        "shareholdings": [
-          {
-            "entity_id": "ORG_015",
-            "entity_name": "Ketoni Investment Holdings",
-            "percentage": "unknown",
-            "status": "active",
-            "evidence": [
-              "Ketoni company records"
-            ]
-          }
-        ],
-        "directorships": [
-          {
-            "entity_id": "ORG_015",
-            "entity_name": "Ketoni Investment Holdings",
-            "role": "Director",
-            "status": "active",
-            "evidence": [
-              "Ketoni company records"
-            ]
-          },
-          {
-            "entity_id": "ORG_GEORGE_GROUP",
-            "entity_name": "George Group",
-            "role": "CEO",
-            "status": "active",
-            "evidence": [
-              "Company records"
-            ]
-          }
-        ],
-        "professional_connections": [
-          {
-            "person_id": "PERSON_007",
-            "person_name": "Danie Bantjies",
-            "relationship": "Colleague at George Group",
-            "significance": "Links Bantjies appointment to Ketoni payout"
-          }
-        ],
-        "financial_obligations": [
-          {
-            "creditor_id": "TRUST_001",
-            "creditor_name": "Faucitt Family Trust",
-            "amount": "ZAR 18,750,000",
-            "due_date": "May 2026",
-            "type": "Ketoni payout obligation",
-            "evidence": [
-              "Ketoni investment documents"
-            ]
-          }
-        ]
+        "evidence_enhanced_timestamp": "2026-01-18T05:36:58.285120",
+        "burden_of_proof_analysis": {
+          "civil_50%": "PENDING_REVIEW",
+          "criminal_95%": "PENDING_REVIEW",
+          "key_evidence": []
+        },
+        "refinement_date": "2026-03-25T13:32:18.098809"
       },
       {
         "entity_id": "PERSON_015",
-        "name": "Kevin Michael Derrick",
-        "role": "Director/CEO",
-        "description": "Sole director of Ketoni; CEO of George Group; Kevin Derrick Trust (IT 107716/98) is existing shareholder"
+        "name": "Alan Peter Louw",
+        "id_number": "5304275174085",
+        "date_of_birth": "1953/04/27",
+        "role": "external_director",
+        "agent_type": "unknown",
+        "involvement_events": 2,
+        "primary_actions": [],
+        "relationships": [
+          "director_of_ALOECO_SA",
+          "director_of_Marlouw_Group",
+          "director_of_Big_Business_301",
+          "member_of_Art_of_Buzztec"
+        ],
+        "additional_notes": "Uses PO Box 9477 Edenglen - same postal address as Faucitt companies. Potential business connection.",
+        "evidence": [
+          "CIPC WinDeed Report 293350197 - Director search",
+          "CIPC WinDeed Report 293350058 - ALOECO company",
+          "CIPC WinDeed Report 293351580 - Marlouw Group",
+          "CIPC WinDeed Report 293351589 - Big Business 301"
+        ],
+        "ad_res_j7_references": [
+          "evidence/cipc/293350197.pdf - Director search Alan Peter Louw",
+          "evidence/cipc/293350058.pdf - ALOECO (SA) company record"
+        ],
+        "evidence_strength": "moderate",
+        "source_document": "CIPC WinDeed 2021-11-19",
+        "properties": {
+          "current_properties": 4,
+          "previously_owned": 2,
+          "marital_status": "UNMARRIED"
+        },
+        "added_date": "2026-01-09T06:56:17.171814",
+        "evidence_enhanced_timestamp": "2026-01-18T05:36:58.285121",
+        "burden_of_proof_analysis": {
+          "civil_50%": "PENDING_REVIEW",
+          "criminal_95%": "PENDING_REVIEW",
+          "key_evidence": []
+        },
+        "refinement_date": "2026-03-25T13:32:18.098809",
+        "timeline_events": []
       },
       {
         "entity_id": "PERSON_016",
-        "name": "Marc Yudaken",
-        "role": "Attorney",
-        "description": "Baker McKenzie partner; handled Ketoni shareholder agreement"
+        "name": "Martin Carlo Rizzotto",
+        "id_number": "6104075222083",
+        "date_of_birth": "1961/04/07",
+        "role": "external_director",
+        "agent_type": "unknown",
+        "involvement_events": 2,
+        "primary_actions": [],
+        "relationships": [
+          "director_of_ALOECO_SA",
+          "director_of_Marlouw_Group",
+          "director_of_Big_Business_301",
+          "member_of_Art_of_Buzztec"
+        ],
+        "additional_notes": "Co-director with Alan Peter Louw in multiple companies. Uses PO Box 9477 Edenglen.",
+        "evidence": [
+          "CIPC WinDeed Report 293350204 - Director search",
+          "CIPC WinDeed Report 293350058 - ALOECO company"
+        ],
+        "ad_res_j7_references": [
+          "evidence/cipc/293350204.pdf - Director search Martin Carlo Rizzotto"
+        ],
+        "evidence_strength": "moderate",
+        "source_document": "CIPC WinDeed 2021-11-19",
+        "added_date": "2026-01-09T06:56:17.171814",
+        "evidence_enhanced_timestamp": "2026-01-18T05:36:58.285123",
+        "burden_of_proof_analysis": {
+          "civil_50%": "PENDING_REVIEW",
+          "criminal_95%": "PENDING_REVIEW",
+          "key_evidence": []
+        },
+        "refinement_date": "2026-03-25T13:32:18.098809",
+        "timeline_events": []
       },
       {
         "entity_id": "PERSON_017",
-        "name": "David Field",
-        "role": "Associate",
-        "description": "Attended meeting with Pete, Bantjies, and Kevin Derrick (2023-03-15)"
+        "name": "Christian Gouws",
+        "id_number": "5908285147087",
+        "date_of_birth": "1959/08/28",
+        "role": "resigned_director",
+        "agent_type": "neutral",
+        "profession": "ATTORNEY",
+        "involvement_events": 1,
+        "primary_actions": [],
+        "relationships": [
+          "former_director_of_RWD_ZA"
+        ],
+        "additional_notes": "Attorney who was initial director of RegimA Worldwide Distribution, resigned 2011-03-10 (day before registration date - likely shelf company transfer).",
+        "evidence": [
+          "CIPC WinDeed Report 293348688 - RWD company record"
+        ],
+        "ad_res_j7_references": [
+          "evidence/cipc/293348688.pdf - RegimA Worldwide Distribution company record"
+        ],
+        "evidence_strength": "moderate",
+        "source_document": "CIPC WinDeed 2021-11-19",
+        "added_date": "2026-01-09T06:56:17.171814",
+        "evidence_enhanced_timestamp": "2026-01-18T05:36:58.285125",
+        "burden_of_proof_analysis": {
+          "civil_50%": "PENDING_REVIEW",
+          "criminal_95%": "PENDING_REVIEW",
+          "key_evidence": []
+        },
+        "refinement_date": "2026-03-25T13:32:18.098809",
+        "timeline_events": []
       },
       {
         "entity_id": "PERSON_018",
-        "name": "Denny Da Silva",
-        "role": "Associate",
-        "description": "Meeting with Pete re Faucitt Trust (2023-05-30)"
+        "name": "Lisa Clare Frost",
+        "id_number": "8304110055082",
+        "role": "resigned_member",
+        "agent_type": "neutral",
+        "involvement_events": 0,
+        "primary_actions": [],
+        "relationships": [
+          "former_member_of_Strategic_Logistics"
+        ],
+        "evidence": [
+          "CIPC WinDeed Report 293349762 - Strategic Logistics company record"
+        ],
+        "evidence_strength": "weak",
+        "source_document": "CIPC WinDeed 2021-11-19",
+        "added_date": "2026-01-09T06:56:17.171814",
+        "ad_res_j7_references": [],
+        "evidence_enhanced_timestamp": "2026-01-18T05:36:58.285128",
+        "burden_of_proof_analysis": {
+          "civil_50%": "PENDING_REVIEW",
+          "criminal_95%": "PENDING_REVIEW",
+          "key_evidence": []
+        },
+        "refinement_date": "2026-03-25T13:32:18.098809",
+        "timeline_events": []
       },
       {
         "entity_id": "PERSON_019",
-        "name": "Liezel",
-        "role": "Employee",
-        "description": "liezel@regima.zone account created 2023-04-24; credentials shared via email"
+        "name": "Trevor David Stidston",
+        "id_number": "8304045205083",
+        "role": "resigned_member",
+        "agent_type": "neutral",
+        "involvement_events": 0,
+        "primary_actions": [],
+        "relationships": [
+          "former_member_of_Strategic_Logistics"
+        ],
+        "evidence": [
+          "CIPC WinDeed Report 293349762 - Strategic Logistics company record"
+        ],
+        "evidence_strength": "weak",
+        "source_document": "CIPC WinDeed 2021-11-19",
+        "added_date": "2026-01-09T06:56:17.171814",
+        "ad_res_j7_references": [],
+        "evidence_enhanced_timestamp": "2026-01-18T05:36:58.285129",
+        "burden_of_proof_analysis": {
+          "civil_50%": "PENDING_REVIEW",
+          "criminal_95%": "PENDING_REVIEW",
+          "key_evidence": []
+        },
+        "refinement_date": "2026-03-25T13:32:18.098809",
+        "timeline_events": []
       },
       {
         "entity_id": "PERSON_020",
-        "name": "Kevin Michael Derrick",
-        "role": "Director/CEO",
-        "description": "Sole director of Ketoni; CEO of George Group; Kevin Derrick Trust (IT 107716/98) is existing shareholder"
+        "name": "Kerry-Anne Zwicky",
+        "id_number": "8909290060080",
+        "role": "resigned_member",
+        "agent_type": "neutral",
+        "involvement_events": 0,
+        "primary_actions": [],
+        "relationships": [
+          "former_member_of_Strategic_Logistics"
+        ],
+        "evidence": [
+          "CIPC WinDeed Report 293349762 - Strategic Logistics company record"
+        ],
+        "evidence_strength": "weak",
+        "source_document": "CIPC WinDeed 2021-11-19",
+        "added_date": "2026-01-09T06:56:17.171814",
+        "ad_res_j7_references": [],
+        "evidence_enhanced_timestamp": "2026-01-18T05:36:58.285131",
+        "burden_of_proof_analysis": {
+          "civil_50%": "PENDING_REVIEW",
+          "criminal_95%": "PENDING_REVIEW",
+          "key_evidence": []
+        },
+        "refinement_date": "2026-03-25T13:32:18.098809",
+        "timeline_events": []
       },
       {
         "entity_id": "PERSON_021",
-        "name": "Marc Yudaken",
-        "role": "Attorney",
-        "description": "Baker McKenzie partner; handled Ketoni shareholder agreement"
+        "name": "Guillaume Jordaan",
+        "id_number": "6004305023083",
+        "date_of_birth": "1960/04/30",
+        "role": "resigned_director",
+        "agent_type": "neutral",
+        "involvement_events": 0,
+        "primary_actions": [],
+        "relationships": [
+          "former_director_of_Big_Business_301"
+        ],
+        "additional_notes": "Resigned 2018-12-01 from Big Business 301",
+        "evidence": [
+          "CIPC WinDeed Report 293351589 - Big Business 301 company record"
+        ],
+        "evidence_strength": "weak",
+        "source_document": "CIPC WinDeed 2021-11-19",
+        "added_date": "2026-01-09T06:56:17.171814",
+        "ad_res_j7_references": [],
+        "evidence_enhanced_timestamp": "2026-01-18T05:36:58.285133",
+        "burden_of_proof_analysis": {
+          "civil_50%": "PENDING_REVIEW",
+          "criminal_95%": "PENDING_REVIEW",
+          "key_evidence": []
+        },
+        "refinement_date": "2026-03-25T13:32:18.098809",
+        "timeline_events": []
       },
       {
         "entity_id": "PERSON_022",
-        "name": "David Field",
-        "role": "Associate",
-        "description": "Attended meeting with Pete, Bantjies, and Kevin Derrick (2023-03-15)"
+        "name": "Gary Ian Cay",
+        "id_number": "6102175658085",
+        "date_of_birth": "1961/02/17",
+        "role": "resigned_member",
+        "agent_type": "neutral",
+        "involvement_events": 0,
+        "primary_actions": [],
+        "relationships": [
+          "former_member_of_Art_of_Buzztec"
+        ],
+        "additional_notes": "Resigned 2007-11-27 from Art of Buzztec (SA)",
+        "evidence": [
+          "CIPC WinDeed Report 293351595 - Art of Buzztec company record"
+        ],
+        "evidence_strength": "weak",
+        "source_document": "CIPC WinDeed 2021-11-19",
+        "added_date": "2026-01-09T06:56:17.171814",
+        "ad_res_j7_references": [],
+        "evidence_enhanced_timestamp": "2026-01-18T05:36:58.285135",
+        "burden_of_proof_analysis": {
+          "civil_50%": "PENDING_REVIEW",
+          "criminal_95%": "PENDING_REVIEW",
+          "key_evidence": []
+        },
+        "refinement_date": "2026-03-25T13:32:18.098809",
+        "timeline_events": []
       },
       {
         "entity_id": "PERSON_023",
-        "name": "Denny Da Silva",
-        "role": "Associate",
-        "description": "Meeting with Pete re Faucitt Trust (2023-05-30)"
-      },
-      {
-        "entity_id": "PERSON_024",
-        "name": "Liezel",
-        "role": "Employee",
-        "description": "liezel@regima.zone account created 2023-04-24; credentials shared via email"
+        "name": "Dennis Jacobus Bishop",
+        "id_number": "5011075078081",
+        "role": "shelf_company_director",
+        "agent_type": "neutral",
+        "involvement_events": 0,
+        "primary_actions": [
+          "shelf_company_registration"
+        ],
+        "relationships": [
+          "initial_director_rezonance",
+          "initial_director_regima_medic"
+        ],
+        "source": "293355407.Pdf, 293355412.Pdf",
+        "notes": "Shelf company director - initial director of Rezonance and RegimA Medic before transfer to Faucitts",
+        "evidence": [],
+        "ad_res_j7_references": [],
+        "evidence_enhanced_timestamp": "2026-01-18T05:36:58.285137",
+        "burden_of_proof_analysis": {
+          "civil_50%": "PENDING_REVIEW",
+          "criminal_95%": "PENDING_REVIEW",
+          "key_evidence": []
+        },
+        "refinement_date": "2026-03-25T13:32:18.098809",
+        "timeline_events": []
       },
       {
         "entity_id": "PERSON_025",
-        "name": "Kevin Michael Derrick",
-        "role": "Director/CEO",
-        "description": "Sole director of Ketoni; CEO of George Group; Kevin Derrick Trust (IT 107716/98) is existing shareholder"
+        "name": "John Leslie Knowlton",
+        "id_number": "5502245180187",
+        "role": "director",
+        "agent_type": "neutral",
+        "involvement_events": 0,
+        "primary_actions": [
+          "company_directorship"
+        ],
+        "relationships": [
+          "director_of_regima_medic"
+        ],
+        "source": "293355412.Pdf",
+        "notes": "Director of RegimA Medic",
+        "evidence": [],
+        "ad_res_j7_references": [],
+        "evidence_enhanced_timestamp": "2026-01-18T05:36:58.285141",
+        "burden_of_proof_analysis": {
+          "civil_50%": "PENDING_REVIEW",
+          "criminal_95%": "PENDING_REVIEW",
+          "key_evidence": []
+        },
+        "timeline_events": [],
+        "refinement_date": "2026-03-25T13:32:18.098809"
       },
       {
         "entity_id": "PERSON_026",
-        "name": "Marc Yudaken",
-        "role": "Attorney",
-        "description": "Baker McKenzie partner; handled Ketoni shareholder agreement"
+        "name": "Vanessa Claire Rizzotto",
+        "id_number": "6206170252081",
+        "role": "spouse",
+        "agent_type": "neutral",
+        "involvement_events": 0,
+        "primary_actions": [],
+        "relationships": [
+          "spouse_of_martin_rizzotto"
+        ],
+        "source": "293353145.Pdf",
+        "notes": "Spouse of Martin Carlo Rizzotto, married out of community of property",
+        "evidence": [],
+        "ad_res_j7_references": [],
+        "evidence_enhanced_timestamp": "2026-01-18T05:36:58.285143",
+        "burden_of_proof_analysis": {
+          "civil_50%": "PENDING_REVIEW",
+          "criminal_95%": "PENDING_REVIEW",
+          "key_evidence": []
+        },
+        "timeline_events": [],
+        "refinement_date": "2026-03-25T13:32:18.098809"
       },
       {
         "entity_id": "PERSON_027",
-        "name": "David Field",
-        "role": "Associate",
-        "description": "Attended meeting with Pete, Bantjies, and Kevin Derrick (2023-03-15)"
+        "name": "Andrew J Fraser",
+        "id_number": null,
+        "role": "accounting_officer",
+        "agent_type": "neutral",
+        "involvement_events": 0,
+        "primary_actions": [
+          "accounting_services"
+        ],
+        "relationships": [
+          "accounting_officer_louw_companies"
+        ],
+        "source": "Multiple CIPC documents",
+        "notes": "Accounting Officer for multiple Louw companies - profession number 947660",
+        "evidence": [],
+        "ad_res_j7_references": [],
+        "evidence_enhanced_timestamp": "2026-01-18T05:36:58.285147",
+        "burden_of_proof_analysis": {
+          "civil_50%": "PENDING_REVIEW",
+          "criminal_95%": "PENDING_REVIEW",
+          "key_evidence": []
+        },
+        "timeline_events": [],
+        "refinement_date": "2026-03-25T13:32:18.098809"
       },
       {
-        "entity_id": "PERSON_028",
-        "name": "Denny Da Silva",
-        "role": "Associate",
-        "description": "Meeting with Pete re Faucitt Trust (2023-05-30)"
+        "entity_id": "PERSON_29",
+        "name": "Barend Thomas Nortje",
+        "id_number": "7204075153081",
+        "date_of_birth": "1972-04-07",
+        "role": "Distributor",
+        "entity_type": "distributor",
+        "address": "9 Denbigh Road, Constantia, Cape Town, 7806",
+        "postal_address": "Postnet 207, Private Bag X1005, Claremont, 7735",
+        "profession": "Businessman",
+        "directorships": [
+          "Dermal Skin Treatments Cape Town (2006/040838/23) - 50% Member",
+          "De Fay Fund Management (1999/015505/07) - Director",
+          "Hollyberry Props 96 (2007/017019/07) - Resigned",
+          "Mooimaak Beleggings (2001/002714/07) - Resigned"
+        ],
+        "evidence": [
+          "293338023-Director-BarendNortje.Pdf",
+          "293337582-Company-DermalSkinTreatmentsCapeTown.Pdf"
+        ],
+        "evidence_strength": "strong",
+        "ad_res_j7_evidence": [
+          "ANNEXURES/JF16-DISTRIBUTORS/293338023-Director-BarendNortje.Pdf"
+        ],
+        "involvement_events": 0,
+        "ad_res_j7_references": [],
+        "evidence_enhanced_timestamp": "2026-01-18T05:36:58.285153",
+        "burden_of_proof_analysis": {
+          "civil_50%": "PENDING_REVIEW",
+          "criminal_95%": "PENDING_REVIEW",
+          "key_evidence": []
+        },
+        "timeline_events": [],
+        "refinement_date": "2026-03-25T13:32:18.098809"
       },
       {
-        "entity_id": "PERSON_029",
-        "name": "Liezel",
-        "role": "Employee",
-        "description": "liezel@regima.zone account created 2023-04-24; credentials shared via email"
+        "entity_id": "PERSON_30",
+        "name": "Sharon Nortje",
+        "id_number": "6212030045087",
+        "date_of_birth": "1962-12-03",
+        "role": "Distributor",
+        "entity_type": "distributor",
+        "address": "9 Denbigh Road, Constantia, Cape Town, 7806",
+        "postal_address": "Postnet 207, Private Bag X1005, Claremont, 7735",
+        "directorships": [
+          "Dermal Skin Treatments Cape Town (2006/040838/23) - 50% Member"
+        ],
+        "evidence": [
+          "293338030-Director-SharonNortje.Pdf",
+          "293337582-Company-DermalSkinTreatmentsCapeTown.Pdf"
+        ],
+        "evidence_strength": "strong",
+        "ad_res_j7_evidence": [
+          "ANNEXURES/JF16-DISTRIBUTORS/293338030-Director-SharonNortje.Pdf"
+        ],
+        "involvement_events": 0,
+        "ad_res_j7_references": [],
+        "evidence_enhanced_timestamp": "2026-01-18T05:36:58.285155",
+        "burden_of_proof_analysis": {
+          "civil_50%": "PENDING_REVIEW",
+          "criminal_95%": "PENDING_REVIEW",
+          "key_evidence": []
+        },
+        "timeline_events": [],
+        "refinement_date": "2026-03-25T13:32:18.098809"
+      },
+      {
+        "entity_id": "PERSON_31",
+        "name": "Karen Patricia Avnit",
+        "id_number": "5903170130082",
+        "date_of_birth": "1959-03-17",
+        "role": "Distributor",
+        "entity_type": "distributor",
+        "marital_status": "UNMARRIED",
+        "address": "No. 4, Forest Lodge, Jatinga Street, Paulshof, 2193",
+        "postal_address": "PO Box 2240, Rivonia, 2128",
+        "directorships": [
+          "Kachan Marketing and Distribution (2005/138571/23) - 100% Member"
+        ],
+        "properties": [
+          "SS Forest Lodge 173, Unit 4 - R1,100,000 (2006-06-05)",
+          "SS Forest Lodge 173, G20 - R1,100,000 (2006-07-07)"
+        ],
+        "bonds": [
+          "SB48685/2019 - R3,110,000 - REGIMA SKIN TREATMENTS CC (2019-11-22)"
+        ],
+        "evidence": [
+          "293340515-Director-KarenAvnit.Pdf",
+          "293344692-Property-KarenAvnit.Pdf",
+          "293340322-Company-KachanMarketingandDistribution.Pdf"
+        ],
+        "evidence_strength": "conclusive",
+        "ad_res_j7_evidence": [
+          "ANNEXURES/JF16-DISTRIBUTORS/293340515-Director-KarenAvnit.Pdf",
+          "ANNEXURES/JF16-DISTRIBUTORS/293344692-Property-KarenAvnit.Pdf"
+        ],
+        "involvement_events": 0,
+        "ad_res_j7_references": [],
+        "evidence_enhanced_timestamp": "2026-01-18T05:36:58.285156",
+        "burden_of_proof_analysis": {
+          "civil_50%": "PENDING_REVIEW",
+          "criminal_95%": "PENDING_REVIEW",
+          "key_evidence": []
+        },
+        "timeline_events": [],
+        "refinement_date": "2026-03-25T13:32:18.098809"
+      },
+      {
+        "entity_id": "PERSON_32",
+        "name": "Chané Auriele Todd",
+        "id_number": "8909280264080",
+        "date_of_birth": "1989-09-28",
+        "role": "Distributor",
+        "entity_type": "distributor",
+        "address": "37 Sandpiper Street, Ebotse Golf Estate, Benoni, 1514",
+        "email": "chane@dandelionsa.co.za",
+        "directorships": [
+          "Dandelion SA (2015/230152/07) - Director"
+        ],
+        "evidence": [
+          "293342496-Director-ChaneTodd.Pdf",
+          "293342245-Company-DandelionSA.Pdf"
+        ],
+        "evidence_strength": "strong",
+        "ad_res_j7_evidence": [
+          "ANNEXURES/JF16-DISTRIBUTORS/293342496-Director-ChaneTodd.Pdf"
+        ],
+        "involvement_events": 0,
+        "ad_res_j7_references": [],
+        "evidence_enhanced_timestamp": "2026-01-18T05:36:58.285158",
+        "burden_of_proof_analysis": {
+          "civil_50%": "PENDING_REVIEW",
+          "criminal_95%": "PENDING_REVIEW",
+          "key_evidence": []
+        },
+        "timeline_events": [],
+        "refinement_date": "2026-03-25T13:32:18.098809"
+      },
+      {
+        "entity_id": "PERSON_33",
+        "name": "Kirby Rae Van Der Stelt",
+        "id_number": "8805270134087",
+        "date_of_birth": "1988-05-27",
+        "role": "Former Distributor",
+        "entity_type": "distributor",
+        "status": "RESIGNED",
+        "address": "8 Genevieve Street, Farrarmere, Benoni, 1501",
+        "directorships": [
+          "Dandelion SA (2015/230152/07) - Resigned Director (2016-07-05)"
+        ],
+        "evidence": [
+          "293342504-Director-KirbyRaeVanDerStelt.Pdf"
+        ],
+        "evidence_strength": "moderate",
+        "ad_res_j7_evidence": [
+          "ANNEXURES/JF16-DISTRIBUTORS/293342504-Director-KirbyRaeVanDerStelt.Pdf"
+        ],
+        "involvement_events": 0,
+        "ad_res_j7_references": [],
+        "evidence_enhanced_timestamp": "2026-01-18T05:36:58.285160",
+        "burden_of_proof_analysis": {
+          "civil_50%": "PENDING_REVIEW",
+          "criminal_95%": "PENDING_REVIEW",
+          "key_evidence": []
+        },
+        "timeline_events": [],
+        "refinement_date": "2026-03-25T13:32:18.098809"
+      },
+      {
+        "entity_id": "PERSON_34",
+        "name": "Dante Bertani",
+        "id_number": "7209275121085",
+        "date_of_birth": "1972-09-27",
+        "role": "Distributor",
+        "entity_type": "distributor",
+        "address": "32 Middle Street, East Town, Gauteng, 2195",
+        "postal_address": "PO Box 2240, Rivonia, 2128",
+        "directorships": [
+          "Bertani International Global (2017/424081/07) - Director"
+        ],
+        "evidence": [
+          "293343017-Director-DanteBertani.Pdf",
+          "293342878-Company-BertaniInternationalGlobal.Pdf"
+        ],
+        "evidence_strength": "strong",
+        "ad_res_j7_evidence": [
+          "ANNEXURES/JF16-DISTRIBUTORS/293343017-Director-DanteBertani.Pdf"
+        ],
+        "involvement_events": 0,
+        "ad_res_j7_references": [],
+        "evidence_enhanced_timestamp": "2026-01-18T05:36:58.285162",
+        "burden_of_proof_analysis": {
+          "civil_50%": "PENDING_REVIEW",
+          "criminal_95%": "PENDING_REVIEW",
+          "key_evidence": []
+        },
+        "timeline_events": [],
+        "refinement_date": "2026-03-25T13:32:18.098809"
+      },
+      {
+        "entity_id": "PERSON_35",
+        "name": "Anna Gertruida Johanna du Toit",
+        "id_number": "6512030012080",
+        "date_of_birth": "1965-12-03",
+        "role": "Former Distributor",
+        "entity_type": "distributor",
+        "address": "3 Hermitage Street, Redgeworth, Bellville, 7530",
+        "directorships": [
+          "George Endermologie Clinic (2000/028557/23) - 100% Member"
+        ],
+        "evidence": [
+          "293332765-Company-GeorgeEndermologieClinic.Pdf"
+        ],
+        "evidence_strength": "moderate",
+        "ad_res_j7_evidence": [
+          "ANNEXURES/JF16-DISTRIBUTORS/293332765-Company-GeorgeEndermologieClinic.Pdf"
+        ],
+        "involvement_events": 0,
+        "ad_res_j7_references": [],
+        "evidence_enhanced_timestamp": "2026-01-18T05:36:58.285163",
+        "burden_of_proof_analysis": {
+          "civil_50%": "PENDING_REVIEW",
+          "criminal_95%": "PENDING_REVIEW",
+          "key_evidence": []
+        },
+        "timeline_events": [],
+        "refinement_date": "2026-03-25T13:32:18.098809"
+      },
+      {
+        "entity_id": "PERSON_36",
+        "name": "Adrian Dominic De Fay",
+        "id_number": "6205275172087",
+        "date_of_birth": "1962-05-27",
+        "role": "Investment Manager",
+        "entity_type": "external",
+        "profession": "Director",
+        "address": "19 Bellair Drive, Constantia, Cape Town, 7806",
+        "postal_address": "Postnet 325, Private Bag X1005, Claremont, 7735",
+        "directorships": [
+          "De Fay Fund Management (1999/015505/07) - Director"
+        ],
+        "evidence": [
+          "293338928-Company-DeFayFundManagement.Pdf"
+        ],
+        "evidence_strength": "moderate",
+        "ad_res_j7_evidence": [
+          "ANNEXURES/JF16-DISTRIBUTORS/293338928-Company-DeFayFundManagement.Pdf"
+        ],
+        "involvement_events": 0,
+        "ad_res_j7_references": [],
+        "evidence_enhanced_timestamp": "2026-01-18T05:36:58.285165",
+        "burden_of_proof_analysis": {
+          "civil_50%": "PENDING_REVIEW",
+          "criminal_95%": "PENDING_REVIEW",
+          "key_evidence": []
+        },
+        "timeline_events": [],
+        "refinement_date": "2026-03-25T13:32:18.098809"
+      },
+      {
+        "entity_id": "PERSON_DERRICK_001",
+        "name": "Kevin Michael Derrick",
+        "role": "ketoni_director",
+        "agent_type": "neutral",
+        "involvement_events": 2,
+        "primary_actions": [],
+        "relationships": [
+          "director_of_ketoni",
+          "colleague_of_bantjies"
+        ],
+        "ketoni_connection": {
+          "role": "Director of Ketoni Investment Holdings",
+          "obligation": "Ketoni owes ZAR 18.75M to FFT (May 2026)",
+          "connection_to_bantjies": "Professional colleague - both accountants"
+        },
+        "significance": "Connection between Ketoni payout and Bantjies' FFT trustee appointment",
+        "ad_res_j7_references": [
+          "KETONI_PAYOUT_INTEGRATION_SUMMARY_V48-49.md",
+          "lex/agent_based_model_v48_ketoni_integrated.scm"
+        ],
+        "evidence": [],
+        "evidence_enhanced_timestamp": "2026-01-18T05:36:58.285167",
+        "burden_of_proof_analysis": {
+          "civil_50%": "PENDING_REVIEW",
+          "criminal_95%": "PENDING_REVIEW",
+          "key_evidence": []
+        },
+        "timeline_events": [],
+        "refinement_date": "2026-03-25T13:32:18.098809"
+      },
+      {
+        "entity_id": "PERSON_TB_002",
+        "name": "Danie Bantjes",
+        "role": "external_accountant",
+        "agent_type": "key_witness",
+        "significance": "Prepared final trial balances and AJEs, 6-month delay in finalization",
+        "investigation_priority": "HIGH",
+        "evidence": [
+          "Email 2020-08-13",
+          "Trial balance AJE documentation"
+        ],
+        "red_flags": [
+          "6-month delay between year-end (Feb 2020) and finalization (Aug 2020)",
+          "Mentions 'disclosure changes promulgated during the past year'",
+          "Coordinates meeting with Bernadine Wright for sign-off"
+        ],
+        "investigation_leads": [
+          "Why 6-month delay in financial statement finalization?",
+          "What disclosure changes were implemented?",
+          "Subpoena Danie Bantjes records and communications"
+        ],
+        "trustee_connection": "Later appointed as Trustee by Rynette (July 2024, T-10 months before Ketoni payout)",
+        "trial_balance_evidence": {
+          "entity_id": "PERSON_TB_002",
+          "name": "Danie Bantjes",
+          "role": "external_accountant",
+          "agent_type": "key_witness",
+          "significance": "Prepared final trial balances and AJEs, 6-month delay in finalization",
+          "investigation_priority": "HIGH",
+          "evidence": [
+            "Email 2020-08-13",
+            "Trial balance AJE documentation"
+          ],
+          "red_flags": [
+            "6-month delay between year-end (Feb 2020) and finalization (Aug 2020)",
+            "Mentions 'disclosure changes promulgated during the past year'",
+            "Coordinates meeting with Bernadine Wright for sign-off"
+          ],
+          "investigation_leads": [
+            "Why 6-month delay in financial statement finalization?",
+            "What disclosure changes were implemented?",
+            "Subpoena Danie Bantjes records and communications"
+          ],
+          "trustee_connection": "Later appointed as Trustee by Rynette (July 2024, T-10 months before Ketoni payout)"
+        },
+        "evidence_enhanced_timestamp": "2026-01-18T05:36:58.285168",
+        "involvement_events": 1,
+        "ad_res_j7_references": [],
+        "burden_of_proof_analysis": {
+          "civil_50%": "PENDING_REVIEW",
+          "criminal_95%": "PENDING_REVIEW",
+          "key_evidence": []
+        },
+        "timeline_events": [],
+        "refinement_date": "2026-03-25T13:32:18.098809",
+        "mat4719_confirmatory_affidavit": {
+          "sworn_date": "2025-08-13",
+          "location": "Pretoria",
+          "commissioner": "Hannelle Evert, Chartered Business Accountant (SA), SAIBA16721",
+          "commissioner_address": "Libertas Office Park, Block E, Cnr The Highway and Libertas Roads, Equestria 0184",
+          "saica_number": "00105928",
+          "id_number": "581004 5103 089",
+          "role_in_application": "Confirmatory deponent - confirmed Peter's allegations",
+          "evidence_reference": "MAT4719_Confirmatory_Affidavit_pages_69-71",
+          "void_ab_initio_relevance": "Received Daniel's fraud report on 6 June 2025; certified false affidavit on 13 August 2025"
+        }
+      },
+      {
+        "entity_id": "PERSON_037",
+        "name": "Kent (Unknown Surname)",
+        "email": "kent@regima.zone",
+        "role": "sales_order_processor",
+        "agent_type": "operational_staff",
+        "involvement_events": 1,
+        "primary_actions": [
+          "order_receipt_phone_email",
+          "proforma_invoice_creation",
+          "pop_receipt_processing",
+          "order_fulfillment_marking"
+        ],
+        "relationships": [
+          "employee_of_regima_group",
+          "sage_user_rwd",
+          "works_with_PERSON_038"
+        ],
+        "evidence": [
+          "Rynette Organogram 2025-04-12 - How Sales Work",
+          "Screenshot-2025-06-20-Sage-Account-RegimA-Worldwide-Distribution.md - kent@regima.zone user",
+          "POPIA violation letters sent to Kent"
+        ],
+        "ad_res_j7_references": [
+          "ANNEXURES/JF07/Screenshot-2025-06-20-Sage-Account-RegimA-Worldwide-Distribution.md",
+          "ANNEXURES/JF09/APR-SEP-2025.md - POPIA letters to Kent",
+          "evidence_analysis/rynette_organogram_2025-04-12.md"
+        ],
+        "significance": "Key sales personnel handling customer orders, proforma invoices, and POP processing. Named in sales process flow diagram.",
+        "evidence_enhanced": "2026-01-28T16:14:47.310720",
+        "evidence_strength": "moderate",
+        "organogram_source": {
+          "document": "Powerpoint-howsaleswork.pdf",
+          "date": "2025-04-12",
+          "role_in_flow": "Order receipt (phone/email), Proforma invoice creation in Shopify, POP receipt, Order fulfillment marking"
+        },
+        "burden_of_proof_analysis": {
+          "civil_50%": "PENDING_REVIEW",
+          "criminal_95%": "PENDING_REVIEW",
+          "key_evidence": []
+        },
+        "timeline_events": [],
+        "refinement_date": "2026-03-25T13:32:18.098809"
+      },
+      {
+        "entity_id": "PERSON_038",
+        "name": "EL (Unknown Surname)",
+        "email": "el@regimazone",
+        "role": "sales_order_processor",
+        "agent_type": "operational_staff",
+        "involvement_events": 1,
+        "primary_actions": [
+          "order_receipt_phone_email",
+          "proforma_invoice_creation",
+          "pop_receipt_processing",
+          "order_fulfillment_marking"
+        ],
+        "relationships": [
+          "employee_of_regima_group",
+          "sage_user_rwd",
+          "works_with_PERSON_037"
+        ],
+        "evidence": [
+          "Rynette Organogram 2025-04-12 - How Sales Work",
+          "Screenshot-2025-06-20-Sage-Account-RegimA-Worldwide-Distribution.json - el@regimazone user"
+        ],
+        "ad_res_j7_references": [
+          "ANNEXURES/JF07/Screenshot-2025-06-20-Sage-Account-RegimA-Worldwide-Distribution.json",
+          "evidence_analysis/rynette_organogram_2025-04-12.md"
+        ],
+        "significance": "Key sales personnel handling customer orders alongside Kent. Named in sales process flow diagram.",
+        "evidence_enhanced": "2026-01-28T16:14:47.310753",
+        "evidence_strength": "moderate",
+        "organogram_source": {
+          "document": "Powerpoint-howsaleswork.pdf",
+          "date": "2025-04-12",
+          "role_in_flow": "Order receipt (phone/email), Proforma invoice creation in Shopify, POP receipt, Order fulfillment marking"
+        },
+        "burden_of_proof_analysis": {
+          "civil_50%": "PENDING_REVIEW",
+          "criminal_95%": "PENDING_REVIEW",
+          "key_evidence": []
+        },
+        "timeline_events": [],
+        "refinement_date": "2026-03-25T13:32:18.098809"
+      },
+      {
+        "entity_id": "PERSON_039",
+        "name": "Marisca Meyer",
+        "role": "complicit_accountant",
+        "agent_type": "antagonist",
+        "title": "Professional Accountant (SA)",
+        "organization": "De Novo Business Services (Pty) Ltd",
+        "email": "mmeyer@denovobus.co.za",
+        "involvement_events": 2,
+        "primary_actions": [
+          "prepared_backdated_2019_financial_statements",
+          "received_fraudulent_allocation_instructions",
+          "created_false_loan_accounts"
+        ],
+        "relationships": [
+          "employee_of_ORG_DE_NOVO",
+          "instructed_by_PERSON_002",
+          "prepared_statements_for_ORG_REGIMA_SA"
+        ],
+        "evidence": [
+          "2025-06-18 - Rynette & De Novo - RegimA SA Payments.pdf - Email recipient",
+          "Regima SA (Pty) Ltd - 2019 - Financial statements - SME.pdf - Listed as Preparer"
+        ],
+        "evidence_strength": "conclusive",
+        "criminal_threshold": "95%_likely",
+        "key_evidence": {
+          "financial_statements_issued": "2025-06-25",
+          "period_covered": "15 months ended 28 February 2019",
+          "backdating_gap": "6+ years",
+          "fraud_indicator": "Created 2019 statements in June 2025"
+        },
+        "created_date": "2026-02-05",
+        "source": "New evidence package Feb 2026",
+        "burden_of_proof_analysis": {
+          "civil_50%": "PENDING_REVIEW",
+          "criminal_95%": "PENDING_REVIEW",
+          "key_evidence": []
+        },
+        "timeline_events": [],
+        "refinement_date": "2026-03-25T13:32:18.098809"
+      },
+      {
+        "entity_id": "PERSON_040",
+        "name": "Nadine Van Greunen",
+        "role": "complicit_accountant",
+        "agent_type": "antagonist",
+        "organization": "De Novo Business Services (Pty) Ltd",
+        "email": "nvangreunen@denovobus.co.za",
+        "phone": "(011) 452-0789",
+        "involvement_events": 1,
+        "primary_actions": [
+          "received_fraudulent_allocation_instructions"
+        ],
+        "relationships": [
+          "employee_of_ORG_DE_NOVO",
+          "colleague_of_PERSON_039"
+        ],
+        "evidence": [
+          "2025-06-18 - Rynette & De Novo - RegimA SA Payments.pdf - Email participant"
+        ],
+        "created_date": "2026-02-05",
+        "source": "New evidence package Feb 2026",
+        "burden_of_proof_analysis": {
+          "civil_50%": "PENDING_REVIEW",
+          "criminal_95%": "PENDING_REVIEW",
+          "key_evidence": []
+        },
+        "timeline_events": [],
+        "refinement_date": "2026-03-25T13:32:18.098809"
+      },
+      {
+        "entity_id": "PERSON_041",
+        "name": "Gayane Williams",
+        "aliases": [
+          "Gee"
+        ],
+        "role": "employee_bookkeeper",
+        "agent_type": "witness",
+        "involvement_events": 2,
+        "evidence_references": [
+          "MAT4719_PF7_pages_72-101"
+        ],
+        "communications": {
+          "email_to_daniel": "31 March 2025 - Details needed to Log In",
+          "attachment": "Application Expenses Analysis.xlsx",
+          "cc": "jax@regima.com (Jacqui Faucitt)"
+        },
+        "added_date": "2026-02-09T01:37:55",
+        "source": "MAT4719 Annexure PF7",
+        "burden_of_proof_analysis": {
+          "civil_50%": "PENDING_REVIEW",
+          "criminal_95%": "PENDING_REVIEW",
+          "key_evidence": []
+        },
+        "timeline_events": [],
+        "refinement_date": "2026-03-25T13:32:18.098809"
+      },
+      {
+        "entity_id": "PERSON_014",
+        "name": "Kevin Derrick",
+        "role": "ketoni_director",
+        "agent_type": "complicit",
+        "involvement_events": 2,
+        "primary_actions": [
+          "ketoni_management",
+          "bantjies_connection"
+        ],
+        "relationships": [
+          "director_of_ketoni",
+          "george_group_connection_to_bantjies"
+        ],
+        "added_version": "v40"
       }
     ],
     "organizations": [
@@ -1765,7 +1839,7 @@
         "name": "Regima Worldwide Distribution (PTY) LTD",
         "abbreviation": "RWD ZA",
         "registration_number": "2011/005722/07",
-        "entity_type": "private_company",
+        "entity_type": "company",
         "agent_type": "instrument_of_fraud",
         "role": "third_respondent",
         "key_characteristics": [
@@ -1794,51 +1868,14 @@
           "1-CIVIL-RESPONSE/financial-flows - Revenue hijacking documentation"
         ],
         "evidence_enhanced": "2025-12-28T05:36:36.077489",
-        "evidence_strength": "strong",
-        "incorporation_date": "2011-03-11",
-        "directors": [
-          {
-            "person_id": "PERSON_001",
-            "name": "Peter Andrew Faucitt",
-            "role": "Director",
-            "status": "active"
-          },
-          {
-            "person_id": "PERSON_004",
-            "name": "Jacqueline Faucitt",
-            "role": "Director",
-            "status": "active"
-          },
-          {
-            "person_id": "PERSON_005",
-            "name": "Daniel James Faucitt",
-            "role": "Director",
-            "status": "active"
-          }
+        "evidence_strength": "conclusive",
+        "ad_res_j7_evidence_enhanced": [
+          "ANNEXURES/JF04 - CIPC registration documents",
+          "ANNEXURES/JF08/evidence_package_20251012"
         ],
-        "accounting_officer": {
-          "person_id": "PERSON_007",
-          "name": "Danie Bantjies"
-        },
-        "bank_accounts": [
-          {
-            "bank": "FNB",
-            "account_number": "62323196362",
-            "mandate_type": "INDEPENDENT_DIRECTOR_AUTHORITY",
-            "description": "Any director may act independently of each other",
-            "co_signature_required": false,
-            "signatories": [
-              "PERSON_001",
-              "PERSON_004",
-              "PERSON_005"
-            ],
-            "confirmation_date": "2025-06-18",
-            "confirmed_by": "Mpumi Netshipale (FNB Business Relationship Manager)",
-            "evidence": "FNB_RESPONSE_EMAIL_2025_06_18"
-          }
-        ],
-        "registered_address": "50 Van Buuren Road, Bedfordview, 2008",
-        "postal_address": "PO Box 9523, Edenglen, 1613"
+        "evidence_enhanced_timestamp": "2026-01-18T05:36:58.285170",
+        "directors": [],
+        "refinement_date": "2026-03-25T13:32:18.098809"
       },
       {
         "entity_id": "ORG_002",
@@ -1868,37 +1905,15 @@
         ],
         "evidence_enhanced": "2025-12-28T05:36:36.077491",
         "evidence_strength": "strong",
-        "incorporation_date": "1992-02-26",
-        "members": [
-          {
-            "person_id": "PERSON_001",
-            "name": "Peter Andrew Faucitt",
-            "percentage": "50%",
-            "role": "Member"
-          },
-          {
-            "person_id": "PERSON_004",
-            "name": "Jacqueline Faucitt",
-            "percentage": "50%",
-            "role": "Member/CEO"
-          }
-        ],
-        "accounting_officer": {
-          "person_id": "PERSON_007",
-          "name": "Danie Bantjies"
-        },
-        "registered_address": "50 Van Buuren Road, Bedfordview, 2008",
-        "postal_address": "PO Box 9523, Edenglen, 1613",
-        "popia_information_officer": {
-          "person_id": "PERSON_004",
-          "name": "Jacqueline Faucitt"
-        }
+        "evidence_enhanced_timestamp": "2026-01-18T05:36:58.285172",
+        "directors": [],
+        "refinement_date": "2026-03-25T13:32:18.098809"
       },
       {
         "entity_id": "ORG_003",
         "name": "RegimA Zone Ltd",
         "jurisdiction": "United Kingdom",
-        "entity_type": "uk_private_company",
+        "entity_type": "uk_company",
         "agent_type": "legitimate_business",
         "role": "infrastructure_owner",
         "key_characteristics": [
@@ -1938,21 +1953,15 @@
         "evidence_enhanced": "2025-12-28T05:36:36.077493",
         "evidence_strength": "strong",
         "financial_impact_detail": "R140,000-R280,000 (28 months Shopify payments)",
-        "registration_number": "UK Company",
-        "directors": [
-          {
-            "person_id": "PERSON_005",
-            "name": "Daniel James Faucitt",
-            "role": "Managing Director",
-            "percentage": "100%"
-          }
-        ]
+        "evidence_enhanced_timestamp": "2026-01-18T05:36:58.285174",
+        "directors": [],
+        "refinement_date": "2026-03-25T13:32:18.098809"
       },
       {
         "entity_id": "ORG_004",
         "name": "Strategic Logistics Group",
         "abbreviation": "SLG",
-        "entity_type": "close_corporation",
+        "entity_type": "company",
         "agent_type": "victim_entity",
         "ownership_structure": {
           "director_1": "33%",
@@ -1990,64 +1999,14 @@
           "ANNEXURES/JF02 - Shopify sales reports"
         ],
         "evidence_strength": "strong",
-        "registration_number": "2008/136496/23",
-        "incorporation_date": "2008-06-27",
-        "members": [
-          {
-            "person_id": "PERSON_001",
-            "name": "Peter Andrew Faucitt",
-            "percentage": "33%",
-            "role": "Member"
-          },
-          {
-            "person_id": "PERSON_004",
-            "name": "Jacqueline Faucitt",
-            "percentage": "33%",
-            "role": "Member"
-          },
-          {
-            "person_id": "PERSON_005",
-            "name": "Daniel James Faucitt",
-            "percentage": "33%",
-            "role": "Founding Member"
-          }
-        ],
-        "accounting_officer": {
-          "person_id": "PERSON_007",
-          "name": "Danie Bantjies"
-        },
-        "bank_accounts": [
-          {
-            "bank": "FNB",
-            "account_number": "TBD",
-            "mandate_type": "MEMBER_AUTHORITY",
-            "description": "Members have authority based on CC agreement",
-            "signatories": [
-              "PERSON_001",
-              "PERSON_004",
-              "PERSON_005"
-            ],
-            "director_loan_authority": true,
-            "evidence": "JF-STRATEGIC-LOGISTICS-ANALYSIS.md"
-          }
-        ],
-        "registered_address": "50 Van Buuren Road, Bedfordview, 2008",
-        "financial_notes": {
-          "stock_loss": "R5,400,000",
-          "stock_loss_type": "stock_adjustment_disappeared",
-          "debt_to_RST": "R13,000,000",
-          "interest_paid_to_RST": "R414,334.09",
-          "interest_payment_date": "2020-02-28"
-        },
-        "founding_member": {
-          "person_id": "PERSON_005",
-          "name": "Daniel James Faucitt"
-        }
+        "evidence_enhanced_timestamp": "2026-01-18T05:36:58.285178",
+        "directors": [],
+        "refinement_date": "2026-03-25T13:32:18.098809"
       },
       {
         "entity_id": "ORG_005",
         "name": "Villa Via",
-        "entity_type": "company",
+        "entity_type": "property_entity",
         "agent_type": "instrument_of_wealth_transfer",
         "ownership_structure": {
           "director_ownership": "50%",
@@ -2086,34 +2045,14 @@
           "ANNEXURES/JF04 - CIPC registration documents"
         ],
         "evidence_strength": "strong",
-        "registration_number": "TBD",
-        "members": [
-          {
-            "person_id": "PERSON_001",
-            "name": "Peter Andrew Faucitt",
-            "percentage": "50%",
-            "role": "Director"
-          },
-          {
-            "person_id": "OTHER",
-            "name": "Other",
-            "percentage": "50%",
-            "role": "Director"
-          }
-        ],
-        "financial_notes": {
-          "monthly_rental_income": "R4,400,000",
-          "net_profit": "R3,700,000",
-          "profit_margin": "86%",
-          "members_loan_account": "R22,800,000",
-          "financial_year": "May 1 - April 30",
-          "role": "Rental property / wealth extraction vehicle"
-        }
+        "evidence_enhanced_timestamp": "2026-01-18T05:36:58.285179",
+        "directors": [],
+        "refinement_date": "2026-03-25T13:32:18.098809"
       },
       {
         "entity_id": "ORG_006",
         "name": "RegimA SA",
-        "entity_type": "private_company",
+        "entity_type": "company",
         "agent_type": "victim_entity",
         "relationships": [
           "related_to_ORG_001"
@@ -2134,27 +2073,16 @@
           "SF2 - Sage system evidence"
         ],
         "evidence_strength": "strong",
-        "registration_number": "2017/087935/07",
-        "incorporation_date": "2017",
-        "directors": [
-          {
-            "person_id": "PERSON_001",
-            "name": "Peter Andrew Faucitt",
-            "role": "Co-Director"
-          },
-          {
-            "person_id": "PERSON_005",
-            "name": "Daniel James Faucitt",
-            "role": "Co-Director"
-          }
-        ]
+        "evidence_enhanced_timestamp": "2026-01-18T05:36:58.285181",
+        "directors": [],
+        "refinement_date": "2026-03-25T13:32:18.098809"
       },
       {
         "entity_id": "ORG_008",
         "name": "ReZonance (Pty) Ltd",
         "registration": "2017/081396/07",
         "incorporation_date": "2017",
-        "entity_type": "private_company",
+        "entity_type": "company",
         "agent_type": "victim",
         "role": "it_services_provider_and_creditor",
         "involvement_events": 8,
@@ -2220,32 +2148,28 @@
           "significance": "Debt reduced from R85k to R22k through large payments"
         },
         "ad_res_j7_references": [
-          "ANNEXURES/JF14-CIPC-2021 - Company registration",
-          "ANNEXURES/JF15-CIPC-BATCH2-2021 - Shelf company acquisition pattern",
-          "ANNEXURES/JF04 - Company structure documentation"
+          "SF1_Ketoni_Debt_FFT_Documentation.md - Business relationship and debt",
+          "1-CIVIL-RESPONSE/financial-flows - Service provider documentation"
         ],
-        "evidence_enhanced": "2026-01-10T05:37:04.462497",
+        "evidence_enhanced": "2025-12-28T05:36:36.077504",
         "evidence": [
-          "JF14 - CIPC company registration documents",
-          "JF15 - CIPC batch 2 documents (shelf company acquisition)",
-          "JF04 - Company structure evidence"
+          "JF03 - Financial records showing rent charges",
+          "CIPC company records"
         ],
         "evidence_strength": "strong",
-        "registration_number": "2017/081396/07",
-        "directors": [
-          {
-            "person_id": "PERSON_005",
-            "name": "Daniel James Faucitt",
-            "role": "Director",
-            "percentage": "50%"
-          }
-        ]
+        "ad_res_j7_evidence_enhanced": [
+          "ANNEXURES/JF03 - Financial transaction records",
+          "ANNEXURES/JF08/evidence_package_20251012"
+        ],
+        "evidence_enhanced_timestamp": "2026-01-18T05:36:58.285182",
+        "directors": [],
+        "refinement_date": "2026-03-25T13:32:18.098809"
       },
       {
         "entity_id": "ORG_009",
         "name": "Adderory (Pty) Ltd",
         "registration_date": "2021-04",
-        "entity_type": "private_company",
+        "entity_type": "company",
         "agent_type": "accomplice",
         "role": "competing_business_fraud_vehicle",
         "ownership": {
@@ -2297,16 +2221,9 @@
           "ANNEXURES/JF03 - Financial records and analysis"
         ],
         "evidence_strength": "strong",
-        "registration_number": "2021/TBD",
-        "incorporation_date": "2021-04-30",
-        "directors": [
-          {
-            "person_id": "PERSON_003",
-            "name": "Adderory (Rynette's Son)",
-            "role": "Director",
-            "percentage": "100%"
-          }
-        ]
+        "evidence_enhanced_timestamp": "2026-01-18T05:36:58.285184",
+        "directors": [],
+        "refinement_date": "2026-03-25T13:32:18.098809"
       },
       {
         "entity_id": "ORG_010",
@@ -2344,18 +2261,18 @@
           "EVENT_027"
         ],
         "additional_notes": "Registered April 2021 alongside Adderory (Pty) Ltd, part of Adderory group for customer hijacking, used RegimA brand for fraud",
-        "evidence_enhanced": "2026-01-10T05:37:04.462502",
+        "evidence_enhanced": "2025-12-28T05:36:36.077509",
         "evidence": [
-          "SF5 - Adderory Company Registration Stock Supply",
-          "JF04 - CIPC company records",
-          "JF08 - Business operations evidence"
+          "CIPC company registration records",
+          "JF04 - Company documentation"
         ],
         "ad_res_j7_references": [
-          "ANNEXURES/SF5_Adderory_Company_Registration_Stock_Supply.md - Company registration and stock supply",
-          "ANNEXURES/JF04 - CIPC company documentation",
-          "ANNEXURES/JF08/evidence_package_20251012 - Business operations"
+          "ANNEXURES/JF04 - CIPC registration documents"
         ],
-        "evidence_strength": "strong"
+        "evidence_strength": "moderate",
+        "evidence_enhanced_timestamp": "2026-01-18T05:36:58.285185",
+        "directors": [],
+        "refinement_date": "2026-03-25T13:32:18.098809"
       },
       {
         "entity_id": "ORG_012",
@@ -2394,19 +2311,19 @@
         ],
         "significance": "Shell company with no revenue or operations; related party loans to ReZonance; financial statements prepared retrospectively in June 2025 (6+ years late)",
         "evidence": [
-          "JF14 - CIPC company registration",
-          "JF04 - Company structure documentation",
-          "JF08 - Business operations"
+          "RegimaSA(Pty)Ltd-2019-Financialstatements-SME.pdf",
+          "CIPC registration 2017/087935/07"
         ],
         "note": "RegimaSA (lowercase 'a') - NOT the same as RegimA SA (capital 'A')",
         "clarification": "This entity (2017/087935/07) is separate from RegimA SA (Pty) Ltd which was created in 2021",
-        "evidence_enhanced": "2026-01-10T05:37:04.462507",
+        "evidence_enhanced": "2025-12-28T05:36:36.077511",
         "ad_res_j7_references": [
-          "ANNEXURES/JF14-CIPC-2021 - Company registration documents",
-          "ANNEXURES/JF04 - Company structure evidence",
-          "ANNEXURES/JF08/evidence_package_20251012 - Operations evidence"
+          "ANNEXURES/JF04 - CIPC registration documents",
+          "ANNEXURES/JF03 - Financial records and analysis"
         ],
-        "evidence_strength": "strong"
+        "evidence_strength": "moderate",
+        "evidence_enhanced_timestamp": "2026-01-18T05:36:58.285187",
+        "refinement_date": "2026-03-25T13:32:18.098809"
       },
       {
         "entity_id": "ORG_013",
@@ -2424,9 +2341,8 @@
         "financial_relationship_2019": "R500 loan to RegimaSA",
         "significance": "Related party entity in Regima network; mentioned in CIPC warning July 2, 2025",
         "evidence": [
-          "JF15 - CIPC batch 2 documents",
-          "JF04 - Company registration",
-          "JF08 - Business structure evidence"
+          "RegimaSA(Pty)Ltd-2019-Financialstatements-SME.pdf",
+          "ad-res-j7 CIPC warning reference"
         ],
         "transactions_regima_wwd": {
           "period": "2022-03-01 to 2023-02-03",
@@ -2437,13 +2353,15 @@
           "services": "IT/software services, including Sage accounting",
           "significance": "All debts cleared by Feb 2023"
         },
-        "evidence_enhanced": "2026-01-10T05:37:04.462512",
+        "evidence_enhanced": "2025-12-28T05:36:36.077514",
         "ad_res_j7_references": [
-          "ANNEXURES/JF15-CIPC-BATCH2-2021 - Company registration",
-          "ANNEXURES/JF04 - Company structure documentation",
-          "ANNEXURES/JF08/evidence_package_20251012 - Business operations"
+          "ANNEXURES/JF04 - CIPC registration documents",
+          "ANNEXURES/JF03 - Financial records and analysis"
         ],
-        "evidence_strength": "strong"
+        "evidence_strength": "moderate",
+        "evidence_enhanced_timestamp": "2026-01-18T05:36:58.285188",
+        "directors": [],
+        "refinement_date": "2026-03-25T13:32:18.098809"
       },
       {
         "entity_id": "ORG_014",
@@ -2458,18 +2376,19 @@
         ],
         "significance": "Separate entity from RegimaSA (2017/087935/07); created in 2021; appears in Sage accounting system",
         "evidence": [
-          "JF14 - CIPC company registration",
-          "JF04 - Company structure",
-          "JF02 - Shopify sales reports"
+          "Sage screenshot 2025-06-20 - Control User Access",
+          "User correction: RegimA SA didn't exist until 2021"
         ],
         "note": "Capital 'A' in RegimA - different from RegimaSA (lowercase 'a')",
-        "evidence_enhanced": "2026-01-10T05:37:04.462519",
+        "evidence_enhanced": "2025-12-28T05:36:36.077516",
         "ad_res_j7_references": [
-          "ANNEXURES/JF14-CIPC-2021 - Company registration documents",
-          "ANNEXURES/JF04 - Company structure evidence",
-          "ANNEXURES/JF02 - Shopify sales data"
+          "ANNEXURES/JF04 - CIPC registration documents",
+          "ANNEXURES/JF03 - Financial records and analysis"
         ],
-        "evidence_strength": "strong"
+        "evidence_strength": "moderate",
+        "evidence_enhanced_timestamp": "2026-01-18T05:36:58.285189",
+        "directors": [],
+        "refinement_date": "2026-03-25T13:32:18.098809"
       },
       {
         "entity_id": "ORG_015",
@@ -2490,31 +2409,21 @@
           "EVENT_088"
         ],
         "evidence": [
-          "SF4 - SARS Audit Email",
-          "JF08 - Tax audit correspondence",
-          "JF03 - Financial records"
+          "SF4 - SARS Audit Email"
         ],
         "ad_res_j7_references": [
-          "ANNEXURES/SF4_SARS_Audit_Email.md - SARS audit documentation",
-          "ANNEXURES/JF08/evidence_package_20251012 - Tax audit evidence",
-          "ANNEXURES/JF03 - Financial records and analysis"
+          "ANNEXURES/SF4_SARS_Audit_Email.md"
         ],
-        "evidence_enhanced": "2026-01-10T05:37:04.462523",
-        "evidence_strength": "strong",
+        "evidence_enhanced": "2025-12-28T05:36:36.077518",
+        "evidence_strength": "moderate",
         "burden_of_proof": {
           "civil": "HIGH",
           "criminal": "N/A"
         },
         "additional_notes": "Official regulatory scrutiny provides independent third-party verification of financial irregularities; tax fraud carries criminal penalties",
-        "registration_number": "TBD",
-        "entity_type": "investment_company",
-        "directors": [
-          {
-            "person_id": "PERSON_014",
-            "name": "Kevin Michael Derrick",
-            "role": "Director"
-          }
-        ]
+        "evidence_enhanced_timestamp": "2026-01-18T05:36:58.285191",
+        "directors": [],
+        "refinement_date": "2026-03-25T13:32:18.098809"
       },
       {
         "entity_id": "ORG_007",
@@ -2541,198 +2450,1028 @@
           "EVENT_SF9"
         ],
         "evidence": [
-          "SF9 - Ian Levitt R63M demand letter",
-          "JF06 - Court documents and legal correspondence",
-          "JF08 - Legal proceedings evidence"
+          "SF9 - Ian Levitt demand letter dated 2025-10-23"
         ],
         "ad_res_j7_references": [
-          "ANNEXURES/SF9_Ian_Levitt_Demand_Letter.md - R63M formal demand (ignored)",
-          "ANNEXURES/JF06 - Court documents and legal filings",
-          "ANNEXURES/JF08/evidence_package_20251012 - Legal proceedings"
+          "SF9_Ian_Levitt_Demand_Letter.md - Formal demand documentation"
         ],
-        "evidence_strength": "strong",
+        "evidence_strength": "moderate",
         "significance": "Establishes quantum and demonstrates ignored formal demand",
-        "evidence_enhanced": "2026-01-10T05:37:04.462528"
+        "evidence_enhanced": "2025-12-28T05:36:36.077520",
+        "evidence_enhanced_timestamp": "2026-01-18T05:36:58.285193",
+        "directors": [],
+        "refinement_date": "2026-03-25T13:32:18.098809"
       },
       {
-        "entity_id": "ORG_015",
-        "name": "Ketoni Investment Holdings",
-        "registration_number": "TBD",
-        "role": "investment_holding_company",
-        "agent_type": "neutral",
-        "involvement_events": 1,
-        "primary_actions": [
-          "payout_obligation"
+        "entity_id": "ORG_042",
+        "name": "ALOECO (SA)",
+        "registration_number": "2019/531306/07",
+        "enterprise_type": "PRIVATE COMPANY",
+        "status": "IN BUSINESS",
+        "registration_date": "2019/10/22",
+        "tax_number": "9521199845",
+        "region": "GAUTENG",
+        "principal_business": "NO RESTRICTIONS ON BUSINESS ACTIVITIES",
+        "registered_address": "15 HARRIER CRESCENT, DOUGLASDALE, BRYANSTON, GAUTENG, 2021",
+        "postal_address": "P O BOX 320, RANDBURG, 2125",
+        "directors": [
+          "Alan Peter Louw",
+          "Martin Carlo Rizzotto"
         ],
-        "relationships": [
-          "shareholder_TRUST_001",
-          "director_PERSON_014",
-          "payout_obligor_to_FFT"
-        ],
-        "financial_impact": {
-          "payout_obligation": "ZAR 18,750,000",
-          "payout_date": "May 2026",
-          "shares_held_by_FFT": "5,000 A-Ordinary shares"
-        },
-        "significance": "Central financial nexus - ZAR 18.75M payout explains all trust actions since Apr 2023",
         "evidence": [
-          "Ketoni shareholder agreement",
-          "FFT investment records",
-          "Payout option documentation"
+          "CIPC WinDeed Report 293350028 - Company list",
+          "CIPC WinDeed Report 293350058 - Company details"
         ],
         "ad_res_j7_references": [
-          "evidence/FFT_KETONI_INVESTMENT_TIMELINE_V49.md",
-          "lex/entity_relation_framework_v48_ketoni_payout_integrated.scm",
-          "KETONI_PAYOUT_INTEGRATION_SUMMARY_V48-49.md"
+          "evidence/cipc/293350058.pdf - ALOECO (SA) company record"
         ],
-        "evidence_enhanced": "2026-01-16T05:34:42.470751",
-        "evidence_strength": "conclusive",
-        "entity_type": "investment_company",
-        "directors": [
-          {
-            "person_id": "PERSON_014",
-            "name": "Kevin Michael Derrick",
-            "role": "Director"
-          }
-        ]
-      },
-      {
-        "entity_id": "ORG_FNB",
-        "name": "First National Bank (FNB)",
-        "description": "Commercial bank providing banking services to RegimA Worldwide Distribution",
-        "role": "banking_institution",
-        "agent_type": "neutral",
-        "key_contacts": [
-          {
-            "name": "Mpumi Netshipale",
-            "role": "Business Relationship Manager",
-            "email": "Mpumi.Netshipale@fnb.co.za",
-            "phone": [
-              "+27 87 030 0801",
-              "+27 64 523 1839"
-            ]
-          },
-          {
-            "name": "Michelle Habig",
-            "role": "Relationship Analyst",
-            "email": "mhabig@fnb.co.za",
-            "phone": "+27 87 335 6829"
-          },
-          {
-            "name": "Nondu Motlhala",
-            "role": "FNB Staff",
-            "email": "NMotlhala@fnb.co.za"
-          }
-        ],
-        "evidence_refs": [
-          "FNB_RESPONSE_EMAIL_2025_06_18",
-          "PAF_FNB_FRAUD_LETTER_2025_06_17"
-        ]
+        "evidence_strength": "moderate",
+        "source_document": "CIPC WinDeed 2021-11-19",
+        "connection_to_case": "Directors use PO Box 9477 Edenglen - same as Faucitt companies",
+        "added_date": "2026-01-09T06:56:17.171814",
+        "evidence_enhanced_timestamp": "2026-01-18T05:36:58.285194",
+        "refinement_date": "2026-03-25T13:32:18.098809"
       },
       {
         "entity_id": "ORG_016",
-        "name": "Ketoni Investment Holdings (Pty) Ltd",
-        "type": "Company",
-        "registration_number": "2023/562189/07",
-        "description": "SPV holding 8.14% of George Group; sole director KM Derrick; Standard Bank acct 420469494"
+        "name": "Marlouw Group",
+        "registration_number": "2019/612808/07",
+        "enterprise_type": "PRIVATE COMPANY",
+        "status": "IN BUSINESS",
+        "registration_date": "2019/12/04",
+        "tax_number": "9312282230",
+        "region": "GAUTENG",
+        "registered_address": "15 HARRIER CRESCENT, DOUGLASDALE, BRYANSTON, 2021",
+        "directors": [
+          "Alan Peter Louw",
+          "Martin Carlo Rizzotto"
+        ],
+        "evidence": [
+          "CIPC WinDeed Report 293351580 - Company details"
+        ],
+        "ad_res_j7_references": [
+          "evidence/cipc/293351580.pdf - Marlouw Group company record"
+        ],
+        "evidence_strength": "moderate",
+        "source_document": "CIPC WinDeed 2021-11-19",
+        "added_date": "2026-01-09T06:56:17.171814",
+        "evidence_enhanced_timestamp": "2026-01-18T05:36:58.285196",
+        "refinement_date": "2026-03-25T13:32:18.098809"
       },
       {
         "entity_id": "ORG_017",
-        "name": "The George Group (Pty) Ltd",
-        "type": "Company",
-        "registration_number": "(to verify)",
-        "description": "Operating company; 456 shares held by Ketoni; Bantjies is CFO, Derrick is CEO"
+        "name": "Big Business 301",
+        "registration_number": "2018/079703/07",
+        "enterprise_type": "PRIVATE COMPANY",
+        "status": "IN BUSINESS",
+        "registration_date": "2018/02/15",
+        "tax_number": "9291509231",
+        "principal_business": "BUSINESS ACTIVITIES NOT RESTRICTED",
+        "registered_address": "15 HARRIER CRESCENT, DOUGLASDALE, BRYANSTON, GAUTENG, 2191",
+        "postal_address": "PO BOX 320, RANDBURG, 2125",
+        "directors": [
+          "Alan Peter Louw",
+          "Martin Carlo Rizzotto"
+        ],
+        "former_directors": [
+          "Guillaume Jordaan"
+        ],
+        "evidence": [
+          "CIPC WinDeed Report 293351589 - Company details"
+        ],
+        "ad_res_j7_references": [
+          "evidence/cipc/293351589.pdf - Big Business 301 company record"
+        ],
+        "evidence_strength": "moderate",
+        "source_document": "CIPC WinDeed 2021-11-19",
+        "added_date": "2026-01-09T06:56:17.171814",
+        "evidence_enhanced_timestamp": "2026-01-18T05:36:58.285197",
+        "refinement_date": "2026-03-25T13:32:18.098809"
       },
       {
         "entity_id": "ORG_018",
-        "name": "Baker McKenzie (SA)",
-        "type": "Law Firm",
-        "registration_number": "N/A",
-        "description": "Acted for Ketoni/FFT on shareholder agreement; Marc Yudaken partner"
+        "name": "Art of Buzztec (SA)",
+        "registration_number": "1995/001463/23",
+        "enterprise_type": "CLOSE CORPORATION",
+        "status": "IN BUSINESS",
+        "registration_date": "1995/01/19",
+        "tax_number": "9040379845",
+        "region": "GAUTENG",
+        "industry": "WHOLESALE AND RETAIL TRADE",
+        "principal_business": "INVESTMENT AND CONSULTING INCLUDING ALL RELATED PRODUCTS AND SERVICES",
+        "registered_address": "15 HARRIER CRESCENT, DOUGLASDALE, BRYANSTON, GAUTENG, 2021",
+        "postal_address": "P O BOX 320, RANDBURG, 2125",
+        "members": [
+          {
+            "name": "Alan Peter Louw",
+            "percentage": 51
+          },
+          {
+            "name": "Martin Carlo Rizzotto",
+            "percentage": 49
+          }
+        ],
+        "accounting_officer": "ANDREW J FRASER",
+        "evidence": [
+          "CIPC WinDeed Report 293351595 - Company details"
+        ],
+        "ad_res_j7_references": [
+          "evidence/cipc/293351595.pdf - Art of Buzztec company record"
+        ],
+        "evidence_strength": "moderate",
+        "source_document": "CIPC WinDeed 2021-11-19",
+        "added_date": "2026-01-09T06:56:17.171814",
+        "evidence_enhanced_timestamp": "2026-01-18T05:36:58.285199",
+        "directors": [],
+        "refinement_date": "2026-03-25T13:32:18.098809"
       },
       {
         "entity_id": "ORG_019",
-        "name": "Forvis Mazars",
-        "type": "Audit Firm",
-        "registration_number": "N/A",
-        "description": "Prepared and reviewed Ketoni AFS 2024"
+        "name": "Rezonance",
+        "registration_number": "2017/081396/07",
+        "registration_date": "2017-02-22",
+        "status": "IN BUSINESS",
+        "entity_type": "Private Company",
+        "industry": "Business Activities Not Restricted",
+        "region": "Gauteng",
+        "source": "293355407.Pdf",
+        "notes": "Daniel Faucitt & Kayla Pretorius company. Shelf company from Dennis Bishop transferred 2017-04-04.",
+        "evidence": [],
+        "ad_res_j7_references": [
+          "ANNEXURES/JF04 - CIPC registration documents",
+          "ANNEXURES/JF03 - Financial records and analysis"
+        ],
+        "evidence_enhanced_timestamp": "2026-01-18T05:36:58.285201",
+        "evidence_strength": "moderate",
+        "directors": [],
+        "refinement_date": "2026-03-25T13:32:18.098809"
       },
       {
         "entity_id": "ORG_020",
-        "name": "N Xenophontos Trust (Attorneys)",
-        "type": "Law Firm",
-        "registration_number": "N/A",
-        "description": "nixenlaw@xenophontos.co.za; involved in FFT matters from Oct 2024"
+        "name": "RegimA Medic",
+        "registration_number": "2017/087877/07",
+        "registration_date": "2017-02-27",
+        "status": "IN BUSINESS",
+        "entity_type": "Private Company",
+        "industry": "Business Activities Not Restricted",
+        "region": "Gauteng",
+        "source": "293355412.Pdf",
+        "notes": "All 3 Faucitts + John Leslie Knowlton as directors. Shelf company from Dennis Bishop transferred 2017-04-10.",
+        "evidence": [],
+        "ad_res_j7_references": [
+          "ANNEXURES/JF04 - CIPC registration documents",
+          "ANNEXURES/JF03 - Financial records and analysis"
+        ],
+        "evidence_enhanced_timestamp": "2026-01-18T05:36:58.285203",
+        "evidence_strength": "moderate",
+        "directors": [],
+        "refinement_date": "2026-03-25T13:32:18.098809"
       },
       {
         "entity_id": "ORG_021",
-        "name": "Ketoni Investment Holdings (Pty) Ltd",
-        "type": "Company",
-        "registration_number": "2023/562189/07",
-        "description": "SPV holding 8.14% of George Group; sole director KM Derrick; Standard Bank acct 420469494"
+        "name": "S A Logistic Services",
+        "registration_number": "1991/032081/23",
+        "registration_date": "1991-11-28",
+        "status": "FINAL LIQUIDATION",
+        "entity_type": "Close Corporation",
+        "industry": "Wholesale and Retail Trade",
+        "region": "KwaZulu-Natal",
+        "source": "293351608.Pdf",
+        "notes": "Louw's CC, liquidated 1999-2000. 100% owned by Louw.",
+        "evidence": [],
+        "ad_res_j7_references": [
+          "ANNEXURES/JF04 - CIPC registration documents",
+          "ANNEXURES/JF03 - Financial records and analysis"
+        ],
+        "evidence_enhanced_timestamp": "2026-01-18T05:36:58.285204",
+        "evidence_strength": "moderate",
+        "directors": [],
+        "refinement_date": "2026-03-25T13:32:18.098809"
       },
       {
         "entity_id": "ORG_022",
-        "name": "The George Group (Pty) Ltd",
-        "type": "Company",
-        "registration_number": "(to verify)",
-        "description": "Operating company; 456 shares held by Ketoni; Bantjies is CFO, Derrick is CEO"
+        "name": "ALOECO (SA) - Original 1982",
+        "registration_number": "1982/003120/07",
+        "registration_date": "1982-03-26",
+        "status": "CONVERSION CO/CC OR CC/CO",
+        "entity_type": "Private Company",
+        "industry": "Wholesale and Commission Trade",
+        "region": "Free State",
+        "source": "293351602.Pdf",
+        "notes": "Original ALOECO company from 1982, Louw became director 1993-02-13",
+        "evidence": [],
+        "ad_res_j7_references": [
+          "ANNEXURES/JF04 - CIPC registration documents",
+          "ANNEXURES/JF03 - Financial records and analysis"
+        ],
+        "evidence_enhanced_timestamp": "2026-01-18T05:36:58.285206",
+        "evidence_strength": "moderate",
+        "directors": [],
+        "refinement_date": "2026-03-25T13:32:18.098809"
       },
       {
         "entity_id": "ORG_023",
-        "name": "Baker McKenzie (SA)",
-        "type": "Law Firm",
-        "registration_number": "N/A",
-        "description": "Acted for Ketoni/FFT on shareholder agreement; Marc Yudaken partner"
+        "name": "ALOECO (SA) - CC 2006",
+        "registration_number": "2006/022767/23",
+        "registration_date": "2006-02-14",
+        "status": "CONVERSION CO/CC OR CC/CO",
+        "entity_type": "Close Corporation",
+        "industry": "Other Business Activities",
+        "region": "Gauteng",
+        "source": "293351612.Pdf",
+        "notes": "CC version - Louw 51%, Rizzotto 49%. Converted to company K2019531306 in 2019.",
+        "evidence": [],
+        "ad_res_j7_references": [
+          "ANNEXURES/JF04 - CIPC registration documents",
+          "ANNEXURES/JF03 - Financial records and analysis"
+        ],
+        "evidence_enhanced_timestamp": "2026-01-18T05:36:58.285207",
+        "evidence_strength": "moderate",
+        "directors": [],
+        "refinement_date": "2026-03-25T13:32:18.098809"
       },
       {
         "entity_id": "ORG_024",
-        "name": "Forvis Mazars",
-        "type": "Audit Firm",
-        "registration_number": "N/A",
-        "description": "Prepared and reviewed Ketoni AFS 2024"
+        "name": "LMS Logistic Services",
+        "registration_number": "1999/006384/07",
+        "registration_date": "1999-03-26",
+        "status": "DISSOLVED",
+        "entity_type": "Private Company",
+        "industry": "Financial Intermediation Insurance, Real Estate and Business Services",
+        "region": "Gauteng",
+        "source": "293352439.Pdf",
+        "notes": "Rizzotto was director. Now dissolved.",
+        "evidence": [],
+        "ad_res_j7_references": [
+          "ANNEXURES/JF04 - CIPC registration documents",
+          "ANNEXURES/JF03 - Financial records and analysis"
+        ],
+        "evidence_enhanced_timestamp": "2026-01-18T05:36:58.285209",
+        "evidence_strength": "moderate",
+        "directors": [],
+        "refinement_date": "2026-03-25T13:32:18.098809"
       },
       {
         "entity_id": "ORG_025",
-        "name": "N Xenophontos Trust (Attorneys)",
-        "type": "Law Firm",
-        "registration_number": "N/A",
-        "description": "nixenlaw@xenophontos.co.za; involved in FFT matters from Oct 2024"
+        "name": "UFO Express",
+        "registration_number": "1996/050654/23",
+        "registration_date": "1996-10-15",
+        "status": "ANNUAL RETURN FINAL DEREGISTRATION",
+        "entity_type": "Close Corporation",
+        "industry": "Transport, Storage and Communication",
+        "region": "Gauteng",
+        "source": "293352764.Pdf",
+        "notes": "Rizzotto 100% member since 1997-09-02",
+        "evidence": [],
+        "ad_res_j7_references": [
+          "ANNEXURES/JF04 - CIPC registration documents",
+          "ANNEXURES/JF03 - Financial records and analysis"
+        ],
+        "evidence_enhanced_timestamp": "2026-01-18T05:36:58.285211",
+        "evidence_strength": "moderate",
+        "directors": [],
+        "refinement_date": "2026-03-25T13:32:18.098809"
       },
       {
         "entity_id": "ORG_026",
-        "name": "Ketoni Investment Holdings (Pty) Ltd",
-        "type": "Company",
-        "registration_number": "2023/562189/07",
-        "description": "SPV holding 8.14% of George Group; sole director KM Derrick; Standard Bank acct 420469494"
+        "name": "Nanini 262",
+        "registration_number": "2001/064931/23",
+        "registration_date": "2001-09-18",
+        "status": "ANNUAL RETURN FINAL DEREGISTRATION",
+        "entity_type": "Close Corporation",
+        "industry": "Real Estate Activities",
+        "region": "Gauteng",
+        "source": "293351615.Pdf",
+        "notes": "Louw's real estate CC, deregistered",
+        "evidence": [],
+        "ad_res_j7_references": [
+          "ANNEXURES/JF04 - CIPC registration documents",
+          "ANNEXURES/JF03 - Financial records and analysis"
+        ],
+        "evidence_enhanced_timestamp": "2026-01-18T05:36:58.285212",
+        "evidence_strength": "moderate",
+        "directors": [],
+        "refinement_date": "2026-03-25T13:32:18.098809"
       },
       {
         "entity_id": "ORG_027",
-        "name": "The George Group (Pty) Ltd",
-        "type": "Company",
-        "registration_number": "(to verify)",
-        "description": "Operating company; 456 shares held by Ketoni; Bantjies is CFO, Derrick is CEO"
+        "name": "East Coast Logistics",
+        "registration_number": "1998/028537/23",
+        "registration_date": "1998-05-20",
+        "status": "ANNUAL RETURN FINAL DEREGISTRATION",
+        "entity_type": "Close Corporation",
+        "industry": "Wholesale and Retail Trade",
+        "region": "Gauteng",
+        "source": "293351625.Pdf",
+        "notes": "Louw was 17% member, resigned. Uses PO Box 9478 Edenglen (adjacent to Faucitt PO Box).",
+        "evidence": [],
+        "ad_res_j7_references": [
+          "ANNEXURES/JF04 - CIPC registration documents",
+          "ANNEXURES/JF03 - Financial records and analysis"
+        ],
+        "evidence_enhanced_timestamp": "2026-01-18T05:36:58.285215",
+        "evidence_strength": "moderate",
+        "directors": [],
+        "refinement_date": "2026-03-25T13:32:18.098809"
       },
       {
         "entity_id": "ORG_028",
-        "name": "Baker McKenzie (SA)",
-        "type": "Law Firm",
-        "registration_number": "N/A",
-        "description": "Acted for Ketoni/FFT on shareholder agreement; Marc Yudaken partner"
+        "name": "L'IMAGE",
+        "registration_number": "1986/006699/23",
+        "registration_date": "1986-03-21",
+        "status": "ANNUAL RETURN FINAL DEREGISTRATION",
+        "entity_type": "Close Corporation",
+        "industry": "Wholesale and Retail Trade",
+        "region": "Gauteng",
+        "source": "293351642.Pdf",
+        "notes": "Louw was member from 1992-12-29, resigned. Wholesale/retail trade.",
+        "evidence": [],
+        "ad_res_j7_references": [
+          "ANNEXURES/JF04 - CIPC registration documents",
+          "ANNEXURES/JF03 - Financial records and analysis"
+        ],
+        "evidence_enhanced_timestamp": "2026-01-18T05:36:58.285217",
+        "evidence_strength": "moderate",
+        "directors": [],
+        "refinement_date": "2026-03-25T13:32:18.098809"
       },
       {
         "entity_id": "ORG_029",
-        "name": "Forvis Mazars",
-        "type": "Audit Firm",
-        "registration_number": "N/A",
-        "description": "Prepared and reviewed Ketoni AFS 2024"
+        "name": "Shaneprop",
+        "registration_number": "1992/034013/23",
+        "registration_date": "1992-12-15",
+        "status": "ANNUAL RETURN FINAL DEREGISTRATION",
+        "entity_type": "Close Corporation",
+        "industry": "Financial Intermediation Insurance, Real Estate and Business Services",
+        "region": "Gauteng",
+        "source": "293351648.Pdf",
+        "notes": "Louw was 100% member from 1992-12-15, resigned. Real estate/financial services.",
+        "evidence": [],
+        "ad_res_j7_references": [
+          "ANNEXURES/JF04 - CIPC registration documents",
+          "ANNEXURES/JF03 - Financial records and analysis"
+        ],
+        "evidence_enhanced_timestamp": "2026-01-18T05:36:58.285218",
+        "evidence_strength": "moderate",
+        "directors": [],
+        "refinement_date": "2026-03-25T13:32:18.098809"
       },
       {
         "entity_id": "ORG_030",
-        "name": "N Xenophontos Trust (Attorneys)",
-        "type": "Law Firm",
-        "registration_number": "N/A",
-        "description": "nixenlaw@xenophontos.co.za; involved in FFT matters from Oct 2024"
+        "name": "RegimA International Skin Treatments CC",
+        "registration_number": "2008/127748/23",
+        "registration_date": "2008-06-18",
+        "status": "IN BUSINESS",
+        "entity_type": "Close Corporation",
+        "industry": "Cosmetics Manufacturing and Distribution",
+        "region": "Gauteng",
+        "source": "TheCosmeticsIndustry(2017-11-14).pdf",
+        "notes": "Per Who Owns Whom report: Jacqueline Faucitt (Managing Member), Peter Andrew Faucitt (Member), 15 employees, FNB bank",
+        "evidence": [],
+        "ad_res_j7_references": [
+          "ANNEXURES/JF04 - CIPC registration documents",
+          "ANNEXURES/JF03 - Financial records and analysis"
+        ],
+        "evidence_enhanced_timestamp": "2026-01-18T05:36:58.285220",
+        "evidence_strength": "moderate",
+        "directors": [],
+        "refinement_date": "2026-03-25T13:32:18.098809"
+      },
+      {
+        "entity_id": "ORG_031",
+        "name": "Glendower Golf Estate Home Owners Association",
+        "registration_number": "1998/007585/08",
+        "registration_date": "1998",
+        "status": "ACTIVE",
+        "entity_type": "Non-Profit Company",
+        "industry": "Home Owners Association",
+        "region": "Gauteng",
+        "source": "293352194.Pdf",
+        "notes": "Rizzotto is a director - lives at 7 Putter Lane, Glendower Golf Estate",
+        "evidence": [],
+        "ad_res_j7_references": [
+          "ANNEXURES/JF04 - CIPC registration documents",
+          "ANNEXURES/JF03 - Financial records and analysis"
+        ],
+        "evidence_enhanced_timestamp": "2026-01-18T05:36:58.285221",
+        "evidence_strength": "moderate",
+        "directors": [],
+        "refinement_date": "2026-03-25T13:32:18.098809"
+      },
+      {
+        "entity_id": "ORG_32",
+        "name": "Dermal Skin Treatments Cape Town",
+        "registration_number": "2006/040838/23",
+        "entity_type": "CLOSE CORPORATION",
+        "status": "IN BUSINESS",
+        "registration_date": "2006-03-16",
+        "region": "WESTERN CAPE",
+        "tax_number": "9001333229",
+        "industry": "WHOLESALE AND RETAIL TRADE",
+        "principal_business": "DISTRIBUTION OF MEDICAL SKIN CARE RANGE AND RELATED PRODUCTS",
+        "registered_address": "Concertino House, 106 Kloof Street, Cape Town, 8001",
+        "postal_address": "PO Box 12091, Millstreet, 8010",
+        "members": [
+          {
+            "name": "Barend Thomas Nortje",
+            "ownership": "50%"
+          },
+          {
+            "name": "Sharon Nortje",
+            "ownership": "50%"
+          }
+        ],
+        "accounting_officer": "David Alan Frymer c/o Frymer Bywater Mackay-Davidson",
+        "role": "RegimA Distributor - Cape Town",
+        "evidence": [
+          "293337582-Company-DermalSkinTreatmentsCapeTown.Pdf",
+          "293337425-List-DermalSkinTreatmentsCapeTown.Pdf"
+        ],
+        "evidence_strength": "strong",
+        "ad_res_j7_evidence": [
+          "ANNEXURES/JF16-DISTRIBUTORS/293337582-Company-DermalSkinTreatmentsCapeTown.Pdf"
+        ],
+        "ad_res_j7_references": [
+          "ANNEXURES/JF04 - CIPC registration documents",
+          "ANNEXURES/JF03 - Financial records and analysis"
+        ],
+        "evidence_enhanced_timestamp": "2026-01-18T05:36:58.285223",
+        "directors": [],
+        "refinement_date": "2026-03-25T13:32:18.098809"
+      },
+      {
+        "entity_id": "ORG_33",
+        "name": "Kachan Marketing and Distribution",
+        "registration_number": "2005/138571/23",
+        "entity_type": "CLOSE CORPORATION",
+        "status": "IN BUSINESS",
+        "registration_date": "2005-09-29",
+        "region": "GAUTENG",
+        "tax_number": "9033440174",
+        "industry": "WHOLESALE AND RETAIL TRADE",
+        "principal_business": "MARKETING AND DISTRIBUTION OF COSMOCEUTICAL PRODUCTS",
+        "registered_address": "Tricon House, No. 1, 8th Avenue, Rivonia, 2192",
+        "postal_address": "PO Box 650242, Benmore, 2010",
+        "members": [
+          {
+            "name": "Karen Patricia Avnit",
+            "ownership": "100%"
+          }
+        ],
+        "accounting_officer": "Richards Ian Sher",
+        "role": "RegimA Distributor - Gauteng",
+        "evidence": [
+          "293340322-Company-KachanMarketingandDistribution.Pdf",
+          "293340240-List-KachanMarketingandDistribution.Pdf"
+        ],
+        "evidence_strength": "strong",
+        "ad_res_j7_evidence": [
+          "ANNEXURES/JF16-DISTRIBUTORS/293340322-Company-KachanMarketingandDistribution.Pdf"
+        ],
+        "ad_res_j7_references": [
+          "ANNEXURES/JF04 - CIPC registration documents",
+          "ANNEXURES/JF03 - Financial records and analysis"
+        ],
+        "evidence_enhanced_timestamp": "2026-01-18T05:36:58.285225",
+        "directors": [],
+        "refinement_date": "2026-03-25T13:32:18.098809"
+      },
+      {
+        "entity_id": "ORG_34",
+        "name": "Dandelion SA",
+        "registration_number": "2015/230152/07",
+        "entity_type": "PRIVATE COMPANY",
+        "status": "IN BUSINESS",
+        "registration_date": "2015-07-08",
+        "tax_number": "9547657172",
+        "principal_business": "BUSINESS ACTIVITIES NOT RESTRICTED",
+        "registered_address": "37 Sandpiper Street, Ebotse Golf Estate, Benoni, 1514",
+        "directors": [
+          {
+            "name": "Chané Auriele Todd",
+            "status": "ACTIVE"
+          },
+          {
+            "name": "Kirby Rae Van Der Stelt",
+            "status": "RESIGNED"
+          }
+        ],
+        "former_name": "K Rae Enterprises",
+        "role": "RegimA Distributor",
+        "evidence": [
+          "293342245-Company-DandelionSA.Pdf",
+          "293342189-List-DandelionSA.Pdf"
+        ],
+        "evidence_strength": "strong",
+        "ad_res_j7_evidence": [
+          "ANNEXURES/JF16-DISTRIBUTORS/293342245-Company-DandelionSA.Pdf"
+        ],
+        "ad_res_j7_references": [
+          "ANNEXURES/JF04 - CIPC registration documents",
+          "ANNEXURES/JF03 - Financial records and analysis"
+        ],
+        "evidence_enhanced_timestamp": "2026-01-18T05:36:58.285226",
+        "refinement_date": "2026-03-25T13:32:18.098809"
+      },
+      {
+        "entity_id": "ORG_35",
+        "name": "Bertani International Global",
+        "registration_number": "2017/424081/07",
+        "entity_type": "PRIVATE COMPANY",
+        "status": "ANNUAL RETURN DEREGISTRATION PROCESS",
+        "registration_date": "2017-09-27",
+        "tax_number": "9083698234",
+        "principal_business": "BUSINESS ACTIVITIES NOT RESTRICTED",
+        "registered_address": "32 Middle Street, East Town, Gauteng, 2195",
+        "postal_address": "PO Box 2240, Rivonia, 2128",
+        "directors": [
+          {
+            "name": "Dante Bertani",
+            "status": "ACTIVE"
+          }
+        ],
+        "role": "RegimA Distributor",
+        "evidence": [
+          "293342878-Company-BertaniInternationalGlobal.Pdf",
+          "293342834-List-BertaniInternationalGlobal.Pdf"
+        ],
+        "evidence_strength": "moderate",
+        "ad_res_j7_evidence": [
+          "ANNEXURES/JF16-DISTRIBUTORS/293342878-Company-BertaniInternationalGlobal.Pdf"
+        ],
+        "ad_res_j7_references": [
+          "ANNEXURES/JF04 - CIPC registration documents",
+          "ANNEXURES/JF03 - Financial records and analysis"
+        ],
+        "evidence_enhanced_timestamp": "2026-01-18T05:36:58.285228",
+        "refinement_date": "2026-03-25T13:32:18.098809"
+      },
+      {
+        "entity_id": "ORG_36",
+        "name": "George Endermologie Clinic",
+        "registration_number": "2000/028557/23",
+        "entity_type": "CLOSE CORPORATION",
+        "status": "ANNUAL RETURN FINAL DEREGISTRATION",
+        "registration_date": "2000-05-31",
+        "region": "WESTERN CAPE",
+        "tax_number": "9174090143",
+        "industry": "FINANCIAL INTERMEDIATION INSURANCE, REAL ESTATE AND BUSINESS SERVICES",
+        "registered_address": "82 Meade Street, George, 6530",
+        "postal_address": "PO Box 963, George, 6530",
+        "members": [
+          {
+            "name": "Anna Gertruida Johanna du Toit",
+            "ownership": "100%",
+            "status": "ACTIVE"
+          },
+          {
+            "name": "Catherina Elizabeth Schmidt",
+            "ownership": "100%",
+            "status": "RESIGNED"
+          }
+        ],
+        "role": "Former RegimA Distributor - George",
+        "evidence": [
+          "293332765-Company-GeorgeEndermologieClinic.Pdf",
+          "293330249-List-GeorgeEndermologieClinic.Pdf"
+        ],
+        "evidence_strength": "moderate",
+        "ad_res_j7_evidence": [
+          "ANNEXURES/JF16-DISTRIBUTORS/293332765-Company-GeorgeEndermologieClinic.Pdf"
+        ],
+        "ad_res_j7_references": [
+          "ANNEXURES/JF04 - CIPC registration documents",
+          "ANNEXURES/JF03 - Financial records and analysis"
+        ],
+        "evidence_enhanced_timestamp": "2026-01-18T05:36:58.285229",
+        "directors": [],
+        "refinement_date": "2026-03-25T13:32:18.098809"
+      },
+      {
+        "entity_id": "ORG_37",
+        "name": "De Fay Fund Management",
+        "registration_number": "1999/015505/07",
+        "entity_type": "PRIVATE COMPANY",
+        "status": "ANNUAL RETURN FINAL DEREGISTRATION",
+        "registration_date": "1999-07-20",
+        "region": "WESTERN CAPE",
+        "tax_number": "9587479842",
+        "industry": "OTHER BUSINESS ACTIVITIES",
+        "registered_address": "Fedsure Terrace, 25 Protea Road, Claremont, Cape Town, 7735",
+        "postal_address": "Postnet X325, Private Bag X1005, Claremont, 7735",
+        "directors": [
+          {
+            "name": "Adrian Dominic De Fay",
+            "status": "ACTIVE"
+          },
+          {
+            "name": "Barend Thomas Nortje",
+            "status": "ACTIVE"
+          },
+          {
+            "name": "Jan Georg Solms",
+            "status": "ACTIVE"
+          }
+        ],
+        "auditors": [
+          "Meintjes Putter & Koch Inc",
+          "PricewaterhouseCoopers Incorporated"
+        ],
+        "role": "Investment Fund - Nortje Connection",
+        "evidence": [
+          "293338928-Company-DeFayFundManagement.Pdf"
+        ],
+        "evidence_strength": "moderate",
+        "ad_res_j7_evidence": [
+          "ANNEXURES/JF16-DISTRIBUTORS/293338928-Company-DeFayFundManagement.Pdf"
+        ],
+        "ad_res_j7_references": [
+          "ANNEXURES/JF04 - CIPC registration documents",
+          "ANNEXURES/JF03 - Financial records and analysis"
+        ],
+        "evidence_enhanced_timestamp": "2026-01-18T05:36:58.285231",
+        "refinement_date": "2026-03-25T13:32:18.098809"
+      },
+      {
+        "entity_id": "ORG_KETONI_001",
+        "name": "Ketoni Investment Holdings Proprietary Limited",
+        "full_name": "Ketoni Investment Holdings (Pty) Ltd",
+        "type": "investment_holding_company",
+        "registration_number": "2023/562189/07",
+        "incorporation_date": "2023-02-20",
+        "role": "pass_through_investment_vehicle",
+        "obligation": {
+          "amount": "ZAR 18,750,000",
+          "recipient": "Faucitt Family Trust (IT 003651/2013)",
+          "payout_date": "2026-05",
+          "structure": "Three-year payout schedule (May 2026, May 2027, May 2029)",
+          "beneficiary_split": {
+            "peter_faucitt": "ZAR 6,250,000 (1/3)",
+            "jacqueline_faucitt": "ZAR 6,250,000 (1/3)",
+            "daniel_faucitt": "ZAR 6,250,000 (1/3)"
+          }
+        },
+        "director": "Kevin Michael Derrick",
+        "shareholder": "Faucitt Family Trust (5,000 A-Ordinary shares, Certificate #3)",
+        "investment_date": "2023-04-24",
+        "significance": "CENTRAL FINANCIAL MOTIVE - All events converge on May 2026 payout",
+        "network_dynamics": {
+          "phase_1": "Investment Phase (Feb-Apr 2023): ZAR 18.75M entitlement established",
+          "phase_2": "Creditor Elimination Phase (Jul 2023 - Feb 2024): R1M debt obstacle elimination",
+          "phase_3": "Control Consolidation Phase (Jul 2024 - Aug 2025): Peter consolidates control",
+          "phase_4": "Payout Phase (May 2026): ALL EVENTS CONVERGE HERE"
+        },
+        "annual_financial_statements": {
+          "fy2024": {
+            "year_end": "2024-02-29",
+            "prepared_by": "Forvis Mazars",
+            "review_type": "Independent Review (not full audit)",
+            "pages": 16,
+            "sections": [
+              "Balance Sheet",
+              "Income Statement",
+              "Notes to Financial Statements",
+              "Directors Report"
+            ],
+            "source_email": {
+              "from": "Danie Bantjes <danie.bantjes@gmail.com>",
+              "to": "Rynette Farrar <rynette@regima.zone>",
+              "date": "2025-01-29",
+              "subject": "Re: Faucitt family trust - agreement"
+            },
+            "original_filename": "Ketoni Investment Holdings AFS 2024 - Signed.pdf",
+            "evidentiary_notes": [
+              "First full-year AFS (12 months since incorporation)",
+              "Sent to bookkeeper Rynette, NOT to beneficiaries",
+              "Delivered 57 days before revenue hijacking scheme began (2025-03-01)",
+              "Delivered ~15 months before May 2026 payout option date",
+              "Places AFS within operational planning window of scheme"
+            ],
+            "outstanding_data_extraction": [
+              "Total asset base (ability to pay R18.75M)",
+              "R18.75M shareholder obligation disclosure in liabilities",
+              "Revenue and profitability figures",
+              "Full director listing",
+              "Related party transaction disclosures (George Group, FFT, Bantjies)",
+              "Share capital structure confirmation (FFT 5,000 A-Ordinary)",
+              "Going concern notes (risk indicators for payout)",
+              "Principal business description"
+            ]
+          }
+        },
+        "ad_res_j7_references": [
+          "evidence/financial-analysis/ketoni_investment_holdings_afs_2024.md",
+          "KETONI_PAYOUT_INTEGRATION_SUMMARY_V48-49.md",
+          "evidence/FFT_KETONI_INVESTMENT_TIMELINE_V49.md",
+          "lex/entity_relation_framework_v48_ketoni_payout_integrated.scm",
+          "lex/agent_based_model_v48_ketoni_integrated.scm",
+          "docs/exchange-evidence/ketoni_motive.md",
+          "ketoni_correction_2026_01_28/KETONI_RELATIONSHIP_CORRECTION_2026_01_28.md",
+          "ANNEXURES/JF10/"
+        ],
+        "evidence_strength": "conclusive",
+        "criminal_threshold": "95%_exceeded",
+        "evidence": [
+          "JF10 - Trust Documents (FFT share certificate)",
+          "Ketoni Investment Holdings AFS 2024 - Signed.pdf (16 pages)",
+          "Exchange email 0863_20250129 - AFS sent to Rynette not beneficiaries",
+          "CIPC registration 2023/562189/07",
+          "Share Certificate #3 - 5,000 A-Ordinary shares (2023-04-24)"
+        ],
+        "evidence_enhanced_timestamp": "2026-03-11T00:00:00.000000",
+        "directors": [
+          "Kevin Michael Derrick"
+        ],
+        "refinement_date": "2026-03-25T13:32:18.098809",
+        "owner_director": {
+          "name": "Kevin Michael Derrick",
+          "position": "Director and Shareholder",
+          "also_ceo_of": "The George Group"
+        },
+        "debt_to_fft": {
+          "amount": "R18.75M",
+          "payout_date": "May 2026",
+          "note": "This is NOT Bantjies personal debt - Ketoni owes FFT"
+        },
+        "bantjies_connection": {
+          "relationship": "Bantjies is CFO of George Group where Kevin Derrick is CEO",
+          "conflict": "Bantjies owes professional loyalty to Ketoni owner while being FFT Trustee"
+        },
+        "shareholding_structure": {
+          "A_Ordinary_Shares": {
+            "holder": "Faucitt Family Trust (FFT)",
+            "shares": 5000,
+            "percentage": "100% of class",
+            "investment_amount": "R9,800,000",
+            "rights": "90% of all distributions (Dividend Sweep) for 5 years 2 months"
+          },
+          "Ordinary_Shares": {
+            "holder": "The Kevin Derrick Trust",
+            "shares": 100,
+            "percentage": "100% of class",
+            "investment_amount": "R1,000",
+            "rights": "10% of distributions, full voting rights"
+          }
+        },
+        "assets": {
+          "The_George_Group": {
+            "ownership_percentage": "8.14%",
+            "shares_held": 456,
+            "valuation": "R9,800,000"
+          }
+        }
+      },
+      {
+        "entity_id": "ORG_TB_001",
+        "name": "DERM",
+        "full_name": "DERM (Entity)",
+        "entity_type": "missing_entity",
+        "significance": "Operates RSA Shopify store, costs dumped on RWW",
+        "investigation_priority": "HIGH",
+        "evidence": [
+          "Knowledge base references",
+          "Cost allocation patterns"
+        ],
+        "investigation_need": "Full financial analysis of DERM entity required",
+        "ad_res_j7_references": [
+          "ANNEXURES/JF04 - CIPC registration documents",
+          "ANNEXURES/JF03 - Financial records and analysis"
+        ],
+        "evidence_enhanced_timestamp": "2026-01-18T05:36:58.285234",
+        "evidence_strength": "moderate",
+        "directors": [],
+        "refinement_date": "2026-03-25T13:32:18.098809"
+      },
+      {
+        "entity_id": "ORG_TB_002",
+        "name": "RSA",
+        "full_name": "RegimA South Africa",
+        "entity_type": "operating_entity",
+        "significance": "Purchases from RST at 62% COS, separate from RWW",
+        "investigation_priority": "MEDIUM",
+        "evidence": [
+          "Cost of sales structure analysis"
+        ],
+        "ad_res_j7_references": [
+          "ANNEXURES/JF04 - CIPC registration documents",
+          "ANNEXURES/JF03 - Financial records and analysis"
+        ],
+        "evidence_enhanced_timestamp": "2026-01-18T05:36:58.285236",
+        "evidence_strength": "moderate",
+        "directors": [],
+        "refinement_date": "2026-03-25T13:32:18.098809"
+      },
+      {
+        "entity_id": "ORG_TB_003",
+        "name": "REU",
+        "full_name": "RegimA Europe",
+        "entity_type": "international_entity",
+        "significance": "Smallest Shopify payments, part of payment hierarchy",
+        "investigation_priority": "MEDIUM",
+        "evidence": [
+          "Shopify payment hierarchy analysis"
+        ],
+        "ad_res_j7_references": [
+          "ANNEXURES/JF04 - CIPC registration documents",
+          "ANNEXURES/JF03 - Financial records and analysis"
+        ],
+        "evidence_enhanced_timestamp": "2026-01-18T05:36:58.285237",
+        "evidence_strength": "moderate",
+        "directors": [],
+        "refinement_date": "2026-03-25T13:32:18.098809"
+      },
+      {
+        "entity_id": "PLATFORM_001",
+        "name": "Shopify Plus Platform",
+        "type": "platform",
+        "description": "E-commerce platform used for RegimA online sales",
+        "role": "sales_platform",
+        "evidence": [
+          "JF01 - Shopify Plus email evidence"
+        ],
+        "evidence_strength": "moderate",
+        "directors": [],
+        "refinement_date": "2026-03-25T13:32:18.098809"
+      },
+      {
+        "entity_id": "DOMAIN_001",
+        "name": "regima.zone Domain",
+        "type": "domain",
+        "description": "Legitimate RegimA domain",
+        "role": "legitimate_domain",
+        "evidence_strength": "moderate",
+        "directors": [],
+        "refinement_date": "2026-03-25T13:32:18.098809"
+      },
+      {
+        "entity_id": "DOMAIN_002",
+        "name": "regimaskin.co.za Domain",
+        "type": "domain",
+        "description": "Fraudulent domain registered by Adderory",
+        "role": "fraudulent_domain",
+        "registration_date": "2025-05-29",
+        "evidence_strength": "moderate",
+        "directors": [],
+        "refinement_date": "2026-03-25T13:32:18.098809"
+      },
+      {
+        "entity_id": "TRUST_001",
+        "name": "Faucitt Family Trust",
+        "type": "trust",
+        "description": "Family trust with ZAR 18.75M Ketoni payout entitlement",
+        "role": "central_asset_holder",
+        "ketoni_investment": {
+          "amount": "ZAR 18.75M",
+          "payout_date": "2026-05"
+        },
+        "evidence_strength": "moderate",
+        "directors": [],
+        "refinement_date": "2026-03-25T13:32:18.098809"
+      },
+      {
+        "entity_id": "SYS_BANK_ACCOUNTS",
+        "name": "Bank Accounts",
+        "type": "system",
+        "description": "Banking system accounts",
+        "evidence_strength": "moderate",
+        "directors": [],
+        "refinement_date": "2026-03-25T13:32:18.098809"
+      },
+      {
+        "entity_id": "SYS_ACCOUNTS",
+        "name": "Accounting System",
+        "type": "system",
+        "description": "Financial accounting records",
+        "evidence_strength": "moderate",
+        "directors": [],
+        "refinement_date": "2026-03-25T13:32:18.098809"
+      },
+      {
+        "entity_id": "SYS_STOCK",
+        "name": "Stock/Inventory",
+        "type": "system",
+        "description": "Physical inventory and stock",
+        "evidence_strength": "moderate",
+        "directors": [],
+        "refinement_date": "2026-03-25T13:32:18.098809"
+      },
+      {
+        "entity_id": "SYS_REGIMA_GROUP",
+        "name": "RegimA Group",
+        "type": "system",
+        "description": "Collective RegimA company group",
+        "evidence_strength": "moderate",
+        "directors": [],
+        "refinement_date": "2026-03-25T13:32:18.098809"
+      },
+      {
+        "entity_id": "SYS_FINANCIAL_RECORDS",
+        "name": "Financial Records",
+        "type": "system",
+        "description": "Financial documentation",
+        "evidence_strength": "moderate",
+        "directors": [],
+        "refinement_date": "2026-03-25T13:32:18.098809"
+      },
+      {
+        "entity_id": "ORG_GEORGE_GROUP",
+        "name": "The George Group Proprietary Limited",
+        "type": "holding_company",
+        "role": "revenue_generator_for_ketoni",
+        "significance": "Links Bantjies to Ketoni through corporate hierarchy",
+        "key_personnel": {
+          "ceo": {
+            "name": "Kevin Michael Derrick",
+            "also_director_of": "Ketoni Investment Holdings",
+            "also_shareholder_of": "Ketoni Investment Holdings (via Trust)"
+          },
+          "cfo": {
+            "name": "Danie Bantjies",
+            "also_trustee_of": "Faucitt Family Trust (unlawfully appointed July 2024)"
+          }
+        },
+        "conflict_of_interest": {
+          "description": "Bantjies as CFO reports to Kevin Derrick (CEO) who owns Ketoni which owes R18.75M to FFT where Bantjies is Trustee",
+          "financial_stake": "R18.75M Ketoni payout to FFT",
+          "loyalty_conflict": "Professional loyalty to Ketoni owner vs fiduciary duty to FFT beneficiaries"
+        },
+        "evidence": [
+          "Ketoni Shareholder Agreement (Signed 24 April 2023)",
+          "Ketoni AFS 2024"
+        ],
+        "evidence_strength": "conclusive",
+        "refinement_date": "2026-03-25T13:32:18.098809",
+        "registration_number": "2018/618716/07",
+        "incorporation_date": "2018",
+        "shareholders": [
+          {
+            "name": "Ketoni Investment Holdings",
+            "percentage": "8.14%",
+            "shares": 456
+          }
+        ],
+        "acquisitions": [
+          "Quatro (valuation basis for Ketoni shares)"
+        ],
+        "directors": []
+      },
+      {
+        "entity_id": "ORG_DE_NOVO",
+        "name": "De Novo Business Services (Pty) Ltd",
+        "type": "accounting_firm",
+        "role": "complicit_accountant",
+        "agent_type": "antagonist",
+        "address": "43 Allouette Road, Impala Park, Boksburg, 1459",
+        "phone": "(011) 452-0789 / 084 764 1045",
+        "website": "www.denovobus.co.za",
+        "involvement_events": 2,
+        "primary_actions": [
+          "fraudulent_record_creation",
+          "backdated_financial_statements",
+          "false_loan_account_creation"
+        ],
+        "relationships": [
+          "instructed_by_PERSON_002",
+          "prepared_fraudulent_statements_for_ORG_REGIMA_SA"
+        ],
+        "evidence": [
+          "2025-06-18 - Rynette & De Novo - RegimA SA Payments.pdf",
+          "Regima SA (Pty) Ltd - 2019 - Financial statements - SME.pdf"
+        ],
+        "evidence_strength": "conclusive",
+        "criminal_threshold": "95%_exceeded",
+        "legal_implications": [
+          "Professional misconduct",
+          "Assisting in fraud",
+          "Creating false financial records"
+        ],
+        "created_date": "2026-02-05",
+        "source": "New evidence package Feb 2026",
+        "directors": [],
+        "refinement_date": "2026-03-25T13:32:18.098809"
+      },
+      {
+        "entity_id": "ORG_053",
+        "name": "Elliott Attorneys Inc.",
+        "abbreviation": "Elliott Att",
+        "entity_type": "law_firm",
+        "agent_type": "legal_representative_applicant",
+        "registration_details": {
+          "address": "Office 12, Garsfontein Office Park, 645 Jacqueline Drive, Garsfontein, Pretoria",
+          "telephone": "012 012 5067",
+          "email": "keegan@elliottattorneys.co.za",
+          "reference": "KRE/MM/KF0019"
+        },
+        "role": "attorney_for_applicant_peter_faucitt",
+        "evidence_references": [
+          "MAT4719_NOM_pages_2-9"
+        ],
+        "case_involvement": "Filed ex parte application on behalf of Peter Faucitt",
+        "added_date": "2026-02-09T01:37:55",
+        "source": "MAT4719 Notice of Motion",
+        "evidence_strength": "moderate",
+        "directors": [],
+        "refinement_date": "2026-03-25T13:32:18.098809"
       }
     ],
     "platforms": [
@@ -2783,6 +3522,33 @@
         ],
         "evidence_enhanced": "2025-12-31T05:34:39.187399",
         "evidence_strength": "strong"
+      },
+      {
+        "entity_id": "PLATFORM_002",
+        "name": "Courier Guy",
+        "type": "logistics_platform",
+        "role": "delivery_service",
+        "services": [
+          "shipment_loading_portal",
+          "tracking_number_generation",
+          "parcel_collection",
+          "delivery_notification",
+          "return_handling"
+        ],
+        "evidence": [
+          "Rynette Organogram 2025-04-12 - How Sales Work"
+        ],
+        "ad_res_j7_references": [
+          "evidence_analysis/rynette_organogram_2025-04-12.md"
+        ],
+        "significance": "Third-party logistics provider used for order fulfillment. Provides tracking and delivery verification.",
+        "evidence_enhanced": "2026-01-28T16:14:47.310756",
+        "evidence_strength": "moderate",
+        "organogram_source": {
+          "document": "Powerpoint-howsaleswork.pdf",
+          "date": "2025-04-12",
+          "role_in_flow": "Shipment loading, tracking, collection, delivery, return handling"
+        }
       }
     ],
     "domains": [
@@ -2911,11 +3677,11 @@
           "used_for_attacking_beneficiaries"
         ],
         "financial_impact": {
-          "debt_owed_by_trustee": "R18,685,000",
+          "ketoni_debt_to_fft": "R18.75M (Bantjies conflict as George Group CFO)",
           "debtor": "PERSON_007"
         },
         "legal_significance": "trust_structure_manipulation_and_beneficiary_attack",
-        "additional_notes": "Bantjies is unknown trustee with R18.685M debt to trust, creating massive conflict of interest",
+        "additional_notes": "Bantjies has conflict of interest as CFO of George Group (whose CEO owns Ketoni which owes R18.75M to FFT)",
         "relationships": [
           "trustee_PERSON_001",
           "beneficiary_PERSON_004",
@@ -2929,48 +3695,20 @@
         ],
         "ad_res_j7_references": [
           "ANNEXURES/JF10 - Trust documents",
-          "ANNEXURES/SF1_Bantjies_Debt_Documentation.md",
-          "ANNEXURES/JF06 - Court documents and filings",
-          "KETONI_PAYOUT_INTEGRATION_SUMMARY_V48-49.md"
+          "ANNEXURES/SF1_Ketoni_Debt_FFT_Documentation.md",
+          "ANNEXURES/JF06 - Court documents and filings"
         ],
         "evidence_enhanced": "2025-12-28T05:36:36.077524",
         "evidence_strength": "strong",
-        "financial_assets": [
-          {
-            "asset": "Ketoni Investment Holdings payout option",
-            "value": "ZAR 18,750,000",
-            "date": "May 2026",
-            "shares": "5,000 A-Ordinary shares",
-            "beneficiaries": [
-              "PERSON_001",
-              "PERSON_004",
-              "PERSON_005"
-            ],
-            "significance": "Central financial motive for all trust actions since Apr 2023",
-            "evidence": [
-              "Ketoni shareholder agreement",
-              "FFT investment records"
-            ]
-          }
-        ]
-      },
-      {
-        "entity_id": "TRUST_002",
-        "name": "Kevin Derrick Trust",
-        "trust_number": "IT 107716/98",
-        "description": "Existing/Ordinary shareholder of Ketoni (100 Ordinary Shares = R1,000); R49,000 loan to Ketoni"
-      },
-      {
-        "entity_id": "TRUST_003",
-        "name": "Kevin Derrick Trust",
-        "trust_number": "IT 107716/98",
-        "description": "Existing/Ordinary shareholder of Ketoni (100 Ordinary Shares = R1,000); R49,000 loan to Ketoni"
-      },
-      {
-        "entity_id": "TRUST_004",
-        "name": "Kevin Derrick Trust",
-        "trust_number": "IT 107716/98",
-        "description": "Existing/Ordinary shareholder of Ketoni (100 Ordinary Shares = R1,000); R49,000 loan to Ketoni"
+        "ketoni_investment": {
+          "vehicle": "Ketoni Investment Holdings",
+          "shares_held": "5,000 A Ordinary Shares",
+          "investment_amount": "R9,800,000",
+          "expected_return": "R28,730,000 (at end year 5)",
+          "distribution_rights": "90% of all distributions",
+          "underlying_asset": "8.14% of The George Group"
+        },
+        "refinement_date": "2026-03-14T20:39:10.482705"
       }
     ],
     "bank_accounts": [
@@ -3000,25 +3738,31 @@
         ],
         "evidence_enhanced": "2025-12-31T05:34:39.187421",
         "evidence_strength": "moderate"
+      },
+      {
+        "entity_id": "BANK_CC_001",
+        "account_number": "4910505191",
+        "account_type": "credit_card",
+        "bank_name": "FNB",
+        "entity_type": "bank_account",
+        "agent_type": "financial_instrument",
+        "role": "business_credit_card_for_platform_expenses",
+        "transaction_period": "January 2024 - February 2025",
+        "evidence_reference": "MAT4719_PF9_pages_102-137",
+        "added_date": "2026-02-09T01:37:55"
+      },
+      {
+        "entity_id": "BANK_CC_002",
+        "account_number": "4910505225",
+        "account_type": "credit_card",
+        "bank_name": "FNB",
+        "entity_type": "bank_account",
+        "agent_type": "financial_instrument",
+        "role": "business_credit_card_for_platform_expenses",
+        "transaction_period": "January 2024 - February 2025",
+        "evidence_reference": "MAT4719_PF9_pages_102-137",
+        "added_date": "2026-02-09T01:37:55"
       }
     ]
-  },
-  "company_structure_notes": {
-    "source": "Daniel Faucitt email to Danie Bantjies, 10 June 2025",
-    "key_facts": [
-      "Daniel is NOT a member of RegimA Skin Treatments (RST)",
-      "Companies are NOT subsidiaries - no fixed 'group' or intercompany",
-      "Moving assets from company where Daniel is director to one where he is not = theft/fraud",
-      "Pete does not use computer, never seen actual accounts",
-      "Jacqui has not seen actual accounts",
-      "Daniel has not seen actual accounts",
-      "Accounts exist solely on Rynette's computer - nobody else can see them",
-      "RegimA SA - Pete and Daniel as directors (operated with Dermal/Barend)",
-      "RegimA Zone - Only Daniel as director (aggregation of 3 smaller distributions)",
-      "Rynette is neither director nor employee of Worldwide Distribution",
-      "Rynette has complete control without any liability",
-      "Bank contacted Daniel multiple times re: Pete/Rynette attempts to change mandates, close accounts, cancel cards"
-    ],
-    "bantjies_involvement": "30-odd year involvement with Faucitt family business"
   }
 }

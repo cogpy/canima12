@@ -1,11 +1,11 @@
 {
   "metadata": {
-    "version": "34.0_FINAL_REFINED_2026_01_22",
+    "version": "40.0_COMPREHENSIVE_BACKFILL_2026_07_06",
     "created_date": "2025-11-10",
     "description": "Relation model for Revenue Stream Hijacking case 2025-137857",
     "case_number": "2025-137857",
     "modeling_approach": "hypergraph_compatible_relations",
-    "last_updated": "2026-03-25T13:32:39.260358",
+    "last_updated": "2026-07-06T12:15:27.086924",
     "changes": "Comprehensive LEX refinement - relation completeness",
     "total_relations": 141
   },
@@ -3362,7 +3362,118 @@
         "confidence": 0.75,
         "evidence_strength": "moderate"
       }
-    ]
+    ],
+    "REL_037": {
+      "relation_id": "REL_037",
+      "type": "conspiracy_control",
+      "source_entity": "PERSON_007",
+      "target_entity": "PERSON_002",
+      "description": "Bantjies instructs Rynette — SARS audit email smoking gun",
+      "strength": 1.0,
+      "evidence_refs": [
+        "SARS audit email",
+        "Trustee appointment email PRIMARY recipient"
+      ],
+      "legal_significance": "ultimate_controller_relationship",
+      "added_version": "v40"
+    },
+    "REL_038": {
+      "relation_id": "REL_038",
+      "type": "conspiracy_control",
+      "source_entity": "PERSON_002",
+      "target_entity": "PERSON_001",
+      "description": "Rynette controls Peter — email, accounting, bank access",
+      "strength": 1.0,
+      "evidence_refs": [
+        "Sage screenshots",
+        "Pete@regima.com control"
+      ],
+      "legal_significance": "puppet_controller_relationship",
+      "added_version": "v40"
+    },
+    "REL_039": {
+      "relation_id": "REL_039",
+      "type": "financial_conflict",
+      "source_entity": "PERSON_007",
+      "target_entity": "ORG_009",
+      "description": "Bantjies connected to Ketoni via Kevin Derrick — R18.75M conflict",
+      "strength": 0.95,
+      "evidence_refs": [
+        "George Group records",
+        "Ketoni share certificate"
+      ],
+      "legal_significance": "trustee_debtor_conflict_of_interest",
+      "added_version": "v40"
+    },
+    "REL_040": {
+      "relation_id": "REL_040",
+      "type": "funding_conflict",
+      "source_entity": "ORG_001",
+      "target_entity": "ORG_020",
+      "description": "RST pays Elliott Attorneys R478,957.93 — conflict of interest funding",
+      "strength": 0.98,
+      "evidence_refs": [
+        "RST ABSA statements",
+        "Elliott payment schedule"
+      ],
+      "legal_significance": "litigation_funded_by_company_not_director",
+      "added_version": "v40"
+    },
+    "REL_041": {
+      "relation_id": "REL_041",
+      "type": "parallel_supply_chain",
+      "source_entity": "ORG_010",
+      "target_entity": "ORG_001",
+      "description": "Addarory diverts R5.4M stock from RST/SLG supply chain",
+      "strength": 0.95,
+      "evidence_refs": [
+        "SLG stock analysis",
+        "Addarory CIPC records"
+      ],
+      "legal_significance": "revenue_stream_diversion_mechanism",
+      "added_version": "v40"
+    },
+    "REL_042": {
+      "relation_id": "REL_042",
+      "type": "whistleblower_retaliation",
+      "source_entity": "PERSON_001",
+      "target_entity": "PERSON_004",
+      "description": "Peter files interdict ONE DAY after Jax labels trustee email as 'Phishing'",
+      "strength": 0.95,
+      "evidence_refs": [
+        "Interdict filing 2025-08-13",
+        "Phishing email 2025-08-12"
+      ],
+      "legal_significance": "retaliation_against_whistleblower",
+      "added_version": "v40"
+    },
+    "REL_043": {
+      "relation_id": "REL_043",
+      "type": "identity_fraud",
+      "source_entity": "PERSON_002",
+      "target_entity": "PERSON_001",
+      "description": "Rynette impersonates Peter via Pete@regima.com email control",
+      "strength": 1.0,
+      "evidence_refs": [
+        "Sage screenshot 2025-06-20"
+      ],
+      "legal_significance": "identity_fraud_email_impersonation",
+      "added_version": "v40"
+    },
+    "REL_044": {
+      "relation_id": "REL_044",
+      "type": "audit_anomaly",
+      "source_entity": "ORG_021",
+      "target_entity": "ORG_004",
+      "description": "Mazars approves R5.4M stock adjustment without investigation",
+      "strength": 0.92,
+      "evidence_refs": [
+        "SLG audit report",
+        "Stock adjustment records"
+      ],
+      "legal_significance": "professional_negligence_or_complicity",
+      "added_version": "v40"
+    }
   },
   "financial_manipulation_patterns": {
     "year_end_manipulation": {

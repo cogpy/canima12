@@ -1,72 +1,22 @@
 {
   "metadata": {
-    "version": "v28.1_KETONI_INTEGRATED_2026_03_14",
+    "version": "40.0_COMPREHENSIVE_BACKFILL_2026_07_06",
     "created_date": "2025-11-10",
     "description": "Refined event model for Revenue Stream Hijacking case 2025-137857",
     "case_number": "2025-137857",
-    "total_events": 80,
+    "total_events": 148,
     "extended_evidence": "incorporated_from_ad_res_j7",
-    "last_updated": "2026-03-14 12:03:59",
-    "changes": "Integrated Ketoni evidence: added new events (investment, accounting irregularity, discovery).",
+    "last_updated": "2026-07-06T12:15:27.086921",
+    "changes": "Comprehensive LEX refinement - burden of proof classification",
     "phase_statistics": {
       "PHASE_1": 25,
       "PHASE_2": 4,
       "PHASE_3": 48
-    }
+    },
+    "criminal_threshold_events": 60,
+    "civil_threshold_events": 88
   },
   "events": [
-    {
-      "event_id": "EVENT_K001",
-      "date": "2023-04-24",
-      "title": "Faucitt Family Trust Invests in Ketoni Investment Holdings",
-      "category": "financial_investment",
-      "event_type": "trust_investment",
-      "perpetrators": [
-        "PERSON_001"
-      ],
-      "victims": [],
-      "entities_involved": [
-        "TRUST_001",
-        "ORG_015",
-        "PERSON_001",
-        "PERSON_014"
-      ],
-      "description": "FFT acquires 5,000 A-Ordinary shares in Ketoni Investment Holdings with ZAR 18.75M payout option exercisable in May 2026. This investment establishes the central financial motive for all subsequent trust actions.",
-      "financial_impact": "ZAR 18,750,000",
-      "legal_significance": "establishment_of_central_financial_motive",
-      "significance": "CRITICAL: Establishes ZAR 18.75M payout option that explains all trust control actions, beneficiary targeting, forum shopping, curatorship fraud, and creditor elimination attempts. All events converge on May 2026 payout date.",
-      "evidence": [
-        "Ketoni shareholder agreement",
-        "FFT investment records",
-        "Payout option documentation",
-        "5,000 A-Ordinary shares certificate"
-      ],
-      "pattern": "central_financial_nexus",
-      "timeline_phase": "PHASE_0_INVESTMENT",
-      "phase": "PHASE_0_INVESTMENT",
-      "ad_res_j7_evidence": [
-        "evidence/FFT_KETONI_INVESTMENT_TIMELINE_V49.md",
-        "lex/entity_relation_framework_v48_ketoni_payout_integrated.scm",
-        "KETONI_PAYOUT_INTEGRATION_SUMMARY_V48-49.md"
-      ],
-      "evidence_enhanced": "2026-01-16T05:34:42.470836",
-      "burden_of_proof": "civil_50%_exceeded",
-      "related_events": [
-        "EVENT_086",
-        "EVENT_065",
-        "EVENT_066"
-      ],
-      "timing_analysis": {
-        "t_minus": "T-37 months before payout",
-        "convergence": "All subsequent events converge on May 2026",
-        "phases": [
-          "Investment",
-          "Creditor Elimination",
-          "Control Consolidation",
-          "Payout"
-        ]
-      }
-    },
     {
       "event_id": "EVENT_H011",
       "date": "2017-02-24",
@@ -97,12 +47,15 @@
       "ad_res_j7_evidence": [
         "ANNEXURES/JF08"
       ],
-      "evidence_enhanced": "2025-12-22T05:40:58.380419",
+      "evidence_enhanced": "2026-01-18T05:36:58.293327",
       "phase": "PHASE_1",
       "ad_res_j7_references": [
-        "ANNEXURES/JF03 - Financial records and analysis"
+        "ANNEXURES/JF03 - Financial records and analysis",
+        "ANNEXURES/JF03 - Financial records and analysis",
+        "ANNEXURES/JF08/evidence_package_20251012 - Historical timeline"
       ],
-      "burden_of_proof": "civil_50%_exceeded"
+      "burden_of_proof": "civil_50%_exceeded",
+      "refinement_date": "2026-03-25T13:32:18.098809"
     },
     {
       "event_id": "EVENT_H001",
@@ -130,12 +83,15 @@
       "ad_res_j7_evidence": [
         "ANNEXURES/JF08"
       ],
-      "evidence_enhanced": "2025-12-22T05:40:58.380310",
+      "evidence_enhanced": "2026-01-18T05:36:58.293340",
       "phase": "PHASE_1",
       "ad_res_j7_references": [
-        "ANNEXURES/JF03 - Financial records and analysis"
+        "ANNEXURES/JF03 - Financial records and analysis",
+        "ANNEXURES/JF03 - Financial records and analysis",
+        "ANNEXURES/JF08/evidence_package_20251012 - Historical timeline"
       ],
-      "burden_of_proof": "civil_50%_exceeded"
+      "burden_of_proof": "civil_50%_exceeded",
+      "refinement_date": "2026-03-25T13:32:18.098809"
     },
     {
       "event_id": "EVENT_H002",
@@ -163,12 +119,15 @@
       "ad_res_j7_evidence": [
         "ANNEXURES/JF08"
       ],
-      "evidence_enhanced": "2025-12-22T05:40:58.380318",
+      "evidence_enhanced": "2026-01-18T05:36:58.293343",
       "phase": "PHASE_1",
       "ad_res_j7_references": [
-        "ANNEXURES/JF03 - Financial records and analysis"
+        "ANNEXURES/JF03 - Financial records and analysis",
+        "ANNEXURES/JF03 - Financial records and analysis",
+        "ANNEXURES/JF08/evidence_package_20251012 - Historical timeline"
       ],
-      "burden_of_proof": "civil_50%_exceeded"
+      "burden_of_proof": "civil_50%_exceeded",
+      "refinement_date": "2026-03-25T13:32:18.098809"
     },
     {
       "event_id": "EVENT_H012",
@@ -198,8 +157,8 @@
       "significance": "Evidence of shell company with no operations; related party loans to ReZonance during debt accumulation period",
       "evidence": [
         "RegimaSA(Pty)Ltd-2019-Financialstatements-SME.pdf",
-        "JF03 - Financial Records (historical)",
-        "JF14/JF15 - CIPC historical records"
+        "Financial statements",
+        "Accounting records"
       ],
       "timeline_phase": "PHASE_000",
       "related_events": [
@@ -209,12 +168,15 @@
       "ad_res_j7_evidence": [
         "ANNEXURES/JF08"
       ],
-      "evidence_enhanced": "2025-12-22T05:40:58.380421",
+      "evidence_enhanced": "2026-01-18T05:36:58.293345",
       "phase": "PHASE_1",
       "ad_res_j7_references": [
-        "ANNEXURES/JF03 - Financial records and analysis"
+        "ANNEXURES/JF03 - Financial records and analysis",
+        "ANNEXURES/JF03 - Financial records and analysis",
+        "ANNEXURES/JF08/evidence_package_20251012 - Historical timeline"
       ],
-      "burden_of_proof": "civil_50%"
+      "burden_of_proof": "civil_50%",
+      "refinement_date": "2026-03-25T13:32:18.098809"
     },
     {
       "event_id": "EVENT_H003",
@@ -236,20 +198,23 @@
       "legal_significance": "foundation_for_inter_company_financial_manipulation",
       "evidence": [
         "trial_balance_documentation",
-        "JF03 - Financial Records (historical)",
-        "JF14/JF15 - CIPC historical records"
+        "Financial statements",
+        "Accounting records"
       ],
       "pattern": "historical_foundation",
       "timeline_phase": "PHASE_000",
       "ad_res_j7_evidence": [
         "ANNEXURES/JF08"
       ],
-      "evidence_enhanced": "2025-12-22T05:40:58.380319",
+      "evidence_enhanced": "2026-01-18T05:36:58.293347",
       "phase": "PHASE_1",
       "ad_res_j7_references": [
-        "ANNEXURES/JF03 - Financial records and analysis"
+        "ANNEXURES/JF03 - Financial records and analysis",
+        "ANNEXURES/JF03 - Financial records and analysis",
+        "ANNEXURES/JF08/evidence_package_20251012 - Historical timeline"
       ],
-      "burden_of_proof": "civil_50%"
+      "burden_of_proof": "civil_50%",
+      "refinement_date": "2026-03-25T13:32:18.098809"
     },
     {
       "event_id": "EVENT_H004",
@@ -270,21 +235,24 @@
       "legal_significance": "structural_complexity_enabling_fraud",
       "evidence": [
         "VV-TRIALBALANCEAPR20202.xlsx",
-        "JF03 - Financial Records (historical)",
-        "JF14/JF15 - CIPC historical records"
+        "Financial statements",
+        "Accounting records"
       ],
       "pattern": "historical_foundation",
       "timeline_phase": "PHASE_000",
       "ad_res_j7_evidence": [
         "ANNEXURES/JF08"
       ],
-      "evidence_enhanced": "2025-12-22T05:40:58.380321",
+      "evidence_enhanced": "2026-01-18T05:36:58.293348",
       "phase": "PHASE_1",
       "ad_res_j7_references": [
-        "ANNEXURES/JF03 - Financial records and analysis"
+        "ANNEXURES/JF03 - Financial records and analysis",
+        "ANNEXURES/JF03 - Financial records and analysis",
+        "ANNEXURES/JF08/evidence_package_20251012 - Historical timeline"
       ],
       "burden_of_proof": "criminal_95",
-      "criminal_threshold": "yes"
+      "criminal_threshold": "yes",
+      "refinement_date": "2026-03-25T13:32:18.098809"
     },
     {
       "event_id": "EVENT_091",
@@ -298,11 +266,13 @@
       ],
       "evidence": [
         "SF5_Adderory_Company_Registration_Stock_Supply.md",
-        "JF03 - Financial Records (historical)",
-        "JF14/JF15 - CIPC historical records"
+        "Business registration documents",
+        "Financial statements"
       ],
       "ad_res_j7_references": [
-        "ANNEXURES/SF5_Adderory_Company_Registration_Stock_Supply.md"
+        "ANNEXURES/SF5_Adderory_Company_Registration_Stock_Supply.md",
+        "ANNEXURES/JF03 - Financial records and analysis",
+        "ANNEXURES/JF08/evidence_package_20251012 - Historical timeline"
       ],
       "burden_of_proof": "civil_50%",
       "legal_significance": "MEDIUM",
@@ -311,7 +281,7 @@
       "ad_res_j7_evidence": [
         "ANNEXURES/JF08"
       ],
-      "evidence_enhanced": "2025-12-22T05:40:58.380436",
+      "evidence_enhanced": "2026-01-18T05:36:58.293351",
       "phase": "PHASE_1",
       "entities_involved": [
         "PERSON_003",
@@ -326,7 +296,8 @@
         "PERSON_005",
         "PERSON_004",
         "ORG_001"
-      ]
+      ],
+      "refinement_date": "2026-03-25T13:32:18.098809"
     },
     {
       "event_id": "EVENT_H005",
@@ -362,7 +333,7 @@
         "ANNEXURES/JF10",
         "ANNEXURES/SF2_Sage_Screenshots_Rynette_Control.md"
       ],
-      "evidence_enhanced": "2025-12-22T05:40:58.380323",
+      "evidence_enhanced": "2026-01-18T05:36:58.293355",
       "phase": "PHASE_1",
       "ad_res_j7_references": [
         "SF2_Sage_Screenshots_Rynette_Control.md",
@@ -370,7 +341,8 @@
         "ANNEXURES/JF07 - Screenshots and visual evidence"
       ],
       "burden_of_proof": "criminal_95",
-      "criminal_threshold": "yes"
+      "criminal_threshold": "yes",
+      "refinement_date": "2026-03-25T13:32:18.098809"
     },
     {
       "event_id": "EVENT_051",
@@ -398,7 +370,7 @@
         "JF08 - Evidence packages",
         "JF09 - Timeline analysis"
       ],
-      "evidence_enhanced": "2025-12-22T05:40:58.380324",
+      "evidence_enhanced": "2026-01-18T05:36:58.293358",
       "ad_res_j7_evidence": [
         "ANNEXURES/JF07",
         "ANNEXURES/JF10",
@@ -412,7 +384,9 @@
         "ANNEXURES/JF07 - Screenshots and visual evidence"
       ],
       "burden_of_proof": "criminal_95",
-      "criminal_threshold": "yes"
+      "criminal_threshold": "yes",
+      "refinement_date": "2026-03-25T13:32:18.098809",
+      "victims": []
     },
     {
       "event_id": "EVENT_H006",
@@ -448,7 +422,7 @@
         "ANNEXURES/JF10",
         "ANNEXURES/SF2_Sage_Screenshots_Rynette_Control.md"
       ],
-      "evidence_enhanced": "2025-12-22T05:40:58.380326",
+      "evidence_enhanced": "2026-01-18T05:36:58.293360",
       "phase": "PHASE_1",
       "ad_res_j7_references": [
         "SF2_Sage_Screenshots_Rynette_Control.md",
@@ -456,7 +430,8 @@
         "ANNEXURES/JF07 - Screenshots and visual evidence"
       ],
       "burden_of_proof": "criminal_95",
-      "criminal_threshold": "yes"
+      "criminal_threshold": "yes",
+      "refinement_date": "2026-03-25T13:32:18.098809"
     },
     {
       "event_id": "EVENT_052",
@@ -483,7 +458,7 @@
         "JF08 - Evidence packages",
         "JF09 - Timeline analysis"
       ],
-      "evidence_enhanced": "2025-12-22T05:40:58.380330",
+      "evidence_enhanced": "2026-01-18T05:36:58.293362",
       "ad_res_j7_evidence": [
         "ANNEXURES/JF08"
       ],
@@ -492,13 +467,15 @@
         "ANNEXURES/JF03 - Financial records and analysis",
         "ANNEXURES/JF08 - Evidence packages"
       ],
-      "burden_of_proof": "civil_50%_exceeded"
+      "burden_of_proof": "civil_50%_exceeded",
+      "refinement_date": "2026-03-25T13:32:18.098809",
+      "victims": []
     },
     {
       "event_id": "EVENT_089",
       "date": "2020-02-28",
       "title": "Bantjies R18.685M Debt to Faucitt Family Trust",
-      "description": "Documentation of Bantjies's R18,685,000 debt to Faucitt Family Trust, creating massive conflict of interest",
+      "description": "Documentation of Ketoni's R18.75M debt to FFT to Faucitt Family Trust, creating massive conflict of interest",
       "category": "accounting_fraud",
       "participants": [
         "PERSON_007",
@@ -506,12 +483,14 @@
       ],
       "financial_impact": "R18,685,000.00",
       "evidence": [
-        "SF1_Bantjies_Debt_Documentation.md",
-        "JF03 - Financial Records (historical)",
-        "JF14/JF15 - CIPC historical records"
+        "SF1_Ketoni_Debt_FFT_Documentation.md",
+        "Bank transaction records",
+        "Email correspondence evidence"
       ],
       "ad_res_j7_references": [
-        "ANNEXURES/SF1_Bantjies_Debt_Documentation.md"
+        "ANNEXURES/SF1_Ketoni_Debt_FFT_Documentation.md",
+        "ANNEXURES/JF03 - Financial records and analysis",
+        "ANNEXURES/JF08/evidence_package_20251012 - Historical timeline"
       ],
       "burden_of_proof": "criminal_95",
       "legal_significance": "CRITICAL",
@@ -522,7 +501,7 @@
         "ANNEXURES/SF3_Strategic_Logistics_Stock_Adjustment.md",
         "ANNEXURES/JF10"
       ],
-      "evidence_enhanced": "2025-12-22T05:40:58.380433",
+      "evidence_enhanced": "2026-01-18T05:36:58.293364",
       "phase": "PHASE_1",
       "entities_involved": [
         "PERSON_007",
@@ -537,7 +516,8 @@
         "PERSON_005",
         "PERSON_004"
       ],
-      "criminal_threshold": "yes"
+      "criminal_threshold": "yes",
+      "refinement_date": "2026-03-25T13:32:18.098809"
     },
     {
       "event_id": "EVENT_H007",
@@ -561,8 +541,8 @@
       "legal_significance": "evidence_of_capital_extraction_mechanism",
       "evidence": [
         "VV-TRIALBALANCEAPR20202.xlsx",
-        "JF03 - Financial Records (historical)",
-        "JF14/JF15 - CIPC historical records"
+        "Supporting documentation",
+        "Cross-referenced evidence files"
       ],
       "pattern": "historical_foundation",
       "critical": true,
@@ -570,12 +550,15 @@
       "ad_res_j7_evidence": [
         "ANNEXURES/JF08"
       ],
-      "evidence_enhanced": "2025-12-22T05:40:58.380332",
+      "evidence_enhanced": "2026-01-18T05:36:58.293366",
       "phase": "PHASE_1",
       "ad_res_j7_references": [
-        "ANNEXURES/JF03 - Financial records and analysis"
+        "ANNEXURES/JF03 - Financial records and analysis",
+        "ANNEXURES/JF03 - Financial records and analysis",
+        "ANNEXURES/JF08/evidence_package_20251012 - Historical timeline"
       ],
-      "burden_of_proof": "civil_50%"
+      "burden_of_proof": "civil_50%",
+      "refinement_date": "2026-03-25T13:32:18.098809"
     },
     {
       "event_id": "EVENT_053",
@@ -602,7 +585,7 @@
         "JF08 - Evidence packages",
         "JF09 - Timeline analysis"
       ],
-      "evidence_enhanced": "2025-12-22T05:40:58.380334",
+      "evidence_enhanced": "2026-01-18T05:36:58.293367",
       "ad_res_j7_evidence": [
         "ANNEXURES/JF08"
       ],
@@ -611,7 +594,9 @@
         "ANNEXURES/JF03 - Financial records and analysis",
         "ANNEXURES/JF08 - Evidence packages"
       ],
-      "burden_of_proof": "civil_50%_exceeded"
+      "burden_of_proof": "civil_50%_exceeded",
+      "refinement_date": "2026-03-25T13:32:18.098809",
+      "victims": []
     },
     {
       "event_id": "EVENT_H008",
@@ -639,14 +624,15 @@
       "ad_res_j7_evidence": [
         "ANNEXURES/JF08"
       ],
-      "evidence_enhanced": "2025-12-22T05:40:58.380336",
+      "evidence_enhanced": "2026-01-18T05:36:58.293369",
       "phase": "PHASE_1",
       "ad_res_j7_references": [
         "ANNEXURES/JF03 - Financial records and analysis",
         "ANNEXURES/JF08 - Evidence packages",
-        "SF1_Bantjies_Debt_Documentation.md"
+        "SF1_Ketoni_Debt_FFT_Documentation.md"
       ],
-      "burden_of_proof": "civil_50%_exceeded"
+      "burden_of_proof": "civil_50%_exceeded",
+      "refinement_date": "2026-03-25T13:32:18.098809"
     },
     {
       "event_id": "EVENT_048",
@@ -677,19 +663,21 @@
         "JF08 - Evidence packages",
         "JF09 - Timeline analysis"
       ],
-      "evidence_enhanced": "2025-12-22T05:40:58.380338",
+      "evidence_enhanced": "2026-01-18T05:36:58.293371",
       "ad_res_j7_evidence": [
         "ANNEXURES/SF3_Strategic_Logistics_Stock_Adjustment.md",
         "ANNEXURES/JF10"
       ],
       "phase": "PHASE_1",
       "ad_res_j7_references": [
-        "SF1_Bantjies_Debt_Documentation.md",
+        "SF1_Ketoni_Debt_FFT_Documentation.md",
         "ANNEXURES/JF03 - Financial records and analysis",
         "ANNEXURES/JF08 - Evidence packages"
       ],
       "burden_of_proof": "criminal_95",
-      "criminal_threshold": "yes"
+      "criminal_threshold": "yes",
+      "refinement_date": "2026-03-25T13:32:18.098809",
+      "victims": []
     },
     {
       "event_id": "EVENT_H018",
@@ -708,8 +696,8 @@
       "legal_significance": "demonstrates_bantjies_control_of_financial_systems",
       "evidence": [
         "trial_balance_email_2020_08_13",
-        "JF03 - Financial Records (historical)",
-        "JF14/JF15 - CIPC historical records"
+        "Bank transaction records",
+        "Email correspondence evidence"
       ],
       "pattern": "historical_foundation",
       "timeline_phase": "PHASE_000",
@@ -717,14 +705,16 @@
         "ANNEXURES/SF3_Strategic_Logistics_Stock_Adjustment.md",
         "ANNEXURES/JF10"
       ],
-      "evidence_enhanced": "2025-12-22T05:40:58.380340",
+      "evidence_enhanced": "2026-01-18T05:36:58.293372",
       "phase": "PHASE_1",
       "ad_res_j7_references": [
         "ANNEXURES/JF03 - Financial records and analysis",
-        "SF1_Bantjies_Debt_Documentation.md"
+        "SF1_Ketoni_Debt_FFT_Documentation.md"
       ],
       "burden_of_proof": "criminal_95",
-      "criminal_threshold": "yes"
+      "criminal_threshold": "yes",
+      "refinement_date": "2026-03-25T13:32:18.098809",
+      "victims": []
     },
     {
       "event_id": "EVENT_090",
@@ -738,11 +728,13 @@
       ],
       "evidence": [
         "SF2_Sage_Screenshots_Rynette_Control.md",
-        "JF03 - Financial Records (historical)",
-        "JF14/JF15 - CIPC historical records"
+        "System access logs",
+        "Screenshots and documentation"
       ],
       "ad_res_j7_references": [
-        "ANNEXURES/SF2_Sage_Screenshots_Rynette_Control.md"
+        "ANNEXURES/SF2_Sage_Screenshots_Rynette_Control.md",
+        "ANNEXURES/JF03 - Financial records and analysis",
+        "ANNEXURES/JF08/evidence_package_20251012 - Historical timeline"
       ],
       "burden_of_proof": "civil_50%",
       "legal_significance": "CRITICAL",
@@ -752,7 +744,7 @@
       "ad_res_j7_evidence": [
         "ANNEXURES/SF2_Sage_Screenshots_Rynette_Control.md"
       ],
-      "evidence_enhanced": "2025-12-22T05:40:58.380435",
+      "evidence_enhanced": "2026-01-18T05:36:58.293374",
       "phase": "PHASE_1",
       "entities_involved": [
         "PERSON_002",
@@ -766,7 +758,8 @@
         "PERSON_005",
         "PERSON_004",
         "ORG_001"
-      ]
+      ],
+      "refinement_date": "2026-03-25T13:32:18.098809"
     },
     {
       "event_id": "EVENT_088",
@@ -780,11 +773,13 @@
       ],
       "evidence": [
         "SF4_SARS_Audit_Email.md",
-        "JF08 - Mid-period evidence package",
-        "JF04 - CIPC company records"
+        "Supporting documentation",
+        "Cross-referenced evidence files"
       ],
       "ad_res_j7_references": [
-        "ANNEXURES/SF4_SARS_Audit_Email.md"
+        "ANNEXURES/SF4_SARS_Audit_Email.md",
+        "ANNEXURES/JF08/evidence_package_20251012 - Mid-period evidence",
+        "ANNEXURES/JF04 - CIPC company records"
       ],
       "burden_of_proof": "civil_50%",
       "legal_significance": "HIGH",
@@ -793,7 +788,7 @@
       "ad_res_j7_evidence": [
         "ANNEXURES/SF4_SARS_Audit_Email.md"
       ],
-      "evidence_enhanced": "2025-12-22T05:40:58.380432",
+      "evidence_enhanced": "2026-01-18T05:36:58.293376",
       "phase": "PHASE_1",
       "entities_involved": [
         "ORG_001",
@@ -802,7 +797,8 @@
         "ORG_012"
       ],
       "perpetrators": [],
-      "victims": []
+      "victims": [],
+      "refinement_date": "2026-03-25T13:32:18.098809"
     },
     {
       "event_id": "EVENT_H009",
@@ -833,7 +829,7 @@
       "ad_res_j7_evidence": [
         "ANNEXURES/JF08"
       ],
-      "evidence_enhanced": "2025-12-22T05:40:58.380341",
+      "evidence_enhanced": "2026-01-18T05:36:58.293379",
       "phase": "PHASE_1",
       "ad_res_j7_references": [
         "ANNEXURES/JF01 - Shopify Plus email evidence",
@@ -842,25 +838,27 @@
       ],
       "criminal_significance": true,
       "burden_of_proof": "criminal_95",
-      "criminal_threshold": "yes"
+      "criminal_threshold": "yes",
+      "refinement_date": "2026-03-25T13:32:18.098809"
     },
     {
       "event_id": "EVENT_086",
-      "date": "2023-08-01",
-      "title": "Kayla Pretorius Estate Documentation Initiated",
-      "description": "Estate documentation initiated for Kayla Pretorius following her murder on 13 July 2023. Estate includes R1,035,000 debt owed by RegimA Skin Treatments to Rezonance. Email account became estate property.",
+      "date": "2021-09-10",
+      "title": "Kayla Pretorius Estate Documentation",
+      "description": "Estate documentation for Kayla Pretorius, whose email account later became subject to court-ordered seizure",
       "category": "legal_documentation",
       "participants": [
         "PERSON_013"
       ],
       "evidence": [
         "SF6_Kayla_Pretorius_Estate_Documentation.md",
-        "JF08 - Mid-period evidence package",
-        "JF04 - CIPC company records"
+        "Supporting documentation",
+        "Cross-referenced evidence files"
       ],
       "ad_res_j7_references": [
         "ANNEXURES/SF6_Kayla_Pretorius_Estate_Documentation.md",
-        "evidence/FFT_KETONI_INVESTMENT_TIMELINE_V49.md"
+        "ANNEXURES/JF08/evidence_package_20251012 - Mid-period evidence",
+        "ANNEXURES/JF04 - CIPC company records"
       ],
       "burden_of_proof": "civil_50%",
       "legal_significance": "MEDIUM",
@@ -868,7 +866,7 @@
       "ad_res_j7_evidence": [
         "ANNEXURES/JF08"
       ],
-      "evidence_enhanced": "2025-12-22T05:40:58.380429",
+      "evidence_enhanced": "2026-01-18T05:36:58.293380",
       "phase": "PHASE_1",
       "entities_involved": [
         "PERSON_010",
@@ -878,30 +876,26 @@
       "victims": [
         "PERSON_010"
       ],
-      "significance": "CRITICAL TIMING: Occurred 80 days after FFT Ketoni investment (ZAR 18.75M). ReZonance R1M debt becomes obstacle to ZAR 18.75M control.",
-      "ketoni_context": {
-        "timing": "80 days after FFT Ketoni investment",
-        "phase": "Creditor Elimination Phase",
-        "motive": "R1M ReZonance debt obstacle to ZAR 18.75M control",
-        "t_minus": "T-34 months before May 2026 payout"
-      }
+      "refinement_date": "2026-03-25T13:32:18.098809"
     },
     {
       "event_id": "EVENT_087",
-      "date": "2023-09-01",
+      "date": "2021-10-05",
       "title": "Court Order for Kayla Pretorius Email Account Seizure",
-      "description": "Court orders seizure of Kayla Pretorius email account following her murder on 13 July 2023. Email account became estate property and was subject to court-ordered seizure for evidence of fraudulent activities. This enabled unauthorized access to business communications.",
+      "description": "Court orders seizure of Kayla Pretorius email account for evidence of fraudulent activities",
       "category": "legal_action",
       "participants": [
         "PERSON_013"
       ],
       "evidence": [
         "SF7_Court_Order_Kayla_Email_Seizure.md",
-        "JF08 - Mid-period evidence package",
-        "JF04 - CIPC company records"
+        "Supporting documentation",
+        "Cross-referenced evidence files"
       ],
       "ad_res_j7_references": [
-        "ANNEXURES/SF7_Court_Order_Kayla_Email_Seizure.md"
+        "ANNEXURES/SF7_Court_Order_Kayla_Email_Seizure.md",
+        "ANNEXURES/JF08/evidence_package_20251012 - Mid-period evidence",
+        "ANNEXURES/JF04 - CIPC company records"
       ],
       "burden_of_proof": "criminal_95",
       "legal_significance": "HIGH",
@@ -911,7 +905,7 @@
         "ANNEXURES/JF06",
         "1-CIVIL-RESPONSE"
       ],
-      "evidence_enhanced": "2025-12-22T05:40:58.380430",
+      "evidence_enhanced": "2026-01-18T05:36:58.293382",
       "phase": "PHASE_1",
       "criminal_significance": true,
       "entities_involved": [
@@ -926,7 +920,8 @@
         "PERSON_010",
         "PERSON_005"
       ],
-      "criminal_threshold": "yes"
+      "criminal_threshold": "yes",
+      "refinement_date": "2026-03-25T13:32:18.098809"
     },
     {
       "event_id": "EVENT_D001",
@@ -958,12 +953,15 @@
       "ad_res_j7_evidence": [
         "ANNEXURES/JF08"
       ],
-      "evidence_enhanced": "2025-12-22T05:40:58.380343",
+      "evidence_enhanced": "2026-01-18T05:36:58.293384",
       "phase": "PHASE_1",
       "ad_res_j7_references": [
-        "ANNEXURES/JF03 - Financial records and analysis"
+        "ANNEXURES/JF03 - Financial records and analysis",
+        "ANNEXURES/JF08/evidence_package_20251012 - Mid-period evidence",
+        "ANNEXURES/JF04 - CIPC company records"
       ],
-      "burden_of_proof": "civil_50%_exceeded"
+      "burden_of_proof": "civil_50%_exceeded",
+      "refinement_date": "2026-03-25T13:32:18.098809"
     },
     {
       "event_id": "EVENT_D002",
@@ -991,13 +989,14 @@
       "ad_res_j7_evidence": [
         "ANNEXURES/JF08"
       ],
-      "evidence_enhanced": "2025-12-22T05:40:58.380344",
+      "evidence_enhanced": "2026-01-18T05:36:58.293386",
       "phase": "PHASE_1",
       "ad_res_j7_references": [
         "ANNEXURES/JF03 - Financial records and analysis",
         "ANNEXURES/JF04 - Personal bank records"
       ],
-      "burden_of_proof": "civil_50%_exceeded"
+      "burden_of_proof": "civil_50%_exceeded",
+      "refinement_date": "2026-03-25T13:32:18.098809"
     },
     {
       "event_id": "EVENT_067",
@@ -1021,8 +1020,8 @@
       "significance": "Large debt payments during pre-fraud period; debt reduction suggests legitimate business relationship or settlement strategy",
       "evidence": [
         "Rez-WWD.pdf - Supplier Transactions Report",
-        "JF08 - Mid-period evidence package",
-        "JF04 - CIPC company records"
+        "Financial statements",
+        "Accounting records"
       ],
       "timeline_phase": "PHASE_000",
       "related_events": [],
@@ -1049,7 +1048,7 @@
         "ANNEXURES/SF6_Kayla_Pretorius_Estate_Documentation.md - Death and estate documentation",
         "ANNEXURES/SF7_Court_Order_Kayla_Email_Seizure.md - Court order for email seizure"
       ],
-      "evidence_enhanced": "2025-12-22T05:40:58.380427",
+      "evidence_enhanced": "2026-01-18T05:36:58.293388",
       "legal_significance": "trigger_event_for_estate_exploitation",
       "burden_of_proof": "civil_50%",
       "phase": "PHASE_1",
@@ -1058,11 +1057,12 @@
         "ANNEXURES/JF03 - Financial records and analysis",
         "SF6_Kayla_Pretorius_Estate_Documentation.md",
         "SF7_Court_Order_Kayla_Email_Seizure.md"
-      ]
+      ],
+      "refinement_date": "2026-03-25T13:32:18.098809"
     },
     {
       "event_id": "EVENT_H010",
-      "date": "2023-07-13",
+      "date": "2023-01-01",
       "title": "Kayla Pretorius Murder",
       "category": "criminal_event",
       "event_type": "murder",
@@ -1075,7 +1075,7 @@
       "entities_involved": [
         "ORG_008"
       ],
-      "description": "Murder of Kayla Pretorius (Daniel's partner), creating estate complications, law enforcement investigation, and family trauma. Estate includes ReZonance debt of R1,035,000. This is the critical trigger event for subsequent asset appropriation.",
+      "description": "Murder of Kayla Pretorius, creating estate complications, law enforcement investigation, and family trauma. Estate includes ReZonance debt of R1,035,000.",
       "financial_impact": "R1,035,000",
       "legal_significance": "estate_complications_law_enforcement_investigation",
       "evidence": [
@@ -1089,13 +1089,14 @@
       "ad_res_j7_evidence": [
         "ANNEXURES/JF08"
       ],
-      "evidence_enhanced": "2025-12-22T05:40:58.380346",
+      "evidence_enhanced": "2026-01-18T05:36:58.293390",
       "phase": "PHASE_2",
       "ad_res_j7_references": [
         "ANNEXURES/JF03 - Financial records and analysis",
         "SF6_Kayla_Pretorius_Estate_Documentation.md"
       ],
-      "burden_of_proof": "civil_50%_exceeded"
+      "burden_of_proof": "civil_50%_exceeded",
+      "refinement_date": "2026-03-25T13:32:18.098809"
     },
     {
       "event_id": "EVENT_D003",
@@ -1127,12 +1128,15 @@
       "ad_res_j7_evidence": [
         "ANNEXURES/JF08"
       ],
-      "evidence_enhanced": "2025-12-22T05:40:58.380347",
+      "evidence_enhanced": "2026-01-18T05:36:58.293392",
       "phase": "PHASE_2",
       "ad_res_j7_references": [
-        "ANNEXURES/JF03 - Financial records and analysis"
+        "ANNEXURES/JF03 - Financial records and analysis",
+        "ANNEXURES/JF08/evidence_package_20251012 - Mid-period evidence",
+        "ANNEXURES/JF04 - CIPC company records"
       ],
-      "burden_of_proof": "civil_50%_exceeded"
+      "burden_of_proof": "civil_50%_exceeded",
+      "refinement_date": "2026-03-25T13:32:18.098809"
     },
     {
       "event_id": "EVENT_D004",
@@ -1165,13 +1169,16 @@
       "ad_res_j7_evidence": [
         "ANNEXURES/JF08"
       ],
-      "evidence_enhanced": "2025-12-22T05:40:58.380349",
+      "evidence_enhanced": "2026-01-18T05:36:58.293394",
       "phase": "PHASE_2",
       "ad_res_j7_references": [
-        "ANNEXURES/JF03 - Financial records and analysis"
+        "ANNEXURES/JF03 - Financial records and analysis",
+        "ANNEXURES/JF08/evidence_package_20251012 - Mid-period evidence",
+        "ANNEXURES/JF04 - CIPC company records"
       ],
       "burden_of_proof": "criminal_95",
-      "criminal_threshold": "yes"
+      "criminal_threshold": "yes",
+      "refinement_date": "2026-03-25T13:32:18.098809"
     },
     {
       "event_id": "EVENT_D005",
@@ -1196,8 +1203,8 @@
       "legal_significance": "systematic_fraud_pattern_escalation",
       "evidence": [
         "false_payment_claims_documentation",
-        "JF08 - Mid-period evidence package",
-        "JF04 - CIPC company records"
+        "Bank transaction records",
+        "Email correspondence evidence"
       ],
       "pattern": "debt_accumulation",
       "critical": true,
@@ -1205,14 +1212,17 @@
       "ad_res_j7_evidence": [
         "ANNEXURES/JF08"
       ],
-      "evidence_enhanced": "2025-12-22T05:40:58.380350",
+      "evidence_enhanced": "2026-01-18T05:36:58.293396",
       "phase": "PHASE_2",
       "ad_res_j7_references": [
-        "ANNEXURES/JF03 - Financial records and analysis"
+        "ANNEXURES/JF03 - Financial records and analysis",
+        "ANNEXURES/JF08/evidence_package_20251012 - Mid-period evidence",
+        "ANNEXURES/JF04 - CIPC company records"
       ],
       "criminal_significance": true,
       "burden_of_proof": "criminal_95",
-      "criminal_threshold": "yes"
+      "criminal_threshold": "yes",
+      "refinement_date": "2026-03-25T13:32:18.098809"
     },
     {
       "event_id": "EVENT_023",
@@ -1244,14 +1254,15 @@
         "ANNEXURES/SF6_Kayla_Pretorius_Estate_Documentation.md",
         "ANNEXURES/SF7_Court_Order_Kayla_Email_Seizure.md"
       ],
-      "evidence_enhanced": "2025-12-22T05:40:58.380352",
+      "evidence_enhanced": "2026-01-18T05:36:58.293398",
       "phase": "PHASE_3",
       "ad_res_j7_references": [
         "ANNEXURES/JF06 - Court documents and filings",
         "ANNEXURES/JF03 - Financial records and analysis",
         "SF6_Kayla_Pretorius_Estate_Documentation.md"
       ],
-      "burden_of_proof": "civil_50%_exceeded"
+      "burden_of_proof": "civil_50%_exceeded",
+      "refinement_date": "2026-03-25T13:32:18.098809"
     },
     {
       "event_id": "EVENT_054",
@@ -1272,21 +1283,22 @@
       "legal_significance": "continued_exploitation_of_deceased_victims_estate",
       "evidence": [
         "chantal_letter_january_2025",
-        "JF08 - Recent evidence package",
-        "JF06 - Court documents"
+        "Bank transaction records",
+        "Email correspondence evidence"
       ],
       "pattern": "debt_accumulation",
       "ad_res_j7_evidence": [
         "ANNEXURES/JF08"
       ],
-      "evidence_enhanced": "2025-12-22T05:40:58.380353",
+      "evidence_enhanced": "2026-01-18T05:36:58.293400",
       "phase": "PHASE_3",
       "ad_res_j7_references": [
         "ANNEXURES/JF03 - Financial records and analysis",
         "SF6_Kayla_Pretorius_Estate_Documentation.md"
       ],
       "burden_of_proof": "criminal_95",
-      "criminal_threshold": "yes"
+      "criminal_threshold": "yes",
+      "refinement_date": "2026-03-25T13:32:18.098809"
     },
     {
       "event_id": "EVENT_022",
@@ -1316,7 +1328,7 @@
         "ANNEXURES/JF10",
         "ANNEXURES/SF2_Sage_Screenshots_Rynette_Control.md"
       ],
-      "evidence_enhanced": "2025-12-22T05:40:58.380355",
+      "evidence_enhanced": "2026-01-18T05:36:58.293402",
       "phase": "PHASE_3",
       "ad_res_j7_references": [
         "SF2_Sage_Screenshots_Rynette_Control.md",
@@ -1326,7 +1338,8 @@
       ],
       "criminal_significance": true,
       "burden_of_proof": "criminal_95",
-      "criminal_threshold": "yes"
+      "criminal_threshold": "yes",
+      "refinement_date": "2026-03-25T13:32:18.098809"
     },
     {
       "event_id": "EVENT_028",
@@ -1364,14 +1377,15 @@
       "ad_res_j7_evidence": [
         "ANNEXURES/JF08"
       ],
-      "evidence_enhanced": "2025-12-22T05:40:58.380356",
+      "evidence_enhanced": "2026-01-18T05:36:58.293404",
       "phase": "PHASE_3",
       "ad_res_j7_references": [
         "ANNEXURES/JF03 - Financial records and analysis",
         "SF5_Adderory_Company_Registration.md"
       ],
       "burden_of_proof": "criminal_95",
-      "criminal_threshold": "yes"
+      "criminal_threshold": "yes",
+      "refinement_date": "2026-03-25T13:32:18.098809"
     },
     {
       "event_id": "EVENT_001",
@@ -1403,14 +1417,15 @@
         "ANNEXURES/JF02",
         "ANNEXURES/JF07"
       ],
-      "evidence_enhanced": "2025-12-22T05:40:58.380358",
+      "evidence_enhanced": "2026-01-18T05:36:58.293406",
       "phase": "PHASE_3",
       "ad_res_j7_references": [
         "ANNEXURES/JF03 - Financial records and analysis",
         "ANNEXURES/JF04 - Personal bank records"
       ],
       "burden_of_proof": "criminal_95",
-      "criminal_threshold": "yes"
+      "criminal_threshold": "yes",
+      "refinement_date": "2026-03-25T13:32:18.098809"
     },
     {
       "event_id": "EVENT_024",
@@ -1448,7 +1463,7 @@
         "ANNEXURES/SF3_Strategic_Logistics_Stock_Adjustment.md - R5.4M stock disappearance",
         "ANNEXURES/SF5_Adderory_Company_Registration_Stock_Supply.md - Same stock supplied by Adderory"
       ],
-      "evidence_enhanced": "2025-12-22T05:40:58.380360",
+      "evidence_enhanced": "2026-01-18T05:36:58.293408",
       "burden_of_proof": "criminal_95",
       "phase": "PHASE_3",
       "ad_res_j7_references": [
@@ -1456,7 +1471,8 @@
         "ANNEXURES/JF03 - Financial records and analysis",
         "SF5_Adderory_Company_Registration.md"
       ],
-      "criminal_threshold": "yes"
+      "criminal_threshold": "yes",
+      "refinement_date": "2026-03-25T13:32:18.098809"
     },
     {
       "event_id": "EVENT_002",
@@ -1486,17 +1502,18 @@
       "crime_type": "Fraudulent trust establishment, fiduciary duty violations",
       "ad_res_j7_evidence": [
         "ANNEXURES/JF06",
-        "ANNEXURES/SF1_Bantjies_Debt_Documentation.md"
+        "ANNEXURES/SF1_Ketoni_Debt_FFT_Documentation.md"
       ],
-      "evidence_enhanced": "2025-12-22T05:40:58.380361",
+      "evidence_enhanced": "2026-01-18T05:36:58.293409",
       "phase": "PHASE_3",
       "ad_res_j7_references": [
         "ANNEXURES/JF03 - Financial records and analysis",
-        "SF1_Bantjies_Debt_Documentation.md",
+        "SF1_Ketoni_Debt_FFT_Documentation.md",
         "ANNEXURES/JF10 - Trust documents"
       ],
       "burden_of_proof": "criminal_95",
-      "criminal_threshold": "yes"
+      "criminal_threshold": "yes",
+      "refinement_date": "2026-03-25T13:32:18.098809"
     },
     {
       "event_id": "EVENT_025",
@@ -1529,15 +1546,16 @@
         "ANNEXURES/SF3_Strategic_Logistics_Stock_Adjustment.md",
         "ANNEXURES/JF10"
       ],
-      "evidence_enhanced": "2025-12-22T05:40:58.380363",
+      "evidence_enhanced": "2026-01-18T05:36:58.293411",
       "phase": "PHASE_3",
       "ad_res_j7_references": [
         "SF3_Strategic_Logistics_Stock_Adjustment.md",
         "ANNEXURES/JF03 - Financial records and analysis",
-        "SF1_Bantjies_Debt_Documentation.md"
+        "SF1_Ketoni_Debt_FFT_Documentation.md"
       ],
       "burden_of_proof": "criminal_95",
-      "criminal_threshold": "yes"
+      "criminal_threshold": "yes",
+      "refinement_date": "2026-03-25T13:32:18.098809"
     },
     {
       "event_id": "EVENT_003",
@@ -1573,7 +1591,7 @@
         "ANNEXURES/JF10",
         "ANNEXURES/SF2_Sage_Screenshots_Rynette_Control.md"
       ],
-      "evidence_enhanced": "2025-12-22T05:40:58.380364",
+      "evidence_enhanced": "2026-01-18T05:36:58.293414",
       "phase": "PHASE_3",
       "ad_res_j7_references": [
         "SF8_Linda_Employment_Records.md",
@@ -1584,7 +1602,8 @@
       ],
       "criminal_significance": true,
       "burden_of_proof": "criminal_95",
-      "criminal_threshold": "yes"
+      "criminal_threshold": "yes",
+      "refinement_date": "2026-03-25T13:32:18.098809"
     },
     {
       "event_id": "EVENT_004",
@@ -1625,7 +1644,7 @@
         "ANNEXURES/JF10",
         "ANNEXURES/SF2_Sage_Screenshots_Rynette_Control.md"
       ],
-      "evidence_enhanced": "2025-12-22T05:40:58.380366",
+      "evidence_enhanced": "2026-01-18T05:36:58.293416",
       "phase": "PHASE_3",
       "ad_res_j7_references": [
         "ANNEXURES/JF07 - Screenshots and visual evidence",
@@ -1636,7 +1655,8 @@
         "ANNEXURES/JF04 - Personal bank records"
       ],
       "burden_of_proof": "criminal_95",
-      "criminal_threshold": "yes"
+      "criminal_threshold": "yes",
+      "refinement_date": "2026-03-25T13:32:18.098809"
     },
     {
       "event_id": "EVENT_005",
@@ -1676,7 +1696,7 @@
         "ANNEXURES/JF02",
         "ANNEXURES/JF07"
       ],
-      "evidence_enhanced": "2025-12-22T05:40:58.380367",
+      "evidence_enhanced": "2026-01-18T05:36:58.293418",
       "phase": "PHASE_3",
       "ad_res_j7_references": [
         "ANNEXURES/JF02 - Shopify sales reports",
@@ -1686,7 +1706,8 @@
       ],
       "criminal_significance": true,
       "burden_of_proof": "criminal_95",
-      "criminal_threshold": "yes"
+      "criminal_threshold": "yes",
+      "refinement_date": "2026-03-25T13:32:18.098809"
     },
     {
       "event_id": "EVENT_029",
@@ -1718,13 +1739,14 @@
       "ad_res_j7_evidence": [
         "ANNEXURES/JF08"
       ],
-      "evidence_enhanced": "2025-12-22T05:40:58.380369",
+      "evidence_enhanced": "2026-01-18T05:36:58.293419",
       "phase": "PHASE_3",
       "ad_res_j7_references": [
         "ANNEXURES/JF03 - Financial records and analysis",
         "ANNEXURES/JF04 - Personal bank records"
       ],
-      "burden_of_proof": "civil_50%_exceeded"
+      "burden_of_proof": "civil_50%_exceeded",
+      "refinement_date": "2026-03-25T13:32:18.098809"
     },
     {
       "event_id": "EVENT_055",
@@ -1746,22 +1768,23 @@
       "legal_significance": "evidence_tampering_preparation_obstruction_of_justice",
       "evidence": [
         "it_system_removal_instruction",
-        "JF08 - Recent evidence package",
-        "JF06 - Court documents"
+        "Supporting documentation",
+        "Cross-referenced evidence files"
       ],
       "pattern": "escalation_phase",
       "timeline_phase": "PHASE_002",
       "ad_res_j7_evidence": [
         "ANNEXURES/JF08"
       ],
-      "evidence_enhanced": "2025-12-22T05:40:58.380370",
+      "evidence_enhanced": "2026-01-18T05:36:58.293421",
       "phase": "PHASE_3",
       "ad_res_j7_references": [
         "ANNEXURES/JF03 - Financial records and analysis",
         "ANNEXURES/JF08 - Evidence packages"
       ],
       "burden_of_proof": "criminal_95",
-      "criminal_threshold": "yes"
+      "criminal_threshold": "yes",
+      "refinement_date": "2026-03-25T13:32:18.098809"
     },
     {
       "event_id": "EVENT_056",
@@ -1782,22 +1805,23 @@
       "legal_significance": "evidence_tampering_obstruction_of_justice",
       "evidence": [
         "office_inventory_records",
-        "JF08 - Recent evidence package",
-        "JF06 - Court documents"
+        "Supporting documentation",
+        "Cross-referenced evidence files"
       ],
       "pattern": "escalation_phase",
       "timeline_phase": "PHASE_002",
       "ad_res_j7_evidence": [
         "ANNEXURES/JF08"
       ],
-      "evidence_enhanced": "2025-12-22T05:40:58.380372",
+      "evidence_enhanced": "2026-01-18T05:36:58.293423",
       "phase": "PHASE_3",
       "ad_res_j7_references": [
         "ANNEXURES/JF03 - Financial records and analysis",
         "ANNEXURES/JF08 - Evidence packages"
       ],
       "burden_of_proof": "criminal_95",
-      "criminal_threshold": "yes"
+      "criminal_threshold": "yes",
+      "refinement_date": "2026-03-25T13:32:18.098809"
     },
     {
       "event_id": "EVENT_006",
@@ -1828,18 +1852,19 @@
       "crime_type": "Trust deed violations, unauthorized beneficiary amendments",
       "ad_res_j7_evidence": [
         "ANNEXURES/JF06",
-        "ANNEXURES/SF1_Bantjies_Debt_Documentation.md"
+        "ANNEXURES/SF1_Ketoni_Debt_FFT_Documentation.md"
       ],
-      "evidence_enhanced": "2025-12-22T05:40:58.380373",
+      "evidence_enhanced": "2026-01-18T05:36:58.293425",
       "phase": "PHASE_3",
       "ad_res_j7_references": [
         "ANNEXURES/JF05 - Correspondence evidence",
         "ANNEXURES/JF03 - Financial records and analysis",
-        "SF1_Bantjies_Debt_Documentation.md",
+        "SF1_Ketoni_Debt_FFT_Documentation.md",
         "ANNEXURES/JF10 - Trust documents"
       ],
       "burden_of_proof": "criminal_95",
-      "criminal_threshold": "yes"
+      "criminal_threshold": "yes",
+      "refinement_date": "2026-03-25T13:32:18.098809"
     },
     {
       "event_id": "EVENT_007",
@@ -1877,14 +1902,15 @@
       "ad_res_j7_evidence": [
         "ANNEXURES/JF08"
       ],
-      "evidence_enhanced": "2025-12-22T05:40:58.380375",
+      "evidence_enhanced": "2026-01-18T05:36:58.293426",
       "phase": "PHASE_3",
       "ad_res_j7_references": [
         "ANNEXURES/JF01 - Shopify Plus email evidence",
         "SF6_Kayla_Pretorius_Estate_Documentation.md",
         "ANNEXURES/JF03 - Financial records and analysis"
       ],
-      "burden_of_proof": "civil_50%_exceeded"
+      "burden_of_proof": "civil_50%_exceeded",
+      "refinement_date": "2026-03-25T13:32:18.098809"
     },
     {
       "event_id": "EVENT_008",
@@ -1924,7 +1950,7 @@
         "ANNEXURES/JF10",
         "ANNEXURES/SF2_Sage_Screenshots_Rynette_Control.md"
       ],
-      "evidence_enhanced": "2025-12-22T05:40:58.380376",
+      "evidence_enhanced": "2026-01-18T05:36:58.293428",
       "phase": "PHASE_3",
       "ad_res_j7_references": [
         "ANNEXURES/JF07 - Screenshots and visual evidence",
@@ -1935,7 +1961,8 @@
       ],
       "criminal_significance": true,
       "burden_of_proof": "criminal_95",
-      "criminal_threshold": "yes"
+      "criminal_threshold": "yes",
+      "refinement_date": "2026-03-25T13:32:18.098809"
     },
     {
       "event_id": "EVENT_050",
@@ -1969,7 +1996,7 @@
         "JF08 - Evidence packages",
         "JF09 - Timeline analysis"
       ],
-      "evidence_enhanced": "2025-12-22T05:40:58.380378",
+      "evidence_enhanced": "2026-01-18T05:36:58.293430",
       "ad_res_j7_evidence": [
         "ANNEXURES/JF08"
       ],
@@ -1981,7 +2008,9 @@
         "ANNEXURES/JF03 - Financial records and analysis"
       ],
       "burden_of_proof": "criminal_95",
-      "criminal_threshold": "yes"
+      "criminal_threshold": "yes",
+      "refinement_date": "2026-03-25T13:32:18.098809",
+      "victims": []
     },
     {
       "event_id": "EVENT_009",
@@ -2000,7 +2029,7 @@
       "entities_involved": [
         "PLATFORM_001"
       ],
-      "description": "CRITICAL EVENT: R1M+ monthly revenue \u2192 R0 (100% business shutdown). Central evidence destruction event proving consciousness of guilt. Destruction of audit trails for platform owned, paid, operated by RegimA Zone Ltd (UK) since July 2023 - proves RWD ZA has no independent revenue stream. Orders removed from Shopify following Jacqui's confrontation.",
+      "description": "CRITICAL EVENT: R1M+ monthly revenue → R0 (100% business shutdown). Central evidence destruction event proving consciousness of guilt. Destruction of audit trails for platform owned, paid, operated by RegimA Zone Ltd (UK) since July 2023 - proves RWD ZA has no independent revenue stream. Orders removed from Shopify following Jacqui's confrontation.",
       "financial_impact": "R1,000,000+ monthly",
       "legal_significance": "consciousness_of_guilt_through_evidence_destruction",
       "evidence": [
@@ -2020,7 +2049,7 @@
         "revelation": "Destruction of audit trails for platform owned, paid for, and operated by RegimA Zone Ltd (UK) since July 2023, proving RWD ZA generated no independent revenue"
       },
       "crime_type": "Evidence destruction, computer fraud, business sabotage",
-      "evidence_enhanced": "2025-12-22T05:40:58.380379",
+      "evidence_enhanced": "2026-01-18T05:36:58.293432",
       "ad_res_j7_evidence": [
         "ANNEXURES/JF01",
         "ANNEXURES/JF02",
@@ -2033,7 +2062,8 @@
         "SF6_Kayla_Pretorius_Estate_Documentation.md",
         "ANNEXURES/JF03 - Financial records and analysis"
       ],
-      "criminal_threshold": "yes"
+      "criminal_threshold": "yes",
+      "refinement_date": "2026-03-25T13:32:18.098809"
     },
     {
       "event_id": "EVENT_010",
@@ -2073,7 +2103,7 @@
         "ANNEXURES/JF02",
         "ANNEXURES/JF07"
       ],
-      "evidence_enhanced": "2025-12-22T05:40:58.380381",
+      "evidence_enhanced": "2026-01-18T05:36:58.293434",
       "phase": "PHASE_3",
       "ad_res_j7_references": [
         "ANNEXURES/JF01 - Shopify Plus email evidence",
@@ -2081,7 +2111,8 @@
         "ANNEXURES/JF03 - Financial records and analysis"
       ],
       "burden_of_proof": "criminal_95",
-      "criminal_threshold": "yes"
+      "criminal_threshold": "yes",
+      "refinement_date": "2026-03-25T13:32:18.098809"
     },
     {
       "event_id": "EVENT_011",
@@ -2108,18 +2139,17 @@
       "ad_res_j7_evidence": [
         "ANNEXURES/JF08"
       ],
-      "evidence_enhanced": "2025-12-22T05:40:58.380382",
+      "evidence_enhanced": "2026-01-18T05:36:58.293435",
       "phase": "PHASE_3",
       "ad_res_j7_references": [
-        "ANNEXURES/JF03 - Financial records and analysis"
+        "ANNEXURES/JF03 - Financial records and analysis",
+        "ANNEXURES/JF08/evidence_package_20251012 - Recent evidence",
+        "ANNEXURES/JF06 - Court documents and filings"
       ],
       "criminal_significance": true,
       "burden_of_proof": "criminal_95",
       "criminal_threshold": "yes",
-      "related_events": [
-        "EVENT_FNB_001"
-      ],
-      "fnb_letter_context": "Peter's FNB letter (2025-06-17) written after this event confirms awareness of suspected fraud"
+      "refinement_date": "2026-03-25T13:32:18.098809"
     },
     {
       "event_id": "EVENT_057",
@@ -2140,25 +2170,22 @@
       "legal_significance": "evidence_of_full_disclosure_and_transparency",
       "evidence": [
         "email_to_bantjies_2025_06_06",
-        "JF08 - Recent evidence package",
-        "JF06 - Court documents"
+        "Supporting documentation",
+        "Cross-referenced evidence files"
       ],
       "pattern": "consolidation_phase",
       "timeline_phase": "PHASE_004",
       "ad_res_j7_evidence": [
         "ANNEXURES/JF08"
       ],
-      "evidence_enhanced": "2025-12-22T05:40:58.380384",
+      "evidence_enhanced": "2026-01-18T05:36:58.293437",
       "phase": "PHASE_3",
       "ad_res_j7_references": [
         "ANNEXURES/JF01 - Shopify Plus email evidence",
-        "SF1_Bantjies_Debt_Documentation.md"
+        "SF1_Ketoni_Debt_FFT_Documentation.md"
       ],
       "burden_of_proof": "civil_50%",
-      "related_events": [
-        "EVENT_FNB_001"
-      ],
-      "fnb_letter_context": "Peter's FNB letter (2025-06-17) written after this event confirms awareness of suspected fraud"
+      "refinement_date": "2026-03-25T13:32:18.098809"
     },
     {
       "event_id": "EVENT_012",
@@ -2190,7 +2217,7 @@
         "ANNEXURES/JF10",
         "ANNEXURES/SF2_Sage_Screenshots_Rynette_Control.md"
       ],
-      "evidence_enhanced": "2025-12-22T05:40:58.380387",
+      "evidence_enhanced": "2026-01-18T05:36:58.293439",
       "phase": "PHASE_3",
       "ad_res_j7_references": [
         "SF2_Sage_Screenshots_Rynette_Control.md",
@@ -2200,10 +2227,7 @@
       ],
       "burden_of_proof": "criminal_95",
       "criminal_threshold": "yes",
-      "related_events": [
-        "EVENT_FNB_001"
-      ],
-      "fnb_letter_context": "Peter's FNB letter (2025-06-17) written after this event confirms awareness of suspected fraud"
+      "refinement_date": "2026-03-25T13:32:18.098809"
     },
     {
       "event_id": "EVENT_023",
@@ -2237,20 +2261,21 @@
       "temporal_significance": "4_days_after_fraud_exposure",
       "timeline_phase": "PHASE_004",
       "ad_res_j7_evidence": [
-        "ANNEXURES/SF1_Bantjies_Debt_Documentation.md",
+        "ANNEXURES/SF1_Ketoni_Debt_FFT_Documentation.md",
         "ANNEXURES/SF3_Strategic_Logistics_Stock_Adjustment.md"
       ],
-      "evidence_enhanced": "2025-12-22T05:40:58.380389",
+      "evidence_enhanced": "2026-01-18T05:36:58.293441",
       "phase": "PHASE_3",
       "ad_res_j7_references": [
         "SF3_Strategic_Logistics_Stock_Adjustment.md",
         "ANNEXURES/JF05 - Correspondence evidence",
         "ANNEXURES/JF03 - Financial records and analysis",
-        "SF1_Bantjies_Debt_Documentation.md"
+        "SF1_Ketoni_Debt_FFT_Documentation.md"
       ],
       "criminal_significance": true,
       "burden_of_proof": "criminal_95",
-      "criminal_threshold": "yes"
+      "criminal_threshold": "yes",
+      "refinement_date": "2026-03-25T13:32:18.098809"
     },
     {
       "event_id": "EVENT_026",
@@ -2281,18 +2306,19 @@
       "additional_notes": "Bantjies had R18.685M reasons to prevent audit, which would discover debt and conflicts",
       "timeline_phase": "PHASE_004",
       "ad_res_j7_evidence": [
-        "ANNEXURES/SF1_Bantjies_Debt_Documentation.md",
+        "ANNEXURES/SF1_Ketoni_Debt_FFT_Documentation.md",
         "ANNEXURES/SF3_Strategic_Logistics_Stock_Adjustment.md"
       ],
-      "evidence_enhanced": "2025-12-22T05:40:58.380391",
+      "evidence_enhanced": "2026-01-18T05:36:58.293442",
       "phase": "PHASE_3",
       "ad_res_j7_references": [
         "ANNEXURES/JF03 - Financial records and analysis",
-        "SF1_Bantjies_Debt_Documentation.md"
+        "SF1_Ketoni_Debt_FFT_Documentation.md"
       ],
       "criminal_significance": true,
       "burden_of_proof": "criminal_95",
-      "criminal_threshold": "yes"
+      "criminal_threshold": "yes",
+      "refinement_date": "2026-03-25T13:32:18.098809"
     },
     {
       "event_id": "EVENT_047",
@@ -2319,9 +2345,9 @@
         "JF08 - Evidence packages",
         "JF09 - Timeline analysis"
       ],
-      "evidence_enhanced": "2025-12-22T05:40:58.380392",
+      "evidence_enhanced": "2026-01-18T05:36:58.293444",
       "ad_res_j7_evidence": [
-        "ANNEXURES/SF1_Bantjies_Debt_Documentation.md",
+        "ANNEXURES/SF1_Ketoni_Debt_FFT_Documentation.md",
         "ANNEXURES/SF3_Strategic_Logistics_Stock_Adjustment.md"
       ],
       "phase": "PHASE_3",
@@ -2329,11 +2355,13 @@
         "ANNEXURES/JF05 - Correspondence evidence",
         "ANNEXURES/JF03 - Financial records and analysis",
         "ANNEXURES/JF08 - Evidence packages",
-        "SF1_Bantjies_Debt_Documentation.md"
+        "SF1_Ketoni_Debt_FFT_Documentation.md"
       ],
       "criminal_significance": true,
       "burden_of_proof": "criminal_95",
-      "criminal_threshold": "yes"
+      "criminal_threshold": "yes",
+      "refinement_date": "2026-03-25T13:32:18.098809",
+      "victims": []
     },
     {
       "event_id": "EVENT_058",
@@ -2353,24 +2381,25 @@
       "legal_significance": "consciousness_of_guilt_fraud_concealment",
       "evidence": [
         "email_received_thanks_daniel_2025_08_29",
-        "JF08 - Recent evidence package",
-        "JF06 - Court documents"
+        "Supporting documentation",
+        "Cross-referenced evidence files"
       ],
       "pattern": "consolidation_phase",
       "critical": true,
       "timeline_phase": "PHASE_004",
       "ad_res_j7_evidence": [
         "ANNEXURES/JF08",
-        "ANNEXURES/SF1_Bantjies_Debt_Documentation.md - R18.685M conflict of interest",
+        "ANNEXURES/SF1_Bantjies has conflict of interest as CFO of George Group (whose CEO owns Ketoni which owes R18.75M to FFT)",
         "1-CIVIL-RESPONSE/SUPPORTING_AFFIDAVIT_BANTJIES_MEDICAL_TESTING.md - Bantjies conduct"
       ],
-      "evidence_enhanced": "2025-12-22T05:40:58.380394",
+      "evidence_enhanced": "2026-01-18T05:36:58.293446",
       "burden_of_proof": "civil_50%",
       "phase": "PHASE_3",
       "ad_res_j7_references": [
         "SF6_Kayla_Pretorius_Estate_Documentation.md",
-        "SF1_Bantjies_Debt_Documentation.md"
-      ]
+        "SF1_Ketoni_Debt_FFT_Documentation.md"
+      ],
+      "refinement_date": "2026-03-25T13:32:18.098809"
     },
     {
       "event_id": "EVENT_066",
@@ -2394,8 +2423,8 @@
       "significance": "Massive financial deterioration acknowledged by accountant; Bantjes dismisses detailed audit despite acknowledging losses",
       "evidence": [
         "Email: The RegimA Group results and Computer Expense analysis (2025-06-10)",
-        "JF08 - Recent evidence package",
-        "JF06 - Court documents"
+        "Supporting documentation",
+        "Cross-referenced evidence files"
       ],
       "timeline_phase": "PHASE_006",
       "related_events": [
@@ -2410,14 +2439,15 @@
       "ad_res_j7_evidence": [
         "ANNEXURES/JF08"
       ],
-      "evidence_enhanced": "2025-12-22T05:40:58.380426",
+      "evidence_enhanced": "2026-01-18T05:36:58.293447",
       "phase": "PHASE_3",
       "ad_res_j7_references": [
         "ANNEXURES/JF03 - Financial records and analysis",
         "ANNEXURES/JF08 - Evidence packages",
         "ANNEXURES/JF04 - Personal bank records"
       ],
-      "burden_of_proof": "civil_50%"
+      "burden_of_proof": "civil_50%",
+      "refinement_date": "2026-03-25T13:32:18.098809"
     },
     {
       "event_id": "EVENT_013",
@@ -2447,17 +2477,18 @@
       "crime_type": "Fiduciary duty breach, trust asset mismanagement",
       "ad_res_j7_evidence": [
         "ANNEXURES/JF06",
-        "ANNEXURES/SF1_Bantjies_Debt_Documentation.md"
+        "ANNEXURES/SF1_Ketoni_Debt_FFT_Documentation.md"
       ],
-      "evidence_enhanced": "2025-12-22T05:40:58.380395",
+      "evidence_enhanced": "2026-01-18T05:36:58.293449",
       "phase": "PHASE_3",
       "ad_res_j7_references": [
         "ANNEXURES/JF03 - Financial records and analysis",
-        "SF1_Bantjies_Debt_Documentation.md",
+        "SF1_Ketoni_Debt_FFT_Documentation.md",
         "ANNEXURES/JF10 - Trust documents"
       ],
       "burden_of_proof": "criminal_95",
-      "criminal_threshold": "yes"
+      "criminal_threshold": "yes",
+      "refinement_date": "2026-03-25T13:32:18.098809"
     },
     {
       "event_id": "EVENT_014",
@@ -2494,7 +2525,7 @@
         "revelation": "Email impersonation facilitated fraud related to Shopify platform Dan's UK company had been paying for since July 2023"
       },
       "crime_type": "Email hijacking, identity theft, business impersonation, computer fraud",
-      "evidence_enhanced": "2025-12-22T05:40:58.380396",
+      "evidence_enhanced": "2026-01-18T05:36:58.293451",
       "ad_res_j7_evidence": [
         "ANNEXURES/JF01",
         "ANNEXURES/JF02",
@@ -2508,7 +2539,8 @@
         "ANNEXURES/JF03 - Financial records and analysis"
       ],
       "criminal_significance": true,
-      "criminal_threshold": "yes"
+      "criminal_threshold": "yes",
+      "refinement_date": "2026-03-25T13:32:18.098809"
     },
     {
       "event_id": "EVENT_027",
@@ -2546,7 +2578,7 @@
         "revelation": "Email impersonation facilitated fraud related to Shopify platform Dan's UK company had been paying for since July 2023"
       },
       "crime_type": "Email hijacking, identity theft, business impersonation, computer fraud",
-      "evidence_enhanced": "2025-12-22T05:40:58.380398",
+      "evidence_enhanced": "2026-01-18T05:36:58.293452",
       "ad_res_j7_evidence": [
         "ANNEXURES/JF08"
       ],
@@ -2559,7 +2591,8 @@
       ],
       "criminal_significance": true,
       "burden_of_proof": "criminal_95",
-      "criminal_threshold": "yes"
+      "criminal_threshold": "yes",
+      "refinement_date": "2026-03-25T13:32:18.098809"
     },
     {
       "event_id": "EVENT_SF2A",
@@ -2574,8 +2607,8 @@
       ],
       "evidence": [
         "SF2A",
-        "JF08 - Recent evidence package",
-        "JF06 - Court documents"
+        "Bank transaction records",
+        "Email correspondence evidence"
       ],
       "legal_implications": [
         "Identity fraud",
@@ -2587,7 +2620,7 @@
       "ad_res_j7_evidence": [
         "ANNEXURES/JF08"
       ],
-      "evidence_enhanced": "2025-12-22T05:40:58.380439",
+      "evidence_enhanced": "2026-01-18T05:36:58.293454",
       "phase": "PHASE_3",
       "ad_res_j7_references": [
         "SF2_Sage_Screenshots_Rynette_Control.md",
@@ -2607,7 +2640,8 @@
         "PERSON_004",
         "ORG_001"
       ],
-      "criminal_threshold": "yes"
+      "criminal_threshold": "yes",
+      "refinement_date": "2026-03-25T13:32:18.098809"
     },
     {
       "event_id": "EVENT_064",
@@ -2632,8 +2666,8 @@
       "significance": "Retrospective preparation timing coincides with legal proceedings in case 2025-137857; suggests strategic document preparation for legal defense",
       "evidence": [
         "RegimaSA(Pty)Ltd-2019-Financialstatements-SME.pdf",
-        "JF08 - Recent evidence package",
-        "JF06 - Court documents"
+        "Supporting documentation",
+        "Cross-referenced evidence files"
       ],
       "timeline_phase": "PHASE_006",
       "related_events": [
@@ -2644,13 +2678,14 @@
       "ad_res_j7_evidence": [
         "ANNEXURES/JF08"
       ],
-      "evidence_enhanced": "2025-12-22T05:40:58.380423",
+      "evidence_enhanced": "2026-01-18T05:36:58.293456",
       "phase": "PHASE_3",
       "ad_res_j7_references": [
         "ANNEXURES/JF03 - Financial records and analysis",
         "ANNEXURES/JF08 - Evidence packages"
       ],
-      "burden_of_proof": "civil_50%"
+      "burden_of_proof": "civil_50%",
+      "refinement_date": "2026-03-25T13:32:18.098809"
     },
     {
       "event_id": "EVENT_015",
@@ -2692,7 +2727,7 @@
         "ANNEXURES/JF10",
         "ANNEXURES/SF2_Sage_Screenshots_Rynette_Control.md"
       ],
-      "evidence_enhanced": "2025-12-22T05:40:58.380399",
+      "evidence_enhanced": "2026-01-18T05:36:58.293458",
       "phase": "PHASE_3",
       "ad_res_j7_references": [
         "ANNEXURES/JF07 - Screenshots and visual evidence",
@@ -2703,7 +2738,8 @@
         "ANNEXURES/JF04 - Personal bank records"
       ],
       "burden_of_proof": "criminal_95",
-      "criminal_threshold": "yes"
+      "criminal_threshold": "yes",
+      "refinement_date": "2026-03-25T13:32:18.098809"
     },
     {
       "event_id": "EVENT_016",
@@ -2744,14 +2780,15 @@
         "ANNEXURES/JF02",
         "ANNEXURES/JF07"
       ],
-      "evidence_enhanced": "2025-12-22T05:40:58.380401",
+      "evidence_enhanced": "2026-01-18T05:36:58.293460",
       "phase": "PHASE_3",
       "ad_res_j7_references": [
         "ANNEXURES/JF01 - Shopify Plus email evidence",
         "ANNEXURES/JF03 - Financial records and analysis"
       ],
       "burden_of_proof": "criminal_95",
-      "criminal_threshold": "yes"
+      "criminal_threshold": "yes",
+      "refinement_date": "2026-03-25T13:32:18.098809"
     },
     {
       "event_id": "EVENT_017",
@@ -2791,7 +2828,7 @@
         "ANNEXURES/JF10",
         "ANNEXURES/SF2_Sage_Screenshots_Rynette_Control.md"
       ],
-      "evidence_enhanced": "2025-12-22T05:40:58.380402",
+      "evidence_enhanced": "2026-01-18T05:36:58.293461",
       "phase": "PHASE_3",
       "ad_res_j7_references": [
         "ANNEXURES/JF07 - Screenshots and visual evidence",
@@ -2802,7 +2839,8 @@
       ],
       "criminal_significance": true,
       "burden_of_proof": "criminal_95",
-      "criminal_threshold": "yes"
+      "criminal_threshold": "yes",
+      "refinement_date": "2026-03-25T13:32:18.098809"
     },
     {
       "event_id": "EVENT_065",
@@ -2830,7 +2868,7 @@
       ],
       "timeline_phase": "PHASE_006",
       "related_events": [],
-      "evidence_enhanced": "2025-12-22T05:40:58.380424",
+      "evidence_enhanced": "2026-01-18T05:36:58.293463",
       "ad_res_j7_evidence": [
         "ANNEXURES/JF08"
       ],
@@ -2840,7 +2878,8 @@
         "ANNEXURES/JF03 - Financial records and analysis",
         "ANNEXURES/JF07 - Screenshots and visual evidence"
       ],
-      "burden_of_proof": "civil_50%_exceeded"
+      "burden_of_proof": "civil_50%_exceeded",
+      "refinement_date": "2026-03-25T13:32:18.098809"
     },
     {
       "event_id": "EVENT_SF2B",
@@ -2855,8 +2894,8 @@
       ],
       "evidence": [
         "SF2B",
-        "JF08 - Recent evidence package",
-        "JF06 - Court documents"
+        "Supporting documentation",
+        "Cross-referenced evidence files"
       ],
       "legal_implications": [
         "Section 163 Companies Act - oppression",
@@ -2868,7 +2907,7 @@
       "ad_res_j7_evidence": [
         "ANNEXURES/JF08"
       ],
-      "evidence_enhanced": "2025-12-22T05:40:58.380441",
+      "evidence_enhanced": "2026-01-18T05:36:58.293465",
       "phase": "PHASE_3",
       "ad_res_j7_references": [
         "SF2_Sage_Screenshots_Rynette_Control.md",
@@ -2887,7 +2926,8 @@
         "PERSON_005",
         "PERSON_004",
         "ORG_001"
-      ]
+      ],
+      "refinement_date": "2026-03-25T13:32:18.098809"
     },
     {
       "event_id": "EVENT_018",
@@ -2918,18 +2958,19 @@
       "crime_type": "Trust asset theft, breach of fiduciary duty",
       "ad_res_j7_evidence": [
         "ANNEXURES/JF06",
-        "ANNEXURES/SF1_Bantjies_Debt_Documentation.md"
+        "ANNEXURES/SF1_Ketoni_Debt_FFT_Documentation.md"
       ],
-      "evidence_enhanced": "2025-12-22T05:40:58.380404",
+      "evidence_enhanced": "2026-01-18T05:36:58.293466",
       "phase": "PHASE_3",
       "ad_res_j7_references": [
         "ANNEXURES/JF03 - Financial records and analysis",
-        "SF1_Bantjies_Debt_Documentation.md",
+        "SF1_Ketoni_Debt_FFT_Documentation.md",
         "ANNEXURES/JF10 - Trust documents"
       ],
       "criminal_significance": true,
       "burden_of_proof": "criminal_95",
-      "criminal_threshold": "yes"
+      "criminal_threshold": "yes",
+      "refinement_date": "2026-03-25T13:32:18.098809"
     },
     {
       "event_id": "EVENT_019",
@@ -2959,16 +3000,17 @@
       "crime_type": "Continuing trust violations, evidence concealment",
       "ad_res_j7_evidence": [
         "ANNEXURES/JF06",
-        "ANNEXURES/SF1_Bantjies_Debt_Documentation.md"
+        "ANNEXURES/SF1_Ketoni_Debt_FFT_Documentation.md"
       ],
-      "evidence_enhanced": "2025-12-22T05:40:58.380405",
+      "evidence_enhanced": "2026-01-18T05:36:58.293468",
       "phase": "PHASE_3",
       "ad_res_j7_references": [
         "ANNEXURES/JF03 - Financial records and analysis",
-        "SF1_Bantjies_Debt_Documentation.md",
+        "SF1_Ketoni_Debt_FFT_Documentation.md",
         "ANNEXURES/JF10 - Trust documents"
       ],
-      "burden_of_proof": "civil_50%_exceeded"
+      "burden_of_proof": "civil_50%_exceeded",
+      "refinement_date": "2026-03-25T13:32:18.098809"
     },
     {
       "event_id": "EVENT_059",
@@ -2990,8 +3032,8 @@
       "legal_significance": "strategic_litigation_tactic_not_genuine_business_protection",
       "evidence": [
         "settlement_agreement_2025_08_11",
-        "JF08 - Recent evidence package",
-        "JF06 - Court documents"
+        "Supporting documentation",
+        "Cross-referenced evidence files"
       ],
       "pattern": "cover_up_phase",
       "critical": true,
@@ -2999,13 +3041,16 @@
       "ad_res_j7_evidence": [
         "ANNEXURES/JF08"
       ],
-      "evidence_enhanced": "2025-12-22T05:40:58.380407",
+      "evidence_enhanced": "2026-01-18T05:36:58.293470",
       "phase": "PHASE_3",
       "ad_res_j7_references": [
+        "ANNEXURES/JF06 - Court documents and filings",
+        "ANNEXURES/JF08/evidence_package_20251012 - Recent evidence",
         "ANNEXURES/JF06 - Court documents and filings"
       ],
       "burden_of_proof": "criminal_95",
-      "criminal_threshold": "yes"
+      "criminal_threshold": "yes",
+      "refinement_date": "2026-03-25T13:32:18.098809"
     },
     {
       "event_id": "EVENT_049",
@@ -3033,20 +3078,22 @@
         "JF08 - Evidence packages",
         "JF09 - Timeline analysis"
       ],
-      "evidence_enhanced": "2025-12-22T05:40:58.380408",
+      "evidence_enhanced": "2026-01-18T05:36:58.293471",
       "ad_res_j7_evidence": [
         "ANNEXURES/JF06",
-        "ANNEXURES/SF1_Bantjies_Debt_Documentation.md"
+        "ANNEXURES/SF1_Ketoni_Debt_FFT_Documentation.md"
       ],
       "phase": "PHASE_3",
       "ad_res_j7_references": [
         "ANNEXURES/JF08 - Evidence packages",
         "ANNEXURES/JF03 - Financial records and analysis",
-        "SF1_Bantjies_Debt_Documentation.md",
+        "SF1_Ketoni_Debt_FFT_Documentation.md",
         "ANNEXURES/JF10 - Trust documents",
         "ANNEXURES/JF06 - Court documents and filings"
       ],
-      "burden_of_proof": "civil_50%_exceeded"
+      "burden_of_proof": "civil_50%_exceeded",
+      "refinement_date": "2026-03-25T13:32:18.098809",
+      "victims": []
     },
     {
       "event_id": "EVENT_060",
@@ -3068,8 +3115,8 @@
       "legal_significance": "perjury_material_non_disclosure_manufactured_crisis",
       "evidence": [
         "founding_affidavit_2025_08_13",
-        "JF08 - Recent evidence package",
-        "JF06 - Court documents"
+        "Supporting documentation",
+        "Cross-referenced evidence files"
       ],
       "pattern": "cover_up_phase",
       "critical": true,
@@ -3077,13 +3124,16 @@
       "ad_res_j7_evidence": [
         "ANNEXURES/JF08"
       ],
-      "evidence_enhanced": "2025-12-22T05:40:58.380412",
+      "evidence_enhanced": "2026-01-18T05:36:58.293473",
       "phase": "PHASE_3",
       "ad_res_j7_references": [
+        "ANNEXURES/JF06 - Court documents and filings",
+        "ANNEXURES/JF08/evidence_package_20251012 - Recent evidence",
         "ANNEXURES/JF06 - Court documents and filings"
       ],
       "burden_of_proof": "criminal_95",
-      "criminal_threshold": "yes"
+      "criminal_threshold": "yes",
+      "refinement_date": "2026-03-25T13:32:18.098809"
     },
     {
       "event_id": "EVENT_026",
@@ -3104,8 +3154,8 @@
       "legal_significance": "witness_testimony_confirming_customer_hijacking",
       "evidence": [
         "gee_email_to_jax",
-        "JF08 - Recent evidence package",
-        "JF06 - Court documents"
+        "Bank transaction records",
+        "Email correspondence evidence"
       ],
       "pattern": "cover_up_phase",
       "timeline_phase": "PHASE_006",
@@ -3114,13 +3164,16 @@
         "ANNEXURES/JF02",
         "ANNEXURES/JF07"
       ],
-      "evidence_enhanced": "2025-12-22T05:40:58.380413",
+      "evidence_enhanced": "2026-01-18T05:36:58.293475",
       "phase": "PHASE_3",
       "ad_res_j7_references": [
-        "ANNEXURES/JF03 - Financial records and analysis"
+        "ANNEXURES/JF03 - Financial records and analysis",
+        "ANNEXURES/JF08/evidence_package_20251012 - Recent evidence",
+        "ANNEXURES/JF06 - Court documents and filings"
       ],
       "burden_of_proof": "criminal_95",
-      "criminal_threshold": "yes"
+      "criminal_threshold": "yes",
+      "refinement_date": "2026-03-25T13:32:18.098809"
     },
     {
       "event_id": "EVENT_020",
@@ -3161,7 +3214,7 @@
         "ANNEXURES/JF10",
         "ANNEXURES/SF2_Sage_Screenshots_Rynette_Control.md"
       ],
-      "evidence_enhanced": "2025-12-22T05:40:58.380415",
+      "evidence_enhanced": "2026-01-18T05:36:58.293476",
       "phase": "PHASE_3",
       "ad_res_j7_references": [
         "SF2_Sage_Screenshots_Rynette_Control.md",
@@ -3170,7 +3223,8 @@
         "ANNEXURES/JF03 - Financial records and analysis"
       ],
       "burden_of_proof": "criminal_95",
-      "criminal_threshold": "yes"
+      "criminal_threshold": "yes",
+      "refinement_date": "2026-03-25T13:32:18.098809"
     },
     {
       "event_id": "EVENT_061",
@@ -3185,13 +3239,16 @@
         "PERSON_004",
         "PERSON_005"
       ],
-      "entities_involved": [],
+      "entities_involved": [
+        "PERSON_005",
+        "PERSON_TB_002"
+      ],
       "description": "ENS Africa acknowledges receipt of criminal matters information with 'Received, thanks Daniel' email, then suppresses this information from Court",
       "legal_significance": "professional_misconduct_evidence_suppression",
       "evidence": [
         "email_received_thanks_daniel_2025_08_29",
-        "JF08 - Recent evidence package",
-        "JF06 - Court documents"
+        "Supporting documentation",
+        "Cross-referenced evidence files"
       ],
       "pattern": "cover_up_phase",
       "critical": true,
@@ -3199,12 +3256,15 @@
       "ad_res_j7_evidence": [
         "ANNEXURES/JF08"
       ],
-      "evidence_enhanced": "2025-12-22T05:40:58.380416",
+      "evidence_enhanced": "2026-01-18T05:36:58.293478",
       "phase": "PHASE_3",
       "ad_res_j7_references": [
+        "ANNEXURES/JF06 - Court documents and filings",
+        "ANNEXURES/JF08/evidence_package_20251012 - Recent evidence",
         "ANNEXURES/JF06 - Court documents and filings"
       ],
-      "burden_of_proof": "civil_50%"
+      "burden_of_proof": "civil_50%",
+      "refinement_date": "2026-03-25T13:32:18.098809"
     },
     {
       "event_id": "EVENT_021",
@@ -3237,7 +3297,7 @@
         "ANNEXURES/JF10",
         "ANNEXURES/SF2_Sage_Screenshots_Rynette_Control.md"
       ],
-      "evidence_enhanced": "2025-12-22T05:40:58.380418",
+      "evidence_enhanced": "2026-01-18T05:36:58.293480",
       "phase": "PHASE_3",
       "ad_res_j7_references": [
         "SF2_Sage_Screenshots_Rynette_Control.md",
@@ -3246,7 +3306,8 @@
         "ANNEXURES/JF04 - Personal bank records"
       ],
       "burden_of_proof": "criminal_95",
-      "criminal_threshold": "yes"
+      "criminal_threshold": "yes",
+      "refinement_date": "2026-03-25T13:32:18.098809"
     },
     {
       "event_id": "EVENT_SF9",
@@ -3263,8 +3324,8 @@
       ],
       "evidence": [
         "SF9",
-        "JF08 - Recent evidence package",
-        "JF06 - Court documents"
+        "Supporting documentation",
+        "Cross-referenced evidence files"
       ],
       "legal_implications": [
         "Establishes quantum of claim",
@@ -3278,7 +3339,7 @@
         "ANNEXURES/JF06",
         "1-CIVIL-RESPONSE"
       ],
-      "evidence_enhanced": "2025-12-22T05:40:58.380438",
+      "evidence_enhanced": "2026-01-18T05:36:58.293481",
       "phase": "PHASE_3",
       "ad_res_j7_references": [
         "ANNEXURES/JF06 - Court documents and filings",
@@ -3298,197 +3359,2258 @@
       "victims": [
         "PERSON_005",
         "PERSON_004"
-      ]
+      ],
+      "refinement_date": "2026-03-25T13:32:18.098809"
     },
     {
-      "event_id": "EVENT_FNB_001",
-      "date": "2025-06-17",
-      "title": "Peter Faucitt Writes FNB Fraud Letter - Acknowledges Suspected Fraud",
-      "category": "fraud_acknowledgment",
-      "event_type": "director_admission",
-      "perpetrators": [],
-      "victims": [],
+      "event_id": "EVENT_CIPC_001",
+      "date": "1992-02-26",
+      "event_type": "company_formation",
+      "title": "RegimA Skin Treatments CC Formation",
+      "description": "Original RegimA business entity formed as Close Corporation. Peter Faucitt as founding member.",
+      "actors": [
+        "PERSON_001"
+      ],
+      "entities": [
+        "ORG_002"
+      ],
+      "evidence": [
+        "CIPC WinDeed Report 293349755"
+      ],
+      "burden_of_proof": "verified_cipc_record",
+      "criminal_threshold": false,
+      "civil_threshold": false,
+      "source_document": "CIPC WinDeed 2021-11-19",
+      "added_date": "2026-01-09T06:57:36.207479",
+      "ad_res_j7_evidence": [
+        "ANNEXURES/JF08"
+      ],
+      "ad_res_j7_references": [
+        "ANNEXURES/JF03 - Financial records and analysis",
+        "ANNEXURES/JF08/evidence_package_20251012 - Historical timeline"
+      ],
+      "evidence_enhanced": "2026-01-18T05:36:58.293484",
+      "refinement_date": "2026-03-25T13:32:18.098809",
       "entities_involved": [
         "PERSON_001",
-        "ORG_001",
-        "BANK_001"
+        "ORG_002"
       ],
-      "description": "Peter Faucitt writes formal letter to FNB (Nondu Motlhala) regarding suspected fraud on RWD account 62323196362. Letter confirms: (1) Prior written request to cancel 3 debit cards due to suspected fraud, (2) Concern about 'perpetuation of suspected fraud', (3) Warning to FNB about being 'accessory after the fact', (4) Acknowledgment of potential Exchange Control Regulations violations due to 'dollar-based subscription expense'. This letter was written 11 days after Dan exposed fraud to Bantjies (2025-06-06) and 10 days after secret card cancellations (2025-06-07).",
-      "financial_impact": "unknown_amount",
-      "legal_significance": "CRITICAL: Director's written acknowledgment of suspected fraud on company account",
-      "significance": "CRITICAL: Peter's own letter admits suspected fraud, contradicting his court filings where he claims Dan and Jax are perpetrators. Also acknowledges potential Exchange Control violations.",
-      "evidence": [
-        "PAF_FNB_FRAUD_LETTER_2025_06_17.jpg",
-        "PAF_FNB_FRAUD_LETTER_2025_06_17_OCR.md"
-      ],
-      "evidence_location": "evidence/FNB_FRAUD_LETTER_2025_06_17/",
-      "pattern": "fraud_acknowledgment_by_perpetrator",
-      "timeline_phase": "PHASE_3",
-      "phase": "PHASE_3",
-      "ad_res_j7_evidence": [],
-      "evidence_enhanced": "2026-01-29T03:13:35.855285",
-      "burden_of_proof": "civil_50%_exceeded",
-      "criminal_threshold": "95%_strengthened",
-      "related_events": [
-        "EVENT_011",
-        "EVENT_057",
-        "EVENT_012"
-      ],
-      "key_admissions": [
-        "Suspected fraud on RWD account",
-        "Prior request to cancel 3 debit cards",
-        "Concern about fraud perpetuation",
-        "FNB could be accessory after the fact",
-        "Potential Exchange Control violations",
-        "Dollar-based subscription expenses"
-      ],
-      "contradictions_with_court_filings": [
-        "Peter claims Dan and Jax are perpetrators in court",
-        "This letter shows Peter was aware of fraud on RWD account",
-        "Peter was taking action to stop fraud",
-        "Peter acknowledged company may be transgressing Exchange Control"
-      ],
-      "letterhead_details": {
-        "company": "RegimA Worldwide Distribution (Pty) Ltd",
-        "co_reg": "2011/005722/07",
-        "vat_no": "4320262621",
-        "email": "rynette@regima.zone",
-        "head_office": "50 Van Buuren Road, Bedfordview, 2008",
-        "physical_address": "20 River Road, Morninghill, Bedfordview, 2007, RSA"
-      },
-      "recipient": {
-        "name": "Nondu Motlhala",
-        "organization": "FNB"
-      },
-      "account_number": "62323196362",
-      "timing_analysis": {
-        "days_after_fraud_exposure": 11,
-        "days_after_card_cancellation": 10,
-        "t_minus_ketoni_payout": "T-11 months"
-      }
+      "perpetrators": [],
+      "victims": []
     },
     {
-      "event_id": "EVENT_FNB_002",
-      "date": "2025-06-18",
-      "title": "FNB Declines Meeting - Bank Mandate Allows Independent Director Action",
-      "description": "FNB's Business Relationship Manager Mpumi Netshipale responds to Peter and Jacqui, stating that following engagement with FNB's legal department, no meeting is necessary as FNB cannot be held liable for acting in accordance with a validly signed mandate. The email reveals that 'the current mandate states that any of the directors of the company may act independently of each other.'",
-      "category": "BANKING_MANDATE",
-      "severity": "HIGH",
-      "evidence_strength": "CONCLUSIVE",
+      "event_id": "EVENT_CIPC_002",
+      "date": "2011-03-11",
+      "event_type": "shelf_company_acquisition",
+      "title": "RWD Shelf Company Acquisition",
+      "description": "RegimA Worldwide Distribution acquired as shelf company (formerly Clear Creek Trading 139). Attorney Christian Gouws resigned same day - indicating pre-arranged shelf company transfer.",
       "actors": [
         "PERSON_001",
-        "PERSON_003",
-        "ORG_FNB"
+        "PERSON_004",
+        "PERSON_005",
+        "PERSON_017"
       ],
-      "evidence_refs": [
-        "FNB_RESPONSE_EMAIL_2025_06_18"
+      "entities": [
+        "ORG_001"
       ],
-      "related_events": [
-        "EVENT_FNB_001",
-        "EVENT_012"
+      "evidence": [
+        "CIPC WinDeed Report 293348688"
       ],
-      "legal_implications": [
-        "Bank mandate confirms independent director authority",
-        "FNB legal department reviewed and approved their position",
-        "Directors must pass resolution to change mandate",
-        "Corporate governance structure documented"
+      "burden_of_proof": "verified_cipc_record",
+      "criminal_threshold": false,
+      "civil_threshold": false,
+      "additional_notes": "Resignation date (2011-03-10) before registration date (2011-03-11) indicates shelf company transfer",
+      "source_document": "CIPC WinDeed 2021-11-19",
+      "added_date": "2026-01-09T06:57:36.207479",
+      "ad_res_j7_evidence": [
+        "ANNEXURES/JF08"
       ],
-      "cross_references": {
-        "entities": [
-          "PERSON_001",
-          "PERSON_003",
-          "ORG_FNB",
-          "ORG_RWD"
-        ],
-        "relations": [
-          "REL_FNB_001",
-          "REL_FNB_002"
-        ],
-        "timeline": "2025-06-18"
-      }
+      "ad_res_j7_references": [
+        "ANNEXURES/JF03 - Financial records and analysis",
+        "ANNEXURES/JF08/evidence_package_20251012 - Historical timeline"
+      ],
+      "evidence_enhanced": "2026-01-18T05:36:58.293486",
+      "refinement_date": "2026-03-25T13:32:18.098809",
+      "entities_involved": [
+        "PERSON_017"
+      ],
+      "perpetrators": [],
+      "victims": []
+    },
+    {
+      "event_id": "EVENT_CIPC_003",
+      "date": "2016-07-19",
+      "event_type": "ownership_change",
+      "title": "Strategic Logistics Ownership Restructure",
+      "description": "Jacqueline and Peter Faucitt added as 33% members each to Strategic Logistics CC, changing the ownership structure.",
+      "actors": [
+        "PERSON_001",
+        "PERSON_004"
+      ],
+      "entities": [
+        "ORG_004"
+      ],
+      "evidence": [
+        "CIPC WinDeed Report 293349762"
+      ],
+      "burden_of_proof": "verified_cipc_record",
+      "criminal_threshold": false,
+      "civil_threshold": false,
+      "source_document": "CIPC WinDeed 2021-11-19",
+      "added_date": "2026-01-09T06:57:36.207479",
+      "ad_res_j7_evidence": [
+        "ANNEXURES/JF08"
+      ],
+      "ad_res_j7_references": [
+        "ANNEXURES/JF03 - Financial records and analysis",
+        "ANNEXURES/JF08/evidence_package_20251012 - Historical timeline"
+      ],
+      "evidence_enhanced": "2026-01-18T05:36:58.293488",
+      "refinement_date": "2026-03-25T13:32:18.098809",
+      "entities_involved": [
+        "PERSON_001",
+        "PERSON_004"
+      ],
+      "perpetrators": [],
+      "victims": []
+    },
+    {
+      "event_id": "EVENT_CIPC_004",
+      "date": "2017-04-04",
+      "event_type": "company_formation",
+      "title": "Daniel's 2017 Company Formation Spree",
+      "description": "Daniel James Faucitt registered multiple companies in April-May 2017: ReZonance, RegimA Medic, RegimA Zone Academy, RegimA SA, RegimA Zone, RegimA SpaZone.",
+      "actors": [
+        "PERSON_005"
+      ],
+      "entities": [],
+      "evidence": [
+        "CIPC WinDeed Report 293349141"
+      ],
+      "burden_of_proof": "verified_cipc_record",
+      "criminal_threshold": false,
+      "civil_threshold": false,
+      "significance": "Establishes Daniel's independent business development efforts",
+      "source_document": "CIPC WinDeed 2021-11-19",
+      "added_date": "2026-01-09T06:57:36.207479",
+      "ad_res_j7_evidence": [
+        "ANNEXURES/JF08"
+      ],
+      "ad_res_j7_references": [
+        "ANNEXURES/JF03 - Financial records and analysis",
+        "ANNEXURES/JF08/evidence_package_20251012 - Historical timeline"
+      ],
+      "evidence_enhanced": "2026-01-18T05:36:58.293489",
+      "refinement_date": "2026-03-25T13:32:18.098809",
+      "entities_involved": [
+        "PERSON_005",
+        "PERSON_TB_002",
+        "ORG_006",
+        "ORG_019",
+        "ORG_020"
+      ],
+      "perpetrators": [],
+      "victims": []
+    },
+    {
+      "event_id": "EVENT_CIPC_005",
+      "date": "2019-10-22",
+      "event_type": "potential_connection",
+      "title": "ALOECO Registration with Shared Address",
+      "description": "ALOECO (SA) registered by Alan Peter Louw and Martin Carlo Rizzotto. Directors use PO Box 9477 Edenglen - same postal address area as Faucitt companies (PO Box 9523 Edenglen).",
+      "actors": [
+        "PERSON_015",
+        "PERSON_016"
+      ],
+      "entities": [
+        "ORG_015"
+      ],
+      "evidence": [
+        "CIPC WinDeed Report 293350058",
+        "CIPC WinDeed Report 293348688"
+      ],
+      "burden_of_proof": "verified_cipc_record",
+      "criminal_threshold": false,
+      "civil_threshold": false,
+      "significance": "Potential business connection requiring investigation",
+      "requires_investigation": true,
+      "source_document": "CIPC WinDeed 2021-11-19",
+      "added_date": "2026-01-09T06:57:36.207479",
+      "ad_res_j7_evidence": [
+        "ANNEXURES/JF08"
+      ],
+      "ad_res_j7_references": [
+        "ANNEXURES/JF03 - Financial records and analysis",
+        "ANNEXURES/JF08/evidence_package_20251012 - Historical timeline"
+      ],
+      "evidence_enhanced": "2026-01-18T05:36:58.293491",
+      "refinement_date": "2026-03-25T13:32:18.098809",
+      "entities_involved": [
+        "PERSON_001",
+        "PERSON_015",
+        "PERSON_016",
+        "ORG_042"
+      ],
+      "perpetrators": [],
+      "victims": []
     },
     {
       "event_id": "EVENT_092",
-      "date": "2023-02-20",
-      "description": "Ketoni Investment Holdings incorporated (Reg 2023/562189/07)",
-      "category": "Corporate",
+      "type": "company_formation",
+      "date": "2017-02-22",
+      "description": "Rezonance registered as shelf company by Dennis Bishop",
+      "entities": [
+        "Rezonance",
+        "Dennis Jacobus Bishop"
+      ],
+      "source": "293355407.Pdf",
+      "significance": "Shelf company later transferred to Daniel Faucitt and Kayla Pretorius",
       "evidence": [
-        "KET-03",
-        "CIPC records"
-      ]
+        "financial_records",
+        "transaction_documentation"
+      ],
+      "ad_res_j7_evidence": [
+        "ANNEXURES/JF08"
+      ],
+      "ad_res_j7_references": [
+        "ANNEXURES/JF03 - Financial records and analysis",
+        "ANNEXURES/JF08/evidence_package_20251012 - Historical timeline"
+      ],
+      "evidence_enhanced": "2026-01-18T05:36:58.293493",
+      "burden_of_proof": "to_be_verified",
+      "refinement_date": "2026-03-25T13:32:18.098809",
+      "entities_involved": [
+        "PERSON_023",
+        "ORG_019"
+      ],
+      "perpetrators": [],
+      "victims": []
     },
     {
       "event_id": "EVENT_093",
-      "date": "2023-03-15",
-      "description": "Bantjies arranges meeting: Pete, Kevin Derrick, David Field for 2023-03-23",
-      "category": "Meeting",
+      "type": "company_formation",
+      "date": "2017-02-27",
+      "description": "RegimA Medic registered as shelf company by Dennis Bishop",
+      "entities": [
+        "RegimA Medic",
+        "Dennis Jacobus Bishop"
+      ],
+      "source": "293355412.Pdf",
+      "significance": "Shelf company later transferred to Faucitt family",
       "evidence": [
-        "KET-06"
-      ]
+        "financial_records",
+        "transaction_documentation"
+      ],
+      "ad_res_j7_evidence": [
+        "ANNEXURES/JF08"
+      ],
+      "ad_res_j7_references": [
+        "ANNEXURES/JF03 - Financial records and analysis",
+        "ANNEXURES/JF08/evidence_package_20251012 - Historical timeline"
+      ],
+      "evidence_enhanced": "2026-01-18T05:36:58.293496",
+      "burden_of_proof": "to_be_verified",
+      "refinement_date": "2026-03-25T13:32:18.098809",
+      "entities_involved": [
+        "PERSON_023",
+        "ORG_020"
+      ],
+      "perpetrators": [],
+      "victims": []
     },
     {
       "event_id": "EVENT_094",
-      "date": "2023-04-19",
-      "description": "Baker McKenzie (Marc Yudaken) sends Ketoni Investment Holdings documents to Kayla, Rynette",
-      "category": "Legal",
+      "type": "ownership_transfer",
+      "date": "2017-04-04",
+      "description": "Rezonance transferred from Dennis Bishop to Daniel Faucitt and Kayla Pretorius",
+      "entities": [
+        "Rezonance",
+        "Daniel James Faucitt",
+        "Kayla Pretorius",
+        "Dennis Jacobus Bishop"
+      ],
+      "source": "293355407.Pdf",
+      "significance": "Daniel and Kayla's personal company",
       "evidence": [
-        "KET-05"
-      ]
+        "financial_records",
+        "transaction_documentation"
+      ],
+      "ad_res_j7_evidence": [
+        "ANNEXURES/JF08"
+      ],
+      "ad_res_j7_references": [
+        "ANNEXURES/JF03 - Financial records and analysis",
+        "ANNEXURES/JF08/evidence_package_20251012 - Historical timeline"
+      ],
+      "evidence_enhanced": "2026-01-18T05:36:58.293498",
+      "burden_of_proof": "to_be_verified",
+      "refinement_date": "2026-03-25T13:32:18.098809",
+      "entities_involved": [
+        "PERSON_005",
+        "PERSON_TB_002",
+        "PERSON_013",
+        "PERSON_023",
+        "ORG_019"
+      ],
+      "perpetrators": [],
+      "victims": []
     },
     {
       "event_id": "EVENT_095",
-      "date": "2023-04-24",
-      "description": "FFT subscribes for 5,000 A-Ordinary Shares in Ketoni for R9,800,000",
-      "category": "Investment",
+      "type": "ownership_transfer",
+      "date": "2017-04-10",
+      "description": "RegimA Medic transferred from Dennis Bishop to Faucitt family",
+      "entities": [
+        "RegimA Medic",
+        "Daniel James Faucitt",
+        "John Leslie Knowlton",
+        "Dennis Jacobus Bishop"
+      ],
+      "source": "293355412.Pdf",
+      "significance": "Medical skincare company under Faucitt family control",
       "evidence": [
-        "KET-01",
-        "KET-02"
-      ]
+        "financial_records",
+        "transaction_documentation"
+      ],
+      "ad_res_j7_evidence": [
+        "ANNEXURES/JF08"
+      ],
+      "ad_res_j7_references": [
+        "ANNEXURES/JF03 - Financial records and analysis",
+        "ANNEXURES/JF08/evidence_package_20251012 - Historical timeline"
+      ],
+      "evidence_enhanced": "2026-01-18T05:36:58.293499",
+      "burden_of_proof": "to_be_verified",
+      "refinement_date": "2026-03-25T13:32:18.098809",
+      "entities_involved": [
+        "PERSON_023",
+        "ORG_020"
+      ],
+      "perpetrators": [],
+      "victims": []
     },
     {
       "event_id": "EVENT_096",
-      "date": "2023-05-03",
-      "description": "Rynette returns signed Trust Minutes for Ketoni investment to Bantjies",
-      "category": "Trust",
+      "type": "industry_report",
+      "date": "2017-11-14",
+      "description": "Who Owns Whom Cosmetics Industry report published listing RegimA International Skin Treatments CC",
+      "entities": [
+        "RegimA International Skin Treatments CC",
+        "Jacqueline Faucitt",
+        "Peter Andrew Faucitt",
+        "Bernadine Wright"
+      ],
+      "source": "TheCosmeticsIndustry(2017-11-14).pdf",
+      "significance": "Independent industry verification of RegimA operations - 15 employees, FNB bank",
       "evidence": [
-        "KET-04"
-      ]
+        "financial_records",
+        "transaction_documentation"
+      ],
+      "ad_res_j7_evidence": [
+        "ANNEXURES/JF08"
+      ],
+      "ad_res_j7_references": [
+        "ANNEXURES/JF03 - Financial records and analysis",
+        "ANNEXURES/JF08/evidence_package_20251012 - Historical timeline"
+      ],
+      "evidence_enhanced": "2026-01-18T05:36:58.293501",
+      "burden_of_proof": "to_be_verified",
+      "refinement_date": "2026-03-25T13:32:18.098809",
+      "entities_involved": [
+        "ORG_030"
+      ],
+      "perpetrators": [],
+      "victims": []
     },
     {
       "event_id": "EVENT_097",
-      "date": "2023-05-09",
-      "description": "Bantjies instructs Rynette to allocate the R9.8M Ketoni payment to Pete's personal shareholder loan account",
-      "category": "Accounting Irregularity",
+      "type": "liquidation",
+      "date": "1999-05-25",
+      "description": "S A Logistic Services enters liquidation",
+      "entities": [
+        "S A Logistic Services",
+        "Alan Peter Louw"
+      ],
+      "source": "293351608.Pdf",
+      "significance": "Louw's logistics company liquidated",
       "evidence": [
-        "KET-06"
-      ]
+        "financial_records",
+        "transaction_documentation"
+      ],
+      "ad_res_j7_evidence": [
+        "ANNEXURES/JF08"
+      ],
+      "ad_res_j7_references": [
+        "ANNEXURES/JF03 - Financial records and analysis",
+        "ANNEXURES/JF08/evidence_package_20251012 - Historical timeline"
+      ],
+      "evidence_enhanced": "2026-01-18T05:36:58.293503",
+      "burden_of_proof": "to_be_verified",
+      "refinement_date": "2026-03-25T13:32:18.098809",
+      "entities_involved": [
+        "ORG_021"
+      ],
+      "perpetrators": [],
+      "victims": []
     },
     {
       "event_id": "EVENT_098",
-      "date": "2024-07-01",
-      "description": "Bantjies appointed as Trustee of FFT (unlawfully by Rynette), creating a major conflict of interest",
-      "category": "Conflict of Interest",
+      "type": "network_connection",
+      "date": "2018-08-01",
+      "description": "Rizzotto joins Louw's ALOECO (SA) CC as 49% member",
+      "entities": [
+        "Martin Carlo Rizzotto",
+        "Alan Peter Louw",
+        "ALOECO (SA) - CC 2006"
+      ],
+      "source": "293351612.Pdf",
+      "significance": "Formalizes Louw-Rizzotto business partnership",
       "evidence": [
-        "KET-11"
-      ]
+        "financial_records",
+        "transaction_documentation"
+      ],
+      "ad_res_j7_evidence": [
+        "ANNEXURES/JF08"
+      ],
+      "ad_res_j7_references": [
+        "ANNEXURES/JF03 - Financial records and analysis",
+        "ANNEXURES/JF08/evidence_package_20251012 - Historical timeline"
+      ],
+      "evidence_enhanced": "2026-01-18T05:36:58.293515",
+      "burden_of_proof": "to_be_verified",
+      "refinement_date": "2026-03-25T13:32:18.098809",
+      "entities_involved": [
+        "ORG_042"
+      ],
+      "perpetrators": [],
+      "victims": []
     },
     {
-      "event_id": "EVENT_099",
-      "date": "2026-01-07",
-      "description": "Jax demands full Ketoni and George Group documents from Bantjies",
-      "category": "Discovery",
+      "event_id": "EVENT_99",
+      "date": "2019-11-22",
+      "event_type": "bond_registration",
+      "description": "RegimA Skin Treatments CC registers R3,110,000 bond on Karen Avnit's property",
+      "entities": [
+        "RegimA Skin Treatments CC",
+        "Karen Patricia Avnit"
+      ],
+      "property": "SS Forest Lodge 173, Unit 4",
+      "amount": "R3,110,000",
+      "document": "SB48685/2019",
+      "significance": "Evidence of RST providing financing to distributors",
       "evidence": [
-        "KET-08"
-      ]
+        "293344692-Property-KarenAvnit.Pdf",
+        "293347244-List-Deeds-SB48685-2019.Pdf"
+      ],
+      "evidence_strength": "conclusive",
+      "ad_res_j7_evidence": [
+        "ANNEXURES/JF08"
+      ],
+      "ad_res_j7_references": [
+        "ANNEXURES/JF03 - Financial records and analysis",
+        "ANNEXURES/JF08/evidence_package_20251012 - Historical timeline"
+      ],
+      "evidence_enhanced": "2026-01-18T05:36:58.293522",
+      "burden_of_proof": "to_be_verified",
+      "refinement_date": "2026-03-25T13:32:18.098809",
+      "entities_involved": [
+        "PERSON_31",
+        "ORG_002"
+      ],
+      "perpetrators": [],
+      "victims": []
     },
     {
       "event_id": "EVENT_100",
-      "date": "2026-01-16",
-      "description": "Jax requests share certificates, stating she has never been given them",
-      "category": "Beneficiary Exclusion",
+      "date": "2006-03-16",
+      "event_type": "company_registration",
+      "description": "Dermal Skin Treatments Cape Town CC registered",
+      "entities": [
+        "Barend Thomas Nortje",
+        "Sharon Nortje"
+      ],
+      "registration_number": "2006/040838/23",
+      "region": "Western Cape",
       "evidence": [
-        "KET-08"
+        "293337582-Company-DermalSkinTreatmentsCapeTown.Pdf"
+      ],
+      "evidence_strength": "strong",
+      "ad_res_j7_evidence": [
+        "ANNEXURES/JF08"
+      ],
+      "ad_res_j7_references": [
+        "ANNEXURES/JF03 - Financial records and analysis",
+        "ANNEXURES/JF08/evidence_package_20251012 - Historical timeline"
+      ],
+      "evidence_enhanced": "2026-01-18T05:36:58.293525",
+      "burden_of_proof": "to_be_verified",
+      "refinement_date": "2026-03-25T13:32:18.098809",
+      "entities_involved": [
+        "ORG_32",
+        "ORG_TB_001"
+      ],
+      "perpetrators": [],
+      "victims": []
+    },
+    {
+      "event_id": "EVENT_101",
+      "date": "2005-09-29",
+      "event_type": "company_registration",
+      "description": "Kachan Marketing and Distribution CC registered",
+      "entities": [
+        "Karen Patricia Avnit"
+      ],
+      "registration_number": "2005/138571/23",
+      "region": "Gauteng",
+      "evidence": [
+        "293340322-Company-KachanMarketingandDistribution.Pdf"
+      ],
+      "evidence_strength": "strong",
+      "ad_res_j7_evidence": [
+        "ANNEXURES/JF08"
+      ],
+      "ad_res_j7_references": [
+        "ANNEXURES/JF03 - Financial records and analysis",
+        "ANNEXURES/JF08/evidence_package_20251012 - Historical timeline"
+      ],
+      "evidence_enhanced": "2026-01-18T05:36:58.293527",
+      "burden_of_proof": "to_be_verified",
+      "refinement_date": "2026-03-25T13:32:18.098809",
+      "entities_involved": [
+        "ORG_33"
+      ],
+      "perpetrators": [],
+      "victims": []
+    },
+    {
+      "event_id": "EVENT_102",
+      "date": "2015-07-08",
+      "event_type": "company_registration",
+      "description": "Dandelion SA (formerly K Rae Enterprises) registered",
+      "entities": [
+        "Kirby Rae Van Der Stelt"
+      ],
+      "registration_number": "2015/230152/07",
+      "evidence": [
+        "293342245-Company-DandelionSA.Pdf"
+      ],
+      "evidence_strength": "strong",
+      "ad_res_j7_evidence": [
+        "ANNEXURES/JF08"
+      ],
+      "ad_res_j7_references": [
+        "ANNEXURES/JF03 - Financial records and analysis",
+        "ANNEXURES/JF08/evidence_package_20251012 - Historical timeline"
+      ],
+      "evidence_enhanced": "2026-01-18T05:36:58.293529",
+      "burden_of_proof": "to_be_verified",
+      "refinement_date": "2026-03-25T13:32:18.098809",
+      "entities_involved": [
+        "ORG_34"
+      ],
+      "perpetrators": [],
+      "victims": []
+    },
+    {
+      "event_id": "EVENT_103",
+      "date": "2017-09-27",
+      "event_type": "company_registration",
+      "description": "Bertani International Global registered",
+      "entities": [
+        "Dante Bertani"
+      ],
+      "registration_number": "2017/424081/07",
+      "evidence": [
+        "293342878-Company-BertaniInternationalGlobal.Pdf"
+      ],
+      "evidence_strength": "strong",
+      "ad_res_j7_evidence": [
+        "ANNEXURES/JF08"
+      ],
+      "ad_res_j7_references": [
+        "ANNEXURES/JF03 - Financial records and analysis",
+        "ANNEXURES/JF08/evidence_package_20251012 - Historical timeline"
+      ],
+      "evidence_enhanced": "2026-01-18T05:36:58.293531",
+      "burden_of_proof": "to_be_verified",
+      "refinement_date": "2026-03-25T13:32:18.098809",
+      "entities_involved": [
+        "ORG_35"
+      ],
+      "perpetrators": [],
+      "victims": []
+    },
+    {
+      "event_id": "EVENT_104",
+      "date": "2000-05-31",
+      "event_type": "company_registration",
+      "description": "George Endermologie Clinic CC registered",
+      "entities": [
+        "Catherina Elizabeth Schmidt"
+      ],
+      "registration_number": "2000/028557/23",
+      "region": "Western Cape",
+      "evidence": [
+        "293332765-Company-GeorgeEndermologieClinic.Pdf"
+      ],
+      "evidence_strength": "moderate",
+      "ad_res_j7_evidence": [
+        "ANNEXURES/JF08"
+      ],
+      "ad_res_j7_references": [
+        "ANNEXURES/JF03 - Financial records and analysis",
+        "ANNEXURES/JF08/evidence_package_20251012 - Historical timeline"
+      ],
+      "evidence_enhanced": "2026-01-18T05:36:58.293533",
+      "burden_of_proof": "to_be_verified",
+      "refinement_date": "2026-03-25T13:32:18.098809",
+      "entities_involved": [
+        "ORG_36",
+        "ORG_TB_001"
+      ],
+      "perpetrators": [],
+      "victims": []
+    },
+    {
+      "event_id": "EVENT_KETONI_CERT",
+      "date": "2023-04-24",
+      "event_type": "investment",
+      "category": "financial_structure",
+      "title": "FFT Receives Ketoni Share Certificate #3",
+      "description": "Faucitt Family Trust receives Share Certificate #3 for 5,000 A-Ordinary shares in Ketoni Investment Holdings. This establishes the ZAR 18.75M entitlement (May 2026 payout option).",
+      "entities_involved": [
+        "TRUST_001",
+        "ORG_KETONI"
+      ],
+      "perpetrators": [],
+      "victims": [],
+      "financial_impact": "ZAR 18.75M entitlement established",
+      "significance": "CRITICAL - Central financial motive for all subsequent actions",
+      "evidence": [
+        "Share Certificate J246",
+        "Ketoni Investment Holdings registration"
+      ],
+      "burden_of_proof": "verified_statutory_record",
+      "criminal_threshold": "foundation_event",
+      "timeline_phase": "PHASE_KETONI",
+      "ketoni_context": {
+        "certificate_number": 3,
+        "share_class": "A-Ordinary",
+        "share_quantity": 5000,
+        "payout_date": "2026-05",
+        "payout_amount": "ZAR 18.75M"
+      },
+      "added_date": "2026-01-22T00:05:29.017179",
+      "refinement_date": "2026-03-25T13:32:18.098809",
+      "ad_res_j7_references": []
+    },
+    {
+      "event_id": "EVENT_KAYLA_DEATH",
+      "date": "2023-07-13",
+      "event_type": "death",
+      "category": "trigger_event",
+      "title": "Kayla Pretorius Death - 80 Days After Ketoni Investment",
+      "description": "Kayla Pretorius dies 80 days after FFT's Ketoni investment. This death triggers estate proceedings and potential asset appropriation opportunity.",
+      "entities_involved": [
+        "PERSON_KAYLA",
+        "TRUST_001"
+      ],
+      "perpetrators": [],
+      "victims": [
+        "PERSON_KAYLA"
+      ],
+      "financial_impact": "Estate assets at risk",
+      "significance": "CRITICAL - Trigger event for appropriation scheme",
+      "evidence": [
+        "SF6 - Kayla Pretorius Estate Documentation",
+        "SF7 - Court Order Kayla Email Seizure"
+      ],
+      "burden_of_proof": "verified_death_record",
+      "criminal_threshold": "circumstantial_evidence",
+      "timeline_phase": "PHASE_KETONI",
+      "added_date": "2026-01-22T00:05:29.017179",
+      "refinement_date": "2026-03-25T13:32:18.098809",
+      "ad_res_j7_references": []
+    },
+    {
+      "event_id": "EVENT_BANTJIES_GEORGE",
+      "date": "2023-05-01",
+      "event_type": "employment",
+      "category": "network_establishment",
+      "title": "Bantjies Joins The George Group as CFO",
+      "description": "Daniel Jacobus Bantjies joins The George Group as CFO, one month after FFT receives Ketoni share certificate. Kevin Derrick (Ketoni Director) is also a director at The George Group.",
+      "entities_involved": [
+        "PERSON_007",
+        "ORG_GEORGE_GROUP",
+        "PERSON_KEVIN_DERRICK"
+      ],
+      "perpetrators": [],
+      "victims": [],
+      "financial_impact": "Network connection established",
+      "significance": "CRITICAL - Establishes Bantjies-Derrick-Ketoni connection",
+      "evidence": [
+        "LinkedIn profile",
+        "George Group records",
+        "B2BHint company records"
+      ],
+      "burden_of_proof": "verified_business_record",
+      "criminal_threshold": "pattern_evidence",
+      "timeline_phase": "PHASE_KETONI",
+      "added_date": "2026-01-22T00:05:29.017179",
+      "refinement_date": "2026-03-25T13:32:18.098809",
+      "ad_res_j7_references": []
+    },
+    {
+      "event_id": "EVENT_REGIMA_SA_DIVERSION",
+      "date": "2025-03-01",
+      "title": "RegimA SA Revenue Diversion Begins",
+      "description": "Diversion of revenue from RegimA SA begins, marking the start of systematic revenue stream hijacking.",
+      "significance": "CRITICAL: First documented revenue diversion event in the sabotage timeline.",
+      "actors": [
+        "PERSON_001",
+        "PERSON_002"
+      ],
+      "evidence": [
+        "JF03",
+        "Bank statements"
+      ],
+      "burden_of_proof": "verified_documentary",
+      "refinement_date": "2026-03-25T13:32:18.098809",
+      "entities_involved": [
+        "ORG_006"
+      ],
+      "perpetrators": [],
+      "victims": [],
+      "ad_res_j7_references": []
+    },
+    {
+      "event_id": "EVENT_RYNETTE_BANK_LETTER",
+      "date": "2025-04-14",
+      "title": "Rynette Bank Letter for RegimA Worldwide Diversion",
+      "description": "Rynette sends bank letter to divert RegimA Worldwide funds, escalating the revenue hijacking scheme.",
+      "significance": "CRITICAL: Documentary evidence of intentional fund diversion.",
+      "actors": [
+        "PERSON_002"
+      ],
+      "evidence": [
+        "Bank letter",
+        "JF03"
+      ],
+      "burden_of_proof": "verified_documentary",
+      "refinement_date": "2026-03-25T13:32:18.098809",
+      "entities_involved": [
+        "PERSON_002"
+      ],
+      "perpetrators": [],
+      "victims": [],
+      "ad_res_j7_references": []
+    },
+    {
+      "event_id": "EVENT_SHOPIFY_ORDERS_REMOVED",
+      "date": "2025-05-23",
+      "title": "Orders Removed from Shopify Platform",
+      "description": "Orders systematically removed from Shopify platform, disrupting business operations and revenue tracking.",
+      "significance": "CRITICAL: Evidence of deliberate business sabotage.",
+      "actors": [
+        "PERSON_002"
+      ],
+      "evidence": [
+        "Shopify logs",
+        "JF01"
+      ],
+      "burden_of_proof": "verified_documentary",
+      "refinement_date": "2026-03-25T13:32:18.098809",
+      "entities_involved": [],
+      "perpetrators": [],
+      "victims": [],
+      "ad_res_j7_references": []
+    },
+    {
+      "event_id": "EVENT_SECRET_CARD_CANCELLATION",
+      "date": "2025-06-07",
+      "title": "Secret Card Cancellations",
+      "description": "Bank cards secretly cancelled less than 24 hours after Daniel exposed Villa Via fraud to Bantjies.",
+      "significance": "CRITICAL: Demonstrates consciousness of guilt and retaliation for fraud exposure.",
+      "actors": [
+        "PERSON_001",
+        "PERSON_002"
+      ],
+      "evidence": [
+        "Bank records",
+        "JF07"
+      ],
+      "burden_of_proof": "verified_documentary",
+      "refinement_date": "2026-03-25T13:32:18.098809",
+      "entities_involved": [
+        "PERSON_005",
+        "PERSON_TB_002",
+        "ORG_005"
+      ],
+      "perpetrators": [],
+      "victims": [],
+      "ad_res_j7_references": []
+    },
+    {
+      "event_id": "EVENT_JAX_CONFRONTS_RYNETTE",
+      "date": "2025-05-15",
+      "title": "Jacqui Confronts Rynette About R1,035,000 Debt",
+      "description": "Jacqui confronts Rynette regarding ZAR 1,035,000 owed by RegimA Skin Treatments to Rezonance since Feb 2023. Jacqui stated these funds were part of Kayla's estate.",
+      "significance": "CRITICAL: Trigger event for subsequent retaliation (Shopify removal, domain registration).",
+      "actors": [
+        "PERSON_003",
+        "PERSON_002"
+      ],
+      "evidence": [
+        "Communication records"
+      ],
+      "burden_of_proof": "verified_testimonial",
+      "refinement_date": "2026-03-25T13:32:18.098809",
+      "entities_involved": [
+        "PERSON_002",
+        "PERSON_013",
+        "ORG_019"
+      ],
+      "perpetrators": [],
+      "victims": [],
+      "ad_res_j7_references": []
+    },
+    {
+      "event_id": "EVENT_ADDERORY_DOMAIN_REG",
+      "date": "2025-05-29",
+      "title": "Adderory Registers regimaskin.co.za Domain",
+      "description": "New domain regimaskin.co.za registered by Adderory (Rynette's son's company) following Shopify shutdown, enabling customer hijacking.",
+      "significance": "CRITICAL: Evidence of premeditated customer diversion scheme.",
+      "actors": [
+        "PERSON_002",
+        "ORG_010"
+      ],
+      "evidence": [
+        "Domain registration records",
+        "JF08"
+      ],
+      "burden_of_proof": "verified_documentary",
+      "refinement_date": "2026-03-25T13:32:18.098809",
+      "entities_involved": [
+        "PERSON_002",
+        "PERSON_003",
+        "DOMAIN_002"
+      ],
+      "perpetrators": [],
+      "victims": [],
+      "ad_res_j7_references": []
+    },
+    {
+      "event_id": "EVENT_ACCOUNTS_EMPTIED",
+      "date": "2025-09-11",
+      "title": "Company Accounts Emptied",
+      "description": "All company accounts emptied, potentially because Daniel was still managing to pay creditors despite 6 months of sabotage.",
+      "significance": "CRITICAL: Final act of financial sabotage.",
+      "actors": [
+        "PERSON_001",
+        "PERSON_002"
+      ],
+      "evidence": [
+        "Bank statements",
+        "JF07"
+      ],
+      "burden_of_proof": "verified_documentary",
+      "refinement_date": "2026-03-25T13:32:18.098809",
+      "entities_involved": [
+        "PERSON_005",
+        "PERSON_TB_002"
+      ],
+      "perpetrators": [],
+      "victims": [],
+      "ad_res_j7_references": []
+    },
+    {
+      "event_id": "EVENT_KETONI_INCORPORATION",
+      "date": "2023-02-20",
+      "title": "Ketoni Investment Holdings Incorporation",
+      "description": "Ketoni Investment Holdings (Pty) Ltd incorporated, establishing the entity that would later owe ZAR 18.75M to FFT.",
+      "significance": "CRITICAL: Establishes the corporate vehicle for the central financial motive.",
+      "actors": [
+        "PERSON_014"
+      ],
+      "evidence": [
+        "CIPC records"
+      ],
+      "burden_of_proof": "verified_documentary",
+      "entities_involved": [
+        "ORG_KETONI_001"
+      ],
+      "perpetrators": [],
+      "victims": [],
+      "ad_res_j7_references": [],
+      "refinement_date": "2026-03-25T13:32:18.098809"
+    },
+    {
+      "event_id": "EVENT_FFT_KETONI_INVESTMENT",
+      "date": "2023-04-24",
+      "title": "FFT Invests in Ketoni - ZAR 18.75M Entitlement Established",
+      "description": "Faucitt Family Trust invests in Ketoni Investment Holdings, receiving Share Certificate #3 for 5,000 A-Ordinary shares. This establishes the ZAR 18.75M payout entitlement due May 2026.",
+      "significance": "CRITICAL: Establishes the central financial motive for all subsequent events.",
+      "actors": [
+        "ORG_008",
+        "ORG_009"
+      ],
+      "evidence": [
+        "Share Certificate J246",
+        "Investment agreement"
+      ],
+      "burden_of_proof": "verified_documentary",
+      "entities_involved": [
+        "ORG_KETONI_001",
+        "TRUST_001"
+      ],
+      "perpetrators": [],
+      "victims": [],
+      "ad_res_j7_references": [],
+      "refinement_date": "2026-03-25T13:32:18.098809"
+    },
+    {
+      "event_id": "EVENT_BANTJIES_TRUSTEE_APPOINTMENT",
+      "date": "2024-07-01",
+      "title": "Bantjies Appointed FFT Trustee by Rynette",
+      "description": "Daniel Jacobus Bantjies appointed as Trustee of Faucitt Family Trust by Rynette, T-10 months before Ketoni payout. Strategic appointment to consolidate trust control.",
+      "significance": "CRITICAL: Strategic trustee appointment aligned with Ketoni payout timeline.",
+      "actors": [
+        "PERSON_002",
+        "PERSON_007"
+      ],
+      "evidence": [
+        "Trust documents"
+      ],
+      "burden_of_proof": "verified_documentary",
+      "entities_involved": [
+        "PERSON_002",
+        "PERSON_005",
+        "PERSON_TB_002",
+        "TRUST_001"
+      ],
+      "perpetrators": [],
+      "victims": [],
+      "ad_res_j7_references": [],
+      "refinement_date": "2026-03-25T13:32:18.098809"
+    },
+    {
+      "event_id": "EVENT_SETTLEMENT_SIGNED",
+      "date": "2025-08-11",
+      "title": "Settlement Agreement Signed - Main Trustee Power Backdated",
+      "description": "Settlement agreement signed with Jacqui's cooperation. Main Trustee power backdated, occurring T-9 months before Ketoni payout.",
+      "significance": "CRITICAL: Consolidation of trust control before payout.",
+      "actors": [
+        "PERSON_001",
+        "PERSON_003"
+      ],
+      "evidence": [
+        "Settlement agreement"
+      ],
+      "burden_of_proof": "verified_documentary",
+      "entities_involved": [],
+      "perpetrators": [],
+      "victims": [],
+      "ad_res_j7_references": [],
+      "refinement_date": "2026-03-25T13:32:18.098809"
+    },
+    {
+      "event_id": "EVENT_INTERDICT_FILED",
+      "date": "2025-08-13",
+      "title": "Peter Files Interdict - Jax & Dan Betrayal",
+      "description": "Peter files interdict in family court (not commercial court), 48 hours after settlement signing. Forum shopping to control beneficiaries' shares of Ketoni payout.",
+      "significance": "CRITICAL: Forum shopping to maximize control over trust assets.",
+      "actors": [
+        "PERSON_001"
+      ],
+      "evidence": [
+        "Court filings",
+        "JF06"
+      ],
+      "burden_of_proof": "verified_documentary",
+      "entities_involved": [
+        "PERSON_001",
+        "PERSON_012"
+      ],
+      "perpetrators": [],
+      "victims": [],
+      "ad_res_j7_references": [],
+      "refinement_date": "2026-03-25T13:32:18.098809"
+    },
+    {
+      "event_id": "EVENT_R63M_DEMAND",
+      "date": "2025-10-23",
+      "title": "Ian Levitt R63M Formal Demand Letter",
+      "description": "Ian Levitt Attorneys sends formal demand letter for R63M, which is subsequently ignored by Peter and legal team.",
+      "significance": "HIGH: Evidence of substantial financial exposure being ignored.",
+      "actors": [
+        "ORG_007",
+        "PERSON_001"
+      ],
+      "evidence": [
+        "SF9",
+        "Demand letter"
+      ],
+      "burden_of_proof": "verified_documentary",
+      "entities_involved": [
+        "PERSON_001",
+        "ORG_007"
+      ],
+      "perpetrators": [],
+      "victims": [],
+      "ad_res_j7_references": [],
+      "refinement_date": "2026-03-25T13:32:18.098809"
+    },
+    {
+      "event_id": "EVENT_H020",
+      "title": "Jax Confronts Rynette About Debt",
+      "date": "2025-05-15",
+      "description": "Jacqui confronts Rynette about R1,035,000 debt to ReZonance",
+      "category": "revenue_hijacking",
+      "burden_of_proof": "civil_50%",
+      "entities_involved": [
+        "PERSON_002",
+        "PERSON_012",
+        "ORG_019"
+      ],
+      "perpetrators": [],
+      "victims": [],
+      "ad_res_j7_references": [],
+      "refinement_date": "2026-03-25T13:32:18.098809"
+    },
+    {
+      "event_id": "EVENT_H021",
+      "title": "Jax Discovers Payment Discrepancies",
+      "date": "2025-05-16",
+      "description": "Jacqui discovers false payment claims totaling R765,361.34",
+      "category": "criminal_activity",
+      "burden_of_proof": "criminal_95%_exceeded",
+      "criminal_threshold": true,
+      "entities_involved": [
+        "PERSON_012"
+      ],
+      "perpetrators": [],
+      "victims": [],
+      "ad_res_j7_references": [],
+      "refinement_date": "2026-03-25T13:32:18.098809"
+    },
+    {
+      "event_id": "EVENT_BANTJIES_DISMISSES_AUDIT",
+      "title": "Bantjies Dismisses Audit Request",
+      "date": "2025-06-10",
+      "description": "Bantjies learns of criminal matters and dismisses audit request",
+      "category": "trust_violations",
+      "burden_of_proof": "civil_50%",
+      "entities_involved": [],
+      "perpetrators": [],
+      "victims": [],
+      "ad_res_j7_references": [],
+      "refinement_date": "2026-03-25T13:32:18.098809"
+    },
+    {
+      "event_id": "EVENT_REG_20000531",
+      "title": "Company Registration 2000-05-31",
+      "date": "2000-05-31",
+      "category": "company_registration",
+      "burden_of_proof": "civil_50%",
+      "entities_involved": [],
+      "perpetrators": [],
+      "victims": [],
+      "ad_res_j7_references": [],
+      "refinement_date": "2026-03-25T13:32:18.098809"
+    },
+    {
+      "event_id": "EVENT_REG_20050929",
+      "title": "Company Registration 2005-09-29",
+      "date": "2005-09-29",
+      "category": "company_registration",
+      "burden_of_proof": "civil_50%",
+      "entities_involved": [],
+      "perpetrators": [],
+      "victims": [],
+      "ad_res_j7_references": [],
+      "refinement_date": "2026-03-25T13:32:18.098809"
+    },
+    {
+      "event_id": "EVENT_REG_20060316",
+      "title": "Company Registration 2006-03-16",
+      "date": "2006-03-16",
+      "category": "company_registration",
+      "burden_of_proof": "civil_50%",
+      "entities_involved": [],
+      "perpetrators": [],
+      "victims": [],
+      "ad_res_j7_references": [],
+      "refinement_date": "2026-03-25T13:32:18.098809"
+    },
+    {
+      "event_id": "EVENT_PROP_20060605",
+      "title": "Property Transaction 2006-06-05",
+      "date": "2006-06-05",
+      "category": "property_transaction",
+      "burden_of_proof": "civil_50%",
+      "entities_involved": [],
+      "perpetrators": [],
+      "victims": [],
+      "ad_res_j7_references": [],
+      "refinement_date": "2026-03-25T13:32:18.098809"
+    },
+    {
+      "event_id": "EVENT_DIR_20070717",
+      "title": "Directorship Change 2007-07-17",
+      "date": "2007-07-17",
+      "category": "directorship_change",
+      "burden_of_proof": "civil_50%",
+      "entities_involved": [],
+      "perpetrators": [],
+      "victims": [],
+      "ad_res_j7_references": [],
+      "refinement_date": "2026-03-25T13:32:18.098809"
+    },
+    {
+      "event_id": "EVENT_REG_20150708",
+      "title": "Company Registration 2015-07-08",
+      "date": "2015-07-08",
+      "category": "company_registration",
+      "burden_of_proof": "civil_50%",
+      "entities_involved": [],
+      "perpetrators": [],
+      "victims": [],
+      "ad_res_j7_references": [],
+      "refinement_date": "2026-03-25T13:32:18.098809"
+    },
+    {
+      "event_id": "EVENT_DIR_20160705",
+      "title": "Directorship Change 2016-07-05",
+      "date": "2016-07-05",
+      "category": "directorship_change",
+      "burden_of_proof": "civil_50%",
+      "entities_involved": [],
+      "perpetrators": [],
+      "victims": [],
+      "ad_res_j7_references": [],
+      "refinement_date": "2026-03-25T13:32:18.098809"
+    },
+    {
+      "event_id": "EVENT_REG_20170927",
+      "title": "Company Registration 2017-09-27",
+      "date": "2017-09-27",
+      "category": "company_registration",
+      "burden_of_proof": "civil_50%",
+      "entities_involved": [],
+      "perpetrators": [],
+      "victims": [],
+      "ad_res_j7_references": [],
+      "refinement_date": "2026-03-25T13:32:18.098809"
+    },
+    {
+      "event_id": "EVENT_BOND_20191122",
+      "title": "Bond Registration 2019-11-22",
+      "date": "2019-11-22",
+      "category": "bond_registration",
+      "burden_of_proof": "civil_50%",
+      "entities_involved": [],
+      "perpetrators": [],
+      "victims": [],
+      "ad_res_j7_references": [],
+      "refinement_date": "2026-03-25T13:32:18.098809"
+    },
+    {
+      "event_id": "EVENT_GEE_DOMAIN_SWITCH_EMAIL",
+      "title": "Gee Email Domain Switch Instruction",
+      "date": "2025-08-15",
+      "description": "Email from Gee explaining she was instructed to send domain switch communication",
+      "category": "digital_fraud",
+      "burden_of_proof": "civil_50%",
+      "entities_involved": [
+        "PERSON_009"
+      ],
+      "perpetrators": [],
+      "victims": [],
+      "ad_res_j7_references": [],
+      "refinement_date": "2026-03-25T13:32:18.098809"
+    },
+    {
+      "event_id": "diversion_started_2025_03_01",
+      "title": "RegimA SA Revenue Diversion Started",
+      "date": "2025-03-01",
+      "description": "Beginning of revenue diversion from RegimA SA",
+      "category": "revenue_hijacking",
+      "burden_of_proof": "criminal_95%_exceeded",
+      "criminal_threshold": true,
+      "entities_involved": [
+        "ORG_006"
+      ],
+      "perpetrators": [],
+      "victims": [],
+      "ad_res_j7_references": [],
+      "refinement_date": "2026-03-25T13:32:18.098809"
+    },
+    {
+      "event_id": "first_invoice_2017_06_30",
+      "title": "First ReZonance Invoice",
+      "date": "2017-06-30",
+      "description": "First invoice from ReZonance to RegimA Skin Treatments",
+      "category": "general",
+      "burden_of_proof": "civil_50%",
+      "entities_involved": [
+        "ORG_019"
+      ],
+      "perpetrators": [],
+      "victims": [],
+      "ad_res_j7_references": [],
+      "refinement_date": "2026-03-25T13:32:18.098809"
+    },
+    {
+      "event_id": "service_expansion_2017_09_30",
+      "title": "ReZonance Service Expansion",
+      "date": "2017-09-30",
+      "description": "Major service expansion with multiple enterprise services",
+      "category": "general",
+      "burden_of_proof": "civil_50%",
+      "entities_involved": [
+        "ORG_019"
+      ],
+      "perpetrators": [],
+      "victims": [],
+      "ad_res_j7_references": [],
+      "refinement_date": "2026-03-25T13:32:18.098809"
+    },
+    {
+      "event_id": "debt_accumulation_2022_03_01",
+      "title": "ReZonance Debt Accumulation",
+      "date": "2022-03-01",
+      "description": "Opening balance showing substantial accumulated debt to ReZonance",
+      "category": "revenue_hijacking",
+      "burden_of_proof": "civil_50%",
+      "entities_involved": [
+        "PERSON_015",
+        "ORG_019"
+      ],
+      "perpetrators": [],
+      "victims": [],
+      "ad_res_j7_references": [],
+      "refinement_date": "2026-03-25T13:32:18.098809"
+    },
+    {
+      "event_id": "false_payment_claims_2023",
+      "title": "False Payment Claims to ReZonance",
+      "date": "2023-04-01",
+      "description": "RegimA claims payment not reflected in ReZonance records",
+      "category": "criminal_activity",
+      "burden_of_proof": "criminal_95%_exceeded",
+      "criminal_threshold": true,
+      "entities_involved": [
+        "ORG_019"
+      ],
+      "perpetrators": [],
+      "victims": [],
+      "ad_res_j7_references": [],
+      "refinement_date": "2026-03-25T13:32:18.098809"
+    },
+    {
+      "event_id": "jax_confrontation_2025_05_15",
+      "title": "Jax Confronts Rynette About Debt",
+      "date": "2025-05-15",
+      "description": "Jacqui confronts Rynette about R1,035,000 debt to ReZonance",
+      "category": "revenue_hijacking",
+      "burden_of_proof": "civil_50%",
+      "entities_involved": [
+        "PERSON_002",
+        "PERSON_012",
+        "ORG_019"
+      ],
+      "perpetrators": [],
+      "victims": [],
+      "ad_res_j7_references": [],
+      "refinement_date": "2026-03-25T13:32:18.098809"
+    },
+    {
+      "event_id": "EVENT_ORG_001",
+      "date": "2025-04-12",
+      "title": "Rynette Organogram - Sales Process Documentation",
+      "event_type": "operational_documentation",
+      "category": "business_operations",
+      "description": "Rynette creates/distributes 'How Sales Work' organogram documenting the complete sales process flow from customer order through delivery. Document reveals Kent and EL as key sales personnel, Shopify-to-Sage automation, and Courier Guy logistics integration.",
+      "entities_involved": [
+        "PERSON_002",
+        "PERSON_037",
+        "PERSON_038",
+        "ORG_001",
+        "PLATFORM_001",
+        "PLATFORM_002"
+      ],
+      "perpetrators": [],
+      "victims": [],
+      "location": "South Africa",
+      "financial_impact": 0,
+      "significance": "Documents operational structure showing dual personnel control (Kent/EL), system automation (Shopify→Sage), and third-party verification (Courier Guy). Reveals paper trail: Proforma Invoice → POP → Tax Invoice.",
+      "evidence": [
+        "Powerpoint-howsaleswork.pdf",
+        "rynette_organogram_2025-04-12.md"
+      ],
+      "ad_res_j7_references": [
+        "evidence_analysis/rynette_organogram_2025-04-12.md",
+        "evidence_analysis/images/rynette_organogram_howsaleswork_2025-04-12.webp"
+      ],
+      "timeline_phase": "PHASE_3",
+      "phase": "PHASE_3",
+      "burden_of_proof": "civil_50%_exceeded",
+      "evidence_enhanced": "2026-01-28T16:15:44.971527",
+      "refinement_date": "2026-03-25T13:32:18.098809",
+      "legal_relevance": {
+        "companies_act": "Demonstrates operational structure and personnel roles",
+        "popia": "Shows customer data handling through email, phone, delivery addresses",
+        "tax_fraud": "Documents tax invoice generation process via Sage automation",
+        "commercial_crime": "Establishes revenue flow documentation and paper trail"
+      },
+      "key_findings": [
+        "Kent and EL handle all customer orders via phone/email",
+        "Proforma invoices created in Shopify before payment",
+        "POP (Proof of Payment) required before order fulfillment",
+        "Shopify automatically syncs to Sage for tax invoice generation",
+        "Courier Guy provides independent tracking and delivery verification"
       ]
+    },
+    {
+      "event_id": "EVENT_ORGANOGRAM_2025_04_11",
+      "date": "2025-04-11",
+      "title": "Rynette Creates Shopify Centrality Organogram",
+      "description": "Rynette Farrar creates PowerPoint organogram for Peter showing Shopify as central hub for all sales operations. Document proves full understanding of Shopify's role 40 days before sabotage.",
+      "category": "premeditation",
+      "significance_level": "criminal_threshold",
+      "actors": [
+        "PERSON_002",
+        "PERSON_001"
+      ],
+      "entities_involved": [
+        "ORG_005",
+        "PLATFORM_SHOPIFY"
+      ],
+      "evidence": [
+        "Power point - how sales work.pdf"
+      ],
+      "evidence_strength": "conclusive",
+      "legal_implications": [
+        "Proves premeditation of Shopify sabotage",
+        "Shows knowledge of business-critical systems",
+        "Establishes conspiracy timeline"
+      ],
+      "burden_of_proof": "civil_50%",
+      "perpetrators": [],
+      "victims": [],
+      "ad_res_j7_references": [],
+      "refinement_date": "2026-03-25T13:32:18.098809"
+    },
+    {
+      "event_id": "EVENT_SHOPIFY_SABOTAGE_2025_05_22",
+      "date": "2025-05-22",
+      "title": "Shopify Revenue Stream Sabotage/Diversion",
+      "description": "Revenue stream diverted from RegimA SA Shopify stores. Monthly revenue dropped from R800K-1.1M to R0. 40 days after organogram creation.",
+      "category": "revenue_theft",
+      "significance_level": "criminal_threshold",
+      "actors": [
+        "PERSON_001",
+        "PERSON_002"
+      ],
+      "entities_involved": [
+        "ORG_005",
+        "PLATFORM_SHOPIFY"
+      ],
+      "evidence": [
+        "RegimA SA Shopify Plus - Total sales over time.pdf"
+      ],
+      "financial_impact": {
+        "monthly_loss": "R800,000 - R1,100,000",
+        "annual_loss": "R8,500,000+",
+        "affected_stores": 9
+      },
+      "evidence_strength": "conclusive",
+      "burden_of_proof": "criminal_95%_exceeded",
+      "criminal_threshold": true,
+      "perpetrators": [],
+      "victims": [],
+      "ad_res_j7_references": [],
+      "refinement_date": "2026-03-25T13:32:18.098809"
+    },
+    {
+      "event_id": "EVENT_DAN_FRAUD_REPORT_2025_06_06",
+      "date": "2025-06-06",
+      "title": "Daniel Reports Fraud to Accountant Bantjies",
+      "description": "Daniel Faucitt and Jacqui Faucitt report fraud concerns to accountant Danie Bantjies via email. Includes full breakdown of company shareholding, directorships, Shopify stores, QuickBooks accounts.",
+      "category": "whistleblowing",
+      "significance_level": "high",
+      "actors": [
+        "PERSON_003",
+        "PERSON_004"
+      ],
+      "entities_involved": [
+        "ORG_005",
+        "ORG_REGIMA_ZONE"
+      ],
+      "evidence": [
+        "Fw_ update - Some Initial Information & Operating Entity Lists.pdf"
+      ],
+      "key_disclosures": [
+        "Over R1 million misallocated in RegimA Skin Treatments",
+        "Accounts not reconciled since August 2023",
+        "4 legally distinct company groups identified"
+      ],
+      "burden_of_proof": "criminal_95%_exceeded",
+      "criminal_threshold": true,
+      "perpetrators": [],
+      "victims": [],
+      "ad_res_j7_references": [],
+      "refinement_date": "2026-03-25T13:32:18.098809"
+    },
+    {
+      "event_id": "EVENT_CARD_CANCELLATION_2025_06_07",
+      "date": "2025-06-07",
+      "title": "Peter Cancels All Bank Cards (Retaliation)",
+      "description": "Within 24 hours of fraud report to accountant, Peter cancels ALL bank cards. R1,062,446.04 company expenses forced onto Daniel's personal account.",
+      "category": "retaliation",
+      "significance_level": "criminal_threshold",
+      "actors": [
+        "PERSON_001"
+      ],
+      "entities_involved": [
+        "ORG_005"
+      ],
+      "evidence": [
+        "POPIA_VIOLATION_NOTICE_&_RETALIATION_TIMELINE.pdf"
+      ],
+      "financial_impact": {
+        "forced_personal_expense": "R1,062,446.04"
+      },
+      "retaliation_timing": "Less than 24 hours after fraud report",
+      "burden_of_proof": "criminal_95%_exceeded",
+      "criminal_threshold": true,
+      "perpetrators": [],
+      "victims": [],
+      "ad_res_j7_references": [],
+      "refinement_date": "2026-03-25T13:32:18.098809"
+    },
+    {
+      "event_id": "EVENT_DE_NOVO_FRAUD_INSTRUCTION_2025_06_17",
+      "date": "2025-06-17",
+      "title": "Rynette Instructs De Novo to Create Fraudulent Records",
+      "description": "Rynette Farrar emails De Novo Business Services instructing them to create loan accounts to hide expenses not belonging to RegimA SA. Daniel NOT copied on emails.",
+      "category": "fraud",
+      "significance_level": "criminal_threshold",
+      "actors": [
+        "PERSON_002",
+        "PERSON_039",
+        "PERSON_040"
+      ],
+      "entities_involved": [
+        "ORG_DE_NOVO",
+        "ORG_005",
+        "ORG_REZONANCE"
+      ],
+      "evidence": [
+        "2025-06-18 - Rynette & De Novo - RegimA SA Payments.pdf"
+      ],
+      "fraud_instructions": [
+        "Create loan account within RegimA SA for other company",
+        "Post Coral Draw and QuickBooks expenses to Rezonance loan account",
+        "Hide expenses not belonging to RegimA SA"
+      ],
+      "evidence_strength": "conclusive",
+      "burden_of_proof": "criminal_95%_exceeded",
+      "criminal_threshold": true,
+      "perpetrators": [],
+      "victims": [],
+      "ad_res_j7_references": [],
+      "refinement_date": "2026-03-25T13:32:18.098809"
+    },
+    {
+      "event_id": "EVENT_FABRICATED_FINANCIALS_2025_06_25",
+      "date": "2025-06-25",
+      "title": "De Novo Creates Backdated 2019 Financial Statements",
+      "description": "De Novo Business Services issues 'Annual Financial Statements for 15 months ended 28 February 2019' - created 6+ years after the period. Prepared by Marisca Meyer without Daniel's knowledge.",
+      "category": "fraud",
+      "significance_level": "criminal_threshold",
+      "actors": [
+        "PERSON_039",
+        "ORG_DE_NOVO"
+      ],
+      "entities_involved": [
+        "ORG_005"
+      ],
+      "evidence": [
+        "Regima SA (Pty) Ltd - 2019 - Financial statements - SME.pdf"
+      ],
+      "fraud_indicators": [
+        "Issued 25 June 2025 for 2019 financial year",
+        "Created 7 days after fraudulent instruction email",
+        "Not audited or independently reviewed",
+        "Director Daniel Faucitt not consulted"
+      ],
+      "legal_implications": [
+        "Section 29 Companies Act - Accurate financial statements",
+        "Section 214 Tax Administration Act - Fraudulent tax returns",
+        "Section 77 Companies Act - Director liability"
+      ],
+      "burden_of_proof": "criminal_95%_exceeded",
+      "criminal_threshold": true,
+      "perpetrators": [],
+      "victims": [],
+      "ad_res_j7_references": [],
+      "refinement_date": "2026-03-25T13:32:18.098809"
+    },
+    {
+      "event_id": "EVENT_FORMAL_NOTICE_2025_07_08",
+      "date": "2025-07-08",
+      "title": "Daniel Sends Formal Notice - Cessation of Criminal Instructions",
+      "description": "Daniel Faucitt sends formal notice to Peter demanding cessation of criminal instructions to employees. Cites POPI Act violations, fiduciary breach, potential fraud. 48-hour deadline given.",
+      "category": "compliance_demand",
+      "significance_level": "high",
+      "actors": [
+        "PERSON_003",
+        "PERSON_001"
+      ],
+      "entities_involved": [
+        "ORG_005"
+      ],
+      "evidence": [
+        "FORMAL NOTICE - CESSATION OF CRIMINAL INSTRUCTIONS.pdf"
+      ],
+      "demands": [
+        "Rescind all instructions to bypass Shopify",
+        "Confirm all orders must use approved systems",
+        "Restore proper corporate governance",
+        "Provide withheld bank cards for director oversight"
+      ],
+      "consequences_warned": [
+        "Criminal charges",
+        "Director delinquency proceedings",
+        "Personal liability for all losses"
+      ],
+      "response": "Peter did NOT comply - filed ex parte application 36 days later",
+      "burden_of_proof": "criminal_95%_exceeded",
+      "criminal_threshold": true,
+      "perpetrators": [],
+      "victims": [],
+      "ad_res_j7_references": [],
+      "refinement_date": "2026-03-25T13:32:18.098809"
+    },
+    {
+      "event_id": "EVENT_POPIA_NOTICE_2025_07_08",
+      "date": "2025-07-08",
+      "title": "Daniel Sends POPIA Violation Notice to Peter",
+      "description": "Daniel sends POPIA Violation Notice regarding customer data breach related to May 22nd Shopify revenue stream diversion.",
+      "category": "compliance_demand",
+      "significance_level": "high",
+      "actors": [
+        "PERSON_003",
+        "PERSON_001"
+      ],
+      "entities_involved": [
+        "ORG_005"
+      ],
+      "evidence": [
+        "POPIA_VIOLATION_NOTICE_&_RETALIATION_TIMELINE.pdf"
+      ],
+      "violations_cited": [
+        "Unauthorized data access instructions",
+        "Customer data breach",
+        "Audit trail disappearance"
+      ],
+      "burden_of_proof": "criminal_95%_exceeded",
+      "criminal_threshold": true,
+      "perpetrators": [],
+      "victims": [],
+      "ad_res_j7_references": [],
+      "refinement_date": "2026-03-25T13:32:18.098809"
+    },
+    {
+      "event_id": "EVENT_SHOPIFY_PAYMENT_FAILURES_2025_09",
+      "date": "2025-09-27",
+      "title": "RegimA SA Shopify Payment Failures Begin",
+      "description": "RegimA SA unable to pay R60,960.11 monthly Shopify bill. 9 consecutive payment failures from Sep 27 to Oct 11, 2025. Company financially crippled by revenue diversion.",
+      "category": "financial_collapse",
+      "significance_level": "high",
+      "actors": [
+        "ORG_005"
+      ],
+      "entities_involved": [
+        "ORG_005",
+        "PLATFORM_SHOPIFY"
+      ],
+      "evidence": [
+        "RegimA_SA_423808676.pdf"
+      ],
+      "payment_failures": [
+        "Sep 27 - Payment failed",
+        "Sep 29 - Payment failed",
+        "Oct 1 - Payment failed",
+        "Oct 3 - Payment failed",
+        "Oct 5 - Payment failed",
+        "Oct 7 - Payment failed",
+        "Oct 9 - Payment failed",
+        "Oct 11 - Payment failed"
+      ],
+      "financial_impact": {
+        "monthly_bill": "R60,960.11",
+        "consequence": "Shopify store suspension risk",
+        "affected_tenants": "1100+ B2B salons"
+      },
+      "burden_of_proof": "criminal_95%_exceeded",
+      "criminal_threshold": true,
+      "perpetrators": [],
+      "victims": [],
+      "ad_res_j7_references": [],
+      "refinement_date": "2026-03-25T13:32:18.098809"
+    },
+    {
+      "event_id": "EVT_MAT4719_001",
+      "date": "2025-08-13",
+      "event_type": "legal_filing",
+      "category": "litigation",
+      "description": "Peter Faucitt swears founding affidavit at Bedfordview SAPS for ex parte urgent application (Case 2025-137857). Affidavit contains material non-disclosures regarding FNB SOLE mandate and R500K context.",
+      "entities_involved": [
+        "PERSON_001",
+        "ORG_001",
+        "ORG_002",
+        "ORG_003",
+        "ORG_004"
+      ],
+      "perpetrators": [
+        "PERSON_001"
+      ],
+      "victims": [
+        "PERSON_002",
+        "PERSON_003"
+      ],
+      "location": "Bedfordview SAPS, 60 Van Buuren Rd, Bedfordview",
+      "financial_impact": {
+        "amount": 0,
+        "currency": "ZAR",
+        "description": "Application to seize control of all business finances"
+      },
+      "significance": "critical",
+      "evidence": {
+        "primary": "MAT4719_Founding_Affidavit_pages_10-38",
+        "document": "1.MAT4719-NOMandFoundingAffidavitandAnnexures.pdf",
+        "pages": "10-38"
+      },
+      "timeline_phase": "weaponized_litigation",
+      "related_events": [
+        "EVT_MAT4719_002",
+        "EVT_MAT4719_003"
+      ],
+      "burden_of_proof": {
+        "civil": 0.95,
+        "criminal": 0.9
+      },
+      "refinement_date": "2026-03-25T13:32:18.098809",
+      "ad_res_j7_references": []
+    },
+    {
+      "event_id": "EVT_MAT4719_002",
+      "date": "2025-08-13",
+      "event_type": "legal_filing",
+      "category": "perjury",
+      "description": "Daniel Jacobus Bantjes (SAICA 00105928) swears confirmatory affidavit supporting Peter's application, despite having received Daniel Faucitt's fraud report on 6 June 2025. Commissioner: Hannelle Evert (SAIBA16721).",
+      "entities_involved": [
+        "PERSON_BANTJES",
+        "PERSON_001"
+      ],
+      "perpetrators": [
+        "PERSON_BANTJES"
+      ],
+      "victims": [
+        "PERSON_002",
+        "PERSON_003"
+      ],
+      "location": "Libertas Office Park, Block E, Equestria, Pretoria",
+      "significance": "critical",
+      "evidence": {
+        "primary": "MAT4719_Confirmatory_Affidavit_pages_69-71",
+        "document": "1.MAT4719-NOMandFoundingAffidavitandAnnexures.pdf",
+        "pages": "69-71"
+      },
+      "timeline_phase": "weaponized_litigation",
+      "related_events": [
+        "EVT_MAT4719_001"
+      ],
+      "burden_of_proof": {
+        "civil": 0.95,
+        "criminal": 0.85
+      },
+      "refinement_date": "2026-03-25T13:32:18.098809",
+      "ad_res_j7_references": []
+    },
+    {
+      "event_id": "EVT_MAT4719_003",
+      "date": "2025-08-14",
+      "event_type": "legal_filing",
+      "category": "litigation",
+      "description": "Ex parte application filed electronically via Court Online at 08:16:25 SAST. Notice of Motion (Long Form) with Part A (interim) and Part B (final) relief. Filed by Elliott Attorneys Inc. (Ref: KRE/MM/KF0019).",
+      "entities_involved": [
+        "PERSON_001",
+        "ELLIOTT_ATT"
+      ],
+      "perpetrators": [
+        "PERSON_001"
+      ],
+      "victims": [
+        "PERSON_002",
+        "PERSON_003"
+      ],
+      "location": "High Court of South Africa, Gauteng Division, Pretoria",
+      "significance": "critical",
+      "evidence": {
+        "primary": "MAT4719_NOM_pages_2-9",
+        "document": "1.MAT4719-NOMandFoundingAffidavitandAnnexures.pdf",
+        "pages": "2-9"
+      },
+      "timeline_phase": "weaponized_litigation",
+      "related_events": [
+        "EVT_MAT4719_001"
+      ],
+      "burden_of_proof": {
+        "civil": 1.0,
+        "criminal": 1.0
+      },
+      "refinement_date": "2026-03-25T13:32:18.098809",
+      "ad_res_j7_references": []
+    },
+    {
+      "event_id": "EVT_MAT4719_004",
+      "date": "2025-08-19",
+      "event_type": "court_hearing",
+      "category": "litigation",
+      "description": "Ex parte hearing at 10h00. Court grants interim interdict (Part A) based on Peter's founding affidavit and Bantjes' confirmatory affidavit. Order subsequently subject to void ab initio challenge.",
+      "entities_involved": [
+        "PERSON_001",
+        "PERSON_002",
+        "PERSON_003"
+      ],
+      "perpetrators": [
+        "PERSON_001"
+      ],
+      "victims": [
+        "PERSON_002",
+        "PERSON_003"
+      ],
+      "location": "High Court, Gauteng Division, Pretoria",
+      "significance": "critical",
+      "evidence": {
+        "primary": "MAT4719_NOM_pages_2-9",
+        "document": "1.MAT4719-NOMandFoundingAffidavitandAnnexures.pdf"
+      },
+      "timeline_phase": "weaponized_litigation",
+      "related_events": [
+        "EVT_MAT4719_001",
+        "EVT_MAT4719_002",
+        "EVT_MAT4719_003"
+      ],
+      "burden_of_proof": {
+        "civil": 1.0,
+        "criminal": 0.95
+      },
+      "refinement_date": "2026-03-25T13:32:18.098809",
+      "ad_res_j7_references": []
+    },
+    {
+      "event_id": "EVT_MAT4719_005",
+      "date": "2025-03-31",
+      "event_type": "communication",
+      "category": "evidence",
+      "description": "Gayane Williams emails Daniel Faucitt via Slack requesting login details. Attachment: 'Application Expenses Analysis.xlsx'. CC: Jacqui Faucitt (jax@regima.com). This communication shows legitimate business operations and expense tracking.",
+      "entities_involved": [
+        "PERSON_GAYANE",
+        "PERSON_003",
+        "PERSON_002"
+      ],
+      "significance": "moderate",
+      "evidence": {
+        "primary": "MAT4719_PF7_pages_72-101",
+        "document": "1.MAT4719-NOMandFoundingAffidavitandAnnexures.pdf",
+        "pages": "72"
+      },
+      "timeline_phase": "normal_operations",
+      "burden_of_proof": {
+        "civil": 0.8
+      },
+      "refinement_date": "2026-03-25T13:32:18.098809",
+      "perpetrators": [],
+      "victims": [],
+      "ad_res_j7_references": []
+    },
+    {
+      "event_id": "EVT_MAT4719_006",
+      "date": "2025-04-03",
+      "event_type": "communication",
+      "category": "evidence",
+      "description": "Jacqui Faucitt emails Gayane Williams: 'WE NEED TO STOP PAYING SOME IF THESE WHO REFUSE TO GIVE INVOICES'. This shows Jacqui's active involvement in financial oversight and cost control, contradicting Peter's narrative of misappropriation.",
+      "entities_involved": [
+        "PERSON_002",
+        "PERSON_GAYANE"
+      ],
+      "significance": "high",
+      "evidence": {
+        "primary": "MAT4719_PF7_page_101",
+        "document": "1.MAT4719-NOMandFoundingAffidavitandAnnexures.pdf",
+        "pages": "101"
+      },
+      "timeline_phase": "normal_operations",
+      "burden_of_proof": {
+        "civil": 0.9
+      },
+      "refinement_date": "2026-03-25T13:32:18.098809",
+      "perpetrators": [],
+      "victims": [],
+      "ad_res_j7_references": []
+    },
+    {
+      "event_id": "EVT_MAT4719_007",
+      "date": "2025-07-31",
+      "event_type": "financial",
+      "category": "evidence",
+      "description": "FNB sends SMS to Pete Faucitt: '80% of international limit reached, transactions not allowed over 100% limit.' This evidences the scale of international platform payments and Peter's awareness of the spending.",
+      "entities_involved": [
+        "PERSON_001",
+        "BANK_FNB"
+      ],
+      "significance": "high",
+      "evidence": {
+        "primary": "MAT4719_PF11_page_162",
+        "document": "1.MAT4719-NOMandFoundingAffidavitandAnnexures.pdf",
+        "pages": "162"
+      },
+      "timeline_phase": "pre_litigation",
+      "financial_impact": {
+        "description": "International transaction limit nearly exhausted - indicates massive platform spend",
+        "pf9_total": 6738007,
+        "pf10_total": 2116159.47,
+        "combined_total": 8854166.47,
+        "currency": "ZAR"
+      },
+      "burden_of_proof": {
+        "civil": 0.85
+      },
+      "refinement_date": "2026-03-25T13:32:18.098809",
+      "perpetrators": [],
+      "victims": [],
+      "ad_res_j7_references": []
+    },
+    {
+      "event_id": "EVT_KETONI_AGREEMENT_2023_04_24",
+      "date": "2023-04-24",
+      "type": "corporate_structuring",
+      "title": "Ketoni Shareholder Agreement Signed",
+      "description": "The Ketoni Shareholder Agreement was signed, establishing the ownership chain where FFT holds 100% of A Ordinary Shares (investing R9.8M) and Kevin Derrick Trust holds 100% of Ordinary Shares. Ketoni's purpose is to invest in The George Group.",
+      "entities_involved": [
+        "TRUST_001",
+        "ORG_KETONI_001",
+        "ORG_GEORGE_GROUP",
+        "PERSON_DERRICK_001"
+      ],
+      "evidence": [
+        "Ketoni Shareholder Agreement (Signed 24 April 2023)"
+      ],
+      "significance": "Establishes the financial structure that creates the massive conflict of interest for Danie Bantjies (CFO of George Group and Trustee of FFT).",
+      "burden_of_proof": "civil_50%",
+      "perpetrators": [],
+      "victims": [],
+      "ad_res_j7_references": [],
+      "refinement_date": "2026-03-25T13:32:18.098809"
+    },
+    {
+      "event_id": "EVENT_182",
+      "title": "Peter's 149-Page Answering Affidavit with 12+ Material Admissions",
+      "date": "2026-06-03",
+      "category": "legal_proceedings",
+      "description": "Peter swears answering affidavit (SAPS Bedfordview, Elliott ref KF0019) containing admissions at paras 39.3, 45.6, 53.3, 62.4, 63.5, 63.8, 64.2, 65.3, 75.4, 77.2, 83.2, 84.9, 185.2 that contradict the founding narrative",
+      "actors": [
+        "PERSON_001"
+      ],
+      "entities_involved": [
+        "PERSON_001",
+        "ORG_020"
+      ],
+      "financial_impact": "N/A",
+      "evidence_refs": [
+        "F-first-respondents-answering-affidavit.pdf"
+      ],
+      "legal_significance": "fatal_admissions_destroying_founding_narrative",
+      "significance_level": 10,
+      "added_version": "v35"
+    },
+    {
+      "event_id": "EVENT_183",
+      "title": "Stock Order Case 2026-115880 Filed — Same Case Number Collision",
+      "date": "2026-06-05",
+      "category": "legal_proceedings",
+      "description": "Peter files stock order application that receives same case number 2026-115880 as Jax's reconsideration — creating procedural collision",
+      "actors": [
+        "PERSON_001"
+      ],
+      "entities_involved": [
+        "PERSON_001",
+        "PERSON_004"
+      ],
+      "financial_impact": "N/A",
+      "evidence_refs": [
+        "Case 2026-115880 stock order papers"
+      ],
+      "legal_significance": "case_number_collision_procedural_anomaly",
+      "significance_level": 7,
+      "added_version": "v35"
+    },
+    {
+      "event_id": "EVENT_184",
+      "title": "Reconsideration Struck from Roll for Want of Urgency",
+      "date": "2026-06-10",
+      "category": "legal_proceedings",
+      "description": "Case 2026-115880 reconsideration struck from roll — no order as to costs, merits not determined, interim order stands",
+      "actors": [
+        "PERSON_004"
+      ],
+      "entities_involved": [
+        "PERSON_004"
+      ],
+      "financial_impact": "N/A",
+      "evidence_refs": [
+        "Pool email 10 Jun 18:04",
+        "LETTER TO ELLIOT 10.06.2026.doc"
+      ],
+      "legal_significance": "reconsideration_struck_interim_order_stands",
+      "significance_level": 7,
+      "added_version": "v35"
+    },
+    {
+      "event_id": "EVENT_185",
+      "title": "Rynette Farrar / Danie Bantjies Forensic Review Completed",
+      "date": "2026-06-13",
+      "category": "forensic_analysis",
+      "description": "Comprehensive forensic review of Rynette Farrar and Danie Bantjies completed — documents full control structure",
+      "actors": [
+        "PERSON_002",
+        "PERSON_007"
+      ],
+      "entities_involved": [
+        "PERSON_002",
+        "PERSON_007"
+      ],
+      "financial_impact": "R18,750,000",
+      "evidence_refs": [
+        "Rynette_Farrar_Danie_Bantjes_Forensic_Review.docx/pdf"
+      ],
+      "legal_significance": "comprehensive_forensic_proof_of_conspiracy",
+      "significance_level": 8,
+      "added_version": "v35"
+    },
+    {
+      "event_id": "EVENT_186",
+      "title": "Divorce Enrolled — Jax Under Notice of Bar",
+      "date": "2026-06-15",
+      "category": "legal_proceedings",
+      "description": "Divorce proceedings (case 2026-034662) enrolled with Jax under notice of bar",
+      "actors": [
+        "PERSON_001",
+        "PERSON_004"
+      ],
+      "entities_involved": [
+        "PERSON_001",
+        "PERSON_004"
+      ],
+      "financial_impact": "N/A",
+      "evidence_refs": [
+        "07_JUNE_FILINGS_ANALYSIS §2.6"
+      ],
+      "legal_significance": "divorce_weaponization_pattern",
+      "significance_level": 6,
+      "added_version": "v35"
+    },
+    {
+      "event_id": "EVENT_187",
+      "title": "Elliott Attorneys RST Conflict-Funding Pattern Documented",
+      "date": "2026-06-08",
+      "category": "forensic_analysis",
+      "description": "Full R478,957.93 payment schedule from RST ABSA account to Elliott Attorneys documented and analyzed — 11 payments Aug 2025 to Apr 2026",
+      "actors": [
+        "PERSON_001",
+        "ORG_020"
+      ],
+      "entities_involved": [
+        "PERSON_001",
+        "ORG_020",
+        "ORG_001"
+      ],
+      "financial_impact": "R478,957.93",
+      "evidence_refs": [
+        "RST_ABSA_4112241409_ELLIOTT_ATTORNEYS_PAYMENTS_2025-08_2026-04.txt"
+      ],
+      "legal_significance": "conflict_of_interest_funding_proof",
+      "significance_level": 9,
+      "added_version": "v35"
+    },
+    {
+      "event_id": "EVENT_H013",
+      "title": "Ketoni Investment Holdings Incorporated",
+      "date": "2023-02-20",
+      "category": "conspiracy_preparation",
+      "description": "Ketoni Investment Holdings incorporated — vehicle for R18.75M debt to FFT",
+      "actors": [
+        "PERSON_008"
+      ],
+      "entities_involved": [
+        "ORG_009",
+        "PERSON_008"
+      ],
+      "financial_impact": "R18,750,000",
+      "evidence_refs": [
+        "CIPC registration documents"
+      ],
+      "legal_significance": "vehicle_for_r18_75m_debt",
+      "significance_level": 9,
+      "added_version": "v40"
+    },
+    {
+      "event_id": "EVENT_H014",
+      "title": "FFT Receives Ketoni Share Certificate #3",
+      "date": "2023-04-24",
+      "category": "conspiracy_preparation",
+      "description": "Faucitt Family Trust receives Ketoni Investment Holdings share certificate #3 — R18.75M claim established",
+      "actors": [
+        "PERSON_007"
+      ],
+      "entities_involved": [
+        "ORG_008",
+        "ORG_009"
+      ],
+      "financial_impact": "R18,750,000",
+      "evidence_refs": [
+        "Share Certificate #3"
+      ],
+      "legal_significance": "r18_75m_claim_established",
+      "significance_level": 10,
+      "added_version": "v40"
+    },
+    {
+      "event_id": "EVENT_H015",
+      "title": "Bantjies Joins George Group (Kevin Derrick Connection)",
+      "date": "2023-05-01",
+      "category": "conspiracy_preparation",
+      "description": "Bantjies joins George Group establishing connection to Kevin Derrick (Ketoni director)",
+      "actors": [
+        "PERSON_007",
+        "PERSON_008"
+      ],
+      "entities_involved": [
+        "PERSON_007",
+        "PERSON_008",
+        "ORG_009"
+      ],
+      "financial_impact": "N/A",
+      "evidence_refs": [
+        "George Group records"
+      ],
+      "legal_significance": "bantjies_ketoni_connection_established",
+      "significance_level": 8,
+      "added_version": "v40"
+    },
+    {
+      "event_id": "EVENT_H016",
+      "title": "Bank Cards Expire Except RWD — Expense Dumping Begins",
+      "date": "2023-07-31",
+      "category": "financial_manipulation",
+      "description": "All bank cards expire EXCEPT RegimA Worldwide Distribution — forces all expenses to Daniel's company. 18 days after Kayla's murder.",
+      "actors": [
+        "PERSON_002"
+      ],
+      "entities_involved": [
+        "ORG_002",
+        "PERSON_003"
+      ],
+      "financial_impact": "Unknown (systematic)",
+      "evidence_refs": [
+        "Bank card expiry records",
+        "RWD statements"
+      ],
+      "legal_significance": "expense_dumping_mechanism_activated",
+      "significance_level": 8,
+      "added_version": "v40"
+    },
+    {
+      "event_id": "EVENT_H017",
+      "title": "ReZonance Dissolution Pressure Meeting",
+      "date": "2024-02-14",
+      "category": "conspiracy_execution",
+      "description": "Meeting to pressure Daniel to dissolve ReZonance (R1.035M creditor) — all three conspirators present",
+      "actors": [
+        "PERSON_001",
+        "PERSON_002",
+        "PERSON_007"
+      ],
+      "entities_involved": [
+        "PERSON_001",
+        "PERSON_002",
+        "PERSON_007",
+        "ORG_006"
+      ],
+      "financial_impact": "R1,035,000",
+      "evidence_refs": [
+        "Meeting notes Feb 14 2024"
+      ],
+      "legal_significance": "creditor_elimination_attempt",
+      "significance_level": 9,
+      "added_version": "v40"
+    },
+    {
+      "event_id": "EVENT_H019",
+      "title": "Bantjies Appointed Trustee of FFT (Covert)",
+      "date": "2024-07-01",
+      "category": "conspiracy_execution",
+      "description": "Bantjies covertly appointed as Trustee of Faucitt Family Trust — creates 2-vs-1 majority (Peter + Bantjies vs Jax)",
+      "actors": [
+        "PERSON_007",
+        "PERSON_002"
+      ],
+      "entities_involved": [
+        "PERSON_007",
+        "ORG_008"
+      ],
+      "financial_impact": "R18,750,000 (control)",
+      "evidence_refs": [
+        "Trust amendment documents"
+      ],
+      "legal_significance": "majority_control_created_over_trust",
+      "significance_level": 9,
+      "added_version": "v40"
+    },
+    {
+      "event_id": "EVENT_H022",
+      "title": "Trustee Appointment Backdated 41 Days",
+      "date": "2025-07-01",
+      "category": "fraud",
+      "description": "Peter's Main Trustee appointment letter dated July 1 but actually signed August 11 — 41-day backdating",
+      "actors": [
+        "PERSON_001",
+        "PERSON_002"
+      ],
+      "entities_involved": [
+        "PERSON_001",
+        "ORG_008"
+      ],
+      "financial_impact": "R18,750,000 (control)",
+      "evidence_refs": [
+        "LetterofAppointment11082025.pdf"
+      ],
+      "legal_significance": "fraudulent_backdating_of_legal_document",
+      "significance_level": 9,
+      "added_version": "v40"
+    },
+    {
+      "event_id": "EVENT_H023",
+      "title": "Email Hijacking Notification — Impersonation of Daniel",
+      "date": "2025-07-06",
+      "category": "identity_fraud",
+      "description": "Fraudulent email sent from dan@regima.zone claiming Daniel is changing to dan@regima.com — social engineering attack",
+      "actors": [
+        "PERSON_002"
+      ],
+      "entities_involved": [
+        "PERSON_002",
+        "PERSON_003"
+      ],
+      "financial_impact": "N/A",
+      "evidence_refs": [
+        "Email 2025-07-06 06:05:40 UTC"
+      ],
+      "legal_significance": "identity_fraud_impersonation",
+      "significance_level": 8,
+      "added_version": "v40"
+    },
+    {
+      "event_id": "EVENT_H024",
+      "title": "Trustee Appointment Signed — Sent to Bantjies as PRIMARY",
+      "date": "2025-08-11",
+      "category": "conspiracy_execution",
+      "description": "Rynette sends trustee appointment to Bantjies as PRIMARY recipient (Peter only CC'd) — proves Bantjies is real controller",
+      "actors": [
+        "PERSON_002",
+        "PERSON_007"
+      ],
+      "entities_involved": [
+        "PERSON_002",
+        "PERSON_007",
+        "PERSON_001"
+      ],
+      "financial_impact": "N/A",
+      "evidence_refs": [
+        "Email 2025-08-11 11:00:24 UTC from rynette@regimaskin.co.za"
+      ],
+      "legal_significance": "proves_bantjies_is_ultimate_controller",
+      "significance_level": 10,
+      "added_version": "v40"
+    },
+    {
+      "event_id": "EVENT_H025",
+      "title": "Jax Forwards Trustee Email with 'Phishing' Label",
+      "date": "2025-08-12",
+      "category": "whistleblowing",
+      "description": "Jax forwards trustee appointment email to Daniel labelled 'Phishing' — suspects fraud. ONE DAY before interdict filed against her.",
+      "actors": [
+        "PERSON_004"
+      ],
+      "entities_involved": [
+        "PERSON_004",
+        "PERSON_003"
+      ],
+      "financial_impact": "N/A",
+      "evidence_refs": [
+        "Email 2025-08-12 13:05:07 UTC"
+      ],
+      "legal_significance": "whistleblower_retaliation_trigger",
+      "significance_level": 9,
+      "added_version": "v40"
+    },
+    {
+      "event_id": "EVENT_H026",
+      "title": "Sage Subscription Control — Rynette is Subscription Owner",
+      "date": "2025-08-25",
+      "category": "evidence_documentation",
+      "description": "Sage screenshot shows 'To activate your account, please contact Rynette Farrar who is the subscription owner'",
+      "actors": [
+        "PERSON_002"
+      ],
+      "entities_involved": [
+        "PERSON_002",
+        "ORG_002"
+      ],
+      "financial_impact": "N/A",
+      "evidence_refs": [
+        "Sage screenshot 2025-08-25"
+      ],
+      "legal_significance": "proves_rynette_controls_all_accounting",
+      "significance_level": 10,
+      "added_version": "v40"
+    },
+    {
+      "event_id": "EVENT_H027",
+      "title": "R1.73M Unauthorized Bank Transfer",
+      "date": "2025-09-11",
+      "category": "theft",
+      "description": "R1.73M transferred from company account without authorization — fund extraction during 'delay' period",
+      "actors": [
+        "PERSON_002",
+        "PERSON_007"
+      ],
+      "entities_involved": [
+        "PERSON_002",
+        "PERSON_007",
+        "ORG_002"
+      ],
+      "financial_impact": "R1,730,000",
+      "evidence_refs": [
+        "Bank statement 2025-09-11"
+      ],
+      "legal_significance": "unauthorized_fund_extraction",
+      "significance_level": 9,
+      "added_version": "v40"
     }
   ]
 }

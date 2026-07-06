@@ -1,14 +1,14 @@
 {
   "metadata": {
-    "version": "34.0_FINAL_REFINED_2026_01_22",
+    "version": "40.0_COMPREHENSIVE_BACKFILL_2026_07_06",
     "created_date": "2025-11-10",
     "description": "Refined entity model for Revenue Stream Hijacking case 2025-137857",
     "case_number": "2025-137857",
     "modeling_approach": "agentic_entity_modeling",
-    "last_updated": "2026-03-25T13:32:39.260358",
+    "last_updated": "2026-07-06T12:15:27.086912",
     "changes": "Comprehensive LEX refinement - burden of proof analysis added",
     "total_entities": 94,
-    "total_persons": 41,
+    "total_persons": 42,
     "total_organizations": 53
   },
   "entities": {
@@ -1385,7 +1385,7 @@
       },
       {
         "entity_id": "PERSON_32",
-        "name": "Chan\u00e9 Auriele Todd",
+        "name": "Chané Auriele Todd",
         "id_number": "8909280264080",
         "date_of_birth": "1989-09-28",
         "role": "Distributor",
@@ -1815,6 +1815,22 @@
         },
         "timeline_events": [],
         "refinement_date": "2026-03-25T13:32:18.098809"
+      },
+      {
+        "entity_id": "PERSON_014",
+        "name": "Kevin Derrick",
+        "role": "ketoni_director",
+        "agent_type": "complicit",
+        "involvement_events": 2,
+        "primary_actions": [
+          "ketoni_management",
+          "bantjies_connection"
+        ],
+        "relationships": [
+          "director_of_ketoni",
+          "george_group_connection_to_bantjies"
+        ],
+        "added_version": "v40"
       }
     ],
     "organizations": [
@@ -2932,7 +2948,7 @@
         "registered_address": "37 Sandpiper Street, Ebotse Golf Estate, Benoni, 1514",
         "directors": [
           {
-            "name": "Chan\u00e9 Auriele Todd",
+            "name": "Chané Auriele Todd",
             "status": "ACTIVE"
           },
           {
