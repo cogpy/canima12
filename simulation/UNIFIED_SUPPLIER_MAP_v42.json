@@ -1,0 +1,1144 @@
+{
+  "version": "v42_UNIFIED_SUPPLIER_MAP",
+  "timestamp": "2026-07-06",
+  "composition": "/qb-data + /fin-audit-za-v2 + /ksm-fincosys + /fincosys-account-perfect",
+  "summary": {
+    "total_mazaudit_suppliers": 63,
+    "evidence_complete": 17,
+    "evidence_partial": 7,
+    "evidence_missing": 39,
+    "qbo_verified": 19,
+    "bank_verified": 0,
+    "bank_statements_scanned": 0,
+    "mazars_questioned_amount": 10847862,
+    "bank_matched_amount": 8882322.31,
+    "invoice_backed_amount": 7951525.53,
+    "bank_verified_suppliers": 22,
+    "bank_verified_total": 20889386.5,
+    "elliott_total_found": 929188.94
+  },
+  "suppliers": {
+    "adobe": {
+      "name": "adobe",
+      "mazaudit_evidence_files": 88,
+      "mazaudit_invoice_files": 26,
+      "qbo_matched": true,
+      "qbo_vendor_name": "Adobe",
+      "qbo_entities": [
+        "RWW"
+      ],
+      "bank_matched": false,
+      "bank_transaction_count": 0,
+      "bank_total_amount": 0,
+      "bank_entities": [],
+      "bank_samples": [],
+      "evidence_status": "COMPLETE"
+    },
+    "afrihost": {
+      "name": "afrihost",
+      "mazaudit_evidence_files": 18,
+      "mazaudit_invoice_files": 18,
+      "qbo_matched": true,
+      "qbo_vendor_name": "Afrihost",
+      "qbo_entities": [
+        "DRH"
+      ],
+      "bank_matched": false,
+      "bank_transaction_count": 0,
+      "bank_total_amount": 0,
+      "bank_entities": [],
+      "bank_samples": [],
+      "evidence_status": "COMPLETE"
+    },
+    "airtable": {
+      "name": "airtable",
+      "mazaudit_evidence_files": 2,
+      "mazaudit_invoice_files": 0,
+      "qbo_matched": false,
+      "qbo_vendor_name": null,
+      "qbo_entities": [],
+      "bank_matched": false,
+      "bank_transaction_count": 0,
+      "bank_total_amount": 0,
+      "bank_entities": [],
+      "bank_samples": [],
+      "evidence_status": "MISSING"
+    },
+    "anaconda": {
+      "name": "anaconda",
+      "mazaudit_evidence_files": 0,
+      "mazaudit_invoice_files": 0,
+      "qbo_matched": false,
+      "qbo_vendor_name": null,
+      "qbo_entities": [],
+      "bank_matched": false,
+      "bank_transaction_count": 0,
+      "bank_total_amount": 0,
+      "bank_entities": [],
+      "bank_samples": [],
+      "evidence_status": "MISSING"
+    },
+    "anthropic": {
+      "name": "anthropic",
+      "mazaudit_evidence_files": 2,
+      "mazaudit_invoice_files": 0,
+      "qbo_matched": false,
+      "qbo_vendor_name": null,
+      "qbo_entities": [],
+      "bank_matched": false,
+      "bank_transaction_count": 0,
+      "bank_total_amount": 0,
+      "bank_entities": [],
+      "bank_samples": [],
+      "evidence_status": "MISSING"
+    },
+    "az-ict": {
+      "name": "az-ict",
+      "mazaudit_evidence_files": 0,
+      "mazaudit_invoice_files": 0,
+      "qbo_matched": false,
+      "qbo_vendor_name": null,
+      "qbo_entities": [],
+      "bank_matched": false,
+      "bank_transaction_count": 0,
+      "bank_total_amount": 0,
+      "bank_entities": [],
+      "bank_samples": [],
+      "evidence_status": "MISSING"
+    },
+    "az-solutions": {
+      "name": "az-solutions",
+      "mazaudit_evidence_files": 1,
+      "mazaudit_invoice_files": 0,
+      "qbo_matched": true,
+      "qbo_vendor_name": "Credit Account Recovery Solutions (V)",
+      "qbo_entities": [
+        "DRH"
+      ],
+      "bank_matched": false,
+      "bank_transaction_count": 0,
+      "bank_total_amount": 0,
+      "bank_entities": [],
+      "bank_samples": [],
+      "evidence_status": "MISSING"
+    },
+    "beautiful_life": {
+      "name": "beautiful_life",
+      "mazaudit_evidence_files": 58,
+      "mazaudit_invoice_files": 58,
+      "qbo_matched": false,
+      "qbo_vendor_name": null,
+      "qbo_entities": [],
+      "bank_matched": false,
+      "bank_transaction_count": 0,
+      "bank_total_amount": 0,
+      "bank_entities": [],
+      "bank_samples": [],
+      "evidence_status": "COMPLETE"
+    },
+    "beecept": {
+      "name": "beecept",
+      "mazaudit_evidence_files": 0,
+      "mazaudit_invoice_files": 0,
+      "qbo_matched": true,
+      "qbo_vendor_name": "EE",
+      "qbo_entities": [
+        "DRH"
+      ],
+      "bank_matched": false,
+      "bank_transaction_count": 0,
+      "bank_total_amount": 0,
+      "bank_entities": [],
+      "bank_samples": [],
+      "evidence_status": "MISSING"
+    },
+    "bobgo": {
+      "name": "bobgo",
+      "mazaudit_evidence_files": 28,
+      "mazaudit_invoice_files": 28,
+      "qbo_matched": false,
+      "qbo_vendor_name": null,
+      "qbo_entities": [],
+      "bank_matched": false,
+      "bank_transaction_count": 0,
+      "bank_total_amount": 0,
+      "bank_entities": [],
+      "bank_samples": [],
+      "evidence_status": "COMPLETE"
+    },
+    "bubble": {
+      "name": "bubble",
+      "mazaudit_evidence_files": 0,
+      "mazaudit_invoice_files": 0,
+      "qbo_matched": true,
+      "qbo_vendor_name": "PROTECT YOUR BUBBLE",
+      "qbo_entities": [
+        "DRH"
+      ],
+      "bank_matched": false,
+      "bank_transaction_count": 0,
+      "bank_total_amount": 0,
+      "bank_entities": [],
+      "bank_samples": [],
+      "evidence_status": "MISSING"
+    },
+    "canva": {
+      "name": "canva",
+      "mazaudit_evidence_files": 38,
+      "mazaudit_invoice_files": 0,
+      "qbo_matched": false,
+      "qbo_vendor_name": null,
+      "qbo_entities": [],
+      "bank_matched": false,
+      "bank_transaction_count": 0,
+      "bank_total_amount": 0,
+      "bank_entities": [],
+      "bank_samples": [],
+      "evidence_status": "MISSING"
+    },
+    "chatbase": {
+      "name": "chatbase",
+      "mazaudit_evidence_files": 2,
+      "mazaudit_invoice_files": 0,
+      "qbo_matched": true,
+      "qbo_vendor_name": "BA",
+      "qbo_entities": [
+        "DRH"
+      ],
+      "bank_matched": false,
+      "bank_transaction_count": 0,
+      "bank_total_amount": 0,
+      "bank_entities": [],
+      "bank_samples": [],
+      "evidence_status": "MISSING"
+    },
+    "clinicsoft": {
+      "name": "clinicsoft",
+      "mazaudit_evidence_files": 2,
+      "mazaudit_invoice_files": 0,
+      "qbo_matched": false,
+      "qbo_vendor_name": null,
+      "qbo_entities": [],
+      "bank_matched": false,
+      "bank_transaction_count": 0,
+      "bank_total_amount": 0,
+      "bank_entities": [],
+      "bank_samples": [],
+      "evidence_status": "MISSING"
+    },
+    "cloudflare": {
+      "name": "cloudflare",
+      "mazaudit_evidence_files": 15,
+      "mazaudit_invoice_files": 15,
+      "qbo_matched": false,
+      "qbo_vendor_name": null,
+      "qbo_entities": [],
+      "bank_matched": false,
+      "bank_transaction_count": 0,
+      "bank_total_amount": 0,
+      "bank_entities": [],
+      "bank_samples": [],
+      "evidence_status": "COMPLETE"
+    },
+    "coptis": {
+      "name": "coptis",
+      "mazaudit_evidence_files": 4,
+      "mazaudit_invoice_files": 4,
+      "qbo_matched": false,
+      "qbo_vendor_name": null,
+      "qbo_entities": [],
+      "bank_matched": false,
+      "bank_transaction_count": 0,
+      "bank_total_amount": 0,
+      "bank_entities": [],
+      "bank_samples": [],
+      "evidence_status": "PARTIAL"
+    },
+    "datamass": {
+      "name": "datamass",
+      "mazaudit_evidence_files": 1,
+      "mazaudit_invoice_files": 1,
+      "qbo_matched": false,
+      "qbo_vendor_name": null,
+      "qbo_entities": [],
+      "bank_matched": false,
+      "bank_transaction_count": 0,
+      "bank_total_amount": 0,
+      "bank_entities": [],
+      "bank_samples": [],
+      "evidence_status": "PARTIAL"
+    },
+    "digitalocean": {
+      "name": "digitalocean",
+      "mazaudit_evidence_files": 2,
+      "mazaudit_invoice_files": 0,
+      "qbo_matched": false,
+      "qbo_vendor_name": null,
+      "qbo_entities": [],
+      "bank_matched": false,
+      "bank_transaction_count": 0,
+      "bank_total_amount": 0,
+      "bank_entities": [],
+      "bank_samples": [],
+      "evidence_status": "MISSING"
+    },
+    "docker": {
+      "name": "docker",
+      "mazaudit_evidence_files": 2,
+      "mazaudit_invoice_files": 0,
+      "qbo_matched": false,
+      "qbo_vendor_name": null,
+      "qbo_entities": [],
+      "bank_matched": false,
+      "bank_transaction_count": 0,
+      "bank_total_amount": 0,
+      "bank_entities": [],
+      "bank_samples": [],
+      "evidence_status": "MISSING"
+    },
+    "dropbox": {
+      "name": "dropbox",
+      "mazaudit_evidence_files": 10,
+      "mazaudit_invoice_files": 0,
+      "qbo_matched": true,
+      "qbo_vendor_name": "Dropbox",
+      "qbo_entities": [
+        "RWW"
+      ],
+      "bank_matched": false,
+      "bank_transaction_count": 0,
+      "bank_total_amount": 0,
+      "bank_entities": [],
+      "bank_samples": [],
+      "evidence_status": "MISSING"
+    },
+    "facebook-meta": {
+      "name": "facebook-meta",
+      "mazaudit_evidence_files": 256,
+      "mazaudit_invoice_files": 0,
+      "qbo_matched": true,
+      "qbo_vendor_name": "Facebook",
+      "qbo_entities": [
+        "RWW"
+      ],
+      "bank_matched": false,
+      "bank_transaction_count": 0,
+      "bank_total_amount": 0,
+      "bank_entities": [],
+      "bank_samples": [],
+      "evidence_status": "MISSING"
+    },
+    "fnb": {
+      "name": "fnb",
+      "mazaudit_evidence_files": 30,
+      "mazaudit_invoice_files": 1,
+      "qbo_matched": true,
+      "qbo_vendor_name": "FNB",
+      "qbo_entities": [
+        "RWW",
+        "RSA"
+      ],
+      "bank_matched": false,
+      "bank_transaction_count": 0,
+      "bank_total_amount": 0,
+      "bank_entities": [],
+      "bank_samples": [],
+      "evidence_status": "PARTIAL"
+    },
+    "frappe": {
+      "name": "frappe",
+      "mazaudit_evidence_files": 0,
+      "mazaudit_invoice_files": 0,
+      "qbo_matched": false,
+      "qbo_vendor_name": null,
+      "qbo_entities": [],
+      "bank_matched": false,
+      "bank_transaction_count": 0,
+      "bank_total_amount": 0,
+      "bank_entities": [],
+      "bank_samples": [],
+      "evidence_status": "MISSING"
+    },
+    "freshworks": {
+      "name": "freshworks",
+      "mazaudit_evidence_files": 200,
+      "mazaudit_invoice_files": 189,
+      "qbo_matched": false,
+      "qbo_vendor_name": null,
+      "qbo_entities": [],
+      "bank_matched": false,
+      "bank_transaction_count": 0,
+      "bank_total_amount": 0,
+      "bank_entities": [],
+      "bank_samples": [],
+      "evidence_status": "COMPLETE"
+    },
+    "github": {
+      "name": "github",
+      "mazaudit_evidence_files": 312,
+      "mazaudit_invoice_files": 162,
+      "qbo_matched": true,
+      "qbo_vendor_name": "GitHub",
+      "qbo_entities": [
+        "RWW"
+      ],
+      "bank_matched": false,
+      "bank_transaction_count": 0,
+      "bank_total_amount": 0,
+      "bank_entities": [],
+      "bank_samples": [],
+      "evidence_status": "COMPLETE"
+    },
+    "gitpod": {
+      "name": "gitpod",
+      "mazaudit_evidence_files": 0,
+      "mazaudit_invoice_files": 0,
+      "qbo_matched": false,
+      "qbo_vendor_name": null,
+      "qbo_entities": [],
+      "bank_matched": false,
+      "bank_transaction_count": 0,
+      "bank_total_amount": 0,
+      "bank_entities": [],
+      "bank_samples": [],
+      "evidence_status": "MISSING"
+    },
+    "google": {
+      "name": "google",
+      "mazaudit_evidence_files": 253,
+      "mazaudit_invoice_files": 248,
+      "qbo_matched": true,
+      "qbo_vendor_name": "Google",
+      "qbo_entities": [
+        "RWW",
+        "DRH",
+        "RML-UK"
+      ],
+      "bank_matched": false,
+      "bank_transaction_count": 0,
+      "bank_total_amount": 0,
+      "bank_entities": [],
+      "bank_samples": [],
+      "evidence_status": "COMPLETE"
+    },
+    "goringe": {
+      "name": "goringe",
+      "mazaudit_evidence_files": 60,
+      "mazaudit_invoice_files": 60,
+      "qbo_matched": true,
+      "qbo_vendor_name": "Goringe Accountants",
+      "qbo_entities": [
+        "DRH",
+        "REU"
+      ],
+      "bank_matched": false,
+      "bank_transaction_count": 0,
+      "bank_total_amount": 0,
+      "bank_entities": [],
+      "bank_samples": [],
+      "evidence_status": "COMPLETE"
+    },
+    "greenback": {
+      "name": "greenback",
+      "mazaudit_evidence_files": 2,
+      "mazaudit_invoice_files": 0,
+      "qbo_matched": true,
+      "qbo_vendor_name": "BA",
+      "qbo_entities": [
+        "DRH"
+      ],
+      "bank_matched": false,
+      "bank_transaction_count": 0,
+      "bank_total_amount": 0,
+      "bank_entities": [],
+      "bank_samples": [],
+      "evidence_status": "MISSING"
+    },
+    "hasura": {
+      "name": "hasura",
+      "mazaudit_evidence_files": 0,
+      "mazaudit_invoice_files": 0,
+      "qbo_matched": false,
+      "qbo_vendor_name": null,
+      "qbo_entities": [],
+      "bank_matched": false,
+      "bank_transaction_count": 0,
+      "bank_total_amount": 0,
+      "bank_entities": [],
+      "bank_samples": [],
+      "evidence_status": "MISSING"
+    },
+    "huggingface": {
+      "name": "huggingface",
+      "mazaudit_evidence_files": 2,
+      "mazaudit_invoice_files": 0,
+      "qbo_matched": false,
+      "qbo_vendor_name": null,
+      "qbo_entities": [],
+      "bank_matched": false,
+      "bank_transaction_count": 0,
+      "bank_total_amount": 0,
+      "bank_entities": [],
+      "bank_samples": [],
+      "evidence_status": "MISSING"
+    },
+    "indeed_labs": {
+      "name": "indeed_labs",
+      "mazaudit_evidence_files": 7,
+      "mazaudit_invoice_files": 7,
+      "qbo_matched": true,
+      "qbo_vendor_name": "EE",
+      "qbo_entities": [
+        "DRH"
+      ],
+      "bank_matched": false,
+      "bank_transaction_count": 0,
+      "bank_total_amount": 0,
+      "bank_entities": [],
+      "bank_samples": [],
+      "evidence_status": "COMPLETE"
+    },
+    "intercom": {
+      "name": "intercom",
+      "mazaudit_evidence_files": 8,
+      "mazaudit_invoice_files": 0,
+      "qbo_matched": false,
+      "qbo_vendor_name": null,
+      "qbo_entities": [],
+      "bank_matched": false,
+      "bank_transaction_count": 0,
+      "bank_total_amount": 0,
+      "bank_entities": [],
+      "bank_samples": [],
+      "evidence_status": "MISSING"
+    },
+    "intuit": {
+      "name": "intuit",
+      "mazaudit_evidence_files": 5,
+      "mazaudit_invoice_files": 3,
+      "qbo_matched": false,
+      "qbo_vendor_name": null,
+      "qbo_entities": [],
+      "bank_matched": false,
+      "bank_transaction_count": 0,
+      "bank_total_amount": 0,
+      "bank_entities": [],
+      "bank_samples": [],
+      "evidence_status": "PARTIAL"
+    },
+    "managewp": {
+      "name": "managewp",
+      "mazaudit_evidence_files": 2,
+      "mazaudit_invoice_files": 0,
+      "qbo_matched": false,
+      "qbo_vendor_name": null,
+      "qbo_entities": [],
+      "bank_matched": false,
+      "bank_transaction_count": 0,
+      "bank_total_amount": 0,
+      "bank_entities": [],
+      "bank_samples": [],
+      "evidence_status": "MISSING"
+    },
+    "mango": {
+      "name": "mango",
+      "mazaudit_evidence_files": 0,
+      "mazaudit_invoice_files": 0,
+      "qbo_matched": false,
+      "qbo_vendor_name": null,
+      "qbo_entities": [],
+      "bank_matched": false,
+      "bank_transaction_count": 0,
+      "bank_total_amount": 0,
+      "bank_entities": [],
+      "bank_samples": [],
+      "evidence_status": "MISSING"
+    },
+    "mattermost": {
+      "name": "mattermost",
+      "mazaudit_evidence_files": 2,
+      "mazaudit_invoice_files": 0,
+      "qbo_matched": false,
+      "qbo_vendor_name": null,
+      "qbo_entities": [],
+      "bank_matched": false,
+      "bank_transaction_count": 0,
+      "bank_total_amount": 0,
+      "bank_entities": [],
+      "bank_samples": [],
+      "evidence_status": "MISSING"
+    },
+    "microsoft": {
+      "name": "microsoft",
+      "mazaudit_evidence_files": 1032,
+      "mazaudit_invoice_files": 922,
+      "qbo_matched": true,
+      "qbo_vendor_name": "Microsoft",
+      "qbo_entities": [
+        "RWW",
+        "DRH"
+      ],
+      "bank_matched": false,
+      "bank_transaction_count": 0,
+      "bank_total_amount": 0,
+      "bank_entities": [],
+      "bank_samples": [],
+      "evidence_status": "COMPLETE"
+    },
+    "miosalon": {
+      "name": "miosalon",
+      "mazaudit_evidence_files": 2,
+      "mazaudit_invoice_files": 0,
+      "qbo_matched": false,
+      "qbo_vendor_name": null,
+      "qbo_entities": [],
+      "bank_matched": false,
+      "bank_transaction_count": 0,
+      "bank_total_amount": 0,
+      "bank_entities": [],
+      "bank_samples": [],
+      "evidence_status": "MISSING"
+    },
+    "neon": {
+      "name": "neon",
+      "mazaudit_evidence_files": 2,
+      "mazaudit_invoice_files": 2,
+      "qbo_matched": false,
+      "qbo_vendor_name": null,
+      "qbo_entities": [],
+      "bank_matched": false,
+      "bank_transaction_count": 0,
+      "bank_total_amount": 0,
+      "bank_entities": [],
+      "bank_samples": [],
+      "evidence_status": "PARTIAL"
+    },
+    "notion": {
+      "name": "notion",
+      "mazaudit_evidence_files": 2,
+      "mazaudit_invoice_files": 0,
+      "qbo_matched": false,
+      "qbo_vendor_name": null,
+      "qbo_entities": [],
+      "bank_matched": false,
+      "bank_transaction_count": 0,
+      "bank_total_amount": 0,
+      "bank_entities": [],
+      "bank_samples": [],
+      "evidence_status": "MISSING"
+    },
+    "npm": {
+      "name": "npm",
+      "mazaudit_evidence_files": 1,
+      "mazaudit_invoice_files": 0,
+      "qbo_matched": false,
+      "qbo_vendor_name": null,
+      "qbo_entities": [],
+      "bank_matched": false,
+      "bank_transaction_count": 0,
+      "bank_total_amount": 0,
+      "bank_entities": [],
+      "bank_samples": [],
+      "evidence_status": "MISSING"
+    },
+    "obsidian": {
+      "name": "obsidian",
+      "mazaudit_evidence_files": 2,
+      "mazaudit_invoice_files": 0,
+      "qbo_matched": false,
+      "qbo_vendor_name": null,
+      "qbo_entities": [],
+      "bank_matched": false,
+      "bank_transaction_count": 0,
+      "bank_total_amount": 0,
+      "bank_entities": [],
+      "bank_samples": [],
+      "evidence_status": "MISSING"
+    },
+    "openai": {
+      "name": "openai",
+      "mazaudit_evidence_files": 2,
+      "mazaudit_invoice_files": 0,
+      "qbo_matched": false,
+      "qbo_vendor_name": null,
+      "qbo_entities": [],
+      "bank_matched": false,
+      "bank_transaction_count": 0,
+      "bank_total_amount": 0,
+      "bank_entities": [],
+      "bank_samples": [],
+      "evidence_status": "MISSING"
+    },
+    "paddle": {
+      "name": "paddle",
+      "mazaudit_evidence_files": 2,
+      "mazaudit_invoice_files": 0,
+      "qbo_matched": false,
+      "qbo_vendor_name": null,
+      "qbo_entities": [],
+      "bank_matched": false,
+      "bank_transaction_count": 0,
+      "bank_total_amount": 0,
+      "bank_entities": [],
+      "bank_samples": [],
+      "evidence_status": "MISSING"
+    },
+    "playfab": {
+      "name": "playfab",
+      "mazaudit_evidence_files": 2,
+      "mazaudit_invoice_files": 0,
+      "qbo_matched": false,
+      "qbo_vendor_name": null,
+      "qbo_entities": [],
+      "bank_matched": false,
+      "bank_transaction_count": 0,
+      "bank_total_amount": 0,
+      "bank_entities": [],
+      "bank_samples": [],
+      "evidence_status": "MISSING"
+    },
+    "poe": {
+      "name": "poe",
+      "mazaudit_evidence_files": 3,
+      "mazaudit_invoice_files": 0,
+      "qbo_matched": false,
+      "qbo_vendor_name": null,
+      "qbo_entities": [],
+      "bank_matched": false,
+      "bank_transaction_count": 0,
+      "bank_total_amount": 0,
+      "bank_entities": [],
+      "bank_samples": [],
+      "evidence_status": "MISSING"
+    },
+    "railway": {
+      "name": "railway",
+      "mazaudit_evidence_files": 0,
+      "mazaudit_invoice_files": 0,
+      "qbo_matched": false,
+      "qbo_vendor_name": null,
+      "qbo_entities": [],
+      "bank_matched": false,
+      "bank_transaction_count": 0,
+      "bank_total_amount": 0,
+      "bank_entities": [],
+      "bank_samples": [],
+      "evidence_status": "MISSING"
+    },
+    "replit": {
+      "name": "replit",
+      "mazaudit_evidence_files": 2,
+      "mazaudit_invoice_files": 0,
+      "qbo_matched": false,
+      "qbo_vendor_name": null,
+      "qbo_entities": [],
+      "bank_matched": false,
+      "bank_transaction_count": 0,
+      "bank_total_amount": 0,
+      "bank_entities": [],
+      "bank_samples": [],
+      "evidence_status": "MISSING"
+    },
+    "rezonance": {
+      "name": "rezonance",
+      "mazaudit_evidence_files": 218,
+      "mazaudit_invoice_files": 25,
+      "qbo_matched": true,
+      "qbo_vendor_name": "Rezonance (Pty) Ltd",
+      "qbo_entities": [
+        "RWW"
+      ],
+      "bank_matched": false,
+      "bank_transaction_count": 0,
+      "bank_total_amount": 0,
+      "bank_entities": [],
+      "bank_samples": [],
+      "evidence_status": "COMPLETE"
+    },
+    "sage": {
+      "name": "sage",
+      "mazaudit_evidence_files": 371,
+      "mazaudit_invoice_files": 287,
+      "qbo_matched": true,
+      "qbo_vendor_name": "Sage",
+      "qbo_entities": [
+        "RWW"
+      ],
+      "bank_matched": false,
+      "bank_transaction_count": 0,
+      "bank_total_amount": 0,
+      "bank_entities": [],
+      "bank_samples": [],
+      "evidence_status": "COMPLETE"
+    },
+    "sentry": {
+      "name": "sentry",
+      "mazaudit_evidence_files": 2,
+      "mazaudit_invoice_files": 0,
+      "qbo_matched": false,
+      "qbo_vendor_name": null,
+      "qbo_entities": [],
+      "bank_matched": false,
+      "bank_transaction_count": 0,
+      "bank_total_amount": 0,
+      "bank_entities": [],
+      "bank_samples": [],
+      "evidence_status": "MISSING"
+    },
+    "shopify": {
+      "name": "shopify",
+      "mazaudit_evidence_files": 290,
+      "mazaudit_invoice_files": 147,
+      "qbo_matched": false,
+      "qbo_vendor_name": null,
+      "qbo_entities": [],
+      "bank_matched": false,
+      "bank_transaction_count": 0,
+      "bank_total_amount": 0,
+      "bank_entities": [],
+      "bank_samples": [],
+      "evidence_status": "COMPLETE"
+    },
+    "slack": {
+      "name": "slack",
+      "mazaudit_evidence_files": 663,
+      "mazaudit_invoice_files": 44,
+      "qbo_matched": false,
+      "qbo_vendor_name": null,
+      "qbo_entities": [],
+      "bank_matched": false,
+      "bank_transaction_count": 0,
+      "bank_total_amount": 0,
+      "bank_entities": [],
+      "bank_samples": [],
+      "evidence_status": "COMPLETE"
+    },
+    "stock2shop": {
+      "name": "stock2shop",
+      "mazaudit_evidence_files": 281,
+      "mazaudit_invoice_files": 130,
+      "qbo_matched": true,
+      "qbo_vendor_name": "Stock2shop (Pty) Ltd",
+      "qbo_entities": [
+        "RWW"
+      ],
+      "bank_matched": false,
+      "bank_transaction_count": 0,
+      "bank_total_amount": 0,
+      "bank_entities": [],
+      "bank_samples": [],
+      "evidence_status": "COMPLETE"
+    },
+    "tabnine": {
+      "name": "tabnine",
+      "mazaudit_evidence_files": 0,
+      "mazaudit_invoice_files": 0,
+      "qbo_matched": false,
+      "qbo_vendor_name": null,
+      "qbo_entities": [],
+      "bank_matched": false,
+      "bank_transaction_count": 0,
+      "bank_total_amount": 0,
+      "bank_entities": [],
+      "bank_samples": [],
+      "evidence_status": "MISSING"
+    },
+    "tax_invoices_misc": {
+      "name": "tax_invoices_misc",
+      "mazaudit_evidence_files": 16,
+      "mazaudit_invoice_files": 16,
+      "qbo_matched": false,
+      "qbo_vendor_name": null,
+      "qbo_entities": [],
+      "bank_matched": false,
+      "bank_transaction_count": 0,
+      "bank_total_amount": 0,
+      "bank_entities": [],
+      "bank_samples": [],
+      "evidence_status": "COMPLETE"
+    },
+    "termius": {
+      "name": "termius",
+      "mazaudit_evidence_files": 2,
+      "mazaudit_invoice_files": 0,
+      "qbo_matched": false,
+      "qbo_vendor_name": null,
+      "qbo_entities": [],
+      "bank_matched": false,
+      "bank_transaction_count": 0,
+      "bank_total_amount": 0,
+      "bank_entities": [],
+      "bank_samples": [],
+      "evidence_status": "MISSING"
+    },
+    "twenty": {
+      "name": "twenty",
+      "mazaudit_evidence_files": 0,
+      "mazaudit_invoice_files": 0,
+      "qbo_matched": false,
+      "qbo_vendor_name": null,
+      "qbo_entities": [],
+      "bank_matched": false,
+      "bank_transaction_count": 0,
+      "bank_total_amount": 0,
+      "bank_entities": [],
+      "bank_samples": [],
+      "evidence_status": "MISSING"
+    },
+    "vercel": {
+      "name": "vercel",
+      "mazaudit_evidence_files": 6,
+      "mazaudit_invoice_files": 4,
+      "qbo_matched": false,
+      "qbo_vendor_name": null,
+      "qbo_entities": [],
+      "bank_matched": false,
+      "bank_transaction_count": 0,
+      "bank_total_amount": 0,
+      "bank_entities": [],
+      "bank_samples": [],
+      "evidence_status": "PARTIAL"
+    },
+    "vodacom": {
+      "name": "vodacom",
+      "mazaudit_evidence_files": 53,
+      "mazaudit_invoice_files": 0,
+      "qbo_matched": false,
+      "qbo_vendor_name": null,
+      "qbo_entities": [],
+      "bank_matched": false,
+      "bank_transaction_count": 0,
+      "bank_total_amount": 0,
+      "bank_entities": [],
+      "bank_samples": [],
+      "evidence_status": "MISSING"
+    },
+    "wix": {
+      "name": "wix",
+      "mazaudit_evidence_files": 16,
+      "mazaudit_invoice_files": 5,
+      "qbo_matched": true,
+      "qbo_vendor_name": "Wix",
+      "qbo_entities": [
+        "RWW",
+        "RML-UK"
+      ],
+      "bank_matched": false,
+      "bank_transaction_count": 0,
+      "bank_total_amount": 0,
+      "bank_entities": [],
+      "bank_samples": [],
+      "evidence_status": "PARTIAL"
+    },
+    "woocommerce": {
+      "name": "woocommerce",
+      "mazaudit_evidence_files": 0,
+      "mazaudit_invoice_files": 0,
+      "qbo_matched": false,
+      "qbo_vendor_name": null,
+      "qbo_entities": [],
+      "bank_matched": false,
+      "bank_transaction_count": 0,
+      "bank_total_amount": 0,
+      "bank_entities": [],
+      "bank_samples": [],
+      "evidence_status": "MISSING"
+    }
+  },
+  "forensic_notes": {
+    "unmatched_explanation": "44 suppliers not in QBO are SaaS services paid via credit card (FNB Fusion card ending 4006). They appear as CARD PURCHASE debits in bank statements, not as vendor bills in QBO.",
+    "evidence_gap": "Suppliers with MISSING status need portal-download of invoices (OpenAI, Notion, Replit, Airtable etc.) or are payment processors (Paddle) that aggregate multiple services.",
+    "elliott_payments": "Elliott Attorneys payments (R478,958) are in RST bank statements - critical conflict of interest evidence for LPC complaint.",
+    "mazars_payments": "Mazars/Forvis payments traceable in bank statements - relevant for showing audit relationship and fee structure."
+  },
+  "bank_transaction_verification": {
+    "shopify": {
+      "count": 308,
+      "total": 9110988.34,
+      "entities": [
+        "RST",
+        "RWD",
+        "REZ"
+      ]
+    },
+    "rezonance": {
+      "count": 334,
+      "total": 7027429.26,
+      "entities": [
+        "RST",
+        "RWD",
+        "REZ"
+      ]
+    },
+    "google": {
+      "count": 505,
+      "total": 765898.35,
+      "entities": [
+        "RST",
+        "RWD",
+        "REZ"
+      ]
+    },
+    "microsoft": {
+      "count": 179,
+      "total": 559679.84,
+      "entities": [
+        "RST",
+        "RWD",
+        "REZ"
+      ]
+    },
+    "github": {
+      "count": 333,
+      "total": 404539.81,
+      "entities": [
+        "RWD"
+      ]
+    },
+    "openai": {
+      "count": 197,
+      "total": 383302.48,
+      "entities": [
+        "RWD"
+      ]
+    },
+    "slack": {
+      "count": 150,
+      "total": 240040.24,
+      "entities": [
+        "RWD",
+        "REZ"
+      ]
+    },
+    "freshworks": {
+      "count": 48,
+      "total": 223879.2,
+      "entities": [
+        "RST",
+        "RWD"
+      ]
+    },
+    "intuit": {
+      "count": 396,
+      "total": 209425.12,
+      "entities": [
+        "RWD"
+      ]
+    },
+    "notion": {
+      "count": 122,
+      "total": 186178.28,
+      "entities": [
+        "RWD"
+      ]
+    },
+    "vodacom": {
+      "count": 133,
+      "total": 171650.54,
+      "entities": [
+        "RST"
+      ]
+    },
+    "wix": {
+      "count": 40,
+      "total": 150617.14,
+      "entities": [
+        "RWD"
+      ]
+    },
+    "airtable": {
+      "count": 44,
+      "total": 124931.66,
+      "entities": [
+        "RWD"
+      ]
+    },
+    "replit": {
+      "count": 145,
+      "total": 98599.95,
+      "entities": [
+        "RWD"
+      ]
+    },
+    "adobe": {
+      "count": 125,
+      "total": 78486.61,
+      "entities": [
+        "RST",
+        "RWD",
+        "REZ"
+      ]
+    },
+    "canva": {
+      "count": 68,
+      "total": 59190.12,
+      "entities": [
+        "RWD"
+      ]
+    },
+    "vercel": {
+      "count": 154,
+      "total": 58756.72,
+      "entities": [
+        "RWD"
+      ]
+    },
+    "cloudflare": {
+      "count": 41,
+      "total": 46644.84,
+      "entities": [
+        "RWD"
+      ]
+    },
+    "afrihost": {
+      "count": 42,
+      "total": 33414.96,
+      "entities": [
+        "RST"
+      ]
+    },
+    "digitalocean": {
+      "count": 26,
+      "total": 23053.1,
+      "entities": [
+        "RWD"
+      ]
+    },
+    "anthropic": {
+      "count": 4,
+      "total": 3491.0,
+      "entities": [
+        "RWD"
+      ]
+    },
+    "elliott": {
+      "count": 20,
+      "total": 929188.94,
+      "entities": [
+        "RST"
+      ]
+    }
+  },
+  "elliott_evidence": {
+    "absa_primary": {
+      "account": "4112241409",
+      "transactions": 16,
+      "total": 478957.93
+    },
+    "absa_secondary": {
+      "account": "4112303451",
+      "transactions": 1,
+      "total": 5930.55
+    },
+    "villa_via_through_rst": {
+      "transactions": 1,
+      "total": 276000.0
+    },
+    "fnb_peter_repay": {
+      "transactions": 2,
+      "total": 168300.46
+    },
+    "grand_total": 929188.94,
+    "forensic_significance": "RST company funds used to pay Elliott Attorneys acting AGAINST director Daniel without consent"
+  }
+}

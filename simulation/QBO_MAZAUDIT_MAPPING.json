@@ -1,0 +1,367 @@
+{
+  "version": "v42_MAZAUDIT_QBO_SYNC",
+  "timestamp": "2026-07-06",
+  "composition": "/qb-data + /fin-audit-za-v2 + /ksm-fincosys",
+  "summary": {
+    "qbo_entities_scanned": 9,
+    "total_vendors": 336,
+    "total_customers": 1364,
+    "total_accounts": 824,
+    "total_items": 664,
+    "mazaudit_suppliers": 63,
+    "matched": 19,
+    "unmatched_mazaudit": 44,
+    "unmatched_qbo": 319
+  },
+  "matched_suppliers": [
+    {
+      "mazaudit": "adobe",
+      "qbo_name": "Adobe",
+      "entities": [
+        "RWW"
+      ],
+      "qbo_ids": {
+        "RWW": "568"
+      }
+    },
+    {
+      "mazaudit": "afrihost",
+      "qbo_name": "Afrihost",
+      "entities": [
+        "DRH"
+      ],
+      "qbo_ids": {
+        "DRH": "200"
+      }
+    },
+    {
+      "mazaudit": "az-solutions",
+      "qbo_name": "Credit Account Recovery Solutions (V)",
+      "entities": [
+        "DRH"
+      ],
+      "qbo_ids": {
+        "DRH": "129"
+      }
+    },
+    {
+      "mazaudit": "beecept",
+      "qbo_name": "EE",
+      "entities": [
+        "DRH"
+      ],
+      "qbo_ids": {
+        "DRH": "151"
+      }
+    },
+    {
+      "mazaudit": "bubble",
+      "qbo_name": "PROTECT YOUR BUBBLE",
+      "entities": [
+        "DRH"
+      ],
+      "qbo_ids": {
+        "DRH": "218"
+      }
+    },
+    {
+      "mazaudit": "chatbase",
+      "qbo_name": "BA",
+      "entities": [
+        "DRH"
+      ],
+      "qbo_ids": {
+        "DRH": "279"
+      }
+    },
+    {
+      "mazaudit": "dropbox",
+      "qbo_name": "Dropbox",
+      "entities": [
+        "RWW"
+      ],
+      "qbo_ids": {
+        "RWW": "570"
+      }
+    },
+    {
+      "mazaudit": "facebook-meta",
+      "qbo_name": "Facebook",
+      "entities": [
+        "RWW"
+      ],
+      "qbo_ids": {
+        "RWW": "573"
+      }
+    },
+    {
+      "mazaudit": "fnb",
+      "qbo_name": "FNB",
+      "entities": [
+        "RWW",
+        "RSA"
+      ],
+      "qbo_ids": {
+        "RWW": "165",
+        "RSA": "1"
+      }
+    },
+    {
+      "mazaudit": "github",
+      "qbo_name": "GitHub",
+      "entities": [
+        "RWW"
+      ],
+      "qbo_ids": {
+        "RWW": "574"
+      }
+    },
+    {
+      "mazaudit": "google",
+      "qbo_name": "Google",
+      "entities": [
+        "RWW",
+        "DRH",
+        "RML-UK"
+      ],
+      "qbo_ids": {
+        "RWW": "572",
+        "DRH": "155",
+        "RML-UK": "10"
+      }
+    },
+    {
+      "mazaudit": "goringe",
+      "qbo_name": "Goringe Accountants",
+      "entities": [
+        "DRH",
+        "REU"
+      ],
+      "qbo_ids": {
+        "DRH": "24",
+        "REU": "2"
+      }
+    },
+    {
+      "mazaudit": "greenback",
+      "qbo_name": "BA",
+      "entities": [
+        "DRH"
+      ],
+      "qbo_ids": {
+        "DRH": "279"
+      }
+    },
+    {
+      "mazaudit": "indeed_labs",
+      "qbo_name": "EE",
+      "entities": [
+        "DRH"
+      ],
+      "qbo_ids": {
+        "DRH": "151"
+      }
+    },
+    {
+      "mazaudit": "microsoft",
+      "qbo_name": "Microsoft",
+      "entities": [
+        "RWW",
+        "DRH"
+      ],
+      "qbo_ids": {
+        "RWW": "571",
+        "DRH": "147"
+      }
+    },
+    {
+      "mazaudit": "rezonance",
+      "qbo_name": "Rezonance (Pty) Ltd",
+      "entities": [
+        "RWW"
+      ],
+      "qbo_ids": {
+        "RWW": "107"
+      }
+    },
+    {
+      "mazaudit": "sage",
+      "qbo_name": "Sage",
+      "entities": [
+        "RWW"
+      ],
+      "qbo_ids": {
+        "RWW": "102"
+      }
+    },
+    {
+      "mazaudit": "stock2shop",
+      "qbo_name": "Stock2shop (Pty) Ltd",
+      "entities": [
+        "RWW"
+      ],
+      "qbo_ids": {
+        "RWW": "104"
+      }
+    },
+    {
+      "mazaudit": "wix",
+      "qbo_name": "Wix",
+      "entities": [
+        "RWW",
+        "RML-UK"
+      ],
+      "qbo_ids": {
+        "RWW": "569",
+        "RML-UK": "11"
+      }
+    }
+  ],
+  "unmatched_mazaudit_suppliers": [
+    "airtable",
+    "anaconda",
+    "anthropic",
+    "az-ict",
+    "beautiful_life",
+    "bobgo",
+    "canva",
+    "clinicsoft",
+    "cloudflare",
+    "coptis",
+    "datamass",
+    "digitalocean",
+    "docker",
+    "frappe",
+    "freshworks",
+    "gitpod",
+    "hasura",
+    "huggingface",
+    "intercom",
+    "intuit",
+    "managewp",
+    "mango",
+    "mattermost",
+    "miosalon",
+    "neon",
+    "notion",
+    "npm",
+    "obsidian",
+    "openai",
+    "paddle",
+    "playfab",
+    "poe",
+    "railway",
+    "replit",
+    "sentry",
+    "shopify",
+    "slack",
+    "tabnine",
+    "tax_invoices_misc",
+    "termius",
+    "twenty",
+    "vercel",
+    "vodacom",
+    "woocommerce"
+  ],
+  "unmatched_qbo_vendors": [
+    "Calmer Health & Skincare",
+    "Corporate And Merchant Admin (Pty) Ltd",
+    "GoDaddy",
+    "LinkedIn",
+    "QuickBooks Payments",
+    "RegimA Skin Treatments",
+    "Ricoh South Africa (Pty) Ltd",
+    "Sasfin - Sunlyn",
+    "Strategic 1",
+    "Unicorn Dynamics",
+    "Villa Via",
+    "500324",
+    "Abbey Gate Locksmiths",
+    "Airport cars gatwick",
+    "Alfa Chemicals",
+    "Aloft (V)",
+    "Amazon",
+    "ApolloHQ",
+    "Argos",
+    "Autolynx",
+    "Avangate BV",
+    "BP garage",
+    "BT",
+    "BatchGeo US",
+    "Batchgeo",
+    "Benugo science museum",
+    "BravoNext SA",
+    "Brookes Bates",
+    "Bt Business Bill",
+    "Business Rates Bill",
+    "CB Estores",
+    "CHECKBUSINESS.CO.UK",
+    "CHECKMYFILE.COM",
+    "Cables 2 U (V)",
+    "Caliper Online Store",
+    "Capital Calligraphy (V)",
+    "Carephone Warehouse",
+    "Cartridge Save (V)",
+    "Castle Water",
+    "Chevington Finance & Leasing Ltd",
+    "Clarks Legal",
+    "Close Brothers Premium Finance (V)",
+    "Co-OP",
+    "Companies House",
+    "CompanyCheck",
+    "Compliance Services International",
+    "Computer Associated Decisions (V)",
+    "Connock",
+    "Convertio.co US",
+    "Corel"
+  ],
+  "entity_vendor_counts": {
+    "RWW": 22,
+    "DRH": 261,
+    "DRHW": 3,
+    "REU": 2,
+    "RML-UK": 57,
+    "RSA": 2
+  },
+  "entity_customer_counts": {
+    "RWW": 498,
+    "DRH": 30,
+    "DRHW": 117,
+    "REU": 9,
+    "REZ": 1,
+    "RML-UK": 15,
+    "RSA": 694
+  },
+  "entity_account_counts": {
+    "RST": 81,
+    "RWW": 68,
+    "DRH": 168,
+    "DRHW": 78,
+    "REU": 73,
+    "REZ": 78,
+    "RML-UK": 84,
+    "RML-ZA": 82,
+    "RSA": 112
+  },
+  "entity_item_counts": {
+    "RST": 2,
+    "RWW": 186,
+    "DRH": 201,
+    "DRHW": 70,
+    "REU": 35,
+    "REZ": 2,
+    "RML-UK": 42,
+    "RML-ZA": 2,
+    "RSA": 124
+  },
+  "mazaudit_reconciliation": {
+    "questioned_amount": 10847862,
+    "bank_matched": 8882322.31,
+    "bank_coverage": 0.819,
+    "invoice_backed": 7951525.53,
+    "invoice_coverage_of_matched": 0.895,
+    "documents_total": 4145,
+    "invoice_documents": 2788,
+    "supplier_folders": 64
+  }
+}
