@@ -1,0 +1,60 @@
+{
+  "_schema": "exoml-forensic/v1",
+  "_generated": "2026-03-10T08:04:23.691349+00:00",
+  "file_integrity": {
+    "eml_file": "rzo.io/0001_2021-02-01_1352_d@rzo.io_RE__COMPLAINTS_REGARDING_YEMAYA.eml",
+    "file_size_bytes": 16406,
+    "md5": "ad2ff1bcad4cefcd992fb26afec819e9",
+    "sha1": "86bd3b6ea7a436ac5c5a3027643ea40435de22a6",
+    "sha256": "6c7220ce2a1462040d6a2bef99c2b7679193638f0f7b4ff5abfc34e671e6c310"
+  },
+  "message_identity": {
+    "db_id": 862,
+    "exchange_message_id": "AAMkAGE2YjljZjA1LTRlOWUtNDhjYi1iZjNkLWI4ZWRlNDQwYTU0MABGAAAAAADPgXCfMl5uRqA6Xxa9Yh33BwAh607i92PMQLMLAH3HB5h5AAAAAAEJAAAh607i92PMQLMLAH3HB5h5AAJ60769AAA=",
+    "conversation_id": "AAQkAGE2YjljZjA1LTRlOWUtNDhjYi1iZjNkLWI4ZWRlNDQwYTU0MAAQALTpEnferEA4idnhQT1JTLo="
+  },
+  "envelope": {
+    "subject": "RE: COMPLAINTS REGARDING YEMAYA",
+    "from_name": "Daniel Faucitt",
+    "from_address": "d@rzo.io",
+    "to_recipients": [
+      {
+        "emailAddress": {
+          "name": "sharon.regima@dermalskin.co.za",
+          "address": "sharon.regima@dermalskin.co.za"
+        }
+      }
+    ],
+    "cc_recipients": [
+      {
+        "emailAddress": {
+          "name": "Jacqui Faucitt",
+          "address": "jax@regima.zone"
+        }
+      },
+      {
+        "emailAddress": {
+          "name": "kayla@regima.zone",
+          "address": "kayla@regima.zone"
+        }
+      },
+      {
+        "emailAddress": {
+          "name": "Rynette Farrar",
+          "address": "rynette@regima.zone"
+        }
+      }
+    ],
+    "received_datetime": "2021-02-01 13:52:00"
+  },
+  "mailbox_context": {
+    "user_email": "d@rzo.io",
+    "user_name": "Daniel Faucitt"
+  },
+  "body": {
+    "content_type": "html",
+    "preview": "RegimA Skin Treatments\r\n\r\nCK92/05371/23\r\n\r\nVAT No. 4590131043\r\n\r\nTel: 011 615 2869\r\n\r\ne-mail:info@regima.com\r\n\r\nHEAD OFFICE: 50 Van Buuren Road, Bedfordview, 2008, RSA\r\n\r\n___________________________________________________________________\r\n\r\n31 January 20",
+    "body_length_chars": 11440
+  },
+  "attachments": []
+}

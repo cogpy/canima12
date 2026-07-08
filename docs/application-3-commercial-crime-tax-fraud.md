@@ -1,0 +1,112 @@
+# Application 3: Commercial Crime & Tax Fraud
+
+**Last Updated:** 2026-06-08
+
+> **Refinement Note (2026-04-14):** This commercial-crime / tax-fraud landing page should now be read together with the [Filings Index](./filings/index.md), the [Filing Refinement Addendum](./filings/FILING_REFINEMENT_ADDENDUM_2026-04-14.md), and the [Red-Team Critique v22](./filings/RED_TEAM_CRITIQUE_2026-04-14_v22.md). Those documents carry the current timeline-anchor, canonical-entity, and rebuttal updates.
+
+## Overview
+
+This application covers commercial crime charges and tax fraud reports for submission to SAPS Commercial Crime Unit and NPA/SARS.
+
+## Commercial Crimes
+
+### Fraud (Common Law)
+| Element | Evidence | Status |
+|---------|----------|--------|
+| Misrepresentation | JF01, JF08 | ✅ PROVEN |
+| Unlawful | JF07 | ✅ PROVEN |
+| Intentional | Timeline evidence | ✅ PROVEN |
+| Prejudice | R10,269,727.90 | ✅ PROVEN |
+
+### Theft (Common Law)
+| Element | Evidence | Status |
+|---------|----------|--------|
+| Unlawful appropriation | JF03, JF07 | ✅ PROVEN |
+| Movable property | Revenue streams | ✅ PROVEN |
+| Intent to deprive | Pattern evidence | ✅ PROVEN |
+
+### Forgery and Uttering
+| Element | Evidence | Status |
+|---------|----------|--------|
+| False document | Backdated documents | ✅ PROVEN |
+| Intent to defraud | JF08 | ✅ PROVEN |
+| Prejudice | Trust beneficiaries | ✅ PROVEN |
+
+### Money Laundering (POCA)
+| Element | Evidence | Status |
+|---------|----------|--------|
+| Proceeds of unlawful activity | Fund flow analysis | ✅ INDICATORS |
+| Concealment | Multiple accounts | ✅ INDICATORS |
+| Acquisition/possession | JF03 | ✅ INDICATORS |
+| Legal-cost funding anomaly | [EVENT_181](./events/EVENT_181.md): RST paid Elliott Attorneys R478,957.93 | ⚠️ DISCLOSURE REQUIRED; criminal characterisation requires proof of mandate defect, deception, authority failure, and intent |
+
+## Tax Fraud
+
+### Income Tax Evasion
+| Violation | Evidence | Status |
+|-----------|----------|--------|
+| Failure to declare income | SF4 | ✅ DOCUMENTED |
+| False returns | JF03 | ✅ DOCUMENTED |
+| Concealment of income | Fund flow analysis | ✅ DOCUMENTED |
+
+### VAT Fraud
+| Violation | Evidence | Status |
+|-----------|----------|--------|
+| False VAT claims | SF3 | ✅ DOCUMENTED |
+| Input VAT fraud | JF03 | ✅ DOCUMENTED |
+
+### SARS Obstruction
+| Violation | Evidence | Status |
+|-----------|----------|--------|
+| Failure to cooperate with audit | SF4 | ✅ DOCUMENTED |
+| Concealment of records | JF08 | ✅ DOCUMENTED |
+
+## Financial Summary
+
+| Category | Amount | Evidence |
+|----------|--------|----------|
+| Revenue Stream Hijacking | R10,269,727.90 | JF03, JF07 |
+| Stock Loss (Strategic Logistics) | R5,400,000 | SF3 |
+| Bantjies Debt | R1,048,000 | SF1 |
+| Ian Levitt Demand (Ignored) | R63,000,000 | SF9 |
+
+## Key Evidence
+
+> **Current emphasis:** The strongest present framing is a continuous chain of conduct: **fraud exposure -> retaliation -> redirected payments / manipulated records -> procedural weaponization -> post-order extraction**. That structure should guide every reading of the commercial-crime and tax-fraud materials.
+
+
+### Financial Records
+- **JF03** - Financial records and analysis
+- **SF3** - Strategic Logistics Stock Adjustment (R5.4M loss)
+- **SF4** - SARS Audit Email (2021-03-15)
+
+### Fund Flow Evidence
+- **JF07** - Financial transaction records
+- Payment redirection documentation
+- Bank account change letters
+- **EVENT_181** - RST-funded Elliott Attorneys payment schedule totalling **R478,957.93**; use as an investigation lead rather than a standalone criminal-proof assertion until mandate and invoice records are obtained
+
+### Third-Party Verification
+- **SF9** - Ian Levitt R63M Demand Letter
+- **JF16** - Distributor evidence
+
+## Filing Status
+
+| Filing | Status | Date |
+|--------|--------|------|
+| Commercial Crime Submission | ✅ REFINED + v21.1 addendum | 2026-03-25 / 2026-04-14 |
+| NPA Tax Fraud Report | ✅ REFINED + v21.1 addendum | 2026-03-25 / 2026-04-14 |
+
+## Cross-References
+
+- **[NPA Commercial Crime Filing v21](./filings/NPA_COMMERCIAL_CRIME_REFINED_2026-03-25_v21.md)**
+- **[SARS Tax Fraud Filing v21](./filings/SARS_TAX_FRAUD_REPORT_REFINED_2026-03-25_v21.md)**
+- **[Filing Refinement Addendum](./filings/FILING_REFINEMENT_ADDENDUM_2026-04-14.md)**
+- **[Red-Team Critique v22](./filings/RED_TEAM_CRITIQUE_2026-04-14_v22.md)**
+- **[Evidence Index](./evidence-index-enhanced.md)**
+- **[Fund Flow Analysis](./fund-flow-analysis.md)**
+- **[RST / Elliott Attorneys Conflict Funding Analysis](./analysis/ELLIOTT_ATTORNEYS_RST_CONFLICT_FUNDING_2026-06-08.md)**
+
+---
+
+*Last updated by LEX Investigation System: 2026-06-08 — Elliott Attorneys / RST-funded legal-cost conflict issue added with cautious criminal-burden routing.*

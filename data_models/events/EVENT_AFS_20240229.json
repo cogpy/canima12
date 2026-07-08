@@ -1,0 +1,46 @@
+{
+  "event_id": "EVENT_AFS_20240229",
+  "date": "2024-02-29",
+  "event_type": "financial_reporting",
+  "title": "Ketoni AFS FY2024 Year-End - First Full-Year Financial Statements",
+  "description": "Ketoni Investment Holdings (Pty) Ltd financial year ends 29 February 2024. Annual Financial Statements independently reviewed (not audited) by Forvis Mazars. This is the first full-year AFS since incorporation on 2023-02-20, representing approximately 12 months of operations. Confirms Ketoni as operationally active during Mar 2023 - Feb 2024 with sufficient activity to warrant formal financial statements and Companies Act compliance.",
+  "entities_involved": [
+    "ORG_KETONI_001"
+  ],
+  "key_actors": [
+    "Kevin Michael Derrick"
+  ],
+  "evidence": [
+    "Ketoni Investment Holdings AFS 2024 - Signed.pdf (16 pages)",
+    "Forvis Mazars independent review engagement"
+  ],
+  "ad_res_j7_evidence": [
+    "evidence/financial-analysis/ketoni_investment_holdings_afs_2024.md"
+  ],
+  "significance": "Confirms Ketoni as active entity; basis for assessing R18.75M payout capacity; ~790 days before May 2026 payout",
+  "category": "ketoni_motive",
+  "afs_details": {
+    "registration_number": "2023/562189/07",
+    "prepared_by": "Forvis Mazars",
+    "review_type": "Independent Review (not full audit)",
+    "pages": 16,
+    "sections_present": [
+      "Balance Sheet",
+      "Income Statement",
+      "Notes to Financial Statements",
+      "Directors Report"
+    ],
+    "outstanding_data": [
+      "Total asset base",
+      "R18.75M liability disclosure",
+      "Revenue and profitability",
+      "Full director listing",
+      "Related party transactions",
+      "Share capital structure",
+      "Going concern notes",
+      "Principal business description"
+    ]
+  },
+  "created_at": "2026-03-11T00:00:00.000000",
+  "source": "AFS 2024 analysis integration"
+}

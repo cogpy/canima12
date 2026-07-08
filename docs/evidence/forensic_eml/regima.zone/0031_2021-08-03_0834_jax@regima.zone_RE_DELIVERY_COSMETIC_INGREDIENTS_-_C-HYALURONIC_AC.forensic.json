@@ -1,0 +1,42 @@
+{
+  "_schema": "exchange-forensic-eml/v1",
+  "_generated": "2026-03-10T03:53:25.639994+00:00",
+  "_source": "neon-exchange-sync",
+  "file_integrity": {
+    "eml_file": "/home/ubuntu/revstream1/docs/evidence/forensic_eml/regima.zone/0031_2021-08-03_0834_jax@regima.zone_RE_DELIVERY_COSMETIC_INGREDIENTS_-_C-HYALURONIC_AC.eml",
+    "file_size_bytes": 839,
+    "md5": "3f6878db0f5b9bf2e5d3929f65ad48b3",
+    "sha1": "3f3f2060ddbdc58efbc126c03d732c1c794801b8",
+    "sha256": "2ec4cbfbfd46336c07dc5d1bde138908da53f9b9cf7b08d79b5464498f087aef"
+  },
+  "message_identity": {
+    "exchange_sync_id": "AAMkAGM2Y2E0NWVmLWEzZTktNDc1Mi1iY2I4LTU3OTBlMTJhMTllNQBGAAAAAAA97n0AeO7PT4cl7xDgAtvXBwC2ver4KgT-RpGXubXzjgSOAAIZYOy5AAC2ver4KgT-RpGXubXzjgSOAAdIAUIvAAA=",
+    "internet_message_id": "<DB7PR08MB33064FA4AF58A0EC779B65DBACF09@DB7PR08MB3306.eurprd08.prod.outlook.com>",
+    "conversation_id": "AAQkAGM2Y2E0NWVmLWEzZTktNDc1Mi1iY2I4LTU3OTBlMTJhMTllNQAQAK06gWiQSUSpgascB84qMeU="
+  },
+  "envelope": {
+    "subject": "RE: DELIVERY COSMETIC INGREDIENTS - C-HYALURONIC ACID HMW  -  // NOT SURE WHICH PRODUCT THESE ARE FOR AND WHEN TO BE MANUFACTURED.",
+    "from_name": "Jacqui Faucitt",
+    "from_address": "jax@regima.zone",
+    "to_recipients": [
+      {
+        "name": "Rynette Farrar",
+        "address": "rynette@regima.zone"
+      }
+    ],
+    "cc_recipients": null,
+    "received_datetime": "2021-08-03 08:34:00+00:00"
+  },
+  "mailbox_context": {
+    "user_email": "jax@regima.zone",
+    "user_name": "Jacqui Faucitt",
+    "folder_name": "Archive",
+    "folder_id": "AQMkAGM2Y2E0NWVmLWEzZTktNDc1Mi1iY2I4LTU3OTBlMTJhMTllNQAuAAADPe59AHjuz0_HJe8Q4ALb1wEAtr3q_CoE-0aRl7m1844EjgACGWDsuQAAAA=="
+  },
+  "body": {
+    "content_type": null,
+    "preview": "If they don’t use it all we will be left with old stuff.  How much is needed for the September order, do you know?\r\n\r\nFrom: Rynette Farrar <rynette@regima.zone>\r\nSent: Tuesday, 03 August 2021 10:28 AM\r\nTo: Jacqui Faucitt <jax@regima.zone>\r\nCc: JAX@REGIMA.",
+    "body_length_chars": 0
+  },
+  "attachments": []
+}

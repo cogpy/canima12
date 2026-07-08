@@ -1,0 +1,50 @@
+{
+  "annexure_reference": "Annexure D: Rynette reveals R4.2M stock discrepancy \u2014 'Bernadine gogga' (4 Apr 2025)",
+  "extraction_timestamp": "2026-03-15T04:17:08.423968Z",
+  "pipeline": "Neon DB \u2192 Graph API body/attachment sync \u2192 EML generation \u2192 Transport header fetch",
+  "file_integrity": {
+    "file_size_bytes": 7156,
+    "md5": "551e11617e318b80b3b17c2f02fa0dae",
+    "sha256": "a4359dd802a10ee4cc349c53b26a1b3c63aa5523fa0f0a57c32381ef16239c9c"
+  },
+  "message_identity": {
+    "db_id": "AQMkADMxMzkyY2FlLWNkMGEtNGM2My04OWFiLTNlZDRjNzkyNGUyMwBGAAADSLKv-EI8AESN7LMej4ROLgcAIySisE98NkWmcNijjztGYgAAAgEJAAAAIySisE98NkWmcNijjztGYgAEITMp7QAAAA==",
+    "internet_message_id": "<VI0PR08MB10581C829C2546473198002F1BAA92@VI0PR08MB10581.eurprd08.prod.outlook.com>",
+    "conversation_id": "AAQkADMxMzkyY2FlLWNkMGEtNGM2My04OWFiLTNlZDRjNzkyNGUyMwAQALCilYMd2kJGmWwzyMkDH74="
+  },
+  "envelope": {
+    "subject": "TB's after stock adjustments - February 2025 - Strategic / Regima Skin / WWD",
+    "from_name": "Rynette Farrar",
+    "from_address": "rynette@regima.zone",
+    "to_recipients": "",
+    "cc_recipients": "None",
+    "received_datetime": "2025-04-04 11:44:00+00:00",
+    "sent_datetime": "2025-04-04 11:44:49+00:00"
+  },
+  "mailbox_context": {
+    "user_id": "52a423b7-13e7-4599-8d6f-c833ebce69d7",
+    "folder_name": null
+  },
+  "body": {
+    "content_type": "html",
+    "body_length_chars": 4703,
+    "preview": "Good afternoon Danie\r\n\r\nHerewith the TB\u2019s after I have done all the stock adjustments.\r\n\r\nYou must have a look at Strategic.  I stopped with that system that Bernadine introduce by manufacturing the stock received from Proficos and Prime.\r\n\r\nObviously, th"
+  },
+  "attachments": [],
+  "transport_forensics": {
+    "available": false,
+    "authentication": {},
+    "transport_hops": [],
+    "exchange_transport": {},
+    "origin": {},
+    "raw_header_count": 0,
+    "transport_hops_count": 0
+  },
+  "chain_of_custody": {
+    "source": "Microsoft 365 Exchange Online (tenant 89727f2e-27c2-4f69-893c-f30d821bc83d)",
+    "extraction_method": "Microsoft Graph API v1.0 (client credentials flow)",
+    "storage": "Neon PostgreSQL (exchange_sync schema)",
+    "verification": "SPF/DKIM/DMARC authentication via internet message headers",
+    "integrity": "SHA-256 hash of generated EML file"
+  }
+}

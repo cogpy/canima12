@@ -1,0 +1,130 @@
+{
+  "_schema": "exoml-forensic/v1",
+  "_generated": "2026-03-10T08:04:24.537222+00:00",
+  "file_integrity": {
+    "eml_file": "rzo.io/0009_2021-07-28_0938_d@rzo.io_Re__[External]_RE__Drieline_PF.eml",
+    "file_size_bytes": 1186988,
+    "md5": "7604422028157752e699a742313bf7a4",
+    "sha1": "8c92ef98bfb510c02e7820df72ba5ed6d6f1b2ed",
+    "sha256": "96a3c6230fd35938b8f9d796a4b4cbf0961eab4b0f9b552289fe78795b98db9c"
+  },
+  "message_identity": {
+    "db_id": 796,
+    "exchange_message_id": "AAMkAGE2YjljZjA1LTRlOWUtNDhjYi1iZjNkLWI4ZWRlNDQwYTU0MABGAAAAAADPgXCfMl5uRqA6Xxa9Yh33BwAh607i92PMQLMLAH3HB5h5AAAAAAEJAAAh607i92PMQLMLAH3HB5h5AAVY-ZgdAAA=",
+    "conversation_id": "AAQkAGE2YjljZjA1LTRlOWUtNDhjYi1iZjNkLWI4ZWRlNDQwYTU0MAAQAPdI84eOAk8qmJn9jwQ6Lmc="
+  },
+  "envelope": {
+    "subject": "Re: [External] RE: Drieline PF",
+    "from_name": "Daniel Faucitt",
+    "from_address": "d@rzo.io",
+    "to_recipients": [
+      {
+        "emailAddress": {
+          "name": "John Knowlton",
+          "address": "john@cosmeticsolutions.co.za"
+        }
+      }
+    ],
+    "cc_recipients": [
+      {
+        "emailAddress": {
+          "name": "JAX@REGIMA.COM",
+          "address": "JAX@REGIMA.COM"
+        }
+      },
+      {
+        "emailAddress": {
+          "name": "PETE@REGIMA.COM",
+          "address": "pete@regima.com"
+        }
+      },
+      {
+        "emailAddress": {
+          "name": "Jacqui Faucitt",
+          "address": "jax@regima.zone"
+        }
+      },
+      {
+        "emailAddress": {
+          "name": "Rynette Farrar",
+          "address": "rynette@regima.zone"
+        }
+      }
+    ],
+    "received_datetime": "2021-07-28 09:38:56"
+  },
+  "mailbox_context": {
+    "user_email": "d@rzo.io",
+    "user_name": "Daniel Faucitt"
+  },
+  "body": {
+    "content_type": "html",
+    "preview": "Hi John\r\n\r\nGood news at last 🙂\r\n\r\nThe Drieline suppliers have just responded with the order confirmation for the PF variant. They have also informed us that the shipment will be ready by week 33 (which i think is Aug 16 onwards.\r\n\r\nWe have some timelines",
+    "body_length_chars": 36251
+  },
+  "attachments": [
+    {
+      "name": "ZAF-PRF-210266 - STRATEGIC LOGISTICS - DRIELINE PF.pdf",
+      "content_type": "application/pdf",
+      "size_bytes": 115954,
+      "is_inline": false,
+      "has_content": true,
+      "md5": "961f52f59ecaeadae2bbc007b04f0502",
+      "sha256": "b31f9fef083f702845f40d41cdf3d372db814813306dcc0d6fc0bb5108aff55f"
+    },
+    {
+      "name": "image001.jpg",
+      "content_type": "image/jpeg",
+      "size_bytes": 860714,
+      "is_inline": true,
+      "has_content": true,
+      "md5": "b8734fbe347b063313443ddaeb5465ee",
+      "sha256": "4df8188dd5c953339f99ba2cb9d99e8859703f1e9a4086a7da5862bf7801e50a"
+    },
+    {
+      "name": "image002.png",
+      "content_type": "image/png",
+      "size_bytes": 1421,
+      "is_inline": true,
+      "has_content": true,
+      "md5": "15d812d57dbdf5768808c7031599de1d",
+      "sha256": "8dd629a7dee60192fd5edb4cad6cb02cdc3225fb0f2c6519b81816035ef03c3a"
+    },
+    {
+      "name": "image003.png",
+      "content_type": "image/png",
+      "size_bytes": 1353,
+      "is_inline": true,
+      "has_content": true,
+      "md5": "4c889ffcdb7c86d031d7eef4660ef25e",
+      "sha256": "435eab5028a84887613fca3f6239110585fc8e398566f1cedb09566f0833751c"
+    },
+    {
+      "name": "image004.png",
+      "content_type": "image/png",
+      "size_bytes": 593,
+      "is_inline": true,
+      "has_content": true,
+      "md5": "3db2c05d70013db0f45d176224305000",
+      "sha256": "560d6333b201433fdda319b3b053430c05f915c138cf8e885c6a5d4ba22f3592"
+    },
+    {
+      "name": "image005.jpg",
+      "content_type": "image/jpeg",
+      "size_bytes": 41693,
+      "is_inline": true,
+      "has_content": true,
+      "md5": "9a671a067789629b55cbf38721321938",
+      "sha256": "89500209ad3a2d92feb4efd83c84a94f5000c6123ed5861a8ba35e12cc02271a"
+    },
+    {
+      "name": "image009.jpg",
+      "content_type": "image/jpeg",
+      "size_bytes": 41670,
+      "is_inline": true,
+      "has_content": true,
+      "md5": "15b826ca891209cf02e03b7e0e710163",
+      "sha256": "2cda8640414c2b95a388c9d9b4fbfd866809f16b8626e25762a01b6964c642c3"
+    }
+  ]
+}

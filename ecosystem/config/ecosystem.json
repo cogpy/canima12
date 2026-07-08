@@ -1,0 +1,49 @@
+{
+  "case": {
+    "number": "2025-137857",
+    "name": "Revenue Stream Hijacking",
+    "total_losses": "R10,269,727.90"
+  },
+  "repositories": {
+    "revstream1": {"path": "../revstream1", "role": "data_truth"},
+    "ad-res-j7": {"path": "../ad-res-j7", "role": "evidence_db"},
+    "chainlex": {"path": "../chainlex", "role": "legal_knowledge"},
+    "fincosys": {"path": "../fincosys", "role": "financial_analysis"},
+    "comcosys": {"path": "../comcosys", "role": "comms_forensics"},
+    "LexRexHGNN": {"path": ".", "role": "integration_hub"}
+  },
+  "bridges": {
+    "ad_res_j7": {
+      "module": "ecosystem.bridges.ad_res_j7.evidence_bridge",
+      "class": "EvidenceBridge",
+      "provides": ["annexure_inventory", "entity_evidence_map", "event_evidence_map"]
+    },
+    "fincosys": {
+      "module": "ecosystem.bridges.fincosys.legal_evidence_export",
+      "class": "LegalEvidenceExporter",
+      "provides": ["reconciliation_events", "cashflow_relations", "network_entities"]
+    },
+    "comcosys": {
+      "module": "ecosystem.bridges.comcosys.communication_evidence_bridge",
+      "class": "CommunicationEvidenceBridge",
+      "provides": ["temporal_correlations", "entity_pair_relations", "email_annexure_map"]
+    },
+    "chainlex": {
+      "module": "ecosystem.bridges.ad_res_j7.chainlex_bridge",
+      "class": "ChainLexBridge",
+      "provides": ["legal_norms", "attention_head_mapping"]
+    }
+  },
+  "case_evidence_mapping": {
+    "module": "ecosystem.case_evidence_mapping",
+    "class": "CaseEvidenceMapping",
+    "output": "ecosystem/case_evidence_graph.json"
+  },
+  "data_contracts": {
+    "schema_path": "../revstream1/contracts/",
+    "entity_version": "40.0",
+    "event_version": "36.0",
+    "relation_version": "18.0",
+    "comcosys_version": "1.0"
+  }
+}

@@ -1,0 +1,587 @@
+{
+  "name": "LEX_DigiTwin_2025-137857",
+  "description": "Legal Digital Twin for Revenue Stream Hijacking",
+  "package_name": "lex_digitwin",
+  "time_unit": "Month",
+  "final_time": 54.0,
+  "paradigms": [
+    "SD",
+    "DES",
+    "ABM"
+  ],
+  "variables": [
+    {
+      "class": "StockVariable",
+      "name": "legitimate_revenue",
+      "initial_value": "5000000",
+      "x": 100,
+      "y": 100
+    },
+    {
+      "class": "StockVariable",
+      "name": "diverted_revenue",
+      "initial_value": "0",
+      "x": 300,
+      "y": 100
+    },
+    {
+      "class": "StockVariable",
+      "name": "legal_exposure",
+      "initial_value": "0",
+      "x": 500,
+      "y": 100
+    },
+    {
+      "class": "StockVariable",
+      "name": "evidence_strength",
+      "initial_value": "0",
+      "x": 700,
+      "y": 100
+    },
+    {
+      "class": "Flow",
+      "name": "diversion_flow",
+      "formula": "diversion_rate * legitimate_revenue",
+      "source_name": "legitimate_revenue",
+      "target_name": "diverted_revenue",
+      "x": 200,
+      "y": 100
+    },
+    {
+      "class": "AuxVariable",
+      "name": "diversion_rate",
+      "formula": "0.15",
+      "x": 200,
+      "y": 200
+    }
+  ],
+  "flowchart_blocks": [
+    {
+      "class": "Source",
+      "name": "transactions",
+      "params": {
+        "rate": {
+          "code": "50",
+          "unit_class": "RateUnits",
+          "unit": "PER_MONTH"
+        }
+      },
+      "x": 50,
+      "y": 350
+    },
+    {
+      "class": "SelectOutput",
+      "name": "fraud_check",
+      "params": {
+        "condition": "uniform() < diversion_rate"
+      },
+      "x": 200,
+      "y": 350
+    },
+    {
+      "class": "Queue",
+      "name": "legitimate_queue",
+      "params": {
+        "capacity": "1000"
+      },
+      "x": 350,
+      "y": 300
+    },
+    {
+      "class": "Queue",
+      "name": "diverted_queue",
+      "params": {
+        "capacity": "1000"
+      },
+      "x": 350,
+      "y": 400
+    },
+    {
+      "class": "Sink",
+      "name": "legitimate_sink",
+      "x": 500,
+      "y": 300
+    },
+    {
+      "class": "Sink",
+      "name": "diverted_sink",
+      "x": 500,
+      "y": 400
+    }
+  ],
+  "connections": [
+    {
+      "from": "transactions",
+      "to": "fraud_check"
+    },
+    {
+      "from": "fraud_check",
+      "to": "legitimate_queue"
+    },
+    {
+      "from": "fraud_check",
+      "to": "diverted_queue"
+    },
+    {
+      "from": "legitimate_queue",
+      "to": "legitimate_sink"
+    },
+    {
+      "from": "diverted_queue",
+      "to": "diverted_sink"
+    }
+  ],
+  "agent_classes": [
+    {
+      "name": "Peter_Faucitt",
+      "role": "perpetrator",
+      "statechart": {
+        "states": [
+          {
+            "name": "Normal",
+            "x": 600,
+            "y": 100,
+            "width": 100,
+            "height": 30
+          },
+          {
+            "name": "Active",
+            "x": 600,
+            "y": 170,
+            "width": 100,
+            "height": 30
+          },
+          {
+            "name": "Stressed",
+            "x": 600,
+            "y": 240,
+            "width": 100,
+            "height": 30
+          }
+        ],
+        "transitions": [
+          {
+            "name": "activate",
+            "from": "Normal",
+            "to": "Active",
+            "trigger": "condition",
+            "condition": "cortisol > 0.3",
+            "action": ""
+          },
+          {
+            "name": "stress",
+            "from": "Active",
+            "to": "Stressed",
+            "trigger": "condition",
+            "condition": "cortisol > 0.7",
+            "action": ""
+          },
+          {
+            "name": "recover",
+            "from": "Stressed",
+            "to": "Normal",
+            "trigger": "timeout",
+            "timeout": "30",
+            "timeout_unit": "DAY",
+            "action": ""
+          }
+        ]
+      }
+    },
+    {
+      "name": "Rynette_Farrar",
+      "role": "accomplice",
+      "statechart": {
+        "states": [
+          {
+            "name": "Normal",
+            "x": 600,
+            "y": 100,
+            "width": 100,
+            "height": 30
+          },
+          {
+            "name": "Active",
+            "x": 600,
+            "y": 170,
+            "width": 100,
+            "height": 30
+          },
+          {
+            "name": "Stressed",
+            "x": 600,
+            "y": 240,
+            "width": 100,
+            "height": 30
+          }
+        ],
+        "transitions": [
+          {
+            "name": "activate",
+            "from": "Normal",
+            "to": "Active",
+            "trigger": "condition",
+            "condition": "cortisol > 0.3",
+            "action": ""
+          },
+          {
+            "name": "stress",
+            "from": "Active",
+            "to": "Stressed",
+            "trigger": "condition",
+            "condition": "cortisol > 0.7",
+            "action": ""
+          },
+          {
+            "name": "recover",
+            "from": "Stressed",
+            "to": "Normal",
+            "trigger": "timeout",
+            "timeout": "30",
+            "timeout_unit": "DAY",
+            "action": ""
+          }
+        ]
+      }
+    },
+    {
+      "name": "Danie_Bantjies",
+      "role": "accomplice",
+      "statechart": {
+        "states": [
+          {
+            "name": "Normal",
+            "x": 600,
+            "y": 100,
+            "width": 100,
+            "height": 30
+          },
+          {
+            "name": "Active",
+            "x": 600,
+            "y": 170,
+            "width": 100,
+            "height": 30
+          },
+          {
+            "name": "Stressed",
+            "x": 600,
+            "y": 240,
+            "width": 100,
+            "height": 30
+          }
+        ],
+        "transitions": [
+          {
+            "name": "activate",
+            "from": "Normal",
+            "to": "Active",
+            "trigger": "condition",
+            "condition": "cortisol > 0.3",
+            "action": ""
+          },
+          {
+            "name": "stress",
+            "from": "Active",
+            "to": "Stressed",
+            "trigger": "condition",
+            "condition": "cortisol > 0.7",
+            "action": ""
+          },
+          {
+            "name": "recover",
+            "from": "Stressed",
+            "to": "Normal",
+            "trigger": "timeout",
+            "timeout": "30",
+            "timeout_unit": "DAY",
+            "action": ""
+          }
+        ]
+      }
+    },
+    {
+      "name": "Daniel_Faucitt",
+      "role": "victim",
+      "statechart": {
+        "states": [
+          {
+            "name": "Normal",
+            "x": 600,
+            "y": 100,
+            "width": 100,
+            "height": 30
+          },
+          {
+            "name": "Active",
+            "x": 600,
+            "y": 170,
+            "width": 100,
+            "height": 30
+          },
+          {
+            "name": "Stressed",
+            "x": 600,
+            "y": 240,
+            "width": 100,
+            "height": 30
+          }
+        ],
+        "transitions": [
+          {
+            "name": "activate",
+            "from": "Normal",
+            "to": "Active",
+            "trigger": "condition",
+            "condition": "cortisol > 0.3",
+            "action": ""
+          },
+          {
+            "name": "stress",
+            "from": "Active",
+            "to": "Stressed",
+            "trigger": "condition",
+            "condition": "cortisol > 0.7",
+            "action": ""
+          },
+          {
+            "name": "recover",
+            "from": "Stressed",
+            "to": "Normal",
+            "trigger": "timeout",
+            "timeout": "30",
+            "timeout_unit": "DAY",
+            "action": ""
+          }
+        ]
+      }
+    },
+    {
+      "name": "Jacqui_Faucitt",
+      "role": "victim",
+      "statechart": {
+        "states": [
+          {
+            "name": "Normal",
+            "x": 600,
+            "y": 100,
+            "width": 100,
+            "height": 30
+          },
+          {
+            "name": "Active",
+            "x": 600,
+            "y": 170,
+            "width": 100,
+            "height": 30
+          },
+          {
+            "name": "Stressed",
+            "x": 600,
+            "y": 240,
+            "width": 100,
+            "height": 30
+          }
+        ],
+        "transitions": [
+          {
+            "name": "activate",
+            "from": "Normal",
+            "to": "Active",
+            "trigger": "condition",
+            "condition": "cortisol > 0.3",
+            "action": ""
+          },
+          {
+            "name": "stress",
+            "from": "Active",
+            "to": "Stressed",
+            "trigger": "condition",
+            "condition": "cortisol > 0.7",
+            "action": ""
+          },
+          {
+            "name": "recover",
+            "from": "Stressed",
+            "to": "Normal",
+            "trigger": "timeout",
+            "timeout": "30",
+            "timeout_unit": "DAY",
+            "action": ""
+          }
+        ]
+      }
+    },
+    {
+      "name": "Linda_Kruger",
+      "role": "employee",
+      "statechart": {
+        "states": [
+          {
+            "name": "Normal",
+            "x": 600,
+            "y": 100,
+            "width": 100,
+            "height": 30
+          },
+          {
+            "name": "Active",
+            "x": 600,
+            "y": 170,
+            "width": 100,
+            "height": 30
+          },
+          {
+            "name": "Stressed",
+            "x": 600,
+            "y": 240,
+            "width": 100,
+            "height": 30
+          }
+        ],
+        "transitions": [
+          {
+            "name": "activate",
+            "from": "Normal",
+            "to": "Active",
+            "trigger": "condition",
+            "condition": "cortisol > 0.3",
+            "action": ""
+          },
+          {
+            "name": "stress",
+            "from": "Active",
+            "to": "Stressed",
+            "trigger": "condition",
+            "condition": "cortisol > 0.7",
+            "action": ""
+          },
+          {
+            "name": "recover",
+            "from": "Stressed",
+            "to": "Normal",
+            "trigger": "timeout",
+            "timeout": "30",
+            "timeout_unit": "DAY",
+            "action": ""
+          }
+        ]
+      }
+    },
+    {
+      "name": "Gayane_Williams",
+      "role": "employee",
+      "statechart": {
+        "states": [
+          {
+            "name": "Normal",
+            "x": 600,
+            "y": 100,
+            "width": 100,
+            "height": 30
+          },
+          {
+            "name": "Active",
+            "x": 600,
+            "y": 170,
+            "width": 100,
+            "height": 30
+          },
+          {
+            "name": "Stressed",
+            "x": 600,
+            "y": 240,
+            "width": 100,
+            "height": 30
+          }
+        ],
+        "transitions": [
+          {
+            "name": "activate",
+            "from": "Normal",
+            "to": "Active",
+            "trigger": "condition",
+            "condition": "cortisol > 0.3",
+            "action": ""
+          },
+          {
+            "name": "stress",
+            "from": "Active",
+            "to": "Stressed",
+            "trigger": "condition",
+            "condition": "cortisol > 0.7",
+            "action": ""
+          },
+          {
+            "name": "recover",
+            "from": "Stressed",
+            "to": "Normal",
+            "trigger": "timeout",
+            "timeout": "30",
+            "timeout_unit": "DAY",
+            "action": ""
+          }
+        ]
+      }
+    },
+    {
+      "name": "Darren_Farrar",
+      "role": "accomplice",
+      "statechart": {
+        "states": [
+          {
+            "name": "Normal",
+            "x": 600,
+            "y": 100,
+            "width": 100,
+            "height": 30
+          },
+          {
+            "name": "Active",
+            "x": 600,
+            "y": 170,
+            "width": 100,
+            "height": 30
+          },
+          {
+            "name": "Stressed",
+            "x": 600,
+            "y": 240,
+            "width": 100,
+            "height": 30
+          }
+        ],
+        "transitions": [
+          {
+            "name": "activate",
+            "from": "Normal",
+            "to": "Active",
+            "trigger": "condition",
+            "condition": "cortisol > 0.3",
+            "action": ""
+          },
+          {
+            "name": "stress",
+            "from": "Active",
+            "to": "Stressed",
+            "trigger": "condition",
+            "condition": "cortisol > 0.7",
+            "action": ""
+          },
+          {
+            "name": "recover",
+            "from": "Stressed",
+            "to": "Normal",
+            "trigger": "timeout",
+            "timeout": "30",
+            "timeout_unit": "DAY",
+            "action": ""
+          }
+        ]
+      }
+    }
+  ],
+  "libraries": [
+    "processmodeling"
+  ]
+}

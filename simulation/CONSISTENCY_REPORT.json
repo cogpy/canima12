@@ -1,0 +1,29 @@
+{
+  "generated": "2026-07-06T09:17:59.280585",
+  "version": "v36",
+  "composition": "/aicpp(/61-definition-ksm[/fin-audit-za-v2, /lex-case-analysis, /revstream-evidence], /lex-encode-workflow)",
+  "data_models": {
+    "entities": {
+      "count": 78,
+      "added": 0
+    },
+    "relations": {
+      "count": 42,
+      "added": 0
+    },
+    "events": {
+      "count": 181,
+      "added": 0
+    },
+    "timeline": {
+      "count": 157,
+      "added": 0
+    }
+  },
+  "cross_model_consistency": {
+    "all_event_actors_in_entities": true,
+    "all_relation_sources_in_entities": true,
+    "all_relation_targets_in_entities": true,
+    "timeline_sorted_by_date": true
+  }
+}

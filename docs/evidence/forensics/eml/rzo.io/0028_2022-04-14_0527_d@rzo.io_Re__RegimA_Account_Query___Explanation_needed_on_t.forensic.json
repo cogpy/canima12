@@ -1,0 +1,60 @@
+{
+  "_schema": "exoml-forensic/v1",
+  "_generated": "2026-03-10T08:04:26.505447+00:00",
+  "file_integrity": {
+    "eml_file": "rzo.io/0028_2022-04-14_0527_d@rzo.io_Re__RegimA_Account_Query___Explanation_needed_on_t.eml",
+    "file_size_bytes": 55306,
+    "md5": "d16ce305744549ee9855eb11337b1412",
+    "sha1": "8c44f86bc0fa1461a65ab4716cf983d7bd1ba643",
+    "sha256": "a44b2dbcf4d781fe9d796ca6506f57f1fc0a1290262e0cc13a6cada98c65b5bd"
+  },
+  "message_identity": {
+    "db_id": 509,
+    "exchange_message_id": "AAMkAGE2YjljZjA1LTRlOWUtNDhjYi1iZjNkLWI4ZWRlNDQwYTU0MABGAAAAAADPgXCfMl5uRqA6Xxa9Yh33BwAh607i92PMQLMLAH3HB5h5AAAAAAEJAAAh607i92PMQLMLAH3HB5h5AAYET8ViAAA=",
+    "conversation_id": "AAQkAGE2YjljZjA1LTRlOWUtNDhjYi1iZjNkLWI4ZWRlNDQwYTU0MAAQALV-_TBNLBJCufmNNT7Xb70="
+  },
+  "envelope": {
+    "subject": "Re: RegimA Account Query | Explanation needed on the charges on our latest invoice",
+    "from_name": "Daniel Faucitt",
+    "from_address": "d@rzo.io",
+    "to_recipients": [
+      {
+        "emailAddress": {
+          "name": "Rynette Farrar",
+          "address": "rynette@regima.zone"
+        }
+      }
+    ],
+    "cc_recipients": [
+      {
+        "emailAddress": {
+          "name": "JAX@REGIMA.COM",
+          "address": "JAX@REGIMA.COM"
+        }
+      },
+      {
+        "emailAddress": {
+          "name": "PETE@REGIMA.COM",
+          "address": "PETE@REGIMA.COM"
+        }
+      },
+      {
+        "emailAddress": {
+          "name": "Jacqui Faucitt",
+          "address": "jax@regima.zone"
+        }
+      }
+    ],
+    "received_datetime": "2022-04-14 05:27:53"
+  },
+  "mailbox_context": {
+    "user_email": "d@rzo.io",
+    "user_name": "Daniel Faucitt"
+  },
+  "body": {
+    "content_type": "html",
+    "preview": "​Hi Rynette\r\n\r\nAnything is possible - At the time we we're getting all of that integration stuff ready we were still unsure of how we were going to set up the logistics in the stores and if all the accounts would go through one channel or separate channel",
+    "body_length_chars": 40217
+  },
+  "attachments": []
+}

@@ -1,0 +1,580 @@
+{
+  "metadata": {
+    "version": "v3_bantjies_farrar_comms",
+    "created_date": "2026-03-07 08:26:37",
+    "description": "LEX-Transformer: Promise-Lambda Attention (QKV) framework for legal case analysis",
+    "case_number": "2025-137857",
+    "modeling_approach": "Attention(Q,K,V) where Q=Legal Promises, K=Evidence, V=Filing Outputs"
+  },
+  "attention_mechanism": {
+    "description": "Promise-Lambda Attention: \u03bb(Q) filters K-V pairs to produce legally valid outputs",
+    "Q_queries": "Legal promises/obligations that must be satisfied (burden of proof, statutory elements)",
+    "K_keys": "Evidence items that may satisfy the queries",
+    "V_values": "Legal filing outputs produced when Q-K attention succeeds"
+  },
+  "queries": {
+    "Q_TAX_FRAUD": {
+      "id": "Q_TAX_FRAUD",
+      "promise": "Tax Administration Act s235(1)(a)(d)(e) \u2014 wilful false statement, obstruction",
+      "required_elements": [
+        "Wilful intent to deceive SARS",
+        "False statement or entry",
+        "Obstruction of SARS official",
+        "Material financial impact"
+      ],
+      "burden_of_proof": 0.95,
+      "current_satisfaction": 0.99,
+      "status": "EXCEEDED",
+      "primary_key": "K_SMOKING_GUN_EVENT_119"
+    },
+    "Q_FRAUD": {
+      "id": "Q_FRAUD",
+      "promise": "Common Law Fraud \u2014 misrepresentation, intent, prejudice",
+      "required_elements": [
+        "Misrepresentation of material fact",
+        "Intent to deceive",
+        "Actual or potential prejudice",
+        "Unlawful conduct"
+      ],
+      "burden_of_proof": 0.95,
+      "current_satisfaction": 0.99,
+      "status": "EXCEEDED",
+      "primary_keys": [
+        "K_TRUST_FORGERY",
+        "K_SARS_MANUFACTURING",
+        "K_SAGE_IDENTITY"
+      ]
+    },
+    "Q_FORGERY": {
+      "id": "Q_FORGERY",
+      "promise": "Common Law Forgery \u2014 making false document with intent",
+      "required_elements": [
+        "False document created",
+        "Intent to defraud",
+        "Actual use of false document",
+        "Prejudice to another"
+      ],
+      "burden_of_proof": 0.95,
+      "current_satisfaction": 0.99,
+      "status": "EXCEEDED",
+      "primary_key": "K_TRUST_AMENDMENT_FORGERY"
+    },
+    "Q_PERJURY": {
+      "id": "Q_PERJURY",
+      "promise": "Common Law Perjury \u2014 false statement under oath",
+      "required_elements": [
+        "Statement made under oath",
+        "Statement is false",
+        "Deponent knew it was false",
+        "Statement is material"
+      ],
+      "burden_of_proof": 0.95,
+      "current_satisfaction": 0.99,
+      "status": "EXCEEDED",
+      "primary_key": "K_CONFIRMATORY_AFFIDAVIT"
+    },
+    "Q_CONSPIRACY": {
+      "id": "Q_CONSPIRACY",
+      "promise": "POCA \u2014 conspiracy, racketeering, pattern of criminal activity",
+      "required_elements": [
+        "Agreement between two or more persons",
+        "To commit an offence",
+        "Overt act in furtherance",
+        "Pattern of racketeering activity"
+      ],
+      "burden_of_proof": 0.95,
+      "current_satisfaction": 0.99,
+      "status": "EXCEEDED",
+      "primary_keys": [
+        "K_1632_COMMUNICATIONS",
+        "K_VAT_TAKEOVER",
+        "K_KETONI_INSIDER"
+      ]
+    },
+    "Q_BREACH_FIDUCIARY": {
+      "id": "Q_BREACH_FIDUCIARY",
+      "promise": "Companies Act s76 \u2014 breach of fiduciary duty",
+      "required_elements": [
+        "Director/officer of company",
+        "Fiduciary duty owed",
+        "Breach of duty",
+        "Prejudice to company"
+      ],
+      "burden_of_proof": 0.5,
+      "current_satisfaction": 0.99,
+      "status": "EXCEEDED",
+      "primary_key": "K_KETONI_CONFLICT_OF_INTEREST"
+    },
+    "Q_POPIA": {
+      "id": "Q_POPIA",
+      "promise": "POPIA s19/s22 \u2014 security safeguards, notification of compromise",
+      "required_elements": [
+        "Personal information processed",
+        "Inadequate security measures",
+        "Unauthorized access or sharing",
+        "Failure to notify"
+      ],
+      "burden_of_proof": 0.5,
+      "current_satisfaction": 0.95,
+      "status": "EXCEEDED",
+      "primary_key": "K_CREDENTIAL_SHARING"
+    },
+    "Q_COMPANIES_ACT": {
+      "id": "Q_COMPANIES_ACT",
+      "promise": "Companies Act s28/s214 \u2014 falsification of records, reckless trading",
+      "required_elements": [
+        "Accounting records falsified",
+        "Reckless or fraudulent conduct",
+        "Intent to defraud creditors",
+        "Material misstatement"
+      ],
+      "burden_of_proof": 0.5,
+      "current_satisfaction": 0.99,
+      "status": "EXCEEDED",
+      "primary_keys": [
+        "K_SARS_MANUFACTURING",
+        "K_INTERCOMPANY_INVOICES"
+      ]
+    }
+  },
+  "keys": {
+    "K_SMOKING_GUN_EVENT_119": {
+      "id": "K_SMOKING_GUN_EVENT_119",
+      "evidence_type": "direct_admission",
+      "date": "2025-06-06",
+      "source": "Exchange Email",
+      "content": "Bantjies: 'I will manufacture an answer to the 2 interco invoices over the weekend'",
+      "actors": [
+        "PERSON_007",
+        "PERSON_002"
+      ],
+      "strength": 0.99,
+      "satisfies_queries": [
+        "Q_TAX_FRAUD",
+        "Q_FRAUD",
+        "Q_CONSPIRACY",
+        "Q_COMPANIES_ACT"
+      ],
+      "provable_foreknowledge": true,
+      "smoking_gun": true
+    },
+    "K_VAT_TAKEOVER": {
+      "id": "K_VAT_TAKEOVER",
+      "evidence_type": "coordinated_action",
+      "date": "2022-06-01",
+      "source": "Exchange Email",
+      "content": "Rynette removes Anton from VAT portal (EVENT_114) + shares credentials (EVENT_115)",
+      "actors": [
+        "PERSON_002",
+        "PERSON_007"
+      ],
+      "strength": 0.95,
+      "satisfies_queries": [
+        "Q_CONSPIRACY",
+        "Q_POPIA"
+      ]
+    },
+    "K_KETONI_INSIDER": {
+      "id": "K_KETONI_INSIDER",
+      "evidence_type": "conflict_of_interest",
+      "date": "2023-04-12",
+      "source": "Exchange Email",
+      "content": "Bantjies negotiates Ketoni SHA/MOI via Baker McKenzie while serving as RegimA accountant",
+      "actors": [
+        "PERSON_007",
+        "PERSON_042",
+        "PERSON_043"
+      ],
+      "strength": 0.99,
+      "satisfies_queries": [
+        "Q_BREACH_FIDUCIARY",
+        "Q_CONSPIRACY",
+        "Q_FRAUD"
+      ],
+      "financial_impact": 18685000
+    },
+    "K_KETONI_CONFLICT_OF_INTEREST": {
+      "id": "K_KETONI_CONFLICT_OF_INTEREST",
+      "evidence_type": "undisclosed_conflict",
+      "date": "2023-04-12",
+      "source": "Baker McKenzie correspondence",
+      "content": "Bantjies as George Group CFO negotiating Ketoni deal while accountant for RegimA",
+      "actors": [
+        "PERSON_007"
+      ],
+      "strength": 0.99,
+      "satisfies_queries": [
+        "Q_BREACH_FIDUCIARY"
+      ],
+      "conflicts": 6
+    },
+    "K_TRUST_AMENDMENT_FORGERY": {
+      "id": "K_TRUST_AMENDMENT_FORGERY",
+      "evidence_type": "forged_document",
+      "date": "2024-06-28",
+      "source": "Trust Amendment Resolution SF15",
+      "content": "Rynette forges 'pp Peter' signature to install Bantjies as FFT trustee",
+      "actors": [
+        "PERSON_002",
+        "PERSON_007",
+        "PERSON_001"
+      ],
+      "strength": 0.99,
+      "satisfies_queries": [
+        "Q_FORGERY",
+        "Q_FRAUD",
+        "Q_CONSPIRACY"
+      ]
+    },
+    "K_CONFIRMATORY_AFFIDAVIT": {
+      "id": "K_CONFIRMATORY_AFFIDAVIT",
+      "evidence_type": "perjured_document",
+      "date": "2025-08-13",
+      "source": "Court Filing",
+      "content": "Bantjies swears confirmatory affidavit 1 day after receiving proof of address from Rynette",
+      "actors": [
+        "PERSON_007"
+      ],
+      "strength": 0.99,
+      "satisfies_queries": [
+        "Q_PERJURY",
+        "Q_FRAUD"
+      ]
+    },
+    "K_CREDENTIAL_SHARING": {
+      "id": "K_CREDENTIAL_SHARING",
+      "evidence_type": "security_breach",
+      "date": "2022-06-23",
+      "source": "Exchange Email",
+      "content": "Rynette shares eFiling credentials (rynette7777/Darren1997$) via unencrypted email",
+      "actors": [
+        "PERSON_002",
+        "PERSON_007"
+      ],
+      "strength": 0.99,
+      "satisfies_queries": [
+        "Q_POPIA"
+      ]
+    },
+    "K_1632_COMMUNICATIONS": {
+      "id": "K_1632_COMMUNICATIONS",
+      "evidence_type": "communication_pattern",
+      "date_range": "2015-2026",
+      "source": "Exchange + Gmail",
+      "content": "1,632 emails between Farrar and Bantjies showing coordinated conspiracy",
+      "actors": [
+        "PERSON_002",
+        "PERSON_007"
+      ],
+      "strength": 0.95,
+      "satisfies_queries": [
+        "Q_CONSPIRACY"
+      ],
+      "volume_by_year": {
+        "2020": 31,
+        "2021": 291,
+        "2022": 542,
+        "2023": 184,
+        "2024": 278,
+        "2025": 298
+      }
+    },
+    "K_SARS_MANUFACTURING": {
+      "id": "K_SARS_MANUFACTURING",
+      "evidence_type": "direct_admission",
+      "date": "2025-06-06",
+      "source": "Exchange Email",
+      "content": "Bantjies admits intent to fabricate SARS response",
+      "actors": [
+        "PERSON_007"
+      ],
+      "strength": 0.99,
+      "satisfies_queries": [
+        "Q_TAX_FRAUD",
+        "Q_COMPANIES_ACT"
+      ]
+    },
+    "K_INTERCOMPANY_INVOICES": {
+      "id": "K_INTERCOMPANY_INVOICES",
+      "evidence_type": "financial_manipulation",
+      "date": "2025-02",
+      "source": "SARS Verification Query",
+      "content": "Two large intercompany invoices at end of February 2025 queried by SARS",
+      "actors": [
+        "PERSON_007"
+      ],
+      "strength": 0.9,
+      "satisfies_queries": [
+        "Q_COMPANIES_ACT",
+        "Q_TAX_FRAUD"
+      ]
+    },
+    "K_SAGE_IDENTITY": {
+      "id": "K_SAGE_IDENTITY",
+      "evidence_type": "identity_fraud",
+      "date": "2020-2025",
+      "source": "Sage System Screenshots",
+      "content": "Rynette operates Sage as pete@regima.com",
+      "actors": [
+        "PERSON_002"
+      ],
+      "strength": 0.95,
+      "satisfies_queries": [
+        "Q_FRAUD",
+        "Q_POPIA"
+      ]
+    }
+  },
+  "values": {
+    "V_NPA_TAX_FRAUD_REPORT": {
+      "id": "V_NPA_TAX_FRAUD_REPORT",
+      "filing_type": "NPA Tax Fraud Report",
+      "triggered_by_queries": [
+        "Q_TAX_FRAUD"
+      ],
+      "key_evidence": [
+        "K_SMOKING_GUN_EVENT_119",
+        "K_VAT_TAKEOVER",
+        "K_INTERCOMPANY_INVOICES"
+      ],
+      "satisfaction_score": 0.99,
+      "status": "READY_TO_FILE",
+      "output_file": "filings/NPA_TAX_FRAUD_REPORT_REFINED_2026_03_07.md"
+    },
+    "V_COMMERCIAL_CRIME": {
+      "id": "V_COMMERCIAL_CRIME",
+      "filing_type": "Commercial Crime Submission",
+      "triggered_by_queries": [
+        "Q_FRAUD",
+        "Q_FORGERY",
+        "Q_PERJURY",
+        "Q_CONSPIRACY"
+      ],
+      "key_evidence": [
+        "K_SMOKING_GUN_EVENT_119",
+        "K_TRUST_AMENDMENT_FORGERY",
+        "K_CONFIRMATORY_AFFIDAVIT",
+        "K_1632_COMMUNICATIONS"
+      ],
+      "satisfaction_score": 0.99,
+      "status": "READY_TO_FILE",
+      "output_file": "filings/COMMERCIAL_CRIME_SUBMISSION_REFINED_2026_03_07.md"
+    },
+    "V_CIPC_COMPLAINT": {
+      "id": "V_CIPC_COMPLAINT",
+      "filing_type": "CIPC Companies Act Complaint",
+      "triggered_by_queries": [
+        "Q_COMPANIES_ACT",
+        "Q_BREACH_FIDUCIARY"
+      ],
+      "key_evidence": [
+        "K_SARS_MANUFACTURING",
+        "K_KETONI_CONFLICT_OF_INTEREST",
+        "K_INTERCOMPANY_INVOICES"
+      ],
+      "satisfaction_score": 0.99,
+      "status": "READY_TO_FILE",
+      "output_file": "filings/CIPC_COMPLAINT_REFINED_2026_03_07.md"
+    },
+    "V_POPIA_COMPLAINT": {
+      "id": "V_POPIA_COMPLAINT",
+      "filing_type": "POPIA Criminal Complaint",
+      "triggered_by_queries": [
+        "Q_POPIA"
+      ],
+      "key_evidence": [
+        "K_CREDENTIAL_SHARING",
+        "K_SAGE_IDENTITY"
+      ],
+      "satisfaction_score": 0.95,
+      "status": "READY_TO_FILE",
+      "output_file": "filings/POPIA_COMPLAINT_REFINED_2026_03_07.md"
+    }
+  },
+  "attention_scores": {
+    "description": "Cross-attention scores between Q (queries) and K (keys)",
+    "matrix": {
+      "Q_TAX_FRAUD": {
+        "K_SMOKING_GUN_EVENT_119": 0.99,
+        "K_VAT_TAKEOVER": 0.0,
+        "K_KETONI_INSIDER": 0.0,
+        "K_KETONI_CONFLICT_OF_INTEREST": 0.0,
+        "K_TRUST_AMENDMENT_FORGERY": 0.0,
+        "K_CONFIRMATORY_AFFIDAVIT": 0.0,
+        "K_CREDENTIAL_SHARING": 0.0,
+        "K_1632_COMMUNICATIONS": 0.0,
+        "K_SARS_MANUFACTURING": 0.99,
+        "K_INTERCOMPANY_INVOICES": 0.9,
+        "K_SAGE_IDENTITY": 0.0
+      },
+      "Q_FRAUD": {
+        "K_SMOKING_GUN_EVENT_119": 0.99,
+        "K_VAT_TAKEOVER": 0.0,
+        "K_KETONI_INSIDER": 0.99,
+        "K_KETONI_CONFLICT_OF_INTEREST": 0.0,
+        "K_TRUST_AMENDMENT_FORGERY": 0.99,
+        "K_CONFIRMATORY_AFFIDAVIT": 0.99,
+        "K_CREDENTIAL_SHARING": 0.0,
+        "K_1632_COMMUNICATIONS": 0.0,
+        "K_SARS_MANUFACTURING": 0.0,
+        "K_INTERCOMPANY_INVOICES": 0.0,
+        "K_SAGE_IDENTITY": 0.95
+      },
+      "Q_FORGERY": {
+        "K_SMOKING_GUN_EVENT_119": 0.0,
+        "K_VAT_TAKEOVER": 0.0,
+        "K_KETONI_INSIDER": 0.0,
+        "K_KETONI_CONFLICT_OF_INTEREST": 0.0,
+        "K_TRUST_AMENDMENT_FORGERY": 0.99,
+        "K_CONFIRMATORY_AFFIDAVIT": 0.0,
+        "K_CREDENTIAL_SHARING": 0.0,
+        "K_1632_COMMUNICATIONS": 0.0,
+        "K_SARS_MANUFACTURING": 0.0,
+        "K_INTERCOMPANY_INVOICES": 0.0,
+        "K_SAGE_IDENTITY": 0.0
+      },
+      "Q_PERJURY": {
+        "K_SMOKING_GUN_EVENT_119": 0.0,
+        "K_VAT_TAKEOVER": 0.0,
+        "K_KETONI_INSIDER": 0.0,
+        "K_KETONI_CONFLICT_OF_INTEREST": 0.0,
+        "K_TRUST_AMENDMENT_FORGERY": 0.0,
+        "K_CONFIRMATORY_AFFIDAVIT": 0.99,
+        "K_CREDENTIAL_SHARING": 0.0,
+        "K_1632_COMMUNICATIONS": 0.0,
+        "K_SARS_MANUFACTURING": 0.0,
+        "K_INTERCOMPANY_INVOICES": 0.0,
+        "K_SAGE_IDENTITY": 0.0
+      },
+      "Q_CONSPIRACY": {
+        "K_SMOKING_GUN_EVENT_119": 0.99,
+        "K_VAT_TAKEOVER": 0.95,
+        "K_KETONI_INSIDER": 0.99,
+        "K_KETONI_CONFLICT_OF_INTEREST": 0.0,
+        "K_TRUST_AMENDMENT_FORGERY": 0.99,
+        "K_CONFIRMATORY_AFFIDAVIT": 0.0,
+        "K_CREDENTIAL_SHARING": 0.0,
+        "K_1632_COMMUNICATIONS": 0.95,
+        "K_SARS_MANUFACTURING": 0.0,
+        "K_INTERCOMPANY_INVOICES": 0.0,
+        "K_SAGE_IDENTITY": 0.0
+      },
+      "Q_BREACH_FIDUCIARY": {
+        "K_SMOKING_GUN_EVENT_119": 0.0,
+        "K_VAT_TAKEOVER": 0.0,
+        "K_KETONI_INSIDER": 0.99,
+        "K_KETONI_CONFLICT_OF_INTEREST": 0.99,
+        "K_TRUST_AMENDMENT_FORGERY": 0.0,
+        "K_CONFIRMATORY_AFFIDAVIT": 0.0,
+        "K_CREDENTIAL_SHARING": 0.0,
+        "K_1632_COMMUNICATIONS": 0.0,
+        "K_SARS_MANUFACTURING": 0.0,
+        "K_INTERCOMPANY_INVOICES": 0.0,
+        "K_SAGE_IDENTITY": 0.0
+      },
+      "Q_POPIA": {
+        "K_SMOKING_GUN_EVENT_119": 0.0,
+        "K_VAT_TAKEOVER": 0.95,
+        "K_KETONI_INSIDER": 0.0,
+        "K_KETONI_CONFLICT_OF_INTEREST": 0.0,
+        "K_TRUST_AMENDMENT_FORGERY": 0.0,
+        "K_CONFIRMATORY_AFFIDAVIT": 0.0,
+        "K_CREDENTIAL_SHARING": 0.99,
+        "K_1632_COMMUNICATIONS": 0.0,
+        "K_SARS_MANUFACTURING": 0.0,
+        "K_INTERCOMPANY_INVOICES": 0.0,
+        "K_SAGE_IDENTITY": 0.95
+      },
+      "Q_COMPANIES_ACT": {
+        "K_SMOKING_GUN_EVENT_119": 0.99,
+        "K_VAT_TAKEOVER": 0.0,
+        "K_KETONI_INSIDER": 0.0,
+        "K_KETONI_CONFLICT_OF_INTEREST": 0.0,
+        "K_TRUST_AMENDMENT_FORGERY": 0.0,
+        "K_CONFIRMATORY_AFFIDAVIT": 0.0,
+        "K_CREDENTIAL_SHARING": 0.0,
+        "K_1632_COMMUNICATIONS": 0.0,
+        "K_SARS_MANUFACTURING": 0.99,
+        "K_INTERCOMPANY_INVOICES": 0.9,
+        "K_SAGE_IDENTITY": 0.0
+      }
+    }
+  },
+  "provable_foreknowledge_chain": {
+    "description": "Temporally indexed chain of provable foreknowledge events",
+    "chain": [
+      {
+        "date": "2020-07",
+        "agent": "PERSON_002",
+        "knowledge": "Full access to all company financials",
+        "evidence": "Email correspondence"
+      },
+      {
+        "date": "2021-08",
+        "agent": "PERSON_002",
+        "knowledge": "Intercompany loan account details",
+        "evidence": "Email to Bantjies"
+      },
+      {
+        "date": "2022-06-01",
+        "agent": "PERSON_002",
+        "knowledge": "VAT portal access structure",
+        "evidence": "EVENT_114"
+      },
+      {
+        "date": "2022-06-23",
+        "agent": "PERSON_007",
+        "knowledge": "Full eFiling portal credentials",
+        "evidence": "EVENT_115"
+      },
+      {
+        "date": "2023-04-12",
+        "agent": "PERSON_007",
+        "knowledge": "Ketoni deal terms and structure",
+        "evidence": "EVENT_116"
+      },
+      {
+        "date": "2023-05-09",
+        "agent": "PERSON_002",
+        "knowledge": "Ketoni payment allocation method",
+        "evidence": "EVENT_117"
+      },
+      {
+        "date": "2024-06-28",
+        "agent": "PERSON_002",
+        "knowledge": "Trust amendment execution",
+        "evidence": "EVENT_103"
+      },
+      {
+        "date": "2024-07-01",
+        "agent": "PERSON_007",
+        "knowledge": "Trustee appointment process",
+        "evidence": "ID document exchange"
+      },
+      {
+        "date": "2024-11-19",
+        "agent": "PERSON_007",
+        "knowledge": "Beneficial ownership regulations",
+        "evidence": "EVENT_118"
+      },
+      {
+        "date": "2025-06-05",
+        "agent": "PERSON_002",
+        "knowledge": "SARS verification query on intercompany invoices",
+        "evidence": "EVENT_119 thread"
+      },
+      {
+        "date": "2025-06-06",
+        "agent": "PERSON_007",
+        "knowledge": "Intent to fabricate SARS response",
+        "evidence": "EVENT_119 SMOKING GUN"
+      },
+      {
+        "date": "2025-08-12",
+        "agent": "PERSON_002",
+        "knowledge": "Trustee appointment timeline",
+        "evidence": "EVENT_120"
+      }
+    ]
+  }
+}

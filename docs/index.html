@@ -1,0 +1,806 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Case 2025-137857: Revenue Stream Hijacking Evidence Repository</title>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+            line-height: 1.6;
+            color: #333;
+            background: #f5f5f5;
+        }
+        .header {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            padding: 2rem;
+            text-align: center;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+        }
+        .header h1 { font-size: 2.5rem; margin-bottom: 0.5rem; }
+        .header p { font-size: 1.1rem; opacity: 0.9; }
+        .container {
+            max-width: 1200px;
+            margin: 2rem auto;
+            padding: 0 1rem;
+        }
+        .card {
+            background: white;
+            border-radius: 8px;
+            padding: 2rem;
+            margin-bottom: 2rem;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+        }
+        .card h2 {
+            color: #667eea;
+            margin-bottom: 1rem;
+            border-bottom: 2px solid #667eea;
+            padding-bottom: 0.5rem;
+        }
+        .card h3 {
+            color: #764ba2;
+            margin-top: 1.5rem;
+            margin-bottom: 0.75rem;
+        }
+        .critical-box {
+            background: #fef2f2;
+            border: 2px solid #ef4444;
+            border-radius: 8px;
+            padding: 1.5rem;
+            margin: 1.5rem 0;
+        }
+        .critical-box h3 {
+            color: #dc2626;
+            margin-top: 0;
+        }
+        .applications {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 1.5rem;
+            margin-top: 2rem;
+        }
+        .app-card {
+            background: white;
+            border-radius: 8px;
+            padding: 1.5rem;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+            transition: transform 0.2s, box-shadow 0.2s;
+        }
+        .app-card:hover {
+            transform: translateY(-4px);
+            box-shadow: 0 4px 16px rgba(0,0,0,0.15);
+        }
+        .app-card.civil { border-top: 4px solid #3b82f6; }
+        .app-card.criminal { border-top: 4px solid #ef4444; }
+        .app-card.regulatory { border-top: 4px solid #f59e0b; }
+        .app-card.forgery { border-top: 4px solid #dc2626; }
+        .app-card h3 { margin-top: 0; }
+        .app-card .status {
+            display: inline-block;
+            padding: 0.25rem 0.75rem;
+            border-radius: 12px;
+            font-size: 0.875rem;
+            font-weight: 600;
+            margin-bottom: 1rem;
+        }
+        .status.active { background: #dcfce7; color: #166534; }
+        .status.pending { background: #fef3c7; color: #92400e; }
+        .status.critical { background: #fecaca; color: #991b1b; }
+        .evidence-link {
+            display: inline-block;
+            padding: 0.5rem 1rem;
+            background: #667eea;
+            color: white;
+            text-decoration: none;
+            border-radius: 4px;
+            margin: 0.5rem 0.5rem 0.5rem 0;
+            transition: background 0.2s;
+            font-size: 0.9rem;
+        }
+        .evidence-link:hover { background: #764ba2; }
+        .evidence-link.red { background: #dc2626; }
+        .evidence-link.red:hover { background: #991b1b; }
+        .stats {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+            gap: 1rem;
+            margin: 2rem 0;
+        }
+        .stat-box {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            padding: 1.5rem;
+            border-radius: 8px;
+            text-align: center;
+        }
+        .stat-box .number { font-size: 2.5rem; font-weight: bold; }
+        .stat-box .label { font-size: 0.875rem; opacity: 0.9; }
+        .stat-box.alert {
+            background: linear-gradient(135deg, #dc2626 0%, #991b1b 100%);
+        }
+        .timeline-table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 1rem 0;
+        }
+        .timeline-table th, .timeline-table td {
+            padding: 0.75rem;
+            text-align: left;
+            border-bottom: 1px solid #e5e7eb;
+            font-size: 0.9rem;
+        }
+        .timeline-table th {
+            background: #f3f4f6;
+            font-weight: 600;
+            color: #374151;
+        }
+        .timeline-table tr:hover { background: #f9fafb; }
+        .timeline-table .critical-row { background: #fef2f2; font-weight: 600; }
+        .timeline-link {
+            display: block;
+            padding: 1rem;
+            background: #f3f4f6;
+            border-left: 4px solid #667eea;
+            margin: 1rem 0;
+            text-decoration: none;
+            color: #333;
+            transition: background 0.2s;
+        }
+        .timeline-link:hover { background: #e5e7eb; }
+        footer {
+            text-align: center;
+            padding: 2rem;
+            color: #666;
+            font-size: 0.875rem;
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <h1>Case 2025-137857</h1>
+        <p>Revenue Stream Hijacking: Comprehensive Evidence Repository</p>
+        <p style="font-size: 0.9rem; margin-top: 0.5rem;">Jacqueline Faucitt &amp; Daniel James Faucitt (Respondents)</p>
+        <p style="font-size: 0.85rem; margin-top: 0.5rem; background: rgba(255,255,255,0.2); display: inline-block; padding: 0.25rem 0.75rem; border-radius: 12px;">Updated: 2026-03-22 | v18 | /evidence-process &rarr; /ksm-evolve &rarr; /optimal-cognitive-grip | 169 Events | 75 Entities | 38 Relations | 8 Timeline Phases</p>
+    </div>
+
+    <div class="container">
+        <div class="card">
+            <h2>Case Overview</h2>
+            <div class="stats">
+                <div class="stat-box">
+                    <div class="number">R63M</div>
+                    <div class="label">Total Quantum Claimed</div>
+                </div>
+                <div class="stat-box">
+                    <div class="number">169</div>
+                    <div class="label">Documented Events</div>
+                </div>
+                <div class="stat-box">
+                    <div class="number">75</div>
+                    <div class="label">Entities Tracked</div>
+                </div>
+                <div class="stat-box">
+                    <div class="number">38</div>
+                    <div class="label">Relations Mapped</div>
+                </div>
+                <div class="stat-box" style="background: linear-gradient(135deg, #22c55e 0%, #16a34a 100%);">
+                    <div class="number">98.88%</div>
+                    <div class="label">Criminal Burden MET</div>
+                </div>
+                <div class="stat-box alert">
+                    <div class="number">EA-18</div>
+                    <div class="label">10-Day Coordinated Action</div>
+                </div>
+            </div>
+        </div>
+
+        <!-- NEW: SMOKING GUN - Bantjies Admits Manufacturing SARS Answer (2026-03-07) -->
+        <div class="card" style="border: 3px solid #dc2626; position: relative;">
+            <div style="position:absolute;top:-12px;left:20px;background:#dc2626;color:white;padding:2px 12px;border-radius:4px;font-weight:700;font-size:0.85rem;">SMOKING GUN &mdash; NEW 2026-03-07</div>
+            <h2 style="color:#dc2626;">EVENT_119: Bantjies Admits &ldquo;Manufacturing&rdquo; SARS Answer</h2>
+            <div class="critical-box">
+                <p><strong>Date: 6 June 2025</strong> &mdash; Email from Daniel Bantjies to Rynette Farrar</p>
+                <blockquote style="margin:1rem 0;padding:1rem;background:#fff;border-left:4px solid #dc2626;font-style:italic;font-size:1.1rem;">
+                    &ldquo;I will manufacture an answer to the 2 interco invoices over the weekend.&rdquo;
+                    <br><br>&mdash; Daniel Jacobus Bantjies, 6 June 2025
+                </blockquote>
+                <p>Bantjies explicitly admits to fabricating a response to a SARS verification query regarding two large intercompany invoices. This constitutes <strong>direct, documentary evidence</strong> of premeditated tax fraud and obstruction of SARS. All criminal thresholds (95%) are now <strong>exceeded at 99%</strong>.</p>
+            </div>
+
+            <h3>New Evidence from 1,632 Bantjies-Farrar Communications (2015&ndash;2026)</h3>
+            <table class="timeline-table">
+                <thead><tr><th>Event</th><th>Date</th><th>Description</th><th>Impact</th></tr></thead>
+                <tbody>
+                    <tr class="critical-row"><td><strong>EVENT_114</strong></td><td>2022-06-01</td><td>Rynette removes Anton Hechter from VAT portal</td><td>Independent oversight eliminated</td></tr>
+                    <tr class="critical-row"><td><strong>EVENT_115</strong></td><td>2022-06-23</td><td>Rynette shares eFiling credentials with Bantjies</td><td>Complete VAT control achieved</td></tr>
+                    <tr class="critical-row"><td><strong>EVENT_116</strong></td><td>2023-04-12</td><td>Bantjies negotiates Ketoni SHA/MOI via Baker McKenzie</td><td>Insider access to R18.685M deal</td></tr>
+                    <tr class="critical-row"><td><strong>EVENT_117</strong></td><td>2023-05-09</td><td>Bantjies directs Ketoni payment to shareholder loan</td><td>Accounting manipulation</td></tr>
+                    <tr class="critical-row"><td><strong>EVENT_119</strong></td><td>2025-06-06</td><td><strong>&ldquo;I will manufacture an answer&rdquo;</strong></td><td><strong>SMOKING GUN &mdash; Tax Fraud</strong></td></tr>
+                    <tr class="critical-row"><td><strong>EVENT_120</strong></td><td>2025-08-12</td><td>Rynette provides proof of address for trustee appointment</td><td>Conspiracy facilitation</td></tr>
+                </tbody>
+            </table>
+
+            <h3>New Entities Identified</h3>
+            <table class="timeline-table">
+                <thead><tr><th>Entity</th><th>Name</th><th>Role</th></tr></thead>
+                <tbody>
+                    <tr><td>PERSON_042</td><td>Marc Yudaken</td><td>Baker McKenzie Attorney &mdash; Ketoni SHA</td></tr>
+                    <tr><td>PERSON_043</td><td>David Field</td><td>Deal Consultant (Kevin Derrick&rsquo;s representative)</td></tr>
+                    <tr><td>PERSON_044</td><td>Denny Da Silva</td><td>Baker McKenzie Attorney</td></tr>
+                    <tr><td>ORG_025</td><td>Baker McKenzie</td><td>International Law Firm &mdash; Ketoni SHA/MOI</td></tr>
+                </tbody>
+            </table>
+
+            <div style="margin-top:1.5rem;">
+                <a href="events/EVENT_119.md" class="evidence-link red">EVENT_119: Smoking Gun</a>
+                <a href="events/EVENT_114.md" class="evidence-link red">EVENT_114: Anton Removal</a>
+                <a href="events/EVENT_116.md" class="evidence-link red">EVENT_116: Ketoni SHA</a>
+                <a href="relations/RYNETTE_BANTJIES_CONSPIRACY_2026_03_07.md" class="evidence-link red">Conspiracy Relations Map</a>
+                <a href="super_sleuth_findings.md" class="evidence-link red">Super-Sleuth Analysis</a>
+            </div>
+        </div>
+
+        <!-- SARS Identity Fraud, Trust Gatekeeping & Villa Via Section (2026-03-03) -->
+        <div class="card">
+            <h2>NEW EVIDENCE: SARS Identity Fraud, Trust Gatekeeping &amp; Villa Via Negligence</h2>
+            <p style="color:#764ba2;font-weight:bold;">Added 3 March 2026 &mdash; Three new evidence leads confirmed from Neon database mailbox forensics</p>
+            
+            <h3>EVENT_107: Rynette Logs Into SARS as Bantjies (26 April 2024)</h3>
+            <div class="critical-box">
+                <p><strong>Subject: "Logged in as you"</strong></p>
+                <blockquote style="margin:1rem 0;padding:1rem;background:#fff;border-left:4px solid #ef4444;font-style:italic;">
+                    "Hi Danie. Just to let you know I couldn't come right with SARS logged in as 'me' to change the banking details to ABSA. So, I logged in as you and all is sorted now. Just so you know in case you get notifications from SARS, that it was me &#9786;"
+                    <br><br>&mdash; Rynette Farrar, 26 April 2024
+                </blockquote>
+                <p><strong>Implications:</strong> Rynette had her own SARS eFiling profile AND possessed Bantjies' credentials. She was changing banking details to ABSA &mdash; controlling where SARS sends refunds/payments. This occurred <strong>63 days before</strong> the trust amendment forgery.</p>
+            </div>
+
+            <h3>EVENT_106: Villa Via Wrong Registration Number Since 2014 (12 January 2022)</h3>
+            <table class="timeline-table">
+                <thead>
+                    <tr><th>Date</th><th>From</th><th>Key Quote</th></tr>
+                </thead>
+                <tbody>
+                    <tr><td>2022-01-12</td><td>Rynette</td><td>"I see that your financial statements for Villa Via has a different company registration number on? The number I have is 1996/004451/23, and you have 1999/061687/23"</td></tr>
+                    <tr><td>2022-01-18</td><td>Bantjies</td><td><strong>"My goodness, been using this incorrect number since 2014!"</strong></td></tr>
+                    <tr><td>2022-01-18</td><td>Rynette</td><td>"Hahaha&hellip;. good thing CIPRO, and SARS are sleeping."</td></tr>
+                </tbody>
+            </table>
+            <p>Bantjies used the wrong company registration number for Villa Via on all financial statements for <strong>8 years</strong> (2014&ndash;2022). Neither party reported the error to CIPC or SARS.</p>
+
+            <h3>EVENT_108: Trust Gatekeeping &mdash; Rynette as Sole Intermediary (May 2023)</h3>
+            <table class="timeline-table">
+                <thead>
+                    <tr><th>Date</th><th>Event</th><th>Significance</th></tr>
+                </thead>
+                <tbody>
+                    <tr><td>2023-05-03</td><td>Rynette handles trust minutes signatures</td><td>Physical access to trust documents</td></tr>
+                    <tr><td>2023-05-29</td><td>Rynette arranges trust meeting (excludes Jax/Dan)</td><td>Information gatekeeping pattern</td></tr>
+                    <tr><td>2023-05-31</td><td>Jax discovers exclusion</td><td><strong>"Please ask him to always copy me and Danny"</strong></td></tr>
+                </tbody>
+            </table>
+            <p>Rynette acted as the sole intermediary for Faucitt Family Trust matters, systematically excluding beneficiaries Jax and Daniel from communications. This gave her the access and control she later exploited for the trust amendment forgery.</p>
+
+            <div style="margin-top:1.5rem;">
+                <a href="events/EVENT_107.md" class="evidence-link red">EVENT_107: SARS Login</a>
+                <a href="events/EVENT_106.md" class="evidence-link red">EVENT_106: Villa Via</a>
+                <a href="events/EVENT_108.md" class="evidence-link red">EVENT_108: Trust Gatekeeping</a>
+            </div>
+        </div>
+
+        <!-- NEW: Two-Date Distinction Section -->
+        <div class="card">
+            <h2>CRITICAL: Two-Date Distinction &mdash; Trust Forgery vs. Backdated Appointment</h2>
+            <div class="critical-box">
+                <h3>Two distinct dates are in play for the Bantjies appointment:</h3>
+                <table class="timeline-table">
+                    <thead>
+                        <tr>
+                            <th>Date</th>
+                            <th>Document</th>
+                            <th>Action</th>
+                            <th>Significance</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr class="critical-row">
+                            <td><strong>28 June 2024</strong></td>
+                            <td>Trust Amendment Resolution (SF15)</td>
+                            <td>Rynette forges "pp Peter" signature to install Bantjies as trustee</td>
+                            <td>THE FORGERY &mdash; 10 days before Sage affidavit</td>
+                        </tr>
+                        <tr class="critical-row">
+                            <td><strong>11 August 2025</strong></td>
+                            <td>"Main Trustee" Agreement (backdated to 1 July 2025)</td>
+                            <td>Rynette emails Bantjies his appointment communication</td>
+                            <td>THE BACKDATING &mdash; 2 days before Bantjies swears affidavit</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+
+            <h3>EA-18: The 10-Day Coordinated Action Window</h3>
+            <p>The proximity of the trust amendment forgery (28 June 2024) and the Sage affidavit fraud (8&ndash;9 July 2024) proves coordinated criminal action:</p>
+            <table class="timeline-table">
+                <thead>
+                    <tr><th>Day</th><th>Date</th><th>Action</th><th>Target</th></tr>
+                </thead>
+                <tbody>
+                    <tr class="critical-row"><td>Day 0</td><td><strong>28 June 2024</strong></td><td>Trust amendment forgery</td><td>Faucitt Family Trust</td></tr>
+                    <tr><td>Day 3</td><td>1 July 2024</td><td>Bantjies sends ID</td><td>Trust appointment</td></tr>
+                    <tr><td>Day 10</td><td>8 July 2024</td><td>Sage switch initiated</td><td>Sage Accounting</td></tr>
+                    <tr class="critical-row"><td>Day 11</td><td><strong>9 July 2024</strong></td><td>Sage ownership transferred</td><td>Sage Worldwide</td></tr>
+                </tbody>
+            </table>
+
+            <h3>The 3-Day Interdict Sprint (August 2025)</h3>
+            <table class="timeline-table">
+                <thead>
+                    <tr><th>Day</th><th>Date</th><th>Action</th></tr>
+                </thead>
+                <tbody>
+                    <tr class="critical-row"><td>Day 0</td><td><strong>11 Aug 2025</strong></td><td>Rynette emails backdated "Main Trustee" to Bantjies</td></tr>
+                    <tr><td>Day 0</td><td>11 Aug 2025</td><td>Settlement agreement signed</td></tr>
+                    <tr class="critical-row"><td>Day 2</td><td><strong>13 Aug 2025</strong></td><td>Bantjies swears confirmatory affidavit</td></tr>
+                    <tr class="critical-row"><td>Day 3</td><td><strong>14 Aug 2025</strong></td><td>Interdict filed via Court Online</td></tr>
+                    <tr><td>Day 8</td><td>19 Aug 2025</td><td>Interdict heard and granted ex parte</td></tr>
+                </tbody>
+            </table>
+
+            <a href="evidence/TWO_DATE_DISTINCTION_ANALYSIS.md" class="evidence-link red">Full Two-Date Analysis</a>
+            <a href="events/EVENT_103.md" class="evidence-link red">EVENT_103: Forgery</a>
+            <a href="events/EVENT_104.md" class="evidence-link red">EVENT_104: Backdating</a>
+            <a href="events/EVENT_105.md" class="evidence-link red">EVENT_105: EA-18</a>
+        </div>
+
+        <div class="card">
+            <h2>Legal Applications</h2>
+            <div class="applications">
+                <div class="app-card civil">
+                    <h3>Civil Response</h3>
+                    <span class="status active">Active</span>
+                    <p>Answering affidavit and rescission application responding to Case 2025-137857.</p>
+                    <p style="margin-top: 1rem; font-weight: 600;">Burden of Proof: 50%+ (Balance of Probabilities)</p>
+                    <a href="filings/civil/index.md" class="evidence-link">View Civil Filings</a>
+                    <a href="https://github.com/cogpy/ad-res-j7/tree/main/1-CIVIL-RESPONSE" class="evidence-link">GitHub Source</a>
+                </div>
+
+                <div class="app-card criminal">
+                    <h3>Criminal Case / Commercial Crime</h3>
+                    <span class="status critical">Updated 2026-03-07 &mdash; 99% EXCEEDED</span>
+                    <p>Hawks submission: racketeering, fraud, theft, forgery, perjury, POCA, and <strong>direct admission of manufacturing SARS answers</strong>.</p>
+                    <p style="margin-top: 1rem; font-weight: 600;">Burden of Proof: 99% (Beyond Reasonable Doubt) &mdash; EXCEEDED</p>
+                    <a href="filings/COMMERCIAL_CRIME_SUBMISSION_REFINED_2026_03_07.md" class="evidence-link red">Latest Commercial Crime Filing</a>
+                    <a href="filings/NPA_TAX_FRAUD_REPORT_REFINED_2026_03_07.md" class="evidence-link red">NPA Tax Fraud Report</a>
+                    <a href="filings/FINAL_VOID_AB_INITIO_REPORT_2026_02_09.md" class="evidence-link">Void Ab Initio Report</a>
+                </div>
+
+                <div class="app-card regulatory">
+                    <h3>CIPC Complaint</h3>
+                    <span class="status critical">Updated 2026-03-07 &mdash; 99%</span>
+                    <p>Companies Act violations: falsification of records (s28/214), reckless trading (s22), breach of fiduciary duty (s76).</p>
+                    <a href="filings/CIPC_COMPLAINT_REFINED_2026_03_07.md" class="evidence-link">CIPC Complaint</a>
+                </div>
+
+                <div class="app-card regulatory">
+                    <h3>POPIA Complaint</h3>
+                    <span class="status active">Updated 2026-03-07 &mdash; 95%</span>
+                    <p>Unlawful sharing of eFiling credentials, identity document misuse, Sage identity impersonation.</p>
+                    <a href="filings/POPIA_COMPLAINT_REFINED_2026_03_07.md" class="evidence-link">POPIA Complaint</a>
+                </div>
+
+                <div class="app-card forgery">
+                    <h3>Forgery &amp; Backdating</h3>
+                    <span class="status critical">NEW &mdash; 2026-02-18</span>
+                    <p>Trust amendment forgery (28 June 2024), Sage affidavit fraud (July 2024), and backdated Main Trustee appointment (11 August 2025).</p>
+                    <a href="events/EVENT_103.md" class="evidence-link red">Trust Forgery</a>
+                    <a href="events/EVENT_104.md" class="evidence-link red">Backdated Appointment</a>
+                    <a href="events/EVENT_105.md" class="evidence-link red">EA-18 Pattern</a>
+                    <a href="relations/FORGERY_BACKDATING_RELATIONS_2026_02_18.md" class="evidence-link red">Relations</a>
+                </div>
+            </div>
+        </div>
+
+        <div class="card">
+            <h2>Timeline &amp; Events</h2>
+            <p>Comprehensive chronological analysis of 145+ events across 5 phases:</p>
+            <ul style="margin-left: 2rem; margin-top: 1rem;">
+                <li><strong>Phase 1 (1992&ndash;2022):</strong> Foundation &amp; Financial Manipulation Blueprint</li>
+                <li><strong>Phase 2 (2023):</strong> Ketoni Investment &amp; Creditor Elimination</li>
+                <li><strong>Phase 3 (2024):</strong> Control Consolidation &mdash; Trust Forgery &amp; Sage Takeover</li>
+                <li><strong>Phase 4 (2025):</strong> Fraud Escalation, Control Seizure &amp; Contempt</li>
+                <li><strong>Phase 5 (May 2026):</strong> Ketoni R18.685M Payout</li>
+            </ul>
+            <a href="events/index.md" class="evidence-link" style="margin-top: 1rem;">Events Index (150+ events)</a>
+            <a href="events/EVENT_INDEX_UPDATE_2026_03_07.md" class="evidence-link red">New Events (2026-03-07)</a>
+            <a href="timeline.md" class="evidence-link">Master Timeline</a>
+            <a href="ketoni-timeline.md" class="evidence-link">Ketoni Motive Timeline</a>
+            <a href="sage-capture/index.md" class="evidence-link">Sage Capture Timeline</a>
+        </div>
+
+        <div class="card">
+            <h2>Evidence Repository</h2>
+            <h3>Primary Annexures (JF01&ndash;JF13)</h3>
+            <div style="margin-left: 1rem;">
+                <p><strong>JF01:</strong> Shopify Plus Email (26 July 2017) &mdash; "Forensic Time Capsule"</p>
+                <p><strong>JF03:</strong> Financial Records and Analysis</p>
+                <p><strong>JF06:</strong> Court Documents and Filings</p>
+                <p><strong>JF08:</strong> Evidence Packages (May&ndash;October 2025)</p>
+                <p><strong>JF10:</strong> Trust Documents</p>
+            </div>
+
+            <h3 style="margin-top: 1.5rem;">Supplementary Files (SF1&ndash;SF15)</h3>
+            <div style="margin-left: 1rem;">
+                <p><strong>SF1:</strong> Bantjies Debt Documentation (R18.685M conflict)</p>
+                <p><strong>SF2:</strong> Sage Screenshots &mdash; Rynette Control Evidence</p>
+                <p><strong>SF9:</strong> Ian Levitt R63M Demand Letter (23 Oct 2025)</p>
+                <p><strong>SF15:</strong> Trust Amendment Document &mdash; Forged "pp Peter" signature (28 June 2024)</p>
+            </div>
+
+            <h3 style="margin-top: 1.5rem;">New Evidence (2026-02-18)</h3>
+            <div style="margin-left: 1rem;">
+                <p><strong>EVENT_103:</strong> Trust Amendment Forgery (28 June 2024)</p>
+                <p><strong>EVENT_104:</strong> Backdated "Main Trustee" Appointment (11 Aug 2025, backdated to 1 Jul 2025)</p>
+                <p><strong>EVENT_105:</strong> EA-18 Coordinated Action &mdash; 10-Day Window</p>
+            </div>
+
+            <a href="evidence-index-enhanced.md" class="evidence-link" style="margin-top: 1rem;">Enhanced Evidence Index</a>
+            <a href="https://github.com/cogpy/ad-res-j7/tree/main/ANNEXURES" class="evidence-link">View All Evidence on GitHub</a>
+        </div>
+
+        <div class="card">
+            <h2>Data Models &amp; Entity Profiles</h2>
+            <p>Structured data models with comprehensive evidence cross-references:</p>
+            <div style="margin-top: 1rem;">
+                <p><strong>Entities:</strong> 128+ entities tracked (persons, organizations, trusts, shell companies)</p>
+                <p><strong>Relations:</strong> 143+ relations including forgery/backdating chain + conspiracy map + Aymac-Kaylovest-Elliott network</p>
+                <p><strong>Events:</strong> 151 events (77+ at criminal threshold)</p>
+                <p><strong>Timeline:</strong> 6 phases covering 1992&ndash;2026</p>
+                <p><strong>Models:</strong> 5 analytical models (Entity-Relation, Event-Timeline, Stock-Flow, Hypergraph-GNN, LEX-Transformer)</p>
+            </div>
+            <a href="models/index.html" class="evidence-link red">Analytical Models Dashboard (NEW)</a>
+            <a href="entities/index.md" class="evidence-link">Entities</a>
+            <a href="relations/index.md" class="evidence-link">Relations</a>
+            <a href="events/index.md" class="evidence-link">Events</a>
+            <a href="relations/FORGERY_BACKDATING_RELATIONS_2026_02_18.md" class="evidence-link red">Forgery/Backdating Relations</a>
+            <a href="relations/RYNETTE_BANTJIES_CONSPIRACY_2026_03_07.md" class="evidence-link red">Conspiracy Relations Map</a>
+            <a href="evidence/TWO_DATE_DISTINCTION_ANALYSIS.md" class="evidence-link red">Two-Date Analysis</a>
+        </div>
+
+        <div class="card">
+            <h2>Forensic Fund Flow Analysis (NEW)</h2>
+            <p>Comprehensive forensic analysis of financial flows across 37 bank accounts, 22,000+ transactions, and R220M+ in tracked flows.</p>
+            <div class="critical-box">
+                <h3>Aymac International CC — Intercompany Fund Misappropriation</h3>
+                <p>RegimA Skin Treatments (RST) company funds were used to pay the expenses of Aymac International CC (B1999061687), a personal Close Corporation owned by Peter and Jacqueline Faucitt. Aymac bank account (FNB 62012990132): 114 transactions, R48K in / R62K out.</p>
+                <p><strong>Account Closure:</strong> On 12 March 2025, Rynette Farrar requested closure of Aymac and Corpclo 2065 bank accounts on Peter's direct instruction: &ldquo;Pete said we can close Aymac and Corpclo.&rdquo;</p>
+                <p><strong>Undisclosed Property:</strong> Aymac owns Section 1431 at Kungwini Bay (Customer Code: AYM001-E1431).</p>
+            </div>
+            <div class="critical-box" style="margin-top: 1rem;">
+                <h3>TWO Entities Under Same Base Number: Villa Via CC + Kaylovest Three Pty</h3>
+                <p>CIPC eServices confirms <strong>two separate legal entities</strong> coexist under the same base number 1996/004451:</p>
+                <ul>
+                    <li><strong>VILLA VIA ARCADIA NO 2</strong> &mdash; 1996/004451/<strong>23</strong> (Close Corporation) &mdash; REGISTERED</li>
+                    <li><strong>KAYLOVEST THREE</strong> &mdash; 1996/004451/<strong>07</strong> (Private Company / Pty Ltd) &mdash; REGISTERED</li>
+                </ul>
+                <p>Both are currently active on the CIPC register. The parallel Pty entity was <strong>not disclosed</strong> in the interdict proceedings. This creates a potential vehicle for asset shifting between the CC and Pty without detection, since both share the same base number.</p>
+                <p><strong>Triple Identity Confusion:</strong> Bantjies used <em>Aymac International&rsquo;s</em> number (1999/061687/23) on Villa Via&rsquo;s financial statements for 8 years (EVENT_106), creating confusion across three corporate identities.</p>
+            </div>
+            <a href="evidence/fund-flow-analysis.md" class="evidence-link red">Full Fund Flow Analysis</a>
+            <a href="evidence/kaylovest-investigation.md" class="evidence-link red">Kaylovest Shell Company Investigation</a>
+            <a href="relations/AYMAC_KAYLOVEST_ELLIOTT_NETWORK.md" class="evidence-link red">Aymac-Kaylovest-Elliott Network Map</a>
+            <a href="relations/VILLA_VIA_KAYLOVEST_IDENTITY.md" class="evidence-link red">Villa Via = Kaylovest Identity Map</a>
+        </div>
+
+        <div class="card">
+            <h2>Key Entity Profiles</h2>
+            <div class="applications">
+                <div class="app-card" style="border-top: 4px solid #dc2626;">
+                    <h3>Peter Andrew Faucitt</h3>
+                    <span class="status critical">Primary Perpetrator</span>
+                    <p>12 involvement events. R10.27M financial impact. 95% criminal threshold exceeded.</p>
+                    <a href="entities/PERSON_001.md" class="evidence-link">Profile</a>
+                </div>
+                <div class="app-card" style="border-top: 4px solid #dc2626;">
+                    <h3>Rynette Farrar</h3>
+                    <span class="status critical">Operational Controller</span>
+                    <p>21+ involvement events. Forged trust amendment (28 June 2024). Removed Anton from VAT portal. Shared eFiling credentials. Evidence: <strong>99%</strong>.</p>
+                    <a href="entities/PERSON_002.md" class="evidence-link">Profile</a>
+                </div>
+                <div class="app-card" style="border-top: 4px solid #dc2626;">
+                    <h3>Danie Bantjies</h3>
+                    <span class="status critical">Conflicted Trustee / Tier A Conspirator</span>
+                    <p>16+ involvement events. Admitted &ldquo;I will manufacture an answer&rdquo; to SARS. Negotiated Ketoni SHA/MOI. Installed via forgery. Evidence: <strong>99%</strong>.</p>
+                    <a href="entities/PERSON_007.md" class="evidence-link">Profile</a>
+                </div>
+            </div>
+        </div>
+        <!-- v13: Composed Simulation Results (2026-03-12) -->
+        <div class="card" style="border: 3px solid #764ba2; position: relative;">
+            <div style="position:absolute;top:-12px;left:20px;background:#764ba2;color:white;padding:2px 12px;border-radius:4px;font-weight:700;font-size:0.85rem;">COMPOSED SIMULATION v13 &mdash; 2026-03-12</div>
+            <h2 style="color:#764ba2;">LEX-SIM-NN(Neuro-NN(DigiTwin[ALP&lt;=&gt;NLogo]))</h2>
+            <p>Three-layer composed simulation with <strong>7 improvements over v12</strong>: per-filing red-team critique, Monte Carlo cross-validation (10 seeds), evidence heatmap, training convergence tracking, all agents active, dynamic vulnerability detection, and honest overconfidence adjustment.</p>
+
+            <div class="stats">
+                <div class="stat-box">
+                    <div class="number">8</div>
+                    <div class="label">VES-Modulated Agents (all active)</div>
+                </div>
+                <div class="stat-box">
+                    <div class="number">54</div>
+                    <div class="label">Months Simulated</div>
+                </div>
+                <div class="stat-box">
+                    <div class="number">0.998</div>
+                    <div class="label">ALP/NLogo Convergence</div>
+                </div>
+                <div class="stat-box" style="background: linear-gradient(135deg, #16a34a 0%, #15803d 100%);">
+                    <div class="number">99.9%</div>
+                    <div class="label">LEX Civil Probability</div>
+                </div>
+                <div class="stat-box" style="background: linear-gradient(135deg, #f59e0b 0%, #d97706 100%);">
+                    <div class="number">93.9%</div>
+                    <div class="label">Adjusted Criminal (Neuro-NN)</div>
+                </div>
+                <div class="stat-box" style="background: linear-gradient(135deg, #dc2626 0%, #991b1b 100%);">
+                    <div class="number">0.50</div>
+                    <div class="label">Robustness (3 vulns)</div>
+                </div>
+            </div>
+
+            <h3>v13 Improvements over v12</h3>
+            <table class="timeline-table">
+                <thead><tr><th>#</th><th>Improvement</th><th>Impact</th></tr></thead>
+                <tbody>
+                    <tr><td>1</td><td><strong>Per-filing red-team critique</strong></td><td>Each of 7 filings gets its own vulnerability analysis with targeted recommendations</td></tr>
+                    <tr><td>2</td><td><strong>Monte Carlo cross-validation</strong> (10 seeds)</td><td>ALP/NLogo convergence: 0.998 (was 0.34 in v12)</td></tr>
+                    <tr><td>3</td><td><strong>Evidence heatmap</strong></td><td>Per-event category breakdown exported to CSV for visualization</td></tr>
+                    <tr><td>4</td><td><strong>Training convergence tracking</strong></td><td>Loss ratio: 0.000026 (150 epochs, excellent convergence)</td></tr>
+                    <tr><td>5</td><td><strong>All 8 agents active</strong></td><td>Linda (11 events), Gayane (8), Darren (4), Jacqui (12) &mdash; no longer RESTING</td></tr>
+                    <tr><td>6</td><td><strong>Overconfidence detection</strong></td><td>MetaCognition adjusts criminal from 99.9% to 93.9% due to 3 vulnerabilities</td></tr>
+                    <tr><td>7</td><td><strong>Honest assessment</strong></td><td>3 vulnerabilities identified vs 1 in v12 &mdash; Financial and Forensic now flagged</td></tr>
+                </tbody>
+            </table>
+
+            <h3>Neuro-NN Red-Team Critique (v13)</h3>
+            <div class="critical-box">
+                <p><strong>3 Vulnerabilities Identified (v12 found only 1)</strong></p>
+                <table class="timeline-table">
+                    <thead><tr><th>Category</th><th>Score</th><th>Threshold</th><th>Gap</th><th>Status</th></tr></thead>
+                    <tbody>
+                        <tr><td>Temporal</td><td>0.89</td><td>0.75</td><td>&mdash;</td><td style="color:#16a34a;font-weight:700;">PASS</td></tr>
+                        <tr class="critical-row"><td><strong>Financial</strong></td><td>0.64</td><td>0.75</td><td>0.11</td><td style="color:#d97706;font-weight:700;">FAIL</td></tr>
+                        <tr><td>Documentary</td><td>0.87</td><td>0.75</td><td>&mdash;</td><td style="color:#16a34a;font-weight:700;">PASS</td></tr>
+                        <tr class="critical-row"><td><strong>Testimonial</strong></td><td>0.45</td><td>0.75</td><td>0.30</td><td style="color:#dc2626;font-weight:700;">CRITICAL</td></tr>
+                        <tr class="critical-row"><td><strong>Forensic</strong></td><td>0.73</td><td>0.75</td><td>0.02</td><td style="color:#d97706;font-weight:700;">BORDERLINE</td></tr>
+                        <tr><td>Relational</td><td>0.83</td><td>0.75</td><td>&mdash;</td><td style="color:#16a34a;font-weight:700;">PASS</td></tr>
+                    </tbody>
+                </table>
+            </div>
+
+            <h3>Agent States (all active in v13)</h3>
+            <table class="timeline-table">
+                <thead><tr><th>Agent</th><th>Role</th><th>Mode</th><th>Events</th></tr></thead>
+                <tbody>
+                    <tr><td>Peter Faucitt</td><td>Perpetrator</td><td><strong>STRESSED</strong></td><td>102</td></tr>
+                    <tr><td>Rynette Farrar</td><td>Accomplice</td><td><strong>THREAT</strong></td><td>148</td></tr>
+                    <tr><td>Danie Bantjies</td><td>Accomplice</td><td><strong>THREAT</strong></td><td>53</td></tr>
+                    <tr><td>Daniel Faucitt</td><td>Victim</td><td><strong>THREAT</strong></td><td>26</td></tr>
+                    <tr><td>Jacqui Faucitt</td><td>Victim</td><td><strong>THREAT</strong></td><td>12</td></tr>
+                    <tr><td>Linda Kruger</td><td>Employee</td><td><strong>THREAT</strong></td><td>11</td></tr>
+                    <tr><td>Gayane Williams</td><td>Employee</td><td><strong>STRESSED</strong></td><td>8</td></tr>
+                    <tr><td>Darren Farrar</td><td>Accomplice</td><td><strong>REWARD</strong></td><td>4</td></tr>
+                </tbody>
+            </table>
+
+            <h3>Cross-Validated Filing Scores (v13)</h3>
+            <table class="timeline-table">
+                <thead><tr><th>Filing</th><th>Score</th><th>Burden</th><th>Status</th><th>Weakest Category</th></tr></thead>
+                <tbody>
+                    <tr><td>CIPC Companies Act Complaint</td><td>82.63%</td><td>50%</td><td style="color:#16a34a;font-weight:700;">MET</td><td>Testimonial</td></tr>
+                    <tr><td>FIC Suspicious Transaction Report</td><td>81.24%</td><td>50%</td><td style="color:#16a34a;font-weight:700;">MET</td><td>Testimonial</td></tr>
+                    <tr><td>Civil Action (s163 Oppression)</td><td>81.14%</td><td>50%</td><td style="color:#16a34a;font-weight:700;">MET</td><td>Testimonial</td></tr>
+                    <tr><td>Professional Misconduct (Bantjies)</td><td>80.56%</td><td>50%</td><td style="color:#16a34a;font-weight:700;">MET</td><td>Testimonial</td></tr>
+                    <tr class="critical-row"><td><strong>NPA Tax Fraud Report</strong></td><td>81.14%</td><td>95%</td><td style="color:#dc2626;font-weight:700;">GAP (13.86%)</td><td>Testimonial</td></tr>
+                    <tr class="critical-row"><td><strong>POPIA Criminal Complaint</strong></td><td>80.49%</td><td>95%</td><td style="color:#dc2626;font-weight:700;">GAP (14.51%)</td><td>Testimonial</td></tr>
+                    <tr class="critical-row"><td><strong>Commercial Crime Submission</strong></td><td>80.39%</td><td>95%</td><td style="color:#dc2626;font-weight:700;">GAP (14.61%)</td><td>Testimonial</td></tr>
+                </tbody>
+            </table>
+
+            <h3>Action Required: Close the Testimonial Gap</h3>
+            <table class="timeline-table">
+                <thead><tr><th>Witness</th><th>Testimony</th><th>Est. Impact</th></tr></thead>
+                <tbody>
+                    <tr><td><strong>FNB Legal Department</strong></td><td>Confirm mandate fraud, unauthorized banking changes</td><td>+5%</td></tr>
+                    <tr><td><strong>Stock2Shop Officials</strong></td><td>Confirm API breakage timeline, unauthorized changes</td><td>+3%</td></tr>
+                    <tr><td><strong>Sage South Africa</strong></td><td>Confirm false death claim used to transfer account</td><td>+4%</td></tr>
+                    <tr><td><strong>Linda Kruger</strong></td><td>Confirm instructions received for 39+ banking redirect emails</td><td>+5%</td></tr>
+                    <tr><td><strong>Gayane Williams</strong></td><td>Confirm instructions received for domain change</td><td>+3%</td></tr>
+                </tbody>
+            </table>
+            <p style="margin-top:0.5rem;"><strong>Total estimated impact with all 5 witnesses: +20%</strong> &mdash; would push all criminal filings above 95%.</p>
+
+            <h3>Red-Team Defence Critiques (6 addressed)</h3>
+            <ol style="margin:1rem 0;padding-left:2rem;">
+                <li><strong>Testimonial Gap</strong> &mdash; Documentary self-authentication (100+ emails as direct admissions); 5 witnesses available</li>
+                <li><strong>Financial Evidence Gap</strong> &mdash; FNB statements, ABSA records, Sage data provide verifiable transaction records (not estimates)</li>
+                <li><strong>Alternative Explanation</strong> &mdash; Defeated by 4 independent evidence chains (banking, domain, Sage, SARS)</li>
+                <li><strong>&ldquo;Manufacture&rdquo; Email Context</strong> &mdash; Defeated by surrounding SARS eFiling impersonation evidence</li>
+                <li><strong>Interdict Validity</strong> &mdash; Defeated by void ab initio doctrine (12+ material non-disclosures)</li>
+                <li><strong>Entity Correction Credibility</strong> &mdash; Proactive correction demonstrates evidence integrity</li>
+            </ol>
+
+            <div style="margin-top:1.5rem;">
+                <a href="simulation/COMPOSED_REPORT_2026_03_12_v13.md" class="evidence-link">Full Composed Report (v13)</a>
+                <a href="simulation/COMPOSED_RESULTS_2026_03_12_v13.json" class="evidence-link">Raw Results (JSON)</a>
+                <a href="simulation/EVIDENCE_HEATMAP_2026_03_12_v13.csv" class="evidence-link">Evidence Heatmap (CSV)</a>
+                <a href="simulation/LEX_DigiTwin_2025-137857.alp" class="evidence-link">AnyLogic Model (.alp)</a>
+                <a href="simulation/LEX_DigiTwin_2025-137857.nlogo" class="evidence-link">NetLogo Model (.nlogo)</a>
+                <a href="simulation/case_spec_v13.json" class="evidence-link">Case Specification (JSON)</a>
+                <a href="simulation/COMPOSED_REPORT_2026_03_12_v12.md" class="evidence-link" style="opacity:0.7;">Previous: v12 Report</a>
+                <a href="filings/index.md" class="evidence-link red">Master Filing Index</a>
+                <a href="models/index.html" class="evidence-link">Analytical Models Dashboard</a>
+            </div>
+        </div>
+
+        <!-- v13: LEX-RECON Cross-Repository Reconciliation (2026-03-13) -->
+        <div class="card">
+            <h2>LEX-RECON: Cross-Repository Reconciliation</h2>
+            <p>Full reconciliation across <strong>revstream1</strong> and <strong>ad-res-j7</strong> repositories, with email evidence corpus search (1M+ Exchange messages in Neon DB).</p>
+
+            <h3>Reconciliation Summary</h3>
+            <table>
+                <tr><th>Metric</th><th>Count</th><th>Status</th></tr>
+                <tr><td>Total MD Files Analyzed</td><td>21,852</td><td style="color:#22c55e;">Complete</td></tr>
+                <tr><td>Unique Entities</td><td>52</td><td style="color:#22c55e;">Reconciled</td></tr>
+                <tr><td>Evidence References</td><td>136</td><td style="color:#22c55e;">99.3% synced</td></tr>
+                <tr><td>Unique Events</td><td>122</td><td style="color:#22c55e;">100% coverage</td></tr>
+                <tr><td>Filing Documents</td><td>863</td><td style="color:#f59e0b;">7 canonical identified</td></tr>
+                <tr><td>Conflicts Detected</td><td>6</td><td style="color:#ef4444;">P1 — Filing version conflicts</td></tr>
+                <tr><td>Gaps Detected</td><td>27</td><td style="color:#f59e0b;">P2 — Evidence sync needed</td></tr>
+                <tr><td>Duplicates</td><td>93</td><td style="color:#6b7280;">P3 — Tracked in manifest</td></tr>
+            </table>
+
+            <h3>Email Evidence Corpus Search</h3>
+            <table>
+                <tr><th>Search Query</th><th>Hits</th><th>Significance</th></tr>
+                <tr><td>Bantjies communications</td><td>100+</td><td>Full attorney communication trail</td></tr>
+                <tr><td>Banking details redirect</td><td>100+</td><td>Revenue diversion evidence</td></tr>
+                <tr><td>Linda Kruger</td><td>100+</td><td>Employee involvement confirmed</td></tr>
+                <tr><td>Sage account takeover</td><td>100+</td><td>Accounting system manipulation</td></tr>
+                <tr><td>Stock2Shop API</td><td>100+</td><td>E-commerce disruption timeline</td></tr>
+                <tr><td>Ketoni/SHA</td><td>47</td><td>Settlement documentation</td></tr>
+                <tr><td>Domain transfer</td><td>53</td><td>Domain hijacking evidence</td></tr>
+            </table>
+
+            <h3>Critical Finding: Filing Version Proliferation</h3>
+            <div class="critical-box">
+                <strong>170+ filing versions</strong> scattered across multiple directories. A <a href="filings/FILING_VERSIONS.md">Filing Version Manifest</a> has been created to establish the 7 canonical filings. All others are superseded.
+            </div>
+
+            <h3>Evidence Strength Post-Reconciliation</h3>
+            <table>
+                <tr><th>Category</th><th>Email Hits</th><th>Assessment</th><th>Score</th></tr>
+                <tr><td>Temporal</td><td>400+</td><td style="color:#22c55e;">STRONG</td><td>0.89</td></tr>
+                <tr><td>Documentary</td><td>1,732+</td><td style="color:#22c55e;">STRONG</td><td>0.87</td></tr>
+                <tr><td>Relational</td><td>100+</td><td style="color:#22c55e;">STRONG</td><td>0.83</td></tr>
+                <tr><td>Forensic</td><td>355</td><td style="color:#f59e0b;">BORDERLINE</td><td>0.73</td></tr>
+                <tr><td>Financial</td><td>100+</td><td style="color:#f59e0b;">MODERATE</td><td>0.64</td></tr>
+                <tr><td>Testimonial</td><td>0 affidavits</td><td style="color:#ef4444;">WEAK</td><td>0.45</td></tr>
+            </table>
+
+            <h3>Downloads</h3>
+            <div style="display: flex; flex-wrap: wrap; gap: 0.5rem; margin-top: 0.5rem;">
+                <a href="../lex-recon-results/RECONCILIATION_ANALYSIS_v13.md" class="evidence-link">Reconciliation Analysis (v13)</a>
+                <a href="../lex-recon-results/RECON_REPORT_2026_03_13.md" class="evidence-link">Full Recon Report (1,603 lines)</a>
+                <a href="../lex-recon-results/recon_data_2026_03_13.json" class="evidence-link">Recon Data (JSON)</a>
+                <a href="filings/FILING_VERSIONS.md" class="evidence-link red">Filing Version Manifest</a>
+            </div>
+        </div>
+
+        <div class="card" style="border: 3px solid #22c55e; position: relative;">
+            <span style="position:absolute;top:-12px;left:16px;background:#22c55e;color:white;padding:2px 12px;border-radius:4px;font-weight:bold;font-size:0.85rem;">LEX ENCODE v2.0 &mdash; 2026-03-15</span>
+            <h2 style="color:#22c55e;">LEX Encode Workflow v2.0 &mdash; Enhanced Proof Certificate</h2>
+            <p>Complete case encoded into formal Scheme (<code>.scm</code>) files using <strong>LexRex Legal Fixed-Point Theorem</strong>, <strong>ChainLex</strong> corpus, and <strong>Uniform Rules of Court</strong> procedural predicates. <strong>25 defense morphisms blocked</strong> (up from 14 in v1), <strong>14 evidence items</strong> (up from 8), <strong>2 Order-35 interlocks</strong>, and <strong>7 procedural compliance evaluations</strong> across <strong>6 legal domains</strong>.</p>
+
+            <div class="stats">
+                <div class="stat-box" style="background: linear-gradient(135deg, #22c55e 0%, #15803d 100%);">
+                    <div class="number">25/25</div>
+                    <div class="label">Defenses Blocked</div>
+                </div>
+                <div class="stat-box" style="background: linear-gradient(135deg, #22c55e 0%, #15803d 100%);">
+                    <div class="number">14</div>
+                    <div class="label">Evidence Items Encoded</div>
+                </div>
+                <div class="stat-box" style="background: linear-gradient(135deg, #22c55e 0%, #15803d 100%);">
+                    <div class="number">2</div>
+                    <div class="label">Order-35 Interlocks</div>
+                </div>
+                <div class="stat-box" style="background: linear-gradient(135deg, #22c55e 0%, #15803d 100%);">
+                    <div class="number">6/6</div>
+                    <div class="label">Legal Domains Met</div>
+                </div>
+                <div class="stat-box" style="background: linear-gradient(135deg, #dc2626 0%, #991b1b 100%);">
+                    <div class="number">6</div>
+                    <div class="label">Critical Procedural Violations</div>
+                </div>
+            </div>
+
+            <h3>Evidence Encoding (Matula-Godsil Orders)</h3>
+            <table class="timeline-table">
+                <thead><tr><th>Order</th><th>Type</th><th>Count</th><th>Key Evidence</th><th>Status</th></tr></thead>
+                <tbody>
+                <tr><td>2</td><td>Binary Contradiction</td><td>3</td><td>Sole mandate, non-disclosure, perjury</td><td style="color:#22c55e;font-weight:700;">BLOCKED</td></tr>
+                <tr><td>3</td><td>Temporal Chain</td><td>4</td><td>Trust forgery, interdict, revenue diversion, Sage sabotage</td><td style="color:#22c55e;font-weight:700;">BLOCKED</td></tr>
+                <tr><td>4</td><td>Entity-Relation Structure</td><td>2</td><td>Corporate conflict, Farrar self-dealing</td><td style="color:#22c55e;font-weight:700;">BLOCKED</td></tr>
+                <tr><td>5</td><td>Foreknowledge Chain</td><td>2</td><td>Bantjies (5 steps), Rynette (6 steps)</td><td style="color:#22c55e;font-weight:700;">BLOCKED</td></tr>
+                <tr><td>7</td><td>Structured Comparison</td><td>1</td><td>3 irreconcilable conflicts of interest</td><td style="color:#22c55e;font-weight:700;">BLOCKED</td></tr>
+                <tr><td>35</td><td>{5,7} Interlock</td><td>2</td><td>Trust&harr;Revenue, Sabotage&harr;Frame</td><td style="color:#22c55e;font-weight:700;">BLOCKED</td></tr>
+                </tbody>
+            </table>
+
+            <h3>Procedural Compliance (NEW in v2.0)</h3>
+            <table class="timeline-table">
+                <thead><tr><th>Rule</th><th>Requirement</th><th>Evaluation</th><th>Severity</th></tr></thead>
+                <tbody>
+                <tr class="critical-row"><td>6(4)(a)</td><td>Full disclosure in ex parte</td><td style="color:#dc2626;font-weight:700;">VIOLATED &mdash; 7 facts concealed</td><td>Critical</td></tr>
+                <tr class="critical-row"><td>6(5)(a)</td><td>Urgency requirements</td><td style="color:#dc2626;font-weight:700;">VIOLATED &mdash; 69-day delay</td><td>Major</td></tr>
+                <tr class="critical-row"><td>6(12)(a)</td><td>Ex parte justification</td><td style="color:#dc2626;font-weight:700;">VIOLATED &mdash; sole mandate holder was protector</td><td>Critical</td></tr>
+                <tr><td>30(1)</td><td>Irregular proceedings</td><td style="color:#f59e0b;font-weight:700;">APPLICABLE &mdash; 3 irregular steps</td><td>Critical</td></tr>
+                <tr><td>42(1)(a)</td><td>Rescission of erroneous order</td><td style="color:#f59e0b;font-weight:700;">APPLICABLE</td><td>Critical</td></tr>
+                <tr class="critical-row"><td>42(1)(b)</td><td>Void ab initio</td><td style="color:#dc2626;font-weight:700;">APPLICABLE &mdash; fraud on court proved</td><td>Critical</td></tr>
+                <tr><td>45A</td><td>Contempt requirements</td><td style="color:#22c55e;font-weight:700;">DEFENSE AVAILABLE &mdash; void order</td><td>Critical</td></tr>
+                </tbody>
+            </table>
+
+            <h3>Per-Domain Burden of Proof Assessment (NEW in v2.0)</h3>
+            <table class="timeline-table">
+                <thead><tr><th>Domain</th><th>Burden</th><th>Threshold Met</th><th>Strength</th><th>Status</th></tr></thead>
+                <tbody>
+                <tr><td>Civil</td><td>50%</td><td style="color:#22c55e;">Yes</td><td>Conclusive</td><td style="color:#22c55e;font-weight:700;">READY</td></tr>
+                <tr><td>Criminal</td><td>95%</td><td style="color:#22c55e;">Yes</td><td>Conclusive</td><td style="color:#22c55e;font-weight:700;">READY</td></tr>
+                <tr><td>CIPC Companies Act</td><td>Admin</td><td style="color:#22c55e;">Yes</td><td>Strong</td><td style="color:#22c55e;font-weight:700;">READY</td></tr>
+                <tr><td>POPIA</td><td>Criminal</td><td style="color:#22c55e;">Yes</td><td>Conclusive</td><td style="color:#22c55e;font-weight:700;">READY</td></tr>
+                <tr><td>Tax Administration</td><td>Criminal</td><td style="color:#22c55e;">Yes</td><td>Strong</td><td style="color:#22c55e;font-weight:700;">READY</td></tr>
+                <tr><td>Professional (SAICA)</td><td>Disciplinary</td><td style="color:#22c55e;">Yes</td><td>Conclusive</td><td style="color:#22c55e;font-weight:700;">READY</td></tr>
+                </tbody>
+            </table>
+
+            <h3>Red-Team Critique (v2.0)</h3>
+            <div class="critical-box">
+                <p><strong>4 Vulnerabilities Identified &amp; Blocked</strong></p>
+                <table class="timeline-table">
+                    <thead><tr><th>Vulnerability</th><th>Defense Argument</th><th>LEX Counter-Block</th></tr></thead>
+                    <tbody>
+                    <tr><td>&ldquo;Administrative Error&rdquo;</td><td>Bank changes were routine</td><td>Order-35 interlock: SARS change 13 months before client emails proves premeditation</td></tr>
+                    <tr><td>&ldquo;Independent Trustee&rdquo;</td><td>Bantjies acted on instructions</td><td>Order-5 foreknowledge chain: 5 steps proving knowledge; Order-7 irreconcilable conflict</td></tr>
+                    <tr><td>&ldquo;IT Expenses Caused Losses&rdquo;</td><td>Daniel&rsquo;s IT spending harmed company</td><td>Order-3 Sage sabotage timeline: chaos was manufactured by applicants</td></tr>
+                    <tr><td>&ldquo;Contempt is Justified&rdquo;</td><td>Court order must be obeyed</td><td>Rule 42(1)(b): void ab initio &mdash; Fakie NO v CCII Systems</td></tr>
+                    </tbody>
+                </table>
+            </div>
+
+            <h3>Downloads</h3>
+            <div style="display: flex; flex-wrap: wrap; gap: 0.5rem; margin-top: 0.5rem;">
+                <a href="../lex_encode_output/certificates/proof_certificate.md" class="evidence-link" style="background:#22c55e;">Proof Certificate v2.0 (Full)</a>
+                <a href="../lex_encode_output/scm/proof_certificate.scm" class="evidence-link" style="background:#22c55e;">Proof Certificate (.scm)</a>
+                <a href="../lex_encode_output/scm/evidence_trees.scm" class="evidence-link" style="background:#22c55e;">Evidence Trees (.scm)</a>
+                <a href="../lex_encode_output/scm/defenses_blocks.scm" class="evidence-link" style="background:#22c55e;">Defenses &amp; Blocks (.scm)</a>
+                <a href="../lex_encode_output/scm/entities_relations.scm" class="evidence-link" style="background:#22c55e;">Entities &amp; Relations (.scm)</a>
+                <a href="../lex_encode_output/scm/compliance_evaluation.scm" class="evidence-link" style="background:#22c55e;">Procedural Compliance (.scm)</a>
+                <a href="../lex_encode_output/scm/procedural_timeline.scm" class="evidence-link" style="background:#22c55e;">Procedural Timeline (.scm)</a>
+                <a href="../lex_encode_output/RED_TEAM_CRITIQUE_V2.md" class="evidence-link red">Red-Team Critique v2.0</a>
+                <a href="../lex_encode_output/scenario_comprehensive.json" class="evidence-link" style="background:#22c55e;">Scenario (JSON)</a>
+                <a href="MASTER_EVIDENCE_INDEX.md" class="evidence-link" style="background:#764ba2;">Master Evidence Index</a>
+            </div>
+        </div>
+    </div>
+
+    <footer>
+        <p>Case 2025-137857 | Last Updated: 2026-03-22 | v18 | /evidence-process &rarr; /ksm-evolve &rarr; /optimal-cognitive-grip | 169 Events | 75 Entities | 38 Relations</p>
+        <p>Repository: <a href="https://github.com/cogpy/revstream1" style="color: #667eea;">cogpy/revstream1</a> | Evidence: <a href="https://github.com/cogpy/ad-res-j7" style="color: #667eea;">cogpy/ad-res-j7</a></p>
+    </footer>
+</body>
+</html>

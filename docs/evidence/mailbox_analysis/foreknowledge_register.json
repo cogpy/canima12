@@ -1,0 +1,431 @@
+{
+  "case_id": "2025-137857",
+  "case_title": "RegimA Revenue Hijacking & Trust Capture — Enhanced with Mailbox Evidence",
+  "jurisdiction": "ZA",
+  "generated_date": "2026-02-09",
+  "agents": [
+    {
+      "agent_id": "PERSON_001",
+      "name": "Peter Andrew Faucitt",
+      "role": "Director, Mastermind",
+      "id_number": "820430 5708 18 5",
+      "alternative_explanation": ""
+    },
+    {
+      "agent_id": "PERSON_002",
+      "name": "Rynette Farrar",
+      "role": "Financial Controller, Chief Operator",
+      "id_number": "",
+      "alternative_explanation": ""
+    },
+    {
+      "agent_id": "PERSON_004",
+      "name": "Jacqueline Faucitt",
+      "role": "First Respondent, Victim",
+      "id_number": "570607 0088 08 6",
+      "alternative_explanation": "Legitimate business operator whose infrastructure was hijacked"
+    },
+    {
+      "agent_id": "PERSON_005",
+      "name": "Kent Gillham",
+      "role": "UK Operations Manager",
+      "id_number": "",
+      "alternative_explanation": "May have been following instructions without full knowledge of fraud"
+    },
+    {
+      "agent_id": "PERSON_007",
+      "name": "Daniel Jacobus Bantjies",
+      "role": "Accountant, FFT Trustee, George Group CFO",
+      "id_number": "",
+      "alternative_explanation": ""
+    },
+    {
+      "agent_id": "PERSON_BERN",
+      "name": "Bernadine Wright",
+      "role": "RegimA Employee (Finance/Admin)",
+      "id_number": "",
+      "alternative_explanation": "Employee following instructions; email diversion victim"
+    },
+    {
+      "agent_id": "PERSON_LINDA",
+      "name": "Linda (RegimA Employee)",
+      "role": "Sales/Accounts, executed bank change letters June 2025",
+      "id_number": "",
+      "alternative_explanation": "May have been instructed without knowledge of fraud"
+    },
+    {
+      "agent_id": "PERSON_GAYANE",
+      "name": "Gayane (RegimA Employee)",
+      "role": "Employee who sent email domain change notification",
+      "id_number": "",
+      "alternative_explanation": "Employee following instructions"
+    },
+    {
+      "agent_id": "ORG_DENOVO",
+      "name": "De Novo Business Services / Marisca Meyer",
+      "role": "Accounting Firm",
+      "id_number": "",
+      "alternative_explanation": "May have acted on client instruction without knowledge of fraud"
+    }
+  ],
+  "material_facts": [
+    {
+      "fact_id": "FACT_001",
+      "description": "Systematic fraud was occurring in the RegimA group companies",
+      "category": "fraud",
+      "significance": "Awareness of fraud establishes mens rea for all subsequent concealment acts",
+      "related_facts": ["FACT_002", "FACT_003"]
+    },
+    {
+      "fact_id": "FACT_002",
+      "description": "Rynette operated Sage accounting under Peter's identity (pete@regima.com)",
+      "category": "identity_fraud",
+      "significance": "Identity fraud to process financial data unlawfully; proven by mailbox metadata showing Sage notifications to rynette@regima.zone",
+      "related_facts": ["FACT_001"]
+    },
+    {
+      "fact_id": "FACT_003",
+      "description": "Revenue was being diverted from RegimA SA to other accounts",
+      "category": "theft",
+      "significance": "Core financial crime — R8.5M annual revenue hijacking",
+      "related_facts": ["FACT_001"]
+    },
+    {
+      "fact_id": "FACT_004",
+      "description": "2019 financial statements were fabricated in June 2025",
+      "category": "forgery",
+      "significance": "Tax fraud and creation of false paper trail",
+      "related_facts": ["FACT_001", "FACT_005"]
+    },
+    {
+      "fact_id": "FACT_005",
+      "description": "Exchange Control Regulations were being violated",
+      "category": "regulatory",
+      "significance": "Criminal offense — unauthorized international remittances",
+      "related_facts": ["FACT_001"]
+    },
+    {
+      "fact_id": "FACT_006",
+      "description": "Sage subscription was deliberately expired to deny access to financial records",
+      "category": "obstruction",
+      "significance": "Destruction of evidence — Rynette controlled the subscription",
+      "related_facts": ["FACT_001"]
+    },
+    {
+      "fact_id": "FACT_007",
+      "description": "Rynette filed a false perjury complaint as counter-strategy",
+      "category": "obstruction",
+      "significance": "Abuse of criminal process to intimidate legitimate complainant",
+      "related_facts": ["FACT_001"]
+    },
+    {
+      "fact_id": "FACT_008",
+      "description": "Bantjies had insider access to both Ketoni Investment Holdings and the FFT",
+      "category": "insider_trading",
+      "significance": "Dual-control loop over R18.685M transaction — proven by mailbox showing Bantjies at thegeorgegroup.co.za discussing Ketoni",
+      "related_facts": ["FACT_009"]
+    },
+    {
+      "fact_id": "FACT_009",
+      "description": "Bantjies swore a false affidavit in court",
+      "category": "obstruction",
+      "significance": "Perjury — sworn false testimony to support fraudulent interdict",
+      "related_facts": ["FACT_008"]
+    },
+    {
+      "fact_id": "FACT_010",
+      "description": "Bantjies had access to RegimA bank statements and financial year-end data from at least July 2020",
+      "category": "breach_of_duty",
+      "significance": "NEW MAILBOX EVIDENCE: Bantjies received bank statements and financial year-end documents 4 years before his July 2024 FFT appointment, proving long-standing financial access",
+      "related_facts": ["FACT_008", "FACT_001"]
+    },
+    {
+      "fact_id": "FACT_011",
+      "description": "Email diversion was used to control information flow — Bernadine's emails diverted to Rynette in August 2020",
+      "category": "conspiracy",
+      "significance": "NEW MAILBOX EVIDENCE: Jacqueline ordered email diversion on 2020-08-29, showing early infrastructure control patterns",
+      "related_facts": ["FACT_002", "FACT_003"]
+    },
+    {
+      "fact_id": "FACT_012",
+      "description": "Systematic bank detail change campaign executed in June 2025 to redirect payments from FNB to Absa",
+      "category": "theft",
+      "significance": "NEW MAILBOX EVIDENCE: Linda sent 39+ 'Change of Bank' emails in June 2025, redirecting customer payments to new accounts",
+      "related_facts": ["FACT_003"]
+    },
+    {
+      "fact_id": "FACT_013",
+      "description": "Email domain change from @regima.zone to new addresses announced June 2025",
+      "category": "identity_fraud",
+      "significance": "NEW MAILBOX EVIDENCE: Gayane sent 'Important Update: Change of Email Address' on 2025-06-20, announcing abandonment of regima.zone domain",
+      "related_facts": ["FACT_003", "FACT_012"]
+    },
+    {
+      "fact_id": "FACT_014",
+      "description": "Rynette controlled all financial communications — 5,775 financial emails sent from her account",
+      "category": "breach_of_duty",
+      "significance": "NEW MAILBOX EVIDENCE: Rynette was the primary financial controller with 19,025 total emails and 5,775 financial-specific emails spanning 2020-2025",
+      "related_facts": ["FACT_002", "FACT_003"]
+    },
+    {
+      "fact_id": "FACT_015",
+      "description": "Bantjies discussed Ketoni Investment Holdings from his George Group email in May-June 2023",
+      "category": "insider_trading",
+      "significance": "NEW MAILBOX EVIDENCE: danieb@thegeorgegroup.co.za exchanged emails about Ketoni Investment Holdings, proving insider knowledge through his George Group position",
+      "related_facts": ["FACT_008"]
+    },
+    {
+      "fact_id": "FACT_016",
+      "description": "Rynette instructed customers to change banking details on their apps in May 2025",
+      "category": "theft",
+      "significance": "NEW MAILBOX EVIDENCE: Rynette sent 'Banking details and email address for POP' on 2025-05-05 and 'Second request to change the email address on your banking app' on 2025-05-16",
+      "related_facts": ["FACT_012", "FACT_003"]
+    },
+    {
+      "fact_id": "FACT_017",
+      "description": "Jacqueline detected possible fraud in February 2021 — two transactions with same reference number",
+      "category": "fraud",
+      "significance": "NEW MAILBOX EVIDENCE: Jacqueline sent 'POSSIBLE FRAUD 2 TRANSACTIONS WITH THE SAME REFERENCE NUMBER' to FNB on 2021-02-21, proving early awareness of financial irregularities",
+      "related_facts": ["FACT_001"]
+    },
+    {
+      "fact_id": "FACT_018",
+      "description": "Bantjies was involved in Faucitt Family Trust agreement discussions in January 2025",
+      "category": "breach_of_duty",
+      "significance": "NEW MAILBOX EVIDENCE: Bantjies emailed about 'Faucitt family trust - agreement' on 2025-01-29, proving active trust manipulation",
+      "related_facts": ["FACT_008", "FACT_009"]
+    }
+  ],
+  "knowledge_events": [
+    {
+      "event_id": "KE_001",
+      "agent_id": "PERSON_001",
+      "fact_id": "FACT_001",
+      "timestamp": "2025-06-17T00:00:00Z",
+      "acquisition_type": "direct_admission",
+      "evidence_refs": ["SF10", "PAF_FNB_FRAUD_LETTER_2025_06_17_OCR.md"],
+      "description": "Peter wrote to FNB acknowledging 'suspected fraud' in the company accounts.",
+      "confidence": "proven"
+    },
+    {
+      "event_id": "KE_002",
+      "agent_id": "PERSON_001",
+      "fact_id": "FACT_002",
+      "timestamp": "2025-06-20T00:00:00Z",
+      "acquisition_type": "system_records",
+      "evidence_refs": ["SF10", "Sage_Dual_Account_Screenshots"],
+      "description": "Sage system records show Rynette logged in as pete@regima.com — Peter authorized this access.",
+      "confidence": "proven"
+    },
+    {
+      "event_id": "KE_003",
+      "agent_id": "PERSON_001",
+      "fact_id": "FACT_005",
+      "timestamp": "2025-06-17T00:00:00Z",
+      "acquisition_type": "direct_admission",
+      "evidence_refs": ["SF10"],
+      "description": "Peter admitted in FNB letter: 'our company may be transgressing the Exchange Control Regulations'.",
+      "confidence": "proven"
+    },
+    {
+      "event_id": "KE_004",
+      "agent_id": "PERSON_002",
+      "fact_id": "FACT_002",
+      "timestamp": "2020-05-18T00:00:00Z",
+      "acquisition_type": "system_records",
+      "evidence_refs": ["MAILBOX_SAGE_NOTIFICATIONS", "Sage_Dual_Account_Screenshots"],
+      "description": "NEW: Mailbox shows Sage accounting notifications sent to rynette@regima.zone from 2020-05-18, proving she operated the system from the earliest available records.",
+      "confidence": "proven"
+    },
+    {
+      "event_id": "KE_005",
+      "agent_id": "PERSON_002",
+      "fact_id": "FACT_004",
+      "timestamp": "2025-06-18T00:00:00Z",
+      "acquisition_type": "email_correspondence",
+      "evidence_refs": ["2025-06-18_Rynette_DeNovo_RegimA_SA_Payments.pdf"],
+      "description": "Rynette emailed De Novo instructing the creation of backdated 2019 financial statements.",
+      "confidence": "proven"
+    },
+    {
+      "event_id": "KE_006",
+      "agent_id": "PERSON_002",
+      "fact_id": "FACT_006",
+      "timestamp": "2025-07-23T00:00:00Z",
+      "acquisition_type": "active_participation",
+      "evidence_refs": ["SF11"],
+      "description": "Rynette, as subscription owner, let Sage expire to deny access to financial records.",
+      "confidence": "proven"
+    },
+    {
+      "event_id": "KE_007",
+      "agent_id": "PERSON_002",
+      "fact_id": "FACT_014",
+      "timestamp": "2020-05-20T00:00:00Z",
+      "acquisition_type": "email_correspondence",
+      "evidence_refs": ["MAILBOX_RYNETTE_FINANCIAL_EMAILS"],
+      "description": "NEW: Mailbox analysis reveals 5,775 financial emails from rynette@regima.zone spanning 2020-2025, establishing her as the sole financial controller.",
+      "confidence": "proven"
+    },
+    {
+      "event_id": "KE_008",
+      "agent_id": "PERSON_002",
+      "fact_id": "FACT_012",
+      "timestamp": "2025-05-05T00:00:00Z",
+      "acquisition_type": "email_correspondence",
+      "evidence_refs": ["MAILBOX_RYNETTE_BANKING_DETAILS_EMAIL"],
+      "description": "NEW: Rynette sent 'Banking details and email address for POP' on 2025-05-05, initiating the payment redirection campaign.",
+      "confidence": "proven"
+    },
+    {
+      "event_id": "KE_009",
+      "agent_id": "PERSON_002",
+      "fact_id": "FACT_016",
+      "timestamp": "2025-05-16T00:00:00Z",
+      "acquisition_type": "email_correspondence",
+      "evidence_refs": ["MAILBOX_RYNETTE_SECOND_REQUEST_BANKING_APP"],
+      "description": "NEW: Rynette sent 'Second request to change the email address on your banking app' on 2025-05-16, proving persistent redirection effort.",
+      "confidence": "proven"
+    },
+    {
+      "event_id": "KE_010",
+      "agent_id": "PERSON_007",
+      "fact_id": "FACT_010",
+      "timestamp": "2020-07-27T00:00:00Z",
+      "acquisition_type": "email_correspondence",
+      "evidence_refs": ["MAILBOX_BANTJIES_BANK_STATEMENTS_2020"],
+      "description": "NEW: Bantjies (danie.bantjes@gmail.com) received RegimA bank statements and financial year-end documents on 2020-07-27, proving financial access 4 years before FFT appointment.",
+      "confidence": "proven"
+    },
+    {
+      "event_id": "KE_011",
+      "agent_id": "PERSON_007",
+      "fact_id": "FACT_015",
+      "timestamp": "2023-05-31T00:00:00Z",
+      "acquisition_type": "email_correspondence",
+      "evidence_refs": ["MAILBOX_BANTJIES_KETONI_GEORGE_GROUP"],
+      "description": "NEW: Bantjies (danieb@thegeorgegroup.co.za) exchanged emails about Ketoni Investment Holdings on 2023-05-31, proving insider knowledge through his George Group CFO position.",
+      "confidence": "proven"
+    },
+    {
+      "event_id": "KE_012",
+      "agent_id": "PERSON_007",
+      "fact_id": "FACT_018",
+      "timestamp": "2025-01-29T00:00:00Z",
+      "acquisition_type": "email_correspondence",
+      "evidence_refs": ["MAILBOX_BANTJIES_FFT_AGREEMENT"],
+      "description": "NEW: Bantjies emailed about 'Faucitt family trust - agreement' on 2025-01-29, proving active trust manipulation before the fraud execution phase.",
+      "confidence": "proven"
+    },
+    {
+      "event_id": "KE_013",
+      "agent_id": "PERSON_007",
+      "fact_id": "FACT_009",
+      "timestamp": "2025-08-19T00:00:00Z",
+      "acquisition_type": "documentary_proof",
+      "evidence_refs": ["Interdict_Application", "Bantjies_Affidavit"],
+      "description": "Bantjies swore a false supporting affidavit for the interdict application.",
+      "confidence": "proven"
+    },
+    {
+      "event_id": "KE_014",
+      "agent_id": "PERSON_007",
+      "fact_id": "FACT_008",
+      "timestamp": "2024-07-01T00:00:00Z",
+      "acquisition_type": "active_participation",
+      "evidence_refs": ["FFT_Appointment_Docs", "George_Group_Employment"],
+      "description": "Bantjies accepted FFT Trustee appointment while serving as George Group CFO, creating dual-control loop over R18.685M.",
+      "confidence": "proven"
+    },
+    {
+      "event_id": "KE_015",
+      "agent_id": "PERSON_004",
+      "fact_id": "FACT_017",
+      "timestamp": "2021-02-21T00:00:00Z",
+      "acquisition_type": "email_correspondence",
+      "evidence_refs": ["MAILBOX_JAX_FRAUD_DETECTION_2021"],
+      "description": "NEW: Jacqueline sent 'POSSIBLE FRAUD 2 TRANSACTIONS WITH THE SAME REFERENCE NUMBER' to FNB on 2021-02-21, proving she detected financial irregularities early.",
+      "confidence": "proven"
+    },
+    {
+      "event_id": "KE_016",
+      "agent_id": "PERSON_004",
+      "fact_id": "FACT_011",
+      "timestamp": "2020-08-29T00:00:00Z",
+      "acquisition_type": "email_correspondence",
+      "evidence_refs": ["MAILBOX_JAX_DIVERT_EMAIL_2020"],
+      "description": "NEW: Jacqueline sent 'DIVERT BERNADINE'S E-MAILS TO RYNETTE' on 2020-08-29. Context: This may have been a legitimate operational request, but it enabled Rynette's information control.",
+      "confidence": "proven"
+    },
+    {
+      "event_id": "KE_017",
+      "agent_id": "PERSON_LINDA",
+      "fact_id": "FACT_012",
+      "timestamp": "2025-06-18T00:00:00Z",
+      "acquisition_type": "active_participation",
+      "evidence_refs": ["MAILBOX_LINDA_CHANGE_OF_BANK_JUNE_2025"],
+      "description": "NEW: Linda sent 39+ 'Change of Bank' emails on 2025-06-18, executing the mass payment redirection from FNB to Absa.",
+      "confidence": "proven"
+    },
+    {
+      "event_id": "KE_018",
+      "agent_id": "PERSON_GAYANE",
+      "fact_id": "FACT_013",
+      "timestamp": "2025-06-20T00:00:00Z",
+      "acquisition_type": "active_participation",
+      "evidence_refs": ["MAILBOX_GAYANE_EMAIL_CHANGE_2025"],
+      "description": "NEW: Gayane sent 'Important Update: Change of Email Address' on 2025-06-20, announcing abandonment of @regima.zone domain — infrastructure hijacking.",
+      "confidence": "proven"
+    },
+    {
+      "event_id": "KE_019",
+      "agent_id": "PERSON_002",
+      "fact_id": "FACT_011",
+      "timestamp": "2020-08-29T00:00:00Z",
+      "acquisition_type": "email_correspondence",
+      "evidence_refs": ["MAILBOX_JAX_DIVERT_EMAIL_2020"],
+      "description": "NEW: Rynette was the beneficiary of the email diversion — Bernadine's emails were diverted to her, giving her control over financial communications.",
+      "confidence": "proven"
+    },
+    {
+      "event_id": "KE_020",
+      "agent_id": "PERSON_002",
+      "fact_id": "FACT_013",
+      "timestamp": "2025-06-20T00:00:00Z",
+      "acquisition_type": "active_participation",
+      "evidence_refs": ["MAILBOX_GAYANE_EMAIL_CHANGE_2025"],
+      "description": "NEW: Rynette orchestrated the email domain change — Gayane's announcement was on her instruction as the operational controller.",
+      "confidence": "probable"
+    },
+    {
+      "event_id": "KE_021",
+      "agent_id": "PERSON_005",
+      "fact_id": "FACT_012",
+      "timestamp": "2025-06-18T00:00:00Z",
+      "acquisition_type": "email_correspondence",
+      "evidence_refs": ["MAILBOX_KENT_BANK_CHANGE_AWARENESS"],
+      "description": "NEW: Kim (customer) confirmed to Linda that the bank change was 'from FNB to Absa' and that Kent received a POP paid into FNB — Kent was aware of the bank change.",
+      "confidence": "proven"
+    },
+    {
+      "event_id": "KE_022",
+      "agent_id": "PERSON_007",
+      "fact_id": "FACT_001",
+      "timestamp": "2020-07-27T00:00:00Z",
+      "acquisition_type": "email_correspondence",
+      "evidence_refs": ["MAILBOX_BANTJIES_FYE_2020"],
+      "description": "NEW: Bantjies received 'RegimA Worldwide - Financial Year End - Feb 2020' documents on 2020-07-27, giving him full visibility into the company's financial position from 2020.",
+      "confidence": "proven"
+    },
+    {
+      "event_id": "KE_023",
+      "agent_id": "PERSON_002",
+      "fact_id": "FACT_003",
+      "timestamp": "2025-05-22T00:00:00Z",
+      "acquisition_type": "active_participation",
+      "evidence_refs": ["Shopify_Deletion_Logs", "EVENT_010"],
+      "description": "Rynette deleted Shopify audit trails on 22 May 2025, proving knowledge of the revenue diversion.",
+      "confidence": "proven"
+    }
+  ]
+}

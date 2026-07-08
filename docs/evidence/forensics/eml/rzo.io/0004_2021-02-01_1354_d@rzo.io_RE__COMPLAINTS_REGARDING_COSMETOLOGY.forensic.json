@@ -1,0 +1,60 @@
+{
+  "_schema": "exoml-forensic/v1",
+  "_generated": "2026-03-10T08:04:23.935711+00:00",
+  "file_integrity": {
+    "eml_file": "rzo.io/0004_2021-02-01_1354_d@rzo.io_RE__COMPLAINTS_REGARDING_COSMETOLOGY.eml",
+    "file_size_bytes": 16440,
+    "md5": "bc6f5fc87c8452b4c47eedadac1145d5",
+    "sha1": "0280eef0a2733b50b208f61c4b4c9a01a95da956",
+    "sha256": "c4b65c5b1b3214ee9f30cf768f76255b6174fb7651c6d9c209f5dba29a8856e5"
+  },
+  "message_identity": {
+    "db_id": 859,
+    "exchange_message_id": "AAMkAGE2YjljZjA1LTRlOWUtNDhjYi1iZjNkLWI4ZWRlNDQwYTU0MABGAAAAAADPgXCfMl5uRqA6Xxa9Yh33BwAh607i92PMQLMLAH3HB5h5AAAAAAEJAAAh607i92PMQLMLAH3HB5h5AAJ6077AAAA=",
+    "conversation_id": "AAQkAGE2YjljZjA1LTRlOWUtNDhjYi1iZjNkLWI4ZWRlNDQwYTU0MAAQAP14KvlN6kV7k4Qx6vZwOnA="
+  },
+  "envelope": {
+    "subject": "RE: COMPLAINTS REGARDING COSMETOLOGY",
+    "from_name": "Daniel Faucitt",
+    "from_address": "d@rzo.io",
+    "to_recipients": [
+      {
+        "emailAddress": {
+          "name": "karen@kachan.co.za",
+          "address": "karen@kachan.co.za"
+        }
+      }
+    ],
+    "cc_recipients": [
+      {
+        "emailAddress": {
+          "name": "Jacqui Faucitt",
+          "address": "jax@regima.zone"
+        }
+      },
+      {
+        "emailAddress": {
+          "name": "kayla@regima.zone",
+          "address": "kayla@regima.zone"
+        }
+      },
+      {
+        "emailAddress": {
+          "name": "Rynette Farrar",
+          "address": "rynette@regima.zone"
+        }
+      }
+    ],
+    "received_datetime": "2021-02-01 13:54:00"
+  },
+  "mailbox_context": {
+    "user_email": "d@rzo.io",
+    "user_name": "Daniel Faucitt"
+  },
+  "body": {
+    "content_type": "html",
+    "preview": "RegimA Skin Treatments\r\n\r\nCK92/05371/23\r\n\r\nVAT No. 4590131043\r\n\r\nTel: 011 615 2869\r\n\r\ne-mail:info@regima.com\r\n\r\nHEAD OFFICE: 50 Van Buuren Road, Bedfordview, 2008, RSA\r\n\r\n___________________________________________________________________\r\n\r\n31 January 20",
+    "body_length_chars": 11481
+  },
+  "attachments": []
+}

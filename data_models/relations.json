@@ -1,0 +1,941 @@
+[
+  {
+    "id": "AYMAC_KAYLOVEST_ELLIOTT_NETWORK",
+    "title": "Aymac-Kaylovest-Elliott Network",
+    "entities_involved": [
+      "PERSON_001",
+      "PERSON_002",
+      "ORG_026",
+      "ORG_027",
+      "ORG_028",
+      "ORG_002"
+    ],
+    "file": "docs/relations/AYMAC_KAYLOVEST_ELLIOTT_NETWORK.md",
+    "evidence_strength": 95,
+    "relation_type": "RELATION_MAP",
+    "legal_categories": [
+      "intercompany_fraud",
+      "conspiracy",
+      "theft"
+    ],
+    "applications": [
+      "app1_civil_criminal",
+      "app2_cipc_popia"
+    ],
+    "date": "2026-03-07"
+  },
+  {
+    "id": "BACKDATED_ENTRIES",
+    "title": "Backdated Journal Entries — 2021 Forgery",
+    "entities_involved": [],
+    "file": "docs/relations/BACKDATED_ENTRIES.md",
+    "legal_categories": [
+      "fraud",
+      "tax_fraud",
+      "intercompany_fraud",
+      "forgery",
+      "conspiracy",
+      "companies_act_violation"
+    ],
+    "applications": [
+      "app1_civil_criminal",
+      "app2_cipc_popia",
+      "app3_commercial_crime_tax"
+    ],
+    "relation_type": "unclassified"
+  },
+  {
+    "id": "BANKING_MANDATE_FRAUD",
+    "title": "Banking Mandate Fraud Network",
+    "entities_involved": [
+      "PERSON_001",
+      "PERSON_002",
+      "PERSON_005",
+      "BANK_001"
+    ],
+    "file": "docs/relations/BANKING_MANDATE_FRAUD.md",
+    "evidence_refs": [
+      "EVENT107",
+      "SF10",
+      "SF11"
+    ],
+    "legal_categories": [
+      "perjury",
+      "revenue_diversion",
+      "fraud",
+      "tax_fraud",
+      "companies_act_violation"
+    ],
+    "applications": [
+      "app1_civil_criminal",
+      "app2_cipc_popia",
+      "app3_commercial_crime_tax"
+    ],
+    "relation_type": "unclassified"
+  },
+  {
+    "id": "BANTJIES_FALSE_INDEPENDENCE",
+    "title": "Bantjies False Independence Declaration",
+    "entities_involved": [],
+    "file": "docs/relations/BANTJIES_FALSE_INDEPENDENCE.md",
+    "legal_categories": [
+      "perjury",
+      "breach_of_fiduciary_duty",
+      "fraud",
+      "tax_fraud",
+      "popia_violation",
+      "forgery",
+      "breach_of_trust",
+      "companies_act_violation"
+    ],
+    "applications": [
+      "app1_civil_criminal",
+      "app2_cipc_popia",
+      "app3_commercial_crime_tax"
+    ],
+    "relation_type": "unclassified"
+  },
+  {
+    "id": "CONTEMPT_RELATIONS_2026_02_09",
+    "title": "Contempt Proceedings Relations Map",
+    "entities_involved": [],
+    "file": "docs/relations/CONTEMPT_RELATIONS_2026_02_09.md",
+    "evidence_refs": [
+      "EVENT060",
+      "EVENT095",
+      "EVENT096",
+      "EVENT097",
+      "EVENT098",
+      "EVENT099",
+      "EVENT100",
+      "EVENT101"
+    ],
+    "legal_categories": [
+      "contempt_of_court",
+      "conspiracy",
+      "revenue_diversion"
+    ],
+    "applications": [
+      "app1_civil_criminal"
+    ],
+    "relation_type": "unclassified"
+  },
+  {
+    "id": "COORDINATED_RETALIATION",
+    "title": "Coordinated Retaliation Pattern",
+    "entities_involved": [],
+    "file": "docs/relations/COORDINATED_RETALIATION.md",
+    "evidence_refs": [
+      "SF10",
+      "SF11"
+    ],
+    "legal_categories": [
+      "conspiracy",
+      "forgery",
+      "fraud"
+    ],
+    "applications": [
+      "app1_civil_criminal",
+      "app3_commercial_crime_tax"
+    ],
+    "relation_type": "unclassified"
+  },
+  {
+    "id": "DOMAIN_IDENTITY_FRAUD",
+    "title": "Domain & Digital Identity Fraud",
+    "entities_involved": [],
+    "file": "docs/relations/DOMAIN_IDENTITY_FRAUD.md",
+    "evidence_refs": [
+      "EVENT105",
+      "EVENT107",
+      "EVENT113",
+      "SF10"
+    ],
+    "legal_categories": [
+      "tax_fraud",
+      "identity_fraud",
+      "popia_violation",
+      "fraud"
+    ],
+    "applications": [
+      "app1_civil_criminal",
+      "app2_cipc_popia",
+      "app3_commercial_crime_tax"
+    ],
+    "relation_type": "unclassified"
+  },
+  {
+    "id": "DUAL_CORPORATE_IDENTITY",
+    "title": "Relation: Dual Corporate Identity — Kaylovest Three / Villa Via",
+    "entities_involved": [
+      "ORG_005",
+      "ORG_027"
+    ],
+    "file": "docs/relations/DUAL_CORPORATE_IDENTITY.md",
+    "evidence_refs": [
+      "EVENT106",
+      "EVENT124"
+    ],
+    "legal_categories": [
+      "identity_fraud",
+      "money_laundering",
+      "fraud",
+      "tax_fraud",
+      "popia_violation",
+      "conspiracy",
+      "companies_act_violation"
+    ],
+    "applications": [
+      "app1_civil_criminal",
+      "app2_cipc_popia",
+      "app3_commercial_crime_tax"
+    ],
+    "relation_type": "unclassified"
+  },
+  {
+    "id": "ELLIOTT_ATTORNEYS_PROTECTION",
+    "title": "Elliott Attorneys — Non-Party Protection",
+    "entities_involved": [],
+    "file": "docs/relations/ELLIOTT_ATTORNEYS_PROTECTION.md",
+    "evidence_refs": [
+      "SF13"
+    ],
+    "legal_categories": [
+      "conspiracy",
+      "fraud"
+    ],
+    "applications": [
+      "app1_civil_criminal"
+    ],
+    "relation_type": "unclassified"
+  },
+  {
+    "id": "FORGERY_BACKDATING_RELATIONS_2026_02_18",
+    "title": "Forgery & Backdating Relations — Two-Date Distinction",
+    "entities_involved": [
+      "PERSON_002",
+      "PERSON_007"
+    ],
+    "file": "docs/relations/FORGERY_BACKDATING_RELATIONS_2026_02_18.md",
+    "evidence_refs": [
+      "EVENT049",
+      "EVENT063",
+      "EVENT103",
+      "EVENT104",
+      "EVENT105",
+      "SF15"
+    ],
+    "legal_categories": [
+      "perjury",
+      "conspiracy",
+      "forgery",
+      "fraud"
+    ],
+    "applications": [
+      "app1_civil_criminal",
+      "app3_commercial_crime_tax"
+    ],
+    "relation_type": "unclassified"
+  },
+  {
+    "id": "IDENTITY_FRAUD_NETWORK",
+    "title": "Relation: Identity Fraud Network",
+    "entities_involved": [],
+    "file": "docs/relations/IDENTITY_FRAUD_NETWORK.md",
+    "evidence_refs": [
+      "EVENT103",
+      "EVENT105",
+      "EVENT107",
+      "EVENT108",
+      "EVENT113",
+      "SF10"
+    ],
+    "legal_categories": [
+      "identity_fraud",
+      "fraud",
+      "tax_fraud",
+      "popia_violation",
+      "forgery",
+      "theft",
+      "companies_act_violation"
+    ],
+    "applications": [
+      "app1_civil_criminal",
+      "app2_cipc_popia",
+      "app3_commercial_crime_tax"
+    ],
+    "relation_type": "unclassified"
+  },
+  {
+    "id": "INTERCOMPANY_FRAUD",
+    "title": "Intercompany Fraud Network",
+    "entities_involved": [],
+    "file": "docs/relations/INTERCOMPANY_FRAUD.md",
+    "legal_categories": [
+      "revenue_diversion",
+      "breach_of_fiduciary_duty",
+      "fraud",
+      "tax_fraud",
+      "intercompany_fraud",
+      "forgery",
+      "conspiracy",
+      "theft",
+      "companies_act_violation"
+    ],
+    "applications": [
+      "app1_civil_criminal",
+      "app2_cipc_popia",
+      "app3_commercial_crime_tax"
+    ],
+    "relation_type": "unclassified"
+  },
+  {
+    "id": "INTERDICT_VOID_AB_INITIO",
+    "title": "Interdict Void Ab Initio — Complete Analysis",
+    "entities_involved": [],
+    "file": "docs/relations/INTERDICT_VOID_AB_INITIO.md",
+    "legal_categories": [
+      "perjury",
+      "contempt_of_court",
+      "fraud",
+      "forgery",
+      "conspiracy"
+    ],
+    "applications": [
+      "app1_civil_criminal",
+      "app3_commercial_crime_tax"
+    ],
+    "relation_type": "unclassified"
+  },
+  {
+    "id": "KETONI_FUND_FLOW_COMPLETE",
+    "title": "Ketoni Fund Flow — Complete Architecture",
+    "entities_involved": [],
+    "file": "docs/relations/KETONI_FUND_FLOW_COMPLETE.md",
+    "legal_categories": [
+      "revenue_diversion"
+    ],
+    "applications": [
+      "app1_civil_criminal"
+    ],
+    "relation_type": "unclassified"
+  },
+  {
+    "id": "KETONI_INSIDER_TRADING_NETWORK",
+    "title": "Relation: Ketoni Insider Trading Network",
+    "entities_involved": [
+      "PERSON_007",
+      "PERSON_001",
+      "PERSON_002",
+      "PERSON_015",
+      "ORG_016",
+      "TRUST_001"
+    ],
+    "file": "docs/relations/KETONI_INSIDER_TRADING_NETWORK.md",
+    "evidence_refs": [
+      "EVENT103",
+      "EVENT117",
+      "EVENT119"
+    ],
+    "legal_categories": [
+      "perjury",
+      "fraud",
+      "tax_fraud",
+      "forgery",
+      "conspiracy"
+    ],
+    "applications": [
+      "app1_civil_criminal",
+      "app3_commercial_crime_tax"
+    ],
+    "relation_type": "unclassified"
+  },
+  {
+    "id": "LEX_SIM_NN_ATTRIBUTION_2026_03_10",
+    "title": "LEX-SIM-NN Evidence Attribution Relations",
+    "entities_involved": [],
+    "file": "docs/relations/LEX_SIM_NN_ATTRIBUTION_2026_03_10.md",
+    "legal_categories": [
+      "identity_fraud",
+      "fraud",
+      "tax_fraud",
+      "popia_violation",
+      "conspiracy",
+      "companies_act_violation"
+    ],
+    "applications": [
+      "app1_civil_criminal",
+      "app2_cipc_popia",
+      "app3_commercial_crime_tax"
+    ],
+    "relation_type": "unclassified"
+  },
+  {
+    "id": "MAILBOX_EVIDENCE_RELATIONS_2026_02_09",
+    "title": "Relations from Mailbox Evidence (2026-02-09)",
+    "entities_involved": [],
+    "file": "docs/relations/MAILBOX_EVIDENCE_RELATIONS_2026_02_09.md",
+    "legal_categories": [
+      "revenue_diversion"
+    ],
+    "applications": [
+      "app1_civil_criminal"
+    ],
+    "relation_type": "unclassified"
+  },
+  {
+    "id": "MANUFACTURE_ADMISSION",
+    "title": "Bantjies \"Manufacture\" Admission",
+    "entities_involved": [],
+    "file": "docs/relations/MANUFACTURE_ADMISSION.md",
+    "evidence_refs": [
+      "EVENT119"
+    ],
+    "legal_categories": [
+      "identity_fraud",
+      "fraud",
+      "tax_fraud",
+      "intercompany_fraud",
+      "forgery",
+      "conspiracy",
+      "companies_act_violation"
+    ],
+    "applications": [
+      "app1_civil_criminal",
+      "app2_cipc_popia",
+      "app3_commercial_crime_tax"
+    ],
+    "relation_type": "unclassified"
+  },
+  {
+    "id": "PETER_R10_6M_EXTRACTION",
+    "title": "Peter's R10.6M Post-Interdict Extraction",
+    "entities_involved": [],
+    "file": "docs/relations/PETER_R10_6M_EXTRACTION.md",
+    "legal_categories": [
+      "perjury",
+      "contempt_of_court",
+      "revenue_diversion",
+      "money_laundering",
+      "fraud",
+      "tax_fraud",
+      "forgery",
+      "theft"
+    ],
+    "applications": [
+      "app1_civil_criminal",
+      "app3_commercial_crime_tax"
+    ],
+    "relation_type": "unclassified"
+  },
+  {
+    "id": "REL_037",
+    "title": "REL_037: Unauthorized Access to Tax Records",
+    "entities_involved": [
+      "PERSON_001",
+      "PERSON_002",
+      "PLATFORM_002"
+    ],
+    "file": "docs/relations/REL_037.md",
+    "evidence_refs": [
+      "EVENT174"
+    ],
+    "legal_categories": [
+      "tax_fraud",
+      "popia_violation",
+      "conspiracy"
+    ],
+    "applications": [
+      "app1_civil_criminal",
+      "app2_cipc_popia",
+      "app3_commercial_crime_tax"
+    ],
+    "relation_type": "unclassified"
+  },
+  {
+    "id": "REL_038",
+    "title": "REL_038: Deliberate API Severance",
+    "entities_involved": [
+      "PERSON_001",
+      "PERSON_002",
+      "PLATFORM_003"
+    ],
+    "file": "docs/relations/REL_038.md",
+    "evidence_refs": [
+      "EVENT175"
+    ],
+    "legal_categories": [
+      "revenue_diversion"
+    ],
+    "applications": [
+      "app1_civil_criminal"
+    ],
+    "relation_type": "unclassified"
+  },
+  {
+    "id": "REVENUE_HIJACKING_CHAIN",
+    "title": "Relation: Revenue Hijacking Chain",
+    "entities_involved": [
+      "PERSON_002",
+      "PERSON_020",
+      "PERSON_021",
+      "PERSON_001",
+      "PERSON_007",
+      "BANK_ACCOUNT_ABSA"
+    ],
+    "file": "docs/relations/REVENUE_HIJACKING_CHAIN.md",
+    "evidence_refs": [
+      "EVENT114",
+      "EVENT115",
+      "EVENT119",
+      "EVENT121",
+      "SF10"
+    ],
+    "legal_categories": [
+      "revenue_diversion",
+      "identity_fraud",
+      "money_laundering",
+      "fraud",
+      "tax_fraud",
+      "popia_violation",
+      "conspiracy",
+      "theft",
+      "companies_act_violation"
+    ],
+    "applications": [
+      "app1_civil_criminal",
+      "app2_cipc_popia",
+      "app3_commercial_crime_tax"
+    ],
+    "relation_type": "unclassified"
+  },
+  {
+    "id": "REZONANCE_DEBT_FABRICATION",
+    "title": "ReZonance Debt Fabrication",
+    "entities_involved": [],
+    "file": "docs/relations/REZONANCE_DEBT_FABRICATION.md",
+    "legal_categories": [
+      "revenue_diversion",
+      "fraud",
+      "tax_fraud",
+      "forgery",
+      "companies_act_violation"
+    ],
+    "applications": [
+      "app1_civil_criminal",
+      "app2_cipc_popia",
+      "app3_commercial_crime_tax"
+    ],
+    "relation_type": "unclassified"
+  },
+  {
+    "id": "RULE_30_DATING_ANOMALY",
+    "title": "Rule 30/30A Dating Anomaly — Elliott Attorneys",
+    "entities_involved": [],
+    "file": "docs/relations/RULE_30_DATING_ANOMALY.md",
+    "evidence_refs": [
+      "EVENT103",
+      "EVENT132"
+    ],
+    "legal_categories": [
+      "perjury",
+      "contempt_of_court",
+      "forgery"
+    ],
+    "applications": [
+      "app3_commercial_crime_tax"
+    ],
+    "relation_type": "unclassified"
+  },
+  {
+    "id": "RYNETTE_BANTJIES_CONSPIRACY_2026_03_07",
+    "title": "Rynette Farrar — Daniel Bantjies: Coordinated Conspiracy Relations",
+    "entities_involved": [],
+    "file": "docs/relations/RYNETTE_BANTJIES_CONSPIRACY_2026_03_07.md",
+    "evidence_refs": [
+      "EVENT103",
+      "EVENT114",
+      "EVENT115",
+      "EVENT116",
+      "EVENT117",
+      "EVENT119",
+      "EVENT120"
+    ],
+    "legal_categories": [
+      "identity_fraud",
+      "fraud",
+      "tax_fraud",
+      "intercompany_fraud",
+      "forgery",
+      "conspiracy"
+    ],
+    "applications": [
+      "app1_civil_criminal",
+      "app2_cipc_popia",
+      "app3_commercial_crime_tax"
+    ],
+    "relation_type": "unclassified"
+  },
+  {
+    "id": "SAGE_SYSTEM_CAPTURE",
+    "title": "Sage Accounting System Capture",
+    "entities_involved": [],
+    "file": "docs/relations/SAGE_SYSTEM_CAPTURE.md",
+    "evidence_refs": [
+      "EVENT105",
+      "EVENT110",
+      "SF11"
+    ],
+    "legal_categories": [
+      "revenue_diversion",
+      "identity_fraud",
+      "fraud",
+      "popia_violation",
+      "companies_act_violation"
+    ],
+    "applications": [
+      "app1_civil_criminal",
+      "app2_cipc_popia"
+    ]
+  },
+  {
+    "id": "SARS_CREDENTIAL_ABUSE",
+    "title": "SARS Credential Abuse Network",
+    "entities_involved": [],
+    "file": "docs/relations/SARS_CREDENTIAL_ABUSE.md",
+    "evidence_refs": [
+      "EVENT103",
+      "EVENT107"
+    ],
+    "legal_categories": [
+      "identity_fraud",
+      "fraud",
+      "tax_fraud",
+      "popia_violation",
+      "forgery",
+      "theft"
+    ],
+    "applications": [
+      "app1_civil_criminal",
+      "app2_cipc_popia",
+      "app3_commercial_crime_tax"
+    ]
+  },
+  {
+    "id": "SARS_FLAGGED_INVOICES",
+    "title": "SARS Flagged Invoices — February 2025",
+    "entities_involved": [],
+    "file": "docs/relations/SARS_FLAGGED_INVOICES.md",
+    "evidence_refs": [
+      "EVENT126"
+    ],
+    "legal_categories": [
+      "identity_fraud",
+      "fraud",
+      "tax_fraud",
+      "intercompany_fraud",
+      "forgery",
+      "conspiracy"
+    ],
+    "applications": [
+      "app1_civil_criminal",
+      "app2_cipc_popia",
+      "app3_commercial_crime_tax"
+    ]
+  },
+  {
+    "id": "STOCK2SHOP_DISRUPTION",
+    "title": "Stock2Shop Platform Disruption",
+    "entities_involved": [],
+    "file": "docs/relations/STOCK2SHOP_DISRUPTION.md",
+    "legal_categories": [
+      "companies_act_violation",
+      "identity_fraud",
+      "popia_violation",
+      "revenue_diversion"
+    ],
+    "applications": [
+      "app1_civil_criminal",
+      "app2_cipc_popia"
+    ]
+  },
+  {
+    "id": "STOCK_ADJUSTMENT_FRAUD",
+    "title": "Stock Adjustment Fraud — R4.2M Discrepancy",
+    "entities_involved": [],
+    "file": "docs/relations/STOCK_ADJUSTMENT_FRAUD.md",
+    "legal_categories": [
+      "fraud",
+      "tax_fraud",
+      "intercompany_fraud",
+      "conspiracy",
+      "companies_act_violation"
+    ],
+    "applications": [
+      "app1_civil_criminal",
+      "app2_cipc_popia",
+      "app3_commercial_crime_tax"
+    ]
+  },
+  {
+    "id": "TRUST_CAPTURE_SEQUENCE",
+    "title": "Relation: Trust Capture Sequence",
+    "entities_involved": [],
+    "file": "docs/relations/TRUST_CAPTURE_SEQUENCE.md",
+    "evidence_refs": [
+      "EVENT103",
+      "EVENT104",
+      "EVENT105",
+      "EVENT107",
+      "EVENT108",
+      "EVENT114",
+      "EVENT115",
+      "EVENT117",
+      "SF15"
+    ],
+    "legal_categories": [
+      "perjury",
+      "contempt_of_court",
+      "identity_fraud",
+      "money_laundering",
+      "fraud",
+      "tax_fraud",
+      "popia_violation",
+      "forgery",
+      "conspiracy",
+      "companies_act_violation"
+    ],
+    "applications": [
+      "app1_civil_criminal",
+      "app2_cipc_popia",
+      "app3_commercial_crime_tax"
+    ]
+  },
+  {
+    "id": "VILLA_VIA_KAYLOVEST_IDENTITY",
+    "title": "Villa Via Arcadia No 2 CC and Kaylovest Three (Pty) Ltd — Dual Entity Under Same Base Number",
+    "entities_involved": [
+      "ORG_005",
+      "ORG_027",
+      "PERSON_001"
+    ],
+    "file": "docs/relations/VILLA_VIA_KAYLOVEST_IDENTITY.md",
+    "evidence_strength": 99,
+    "relation_type": "DUAL_CORPORATE_IDENTITY",
+    "evidence_refs": [
+      "EVENT106"
+    ],
+    "legal_categories": [
+      "identity_fraud",
+      "companies_act_violation"
+    ],
+    "applications": [
+      "app2_cipc_popia"
+    ],
+    "date": "2026-03-07"
+  },
+  {
+    "id": "VILLA_VIA_PROFIT_EXTRACTION",
+    "title": "Villa Via Profit Extraction Scheme",
+    "entities_involved": [],
+    "file": "docs/relations/VILLA_VIA_PROFIT_EXTRACTION.md",
+    "evidence_refs": [
+      "EVENT124"
+    ],
+    "legal_categories": [
+      "revenue_diversion",
+      "identity_fraud",
+      "fraud",
+      "tax_fraud",
+      "forgery",
+      "companies_act_violation"
+    ],
+    "applications": [
+      "app1_civil_criminal",
+      "app2_cipc_popia",
+      "app3_commercial_crime_tax"
+    ]
+  },
+  {
+    "id": "director_of",
+    "title": "Director Of Relations",
+    "entities_involved": [
+      "PERSON_001",
+      "ORG_001",
+      "PERSON_001",
+      "ORG_002",
+      "PERSON_001",
+      "ORG_004",
+      "PERSON_001",
+      "ORG_006",
+      "PERSON_004",
+      "ORG_001",
+      "PERSON_005",
+      "ORG_001",
+      "PERSON_005",
+      "ORG_003",
+      "PERSON_005",
+      "ORG_008",
+      "PERSON_013",
+      "ORG_008",
+      "PERSON_014",
+      "ORG_017",
+      "PERSON_014",
+      "ORG_018"
+    ],
+    "file": "docs/relations/director_of.md",
+    "legal_categories": [
+      "companies_act_violation"
+    ],
+    "applications": [
+      "app2_cipc_popia"
+    ]
+  },
+  {
+    "id": "financial_flow",
+    "title": "Financial Flow Relations",
+    "entities_involved": [
+      "ORG_002",
+      "ORG_008",
+      "ORG_017",
+      "TRUST_001",
+      "ORG_001",
+      "BANK_ACCOUNT_ABSA"
+    ],
+    "file": "docs/relations/financial_flow.md",
+    "evidence_refs": [
+      "SF12"
+    ],
+    "legal_categories": [
+      "fraud"
+    ],
+    "applications": [
+      "app1_civil_criminal"
+    ]
+  },
+  {
+    "id": "sabotage_framing_link",
+    "title": "Sabotage-Framing Link Relation",
+    "entities_involved": [],
+    "file": "docs/relations/sabotage_framing_link.md",
+    "evidence_refs": [
+      "EVENT110"
+    ],
+    "legal_categories": [
+      "perjury",
+      "conspiracy",
+      "fraud"
+    ],
+    "applications": [
+      "app1_civil_criminal",
+      "app3_commercial_crime_tax"
+    ]
+  },
+  {
+    "id": "shareholder_of",
+    "title": "Shareholder Of Relations",
+    "entities_involved": [
+      "TRUST_001",
+      "ORG_001",
+      "TRUST_001",
+      "ORG_017",
+      "PERSON_005",
+      "ORG_003",
+      "PERSON_005",
+      "ORG_008",
+      "PERSON_013",
+      "ORG_008"
+    ],
+    "file": "docs/relations/shareholder_of.md",
+    "legal_categories": [
+      "companies_act_violation"
+    ],
+    "applications": [
+      "app2_cipc_popia"
+    ]
+  },
+  {
+    "id": "trustee_of",
+    "title": "Trustee Of Relations",
+    "entities_involved": [
+      "PERSON_001",
+      "TRUST_001",
+      "PERSON_004",
+      "TRUST_001",
+      "PERSON_007",
+      "TRUST_001"
+    ],
+    "file": "docs/relations/trustee_of.md",
+    "evidence_refs": [
+      "SF15"
+    ]
+  },
+  {
+    "id": "REL_RST_ELLIOTT_CONFLICT",
+    "title": "RST-Elliott Legal Funding Conflict",
+    "entities_involved": [
+      "ORG_002",
+      "ORG_020"
+    ],
+    "type": "funds_adversarial_litigation",
+    "evidence_strength": 0.95,
+    "description": "RST CC funds Elliott Attorneys R478,958 while Elliott litigates against RST CEO",
+    "evidence_refs": [
+      "EVENT_181",
+      "RST_ABSA_4112241409_ELLIOTT_ATTORNEYS_PAYMENTS_2025-08_2026-04.txt"
+    ],
+    "added_date": "2026-07-06",
+    "data_source": "iterative-micro-improvement-v1"
+  },
+  {
+    "id": "REL_PETER_ADMISSION_CHAIN",
+    "title": "Peter's Self-Contradicting Admission Chain",
+    "entities_involved": [
+      "PERSON_001",
+      "PERSON_001"
+    ],
+    "type": "self_contradiction",
+    "evidence_strength": 0.98,
+    "description": "12+ admissions in 3 Jun 2026 AA contradict founding affidavit narrative",
+    "evidence_refs": [
+      "EVENT_182",
+      "F-first-respondents-answering-affidavit.pdf"
+    ],
+    "added_date": "2026-07-06",
+    "data_source": "iterative-micro-improvement-v1"
+  },
+  {
+    "id": "REL_CASE_NUMBER_COLLISION",
+    "title": "Case 2026-115880 Number Collision",
+    "entities_involved": [
+      "PERSON_001",
+      "PERSON_004"
+    ],
+    "type": "procedural_anomaly",
+    "evidence_strength": 0.9,
+    "description": "Both Jax's reconsideration and Peter's stock order filed under same case number",
+    "evidence_refs": [
+      "EVENT_183",
+      "Peter AA para 7.5"
+    ],
+    "added_date": "2026-07-06",
+    "data_source": "iterative-micro-improvement-v1"
+  },
+  {
+    "id": "REL_MAZARS_ENGAGEMENT_ANOMALY",
+    "title": "Mazars Engagement Under Peter's Exclusive Control",
+    "entities_involved": [
+      "PERSON_001",
+      "ORG_MAZARS"
+    ],
+    "type": "controlled_engagement",
+    "evidence_strength": 0.92,
+    "description": "ISRS 4400 agreed-upon procedures (NOT forensic audit) engaged 4 weeks post-interdict by RST under Peter's control",
+    "evidence_refs": [
+      "PF37/JH13",
+      "Mazars report 11 Mar 2026"
+    ],
+    "added_date": "2026-07-06",
+    "data_source": "iterative-micro-improvement-v1"
+  }
+]

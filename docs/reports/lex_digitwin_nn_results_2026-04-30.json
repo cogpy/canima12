@@ -1,0 +1,231 @@
+{
+  "case": {
+    "number": "2025-137857",
+    "name": "Revenue Stream Hijacking & Trust Fraud",
+    "date": "2026-04-30T09:01:34.947578"
+  },
+  "digitwin": {
+    "stocks": {
+      "diverted_revenue": 10269728.0,
+      "evidence_accumulated": 0.8500000238418579,
+      "ketoni_exposure": 18685000.0,
+      "legitimate_revenue": 5000000.0,
+      "trust_control": 0.6700000166893005
+    },
+    "cognitive_modes": [
+      "reward-seeking",
+      "reward-seeking",
+      "calm-rational",
+      "reward-seeking",
+      "baseline",
+      "reward-seeking"
+    ]
+  },
+  "lex_sim_nn": {
+    "verdict": {
+      "civil_probability": 0.5551101565361023,
+      "criminal_probability": 0.475617915391922,
+      "civil_met": true,
+      "criminal_met": false
+    },
+    "lens_attribution": {
+      "Temporal": 0.1428571194410324,
+      "Documentary": 0.1428571492433548,
+      "Testimonial": 0.1428571492433548,
+      "Financial": 0.1428571492433548,
+      "Digital": 0.1428571492433548,
+      "Circumstantial": 0.1428571492433548,
+      "Corroborative": 0.1428571492433548
+    }
+  },
+  "neuro_nn": {
+    "red_team_critique": [
+      {
+        "category": "Trust Forgery",
+        "adversarial_score": 0.7452,
+        "gap_to_threshold": 0.0048,
+        "critique": "Defence will argue the \"pp Peter\" signature was authorized delegation, not forgery. They will claim Rynette had general authority to sign on Peter's behalf.",
+        "counter_strategy": "Counter with: (1) No power of attorney on record; (2) Trust Act requires personal signatures for trustee appointments; (3) Rynette wrote \"I have just signed\" in first person then signed \"pp Peter\" \u2014 proving she knew she was acting without authority; (4) Neither Daniel nor Jacqueline were informed as required by the Trust Deed.",
+        "evidence_needed": [
+          "Power of attorney search (negative proof)",
+          "Trust deed clause on trustee appointment",
+          "Master of High Court records"
+        ]
+      },
+      {
+        "category": "Revenue Diversion",
+        "adversarial_score": 0.7305,
+        "gap_to_threshold": 0.0195,
+        "critique": "Defence will argue the FNB-to-ABSA switch was a legitimate business decision by majority directors to protect company funds.",
+        "counter_strategy": "Counter with: (1) Daniel held SOLE mandate at FNB \u2014 no board resolution existed to change banks; (2) 100+ client emails redirecting payments were sent without board authority; (3) The ABSA accounts were opened without Daniel's knowledge; (4) SARS banking details were changed via impersonation (\"logged in as you\").",
+        "evidence_needed": [
+          "FNB FICA/KYC records proving sole mandate",
+          "Board resolution search (negative proof)",
+          "ABSA account opening documents"
+        ]
+      },
+      {
+        "category": "Sage System Capture",
+        "adversarial_score": 0.7194,
+        "gap_to_threshold": 0.0306,
+        "critique": "Defence will argue the Sage transfer was a routine administrative change after an employee death.",
+        "counter_strategy": "Counter with: (1) Peter swore a FALSE affidavit claiming Kayla \"recently died\" \u2014 she died 12 months earlier; (2) The transfer severed the Stock2Shop invoice pipeline; (3) Rynette's own emails document the \"sinking\" problems she caused; (4) The timing (10 days after trust forgery) proves coordination.",
+        "evidence_needed": [
+          "Sage affidavit text",
+          "Kayla death certificate date",
+          "Stock2Shop integration logs"
+        ]
+      },
+      {
+        "category": "Bantjies Conflicts",
+        "adversarial_score": 0.7452,
+        "gap_to_threshold": 0.0048,
+        "critique": "Defence will argue Bantjies' multiple roles are common in small business and do not constitute conflicts of interest.",
+        "counter_strategy": "Counter with: (1) Six documented conflicts including Commissioner of Oaths on his own affidavit; (2) CFO of George Group (Ketoni's parent) while trustee of FFT (Ketoni's creditor); (3) \"I will manufacture an answer\" email proves willingness to fabricate; (4) Trust Act s9 requires trustees to avoid conflicts.",
+        "evidence_needed": [
+          "George Group / Ketoni corporate structure",
+          "Trust Act s9 citation",
+          "SAICA ethical rules"
+        ]
+      },
+      {
+        "category": "Ketoni Motive",
+        "adversarial_score": 0.7489,
+        "gap_to_threshold": 0.0011,
+        "critique": "Defence will argue the Ketoni investment is legally unrelated to the revenue diversion and corporate control dispute.",
+        "counter_strategy": "Counter with: (1) Temporal convergence \u2014 ALL control actions occurred T-9 to T-13 months before May 2026 payout; (2) Bantjies installed as trustee to control distribution; (3) Kevin Derrick connection proves insider knowledge; (4) Ketoni AFS 2024 confirms R18.685M obligation.",
+        "evidence_needed": [
+          "Ketoni AFS 2024 (attached)",
+          "Ketoni Shareholder Agreement (attached)",
+          "Timeline convergence analysis"
+        ]
+      },
+      {
+        "category": "POPIA Violations",
+        "adversarial_score": 0.655,
+        "gap_to_threshold": 0.095,
+        "critique": "Defence will argue that Rynette had authorized access to systems and that the dispute is about managerial authorization, not criminal misuse.",
+        "counter_strategy": "Counter with: (1) POPIA s14 requires purpose limitation \u2014 access for bookkeeping \u2260 access for impersonation; (2) Credential sharing (\"logged in as you\") violates s19 security safeguards; (3) Post-exposure data destruction (Sage capture) violates s14(4) retention requirements.",
+        "evidence_needed": [
+          "POPIA sections 14, 19, 20 citations",
+          "System access logs",
+          "Rynette's original job description"
+        ]
+      },
+      {
+        "category": "Corporate Structure Concealment",
+        "adversarial_score": 0.7452,
+        "gap_to_threshold": 0.0048,
+        "critique": "Defence will argue the 4-group structure is Daniel's interpretation and that the companies operate as a single family business.",
+        "counter_strategy": "Counter with: (1) CIPC records objectively show different director/member compositions; (2) Daniel's June 6 email to Bantjies explicitly warned about inter-group transfers; (3) Companies Act s1 defines \"related\" and \"interrelated\" \u2014 these groups do NOT meet the statutory definition; (4) The ex parte application described a single \"group\" without disclosing the 4-group reality.",
+        "evidence_needed": [
+          "CIPC director records for all 22 entities",
+          "Dan June 6 email (DJF5)",
+          "Companies Act s1 definitions"
+        ]
+      },
+      {
+        "category": "Curatorship Fraud",
+        "adversarial_score": 0.5612,
+        "gap_to_threshold": 0.1888,
+        "critique": "Defence will argue the curatorship application was a genuine concern for Jacqueline's welfare.",
+        "counter_strategy": "Counter with: (1) Jacqueline signed the Main Trustee document 48 hours before the \"betrayal\"; (2) The curatorship would give Peter control of Jax's 1/3 trust share (R6.25M); (3) No medical evidence was presented to support the curatorship claim; (4) The timing coincides with the Ketoni payout approach.",
+        "evidence_needed": [
+          "Main Trustee document with date",
+          "Curatorship application papers",
+          "Medical evidence (absence thereof)"
+        ]
+      }
+    ],
+    "meta_cognition": {
+      "vulnerability_count": 8,
+      "overconfidence_detected": true,
+      "original_criminal_probability": 0.475617915391922,
+      "adjusted_criminal_probability": 0.1756,
+      "original_civil_probability": 0.5551101565361023,
+      "recommendation": "CIVIL PRIORITY: Proceed with civil action; strengthen criminal evidence."
+    }
+  },
+  "filing_scores": [
+    {
+      "filing": "Civil Action (Void Ab Initio)",
+      "type": "civil",
+      "burden_threshold": 0.5,
+      "raw_score": 0.8046,
+      "adversarial_score": 0.7402,
+      "burden_met": true,
+      "gap": 0,
+      "recommendation": "PROCEED"
+    },
+    {
+      "filing": "Criminal Case Submission",
+      "type": "criminal",
+      "burden_threshold": 0.95,
+      "raw_score": 0.7934,
+      "adversarial_score": 0.7299,
+      "burden_met": false,
+      "gap": 0.2201,
+      "recommendation": "STRENGTHEN EVIDENCE"
+    },
+    {
+      "filing": "CIPC Companies Act Complaint",
+      "type": "regulatory",
+      "burden_threshold": 0.5,
+      "raw_score": 0.806,
+      "adversarial_score": 0.7415,
+      "burden_met": true,
+      "gap": 0,
+      "recommendation": "PROCEED"
+    },
+    {
+      "filing": "POPIA Criminal Complaint",
+      "type": "regulatory",
+      "burden_threshold": 0.5,
+      "raw_score": 0.76,
+      "adversarial_score": 0.6992,
+      "burden_met": true,
+      "gap": 0,
+      "recommendation": "PROCEED"
+    },
+    {
+      "filing": "Commercial Crime Submission",
+      "type": "criminal",
+      "burden_threshold": 0.95,
+      "raw_score": 0.7808,
+      "adversarial_score": 0.7183,
+      "burden_met": false,
+      "gap": 0.2317,
+      "recommendation": "STRENGTHEN EVIDENCE"
+    },
+    {
+      "filing": "NPA Tax Fraud Report",
+      "type": "criminal",
+      "burden_threshold": 0.95,
+      "raw_score": 0.7911,
+      "adversarial_score": 0.7278,
+      "burden_met": false,
+      "gap": 0.2222,
+      "recommendation": "STRENGTHEN EVIDENCE"
+    },
+    {
+      "filing": "SAICA Professional Misconduct",
+      "type": "regulatory",
+      "burden_threshold": 0.5,
+      "raw_score": 0.8068,
+      "adversarial_score": 0.7423,
+      "burden_met": true,
+      "gap": 0,
+      "recommendation": "PROCEED"
+    },
+    {
+      "filing": "Responding Affidavit (Reconsideration)",
+      "type": "civil",
+      "burden_threshold": 0.5,
+      "raw_score": 0.784,
+      "adversarial_score": 0.7213,
+      "burden_met": true,
+      "gap": 0,
+      "recommendation": "PROCEED"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "annexure_reference": "Annexure F2: Rynette directs Bantjes \u2014 Loan account between Strategic and RWD (17 Aug 2021)",
+  "extraction_timestamp": "2026-03-15T04:17:19.758822Z",
+  "pipeline": "Neon DB \u2192 Graph API body/attachment sync \u2192 EML generation \u2192 Transport header fetch",
+  "file_integrity": {
+    "file_size_bytes": 5694,
+    "md5": "2e882e8ae5db8efb48fa9199ace6c0a7",
+    "sha256": "9cd02a0036efe1b99e480e4e042ec89ac8e8d7dc4e7c434b7f1b8abbb1c57b76"
+  },
+  "message_identity": {
+    "db_id": "AAMkADMxMzkyY2FlLWNkMGEtNGM2My04OWFiLTNlZDRjNzkyNGUyMwBGAAAAAABIsq-8QjwARI3ssx6PhE4uBwAjJKKwT3w2RaZw2KOPO0ZiAAA-JWQ5AAAjJKKwT3w2RaZw2KOPO0ZiAAA-JZiGAAA=",
+    "internet_message_id": "<DB9PR08MB656939958B44644505F21795BAFE9@DB9PR08MB6569.eurprd08.prod.outlook.com>",
+    "conversation_id": "AAQkADMxMzkyY2FlLWNkMGEtNGM2My04OWFiLTNlZDRjNzkyNGUyMwAQABWiyiX2ikTBhVyN7lYgsok="
+  },
+  "envelope": {
+    "subject": "Loan account between Strategic and Regima World Wide",
+    "from_name": "Rynette Farrar",
+    "from_address": "rynette@regima.zone",
+    "to_recipients": "",
+    "cc_recipients": "[{'name': 'JAX@REGIMA.COM', 'address': 'JAX@regima.com'}, {'name': 'PETE@REGIMA.COM', 'address': 'pete@regima.com'}, {'name': 'Jacqui Faucitt', 'address': 'jax@regima.zone'}]",
+    "received_datetime": "2021-08-17 14:27:00+00:00",
+    "sent_datetime": "2021-08-17 14:27:23+00:00"
+  },
+  "mailbox_context": {
+    "user_id": "52a423b7-13e7-4599-8d6f-c833ebce69d7",
+    "folder_name": null
+  },
+  "body": {
+    "content_type": "html",
+    "body_length_chars": 3636,
+    "preview": "Hi Danie,\r\n\r\nWe need to do the following to fix the two loans account in Regima World Wide\u2019s books:\r\n\r\n\r\nDebit      5468/000\r\nCredit     7400/000 with R1 000 000.00 date 25/08/2020\r\n\r\n\r\nDebit      5468/000\r\nCredit     7400/000 with R310 500.00 date 28/08/"
+  },
+  "attachments": [],
+  "transport_forensics": {
+    "available": false,
+    "authentication": {},
+    "transport_hops": [],
+    "exchange_transport": {},
+    "origin": {},
+    "raw_header_count": 0,
+    "transport_hops_count": 0
+  },
+  "chain_of_custody": {
+    "source": "Microsoft 365 Exchange Online (tenant 89727f2e-27c2-4f69-893c-f30d821bc83d)",
+    "extraction_method": "Microsoft Graph API v1.0 (client credentials flow)",
+    "storage": "Neon PostgreSQL (exchange_sync schema)",
+    "verification": "SPF/DKIM/DMARC authentication via internet message headers",
+    "integrity": "SHA-256 hash of generated EML file"
+  }
+}

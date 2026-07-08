@@ -1,0 +1,60 @@
+{
+  "_schema": "exoml-forensic/v1",
+  "_generated": "2026-03-10T08:04:25.935446+00:00",
+  "file_integrity": {
+    "eml_file": "rzo.io/0023_2022-03-23_0411_d@rzo.io_RE__WWD_Books.eml",
+    "file_size_bytes": 5443,
+    "md5": "16d45f391d3f81a90ea693371eed250d",
+    "sha1": "bc4aa189030fdf134cf11a463cd91e639afc8ed9",
+    "sha256": "f9fe4acaa9a8725b7bf86a5b2103e2b7cb5e65409267252898fff5baa33b80b6"
+  },
+  "message_identity": {
+    "db_id": 516,
+    "exchange_message_id": "AAMkAGE2YjljZjA1LTRlOWUtNDhjYi1iZjNkLWI4ZWRlNDQwYTU0MABGAAAAAADPgXCfMl5uRqA6Xxa9Yh33BwAh607i92PMQLMLAH3HB5h5AAAAAAEJAAAh607i92PMQLMLAH3HB5h5AAXH5SNaAAA=",
+    "conversation_id": "AAQkAGE2YjljZjA1LTRlOWUtNDhjYi1iZjNkLWI4ZWRlNDQwYTU0MAAQAPHWyHP1TUhvrY2g76MtYbY="
+  },
+  "envelope": {
+    "subject": "RE: WWD Books",
+    "from_name": "Daniel Faucitt",
+    "from_address": "d@rzo.io",
+    "to_recipients": [
+      {
+        "emailAddress": {
+          "name": "Rynette Farrar",
+          "address": "rynette@regima.zone"
+        }
+      }
+    ],
+    "cc_recipients": [
+      {
+        "emailAddress": {
+          "name": "JAX@REGIMA.COM",
+          "address": "JAX@REGIMA.COM"
+        }
+      },
+      {
+        "emailAddress": {
+          "name": "PETE@REGIMA.COM",
+          "address": "PETE@REGIMA.COM"
+        }
+      },
+      {
+        "emailAddress": {
+          "name": "Jacqui Faucitt",
+          "address": "jax@regima.zone"
+        }
+      }
+    ],
+    "received_datetime": "2022-03-23 04:11:00"
+  },
+  "mailbox_context": {
+    "user_email": "d@rzo.io",
+    "user_name": "Daniel Faucitt"
+  },
+  "body": {
+    "content_type": "html",
+    "preview": "Hi Rynette\r\n\r\nFor the Worldwide Rezonance account the initial forex estimate from USD is an estimate – now that we have the actual ZAR transaction amounts I just have to adjust the forex rates for each transaction so the invoice amount corresponds with th",
+    "body_length_chars": 3363
+  },
+  "attachments": []
+}

@@ -1,0 +1,273 @@
+{
+  "generated": "2026-07-06T13:57:16.390254",
+  "accounts_audited": 8,
+  "results": [
+    {
+      "account": "62134839127",
+      "entity": "RST",
+      "name": "RST Savings (R3.09M Sep 11 dest)",
+      "sheets": [
+        "Summary",
+        "Ledger",
+        "Continuity"
+      ],
+      "status": "AUDITED",
+      "summary_rows": 136,
+      "statement_statuses": {
+        "FAIL": 1,
+        "NO_CLOSING": 76,
+        "PASS": 59
+      },
+      "ledger_rows": 655,
+      "headers": [
+        "Statement",
+        "Date",
+        "Description",
+        "Amount",
+        "Recorded Balance",
+        "Formula Balance",
+        "Delta",
+        "OK",
+        "Source"
+      ],
+      "total_transactions": 655,
+      "delta_mismatches": 34,
+      "blank_dates": 0,
+      "suspicious_dates": 0,
+      "mismatch_rate": 5.19,
+      "perfection_status": "NEEDS_WORK",
+      "continuity_rows": 136,
+      "continuity_gaps": 136
+    },
+    {
+      "account": "62593375829",
+      "entity": "SLG",
+      "name": "SLG Savings (R640K Sep 11 dest)",
+      "sheets": [
+        "Summary",
+        "Ledger",
+        "Continuity"
+      ],
+      "status": "AUDITED",
+      "summary_rows": 49,
+      "statement_statuses": {
+        "FAIL": 3,
+        "NO_CLOSING": 25,
+        "PASS": 21
+      },
+      "ledger_rows": 240,
+      "headers": [
+        "Statement",
+        "Date",
+        "Description",
+        "Amount",
+        "Recorded Balance",
+        "Formula Balance",
+        "Delta",
+        "OK",
+        "Source"
+      ],
+      "total_transactions": 240,
+      "delta_mismatches": 6,
+      "blank_dates": 0,
+      "suspicious_dates": 0,
+      "mismatch_rate": 2.5,
+      "perfection_status": "GOOD",
+      "continuity_rows": 49,
+      "continuity_gaps": 49
+    },
+    {
+      "account": "10000185174",
+      "error": "LEDGER.xlsx not found",
+      "status": "MISSING"
+    },
+    {
+      "account": "62089474309",
+      "entity": "DJF",
+      "name": "DJF Savings (Daniel personal)",
+      "sheets": [
+        "Summary",
+        "Ledger",
+        "Continuity"
+      ],
+      "status": "AUDITED",
+      "summary_rows": 33,
+      "statement_statuses": {
+        "NO_CLOSING": 27,
+        "PASS": 6
+      },
+      "ledger_rows": 2653,
+      "headers": [
+        "Statement",
+        "Date",
+        "Description",
+        "Amount",
+        "Recorded Balance",
+        "Formula Balance",
+        "Delta",
+        "OK",
+        "Source"
+      ],
+      "total_transactions": 2653,
+      "delta_mismatches": 276,
+      "blank_dates": 0,
+      "suspicious_dates": 0,
+      "mismatch_rate": 10.4,
+      "perfection_status": "NEEDS_WORK",
+      "continuity_rows": 33,
+      "continuity_gaps": 33
+    },
+    {
+      "account": "62462808290",
+      "entity": "DJF",
+      "name": "DJF Investment",
+      "sheets": [
+        "Summary",
+        "Ledger",
+        "Continuity"
+      ],
+      "status": "AUDITED",
+      "summary_rows": 13,
+      "statement_statuses": {
+        "FAIL": 2,
+        "PASS": 11
+      },
+      "ledger_rows": 478,
+      "headers": [
+        "Statement",
+        "Date",
+        "Description",
+        "Amount",
+        "Recorded Balance",
+        "Formula Balance",
+        "Delta",
+        "OK",
+        "Source"
+      ],
+      "total_transactions": 478,
+      "delta_mismatches": 0,
+      "blank_dates": 0,
+      "suspicious_dates": 0,
+      "mismatch_rate": 0.0,
+      "perfection_status": "PERFECT",
+      "continuity_rows": 13,
+      "continuity_gaps": 13
+    },
+    {
+      "account": "62471764946",
+      "entity": "DJF",
+      "name": "DJF CFC",
+      "sheets": [
+        "Summary",
+        "Ledger",
+        "Continuity"
+      ],
+      "status": "AUDITED",
+      "summary_rows": 80,
+      "statement_statuses": {
+        "NO_CLOSING": 4,
+        "PASS": 76
+      },
+      "ledger_rows": 1588,
+      "headers": [
+        "Statement",
+        "Date",
+        "Description",
+        "Amount",
+        "Recorded Balance",
+        "Formula Balance",
+        "Delta",
+        "OK",
+        "Source"
+      ],
+      "total_transactions": 1588,
+      "delta_mismatches": 88,
+      "blank_dates": 0,
+      "suspicious_dates": 0,
+      "mismatch_rate": 5.54,
+      "perfection_status": "NEEDS_WORK",
+      "continuity_rows": 80,
+      "continuity_gaps": 80
+    },
+    {
+      "account": "62027933606",
+      "entity": "JF",
+      "name": "JF Current (Jacqui personal)",
+      "sheets": [
+        "Summary",
+        "Ledger",
+        "Continuity"
+      ],
+      "status": "AUDITED",
+      "summary_rows": 135,
+      "statement_statuses": {
+        "NO_CLOSING": 2,
+        "PASS": 133
+      },
+      "ledger_rows": 1855,
+      "headers": [
+        "Statement",
+        "Date",
+        "Description",
+        "Amount",
+        "Recorded Balance",
+        "Formula Balance",
+        "Delta",
+        "OK",
+        "Source"
+      ],
+      "total_transactions": 1855,
+      "delta_mismatches": 0,
+      "blank_dates": 0,
+      "suspicious_dates": 0,
+      "mismatch_rate": 0.0,
+      "perfection_status": "PERFECT",
+      "continuity_rows": 135,
+      "continuity_gaps": 135
+    },
+    {
+      "account": "62812835744",
+      "entity": "VVA",
+      "name": "VVA Savings",
+      "sheets": [
+        "Summary",
+        "Ledger",
+        "Continuity"
+      ],
+      "status": "AUDITED",
+      "summary_rows": 36,
+      "statement_statuses": {
+        "NO_CLOSING": 13,
+        "FAIL": 3,
+        "PASS": 20
+      },
+      "ledger_rows": 327,
+      "headers": [
+        "Statement",
+        "Date",
+        "Description",
+        "Amount",
+        "Recorded Balance",
+        "Formula Balance",
+        "Delta",
+        "OK",
+        "Source"
+      ],
+      "total_transactions": 327,
+      "delta_mismatches": 36,
+      "blank_dates": 0,
+      "suspicious_dates": 0,
+      "mismatch_rate": 11.01,
+      "perfection_status": "NEEDS_WORK",
+      "continuity_rows": 36,
+      "continuity_gaps": 36
+    }
+  ],
+  "summary": {
+    "perfect": 2,
+    "near_perfect": 0,
+    "good": 1,
+    "needs_work": 4,
+    "missing": 1
+  }
+}

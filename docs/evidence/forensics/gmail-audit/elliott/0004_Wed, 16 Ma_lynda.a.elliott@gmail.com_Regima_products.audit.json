@@ -1,0 +1,439 @@
+{
+  "_schema": "gws-forensic-audit/v1",
+  "_generated": "2026-03-10T08:01:09.917007+00:00",
+  "_source": "gmail-api",
+  "message_identity": {
+    "gmail_id": "1636a844b093e4a0",
+    "thread_id": "1636a844b093e4a0",
+    "internet_message_id": "<C06DE1AC-311F-404D-8A05-6947C674433A@gmail.com>",
+    "label_ids": [
+      "UNREAD",
+      "CATEGORY_FORUMS",
+      "INBOX"
+    ],
+    "history_id": "27416759"
+  },
+  "envelope": {
+    "subject": "Regima products",
+    "from": "lynda.a.elliott@gmail.com",
+    "to": [
+      "uk@regima.com"
+    ],
+    "cc": [
+      "uk@regima.com"
+    ],
+    "bcc": [],
+    "reply_to": null,
+    "date": "Wed, 16 May 2018 20:53:58 +0100",
+    "sent_date": "Wed, 16 May 2018 20:53:58 +0100"
+  },
+  "origin": {
+    "client_ip": null,
+    "mailer": "iPhone Mail (15E302)",
+    "user_agent": null,
+    "return_path": "info+bncBCZ3NZO6RMBRBXEY6LLQKGQEHLXXCPI@regima.com",
+    "x_google_smtp_source": "AB8JxZpYiYZRovZN3L3DqfzVUMCd5vBXH91F8kyCPeoWjAvwMpmYXKiNJbZh/Porfd0W6VFy9AuvDQ==",
+    "x_gm_message_state": "ALKqPwd4NLXYXebzhuBnuW9bZ7c8MpG6I2M1ao1/rzR8zJuIXE8i6vKl LRlpNwizXQLz4eBCMPaliJWFxCEq"
+  },
+  "authentication": {
+    "spf": "neutral",
+    "dkim": "pass",
+    "dmarc": "pass",
+    "compauth": null,
+    "received_spf": "pass (google.com: domain of lynda.a.elliott@gmail.com designates 209.85.220.41 as permitted sender) client-ip=209.85.220.41;",
+    "arc_results": [
+      "i=4; mx.google.com;       dkim=pass header.i=@regima-com.20150623.gappssmtp.com header.s=20150623 header.b=WIFE7sAD;       arc=pass (i=3 dkim=pass dkdomain=gmail.com dmarc=pass fromdomain=gmail.com);       spf=neutral (google.com: 209.85.220.69 is neither permitted nor denied by best guess record for domain of info+bncbcz3nzo6rmbrbxey6llqkgqehlxxcpi@regima.com) smtp.mailfrom=info+bncBCZ3NZO6RMBRBXEY6LLQKGQEHLXXCPI@regima.com;       dmarc=fail (p=NONE sp=QUARANTINE dis=NONE arc=pass) header.from=gmail.com",
+      "i=3; mx.google.com;       dkim=pass header.i=@gmail.com header.s=20161025 header.b=PqDRYAg2;       arc=pass (i=1 spf=pass spfdomain=gmail.com dkim=pass dkdomain=gmail.com dmarc=pass fromdomain=gmail.com);       spf=neutral (google.com: 209.85.220.41 is neither permitted nor denied by best guess record for domain of catchall+caf_=info=regima.com@regima.com) smtp.mailfrom=catchall+caf_=info=regima.com@regima.com;       dmarc=pass (p=NONE sp=QUARANTINE dis=NONE) header.from=gmail.com",
+      "i=2; mx.google.com;       dkim=pass header.i=@gmail.com header.s=20161025 header.b=PqDRYAg2;       arc=pass (i=1 spf=pass spfdomain=gmail.com dkim=pass dkdomain=gmail.com dmarc=pass fromdomain=gmail.com);       spf=neutral (google.com: 209.85.220.41 is neither permitted nor denied by best guess record for domain of catchall+caf_=info=regima.com@regima.com) smtp.mailfrom=catchall+caf_=info=regima.com@regima.com;       dmarc=pass (p=NONE sp=QUARANTINE dis=NONE) header.from=gmail.com",
+      "i=1; mx.google.com;       dkim=pass header.i=@gmail.com header.s=20161025 header.b=PqDRYAg2;       spf=pass (google.com: domain of lynda.a.elliott@gmail.com designates 209.85.220.41 as permitted sender) smtp.mailfrom=lynda.a.elliott@gmail.com;       dmarc=pass (p=NONE sp=QUARANTINE dis=NONE) header.from=gmail.com"
+    ],
+    "dkim_signatures": [
+      "v=1; a=rsa-sha256; c=relaxed/relaxed;        d=regima-com.20150623.gappssmtp.com; s=20150623;        h=delivered-to:from:content-transfer-encoding:mime-version:date         :subject:message-id:cc:to:x-original-sender         :x-original-authentication-results:precedence:mailing-list:list-id         :list-post:list-help:list-archive:list-unsubscribe;        bh=L+1IQaqSbdL6J3O3c2gqLl3jNgJRWxiGSLpJsdo0cgY=;        b=WIFE7sADKzvK5ayewYyPfL8hNBUxPTMZ+0i8uzhB89XnzgeenJ4iIMiSEsu0EA+4mw         tD6sZ5HPt7kNkG1aTkQoIZxeIgse+6VpI26QbiPLI8EyMRdf4fjOkb2u87f60hZbRaxN         rsmSpc2UDAmDMOT8fTnO2fJxO7Sq9bvYBAjRnWP8bAURy472s0z6EBHTpzd7NfmHahJu         RFYLMGU+W/hoQtYNSE6ZjCq+g4ApPuWVnFaKfWop0+iXZAGYqmJidNG14eiSb1YB2QP+         0jdg8TnZCLyf0c6/fEtutk19lhEp1Lw0PferxS7kPOVUbAQM+mK9mfbLuYc8Kb1gvOIi         8czQ=="
+    ],
+    "google_dkim_signatures": [
+      "v=1; a=rsa-sha256; c=relaxed/relaxed;        d=1e100.net; s=20161025;        h=x-gm-message-state:delivered-to:from:content-transfer-encoding         :mime-version:date:subject:message-id:cc:to:x-original-sender         :x-original-authentication-results:precedence:mailing-list:list-id         :list-post:list-help:list-archive:list-unsubscribe;        bh=L+1IQaqSbdL6J3O3c2gqLl3jNgJRWxiGSLpJsdo0cgY=;        b=aVu79h6AjIi4mwPHsfWpxfH6nw1bkjtXqi49ge9oXijurAqlzHzkYbm2YcVxfTTca7         Pvr3ElxopID1fQrNLt4djbu1FsaQCDo7Ypc79KiWZwDbBtL/JqTQm31fsQ2fY2hUOQMj         xvm4nYkid9ha8TboFs9s8o6cPjZUpgLAByTYfDuKnzQOnLo4JvlLqHPP17V9C1BtjCch         ul/XsRM3BtllSf+lEBfPZY+8ifbT5f0FofTUGmbHHMMBkDYFm7Dxs35IBA9fBhCpizN5         851o2tQ2sna/aASKzUoitbC9THDKqr1eyo145mrr7llnkxxerZkxBxUfreHSfJLJUbMz         jafQ=="
+    ],
+    "raw_auth_results": [
+      "mx.google.com;       dkim=pass header.i=@regima-com.20150623.gappssmtp.com header.s=20150623 header.b=WIFE7sAD;       arc=pass (i=3 dkim=pass dkdomain=gmail.com dmarc=pass fromdomain=gmail.com);       spf=neutral (google.com: 209.85.220.69 is neither permitted nor denied by best guess record for domain of info+bncbcz3nzo6rmbrbxey6llqkgqehlxxcpi@regima.com) smtp.mailfrom=info+bncBCZ3NZO6RMBRBXEY6LLQKGQEHLXXCPI@regima.com;       dmarc=fail (p=NONE sp=QUARANTINE dis=NONE arc=pass) header.from=gmail.com"
+    ]
+  },
+  "transport_hops": [
+    {
+      "hop": 1,
+      "from_server": null,
+      "from_ip": "82.36.142.79",
+      "by_server": "smtp.gmail.com",
+      "by_ip": null,
+      "with_protocol": "ESMTPSA",
+      "via": null,
+      "id": "b133-v6sm3593607wmh.12.2018.05.16.12.53.59",
+      "for_recipient": null,
+      "timestamp": "Wed, 16 May 2018 12:54:00 -0700 (PDT)",
+      "tls": "TLS1_2",
+      "raw": "from [192.168.0.3] (cpc130666-camd16-2-0-cust590.know.cable.virginm.net. [82.36.142.79])        by smtp.gmail.com with ESMTPSA id b133-v6sm3593607wmh.12.2018.05.16.12.53.59        for <uk@regima.com>        (version=TLS1_2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);        Wed, 16 May 2018 12:54:00 -0700 (PDT)"
+    },
+    {
+      "hop": 2,
+      "from_server": "mail-sor-f41.google.com",
+      "from_ip": "209.85.220.41",
+      "by_server": "mx.google.com",
+      "by_ip": null,
+      "with_protocol": "SMTPS",
+      "via": null,
+      "id": "n6-v6sor1149614wmg.0.2018.05.16.12.54.01",
+      "for_recipient": null,
+      "timestamp": "Wed, 16 May 2018 12:54:02 -0700 (PDT)",
+      "tls": null,
+      "raw": "from mail-sor-f41.google.com (mail-sor-f41.google.com. [209.85.220.41])        by mx.google.com with SMTPS id n6-v6sor1149614wmg.0.2018.05.16.12.54.01        for <uk@regima.com>        (Google Transport Security);        Wed, 16 May 2018 12:54:02 -0700 (PDT)"
+    },
+    {
+      "hop": 3,
+      "from_server": null,
+      "from_ip": null,
+      "by_server": "2002",
+      "by_ip": null,
+      "with_protocol": "SMTP",
+      "via": null,
+      "id": "x17-v6csp3406676vsc",
+      "for_recipient": null,
+      "timestamp": "Wed, 16 May 2018 12:54:02 -0700 (PDT)",
+      "tls": null,
+      "raw": "by 2002:a67:7c11:0:0:0:0:0 with SMTP id x17-v6csp3406676vsc;        Wed, 16 May 2018 12:54:02 -0700 (PDT)"
+    },
+    {
+      "hop": 4,
+      "from_server": "mail-sor-f41.google.com",
+      "from_ip": "209.85.220.41",
+      "by_server": "mx.google.com",
+      "by_ip": null,
+      "with_protocol": "SMTPS",
+      "via": null,
+      "id": "o13-v6sor2811786vkc.74.2018.05.16.12.54.04",
+      "for_recipient": null,
+      "timestamp": "Wed, 16 May 2018 12:54:04 -0700 (PDT)",
+      "tls": null,
+      "raw": "from mail-sor-f41.google.com (mail-sor-f41.google.com. [209.85.220.41])        by mx.google.com with SMTPS id o13-v6sor2811786vkc.74.2018.05.16.12.54.04        for <info@regima.com>        (Google Transport Security);        Wed, 16 May 2018 12:54:04 -0700 (PDT)"
+    },
+    {
+      "hop": 5,
+      "from_server": null,
+      "from_ip": null,
+      "by_server": "2002",
+      "by_ip": null,
+      "with_protocol": "SMTP",
+      "via": null,
+      "id": "x15-v6ls2113911vkd.21.gmail",
+      "for_recipient": null,
+      "timestamp": "Wed, 16 May 2018 12:54:04 -0700 (PDT)",
+      "tls": null,
+      "raw": "by 2002:a1f:950f:: with SMTP id x15-v6ls2113911vkd.21.gmail; Wed, 16 May 2018 12:54:04 -0700 (PDT)"
+    },
+    {
+      "hop": 6,
+      "from_server": "mail-sor-f69.google.com",
+      "from_ip": "209.85.220.69",
+      "by_server": "mx.google.com",
+      "by_ip": null,
+      "with_protocol": "SMTPS",
+      "via": null,
+      "id": "d24-v6sor2474364uah.121.2018.05.16.12.54.04",
+      "for_recipient": null,
+      "timestamp": "Wed, 16 May 2018 12:54:04 -0700 (PDT)",
+      "tls": null,
+      "raw": "from mail-sor-f69.google.com (mail-sor-f69.google.com. [209.85.220.69])        by mx.google.com with SMTPS id d24-v6sor2474364uah.121.2018.05.16.12.54.04        for <dan@regima.com>        (Google Transport Security);        Wed, 16 May 2018 12:54:04 -0700 (PDT)"
+    },
+    {
+      "hop": 7,
+      "from_server": null,
+      "from_ip": null,
+      "by_server": "2002",
+      "by_ip": null,
+      "with_protocol": "SMTP",
+      "via": null,
+      "id": "q9-v6csp3946084ioh",
+      "for_recipient": null,
+      "timestamp": "Wed, 16 May 2018 12:54:04 -0700 (PDT)",
+      "tls": null,
+      "raw": "by 2002:a6b:f209:0:0:0:0:0 with SMTP id q9-v6csp3946084ioh;        Wed, 16 May 2018 12:54:04 -0700 (PDT)"
+    }
+  ],
+  "google_transport": {
+    "x_google_dkim_signature": "v=1; a=rsa-sha256; c=relaxed/relaxed;        d=1e100.net; s=20161025;        h=x-gm-message-state:delivered-to:from:content-transfer-encoding         :mime-version:date:subject:message-id:cc:to:x-original-sender         :x-original-authentication-results:precedence:mailing-list:list-id         :list-post:list-help:list-archive:list-unsubscribe;        bh=L+1IQaqSbdL6J3O3c2gqLl3jNgJRWxiGSLpJsdo0cgY=;        b=aVu79h6AjIi4mwPHsfWpxfH6nw1bkjtXqi49ge9oXijurAqlzHzkYbm2YcVxfTTca7         Pvr3ElxopID1fQrNLt4djbu1FsaQCDo7Ypc79KiWZwDbBtL/JqTQm31fsQ2fY2hUOQMj         xvm4nYkid9ha8TboFs9s8o6cPjZUpgLAByTYfDuKnzQOnLo4JvlLqHPP17V9C1BtjCch         ul/XsRM3BtllSf+lEBfPZY+8ifbT5f0FofTUGmbHHMMBkDYFm7Dxs35IBA9fBhCpizN5         851o2tQ2sna/aASKzUoitbC9THDKqr1eyo145mrr7llnkxxerZkxBxUfreHSfJLJUbMz         jafQ==",
+    "x_gm_message_state": "ALKqPwd4NLXYXebzhuBnuW9bZ7c8MpG6I2M1ao1/rzR8zJuIXE8i6vKl LRlpNwizXQLz4eBCMPaliJWFxCEq",
+    "x_google_smtp_source": "AB8JxZpYiYZRovZN3L3DqfzVUMCd5vBXH91F8kyCPeoWjAvwMpmYXKiNJbZh/Porfd0W6VFy9AuvDQ==",
+    "delivered_to": "uk@regima.com",
+    "x_forwarded_to": "info@regima.com",
+    "x_forwarded_for": "catchall@regima.com info@regima.com",
+    "precedence": "list",
+    "list_unsubscribe": "<mailto:googlegroups-manage+67457107791+unsubscribe@googlegroups.com>, <https://groups.google.com/a/regima.com/group/info/subscribe>",
+    "mime_version": "1.0 (1.0)",
+    "content_type": "text/plain; charset=us-ascii",
+    "google_properties": {
+      "group-id": "67457107791"
+    }
+  },
+  "mailbox_context": {
+    "user_email": "dan@regima.com",
+    "label_ids": [
+      "UNREAD",
+      "CATEGORY_FORUMS",
+      "INBOX"
+    ],
+    "snippet": "Hi I would like to know where I can purchase skincare products in the UK please. Best, Lynda",
+    "size_estimate": 14496,
+    "internal_date": "1526500438000"
+  },
+  "raw_headers": [
+    {
+      "name": "Delivered-To",
+      "value": "dan@regima.com"
+    },
+    {
+      "name": "Received",
+      "value": "by 2002:a6b:f209:0:0:0:0:0 with SMTP id q9-v6csp3946084ioh;        Wed, 16 May 2018 12:54:04 -0700 (PDT)"
+    },
+    {
+      "name": "X-Received",
+      "value": "by 2002:a1f:a54:: with SMTP id 81-v6mr1999198vkk.184.1526500444753;        Wed, 16 May 2018 12:54:04 -0700 (PDT)"
+    },
+    {
+      "name": "ARC-Seal",
+      "value": "i=4; a=rsa-sha256; t=1526500444; cv=pass;        d=google.com; s=arc-20160816;        b=ycwlLetUAzc6D+R+z4zNJLWcq/nrUQ6AQX3GgEaHITnJvFrsQxTbn7sNMsdTZV9PTL         7hRTzwMjMBA4zMPkEowlrXkGlAjRRliizBDbth+BYKFI8C3mTzUFpJT5J2G/J8jHBOK3         qL257d3SHGBMS3TzOjAh/b/iPirtv2M+Qg0FU2Bp7GCuDjgyfZnYfOeItXQ6KkHS04SA         bNDpxGQgObClC1i8Xjgx1ZiRDy7Hlqq4GDdf9dnonERsSqHIrp2RrBkNAX/zyX/XXxfd         7WxtcxN3xY1GGbnpd171sYPFUd5EmyH28twdqIa8Wrj1whUF/pMUJ7dwqaX/19Ddqr3H         EzRQ=="
+    },
+    {
+      "name": "ARC-Message-Signature",
+      "value": "i=4; a=rsa-sha256; c=relaxed/relaxed; d=google.com; s=arc-20160816;        h=list-unsubscribe:list-archive:list-help:list-post:list-id         :mailing-list:precedence:to:cc:message-id:subject:date:mime-version         :content-transfer-encoding:from:arc-authentication-results         :arc-message-signature:delivered-to:arc-authentication-results         :arc-message-signature:dkim-signature:arc-authentication-results         :arc-message-signature:arc-authentication-results;        bh=L+1IQaqSbdL6J3O3c2gqLl3jNgJRWxiGSLpJsdo0cgY=;        b=XiCKyUL4gJB18iTTVXF6ofmz4MTfnFYFmAXp6fwkUk3pzuk5Yr3orMsCYIhkt9AWWj         VxEzzHqVn6wsgL1dl5mKFNKI28HZMNzuXDPTX/e1xUSL/qqw0Ma40TEsc/Sf1drNjiEV         Gft2W5RG89ot6wvjE1OhbwxBIjm47mZbzyBh1D5WMaT76NC5ypzyMSBKjIOoR1+LhZqw         p/J+NT6mch2MUYu1CLQPAnEA8thN52TxbiYKzgiNPksubI2u4ZtFViNJJWOKDAwlOilw         Q1UU/mR9bg3bQR+Y9b14w92jD3zkeJUSv50Kyl56Qe78Wrvm7h0Rr1D1kYwBVKxVErFX         uuww=="
+    },
+    {
+      "name": "ARC-Authentication-Results",
+      "value": "i=4; mx.google.com;       dkim=pass header.i=@regima-com.20150623.gappssmtp.com header.s=20150623 header.b=WIFE7sAD;       arc=pass (i=3 dkim=pass dkdomain=gmail.com dmarc=pass fromdomain=gmail.com);       spf=neutral (google.com: 209.85.220.69 is neither permitted nor denied by best guess record for domain of info+bncbcz3nzo6rmbrbxey6llqkgqehlxxcpi@regima.com) smtp.mailfrom=info+bncBCZ3NZO6RMBRBXEY6LLQKGQEHLXXCPI@regima.com;       dmarc=fail (p=NONE sp=QUARANTINE dis=NONE arc=pass) header.from=gmail.com"
+    },
+    {
+      "name": "Return-Path",
+      "value": "<info+bncBCZ3NZO6RMBRBXEY6LLQKGQEHLXXCPI@regima.com>"
+    },
+    {
+      "name": "Received",
+      "value": "from mail-sor-f69.google.com (mail-sor-f69.google.com. [209.85.220.69])        by mx.google.com with SMTPS id d24-v6sor2474364uah.121.2018.05.16.12.54.04        for <dan@regima.com>        (Google Transport Security);        Wed, 16 May 2018 12:54:04 -0700 (PDT)"
+    },
+    {
+      "name": "Received-SPF",
+      "value": "neutral (google.com: 209.85.220.69 is neither permitted nor denied by best guess record for domain of info+bncbcz3nzo6rmbrbxey6llqkgqehlxxcpi@regima.com) client-ip=209.85.220.69;"
+    },
+    {
+      "name": "Authentication-Results",
+      "value": "mx.google.com;       dkim=pass header.i=@regima-com.20150623.gappssmtp.com header.s=20150623 header.b=WIFE7sAD;       arc=pass (i=3 dkim=pass dkdomain=gmail.com dmarc=pass fromdomain=gmail.com);       spf=neutral (google.com: 209.85.220.69 is neither permitted nor denied by best guess record for domain of info+bncbcz3nzo6rmbrbxey6llqkgqehlxxcpi@regima.com) smtp.mailfrom=info+bncBCZ3NZO6RMBRBXEY6LLQKGQEHLXXCPI@regima.com;       dmarc=fail (p=NONE sp=QUARANTINE dis=NONE arc=pass) header.from=gmail.com"
+    },
+    {
+      "name": "ARC-Seal",
+      "value": "i=3; a=rsa-sha256; t=1526500444; cv=pass;        d=google.com; s=arc-20160816;        b=juJc1lTfPQBrnYd6W2wh7UIVP7x/isy1alBp6NFxqMaRFxAYU6WuRoZrf1GYR5gj95         1Kq+yfxj7AdWJxbRyxT422mw826MAIUD535oTOzV+H/VG1VPwMz7/C9FX7+QLoqNEZc3         AKlamCeP+vKx6VkvqvebBO/Qoji0zYk7ths17wE84J8vQWhJdJWWJkRLO4YrNLuT+acq         RDxc/DmWBB+kZx0r9ndAdJ4Rx4T4WvJwV2PPe+Ir71y7yxGIrYz3j4GgQZjBI2zOVRyk         KFjGhGVEioRh6ZPhSoFomWqfllNkvzl6JxmK+hiH8Via4OREf1X8hyKyyeGatgRs4nrQ         o0sA=="
+    },
+    {
+      "name": "ARC-Message-Signature",
+      "value": "i=3; a=rsa-sha256; c=relaxed/relaxed; d=google.com; s=arc-20160816;        h=list-unsubscribe:list-archive:list-help:list-post:list-id         :mailing-list:precedence:to:cc:message-id:subject:date:mime-version         :content-transfer-encoding:from:arc-authentication-results         :arc-message-signature:delivered-to:arc-authentication-results         :arc-message-signature:dkim-signature:arc-authentication-results;        bh=L+1IQaqSbdL6J3O3c2gqLl3jNgJRWxiGSLpJsdo0cgY=;        b=fE8fVpbsI5KNxSx8kv3kcABQucD2fxW4GwTQQuWlvgJQMv/azlCn/TRqTR64pji3YU         OGIRRzY0b5e2GXNrly1nd2QBEWMRHgbRbDUyLuJEyUy6tsk7a8uOZQ8tCoIfyXcHZAH2         CQYGeBLKP7z2GpkO59iYmc4oF0sOzFLJv4XzDGdGnwpBhpwSN7brvmBTIekDJ5Kh9qQi         EuVZKP1AYNui1IK7diRGzP8WIGKxUCLd2yAjQxPIuLToQ+I7qIXsae0l7OQrvx+l4WFd         lSyRf7J+oYCEALwYI3F0AP/j9URJi6T7O/M1OH4E51/UI3Yj/anbu/NLkoY5IhfEwxiF         /8aA=="
+    },
+    {
+      "name": "ARC-Authentication-Results",
+      "value": "i=3; mx.google.com;       dkim=pass header.i=@gmail.com header.s=20161025 header.b=PqDRYAg2;       arc=pass (i=1 spf=pass spfdomain=gmail.com dkim=pass dkdomain=gmail.com dmarc=pass fromdomain=gmail.com);       spf=neutral (google.com: 209.85.220.41 is neither permitted nor denied by best guess record for domain of catchall+caf_=info=regima.com@regima.com) smtp.mailfrom=catchall+caf_=info=regima.com@regima.com;       dmarc=pass (p=NONE sp=QUARANTINE dis=NONE) header.from=gmail.com"
+    },
+    {
+      "name": "DKIM-Signature",
+      "value": "v=1; a=rsa-sha256; c=relaxed/relaxed;        d=regima-com.20150623.gappssmtp.com; s=20150623;        h=delivered-to:from:content-transfer-encoding:mime-version:date         :subject:message-id:cc:to:x-original-sender         :x-original-authentication-results:precedence:mailing-list:list-id         :list-post:list-help:list-archive:list-unsubscribe;        bh=L+1IQaqSbdL6J3O3c2gqLl3jNgJRWxiGSLpJsdo0cgY=;        b=WIFE7sADKzvK5ayewYyPfL8hNBUxPTMZ+0i8uzhB89XnzgeenJ4iIMiSEsu0EA+4mw         tD6sZ5HPt7kNkG1aTkQoIZxeIgse+6VpI26QbiPLI8EyMRdf4fjOkb2u87f60hZbRaxN         rsmSpc2UDAmDMOT8fTnO2fJxO7Sq9bvYBAjRnWP8bAURy472s0z6EBHTpzd7NfmHahJu         RFYLMGU+W/hoQtYNSE6ZjCq+g4ApPuWVnFaKfWop0+iXZAGYqmJidNG14eiSb1YB2QP+         0jdg8TnZCLyf0c6/fEtutk19lhEp1Lw0PferxS7kPOVUbAQM+mK9mfbLuYc8Kb1gvOIi         8czQ=="
+    },
+    {
+      "name": "X-Google-DKIM-Signature",
+      "value": "v=1; a=rsa-sha256; c=relaxed/relaxed;        d=1e100.net; s=20161025;        h=x-gm-message-state:delivered-to:from:content-transfer-encoding         :mime-version:date:subject:message-id:cc:to:x-original-sender         :x-original-authentication-results:precedence:mailing-list:list-id         :list-post:list-help:list-archive:list-unsubscribe;        bh=L+1IQaqSbdL6J3O3c2gqLl3jNgJRWxiGSLpJsdo0cgY=;        b=aVu79h6AjIi4mwPHsfWpxfH6nw1bkjtXqi49ge9oXijurAqlzHzkYbm2YcVxfTTca7         Pvr3ElxopID1fQrNLt4djbu1FsaQCDo7Ypc79KiWZwDbBtL/JqTQm31fsQ2fY2hUOQMj         xvm4nYkid9ha8TboFs9s8o6cPjZUpgLAByTYfDuKnzQOnLo4JvlLqHPP17V9C1BtjCch         ul/XsRM3BtllSf+lEBfPZY+8ifbT5f0FofTUGmbHHMMBkDYFm7Dxs35IBA9fBhCpizN5         851o2tQ2sna/aASKzUoitbC9THDKqr1eyo145mrr7llnkxxerZkxBxUfreHSfJLJUbMz         jafQ=="
+    },
+    {
+      "name": "X-Gm-Message-State",
+      "value": "ALKqPwd4NLXYXebzhuBnuW9bZ7c8MpG6I2M1ao1/rzR8zJuIXE8i6vKl LRlpNwizXQLz4eBCMPaliJWFxCEq"
+    },
+    {
+      "name": "X-Google-Smtp-Source",
+      "value": "AB8JxZpYiYZRovZN3L3DqfzVUMCd5vBXH91F8kyCPeoWjAvwMpmYXKiNJbZh/Porfd0W6VFy9AuvDQ=="
+    },
+    {
+      "name": "X-Received",
+      "value": "by 2002:ab0:4124:: with SMTP id j33-v6mr1982617uad.1.1526500444575;        Wed, 16 May 2018 12:54:04 -0700 (PDT)"
+    },
+    {
+      "name": "X-BeenThere",
+      "value": "info@regima.com"
+    },
+    {
+      "name": "Received",
+      "value": "by 2002:a1f:950f:: with SMTP id x15-v6ls2113911vkd.21.gmail; Wed, 16 May 2018 12:54:04 -0700 (PDT)"
+    },
+    {
+      "name": "X-Received",
+      "value": "by 2002:a1f:85d5:: with SMTP id h204-v6mr2069166vkd.122.1526500444352;        Wed, 16 May 2018 12:54:04 -0700 (PDT)"
+    },
+    {
+      "name": "ARC-Seal",
+      "value": "i=2; a=rsa-sha256; t=1526500444; cv=pass;        d=google.com; s=arc-20160816;        b=kG3wLU1h5M9eX7mfaaulaJ6xIY7lJ2OaKdyZZOb10xOSZt/h4U+JkffgmRfV0glZwz         qUBvB6LduDFCBtpr4GrGvmihXGlUTuHLH1c6FMbAuWyIGuiS1554lQZTzt/mBPcMczR8         VHHtx1yk6suKBKwyr7QIP4xJs1bMx4ngE+1KY2emsXM60QUe897YZIZz3TBbxNITgfe0         ndbup9dX/cGNwAHHKLItmNZbAek84JDAPUe5hIriGv42WE/R9dS++j90AijwVWPO+ozE         vOCrgk/GTD18QAxTHt8URWbpCsSmLqkdfDjn3QGLDszFp876ERUkb8S8AFjdvv4vmv+t         2b7A=="
+    },
+    {
+      "name": "ARC-Message-Signature",
+      "value": "i=2; a=rsa-sha256; c=relaxed/relaxed; d=google.com; s=arc-20160816;        h=to:cc:message-id:subject:date:mime-version         :content-transfer-encoding:from:dkim-signature         :arc-authentication-results:arc-message-signature:delivered-to         :arc-authentication-results;        bh=L+1IQaqSbdL6J3O3c2gqLl3jNgJRWxiGSLpJsdo0cgY=;        b=xKdJ1gYZe94/N5vfdDbrrQMIrZFntNGhBVFjQjT6IegD/HA3N+YIm3lCFLGY1T37eY         xM1wif795FeMdonwa0vDxO7Ekty9voP0OHA2V81bXSG6OTAeixvZIqu7rsnFX3IDQBr9         matNWnaBrbJ4QKLQmjMorSF1jdaI2DM4c/0qUupsDTRMKfzveqhr7xQ5rFEHvLsE8GXu         FftdRhztKe+SpC9+x7NLVJ0B04zNqzmmagFGG6S1gBGQgDMcM3CyTbD/+DF4iRkpa71a         5T5c98i7MVJHygiuwVOGk5nITgS1eJoodNOBC5PCbfGMhR6xpy8YZCruHFqkSzyoGY82         kHig=="
+    },
+    {
+      "name": "ARC-Authentication-Results",
+      "value": "i=2; mx.google.com;       dkim=pass header.i=@gmail.com header.s=20161025 header.b=PqDRYAg2;       arc=pass (i=1 spf=pass spfdomain=gmail.com dkim=pass dkdomain=gmail.com dmarc=pass fromdomain=gmail.com);       spf=neutral (google.com: 209.85.220.41 is neither permitted nor denied by best guess record for domain of catchall+caf_=info=regima.com@regima.com) smtp.mailfrom=catchall+caf_=info=regima.com@regima.com;       dmarc=pass (p=NONE sp=QUARANTINE dis=NONE) header.from=gmail.com"
+    },
+    {
+      "name": "Received",
+      "value": "from mail-sor-f41.google.com (mail-sor-f41.google.com. [209.85.220.41])        by mx.google.com with SMTPS id o13-v6sor2811786vkc.74.2018.05.16.12.54.04        for <info@regima.com>        (Google Transport Security);        Wed, 16 May 2018 12:54:04 -0700 (PDT)"
+    },
+    {
+      "name": "Received-SPF",
+      "value": "neutral (google.com: 209.85.220.41 is neither permitted nor denied by best guess record for domain of catchall+caf_=info=regima.com@regima.com) client-ip=209.85.220.41;"
+    },
+    {
+      "name": "X-Received",
+      "value": "by 2002:a1f:308b:: with SMTP id w133-v6mr2150024vkw.62.1526500443939;        Wed, 16 May 2018 12:54:03 -0700 (PDT)"
+    },
+    {
+      "name": "X-Forwarded-To",
+      "value": "info@regima.com"
+    },
+    {
+      "name": "X-Forwarded-For",
+      "value": "catchall@regima.com info@regima.com"
+    },
+    {
+      "name": "Delivered-To",
+      "value": "uk@regima.com"
+    },
+    {
+      "name": "Received",
+      "value": "by 2002:a67:7c11:0:0:0:0:0 with SMTP id x17-v6csp3406676vsc;        Wed, 16 May 2018 12:54:02 -0700 (PDT)"
+    },
+    {
+      "name": "X-Received",
+      "value": "by 2002:adf:d4c8:: with SMTP id w8-v6mr2186548wrk.8.1526500442203;        Wed, 16 May 2018 12:54:02 -0700 (PDT)"
+    },
+    {
+      "name": "ARC-Seal",
+      "value": "i=1; a=rsa-sha256; t=1526500442; cv=none;        d=google.com; s=arc-20160816;        b=fr0CldRz1+cJEKNRLEYy0h+HQ4QEx8/ugcskqk+Ujunji7dV2xwbr217c+geHbWPh7         fbbnDqDU6i2A2QJEQ5ixLSQKdy7+uvbzWQklttSmUEAWzMATsDg0/RReeYtVVyPsepiU         SFXNxV+emmjEJLo/NxUb7Wh50EE8E/mO1l2dagoxGbGN+eKr3jc1o6QL3qGb0knfdw2U         zx2lBby6YvXexzbNToSSPLPuA0EbzImuo8ZGprKDr/XjjTX0qSswzLQRsTLqJVlplxbF         TpAzdvCj9RpPLDTSpMcwkRJo+Iy55lbSXviQRDGXrIr2rKKVVzKHphTJgpq/0n8dOKAe         PWJQ=="
+    },
+    {
+      "name": "ARC-Message-Signature",
+      "value": "i=1; a=rsa-sha256; c=relaxed/relaxed; d=google.com; s=arc-20160816;        h=to:cc:message-id:subject:date:mime-version         :content-transfer-encoding:from:dkim-signature         :arc-authentication-results;        bh=L+1IQaqSbdL6J3O3c2gqLl3jNgJRWxiGSLpJsdo0cgY=;        b=xtIiq6+zVwg6gdIfBYcj3IfNoIXfokhoY+tGMviBSrxr934WHopGjV3XKimCdxSmYn         VSdgQScdwAYB0Qzke5kXv1ujSMw4K4RHMWu1Q2Klb2G9uV1GgPhKOsIvbuDuXNdyqnZk         O1tj0uaFWCDE51ZuBZwfKWi82gGfsv3T9cM0DXqGl/bYrpOHWRTBwU9RgnvYvrQhYDeo         ZWY6EeTJjHsTMyC7q+y/6pTijTSlH+vSHZz4uw3jlu8y9uTUgwz2Yx4ZiLBgj4w5zSN+         Pc86xhT50Uh0viSPfYtUUmGld31riwDsdZbLqug/ZtIUUeq0jr1BNfK7nFN8G7KL0+eE         Yfug=="
+    },
+    {
+      "name": "ARC-Authentication-Results",
+      "value": "i=1; mx.google.com;       dkim=pass header.i=@gmail.com header.s=20161025 header.b=PqDRYAg2;       spf=pass (google.com: domain of lynda.a.elliott@gmail.com designates 209.85.220.41 as permitted sender) smtp.mailfrom=lynda.a.elliott@gmail.com;       dmarc=pass (p=NONE sp=QUARANTINE dis=NONE) header.from=gmail.com"
+    },
+    {
+      "name": "Received",
+      "value": "from mail-sor-f41.google.com (mail-sor-f41.google.com. [209.85.220.41])        by mx.google.com with SMTPS id n6-v6sor1149614wmg.0.2018.05.16.12.54.01        for <uk@regima.com>        (Google Transport Security);        Wed, 16 May 2018 12:54:02 -0700 (PDT)"
+    },
+    {
+      "name": "Received-SPF",
+      "value": "pass (google.com: domain of lynda.a.elliott@gmail.com designates 209.85.220.41 as permitted sender) client-ip=209.85.220.41;"
+    },
+    {
+      "name": "X-Received",
+      "value": "by 2002:a1c:15c3:: with SMTP id 186-v6mr1706207wmv.39.1526500441308;        Wed, 16 May 2018 12:54:01 -0700 (PDT)"
+    },
+    {
+      "name": "Received",
+      "value": "from [192.168.0.3] (cpc130666-camd16-2-0-cust590.know.cable.virginm.net. [82.36.142.79])        by smtp.gmail.com with ESMTPSA id b133-v6sm3593607wmh.12.2018.05.16.12.53.59        for <uk@regima.com>        (version=TLS1_2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);        Wed, 16 May 2018 12:54:00 -0700 (PDT)"
+    },
+    {
+      "name": "From",
+      "value": "Lynda Elliott <lynda.a.elliott@gmail.com>"
+    },
+    {
+      "name": "Content-Type",
+      "value": "text/plain; charset=us-ascii"
+    },
+    {
+      "name": "Content-Transfer-Encoding",
+      "value": "quoted-printable"
+    },
+    {
+      "name": "Mime-Version",
+      "value": "1.0 (1.0)"
+    },
+    {
+      "name": "Date",
+      "value": "Wed, 16 May 2018 20:53:58 +0100"
+    },
+    {
+      "name": "Subject",
+      "value": "Regima products"
+    },
+    {
+      "name": "Message-Id",
+      "value": "<C06DE1AC-311F-404D-8A05-6947C674433A@gmail.com>"
+    },
+    {
+      "name": "Cc",
+      "value": "uk@regima.com"
+    },
+    {
+      "name": "To",
+      "value": "uk@regima.com"
+    },
+    {
+      "name": "X-Mailer",
+      "value": "iPhone Mail (15E302)"
+    },
+    {
+      "name": "X-Original-Sender",
+      "value": "lynda.a.elliott@gmail.com"
+    },
+    {
+      "name": "X-Original-Authentication-Results",
+      "value": "mx.google.com;       dkim=pass header.i=@gmail.com header.s=20161025 header.b=PqDRYAg2;       arc=pass (i=1 spf=pass spfdomain=gmail.com dkim=pass dkdomain=gmail.com dmarc=pass fromdomain=gmail.com);       spf=neutral (google.com: 209.85.220.41 is neither permitted nor denied by best guess record for domain of catchall+caf_=info=regima.com@regima.com) smtp.mailfrom=catchall+caf_=info=regima.com@regima.com;       dmarc=pass (p=NONE sp=QUARANTINE dis=NONE) header.from=gmail.com"
+    },
+    {
+      "name": "Precedence",
+      "value": "list"
+    },
+    {
+      "name": "Mailing-list",
+      "value": "list info@regima.com; contact info+owners@regima.com"
+    },
+    {
+      "name": "List-ID",
+      "value": "<info.regima.com>"
+    },
+    {
+      "name": "X-Google-Group-Id",
+      "value": "67457107791"
+    },
+    {
+      "name": "List-Post",
+      "value": "<https://groups.google.com/a/regima.com/group/info/post>, <mailto:info@regima.com>"
+    },
+    {
+      "name": "List-Help",
+      "value": "<https://support.google.com/a/regima.com/bin/topic.py?topic=25838>, <mailto:info+help@regima.com>"
+    },
+    {
+      "name": "List-Archive",
+      "value": "<https://groups.google.com/a/regima.com/group/info/>"
+    },
+    {
+      "name": "List-Unsubscribe",
+      "value": "<mailto:googlegroups-manage+67457107791+unsubscribe@googlegroups.com>, <https://groups.google.com/a/regima.com/group/info/subscribe>"
+    }
+  ],
+  "transport_summary": {
+    "total_hops": 7,
+    "origin_ip": null,
+    "first_relay": null,
+    "final_relay": "2002",
+    "auth_verdict": {
+      "spf": "neutral",
+      "dkim": "pass",
+      "dmarc": "pass"
+    }
+  },
+  "_file_integrity": {
+    "sha256": "034d62d4c7cea96451f5378d1256f3fad434f6d9c3be4109e725211febf5253a",
+    "size_bytes": 28393
+  }
+}

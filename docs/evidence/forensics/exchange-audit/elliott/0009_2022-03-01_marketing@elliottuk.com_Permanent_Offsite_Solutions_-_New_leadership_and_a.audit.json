@@ -1,0 +1,354 @@
+{
+  "_schema": "exchange-forensic-audit/v1",
+  "_generated": "2026-03-10T07:57:09.533853+00:00",
+  "_source": "microsoft-graph-api",
+  "message_identity": {
+    "exchange_id": "AAMkAGYzMDVmNzkwLWNmZjMtNDBjZC04ZmY4LTRkNGEzNTgxMjU2MABGAAAAAADPi1nZV45aRY1s43jJ3tfJBwCtp_82Ac8MTK2-lmRJoPi9AAAAAAEMAACpChlY1MKaRbKdNPbWwiIjAASrppqYAAA=",
+    "internet_message_id": "<1646143267929.8b2fe45d-0724-453e-adf0-6929b925c751@bf02x.hubspotemail.net>",
+    "conversation_id": "AAQkAGYzMDVmNzkwLWNmZjMtNDBjZC04ZmY4LTRkNGEzNTgxMjU2MAAQAI8Ex3i-VwlJq1xtOoyptMc=",
+    "network_message_id": "d0061980-732a-43f7-26a1-08d9fb8cb68d"
+  },
+  "envelope": {
+    "subject": "Permanent Offsite Solutions - New leadership and a new future",
+    "from": "marketing@elliottuk.com",
+    "to": [
+      "uk@regima.zone"
+    ],
+    "cc": [],
+    "date": "2022-03-01T14:06:49Z",
+    "sent_date": "2022-03-01T14:06:42Z"
+  },
+  "origin": {
+    "client_ip": null,
+    "mailer": null,
+    "user_agent": null,
+    "auth_source": null,
+    "auth_as": null,
+    "return_path": "1axbx5pitppgx5a5uu3vicgkaqh6ba2mpy1im3-uk=regima.zone@bf02x.hubspotemail.net"
+  },
+  "authentication": {
+    "spf": "pass",
+    "dkim": "pass",
+    "dmarc": "pass",
+    "compauth": "pass reason=100",
+    "arc_results": [],
+    "dkim_signatures": [
+      "v=1; s=hs1; d=bf02x.hubspotemail.net;         i=@bf02x.hubspotemail.net;         h=sender:from:reply-to:to:subject:mime-version:content-type:list-unsubscribe:form-sub:feedback-id;         a=rsa-sha256; c=relaxed/relaxed;         bh=vzGBLMUFyhUC4knPneGGnYnYAFFnPSH2Q2CfUokVldI=;         b=dZF+WOzg0/CM5hHRn5CmkQWgFqMpMgZUEgS3uwnHg+B7UZqALewzuMUbTdun1s         TViWBKmTaLCHjd00u33zPXowTVAby27fVIukoUbsp2Yo4dnnIIFjd94BwUkDhlq         kL/s5EiGhU3/0UpeYldCp7A5JfUjZtdLFgsXqY/b0TfjPF/HQALyFN3/MKO1OTW         DEo15H+tVmaB+52XCsQ2oIxuyo65gL1Zny4EKlALFFww/o/aLFaD6pruGQsO8Yv         pxjMHw2B+PEaa937wexE7tHiO5/cTsaAOzW2nalRxloBsNj38D4o56fGwzZIEyd         fy+kH1WIHgHx7DxWCy7V6JHvn0HQ==; q=dns/txt; t=1646143602;         x=1646356002;",
+      "v=1; s=hs1; d=elliottuk.com; i=@elliottuk.com;         h=sender:from:reply-to:to:subject:mime-version:content-type:list-unsubscribe:form-sub:feedback-id;         a=rsa-sha256; c=relaxed/relaxed;         bh=vzGBLMUFyhUC4knPneGGnYnYAFFnPSH2Q2CfUokVldI=;         b=dVS3QVsBgs7x6Jwj/WbBw3tIJ/NbVWoH/Awr/j4F2tjjxb0U3gnknqWZW0O4/1         It8k2YK8vu3cllIWrh9oECOCLdb24HSK30TMLJEky4E6hqOX00Fo4SkNw3Ciquq         Tk0cf2kjOJUPg++c7SDWhH5V7vgfwqTlt3VOfYKj4VGjMwIAIM1uq7XeH2tJWAN         Xz6EaqDqRrtlzVXeLeH5PdmxcB9VsVjYHYWkiWKHx+sCuZ263yEenbRJXRfYNRx         I5O65dFcPg61/pvLMGnhVQ60xGiAHMTY9E2rW/DGR7Ruuc/hl5ShLzUaUVC3ao1         2bwHLxe10EAfxenU9reiMwZEce/g==; q=dns/txt; t=1646143602;         x=1646356002;"
+    ],
+    "raw_auth_results": [
+      "spf=pass (sender IP is 158.247.18.100) smtp.mailfrom=bf02x.hubspotemail.net; dkim=pass (signature was verified) header.d=bf02x.hubspotemail.net;dmarc=pass action=none header.from=elliottuk.com;compauth=pass reason=100"
+    ]
+  },
+  "transport_hops": [
+    {
+      "hop": 1,
+      "from_server": null,
+      "from_ip": null,
+      "by_server": "172.16.170.87",
+      "by_ip": null,
+      "with_protocol": "SMTP",
+      "via": null,
+      "id": "axhgpp6gfjb4az0mgwzei8e1dflvfy180id8ci",
+      "for_recipient": null,
+      "timestamp": "Tue, 1 Mar 2022 14:06:42 GMT",
+      "tls": null,
+      "raw": "by 172.16.170.87 with SMTP id axhgpp6gfjb4az0mgwzei8e1dflvfy180id8ci;        Tue, 1 Mar 2022 14:06:42 GMT"
+    },
+    {
+      "hop": 2,
+      "from_server": "bid46nq.bf02x.hubspotemail.net (158.247.18.100)",
+      "from_ip": "158.247.18.100",
+      "by_server": "AM5EUR03FT010.mail.protection.outlook.com",
+      "by_ip": "10.152.16.134",
+      "with_protocol": null,
+      "via": "Frontend",
+      "id": "15.20.5017.22",
+      "for_recipient": null,
+      "timestamp": "Tue, 1 Mar 2022 14:06:42 +0000",
+      "tls": "TLS1_2,",
+      "raw": "from bid46nq.bf02x.hubspotemail.net (158.247.18.100) by AM5EUR03FT010.mail.protection.outlook.com (10.152.16.134) with Microsoft SMTP Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.5017.22 via Frontend Transport; Tue, 1 Mar 2022 14:06:42 +0000"
+    },
+    {
+      "hop": 3,
+      "from_server": "AM5EUR03FT010.eop-EUR03.prod.protection.outlook.com (2603:10a6:20b:467:cafe::e4)",
+      "from_ip": "2603:10a6:20b:467:cafe::e4",
+      "by_server": "AS9PR06CA0130.outlook.office365.com",
+      "by_ip": null,
+      "with_protocol": null,
+      "via": "Frontend",
+      "id": "15.20.5017.23",
+      "for_recipient": null,
+      "timestamp": "Tue, 1 Mar 2022 14:06:42 +0000",
+      "tls": "TLS1_2,",
+      "raw": "from AM5EUR03FT010.eop-EUR03.prod.protection.outlook.com (2603:10a6:20b:467:cafe::e4) by AS9PR06CA0130.outlook.office365.com (2603:10a6:20b:467::17) with Microsoft SMTP Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.5017.23 via Frontend Transport; Tue, 1 Mar 2022 14:06:42 +0000"
+    },
+    {
+      "hop": 4,
+      "from_server": "AS9PR06CA0130.eurprd06.prod.outlook.com (2603:10a6:20b:467::17)",
+      "from_ip": "2603:10a6:20b:467::17",
+      "by_server": "AM6PR08MB5013.eurprd08.prod.outlook.com",
+      "by_ip": null,
+      "with_protocol": null,
+      "via": null,
+      "id": "15.20.5017.26",
+      "for_recipient": null,
+      "timestamp": "Tue, 1 Mar 2022 14:06:42 +0000",
+      "tls": "TLS1_2,",
+      "raw": "from AS9PR06CA0130.eurprd06.prod.outlook.com (2603:10a6:20b:467::17) by AM6PR08MB5013.eurprd08.prod.outlook.com (2603:10a6:20b:ef::21) with Microsoft SMTP Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.5017.26; Tue, 1 Mar 2022 14:06:42 +0000"
+    },
+    {
+      "hop": 5,
+      "from_server": "AM6PR08MB5013.eurprd08.prod.outlook.com (2603:10a6:20b:ef::21)",
+      "from_ip": "2603:10a6:20b:ef::21",
+      "by_server": "DB9PR08MB6585.eurprd08.prod.outlook.com",
+      "by_ip": null,
+      "with_protocol": "HTTPS",
+      "via": null,
+      "id": null,
+      "for_recipient": null,
+      "timestamp": "Tue, 1 Mar 2022 14:06:48 +0000",
+      "tls": null,
+      "raw": "from AM6PR08MB5013.eurprd08.prod.outlook.com (2603:10a6:20b:ef::21) by DB9PR08MB6585.eurprd08.prod.outlook.com with HTTPS; Tue, 1 Mar 2022 14:06:48 +0000"
+    }
+  ],
+  "exchange_transport": {
+    "spam_confidence_level": "1",
+    "cross_tenant_id": "89727f2e-27c2-4f69-893c-f30d821bc83d",
+    "cross_tenant_auth_source": "AM5EUR03FT010.eop-EUR03.prod.protection.outlook.com",
+    "cross_tenant_auth_as": "Anonymous",
+    "cross_tenant_from_entity": "Internet",
+    "cross_tenant_original_arrival": "01 Mar 2022 14:06:42.4457 (UTC)",
+    "network_message_id": "d0061980-732a-43f7-26a1-08d9fb8cb68d",
+    "message_hygiene": null,
+    "organization_properties": {
+      "expirationstarttime": "01 Mar 2022 14:06:42.6332 (UTC)",
+      "expirationstarttimereason": "OriginalSubmit",
+      "expirationinterval": "1:00:00:00.0000000",
+      "expirationintervalreason": "OriginalSubmit",
+      "messagedirectionality": "Incoming",
+      "authsource": "AM5EUR03FT010.eop-EUR03.prod.protection.outlook.com",
+      "authas": "Anonymous"
+    }
+  },
+  "mailbox_context": {
+    "user_email": "dan@regima.zone",
+    "folder_id": "AAMkAGYzMDVmNzkwLWNmZjMtNDBjZC04ZmY4LTRkNGEzNTgxMjU2MAAuAAAAAADPi1nZV45aRY1s43jJ3tfJAQCtp_82Ac8MTK2-lmRJoPi9AAAAAAEMAAA=",
+    "is_read": false,
+    "importance": "normal",
+    "inference_classification": "other"
+  },
+  "raw_headers": [
+    {
+      "name": "Received",
+      "value": "from AM6PR08MB5013.eurprd08.prod.outlook.com (2603:10a6:20b:ef::21) by DB9PR08MB6585.eurprd08.prod.outlook.com with HTTPS; Tue, 1 Mar 2022 14:06:48 +0000"
+    },
+    {
+      "name": "Received",
+      "value": "from AS9PR06CA0130.eurprd06.prod.outlook.com (2603:10a6:20b:467::17) by AM6PR08MB5013.eurprd08.prod.outlook.com (2603:10a6:20b:ef::21) with Microsoft SMTP Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.5017.26; Tue, 1 Mar 2022 14:06:42 +0000"
+    },
+    {
+      "name": "Received",
+      "value": "from AM5EUR03FT010.eop-EUR03.prod.protection.outlook.com (2603:10a6:20b:467:cafe::e4) by AS9PR06CA0130.outlook.office365.com (2603:10a6:20b:467::17) with Microsoft SMTP Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.5017.23 via Frontend Transport; Tue, 1 Mar 2022 14:06:42 +0000"
+    },
+    {
+      "name": "Received",
+      "value": "from bid46nq.bf02x.hubspotemail.net (158.247.18.100) by AM5EUR03FT010.mail.protection.outlook.com (10.152.16.134) with Microsoft SMTP Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.5017.22 via Frontend Transport; Tue, 1 Mar 2022 14:06:42 +0000"
+    },
+    {
+      "name": "Received",
+      "value": "by 172.16.170.87 with SMTP id axhgpp6gfjb4az0mgwzei8e1dflvfy180id8ci;        Tue, 1 Mar 2022 14:06:42 GMT"
+    },
+    {
+      "name": "Authentication-Results",
+      "value": "spf=pass (sender IP is 158.247.18.100) smtp.mailfrom=bf02x.hubspotemail.net; dkim=pass (signature was verified) header.d=bf02x.hubspotemail.net;dmarc=pass action=none header.from=elliottuk.com;compauth=pass reason=100"
+    },
+    {
+      "name": "Received-SPF",
+      "value": "Pass (protection.outlook.com: domain of bf02x.hubspotemail.net designates 158.247.18.100 as permitted sender) receiver=protection.outlook.com; client-ip=158.247.18.100; helo=bid46nq.bf02x.hubspotemail.net;"
+    },
+    {
+      "name": "DKIM-Signature",
+      "value": "v=1; s=hs1; d=bf02x.hubspotemail.net;         i=@bf02x.hubspotemail.net;         h=sender:from:reply-to:to:subject:mime-version:content-type:list-unsubscribe:form-sub:feedback-id;         a=rsa-sha256; c=relaxed/relaxed;         bh=vzGBLMUFyhUC4knPneGGnYnYAFFnPSH2Q2CfUokVldI=;         b=dZF+WOzg0/CM5hHRn5CmkQWgFqMpMgZUEgS3uwnHg+B7UZqALewzuMUbTdun1s         TViWBKmTaLCHjd00u33zPXowTVAby27fVIukoUbsp2Yo4dnnIIFjd94BwUkDhlq         kL/s5EiGhU3/0UpeYldCp7A5JfUjZtdLFgsXqY/b0TfjPF/HQALyFN3/MKO1OTW         DEo15H+tVmaB+52XCsQ2oIxuyo65gL1Zny4EKlALFFww/o/aLFaD6pruGQsO8Yv         pxjMHw2B+PEaa937wexE7tHiO5/cTsaAOzW2nalRxloBsNj38D4o56fGwzZIEyd         fy+kH1WIHgHx7DxWCy7V6JHvn0HQ==; q=dns/txt; t=1646143602;         x=1646356002;"
+    },
+    {
+      "name": "DKIM-Signature",
+      "value": "v=1; s=hs1; d=elliottuk.com; i=@elliottuk.com;         h=sender:from:reply-to:to:subject:mime-version:content-type:list-unsubscribe:form-sub:feedback-id;         a=rsa-sha256; c=relaxed/relaxed;         bh=vzGBLMUFyhUC4knPneGGnYnYAFFnPSH2Q2CfUokVldI=;         b=dVS3QVsBgs7x6Jwj/WbBw3tIJ/NbVWoH/Awr/j4F2tjjxb0U3gnknqWZW0O4/1         It8k2YK8vu3cllIWrh9oECOCLdb24HSK30TMLJEky4E6hqOX00Fo4SkNw3Ciquq         Tk0cf2kjOJUPg++c7SDWhH5V7vgfwqTlt3VOfYKj4VGjMwIAIM1uq7XeH2tJWAN         Xz6EaqDqRrtlzVXeLeH5PdmxcB9VsVjYHYWkiWKHx+sCuZ263yEenbRJXRfYNRx         I5O65dFcPg61/pvLMGnhVQ60xGiAHMTY9E2rW/DGR7Ruuc/hl5ShLzUaUVC3ao1         2bwHLxe10EAfxenU9reiMwZEce/g==; q=dns/txt; t=1646143602;         x=1646356002;"
+    },
+    {
+      "name": "Return-Path",
+      "value": "1axbx5pitppgx5a5uu3vicgkaqh6ba2mpy1im3-uk=regima.zone@bf02x.hubspotemail.net"
+    },
+    {
+      "name": "X-HS-Cid",
+      "value": "1axe44084shv9xppxr4jxtjrswfjcfhvb30tx7"
+    },
+    {
+      "name": "List-Unsubscribe",
+      "value": "<mailto:1axczfzb6pfi0x3gz3fqbxnxf4ua2nld8bks5r-uk=regima.zone@bf02x.hubspotemail.net?subject=unsubscribe>"
+    },
+    {
+      "name": "Date",
+      "value": "Tue, 1 Mar 2022 15:06:42 +0100"
+    },
+    {
+      "name": "From",
+      "value": "\"Elliott\" <marketing@elliottuk.com>"
+    },
+    {
+      "name": "Reply-To",
+      "value": "<marketing@elliottuk.com>"
+    },
+    {
+      "name": "To",
+      "value": "<uk@regima.zone>"
+    },
+    {
+      "name": "Message-ID",
+      "value": "<1646143267929.8b2fe45d-0724-453e-adf0-6929b925c751@bf02x.hubspotemail.net>"
+    },
+    {
+      "name": "Subject",
+      "value": "Permanent Offsite Solutions - New leadership and a new future"
+    },
+    {
+      "name": "MIME-Version",
+      "value": "1.0"
+    },
+    {
+      "name": "Content-Type",
+      "value": "multipart/alternative"
+    },
+    {
+      "name": "X-Report-Abuse-To",
+      "value": "abuse@hubspot.com (see https://policy.hubspot.com/abuse-complaints)"
+    },
+    {
+      "name": "X-MS-Exchange-Organization-ExpirationStartTime",
+      "value": "01 Mar 2022 14:06:42.6332 (UTC)"
+    },
+    {
+      "name": "X-MS-Exchange-Organization-ExpirationStartTimeReason",
+      "value": "OriginalSubmit"
+    },
+    {
+      "name": "X-MS-Exchange-Organization-ExpirationInterval",
+      "value": "1:00:00:00.0000000"
+    },
+    {
+      "name": "X-MS-Exchange-Organization-ExpirationIntervalReason",
+      "value": "OriginalSubmit"
+    },
+    {
+      "name": "X-MS-Exchange-Organization-Network-Message-Id",
+      "value": "d0061980-732a-43f7-26a1-08d9fb8cb68d"
+    },
+    {
+      "name": "X-EOPAttributedMessage",
+      "value": "0"
+    },
+    {
+      "name": "X-EOPTenantAttributedMessage",
+      "value": "89727f2e-27c2-4f69-893c-f30d821bc83d:0"
+    },
+    {
+      "name": "X-MS-Exchange-Organization-MessageDirectionality",
+      "value": "Incoming"
+    },
+    {
+      "name": "X-MS-PublicTrafficType",
+      "value": "Email"
+    },
+    {
+      "name": "X-MS-Exchange-Organization-AuthSource",
+      "value": "AM5EUR03FT010.eop-EUR03.prod.protection.outlook.com"
+    },
+    {
+      "name": "X-MS-Exchange-Organization-AuthAs",
+      "value": "Anonymous"
+    },
+    {
+      "name": "X-MS-Office365-Filtering-Correlation-Id",
+      "value": "d0061980-732a-43f7-26a1-08d9fb8cb68d"
+    },
+    {
+      "name": "X-MS-TrafficTypeDiagnostic",
+      "value": "AM6PR08MB5013:EE_"
+    },
+    {
+      "name": "X-MS-Exchange-Organization-SCL",
+      "value": "1"
+    },
+    {
+      "name": "X-Microsoft-Antispam",
+      "value": "BCL:0;"
+    },
+    {
+      "name": "X-Forefront-Antispam-Report",
+      "value": "CIP:158.247.18.100;CTRY:US;LANG:en;SCL:1;SRV:;IPV:NLI;SFV:NSPM;H:bid46nq.bf02x.hubspotemail.net;PTR:bid46nq.bf02x.hubspotemail.net;CAT:NONE;SFS:(13230001)(4636009)(42882007)(1096003)(83380400001)(83170400001)(8676002)(450100002)(58800400005)(34206002)(9686003)(7636003)(19627405001)(3450700001)(356005)(166002)(7596003)(5660300002)(336012)(76236003)(26005)(66574015)(33964004)(42186006)(130070200002)(579004);DIR:INB;"
+    },
+    {
+      "name": "X-Auto-Response-Suppress",
+      "value": "DR, OOF, AutoReply"
+    },
+    {
+      "name": "X-MS-Exchange-CrossTenant-OriginalArrivalTime",
+      "value": "01 Mar 2022 14:06:42.4457 (UTC)"
+    },
+    {
+      "name": "X-MS-Exchange-CrossTenant-Network-Message-Id",
+      "value": "d0061980-732a-43f7-26a1-08d9fb8cb68d"
+    },
+    {
+      "name": "X-MS-Exchange-CrossTenant-Id",
+      "value": "89727f2e-27c2-4f69-893c-f30d821bc83d"
+    },
+    {
+      "name": "X-MS-Exchange-CrossTenant-AuthSource",
+      "value": "AM5EUR03FT010.eop-EUR03.prod.protection.outlook.com"
+    },
+    {
+      "name": "X-MS-Exchange-CrossTenant-AuthAs",
+      "value": "Anonymous"
+    },
+    {
+      "name": "X-MS-Exchange-CrossTenant-FromEntityHeader",
+      "value": "Internet"
+    },
+    {
+      "name": "X-MS-Exchange-Transport-CrossTenantHeadersStamped",
+      "value": "AM6PR08MB5013"
+    },
+    {
+      "name": "X-MS-Exchange-Transport-EndToEndLatency",
+      "value": "00:00:05.9941571"
+    },
+    {
+      "name": "X-MS-Exchange-Processed-By-BccFoldering",
+      "value": "15.20.5017.027"
+    },
+    {
+      "name": "X-Microsoft-Antispam-Mailbox-Delivery",
+      "value": "ucf:0;jmr:0;auth:0;dest:I;ENG:(910001)(944506458)(944626604)(920097)(930097);"
+    },
+    {
+      "name": "X-Microsoft-Antispam-Message-Info",
+      "value": "M5AKe0Wfb/QbuKiZc/+rColM9d0tHoBNyb1PLAwiLG3Ogygs95AHZ9cRbLds/8mQE+D/pC+nGBNxL+6yOy+LMzzUFSMolLHLJQGMkI4/uoLxMQnwO43HTZ87KLTlKc/qYYFeZXQTzNiglV29zlA9WW0phHVmpXmN+ihMdsqQgyy2FIddsKdck7yb9wDC7IDcic6J6sWkHqyei9j6e1FNwoO224FNEMtRCJB7u/oPOf+ExJtPFvhHWiT0cicVihvLM/wEMZSV8rGhovxeirooQUGmTjp4Y2DcaaqexZ6CvLxc5wCgi9B6lKpi5sPDhqKWSD3HV4nLWFv8s/ifEqD8oChlGNnqURkDFI89BCXxqgTzdWNBGUCwQndqK3P0yCa8PHK6v75603QdoF62hhBXeZP2MsKjX8ge9vcNGHTjLZQmL6Q64ZSUo9V/m7P69ECmQR0N08ja0d+UUjP2YmjA8LxLkrAH3KZVtt9q0hOb+HPPXaaDWQrIEjCSMd9SngNvgeiKNibsRG/sFZpJggDDdpQXZULuZnchiK7UNFgSdm3n9/Gy8dgMVhCihfUK13ueWho/OBF6sfGPmPBHEAHfc9FHXJYkfmn21KqBNYt/rXdq7glPiMArW6I+Q3hkHP5vWL4C+fYDCChFzgRDFIicG++B5DwrlLtmVxmKzVuUMIWaNKVISzSRYPQQApc/T0wYQMXB0mc/FwGdxLUmQmoJXd41CNt3zwLYP/06/+16ApnlJGSNzEvLh0qNN9iXkYdh1fuTENcmllWXWuWRzBzbwIdl+49PTKOFktCG+Usp5hz0LLm4Cn5dMG5hvFBG3A7AkzTjB6TDTkZmoXXicfqkiS/nAm5p8KG2kZ6koKUlkM8BEmqxcNqWZAoULLPD/MSjfsekWiyqhgYdcQlJd6uSbc3h5BOPEhc2U6eFVFnCQPFEqJIDVzmLiLE4AvNcHBdbgJTGLFxo4aXsC8x2y4CvTqRnWSP/c3kKmkNyB8h3RVN5waOxb6VOobYc0x7JYY57MLWIRBD7OSaB/UEjUZgrRVwnZzuqaZmFIdPbm3QrpWejqNc7RTeUItp4EVotjdwNKO/PfolSBlrMwraPSyudm9MwuFTSFmWzOaX1Uk2icmkRHt7wL+DuZ62llhXM0nieRsanB8EVvHvsnqgcZ7yyX9n7A7/FactfsnCFFkYQwTuWpiSPVHVaNlSCeihVeT32b3n7LCuxuDvyVe53ELJAHNrXVJBZ3zhqailjfeiEgMQkgv7pVXeKv/V7iNx3NFRe8Vswk+H08RrYj0g2NvTzXwuqGcqLKu7c1w/xgTD/LKU8BC+AKBwOXIul1Jn/a25/yy+lRzNSA0NCv1oXShP5vxNZyISj9kV3X0PmhfIQVEM6P4JV+2lOUs0FPSKcl+FrJx4L/s4z6zml1s1gfwegd8Vs5IPWuseoNivY4ItPgW3QY+Z4SxgNd4/iD3o0RxEK1tSa3GgFz/eQL0x7tLl/Wm4fnaZIAQRE/VjPg1rye/7SpBHXKYD58ew1XSXy79Tay2PUx7LVQVAcj5gtNB2mGkD8ptdjVhc0dUvBXcnZhNm0/1PZLvFoFbQZuKIR7OtMXbN3mi/0/rqr8U7UyvdoVg0p8vk0jokmDBD1ADurXRyDtDC59iizA7CHnp1C1f28hJCyjcXQgglHFvsg9VdfHHykhGGdOG9gwS0gHfeOLqDB6Vck8UQ2Jq6vNFmNoHQRqEcMizJFZClO3hhJ17c2t5K5RIuwN08qKqy7gKtZ8g3IXPdxZdFbrIDO7cSapyL4wzSUmpwztd9ObumIXZvu3LCQgZFE7ofA65ETYHGAwZF9LQSbl/FxYBAXMlLcBxwm"
+    }
+  ],
+  "transport_summary": {
+    "total_hops": 5,
+    "origin_ip": null,
+    "first_relay": null,
+    "final_relay": "DB9PR08MB6585.eurprd08.prod.outlook.com",
+    "auth_verdict": {
+      "spf": "pass",
+      "dkim": "pass",
+      "dmarc": "pass"
+    }
+  },
+  "_file_integrity": {
+    "sha256": "7c8456ca611433acfa590e53407a7dcb2c27bcc6185a09e4d2750eeb6419a81b",
+    "size_bytes": 17721
+  }
+}

@@ -1,0 +1,5074 @@
+{
+  "BANK_001": {
+    "type": "entity",
+    "embedding": [
+      0.905,
+      0.95,
+      0.9,
+      0.7916666666666666,
+      0.95,
+      0.8
+    ],
+    "attention_bias": 0.5,
+    "matula_prime": 1,
+    "filing_relevance": {
+      "SCA_Opposition": 1.0,
+      "Part_B_Delinquency": 1.0,
+      "Rule_42_Rescission": 1.0,
+      "CIPC_Complaint": 1.0,
+      "LPC_Complaint": 1.0,
+      "POPIA_Complaint": 1.0,
+      "SARS_Tax_Fraud": 1.0,
+      "Criminal_Perjury": 1.0,
+      "NPA_Referral": 1.0,
+      "SAICA_Misconduct": 1.0
+    }
+  },
+  "BANK_ACCOUNT_001": {
+    "type": "entity",
+    "embedding": [
+      0.905,
+      0.95,
+      0.9,
+      0.7916666666666666,
+      0.95,
+      0.8
+    ],
+    "attention_bias": 0.5,
+    "matula_prime": 1,
+    "filing_relevance": {
+      "SCA_Opposition": 1.0,
+      "Part_B_Delinquency": 1.0,
+      "Rule_42_Rescission": 1.0,
+      "CIPC_Complaint": 1.0,
+      "LPC_Complaint": 1.0,
+      "POPIA_Complaint": 1.0,
+      "SARS_Tax_Fraud": 1.0,
+      "Criminal_Perjury": 1.0,
+      "NPA_Referral": 1.0,
+      "SAICA_Misconduct": 1.0
+    }
+  },
+  "BANK_ACCOUNT_002": {
+    "type": "entity",
+    "embedding": [
+      0.905,
+      0.95,
+      0.9,
+      0.7916666666666666,
+      0.95,
+      0.8
+    ],
+    "attention_bias": 0.5,
+    "matula_prime": 1,
+    "filing_relevance": {
+      "SCA_Opposition": 1.0,
+      "Part_B_Delinquency": 1.0,
+      "Rule_42_Rescission": 1.0,
+      "CIPC_Complaint": 1.0,
+      "LPC_Complaint": 1.0,
+      "POPIA_Complaint": 1.0,
+      "SARS_Tax_Fraud": 1.0,
+      "Criminal_Perjury": 1.0,
+      "NPA_Referral": 1.0,
+      "SAICA_Misconduct": 1.0
+    }
+  },
+  "BANK_ACCOUNT_003": {
+    "type": "entity",
+    "embedding": [
+      0.905,
+      0.95,
+      0.9,
+      0.7916666666666666,
+      0.95,
+      0.8
+    ],
+    "attention_bias": 0.5,
+    "matula_prime": 1,
+    "filing_relevance": {
+      "SCA_Opposition": 1.0,
+      "Part_B_Delinquency": 1.0,
+      "Rule_42_Rescission": 1.0,
+      "CIPC_Complaint": 1.0,
+      "LPC_Complaint": 1.0,
+      "POPIA_Complaint": 1.0,
+      "SARS_Tax_Fraud": 1.0,
+      "Criminal_Perjury": 1.0,
+      "NPA_Referral": 1.0,
+      "SAICA_Misconduct": 1.0
+    }
+  },
+  "BANK_ACCOUNT_004": {
+    "type": "entity",
+    "embedding": [
+      0.905,
+      0.95,
+      0.9,
+      0.7916666666666666,
+      0.95,
+      0.8
+    ],
+    "attention_bias": 0.5,
+    "matula_prime": 1,
+    "filing_relevance": {
+      "SCA_Opposition": 1.0,
+      "Part_B_Delinquency": 1.0,
+      "Rule_42_Rescission": 1.0,
+      "CIPC_Complaint": 1.0,
+      "LPC_Complaint": 1.0,
+      "POPIA_Complaint": 1.0,
+      "SARS_Tax_Fraud": 1.0,
+      "Criminal_Perjury": 1.0,
+      "NPA_Referral": 1.0,
+      "SAICA_Misconduct": 1.0
+    }
+  },
+  "BANK_ACCOUNT_005": {
+    "type": "entity",
+    "embedding": [
+      0.905,
+      0.95,
+      0.9,
+      0.7916666666666666,
+      0.95,
+      0.8
+    ],
+    "attention_bias": 0.5,
+    "matula_prime": 1,
+    "filing_relevance": {
+      "SCA_Opposition": 1.0,
+      "Part_B_Delinquency": 1.0,
+      "Rule_42_Rescission": 1.0,
+      "CIPC_Complaint": 1.0,
+      "LPC_Complaint": 1.0,
+      "POPIA_Complaint": 1.0,
+      "SARS_Tax_Fraud": 1.0,
+      "Criminal_Perjury": 1.0,
+      "NPA_Referral": 1.0,
+      "SAICA_Misconduct": 1.0
+    }
+  },
+  "BANK_ACCOUNT_ABSA": {
+    "type": "entity",
+    "embedding": [
+      0.905,
+      0.95,
+      0.9,
+      0.7916666666666666,
+      0.95,
+      0.8
+    ],
+    "attention_bias": 0.5,
+    "matula_prime": 1,
+    "filing_relevance": {
+      "SCA_Opposition": 1.0,
+      "Part_B_Delinquency": 1.0,
+      "Rule_42_Rescission": 1.0,
+      "CIPC_Complaint": 1.0,
+      "LPC_Complaint": 1.0,
+      "POPIA_Complaint": 1.0,
+      "SARS_Tax_Fraud": 1.0,
+      "Criminal_Perjury": 1.0,
+      "NPA_Referral": 1.0,
+      "SAICA_Misconduct": 1.0
+    }
+  },
+  "DOMAIN_001": {
+    "type": "entity",
+    "embedding": [
+      0.905,
+      0.95,
+      0.9,
+      0.7916666666666666,
+      0.95,
+      0.8
+    ],
+    "attention_bias": 0.5,
+    "matula_prime": 1,
+    "filing_relevance": {
+      "SCA_Opposition": 1.0,
+      "Part_B_Delinquency": 1.0,
+      "Rule_42_Rescission": 1.0,
+      "CIPC_Complaint": 1.0,
+      "LPC_Complaint": 1.0,
+      "POPIA_Complaint": 1.0,
+      "SARS_Tax_Fraud": 1.0,
+      "Criminal_Perjury": 1.0,
+      "NPA_Referral": 1.0,
+      "SAICA_Misconduct": 1.0
+    }
+  },
+  "DOMAIN_002": {
+    "type": "entity",
+    "embedding": [
+      0.905,
+      0.95,
+      0.9,
+      0.7916666666666666,
+      0.95,
+      0.8
+    ],
+    "attention_bias": 0.5,
+    "matula_prime": 1,
+    "filing_relevance": {
+      "SCA_Opposition": 1.0,
+      "Part_B_Delinquency": 1.0,
+      "Rule_42_Rescission": 1.0,
+      "CIPC_Complaint": 1.0,
+      "LPC_Complaint": 1.0,
+      "POPIA_Complaint": 1.0,
+      "SARS_Tax_Fraud": 1.0,
+      "Criminal_Perjury": 1.0,
+      "NPA_Referral": 1.0,
+      "SAICA_Misconduct": 1.0
+    }
+  },
+  "ORG_001": {
+    "type": "entity",
+    "embedding": [
+      0.905,
+      0.95,
+      0.9,
+      0.7916666666666666,
+      0.95,
+      0.8
+    ],
+    "attention_bias": 0.5,
+    "matula_prime": 1,
+    "filing_relevance": {
+      "SCA_Opposition": 1.0,
+      "Part_B_Delinquency": 1.0,
+      "Rule_42_Rescission": 1.0,
+      "CIPC_Complaint": 1.0,
+      "LPC_Complaint": 1.0,
+      "POPIA_Complaint": 1.0,
+      "SARS_Tax_Fraud": 1.0,
+      "Criminal_Perjury": 1.0,
+      "NPA_Referral": 1.0,
+      "SAICA_Misconduct": 1.0
+    }
+  },
+  "ORG_002": {
+    "type": "entity",
+    "embedding": [
+      0.905,
+      0.95,
+      0.9,
+      0.7916666666666666,
+      0.95,
+      0.8
+    ],
+    "attention_bias": 0.5,
+    "matula_prime": 1,
+    "filing_relevance": {
+      "SCA_Opposition": 1.0,
+      "Part_B_Delinquency": 1.0,
+      "Rule_42_Rescission": 1.0,
+      "CIPC_Complaint": 1.0,
+      "LPC_Complaint": 1.0,
+      "POPIA_Complaint": 1.0,
+      "SARS_Tax_Fraud": 1.0,
+      "Criminal_Perjury": 1.0,
+      "NPA_Referral": 1.0,
+      "SAICA_Misconduct": 1.0
+    }
+  },
+  "ORG_003": {
+    "type": "entity",
+    "embedding": [
+      0.905,
+      0.95,
+      0.9,
+      0.7916666666666666,
+      0.95,
+      0.8
+    ],
+    "attention_bias": 0.5,
+    "matula_prime": 1,
+    "filing_relevance": {
+      "SCA_Opposition": 1.0,
+      "Part_B_Delinquency": 1.0,
+      "Rule_42_Rescission": 1.0,
+      "CIPC_Complaint": 1.0,
+      "LPC_Complaint": 1.0,
+      "POPIA_Complaint": 1.0,
+      "SARS_Tax_Fraud": 1.0,
+      "Criminal_Perjury": 1.0,
+      "NPA_Referral": 1.0,
+      "SAICA_Misconduct": 1.0
+    }
+  },
+  "ORG_004": {
+    "type": "entity",
+    "embedding": [
+      0.905,
+      0.95,
+      0.9,
+      0.7916666666666666,
+      0.95,
+      0.8
+    ],
+    "attention_bias": 0.5,
+    "matula_prime": 1,
+    "filing_relevance": {
+      "SCA_Opposition": 1.0,
+      "Part_B_Delinquency": 1.0,
+      "Rule_42_Rescission": 1.0,
+      "CIPC_Complaint": 1.0,
+      "LPC_Complaint": 1.0,
+      "POPIA_Complaint": 1.0,
+      "SARS_Tax_Fraud": 1.0,
+      "Criminal_Perjury": 1.0,
+      "NPA_Referral": 1.0,
+      "SAICA_Misconduct": 1.0
+    }
+  },
+  "ORG_005": {
+    "type": "entity",
+    "embedding": [
+      0.905,
+      0.95,
+      0.9,
+      0.7916666666666666,
+      0.95,
+      0.8
+    ],
+    "attention_bias": 0.5,
+    "matula_prime": 1,
+    "filing_relevance": {
+      "SCA_Opposition": 1.0,
+      "Part_B_Delinquency": 1.0,
+      "Rule_42_Rescission": 1.0,
+      "CIPC_Complaint": 1.0,
+      "LPC_Complaint": 1.0,
+      "POPIA_Complaint": 1.0,
+      "SARS_Tax_Fraud": 1.0,
+      "Criminal_Perjury": 1.0,
+      "NPA_Referral": 1.0,
+      "SAICA_Misconduct": 1.0
+    }
+  },
+  "ORG_006": {
+    "type": "entity",
+    "embedding": [
+      0.905,
+      0.95,
+      0.9,
+      0.7916666666666666,
+      0.95,
+      0.8
+    ],
+    "attention_bias": 0.5,
+    "matula_prime": 1,
+    "filing_relevance": {
+      "SCA_Opposition": 1.0,
+      "Part_B_Delinquency": 1.0,
+      "Rule_42_Rescission": 1.0,
+      "CIPC_Complaint": 1.0,
+      "LPC_Complaint": 1.0,
+      "POPIA_Complaint": 1.0,
+      "SARS_Tax_Fraud": 1.0,
+      "Criminal_Perjury": 1.0,
+      "NPA_Referral": 1.0,
+      "SAICA_Misconduct": 1.0
+    }
+  },
+  "ORG_007": {
+    "type": "entity",
+    "embedding": [
+      0.905,
+      0.95,
+      0.9,
+      0.7916666666666666,
+      0.95,
+      0.8
+    ],
+    "attention_bias": 0.5,
+    "matula_prime": 1,
+    "filing_relevance": {
+      "SCA_Opposition": 1.0,
+      "Part_B_Delinquency": 1.0,
+      "Rule_42_Rescission": 1.0,
+      "CIPC_Complaint": 1.0,
+      "LPC_Complaint": 1.0,
+      "POPIA_Complaint": 1.0,
+      "SARS_Tax_Fraud": 1.0,
+      "Criminal_Perjury": 1.0,
+      "NPA_Referral": 1.0,
+      "SAICA_Misconduct": 1.0
+    }
+  },
+  "ORG_008": {
+    "type": "entity",
+    "embedding": [
+      0.905,
+      0.95,
+      0.9,
+      0.7916666666666666,
+      0.95,
+      0.8
+    ],
+    "attention_bias": 0.5,
+    "matula_prime": 1,
+    "filing_relevance": {
+      "SCA_Opposition": 1.0,
+      "Part_B_Delinquency": 1.0,
+      "Rule_42_Rescission": 1.0,
+      "CIPC_Complaint": 1.0,
+      "LPC_Complaint": 1.0,
+      "POPIA_Complaint": 1.0,
+      "SARS_Tax_Fraud": 1.0,
+      "Criminal_Perjury": 1.0,
+      "NPA_Referral": 1.0,
+      "SAICA_Misconduct": 1.0
+    }
+  },
+  "ORG_009": {
+    "type": "entity",
+    "embedding": [
+      0.905,
+      0.95,
+      0.9,
+      0.7916666666666666,
+      0.95,
+      0.8
+    ],
+    "attention_bias": 0.5,
+    "matula_prime": 1,
+    "filing_relevance": {
+      "SCA_Opposition": 1.0,
+      "Part_B_Delinquency": 1.0,
+      "Rule_42_Rescission": 1.0,
+      "CIPC_Complaint": 1.0,
+      "LPC_Complaint": 1.0,
+      "POPIA_Complaint": 1.0,
+      "SARS_Tax_Fraud": 1.0,
+      "Criminal_Perjury": 1.0,
+      "NPA_Referral": 1.0,
+      "SAICA_Misconduct": 1.0
+    }
+  },
+  "ORG_010": {
+    "type": "entity",
+    "embedding": [
+      0.905,
+      0.95,
+      0.9,
+      0.7916666666666666,
+      0.95,
+      0.8
+    ],
+    "attention_bias": 0.5,
+    "matula_prime": 1,
+    "filing_relevance": {
+      "SCA_Opposition": 1.0,
+      "Part_B_Delinquency": 1.0,
+      "Rule_42_Rescission": 1.0,
+      "CIPC_Complaint": 1.0,
+      "LPC_Complaint": 1.0,
+      "POPIA_Complaint": 1.0,
+      "SARS_Tax_Fraud": 1.0,
+      "Criminal_Perjury": 1.0,
+      "NPA_Referral": 1.0,
+      "SAICA_Misconduct": 1.0
+    }
+  },
+  "ORG_011": {
+    "type": "entity",
+    "embedding": [
+      0.905,
+      0.95,
+      0.9,
+      0.7916666666666666,
+      0.95,
+      0.8
+    ],
+    "attention_bias": 0.5,
+    "matula_prime": 1,
+    "filing_relevance": {
+      "SCA_Opposition": 1.0,
+      "Part_B_Delinquency": 1.0,
+      "Rule_42_Rescission": 1.0,
+      "CIPC_Complaint": 1.0,
+      "LPC_Complaint": 1.0,
+      "POPIA_Complaint": 1.0,
+      "SARS_Tax_Fraud": 1.0,
+      "Criminal_Perjury": 1.0,
+      "NPA_Referral": 1.0,
+      "SAICA_Misconduct": 1.0
+    }
+  },
+  "ORG_012": {
+    "type": "entity",
+    "embedding": [
+      0.905,
+      0.95,
+      0.9,
+      0.7916666666666666,
+      0.95,
+      0.8
+    ],
+    "attention_bias": 0.5,
+    "matula_prime": 1,
+    "filing_relevance": {
+      "SCA_Opposition": 1.0,
+      "Part_B_Delinquency": 1.0,
+      "Rule_42_Rescission": 1.0,
+      "CIPC_Complaint": 1.0,
+      "LPC_Complaint": 1.0,
+      "POPIA_Complaint": 1.0,
+      "SARS_Tax_Fraud": 1.0,
+      "Criminal_Perjury": 1.0,
+      "NPA_Referral": 1.0,
+      "SAICA_Misconduct": 1.0
+    }
+  },
+  "ORG_013": {
+    "type": "entity",
+    "embedding": [
+      0.905,
+      0.95,
+      0.9,
+      0.7916666666666666,
+      0.95,
+      0.8
+    ],
+    "attention_bias": 0.5,
+    "matula_prime": 1,
+    "filing_relevance": {
+      "SCA_Opposition": 1.0,
+      "Part_B_Delinquency": 1.0,
+      "Rule_42_Rescission": 1.0,
+      "CIPC_Complaint": 1.0,
+      "LPC_Complaint": 1.0,
+      "POPIA_Complaint": 1.0,
+      "SARS_Tax_Fraud": 1.0,
+      "Criminal_Perjury": 1.0,
+      "NPA_Referral": 1.0,
+      "SAICA_Misconduct": 1.0
+    }
+  },
+  "ORG_014": {
+    "type": "entity",
+    "embedding": [
+      0.905,
+      0.95,
+      0.9,
+      0.7916666666666666,
+      0.95,
+      0.8
+    ],
+    "attention_bias": 0.5,
+    "matula_prime": 1,
+    "filing_relevance": {
+      "SCA_Opposition": 1.0,
+      "Part_B_Delinquency": 1.0,
+      "Rule_42_Rescission": 1.0,
+      "CIPC_Complaint": 1.0,
+      "LPC_Complaint": 1.0,
+      "POPIA_Complaint": 1.0,
+      "SARS_Tax_Fraud": 1.0,
+      "Criminal_Perjury": 1.0,
+      "NPA_Referral": 1.0,
+      "SAICA_Misconduct": 1.0
+    }
+  },
+  "ORG_015": {
+    "type": "entity",
+    "embedding": [
+      0.905,
+      0.95,
+      0.9,
+      0.7916666666666666,
+      0.95,
+      0.8
+    ],
+    "attention_bias": 0.5,
+    "matula_prime": 1,
+    "filing_relevance": {
+      "SCA_Opposition": 1.0,
+      "Part_B_Delinquency": 1.0,
+      "Rule_42_Rescission": 1.0,
+      "CIPC_Complaint": 1.0,
+      "LPC_Complaint": 1.0,
+      "POPIA_Complaint": 1.0,
+      "SARS_Tax_Fraud": 1.0,
+      "Criminal_Perjury": 1.0,
+      "NPA_Referral": 1.0,
+      "SAICA_Misconduct": 1.0
+    }
+  },
+  "ORG_016": {
+    "type": "entity",
+    "embedding": [
+      0.905,
+      0.95,
+      0.9,
+      0.7916666666666666,
+      0.95,
+      0.8
+    ],
+    "attention_bias": 0.5,
+    "matula_prime": 1,
+    "filing_relevance": {
+      "SCA_Opposition": 1.0,
+      "Part_B_Delinquency": 1.0,
+      "Rule_42_Rescission": 1.0,
+      "CIPC_Complaint": 1.0,
+      "LPC_Complaint": 1.0,
+      "POPIA_Complaint": 1.0,
+      "SARS_Tax_Fraud": 1.0,
+      "Criminal_Perjury": 1.0,
+      "NPA_Referral": 1.0,
+      "SAICA_Misconduct": 1.0
+    }
+  },
+  "ORG_017": {
+    "type": "entity",
+    "embedding": [
+      0.905,
+      0.95,
+      0.9,
+      0.7916666666666666,
+      0.95,
+      0.8
+    ],
+    "attention_bias": 0.5,
+    "matula_prime": 1,
+    "filing_relevance": {
+      "SCA_Opposition": 1.0,
+      "Part_B_Delinquency": 1.0,
+      "Rule_42_Rescission": 1.0,
+      "CIPC_Complaint": 1.0,
+      "LPC_Complaint": 1.0,
+      "POPIA_Complaint": 1.0,
+      "SARS_Tax_Fraud": 1.0,
+      "Criminal_Perjury": 1.0,
+      "NPA_Referral": 1.0,
+      "SAICA_Misconduct": 1.0
+    }
+  },
+  "ORG_018": {
+    "type": "entity",
+    "embedding": [
+      0.905,
+      0.95,
+      0.9,
+      0.7916666666666666,
+      0.95,
+      0.8
+    ],
+    "attention_bias": 0.5,
+    "matula_prime": 1,
+    "filing_relevance": {
+      "SCA_Opposition": 1.0,
+      "Part_B_Delinquency": 1.0,
+      "Rule_42_Rescission": 1.0,
+      "CIPC_Complaint": 1.0,
+      "LPC_Complaint": 1.0,
+      "POPIA_Complaint": 1.0,
+      "SARS_Tax_Fraud": 1.0,
+      "Criminal_Perjury": 1.0,
+      "NPA_Referral": 1.0,
+      "SAICA_Misconduct": 1.0
+    }
+  },
+  "ORG_019": {
+    "type": "entity",
+    "embedding": [
+      0.905,
+      0.95,
+      0.9,
+      0.7916666666666666,
+      0.95,
+      0.8
+    ],
+    "attention_bias": 0.5,
+    "matula_prime": 1,
+    "filing_relevance": {
+      "SCA_Opposition": 1.0,
+      "Part_B_Delinquency": 1.0,
+      "Rule_42_Rescission": 1.0,
+      "CIPC_Complaint": 1.0,
+      "LPC_Complaint": 1.0,
+      "POPIA_Complaint": 1.0,
+      "SARS_Tax_Fraud": 1.0,
+      "Criminal_Perjury": 1.0,
+      "NPA_Referral": 1.0,
+      "SAICA_Misconduct": 1.0
+    }
+  },
+  "ORG_020": {
+    "type": "entity",
+    "embedding": [
+      0.905,
+      0.95,
+      0.9,
+      0.7916666666666666,
+      0.95,
+      0.8
+    ],
+    "attention_bias": 0.5,
+    "matula_prime": 1,
+    "filing_relevance": {
+      "SCA_Opposition": 1.0,
+      "Part_B_Delinquency": 1.0,
+      "Rule_42_Rescission": 1.0,
+      "CIPC_Complaint": 1.0,
+      "LPC_Complaint": 1.0,
+      "POPIA_Complaint": 1.0,
+      "SARS_Tax_Fraud": 1.0,
+      "Criminal_Perjury": 1.0,
+      "NPA_Referral": 1.0,
+      "SAICA_Misconduct": 1.0
+    }
+  },
+  "ORG_021": {
+    "type": "entity",
+    "embedding": [
+      0.905,
+      0.95,
+      0.9,
+      0.7916666666666666,
+      0.95,
+      0.8
+    ],
+    "attention_bias": 0.5,
+    "matula_prime": 1,
+    "filing_relevance": {
+      "SCA_Opposition": 1.0,
+      "Part_B_Delinquency": 1.0,
+      "Rule_42_Rescission": 1.0,
+      "CIPC_Complaint": 1.0,
+      "LPC_Complaint": 1.0,
+      "POPIA_Complaint": 1.0,
+      "SARS_Tax_Fraud": 1.0,
+      "Criminal_Perjury": 1.0,
+      "NPA_Referral": 1.0,
+      "SAICA_Misconduct": 1.0
+    }
+  },
+  "ORG_022": {
+    "type": "entity",
+    "embedding": [
+      0.905,
+      0.95,
+      0.9,
+      0.7916666666666666,
+      0.95,
+      0.8
+    ],
+    "attention_bias": 0.5,
+    "matula_prime": 1,
+    "filing_relevance": {
+      "SCA_Opposition": 1.0,
+      "Part_B_Delinquency": 1.0,
+      "Rule_42_Rescission": 1.0,
+      "CIPC_Complaint": 1.0,
+      "LPC_Complaint": 1.0,
+      "POPIA_Complaint": 1.0,
+      "SARS_Tax_Fraud": 1.0,
+      "Criminal_Perjury": 1.0,
+      "NPA_Referral": 1.0,
+      "SAICA_Misconduct": 1.0
+    }
+  },
+  "ORG_023": {
+    "type": "entity",
+    "embedding": [
+      0.905,
+      0.95,
+      0.9,
+      0.7916666666666666,
+      0.95,
+      0.8
+    ],
+    "attention_bias": 0.5,
+    "matula_prime": 1,
+    "filing_relevance": {
+      "SCA_Opposition": 1.0,
+      "Part_B_Delinquency": 1.0,
+      "Rule_42_Rescission": 1.0,
+      "CIPC_Complaint": 1.0,
+      "LPC_Complaint": 1.0,
+      "POPIA_Complaint": 1.0,
+      "SARS_Tax_Fraud": 1.0,
+      "Criminal_Perjury": 1.0,
+      "NPA_Referral": 1.0,
+      "SAICA_Misconduct": 1.0
+    }
+  },
+  "ORG_024": {
+    "type": "entity",
+    "embedding": [
+      0.905,
+      0.95,
+      0.9,
+      0.7916666666666666,
+      0.95,
+      0.8
+    ],
+    "attention_bias": 0.5,
+    "matula_prime": 1,
+    "filing_relevance": {
+      "SCA_Opposition": 1.0,
+      "Part_B_Delinquency": 1.0,
+      "Rule_42_Rescission": 1.0,
+      "CIPC_Complaint": 1.0,
+      "LPC_Complaint": 1.0,
+      "POPIA_Complaint": 1.0,
+      "SARS_Tax_Fraud": 1.0,
+      "Criminal_Perjury": 1.0,
+      "NPA_Referral": 1.0,
+      "SAICA_Misconduct": 1.0
+    }
+  },
+  "ORG_025": {
+    "type": "entity",
+    "embedding": [
+      0.905,
+      0.95,
+      0.9,
+      0.7916666666666666,
+      0.95,
+      0.8
+    ],
+    "attention_bias": 0.5,
+    "matula_prime": 1,
+    "filing_relevance": {
+      "SCA_Opposition": 1.0,
+      "Part_B_Delinquency": 1.0,
+      "Rule_42_Rescission": 1.0,
+      "CIPC_Complaint": 1.0,
+      "LPC_Complaint": 1.0,
+      "POPIA_Complaint": 1.0,
+      "SARS_Tax_Fraud": 1.0,
+      "Criminal_Perjury": 1.0,
+      "NPA_Referral": 1.0,
+      "SAICA_Misconduct": 1.0
+    }
+  },
+  "ORG_026": {
+    "type": "entity",
+    "embedding": [
+      0.905,
+      0.95,
+      0.9,
+      0.7916666666666666,
+      0.95,
+      0.8
+    ],
+    "attention_bias": 0.5,
+    "matula_prime": 1,
+    "filing_relevance": {
+      "SCA_Opposition": 1.0,
+      "Part_B_Delinquency": 1.0,
+      "Rule_42_Rescission": 1.0,
+      "CIPC_Complaint": 1.0,
+      "LPC_Complaint": 1.0,
+      "POPIA_Complaint": 1.0,
+      "SARS_Tax_Fraud": 1.0,
+      "Criminal_Perjury": 1.0,
+      "NPA_Referral": 1.0,
+      "SAICA_Misconduct": 1.0
+    }
+  },
+  "ORG_027": {
+    "type": "entity",
+    "embedding": [
+      0.905,
+      0.95,
+      0.9,
+      0.7916666666666666,
+      0.95,
+      0.8
+    ],
+    "attention_bias": 0.5,
+    "matula_prime": 1,
+    "filing_relevance": {
+      "SCA_Opposition": 1.0,
+      "Part_B_Delinquency": 1.0,
+      "Rule_42_Rescission": 1.0,
+      "CIPC_Complaint": 1.0,
+      "LPC_Complaint": 1.0,
+      "POPIA_Complaint": 1.0,
+      "SARS_Tax_Fraud": 1.0,
+      "Criminal_Perjury": 1.0,
+      "NPA_Referral": 1.0,
+      "SAICA_Misconduct": 1.0
+    }
+  },
+  "ORG_028": {
+    "type": "entity",
+    "embedding": [
+      0.905,
+      0.95,
+      0.9,
+      0.7916666666666666,
+      0.95,
+      0.8
+    ],
+    "attention_bias": 0.5,
+    "matula_prime": 1,
+    "filing_relevance": {
+      "SCA_Opposition": 1.0,
+      "Part_B_Delinquency": 1.0,
+      "Rule_42_Rescission": 1.0,
+      "CIPC_Complaint": 1.0,
+      "LPC_Complaint": 1.0,
+      "POPIA_Complaint": 1.0,
+      "SARS_Tax_Fraud": 1.0,
+      "Criminal_Perjury": 1.0,
+      "NPA_Referral": 1.0,
+      "SAICA_Misconduct": 1.0
+    }
+  },
+  "ORG_029": {
+    "type": "entity",
+    "embedding": [
+      0.905,
+      0.95,
+      0.9,
+      0.7916666666666666,
+      0.95,
+      0.8
+    ],
+    "attention_bias": 0.5,
+    "matula_prime": 1,
+    "filing_relevance": {
+      "SCA_Opposition": 1.0,
+      "Part_B_Delinquency": 1.0,
+      "Rule_42_Rescission": 1.0,
+      "CIPC_Complaint": 1.0,
+      "LPC_Complaint": 1.0,
+      "POPIA_Complaint": 1.0,
+      "SARS_Tax_Fraud": 1.0,
+      "Criminal_Perjury": 1.0,
+      "NPA_Referral": 1.0,
+      "SAICA_Misconduct": 1.0
+    }
+  },
+  "ORG_030": {
+    "type": "entity",
+    "embedding": [
+      0.905,
+      0.95,
+      0.9,
+      0.7916666666666666,
+      0.95,
+      0.8
+    ],
+    "attention_bias": 0.5,
+    "matula_prime": 1,
+    "filing_relevance": {
+      "SCA_Opposition": 1.0,
+      "Part_B_Delinquency": 1.0,
+      "Rule_42_Rescission": 1.0,
+      "CIPC_Complaint": 1.0,
+      "LPC_Complaint": 1.0,
+      "POPIA_Complaint": 1.0,
+      "SARS_Tax_Fraud": 1.0,
+      "Criminal_Perjury": 1.0,
+      "NPA_Referral": 1.0,
+      "SAICA_Misconduct": 1.0
+    }
+  },
+  "PERSON_001": {
+    "type": "entity",
+    "embedding": [
+      0.905,
+      0.95,
+      0.9,
+      0.7916666666666666,
+      0.95,
+      0.8
+    ],
+    "attention_bias": 0.5,
+    "matula_prime": 1,
+    "filing_relevance": {
+      "SCA_Opposition": 1.0,
+      "Part_B_Delinquency": 1.0,
+      "Rule_42_Rescission": 1.0,
+      "CIPC_Complaint": 1.0,
+      "LPC_Complaint": 1.0,
+      "POPIA_Complaint": 1.0,
+      "SARS_Tax_Fraud": 1.0,
+      "Criminal_Perjury": 1.0,
+      "NPA_Referral": 1.0,
+      "SAICA_Misconduct": 1.0
+    }
+  },
+  "PERSON_002": {
+    "type": "entity",
+    "embedding": [
+      0.905,
+      0.95,
+      0.9,
+      0.7916666666666666,
+      0.95,
+      0.8
+    ],
+    "attention_bias": 0.5,
+    "matula_prime": 1,
+    "filing_relevance": {
+      "SCA_Opposition": 1.0,
+      "Part_B_Delinquency": 1.0,
+      "Rule_42_Rescission": 1.0,
+      "CIPC_Complaint": 1.0,
+      "LPC_Complaint": 1.0,
+      "POPIA_Complaint": 1.0,
+      "SARS_Tax_Fraud": 1.0,
+      "Criminal_Perjury": 1.0,
+      "NPA_Referral": 1.0,
+      "SAICA_Misconduct": 1.0
+    }
+  },
+  "PERSON_003": {
+    "type": "entity",
+    "embedding": [
+      0.905,
+      0.95,
+      0.9,
+      0.7916666666666666,
+      0.95,
+      0.8
+    ],
+    "attention_bias": 0.5,
+    "matula_prime": 1,
+    "filing_relevance": {
+      "SCA_Opposition": 1.0,
+      "Part_B_Delinquency": 1.0,
+      "Rule_42_Rescission": 1.0,
+      "CIPC_Complaint": 1.0,
+      "LPC_Complaint": 1.0,
+      "POPIA_Complaint": 1.0,
+      "SARS_Tax_Fraud": 1.0,
+      "Criminal_Perjury": 1.0,
+      "NPA_Referral": 1.0,
+      "SAICA_Misconduct": 1.0
+    }
+  },
+  "PERSON_004": {
+    "type": "entity",
+    "embedding": [
+      0.905,
+      0.95,
+      0.9,
+      0.7916666666666666,
+      0.95,
+      0.8
+    ],
+    "attention_bias": 0.5,
+    "matula_prime": 1,
+    "filing_relevance": {
+      "SCA_Opposition": 1.0,
+      "Part_B_Delinquency": 1.0,
+      "Rule_42_Rescission": 1.0,
+      "CIPC_Complaint": 1.0,
+      "LPC_Complaint": 1.0,
+      "POPIA_Complaint": 1.0,
+      "SARS_Tax_Fraud": 1.0,
+      "Criminal_Perjury": 1.0,
+      "NPA_Referral": 1.0,
+      "SAICA_Misconduct": 1.0
+    }
+  },
+  "PERSON_005": {
+    "type": "entity",
+    "embedding": [
+      0.905,
+      0.95,
+      0.9,
+      0.7916666666666666,
+      0.95,
+      0.8
+    ],
+    "attention_bias": 0.5,
+    "matula_prime": 1,
+    "filing_relevance": {
+      "SCA_Opposition": 1.0,
+      "Part_B_Delinquency": 1.0,
+      "Rule_42_Rescission": 1.0,
+      "CIPC_Complaint": 1.0,
+      "LPC_Complaint": 1.0,
+      "POPIA_Complaint": 1.0,
+      "SARS_Tax_Fraud": 1.0,
+      "Criminal_Perjury": 1.0,
+      "NPA_Referral": 1.0,
+      "SAICA_Misconduct": 1.0
+    }
+  },
+  "PERSON_006": {
+    "type": "entity",
+    "embedding": [
+      0.905,
+      0.95,
+      0.9,
+      0.7916666666666666,
+      0.95,
+      0.8
+    ],
+    "attention_bias": 0.5,
+    "matula_prime": 1,
+    "filing_relevance": {
+      "SCA_Opposition": 1.0,
+      "Part_B_Delinquency": 1.0,
+      "Rule_42_Rescission": 1.0,
+      "CIPC_Complaint": 1.0,
+      "LPC_Complaint": 1.0,
+      "POPIA_Complaint": 1.0,
+      "SARS_Tax_Fraud": 1.0,
+      "Criminal_Perjury": 1.0,
+      "NPA_Referral": 1.0,
+      "SAICA_Misconduct": 1.0
+    }
+  },
+  "PERSON_007": {
+    "type": "entity",
+    "embedding": [
+      0.905,
+      0.95,
+      0.9,
+      0.7916666666666666,
+      0.95,
+      0.8
+    ],
+    "attention_bias": 0.5,
+    "matula_prime": 1,
+    "filing_relevance": {
+      "SCA_Opposition": 1.0,
+      "Part_B_Delinquency": 1.0,
+      "Rule_42_Rescission": 1.0,
+      "CIPC_Complaint": 1.0,
+      "LPC_Complaint": 1.0,
+      "POPIA_Complaint": 1.0,
+      "SARS_Tax_Fraud": 1.0,
+      "Criminal_Perjury": 1.0,
+      "NPA_Referral": 1.0,
+      "SAICA_Misconduct": 1.0
+    }
+  },
+  "PERSON_008": {
+    "type": "entity",
+    "embedding": [
+      0.905,
+      0.95,
+      0.9,
+      0.7916666666666666,
+      0.95,
+      0.8
+    ],
+    "attention_bias": 0.5,
+    "matula_prime": 1,
+    "filing_relevance": {
+      "SCA_Opposition": 1.0,
+      "Part_B_Delinquency": 1.0,
+      "Rule_42_Rescission": 1.0,
+      "CIPC_Complaint": 1.0,
+      "LPC_Complaint": 1.0,
+      "POPIA_Complaint": 1.0,
+      "SARS_Tax_Fraud": 1.0,
+      "Criminal_Perjury": 1.0,
+      "NPA_Referral": 1.0,
+      "SAICA_Misconduct": 1.0
+    }
+  },
+  "PERSON_009": {
+    "type": "entity",
+    "embedding": [
+      0.905,
+      0.95,
+      0.9,
+      0.7916666666666666,
+      0.95,
+      0.8
+    ],
+    "attention_bias": 0.5,
+    "matula_prime": 1,
+    "filing_relevance": {
+      "SCA_Opposition": 1.0,
+      "Part_B_Delinquency": 1.0,
+      "Rule_42_Rescission": 1.0,
+      "CIPC_Complaint": 1.0,
+      "LPC_Complaint": 1.0,
+      "POPIA_Complaint": 1.0,
+      "SARS_Tax_Fraud": 1.0,
+      "Criminal_Perjury": 1.0,
+      "NPA_Referral": 1.0,
+      "SAICA_Misconduct": 1.0
+    }
+  },
+  "PERSON_010": {
+    "type": "entity",
+    "embedding": [
+      0.905,
+      0.95,
+      0.9,
+      0.7916666666666666,
+      0.95,
+      0.8
+    ],
+    "attention_bias": 0.5,
+    "matula_prime": 1,
+    "filing_relevance": {
+      "SCA_Opposition": 1.0,
+      "Part_B_Delinquency": 1.0,
+      "Rule_42_Rescission": 1.0,
+      "CIPC_Complaint": 1.0,
+      "LPC_Complaint": 1.0,
+      "POPIA_Complaint": 1.0,
+      "SARS_Tax_Fraud": 1.0,
+      "Criminal_Perjury": 1.0,
+      "NPA_Referral": 1.0,
+      "SAICA_Misconduct": 1.0
+    }
+  },
+  "PERSON_011": {
+    "type": "entity",
+    "embedding": [
+      0.905,
+      0.95,
+      0.9,
+      0.7916666666666666,
+      0.95,
+      0.8
+    ],
+    "attention_bias": 0.5,
+    "matula_prime": 1,
+    "filing_relevance": {
+      "SCA_Opposition": 1.0,
+      "Part_B_Delinquency": 1.0,
+      "Rule_42_Rescission": 1.0,
+      "CIPC_Complaint": 1.0,
+      "LPC_Complaint": 1.0,
+      "POPIA_Complaint": 1.0,
+      "SARS_Tax_Fraud": 1.0,
+      "Criminal_Perjury": 1.0,
+      "NPA_Referral": 1.0,
+      "SAICA_Misconduct": 1.0
+    }
+  },
+  "PERSON_012": {
+    "type": "entity",
+    "embedding": [
+      0.905,
+      0.95,
+      0.9,
+      0.7916666666666666,
+      0.95,
+      0.8
+    ],
+    "attention_bias": 0.5,
+    "matula_prime": 1,
+    "filing_relevance": {
+      "SCA_Opposition": 1.0,
+      "Part_B_Delinquency": 1.0,
+      "Rule_42_Rescission": 1.0,
+      "CIPC_Complaint": 1.0,
+      "LPC_Complaint": 1.0,
+      "POPIA_Complaint": 1.0,
+      "SARS_Tax_Fraud": 1.0,
+      "Criminal_Perjury": 1.0,
+      "NPA_Referral": 1.0,
+      "SAICA_Misconduct": 1.0
+    }
+  },
+  "PERSON_013": {
+    "type": "entity",
+    "embedding": [
+      0.905,
+      0.95,
+      0.9,
+      0.7916666666666666,
+      0.95,
+      0.8
+    ],
+    "attention_bias": 0.5,
+    "matula_prime": 1,
+    "filing_relevance": {
+      "SCA_Opposition": 1.0,
+      "Part_B_Delinquency": 1.0,
+      "Rule_42_Rescission": 1.0,
+      "CIPC_Complaint": 1.0,
+      "LPC_Complaint": 1.0,
+      "POPIA_Complaint": 1.0,
+      "SARS_Tax_Fraud": 1.0,
+      "Criminal_Perjury": 1.0,
+      "NPA_Referral": 1.0,
+      "SAICA_Misconduct": 1.0
+    }
+  },
+  "PERSON_014": {
+    "type": "entity",
+    "embedding": [
+      0.905,
+      0.95,
+      0.9,
+      0.7916666666666666,
+      0.95,
+      0.8
+    ],
+    "attention_bias": 0.5,
+    "matula_prime": 1,
+    "filing_relevance": {
+      "SCA_Opposition": 1.0,
+      "Part_B_Delinquency": 1.0,
+      "Rule_42_Rescission": 1.0,
+      "CIPC_Complaint": 1.0,
+      "LPC_Complaint": 1.0,
+      "POPIA_Complaint": 1.0,
+      "SARS_Tax_Fraud": 1.0,
+      "Criminal_Perjury": 1.0,
+      "NPA_Referral": 1.0,
+      "SAICA_Misconduct": 1.0
+    }
+  },
+  "PERSON_015": {
+    "type": "entity",
+    "embedding": [
+      0.905,
+      0.95,
+      0.9,
+      0.7916666666666666,
+      0.95,
+      0.8
+    ],
+    "attention_bias": 0.5,
+    "matula_prime": 1,
+    "filing_relevance": {
+      "SCA_Opposition": 1.0,
+      "Part_B_Delinquency": 1.0,
+      "Rule_42_Rescission": 1.0,
+      "CIPC_Complaint": 1.0,
+      "LPC_Complaint": 1.0,
+      "POPIA_Complaint": 1.0,
+      "SARS_Tax_Fraud": 1.0,
+      "Criminal_Perjury": 1.0,
+      "NPA_Referral": 1.0,
+      "SAICA_Misconduct": 1.0
+    }
+  },
+  "PERSON_016": {
+    "type": "entity",
+    "embedding": [
+      0.905,
+      0.95,
+      0.9,
+      0.7916666666666666,
+      0.95,
+      0.8
+    ],
+    "attention_bias": 0.5,
+    "matula_prime": 1,
+    "filing_relevance": {
+      "SCA_Opposition": 1.0,
+      "Part_B_Delinquency": 1.0,
+      "Rule_42_Rescission": 1.0,
+      "CIPC_Complaint": 1.0,
+      "LPC_Complaint": 1.0,
+      "POPIA_Complaint": 1.0,
+      "SARS_Tax_Fraud": 1.0,
+      "Criminal_Perjury": 1.0,
+      "NPA_Referral": 1.0,
+      "SAICA_Misconduct": 1.0
+    }
+  },
+  "PERSON_017": {
+    "type": "entity",
+    "embedding": [
+      0.905,
+      0.95,
+      0.9,
+      0.7916666666666666,
+      0.95,
+      0.8
+    ],
+    "attention_bias": 0.5,
+    "matula_prime": 1,
+    "filing_relevance": {
+      "SCA_Opposition": 1.0,
+      "Part_B_Delinquency": 1.0,
+      "Rule_42_Rescission": 1.0,
+      "CIPC_Complaint": 1.0,
+      "LPC_Complaint": 1.0,
+      "POPIA_Complaint": 1.0,
+      "SARS_Tax_Fraud": 1.0,
+      "Criminal_Perjury": 1.0,
+      "NPA_Referral": 1.0,
+      "SAICA_Misconduct": 1.0
+    }
+  },
+  "PERSON_018": {
+    "type": "entity",
+    "embedding": [
+      0.905,
+      0.95,
+      0.9,
+      0.7916666666666666,
+      0.95,
+      0.8
+    ],
+    "attention_bias": 0.5,
+    "matula_prime": 1,
+    "filing_relevance": {
+      "SCA_Opposition": 1.0,
+      "Part_B_Delinquency": 1.0,
+      "Rule_42_Rescission": 1.0,
+      "CIPC_Complaint": 1.0,
+      "LPC_Complaint": 1.0,
+      "POPIA_Complaint": 1.0,
+      "SARS_Tax_Fraud": 1.0,
+      "Criminal_Perjury": 1.0,
+      "NPA_Referral": 1.0,
+      "SAICA_Misconduct": 1.0
+    }
+  },
+  "PERSON_019": {
+    "type": "entity",
+    "embedding": [
+      0.905,
+      0.95,
+      0.9,
+      0.7916666666666666,
+      0.95,
+      0.8
+    ],
+    "attention_bias": 0.5,
+    "matula_prime": 1,
+    "filing_relevance": {
+      "SCA_Opposition": 1.0,
+      "Part_B_Delinquency": 1.0,
+      "Rule_42_Rescission": 1.0,
+      "CIPC_Complaint": 1.0,
+      "LPC_Complaint": 1.0,
+      "POPIA_Complaint": 1.0,
+      "SARS_Tax_Fraud": 1.0,
+      "Criminal_Perjury": 1.0,
+      "NPA_Referral": 1.0,
+      "SAICA_Misconduct": 1.0
+    }
+  },
+  "PERSON_020": {
+    "type": "entity",
+    "embedding": [
+      0.905,
+      0.95,
+      0.9,
+      0.7916666666666666,
+      0.95,
+      0.8
+    ],
+    "attention_bias": 0.5,
+    "matula_prime": 1,
+    "filing_relevance": {
+      "SCA_Opposition": 1.0,
+      "Part_B_Delinquency": 1.0,
+      "Rule_42_Rescission": 1.0,
+      "CIPC_Complaint": 1.0,
+      "LPC_Complaint": 1.0,
+      "POPIA_Complaint": 1.0,
+      "SARS_Tax_Fraud": 1.0,
+      "Criminal_Perjury": 1.0,
+      "NPA_Referral": 1.0,
+      "SAICA_Misconduct": 1.0
+    }
+  },
+  "PERSON_021": {
+    "type": "entity",
+    "embedding": [
+      0.905,
+      0.95,
+      0.9,
+      0.7916666666666666,
+      0.95,
+      0.8
+    ],
+    "attention_bias": 0.5,
+    "matula_prime": 1,
+    "filing_relevance": {
+      "SCA_Opposition": 1.0,
+      "Part_B_Delinquency": 1.0,
+      "Rule_42_Rescission": 1.0,
+      "CIPC_Complaint": 1.0,
+      "LPC_Complaint": 1.0,
+      "POPIA_Complaint": 1.0,
+      "SARS_Tax_Fraud": 1.0,
+      "Criminal_Perjury": 1.0,
+      "NPA_Referral": 1.0,
+      "SAICA_Misconduct": 1.0
+    }
+  },
+  "PERSON_037": {
+    "type": "entity",
+    "embedding": [
+      0.905,
+      0.95,
+      0.9,
+      0.7916666666666666,
+      0.95,
+      0.8
+    ],
+    "attention_bias": 0.5,
+    "matula_prime": 1,
+    "filing_relevance": {
+      "SCA_Opposition": 1.0,
+      "Part_B_Delinquency": 1.0,
+      "Rule_42_Rescission": 1.0,
+      "CIPC_Complaint": 1.0,
+      "LPC_Complaint": 1.0,
+      "POPIA_Complaint": 1.0,
+      "SARS_Tax_Fraud": 1.0,
+      "Criminal_Perjury": 1.0,
+      "NPA_Referral": 1.0,
+      "SAICA_Misconduct": 1.0
+    }
+  },
+  "PERSON_038": {
+    "type": "entity",
+    "embedding": [
+      0.905,
+      0.95,
+      0.9,
+      0.7916666666666666,
+      0.95,
+      0.8
+    ],
+    "attention_bias": 0.5,
+    "matula_prime": 1,
+    "filing_relevance": {
+      "SCA_Opposition": 1.0,
+      "Part_B_Delinquency": 1.0,
+      "Rule_42_Rescission": 1.0,
+      "CIPC_Complaint": 1.0,
+      "LPC_Complaint": 1.0,
+      "POPIA_Complaint": 1.0,
+      "SARS_Tax_Fraud": 1.0,
+      "Criminal_Perjury": 1.0,
+      "NPA_Referral": 1.0,
+      "SAICA_Misconduct": 1.0
+    }
+  },
+  "PERSON_039": {
+    "type": "entity",
+    "embedding": [
+      0.905,
+      0.95,
+      0.9,
+      0.7916666666666666,
+      0.95,
+      0.8
+    ],
+    "attention_bias": 0.5,
+    "matula_prime": 1,
+    "filing_relevance": {
+      "SCA_Opposition": 1.0,
+      "Part_B_Delinquency": 1.0,
+      "Rule_42_Rescission": 1.0,
+      "CIPC_Complaint": 1.0,
+      "LPC_Complaint": 1.0,
+      "POPIA_Complaint": 1.0,
+      "SARS_Tax_Fraud": 1.0,
+      "Criminal_Perjury": 1.0,
+      "NPA_Referral": 1.0,
+      "SAICA_Misconduct": 1.0
+    }
+  },
+  "PERSON_040": {
+    "type": "entity",
+    "embedding": [
+      0.905,
+      0.95,
+      0.9,
+      0.7916666666666666,
+      0.95,
+      0.8
+    ],
+    "attention_bias": 0.5,
+    "matula_prime": 1,
+    "filing_relevance": {
+      "SCA_Opposition": 1.0,
+      "Part_B_Delinquency": 1.0,
+      "Rule_42_Rescission": 1.0,
+      "CIPC_Complaint": 1.0,
+      "LPC_Complaint": 1.0,
+      "POPIA_Complaint": 1.0,
+      "SARS_Tax_Fraud": 1.0,
+      "Criminal_Perjury": 1.0,
+      "NPA_Referral": 1.0,
+      "SAICA_Misconduct": 1.0
+    }
+  },
+  "PERSON_041": {
+    "type": "entity",
+    "embedding": [
+      0.905,
+      0.95,
+      0.9,
+      0.7916666666666666,
+      0.95,
+      0.8
+    ],
+    "attention_bias": 0.5,
+    "matula_prime": 1,
+    "filing_relevance": {
+      "SCA_Opposition": 1.0,
+      "Part_B_Delinquency": 1.0,
+      "Rule_42_Rescission": 1.0,
+      "CIPC_Complaint": 1.0,
+      "LPC_Complaint": 1.0,
+      "POPIA_Complaint": 1.0,
+      "SARS_Tax_Fraud": 1.0,
+      "Criminal_Perjury": 1.0,
+      "NPA_Referral": 1.0,
+      "SAICA_Misconduct": 1.0
+    }
+  },
+  "PERSON_042": {
+    "type": "entity",
+    "embedding": [
+      0.905,
+      0.95,
+      0.9,
+      0.7916666666666666,
+      0.95,
+      0.8
+    ],
+    "attention_bias": 0.5,
+    "matula_prime": 1,
+    "filing_relevance": {
+      "SCA_Opposition": 1.0,
+      "Part_B_Delinquency": 1.0,
+      "Rule_42_Rescission": 1.0,
+      "CIPC_Complaint": 1.0,
+      "LPC_Complaint": 1.0,
+      "POPIA_Complaint": 1.0,
+      "SARS_Tax_Fraud": 1.0,
+      "Criminal_Perjury": 1.0,
+      "NPA_Referral": 1.0,
+      "SAICA_Misconduct": 1.0
+    }
+  },
+  "PERSON_043": {
+    "type": "entity",
+    "embedding": [
+      0.905,
+      0.95,
+      0.9,
+      0.7916666666666666,
+      0.95,
+      0.8
+    ],
+    "attention_bias": 0.5,
+    "matula_prime": 1,
+    "filing_relevance": {
+      "SCA_Opposition": 1.0,
+      "Part_B_Delinquency": 1.0,
+      "Rule_42_Rescission": 1.0,
+      "CIPC_Complaint": 1.0,
+      "LPC_Complaint": 1.0,
+      "POPIA_Complaint": 1.0,
+      "SARS_Tax_Fraud": 1.0,
+      "Criminal_Perjury": 1.0,
+      "NPA_Referral": 1.0,
+      "SAICA_Misconduct": 1.0
+    }
+  },
+  "PERSON_044": {
+    "type": "entity",
+    "embedding": [
+      0.905,
+      0.95,
+      0.9,
+      0.7916666666666666,
+      0.95,
+      0.8
+    ],
+    "attention_bias": 0.5,
+    "matula_prime": 1,
+    "filing_relevance": {
+      "SCA_Opposition": 1.0,
+      "Part_B_Delinquency": 1.0,
+      "Rule_42_Rescission": 1.0,
+      "CIPC_Complaint": 1.0,
+      "LPC_Complaint": 1.0,
+      "POPIA_Complaint": 1.0,
+      "SARS_Tax_Fraud": 1.0,
+      "Criminal_Perjury": 1.0,
+      "NPA_Referral": 1.0,
+      "SAICA_Misconduct": 1.0
+    }
+  },
+  "PERSON_045": {
+    "type": "entity",
+    "embedding": [
+      0.905,
+      0.95,
+      0.9,
+      0.7916666666666666,
+      0.95,
+      0.8
+    ],
+    "attention_bias": 0.5,
+    "matula_prime": 1,
+    "filing_relevance": {
+      "SCA_Opposition": 1.0,
+      "Part_B_Delinquency": 1.0,
+      "Rule_42_Rescission": 1.0,
+      "CIPC_Complaint": 1.0,
+      "LPC_Complaint": 1.0,
+      "POPIA_Complaint": 1.0,
+      "SARS_Tax_Fraud": 1.0,
+      "Criminal_Perjury": 1.0,
+      "NPA_Referral": 1.0,
+      "SAICA_Misconduct": 1.0
+    }
+  },
+  "PERSON_XENOPHONTOS": {
+    "type": "entity",
+    "embedding": [
+      0.905,
+      0.95,
+      0.9,
+      0.7916666666666666,
+      0.95,
+      0.8
+    ],
+    "attention_bias": 0.5,
+    "matula_prime": 1,
+    "filing_relevance": {
+      "SCA_Opposition": 1.0,
+      "Part_B_Delinquency": 1.0,
+      "Rule_42_Rescission": 1.0,
+      "CIPC_Complaint": 1.0,
+      "LPC_Complaint": 1.0,
+      "POPIA_Complaint": 1.0,
+      "SARS_Tax_Fraud": 1.0,
+      "Criminal_Perjury": 1.0,
+      "NPA_Referral": 1.0,
+      "SAICA_Misconduct": 1.0
+    }
+  },
+  "PLATFORM_001": {
+    "type": "entity",
+    "embedding": [
+      0.905,
+      0.95,
+      0.9,
+      0.7916666666666666,
+      0.95,
+      0.8
+    ],
+    "attention_bias": 0.5,
+    "matula_prime": 1,
+    "filing_relevance": {
+      "SCA_Opposition": 1.0,
+      "Part_B_Delinquency": 1.0,
+      "Rule_42_Rescission": 1.0,
+      "CIPC_Complaint": 1.0,
+      "LPC_Complaint": 1.0,
+      "POPIA_Complaint": 1.0,
+      "SARS_Tax_Fraud": 1.0,
+      "Criminal_Perjury": 1.0,
+      "NPA_Referral": 1.0,
+      "SAICA_Misconduct": 1.0
+    }
+  },
+  "PLATFORM_002": {
+    "type": "entity",
+    "embedding": [
+      0.905,
+      0.95,
+      0.9,
+      0.7916666666666666,
+      0.95,
+      0.8
+    ],
+    "attention_bias": 0.5,
+    "matula_prime": 1,
+    "filing_relevance": {
+      "SCA_Opposition": 1.0,
+      "Part_B_Delinquency": 1.0,
+      "Rule_42_Rescission": 1.0,
+      "CIPC_Complaint": 1.0,
+      "LPC_Complaint": 1.0,
+      "POPIA_Complaint": 1.0,
+      "SARS_Tax_Fraud": 1.0,
+      "Criminal_Perjury": 1.0,
+      "NPA_Referral": 1.0,
+      "SAICA_Misconduct": 1.0
+    }
+  },
+  "TRUST_001": {
+    "type": "entity",
+    "embedding": [
+      0.905,
+      0.95,
+      0.9,
+      0.7916666666666666,
+      0.95,
+      0.8
+    ],
+    "attention_bias": 0.5,
+    "matula_prime": 1,
+    "filing_relevance": {
+      "SCA_Opposition": 1.0,
+      "Part_B_Delinquency": 1.0,
+      "Rule_42_Rescission": 1.0,
+      "CIPC_Complaint": 1.0,
+      "LPC_Complaint": 1.0,
+      "POPIA_Complaint": 1.0,
+      "SARS_Tax_Fraud": 1.0,
+      "Criminal_Perjury": 1.0,
+      "NPA_Referral": 1.0,
+      "SAICA_Misconduct": 1.0
+    }
+  },
+  "PLATFORM_003": {
+    "type": "entity",
+    "embedding": [
+      0.905,
+      0.95,
+      0.9,
+      0.7916666666666666,
+      0.95,
+      0.8
+    ],
+    "attention_bias": 0.5,
+    "matula_prime": 1,
+    "filing_relevance": {
+      "SCA_Opposition": 1.0,
+      "Part_B_Delinquency": 1.0,
+      "Rule_42_Rescission": 1.0,
+      "CIPC_Complaint": 1.0,
+      "LPC_Complaint": 1.0,
+      "POPIA_Complaint": 1.0,
+      "SARS_Tax_Fraud": 1.0,
+      "Criminal_Perjury": 1.0,
+      "NPA_Referral": 1.0,
+      "SAICA_Misconduct": 1.0
+    }
+  },
+  "PERSON_LINDA": {
+    "type": "entity",
+    "embedding": [
+      0.905,
+      0.95,
+      0.9,
+      0.7916666666666666,
+      0.95,
+      0.8
+    ],
+    "attention_bias": 0.5,
+    "matula_prime": 1,
+    "filing_relevance": {
+      "SCA_Opposition": 1.0,
+      "Part_B_Delinquency": 1.0,
+      "Rule_42_Rescission": 1.0,
+      "CIPC_Complaint": 1.0,
+      "LPC_Complaint": 1.0,
+      "POPIA_Complaint": 1.0,
+      "SARS_Tax_Fraud": 1.0,
+      "Criminal_Perjury": 1.0,
+      "NPA_Referral": 1.0,
+      "SAICA_Misconduct": 1.0
+    }
+  },
+  "ORG_MAZARS": {
+    "type": "entity",
+    "embedding": [
+      0.905,
+      0.95,
+      0.9,
+      0.7916666666666666,
+      0.95,
+      0.8
+    ],
+    "attention_bias": 0.5,
+    "matula_prime": 1,
+    "filing_relevance": {
+      "SCA_Opposition": 1.0,
+      "Part_B_Delinquency": 1.0,
+      "Rule_42_Rescission": 1.0,
+      "CIPC_Complaint": 1.0,
+      "LPC_Complaint": 1.0,
+      "POPIA_Complaint": 1.0,
+      "SARS_Tax_Fraud": 1.0,
+      "Criminal_Perjury": 1.0,
+      "NPA_Referral": 1.0,
+      "SAICA_Misconduct": 1.0
+    }
+  },
+  "ORG_LERENA": {
+    "type": "entity",
+    "embedding": [
+      0.905,
+      0.95,
+      0.9,
+      0.7916666666666666,
+      0.95,
+      0.8
+    ],
+    "attention_bias": 0.5,
+    "matula_prime": 1,
+    "filing_relevance": {
+      "SCA_Opposition": 1.0,
+      "Part_B_Delinquency": 1.0,
+      "Rule_42_Rescission": 1.0,
+      "CIPC_Complaint": 1.0,
+      "LPC_Complaint": 1.0,
+      "POPIA_Complaint": 1.0,
+      "SARS_Tax_Fraud": 1.0,
+      "Criminal_Perjury": 1.0,
+      "NPA_Referral": 1.0,
+      "SAICA_Misconduct": 1.0
+    }
+  },
+  "PERSON_ADV_POOL": {
+    "type": "entity",
+    "embedding": [
+      0.905,
+      0.95,
+      0.9,
+      0.7916666666666666,
+      0.95,
+      0.8
+    ],
+    "attention_bias": 0.5,
+    "matula_prime": 1,
+    "filing_relevance": {
+      "SCA_Opposition": 1.0,
+      "Part_B_Delinquency": 1.0,
+      "Rule_42_Rescission": 1.0,
+      "CIPC_Complaint": 1.0,
+      "LPC_Complaint": 1.0,
+      "POPIA_Complaint": 1.0,
+      "SARS_Tax_Fraud": 1.0,
+      "Criminal_Perjury": 1.0,
+      "NPA_Referral": 1.0,
+      "SAICA_Misconduct": 1.0
+    }
+  },
+  "AYMAC_KAYLOVEST_ELLIOTT_NETWORK": {
+    "type": "relation",
+    "embedding": [
+      0.5,
+      0.5,
+      0.5,
+      0.5,
+      0.5,
+      0.5
+    ],
+    "attention_bias": 0.5,
+    "matula_prime": 1,
+    "filing_relevance": {}
+  },
+  "BACKDATED_ENTRIES": {
+    "type": "relation",
+    "embedding": [
+      0.5,
+      0.5,
+      0.5,
+      0.5,
+      0.5,
+      0.5
+    ],
+    "attention_bias": 0.5,
+    "matula_prime": 1,
+    "filing_relevance": {}
+  },
+  "BANKING_MANDATE_FRAUD": {
+    "type": "relation",
+    "embedding": [
+      0.5,
+      0.5,
+      0.5,
+      0.5,
+      0.5,
+      0.5
+    ],
+    "attention_bias": 0.5,
+    "matula_prime": 1,
+    "filing_relevance": {}
+  },
+  "BANTJIES_FALSE_INDEPENDENCE": {
+    "type": "relation",
+    "embedding": [
+      0.5,
+      0.5,
+      0.5,
+      0.5,
+      0.5,
+      0.5
+    ],
+    "attention_bias": 0.5,
+    "matula_prime": 1,
+    "filing_relevance": {}
+  },
+  "CONTEMPT_RELATIONS_2026_02_09": {
+    "type": "relation",
+    "embedding": [
+      0.5,
+      0.5,
+      0.5,
+      0.5,
+      0.5,
+      0.5
+    ],
+    "attention_bias": 0.5,
+    "matula_prime": 1,
+    "filing_relevance": {}
+  },
+  "COORDINATED_RETALIATION": {
+    "type": "relation",
+    "embedding": [
+      0.5,
+      0.5,
+      0.5,
+      0.5,
+      0.5,
+      0.5
+    ],
+    "attention_bias": 0.5,
+    "matula_prime": 1,
+    "filing_relevance": {}
+  },
+  "DOMAIN_IDENTITY_FRAUD": {
+    "type": "relation",
+    "embedding": [
+      0.5,
+      0.5,
+      0.5,
+      0.5,
+      0.5,
+      0.5
+    ],
+    "attention_bias": 0.5,
+    "matula_prime": 1,
+    "filing_relevance": {}
+  },
+  "DUAL_CORPORATE_IDENTITY": {
+    "type": "relation",
+    "embedding": [
+      0.5,
+      0.5,
+      0.5,
+      0.5,
+      0.5,
+      0.5
+    ],
+    "attention_bias": 0.5,
+    "matula_prime": 1,
+    "filing_relevance": {}
+  },
+  "ELLIOTT_ATTORNEYS_PROTECTION": {
+    "type": "relation",
+    "embedding": [
+      0.5,
+      0.5,
+      0.5,
+      0.5,
+      0.5,
+      0.5
+    ],
+    "attention_bias": 0.5,
+    "matula_prime": 1,
+    "filing_relevance": {}
+  },
+  "FORGERY_BACKDATING_RELATIONS_2026_02_18": {
+    "type": "relation",
+    "embedding": [
+      0.5,
+      0.5,
+      0.5,
+      0.5,
+      0.5,
+      0.5
+    ],
+    "attention_bias": 0.5,
+    "matula_prime": 1,
+    "filing_relevance": {}
+  },
+  "IDENTITY_FRAUD_NETWORK": {
+    "type": "relation",
+    "embedding": [
+      0.5,
+      0.5,
+      0.5,
+      0.5,
+      0.5,
+      0.5
+    ],
+    "attention_bias": 0.5,
+    "matula_prime": 1,
+    "filing_relevance": {}
+  },
+  "INTERCOMPANY_FRAUD": {
+    "type": "relation",
+    "embedding": [
+      0.5,
+      0.5,
+      0.5,
+      0.5,
+      0.5,
+      0.5
+    ],
+    "attention_bias": 0.5,
+    "matula_prime": 1,
+    "filing_relevance": {}
+  },
+  "INTERDICT_VOID_AB_INITIO": {
+    "type": "relation",
+    "embedding": [
+      0.5,
+      0.5,
+      0.5,
+      0.5,
+      0.5,
+      0.5
+    ],
+    "attention_bias": 0.5,
+    "matula_prime": 1,
+    "filing_relevance": {}
+  },
+  "KETONI_FUND_FLOW_COMPLETE": {
+    "type": "relation",
+    "embedding": [
+      0.5,
+      0.5,
+      0.5,
+      0.5,
+      0.5,
+      0.5
+    ],
+    "attention_bias": 0.5,
+    "matula_prime": 1,
+    "filing_relevance": {}
+  },
+  "KETONI_INSIDER_TRADING_NETWORK": {
+    "type": "relation",
+    "embedding": [
+      0.5,
+      0.5,
+      0.5,
+      0.5,
+      0.5,
+      0.5
+    ],
+    "attention_bias": 0.5,
+    "matula_prime": 1,
+    "filing_relevance": {}
+  },
+  "LEX_SIM_NN_ATTRIBUTION_2026_03_10": {
+    "type": "relation",
+    "embedding": [
+      0.5,
+      0.5,
+      0.5,
+      0.5,
+      0.5,
+      0.5
+    ],
+    "attention_bias": 0.5,
+    "matula_prime": 1,
+    "filing_relevance": {}
+  },
+  "MAILBOX_EVIDENCE_RELATIONS_2026_02_09": {
+    "type": "relation",
+    "embedding": [
+      0.5,
+      0.5,
+      0.5,
+      0.5,
+      0.5,
+      0.5
+    ],
+    "attention_bias": 0.5,
+    "matula_prime": 1,
+    "filing_relevance": {}
+  },
+  "MANUFACTURE_ADMISSION": {
+    "type": "relation",
+    "embedding": [
+      0.5,
+      0.5,
+      0.5,
+      0.5,
+      0.5,
+      0.5
+    ],
+    "attention_bias": 0.5,
+    "matula_prime": 1,
+    "filing_relevance": {}
+  },
+  "PETER_R10_6M_EXTRACTION": {
+    "type": "relation",
+    "embedding": [
+      0.5,
+      0.5,
+      0.5,
+      0.5,
+      0.5,
+      0.5
+    ],
+    "attention_bias": 0.5,
+    "matula_prime": 1,
+    "filing_relevance": {}
+  },
+  "REL_037": {
+    "type": "relation",
+    "embedding": [
+      0.5,
+      0.5,
+      0.5,
+      0.5,
+      0.5,
+      0.5
+    ],
+    "attention_bias": 0.5,
+    "matula_prime": 1,
+    "filing_relevance": {}
+  },
+  "REL_038": {
+    "type": "relation",
+    "embedding": [
+      0.5,
+      0.5,
+      0.5,
+      0.5,
+      0.5,
+      0.5
+    ],
+    "attention_bias": 0.5,
+    "matula_prime": 1,
+    "filing_relevance": {}
+  },
+  "REVENUE_HIJACKING_CHAIN": {
+    "type": "relation",
+    "embedding": [
+      0.5,
+      0.5,
+      0.5,
+      0.5,
+      0.5,
+      0.5
+    ],
+    "attention_bias": 0.5,
+    "matula_prime": 1,
+    "filing_relevance": {}
+  },
+  "REZONANCE_DEBT_FABRICATION": {
+    "type": "relation",
+    "embedding": [
+      0.5,
+      0.5,
+      0.5,
+      0.5,
+      0.5,
+      0.5
+    ],
+    "attention_bias": 0.5,
+    "matula_prime": 1,
+    "filing_relevance": {}
+  },
+  "RULE_30_DATING_ANOMALY": {
+    "type": "relation",
+    "embedding": [
+      0.5,
+      0.5,
+      0.5,
+      0.5,
+      0.5,
+      0.5
+    ],
+    "attention_bias": 0.5,
+    "matula_prime": 1,
+    "filing_relevance": {}
+  },
+  "RYNETTE_BANTJIES_CONSPIRACY_2026_03_07": {
+    "type": "relation",
+    "embedding": [
+      0.5,
+      0.5,
+      0.5,
+      0.5,
+      0.5,
+      0.5
+    ],
+    "attention_bias": 0.5,
+    "matula_prime": 1,
+    "filing_relevance": {}
+  },
+  "SAGE_SYSTEM_CAPTURE": {
+    "type": "relation",
+    "embedding": [
+      0.5,
+      0.5,
+      0.5,
+      0.5,
+      0.5,
+      0.5
+    ],
+    "attention_bias": 0.5,
+    "matula_prime": 1,
+    "filing_relevance": {}
+  },
+  "SARS_CREDENTIAL_ABUSE": {
+    "type": "relation",
+    "embedding": [
+      0.5,
+      0.5,
+      0.5,
+      0.5,
+      0.5,
+      0.5
+    ],
+    "attention_bias": 0.5,
+    "matula_prime": 1,
+    "filing_relevance": {}
+  },
+  "SARS_FLAGGED_INVOICES": {
+    "type": "relation",
+    "embedding": [
+      0.5,
+      0.5,
+      0.5,
+      0.5,
+      0.5,
+      0.5
+    ],
+    "attention_bias": 0.5,
+    "matula_prime": 1,
+    "filing_relevance": {}
+  },
+  "STOCK2SHOP_DISRUPTION": {
+    "type": "relation",
+    "embedding": [
+      0.5,
+      0.5,
+      0.5,
+      0.5,
+      0.5,
+      0.5
+    ],
+    "attention_bias": 0.5,
+    "matula_prime": 1,
+    "filing_relevance": {}
+  },
+  "STOCK_ADJUSTMENT_FRAUD": {
+    "type": "relation",
+    "embedding": [
+      0.5,
+      0.5,
+      0.5,
+      0.5,
+      0.5,
+      0.5
+    ],
+    "attention_bias": 0.5,
+    "matula_prime": 1,
+    "filing_relevance": {}
+  },
+  "TRUST_CAPTURE_SEQUENCE": {
+    "type": "relation",
+    "embedding": [
+      0.5,
+      0.5,
+      0.5,
+      0.5,
+      0.5,
+      0.5
+    ],
+    "attention_bias": 0.5,
+    "matula_prime": 1,
+    "filing_relevance": {}
+  },
+  "VILLA_VIA_KAYLOVEST_IDENTITY": {
+    "type": "relation",
+    "embedding": [
+      0.5,
+      0.5,
+      0.5,
+      0.5,
+      0.5,
+      0.5
+    ],
+    "attention_bias": 0.5,
+    "matula_prime": 1,
+    "filing_relevance": {}
+  },
+  "VILLA_VIA_PROFIT_EXTRACTION": {
+    "type": "relation",
+    "embedding": [
+      0.5,
+      0.5,
+      0.5,
+      0.5,
+      0.5,
+      0.5
+    ],
+    "attention_bias": 0.5,
+    "matula_prime": 1,
+    "filing_relevance": {}
+  },
+  "director_of": {
+    "type": "relation",
+    "embedding": [
+      0.5,
+      0.5,
+      0.5,
+      0.5,
+      0.5,
+      0.5
+    ],
+    "attention_bias": 0.5,
+    "matula_prime": 1,
+    "filing_relevance": {}
+  },
+  "financial_flow": {
+    "type": "relation",
+    "embedding": [
+      0.5,
+      0.5,
+      0.5,
+      0.5,
+      0.5,
+      0.5
+    ],
+    "attention_bias": 0.5,
+    "matula_prime": 1,
+    "filing_relevance": {}
+  },
+  "sabotage_framing_link": {
+    "type": "relation",
+    "embedding": [
+      0.5,
+      0.5,
+      0.5,
+      0.5,
+      0.5,
+      0.5
+    ],
+    "attention_bias": 0.5,
+    "matula_prime": 1,
+    "filing_relevance": {}
+  },
+  "shareholder_of": {
+    "type": "relation",
+    "embedding": [
+      0.5,
+      0.5,
+      0.5,
+      0.5,
+      0.5,
+      0.5
+    ],
+    "attention_bias": 0.5,
+    "matula_prime": 1,
+    "filing_relevance": {}
+  },
+  "trustee_of": {
+    "type": "relation",
+    "embedding": [
+      0.5,
+      0.5,
+      0.5,
+      0.5,
+      0.5,
+      0.5
+    ],
+    "attention_bias": 0.5,
+    "matula_prime": 1,
+    "filing_relevance": {}
+  },
+  "REL_RST_ELLIOTT_CONFLICT": {
+    "type": "relation",
+    "embedding": [
+      0.5,
+      0.5,
+      0.5,
+      0.5,
+      0.5,
+      0.5
+    ],
+    "attention_bias": 0.5,
+    "matula_prime": 1,
+    "filing_relevance": {}
+  },
+  "REL_PETER_ADMISSION_CHAIN": {
+    "type": "relation",
+    "embedding": [
+      0.5,
+      0.5,
+      0.5,
+      0.5,
+      0.5,
+      0.5
+    ],
+    "attention_bias": 0.5,
+    "matula_prime": 1,
+    "filing_relevance": {}
+  },
+  "REL_CASE_NUMBER_COLLISION": {
+    "type": "relation",
+    "embedding": [
+      0.5,
+      0.5,
+      0.5,
+      0.5,
+      0.5,
+      0.5
+    ],
+    "attention_bias": 0.5,
+    "matula_prime": 1,
+    "filing_relevance": {}
+  },
+  "REL_MAZARS_ENGAGEMENT_ANOMALY": {
+    "type": "relation",
+    "embedding": [
+      0.5,
+      0.5,
+      0.5,
+      0.5,
+      0.5,
+      0.5
+    ],
+    "attention_bias": 0.5,
+    "matula_prime": 1,
+    "filing_relevance": {}
+  },
+  "EVENT_071": {
+    "type": "event",
+    "embedding": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "attention_bias": 0.5,
+    "matula_prime": 1,
+    "filing_relevance": {}
+  },
+  "EVENT_H011": {
+    "type": "event",
+    "embedding": [
+      0.005,
+      0.005,
+      0.005,
+      0.005,
+      0.005,
+      0.005
+    ],
+    "attention_bias": 0.5,
+    "matula_prime": 1,
+    "filing_relevance": {}
+  },
+  "EVENT_072": {
+    "type": "event",
+    "embedding": [
+      0.01,
+      0.01,
+      0.01,
+      0.01,
+      0.01,
+      0.01
+    ],
+    "attention_bias": 0.5,
+    "matula_prime": 1,
+    "filing_relevance": {}
+  },
+  "EVENT_H001": {
+    "type": "event",
+    "embedding": [
+      0.015,
+      0.015,
+      0.015,
+      0.015,
+      0.015,
+      0.015
+    ],
+    "attention_bias": 0.5,
+    "matula_prime": 1,
+    "filing_relevance": {}
+  },
+  "EVENT_H002": {
+    "type": "event",
+    "embedding": [
+      0.02,
+      0.02,
+      0.02,
+      0.02,
+      0.02,
+      0.02
+    ],
+    "attention_bias": 0.5,
+    "matula_prime": 1,
+    "filing_relevance": {}
+  },
+  "EVENT_113": {
+    "type": "event",
+    "embedding": [
+      0.025,
+      0.025,
+      0.025,
+      0.025,
+      0.025,
+      0.025
+    ],
+    "attention_bias": 0.5,
+    "matula_prime": 1,
+    "filing_relevance": {}
+  },
+  "EVENT_H012": {
+    "type": "event",
+    "embedding": [
+      0.03,
+      0.03,
+      0.03,
+      0.03,
+      0.03,
+      0.03
+    ],
+    "attention_bias": 0.5,
+    "matula_prime": 1,
+    "filing_relevance": {}
+  },
+  "EVENT_H003": {
+    "type": "event",
+    "embedding": [
+      0.035,
+      0.035,
+      0.035,
+      0.035,
+      0.035,
+      0.035
+    ],
+    "attention_bias": 0.5,
+    "matula_prime": 1,
+    "filing_relevance": {}
+  },
+  "EVENT_H004": {
+    "type": "event",
+    "embedding": [
+      0.04,
+      0.04,
+      0.04,
+      0.04,
+      0.04,
+      0.04
+    ],
+    "attention_bias": 0.5,
+    "matula_prime": 1,
+    "filing_relevance": {}
+  },
+  "EVENT_082": {
+    "type": "event",
+    "embedding": [
+      0.045,
+      0.045,
+      0.045,
+      0.045,
+      0.045,
+      0.045
+    ],
+    "attention_bias": 0.5,
+    "matula_prime": 1,
+    "filing_relevance": {}
+  },
+  "EVENT_091": {
+    "type": "event",
+    "embedding": [
+      0.05,
+      0.05,
+      0.05,
+      0.05,
+      0.05,
+      0.05
+    ],
+    "attention_bias": 0.5,
+    "matula_prime": 1,
+    "filing_relevance": {}
+  },
+  "EVENT_085": {
+    "type": "event",
+    "embedding": [
+      0.055,
+      0.055,
+      0.055,
+      0.055,
+      0.055,
+      0.055
+    ],
+    "attention_bias": 0.5,
+    "matula_prime": 1,
+    "filing_relevance": {}
+  },
+  "EVENT_051": {
+    "type": "event",
+    "embedding": [
+      0.06,
+      0.06,
+      0.06,
+      0.06,
+      0.06,
+      0.06
+    ],
+    "attention_bias": 0.5,
+    "matula_prime": 1,
+    "filing_relevance": {}
+  },
+  "EVENT_H005": {
+    "type": "event",
+    "embedding": [
+      0.065,
+      0.065,
+      0.065,
+      0.065,
+      0.065,
+      0.065
+    ],
+    "attention_bias": 0.5,
+    "matula_prime": 1,
+    "filing_relevance": {}
+  },
+  "EVENT_052": {
+    "type": "event",
+    "embedding": [
+      0.07,
+      0.07,
+      0.07,
+      0.07,
+      0.07,
+      0.07
+    ],
+    "attention_bias": 0.5,
+    "matula_prime": 1,
+    "filing_relevance": {}
+  },
+  "EVENT_078": {
+    "type": "event",
+    "embedding": [
+      0.075,
+      0.075,
+      0.075,
+      0.075,
+      0.075,
+      0.075
+    ],
+    "attention_bias": 0.5,
+    "matula_prime": 1,
+    "filing_relevance": {}
+  },
+  "EVENT_089": {
+    "type": "event",
+    "embedding": [
+      0.08,
+      0.08,
+      0.08,
+      0.08,
+      0.08,
+      0.08
+    ],
+    "attention_bias": 0.5,
+    "matula_prime": 1,
+    "filing_relevance": {}
+  },
+  "EVENT_H006": {
+    "type": "event",
+    "embedding": [
+      0.085,
+      0.085,
+      0.085,
+      0.085,
+      0.085,
+      0.085
+    ],
+    "attention_bias": 0.5,
+    "matula_prime": 1,
+    "filing_relevance": {}
+  },
+  "EVENT_053": {
+    "type": "event",
+    "embedding": [
+      0.09,
+      0.09,
+      0.09,
+      0.09,
+      0.09,
+      0.09
+    ],
+    "attention_bias": 0.5,
+    "matula_prime": 1,
+    "filing_relevance": {}
+  },
+  "EVENT_H007": {
+    "type": "event",
+    "embedding": [
+      0.095,
+      0.095,
+      0.095,
+      0.095,
+      0.095,
+      0.095
+    ],
+    "attention_bias": 0.5,
+    "matula_prime": 1,
+    "filing_relevance": {}
+  },
+  "EVENT_080": {
+    "type": "event",
+    "embedding": [
+      0.1,
+      0.1,
+      0.1,
+      0.1,
+      0.1,
+      0.1
+    ],
+    "attention_bias": 0.5,
+    "matula_prime": 1,
+    "filing_relevance": {}
+  },
+  "EVENT_048": {
+    "type": "event",
+    "embedding": [
+      0.105,
+      0.105,
+      0.105,
+      0.105,
+      0.105,
+      0.105
+    ],
+    "attention_bias": 0.5,
+    "matula_prime": 1,
+    "filing_relevance": {}
+  },
+  "EVENT_H008": {
+    "type": "event",
+    "embedding": [
+      0.11,
+      0.11,
+      0.11,
+      0.11,
+      0.11,
+      0.11
+    ],
+    "attention_bias": 0.5,
+    "matula_prime": 1,
+    "filing_relevance": {}
+  },
+  "EVENT_H018": {
+    "type": "event",
+    "embedding": [
+      0.115,
+      0.115,
+      0.115,
+      0.115,
+      0.115,
+      0.115
+    ],
+    "attention_bias": 0.5,
+    "matula_prime": 1,
+    "filing_relevance": {}
+  },
+  "EVENT_079": {
+    "type": "event",
+    "embedding": [
+      0.12,
+      0.12,
+      0.12,
+      0.12,
+      0.12,
+      0.12
+    ],
+    "attention_bias": 0.5,
+    "matula_prime": 1,
+    "filing_relevance": {}
+  },
+  "EVENT_090": {
+    "type": "event",
+    "embedding": [
+      0.125,
+      0.125,
+      0.125,
+      0.125,
+      0.125,
+      0.125
+    ],
+    "attention_bias": 0.5,
+    "matula_prime": 1,
+    "filing_relevance": {}
+  },
+  "EVENT_081": {
+    "type": "event",
+    "embedding": [
+      0.13,
+      0.13,
+      0.13,
+      0.13,
+      0.13,
+      0.13
+    ],
+    "attention_bias": 0.5,
+    "matula_prime": 1,
+    "filing_relevance": {}
+  },
+  "EVENT_088": {
+    "type": "event",
+    "embedding": [
+      0.135,
+      0.135,
+      0.135,
+      0.135,
+      0.135,
+      0.135
+    ],
+    "attention_bias": 0.5,
+    "matula_prime": 1,
+    "filing_relevance": {}
+  },
+  "EVENT_H009": {
+    "type": "event",
+    "embedding": [
+      0.14,
+      0.14,
+      0.14,
+      0.14,
+      0.14,
+      0.14
+    ],
+    "attention_bias": 0.5,
+    "matula_prime": 1,
+    "filing_relevance": {}
+  },
+  "EVENT_122": {
+    "type": "event",
+    "embedding": [
+      0.145,
+      0.145,
+      0.145,
+      0.145,
+      0.145,
+      0.145
+    ],
+    "attention_bias": 0.5,
+    "matula_prime": 1,
+    "filing_relevance": {}
+  },
+  "EVENT_083": {
+    "type": "event",
+    "embedding": [
+      0.15,
+      0.15,
+      0.15,
+      0.15,
+      0.15,
+      0.15
+    ],
+    "attention_bias": 0.5,
+    "matula_prime": 1,
+    "filing_relevance": {}
+  },
+  "EVENT_084": {
+    "type": "event",
+    "embedding": [
+      0.155,
+      0.155,
+      0.155,
+      0.155,
+      0.155,
+      0.155
+    ],
+    "attention_bias": 0.5,
+    "matula_prime": 1,
+    "filing_relevance": {}
+  },
+  "EVENT_106": {
+    "type": "event",
+    "embedding": [
+      0.16,
+      0.16,
+      0.16,
+      0.16,
+      0.16,
+      0.16
+    ],
+    "attention_bias": 0.5,
+    "matula_prime": 1,
+    "filing_relevance": {}
+  },
+  "EVENT_D001": {
+    "type": "event",
+    "embedding": [
+      0.165,
+      0.165,
+      0.165,
+      0.165,
+      0.165,
+      0.165
+    ],
+    "attention_bias": 0.5,
+    "matula_prime": 1,
+    "filing_relevance": {}
+  },
+  "EVENT_D002": {
+    "type": "event",
+    "embedding": [
+      0.17,
+      0.17,
+      0.17,
+      0.17,
+      0.17,
+      0.17
+    ],
+    "attention_bias": 0.5,
+    "matula_prime": 1,
+    "filing_relevance": {}
+  },
+  "EVENT_067": {
+    "type": "event",
+    "embedding": [
+      0.175,
+      0.175,
+      0.175,
+      0.175,
+      0.175,
+      0.175
+    ],
+    "attention_bias": 0.5,
+    "matula_prime": 1,
+    "filing_relevance": {}
+  },
+  "EVENT_017_REZONANCE_DEBT_MANIPULATION": {
+    "type": "event",
+    "embedding": [
+      0.18,
+      0.18,
+      0.18,
+      0.18,
+      0.18,
+      0.18
+    ],
+    "attention_bias": 0.5,
+    "matula_prime": 1,
+    "filing_relevance": {}
+  },
+  "EVENT_D003": {
+    "type": "event",
+    "embedding": [
+      0.185,
+      0.185,
+      0.185,
+      0.185,
+      0.185,
+      0.185
+    ],
+    "attention_bias": 0.5,
+    "matula_prime": 1,
+    "filing_relevance": {}
+  },
+  "EVENT_D004": {
+    "type": "event",
+    "embedding": [
+      0.19,
+      0.19,
+      0.19,
+      0.19,
+      0.19,
+      0.19
+    ],
+    "attention_bias": 0.5,
+    "matula_prime": 1,
+    "filing_relevance": {}
+  },
+  "EVENT_K001": {
+    "type": "event",
+    "embedding": [
+      0.195,
+      0.195,
+      0.195,
+      0.195,
+      0.195,
+      0.195
+    ],
+    "attention_bias": 0.5,
+    "matula_prime": 1,
+    "filing_relevance": {}
+  },
+  "EVENT_108": {
+    "type": "event",
+    "embedding": [
+      0.2,
+      0.2,
+      0.2,
+      0.2,
+      0.2,
+      0.2
+    ],
+    "attention_bias": 0.5,
+    "matula_prime": 1,
+    "filing_relevance": {}
+  },
+  "EVENT_H010": {
+    "type": "event",
+    "embedding": [
+      0.205,
+      0.205,
+      0.205,
+      0.205,
+      0.205,
+      0.205
+    ],
+    "attention_bias": 0.5,
+    "matula_prime": 1,
+    "filing_relevance": {}
+  },
+  "EVENT_086": {
+    "type": "event",
+    "embedding": [
+      0.21,
+      0.21,
+      0.21,
+      0.21,
+      0.21,
+      0.21
+    ],
+    "attention_bias": 0.5,
+    "matula_prime": 1,
+    "filing_relevance": {}
+  },
+  "EVENT_087": {
+    "type": "event",
+    "embedding": [
+      0.215,
+      0.215,
+      0.215,
+      0.215,
+      0.215,
+      0.215
+    ],
+    "attention_bias": 0.5,
+    "matula_prime": 1,
+    "filing_relevance": {}
+  },
+  "EVENT_D005": {
+    "type": "event",
+    "embedding": [
+      0.22,
+      0.22,
+      0.22,
+      0.22,
+      0.22,
+      0.22
+    ],
+    "attention_bias": 0.5,
+    "matula_prime": 1,
+    "filing_relevance": {}
+  },
+  "EVENT_112": {
+    "type": "event",
+    "embedding": [
+      0.225,
+      0.225,
+      0.225,
+      0.225,
+      0.225,
+      0.225
+    ],
+    "attention_bias": 0.5,
+    "matula_prime": 1,
+    "filing_relevance": {}
+  },
+  "EVENT_073": {
+    "type": "event",
+    "embedding": [
+      0.23,
+      0.23,
+      0.23,
+      0.23,
+      0.23,
+      0.23
+    ],
+    "attention_bias": 0.5,
+    "matula_prime": 1,
+    "filing_relevance": {}
+  },
+  "EVT-068": {
+    "type": "event",
+    "embedding": [
+      0.235,
+      0.235,
+      0.235,
+      0.235,
+      0.235,
+      0.235
+    ],
+    "attention_bias": 0.5,
+    "matula_prime": 1,
+    "filing_relevance": {}
+  },
+  "EVENT_107": {
+    "type": "event",
+    "embedding": [
+      0.24,
+      0.24,
+      0.24,
+      0.24,
+      0.24,
+      0.24
+    ],
+    "attention_bias": 0.5,
+    "matula_prime": 1,
+    "filing_relevance": {}
+  },
+  "EVENT_111": {
+    "type": "event",
+    "embedding": [
+      0.245,
+      0.245,
+      0.245,
+      0.245,
+      0.245,
+      0.245
+    ],
+    "attention_bias": 0.5,
+    "matula_prime": 1,
+    "filing_relevance": {}
+  },
+  "EVENT_103": {
+    "type": "event",
+    "embedding": [
+      0.25,
+      0.25,
+      0.25,
+      0.25,
+      0.25,
+      0.25
+    ],
+    "attention_bias": 0.5,
+    "matula_prime": 1,
+    "filing_relevance": {}
+  },
+  "EVENT_015_SAGE_SABOTAGE": {
+    "type": "event",
+    "embedding": [
+      0.255,
+      0.255,
+      0.255,
+      0.255,
+      0.255,
+      0.255
+    ],
+    "attention_bias": 0.5,
+    "matula_prime": 1,
+    "filing_relevance": {}
+  },
+  "EVENT_175": {
+    "type": "event",
+    "embedding": [
+      0.26,
+      0.26,
+      0.26,
+      0.26,
+      0.26,
+      0.26
+    ],
+    "attention_bias": 0.5,
+    "matula_prime": 1,
+    "filing_relevance": {}
+  },
+  "EVENT_110": {
+    "type": "event",
+    "embedding": [
+      0.265,
+      0.265,
+      0.265,
+      0.265,
+      0.265,
+      0.265
+    ],
+    "attention_bias": 0.5,
+    "matula_prime": 1,
+    "filing_relevance": {}
+  },
+  "EVENT_174": {
+    "type": "event",
+    "embedding": [
+      0.27,
+      0.27,
+      0.27,
+      0.27,
+      0.27,
+      0.27
+    ],
+    "attention_bias": 0.5,
+    "matula_prime": 1,
+    "filing_relevance": {}
+  },
+  "EVT-069": {
+    "type": "event",
+    "embedding": [
+      0.275,
+      0.275,
+      0.275,
+      0.275,
+      0.275,
+      0.275
+    ],
+    "attention_bias": 0.5,
+    "matula_prime": 1,
+    "filing_relevance": {}
+  },
+  "EVENT_054": {
+    "type": "event",
+    "embedding": [
+      0.28,
+      0.28,
+      0.28,
+      0.28,
+      0.28,
+      0.28
+    ],
+    "attention_bias": 0.5,
+    "matula_prime": 1,
+    "filing_relevance": {}
+  },
+  "EVENT_018_XENOPHONTOS_KETONI": {
+    "type": "event",
+    "embedding": [
+      0.285,
+      0.285,
+      0.285,
+      0.285,
+      0.285,
+      0.285
+    ],
+    "attention_bias": 0.5,
+    "matula_prime": 1,
+    "filing_relevance": {}
+  },
+  "EVENT_022": {
+    "type": "event",
+    "embedding": [
+      0.29,
+      0.29,
+      0.29,
+      0.29,
+      0.29,
+      0.29
+    ],
+    "attention_bias": 0.5,
+    "matula_prime": 1,
+    "filing_relevance": {}
+  },
+  "EVENT_028": {
+    "type": "event",
+    "embedding": [
+      0.295,
+      0.295,
+      0.295,
+      0.295,
+      0.295,
+      0.295
+    ],
+    "attention_bias": 0.5,
+    "matula_prime": 1,
+    "filing_relevance": {}
+  },
+  "EVENT_001": {
+    "type": "event",
+    "embedding": [
+      0.3,
+      0.3,
+      0.3,
+      0.3,
+      0.3,
+      0.3
+    ],
+    "attention_bias": 0.5,
+    "matula_prime": 1,
+    "filing_relevance": {}
+  },
+  "EVENT_024": {
+    "type": "event",
+    "embedding": [
+      0.305,
+      0.305,
+      0.305,
+      0.305,
+      0.305,
+      0.305
+    ],
+    "attention_bias": 0.5,
+    "matula_prime": 1,
+    "filing_relevance": {}
+  },
+  "EVENT_123": {
+    "type": "event",
+    "embedding": [
+      0.31,
+      0.31,
+      0.31,
+      0.31,
+      0.31,
+      0.31
+    ],
+    "attention_bias": 0.5,
+    "matula_prime": 1,
+    "filing_relevance": {}
+  },
+  "EVENT_002": {
+    "type": "event",
+    "embedding": [
+      0.315,
+      0.315,
+      0.315,
+      0.315,
+      0.315,
+      0.315
+    ],
+    "attention_bias": 0.5,
+    "matula_prime": 1,
+    "filing_relevance": {}
+  },
+  "EVENT_025": {
+    "type": "event",
+    "embedding": [
+      0.32,
+      0.32,
+      0.32,
+      0.32,
+      0.32,
+      0.32
+    ],
+    "attention_bias": 0.5,
+    "matula_prime": 1,
+    "filing_relevance": {}
+  },
+  "EVENT_003": {
+    "type": "event",
+    "embedding": [
+      0.325,
+      0.325,
+      0.325,
+      0.325,
+      0.325,
+      0.325
+    ],
+    "attention_bias": 0.5,
+    "matula_prime": 1,
+    "filing_relevance": {}
+  },
+  "EVENT_004": {
+    "type": "event",
+    "embedding": [
+      0.33,
+      0.33,
+      0.33,
+      0.33,
+      0.33,
+      0.33
+    ],
+    "attention_bias": 0.5,
+    "matula_prime": 1,
+    "filing_relevance": {}
+  },
+  "EVENT_005": {
+    "type": "event",
+    "embedding": [
+      0.335,
+      0.335,
+      0.335,
+      0.335,
+      0.335,
+      0.335
+    ],
+    "attention_bias": 0.5,
+    "matula_prime": 1,
+    "filing_relevance": {}
+  },
+  "EVENT_029": {
+    "type": "event",
+    "embedding": [
+      0.34,
+      0.34,
+      0.34,
+      0.34,
+      0.34,
+      0.34
+    ],
+    "attention_bias": 0.5,
+    "matula_prime": 1,
+    "filing_relevance": {}
+  },
+  "EVENT_055": {
+    "type": "event",
+    "embedding": [
+      0.345,
+      0.345,
+      0.345,
+      0.345,
+      0.345,
+      0.345
+    ],
+    "attention_bias": 0.5,
+    "matula_prime": 1,
+    "filing_relevance": {}
+  },
+  "EVENT_056": {
+    "type": "event",
+    "embedding": [
+      0.35,
+      0.35,
+      0.35,
+      0.35,
+      0.35,
+      0.35
+    ],
+    "attention_bias": 0.5,
+    "matula_prime": 1,
+    "filing_relevance": {}
+  },
+  "EVENT_006": {
+    "type": "event",
+    "embedding": [
+      0.355,
+      0.355,
+      0.355,
+      0.355,
+      0.355,
+      0.355
+    ],
+    "attention_bias": 0.5,
+    "matula_prime": 1,
+    "filing_relevance": {}
+  },
+  "EVENT_007": {
+    "type": "event",
+    "embedding": [
+      0.36,
+      0.36,
+      0.36,
+      0.36,
+      0.36,
+      0.36
+    ],
+    "attention_bias": 0.5,
+    "matula_prime": 1,
+    "filing_relevance": {}
+  },
+  "EVENT_008": {
+    "type": "event",
+    "embedding": [
+      0.365,
+      0.365,
+      0.365,
+      0.365,
+      0.365,
+      0.365
+    ],
+    "attention_bias": 0.5,
+    "matula_prime": 1,
+    "filing_relevance": {}
+  },
+  "EVENT_050": {
+    "type": "event",
+    "embedding": [
+      0.37,
+      0.37,
+      0.37,
+      0.37,
+      0.37,
+      0.37
+    ],
+    "attention_bias": 0.5,
+    "matula_prime": 1,
+    "filing_relevance": {}
+  },
+  "EVENT_009": {
+    "type": "event",
+    "embedding": [
+      0.375,
+      0.375,
+      0.375,
+      0.375,
+      0.375,
+      0.375
+    ],
+    "attention_bias": 0.5,
+    "matula_prime": 1,
+    "filing_relevance": {}
+  },
+  "EVENT_137_BANTJIES_SECRET_FORWARD": {
+    "type": "event",
+    "embedding": [
+      0.38,
+      0.38,
+      0.38,
+      0.38,
+      0.38,
+      0.38
+    ],
+    "attention_bias": 0.5,
+    "matula_prime": 1,
+    "filing_relevance": {}
+  },
+  "EVENT_010": {
+    "type": "event",
+    "embedding": [
+      0.385,
+      0.385,
+      0.385,
+      0.385,
+      0.385,
+      0.385
+    ],
+    "attention_bias": 0.5,
+    "matula_prime": 1,
+    "filing_relevance": {}
+  },
+  "EVENT_011": {
+    "type": "event",
+    "embedding": [
+      0.39,
+      0.39,
+      0.39,
+      0.39,
+      0.39,
+      0.39
+    ],
+    "attention_bias": 0.5,
+    "matula_prime": 1,
+    "filing_relevance": {}
+  },
+  "EVENT_057": {
+    "type": "event",
+    "embedding": [
+      0.395,
+      0.395,
+      0.395,
+      0.395,
+      0.395,
+      0.395
+    ],
+    "attention_bias": 0.5,
+    "matula_prime": 1,
+    "filing_relevance": {}
+  },
+  "EVENT_126": {
+    "type": "event",
+    "embedding": [
+      0.4,
+      0.4,
+      0.4,
+      0.4,
+      0.4,
+      0.4
+    ],
+    "attention_bias": 0.5,
+    "matula_prime": 1,
+    "filing_relevance": {}
+  },
+  "EVENT_012": {
+    "type": "event",
+    "embedding": [
+      0.405,
+      0.405,
+      0.405,
+      0.405,
+      0.405,
+      0.405
+    ],
+    "attention_bias": 0.5,
+    "matula_prime": 1,
+    "filing_relevance": {}
+  },
+  "EVENT_023": {
+    "type": "event",
+    "embedding": [
+      0.41,
+      0.41,
+      0.41,
+      0.41,
+      0.41,
+      0.41
+    ],
+    "attention_bias": 0.5,
+    "matula_prime": 1,
+    "filing_relevance": {}
+  },
+  "EVENT_047": {
+    "type": "event",
+    "embedding": [
+      0.415,
+      0.415,
+      0.415,
+      0.415,
+      0.415,
+      0.415
+    ],
+    "attention_bias": 0.5,
+    "matula_prime": 1,
+    "filing_relevance": {}
+  },
+  "EVENT_058": {
+    "type": "event",
+    "embedding": [
+      0.42,
+      0.42,
+      0.42,
+      0.42,
+      0.42,
+      0.42
+    ],
+    "attention_bias": 0.5,
+    "matula_prime": 1,
+    "filing_relevance": {}
+  },
+  "EVENT_062": {
+    "type": "event",
+    "embedding": [
+      0.425,
+      0.425,
+      0.425,
+      0.425,
+      0.425,
+      0.425
+    ],
+    "attention_bias": 0.5,
+    "matula_prime": 1,
+    "filing_relevance": {}
+  },
+  "EVENT_066": {
+    "type": "event",
+    "embedding": [
+      0.43,
+      0.43,
+      0.43,
+      0.43,
+      0.43,
+      0.43
+    ],
+    "attention_bias": 0.5,
+    "matula_prime": 1,
+    "filing_relevance": {}
+  },
+  "EVT-063": {
+    "type": "event",
+    "embedding": [
+      0.435,
+      0.435,
+      0.435,
+      0.435,
+      0.435,
+      0.435
+    ],
+    "attention_bias": 0.5,
+    "matula_prime": 1,
+    "filing_relevance": {}
+  },
+  "EVT-064": {
+    "type": "event",
+    "embedding": [
+      0.44,
+      0.44,
+      0.44,
+      0.44,
+      0.44,
+      0.44
+    ],
+    "attention_bias": 0.5,
+    "matula_prime": 1,
+    "filing_relevance": {}
+  },
+  "EVENT_092": {
+    "type": "event",
+    "embedding": [
+      0.445,
+      0.445,
+      0.445,
+      0.445,
+      0.445,
+      0.445
+    ],
+    "attention_bias": 0.5,
+    "matula_prime": 1,
+    "filing_relevance": {}
+  },
+  "EVENT_093": {
+    "type": "event",
+    "embedding": [
+      0.45,
+      0.45,
+      0.45,
+      0.45,
+      0.45,
+      0.45
+    ],
+    "attention_bias": 0.5,
+    "matula_prime": 1,
+    "filing_relevance": {}
+  },
+  "EVENT_FNB001": {
+    "type": "event",
+    "embedding": [
+      0.455,
+      0.455,
+      0.455,
+      0.455,
+      0.455,
+      0.455
+    ],
+    "attention_bias": 0.5,
+    "matula_prime": 1,
+    "filing_relevance": {}
+  },
+  "EVENT_013": {
+    "type": "event",
+    "embedding": [
+      0.46,
+      0.46,
+      0.46,
+      0.46,
+      0.46,
+      0.46
+    ],
+    "attention_bias": 0.5,
+    "matula_prime": 1,
+    "filing_relevance": {}
+  },
+  "EVENT_094": {
+    "type": "event",
+    "embedding": [
+      0.465,
+      0.465,
+      0.465,
+      0.465,
+      0.465,
+      0.465
+    ],
+    "attention_bias": 0.5,
+    "matula_prime": 1,
+    "filing_relevance": {}
+  },
+  "EVENT_121": {
+    "type": "event",
+    "embedding": [
+      0.47,
+      0.47,
+      0.47,
+      0.47,
+      0.47,
+      0.47
+    ],
+    "attention_bias": 0.5,
+    "matula_prime": 1,
+    "filing_relevance": {}
+  },
+  "EVENT_FNB002": {
+    "type": "event",
+    "embedding": [
+      0.475,
+      0.475,
+      0.475,
+      0.475,
+      0.475,
+      0.475
+    ],
+    "attention_bias": 0.5,
+    "matula_prime": 1,
+    "filing_relevance": {}
+  },
+  "EVENT_014": {
+    "type": "event",
+    "embedding": [
+      0.48,
+      0.48,
+      0.48,
+      0.48,
+      0.48,
+      0.48
+    ],
+    "attention_bias": 0.5,
+    "matula_prime": 1,
+    "filing_relevance": {}
+  },
+  "EVENT_027": {
+    "type": "event",
+    "embedding": [
+      0.485,
+      0.485,
+      0.485,
+      0.485,
+      0.485,
+      0.485
+    ],
+    "attention_bias": 0.5,
+    "matula_prime": 1,
+    "filing_relevance": {}
+  },
+  "EVENT_SF2A": {
+    "type": "event",
+    "embedding": [
+      0.49,
+      0.49,
+      0.49,
+      0.49,
+      0.49,
+      0.49
+    ],
+    "attention_bias": 0.5,
+    "matula_prime": 1,
+    "filing_relevance": {}
+  },
+  "EVENT_064": {
+    "type": "event",
+    "embedding": [
+      0.495,
+      0.495,
+      0.495,
+      0.495,
+      0.495,
+      0.495
+    ],
+    "attention_bias": 0.5,
+    "matula_prime": 1,
+    "filing_relevance": {}
+  },
+  "EVENT_015": {
+    "type": "event",
+    "embedding": [
+      0.5,
+      0.5,
+      0.5,
+      0.5,
+      0.5,
+      0.5
+    ],
+    "attention_bias": 0.5,
+    "matula_prime": 1,
+    "filing_relevance": {}
+  },
+  "EVENT_016": {
+    "type": "event",
+    "embedding": [
+      0.505,
+      0.505,
+      0.505,
+      0.505,
+      0.505,
+      0.505
+    ],
+    "attention_bias": 0.5,
+    "matula_prime": 1,
+    "filing_relevance": {}
+  },
+  "EVT-065": {
+    "type": "event",
+    "embedding": [
+      0.51,
+      0.51,
+      0.51,
+      0.51,
+      0.51,
+      0.51
+    ],
+    "attention_bias": 0.5,
+    "matula_prime": 1,
+    "filing_relevance": {}
+  },
+  "EVENT_017": {
+    "type": "event",
+    "embedding": [
+      0.515,
+      0.515,
+      0.515,
+      0.515,
+      0.515,
+      0.515
+    ],
+    "attention_bias": 0.5,
+    "matula_prime": 1,
+    "filing_relevance": {}
+  },
+  "EVENT_065": {
+    "type": "event",
+    "embedding": [
+      0.52,
+      0.52,
+      0.52,
+      0.52,
+      0.52,
+      0.52
+    ],
+    "attention_bias": 0.5,
+    "matula_prime": 1,
+    "filing_relevance": {}
+  },
+  "EVENT_128": {
+    "type": "event",
+    "embedding": [
+      0.525,
+      0.525,
+      0.525,
+      0.525,
+      0.525,
+      0.525
+    ],
+    "attention_bias": 0.5,
+    "matula_prime": 1,
+    "filing_relevance": {}
+  },
+  "EVENT_SF2B": {
+    "type": "event",
+    "embedding": [
+      0.53,
+      0.53,
+      0.53,
+      0.53,
+      0.53,
+      0.53
+    ],
+    "attention_bias": 0.5,
+    "matula_prime": 1,
+    "filing_relevance": {}
+  },
+  "EVT-066": {
+    "type": "event",
+    "embedding": [
+      0.535,
+      0.535,
+      0.535,
+      0.535,
+      0.535,
+      0.535
+    ],
+    "attention_bias": 0.5,
+    "matula_prime": 1,
+    "filing_relevance": {}
+  },
+  "EVENT_018": {
+    "type": "event",
+    "embedding": [
+      0.54,
+      0.54,
+      0.54,
+      0.54,
+      0.54,
+      0.54
+    ],
+    "attention_bias": 0.5,
+    "matula_prime": 1,
+    "filing_relevance": {}
+  },
+  "EVENT_019": {
+    "type": "event",
+    "embedding": [
+      0.545,
+      0.545,
+      0.545,
+      0.545,
+      0.545,
+      0.545
+    ],
+    "attention_bias": 0.5,
+    "matula_prime": 1,
+    "filing_relevance": {}
+  },
+  "EVENT_059": {
+    "type": "event",
+    "embedding": [
+      0.55,
+      0.55,
+      0.55,
+      0.55,
+      0.55,
+      0.55
+    ],
+    "attention_bias": 0.5,
+    "matula_prime": 1,
+    "filing_relevance": {}
+  },
+  "EVENT_104": {
+    "type": "event",
+    "embedding": [
+      0.555,
+      0.555,
+      0.555,
+      0.555,
+      0.555,
+      0.555
+    ],
+    "attention_bias": 0.5,
+    "matula_prime": 1,
+    "filing_relevance": {}
+  },
+  "EVENT_049": {
+    "type": "event",
+    "embedding": [
+      0.56,
+      0.56,
+      0.56,
+      0.56,
+      0.56,
+      0.56
+    ],
+    "attention_bias": 0.5,
+    "matula_prime": 1,
+    "filing_relevance": {}
+  },
+  "EVENT_060": {
+    "type": "event",
+    "embedding": [
+      0.565,
+      0.565,
+      0.565,
+      0.565,
+      0.565,
+      0.565
+    ],
+    "attention_bias": 0.5,
+    "matula_prime": 1,
+    "filing_relevance": {}
+  },
+  "EVENT_026": {
+    "type": "event",
+    "embedding": [
+      0.57,
+      0.57,
+      0.57,
+      0.57,
+      0.57,
+      0.57
+    ],
+    "attention_bias": 0.5,
+    "matula_prime": 1,
+    "filing_relevance": {}
+  },
+  "EVENT_063": {
+    "type": "event",
+    "embedding": [
+      0.575,
+      0.575,
+      0.575,
+      0.575,
+      0.575,
+      0.575
+    ],
+    "attention_bias": 0.5,
+    "matula_prime": 1,
+    "filing_relevance": {}
+  },
+  "EVENT_020": {
+    "type": "event",
+    "embedding": [
+      0.58,
+      0.58,
+      0.58,
+      0.58,
+      0.58,
+      0.58
+    ],
+    "attention_bias": 0.5,
+    "matula_prime": 1,
+    "filing_relevance": {}
+  },
+  "EVENT_061": {
+    "type": "event",
+    "embedding": [
+      0.585,
+      0.585,
+      0.585,
+      0.585,
+      0.585,
+      0.585
+    ],
+    "attention_bias": 0.5,
+    "matula_prime": 1,
+    "filing_relevance": {}
+  },
+  "EVT-067": {
+    "type": "event",
+    "embedding": [
+      0.59,
+      0.59,
+      0.59,
+      0.59,
+      0.59,
+      0.59
+    ],
+    "attention_bias": 0.5,
+    "matula_prime": 1,
+    "filing_relevance": {}
+  },
+  "EVENT_125": {
+    "type": "event",
+    "embedding": [
+      0.595,
+      0.595,
+      0.595,
+      0.595,
+      0.595,
+      0.595
+    ],
+    "attention_bias": 0.5,
+    "matula_prime": 1,
+    "filing_relevance": {}
+  },
+  "EVENT_135": {
+    "type": "event",
+    "embedding": [
+      0.6,
+      0.6,
+      0.6,
+      0.6,
+      0.6,
+      0.6
+    ],
+    "attention_bias": 0.5,
+    "matula_prime": 1,
+    "filing_relevance": {}
+  },
+  "EVENT_021": {
+    "type": "event",
+    "embedding": [
+      0.605,
+      0.605,
+      0.605,
+      0.605,
+      0.605,
+      0.605
+    ],
+    "attention_bias": 0.5,
+    "matula_prime": 1,
+    "filing_relevance": {}
+  },
+  "EVENT_070": {
+    "type": "event",
+    "embedding": [
+      0.61,
+      0.61,
+      0.61,
+      0.61,
+      0.61,
+      0.61
+    ],
+    "attention_bias": 0.5,
+    "matula_prime": 1,
+    "filing_relevance": {}
+  },
+  "EVENT_016_SETTLEMENT_WITHDRAWAL": {
+    "type": "event",
+    "embedding": [
+      0.615,
+      0.615,
+      0.615,
+      0.615,
+      0.615,
+      0.615
+    ],
+    "attention_bias": 0.5,
+    "matula_prime": 1,
+    "filing_relevance": {}
+  },
+  "EVENT_SF9": {
+    "type": "event",
+    "embedding": [
+      0.62,
+      0.62,
+      0.62,
+      0.62,
+      0.62,
+      0.62
+    ],
+    "attention_bias": 0.5,
+    "matula_prime": 1,
+    "filing_relevance": {}
+  },
+  "EVENT_074": {
+    "type": "event",
+    "embedding": [
+      0.625,
+      0.625,
+      0.625,
+      0.625,
+      0.625,
+      0.625
+    ],
+    "attention_bias": 0.5,
+    "matula_prime": 1,
+    "filing_relevance": {}
+  },
+  "EVENT_075": {
+    "type": "event",
+    "embedding": [
+      0.63,
+      0.63,
+      0.63,
+      0.63,
+      0.63,
+      0.63
+    ],
+    "attention_bias": 0.5,
+    "matula_prime": 1,
+    "filing_relevance": {}
+  },
+  "EVENT_076": {
+    "type": "event",
+    "embedding": [
+      0.635,
+      0.635,
+      0.635,
+      0.635,
+      0.635,
+      0.635
+    ],
+    "attention_bias": 0.5,
+    "matula_prime": 1,
+    "filing_relevance": {}
+  },
+  "EVENT_077": {
+    "type": "event",
+    "embedding": [
+      0.64,
+      0.64,
+      0.64,
+      0.64,
+      0.64,
+      0.64
+    ],
+    "attention_bias": 0.5,
+    "matula_prime": 1,
+    "filing_relevance": {}
+  },
+  "EVENT_127": {
+    "type": "event",
+    "embedding": [
+      0.645,
+      0.645,
+      0.645,
+      0.645,
+      0.645,
+      0.645
+    ],
+    "attention_bias": 0.5,
+    "matula_prime": 1,
+    "filing_relevance": {}
+  },
+  "EVENT_134": {
+    "type": "event",
+    "embedding": [
+      0.65,
+      0.65,
+      0.65,
+      0.65,
+      0.65,
+      0.65
+    ],
+    "attention_bias": 0.5,
+    "matula_prime": 1,
+    "filing_relevance": {}
+  },
+  "EVENT_102": {
+    "type": "event",
+    "embedding": [
+      0.655,
+      0.655,
+      0.655,
+      0.655,
+      0.655,
+      0.655
+    ],
+    "attention_bias": 0.5,
+    "matula_prime": 1,
+    "filing_relevance": {}
+  },
+  "EVENT_129": {
+    "type": "event",
+    "embedding": [
+      0.66,
+      0.66,
+      0.66,
+      0.66,
+      0.66,
+      0.66
+    ],
+    "attention_bias": 0.5,
+    "matula_prime": 1,
+    "filing_relevance": {}
+  },
+  "EVENT_109": {
+    "type": "event",
+    "embedding": [
+      0.665,
+      0.665,
+      0.665,
+      0.665,
+      0.665,
+      0.665
+    ],
+    "attention_bias": 0.5,
+    "matula_prime": 1,
+    "filing_relevance": {}
+  },
+  "EVENT_130": {
+    "type": "event",
+    "embedding": [
+      0.67,
+      0.67,
+      0.67,
+      0.67,
+      0.67,
+      0.67
+    ],
+    "attention_bias": 0.5,
+    "matula_prime": 1,
+    "filing_relevance": {}
+  },
+  "EVENT_131": {
+    "type": "event",
+    "embedding": [
+      0.675,
+      0.675,
+      0.675,
+      0.675,
+      0.675,
+      0.675
+    ],
+    "attention_bias": 0.5,
+    "matula_prime": 1,
+    "filing_relevance": {}
+  },
+  "EVENT_133": {
+    "type": "event",
+    "embedding": [
+      0.68,
+      0.68,
+      0.68,
+      0.68,
+      0.68,
+      0.68
+    ],
+    "attention_bias": 0.5,
+    "matula_prime": 1,
+    "filing_relevance": {}
+  },
+  "KF0019_DETAILED_ANALYSIS": {
+    "type": "event",
+    "embedding": [
+      0.685,
+      0.685,
+      0.685,
+      0.685,
+      0.685,
+      0.685
+    ],
+    "attention_bias": 0.5,
+    "matula_prime": 1,
+    "filing_relevance": {}
+  },
+  "EVENT_132": {
+    "type": "event",
+    "embedding": [
+      0.69,
+      0.69,
+      0.69,
+      0.69,
+      0.69,
+      0.69
+    ],
+    "attention_bias": 0.5,
+    "matula_prime": 1,
+    "filing_relevance": {}
+  },
+  "EVENT_124": {
+    "type": "event",
+    "embedding": [
+      0.695,
+      0.695,
+      0.695,
+      0.695,
+      0.695,
+      0.695
+    ],
+    "attention_bias": 0.5,
+    "matula_prime": 1,
+    "filing_relevance": {}
+  },
+  "LITIGANT_IN_PERSON_GUIDE": {
+    "type": "event",
+    "embedding": [
+      0.7,
+      0.7,
+      0.7,
+      0.7,
+      0.7,
+      0.7
+    ],
+    "attention_bias": 0.5,
+    "matula_prime": 1,
+    "filing_relevance": {}
+  },
+  "EVENT_EML_001": {
+    "type": "event",
+    "embedding": [
+      0.705,
+      0.705,
+      0.705,
+      0.705,
+      0.705,
+      0.705
+    ],
+    "attention_bias": 0.5,
+    "matula_prime": 1,
+    "filing_relevance": {}
+  },
+  "EVENT_GWS_AUDIT_001": {
+    "type": "event",
+    "embedding": [
+      0.71,
+      0.71,
+      0.71,
+      0.71,
+      0.71,
+      0.71
+    ],
+    "attention_bias": 0.5,
+    "matula_prime": 1,
+    "filing_relevance": {}
+  },
+  "EVENT_SIM_001": {
+    "type": "event",
+    "embedding": [
+      0.715,
+      0.715,
+      0.715,
+      0.715,
+      0.715,
+      0.715
+    ],
+    "attention_bias": 0.5,
+    "matula_prime": 1,
+    "filing_relevance": {}
+  },
+  "EVENT_XPLAT_AUDIT_001": {
+    "type": "event",
+    "embedding": [
+      0.72,
+      0.72,
+      0.72,
+      0.72,
+      0.72,
+      0.72
+    ],
+    "attention_bias": 0.5,
+    "matula_prime": 1,
+    "filing_relevance": {}
+  },
+  "EVENT_136": {
+    "type": "event",
+    "embedding": [
+      0.725,
+      0.725,
+      0.725,
+      0.725,
+      0.725,
+      0.725
+    ],
+    "attention_bias": 0.5,
+    "matula_prime": 1,
+    "filing_relevance": {}
+  },
+  "ABUSE_OF_PROCESS_ANALYSIS": {
+    "type": "event",
+    "embedding": [
+      0.73,
+      0.73,
+      0.73,
+      0.73,
+      0.73,
+      0.73
+    ],
+    "attention_bias": 0.5,
+    "matula_prime": 1,
+    "filing_relevance": {}
+  },
+  "EVENT_095": {
+    "type": "event",
+    "embedding": [
+      0.735,
+      0.735,
+      0.735,
+      0.735,
+      0.735,
+      0.735
+    ],
+    "attention_bias": 0.5,
+    "matula_prime": 1,
+    "filing_relevance": {}
+  },
+  "EVENT_096": {
+    "type": "event",
+    "embedding": [
+      0.74,
+      0.74,
+      0.74,
+      0.74,
+      0.74,
+      0.74
+    ],
+    "attention_bias": 0.5,
+    "matula_prime": 1,
+    "filing_relevance": {}
+  },
+  "EVENT_097": {
+    "type": "event",
+    "embedding": [
+      0.745,
+      0.745,
+      0.745,
+      0.745,
+      0.745,
+      0.745
+    ],
+    "attention_bias": 0.5,
+    "matula_prime": 1,
+    "filing_relevance": {}
+  },
+  "EVENT_098": {
+    "type": "event",
+    "embedding": [
+      0.75,
+      0.75,
+      0.75,
+      0.75,
+      0.75,
+      0.75
+    ],
+    "attention_bias": 0.5,
+    "matula_prime": 1,
+    "filing_relevance": {}
+  },
+  "EVENT_099": {
+    "type": "event",
+    "embedding": [
+      0.755,
+      0.755,
+      0.755,
+      0.755,
+      0.755,
+      0.755
+    ],
+    "attention_bias": 0.5,
+    "matula_prime": 1,
+    "filing_relevance": {}
+  },
+  "EVENT_100": {
+    "type": "event",
+    "embedding": [
+      0.76,
+      0.76,
+      0.76,
+      0.76,
+      0.76,
+      0.76
+    ],
+    "attention_bias": 0.5,
+    "matula_prime": 1,
+    "filing_relevance": {}
+  },
+  "EVENT_101": {
+    "type": "event",
+    "embedding": [
+      0.765,
+      0.765,
+      0.765,
+      0.765,
+      0.765,
+      0.765
+    ],
+    "attention_bias": 0.5,
+    "matula_prime": 1,
+    "filing_relevance": {}
+  },
+  "EVENT_105": {
+    "type": "event",
+    "embedding": [
+      0.77,
+      0.77,
+      0.77,
+      0.77,
+      0.77,
+      0.77
+    ],
+    "attention_bias": 0.5,
+    "matula_prime": 1,
+    "filing_relevance": {}
+  },
+  "EVENT_114": {
+    "type": "event",
+    "embedding": [
+      0.775,
+      0.775,
+      0.775,
+      0.775,
+      0.775,
+      0.775
+    ],
+    "attention_bias": 0.5,
+    "matula_prime": 1,
+    "filing_relevance": {}
+  },
+  "EVENT_115": {
+    "type": "event",
+    "embedding": [
+      0.78,
+      0.78,
+      0.78,
+      0.78,
+      0.78,
+      0.78
+    ],
+    "attention_bias": 0.5,
+    "matula_prime": 1,
+    "filing_relevance": {}
+  },
+  "EVENT_116": {
+    "type": "event",
+    "embedding": [
+      0.785,
+      0.785,
+      0.785,
+      0.785,
+      0.785,
+      0.785
+    ],
+    "attention_bias": 0.5,
+    "matula_prime": 1,
+    "filing_relevance": {}
+  },
+  "EVENT_117": {
+    "type": "event",
+    "embedding": [
+      0.79,
+      0.79,
+      0.79,
+      0.79,
+      0.79,
+      0.79
+    ],
+    "attention_bias": 0.5,
+    "matula_prime": 1,
+    "filing_relevance": {}
+  },
+  "EVENT_118": {
+    "type": "event",
+    "embedding": [
+      0.795,
+      0.795,
+      0.795,
+      0.795,
+      0.795,
+      0.795
+    ],
+    "attention_bias": 0.5,
+    "matula_prime": 1,
+    "filing_relevance": {}
+  },
+  "EVENT_119": {
+    "type": "event",
+    "embedding": [
+      0.8,
+      0.8,
+      0.8,
+      0.8,
+      0.8,
+      0.8
+    ],
+    "attention_bias": 0.5,
+    "matula_prime": 1,
+    "filing_relevance": {}
+  },
+  "EVENT_120": {
+    "type": "event",
+    "embedding": [
+      0.805,
+      0.805,
+      0.805,
+      0.805,
+      0.805,
+      0.805
+    ],
+    "attention_bias": 0.5,
+    "matula_prime": 1,
+    "filing_relevance": {}
+  },
+  "EVENT_INDEX_UPDATE_2026_03_07": {
+    "type": "event",
+    "embedding": [
+      0.81,
+      0.81,
+      0.81,
+      0.81,
+      0.81,
+      0.81
+    ],
+    "attention_bias": 0.5,
+    "matula_prime": 1,
+    "filing_relevance": {}
+  },
+  "EVT-070": {
+    "type": "event",
+    "embedding": [
+      0.815,
+      0.815,
+      0.815,
+      0.815,
+      0.815,
+      0.815
+    ],
+    "attention_bias": 0.5,
+    "matula_prime": 1,
+    "filing_relevance": {}
+  },
+  "EVT-071": {
+    "type": "event",
+    "embedding": [
+      0.82,
+      0.82,
+      0.82,
+      0.82,
+      0.82,
+      0.82
+    ],
+    "attention_bias": 0.5,
+    "matula_prime": 1,
+    "filing_relevance": {}
+  },
+  "EVT-072": {
+    "type": "event",
+    "embedding": [
+      0.825,
+      0.825,
+      0.825,
+      0.825,
+      0.825,
+      0.825
+    ],
+    "attention_bias": 0.5,
+    "matula_prime": 1,
+    "filing_relevance": {}
+  },
+  "EVT-073": {
+    "type": "event",
+    "embedding": [
+      0.83,
+      0.83,
+      0.83,
+      0.83,
+      0.83,
+      0.83
+    ],
+    "attention_bias": 0.5,
+    "matula_prime": 1,
+    "filing_relevance": {}
+  },
+  "EVT-074": {
+    "type": "event",
+    "embedding": [
+      0.835,
+      0.835,
+      0.835,
+      0.835,
+      0.835,
+      0.835
+    ],
+    "attention_bias": 0.5,
+    "matula_prime": 1,
+    "filing_relevance": {}
+  },
+  "EVT-075": {
+    "type": "event",
+    "embedding": [
+      0.84,
+      0.84,
+      0.84,
+      0.84,
+      0.84,
+      0.84
+    ],
+    "attention_bias": 0.5,
+    "matula_prime": 1,
+    "filing_relevance": {}
+  },
+  "EVT-076": {
+    "type": "event",
+    "embedding": [
+      0.845,
+      0.845,
+      0.845,
+      0.845,
+      0.845,
+      0.845
+    ],
+    "attention_bias": 0.5,
+    "matula_prime": 1,
+    "filing_relevance": {}
+  },
+  "EVT-077": {
+    "type": "event",
+    "embedding": [
+      0.85,
+      0.85,
+      0.85,
+      0.85,
+      0.85,
+      0.85
+    ],
+    "attention_bias": 0.5,
+    "matula_prime": 1,
+    "filing_relevance": {}
+  },
+  "EVT-078": {
+    "type": "event",
+    "embedding": [
+      0.855,
+      0.855,
+      0.855,
+      0.855,
+      0.855,
+      0.855
+    ],
+    "attention_bias": 0.5,
+    "matula_prime": 1,
+    "filing_relevance": {}
+  },
+  "KF0019_ANALYSIS": {
+    "type": "event",
+    "embedding": [
+      0.86,
+      0.86,
+      0.86,
+      0.86,
+      0.86,
+      0.86
+    ],
+    "attention_bias": 0.5,
+    "matula_prime": 1,
+    "filing_relevance": {}
+  },
+  "MULTI_ENTITY_CORRESPONDENT_FRAMEWORK": {
+    "type": "event",
+    "embedding": [
+      0.865,
+      0.865,
+      0.865,
+      0.865,
+      0.865,
+      0.865
+    ],
+    "attention_bias": 0.5,
+    "matula_prime": 1,
+    "filing_relevance": {}
+  },
+  "timeline": {
+    "type": "event",
+    "embedding": [
+      0.87,
+      0.87,
+      0.87,
+      0.87,
+      0.87,
+      0.87
+    ],
+    "attention_bias": 0.5,
+    "matula_prime": 1,
+    "filing_relevance": {}
+  },
+  "EVENT_182": {
+    "type": "event",
+    "embedding": [
+      0.875,
+      0.875,
+      0.875,
+      0.875,
+      0.875,
+      0.875
+    ],
+    "attention_bias": 0.5,
+    "matula_prime": 1,
+    "filing_relevance": {}
+  },
+  "EVENT_183": {
+    "type": "event",
+    "embedding": [
+      0.88,
+      0.88,
+      0.88,
+      0.88,
+      0.88,
+      0.88
+    ],
+    "attention_bias": 0.5,
+    "matula_prime": 1,
+    "filing_relevance": {}
+  },
+  "EVENT_184": {
+    "type": "event",
+    "embedding": [
+      0.885,
+      0.885,
+      0.885,
+      0.885,
+      0.885,
+      0.885
+    ],
+    "attention_bias": 0.5,
+    "matula_prime": 1,
+    "filing_relevance": {}
+  },
+  "EVENT_185": {
+    "type": "event",
+    "embedding": [
+      0.89,
+      0.89,
+      0.89,
+      0.89,
+      0.89,
+      0.89
+    ],
+    "attention_bias": 0.5,
+    "matula_prime": 1,
+    "filing_relevance": {}
+  },
+  "EVENT_186": {
+    "type": "event",
+    "embedding": [
+      0.895,
+      0.895,
+      0.895,
+      0.895,
+      0.895,
+      0.895
+    ],
+    "attention_bias": 0.5,
+    "matula_prime": 1,
+    "filing_relevance": {}
+  },
+  "EVENT_187": {
+    "type": "event",
+    "embedding": [
+      0.9,
+      0.9,
+      0.9,
+      0.9,
+      0.9,
+      0.9
+    ],
+    "attention_bias": 0.5,
+    "matula_prime": 1,
+    "filing_relevance": {}
+  }
+}

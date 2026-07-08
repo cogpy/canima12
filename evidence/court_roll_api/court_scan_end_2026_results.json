@@ -1,0 +1,24 @@
+{
+  "search_timestamp": "2026-06-15T16:06:52.649112",
+  "period": "2026-06-16 to 2026-12-31",
+  "targets": [
+    "137857",
+    "034662",
+    "115880",
+    "faucitt"
+  ],
+  "total_matches": 1,
+  "matches": [
+    {
+      "date": "2026-08-12",
+      "location": "Pretoria",
+      "ScheduleStartDate": null,
+      "Case": "PETER ANDREW FAUCITT  v. JACQUELINE  FAUCITT # 2025-137857 # KF0019",
+      "Location": null,
+      "Proceeding": "Motion",
+      "Judge": null,
+      "EventTitle": "Unopposed Motion  PETER ANDREW FAUCITT  v. JACQUELINE  FAUCITT # 2025-137857 # KF0019",
+      "CourtRoom": null
+    }
+  ]
+}

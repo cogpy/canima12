@@ -1,0 +1,31 @@
+{
+  "version": "v40_COMPREHENSIVE_BACKFILL",
+  "timestamp": "2026-07-06T12:15:27.130550",
+  "totals": {
+    "entities": 94,
+    "relations": 44,
+    "events": 166,
+    "timeline_entries": 211
+  },
+  "additions": {
+    "v35_events": 6,
+    "conspiracy_events": 12,
+    "entities": 1,
+    "relations": 8,
+    "timeline_entries": 54
+  },
+  "validation": {
+    "unresolved_actors": [
+      "Kevin Derrick",
+      "FFT",
+      "Ketoni",
+      "ORG_ADDERORY",
+      "Ian Levitt Attorneys",
+      "ORG_REGIMA_SA"
+    ],
+    "unresolved_relation_endpoints": [],
+    "all_actors_resolved": false,
+    "all_endpoints_resolved": true,
+    "timeline_sorted": true
+  }
+}

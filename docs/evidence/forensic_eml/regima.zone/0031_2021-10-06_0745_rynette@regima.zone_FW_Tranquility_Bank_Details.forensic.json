@@ -1,0 +1,55 @@
+{
+  "_schema": "exchange-forensic-eml/v1",
+  "_generated": "2026-03-10T03:53:52.417878+00:00",
+  "_source": "neon-exchange-sync",
+  "file_integrity": {
+    "eml_file": "/home/ubuntu/revstream1/docs/evidence/forensic_eml/regima.zone/0031_2021-10-06_0745_rynette@regima.zone_FW_Tranquility_Bank_Details.eml",
+    "file_size_bytes": 853,
+    "md5": "02f08d87c5755715c9405fc9e5779901",
+    "sha1": "b17a572db45d01c30c3a4e36c3e839461be4fc36",
+    "sha256": "5c7df199ff4501ac5c2ea675e240fbd553b1a732a13be62b806e91a263f0ba32"
+  },
+  "message_identity": {
+    "exchange_sync_id": "AAMkADMxMzkyY2FlLWNkMGEtNGM2My04OWFiLTNlZDRjNzkyNGUyMwBGAAAAAABIsq-8QjwARI3ssx6PhE4uBwAjJKKwT3w2RaZw2KOPO0ZiAAAAAAEJAAAjJKKwT3w2RaZw2KOPO0ZiAABTCqF_AAA=",
+    "internet_message_id": "<DB9PR08MB656942A9BA5734BE58840160BAB09@DB9PR08MB6569.eurprd08.prod.outlook.com>",
+    "conversation_id": "AAQkADMxMzkyY2FlLWNkMGEtNGM2My04OWFiLTNlZDRjNzkyNGUyMwAQAFJiawMTbUXRgUb-qpJUVDE="
+  },
+  "envelope": {
+    "subject": "FW: Tranquility Bank Details",
+    "from_name": "Rynette Farrar",
+    "from_address": "rynette@regima.zone",
+    "to_recipients": [
+      {
+        "name": "Jacqui Faucitt",
+        "address": "jax@regima.zone"
+      }
+    ],
+    "cc_recipients": [
+      {
+        "name": "JAX@REGIMA.COM",
+        "address": "JAX@REGIMA.COM"
+      },
+      {
+        "name": "PETE@REGIMA.COM",
+        "address": "PETE@REGIMA.COM"
+      },
+      {
+        "name": "Jacqui Faucitt",
+        "address": "jax@regima.zone"
+      }
+    ],
+    "received_datetime": "2021-10-06 07:45:00+00:00"
+  },
+  "mailbox_context": {
+    "user_email": "rynette@regima.zone",
+    "user_name": "Rynette Farrar",
+    "folder_name": "Sent Items",
+    "folder_id": "AQMkADMxMzkyY2FlLWNkMGEtNGM2My04OWFiLTNlZDRjNzkyNGUyMwAuAAADSLKv-EI8AESN7LMej4ROLgEAIySisE98NkWmcNijjztGYgAAAgEJAAAA"
+  },
+  "body": {
+    "content_type": null,
+    "preview": "I see that we have send you the details, but I cannot find anywhere that you have made payment.  Just check to see if there is a history for B Coenen’s before making any payment.\r\n\r\n\r\n\r\n\r\nFrom: Rynette Farrar\r\nSent: Tuesday, 31 August 2021 13:03\r\nTo: Jacq",
+    "body_length_chars": 0
+  },
+  "attachments": []
+}

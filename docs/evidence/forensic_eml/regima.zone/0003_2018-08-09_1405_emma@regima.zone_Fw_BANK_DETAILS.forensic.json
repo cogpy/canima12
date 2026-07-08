@@ -1,0 +1,42 @@
+{
+  "_schema": "exchange-forensic-eml/v1",
+  "_generated": "2026-03-10T03:53:51.030432+00:00",
+  "_source": "neon-exchange-sync",
+  "file_integrity": {
+    "eml_file": "/home/ubuntu/revstream1/docs/evidence/forensic_eml/regima.zone/0003_2018-08-09_1405_emma@regima.zone_Fw_BANK_DETAILS.eml",
+    "file_size_bytes": 741,
+    "md5": "b1751b0b473d5f5c94b7c6fe552c8a36",
+    "sha1": "6e18efcf5b57973a5f3718124b33812931a52c5c",
+    "sha256": "1db4f0c4417587e9c0c7b84b8f53f6667517c5f5fcff08b7b7b5f0d8e97fbbfc"
+  },
+  "message_identity": {
+    "exchange_sync_id": "AAMkAGM0ZWQyZWU3LWY2ZWQtNDkzOC04NDE3LWNmZGRhYzAyOTRmMABGAAAAAACAAALKIC32TbasMXDa2Ai-BwAg-uFl1xcHSovUuxgQ83HlAAAAAAEMAAAg-uFl1xcHSovUuxgQ83HlAAHWrFd_AAA=",
+    "internet_message_id": "<DB6PR0401MB248629B915DACCFEF042C777DB250@DB6PR0401MB2486.eurprd04.prod.outlook.com>",
+    "conversation_id": "AAQkAGM0ZWQyZWU3LWY2ZWQtNDkzOC04NDE3LWNmZGRhYzAyOTRmMAAQALlvYglf0KVEs1Ocasc2eeE="
+  },
+  "envelope": {
+    "subject": "Fw: BANK DETAILS",
+    "from_name": "Emma Wallis",
+    "from_address": "emma@regima.zone",
+    "to_recipients": [
+      {
+        "name": "RégimA UK Group",
+        "address": "uk@regima.zone"
+      }
+    ],
+    "cc_recipients": null,
+    "received_datetime": "2018-08-09 14:05:26+00:00"
+  },
+  "mailbox_context": {
+    "user_email": "vickyb@regima.zone",
+    "user_name": "Vicky Lewendon",
+    "folder_name": "Inbox",
+    "folder_id": "AAMkAGM0ZWQyZWU3LWY2ZWQtNDkzOC04NDE3LWNmZGRhYzAyOTRmMAAuAAAAAACAAALKIC32TbasMXDa2Ai-AQAg-uFl1xcHSovUuxgQ83HlAAAAAAEMAAA="
+  },
+  "body": {
+    "content_type": null,
+    "preview": "________________________________\r\nFrom: Emma Wallis\r\nSent: 09 August 2018 03:04 PM\r\nTo: info@prettyfacefinance.co.uk\r\nSubject: Re: BANK DETAILS\r\n\r\n\r\nPayment has been made, just to confirm the business details are:\r\n\r\n\r\nRegimA Zone Ltd\r\n\r\nUnit ",
+    "body_length_chars": 0
+  },
+  "attachments": []
+}

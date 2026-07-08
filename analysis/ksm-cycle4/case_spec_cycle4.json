@@ -1,0 +1,75 @@
+{
+  "case_id": "2025-137857",
+  "title": "Faucitt v Faucitt & Others — Revenue Stream Hijacking, Trust Capture & Racketeering",
+  "cycle": 4,
+  "previous_cycle": 3,
+  "previous_living_structure_score": 0.8371,
+  "previous_pillars": [
+    "PILLAR I — Material Non-Disclosure (founding/supporting affidavits)",
+    "PILLAR II — Perjury (Bantjies J417 + Peter founding affidavit)",
+    "PILLAR III — Legal Impossibility (Founder vs Trustee powers, sole mandate)",
+    "PILLAR IV — Fabrication (backdated trustee designation, 2019 fabricated FS)",
+    "PILLAR V — Weaponized Litigation (ex parte without urgency basis)",
+    "PILLAR VI — Bantjies Triple-Conflict Fraud",
+    "PILLAR VII — Settlement Duress (2-day pre-interdict signing)",
+    "PILLAR VIII — Digital Identity Control (zero Peter↔Elliot emails in 110,421)",
+    "PILLAR IX — Attorney Complicity (Elliot/ENS knowing acceptance of Rynette)"
+  ],
+  "weakest_quality_cycle3": {
+    "name": "Roughness",
+    "score": 0.76,
+    "diagnosis": "Filing language too template-driven; insufficient anchoring to specific post-interdict prejudice schedules and continuing-harm quantification."
+  },
+  "open_gaps_cycle3": [
+    "Commissioner of Oaths identity — who commissioned Peter's affidavit",
+    "Elliot Attorneys internal file — discovery application required",
+    "Peter's physical signature forensics — comparison with known specimens",
+    "SARS e-filing login records — who accessed account",
+    "Independent forensic audit — closes 15.1% criminal burden gap"
+  ],
+  "narrative_style": "introspective-legal-architectural",
+  "facts": "After three KSM-Alexander cycles the case has reached living-structure status (0.8371). All civil and regulatory burdens are exceeded (78.6%-80.7% vs 50% required). Criminal burdens sit at 79.5%-79.9% with a 15.1%-15.5% gap to the 95% threshold. The 26 March 2026 contempt judgment by Labuschagne J accepted respondent's defence on operational events but the applicant filed leave to appeal on 30 March 2026. A supplementary founding affidavit (16 March 2026, EVENT_178) opened a parallel s162 delinquent-director route alleging R10,847,862 in 'computer' expenses, but contains internal caption/body respondent-mismatch that requires legal-name normalization. The April 2026 reconsideration package (EVENT_RECON_2026) attacked the 19 August 2025 ex parte order on void-ab-initio grounds. New evidence (Sage Disclaimer Form, 94 Letter of Demand PDFs, Provable Foreknowledge document) substantially strengthened all centers in cycle 2.",
+  "scenario_input_ids": {
+    "scenario_enhanced": "scenario_enhanced.json",
+    "events": "data_models/events/events.json",
+    "entities": "data_models/entities/entities.json",
+    "relations": "data_models/relations/relations.json"
+  },
+  "candidate_latent_centers_cycle4": [
+    {
+      "name": "PILLAR X — Quantified Continuing Prejudice",
+      "rationale": "Strengthens Roughness (weakest at 0.76) by anchoring filings to a specific post-interdict extraction schedule (26 Aug–11 Sept 2025 + ongoing). Defeats Loophole 4 (Business Judgment) by separating motive/mechanism/result. Defeats Loophole 5 (Procedural Overload) by giving each filing a discrete prejudice schedule. Closes part of the criminal burden gap by quantifying continuing harm.",
+      "evidence_basis": "EVENT_125 (extraction window), EVENT_135 (continuing prejudice), EVENT_021 (downstream), bank emptying (R5,284 from R2.5M+ at RegimA SA), zero-income-since-June-2025 finding, R10,847,862 'computer' expenses challenge.",
+      "burden_uplift_estimated": "+0.04-0.07 across all centers; criminal burden moves from 79.9% → 84-87%."
+    },
+    {
+      "name": "PILLAR XI — Caption-Body Pleading Instability Trap",
+      "rationale": "EVENT_178 reveals the supplementary affidavit reverses third/fourth respondent identities between caption and body — RWD vs RST mismatch. Converts an internal pleading defect into an affirmative attack: 'the applicant cannot identify which entity it accuses, so the s162 delinquency relief is unsustainable on the papers.'",
+      "evidence_basis": "EVENT_178 transcribed affidavit (paras 2.3, 2.4 vs caption pages); March 2026 refinement report normalizing entity codes (RWD/RST/SLG/RSA/REZ/VVA).",
+      "burden_uplift_estimated": "+0.02-0.04 across regulatory and procedural filings; opens new Rule 30 / strike-out route."
+    },
+    {
+      "name": "PILLAR XII — Foreknowledge Convergence Lattice",
+      "rationale": "The provable-foreknowledge knowledge_matrix (cycle 2 evidence) combined with the 158-day timeline (March-August 2025) and the Ketoni T-9 to T-10 month convergence creates a tight lattice that defeats Loophole 2 (motive/operational split). Reframes Ketoni from 'background noise' to 'temporal organising principle' that explains why every control action clusters in the same 12-month window pre-payout.",
+      "evidence_basis": "Bantjies trustee appointment (28 Jun 2024, T-22mo), Sage capture (Jul 2024, T-22mo), forged trust amendment (28 Jun 2024), Jul 2025 'Main Trustee' backdating (T-10mo), Aug 2025 ex parte (T-9mo).",
+      "burden_uplift_estimated": "+0.03-0.05; converts circumstantial Ketoni evidence into structural anchor."
+    }
+  ],
+  "selected_latent_center": "PILLAR X — Quantified Continuing Prejudice",
+  "rationale_for_selection": "Strengthens the weakest quality (Roughness 0.76) most directly. Provides discrete, fact-anchored prejudice schedules that each filing can attach as a numbered annexure. Closes the largest single defence vulnerability (Loophole 4 — business judgment). Multiplicative effect: every existing pillar strengthens because continuing harm grounds them in present-tense, not historical, jurisdiction.",
+  "secondary_transformations": [
+    "Apply legal-name + entity-code + CIPC-format normalization (March 2026 refinement) consistently across all cycle-4 filings",
+    "Insert 'Threshold Statement' header in every filing (Loophole 5 defeat)",
+    "Insert 'Independent Evidence Anchors' section in every filing"
+  ],
+  "filings_to_iterate": [
+    "Civil Action — Reconsideration / Void Ab Initio (Rule 6(12), Rule 42)",
+    "Criminal Case Submission (NPA Commercial Crime)",
+    "CIPC Companies Act Complaint (s28, s29, s76, s77, s162, s214)",
+    "POPIA Criminal Complaint (s14, s19, s20, s100-107)",
+    "NPA Tax Fraud Report (Tax Administration Act, VAT Act, Income Tax Act)",
+    "FIC Suspicious Transaction Report (FIC Act 38 of 2001)",
+    "SAICA Professional Misconduct Complaint (Bantjies — CA(SA))",
+    "Elliot Attorneys / LPC Complaint (attorney complicity)"
+  ]
+}

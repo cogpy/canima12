@@ -1,0 +1,66 @@
+{
+  "_schema": "exoml-forensic/v1",
+  "_generated": "2026-03-10T08:04:26.326636+00:00",
+  "file_integrity": {
+    "eml_file": "rzo.io/0026_2022-03-24_2102_d@rzo.io_RE__Updated_ledger_after_rectifications.eml",
+    "file_size_bytes": 7394,
+    "md5": "dba2983605c220aac6d95b68f86b4ad9",
+    "sha1": "b21a65904fb3af8beb30899ba5084c7e8cf9b784",
+    "sha256": "235d86f7600e6075a6faf01a1c6d68dfda4df5415a6faec9494b4c2325b1798e"
+  },
+  "message_identity": {
+    "db_id": 513,
+    "exchange_message_id": "AAMkAGE2YjljZjA1LTRlOWUtNDhjYi1iZjNkLWI4ZWRlNDQwYTU0MABGAAAAAADPgXCfMl5uRqA6Xxa9Yh33BwAh607i92PMQLMLAH3HB5h5AAAAAAEJAAAh607i92PMQLMLAH3HB5h5AAXH5SNdAAA=",
+    "conversation_id": "AAQkAGE2YjljZjA1LTRlOWUtNDhjYi1iZjNkLWI4ZWRlNDQwYTU0MAAQAOiwFfqbaUHWpszc2dtz0Ag="
+  },
+  "envelope": {
+    "subject": "RE: Updated ledger after rectifications",
+    "from_name": "Daniel Faucitt",
+    "from_address": "d@rzo.io",
+    "to_recipients": [
+      {
+        "emailAddress": {
+          "name": "Rynette Farrar",
+          "address": "rynette@regima.zone"
+        }
+      },
+      {
+        "emailAddress": {
+          "name": "Kayla Pretorius",
+          "address": "kayla@regima.zone"
+        }
+      }
+    ],
+    "cc_recipients": [
+      {
+        "emailAddress": {
+          "name": "JAX@REGIMA.COM",
+          "address": "JAX@REGIMA.COM"
+        }
+      },
+      {
+        "emailAddress": {
+          "name": "PETE@REGIMA.COM",
+          "address": "PETE@REGIMA.COM"
+        }
+      },
+      {
+        "emailAddress": {
+          "name": "Jacqui Faucitt",
+          "address": "jax@regima.zone"
+        }
+      }
+    ],
+    "received_datetime": "2022-03-24 21:02:00"
+  },
+  "mailbox_context": {
+    "user_email": "d@rzo.io",
+    "user_name": "Daniel Faucitt"
+  },
+  "body": {
+    "content_type": "html",
+    "preview": "Awesomeness! 😃 Great news haha thanks 😊\r\n\r\nFrom: Rynette Farrar <rynette@regima.zone>\r\nSent: 24 March 2022 15:12\r\nTo: Daniel Faucitt <d@rzo.io>; Kayla Pretorius <kayla@regima.zone>\r\nCc: JAX@REGIMA.COM; PETE@REGIMA.COM; Jacqui Faucitt <jax@regima.zone>",
+    "body_length_chars": 4763
+  },
+  "attachments": []
+}

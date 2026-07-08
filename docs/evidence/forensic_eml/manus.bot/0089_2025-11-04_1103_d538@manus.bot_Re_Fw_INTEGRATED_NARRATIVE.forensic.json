@@ -1,0 +1,57 @@
+{
+  "_schema": "exchange-forensic-eml/v1",
+  "_generated": "2026-03-10T03:50:38.820727+00:00",
+  "_source": "neon-exchange-sync",
+  "file_integrity": {
+    "eml_file": "/home/ubuntu/revstream1/docs/evidence/forensic_eml/manus.bot/0089_2025-11-04_1103_d538@manus.bot_Re_Fw_INTEGRATED_NARRATIVE.eml",
+    "file_size_bytes": 157063,
+    "md5": "e827663561061efdc4668a290ab7cded",
+    "sha1": "49682a208b85f820dd8f0a31d89fea3a4c7c4af8",
+    "sha256": "a7a4c573d1878cfc0e175bd0412164457623056c65c9b24ed19fd7f7dd0062b7"
+  },
+  "message_identity": {
+    "exchange_sync_id": "pst-cd62c21567a0893889b38dafa03ed9d3ada132d9",
+    "internet_message_id": "<0100019a4e897920-539a6e37-145d-4c6d-be2d-a70823edb508-000000@email.amazonses.com>",
+    "conversation_id": null
+  },
+  "envelope": {
+    "subject": "Re: Fw: INTEGRATED NARRATIVE",
+    "from_name": "Manus",
+    "from_address": "d538@manus.bot",
+    "to_recipients": [
+      {
+        "emailAddress": {
+          "name": "Daniel Faucitt",
+          "address": "dan@regima.com"
+        }
+      }
+    ],
+    "cc_recipients": [
+      {
+        "emailAddress": {
+          "name": "d@rzo.io",
+          "address": "d@rzo.io"
+        }
+      },
+      {
+        "emailAddress": {
+          "name": "Daniel Faucitt",
+          "address": "dan@regima.zone"
+        }
+      }
+    ],
+    "received_datetime": "2025-11-04 11:03:43+00:00"
+  },
+  "mailbox_context": {
+    "user_email": "d538@manus.bot",
+    "user_name": "D538",
+    "folder_name": "Inbox",
+    "folder_id": "pst-folder-75906fca51bbfcfda8006d923513973a"
+  },
+  "body": {
+    "content_type": "html",
+    "preview": "Hi, I have received your task Integrated Narrative Framework and Fraud Analysis and started working. I will do the following: Read and analyze the email and attachments Clone the target GitHub repositories Add narrative content and integrate Annexures int",
+    "body_length_chars": 115079
+  },
+  "attachments": []
+}

@@ -1,0 +1,49 @@
+{
+  "item_number": 45,
+  "label": "SARS_payment_nail_smiley",
+  "description": "I also fix it now with a 6\" nail \u2026\u2026\u2026 \u263a",
+  "wingdings_significance": "Wingdings 'J' = \u263a smiley face - casual/dismissive tone about serious financial misconduct",
+  "message": {
+    "id": "AQMkADMxMzkyY2FlLWNkMGEtNGM2My04OWFiLTNlZDRjNzkyNGUyMwBGAAADSLKv-EI8AESN7LMej4ROLgcAIySisE98NkWmcNijjztGYgAAAgEJAAAAIySisE98NkWmcNijjztGYgAEITNLtwAAAA==",
+    "internet_message_id": "<VI0PR08MB1058175D2B778373C2E2324FABA64A@VI0PR08MB10581.eurprd08.prod.outlook.com>",
+    "subject": "SARS payment loaded - again - POP attached",
+    "from_name": "Rynette Farrar",
+    "from_address": "rynette@regima.zone",
+    "to_recipients": [
+      {
+        "name": "Danie Bantjes",
+        "address": "danie.bantjes@gmail.com"
+      },
+      {
+        "name": "Peter Andrew Faucitt",
+        "address": "PETE@REGIMA.COM"
+      },
+      {
+        "name": "Jacqui Faucitt",
+        "address": "jax@regima.zone"
+      }
+    ],
+    "cc_recipients": null,
+    "received_datetime": "2025-05-27 07:50:00+00:00",
+    "importance": "normal",
+    "has_attachments": true,
+    "conversation_id": "AAQkADMxMzkyY2FlLWNkMGEtNGM2My04OWFiLTNlZDRjNzkyNGUyMwAQAF80fMdgB8xKjr2ALXtN82A=",
+    "body_content_type": "html",
+    "body_preview": "Hi Danie\r\n\r\nYes, it is showing and here is the proof of payment attached for your records.\r\n\r\nThanks\r\n\r\n\r\n\r\n\r\nFrom: Danie Bantjes <danie.bantjes@gmail.com>\r\nSent: Tuesday, May 27, 2025 9:47 AM\r\nTo: Ry"
+  },
+  "source": {
+    "type": "native_mime",
+    "neon_db": "b2bkp-exchange-sync",
+    "user_id": "52a423b7-13e7-4599-8d6f-c833ebce69d7",
+    "extraction_timestamp": "2026-03-15T05:16:17.689187Z"
+  },
+  "integrity": {
+    "sha256": "fa0fed6f6f8d971279d72bc19181f979a819773301ba57911b47d53621f2b7e5",
+    "md5": "f0bbdc2f96eb40e97eda6d5cb5e9250f",
+    "file_size_bytes": 4500
+  },
+  "authentication": {
+    "note": "Internal Exchange message - no external authentication headers"
+  },
+  "internet_headers": null
+}

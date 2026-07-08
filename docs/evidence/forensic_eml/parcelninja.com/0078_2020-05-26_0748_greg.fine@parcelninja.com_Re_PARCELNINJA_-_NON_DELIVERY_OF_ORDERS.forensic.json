@@ -1,0 +1,71 @@
+{
+  "_schema": "exchange-forensic-eml/v1",
+  "_generated": "2026-03-10T03:53:05.843427+00:00",
+  "_source": "neon-exchange-sync",
+  "file_integrity": {
+    "eml_file": "/home/ubuntu/revstream1/docs/evidence/forensic_eml/parcelninja.com/0078_2020-05-26_0748_greg.fine@parcelninja.com_Re_PARCELNINJA_-_NON_DELIVERY_OF_ORDERS.eml",
+    "file_size_bytes": 1026,
+    "md5": "5b1c5b3c5ec33faf0ae2afb0053b26f1",
+    "sha1": "d0018153a9d4fb410bbab457000c1de1c6b3d3b9",
+    "sha256": "5399a13ed9b75924a24ff0247949dc75032f86408119ec7356b8b5e98bc993f1"
+  },
+  "message_identity": {
+    "exchange_sync_id": "AAMkADkzY2U4OTQyLTZjNzAtNGRlNi1iMjk1LWQwNWNjYzIyODQ5YgBGAAAAAAADECMUPsw5TaA2pA0VUIqNBwCR-svwgFxkSomVNqCc6-zPAAAAAAEMAACR-svwgFxkSomVNqCc6-zPAAVP2zjVAAA=",
+    "internet_message_id": "<CAGRQEOS8sTcUHLdXZ+3qHpumN6khvUi48n=UtfxQY2UPm2jOkw@mail.gmail.com>",
+    "conversation_id": "AAQkADkzY2U4OTQyLTZjNzAtNGRlNi1iMjk1LWQwNWNjYzIyODQ5YgAQAOWEk6_IUEWPvkGMm3UAoms="
+  },
+  "envelope": {
+    "subject": "Re: PARCELNINJA - NON DELIVERY OF ORDERS",
+    "from_name": "Gregory Fine",
+    "from_address": "greg.fine@parcelninja.com",
+    "to_recipients": [
+      {
+        "name": "Bernadine Wright",
+        "address": "bern@regima.zone"
+      }
+    ],
+    "cc_recipients": [
+      {
+        "name": "Alexi Dalkos",
+        "address": "alexi@parcelninja.com"
+      },
+      {
+        "name": "Brian Van Niekerk",
+        "address": "brian@parcelninja.com"
+      },
+      {
+        "name": "Dan Slack Beast",
+        "address": "p4j9i5x9b4w3z0m0@rzone.slack.com"
+      },
+      {
+        "name": "Jacqui Faucitt",
+        "address": "jax@regima.zone"
+      },
+      {
+        "name": "Kayla Pretorius",
+        "address": "kayla@regima.zone"
+      },
+      {
+        "name": "Rynette Farrar",
+        "address": "rynette@regima.zone"
+      },
+      {
+        "name": "pete@regima.com",
+        "address": "pete@regima.com"
+      }
+    ],
+    "received_datetime": "2020-05-26 07:48:13+00:00"
+  },
+  "mailbox_context": {
+    "user_email": "kayla@regima.zone",
+    "user_name": "Kayla Pretorius",
+    "folder_name": "Inbox",
+    "folder_id": "AQMkADkzY2U4OTQyLTZjNzAtNGRlNi1iMjk1LWQwNWNjATIyADg0OWIALgAAAwMQIxQ_zDlNoDakDRVQio0BAJH_y-CAXGRKiZU2oJzr-M8AAAIBDAAAAA=="
+  },
+  "body": {
+    "content_type": null,
+    "preview": "Hi Bernadine,\r\n\r\nParcelninja has caught up.  Dawnwing is still however, struggling. Some of the deliveries below have indeed been delivered.  @Alexi and his team do follow up with the courier daily.\r\n\r\nOn Tue, 26 May 2020 at 09:33, Bernadine Wright <bern@",
+    "body_length_chars": 0
+  },
+  "attachments": []
+}

@@ -1,0 +1,20 @@
+{
+  "summary": {
+    "total_emails": 0,
+    "inbound_with_routing": 0,
+    "sent_items_no_routing": 0,
+    "total_anomalies": 0
+  },
+  "routing": {
+    "hop_count_distribution": {},
+    "tls_hops": 0,
+    "non_tls_hops": 0
+  },
+  "authentication": {
+    "spf": {},
+    "dkim": {},
+    "dmarc": {}
+  },
+  "anomalies": [],
+  "inbound_details": []
+}

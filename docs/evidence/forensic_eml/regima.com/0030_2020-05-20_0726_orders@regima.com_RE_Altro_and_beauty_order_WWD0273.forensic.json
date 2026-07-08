@@ -1,0 +1,59 @@
+{
+  "_schema": "exchange-forensic-eml/v1",
+  "_generated": "2026-03-10T03:52:59.229331+00:00",
+  "_source": "neon-exchange-sync",
+  "file_integrity": {
+    "eml_file": "/home/ubuntu/revstream1/docs/evidence/forensic_eml/regima.com/0030_2020-05-20_0726_orders@regima.com_RE_Altro_and_beauty_order_WWD0273.eml",
+    "file_size_bytes": 865,
+    "md5": "2e83b505a0f99937b790e6d895dec353",
+    "sha1": "a0dfa1f288b717eccbdb19d9fd20a29089da060b",
+    "sha256": "9976bc1142e9e8456532f1c6f65e41495ab629a0a9b239fc0f70c98382117588"
+  },
+  "message_identity": {
+    "exchange_sync_id": "AQMkADMxMzkyY2FlLWNkMGEtNGM2My04OWFiLTNlZDRjNzkyNGUyMwBGAAADSLKv-EI8AESN7LMej4ROLgcAIySisE98NkWmcNijjztGYgAAAj1EAAAAIySisE98NkWmcNijjztGYgAAAlE9AAAA",
+    "internet_message_id": "<006901d62e77$ee523840$caf6a8c0$@regima.com>",
+    "conversation_id": "AAQkADMxMzkyY2FlLWNkMGEtNGM2My04OWFiLTNlZDRjNzkyNGUyMwAQANXK2dEt1PNAuf9soU5Y-Ic="
+  },
+  "envelope": {
+    "subject": "RE: Altro and beauty order WWD0273",
+    "from_name": "orders@regima.com",
+    "from_address": "orders@regima.com",
+    "to_recipients": [
+      {
+        "name": "'alna abrie'",
+        "address": "alnaabrie@yahoo.com"
+      }
+    ],
+    "cc_recipients": [
+      {
+        "name": "'Peter Andrew Faucitt'",
+        "address": "pete@regima.com"
+      },
+      {
+        "name": "Jacqui Faucitt",
+        "address": "jax@regima.zone"
+      },
+      {
+        "name": "Bernadine Wright",
+        "address": "bern@regima.zone"
+      },
+      {
+        "name": "Rynette Farrar",
+        "address": "rynette@regima.zone"
+      }
+    ],
+    "received_datetime": "2020-05-20 07:26:17+00:00"
+  },
+  "mailbox_context": {
+    "user_email": "rynette@regima.zone",
+    "user_name": "Rynette Farrar",
+    "folder_name": "Orders",
+    "folder_id": "AQMkADMxMzkyY2FlLWNkMGEtNGM2My04OWFiLTNlZDRjNzkyNGUyMwAuAAADSLKv-EI8AESN7LMej4ROLgEAIySisE98NkWmcNijjztGYgAAAj1EAAAA"
+  },
+  "body": {
+    "content_type": null,
+    "preview": "Good Day Alna\r\n\r\nPlease find attached amended proforma Invoice, please send the confirmation of payment to orders@regima.com, once received, your order will be despatched.\r\nKindest Regards\r\n\r\nFrom: alna abrie <alnaabrie@yahoo.com>\r\nSent: 19 May 2020 03:57",
+    "body_length_chars": 0
+  },
+  "attachments": []
+}

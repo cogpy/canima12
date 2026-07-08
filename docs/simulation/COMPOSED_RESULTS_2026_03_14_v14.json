@@ -1,0 +1,936 @@
+{
+  "case_number": "2025-137857",
+  "case_name": "Revenue Stream Hijacking",
+  "version": "v14",
+  "date": "2026-03-14",
+  "architecture": "lex-sim-nn(neuro-nn(digitwin[alp <=> nlogo]))",
+  "source_document": "AA_ENHANCED_14_03_26_V2_7.docx",
+  "entity_corrections": {
+    "Linda Kruger": "Office employee (bookkeeper/sales), NOT family member. Sent 39+ banking redirect emails on instructions.",
+    "Gayane Williams": "Office employee, NOT family member. Executed domain change on instructions.",
+    "Oliver Mphande": "Warehouse manager. Confirmatory affidavit JF8 directly contradicts contempt allegations. Arrested by Rynette for stating 'This is Jacqui Faucitt's company.'",
+    "Edgar Mphande": "Warehouse operator. Confirmatory affidavit JF10 confirms applicant arrived in delivery truck 6 March 2026.",
+    "Cherie Smith": "Training assistant. Confirmatory affidavit JF11 confirms training was not disrupted.",
+    "Kevin Derrick": "George Group principal. Ketoni Investment Holdings connection. R18,685,000 payout maturing May 2026.",
+    "Nicos Xenophontos": "Commissioner of Oaths, Practising Attorney, Bedfordview. Commissioned the Sage transfer affidavit of 8 July 2024."
+  },
+  "digitwin": {
+    "burden_assessment": {
+      "civil_probability": 1.0,
+      "criminal_probability": 1.0,
+      "evidence_accumulated": 13275000.0,
+      "legal_exposure": 95250000.0,
+      "diverted_total": 5000000,
+      "extracted_post_interdict": 42496524
+    },
+    "agent_states": {
+      "Peter Faucitt": {
+        "name": "Peter Faucitt",
+        "role": "perpetrator",
+        "valence": -1.0,
+        "arousal": 0.216,
+        "cortisol": 0.97,
+        "dopamine": 0.97,
+        "serotonin": 0.184,
+        "norepinephrine": 0.0,
+        "mode": "STRESSED",
+        "event_count": 116
+      },
+      "Rynette Farrar": {
+        "name": "Rynette Farrar",
+        "role": "accomplice",
+        "valence": -1.0,
+        "arousal": 0.225,
+        "cortisol": 0.97,
+        "dopamine": 0.97,
+        "serotonin": 0.184,
+        "norepinephrine": 0.97,
+        "mode": "THREAT",
+        "event_count": 170
+      },
+      "Danie Bantjies": {
+        "name": "Danie Bantjies",
+        "role": "accomplice",
+        "valence": -1.0,
+        "arousal": 0.048,
+        "cortisol": 0.808,
+        "dopamine": 0.808,
+        "serotonin": 0.0,
+        "norepinephrine": 0.561,
+        "mode": "THREAT",
+        "event_count": 58
+      },
+      "Daniel Faucitt": {
+        "name": "Daniel Faucitt",
+        "role": "victim",
+        "valence": 1.0,
+        "arousal": 0.016,
+        "cortisol": 0.673,
+        "dopamine": 0.97,
+        "serotonin": 0.97,
+        "norepinephrine": 0.673,
+        "mode": "REWARD",
+        "event_count": 26
+      },
+      "Jacqui Faucitt": {
+        "name": "Jacqui Faucitt",
+        "role": "victim",
+        "valence": -0.59,
+        "arousal": 0.016,
+        "cortisol": 0.97,
+        "dopamine": 0.97,
+        "serotonin": 0.97,
+        "norepinephrine": 0.97,
+        "mode": "THREAT",
+        "event_count": 18
+      },
+      "Linda Kruger": {
+        "name": "Linda Kruger",
+        "role": "employee",
+        "valence": 0.0,
+        "arousal": 0.089,
+        "cortisol": 0.27,
+        "dopamine": 0.27,
+        "serotonin": 0.0,
+        "norepinephrine": 0.27,
+        "mode": "THREAT",
+        "event_count": 11
+      },
+      "Gayane Williams": {
+        "name": "Gayane Williams",
+        "role": "employee",
+        "valence": -0.32,
+        "arousal": 0.062,
+        "cortisol": 0.27,
+        "dopamine": 0.27,
+        "serotonin": 0.0,
+        "norepinephrine": 0.062,
+        "mode": "STRESSED",
+        "event_count": 8
+      },
+      "Darren Farrar": {
+        "name": "Darren Farrar",
+        "role": "accomplice",
+        "valence": -0.32,
+        "arousal": 0.016,
+        "cortisol": 0.165,
+        "dopamine": 0.27,
+        "serotonin": 0.0,
+        "norepinephrine": 0.0,
+        "mode": "REWARD",
+        "event_count": 4
+      },
+      "Kevin Derrick": {
+        "name": "Kevin Derrick",
+        "role": "accomplice",
+        "valence": -0.9,
+        "arousal": 0.032,
+        "cortisol": 0.808,
+        "dopamine": 0.808,
+        "serotonin": 0.0,
+        "norepinephrine": 0.0,
+        "mode": "STRESSED",
+        "event_count": 5
+      },
+      "Oliver Mphande": {
+        "name": "Oliver Mphande",
+        "role": "witness",
+        "valence": -0.82,
+        "arousal": 0.0,
+        "cortisol": 0.97,
+        "dopamine": 0.97,
+        "serotonin": 0.508,
+        "norepinephrine": 0.97,
+        "mode": "THREAT",
+        "event_count": 8
+      },
+      "Edgar Mphande": {
+        "name": "Edgar Mphande",
+        "role": "witness",
+        "valence": 0.64,
+        "arousal": 0.0,
+        "cortisol": 0.0,
+        "dopamine": 0.97,
+        "serotonin": 0.508,
+        "norepinephrine": 0.0,
+        "mode": "REWARD",
+        "event_count": 3
+      },
+      "Cherie Smith": {
+        "name": "Cherie Smith",
+        "role": "witness",
+        "valence": 0.64,
+        "arousal": 0.0,
+        "cortisol": 0.0,
+        "dopamine": 0.97,
+        "serotonin": 0.508,
+        "norepinephrine": 0.0,
+        "mode": "REWARD",
+        "event_count": 3
+      }
+    },
+    "stocks": {
+      "legitimate_revenue": 0,
+      "diverted_revenue": 5000000,
+      "ketoni_receivable": 18685000,
+      "hidden_accounts": 0,
+      "legal_exposure": 95250000.0,
+      "evidence_strength": 13275000.0,
+      "extracted_post_interdict": 42496524
+    },
+    "event_count": 219
+  },
+  "lex_sim_nn": {
+    "verdict": {
+      "civil_probability": 0.9915304183959961,
+      "criminal_probability": 0.9922349452972412,
+      "civil_met": true,
+      "criminal_met": true
+    },
+    "attribution": {
+      "civil_attribution": {
+        "Temporal": 5.199733095651027e-06,
+        "Financial": 2.876373173421598e-06,
+        "Documentary": 7.403830750263296e-06,
+        "Testimonial": 7.347401151491795e-06,
+        "Forensic": 7.070912033668719e-06,
+        "Relational": 7.367269063252024e-06
+      },
+      "criminal_attribution": {
+        "Temporal": 5.665758635586826e-06,
+        "Financial": 3.1349266009783605e-06,
+        "Documentary": 8.09275297797285e-06,
+        "Testimonial": 8.03015791461803e-06,
+        "Forensic": 7.740512046439108e-06,
+        "Relational": 8.050111318880226e-06
+      }
+    },
+    "convergence": {
+      "final_loss": 6.7e-05,
+      "initial_loss": 0.246516,
+      "convergence_ratio": 0.00027,
+      "epochs_run": 150
+    },
+    "event_heatmap": [
+      {
+        "phase": 1,
+        "name": "Trust Forgery",
+        "civil_prob": 0.9915,
+        "criminal_prob": 0.9922,
+        "category_means": {
+          "Temporal": 0.875,
+          "Financial": 0.525,
+          "Documentary": 0.9125,
+          "Testimonial": 0.425,
+          "Forensic": 0.775,
+          "Relational": 0.875
+        }
+      },
+      {
+        "phase": 1,
+        "name": "Ketoni Registration",
+        "civil_prob": 0.9915,
+        "criminal_prob": 0.9922,
+        "category_means": {
+          "Temporal": 0.9125,
+          "Financial": 0.575,
+          "Documentary": 0.925,
+          "Testimonial": 0.375,
+          "Forensic": 0.825,
+          "Relational": 0.8875
+        }
+      },
+      {
+        "phase": 2,
+        "name": "Banking Mandate Fraud",
+        "civil_prob": 0.9915,
+        "criminal_prob": 0.9922,
+        "category_means": {
+          "Temporal": 0.925,
+          "Financial": 0.825,
+          "Documentary": 0.9125,
+          "Testimonial": 0.525,
+          "Forensic": 0.875,
+          "Relational": 0.8625
+        }
+      },
+      {
+        "phase": 2,
+        "name": "Domain Hijacking",
+        "civil_prob": 0.9915,
+        "criminal_prob": 0.9922,
+        "category_means": {
+          "Temporal": 0.875,
+          "Financial": 0.625,
+          "Documentary": 0.825,
+          "Testimonial": 0.4375,
+          "Forensic": 0.825,
+          "Relational": 0.825
+        }
+      },
+      {
+        "phase": 2,
+        "name": "Sage Predicate Crime",
+        "civil_prob": 0.9915,
+        "criminal_prob": 0.9922,
+        "category_means": {
+          "Temporal": 0.925,
+          "Financial": 0.725,
+          "Documentary": 0.9375,
+          "Testimonial": 0.575,
+          "Forensic": 0.9,
+          "Relational": 0.875
+        }
+      },
+      {
+        "phase": 3,
+        "name": "Revenue Stream Diversion",
+        "civil_prob": 0.9915,
+        "criminal_prob": 0.9922,
+        "category_means": {
+          "Temporal": 0.9125,
+          "Financial": 0.875,
+          "Documentary": 0.875,
+          "Testimonial": 0.475,
+          "Forensic": 0.825,
+          "Relational": 0.875
+        }
+      },
+      {
+        "phase": 3,
+        "name": "SARS eFiling Impersonation",
+        "civil_prob": 0.9915,
+        "criminal_prob": 0.9922,
+        "category_means": {
+          "Temporal": 0.875,
+          "Financial": 0.725,
+          "Documentary": 0.925,
+          "Testimonial": 0.4875,
+          "Forensic": 0.875,
+          "Relational": 0.875
+        }
+      },
+      {
+        "phase": 4,
+        "name": "Manufacture Email",
+        "civil_prob": 0.9915,
+        "criminal_prob": 0.9922,
+        "category_means": {
+          "Temporal": 0.925,
+          "Financial": 0.675,
+          "Documentary": 0.9375,
+          "Testimonial": 0.5375,
+          "Forensic": 0.875,
+          "Relational": 0.9125
+        }
+      },
+      {
+        "phase": 4,
+        "name": "PP Peter Forgery",
+        "civil_prob": 0.9915,
+        "criminal_prob": 0.9922,
+        "category_means": {
+          "Temporal": 0.875,
+          "Financial": 0.625,
+          "Documentary": 0.9125,
+          "Testimonial": 0.4875,
+          "Forensic": 0.825,
+          "Relational": 0.8625
+        }
+      },
+      {
+        "phase": 5,
+        "name": "Fraud Discovery",
+        "civil_prob": 0.9915,
+        "criminal_prob": 0.9922,
+        "category_means": {
+          "Temporal": 0.925,
+          "Financial": 0.825,
+          "Documentary": 0.775,
+          "Testimonial": 0.575,
+          "Forensic": 0.775,
+          "Relational": 0.8125
+        }
+      },
+      {
+        "phase": 5,
+        "name": "Interdict Weaponization",
+        "civil_prob": 0.9915,
+        "criminal_prob": 0.9922,
+        "category_means": {
+          "Temporal": 0.875,
+          "Financial": 0.575,
+          "Documentary": 0.875,
+          "Testimonial": 0.4875,
+          "Forensic": 0.775,
+          "Relational": 0.8875
+        }
+      },
+      {
+        "phase": 6,
+        "name": "R10.6M Extraction",
+        "civil_prob": 0.9915,
+        "criminal_prob": 0.9922,
+        "category_means": {
+          "Temporal": 0.9375,
+          "Financial": 0.9125,
+          "Documentary": 0.925,
+          "Testimonial": 0.5375,
+          "Forensic": 0.875,
+          "Relational": 0.875
+        }
+      },
+      {
+        "phase": 6,
+        "name": "Evidence Compilation",
+        "civil_prob": 0.9915,
+        "criminal_prob": 0.9922,
+        "category_means": {
+          "Temporal": 0.925,
+          "Financial": 0.825,
+          "Documentary": 0.85,
+          "Testimonial": 0.5375,
+          "Forensic": 0.825,
+          "Relational": 0.8625
+        }
+      },
+      {
+        "phase": 7,
+        "name": "Contempt Rebuttal",
+        "civil_prob": 0.9915,
+        "criminal_prob": 0.9922,
+        "category_means": {
+          "Temporal": 0.925,
+          "Financial": 0.725,
+          "Documentary": 0.925,
+          "Testimonial": 0.775,
+          "Forensic": 0.825,
+          "Relational": 0.8125
+        }
+      },
+      {
+        "phase": 7,
+        "name": "Witness Intimidation Pattern",
+        "civil_prob": 0.9915,
+        "criminal_prob": 0.9922,
+        "category_means": {
+          "Temporal": 0.925,
+          "Financial": 0.525,
+          "Documentary": 0.875,
+          "Testimonial": 0.675,
+          "Forensic": 0.775,
+          "Relational": 0.8875
+        }
+      },
+      {
+        "phase": 7,
+        "name": "Void Ab Initio Defence",
+        "civil_prob": 0.9915,
+        "criminal_prob": 0.9922,
+        "category_means": {
+          "Temporal": 0.9375,
+          "Financial": 0.775,
+          "Documentary": 0.9375,
+          "Testimonial": 0.625,
+          "Forensic": 0.875,
+          "Relational": 0.9125
+        }
+      }
+    ]
+  },
+  "neuro_nn": {
+    "red_team_critique": {
+      "vulnerabilities": [
+        {
+          "category": "Financial",
+          "score": 0.6562,
+          "gap": 0.0938,
+          "critique": "Financial evidence needs forensic accounting expert testimony. Defence may argue amounts are estimates or that transfers were authorised.",
+          "defence_response": "All financial amounts are derived from actual FNB/ABSA bank statements (Annexure JF14, JF31). The R10,624,131.18 extraction is documented to the cent across 4 entities on specific dates. The R500,000 'birthday gift' is proven to be reimbursement by Daniel's personal bank statements showing R520,000 spent on company obligations, reaching R864.45 balance (Annexure JF31). FNB Legal confirmed SOLE mandate authority on 18 June 2025 (Annexure JF30), proving the 'unauthorised' claim was fabricated."
+        },
+        {
+          "category": "Testimonial",
+          "score": 0.4949,
+          "gap": 0.2551,
+          "critique": "CRITICAL: While documentary evidence is strong, independent witness testimony strengthens the case significantly. Defence will argue all evidence is one-sided.",
+          "defence_response": "v14 IMPROVEMENT: The AA now includes 3 confirmatory affidavits from first-hand witnesses: (a) Oliver Mphande (Annexure JF8) \u2014 confirms stock was not obstructed, directly contradicts contempt allegations; (b) Edgar Mphande (Annexure JF10) \u2014 confirms applicant arrived in delivery truck on 6 March 2026; (c) Cherie Smith (Annexure JF11) \u2014 confirms training was not disrupted. Additionally, Jacqueline's security officer provides photographic evidence (Annexure JF5). FNB Legal (Annexure JF30) provides independent institutional confirmation of SOLE mandate. Stock2Shop, Sage SA, and domain registrars can provide further independent corroboration."
+        }
+      ],
+      "robustness": 0.67,
+      "category_scores": {
+        "Temporal": 0.8453,
+        "Financial": 0.6562,
+        "Documentary": 0.8315,
+        "Testimonial": 0.4949,
+        "Forensic": 0.777,
+        "Relational": 0.8044
+      }
+    },
+    "meta_cognition": {
+      "overconfidence_detected": false,
+      "adjusted_criminal_probability": 0.9922,
+      "confidence_level": 0.8,
+      "vulnerability_count": 2,
+      "filing_analysis": {
+        "CIPC Companies Act Complaint": {
+          "vulnerable_categories": [
+            {
+              "category": "Financial",
+              "weight": 0.15,
+              "impact": 0.0141,
+              "critique": "Financial evidence needs forensic accounting expert testimony. Defence may argue amounts are estimates or that transfers were authorised.",
+              "defence_response": "All financial amounts are derived from actual FNB/ABSA bank statements (Annexure JF14, JF31). The R10,624,131.18 extraction is documented to the cent across 4 entities on specific dates. The R500,000 'birthday gift' is proven to be reimbursement by Daniel's personal bank statements showing R520,000 spent on company obligations, reaching R864.45 balance (Annexure JF31). FNB Legal confirmed SOLE mandate authority on 18 June 2025 (Annexure JF30), proving the 'unauthorised' claim was fabricated."
+            }
+          ],
+          "filing_robustness": 0.83,
+          "is_criminal": false,
+          "recommendation": "Filing has 1 vulnerable categories affecting its score. Address Financial to strengthen this filing."
+        },
+        "FIC Suspicious Transaction Report": {
+          "vulnerable_categories": [
+            {
+              "category": "Financial",
+              "weight": 0.35,
+              "impact": 0.0328,
+              "critique": "Financial evidence needs forensic accounting expert testimony. Defence may argue amounts are estimates or that transfers were authorised.",
+              "defence_response": "All financial amounts are derived from actual FNB/ABSA bank statements (Annexure JF14, JF31). The R10,624,131.18 extraction is documented to the cent across 4 entities on specific dates. The R500,000 'birthday gift' is proven to be reimbursement by Daniel's personal bank statements showing R520,000 spent on company obligations, reaching R864.45 balance (Annexure JF31). FNB Legal confirmed SOLE mandate authority on 18 June 2025 (Annexure JF30), proving the 'unauthorised' claim was fabricated."
+            }
+          ],
+          "filing_robustness": 0.83,
+          "is_criminal": false,
+          "recommendation": "Filing has 1 vulnerable categories affecting its score. Address Financial to strengthen this filing."
+        },
+        "Civil Action (s163 Oppression)": {
+          "vulnerable_categories": [
+            {
+              "category": "Financial",
+              "weight": 0.25,
+              "impact": 0.0234,
+              "critique": "Financial evidence needs forensic accounting expert testimony. Defence may argue amounts are estimates or that transfers were authorised.",
+              "defence_response": "All financial amounts are derived from actual FNB/ABSA bank statements (Annexure JF14, JF31). The R10,624,131.18 extraction is documented to the cent across 4 entities on specific dates. The R500,000 'birthday gift' is proven to be reimbursement by Daniel's personal bank statements showing R520,000 spent on company obligations, reaching R864.45 balance (Annexure JF31). FNB Legal confirmed SOLE mandate authority on 18 June 2025 (Annexure JF30), proving the 'unauthorised' claim was fabricated."
+            }
+          ],
+          "filing_robustness": 0.83,
+          "is_criminal": false,
+          "recommendation": "Filing has 1 vulnerable categories affecting its score. Address Financial to strengthen this filing."
+        },
+        "Professional Misconduct (Bantjies)": {
+          "vulnerable_categories": [
+            {
+              "category": "Financial",
+              "weight": 0.15,
+              "impact": 0.0141,
+              "critique": "Financial evidence needs forensic accounting expert testimony. Defence may argue amounts are estimates or that transfers were authorised.",
+              "defence_response": "All financial amounts are derived from actual FNB/ABSA bank statements (Annexure JF14, JF31). The R10,624,131.18 extraction is documented to the cent across 4 entities on specific dates. The R500,000 'birthday gift' is proven to be reimbursement by Daniel's personal bank statements showing R520,000 spent on company obligations, reaching R864.45 balance (Annexure JF31). FNB Legal confirmed SOLE mandate authority on 18 June 2025 (Annexure JF30), proving the 'unauthorised' claim was fabricated."
+            },
+            {
+              "category": "Testimonial",
+              "weight": 0.15,
+              "impact": 0.0383,
+              "critique": "CRITICAL: While documentary evidence is strong, independent witness testimony strengthens the case significantly. Defence will argue all evidence is one-sided.",
+              "defence_response": "v14 IMPROVEMENT: The AA now includes 3 confirmatory affidavits from first-hand witnesses: (a) Oliver Mphande (Annexure JF8) \u2014 confirms stock was not obstructed, directly contradicts contempt allegations; (b) Edgar Mphande (Annexure JF10) \u2014 confirms applicant arrived in delivery truck on 6 March 2026; (c) Cherie Smith (Annexure JF11) \u2014 confirms training was not disrupted. Additionally, Jacqueline's security officer provides photographic evidence (Annexure JF5). FNB Legal (Annexure JF30) provides independent institutional confirmation of SOLE mandate. Stock2Shop, Sage SA, and domain registrars can provide further independent corroboration."
+            }
+          ],
+          "filing_robustness": 0.67,
+          "is_criminal": false,
+          "recommendation": "Filing has 2 vulnerable categories affecting its score. Address Financial, Testimonial to strengthen this filing."
+        },
+        "POPIA Criminal Complaint": {
+          "vulnerable_categories": [
+            {
+              "category": "Testimonial",
+              "weight": 0.15,
+              "impact": 0.0383,
+              "critique": "CRITICAL: While documentary evidence is strong, independent witness testimony strengthens the case significantly. Defence will argue all evidence is one-sided.",
+              "defence_response": "v14 IMPROVEMENT: The AA now includes 3 confirmatory affidavits from first-hand witnesses: (a) Oliver Mphande (Annexure JF8) \u2014 confirms stock was not obstructed, directly contradicts contempt allegations; (b) Edgar Mphande (Annexure JF10) \u2014 confirms applicant arrived in delivery truck on 6 March 2026; (c) Cherie Smith (Annexure JF11) \u2014 confirms training was not disrupted. Additionally, Jacqueline's security officer provides photographic evidence (Annexure JF5). FNB Legal (Annexure JF30) provides independent institutional confirmation of SOLE mandate. Stock2Shop, Sage SA, and domain registrars can provide further independent corroboration."
+            }
+          ],
+          "filing_robustness": 0.83,
+          "is_criminal": true,
+          "recommendation": "Filing has 1 vulnerable categories affecting its score. PRIORITY: Obtain additional witness affidavits to close the testimonial gap for criminal burden."
+        },
+        "Commercial Crime Submission": {
+          "vulnerable_categories": [
+            {
+              "category": "Financial",
+              "weight": 0.3,
+              "impact": 0.0281,
+              "critique": "Financial evidence needs forensic accounting expert testimony. Defence may argue amounts are estimates or that transfers were authorised.",
+              "defence_response": "All financial amounts are derived from actual FNB/ABSA bank statements (Annexure JF14, JF31). The R10,624,131.18 extraction is documented to the cent across 4 entities on specific dates. The R500,000 'birthday gift' is proven to be reimbursement by Daniel's personal bank statements showing R520,000 spent on company obligations, reaching R864.45 balance (Annexure JF31). FNB Legal confirmed SOLE mandate authority on 18 June 2025 (Annexure JF30), proving the 'unauthorised' claim was fabricated."
+            }
+          ],
+          "filing_robustness": 0.83,
+          "is_criminal": true,
+          "recommendation": "Filing has 1 vulnerable categories affecting its score. Address Financial to strengthen this filing."
+        },
+        "NPA Tax Fraud Report": {
+          "vulnerable_categories": [
+            {
+              "category": "Financial",
+              "weight": 0.25,
+              "impact": 0.0234,
+              "critique": "Financial evidence needs forensic accounting expert testimony. Defence may argue amounts are estimates or that transfers were authorised.",
+              "defence_response": "All financial amounts are derived from actual FNB/ABSA bank statements (Annexure JF14, JF31). The R10,624,131.18 extraction is documented to the cent across 4 entities on specific dates. The R500,000 'birthday gift' is proven to be reimbursement by Daniel's personal bank statements showing R520,000 spent on company obligations, reaching R864.45 balance (Annexure JF31). FNB Legal confirmed SOLE mandate authority on 18 June 2025 (Annexure JF30), proving the 'unauthorised' claim was fabricated."
+            }
+          ],
+          "filing_robustness": 0.83,
+          "is_criminal": true,
+          "recommendation": "Filing has 1 vulnerable categories affecting its score. Address Financial to strengthen this filing."
+        },
+        "Void Ab Initio Application (Rule 42(1)(a))": {
+          "vulnerable_categories": [],
+          "filing_robustness": 1.0,
+          "is_criminal": false,
+          "recommendation": "Filing has 0 vulnerable categories affecting its score. All critical categories meet thresholds for this filing's burden."
+        },
+        "Contempt Opposition": {
+          "vulnerable_categories": [
+            {
+              "category": "Testimonial",
+              "weight": 0.25,
+              "impact": 0.0638,
+              "critique": "CRITICAL: While documentary evidence is strong, independent witness testimony strengthens the case significantly. Defence will argue all evidence is one-sided.",
+              "defence_response": "v14 IMPROVEMENT: The AA now includes 3 confirmatory affidavits from first-hand witnesses: (a) Oliver Mphande (Annexure JF8) \u2014 confirms stock was not obstructed, directly contradicts contempt allegations; (b) Edgar Mphande (Annexure JF10) \u2014 confirms applicant arrived in delivery truck on 6 March 2026; (c) Cherie Smith (Annexure JF11) \u2014 confirms training was not disrupted. Additionally, Jacqueline's security officer provides photographic evidence (Annexure JF5). FNB Legal (Annexure JF30) provides independent institutional confirmation of SOLE mandate. Stock2Shop, Sage SA, and domain registrars can provide further independent corroboration."
+            }
+          ],
+          "filing_robustness": 0.83,
+          "is_criminal": false,
+          "recommendation": "Filing has 1 vulnerable categories affecting its score. Address Testimonial to strengthen this filing."
+        }
+      },
+      "overall_recommendation": "v14 ASSESSMENT: Testimonial evidence significantly strengthened by 3 confirmatory affidavits (Oliver JF8, Edgar JF10, Smith JF11). Documentary evidence now includes 31 annexures. REMAINING GAP: Obtain formal affidavits from FNB Legal, Stock2Shop, and Sage SA to close the criminal burden gap. The void ab initio defence is the strongest strategic position."
+    },
+    "personality": {
+      "adversarial": 0.8,
+      "analytical": 0.95,
+      "empathy": 0.6,
+      "skepticism": 0.85,
+      "thoroughness": 0.9
+    }
+  },
+  "filing_scores": {
+    "CIPC Companies Act Complaint": {
+      "evidence_strength": 0.8464,
+      "burden_threshold": 0.5,
+      "burden_met": true,
+      "gap": 0,
+      "cross_validated_strength": 0.8924,
+      "cross_validated_met": true,
+      "category_breakdown": {
+        "Temporal": 0.1377,
+        "Financial": 0.1155,
+        "Documentary": 0.2724,
+        "Testimonial": 0.0606,
+        "Forensic": 0.1279,
+        "Relational": 0.1323
+      },
+      "category_weights": {
+        "Temporal": 0.15,
+        "Financial": 0.15,
+        "Documentary": 0.3,
+        "Testimonial": 0.1,
+        "Forensic": 0.15,
+        "Relational": 0.15
+      },
+      "weakest_weighted_category": "Testimonial"
+    },
+    "FIC Suspicious Transaction Report": {
+      "evidence_strength": 0.8306,
+      "burden_threshold": 0.5,
+      "burden_met": true,
+      "gap": 0,
+      "cross_validated_strength": 0.8814,
+      "cross_validated_met": true,
+      "category_breakdown": {
+        "Temporal": 0.0918,
+        "Financial": 0.2694,
+        "Documentary": 0.1362,
+        "Testimonial": 0.0303,
+        "Forensic": 0.1706,
+        "Relational": 0.1323
+      },
+      "category_weights": {
+        "Temporal": 0.1,
+        "Financial": 0.35,
+        "Documentary": 0.15,
+        "Testimonial": 0.05,
+        "Forensic": 0.2,
+        "Relational": 0.15
+      },
+      "weakest_weighted_category": "Testimonial"
+    },
+    "Civil Action (s163 Oppression)": {
+      "evidence_strength": 0.8325,
+      "burden_threshold": 0.5,
+      "burden_met": true,
+      "gap": 0,
+      "cross_validated_strength": 0.8828,
+      "cross_validated_met": true,
+      "category_breakdown": {
+        "Temporal": 0.1377,
+        "Financial": 0.1924,
+        "Documentary": 0.1816,
+        "Testimonial": 0.0606,
+        "Forensic": 0.1279,
+        "Relational": 0.1323
+      },
+      "category_weights": {
+        "Temporal": 0.15,
+        "Financial": 0.25,
+        "Documentary": 0.2,
+        "Testimonial": 0.1,
+        "Forensic": 0.15,
+        "Relational": 0.15
+      },
+      "weakest_weighted_category": "Testimonial"
+    },
+    "Professional Misconduct (Bantjies)": {
+      "evidence_strength": 0.8295,
+      "burden_threshold": 0.5,
+      "burden_met": true,
+      "gap": 0,
+      "cross_validated_strength": 0.8806,
+      "cross_validated_met": true,
+      "category_breakdown": {
+        "Temporal": 0.0918,
+        "Financial": 0.1155,
+        "Documentary": 0.227,
+        "Testimonial": 0.0909,
+        "Forensic": 0.1279,
+        "Relational": 0.1764
+      },
+      "category_weights": {
+        "Temporal": 0.1,
+        "Financial": 0.15,
+        "Documentary": 0.25,
+        "Testimonial": 0.15,
+        "Forensic": 0.15,
+        "Relational": 0.2
+      },
+      "weakest_weighted_category": "Testimonial"
+    },
+    "POPIA Criminal Complaint": {
+      "evidence_strength": 0.8294,
+      "burden_threshold": 0.95,
+      "burden_met": false,
+      "gap": 0.1206,
+      "cross_validated_strength": 0.8806,
+      "cross_validated_met": false,
+      "category_breakdown": {
+        "Temporal": 0.0918,
+        "Financial": 0.077,
+        "Documentary": 0.1816,
+        "Testimonial": 0.0909,
+        "Forensic": 0.2559,
+        "Relational": 0.1323
+      },
+      "category_weights": {
+        "Temporal": 0.1,
+        "Financial": 0.1,
+        "Documentary": 0.2,
+        "Testimonial": 0.15,
+        "Forensic": 0.3,
+        "Relational": 0.15
+      },
+      "weakest_weighted_category": "Financial"
+    },
+    "Commercial Crime Submission": {
+      "evidence_strength": 0.8256,
+      "burden_threshold": 0.95,
+      "burden_met": false,
+      "gap": 0.1244,
+      "cross_validated_strength": 0.8779,
+      "cross_validated_met": false,
+      "category_breakdown": {
+        "Temporal": 0.1377,
+        "Financial": 0.2309,
+        "Documentary": 0.1362,
+        "Testimonial": 0.0606,
+        "Forensic": 0.1279,
+        "Relational": 0.1323
+      },
+      "category_weights": {
+        "Temporal": 0.15,
+        "Financial": 0.3,
+        "Documentary": 0.15,
+        "Testimonial": 0.1,
+        "Forensic": 0.15,
+        "Relational": 0.15
+      },
+      "weakest_weighted_category": "Testimonial"
+    },
+    "NPA Tax Fraud Report": {
+      "evidence_strength": 0.8325,
+      "burden_threshold": 0.95,
+      "burden_met": false,
+      "gap": 0.1175,
+      "cross_validated_strength": 0.8828,
+      "cross_validated_met": false,
+      "category_breakdown": {
+        "Temporal": 0.1377,
+        "Financial": 0.1924,
+        "Documentary": 0.1816,
+        "Testimonial": 0.0606,
+        "Forensic": 0.1279,
+        "Relational": 0.1323
+      },
+      "category_weights": {
+        "Temporal": 0.15,
+        "Financial": 0.25,
+        "Documentary": 0.2,
+        "Testimonial": 0.1,
+        "Forensic": 0.15,
+        "Relational": 0.15
+      },
+      "weakest_weighted_category": "Testimonial"
+    },
+    "Void Ab Initio Application (Rule 42(1)(a))": {
+      "evidence_strength": 0.8538,
+      "burden_threshold": 0.5,
+      "burden_met": true,
+      "gap": 0,
+      "cross_validated_strength": 0.8976,
+      "cross_validated_met": true,
+      "category_breakdown": {
+        "Temporal": 0.1836,
+        "Financial": 0.077,
+        "Documentary": 0.2724,
+        "Testimonial": 0.0606,
+        "Forensic": 0.1279,
+        "Relational": 0.1323
+      },
+      "category_weights": {
+        "Temporal": 0.2,
+        "Financial": 0.1,
+        "Documentary": 0.3,
+        "Testimonial": 0.1,
+        "Forensic": 0.15,
+        "Relational": 0.15
+      },
+      "weakest_weighted_category": "Testimonial"
+    },
+    "Contempt Opposition": {
+      "evidence_strength": 0.808,
+      "burden_threshold": 0.5,
+      "burden_met": true,
+      "gap": 0,
+      "cross_validated_strength": 0.8656,
+      "cross_validated_met": true,
+      "category_breakdown": {
+        "Temporal": 0.1377,
+        "Financial": 0.077,
+        "Documentary": 0.1816,
+        "Testimonial": 0.1515,
+        "Forensic": 0.1279,
+        "Relational": 0.1323
+      },
+      "category_weights": {
+        "Temporal": 0.15,
+        "Financial": 0.1,
+        "Documentary": 0.2,
+        "Testimonial": 0.25,
+        "Forensic": 0.15,
+        "Relational": 0.15
+      },
+      "weakest_weighted_category": "Financial"
+    }
+  },
+  "cross_validation": {
+    "alp_diverted": 5000000,
+    "nlogo_diverted": 4981369.51,
+    "nlogo_diverted_std": 33347.72,
+    "diverted_convergence": 0.9963,
+    "alp_exposure": 95250000.0,
+    "nlogo_exposure": 95017424.84,
+    "nlogo_exposure_std": 712214.72,
+    "exposure_convergence": 0.9976,
+    "alp_extracted": 42496524,
+    "nlogo_extracted": 42542427.95,
+    "overall_convergence": 0.9976,
+    "converged": true,
+    "ensemble_runs": 10
+  },
+  "void_ab_initio": {
+    "pillars": {
+      "Perjury with Foreknowledge": {
+        "description": "Applicant knew on 8 Jul 2024 that he severed the API chain. Swore on 13 Aug 2025 that Daniel refused to produce invoices.",
+        "evidence": [
+          "JF13 (Sage Transfer Form)",
+          "JF13A (Rynette emails confirming breakage)",
+          "JF30 (FNB Legal SOLE mandate)"
+        ],
+        "strength": 0.95
+      },
+      "Material Non-Disclosure": {
+        "description": "Sage predicate crime, API chain destruction, 13-month concealment, R10.6M extraction all concealed from court.",
+        "evidence": [
+          "JF13",
+          "JF14 (bank statements)",
+          "JF25 (Bantjies dismissal)",
+          "JF26 (fraud report)"
+        ],
+        "strength": 0.97
+      },
+      "Supporting Affidavit Fraud": {
+        "description": "Bantjies informed June 2025 of infrastructure sabotage. Concealed when swearing supporting affidavit August 2025.",
+        "evidence": [
+          "JF25 (Bantjies 'away for 2 weeks')",
+          "JF26 (fraud report to Bantjies)"
+        ],
+        "strength": 0.93
+      },
+      "Fabrication of Evidence": {
+        "description": "Sage transfer document forged: not executed by Kayla's executor, concealed co-directors, accompanied by perjured affidavit.",
+        "evidence": [
+          "JF13 (Sage Transfer Form)",
+          "JF29 (fabricated 2019 accounts)"
+        ],
+        "strength": 0.94
+      },
+      "Predicate Crime": {
+        "description": "Applicant's own sworn act (Sage affidavit) caused the dysfunction he blamed on respondents.",
+        "evidence": [
+          "JF13",
+          "JF13A",
+          "Court record (founding affidavit)"
+        ],
+        "strength": 0.96
+      }
+    },
+    "overall_strength": 0.95,
+    "void_ab_initio_met": "True",
+    "legal_authorities": [
+      "Giddey NO v JC Barnard and Partners 2007 (5) SA 525 (CC)",
+      "Lategan v Koopman NO 2005 (3) SA 29 (C)",
+      "Fraus omnia corrumpit"
+    ]
+  },
+  "contempt_defence": {
+    "elements": {
+      "Clear order exists": {
+        "applicant_burden": true,
+        "met": true,
+        "note": "Order of 19 Aug 2025 exists but is challenged as void ab initio."
+      },
+      "Knowledge of order": {
+        "applicant_burden": true,
+        "met": true,
+        "note": "Respondent acknowledges knowledge of the order."
+      },
+      "Contravention proven": {
+        "applicant_burden": true,
+        "met": false,
+        "note": "FAILED: All 3 alleged contraventions are rebutted by confirmatory affidavits (JF8, JF10, JF11). Stock was collected on time. Training was not disrupted. Photographs and order forms prove compliance."
+      },
+      "Wilful and mala fide": {
+        "respondent_burden": true,
+        "met": false,
+        "note": "Even if contravention proven (which it is not), rebutted by evidence of compliance within committed timeframes confirmed by 3 independent witnesses."
+      }
+    },
+    "contempt_established": false,
+    "defence_strength": 0.95,
+    "legal_authority": "Fakie NO v CCII Systems (Pty) Ltd 2006 (4) SA 326 (SCA)",
+    "additional_defence": "Void order cannot found contempt: fraus omnia corrumpit."
+  }
+}

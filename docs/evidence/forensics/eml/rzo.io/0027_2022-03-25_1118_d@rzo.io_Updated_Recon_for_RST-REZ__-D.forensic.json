@@ -1,0 +1,76 @@
+{
+  "_schema": "exoml-forensic/v1",
+  "_generated": "2026-03-10T08:04:26.420919+00:00",
+  "file_integrity": {
+    "eml_file": "rzo.io/0027_2022-03-25_1118_d@rzo.io_Updated_Recon_for_RST-REZ__-D.eml",
+    "file_size_bytes": 121360,
+    "md5": "73b57a35d0ff641306b22be3b5dd2f34",
+    "sha1": "0862b4874dccb04346f35c77aa25ce9acec1c583",
+    "sha256": "0e63160dadb15fc9b7fa438baf1df7a8cf5c28186ce3daf52b1442b2902228e3"
+  },
+  "message_identity": {
+    "db_id": 512,
+    "exchange_message_id": "AAMkAGE2YjljZjA1LTRlOWUtNDhjYi1iZjNkLWI4ZWRlNDQwYTU0MABGAAAAAADPgXCfMl5uRqA6Xxa9Yh33BwAh607i92PMQLMLAH3HB5h5AAAAAAEJAAAh607i92PMQLMLAH3HB5h5AAXH5SNeAAA=",
+    "conversation_id": "AAQkAGE2YjljZjA1LTRlOWUtNDhjYi1iZjNkLWI4ZWRlNDQwYTU0MAAQADoNB7UpMU6jlelJ5DiE6jk="
+  },
+  "envelope": {
+    "subject": "Updated Recon for RST-REZ :-D",
+    "from_name": "Daniel Faucitt",
+    "from_address": "d@rzo.io",
+    "to_recipients": [
+      {
+        "emailAddress": {
+          "name": "Rynette Farrar",
+          "address": "rynette@regima.zone"
+        }
+      }
+    ],
+    "cc_recipients": [
+      {
+        "emailAddress": {
+          "name": "jax@regima.zone",
+          "address": "jax@regima.zone"
+        }
+      },
+      {
+        "emailAddress": {
+          "name": "Peter Andrew Faucitt",
+          "address": "PETE@REGIMA.COM"
+        }
+      },
+      {
+        "emailAddress": {
+          "name": "Kayla Pretorius",
+          "address": "k@rzo.io"
+        }
+      },
+      {
+        "emailAddress": {
+          "name": "Kay Pretorius",
+          "address": "kayp@rzo.io"
+        }
+      }
+    ],
+    "received_datetime": "2022-03-25 11:18:00"
+  },
+  "mailbox_context": {
+    "user_email": "d@rzo.io",
+    "user_name": "Daniel Faucitt"
+  },
+  "body": {
+    "content_type": "html",
+    "preview": "It looks prettier now which they tell me is a good sign that things are balancing 😃\r\n\r\nAll has full statement\r\nMatched has paid invoices for Web\r\nUnmatched is the list of invoices that still needs to be paid\r\n\r\nLooking good from what I can see wahoo!!!",
+    "body_length_chars": 2254
+  },
+  "attachments": [
+    {
+      "name": "RST-REZ - Dan Recon Updated v6.xlsx",
+      "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "size_bytes": 94845,
+      "is_inline": false,
+      "has_content": true,
+      "md5": "0fdf612e1d63024ef7aaf0cd637d9541",
+      "sha256": "b052d673887b025a12816f615f0e924f5729ade036b3b61dc8380776704cfa0a"
+    }
+  ]
+}

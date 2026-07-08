@@ -1,0 +1,204 @@
+{
+  "entity_corrections": [
+    "PERSON_001 (Peter): Fixed family=husband_of_Jacqui+father_of_Daniel, ownership=50% RST/VV, 33% SLG",
+    "PERSON_002 (Rynette): Fixed son_owns_Addarory, manages all company accounts",
+    "PERSON_004 (Jacqui): CRITICAL FIX - mother_of_Daniel, wife_of_Peter, 50% RST shareholder/CEO",
+    "PERSON_005 (Daniel): CRITICAL FIX - NOT RST shareholder, employee only, 33% SLG/RWW, son of Peter+Jacqui",
+    "ORG_002 (RST): Fixed ownership = Jacqui 50% + Peter 50%, Daniel = employee ONLY"
+  ],
+  "elliott_fund_flow": {
+    "count": 2,
+    "total": 168300.46,
+    "transactions": [
+      {
+        "date": "2025-09-25",
+        "amount": 52037.73,
+        "source": "EXT:Internet Trf From Pete Elliott Attorne",
+        "reference": "Internet Trf From Pete Elliott Attorne",
+        "description": "",
+        "type": "deposit"
+      },
+      {
+        "date": "2025-09-30",
+        "amount": 116262.73,
+        "source": "EXT:Internet Trf From Peter Repay Elliott",
+        "reference": "Internet Trf From Peter Repay Elliott",
+        "description": "",
+        "type": "deposit"
+      }
+    ]
+  },
+  "elliott_absa": {
+    "count": 18,
+    "total": 760888.48,
+    "transactions": [
+      {
+        "file": "4112241409-0019-20250916-cheque_extracted.json",
+        "date": "2025-08-25",
+        "amount": -23410.45,
+        "description": "Digital Payment Dt           Settlement Absa Bank Elliott Attorneys",
+        "balance": ""
+      },
+      {
+        "file": "4112241409-0019-20250916-cheque_extracted.json",
+        "date": "2025-08-29",
+        "amount": -276000.0,
+        "description": "Digital Payment Dt           Settlement Absa Bank Villa Via Rent 1/09/2025        Honouring Fee                Eastgate         100.00                       A                                                                             5 327.44 (Effective 01/08/2025) 1/09/2025        Digital Transf Cr            Settlement                                                                                  200 000.00                   205 327.44 9385960126         Absa Bank Trf From Reg I Absa Bank Trf From Reg Inv 1/09/2025        Digital Payment Dt           Settlement                                                      199 671.17                                                  5 656.27 Absa Bank Dermal Skin Comms 1/09/2025        Monthly Acc Fee              Headoffice                                    *                         450.00                                              5 206.27 1/09/2025        Admin Charge                 Headoffice                                    *                          15.00                                              5 191.27 See Charge Statement Detail 1/09/2025        Unauth Dr Bal Fee            Headoffice                                    *                      110.01                                                 5 081.26 2/09/2025        Acb Debit:Internal           Accounts                                                          12 752.04                                                 7 670.78- Payment To Acc4570230082321000 (Effective 01/09/2025) 2/09/2025        Digital Transf Cr            Settlement                                                                                    20 000.00                    12 329.22 9385960126         Absa Bank Trf From Reg I Absa Bank Trf From Reg Inv 2/09/2025        Digital Payment Dt           Settlement                                                             7 693.50                                             4 635.72 Absa Bank Rev02 2605/08/2025 2/09/2025        Proof Of Pmt Email           Settlement         1.25                       A                                                                             4 635.72 3/09/2025        Digital Payment Dt           Settlement                                                             1 706.00                                             2 929.72 Absa Bank Emails - Yearly Cost 3/09/2025        Proof Of Pmt Email           Settlement         1.25                       A                                                                             2 929.72 4/09/2025        Digital Transf Cr            Settlement                                                                                    56 000.00                    58 929.72 9385960126         Absa Bank Trf From Reg I Absa Bank Trf From Reg Inv 4/09/2025        Digital Payment Dt           Settlement                                                        55 307.82                                                 3 621.90 Absa Bank Marisca Books 4/09/2025        Digital Transf Cr            Settlement                                                                                    12 000.00                    15 621.90 9385960126         Absa Bank Trf From Reg I Absa Bank Trf From Reg Inv 4/09/2025        Digital Payment Dt           Settlement                                                             2 366.00                                            13 255.90 Absa Bank Courier Guy Krn 4/09/2025        Digital Payment Dt           Settlement                                                             5 002.50                                             8 253.40 Absa Bank Courier Guy Dermal 4/09/2025        Digital Payment Dt           Settlement                                                             1 147.45                                             7 105.95 Cheque Account Number:                             41-1224-1409 Absa Bank Bp Morninghill 4/09/2025        Digital Payment Dt           Settlement                                                           1 119.00                                     5 986.95 Absa Bank Az Solutions/ Itrio 4/09/2025        Digital Payment Dt           Settlement                                                           1 801.72                                     4 185.23 Absa Bank Datamass 4/09/2025        Digital Transf Cr            Settlement                                                                          15 000.00                    19 185.23 9385960126         Absa Bank Trf From Reg I Absa Bank Trf From Reg Inv 4/09/2025        Digital Payment Dt           Settlement                                                           9 775.00                                     9 410.23 Absa Bank Martin's Motor Main 4/09/2025        Proof Of Pmt Email           Settlement                        1.25      A                                                                     9 410.23 8/09/2025        Digital Transf Cr            Settlement                                                                          41 000.00                    50 410.23 9385960126         Absa Bank Trf From Reg I Absa Bank Trf From Reg Inv 8/09/2025        Digital Payment Dt           Settlement                                                      40 592.14                                         9 818.09 Absa Bank Elliott Attorneys 8/09/2025        Digital Payment Dt           Settlement                                                           5 417.79                                     4 400.30 Absa Bank Sage Online 8/09/2025        Proof Of Pmt Email           Settlement                        1.25      A                                                                     4 400.30",
+        "balance": ""
+      },
+      {
+        "file": "4112241409-0019-20250916-cheque_extracted.json",
+        "date": "2025-09-10",
+        "amount": -25833.95,
+        "description": "Digital Payment Dt           Settlement Absa Bank Elliott Attorneys",
+        "balance": ""
+      },
+      {
+        "file": "4112241409-0020-20251016-cheque_extracted.json",
+        "date": "2025-09-17",
+        "amount": -1592.75,
+        "description": "Digital Payment Dt           Settlement Absa Bank Elliott Attorneys",
+        "balance": ""
+      },
+      {
+        "file": "4112241409-0020-20251016-cheque_extracted.json",
+        "date": "2025-09-23",
+        "amount": -21118.6,
+        "description": "Digital Payment Dt           Settlement Absa Bank Elliott Attorneys",
+        "balance": ""
+      },
+      {
+        "file": "4112241409-0020-20251016-cheque_extracted.json",
+        "date": "2025-09-25",
+        "amount": -79326.38,
+        "description": "Digital Payment Dt           Settlement Absa Bank Elliott Attorneys",
+        "balance": ""
+      },
+      {
+        "file": "4112241409-0020-20251016-cheque_extracted.json",
+        "date": "2025-10-15",
+        "amount": -44556.75,
+        "description": "Digital Payment Dt           Settlement Absa Bank Elliott Attorneys",
+        "balance": ""
+      },
+      {
+        "file": "4112241409-0022-20251216-cheque_extracted.json",
+        "date": "2025-11-17",
+        "amount": -16432.05,
+        "description": "Digital Payment Dt           Settlement Absa Bank Elliott Attorneys",
+        "balance": ""
+      },
+      {
+        "file": "4112241409-0022-20251216-cheque_extracted.json",
+        "date": "2025-11-26",
+        "amount": -47846.4,
+        "description": "Digital Payment Dt           Settlement Absa Bank Elliott Attorneys",
+        "balance": ""
+      },
+      {
+        "file": "4112241409-0022-20251216-cheque_extracted.json",
+        "date": "2025-12-12",
+        "amount": -12877.7,
+        "description": "Digital Payment Dt           Settlement Absa Bank Elliott Attorneys",
+        "balance": ""
+      },
+      {
+        "file": "4112241409-0024-20260216-cheque_extracted.json",
+        "date": "2026-01-20",
+        "amount": -11517.25,
+        "description": "Digital Payment Dt           Settlement Absa Bank Elliott Attorneys",
+        "balance": ""
+      },
+      {
+        "file": "4112241409-0025-20260316-cheque_extracted.json",
+        "date": "2026-02-17",
+        "amount": -29166.3,
+        "description": "Digital Payment Dt           Settlement Absa Bank Elliott Attorneys",
+        "balance": ""
+      },
+      {
+        "file": "4112241409-0025-20260316-cheque_extracted.json",
+        "date": "2026-02-17",
+        "amount": -5416.5,
+        "description": "Digital Payment Dt           Settlement Absa Bank Elliott Attorneys",
+        "balance": ""
+      },
+      {
+        "file": "4112241409-0025-20260316-cheque_extracted.json",
+        "date": "2026-02-17",
+        "amount": -7662.45,
+        "description": "Digital Payment Dt           Settlement Absa Bank Elliott Attorneys",
+        "balance": ""
+      },
+      {
+        "file": "4112241409-0025-20260316-cheque_extracted.json",
+        "date": "2026-03-13",
+        "amount": -39753.2,
+        "description": "Digital Payment Dt           Settlement Absa Bank Elliott Attorneys",
+        "balance": ""
+      },
+      {
+        "file": "4112241409-0026-20260416-cheque_extracted.json",
+        "date": "2026-04-15",
+        "amount": -112320.7,
+        "description": "Digital Payment Dt           Settlement Absa Bank Elliott Attorneys",
+        "balance": ""
+      },
+      {
+        "file": "4112241409-0026-20260416-cheque_extracted.json",
+        "date": "2026-04-15",
+        "amount": -126.5,
+        "description": "Digital Payment Dt           Settlement Absa Bank Elliott Attorneys",
+        "balance": ""
+      },
+      {
+        "file": "4112303451-0026-20260420-cheque_extracted.json",
+        "date": "2026-04-15",
+        "amount": -5930.55,
+        "description": "Digital Payment Dt           Settlement Absa Bank Elliott Attorneys",
+        "balance": ""
+      }
+    ]
+  },
+  "elliott_sep_10_11": [],
+  "absa_coverage": {
+    "4112241409": {
+      "count": 15,
+      "range": "15-27"
+    },
+    "4112303451": {
+      "count": 13,
+      "range": "16-26"
+    },
+    "4112315016": {
+      "count": 13,
+      "range": "15-27"
+    },
+    "4112318747": {
+      "count": 14,
+      "range": "15-27"
+    },
+    "9385960126": {
+      "count": 14,
+      "range": "13-26"
+    },
+    "9386049240": {
+      "count": 13,
+      "range": "13-26"
+    },
+    "9386049664": {
+      "count": 13,
+      "range": "13-26"
+    },
+    "9386053394": {
+      "count": 14,
+      "range": "13-26"
+    },
+    "9395691987": {
+      "count": 2,
+      "range": "4-5"
+    }
+  },
+  "absa_duplicates": 604,
+  "absa_total_transactions": 6411
+}

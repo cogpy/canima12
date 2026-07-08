@@ -1,0 +1,3473 @@
+{
+  "metadata": {
+    "version": "33.0_MAT4719_EVIDENCE_2026_02_09",
+    "created_date": "2025-11-10",
+    "description": "Comprehensive timeline for Revenue Stream Hijacking case 2025-137857",
+    "case_number": "2025-137857",
+    "last_updated": "2026-02-09T01:37:55",
+    "changes": "Added 11 new timeline entries from February 2026 evidence package",
+    "criminal_threshold_entries": 6,
+    "high_significance_entries": 7,
+    "total_entries": 136,
+    "civil_threshold_entries": 0,
+    "completeness_audit": "2026-01-22 00:57:20",
+    "by_year": {
+      "1982": 1,
+      "1986": 1,
+      "1991": 1,
+      "1992": 2,
+      "1993": 1,
+      "1996": 1,
+      "1997": 1,
+      "1998": 1,
+      "1999": 4,
+      "2000": 2,
+      "2001": 1,
+      "2005": 2,
+      "2006": 5,
+      "2007": 1,
+      "2008": 2,
+      "2011": 1,
+      "2015": 2,
+      "2016": 2,
+      "2017": 19,
+      "2018": 2,
+      "2019": 9,
+      "2020": 7,
+      "2021": 5,
+      "2022": 3,
+      "2023": 11,
+      "2024": 4,
+      "2025": 44,
+      "2026": 1
+    }
+  },
+  "timeline": [
+    {
+      "date": "1982-03-26",
+      "event": "ALOECO (SA) original company registered",
+      "entity": "ALOECO (SA) - Original 1982",
+      "source": "293351602.Pdf",
+      "key_actor_names": [],
+      "entities_involved": [
+        "ALOECO (SA) - Original 1982"
+      ],
+      "ad_res_j7_evidence_enhanced": [
+        "ANNEXURES/JF04 - CIPC registration documents"
+      ],
+      "evidence_enhanced_timestamp": "2026-01-18T05:36:58.297604",
+      "event_ref": "EVENT_GEN_19820326",
+      "actors": []
+    },
+    {
+      "date": "1986-03-21",
+      "event": "L'IMAGE CC registered",
+      "entity": "L'IMAGE",
+      "source": "293351642.Pdf",
+      "key_actor_names": [],
+      "entities_involved": [
+        "L'IMAGE"
+      ],
+      "ad_res_j7_evidence_enhanced": [
+        "ANNEXURES/JF04 - CIPC registration documents"
+      ],
+      "evidence_enhanced_timestamp": "2026-01-18T05:36:58.297618",
+      "event_ref": "EVENT_GEN_19860321",
+      "actors": []
+    },
+    {
+      "date": "1991-11-28",
+      "event": "S A Logistic Services CC registered by Louw",
+      "entity": "S A Logistic Services",
+      "source": "293351608.Pdf",
+      "key_actor_names": [],
+      "entities_involved": [
+        "S A Logistic Services"
+      ],
+      "ad_res_j7_evidence_enhanced": [
+        "ANNEXURES/JF04 - CIPC registration documents"
+      ],
+      "evidence_enhanced_timestamp": "2026-01-18T05:36:58.297622",
+      "event_ref": "EVENT_GEN_19911128",
+      "actors": []
+    },
+    {
+      "date": "1992-02-26",
+      "event_ref": "EVENT_CIPC_001",
+      "title": "RegimA Skin Treatments CC Registration",
+      "description": "RegimA Skin Treatments (1992/005371/23) registered as Close Corporation. Peter Andrew Faucitt appointed as founding member.",
+      "category": "general",
+      "significance_level": "low",
+      "evidence_refs": [
+        "CIPC WinDeed Report 293349755"
+      ],
+      "actors": [
+        "Peter Andrew Faucitt",
+        "Peter Andrew Faucitt"
+      ],
+      "added_date": "2026-01-22",
+      "merged_from": [
+        "TL_CIPC_001",
+        "EVENT_CIPC_001"
+      ],
+      "entities_involved": [],
+      "ad_res_j7_evidence_enhanced": []
+    },
+    {
+      "date": "1992-12-15",
+      "event": "Shaneprop CC registered by Louw",
+      "entity": "Shaneprop",
+      "source": "293351648.Pdf",
+      "key_actor_names": [],
+      "entities_involved": [
+        "Shaneprop"
+      ],
+      "ad_res_j7_evidence_enhanced": [
+        "ANNEXURES/JF04 - CIPC registration documents"
+      ],
+      "evidence_enhanced_timestamp": "2026-01-18T05:36:58.297628",
+      "event_ref": "EVENT_GEN_19921215",
+      "actors": []
+    },
+    {
+      "date": "1993-02-13",
+      "event": "Louw becomes director of ALOECO (SA) original",
+      "entity": "Alan Peter Louw",
+      "source": "293351602.Pdf",
+      "key_actor_names": [],
+      "entities_involved": [
+        "Alan Peter Louw"
+      ],
+      "ad_res_j7_evidence_enhanced": [
+        "ANNEXURES/JF04 - CIPC registration documents"
+      ],
+      "evidence_enhanced_timestamp": "2026-01-18T05:36:58.297631",
+      "event_ref": "EVENT_GEN_19930213",
+      "actors": []
+    },
+    {
+      "date": "1996-10-15",
+      "event": "UFO Express CC registered",
+      "entity": "UFO Express",
+      "source": "293352764.Pdf",
+      "key_actor_names": [],
+      "entities_involved": [
+        "UFO Express"
+      ],
+      "ad_res_j7_evidence_enhanced": [
+        "ANNEXURES/JF04 - CIPC registration documents"
+      ],
+      "evidence_enhanced_timestamp": "2026-01-18T05:36:58.297635",
+      "event_ref": "EVENT_GEN_19961015",
+      "actors": []
+    },
+    {
+      "date": "1997-09-02",
+      "event": "Rizzotto becomes 100% member of UFO Express",
+      "entity": "Martin Carlo Rizzotto",
+      "source": "293352764.Pdf",
+      "key_actor_names": [],
+      "entities_involved": [
+        "Martin Carlo Rizzotto"
+      ],
+      "ad_res_j7_evidence_enhanced": [
+        "ANNEXURES/JF04 - CIPC registration documents"
+      ],
+      "evidence_enhanced_timestamp": "2026-01-18T05:36:58.297642",
+      "event_ref": "EVENT_GEN_19970902",
+      "actors": []
+    },
+    {
+      "date": "1998-05-20",
+      "event": "East Coast Logistics CC registered",
+      "entity": "East Coast Logistics",
+      "source": "293351625.Pdf",
+      "key_actor_names": [],
+      "entities_involved": [
+        "East Coast Logistics"
+      ],
+      "ad_res_j7_evidence_enhanced": [
+        "ANNEXURES/JF04 - CIPC registration documents"
+      ],
+      "evidence_enhanced_timestamp": "2026-01-18T05:36:58.297646",
+      "event_ref": "EVENT_GEN_19980520",
+      "actors": []
+    },
+    {
+      "date": "1999-03-26",
+      "event": "LMS Logistic Services registered",
+      "entity": "LMS Logistic Services",
+      "source": "293352439.Pdf",
+      "key_actor_names": [],
+      "entities_involved": [
+        "LMS Logistic Services"
+      ],
+      "ad_res_j7_evidence_enhanced": [
+        "ANNEXURES/JF04 - CIPC registration documents"
+      ],
+      "evidence_enhanced_timestamp": "2026-01-18T05:36:58.297649",
+      "event_ref": "EVENT_GEN_19990326",
+      "actors": []
+    },
+    {
+      "date": "1999-05-25",
+      "event": "S A Logistic Services enters liquidation",
+      "entity": "S A Logistic Services",
+      "source": "293351608.Pdf",
+      "key_actor_names": [],
+      "entities_involved": [
+        "S A Logistic Services"
+      ],
+      "ad_res_j7_evidence_enhanced": [
+        "ANNEXURES/JF04 - CIPC registration documents"
+      ],
+      "evidence_enhanced_timestamp": "2026-01-18T05:36:58.297652",
+      "event_ref": "EVENT_GEN_19990525",
+      "actors": []
+    },
+    {
+      "date": "1999-05-25",
+      "event_ref": "EVENT_097",
+      "title": "EVENT_097",
+      "description": "S A Logistic Services enters liquidation",
+      "category": "cipc_corporate",
+      "significance_level": "low",
+      "evidence_refs": [
+        "financial_records",
+        "transaction_documentation"
+      ],
+      "actors": [],
+      "added_date": "2026-01-22",
+      "entities_involved": [],
+      "ad_res_j7_evidence_enhanced": []
+    },
+    {
+      "entry_id": "TL_CIPC_002",
+      "date": "1999-11-03",
+      "event_type": "company_registration",
+      "title": "AYMAC International CC Registration",
+      "description": "AYMAC International (1999/061687/23) registered. Peter Andrew Faucitt appointed as member.",
+      "key_actors": [
+        "Peter Andrew Faucitt",
+        "Jacqueline Faucitt",
+        "Daniel James Faucitt"
+      ],
+      "entities_involved": [
+        "PERSON_001",
+        "PERSON_004",
+        "PERSON_005"
+      ],
+      "evidence": [
+        "CIPC WinDeed Report 293349153"
+      ],
+      "significance": "Early Faucitt family business entity",
+      "burden_of_proof": "verified_cipc_record",
+      "added_date": "2026-01-09T06:57:36.207479",
+      "ad_res_j7_evidence_enhanced": [
+        "ANNEXURES/JF04 - CIPC registration documents"
+      ],
+      "burden_of_proof_verified": "verified_cipc_record",
+      "evidence_enhanced_timestamp": "2026-01-18T05:36:58.297655",
+      "key_actor_names": [
+        "Peter Andrew Faucitt",
+        "Jacqueline Faucitt",
+        "Daniel James Faucitt"
+      ],
+      "actors": [
+        "Peter Andrew Faucitt",
+        "Jacqueline Faucitt",
+        "Daniel James Faucitt"
+      ],
+      "event_ref": "EVENT_GEN_19991103"
+    },
+    {
+      "date": "2000-05-31",
+      "event": "George Endermologie Clinic CC registered in Western Cape",
+      "category": "company_registration",
+      "entities": [
+        "George Endermologie Clinic"
+      ],
+      "evidence": [
+        "293332765-Company-GeorgeEndermologieClinic.Pdf"
+      ],
+      "ad_res_j7_evidence_enhanced": [
+        "ANNEXURES/JF04 - CIPC registration documents"
+      ],
+      "burden_of_proof_verified": "verified_cipc_record",
+      "evidence_enhanced_timestamp": "2026-01-18T05:36:58.297659",
+      "key_actor_names": [],
+      "event_ref": "EVENT_REG_20000531",
+      "actors": [],
+      "entities_involved": []
+    },
+    {
+      "date": "2000-05-31",
+      "event_ref": "EVENT_104",
+      "title": "EVENT_104",
+      "description": "George Endermologie Clinic CC registered",
+      "category": "general",
+      "significance_level": "low",
+      "evidence_refs": [
+        "293332765-Company-GeorgeEndermologieClinic.Pdf"
+      ],
+      "actors": [],
+      "added_date": "2026-01-22",
+      "entities_involved": [],
+      "ad_res_j7_evidence_enhanced": []
+    },
+    {
+      "date": "2001-09-18",
+      "event": "Nanini 262 CC registered by Louw",
+      "entity": "Nanini 262",
+      "source": "293351615.Pdf",
+      "key_actor_names": [],
+      "entities_involved": [
+        "Nanini 262"
+      ],
+      "ad_res_j7_evidence_enhanced": [
+        "ANNEXURES/JF04 - CIPC registration documents"
+      ],
+      "evidence_enhanced_timestamp": "2026-01-18T05:36:58.297662",
+      "event_ref": "EVENT_GEN_20010918",
+      "actors": []
+    },
+    {
+      "date": "2005-09-29",
+      "event": "Kachan Marketing and Distribution CC registered - Karen Avnit 100% member",
+      "category": "company_registration",
+      "entities": [
+        "Kachan Marketing and Distribution",
+        "Karen Patricia Avnit"
+      ],
+      "evidence": [
+        "293340322-Company-KachanMarketingandDistribution.Pdf"
+      ],
+      "ad_res_j7_evidence_enhanced": [
+        "ANNEXURES/JF04 - CIPC registration documents"
+      ],
+      "burden_of_proof_verified": "verified_cipc_record",
+      "evidence_enhanced_timestamp": "2026-01-18T05:36:58.297665",
+      "key_actor_names": [],
+      "event_ref": "EVENT_REG_20050929",
+      "actors": [],
+      "entities_involved": []
+    },
+    {
+      "date": "2005-09-29",
+      "event_ref": "EVENT_101",
+      "title": "EVENT_101",
+      "description": "Kachan Marketing and Distribution CC registered",
+      "category": "general",
+      "significance_level": "low",
+      "evidence_refs": [
+        "293340322-Company-KachanMarketingandDistribution.Pdf"
+      ],
+      "actors": [],
+      "added_date": "2026-01-22",
+      "entities_involved": [],
+      "ad_res_j7_evidence_enhanced": []
+    },
+    {
+      "date": "2006-02-14",
+      "event": "ALOECO (SA) CC registered - Louw 51%",
+      "entity": "ALOECO (SA) - CC 2006",
+      "source": "293351612.Pdf",
+      "key_actor_names": [],
+      "entities_involved": [
+        "ALOECO (SA) - CC 2006"
+      ],
+      "ad_res_j7_evidence_enhanced": [
+        "ANNEXURES/JF04 - CIPC registration documents"
+      ],
+      "evidence_enhanced_timestamp": "2026-01-18T05:36:58.297669",
+      "event_ref": "EVENT_GEN_20060214",
+      "actors": []
+    },
+    {
+      "entry_id": "TL_CIPC_003",
+      "date": "2006-02-24",
+      "event_type": "director_appointment",
+      "title": "Jacqueline Faucitt Appointed to RegimA Skin Treatments",
+      "description": "Jacqueline Faucitt appointed as 50% member of RegimA Skin Treatments CC.",
+      "key_actors": [
+        "Jacqueline Faucitt"
+      ],
+      "entities_involved": [
+        "PERSON_004",
+        "ORG_002"
+      ],
+      "evidence": [
+        "CIPC WinDeed Report 293349755"
+      ],
+      "significance": "Establishes Jacqueline's formal role in RST",
+      "burden_of_proof": "verified_cipc_record",
+      "added_date": "2026-01-09T06:57:36.207479",
+      "ad_res_j7_evidence_enhanced": [
+        "ANNEXURES/JF04 - CIPC director records"
+      ],
+      "burden_of_proof_verified": "verified_cipc_record",
+      "evidence_enhanced_timestamp": "2026-01-18T05:36:58.297672",
+      "key_actor_names": [
+        "Jacqueline Faucitt"
+      ],
+      "actors": [
+        "Jacqueline Faucitt"
+      ],
+      "event_ref": "EVENT_GEN_20060224"
+    },
+    {
+      "date": "2006-03-16",
+      "event": "Dermal Skin Treatments Cape Town CC registered - Nortje 50%/50%",
+      "category": "company_registration",
+      "entities": [
+        "Dermal Skin Treatments Cape Town",
+        "Barend Thomas Nortje",
+        "Sharon Nortje"
+      ],
+      "evidence": [
+        "293337582-Company-DermalSkinTreatmentsCapeTown.Pdf"
+      ],
+      "ad_res_j7_evidence_enhanced": [
+        "ANNEXURES/JF04 - CIPC registration documents"
+      ],
+      "burden_of_proof_verified": "verified_cipc_record",
+      "evidence_enhanced_timestamp": "2026-01-18T05:36:58.297675",
+      "key_actor_names": [],
+      "event_ref": "EVENT_REG_20060316",
+      "actors": [],
+      "entities_involved": []
+    },
+    {
+      "date": "2006-03-16",
+      "event_ref": "EVENT_100",
+      "title": "EVENT_100",
+      "description": "Dermal Skin Treatments Cape Town CC registered",
+      "category": "general",
+      "significance_level": "low",
+      "evidence_refs": [
+        "293337582-Company-DermalSkinTreatmentsCapeTown.Pdf"
+      ],
+      "actors": [],
+      "added_date": "2026-01-22",
+      "entities_involved": [],
+      "ad_res_j7_evidence_enhanced": []
+    },
+    {
+      "date": "2006-06-05",
+      "event": "Karen Avnit purchases SS Forest Lodge 173, Unit 4 for R1,100,000",
+      "category": "property_transaction",
+      "entities": [
+        "Karen Patricia Avnit"
+      ],
+      "evidence": [
+        "293344692-Property-KarenAvnit.Pdf"
+      ],
+      "key_actor_names": [],
+      "ad_res_j7_evidence_enhanced": [
+        "ANNEXURES/JF04 - CIPC registration documents"
+      ],
+      "evidence_enhanced_timestamp": "2026-01-18T05:36:58.297678",
+      "event_ref": "EVENT_PROP_20060605",
+      "actors": [],
+      "entities_involved": []
+    },
+    {
+      "date": "2007-07-17",
+      "event": "Barend Nortje appointed director of De Fay Fund Management",
+      "category": "directorship_change",
+      "entities": [
+        "Barend Thomas Nortje",
+        "De Fay Fund Management"
+      ],
+      "evidence": [
+        "293338023-Director-BarendNortje.Pdf"
+      ],
+      "key_actor_names": [],
+      "ad_res_j7_evidence_enhanced": [
+        "ANNEXURES/JF04 - CIPC registration documents"
+      ],
+      "evidence_enhanced_timestamp": "2026-01-18T05:36:58.297680",
+      "event_ref": "EVENT_DIR_20070717",
+      "actors": [],
+      "entities_involved": []
+    },
+    {
+      "date": "2008-06-18",
+      "event": "RegimA International Skin Treatments CC established",
+      "entity": "RegimA International Skin Treatments CC",
+      "source": "TheCosmeticsIndustry(2017-11-14).pdf",
+      "key_actor_names": [],
+      "entities_involved": [
+        "RegimA International Skin Treatments CC"
+      ],
+      "ad_res_j7_evidence_enhanced": [
+        "ANNEXURES/JF04 - CIPC registration documents"
+      ],
+      "evidence_enhanced_timestamp": "2026-01-18T05:36:58.297684",
+      "event_ref": "EVENT_GEN_20080618",
+      "actors": []
+    },
+    {
+      "entry_id": "TL_CIPC_004",
+      "date": "2008-06-27",
+      "event_type": "company_registration",
+      "title": "Strategic Logistics CC Registration",
+      "description": "Strategic Logistics (2008/136496/23) registered as Close Corporation with Daniel James Faucitt as founding member (33%).",
+      "key_actors": [
+        "Daniel James Faucitt"
+      ],
+      "entities_involved": [
+        "PERSON_005",
+        "ORG_004"
+      ],
+      "evidence": [
+        "CIPC WinDeed Report 293349762"
+      ],
+      "significance": "Establishes SLG as a separate entity for packaging/logistics",
+      "burden_of_proof": "verified_cipc_record",
+      "added_date": "2026-01-09T06:57:36.207479",
+      "ad_res_j7_evidence_enhanced": [
+        "ANNEXURES/JF04 - CIPC registration documents"
+      ],
+      "burden_of_proof_verified": "verified_cipc_record",
+      "evidence_enhanced_timestamp": "2026-01-18T05:36:58.297686",
+      "key_actor_names": [
+        "Daniel James Faucitt"
+      ],
+      "actors": [
+        "Daniel James Faucitt"
+      ],
+      "event_ref": "EVENT_GEN_20080627"
+    },
+    {
+      "date": "2011-03-11",
+      "event_ref": "EVENT_CIPC_002",
+      "title": "RegimA Worldwide Distribution Registration",
+      "description": "RegimA Worldwide Distribution (2011/005722/07) registered. Originally named Clear Creek Trading 139 (shelf company). Christian Gouws (attorney) resigned same day. Peter, Jacqueline, and Daniel Faucitt appointed as directors.",
+      "category": "cipc_corporate",
+      "significance_level": "low",
+      "evidence_refs": [
+        "CIPC WinDeed Report 293348688"
+      ],
+      "actors": [
+        "Kevin Derrick",
+        "Jacqueline Faucitt",
+        "Daniel James Faucitt",
+        "Peter Andrew Faucitt",
+        "Jacqueline Faucitt",
+        "PERSON_005",
+        "Peter Andrew Faucitt",
+        "Christian Gouws"
+      ],
+      "added_date": "2026-01-22",
+      "merged_from": [
+        "TL_CIPC_005",
+        "EVENT_CIPC_002"
+      ],
+      "entities_involved": [],
+      "ad_res_j7_evidence_enhanced": []
+    },
+    {
+      "date": "2015-07-08",
+      "event": "K Rae Enterprises (later Dandelion SA) registered",
+      "category": "company_registration",
+      "entities": [
+        "Dandelion SA",
+        "Kirby Rae Van Der Stelt"
+      ],
+      "evidence": [
+        "293342245-Company-DandelionSA.Pdf"
+      ],
+      "ad_res_j7_evidence_enhanced": [
+        "ANNEXURES/JF04 - CIPC registration documents"
+      ],
+      "burden_of_proof_verified": "verified_cipc_record",
+      "evidence_enhanced_timestamp": "2026-01-18T05:36:58.297693",
+      "key_actor_names": [],
+      "event_ref": "EVENT_REG_20150708",
+      "actors": [],
+      "entities_involved": []
+    },
+    {
+      "date": "2015-07-08",
+      "event_ref": "EVENT_102",
+      "title": "EVENT_102",
+      "description": "Dandelion SA (formerly K Rae Enterprises) registered",
+      "category": "general",
+      "significance_level": "low",
+      "evidence_refs": [
+        "293342245-Company-DandelionSA.Pdf"
+      ],
+      "actors": [],
+      "added_date": "2026-01-22",
+      "entities_involved": [],
+      "ad_res_j7_evidence_enhanced": []
+    },
+    {
+      "date": "2016-07-05",
+      "event": "Chan\u00e9 Todd becomes director of Dandelion SA; Kirby Van Der Stelt resigns",
+      "category": "directorship_change",
+      "entities": [
+        "Dandelion SA",
+        "Chan\u00e9 Auriele Todd",
+        "Kirby Rae Van Der Stelt"
+      ],
+      "evidence": [
+        "293342245-Company-DandelionSA.Pdf"
+      ],
+      "key_actor_names": [],
+      "ad_res_j7_evidence_enhanced": [
+        "ANNEXURES/JF04 - CIPC registration documents"
+      ],
+      "evidence_enhanced_timestamp": "2026-01-18T05:36:58.297695",
+      "event_ref": "EVENT_DIR_20160705",
+      "actors": [],
+      "entities_involved": []
+    },
+    {
+      "date": "2016-07-19",
+      "event_ref": "EVENT_CIPC_003",
+      "title": "Jacqueline and Peter Faucitt Added to Strategic Logistics",
+      "description": "Jacqueline and Peter Faucitt added as 33% members each to Strategic Logistics CC, changing the ownership structure.",
+      "category": "general",
+      "significance_level": "low",
+      "evidence_refs": [
+        "CIPC WinDeed Report 293349762"
+      ],
+      "actors": [
+        "Peter Andrew Faucitt",
+        "Jacqueline Faucitt",
+        "Peter Andrew Faucitt",
+        "Jacqueline Faucitt"
+      ],
+      "added_date": "2026-01-22",
+      "merged_from": [
+        "TL_CIPC_006",
+        "EVENT_CIPC_003"
+      ],
+      "entities_involved": [],
+      "ad_res_j7_evidence_enhanced": []
+    },
+    {
+      "date": "2017-02-22",
+      "event": "Rezonance registered (shelf company)",
+      "entity": "Rezonance",
+      "source": "293355407.Pdf",
+      "key_actor_names": [],
+      "entities_involved": [
+        "Rezonance"
+      ],
+      "ad_res_j7_evidence_enhanced": [
+        "ANNEXURES/JF04 - CIPC registration documents"
+      ],
+      "evidence_enhanced_timestamp": "2026-01-18T05:36:58.297702",
+      "event_ref": "EVENT_GEN_20170222",
+      "actors": []
+    },
+    {
+      "date": "2017-02-22",
+      "event_ref": "EVENT_092",
+      "title": "EVENT_092",
+      "description": "Rezonance registered as shelf company by Dennis Bishop",
+      "category": "cipc_corporate",
+      "significance_level": "low",
+      "evidence_refs": [
+        "financial_records",
+        "transaction_documentation"
+      ],
+      "actors": [],
+      "added_date": "2026-01-22",
+      "entities_involved": [],
+      "ad_res_j7_evidence_enhanced": []
+    },
+    {
+      "date": "2017-02-24",
+      "event_ref": "EVENT_H011",
+      "title": "EVENT_H011",
+      "description": "RegimaSA (Pty) Ltd incorporated as Collections Agent",
+      "category": "cipc_corporate",
+      "significance_level": "low",
+      "evidence_refs": [
+        "CIPC registration 2017/087935/07",
+        "RegimaSA(Pty)Ltd-2019-Financialstatements-SME.pdf"
+      ],
+      "actors": [
+        "Daniel James Faucitt",
+        "Peter Andrew Faucitt"
+      ],
+      "added_date": "2026-01-22",
+      "merged_from": [
+        "EVENT_GEN_1_EVENTS_ON_2017_02_24_0224",
+        "EVENT_H011"
+      ],
+      "entities_involved": [],
+      "ad_res_j7_evidence_enhanced": []
+    },
+    {
+      "date": "2017-02-27",
+      "event": "RegimA Medic registered (shelf company)",
+      "entity": "RegimA Medic",
+      "source": "293355412.Pdf",
+      "key_actor_names": [],
+      "entities_involved": [
+        "RegimA Medic"
+      ],
+      "ad_res_j7_evidence_enhanced": [
+        "ANNEXURES/JF04 - CIPC registration documents"
+      ],
+      "evidence_enhanced_timestamp": "2026-01-18T05:36:58.297710",
+      "event_ref": "EVENT_GEN_20170227",
+      "actors": []
+    },
+    {
+      "date": "2017-02-27",
+      "event_ref": "EVENT_093",
+      "title": "EVENT_093",
+      "description": "RegimA Medic registered as shelf company by Dennis Bishop",
+      "category": "cipc_corporate",
+      "significance_level": "low",
+      "evidence_refs": [
+        "financial_records",
+        "transaction_documentation"
+      ],
+      "actors": [],
+      "added_date": "2026-01-22",
+      "entities_involved": [],
+      "ad_res_j7_evidence_enhanced": []
+    },
+    {
+      "date": "2017-04-04",
+      "event_ref": "EVENT_CIPC_004",
+      "title": "Daniel's 2017 Company Formation Spree",
+      "description": "Daniel James Faucitt registered multiple companies in April-May 2017: ReZonance, RegimA Medic, RegimA Zone Academy, RegimA SA, RegimA Zone, RegimA SpaZone.",
+      "category": "general",
+      "significance_level": "low",
+      "evidence_refs": [
+        "CIPC WinDeed Report 293349141"
+      ],
+      "actors": [
+        "Daniel James Faucitt",
+        "PERSON_005"
+      ],
+      "added_date": "2026-01-22",
+      "merged_from": [
+        "TL_CIPC_007",
+        "EVENT_CIPC_004"
+      ],
+      "entities_involved": [],
+      "ad_res_j7_evidence_enhanced": []
+    },
+    {
+      "date": "2017-04-04",
+      "event": "Daniel Faucitt & Kayla Pretorius take over Rezonance from Dennis Bishop",
+      "entity": "Rezonance",
+      "source": "293355407.Pdf",
+      "key_actor_names": [],
+      "entities_involved": [
+        "Rezonance"
+      ],
+      "ad_res_j7_evidence_enhanced": [
+        "ANNEXURES/JF04 - CIPC registration documents"
+      ],
+      "evidence_enhanced_timestamp": "2026-01-18T05:36:58.297717",
+      "event_ref": "EVENT_GEN_20170404",
+      "actors": []
+    },
+    {
+      "date": "2017-04-04",
+      "event_ref": "EVENT_094",
+      "title": "EVENT_094",
+      "description": "Rezonance transferred from Dennis Bishop to Daniel Faucitt and Kayla Pretorius",
+      "category": "cipc_corporate",
+      "significance_level": "low",
+      "evidence_refs": [
+        "financial_records",
+        "transaction_documentation"
+      ],
+      "actors": [],
+      "added_date": "2026-01-22",
+      "entities_involved": [],
+      "ad_res_j7_evidence_enhanced": []
+    },
+    {
+      "entry_id": "TL_CIPC_008",
+      "date": "2017-04-10",
+      "event_type": "company_registration",
+      "title": "RegimA Medic and RegimA Zone Academy Registration",
+      "description": "RegimA Medic (2017/087877/07) and RegimA Zone Academy (2017/113134/07) registered with Daniel James Faucitt as director.",
+      "key_actors": [
+        "Daniel James Faucitt"
+      ],
+      "entities_involved": [
+        "PERSON_005"
+      ],
+      "evidence": [
+        "CIPC WinDeed Report 293349141"
+      ],
+      "significance": "Expansion of RegimA brand entities",
+      "burden_of_proof": "verified_cipc_record",
+      "added_date": "2026-01-09T06:57:36.207479",
+      "ad_res_j7_evidence_enhanced": [
+        "ANNEXURES/JF04 - CIPC registration documents"
+      ],
+      "burden_of_proof_verified": "verified_cipc_record",
+      "evidence_enhanced_timestamp": "2026-01-18T05:36:58.297720",
+      "key_actor_names": [
+        "Daniel James Faucitt"
+      ],
+      "actors": [
+        "Daniel James Faucitt"
+      ],
+      "event_ref": "EVENT_GEN_20170410"
+    },
+    {
+      "date": "2017-04-10",
+      "event": "Faucitts take over RegimA Medic from Dennis Bishop",
+      "entity": "RegimA Medic",
+      "source": "293355412.Pdf",
+      "key_actor_names": [],
+      "entities_involved": [
+        "RegimA Medic"
+      ],
+      "ad_res_j7_evidence_enhanced": [
+        "ANNEXURES/JF04 - CIPC registration documents"
+      ],
+      "evidence_enhanced_timestamp": "2026-01-18T05:36:58.297723",
+      "event_ref": "EVENT_GEN_20170410",
+      "actors": []
+    },
+    {
+      "date": "2017-04-10",
+      "event_ref": "EVENT_095",
+      "title": "EVENT_095",
+      "description": "RegimA Medic transferred from Dennis Bishop to Faucitt family",
+      "category": "cipc_corporate",
+      "significance_level": "low",
+      "evidence_refs": [
+        "financial_records",
+        "transaction_documentation"
+      ],
+      "actors": [],
+      "added_date": "2026-01-22",
+      "entities_involved": [],
+      "ad_res_j7_evidence_enhanced": []
+    },
+    {
+      "entry_id": "TL_CIPC_009",
+      "date": "2017-04-12",
+      "event_type": "company_registration",
+      "title": "RegimA SA and RegimA Zone Registration",
+      "description": "RegimA SA (2017/087935/07) and RegimA Zone (2017/110437/07) registered with Daniel James Faucitt as director.",
+      "key_actors": [
+        "Daniel James Faucitt"
+      ],
+      "entities_involved": [
+        "PERSON_005"
+      ],
+      "evidence": [
+        "CIPC WinDeed Report 293349141"
+      ],
+      "significance": "Further expansion of RegimA brand entities",
+      "burden_of_proof": "verified_cipc_record",
+      "added_date": "2026-01-09T06:57:36.207479",
+      "ad_res_j7_evidence_enhanced": [
+        "ANNEXURES/JF04 - CIPC registration documents"
+      ],
+      "burden_of_proof_verified": "verified_cipc_record",
+      "evidence_enhanced_timestamp": "2026-01-18T05:36:58.297727",
+      "key_actor_names": [
+        "Daniel James Faucitt"
+      ],
+      "actors": [
+        "Daniel James Faucitt"
+      ],
+      "event_ref": "EVENT_GEN_20170412"
+    },
+    {
+      "entry_id": "TL_CIPC_010",
+      "date": "2017-05-02",
+      "event_type": "company_registration",
+      "title": "RegimA SpaZone Registration",
+      "description": "RegimA SpaZone (2017/081833/07) registered with Daniel James Faucitt as director.",
+      "key_actors": [
+        "Daniel James Faucitt"
+      ],
+      "entities_involved": [
+        "PERSON_005"
+      ],
+      "evidence": [
+        "CIPC WinDeed Report 293349141"
+      ],
+      "significance": "Spa-focused RegimA entity",
+      "burden_of_proof": "verified_cipc_record",
+      "added_date": "2026-01-09T06:57:36.207479",
+      "ad_res_j7_evidence_enhanced": [
+        "ANNEXURES/JF04 - CIPC registration documents"
+      ],
+      "burden_of_proof_verified": "verified_cipc_record",
+      "evidence_enhanced_timestamp": "2026-01-18T05:36:58.297730",
+      "key_actor_names": [
+        "Daniel James Faucitt"
+      ],
+      "actors": [
+        "Daniel James Faucitt"
+      ],
+      "event_ref": "EVENT_GEN_20170502"
+    },
+    {
+      "date": "2017-06-30",
+      "event_ref": "EVENT_H001",
+      "title": "First ReZonance Invoice to RST",
+      "description": "First invoice from ReZonance to RegimA Skin Treatments for Google GSuite services (R250.80), marking the beginning of business relationship",
+      "category": "general",
+      "significance_level": "low",
+      "evidence_refs": [
+        "invoice_2017_06_30",
+        "service_agreement"
+      ],
+      "actors": [
+        "ReZonance (Pty) Ltd"
+      ],
+      "added_date": "2026-01-22",
+      "merged_from": [
+        "EVENT_GEN_1_EVENTS_ON_2017_06_30_0630",
+        "EVENT_H001"
+      ],
+      "entities_involved": [],
+      "ad_res_j7_evidence_enhanced": []
+    },
+    {
+      "date": "2017-09-27",
+      "event": "Bertani International Global registered - Dante Bertani director",
+      "category": "company_registration",
+      "entities": [
+        "Bertani International Global",
+        "Dante Bertani"
+      ],
+      "evidence": [
+        "293342878-Company-BertaniInternationalGlobal.Pdf"
+      ],
+      "ad_res_j7_evidence_enhanced": [
+        "ANNEXURES/JF04 - CIPC registration documents"
+      ],
+      "burden_of_proof_verified": "verified_cipc_record",
+      "evidence_enhanced_timestamp": "2026-01-18T05:36:58.297736",
+      "key_actor_names": [],
+      "event_ref": "EVENT_REG_20170927",
+      "actors": [],
+      "entities_involved": []
+    },
+    {
+      "date": "2017-09-27",
+      "event_ref": "EVENT_103",
+      "title": "EVENT_103",
+      "description": "Bertani International Global registered",
+      "category": "general",
+      "significance_level": "low",
+      "evidence_refs": [
+        "293342878-Company-BertaniInternationalGlobal.Pdf"
+      ],
+      "actors": [],
+      "added_date": "2026-01-22",
+      "entities_involved": [],
+      "ad_res_j7_evidence_enhanced": []
+    },
+    {
+      "date": "2017-09-30",
+      "event_ref": "EVENT_H002",
+      "title": "ReZonance Service Expansion",
+      "description": "Major service expansion with multiple enterprise services (R100,000+), substantial increase in service provision and financial exposure",
+      "category": "general",
+      "significance_level": "low",
+      "evidence_refs": [
+        "service_expansion_documentation",
+        "invoices_2017_09_30"
+      ],
+      "actors": [
+        "ReZonance (Pty) Ltd"
+      ],
+      "added_date": "2026-01-22",
+      "merged_from": [
+        "EVENT_GEN_1_EVENTS_ON_2017_09_30_0930",
+        "EVENT_H002"
+      ],
+      "entities_involved": [],
+      "ad_res_j7_evidence_enhanced": []
+    },
+    {
+      "date": "2017-11-14",
+      "event": "Who Owns Whom Cosmetics Industry report published listing RegimA",
+      "entity": "RegimA International Skin Treatments CC",
+      "source": "TheCosmeticsIndustry(2017-11-14).pdf",
+      "key_actor_names": [],
+      "entities_involved": [
+        "RegimA International Skin Treatments CC"
+      ],
+      "ad_res_j7_evidence_enhanced": [
+        "ANNEXURES/JF04 - CIPC registration documents"
+      ],
+      "evidence_enhanced_timestamp": "2026-01-18T05:36:58.297743",
+      "event_ref": "EVENT_GEN_20171114",
+      "actors": []
+    },
+    {
+      "date": "2017-11-14",
+      "event_ref": "EVENT_096",
+      "title": "EVENT_096",
+      "description": "Who Owns Whom Cosmetics Industry report published listing RegimA International Skin Treatments CC",
+      "category": "general",
+      "significance_level": "low",
+      "evidence_refs": [
+        "financial_records",
+        "transaction_documentation"
+      ],
+      "actors": [],
+      "added_date": "2026-01-22",
+      "entities_involved": [],
+      "ad_res_j7_evidence_enhanced": []
+    },
+    {
+      "date": "2018-08-01",
+      "event": "Rizzotto joins ALOECO (SA) CC as 49% member",
+      "entity": "Martin Carlo Rizzotto",
+      "source": "293351612.Pdf",
+      "key_actor_names": [],
+      "entities_involved": [
+        "Martin Carlo Rizzotto"
+      ],
+      "ad_res_j7_evidence_enhanced": [
+        "ANNEXURES/JF04 - CIPC registration documents"
+      ],
+      "evidence_enhanced_timestamp": "2026-01-18T05:36:58.297747",
+      "event_ref": "EVENT_GEN_20180801",
+      "actors": []
+    },
+    {
+      "date": "2018-08-01",
+      "event_ref": "EVENT_098",
+      "title": "EVENT_098",
+      "description": "Rizzotto joins Louw's ALOECO (SA) CC as 49% member",
+      "category": "general",
+      "significance_level": "low",
+      "evidence_refs": [
+        "financial_records",
+        "transaction_documentation"
+      ],
+      "actors": [],
+      "added_date": "2026-01-22",
+      "entities_involved": [],
+      "ad_res_j7_evidence_enhanced": []
+    },
+    {
+      "date": "2019-02-28",
+      "event_ref": "EVENT_H012",
+      "title": "EVENT_H012",
+      "description": "RegimaSA first financial year end (15 months) showing zero revenue, R1,589 loss, minimal activity",
+      "category": "cipc_corporate",
+      "significance_level": "low",
+      "evidence_refs": [
+        "Financial statements",
+        "RegimaSA(Pty)Ltd-2019-Financialstatements-SME.pdf",
+        "Accounting records"
+      ],
+      "actors": [
+        "Daniel James Faucitt",
+        "Peter Andrew Faucitt"
+      ],
+      "added_date": "2026-01-22",
+      "merged_from": [
+        "EVENT_GEN_1_EVENTS_ON_2019_02_28_0228",
+        "EVENT_H012"
+      ],
+      "entities_involved": [],
+      "ad_res_j7_evidence_enhanced": []
+    },
+    {
+      "date": "2019-03-01",
+      "event_ref": "EVENT_H003",
+      "title": "Financial Year Commencement RST/SLG",
+      "description": "Beginning of financial year for RegimA Skin Treatments (RST) and Strategic Logistics (SLG). This marks the start of the period covered by trial balance evidence showing systematic financial manipulation.",
+      "category": "general",
+      "significance_level": "low",
+      "evidence_refs": [
+        "Financial statements",
+        "Accounting records",
+        "trial_balance_documentation"
+      ],
+      "actors": [
+        "Rynette Farrar",
+        "Strategic Logistics",
+        "RegimA Skin Treatments",
+        "Peter Andrew Faucitt"
+      ],
+      "added_date": "2026-01-22",
+      "merged_from": [
+        "EVENT_GEN_1_EVENTS_ON_2019_03_01_0301",
+        "TL_TB_001",
+        "EVENT_H003"
+      ],
+      "entities_involved": [],
+      "ad_res_j7_evidence_enhanced": []
+    },
+    {
+      "date": "2019-05-01",
+      "event_ref": "EVENT_H004",
+      "title": "Financial Year Commencement Villa Via",
+      "description": "Beginning of financial year for Villa Via. Different year-end from RST/SLG creates complexity in group reporting and opportunities for manipulation.",
+      "category": "general",
+      "significance_level": "low",
+      "evidence_refs": [
+        "Financial statements",
+        "VV-TRIALBALANCEAPR20202.xlsx",
+        "Accounting records"
+      ],
+      "actors": [
+        "Villa Via",
+        "Rynette Farrar",
+        "Peter Andrew Faucitt"
+      ],
+      "added_date": "2026-01-22",
+      "merged_from": [
+        "EVENT_GEN_1_EVENTS_ON_2019_05_01_0501",
+        "TL_TB_002",
+        "EVENT_H004"
+      ],
+      "entities_involved": [],
+      "ad_res_j7_evidence_enhanced": []
+    },
+    {
+      "date": "2019-10-22",
+      "event_ref": "EVENT_CIPC_005",
+      "title": "ALOECO Registration with Shared Address",
+      "description": "ALOECO (SA) registered by Alan Peter Louw and Martin Carlo Rizzotto. Directors use PO Box 9477 Edenglen - same postal address area as Faucitt companies (PO Box 9523 Edenglen).",
+      "category": "cipc_corporate",
+      "significance_level": "low",
+      "evidence_refs": [
+        "CIPC WinDeed Report 293350058",
+        "CIPC WinDeed Report 293348688"
+      ],
+      "actors": [
+        "Alan Peter Louw",
+        "Martin Carlo Rizzotto",
+        "PERSON_015",
+        "PERSON_016"
+      ],
+      "added_date": "2026-01-22",
+      "merged_from": [
+        "TL_CIPC_011",
+        "EVENT_CIPC_005"
+      ],
+      "entities_involved": [],
+      "ad_res_j7_evidence_enhanced": []
+    },
+    {
+      "date": "2019-10-22",
+      "event": "ALOECO (SA) CC converts to company K2019531306",
+      "entity": "ALOECO (SA) - CC 2006",
+      "source": "293351612.Pdf",
+      "key_actor_names": [],
+      "entities_involved": [
+        "ALOECO (SA) - CC 2006"
+      ],
+      "ad_res_j7_evidence_enhanced": [
+        "ANNEXURES/JF04 - CIPC registration documents"
+      ],
+      "evidence_enhanced_timestamp": "2026-01-18T05:36:58.297772",
+      "event_ref": "EVENT_GEN_20191022",
+      "actors": []
+    },
+    {
+      "date": "2019-11-20",
+      "event_ref": "EVENT_091",
+      "title": "Adderory Company Registration and Stock Supply Arrangement",
+      "description": "Adderory company registration and stock supply arrangement with RegimA (potential fictitious supplier)",
+      "category": "cipc_corporate",
+      "significance_level": "low",
+      "evidence_refs": [
+        "Financial statements",
+        "Business registration documents",
+        "SF5_Adderory_Company_Registration_Stock_Supply.md"
+      ],
+      "actors": [
+        "Regima Worldwide Distribution (PTY) LTD",
+        "Jacqueline Faucitt",
+        "Daniel James Faucitt",
+        "Rynette Farrar",
+        "Adderory (Rynette's Son)"
+      ],
+      "added_date": "2026-01-22",
+      "merged_from": [
+        "EVENT_GEN_1_EVENTS_ON_2019_11_20_1120",
+        "EVENT_091"
+      ],
+      "entities_involved": [],
+      "ad_res_j7_evidence_enhanced": []
+    },
+    {
+      "date": "2019-11-22",
+      "event": "RegimA Skin Treatments CC registers R3,110,000 bond on Karen Avnit's property",
+      "category": "bond_registration",
+      "entities": [
+        "RegimA Skin Treatments CC",
+        "Karen Patricia Avnit"
+      ],
+      "amount": "R3,110,000",
+      "significance": "RST providing financing to distributors",
+      "evidence": [
+        "293344692-Property-KarenAvnit.Pdf",
+        "293347244-List-Deeds-SB48685-2019.Pdf"
+      ],
+      "key_actor_names": [],
+      "ad_res_j7_evidence_enhanced": [
+        "ANNEXURES/JF04 - CIPC registration documents"
+      ],
+      "evidence_enhanced_timestamp": "2026-01-18T05:36:58.297780",
+      "event_ref": "EVENT_BOND_20191122",
+      "actors": [],
+      "entities_involved": []
+    },
+    {
+      "date": "2019-11-22",
+      "event_ref": "EVENT_99",
+      "title": "EVENT_99",
+      "description": "RegimA Skin Treatments CC registers R3,110,000 bond on Karen Avnit's property",
+      "category": "general",
+      "significance_level": "low",
+      "evidence_refs": [
+        "293344692-Property-KarenAvnit.Pdf",
+        "293347244-List-Deeds-SB48685-2019.Pdf"
+      ],
+      "actors": [],
+      "added_date": "2026-01-22",
+      "entities_involved": [],
+      "ad_res_j7_evidence_enhanced": []
+    },
+    {
+      "entry_id": "TL_CIPC_012",
+      "date": "2019-12-04",
+      "event_type": "company_registration",
+      "title": "Marlouw Group Registration",
+      "description": "Marlouw Group (2019/612808/07) registered with Alan Peter Louw and Martin Carlo Rizzotto as directors.",
+      "key_actors": [
+        "Alan Peter Louw",
+        "Martin Carlo Rizzotto"
+      ],
+      "entities_involved": [
+        "PERSON_015",
+        "PERSON_016",
+        "ORG_016"
+      ],
+      "evidence": [
+        "CIPC WinDeed Report 293351580"
+      ],
+      "significance": "Part of Louw-Rizzotto business network",
+      "burden_of_proof": "verified_cipc_record",
+      "added_date": "2026-01-09T06:57:36.207479",
+      "ad_res_j7_evidence_enhanced": [
+        "ANNEXURES/JF04 - CIPC registration documents"
+      ],
+      "burden_of_proof_verified": "verified_cipc_record",
+      "evidence_enhanced_timestamp": "2026-01-18T05:36:58.297783",
+      "key_actor_names": [
+        "Alan Peter Louw",
+        "Martin Carlo Rizzotto"
+      ],
+      "actors": [
+        "Alan Peter Louw",
+        "Martin Carlo Rizzotto"
+      ],
+      "event_ref": "EVENT_GEN_20191204"
+    },
+    {
+      "date": "2020-02-20",
+      "event_ref": "EVENT_H005",
+      "title": "Coordinated Inter-Company Cost Reallocations",
+      "description": "Multiple adjusting journal entries across entities on same date: RWW R500K stock provision write-back, RWW R810K admin fee reallocation to production costs, SLG R252K admin fee reallocation to production costs, SLG R80K production cost transfer to RST. Coordinated timing suggests deliberate manipulation.",
+      "category": "cipc_corporate",
+      "significance_level": "low",
+      "evidence_refs": [
+        "general_ledger_entries",
+        "JF08 - Evidence packages",
+        "trial_balance_AJEs",
+        "JF09 - Timeline analysis"
+      ],
+      "actors": [
+        "Danie Bantjies",
+        "Regima Worldwide Distribution (PTY) LTD",
+        "Rynette Farrar",
+        "Co-director's bookkeeper",
+        "Peter Andrew Faucitt",
+        "Strategic Logistics Group"
+      ],
+      "added_date": "2026-01-22",
+      "merged_from": [
+        "EVENT_GEN_2_EVENTS_ON_2020_02_20_0220",
+        "TL_TB_003",
+        "EVENT_H005",
+        "EVENT_051"
+      ],
+      "entities_involved": [],
+      "ad_res_j7_evidence_enhanced": []
+    },
+    {
+      "date": "2020-02-28",
+      "event_ref": "EVENT_089",
+      "title": "Year-End Inter-Company Interest and Loan Transactions",
+      "description": "Critical year-end adjustments: SLG pays R414,334.09 interest to RST per loan agreement (3.19% rate on R13M debt), RST advances R750K loan to RWW for production costs, Directors' fee adjustment of R784K in RST. These transactions demonstrate profit shifting from SLG to RST.",
+      "category": "general",
+      "significance_level": "low",
+      "evidence_refs": [
+        "JF09 - Timeline analysis",
+        "Bank transaction records",
+        "JF08 - Evidence packages",
+        "Email correspondence evidence",
+        "SL-TRIALBALANCE2020.xlsx",
+        "REG-TRIALBALANCE.xlsx",
+        "SF1_Bantjies_Debt_Documentation.md"
+      ],
+      "actors": [
+        "Danie Bantjies",
+        "Regima Worldwide Distribution (PTY) LTD",
+        "Jacqueline Faucitt",
+        "Daniel James Faucitt",
+        "Rynette Farrar",
+        "Co-director's bookkeeper",
+        "Peter Andrew Faucitt",
+        "Faucitt Family Trust",
+        "Strategic Logistics Group"
+      ],
+      "added_date": "2026-01-22",
+      "categories": [
+        "general",
+        "cipc_corporate",
+        "trust_violations"
+      ],
+      "merged_from": [
+        "EVENT_GEN_3_EVENTS_ON_2020_02_28_0228",
+        "TL_TB_004",
+        "EVENT_H006",
+        "EVENT_052",
+        "EVENT_089"
+      ],
+      "entities_involved": [],
+      "ad_res_j7_evidence_enhanced": []
+    },
+    {
+      "date": "2020-04-30",
+      "event_ref": "EVENT_H007",
+      "title": "Villa Via Year-End - Capital Extraction Evidence",
+      "description": "Villa Via financial year-end showing R3.7M profit from R4.4M rental income, while maintaining R22.8M members loan account. Members loan is 5.2x annual rental income, indicating systematic capital extraction over multiple years.",
+      "category": "general",
+      "significance_level": "low",
+      "evidence_refs": [
+        "JF09 - Timeline analysis",
+        "Supporting documentation",
+        "JF08 - Evidence packages",
+        "VV-TRIALBALANCEAPR20202.xlsx",
+        "Cross-referenced evidence files"
+      ],
+      "actors": [
+        "Danie Bantjies",
+        "Regima Worldwide Distribution (PTY) LTD",
+        "Peter Andrew Faucitt",
+        "Villa Via Members",
+        "Faucitt Family Trust",
+        "Strategic Logistics Group"
+      ],
+      "added_date": "2026-01-22",
+      "merged_from": [
+        "EVENT_GEN_2_EVENTS_ON_2020_04_30_0430",
+        "TL_TB_005",
+        "EVENT_H007",
+        "EVENT_053"
+      ],
+      "entities_involved": [],
+      "ad_res_j7_evidence_enhanced": []
+    },
+    {
+      "entry_id": "TL_CIPC_013",
+      "date": "2020-05-07",
+      "event_type": "director_change",
+      "title": "Daniel James Faucitt Added as Director to RWD",
+      "description": "Daniel James Faucitt formally added as director to RegimA Worldwide Distribution. Address updated to GB (Great Britain).",
+      "key_actors": [
+        "Daniel James Faucitt"
+      ],
+      "entities_involved": [
+        "PERSON_005",
+        "ORG_001"
+      ],
+      "evidence": [
+        "CIPC WinDeed Report 293348688"
+      ],
+      "significance": "Formalizes Daniel's directorship in RWD, country of residence GB",
+      "burden_of_proof": "verified_cipc_record",
+      "added_date": "2026-01-09T06:57:36.207479",
+      "key_actor_names": [
+        "Daniel James Faucitt"
+      ],
+      "ad_res_j7_evidence_enhanced": [
+        "ANNEXURES/JF04 - CIPC registration documents"
+      ],
+      "evidence_enhanced_timestamp": "2026-01-18T05:36:58.297802",
+      "actors": [
+        "Daniel James Faucitt"
+      ],
+      "event_ref": "EVENT_GEN_20200507"
+    },
+    {
+      "date": "2020-07-07",
+      "event": "Peter and Jacqueline Faucitt appointed as directors of RegimA Medic",
+      "entity": "RegimA Medic",
+      "source": "293355412.Pdf",
+      "key_actor_names": [],
+      "entities_involved": [
+        "RegimA Medic"
+      ],
+      "ad_res_j7_evidence_enhanced": [
+        "ANNEXURES/JF04 - CIPC registration documents"
+      ],
+      "evidence_enhanced_timestamp": "2026-01-18T05:36:58.297804",
+      "event_ref": "EVENT_GEN_20200707",
+      "actors": []
+    },
+    {
+      "date": "2020-08-13",
+      "event_ref": "EVENT_H018",
+      "title": "Bantjies Sends Trial Balance Email to Bernadine Wright",
+      "description": "Email from Danie Bantjes to Bernadine Wright, Jacqui Faucitt (Jax), Peter Andrew Faucitt, Rynette Farrar, and Daniel Faucitt with final trial balances. 6-month delay from year-end suggests complex manipulation requiring extended finalization. Meeting scheduled with Bernadine Wright for sign-off.",
+      "category": "digital_fraud",
+      "significance_level": "low",
+      "evidence_refs": [
+        "JF09 - Timeline analysis",
+        "Bank transaction records",
+        "JF08 - Evidence packages",
+        "Email-body.html",
+        "Email correspondence evidence",
+        "trial_balance_email_2020_08_13",
+        "trial_balance_attachments"
+      ],
+      "actors": [
+        "Danie Bantjies",
+        "Jacqueline Faucitt",
+        "Daniel James Faucitt",
+        "Rynette Farrar",
+        "Danie Bantjes",
+        "Peter Andrew Faucitt",
+        "Bernadine Wright"
+      ],
+      "added_date": "2026-01-22",
+      "merged_from": [
+        "EVENT_GEN_3_EVENTS_ON_2020_08_13_0813",
+        "TL_TB_006",
+        "EVENT_H008",
+        "EVENT_048",
+        "EVENT_H018"
+      ],
+      "entities_involved": [],
+      "ad_res_j7_evidence_enhanced": []
+    },
+    {
+      "date": "2020-08-15",
+      "event_ref": "EVENT_090",
+      "title": "Rynette Farrar Demonstrates Sage System Control",
+      "description": "Screenshot evidence shows Rynette with control of Sage accounting system and access to Pete@regima.com email",
+      "category": "digital_fraud",
+      "significance_level": "low",
+      "evidence_refs": [
+        "SF2_Sage_Screenshots_Rynette_Control.md",
+        "Screenshots and documentation",
+        "System access logs"
+      ],
+      "actors": [
+        "Rynette Farrar",
+        "Jacqueline Faucitt",
+        "Daniel James Faucitt",
+        "Regima Worldwide Distribution (PTY) LTD"
+      ],
+      "added_date": "2026-01-22",
+      "merged_from": [
+        "EVENT_GEN_1_EVENTS_ON_2020_08_15_0815",
+        "EVENT_090"
+      ],
+      "entities_involved": [],
+      "ad_res_j7_evidence_enhanced": []
+    },
+    {
+      "date": "2021-03-15",
+      "event_ref": "EVENT_088",
+      "title": "CIPC Annual Return Filing - Regima Worldwide Distribution",
+      "description": "Annual return filed for Regima Worldwide Distribution showing director positions and shareholding",
+      "category": "general",
+      "significance_level": "low",
+      "evidence_refs": [
+        "SF4_SARS_Audit_Email.md",
+        "Supporting documentation",
+        "Cross-referenced evidence files"
+      ],
+      "actors": [
+        "ORG_001",
+        "Jacqueline Faucitt",
+        "Daniel James Faucitt",
+        "RegimA Skin Treatments",
+        "Ketoni Investment Holdings",
+        "Peter Andrew Faucitt",
+        "ORG_002"
+      ],
+      "added_date": "2026-01-22",
+      "merged_from": [
+        "EVENT_GEN_1_EVENTS_ON_2021_03_15_0315",
+        "TL_CIPC_BATCH2_001",
+        "TL_CIPC_BATCH2_002",
+        "EVENT_088"
+      ],
+      "entities_involved": [],
+      "ad_res_j7_evidence_enhanced": []
+    },
+    {
+      "entry_id": "TL_CIPC_014",
+      "date": "2021-03-25",
+      "event_type": "company_registration",
+      "title": "Pandamania Registration",
+      "description": "Pandamania (2021/306676/07) registered with Daniel James Faucitt as director.",
+      "key_actors": [
+        "Daniel James Faucitt"
+      ],
+      "entities_involved": [
+        "PERSON_005"
+      ],
+      "evidence": [
+        "CIPC WinDeed Report 293349141"
+      ],
+      "significance": "Daniel's additional business entity",
+      "burden_of_proof": "verified_cipc_record",
+      "added_date": "2026-01-09T06:57:36.207479",
+      "ad_res_j7_evidence_enhanced": [
+        "ANNEXURES/JF04 - CIPC registration documents"
+      ],
+      "burden_of_proof_verified": "verified_cipc_record",
+      "evidence_enhanced_timestamp": "2026-01-18T05:36:58.297823",
+      "key_actor_names": [
+        "Daniel James Faucitt"
+      ],
+      "actors": [
+        "Daniel James Faucitt"
+      ],
+      "event_ref": "EVENT_GEN_20210325"
+    },
+    {
+      "date": "2021-04-01",
+      "event_ref": "EVENT_H009",
+      "title": "Adderory Companies Registration - Pre-Planning Phase",
+      "description": "Rynette's son registered Adderory (Pty) Ltd and Adderory Skin (Pty) Ltd, establishing competing business infrastructure 4 years before fraud escalation. Demonstrates long-term conspiracy planning.",
+      "category": "criminal_activity",
+      "significance_level": "low",
+      "evidence_refs": [
+        "company_registration_records",
+        "cipc_documentation"
+      ],
+      "actors": [
+        "Rynette Farrar",
+        "Adderory (Rynette's Son)"
+      ],
+      "added_date": "2026-01-22",
+      "merged_from": [
+        "EVENT_GEN_1_EVENTS_ON_2021_04_01_0401",
+        "EVENT_H009"
+      ],
+      "entities_involved": [],
+      "ad_res_j7_evidence_enhanced": []
+    },
+    {
+      "date": "2021-10-05",
+      "event_count": 1,
+      "events": [
+        "EVENT_087"
+      ],
+      "primary_category": "legal_action",
+      "description": "1 event(s) on 2021-10-05",
+      "key_actors": [
+        "Bernadine Wright",
+        "Daniel James Faucitt",
+        "Peter Andrew Faucitt"
+      ],
+      "legal_significance": "HIGH",
+      "evidence_references": [
+        "SF7_Court_Order_Kayla_Email_Seizure.md",
+        "Supporting documentation"
+      ],
+      "criminal_threshold": "yes",
+      "burden_of_proof": "criminal_95",
+      "application_context": [
+        "2-CRIMINAL-CASE",
+        "1-CIVIL-RESPONSE",
+        "3-EXTERNAL-VALIDATION"
+      ],
+      "burden_of_proof_levels": [
+        "criminal_95"
+      ],
+      "evidence": [
+        "JF03 - Financial records"
+      ],
+      "evidence_enhanced": "2026-01-13T05:35:37.862988",
+      "key_actor_names": [
+        "Bernadine Wright",
+        "Daniel James Faucitt",
+        "Peter Andrew Faucitt"
+      ],
+      "entities_involved": [
+        "Bernadine Wright",
+        "Daniel James Faucitt",
+        "Peter Andrew Faucitt"
+      ],
+      "ad_res_j7_evidence_enhanced": [
+        "ANNEXURES/JF04 - CIPC registration documents"
+      ],
+      "evidence_enhanced_timestamp": "2026-01-18T05:36:58.297830",
+      "event_ref": "EVENT_GEN_1_EVENTS_ON_2021_10_05_1005",
+      "actors": [
+        "Bernadine Wright",
+        "Daniel James Faucitt",
+        "Peter Andrew Faucitt"
+      ]
+    },
+    {
+      "entry_id": "TL_CIPC_015",
+      "date": "2021-11-19",
+      "event_type": "evidence_collection",
+      "title": "CIPC WinDeed Reports Generated",
+      "description": "Comprehensive CIPC WinDeed reports generated for all Faucitt family companies and related entities. 18 documents covering company registrations, director searches, and corporate history.",
+      "key_actors": [],
+      "entities_involved": [
+        "ORG_001",
+        "ORG_002",
+        "ORG_004"
+      ],
+      "evidence": [
+        "All 18 CIPC WinDeed Reports"
+      ],
+      "significance": "Evidence collection date for corporate records",
+      "burden_of_proof": "verified_cipc_record",
+      "added_date": "2026-01-09T06:57:36.207479",
+      "key_actor_names": [],
+      "ad_res_j7_evidence_enhanced": [
+        "ANNEXURES/JF04 - CIPC registration documents"
+      ],
+      "evidence_enhanced_timestamp": "2026-01-18T05:36:58.297831",
+      "actors": [],
+      "event_ref": "EVENT_GEN_20211119"
+    },
+    {
+      "date": "2022-03-01",
+      "event_ref": "EVENT_D001",
+      "title": "ReZonance Opening Balance Debt",
+      "description": "Opening balance showing substantial accumulated debt to ReZonance (R971,587.93), evidence of unpaid services over extended period",
+      "category": "general",
+      "significance_level": "low",
+      "evidence_refs": [
+        "aged_debtor_reports",
+        "rezonance_account_statements"
+      ],
+      "actors": [
+        "Rynette Farrar",
+        "Kayla",
+        "Peter Andrew Faucitt",
+        "ReZonance (Pty) Ltd"
+      ],
+      "added_date": "2026-01-22",
+      "merged_from": [
+        "EVENT_GEN_1_EVENTS_ON_2022_03_01_0301",
+        "EVENT_D001"
+      ],
+      "entities_involved": [],
+      "ad_res_j7_evidence_enhanced": []
+    },
+    {
+      "date": "2022-07-11",
+      "event_ref": "EVENT_D002",
+      "title": "First Structured Payment to ReZonance",
+      "description": "First structured payment to ReZonance (R40,000), attempt to manage debt through partial payments",
+      "category": "revenue_hijacking",
+      "significance_level": "low",
+      "evidence_refs": [
+        "payment_records",
+        "bank_statements"
+      ],
+      "actors": [
+        "Regima Skin Treatments CC"
+      ],
+      "added_date": "2026-01-22",
+      "merged_from": [
+        "EVENT_GEN_1_EVENTS_ON_2022_07_11_0711",
+        "EVENT_D002"
+      ],
+      "entities_involved": [],
+      "ad_res_j7_evidence_enhanced": []
+    },
+    {
+      "date": "2022-07-30",
+      "event_ref": "EVENT_067",
+      "title": "EVENT_067",
+      "description": "RegimA WWD paid R157k+ to ReZonance, reducing debt from R85k to R22k (July-December 2022)",
+      "category": "criminal_activity",
+      "significance_level": "low",
+      "evidence_refs": [
+        "Financial statements",
+        "Rez-WWD.pdf - Supplier Transactions Report",
+        "Accounting records"
+      ],
+      "actors": [
+        "Regima Worldwide Distribution (PTY) LTD",
+        "Peter Andrew Faucitt"
+      ],
+      "added_date": "2026-01-22",
+      "merged_from": [
+        "EVENT_GEN_1_EVENTS_ON_2022_07_30_0730",
+        "EVENT_067"
+      ],
+      "entities_involved": [],
+      "ad_res_j7_evidence_enhanced": []
+    },
+    {
+      "date": "2023-02-20",
+      "event_ref": "EVENT_KETONI_INCORPORATION",
+      "title": "Ketoni Investment Holdings Incorporation",
+      "description": "Ketoni Investment Holdings (Pty) Ltd incorporated, establishing the entity that would later owe ZAR 18.75M to FFT.",
+      "category": "ketoni_motive",
+      "significance_level": "critical",
+      "evidence_refs": [
+        "CIPC records"
+      ],
+      "actors": [
+        "Kevin Derrick"
+      ],
+      "added_date": "2026-01-22",
+      "entities_involved": [],
+      "ad_res_j7_evidence_enhanced": []
+    },
+    {
+      "date": "2023-02-28",
+      "event_ref": "EVENT_D003",
+      "title": "ReZonance Final Balance Persistent Debt",
+      "description": "Final balance showing persistent debt to ReZonance (R1,035,361.34) despite payment claims, debt continues to grow",
+      "category": "revenue_hijacking",
+      "significance_level": "low",
+      "evidence_refs": [
+        "rezonance_final_statement",
+        "payment_reconciliation"
+      ],
+      "actors": [
+        "Rynette Farrar",
+        "Kayla",
+        "Peter Andrew Faucitt",
+        "ReZonance (Pty) Ltd"
+      ],
+      "added_date": "2026-01-22",
+      "merged_from": [
+        "EVENT_GEN_1_EVENTS_ON_2023_02_28_0228",
+        "EVENT_D003"
+      ],
+      "entities_involved": [],
+      "ad_res_j7_evidence_enhanced": []
+    },
+    {
+      "date": "2023-03-15",
+      "event_ref": "EVENT_D004",
+      "title": "False Payment Claim #1 to ReZonance",
+      "description": "RegimA claims payment of R470,000 to ReZonance not reflected in ReZonance records, first documented false payment claim",
+      "category": "revenue_hijacking",
+      "significance_level": "low",
+      "evidence_refs": [
+        "rezonance_account_reconciliation",
+        "false_payment_documentation"
+      ],
+      "actors": [
+        "Rynette Farrar",
+        "Kayla",
+        "Peter Andrew Faucitt",
+        "ReZonance (Pty) Ltd"
+      ],
+      "added_date": "2026-01-22",
+      "merged_from": [
+        "EVENT_GEN_1_EVENTS_ON_2023_03_15_0315",
+        "EVENT_D004"
+      ],
+      "entities_involved": [],
+      "ad_res_j7_evidence_enhanced": []
+    },
+    {
+      "date": "2023-04-24",
+      "event_ref": "EVENT_FFT_KETONI_INVESTMENT",
+      "title": "FFT Investment in Ketoni - ZAR 18.75M Entitlement Established",
+      "description": "Faucitt Family Trust invests in Ketoni Investment Holdings, establishing ZAR 18.75M payout entitlement with three-year payout schedule (May 2026, May 2027, May 2029). This investment creates the central financial motive for all subsequent trust control actions.",
+      "category": "ketoni_motive",
+      "significance_level": "critical",
+      "evidence_refs": [
+        "Ketoni Investment Holdings registration",
+        "Investment agreement",
+        "Share Certificate J246"
+      ],
+      "actors": [
+        "Kevin Michael Derrick",
+        "Ketoni Investment Holdings",
+        "FFT",
+        "Ketoni",
+        "Faucitt Family Trust"
+      ],
+      "added_date": "2026-01-22",
+      "merged_from": [
+        "TL_KETONI_001",
+        "EVENT_KETONI_CERT",
+        "EVENT_FFT_KETONI_INVESTMENT"
+      ],
+      "entities_involved": [],
+      "ad_res_j7_evidence_enhanced": []
+    },
+    {
+      "date": "2023-05-01",
+      "event_ref": "EVENT_BANTJIES_GEORGE",
+      "title": "Bantjies Joins The George Group as CFO",
+      "description": "Daniel Jacobus Bantjies joins The George Group as CFO, one month after FFT receives Ketoni share certificate. Kevin Derrick (Ketoni Director) is also a director at The George Group.",
+      "category": "ketoni_motive",
+      "significance_level": "critical",
+      "evidence_refs": [
+        "LinkedIn profile",
+        "George Group records",
+        "B2BHint company records"
+      ],
+      "actors": [],
+      "added_date": "2026-01-22",
+      "entities_involved": [],
+      "ad_res_j7_evidence_enhanced": []
+    },
+    {
+      "date": "2023-07-13",
+      "event_ref": "EVENT_H010",
+      "title": "Kayla Pretorius Murder",
+      "description": "Murder of Kayla Pretorius, creating estate complications, law enforcement investigation, and family trauma. Estate includes ReZonance debt of R1,035,000.",
+      "category": "kayla_estate",
+      "significance_level": "low",
+      "evidence_refs": [
+        "estate_documentation_pending",
+        "police_reports_pending"
+      ],
+      "actors": [
+        "Rynette Farrar",
+        "Kayla"
+      ],
+      "added_date": "2026-01-22",
+      "merged_from": [
+        "EVENT_GEN_1_EVENTS_ON_2023_07_13_0713",
+        "EVENT_H010"
+      ],
+      "entities_involved": [],
+      "ad_res_j7_evidence_enhanced": []
+    },
+    {
+      "entry_id": "TL_KETONI_002",
+      "date": "2023-07-13",
+      "event_type": "creditor_elimination",
+      "title": "Kayla Pretorius Death - Creditor Elimination Phase",
+      "description": "Kayla Pretorius (Dan's partner, ReZonance director) dies 80 days after FFT Ketoni investment. ReZonance owed R1,035,000+ by RegimA Skin Treatments. Death eliminates primary creditor obstacle to trust control consolidation.",
+      "key_actors": [
+        "Kayla Pretorius",
+        "Daniel James Faucitt",
+        "ReZonance"
+      ],
+      "entities_involved": [
+        "PERSON_KAYLA_001",
+        "PERSON_005",
+        "ORG_REZONANCE_001"
+      ],
+      "evidence": [
+        "SF6 - Kayla Pretorius Estate Documentation",
+        "SF7 - Court Order Kayla Email Seizure",
+        "ReZonance debt records"
+      ],
+      "significance": "CRITICAL: Eliminates R1M creditor obstacle 80 days after ZAR 18.75M investment",
+      "timing_analysis": "T-34 months before payout, 80 days after investment",
+      "ketoni_context": "ZAR 18.75M payout dwarfs R1M debt - debt is obstacle to control",
+      "burden_of_proof": "verified_death_certificate",
+      "ad_res_j7_references": [
+        "ANNEXURES/SF6_Kayla_Pretorius_Estate_Documentation.md",
+        "ANNEXURES/SF7_Court_Order_Kayla_Email_Seizure.md",
+        "KETONI_PAYOUT_INTEGRATION_SUMMARY_V48-49.md"
+      ],
+      "evidence_strength": "conclusive",
+      "criminal_threshold": "95%_exceeded",
+      "key_actor_names": [
+        "Kayla Pretorius",
+        "Daniel James Faucitt",
+        "ReZonance"
+      ],
+      "ad_res_j7_evidence_enhanced": [
+        "ANNEXURES/JF04 - CIPC registration documents"
+      ],
+      "evidence_enhanced_timestamp": "2026-01-18T05:36:58.297848",
+      "actors": [
+        "Kayla Pretorius",
+        "Daniel James Faucitt",
+        "ReZonance"
+      ],
+      "event_ref": "EVENT_GEN_20230713"
+    },
+    {
+      "date": "2023-07-13",
+      "event_ref": "EVENT_KAYLA_DEATH",
+      "title": "Kayla Pretorius Death - 80 Days After Ketoni Investment",
+      "description": "Kayla Pretorius dies 80 days after FFT's Ketoni investment. This death triggers estate proceedings and potential asset appropriation opportunity.",
+      "category": "ketoni_motive",
+      "significance_level": "critical",
+      "evidence_refs": [
+        "SF6 - Kayla Pretorius Estate Documentation",
+        "SF7 - Court Order Kayla Email Seizure"
+      ],
+      "actors": [],
+      "added_date": "2026-01-22",
+      "entities_involved": [],
+      "ad_res_j7_evidence_enhanced": []
+    },
+    {
+      "date": "2023-09-10",
+      "event_ref": "EVENT_086",
+      "title": "Kayla Pretorius Estate Documentation",
+      "description": "Estate documentation for Kayla Pretorius, whose email account later became subject to court-ordered seizure",
+      "category": "digital_fraud",
+      "significance_level": "low",
+      "evidence_refs": [
+        "Supporting documentation",
+        "Cross-referenced evidence files",
+        "SF6_Kayla_Pretorius_Estate_Documentation.md"
+      ],
+      "actors": [
+        "Bernadine Wright"
+      ],
+      "added_date": "2026-01-22",
+      "merged_from": [
+        "EVENT_GEN_1_EVENTS_ON_2021_09_10_0910",
+        "EVENT_086"
+      ],
+      "entities_involved": [],
+      "ad_res_j7_evidence_enhanced": []
+    },
+    {
+      "date": "2023-09-20",
+      "event_ref": "EVENT_D005",
+      "title": "False Payment Claim #2 to ReZonance",
+      "description": "Additional false payment claims totaling R765,361.34 to ReZonance, escalation of fraudulent payment claims",
+      "category": "criminal_activity",
+      "significance_level": "low",
+      "evidence_refs": [
+        "false_payment_claims_documentation",
+        "Email correspondence evidence",
+        "Bank transaction records"
+      ],
+      "actors": [
+        "Rynette Farrar",
+        "Kayla",
+        "Peter Andrew Faucitt",
+        "ReZonance (Pty) Ltd"
+      ],
+      "added_date": "2026-01-22",
+      "merged_from": [
+        "EVENT_GEN_1_EVENTS_ON_2023_09_20_0920",
+        "EVENT_D005"
+      ],
+      "entities_involved": [],
+      "ad_res_j7_evidence_enhanced": []
+    },
+    {
+      "date": "2023-10-05",
+      "event_ref": "EVENT_087",
+      "title": "Court Order for Kayla Pretorius Email Account Seizure",
+      "description": "Court orders seizure of Kayla Pretorius email account for evidence of fraudulent activities",
+      "category": "criminal_activity",
+      "significance_level": "low",
+      "evidence_refs": [
+        "SF7_Court_Order_Kayla_Email_Seizure.md",
+        "Supporting documentation",
+        "Cross-referenced evidence files"
+      ],
+      "actors": [],
+      "added_date": "2026-01-22",
+      "entities_involved": [],
+      "ad_res_j7_evidence_enhanced": []
+    },
+    {
+      "entry_id": "TL_KETONI_003",
+      "date": "2024-02-14",
+      "event_type": "creditor_pressure",
+      "title": "ReZonance Dissolution Pressure - Debt Obstacle Elimination",
+      "description": "Pressure applied to dissolve ReZonance and eliminate R1,035,000+ debt claim against RegimA Skin Treatments. Part of creditor elimination phase before trust control consolidation.",
+      "key_actors": [
+        "Peter Andrew Faucitt",
+        "Daniel James Faucitt"
+      ],
+      "entities_involved": [
+        "PERSON_001",
+        "PERSON_005",
+        "ORG_REZONANCE_001"
+      ],
+      "evidence": [
+        "ReZonance dissolution correspondence",
+        "Debt documentation"
+      ],
+      "significance": "Eliminate R1M debt obstacle before trust control consolidation",
+      "timing_analysis": "T-27 months before payout",
+      "ketoni_context": "Clear debt obstacle before May 2026 payout distribution",
+      "burden_of_proof": "documented_correspondence",
+      "ad_res_j7_references": [
+        "KETONI_PAYOUT_INTEGRATION_SUMMARY_V48-49.md",
+        "evidence/FFT_KETONI_INVESTMENT_TIMELINE_V49.md"
+      ],
+      "evidence_strength": "strong",
+      "key_actor_names": [
+        "Peter Andrew Faucitt",
+        "Daniel James Faucitt"
+      ],
+      "ad_res_j7_evidence_enhanced": [
+        "ANNEXURES/JF04 - CIPC registration documents"
+      ],
+      "evidence_enhanced_timestamp": "2026-01-18T05:36:58.297851",
+      "actors": [
+        "Peter Andrew Faucitt",
+        "Daniel James Faucitt"
+      ],
+      "event_ref": "EVENT_GEN_20240214"
+    },
+    {
+      "entry_id": "TL_KETONI_004",
+      "date": "2024-07",
+      "event_type": "trustee_appointment",
+      "title": "Bantjies Appointed FFT Trustee - Control Consolidation Phase",
+      "description": "Daniel Jacobus Bantjies appointed as FFT Trustee by Rynette, exactly T-10 months before May 2026 payout. Bantjies is colleague of Kevin Derrick (Ketoni Director) and accountant for all Faucitt companies.",
+      "key_actors": [
+        "Daniel Jacobus Bantjies",
+        "Rynette Farrar",
+        "Kevin Michael Derrick"
+      ],
+      "entities_involved": [
+        "PERSON_007",
+        "PERSON_002",
+        "PERSON_DERRICK_001"
+      ],
+      "evidence": [
+        "FFT trustee appointment documentation",
+        "Bantjies-Derrick professional connection records"
+      ],
+      "significance": "CRITICAL: Strategic trustee appointment T-10 months before ZAR 18.75M payout",
+      "timing_analysis": "T-10 months before payout - precise timing for control consolidation",
+      "ketoni_context": "Appointee connected to Ketoni director, positioned to control payout distribution",
+      "red_flags": [
+        "appointed_T-10_months_before_payout",
+        "appointee_connected_to_ketoni_director",
+        "appointment_before_distribution_date",
+        "dual_role_conflict_accountant_and_trustee"
+      ],
+      "burden_of_proof": "verified_trustee_appointment",
+      "ad_res_j7_references": [
+        "ANNEXURES/SF1_Bantjies_Debt_Documentation.md",
+        "KETONI_PAYOUT_INTEGRATION_SUMMARY_V48-49.md",
+        "lex/south_african_trust_law_enhanced_v9_ketoni_payout.scm"
+      ],
+      "evidence_strength": "conclusive",
+      "criminal_threshold": "95%_exceeded",
+      "key_actor_names": [
+        "Daniel Jacobus Bantjies",
+        "Rynette Farrar",
+        "Kevin Michael Derrick"
+      ],
+      "ad_res_j7_evidence_enhanced": [
+        "ANNEXURES/JF04 - CIPC registration documents"
+      ],
+      "evidence_enhanced_timestamp": "2026-01-18T05:36:58.297853",
+      "actors": [
+        "Daniel Jacobus Bantjies",
+        "Rynette Farrar",
+        "Kevin Michael Derrick"
+      ],
+      "event_ref": "EVENT_GEN_202407"
+    },
+    {
+      "date": "2024-07-01",
+      "event_ref": "EVENT_BANTJIES_TRUSTEE_APPOINTMENT",
+      "title": "Bantjies Appointed FFT Trustee by Rynette",
+      "description": "Daniel Jacobus Bantjies appointed as Trustee of Faucitt Family Trust by Rynette, T-10 months before Ketoni payout. Strategic appointment to consolidate trust control.",
+      "category": "ketoni_motive",
+      "significance_level": "critical",
+      "evidence_refs": [
+        "Trust documents"
+      ],
+      "actors": [
+        "PERSON_002",
+        "Peter Andrew Faucitt"
+      ],
+      "added_date": "2026-01-22",
+      "entities_involved": [],
+      "ad_res_j7_evidence_enhanced": []
+    },
+    {
+      "date": "2024-10-07",
+      "event": "RegimA SA bank account healthy - R2,554,860.93 closing balance",
+      "entity": "RegimA SA (Pty) Ltd",
+      "source": "62707308252 2024-10-07.pdf",
+      "significance_level": "high",
+      "category": "financial_baseline",
+      "event_ref": "EVENT_BANK_HEALTHY_2024_10",
+      "actors": [],
+      "entities_involved": [
+        "ORG_REGIMA_SA"
+      ],
+      "financial_data": {
+        "opening_balance": "R1,925,869.31",
+        "closing_balance": "R2,554,860.93",
+        "status": "HEALTHY"
+      }
+    },
+    {
+      "date": "2025-01-15",
+      "event_ref": "EVENT_054",
+      "title": "Chantal Delivers Letter About Kayla Estate Finalization",
+      "description": "Chantal delivers letter to office regarding Kayla estate finalization, indicating ongoing exploitation of deceased victim's estate",
+      "category": "kayla_estate",
+      "significance_level": "low",
+      "evidence_refs": [
+        "chantal_letter_january_2025",
+        "Bank transaction records",
+        "letter_from_chantal",
+        "Email correspondence evidence",
+        "estate_documentation_pending"
+      ],
+      "actors": [
+        "Danie Bantjies",
+        "Jacqueline Faucitt",
+        "Daniel James Faucitt",
+        "Chantal",
+        "Faucitt Family Trust",
+        "Kayla"
+      ],
+      "added_date": "2026-01-22",
+      "merged_from": [
+        "EVENT_GEN_2_EVENTS_ON_2025_01_15_0115",
+        "EVENT_023",
+        "EVENT_054"
+      ],
+      "entities_involved": [],
+      "ad_res_j7_evidence_enhanced": []
+    },
+    {
+      "date": "2025-02-14",
+      "event_ref": "EVENT_022",
+      "title": "R900,000 Unauthorized Transfers from RegimA SA",
+      "description": "Peter made unauthorized transfers of R900,000 from RegimA SA without Daniel's authority as co-director",
+      "category": "cipc_corporate",
+      "significance_level": "low",
+      "evidence_refs": [
+        "authorization_absence",
+        "bank_transfer_records"
+      ],
+      "actors": [
+        "Daniel James Faucitt",
+        "Peter Andrew Faucitt"
+      ],
+      "added_date": "2026-01-22",
+      "merged_from": [
+        "EVENT_GEN_1_EVENTS_ON_2025_02_14_0214",
+        "EVENT_022"
+      ],
+      "entities_involved": [],
+      "ad_res_j7_evidence_enhanced": []
+    },
+    {
+      "date": "2025-02-25",
+      "event_ref": "EVENT_028",
+      "title": "R5.2M SLG Stock Missing & Large Invoice",
+      "description": "R5.2M SLG stock missing with simultaneous R5.2M invoice from SLG to RST. Stock physically disappeared, same type later supplied by Adderory to RegimA. Systematic asset stripping begins.",
+      "category": "stock_manipulation",
+      "significance_level": "low",
+      "evidence_refs": [
+        "invoice_documentation",
+        "financial_records",
+        "stock_reconciliation"
+      ],
+      "actors": [
+        "Danie Bantjies",
+        "Rynette Farrar",
+        "Peter Andrew Faucitt",
+        "Faucitt Family Trust",
+        "Adderory (Rynette's Son)",
+        "Strategic Logistics Group"
+      ],
+      "added_date": "2026-01-22",
+      "merged_from": [
+        "EVENT_GEN_1_EVENTS_ON_2025_02_25_0225",
+        "EVENT_028"
+      ],
+      "entities_involved": [],
+      "ad_res_j7_evidence_enhanced": []
+    },
+    {
+      "date": "2025-03-01",
+      "event_ref": "EVENT_REGIMA_SA_DIVERSION",
+      "title": "R5.4M Stock Disappears from Strategic Logistics",
+      "description": "R5.4M worth of stock physically disappears from Strategic Logistics warehouse. Represents 46% of annual sales, 10x historical adjustment rate. Same stock type later supplied by Adderory (Rynette's son's company) to RegimA.",
+      "category": "cipc_corporate",
+      "significance_level": "critical",
+      "evidence_refs": [
+        "adderory_supply_documentation",
+        "JF03",
+        "bank_statements",
+        "financial_records",
+        "warehouse_records",
+        "Bank statements",
+        "stock_reconciliation_reports"
+      ],
+      "actors": [
+        "Danie Bantjies",
+        "Daniel James Faucitt",
+        "Peter Andrew Faucitt",
+        "Rynette Farrar",
+        "Peter Andrew Faucitt",
+        "PERSON_002",
+        "Faucitt Family Trust",
+        "Adderory (Rynette's Son)",
+        "Strategic Logistics Group"
+      ],
+      "added_date": "2026-01-22",
+      "categories": [
+        "cipc_corporate",
+        "revenue_hijacking"
+      ],
+      "merged_from": [
+        "EVENT_GEN_2_EVENTS_ON_2025_03_01_0301",
+        "EVENT_001",
+        "EVENT_024",
+        "EVENT_REGIMA_SA_DIVERSION"
+      ],
+      "entities_involved": [],
+      "ad_res_j7_evidence_enhanced": []
+    },
+    {
+      "date": "2025-03-06",
+      "event": "RegimA SA bank account stripped - R5,284.08 closing balance (99.8% decline)",
+      "entity": "RegimA SA (Pty) Ltd",
+      "source": "62707308252 2025-03-06.pdf",
+      "significance_level": "criminal_threshold",
+      "category": "asset_stripping",
+      "event_ref": "EVENT_BANK_STRIPPED_2025_03",
+      "actors": [
+        "PERSON_001"
+      ],
+      "entities_involved": [
+        "ORG_REGIMA_SA"
+      ],
+      "financial_data": {
+        "opening_balance": "R997,597.94",
+        "closing_balance": "R5,284.08",
+        "decline_percentage": "99.8%",
+        "status": "STRIPPED"
+      }
+    },
+    {
+      "date": "2025-03-15",
+      "event_ref": "EVENT_002",
+      "title": "R5.4M Stock Adjustment Processed Without Investigation",
+      "description": "R5.4M written off as simple 'stock adjustment' without investigation, supporting documentation, or proper authorization. Bantjies as accountant should have investigated 46% loss but did not, demonstrating complicity.",
+      "category": "stock_manipulation",
+      "significance_level": "low",
+      "evidence_refs": [
+        "general_ledger_entries",
+        "beneficiary_records",
+        "trust_documentation",
+        "lack_of_investigation_documentation"
+      ],
+      "actors": [
+        "Danie Bantjies",
+        "Rynette Farrar",
+        "FFT Beneficiaries",
+        "Peter Andrew Faucitt",
+        "Faucitt Family Trust",
+        "Strategic Logistics Group"
+      ],
+      "added_date": "2026-01-22",
+      "categories": [
+        "stock_manipulation",
+        "trust_violations"
+      ],
+      "merged_from": [
+        "EVENT_GEN_2_EVENTS_ON_2025_03_15_0315",
+        "EVENT_002",
+        "EVENT_025"
+      ],
+      "entities_involved": [],
+      "ad_res_j7_evidence_enhanced": []
+    },
+    {
+      "date": "2025-03-30",
+      "event_ref": "EVENT_003",
+      "title": "Two Years Unallocated Expenses Dumped",
+      "description": "Rynette and Peter dumped two years' worth of unallocated expenses from all companies into RegimA Worldwide and pressured Daniel to sign off within 12 hours for SARS VAT & Annual Accounts. Daniel used time until June 6th to finalize reports and uncover fraud.",
+      "category": "criminal_activity",
+      "significance_level": "low",
+      "evidence_refs": [
+        "email_records",
+        "accounting_records",
+        "SARS_submissions"
+      ],
+      "actors": [
+        "Rynette Farrar",
+        "Regima Worldwide Distribution (PTY) LTD",
+        "Daniel James Faucitt",
+        "Peter Andrew Faucitt"
+      ],
+      "added_date": "2026-01-22",
+      "merged_from": [
+        "EVENT_GEN_1_EVENTS_ON_2025_03_30_0330",
+        "EVENT_003"
+      ],
+      "entities_involved": [],
+      "ad_res_j7_evidence_enhanced": []
+    },
+    {
+      "date": "2025-03-31",
+      "event": "Gayane Williams emails Daniel Faucitt requesting login details; attaches 'Application Expenses Analysis.xlsx'; CC: Jacqui Faucitt",
+      "entity": "Gayane Williams / Daniel Faucitt / Jacqui Faucitt",
+      "source": "MAT4719 Annexure PF7 (page 72)",
+      "key_actor_names": [
+        "Gayane Williams",
+        "Daniel Faucitt",
+        "Jacqui Faucitt"
+      ],
+      "entities_involved": [
+        "PERSON_GAYANE",
+        "PERSON_003",
+        "PERSON_002"
+      ],
+      "event_ref": "EVT_MAT4719_005",
+      "evidence_enhanced_timestamp": "2026-02-09T01:37:55"
+    },
+    {
+      "date": "2025-04-01",
+      "event_ref": "EVENT_004",
+      "title": "Payment Redirection Scheme",
+      "description": "Part of R4.28M+ financial diversions. Payments redirected from platform owned/paid by RegimA Zone Ltd (UK)",
+      "category": "revenue_hijacking",
+      "significance_level": "low",
+      "evidence_refs": [
+        "payment_gateway_logs",
+        "bank_records"
+      ],
+      "actors": [
+        "RegimA Zone Ltd",
+        "Rynette Farrar",
+        "Daniel James Faucitt",
+        "Peter Andrew Faucitt"
+      ],
+      "added_date": "2026-01-22",
+      "merged_from": [
+        "EVENT_GEN_1_EVENTS_ON_2025_04_01_0401",
+        "EVENT_004"
+      ],
+      "entities_involved": [],
+      "ad_res_j7_evidence_enhanced": []
+    },
+    {
+      "date": "2025-04-03",
+      "event": "Jacqui Faucitt emails Gayane: 'WE NEED TO STOP PAYING SOME IF THESE WHO REFUSE TO GIVE INVOICES' \u2014 active financial oversight",
+      "entity": "Jacqui Faucitt / Gayane Williams",
+      "source": "MAT4719 Annexure PF7 (page 101)",
+      "key_actor_names": [
+        "Jacqui Faucitt",
+        "Gayane Williams"
+      ],
+      "entities_involved": [
+        "PERSON_002",
+        "PERSON_GAYANE"
+      ],
+      "event_ref": "EVT_MAT4719_006",
+      "evidence_enhanced_timestamp": "2026-02-09T01:37:55"
+    },
+    {
+      "date": "2025-04-11",
+      "event": "Rynette creates Shopify centrality organogram for Peter - 40 days before sabotage",
+      "entity": "Rynette Farrar",
+      "source": "Power point - how sales work.pdf",
+      "significance_level": "criminal_threshold",
+      "category": "premeditation",
+      "event_ref": "EVENT_ORGANOGRAM_2025_04_11",
+      "actors": [
+        "PERSON_002",
+        "PERSON_001"
+      ],
+      "entities_involved": [
+        "ORG_REGIMA_SA",
+        "PLATFORM_SHOPIFY"
+      ]
+    },
+    {
+      "date": "2025-04-14",
+      "event_ref": "EVENT_RYNETTE_BANK_LETTER",
+      "title": "Rynette Bank Letter for RegimA Worldwide Diversion",
+      "description": "Setup for R3.14M+ revenue theft. First documented act in coordinated scheme. Attempted redirect of payments from Dan's UK-funded infrastructure",
+      "category": "criminal_activity",
+      "significance_level": "critical",
+      "evidence_refs": [
+        "bank_letter",
+        "Bank letter",
+        "account_change_documentation",
+        "JF03"
+      ],
+      "actors": [
+        "PERSON_002",
+        "Rynette Farrar",
+        "Regima Worldwide Distribution (PTY) LTD",
+        "Daniel James Faucitt"
+      ],
+      "added_date": "2026-01-22",
+      "categories": [
+        "criminal_activity",
+        "revenue_hijacking"
+      ],
+      "merged_from": [
+        "EVENT_GEN_1_EVENTS_ON_2025_04_14_0414",
+        "EVENT_005",
+        "EVENT_RYNETTE_BANK_LETTER"
+      ],
+      "entities_involved": [],
+      "ad_res_j7_evidence_enhanced": []
+    },
+    {
+      "date": "2025-04-22",
+      "event_ref": "EVENT_055",
+      "title": "Peter Orders Cloud IT Systems Removal",
+      "description": "Peter instructs removal of all cloud IT systems, systematic dismantling of cloud-based infrastructure as preparation for evidence destruction",
+      "category": "general",
+      "significance_level": "low",
+      "evidence_refs": [
+        "Supporting documentation",
+        "it_documentation",
+        "system_access_logs_pending",
+        "it_system_removal_instruction",
+        "Cross-referenced evidence files"
+      ],
+      "actors": [
+        "RegimA Zone Ltd",
+        "Daniel James Faucitt",
+        "Peter Andrew Faucitt"
+      ],
+      "added_date": "2026-01-22",
+      "merged_from": [
+        "EVENT_GEN_2_EVENTS_ON_2025_04_22_0422",
+        "EVENT_029",
+        "EVENT_055"
+      ],
+      "entities_involved": [],
+      "ad_res_j7_evidence_enhanced": []
+    },
+    {
+      "date": "2025-04-30",
+      "event_ref": "EVENT_056",
+      "title": "Server Missing from Office",
+      "description": "Physical server hardware disappears from office premises, potential evidence destruction or data harvesting in preparation for subsequent financial crimes",
+      "category": "general",
+      "significance_level": "low",
+      "evidence_refs": [
+        "Supporting documentation",
+        "Cross-referenced evidence files",
+        "office_inventory_records"
+      ],
+      "actors": [
+        "Daniel James Faucitt",
+        "Peter Andrew Faucitt"
+      ],
+      "added_date": "2026-01-22",
+      "merged_from": [
+        "EVENT_GEN_1_EVENTS_ON_2025_04_30_0430",
+        "EVENT_056"
+      ],
+      "entities_involved": [],
+      "ad_res_j7_evidence_enhanced": []
+    },
+    {
+      "date": "2025-05-02",
+      "event_ref": "EVENT_006",
+      "title": "Unauthorized Beneficiary Changes",
+      "description": "Exclusion of legitimate beneficiaries. Direct violation of trust obligations and beneficiary rights",
+      "category": "trust_violations",
+      "significance_level": "low",
+      "evidence_refs": [
+        "beneficiary_correspondence",
+        "trust_amendment_documents"
+      ],
+      "actors": [
+        "FFT Beneficiaries",
+        "Rynette Farrar",
+        "Faucitt Family Trust",
+        "Peter Andrew Faucitt"
+      ],
+      "added_date": "2026-01-22",
+      "merged_from": [
+        "EVENT_GEN_1_EVENTS_ON_2025_05_02_0502",
+        "EVENT_006"
+      ],
+      "entities_involved": [],
+      "ad_res_j7_evidence_enhanced": []
+    },
+    {
+      "date": "2025-05-15",
+      "event_ref": "EVENT_JAX_CONFRONTS_RYNETTE",
+      "title": "Jacqui Confronts Rynette About R1,035,000 Debt",
+      "description": "Jacqui confronted Rynette regarding R1,035,000 owed by RegimA Skin Treatments to Rezonance since Feb 2023. Jacqui stated these funds were part of Kayla's estate and keeping them would be profiting from proceeds of murder.",
+      "category": "criminal_activity",
+      "significance_level": "critical",
+      "evidence_refs": [
+        "JF09 - Timeline analysis",
+        "bank_transfer_records",
+        "JF08 - Evidence packages",
+        "authorization_logs",
+        "confrontation_records",
+        "Communication records",
+        "debt_documentation"
+      ],
+      "actors": [
+        "Regima Worldwide Distribution (PTY) LTD",
+        "Jacqueline Faucitt",
+        "Daniel James Faucitt",
+        "Kayla Pretorius Estate",
+        "Rynette Farrar",
+        "Rynette Farrar",
+        "Peter Andrew Faucitt",
+        "PERSON_002"
+      ],
+      "added_date": "2026-01-22",
+      "categories": [
+        "criminal_activity",
+        "kayla_estate",
+        "digital_fraud"
+      ],
+      "merged_from": [
+        "EVENT_GEN_3_EVENTS_ON_2025_05_15_0515",
+        "EVENT_007",
+        "EVENT_008",
+        "EVENT_050",
+        "EVENT_JAX_CONFRONTS_RYNETTE"
+      ],
+      "entities_involved": [],
+      "ad_res_j7_evidence_enhanced": []
+    },
+    {
+      "date": "2025-05-22",
+      "event_ref": "EVENT_009",
+      "title": "Shopify Audit Trail Hijacking",
+      "description": "CRITICAL EVENT: R1M+ monthly revenue \u2192 R0 (100% business shutdown). Central evidence destruction event proving consciousness of guilt. Destruction of audit trails for platform owned, paid, operated by RegimA Zone Ltd (UK) since July 2023 - proves RWD ZA has no independent revenue stream. Orders removed from Shopify following Jacqui's confrontation.",
+      "category": "revenue_hijacking",
+      "significance_level": "low",
+      "evidence_refs": [
+        "platform_access_logs",
+        "JF01 - Preserved Shopify evidence",
+        "SF6 - Kayla Pretorius Estate Documentation",
+        "audit_trail_records",
+        "business_shutdown_documentation"
+      ],
+      "actors": [
+        "RegimA Zone Ltd",
+        "Coordinated Action",
+        "Jacqueline Faucitt",
+        "Daniel James Faucitt"
+      ],
+      "added_date": "2026-01-22",
+      "merged_from": [
+        "EVENT_GEN_1_EVENTS_ON_2025_05_22_0522",
+        "EVENT_009"
+      ],
+      "entities_involved": [],
+      "ad_res_j7_evidence_enhanced": []
+    },
+    {
+      "date": "2025-05-22",
+      "event": "Shopify revenue stream sabotage - R800K-1.1M monthly revenue drops to R0",
+      "entity": "RegimA SA (Pty) Ltd",
+      "source": "RegimA SA Shopify Plus - Total sales over time.pdf",
+      "significance_level": "criminal_threshold",
+      "category": "revenue_theft",
+      "event_ref": "EVENT_SHOPIFY_SABOTAGE_2025_05_22",
+      "actors": [
+        "PERSON_001",
+        "PERSON_002"
+      ],
+      "entities_involved": [
+        "ORG_REGIMA_SA",
+        "PLATFORM_SHOPIFY"
+      ]
+    },
+    {
+      "date": "2025-05-23",
+      "event_ref": "EVENT_SHOPIFY_ORDERS_REMOVED",
+      "title": "Orders Removed from Shopify Platform",
+      "description": "Orders systematically removed from Shopify platform, disrupting business operations and revenue tracking.",
+      "category": "revenue_hijacking",
+      "significance_level": "critical",
+      "evidence_refs": [
+        "Shopify logs",
+        "JF01"
+      ],
+      "actors": [
+        "PERSON_002"
+      ],
+      "added_date": "2026-01-22",
+      "entities_involved": [],
+      "ad_res_j7_evidence_enhanced": []
+    },
+    {
+      "date": "2025-05-29",
+      "event_ref": "EVENT_ADDERORY_DOMAIN_REG",
+      "title": "Adderory Registers regimaskin.co.za Domain",
+      "description": "Customer hijacking platform. Family conspiracy escalation and digital impersonation. Domain registered to impersonate business on Dan's UK-funded platform. New domain regimaskin.co.za registered by Adderory (Rynette's son's company) following Shopify shutdown.",
+      "category": "cipc_corporate",
+      "significance_level": "critical",
+      "evidence_refs": [
+        "domain_registration_records",
+        "Domain registration records",
+        "whois_data",
+        "JF08"
+      ],
+      "actors": [
+        "ORG_ADDERORY",
+        "Customers",
+        "Daniel James Faucitt",
+        "Rynette Farrar",
+        "PERSON_002",
+        "Adderory (Rynette's Son)"
+      ],
+      "added_date": "2026-01-22",
+      "merged_from": [
+        "EVENT_GEN_1_EVENTS_ON_2025_05_29_0529",
+        "EVENT_010",
+        "EVENT_ADDERORY_DOMAIN_REG"
+      ],
+      "entities_involved": [],
+      "ad_res_j7_evidence_enhanced": []
+    },
+    {
+      "date": "2025-06-06",
+      "event_ref": "EVENT_057",
+      "title": "Daniel Sends Comprehensive Reports to Bantjies",
+      "description": "Daniel exposes Villa Via fraud (86% rent profit extraction) to Bantjies (as accountant, unaware of trustee appointment). Fraud threatens to expose trust control mechanisms before May 2026 payout.",
+      "category": "criminal_activity",
+      "significance_level": "low",
+      "evidence_refs": [
+        "fraud_reports",
+        "email_to_bantjies_2025_06_06",
+        "Supporting documentation",
+        "analysis_documentation",
+        "Cross-referenced evidence files"
+      ],
+      "actors": [
+        "Rynette Farrar",
+        "Daniel James Faucitt",
+        "Gee",
+        "Daniel Jacobus Bantjies"
+      ],
+      "added_date": "2026-01-22",
+      "categories": [
+        "criminal_activity",
+        "digital_fraud"
+      ],
+      "merged_from": [
+        "EVENT_GEN_2_EVENTS_ON_2025_06_06_0606",
+        "TL_KETONI_005",
+        "EVENT_011",
+        "EVENT_057"
+      ],
+      "entities_involved": [],
+      "ad_res_j7_evidence_enhanced": []
+    },
+    {
+      "date": "2025-06-06",
+      "event": "Daniel reports fraud to accountant Bantjies with full company structure breakdown",
+      "entity": "Daniel Faucitt",
+      "source": "Fw_ update - Some Initial Information & Operating Entity Lists.pdf",
+      "significance_level": "high",
+      "category": "whistleblowing",
+      "event_ref": "EVENT_DAN_FRAUD_REPORT_2025_06_06",
+      "actors": [
+        "PERSON_003",
+        "PERSON_004"
+      ],
+      "entities_involved": [
+        "ORG_REGIMA_SA",
+        "ORG_REGIMA_ZONE"
+      ]
+    },
+    {
+      "date": "2025-06-07",
+      "event_ref": "EVENT_SECRET_CARD_CANCELLATION",
+      "title": "Cards Cancelled <24 Hours After Fraud Exposure",
+      "description": "Dan's cards cancelled less than 24 hours after exposing fraud to Bantjies. Immediate retaliation demonstrates coordination and intent to punish fraud exposure.",
+      "category": "general",
+      "significance_level": "critical",
+      "evidence_refs": [
+        "JF07",
+        "card_cancellation_logs",
+        "bank_records",
+        "Bank records"
+      ],
+      "actors": [
+        "Daniel Jacobus Bantjies",
+        "Daniel James Faucitt",
+        "Peter Andrew Faucitt",
+        "Rynette Farrar",
+        "Peter Andrew Faucitt",
+        "PERSON_002"
+      ],
+      "added_date": "2026-01-22",
+      "categories": [
+        "general",
+        "criminal_activity"
+      ],
+      "merged_from": [
+        "EVENT_GEN_1_EVENTS_ON_2025_06_07_0607",
+        "TL_KETONI_006",
+        "EVENT_012",
+        "EVENT_SECRET_CARD_CANCELLATION"
+      ],
+      "entities_involved": [],
+      "ad_res_j7_evidence_enhanced": []
+    },
+    {
+      "date": "2025-06-07",
+      "event": "Peter cancels ALL bank cards within 24 hours of fraud report - R1,062,446.04 forced onto Dan's personal account",
+      "entity": "Peter Faucitt",
+      "source": "POPIA_VIOLATION_NOTICE_&_RETALIATION_TIMELINE.pdf",
+      "significance_level": "criminal_threshold",
+      "category": "retaliation",
+      "event_ref": "EVENT_CARD_CANCELLATION_2025_06_07",
+      "actors": [
+        "PERSON_001"
+      ],
+      "entities_involved": [
+        "ORG_REGIMA_SA"
+      ]
+    },
+    {
+      "date": "2025-06-10",
+      "event_ref": "EVENT_BANTJIES_DISMISSES_AUDIT",
+      "title": "Bantjies Learns of Criminal Matters",
+      "description": "CRITICAL EVENT: Bantjies dismisses Daniel's audit request 4 days after Daniel exposed Villa Via fraud. Audit would have discovered R5.4M stock adjustment fraud and systematic inter-company manipulation. Demonstrates consciousness of guilt and protection of fraud scheme.",
+      "category": "criminal_activity",
+      "significance_level": "low",
+      "evidence_refs": [
+        "JF09 - Timeline analysis",
+        "bantjies_debt_records",
+        "audit_request_documentation",
+        "Supporting documentation",
+        "dismissal_correspondence",
+        "timeline_correlation",
+        "JF08 - Evidence packages",
+        "email_received_thanks_daniel_2025_08_29",
+        "Cross-referenced evidence files",
+        "Email: The RegimA Group results and Computer Expense analysis (2025-06-10)",
+        "audit_request_dismissal_documentation"
+      ],
+      "actors": [
+        "Danie Bantjies",
+        "Jacqueline Faucitt",
+        "Daniel James Faucitt",
+        "Peter Andrew Faucitt",
+        "Faucitt Family Trust"
+      ],
+      "added_date": "2026-01-22",
+      "categories": [
+        "criminal_activity",
+        "digital_fraud"
+      ],
+      "merged_from": [
+        "EVENT_GEN_5_EVENTS_ON_2025_06_10_0610",
+        "EVENT_BANTJIES_DISMISSES_AUDIT",
+        "EVENT_026",
+        "EVENT_047",
+        "EVENT_058",
+        "EVENT_066"
+      ],
+      "entities_involved": [],
+      "ad_res_j7_evidence_enhanced": []
+    },
+    {
+      "date": "2025-06-17",
+      "event": "Rynette instructs De Novo to create fraudulent loan accounts - Dan NOT copied",
+      "entity": "Rynette Farrar",
+      "source": "2025-06-18 - Rynette & De Novo - RegimA SA Payments.pdf",
+      "significance_level": "criminal_threshold",
+      "category": "fraud",
+      "event_ref": "EVENT_DE_NOVO_FRAUD_INSTRUCTION_2025_06_17",
+      "actors": [
+        "PERSON_002",
+        "PERSON_039",
+        "PERSON_040"
+      ],
+      "entities_involved": [
+        "ORG_DE_NOVO",
+        "ORG_REGIMA_SA"
+      ]
+    },
+    {
+      "date": "2025-06-18",
+      "event_ref": "EVENT_013",
+      "title": "Systematic Trust Violations",
+      "description": "Trustee misconduct and self-dealing. Clear evidence of trustee misconduct and self-dealing",
+      "category": "trust_violations",
+      "significance_level": "low",
+      "evidence_refs": [
+        "trust_transaction_records",
+        "conflict_of_interest_documentation"
+      ],
+      "actors": [
+        "FFT Beneficiaries",
+        "Faucitt Family Trust",
+        "Peter Andrew Faucitt"
+      ],
+      "added_date": "2026-01-22",
+      "merged_from": [
+        "EVENT_GEN_1_EVENTS_ON_2025_06_18_0618",
+        "EVENT_013"
+      ],
+      "entities_involved": [],
+      "ad_res_j7_evidence_enhanced": []
+    },
+    {
+      "date": "2025-06-20",
+      "event_ref": "EVENT_014",
+      "title": "Email Impersonation Pattern and Domain Switch Instruction",
+      "description": "R3.1M+ losses enabled by email control. Pattern of impersonation supporting criminal conspiracy charges. Email control facilitated fraud related to platform paid by Dan's UK company since July 2023. Email from Gee in Aug explained to Jax that she was instructed to send out 'don't use regima.zone only use regimaskin.co.za email'.",
+      "category": "criminal_activity",
+      "significance_level": "low",
+      "evidence_refs": [
+        "Bank transaction records",
+        "gee_email_instruction",
+        "gee_email_to_jax",
+        "SF2A",
+        "domain_switch_email",
+        "Email correspondence evidence",
+        "email_records",
+        "customer_communications",
+        "SF2A - Sage Control User Access screenshot"
+      ],
+      "actors": [
+        "Regima Worldwide Distribution (PTY) LTD",
+        "Customers",
+        "Jacqueline Faucitt",
+        "Daniel James Faucitt",
+        "RegimA Zone Ltd",
+        "Rynette Farrar"
+      ],
+      "added_date": "2026-01-22",
+      "merged_from": [
+        "EVENT_GEN_3_EVENTS_ON_2025_06_20_0620",
+        "EVENT_014",
+        "EVENT_027",
+        "EVENT_SF2A"
+      ],
+      "entities_involved": [],
+      "ad_res_j7_evidence_enhanced": []
+    },
+    {
+      "date": "2025-06-25",
+      "event_ref": "EVENT_064",
+      "title": "EVENT_064",
+      "description": "RegimaSA 2019 financial statements prepared and issued by Marisca Meyer, 6+ years after period end",
+      "category": "general",
+      "significance_level": "low",
+      "evidence_refs": [
+        "Supporting documentation",
+        "Cross-referenced evidence files",
+        "RegimaSA(Pty)Ltd-2019-Financialstatements-SME.pdf"
+      ],
+      "actors": [
+        "Jacqueline Faucitt",
+        "Daniel James Faucitt",
+        "Peter Andrew Faucitt"
+      ],
+      "added_date": "2026-01-22",
+      "merged_from": [
+        "EVENT_GEN_1_EVENTS_ON_2025_06_25_0625",
+        "EVENT_064"
+      ],
+      "entities_involved": [],
+      "ad_res_j7_evidence_enhanced": []
+    },
+    {
+      "date": "2025-06-25",
+      "event": "De Novo creates backdated 2019 financial statements - 6+ years after period",
+      "entity": "De Novo Business Services",
+      "source": "Regima SA (Pty) Ltd - 2019 - Financial statements - SME.pdf",
+      "significance_level": "criminal_threshold",
+      "category": "fraud",
+      "event_ref": "EVENT_FABRICATED_FINANCIALS_2025_06_25",
+      "actors": [
+        "PERSON_039",
+        "ORG_DE_NOVO"
+      ],
+      "entities_involved": [
+        "ORG_REGIMA_SA"
+      ]
+    },
+    {
+      "date": "2025-06-30",
+      "event_ref": "EVENT_015",
+      "title": "Coordinated Fund Diversions",
+      "description": "Complex financial flow manipulation. Evidence of sophisticated financial crime coordination. Fund diversions targeted revenue from infrastructure continuously funded by RegimA Zone Ltd",
+      "category": "revenue_hijacking",
+      "significance_level": "low",
+      "evidence_refs": [
+        "financial_flow_analysis",
+        "bank_transfer_records"
+      ],
+      "actors": [
+        "Regima Worldwide Distribution (PTY) LTD",
+        "Daniel James Faucitt",
+        "Rynette Farrar",
+        "Peter Andrew Faucitt",
+        "associates"
+      ],
+      "added_date": "2026-01-22",
+      "merged_from": [
+        "EVENT_GEN_1_EVENTS_ON_2025_06_30_0630",
+        "EVENT_015"
+      ],
+      "entities_involved": [],
+      "ad_res_j7_evidence_enhanced": []
+    },
+    {
+      "date": "2025-07-08",
+      "event_ref": "EVENT_016",
+      "title": "Warehouse POPI Violations",
+      "description": "Complete operational shutdown. Documented evidence of systematic business destruction. Shutdown of operations for platform continuously funded by RegimA Zone Ltd (28 months)",
+      "category": "general",
+      "significance_level": "low",
+      "evidence_refs": [
+        "warehouse_records",
+        "popi_violation_documentation"
+      ],
+      "actors": [
+        "Customers",
+        "Regima Worldwide Distribution (PTY) LTD",
+        "Daniel James Faucitt",
+        "Peter Andrew Faucitt"
+      ],
+      "added_date": "2026-01-22",
+      "merged_from": [
+        "EVENT_GEN_1_EVENTS_ON_2025_07_08_0708",
+        "EVENT_016"
+      ],
+      "entities_involved": [],
+      "ad_res_j7_evidence_enhanced": []
+    },
+    {
+      "date": "2025-07-08",
+      "event": "Daniel sends Formal Notice - Cessation of Criminal Instructions with 48-hour deadline",
+      "entity": "Daniel Faucitt",
+      "source": "FORMAL NOTICE - CESSATION OF CRIMINAL INSTRUCTIONS.pdf",
+      "significance_level": "high",
+      "category": "compliance_demand",
+      "event_ref": "EVENT_FORMAL_NOTICE_2025_07_08",
+      "actors": [
+        "PERSON_003",
+        "PERSON_001"
+      ],
+      "entities_involved": [
+        "ORG_REGIMA_SA"
+      ]
+    },
+    {
+      "date": "2025-07-08",
+      "event": "Daniel sends POPIA Violation Notice regarding customer data breach",
+      "entity": "Daniel Faucitt",
+      "source": "POPIA_VIOLATION_NOTICE_&_RETALIATION_TIMELINE.pdf",
+      "significance_level": "high",
+      "category": "compliance_demand",
+      "event_ref": "EVENT_POPIA_NOTICE_2025_07_08",
+      "actors": [
+        "PERSON_003",
+        "PERSON_001"
+      ],
+      "entities_involved": [
+        "ORG_REGIMA_SA"
+      ]
+    },
+    {
+      "date": "2025-07-12",
+      "event_ref": "EVENT_017",
+      "title": "Account Manipulation",
+      "description": "Financial control seizure. Documented evidence of financial system abuse and unauthorized control. Control seized over accounts receiving Shopify revenue from Dan's UK-paid platform",
+      "category": "revenue_hijacking",
+      "significance_level": "low",
+      "evidence_refs": [
+        "control_change_documentation",
+        "account_access_logs"
+      ],
+      "actors": [
+        "Regima Worldwide Distribution (PTY) LTD",
+        "Daniel James Faucitt",
+        "Peter Andrew Faucitt"
+      ],
+      "added_date": "2026-01-22",
+      "merged_from": [
+        "EVENT_GEN_1_EVENTS_ON_2025_07_12_0712",
+        "EVENT_017"
+      ],
+      "entities_involved": [],
+      "ad_res_j7_evidence_enhanced": []
+    },
+    {
+      "date": "2025-07-23",
+      "event_ref": "EVENT_SF2B",
+      "title": "Sage Subscription Expired - Access Obstruction",
+      "description": "Sage accounting subscription expired, Rynette controls reactivation, all parties denied access for over 1 month",
+      "category": "general",
+      "significance_level": "low",
+      "evidence_refs": [
+        "SF2B - Sage expiry notice",
+        "Supporting documentation",
+        "SF2B",
+        "Cross-referenced evidence files",
+        "Sage screenshot 2025-08-25 - Accounting Registration Expired"
+      ],
+      "actors": [
+        "Regima Worldwide Distribution (PTY) LTD",
+        "Jacqueline Faucitt",
+        "Daniel James Faucitt",
+        "Rynette Farrar",
+        "Peter Andrew Faucitt"
+      ],
+      "added_date": "2026-01-22",
+      "merged_from": [
+        "EVENT_GEN_2_EVENTS_ON_2025_07_23_0723",
+        "EVENT_065",
+        "EVENT_SF2B"
+      ],
+      "entities_involved": [],
+      "ad_res_j7_evidence_enhanced": []
+    },
+    {
+      "date": "2025-07-25",
+      "event_ref": "EVENT_018",
+      "title": "Trust Asset Misappropriation",
+      "description": "Trust property theft. Documented theft of trust property and breach of fiduciary duty",
+      "category": "criminal_activity",
+      "significance_level": "low",
+      "evidence_refs": [
+        "asset_transfer_records",
+        "trust_property_documentation"
+      ],
+      "actors": [
+        "FFT Beneficiaries",
+        "Faucitt Family Trust",
+        "Peter Andrew Faucitt"
+      ],
+      "added_date": "2026-01-22",
+      "merged_from": [
+        "EVENT_GEN_1_EVENTS_ON_2025_07_25_0725",
+        "EVENT_018"
+      ],
+      "entities_involved": [],
+      "ad_res_j7_evidence_enhanced": []
+    },
+    {
+      "date": "2025-07-31",
+      "event": "FNB SMS to Pete Faucitt: '80% of international limit reached' \u2014 Peter aware of scale of international platform payments",
+      "entity": "FNB / Peter Faucitt",
+      "source": "MAT4719 Annexure PF11 (page 162)",
+      "key_actor_names": [
+        "Peter Faucitt",
+        "FNB"
+      ],
+      "entities_involved": [
+        "PERSON_001",
+        "BANK_FNB"
+      ],
+      "event_ref": "EVT_MAT4719_007",
+      "evidence_enhanced_timestamp": "2026-02-09T01:37:55"
+    },
+    {
+      "date": "2025-08-10",
+      "event_ref": "EVENT_019",
+      "title": "Trust Breach Evidence",
+      "description": "Complete compromise of trust integrity. Systematic evidence of ongoing trust law violations",
+      "category": "trust_violations",
+      "significance_level": "low",
+      "evidence_refs": [
+        "trust_violation_documentation",
+        "ongoing_breach_records"
+      ],
+      "actors": [
+        "FFT Beneficiaries",
+        "Faucitt Family Trust",
+        "Peter Andrew Faucitt"
+      ],
+      "added_date": "2026-01-22",
+      "merged_from": [
+        "EVENT_GEN_1_EVENTS_ON_2025_08_10_0810",
+        "EVENT_019"
+      ],
+      "entities_involved": [],
+      "ad_res_j7_evidence_enhanced": []
+    },
+    {
+      "date": "2025-08-11",
+      "event_ref": "EVENT_059",
+      "title": "Settlement Agreement Signed - Main Trustee Power Backdated",
+      "description": "Jacqueline signs document backdating Peter's 'Main Trustee' designation to 2025-07-01. This grants Peter sole control over FFT before May 2026 payout.",
+      "category": "general",
+      "significance_level": "low",
+      "evidence_refs": [
+        "Supporting documentation",
+        "Settlement agreement",
+        "Cross-referenced evidence files",
+        "settlement_agreement_2025_08_11"
+      ],
+      "actors": [
+        "Jacqueline Faucitt",
+        "Daniel James Faucitt",
+        "Peter Andrew Faucitt",
+        "Rynette Farrar",
+        "Peter Andrew Faucitt"
+      ],
+      "added_date": "2026-01-22",
+      "categories": [
+        "general",
+        "ketoni_motive"
+      ],
+      "merged_from": [
+        "EVENT_GEN_1_EVENTS_ON_2025_08_11_0811",
+        "TL_KETONI_007",
+        "EVENT_059",
+        "EVENT_SETTLEMENT_SIGNED"
+      ],
+      "entities_involved": [],
+      "ad_res_j7_evidence_enhanced": []
+    },
+    {
+      "date": "2025-08-13",
+      "event_ref": "EVENT_INTERDICT_FILED",
+      "title": "Peter Files Founding Affidavit with Material Non-Disclosures",
+      "description": "Peter and Bantjies file interdict against Jax and Dan, 48 hours after Jax signed Main Trustee document. Neutralizes both beneficiaries T-9 months before May 2026 payout.",
+      "category": "professional_misconduct",
+      "significance_level": "critical",
+      "evidence_refs": [
+        "JF09 - Timeline analysis",
+        "Supporting documentation",
+        "JF08 - Evidence packages",
+        "Cross-referenced evidence files",
+        "founding_affidavit_2025_08_13",
+        "Court filings",
+        "JF06"
+      ],
+      "actors": [
+        "Daniel Jacobus Bantjies",
+        "Jacqueline Faucitt",
+        "Daniel James Faucitt",
+        "Peter Andrew Faucitt",
+        "Rynette Farrar",
+        "Peter Andrew Faucitt"
+      ],
+      "added_date": "2026-01-22",
+      "categories": [
+        "professional_misconduct",
+        "ketoni_motive",
+        "digital_fraud"
+      ],
+      "merged_from": [
+        "EVENT_GEN_2_EVENTS_ON_2025_08_13_0813",
+        "TL_KETONI_008",
+        "EVENT_049",
+        "EVENT_060",
+        "EVENT_INTERDICT_FILED"
+      ],
+      "entities_involved": [],
+      "ad_res_j7_evidence_enhanced": []
+    },
+    {
+      "date": "2025-08-13",
+      "event": "Peter Faucitt swears founding affidavit at Bedfordview SAPS; Bantjes swears confirmatory affidavit at Equestria, Pretoria \u2014 both contain material non-disclosures",
+      "entity": "Peter Faucitt / Daniel Bantjes",
+      "source": "MAT4719 Founding Affidavit (pages 10-38) & Confirmatory Affidavit (pages 69-71)",
+      "key_actor_names": [
+        "Peter Faucitt",
+        "Daniel Bantjes"
+      ],
+      "entities_involved": [
+        "PERSON_001",
+        "PERSON_BANTJES"
+      ],
+      "event_ref": "EVT_MAT4719_001",
+      "evidence_enhanced_timestamp": "2026-02-09T01:37:55"
+    },
+    {
+      "date": "2025-08-14",
+      "event": "Ex parte application filed electronically via Court Online at 08:16:25 SAST by Elliott Attorneys Inc. (Ref: KRE/MM/KF0019)",
+      "entity": "Elliott Attorneys / Peter Faucitt",
+      "source": "MAT4719 Cover Page (page 1)",
+      "key_actor_names": [
+        "Elliott Attorneys",
+        "Peter Faucitt"
+      ],
+      "entities_involved": [
+        "ELLIOTT_ATT",
+        "PERSON_001"
+      ],
+      "event_ref": "EVT_MAT4719_003",
+      "evidence_enhanced_timestamp": "2026-02-09T01:37:55"
+    },
+    {
+      "date": "2025-08-15",
+      "event_ref": "EVENT_GEE_DOMAIN_SWITCH_EMAIL",
+      "title": "Gee Email Explaining Domain Switch Instruction",
+      "description": "Email from Gee to Jax explaining that she was instructed to send out 'don't use regima.zone only use regimaskin.co.za email' on June 20, 2025. Confirms customer hijacking scheme.",
+      "category": "digital_fraud",
+      "significance_level": "low",
+      "evidence_refs": [
+        "gee_email_to_jax",
+        "Email correspondence evidence",
+        "Bank transaction records"
+      ],
+      "actors": [
+        "Danie Bantjies"
+      ],
+      "added_date": "2026-01-22",
+      "merged_from": [
+        "EVENT_GEN_1_EVENTS_ON_2025_08_15_0815",
+        "EVENT_GEE_DOMAIN_SWITCH_EMAIL"
+      ],
+      "entities_involved": [],
+      "ad_res_j7_evidence_enhanced": []
+    },
+    {
+      "date": "2025-08-19",
+      "event": "Ex parte hearing at 10h00 \u2014 Court grants interim interdict (Part A) based on perjured affidavits; order subsequently challenged as void ab initio",
+      "entity": "High Court / Peter Faucitt",
+      "source": "MAT4719 Notice of Motion (pages 2-9)",
+      "key_actor_names": [
+        "Peter Faucitt"
+      ],
+      "entities_involved": [
+        "PERSON_001"
+      ],
+      "event_ref": "EVT_MAT4719_004",
+      "evidence_enhanced_timestamp": "2026-02-09T01:37:55"
+    },
+    {
+      "date": "2025-08-20",
+      "event_ref": "EVENT_020",
+      "title": "Financial Evidence Concealment",
+      "description": "Cover-up operations demonstrating guilt. Consciousness of guilt through evidence destruction attempts. Cover-up attempt to conceal fact that RWD ZA has no independent revenue stream - all revenue from Dan's UK-funded Shopify platform",
+      "category": "revenue_hijacking",
+      "significance_level": "low",
+      "evidence_refs": [
+        "concealment_documentation",
+        "evidence_destruction_records"
+      ],
+      "actors": [
+        "coordinated_network",
+        "Regima Worldwide Distribution (PTY) LTD",
+        "Daniel James Faucitt"
+      ],
+      "added_date": "2026-01-22",
+      "merged_from": [
+        "EVENT_GEN_1_EVENTS_ON_2025_08_20_0820",
+        "EVENT_020"
+      ],
+      "entities_involved": [],
+      "ad_res_j7_evidence_enhanced": []
+    },
+    {
+      "date": "2025-08-29",
+      "event_ref": "EVENT_061",
+      "title": "ENS Africa Acknowledges Criminal Matters Then Suppresses",
+      "description": "ENS Africa acknowledges receipt of criminal matters information with 'Received, thanks Daniel' email, then suppresses this information from Court",
+      "category": "criminal_activity",
+      "significance_level": "low",
+      "evidence_refs": [
+        "Supporting documentation",
+        "email_received_thanks_daniel_2025_08_29",
+        "Cross-referenced evidence files"
+      ],
+      "actors": [
+        "Danie Bantjies",
+        "Jacqueline Faucitt",
+        "Daniel James Faucitt"
+      ],
+      "added_date": "2026-01-22",
+      "merged_from": [
+        "EVENT_GEN_1_EVENTS_ON_2025_08_29_0829",
+        "EVENT_061"
+      ],
+      "entities_involved": [],
+      "ad_res_j7_evidence_enhanced": []
+    },
+    {
+      "date": "2025-09-11",
+      "event_ref": "EVENT_ACCOUNTS_EMPTIED",
+      "title": "Company Accounts Emptied",
+      "description": "All company accounts emptied, potentially because Daniel was still managing to pay creditors despite 6 months of sabotage.",
+      "category": "general",
+      "significance_level": "critical",
+      "evidence_refs": [
+        "Bank statements",
+        "account_balance_records",
+        "bank_statements",
+        "JF07"
+      ],
+      "actors": [
+        "Regima Worldwide Distribution (PTY) LTD",
+        "Daniel James Faucitt",
+        "Peter Andrew Faucitt",
+        "Rynette Farrar",
+        "Peter Andrew Faucitt",
+        "PERSON_002"
+      ],
+      "added_date": "2026-01-22",
+      "categories": [
+        "general",
+        "cipc_corporate"
+      ],
+      "merged_from": [
+        "EVENT_GEN_1_EVENTS_ON_2025_09_11_0911",
+        "EVENT_021",
+        "EVENT_ACCOUNTS_EMPTIED"
+      ],
+      "entities_involved": [],
+      "ad_res_j7_evidence_enhanced": []
+    },
+    {
+      "date": "2025-09-27",
+      "event": "RegimA SA Shopify payment failures begin - 9 consecutive failures through Oct 11",
+      "entity": "RegimA SA (Pty) Ltd",
+      "source": "RegimA_SA_423808676.pdf",
+      "significance_level": "high",
+      "category": "financial_collapse",
+      "event_ref": "EVENT_SHOPIFY_PAYMENT_FAILURES_2025_09",
+      "actors": [],
+      "entities_involved": [
+        "ORG_REGIMA_SA",
+        "PLATFORM_SHOPIFY"
+      ]
+    },
+    {
+      "date": "2025-10-23",
+      "event_ref": "EVENT_R63M_DEMAND",
+      "title": "R63M Formal Demand by Ian Levitt Attorneys",
+      "description": "Ian Levitt Attorneys sends formal demand letter for R63M, which is subsequently ignored by Peter and legal team.",
+      "category": "general",
+      "significance_level": "high",
+      "evidence_refs": [
+        "SF9",
+        "Supporting documentation",
+        "Cross-referenced evidence files",
+        "Demand letter"
+      ],
+      "actors": [
+        "Ian Levitt Attorneys",
+        "Jacqueline Faucitt",
+        "Daniel James Faucitt",
+        "Peter Andrew Faucitt",
+        "Peter Andrew Faucitt",
+        "Gee"
+      ],
+      "added_date": "2026-01-22",
+      "categories": [
+        "general",
+        "revenue_hijacking"
+      ],
+      "merged_from": [
+        "EVENT_GEN_1_EVENTS_ON_2025_10_23_1023",
+        "EVENT_SF9",
+        "EVENT_R63M_DEMAND"
+      ],
+      "entities_involved": [],
+      "ad_res_j7_evidence_enhanced": []
+    },
+    {
+      "entry_id": "TL_KETONI_009",
+      "date": "2026-05",
+      "event_type": "payout_date",
+      "title": "Ketoni ZAR 18.75M Payout Due - ALL EVENTS CONVERGE",
+      "description": "First payout date for Ketoni ZAR 18.75M to Faucitt Family Trust. ALL EVENTS from April 2023 onwards converge on this date. Peter has consolidated sole control, neutralized Jax as trustee, and targeted Dan for curatorship to control his share.",
+      "key_actors": [
+        "Ketoni Investment Holdings",
+        "Faucitt Family Trust",
+        "Peter Andrew Faucitt",
+        "Daniel Jacobus Bantjies"
+      ],
+      "entities_involved": [
+        "ORG_KETONI_001",
+        "ORG_FFT_001",
+        "PERSON_001",
+        "PERSON_007"
+      ],
+      "evidence": [
+        "Ketoni payout schedule",
+        "FFT investment documentation"
+      ],
+      "significance": "CENTRAL CONVERGENCE POINT: All trust control actions converge on this payout date",
+      "timing_analysis": "T-0: EVERYTHING CONVERGES HERE",
+      "ketoni_context": "Central financial motive for all events since April 2023",
+      "control_structure": {
+        "peter": "Main Trustee with sole control",
+        "bantjies": "Co-trustee, Ketoni connection",
+        "jax": "Neutralized via interdict",
+        "dan": "Targeted for curatorship"
+      },
+      "burden_of_proof": "verified_payout_schedule",
+      "ad_res_j7_references": [
+        "KETONI_PAYOUT_INTEGRATION_SUMMARY_V48-49.md",
+        "evidence/FFT_KETONI_INVESTMENT_TIMELINE_V49.md",
+        "lex/entity_relation_framework_v48_ketoni_payout_integrated.scm"
+      ],
+      "evidence_strength": "conclusive",
+      "criminal_threshold": "foundational_event",
+      "key_actor_names": [
+        "Ketoni Investment Holdings",
+        "Faucitt Family Trust",
+        "Peter Andrew Faucitt",
+        "Daniel Jacobus Bantjies"
+      ],
+      "ad_res_j7_evidence_enhanced": [
+        "ANNEXURES/JF04 - CIPC registration documents"
+      ],
+      "evidence_enhanced_timestamp": "2026-01-18T05:36:58.297929",
+      "actors": [
+        "Ketoni Investment Holdings",
+        "Faucitt Family Trust",
+        "Peter Andrew Faucitt",
+        "Daniel Jacobus Bantjies"
+      ],
+      "event_ref": "EVENT_GEN_202605"
+    }
+  ],
+  "strategic_implications": {
+    "jax_vindication": {
+      "insight": "Evidence shows Jax as fraud detector, not perpetrator",
+      "implication": "Supports defense narrative of Jax as victim",
+      "strategic_value": "Undermines prosecution claims of Jax involvement",
+      "action_required": "Emphasize Jax's role in confronting fraud (May 15, 2025)"
+    },
+    "pre_fraud_baseline": {
+      "insight": "Trial balance evidence provides pre-fraud baseline",
+      "implication": "Demonstrates systematic manipulation before 2025 events",
+      "strategic_value": "Shows pattern of behavior, not isolated incident",
+      "action_required": "Integrate 2020 evidence into current case narrative"
+    },
+    "rynette_continuity": {
+      "insight": "Rynette had financial access in 2020 and led 2025 cover-up",
+      "implication": "Establishes long-term involvement in financial manipulation",
+      "strategic_value": "Proves pattern of access and control over 5 years",
+      "action_required": "Map Rynette's access evolution from 2020 to 2025"
+    },
+    "bantjes_connection": {
+      "insight": "Danie Bantjes: 2020 accountant \u2192 2024 Trustee appointment",
+      "implication": "Links financial manipulation expertise to trust control",
+      "strategic_value": "Explains why Bantjes was chosen as Trustee",
+      "action_required": "Investigate Bantjes' role in both capacities"
+    }
+  }
+}

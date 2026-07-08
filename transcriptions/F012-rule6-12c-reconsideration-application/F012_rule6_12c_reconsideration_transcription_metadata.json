@@ -1,0 +1,378 @@
+{
+  "created_utc": "2026-05-26T22:49:08.859067+00:00",
+  "primary_pdf": "/home/ubuntu/ad_transcription/transcription_work/source_pdfs/F012-notice-motion-affidavit-rule6-12c-reconsideration.pdf",
+  "reference_pdf": "/home/ubuntu/ad_transcription/transcription_work/source_pdfs/F-urgent-notice-motion-founding-affidavit.pdf",
+  "primary_sha256": "278a542bb019b66a5669e1601e3de6ff0330999d2e6d29cf277fd9028ae29429",
+  "reference_sha256": "6ea0a5d32375f52328b3cbd00042ca65d07f58086aa06ad16ba9847d41907d91",
+  "total_pages": 49,
+  "method_summary": "Pages 1-7 embedded text layer; pages 8-49 OCR from scanned images at 300 dpi using tesseract --psm 4.",
+  "pages": [
+    {
+      "page": 1,
+      "method": "embedded text layer (pdftotext -layout)",
+      "characters": 976,
+      "lines": 51,
+      "visual_note": ""
+    },
+    {
+      "page": 2,
+      "method": "embedded text layer (pdftotext -layout)",
+      "characters": 1216,
+      "lines": 50,
+      "visual_note": ""
+    },
+    {
+      "page": 3,
+      "method": "embedded text layer (pdftotext -layout)",
+      "characters": 1590,
+      "lines": 53,
+      "visual_note": ""
+    },
+    {
+      "page": 4,
+      "method": "embedded text layer (pdftotext -layout)",
+      "characters": 1456,
+      "lines": 50,
+      "visual_note": ""
+    },
+    {
+      "page": 5,
+      "method": "embedded text layer (pdftotext -layout)",
+      "characters": 1230,
+      "lines": 52,
+      "visual_note": ""
+    },
+    {
+      "page": 6,
+      "method": "embedded text layer (pdftotext -layout)",
+      "characters": 1927,
+      "lines": 53,
+      "visual_note": ""
+    },
+    {
+      "page": 7,
+      "method": "embedded text layer (pdftotext -layout)",
+      "characters": 699,
+      "lines": 49,
+      "visual_note": ""
+    },
+    {
+      "page": 8,
+      "method": "OCR from scanned page image (tesseract psm 4, 300 dpi)",
+      "characters": 977,
+      "lines": 32,
+      "visual_note": "Scanned page includes a handwritten initial/signature mark at the lower right margin."
+    },
+    {
+      "page": 9,
+      "method": "OCR from scanned page image (tesseract psm 4, 300 dpi)",
+      "characters": 804,
+      "lines": 32,
+      "visual_note": "Scanned page includes a handwritten initial/signature mark at the lower right margin."
+    },
+    {
+      "page": 10,
+      "method": "OCR from scanned page image (tesseract psm 4, 300 dpi)",
+      "characters": 1135,
+      "lines": 36,
+      "visual_note": ""
+    },
+    {
+      "page": 11,
+      "method": "OCR from scanned page image (tesseract psm 4, 300 dpi)",
+      "characters": 1210,
+      "lines": 52,
+      "visual_note": ""
+    },
+    {
+      "page": 12,
+      "method": "OCR from scanned page image (tesseract psm 4, 300 dpi)",
+      "characters": 1133,
+      "lines": 45,
+      "visual_note": ""
+    },
+    {
+      "page": 13,
+      "method": "OCR from scanned page image (tesseract psm 4, 300 dpi)",
+      "characters": 1254,
+      "lines": 43,
+      "visual_note": ""
+    },
+    {
+      "page": 14,
+      "method": "OCR from scanned page image (tesseract psm 4, 300 dpi)",
+      "characters": 1018,
+      "lines": 40,
+      "visual_note": ""
+    },
+    {
+      "page": 15,
+      "method": "OCR from scanned page image (tesseract psm 4, 300 dpi)",
+      "characters": 1107,
+      "lines": 37,
+      "visual_note": ""
+    },
+    {
+      "page": 16,
+      "method": "OCR from scanned page image (tesseract psm 4, 300 dpi)",
+      "characters": 1454,
+      "lines": 47,
+      "visual_note": ""
+    },
+    {
+      "page": 17,
+      "method": "OCR from scanned page image (tesseract psm 4, 300 dpi)",
+      "characters": 1285,
+      "lines": 42,
+      "visual_note": ""
+    },
+    {
+      "page": 18,
+      "method": "OCR from scanned page image (tesseract psm 4, 300 dpi)",
+      "characters": 1063,
+      "lines": 38,
+      "visual_note": ""
+    },
+    {
+      "page": 19,
+      "method": "OCR from scanned page image (tesseract psm 4, 300 dpi)",
+      "characters": 1309,
+      "lines": 38,
+      "visual_note": ""
+    },
+    {
+      "page": 20,
+      "method": "OCR from scanned page image (tesseract psm 4, 300 dpi)",
+      "characters": 1143,
+      "lines": 38,
+      "visual_note": ""
+    },
+    {
+      "page": 21,
+      "method": "OCR from scanned page image (tesseract psm 4, 300 dpi)",
+      "characters": 1242,
+      "lines": 38,
+      "visual_note": ""
+    },
+    {
+      "page": 22,
+      "method": "OCR from scanned page image (tesseract psm 4, 300 dpi)",
+      "characters": 1155,
+      "lines": 43,
+      "visual_note": ""
+    },
+    {
+      "page": 23,
+      "method": "OCR from scanned page image (tesseract psm 4, 300 dpi)",
+      "characters": 1011,
+      "lines": 41,
+      "visual_note": ""
+    },
+    {
+      "page": 24,
+      "method": "OCR from scanned page image (tesseract psm 4, 300 dpi)",
+      "characters": 1457,
+      "lines": 48,
+      "visual_note": ""
+    },
+    {
+      "page": 25,
+      "method": "OCR from scanned page image (tesseract psm 4, 300 dpi)",
+      "characters": 1020,
+      "lines": 35,
+      "visual_note": ""
+    },
+    {
+      "page": 26,
+      "method": "OCR from scanned page image (tesseract psm 4, 300 dpi)",
+      "characters": 1208,
+      "lines": 34,
+      "visual_note": ""
+    },
+    {
+      "page": 27,
+      "method": "OCR from scanned page image (tesseract psm 4, 300 dpi)",
+      "characters": 1444,
+      "lines": 36,
+      "visual_note": ""
+    },
+    {
+      "page": 28,
+      "method": "OCR from scanned page image (tesseract psm 4, 300 dpi)",
+      "characters": 1135,
+      "lines": 40,
+      "visual_note": ""
+    },
+    {
+      "page": 29,
+      "method": "OCR from scanned page image (tesseract psm 4, 300 dpi)",
+      "characters": 1318,
+      "lines": 35,
+      "visual_note": ""
+    },
+    {
+      "page": 30,
+      "method": "OCR from scanned page image (tesseract psm 4, 300 dpi)",
+      "characters": 1395,
+      "lines": 41,
+      "visual_note": ""
+    },
+    {
+      "page": 31,
+      "method": "OCR from scanned page image (tesseract psm 4, 300 dpi)",
+      "characters": 1361,
+      "lines": 52,
+      "visual_note": ""
+    },
+    {
+      "page": 32,
+      "method": "OCR from scanned page image (tesseract psm 4, 300 dpi)",
+      "characters": 1181,
+      "lines": 45,
+      "visual_note": ""
+    },
+    {
+      "page": 33,
+      "method": "OCR from scanned page image (tesseract psm 4, 300 dpi)",
+      "characters": 1133,
+      "lines": 37,
+      "visual_note": ""
+    },
+    {
+      "page": 34,
+      "method": "OCR from scanned page image (tesseract psm 4, 300 dpi)",
+      "characters": 1316,
+      "lines": 51,
+      "visual_note": ""
+    },
+    {
+      "page": 35,
+      "method": "OCR from scanned page image (tesseract psm 4, 300 dpi)",
+      "characters": 1225,
+      "lines": 36,
+      "visual_note": ""
+    },
+    {
+      "page": 36,
+      "method": "OCR from scanned page image (tesseract psm 4, 300 dpi)",
+      "characters": 1246,
+      "lines": 35,
+      "visual_note": ""
+    },
+    {
+      "page": 37,
+      "method": "OCR from scanned page image (tesseract psm 4, 300 dpi)",
+      "characters": 1284,
+      "lines": 38,
+      "visual_note": ""
+    },
+    {
+      "page": 38,
+      "method": "OCR from scanned page image (tesseract psm 4, 300 dpi)",
+      "characters": 1410,
+      "lines": 38,
+      "visual_note": ""
+    },
+    {
+      "page": 39,
+      "method": "OCR from scanned page image (tesseract psm 4, 300 dpi)",
+      "characters": 1171,
+      "lines": 34,
+      "visual_note": ""
+    },
+    {
+      "page": 40,
+      "method": "OCR from scanned page image (tesseract psm 4, 300 dpi)",
+      "characters": 1358,
+      "lines": 48,
+      "visual_note": ""
+    },
+    {
+      "page": 41,
+      "method": "OCR from scanned page image (tesseract psm 4, 300 dpi)",
+      "characters": 1229,
+      "lines": 66,
+      "visual_note": ""
+    },
+    {
+      "page": 42,
+      "method": "OCR from scanned page image (tesseract psm 4, 300 dpi)",
+      "characters": 1348,
+      "lines": 48,
+      "visual_note": ""
+    },
+    {
+      "page": 43,
+      "method": "OCR from scanned page image (tesseract psm 4, 300 dpi)",
+      "characters": 1189,
+      "lines": 44,
+      "visual_note": ""
+    },
+    {
+      "page": 44,
+      "method": "OCR from scanned page image (tesseract psm 4, 300 dpi)",
+      "characters": 1017,
+      "lines": 32,
+      "visual_note": ""
+    },
+    {
+      "page": 45,
+      "method": "OCR from scanned page image (tesseract psm 4, 300 dpi)",
+      "characters": 1282,
+      "lines": 60,
+      "visual_note": ""
+    },
+    {
+      "page": 46,
+      "method": "OCR from scanned page image (tesseract psm 4, 300 dpi)",
+      "characters": 1310,
+      "lines": 56,
+      "visual_note": ""
+    },
+    {
+      "page": 47,
+      "method": "OCR from scanned page image (tesseract psm 4, 300 dpi)",
+      "characters": 1188,
+      "lines": 35,
+      "visual_note": ""
+    },
+    {
+      "page": 48,
+      "method": "OCR from scanned page image (tesseract psm 4, 300 dpi)",
+      "characters": 1011,
+      "lines": 39,
+      "visual_note": ""
+    },
+    {
+      "page": 49,
+      "method": "OCR from scanned page image (tesseract psm 4, 300 dpi)",
+      "characters": 1082,
+      "lines": 34,
+      "visual_note": "Final scanned page includes the deponent signature, commissioner stamp, handwritten place/date entries, commissioner details, and an additional handwritten signature mark. Handwriting is represented only where legible; uncertain handwritten text is not silently normalised."
+    }
+  ],
+  "transcription_sha256": "64efebdfa0f8545c7b3fe86320600ec0d150448423c79c9ec45875b6b85469e4",
+  "qa_report_sha256": "f2f0ee7e7abac38a0308032bb86ffdc8044174fcbee8d3a3b33236e65e86fed5",
+  "selection_notes_sha256": "6ac057cc2a153effee66960e4c88dae2c5d86a7a8ee910c99cbeefccfa7651e0",
+  "page_sequence_observation": {
+    "preserved_order": "PDF page order",
+    "details": "Both source copies place internal affidavit page 41 before internal page 40, followed by internal page 42.",
+    "affected_pages": [
+      {
+        "pdf_page": 47,
+        "internal_affidavit_page": 41,
+        "observed_paragraphs": "185.2-190"
+      },
+      {
+        "pdf_page": 48,
+        "internal_affidavit_page": 40,
+        "observed_paragraphs": "182-185.1"
+      },
+      {
+        "pdf_page": 49,
+        "internal_affidavit_page": 42,
+        "observed_paragraphs": "190.1-192"
+      }
+    ]
+  }
+}

@@ -1,0 +1,250 @@
+{
+  "metadata": {
+    "version": "v3_bantjies_farrar_comms",
+    "created_date": "2026-03-07 08:26:37",
+    "description": "Stock-Flow model of financial flows through the Bantjies-Farrar conspiracy network",
+    "case_number": "2025-137857",
+    "modeling_approach": "System Dynamics \u2014 Stocks, Flows, and Feedback Loops"
+  },
+  "stocks": {
+    "S_REGIMA_REVENUE": {
+      "id": "S_REGIMA_REVENUE",
+      "name": "RegimA Group Revenue",
+      "description": "Total revenue flowing through RegimA group companies",
+      "unit": "ZAR",
+      "initial_value": 0,
+      "current_estimate": "Unknown \u2014 Sage access revoked",
+      "controlled_by": [
+        "PERSON_002",
+        "PERSON_007"
+      ],
+      "evidence": "1,632 email communications show complete financial control"
+    },
+    "S_VAT_POOL": {
+      "id": "S_VAT_POOL",
+      "name": "VAT Liability Pool",
+      "description": "Accumulated VAT obligations across all RegimA entities",
+      "unit": "ZAR",
+      "initial_value": 0,
+      "manipulation_evidence": "EVENT_119: Bantjies admits manufacturing SARS answers for intercompany invoices",
+      "controlled_by": [
+        "PERSON_002",
+        "PERSON_007"
+      ],
+      "oversight_removed": "EVENT_114: Anton Hechter removed from VAT portal (2022-06-01)"
+    },
+    "S_INTERCOMPANY_BALANCES": {
+      "id": "S_INTERCOMPANY_BALANCES",
+      "name": "Intercompany Balances",
+      "description": "Net balances between RegimA group companies used for revenue shifting",
+      "unit": "ZAR",
+      "initial_value": 0,
+      "manipulation_evidence": "EVENT_119: 'two big inter company invoices' queried by SARS",
+      "controlled_by": [
+        "PERSON_007"
+      ]
+    },
+    "S_KETONI_RECEIVABLE": {
+      "id": "S_KETONI_RECEIVABLE",
+      "name": "Ketoni Investment Receivable",
+      "description": "R18.685M owed by Ketoni Investment Holdings to FFT",
+      "unit": "ZAR",
+      "initial_value": 18685000,
+      "due_date": "2026-05",
+      "allocated_to": "Pete's shareholder loan account (EVENT_117)",
+      "controlled_by": [
+        "PERSON_007",
+        "PERSON_001"
+      ]
+    },
+    "S_SHAREHOLDER_LOAN": {
+      "id": "S_SHAREHOLDER_LOAN",
+      "name": "Pete's Shareholder Loan Account",
+      "description": "Shareholder loan account where Ketoni payment was directed",
+      "unit": "ZAR",
+      "initial_value": 0,
+      "manipulation_evidence": "EVENT_117: Bantjies directs Ketoni payment here",
+      "controlled_by": [
+        "PERSON_007",
+        "PERSON_001"
+      ]
+    },
+    "S_FFT_ASSETS": {
+      "id": "S_FFT_ASSETS",
+      "name": "Faucitt Family Trust Assets",
+      "description": "Total assets held by the FFT including Ketoni receivable",
+      "unit": "ZAR",
+      "initial_value": 18685000,
+      "controlled_by": [
+        "PERSON_001",
+        "PERSON_007"
+      ],
+      "victim_excluded": "PERSON_004 (Jax) \u2014 neutralized via interdict"
+    },
+    "S_HIDDEN_ACCOUNTS": {
+      "id": "S_HIDDEN_ACCOUNTS",
+      "name": "Hidden Money Maximiser Account",
+      "description": "FNB Money Maximiser 63077691682 \u2014 R5M transferred, ZERO statements",
+      "unit": "ZAR",
+      "initial_value": 5000000,
+      "controlled_by": [
+        "PERSON_001"
+      ],
+      "evidence": "BANK_ACCOUNT_004"
+    }
+  },
+  "flows": {
+    "F_REVENUE_TO_INTERCO": {
+      "id": "F_REVENUE_TO_INTERCO",
+      "name": "Revenue to Intercompany",
+      "from_stock": "S_REGIMA_REVENUE",
+      "to_stock": "S_INTERCOMPANY_BALANCES",
+      "description": "Revenue shifted between entities via intercompany invoices",
+      "rate": "Unknown \u2014 controlled by Bantjies year-end journals",
+      "evidence": "EVENT_119: SARS queried 'two big inter company invoices'",
+      "controlled_by": [
+        "PERSON_007"
+      ]
+    },
+    "F_INTERCO_TO_VAT": {
+      "id": "F_INTERCO_TO_VAT",
+      "name": "Intercompany to VAT Impact",
+      "from_stock": "S_INTERCOMPANY_BALANCES",
+      "to_stock": "S_VAT_POOL",
+      "description": "Intercompany invoices affect VAT obligations",
+      "manipulation": "Bantjies manufactures SARS answers when queried",
+      "evidence": "EVENT_119"
+    },
+    "F_KETONI_TO_SHAREHOLDER": {
+      "id": "F_KETONI_TO_SHAREHOLDER",
+      "name": "Ketoni Payment to Shareholder Loan",
+      "from_stock": "S_KETONI_RECEIVABLE",
+      "to_stock": "S_SHAREHOLDER_LOAN",
+      "description": "Bantjies directs Ketoni payment to Pete's shareholder loan account",
+      "amount": 18685000,
+      "date": "2023-05-09",
+      "evidence": "EVENT_117",
+      "controlled_by": [
+        "PERSON_007"
+      ]
+    },
+    "F_SHAREHOLDER_TO_FFT": {
+      "id": "F_SHAREHOLDER_TO_FFT",
+      "name": "Shareholder Loan to FFT",
+      "from_stock": "S_SHAREHOLDER_LOAN",
+      "to_stock": "S_FFT_ASSETS",
+      "description": "Potential flow from shareholder loan to trust \u2014 controlled by Bantjies as trustee",
+      "amount": 18685000,
+      "controlled_by": [
+        "PERSON_007",
+        "PERSON_001"
+      ],
+      "risk": "Bantjies controls both ends \u2014 insider access + trustee distribution"
+    },
+    "F_FFT_TO_HIDDEN": {
+      "id": "F_FFT_TO_HIDDEN",
+      "name": "FFT Assets to Hidden Accounts",
+      "from_stock": "S_FFT_ASSETS",
+      "to_stock": "S_HIDDEN_ACCOUNTS",
+      "description": "Potential diversion of trust assets to hidden accounts",
+      "evidence": "BANK_ACCOUNT_004: R5M transferred to Money Maximiser with ZERO statements",
+      "risk": "HIGH \u2014 no audit trail"
+    },
+    "F_REVENUE_DIVERSION": {
+      "id": "F_REVENUE_DIVERSION",
+      "name": "Revenue Diversion via Sage Control",
+      "from_stock": "S_REGIMA_REVENUE",
+      "to_stock": "S_HIDDEN_ACCOUNTS",
+      "description": "Revenue diverted through Sage accounting manipulation",
+      "controlled_by": [
+        "PERSON_002"
+      ],
+      "evidence": "Sage identity impersonation (pete@regima.com), payment loading (76 instances)"
+    }
+  },
+  "feedback_loops": {
+    "FL_CONTROL_REINFORCEMENT": {
+      "id": "FL_CONTROL_REINFORCEMENT",
+      "name": "Control Reinforcement Loop",
+      "type": "positive",
+      "description": "More control \u2192 more manipulation \u2192 more need for control \u2192 remove oversight",
+      "nodes": [
+        "Remove Anton (EVENT_114)",
+        "Share credentials (EVENT_115)",
+        "Control VAT submissions",
+        "Manipulate intercompany invoices",
+        "SARS queries arise",
+        "Manufacture answers (EVENT_119)",
+        "Need more control to avoid detection"
+      ],
+      "evidence_strength": 0.99
+    },
+    "FL_KETONI_CAPTURE": {
+      "id": "FL_KETONI_CAPTURE",
+      "name": "Ketoni Capture Loop",
+      "type": "positive",
+      "description": "Insider knowledge \u2192 trustee appointment \u2192 distribution control \u2192 capture payout",
+      "nodes": [
+        "Bantjies negotiates Ketoni deal (EVENT_116)",
+        "Knows payout structure and timeline",
+        "Directs payment to shareholder loan (EVENT_117)",
+        "Gets appointed as FFT trustee (EVENT_103/120)",
+        "Controls distribution of R18.685M",
+        "Jax neutralized via interdict",
+        "Peter + Bantjies = majority control"
+      ],
+      "evidence_strength": 0.99
+    },
+    "FL_EVIDENCE_DESTRUCTION": {
+      "id": "FL_EVIDENCE_DESTRUCTION",
+      "name": "Evidence Destruction Loop",
+      "type": "positive",
+      "description": "Fraud detection risk \u2192 destroy evidence \u2192 create new fraud \u2192 more detection risk",
+      "nodes": [
+        "Sage subscription expired (2025-07-23)",
+        "Domain migration (regima.zone \u2192 regimaskin.co.za)",
+        "Email domain switch",
+        "SARS correspondence redirected",
+        "Manufacturing answers to cover tracks"
+      ],
+      "evidence_strength": 0.9
+    }
+  },
+  "auxiliary_variables": {
+    "AV_COMMUNICATION_VOLUME": {
+      "id": "AV_COMMUNICATION_VOLUME",
+      "name": "Bantjies-Farrar Communication Volume",
+      "description": "Email volume as proxy for conspiracy intensity",
+      "data": {
+        "2015": 4,
+        "2016": 0,
+        "2017": 0,
+        "2018": 0,
+        "2019": 0,
+        "2020": 31,
+        "2021": 291,
+        "2022": 542,
+        "2023": 184,
+        "2024": 278,
+        "2025": 298,
+        "2026": 4
+      },
+      "peak_year": 2022,
+      "peak_significance": "Year of VAT portal takeover and Anton removal"
+    },
+    "AV_EVIDENCE_STRENGTH": {
+      "id": "AV_EVIDENCE_STRENGTH",
+      "name": "Overall Evidence Strength",
+      "value": 0.99,
+      "threshold_civil": 0.5,
+      "threshold_criminal": 0.95,
+      "status": "ALL_THRESHOLDS_EXCEEDED"
+    },
+    "AV_PAYMENT_LOADING_COUNT": {
+      "id": "AV_PAYMENT_LOADING_COUNT",
+      "name": "Payment Loading Instances",
+      "value": 76,
+      "description": "Number of documented payment loading/release instances by Rynette"
+    }
+  }
+}

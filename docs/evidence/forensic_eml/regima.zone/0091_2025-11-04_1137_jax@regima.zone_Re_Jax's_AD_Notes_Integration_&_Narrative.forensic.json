@@ -1,0 +1,44 @@
+{
+  "_schema": "exchange-forensic-eml/v1",
+  "_generated": "2026-03-10T03:50:39.120706+00:00",
+  "_source": "neon-exchange-sync",
+  "file_integrity": {
+    "eml_file": "/home/ubuntu/revstream1/docs/evidence/forensic_eml/regima.zone/0091_2025-11-04_1137_jax@regima.zone_Re_Jax's_AD_Notes_Integration_&_Narrative.eml",
+    "file_size_bytes": 394244,
+    "md5": "60663c69f78481e3f605a73b2e177f8d",
+    "sha1": "a9a97c339e22661cd60a4508eca62253854f5824",
+    "sha256": "a32757a8f63af50aaa6c879aa61753fcf6b04cc4e7a4835aeb77021618c62a0e"
+  },
+  "message_identity": {
+    "exchange_sync_id": "pst-ee10cbc0c21b51db4048b0a87950a0947384af38",
+    "internet_message_id": "<GV2PR08MB9207E706C7E488110D409A0BACC4A@GV2PR08MB9207.eurprd08.prod.outlook.com>",
+    "conversation_id": "pst-conv-2f8ce0c956c7b87b6ef7b6b5f809762b"
+  },
+  "envelope": {
+    "subject": "Re: Jax's AD Notes Integration & Narrative",
+    "from_name": "Jacqui Faucitt",
+    "from_address": "jax@regima.zone",
+    "to_recipients": [
+      {
+        "emailAddress": {
+          "name": "Daniel J. Faucitt",
+          "address": "dan@regima.com"
+        }
+      }
+    ],
+    "cc_recipients": null,
+    "received_datetime": "2025-11-04 11:37:58+00:00"
+  },
+  "mailbox_context": {
+    "user_email": "jax@regima.zone",
+    "user_name": "Jacqui Faucitt",
+    "folder_name": "Inbox",
+    "folder_id": "pst-folder-9b6b8f53019614a146193d63872be547"
+  },
+  "body": {
+    "content_type": "html",
+    "preview": "P {margin-top:0;margin-bottom:0;} From: Daniel Faucitt &lt;dan@regima.com&gt; Sent: Sunday, 02 November 2025 22:21 To: Jacqui Faucitt &lt;jax@regima.zone&gt; Cc: Jacqui Faucitt &lt;jax@regima.com&gt;; Daniel Faucitt &lt;d@rzo.io&gt; Subject: Jax's AD Note",
+    "body_length_chars": 290823
+  },
+  "attachments": []
+}

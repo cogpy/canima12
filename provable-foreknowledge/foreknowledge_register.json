@@ -1,0 +1,541 @@
+{
+  "case_id": "2025-137857",
+  "case_title": "RegimA Revenue Hijacking, Trust Capture & Racketeering Enterprise",
+  "jurisdiction": "ZA",
+  "generated_date": "2026-02-08",
+  "agents": [
+    {
+      "agent_id": "PERSON_001",
+      "name": "Peter Andrew Faucitt",
+      "role": "Director of RegimA group companies, Trustee of Faucitt Family Trust, Mastermind",
+      "id_number": "520430 5706 18 5",
+      "alternative_explanation": ""
+    },
+    {
+      "agent_id": "PERSON_002",
+      "name": "Rynette Farrar",
+      "role": "Bookkeeper/Financial Controller, Chief Operator of the scheme",
+      "id_number": "",
+      "alternative_explanation": ""
+    },
+    {
+      "agent_id": "PERSON_007",
+      "name": "Daniel Jacobus Bantjies",
+      "role": "Chartered Accountant (SAICA), Trustee of FFT, CFO of George Group, Financial Architect",
+      "id_number": "",
+      "alternative_explanation": ""
+    },
+    {
+      "agent_id": "PERSON_014",
+      "name": "Kevin Michael Derrick",
+      "role": "Director of Ketoni Investment Holdings and The George Group",
+      "id_number": "",
+      "alternative_explanation": "Legitimate businessman running a large portfolio of companies (George Group, Quatro Group, Creative Rides). Bantjies is his CFO. Derrick may be entirely unaware that Bantjies is abusing his professional relationship to gain insider access to Ketoni's affairs. Derrick himself may be a victim of Bantjies' breach of fiduciary duty."
+    },
+    {
+      "agent_id": "ORG_DENOVO",
+      "name": "De Novo Business Services / Marisca Meyer",
+      "role": "Accounting firm (SAIPA registered), prepared financial statements",
+      "id_number": "",
+      "alternative_explanation": "Accounting firms routinely prepare historical financial statements on client instruction. Rynette Farrar presented herself as the 'Finance Manager AICB(SA)'. De Novo may have had no reason to question the legitimacy of the instruction. They may have believed they were preparing legitimate catch-up financials for a company that had fallen behind on its statutory filings."
+    },
+    {
+      "agent_id": "PERSON_003",
+      "name": "Adderory / Rynette's Son",
+      "role": "Director of Adderory Pty Ltd, UK business entity used in customer hijacking",
+      "id_number": "",
+      "alternative_explanation": "May have been acting on his mother's instructions without full knowledge of the broader scheme. However, the registration of regimaskin.co.za and the UK business operations suggest awareness of the competitive diversion."
+    },
+    {
+      "agent_id": "ORG_ENS",
+      "name": "ENS Africa (Attorneys)",
+      "role": "Legal representatives for Peter Faucitt in interdict application",
+      "id_number": "",
+      "alternative_explanation": "Law firm acting on client instructions. However, EVENT_061 shows they acknowledged receipt of criminal matters information and then suppressed it from the court, raising questions about professional conduct."
+    }
+  ],
+  "material_facts": [
+    {
+      "fact_id": "FACT_001",
+      "description": "Fraud was occurring in the RegimA group companies",
+      "category": "fraud",
+      "significance": "Awareness of fraud establishes mens rea for all subsequent concealment acts. Peter's own FNB letter admits 'suspected fraud'.",
+      "related_facts": ["FACT_002", "FACT_003", "FACT_004"]
+    },
+    {
+      "fact_id": "FACT_002",
+      "description": "Rynette operated Sage accounting system under Peter's identity (pete@regima.com) while simultaneously logged in as rynette@regima.zone",
+      "category": "identity_fraud",
+      "significance": "Identity fraud to unlawfully process financial data. Dual-account screenshots prove deliberate impersonation.",
+      "related_facts": ["FACT_001", "FACT_006"]
+    },
+    {
+      "fact_id": "FACT_003",
+      "description": "Revenue was being systematically diverted from RegimA SA to other accounts (R8.5M annual stream)",
+      "category": "theft",
+      "significance": "Core financial crime — systematic revenue hijacking from the legitimate company to accounts controlled by the conspirators.",
+      "related_facts": ["FACT_001", "FACT_009"]
+    },
+    {
+      "fact_id": "FACT_004",
+      "description": "2019 financial statements for RegimA SA were fabricated in June 2025 (6+ years after period end)",
+      "category": "forgery",
+      "significance": "Tax fraud and creation of false paper trail. Backdated financials created during the same week as Peter's FNB fraud letter.",
+      "related_facts": ["FACT_001", "FACT_005"]
+    },
+    {
+      "fact_id": "FACT_005",
+      "description": "Exchange Control Regulations were being violated through unauthorized international remittances",
+      "category": "regulatory",
+      "significance": "Criminal offense — Peter admitted in his FNB letter that 'our company may be transgressing the Exchange Control Regulations' via dollar-based Shopify subscriptions.",
+      "related_facts": ["FACT_001"]
+    },
+    {
+      "fact_id": "FACT_006",
+      "description": "Sage accounting subscription was deliberately allowed to expire to deny all parties access to financial records",
+      "category": "obstruction",
+      "significance": "Evidence concealment — Rynette controlled the subscription and let it lapse, denying access for over 1 month before the interdict was filed.",
+      "related_facts": ["FACT_002", "FACT_001"]
+    },
+    {
+      "fact_id": "FACT_007",
+      "description": "Perjury complaint filed by Rynette Farrar against Jacqueline Faucitt was entirely without merit",
+      "category": "obstruction",
+      "significance": "Obstruction of justice — filing a false criminal report to intimidate a witness. SF15 Perjury Defence Matrix proves 0 of 8 allegations were disproven.",
+      "related_facts": ["FACT_001"]
+    },
+    {
+      "fact_id": "FACT_008",
+      "description": "Bantjies had insider access to both Ketoni Investment Holdings (via George Group CFO role) and the Faucitt Family Trust (via Trustee appointment)",
+      "category": "insider_trading",
+      "significance": "Dual-control loop over the R18.685M transaction — Bantjies could influence both the debtor (Ketoni) and the creditor (FFT).",
+      "related_facts": ["FACT_013"]
+    },
+    {
+      "fact_id": "FACT_009",
+      "description": "RegimA SA bank account was stripped of 99.8% of its funds (from R2.5M+ to R5,284) between Oct 2024 and Mar 2025",
+      "category": "money_laundering",
+      "significance": "Asset stripping — near-total depletion of a profitable company's bank account, with funds moved to accounts controlled by the conspirators.",
+      "related_facts": ["FACT_003", "FACT_001"]
+    },
+    {
+      "fact_id": "FACT_010",
+      "description": "R5.4M stock adjustment was processed without investigation, supporting documentation, or proper authorization",
+      "category": "fraud",
+      "significance": "46% of stock written off as a simple 'adjustment' — Bantjies as accountant should have investigated but did not, demonstrating complicity.",
+      "related_facts": ["FACT_001", "FACT_008"]
+    },
+
+    {
+      "fact_id": "FACT_012",
+      "description": "Rezonance was owed R1,035,361.34 by RegimA entities — debt never paid and concealed",
+      "category": "theft",
+      "significance": "Systematic theft from a deceased person's estate — the debt to Rezonance (Kayla's company) was concealed after her murder.",
+      "related_facts": ["FACT_001"]
+    },
+    {
+      "fact_id": "FACT_013",
+      "description": "Faucitt Family Trust invested in Ketoni with R18.685M payout option exercisable May 2026",
+      "category": "conspiracy",
+      "significance": "Central financial motive — the entire scheme was designed to capture control of the Trust before the R18.685M payout.",
+      "related_facts": ["FACT_008"]
+    },
+    {
+      "fact_id": "FACT_014",
+      "description": "Peter filed a founding affidavit containing material non-disclosures and perjury",
+      "category": "obstruction",
+      "significance": "Perjury in court proceedings — Peter suppressed material facts from the court to obtain an interdict based on a false narrative.",
+      "related_facts": ["FACT_015"]
+    },
+    {
+      "fact_id": "FACT_015",
+      "description": "Bantjies swore a false confirmatory affidavit supporting Peter's interdict application",
+      "category": "obstruction",
+      "significance": "Perjury — Bantjies swore a false affidavit despite having been informed of criminal matters by Daniel on 6 and 10 June 2025.",
+      "related_facts": ["FACT_014", "FACT_008"]
+    },
+    {
+      "fact_id": "FACT_016",
+      "description": "Rynette forged Peter's signature (signed 'pp Peter') to install Bantjies as trustee on 28 June 2024",
+      "category": "forgery",
+      "significance": "Forgery to capture the Trust — Rynette signed trust documents on Peter's behalf to install a compliant trustee.",
+      "related_facts": ["FACT_008", "FACT_015"]
+    },
+    {
+      "fact_id": "FACT_017",
+      "description": "Customers were actively diverted from regima.zone to regimaskin.co.za (owned by Adderory/Rynette's son)",
+      "category": "theft",
+      "significance": "Customer hijacking — Gee was instructed on 20 June 2025 to tell customers to stop using regima.zone and only use regimaskin.co.za.",
+      "related_facts": ["FACT_003"]
+    },
+    {
+      "fact_id": "FACT_018",
+      "description": "Cloud IT systems were ordered removed and a physical server went missing from the office",
+      "category": "obstruction",
+      "significance": "Evidence destruction — Peter ordered cloud IT removal on 22 April 2025, and a physical server disappeared on 30 April 2025.",
+      "related_facts": ["FACT_006"]
+    },
+    {
+      "fact_id": "FACT_019",
+      "description": "Shopify audit trails were deleted on 22 May 2025",
+      "category": "obstruction",
+      "significance": "Evidence destruction — deletion of transaction records that would prove the revenue diversion scheme.",
+      "related_facts": ["FACT_003", "FACT_018"]
+    },
+    {
+      "fact_id": "FACT_020",
+      "description": "Bantjies was informed of criminal matters (Kayla's murder, Peter stealing funds) before signing the confirmatory affidavit",
+      "category": "conspiracy",
+      "significance": "Provable foreknowledge — Daniel reported criminal matters to Bantjies on 6 and 10 June 2025, yet Bantjies still signed the false affidavit on 13 August 2025.",
+      "related_facts": ["FACT_015", "FACT_008"]
+    },
+    {
+      "fact_id": "FACT_021",
+      "description": "ENS Africa acknowledged receipt of criminal matters information then suppressed it from the court",
+      "category": "obstruction",
+      "significance": "Legal misconduct — ENS Africa received Daniel's email about criminal matters with 'Received, thanks Daniel' then failed to disclose this to the court.",
+      "related_facts": ["FACT_014"]
+    },
+    {
+      "fact_id": "FACT_022",
+      "description": "Settlement agreement was signed 2 days before the interdict filing, demonstrating strategic coordination",
+      "category": "conspiracy",
+      "significance": "Timing proves coordination — the settlement was designed to create leverage immediately before the court application.",
+      "related_facts": ["FACT_014", "FACT_015"]
+    },
+    {
+      "fact_id": "FACT_023",
+      "description": "Rynette emailed signed 'Main Trustee' appointment letter to Bantjies on 11 August 2025",
+      "category": "conspiracy",
+      "significance": "Trust capture — Rynette facilitated Bantjies' appointment as 'Main Trustee' days before the perjured interdict application.",
+      "related_facts": ["FACT_016", "FACT_015"]
+    },
+    {
+      "fact_id": "FACT_024",
+      "description": "Peter blocked Jacqueline's FNB card on his birthday (12 June 2025) as financial abuse",
+      "category": "fraud",
+      "significance": "Financial abuse and control — weaponizing banking access against a family member and co-director.",
+      "related_facts": ["FACT_001"]
+    },
+    {
+      "fact_id": "FACT_025",
+      "description": "R5.2M SLG stock went missing with simultaneous R5.2M invoice from SLG to RST",
+      "category": "theft",
+      "significance": "Stock theft and transfer pricing fraud — stock physically disappeared, same type later supplied by Adderory to RegimA.",
+      "related_facts": ["FACT_010", "FACT_003"]
+    }
+  ],
+  "knowledge_events": [
+    {
+      "event_id": "KE_001",
+      "agent_id": "PERSON_001",
+      "fact_id": "FACT_001",
+      "timestamp": "2025-06-17T00:00:00Z",
+      "acquisition_type": "direct_admission",
+      "evidence_refs": ["SF10", "EVENT_093", "EVENT_FNB001", "PAF_FNB_FRAUD_LETTER_2025_06_17_OCR.md"],
+      "description": "Peter wrote to FNB acknowledging 'suspected fraud' in the company accounts. This is a direct, written admission of awareness of fraud.",
+      "confidence": "proven"
+    },
+    {
+      "event_id": "KE_002",
+      "agent_id": "PERSON_001",
+      "fact_id": "FACT_005",
+      "timestamp": "2025-06-17T00:00:00Z",
+      "acquisition_type": "direct_admission",
+      "evidence_refs": ["SF10", "EVENT_093"],
+      "description": "In the same FNB letter, Peter admitted: 'our company may be transgressing the Exchange Control Regulations' regarding dollar-based Shopify subscription expenses.",
+      "confidence": "proven"
+    },
+    {
+      "event_id": "KE_003",
+      "agent_id": "PERSON_001",
+      "fact_id": "FACT_002",
+      "timestamp": "2025-06-20T00:00:00Z",
+      "acquisition_type": "system_records",
+      "evidence_refs": ["SF10", "EVENT_SF2A", "Sage_Dual_Account_Screenshots"],
+      "description": "Sage system records show Rynette logged in as pete@regima.com — Peter authorized this access and was aware of the identity fraud.",
+      "confidence": "proven"
+    },
+    {
+      "event_id": "KE_004",
+      "agent_id": "PERSON_001",
+      "fact_id": "FACT_018",
+      "timestamp": "2025-04-22T00:00:00Z",
+      "acquisition_type": "active_participation",
+      "evidence_refs": ["EVENT_029", "EVENT_055"],
+      "description": "Peter personally ordered the removal of cloud IT systems, demonstrating direct participation in evidence destruction.",
+      "confidence": "proven"
+    },
+    {
+      "event_id": "KE_005",
+      "agent_id": "PERSON_001",
+      "fact_id": "FACT_014",
+      "timestamp": "2025-08-13T00:00:00Z",
+      "acquisition_type": "documentary_proof",
+      "evidence_refs": ["EVENT_060", "Interdict_Application"],
+      "description": "Peter filed a founding affidavit containing material non-disclosures. As the deponent, he necessarily knew the contents were false.",
+      "confidence": "proven"
+    },
+    {
+      "event_id": "KE_006",
+      "agent_id": "PERSON_001",
+      "fact_id": "FACT_024",
+      "timestamp": "2025-06-12T00:00:00Z",
+      "acquisition_type": "active_participation",
+      "evidence_refs": ["EVENT_092"],
+      "description": "Peter personally blocked Jacqueline's FNB card on his birthday as an act of financial abuse and control.",
+      "confidence": "proven"
+    },
+    {
+      "event_id": "KE_007",
+      "agent_id": "PERSON_001",
+      "fact_id": "FACT_003",
+      "timestamp": "2025-04-01T00:00:00Z",
+      "acquisition_type": "sworn_testimony",
+      "evidence_refs": ["SF16", "Respondent_Affidavit_Para_66"],
+      "description": "Respondent Affidavit Para 66: 'Rynette has access to the bank accounts and only takes instructions from the Applicant [Peter].' Peter directed the revenue diversion.",
+      "confidence": "proven"
+    },
+    {
+      "event_id": "KE_008",
+      "agent_id": "PERSON_001",
+      "fact_id": "FACT_013",
+      "timestamp": "2023-04-24T00:00:00Z",
+      "acquisition_type": "documentary_proof",
+      "evidence_refs": ["EVENT_K001", "Ketoni_Share_Certificate"],
+      "description": "Peter, as Trustee of FFT, was party to the Ketoni investment creating the R18.685M payout option. He necessarily knew of this motive.",
+      "confidence": "proven"
+    },
+    {
+      "event_id": "KE_009",
+      "agent_id": "PERSON_002",
+      "fact_id": "FACT_002",
+      "timestamp": "2020-08-15T00:00:00Z",
+      "acquisition_type": "active_participation",
+      "evidence_refs": ["SF10", "EVENT_090", "EVENT_SF2A", "Sage_Dual_Account_Screenshots"],
+      "description": "Rynette was the person who operated the dual Sage accounts — she executed the identity fraud by logging in as pete@regima.com while simultaneously using rynette@regima.zone.",
+      "confidence": "proven"
+    },
+    {
+      "event_id": "KE_010",
+      "agent_id": "PERSON_002",
+      "fact_id": "FACT_004",
+      "timestamp": "2025-06-18T00:00:00Z",
+      "acquisition_type": "email_correspondence",
+      "evidence_refs": ["EVENT_064", "2025-06-18_Rynette_DeNovo_RegimA_SA_Payments.pdf"],
+      "description": "Rynette emailed De Novo instructing the creation of backdated 2019 financial statements for RegimA SA, 6+ years after the period end.",
+      "confidence": "proven"
+    },
+    {
+      "event_id": "KE_011",
+      "agent_id": "PERSON_002",
+      "fact_id": "FACT_019",
+      "timestamp": "2025-05-22T00:00:00Z",
+      "acquisition_type": "active_participation",
+      "evidence_refs": ["Shopify_Deletion_Logs", "EVENT_010"],
+      "description": "Rynette deleted Shopify audit trails on 22 May 2025, proving knowledge of the revenue diversion and consciousness of guilt.",
+      "confidence": "proven"
+    },
+    {
+      "event_id": "KE_012",
+      "agent_id": "PERSON_002",
+      "fact_id": "FACT_006",
+      "timestamp": "2025-07-23T00:00:00Z",
+      "acquisition_type": "active_participation",
+      "evidence_refs": ["SF11", "EVENT_065", "EVENT_SF2B"],
+      "description": "Rynette, as the Sage subscription owner, deliberately allowed the system to expire, denying all parties access to financial records for over 1 month.",
+      "confidence": "proven"
+    },
+    {
+      "event_id": "KE_013",
+      "agent_id": "PERSON_002",
+      "fact_id": "FACT_007",
+      "timestamp": "2025-11-26T00:00:00Z",
+      "acquisition_type": "documentary_proof",
+      "evidence_refs": ["SF15", "EVENT_075", "EVENT_076", "Perjury_Defence_Matrix"],
+      "description": "Rynette retained Elliott Attorneys and filed a perjury complaint against Jacqueline. SF15 proves 0 of 8 allegations were disproven — the complaint was entirely without merit.",
+      "confidence": "proven"
+    },
+    {
+      "event_id": "KE_014",
+      "agent_id": "PERSON_002",
+      "fact_id": "FACT_003",
+      "timestamp": "2025-05-22T00:00:00Z",
+      "acquisition_type": "active_participation",
+      "evidence_refs": ["Shopify_Deletion_Logs", "DF8_Bank_Statements", "SF16_Para_75"],
+      "description": "Rynette instructed customers to no longer effect payments into the legitimate accounts but into different accounts she had opened. She deleted Shopify records to conceal this.",
+      "confidence": "proven"
+    },
+
+    {
+      "event_id": "KE_016",
+      "agent_id": "PERSON_002",
+      "fact_id": "FACT_016",
+      "timestamp": "2024-06-28T00:00:00Z",
+      "acquisition_type": "documentary_proof",
+      "evidence_refs": ["Trust_Amendment_Document", "SF15_Additional_Criminal_Conduct"],
+      "description": "Rynette signed trust documents 'pp Peter' on 28 June 2024, forging Peter's signature to install Bantjies as trustee.",
+      "confidence": "proven"
+    },
+    {
+      "event_id": "KE_017",
+      "agent_id": "PERSON_002",
+      "fact_id": "FACT_023",
+      "timestamp": "2025-08-11T00:00:00Z",
+      "acquisition_type": "email_correspondence",
+      "evidence_refs": ["Rynette_Bantjies_Trustee_Email_2025_08_11"],
+      "description": "Rynette emailed the signed 'Main Trustee' appointment letter to Bantjies on 11 August 2025, 2 days before the perjured interdict filing.",
+      "confidence": "proven"
+    },
+    {
+      "event_id": "KE_018",
+      "agent_id": "PERSON_002",
+      "fact_id": "FACT_017",
+      "timestamp": "2025-06-20T00:00:00Z",
+      "acquisition_type": "active_participation",
+      "evidence_refs": ["EVENT_027", "EVENT_063", "EVENT_026"],
+      "description": "Rynette instructed Gee to send emails telling customers to stop using regima.zone and only use regimaskin.co.za (owned by Adderory, her son's company).",
+      "confidence": "proven"
+    },
+    {
+      "event_id": "KE_019",
+      "agent_id": "PERSON_002",
+      "fact_id": "FACT_009",
+      "timestamp": "2025-03-01T00:00:00Z",
+      "acquisition_type": "active_participation",
+      "evidence_refs": ["Bank_Statements", "SF16_Para_146"],
+      "description": "Rynette was the only person with access to the ABSA accounts and the only person who transacted thereon. She executed the 99.8% asset stripping of RegimA SA.",
+      "confidence": "proven"
+    },
+    {
+      "event_id": "KE_020",
+      "agent_id": "PERSON_007",
+      "fact_id": "FACT_020",
+      "timestamp": "2025-06-06T00:00:00Z",
+      "acquisition_type": "email_correspondence",
+      "evidence_refs": ["EVENT_057", "EVENT_058"],
+      "description": "Daniel sent comprehensive reports to Bantjies on 6 June 2025, including listing of all companies and Shopify operations. On 10 June 2025, Daniel reported criminal matters including Kayla's murder and Peter stealing funds.",
+      "confidence": "proven"
+    },
+    {
+      "event_id": "KE_021",
+      "agent_id": "PERSON_007",
+      "fact_id": "FACT_001",
+      "timestamp": "2025-06-10T00:00:00Z",
+      "acquisition_type": "email_correspondence",
+      "evidence_refs": ["EVENT_047", "EVENT_058", "EVENT_066"],
+      "description": "Bantjies dismissed Daniel's audit request on 10 June 2025, just 4 days after receiving comprehensive reports exposing fraud. His email also confirms R10M bank balance decline year-on-year.",
+      "confidence": "proven"
+    },
+    {
+      "event_id": "KE_022",
+      "agent_id": "PERSON_007",
+      "fact_id": "FACT_015",
+      "timestamp": "2025-08-13T00:00:00Z",
+      "acquisition_type": "documentary_proof",
+      "evidence_refs": ["EVENT_049", "Bantjies_Affidavit", "Interdict_Application"],
+      "description": "Bantjies swore a false confirmatory affidavit supporting Peter's interdict on 13 August 2025, despite having been informed of criminal matters on 6 and 10 June 2025.",
+      "confidence": "proven"
+    },
+    {
+      "event_id": "KE_023",
+      "agent_id": "PERSON_007",
+      "fact_id": "FACT_008",
+      "timestamp": "2020-02-28T00:00:00Z",
+      "acquisition_type": "active_participation",
+      "evidence_refs": ["EVENT_078", "EVENT_089", "EVENT_K001"],
+      "description": "Bantjies documented the R18.685M Ketoni debt structure to FFT while serving as CFO of George Group (Derrick's company). He accepted the FFT Trustee appointment creating the dual-control loop.",
+      "confidence": "proven"
+    },
+    {
+      "event_id": "KE_024",
+      "agent_id": "PERSON_007",
+      "fact_id": "FACT_010",
+      "timestamp": "2025-03-15T00:00:00Z",
+      "acquisition_type": "active_participation",
+      "evidence_refs": ["EVENT_025"],
+      "description": "Bantjies processed the R5.4M stock adjustment without investigation, supporting documentation, or proper authorization. As the accountant, he should have investigated a 46% stock loss.",
+      "confidence": "proven"
+    },
+    {
+      "event_id": "KE_025",
+      "agent_id": "PERSON_007",
+      "fact_id": "FACT_022",
+      "timestamp": "2025-08-11T00:00:00Z",
+      "acquisition_type": "active_participation",
+      "evidence_refs": ["EVENT_059"],
+      "description": "Bantjies was party to the settlement agreement signed 2 days before the interdict filing, demonstrating strategic coordination and timing.",
+      "confidence": "proven"
+    },
+    {
+      "event_id": "KE_026",
+      "agent_id": "PERSON_007",
+      "fact_id": "FACT_012",
+      "timestamp": "2025-06-10T00:00:00Z",
+      "acquisition_type": "email_correspondence",
+      "evidence_refs": ["EVENT_058"],
+      "description": "Daniel reported to Bantjies about over R1.8M owed to Rezonance (Kayla's company). Bantjies acquired knowledge of this debt and the exploitation of the deceased's estate.",
+      "confidence": "proven"
+    },
+    {
+      "event_id": "KE_027",
+      "agent_id": "PERSON_002",
+      "fact_id": "FACT_012",
+      "timestamp": "2025-05-15T00:00:00Z",
+      "acquisition_type": "email_correspondence",
+      "evidence_refs": ["EVENT_050"],
+      "description": "Jax confronted Rynette about R1,035,000 owed to ReZonance and Kayla's estate. Rynette was directly informed of the debt.",
+      "confidence": "proven"
+    },
+    {
+      "event_id": "KE_028",
+      "agent_id": "PERSON_001",
+      "fact_id": "FACT_022",
+      "timestamp": "2025-08-11T00:00:00Z",
+      "acquisition_type": "documentary_proof",
+      "evidence_refs": ["EVENT_059"],
+      "description": "Peter signed the settlement agreement 2 days before filing the interdict, demonstrating strategic coordination.",
+      "confidence": "proven"
+    },
+    {
+      "event_id": "KE_029",
+      "agent_id": "PERSON_001",
+      "fact_id": "FACT_025",
+      "timestamp": "2025-02-25T00:00:00Z",
+      "acquisition_type": "active_participation",
+      "evidence_refs": ["EVENT_028"],
+      "description": "Peter was listed as a perpetrator in the R5.2M SLG stock disappearance with simultaneous invoice. As director, he authorized or was aware of this transfer pricing fraud.",
+      "confidence": "proven"
+    },
+    {
+      "event_id": "KE_030",
+      "agent_id": "ORG_ENS",
+      "fact_id": "FACT_021",
+      "timestamp": "2025-08-29T00:00:00Z",
+      "acquisition_type": "email_correspondence",
+      "evidence_refs": ["EVENT_061"],
+      "description": "ENS Africa acknowledged receipt of criminal matters information from Daniel with 'Received, thanks Daniel' email, then suppressed this information from the Court.",
+      "confidence": "proven"
+    },
+    {
+      "event_id": "KE_031",
+      "agent_id": "PERSON_002",
+      "fact_id": "FACT_025",
+      "timestamp": "2025-02-25T00:00:00Z",
+      "acquisition_type": "active_participation",
+      "evidence_refs": ["EVENT_028"],
+      "description": "Rynette was listed as a perpetrator in the R5.2M SLG stock disappearance. As the sole person transacting on the accounts, she facilitated the financial side.",
+      "confidence": "proven"
+    },
+    {
+      "event_id": "KE_032",
+      "agent_id": "PERSON_007",
+      "fact_id": "FACT_025",
+      "timestamp": "2025-02-25T00:00:00Z",
+      "acquisition_type": "active_participation",
+      "evidence_refs": ["EVENT_028"],
+      "description": "Bantjies was listed as a perpetrator in the R5.2M SLG stock disappearance. As the accountant, he processed the financial entries for this transaction.",
+      "confidence": "proven"
+    }
+  ]
+}

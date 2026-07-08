@@ -1,0 +1,117 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://cogpy.github.io/revstream1/contracts/entity_schema.json",
+  "title": "Entity Model Schema",
+  "description": "JSON Schema for Revenue Stream Hijacking case entity data model. Validates the canonical entity format consumed by LexRexHGNN, ad-res-j7, and fincosys.",
+  "type": "object",
+  "required": ["metadata", "entities"],
+  "properties": {
+    "metadata": {
+      "type": "object",
+      "required": ["version", "case_number", "total_entities"],
+      "properties": {
+        "version": { "type": "string" },
+        "created_date": { "type": "string" },
+        "description": { "type": "string" },
+        "case_number": { "type": "string" },
+        "modeling_approach": { "type": "string" },
+        "last_updated": { "type": "string" },
+        "changes": { "type": "string" },
+        "total_entities": { "type": "integer", "minimum": 0 },
+        "total_persons": { "type": "integer", "minimum": 0 },
+        "total_organizations": { "type": "integer", "minimum": 0 }
+      }
+    },
+    "entities": {
+      "type": "object",
+      "properties": {
+        "persons": {
+          "type": "array",
+          "items": { "$ref": "#/$defs/person_entity" }
+        },
+        "organizations": {
+          "type": "array",
+          "items": { "$ref": "#/$defs/organization_entity" }
+        }
+      }
+    }
+  },
+  "$defs": {
+    "person_entity": {
+      "type": "object",
+      "required": ["entity_id", "name"],
+      "properties": {
+        "entity_id": {
+          "type": "string",
+          "pattern": "^PERSON_"
+        },
+        "name": { "type": "string", "minLength": 1 },
+        "id_number": { "type": ["string", "null"] },
+        "role": { "type": "string" },
+        "agent_type": { "type": "string" },
+        "involvement_events": { "type": "integer", "minimum": 0 },
+        "primary_actions": {
+          "type": "array",
+          "items": { "type": "string" }
+        },
+        "relationships": {
+          "type": "array",
+          "items": { "type": "string" }
+        },
+        "financial_impact": {
+          "type": "object",
+          "properties": {
+            "direct_involvement": { "type": "string" },
+            "primary_categories": {
+              "type": "array",
+              "items": { "type": "string" }
+            }
+          }
+        },
+        "legal_status": { "type": "string" },
+        "timeline_events": {
+          "type": "array",
+          "items": { "type": "string" }
+        },
+        "evidence": {
+          "type": "array",
+          "items": { "type": "string" }
+        },
+        "ad_res_j7_references": {
+          "type": "array",
+          "items": { "type": "string" }
+        },
+        "evidence_strength": { "type": "string" },
+        "criminal_threshold": { "type": "string" }
+      }
+    },
+    "organization_entity": {
+      "type": "object",
+      "required": ["entity_id", "name"],
+      "properties": {
+        "entity_id": {
+          "type": "string"
+        },
+        "name": { "type": "string", "minLength": 1 },
+        "entity_type": { "type": "string" },
+        "registration_number": { "type": "string" },
+        "role": { "type": "string" },
+        "agent_type": { "type": "string" },
+        "relationships": {
+          "type": "array",
+          "items": { "type": "string" }
+        },
+        "financial_impact": { "type": "object" },
+        "evidence": {
+          "type": "array",
+          "items": { "type": "string" }
+        },
+        "ad_res_j7_references": {
+          "type": "array",
+          "items": { "type": "string" }
+        },
+        "evidence_strength": { "type": "string" }
+      }
+    }
+  }
+}

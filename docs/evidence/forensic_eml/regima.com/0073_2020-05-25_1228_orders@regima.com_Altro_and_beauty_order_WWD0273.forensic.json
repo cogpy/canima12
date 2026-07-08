@@ -1,0 +1,59 @@
+{
+  "_schema": "exchange-forensic-eml/v1",
+  "_generated": "2026-03-10T03:53:05.154254+00:00",
+  "_source": "neon-exchange-sync",
+  "file_integrity": {
+    "eml_file": "/home/ubuntu/revstream1/docs/evidence/forensic_eml/regima.com/0073_2020-05-25_1228_orders@regima.com_Altro_and_beauty_order_WWD0273.eml",
+    "file_size_bytes": 870,
+    "md5": "3485be61fca7a51642bd401fe79ab150",
+    "sha1": "d39fefd66f1ab25d95e5594b6835ed2c929e96da",
+    "sha256": "8f40f592d636b82613e215952aaccd61fa1392126550c6a7b1da87e5998a19a2"
+  },
+  "message_identity": {
+    "exchange_sync_id": "AQMkADMxMzkyY2FlLWNkMGEtNGM2My04OWFiLTNlZDRjNzkyNGUyMwBGAAADSLKv-EI8AESN7LMej4ROLgcAIySisE98NkWmcNijjztGYgAAAj1EAAAAIySisE98NkWmcNijjztGYgAAAlFJAAAA",
+    "internet_message_id": "<023d01d6328f$f3f30330$dbd90990$@regima.com>",
+    "conversation_id": "AAQkADMxMzkyY2FlLWNkMGEtNGM2My04OWFiLTNlZDRjNzkyNGUyMwAQAAlxUp7clkjaidmi6mU12XI="
+  },
+  "envelope": {
+    "subject": "Altro and beauty order WWD0273",
+    "from_name": "orders@regima.com",
+    "from_address": "orders@regima.com",
+    "to_recipients": [
+      {
+        "name": "alnaabrie@yahoo.com",
+        "address": "alnaabrie@yahoo.com"
+      }
+    ],
+    "cc_recipients": [
+      {
+        "name": "'Peter Andrew Faucitt'",
+        "address": "pete@regima.com"
+      },
+      {
+        "name": "Jacqui Faucitt",
+        "address": "jax@regima.zone"
+      },
+      {
+        "name": "Bernadine Wright",
+        "address": "bern@regima.zone"
+      },
+      {
+        "name": "Rynette Farrar",
+        "address": "rynette@regima.zone"
+      }
+    ],
+    "received_datetime": "2020-05-25 12:28:21+00:00"
+  },
+  "mailbox_context": {
+    "user_email": "rynette@regima.zone",
+    "user_name": "Rynette Farrar",
+    "folder_name": "Orders",
+    "folder_id": "AQMkADMxMzkyY2FlLWNkMGEtNGM2My04OWFiLTNlZDRjNzkyNGUyMwAuAAADSLKv-EI8AESN7LMej4ROLgEAIySisE98NkWmcNijjztGYgAAAj1EAAAA"
+  },
+  "body": {
+    "content_type": null,
+    "preview": "Good Day Alna\r\n\r\nThank you, proof of payment received\r\n\r\nYour order is being processed\r\n\r\nKindest Regards\r\n\r\nFrom: orders@regima.com <orders@regima.com>\r\nSent: 20 May 2020 09:26 AM\r\nTo: 'alna abrie' <alnaabrie@yahoo.com>\r\nCc: 'Peter Andrew Faucitt' <pete@",
+    "body_length_chars": 0
+  },
+  "attachments": []
+}

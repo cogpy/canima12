@@ -1,0 +1,59 @@
+{
+  "_schema": "exoml-forensic/v1",
+  "_generated": "2026-03-10T08:04:24.123653+00:00",
+  "file_integrity": {
+    "eml_file": "rzo.io/0006_2021-02-18_1914_d@rzo.io_Salco_Picking_Slip.eml",
+    "file_size_bytes": 2304,
+    "md5": "adf8cc99ecf2b249ed5c82606779c689",
+    "sha1": "52834b8af290de85f352bd5001e6b09e4bd3ab50",
+    "sha256": "a3276f36b7c905f423a44e44c276b84c8fabdf91aef8ea703b38cb03221799f0"
+  },
+  "message_identity": {
+    "db_id": 853,
+    "exchange_message_id": "AAMkAGE2YjljZjA1LTRlOWUtNDhjYi1iZjNkLWI4ZWRlNDQwYTU0MABGAAAAAADPgXCfMl5uRqA6Xxa9Yh33BwAh607i92PMQLMLAH3HB5h5AAAAAAEJAAAh607i92PMQLMLAH3HB5h5AATvikbYAAA=",
+    "conversation_id": "AAQkAGE2YjljZjA1LTRlOWUtNDhjYi1iZjNkLWI4ZWRlNDQwYTU0MAAQACsBVdycTzhBmqaeVylhCY4="
+  },
+  "envelope": {
+    "subject": "Salco Picking Slip",
+    "from_name": "Daniel Faucitt",
+    "from_address": "d@rzo.io",
+    "to_recipients": [
+      {
+        "emailAddress": {
+          "name": "kayla pretorius",
+          "address": "kayla@regima.zone"
+        }
+      },
+      {
+        "emailAddress": {
+          "name": "Rynette Farrar",
+          "address": "rynette@regima.zone"
+        }
+      },
+      {
+        "emailAddress": {
+          "name": "Kent Rault",
+          "address": "kent@regima.zone"
+        }
+      },
+      {
+        "emailAddress": {
+          "name": "Jacqui Faucitt",
+          "address": "jax@regima.zone"
+        }
+      }
+    ],
+    "cc_recipients": [],
+    "received_datetime": "2021-02-18 19:14:07"
+  },
+  "mailbox_context": {
+    "user_email": "d@rzo.io",
+    "user_name": "Daniel Faucitt"
+  },
+  "body": {
+    "content_type": "html",
+    "preview": "Herroooo 😀\r\n\r\nI've got updated sales figures for Salco forecast so just want to confirm with Kay tomorrow morning and adjust any stock figures based on the new forecast model.\r\n\r\nWill send them through around 9\r\n\r\nDan",
+    "body_length_chars": 1039
+  },
+  "attachments": []
+}

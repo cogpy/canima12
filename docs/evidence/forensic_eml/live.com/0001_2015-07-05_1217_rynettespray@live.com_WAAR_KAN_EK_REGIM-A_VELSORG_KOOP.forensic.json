@@ -1,0 +1,37 @@
+{
+  "_schema": "exchange-forensic-eml/v1",
+  "_generated": "2026-03-10T03:52:55.227066+00:00",
+  "_source": "neon-exchange-sync",
+  "file_integrity": {
+    "eml_file": "/home/ubuntu/revstream1/docs/evidence/forensic_eml/live.com/0001_2015-07-05_1217_rynettespray@live.com_WAAR_KAN_EK_REGIM-A_VELSORG_KOOP.eml",
+    "file_size_bytes": 4524,
+    "md5": "4c9a373e3d83b529a957b437dbe084df",
+    "sha1": "fb3480f74d9b65a05b8b44d2871990446b80f1eb",
+    "sha256": "cf552674eff90d7cffd70d06268f9f0d5c2b1dee375c64852d331810af22e38f"
+  },
+  "message_identity": {
+    "exchange_sync_id": "AAMkADc4ZGZjN2JjLTJlMjItNGE1NS05MTYxLThlYWFjMzY3MTVjZABGAAAAAADj_NpbsASvQrvxk8XF5jX2BwB2KVzCOlRYS6jHNlIdVIteAAAAAAEMAAB2KVzCOlRYS6jHNlIdVIteAAAMZNgbAAA=",
+    "internet_message_id": null,
+    "conversation_id": null
+  },
+  "envelope": {
+    "subject": "WAAR KAN EK REGIM-A VELSORG KOOP?",
+    "from_name": "Rynette Spray",
+    "from_address": "rynettespray@live.com",
+    "to_recipients": null,
+    "cc_recipients": null,
+    "received_datetime": "2015-07-05 12:17:51+00:00"
+  },
+  "mailbox_context": {
+    "user_email": "DanX@regima.zone",
+    "user_name": "Dan X",
+    "folder_name": null,
+    "folder_id": null
+  },
+  "body": {
+    "content_type": "html",
+    "preview": "",
+    "body_length_chars": 2838
+  },
+  "attachments": []
+}

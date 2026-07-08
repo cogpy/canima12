@@ -1,0 +1,569 @@
+[
+  {
+    "rank": 1,
+    "item_id": "IMAGE_C7BC20C77C5B",
+    "type": "image",
+    "date": "2025-06-17",
+    "source_path": "evidence/FNB_FRAUD_LETTER_2025_06_17/PAF_FNB_FRAUD_LETTER_2025_06_17.jpg",
+    "priority_score": 8.833,
+    "regulation_state": "upregulated",
+    "entities": []
+  },
+  {
+    "rank": 2,
+    "item_id": "UNKNOWN_F9115678275C",
+    "type": "unknown",
+    "date": "2025-06-17",
+    "source_path": "evidence/FNB_FRAUD_LETTER_2025_06_17/PAF_FNB_FRAUD_LETTER_2025_06_17_OCR.md",
+    "priority_score": 8.833,
+    "regulation_state": "upregulated",
+    "entities": []
+  },
+  {
+    "rank": 3,
+    "item_id": "DOCUMENT_64DB6080EC56",
+    "type": "document",
+    "date": "2025-06-18",
+    "source_path": "evidence/2026-02-05_new_evidence/2025-06-18 - Rynette & De Novo - RegimA SA Payments.pdf",
+    "priority_score": 8.167,
+    "regulation_state": "upregulated",
+    "entities": [
+      "ORG_003",
+      "ORG_002",
+      "ORG_006",
+      "ORG_001",
+      "ORG_014"
+    ]
+  },
+  {
+    "rank": 4,
+    "item_id": "DOCUMENT_AB865AB5E992",
+    "type": "document",
+    "date": "2025-03-06",
+    "source_path": "evidence/2026-02-05_new_evidence/62707308252 2025-03-06.pdf",
+    "priority_score": 8.167,
+    "regulation_state": "upregulated",
+    "entities": []
+  },
+  {
+    "rank": 5,
+    "item_id": "IMAGE_13977562D43E",
+    "type": "image",
+    "date": "2025-06-18",
+    "source_path": "evidence/FNB_RESPONSE_EMAIL_2025_06_18/FNB_RESPONSE_EMAIL_2025_06_18.jpg",
+    "priority_score": 8.167,
+    "regulation_state": "upregulated",
+    "entities": []
+  },
+  {
+    "rank": 6,
+    "item_id": "UNKNOWN_9960D180E811",
+    "type": "unknown",
+    "date": "2025-06-18",
+    "source_path": "evidence/FNB_RESPONSE_EMAIL_2025_06_18/FNB_RESPONSE_EMAIL_2025_06_18_OCR.md",
+    "priority_score": 8.167,
+    "regulation_state": "upregulated",
+    "entities": []
+  },
+  {
+    "rank": 7,
+    "item_id": "IMAGE_B3A654639E43",
+    "type": "image",
+    "date": "2025-09-11",
+    "source_path": "evidence/bank-statements/2025-09/2025-09-11_-_FNB_Account_Statement_-_RegimA_Skin_Treatments_5642.jpg",
+    "priority_score": 8.167,
+    "regulation_state": "upregulated",
+    "entities": [
+      "ORG_003",
+      "BANK_ACCOUNT_005",
+      "ORG_002",
+      "ORG_006",
+      "ORG_010"
+    ]
+  },
+  {
+    "rank": 8,
+    "item_id": "IMAGE_D7DE0D54BCA2",
+    "type": "image",
+    "date": "2025-09-11",
+    "source_path": "evidence/bank-statements/2025-09/2025-09-11_-_FNB_Account_Statement_-_RegimA_Worldwide_Distribution_6362.jpg",
+    "priority_score": 8.167,
+    "regulation_state": "upregulated",
+    "entities": [
+      "ORG_003",
+      "BANK_ACCOUNT_005",
+      "ORG_002",
+      "ORG_006",
+      "ORG_001"
+    ]
+  },
+  {
+    "rank": 9,
+    "item_id": "IMAGE_027417722282",
+    "type": "image",
+    "date": "2025-09-11",
+    "source_path": "evidence/bank-statements/2025-09/2025-09-11_-_FNB_Account_Statement_-_RegimA_Worldwide_Distribution_6362_p2.jpg",
+    "priority_score": 8.167,
+    "regulation_state": "upregulated",
+    "entities": [
+      "ORG_003",
+      "BANK_ACCOUNT_005",
+      "ORG_002",
+      "ORG_006",
+      "ORG_001"
+    ]
+  },
+  {
+    "rank": 10,
+    "item_id": "IMAGE_9B0AD111ED9B",
+    "type": "image",
+    "date": "2025-09-11",
+    "source_path": "evidence/bank-statements/2025-09/2025-09-11_-_FNB_Account_Statement_-_Strategic_Logistics_1494.jpg",
+    "priority_score": 8.167,
+    "regulation_state": "upregulated",
+    "entities": [
+      "ORG_004",
+      "BANK_ACCOUNT_005",
+      "BANK_ACCOUNT_004"
+    ]
+  },
+  {
+    "rank": 11,
+    "item_id": "IMAGE_656883ACBED1",
+    "type": "image",
+    "date": "2025-09-11",
+    "source_path": "evidence/bank-statements/2025-09/2025-09-11_-_FNB_Account_Statement_-_Villa_Via_Arcadia_0807.jpg",
+    "priority_score": 8.167,
+    "regulation_state": "upregulated",
+    "entities": [
+      "ORG_005",
+      "BANK_ACCOUNT_005",
+      "BANK_ACCOUNT_004"
+    ]
+  },
+  {
+    "rank": 12,
+    "item_id": "UNKNOWN_7BC88904F6F1",
+    "type": "unknown",
+    "date": "2025-09-11",
+    "source_path": "evidence/bank-statements/2025-09/2025-09-11_-_FNB_Account_Statements_-_Current_Accounts.zip",
+    "priority_score": 8.167,
+    "regulation_state": "upregulated",
+    "entities": [
+      "BANK_ACCOUNT_004",
+      "BANK_001",
+      "BANK_ACCOUNT_005",
+      "BANK_ACCOUNT_ABSA"
+    ]
+  },
+  {
+    "rank": 13,
+    "item_id": "DOCUMENT_263F689C49F2",
+    "type": "document",
+    "date": "2025-06-04",
+    "source_path": "evidence/bank_records/daniel_personal/D_FAUCITT_PERSONAL_BANK_RECORDS_20250604.pdf",
+    "priority_score": 8.167,
+    "regulation_state": "upregulated",
+    "entities": [
+      "PERSON_005",
+      "PERSON_007",
+      "TRUST_001",
+      "PERSON_004",
+      "PERSON_001"
+    ]
+  },
+  {
+    "rank": 14,
+    "item_id": "DOCUMENT_3B1D668DA7A1",
+    "type": "document",
+    "date": "2025-07-04",
+    "source_path": "evidence/bank_records/daniel_personal/D_FAUCITT_PERSONAL_BANK_RECORDS_20250704.pdf",
+    "priority_score": 8.167,
+    "regulation_state": "upregulated",
+    "entities": [
+      "PERSON_005",
+      "PERSON_007",
+      "TRUST_001",
+      "PERSON_004",
+      "PERSON_001"
+    ]
+  },
+  {
+    "rank": 15,
+    "item_id": "DOCUMENT_6A2613C67072",
+    "type": "document",
+    "date": "2025-08-04",
+    "source_path": "evidence/bank_records/daniel_personal/D_FAUCITT_PERSONAL_BANK_RECORDS_20250804.pdf",
+    "priority_score": 8.167,
+    "regulation_state": "upregulated",
+    "entities": [
+      "PERSON_005",
+      "PERSON_007",
+      "TRUST_001",
+      "PERSON_004",
+      "PERSON_001"
+    ]
+  },
+  {
+    "rank": 16,
+    "item_id": "DOCUMENT_574AEAAF1603",
+    "type": "document",
+    "date": "2025-09-04",
+    "source_path": "evidence/bank_records/daniel_personal/D_FAUCITT_PERSONAL_BANK_RECORDS_20250904.pdf",
+    "priority_score": 8.167,
+    "regulation_state": "upregulated",
+    "entities": [
+      "PERSON_005",
+      "PERSON_007",
+      "TRUST_001",
+      "PERSON_004",
+      "PERSON_001"
+    ]
+  },
+  {
+    "rank": 17,
+    "item_id": "DOCUMENT_7F249BF28E88",
+    "type": "document",
+    "date": "2025-10-04",
+    "source_path": "evidence/bank_records/daniel_personal/D_FAUCITT_PERSONAL_BANK_RECORDS_20251004.pdf",
+    "priority_score": 8.167,
+    "regulation_state": "upregulated",
+    "entities": [
+      "PERSON_005",
+      "PERSON_007",
+      "TRUST_001",
+      "PERSON_004",
+      "PERSON_001"
+    ]
+  },
+  {
+    "rank": 18,
+    "item_id": "UNKNOWN_EE5B169EF346",
+    "type": "unknown",
+    "date": "2025-09-11",
+    "source_path": "evidence/bank_records/sept_11_2025/ANALYSIS_CUR_VS_SAV_2025_09_11.md",
+    "priority_score": 8.167,
+    "regulation_state": "upregulated",
+    "entities": []
+  },
+  {
+    "rank": 19,
+    "item_id": "IMAGE_4F554B360A2C",
+    "type": "image",
+    "date": "2025-09-11",
+    "source_path": "evidence/bank_records/sept_11_2025/CCE20250911_0000.jpg",
+    "priority_score": 8.167,
+    "regulation_state": "upregulated",
+    "entities": []
+  },
+  {
+    "rank": 20,
+    "item_id": "STRUCTURED_DATA_ACF400F563A5",
+    "type": "structured_data",
+    "date": "2025-09-11",
+    "source_path": "evidence/bank_records/sept_11_2025/CCE20250911_0000.json",
+    "priority_score": 8.167,
+    "regulation_state": "upregulated",
+    "entities": []
+  },
+  {
+    "rank": 21,
+    "item_id": "UNKNOWN_BB39DC51E6A5",
+    "type": "unknown",
+    "date": "2025-09-11",
+    "source_path": "evidence/bank_records/sept_11_2025/CCE20250911_0000.md",
+    "priority_score": 8.167,
+    "regulation_state": "upregulated",
+    "entities": []
+  },
+  {
+    "rank": 22,
+    "item_id": "IMAGE_5452C30F1B22",
+    "type": "image",
+    "date": "2025-09-11",
+    "source_path": "evidence/bank_records/sept_11_2025/CCE20250911_0001.jpg",
+    "priority_score": 8.167,
+    "regulation_state": "upregulated",
+    "entities": []
+  },
+  {
+    "rank": 23,
+    "item_id": "STRUCTURED_DATA_D7A8AA04E431",
+    "type": "structured_data",
+    "date": "2025-09-11",
+    "source_path": "evidence/bank_records/sept_11_2025/CCE20250911_0001.json",
+    "priority_score": 8.167,
+    "regulation_state": "upregulated",
+    "entities": []
+  },
+  {
+    "rank": 24,
+    "item_id": "UNKNOWN_A43360F7F2B7",
+    "type": "unknown",
+    "date": "2025-09-11",
+    "source_path": "evidence/bank_records/sept_11_2025/CCE20250911_0001.md",
+    "priority_score": 8.167,
+    "regulation_state": "upregulated",
+    "entities": []
+  },
+  {
+    "rank": 25,
+    "item_id": "IMAGE_7581B3595012",
+    "type": "image",
+    "date": "2025-09-11",
+    "source_path": "evidence/bank_records/sept_11_2025/CCE20250911_0002.jpg",
+    "priority_score": 8.167,
+    "regulation_state": "upregulated",
+    "entities": []
+  },
+  {
+    "rank": 26,
+    "item_id": "STRUCTURED_DATA_7734DD02ED3E",
+    "type": "structured_data",
+    "date": "2025-09-11",
+    "source_path": "evidence/bank_records/sept_11_2025/CCE20250911_0002.json",
+    "priority_score": 8.167,
+    "regulation_state": "upregulated",
+    "entities": []
+  },
+  {
+    "rank": 27,
+    "item_id": "UNKNOWN_1B6E86215AA1",
+    "type": "unknown",
+    "date": "2025-09-11",
+    "source_path": "evidence/bank_records/sept_11_2025/CCE20250911_0002.md",
+    "priority_score": 8.167,
+    "regulation_state": "upregulated",
+    "entities": []
+  },
+  {
+    "rank": 28,
+    "item_id": "IMAGE_D8595B0E6DAE",
+    "type": "image",
+    "date": "2025-09-11",
+    "source_path": "evidence/bank_records/sept_11_2025/CCE20250911_0003.jpg",
+    "priority_score": 8.167,
+    "regulation_state": "upregulated",
+    "entities": []
+  },
+  {
+    "rank": 29,
+    "item_id": "STRUCTURED_DATA_ED157E21D609",
+    "type": "structured_data",
+    "date": "2025-09-11",
+    "source_path": "evidence/bank_records/sept_11_2025/CCE20250911_0003.json",
+    "priority_score": 8.167,
+    "regulation_state": "upregulated",
+    "entities": []
+  },
+  {
+    "rank": 30,
+    "item_id": "UNKNOWN_2E9444A29486",
+    "type": "unknown",
+    "date": "2025-09-11",
+    "source_path": "evidence/bank_records/sept_11_2025/CCE20250911_0003.md",
+    "priority_score": 8.167,
+    "regulation_state": "upregulated",
+    "entities": []
+  },
+  {
+    "rank": 31,
+    "item_id": "IMAGE_803417ADF479",
+    "type": "image",
+    "date": "2025-09-11",
+    "source_path": "evidence/bank_records/sept_11_2025/CCE20250911_0004.jpg",
+    "priority_score": 8.167,
+    "regulation_state": "upregulated",
+    "entities": []
+  },
+  {
+    "rank": 32,
+    "item_id": "STRUCTURED_DATA_A587848AE799",
+    "type": "structured_data",
+    "date": "2025-09-11",
+    "source_path": "evidence/bank_records/sept_11_2025/CCE20250911_0004.json",
+    "priority_score": 8.167,
+    "regulation_state": "upregulated",
+    "entities": []
+  },
+  {
+    "rank": 33,
+    "item_id": "UNKNOWN_29472002B9B8",
+    "type": "unknown",
+    "date": "2025-09-11",
+    "source_path": "evidence/bank_records/sept_11_2025/CCE20250911_0004.md",
+    "priority_score": 8.167,
+    "regulation_state": "upregulated",
+    "entities": []
+  },
+  {
+    "rank": 34,
+    "item_id": "IMAGE_1B15FA478C15",
+    "type": "image",
+    "date": "2025-09-11",
+    "source_path": "evidence/bank_records/sept_11_2025/CCE20250911_0005.jpg",
+    "priority_score": 8.167,
+    "regulation_state": "upregulated",
+    "entities": []
+  },
+  {
+    "rank": 35,
+    "item_id": "STRUCTURED_DATA_116561ACF582",
+    "type": "structured_data",
+    "date": "2025-09-11",
+    "source_path": "evidence/bank_records/sept_11_2025/CCE20250911_0005.json",
+    "priority_score": 8.167,
+    "regulation_state": "upregulated",
+    "entities": []
+  },
+  {
+    "rank": 36,
+    "item_id": "UNKNOWN_7E40328E2A8E",
+    "type": "unknown",
+    "date": "2025-09-11",
+    "source_path": "evidence/bank_records/sept_11_2025/CCE20250911_0005.md",
+    "priority_score": 8.167,
+    "regulation_state": "upregulated",
+    "entities": []
+  },
+  {
+    "rank": 37,
+    "item_id": "IMAGE_738916A75BF4",
+    "type": "image",
+    "date": "2025-09-11",
+    "source_path": "evidence/bank_records/sept_11_2025/CCE20250911_0006.jpg",
+    "priority_score": 8.167,
+    "regulation_state": "upregulated",
+    "entities": []
+  },
+  {
+    "rank": 38,
+    "item_id": "STRUCTURED_DATA_5EA5AC6173CA",
+    "type": "structured_data",
+    "date": "2025-09-11",
+    "source_path": "evidence/bank_records/sept_11_2025/CCE20250911_0006.json",
+    "priority_score": 8.167,
+    "regulation_state": "upregulated",
+    "entities": []
+  },
+  {
+    "rank": 39,
+    "item_id": "UNKNOWN_0F03FF8C7800",
+    "type": "unknown",
+    "date": "2025-09-11",
+    "source_path": "evidence/bank_records/sept_11_2025/CCE20250911_0006.md",
+    "priority_score": 8.167,
+    "regulation_state": "upregulated",
+    "entities": []
+  },
+  {
+    "rank": 40,
+    "item_id": "IMAGE_AB102B10BE52",
+    "type": "image",
+    "date": "2025-09-11",
+    "source_path": "evidence/bank_records/sept_11_2025/CCE20250911_0007.jpg",
+    "priority_score": 8.167,
+    "regulation_state": "upregulated",
+    "entities": []
+  },
+  {
+    "rank": 41,
+    "item_id": "STRUCTURED_DATA_E3F131A3A7CA",
+    "type": "structured_data",
+    "date": "2025-09-11",
+    "source_path": "evidence/bank_records/sept_11_2025/CCE20250911_0007.json",
+    "priority_score": 8.167,
+    "regulation_state": "upregulated",
+    "entities": []
+  },
+  {
+    "rank": 42,
+    "item_id": "UNKNOWN_8AF592A8D952",
+    "type": "unknown",
+    "date": "2025-09-11",
+    "source_path": "evidence/bank_records/sept_11_2025/CCE20250911_0007.md",
+    "priority_score": 8.167,
+    "regulation_state": "upregulated",
+    "entities": []
+  },
+  {
+    "rank": 43,
+    "item_id": "IMAGE_7C4593E8B96E",
+    "type": "image",
+    "date": "2025-09-24",
+    "source_path": "evidence/bank_records/sept_11_2025/pasted_file_7BWsdA_CCE20250924_0005.jpg",
+    "priority_score": 8.167,
+    "regulation_state": "upregulated",
+    "entities": []
+  },
+  {
+    "rank": 44,
+    "item_id": "IMAGE_DDD5CD9DF8EE",
+    "type": "image",
+    "date": "2025-09-11",
+    "source_path": "evidence/bank_records/sept_11_2025/pasted_file_Es6bOw_VVA_CUR_0807_CCE20250911_0002.jpg",
+    "priority_score": 8.167,
+    "regulation_state": "upregulated",
+    "entities": []
+  },
+  {
+    "rank": 45,
+    "item_id": "IMAGE_56F0518F64BD",
+    "type": "image",
+    "date": "2025-09-11",
+    "source_path": "evidence/bank_records/sept_11_2025/pasted_file_Rd1650_SLG_SAV_5829_CCE20250911_0005.jpg",
+    "priority_score": 8.167,
+    "regulation_state": "upregulated",
+    "entities": []
+  },
+  {
+    "rank": 46,
+    "item_id": "IMAGE_8CF8AD830CD9",
+    "type": "image",
+    "date": "2025-09-11",
+    "source_path": "evidence/bank_records/sept_11_2025/pasted_file_XzF3vz_RWD_CUR_6362_CCE20250911_0004.jpg",
+    "priority_score": 8.167,
+    "regulation_state": "upregulated",
+    "entities": []
+  },
+  {
+    "rank": 47,
+    "item_id": "IMAGE_EC21654B6024",
+    "type": "image",
+    "date": "2025-09-11",
+    "source_path": "evidence/bank_records/sept_11_2025/pasted_file_ZB67ME_RWD_CUR_6362_CCE20250911_0003.jpg",
+    "priority_score": 8.167,
+    "regulation_state": "upregulated",
+    "entities": []
+  },
+  {
+    "rank": 48,
+    "item_id": "IMAGE_443DE03AC7B5",
+    "type": "image",
+    "date": "2025-09-11",
+    "source_path": "evidence/bank_records/sept_11_2025/pasted_file_bbo5mu_RST_SAV_9127_CCE20250911_0000.jpg",
+    "priority_score": 8.167,
+    "regulation_state": "upregulated",
+    "entities": []
+  },
+  {
+    "rank": 49,
+    "item_id": "IMAGE_B790C9EDC6C3",
+    "type": "image",
+    "date": "2025-09-11",
+    "source_path": "evidence/bank_records/sept_11_2025/pasted_file_q3Vf5b_RST_CUR_5642_CCE20250911_0007.jpg",
+    "priority_score": 8.167,
+    "regulation_state": "upregulated",
+    "entities": []
+  },
+  {
+    "rank": 50,
+    "item_id": "IMAGE_A66810E2005B",
+    "type": "image",
+    "date": "2025-09-11",
+    "source_path": "evidence/bank_records/sept_11_2025/pasted_file_v9WAUf_VVA_SAV_5744_CCE20250911_0001.jpg",
+    "priority_score": 8.167,
+    "regulation_state": "upregulated",
+    "entities": []
+  }
+]

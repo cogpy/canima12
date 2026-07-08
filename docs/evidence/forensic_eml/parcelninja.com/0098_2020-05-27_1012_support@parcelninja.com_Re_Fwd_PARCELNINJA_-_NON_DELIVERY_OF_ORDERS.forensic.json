@@ -1,0 +1,75 @@
+{
+  "_schema": "exchange-forensic-eml/v1",
+  "_generated": "2026-03-10T03:53:08.600698+00:00",
+  "_source": "neon-exchange-sync",
+  "file_integrity": {
+    "eml_file": "/home/ubuntu/revstream1/docs/evidence/forensic_eml/parcelninja.com/0098_2020-05-27_1012_support@parcelninja.com_Re_Fwd_PARCELNINJA_-_NON_DELIVERY_OF_ORDERS.eml",
+    "file_size_bytes": 1169,
+    "md5": "98b32cc7bf0e91d98a405eece7ffadc2",
+    "sha1": "18b159d60d8521e2b4dea93e9a194c7e16ffabfd",
+    "sha256": "c88964cfb8793ff46d8f67c9e311dfd6e2d0fd88110e29390e48893c9a4e9e94"
+  },
+  "message_identity": {
+    "exchange_sync_id": "AQMkADMxMzkyY2FlLWNkMGEtNGM2My04OWFiLTNlZDRjNzkyNGUyMwBGAAADSLKv-EI8AESN7LMej4ROLgcAIySisE98NkWmcNijjztGYgAAAj1EAAAAIySisE98NkWmcNijjztGYgAAAlFVAAAA",
+    "internet_message_id": "<5ece3cd84334_2832ad09fa8cfb05939b7.sidekiq-frequent-fd-poduseast1-main2-green-6cb8547984-642bh@email.freshdesk.com>",
+    "conversation_id": "AAQkADMxMzkyY2FlLWNkMGEtNGM2My04OWFiLTNlZDRjNzkyNGUyMwAQAOWEk6_IUEWPvkGMm3UAoms="
+  },
+  "envelope": {
+    "subject": "Re: Fwd: PARCELNINJA - NON DELIVERY OF ORDERS",
+    "from_name": "Kim Lawrence",
+    "from_address": "support@parcelninja.com",
+    "to_recipients": [
+      {
+        "name": "greg.fine@parcelninja.com",
+        "address": "greg.fine@parcelninja.com"
+      }
+    ],
+    "cc_recipients": [
+      {
+        "name": "alexi@parcelninja.com",
+        "address": "alexi@parcelninja.com"
+      },
+      {
+        "name": "brian@parcelninja.com",
+        "address": "brian@parcelninja.com"
+      },
+      {
+        "name": "p4j9i5x9b4w3z0m0@rzone.slack.com",
+        "address": "p4j9i5x9b4w3z0m0@rzone.slack.com"
+      },
+      {
+        "name": "Jacqui Faucitt",
+        "address": "jax@regima.zone"
+      },
+      {
+        "name": "Kayla Pretorius",
+        "address": "kayla@regima.zone"
+      },
+      {
+        "name": "Rynette Farrar",
+        "address": "rynette@regima.zone"
+      },
+      {
+        "name": "pete@regima.com",
+        "address": "pete@regima.com"
+      },
+      {
+        "name": "Bernadine Wright",
+        "address": "bern@regima.zone"
+      }
+    ],
+    "received_datetime": "2020-05-27 10:12:03+00:00"
+  },
+  "mailbox_context": {
+    "user_email": "rynette@regima.zone",
+    "user_name": "Rynette Farrar",
+    "folder_name": "Orders",
+    "folder_id": "AQMkADMxMzkyY2FlLWNkMGEtNGM2My04OWFiLTNlZDRjNzkyNGUyMwAuAAADSLKv-EI8AESN7LMej4ROLgEAIySisE98NkWmcNijjztGYgAAAj1EAAAA"
+  },
+  "body": {
+    "content_type": null,
+    "preview": "Hi ​All\r\n​\r\nThis has been escalated to the courier yesterday and re escalated again this morning\r\nI will assist with feedback as soon as I can\r\n\r\nTicket: https://parcelninja.freshdesk.com/helpdesk/tickets/61089\r\n--\r\nRegards\r\nKim Lawrence\r\n(Support Team)",
+    "body_length_chars": 0
+  },
+  "attachments": []
+}

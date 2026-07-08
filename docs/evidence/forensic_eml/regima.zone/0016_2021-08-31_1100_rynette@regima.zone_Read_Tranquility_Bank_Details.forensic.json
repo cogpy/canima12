@@ -1,0 +1,42 @@
+{
+  "_schema": "exchange-forensic-eml/v1",
+  "_generated": "2026-03-10T03:53:51.677548+00:00",
+  "_source": "neon-exchange-sync",
+  "file_integrity": {
+    "eml_file": "/home/ubuntu/revstream1/docs/evidence/forensic_eml/regima.zone/0016_2021-08-31_1100_rynette@regima.zone_Read_Tranquility_Bank_Details.eml",
+    "file_size_bytes": 740,
+    "md5": "66812c422e30e15a3281956e43655149",
+    "sha1": "95878495179cca380bebbbd8e66680e99ec0b896",
+    "sha256": "3d57d90d9a538068dcfaf77b9fcd249f8688e9b83414909282afece15d6d21fb"
+  },
+  "message_identity": {
+    "exchange_sync_id": "AQMkAGM2Y2E0NWVmLWEzZTktNDc1Mi1iY2I4LTU3OTBlMTJhMTllNQBGAAADPe59AHjuz0_HJe8Q4ALb1wcAtr3q_CoE-0aRl7m1844EjgAAAgEMAAAAtr3q_CoE-0aRl7m1844EjgAGdpS8EAAAAA==",
+    "internet_message_id": "<DB9PR08MB65693739157E565576EC1D86BACC9@DB9PR08MB6569.eurprd08.prod.outlook.com>",
+    "conversation_id": "AAQkAGM2Y2E0NWVmLWEzZTktNDc1Mi1iY2I4LTU3OTBlMTJhMTllNQAQAFJiawMTbUXRgUb-qpJUVDE="
+  },
+  "envelope": {
+    "subject": "Read: Tranquility Bank Details",
+    "from_name": "Rynette Farrar",
+    "from_address": "rynette@regima.zone",
+    "to_recipients": [
+      {
+        "name": "kent@regima.com",
+        "address": "kent@regima.com"
+      }
+    ],
+    "cc_recipients": null,
+    "received_datetime": "2021-08-31 11:00:17+00:00"
+  },
+  "mailbox_context": {
+    "user_email": "jax@regima.zone",
+    "user_name": "Jacqui Faucitt",
+    "folder_name": "Inbox",
+    "folder_id": "AQMkAGM2Y2E0NWVmLWEzZTktNDc1Mi1iY2I4LTU3OTBlMTJhMTllNQAuAAADPe59AHjuz0_HJe8Q4ALb1wEAtr3q_CoE-0aRl7m1844EjgAAAgEMAAAA"
+  },
+  "body": {
+    "content_type": null,
+    "preview": "Your message\r\n\r\n   To:\r\n   Subject: Tranquility Bank Details\r\n   Sent: Tuesday, August 31, 2021 11:00:16 AM (UTC+00:00) Monrovia, Reykjavik\r\n\r\n was read on Tuesday, August 31, 2021 11:00:08 AM (UTC+00:00) Monrovia, Reykjavik.",
+    "body_length_chars": 0
+  },
+  "attachments": []
+}

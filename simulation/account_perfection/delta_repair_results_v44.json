@@ -1,0 +1,715 @@
+{
+  "generated": "2026-07-06T14:18:00.721556",
+  "accounts_repaired": 4,
+  "results": [
+    {
+      "account": "62134839127",
+      "entity": "RST",
+      "name": "RST Savings",
+      "total_rows": 655,
+      "original_mismatches": 34,
+      "remaining_mismatches": 29,
+      "repairs_made": 5,
+      "categories": {
+        "ORDERING": 15,
+        "GENUINE": 14
+      },
+      "new_status": "ACCEPTABLE",
+      "genuine_rate": 2.1374045801526718,
+      "repair_log": [
+        {
+          "iteration": 0,
+          "date": "????-02-25",
+          "action": "Swapped rows 606 and 607",
+          "improvement": 1
+        },
+        {
+          "iteration": 1,
+          "date": "????-03-01",
+          "action": "Swapped rows 608 and 609",
+          "improvement": 1
+        },
+        {
+          "iteration": 2,
+          "date": "????-04-08",
+          "action": "Swapped rows 614 and 615",
+          "improvement": 1
+        },
+        {
+          "iteration": 3,
+          "date": "????-07-28",
+          "action": "Swapped rows 630 and 631",
+          "improvement": 1
+        },
+        {
+          "iteration": 4,
+          "date": "????-08-26",
+          "action": "Swapped rows 638 and 639",
+          "improvement": 1
+        }
+      ],
+      "anomaly_count_by_category": {
+        "ORDERING": 15,
+        "GENUINE": 14
+      },
+      "top_genuine_anomalies": [
+        {
+          "index": 600,
+          "row": 602,
+          "date": "????-01-13",
+          "description": "Internet Trf From Trs To M Market",
+          "amount": 1000000.0,
+          "expected_balance": 2724687.39,
+          "actual_balance": 10017707.55,
+          "delta": 7293020.16,
+          "prev_balance": 1724687.39,
+          "category": "GENUINE"
+        },
+        {
+          "index": 608,
+          "row": 610,
+          "date": "????-03-11",
+          "description": "Internet Trf From Trs To Money Market",
+          "amount": 500000.0,
+          "expected_balance": 9348239.52,
+          "actual_balance": 9347458.52,
+          "delta": -781.0,
+          "prev_balance": 8848239.52,
+          "category": "GENUINE"
+        },
+        {
+          "index": 614,
+          "row": 616,
+          "date": "????-04-17",
+          "description": "Int On Credit Balance",
+          "amount": 15512.49,
+          "expected_balance": 10026902.82,
+          "actual_balance": 10006902.82,
+          "delta": -20000.0,
+          "prev_balance": 10011390.33,
+          "category": "GENUINE"
+        },
+        {
+          "index": 616,
+          "row": 618,
+          "date": "????-04-28",
+          "description": "Internet Trf To Trs To Regima",
+          "amount": 500000.0,
+          "expected_balance": 11006902.82,
+          "actual_balance": 10006902.82,
+          "delta": -1000000.0,
+          "prev_balance": 10506902.82,
+          "category": "GENUINE"
+        },
+        {
+          "index": 619,
+          "row": 621,
+          "date": "????-05-27",
+          "description": "Internet Trf To Trs To Regima Skin",
+          "amount": 100000.0,
+          "expected_balance": 11123024.56,
+          "actual_balance": 10923024.56,
+          "delta": -200000.0,
+          "prev_balance": 11023024.56,
+          "category": "GENUINE"
+        },
+        {
+          "index": 620,
+          "row": 622,
+          "date": "????-05-29",
+          "description": "Internet Trf To Trs To Regima",
+          "amount": 200000.0,
+          "expected_balance": 11123024.56,
+          "actual_balance": 10723024.56,
+          "delta": -400000.0,
+          "prev_balance": 10923024.56,
+          "category": "GENUINE"
+        },
+        {
+          "index": 622,
+          "row": 624,
+          "date": "????-06-29",
+          "description": "Internet Trf To Loan To Strat",
+          "amount": 700000.0,
+          "expected_balance": 11440489.66,
+          "actual_balance": 10040489.66,
+          "delta": -1400000.0,
+          "prev_balance": 10740489.66,
+          "category": "GENUINE"
+        },
+        {
+          "index": 625,
+          "row": 627,
+          "date": "????-07-21",
+          "description": "Internet Trf To Loan For Containers",
+          "amount": 979176.43,
+          "expected_balance": 11936027.68,
+          "actual_balance": 9977674.82,
+          "delta": -1958352.86,
+          "prev_balance": 10956851.25,
+          "category": "GENUINE"
+        },
+        {
+          "index": 627,
+          "row": 629,
+          "date": "????-07-27",
+          "description": "Internet Trf To Reg001",
+          "amount": 248764.55,
+          "expected_balance": 11226439.37,
+          "actual_balance": 10728910.27,
+          "delta": -497529.1,
+          "prev_balance": 10977674.82,
+          "category": "GENUINE"
+        },
+        {
+          "index": 630,
+          "row": 632,
+          "date": "????-07-29",
+          "description": "Internet Trf To Loan To Strategic",
+          "amount": 1000000.0,
+          "expected_balance": 11624145.27,
+          "actual_balance": 9561387.3,
+          "delta": -2062757.97,
+          "prev_balance": 10624145.27,
+          "category": "GENUINE"
+        },
+        {
+          "index": 638,
+          "row": 640,
+          "date": "????-08-30",
+          "description": "Internet Trf To Loan To Strat",
+          "amount": 525000.0,
+          "expected_balance": 11704007.24,
+          "actual_balance": 9954007.24,
+          "delta": -1750000.0,
+          "prev_balance": 11179007.24,
+          "category": "GENUINE"
+        },
+        {
+          "index": 646,
+          "row": 648,
+          "date": "????-10-07",
+          "description": "Internet Trf From Trs To Mmarket",
+          "amount": 500000.0,
+          "expected_balance": 9770686.34,
+          "actual_balance": 9470686.34,
+          "delta": -300000.0,
+          "prev_balance": 9270686.34,
+          "category": "GENUINE"
+        },
+        {
+          "index": 652,
+          "row": 654,
+          "date": "????-11-03",
+          "description": "Internet Trf From Trs To Mmarket",
+          "amount": 1000000.0,
+          "expected_balance": 10985524.55,
+          "actual_balance": 10885524.55,
+          "delta": -100000.0,
+          "prev_balance": 9985524.55,
+          "category": "GENUINE"
+        },
+        {
+          "index": 654,
+          "row": 656,
+          "date": "????-12-30",
+          "description": "Internet Trf From Trs To M Market",
+          "amount": 1000000.0,
+          "expected_balance": 11903402.08,
+          "actual_balance": 9017707.55,
+          "delta": -2885694.53,
+          "prev_balance": 10903402.08,
+          "category": "GENUINE"
+        }
+      ]
+    },
+    {
+      "account": "62089474309",
+      "entity": "DJF",
+      "name": "DJF Savings",
+      "total_rows": 2653,
+      "original_mismatches": 276,
+      "remaining_mismatches": 271,
+      "repairs_made": 5,
+      "categories": {
+        "ORDERING": 260,
+        "GENUINE": 11
+      },
+      "new_status": "GOOD",
+      "genuine_rate": 0.4146249528835281,
+      "repair_log": [
+        {
+          "iteration": 0,
+          "date": "2020-10-01",
+          "action": "Swapped rows 4 and 5",
+          "improvement": 1
+        },
+        {
+          "iteration": 1,
+          "date": "2020-10-01",
+          "action": "Swapped rows 6 and 7",
+          "improvement": 1
+        },
+        {
+          "iteration": 2,
+          "date": "2020-10-13",
+          "action": "Swapped rows 10 and 11",
+          "improvement": 1
+        },
+        {
+          "iteration": 3,
+          "date": "2020-10-31",
+          "action": "Swapped rows 21 and 22",
+          "improvement": 1
+        },
+        {
+          "iteration": 4,
+          "date": "2020-11-02",
+          "action": "Swapped rows 24 and 25",
+          "improvement": 1
+        }
+      ],
+      "anomaly_count_by_category": {
+        "ORDERING": 260,
+        "GENUINE": 11
+      },
+      "top_genuine_anomalies": [
+        {
+          "index": 7,
+          "row": 9,
+          "date": "2020-10-07",
+          "description": "FNB OB Pmt Salary Adjustment",
+          "amount": 1377.92,
+          "expected_balance": 528307.77,
+          "actual_balance": 504502.45,
+          "delta": -23805.32,
+          "prev_balance": 526929.85,
+          "category": "GENUINE"
+        },
+        {
+          "index": 15,
+          "row": 17,
+          "date": "2020-10-22",
+          "description": "Internet Trf To Trs",
+          "amount": 9000.0,
+          "expected_balance": 489598.4,
+          "actual_balance": 431598.4,
+          "delta": -58000.0,
+          "prev_balance": 480598.4,
+          "category": "GENUINE"
+        },
+        {
+          "index": 27,
+          "row": 29,
+          "date": "2020-11-07",
+          "description": "FNB OB Pmt Salary Adjustment",
+          "amount": 1377.92,
+          "expected_balance": 497025.19,
+          "actual_balance": 490218.41,
+          "delta": -6806.78,
+          "prev_balance": 495647.27,
+          "category": "GENUINE"
+        },
+        {
+          "index": 30,
+          "row": 32,
+          "date": "2020-11-16",
+          "description": "Magtape Debit Stanlib Debit - Ip0129441",
+          "amount": 20000.0,
+          "expected_balance": 510218.41,
+          "actual_balance": 450218.41,
+          "delta": -60000.0,
+          "prev_balance": 490218.41,
+          "category": "GENUINE"
+        },
+        {
+          "index": 36,
+          "row": 38,
+          "date": "2020-11-27",
+          "description": "Internet Trf To Trs",
+          "amount": 1000.0,
+          "expected_balance": 431952.16,
+          "actual_balance": 429720.26,
+          "delta": -2231.9,
+          "prev_balance": 430952.16,
+          "category": "GENUINE"
+        },
+        {
+          "index": 45,
+          "row": 47,
+          "date": "2020-12-02",
+          "description": "FNB App Transfer To Trs",
+          "amount": 2500.0,
+          "expected_balance": 492691.58,
+          "actual_balance": 483886.26,
+          "delta": -8805.32,
+          "prev_balance": 490191.58,
+          "category": "GENUINE"
+        },
+        {
+          "index": 48,
+          "row": 50,
+          "date": "2020-12-09",
+          "description": "FNB App Transfer To Trs",
+          "amount": 2000.0,
+          "expected_balance": 485886.26,
+          "actual_balance": 461886.26,
+          "delta": -24000.0,
+          "prev_balance": 483886.26,
+          "category": "GENUINE"
+        },
+        {
+          "index": 53,
+          "row": 55,
+          "date": "2020-12-15",
+          "description": "Magtape Debit Stanlib Debit - Ip0129441",
+          "amount": 20000.0,
+          "expected_balance": 477431.72,
+          "actual_balance": 417431.72,
+          "delta": -60000.0,
+          "prev_balance": 457431.72,
+          "category": "GENUINE"
+        },
+        {
+          "index": 54,
+          "row": 56,
+          "date": "2020-12-18",
+          "description": "Internet Trf To Trs",
+          "amount": 6000.0,
+          "expected_balance": 423431.72,
+          "actual_balance": 411431.72,
+          "delta": -12000.0,
+          "prev_balance": 417431.72,
+          "category": "GENUINE"
+        },
+        {
+          "index": 851,
+          "row": 853,
+          "date": "2021-04-09",
+          "description": "FNB App Transfer To Trs",
+          "amount": -2000.0,
+          "expected_balance": 295014.86,
+          "actual_balance": 290421.87,
+          "delta": -4592.99,
+          "prev_balance": 297014.86,
+          "category": "GENUINE"
+        },
+        {
+          "index": 1741,
+          "row": 1743,
+          "date": "2021-08-27",
+          "description": "FNB App Transfer To Trs",
+          "amount": -2500.0,
+          "expected_balance": 566971.47,
+          "actual_balance": 566582.62,
+          "delta": -388.85,
+          "prev_balance": 569471.47,
+          "category": "GENUINE"
+        }
+      ]
+    },
+    {
+      "account": "62471764946",
+      "entity": "DJF",
+      "name": "DJF CFC",
+      "total_rows": 1588,
+      "original_mismatches": 88,
+      "remaining_mismatches": 88,
+      "repairs_made": 0,
+      "categories": {
+        "ORDERING": 83,
+        "GENUINE": 5
+      },
+      "new_status": "GOOD",
+      "genuine_rate": 0.3148614609571789,
+      "repair_log": [],
+      "anomaly_count_by_category": {
+        "ORDERING": 83,
+        "GENUINE": 5
+      },
+      "top_genuine_anomalies": [
+        {
+          "index": 12,
+          "row": 14,
+          "date": "04 Jul",
+          "description": "POS Purchase Mr D Food 410586*2321 02 Jul",
+          "amount": -459.34,
+          "expected_balance": 26440.22,
+          "actual_balance": 24939.31,
+          "delta": -1500.91,
+          "prev_balance": 26899.56,
+          "category": "GENUINE"
+        },
+        {
+          "index": 13,
+          "row": 15,
+          "date": "04 Jun",
+          "description": "POS Purchase Character.Ai 431835*9311 04 Jun",
+          "amount": -182.84,
+          "expected_balance": 24756.47,
+          "actual_balance": 48813.27,
+          "delta": 24056.8,
+          "prev_balance": 24939.31,
+          "category": "GENUINE"
+        },
+        {
+          "index": 22,
+          "row": 24,
+          "date": "07 Jun",
+          "description": "POS Purchase Tempolabs.Ai 431835*9311 07 Jun",
+          "amount": -1816.93,
+          "expected_balance": 44512.5,
+          "actual_balance": 37247.24,
+          "delta": -7265.26,
+          "prev_balance": 46329.43,
+          "category": "GENUINE"
+        },
+        {
+          "index": 49,
+          "row": 51,
+          "date": "14 Jun",
+          "description": "POS Purchase Railway 431835*9311 13 Jun",
+          "amount": -91.42,
+          "expected_balance": 6691.89,
+          "actual_balance": 123.97,
+          "delta": -6567.92,
+          "prev_balance": 6783.31,
+          "category": "GENUINE"
+        },
+        {
+          "index": 1583,
+          "row": 1585,
+          "date": "28 Jun",
+          "description": "POS Purchase Huggingface 431835*9311 28 Jun",
+          "amount": -169.2,
+          "expected_balance": 54025.09,
+          "actual_balance": 50456.96,
+          "delta": -3568.13,
+          "prev_balance": 54194.29,
+          "category": "GENUINE"
+        }
+      ]
+    },
+    {
+      "account": "62812835744",
+      "entity": "VVA",
+      "name": "VVA Savings",
+      "total_rows": 327,
+      "original_mismatches": 36,
+      "remaining_mismatches": 35,
+      "repairs_made": 1,
+      "categories": {
+        "GENUINE": 16,
+        "ORDERING": 19
+      },
+      "new_status": "ACCEPTABLE",
+      "genuine_rate": 4.892966360856269,
+      "repair_log": [
+        {
+          "iteration": 0,
+          "date": "2021-11-27",
+          "action": "Swapped rows 142 and 141",
+          "improvement": 1
+        }
+      ],
+      "anomaly_count_by_category": {
+        "GENUINE": 16,
+        "ORDERING": 19
+      },
+      "top_genuine_anomalies": [
+        {
+          "index": 2,
+          "row": 4,
+          "date": "08 Apr",
+          "description": "Internet Trf To Tra To Reg Skin",
+          "amount": -100000.0,
+          "expected_balance": 12879787.62,
+          "actual_balance": 13746390.59,
+          "delta": 866602.97,
+          "prev_balance": 12979787.62,
+          "category": "GENUINE"
+        },
+        {
+          "index": 3,
+          "row": 5,
+          "date": "15 Jun",
+          "description": "Internet Trf To Loan Strat Jars",
+          "amount": -1441036.25,
+          "expected_balance": 12305354.34,
+          "actual_balance": 10988260.08,
+          "delta": -1317094.26,
+          "prev_balance": 13746390.59,
+          "category": "GENUINE"
+        },
+        {
+          "index": 4,
+          "row": 6,
+          "date": "18 May",
+          "description": "Internet Trf To Trs From M On Call",
+          "amount": -20000.0,
+          "expected_balance": 10968260.08,
+          "actual_balance": 12959787.62,
+          "delta": 1991527.54,
+          "prev_balance": 10988260.08,
+          "category": "GENUINE"
+        },
+        {
+          "index": 280,
+          "row": 282,
+          "date": "21 Apr",
+          "description": "Internet Trf To For Materia Medica",
+          "amount": -227642.5,
+          "expected_balance": 523287.81,
+          "actual_balance": 13518748.09,
+          "delta": 12995460.28,
+          "prev_balance": 750930.31,
+          "category": "GENUINE"
+        },
+        {
+          "index": 285,
+          "row": 287,
+          "date": "25 Apr",
+          "description": "Internet Trf To Trs To Regima Skin",
+          "amount": -500000.0,
+          "expected_balance": 12488260.08,
+          "actual_balance": 13018748.09,
+          "delta": 530488.01,
+          "prev_balance": 12988260.08,
+          "category": "GENUINE"
+        },
+        {
+          "index": 286,
+          "row": 288,
+          "date": "26 May",
+          "description": "Cr.Int.Rate 6,65000",
+          "amount": 0.0,
+          "expected_balance": 13018748.09,
+          "actual_balance": 13959787.62,
+          "delta": 941039.53,
+          "prev_balance": 13018748.09,
+          "category": "GENUINE"
+        },
+        {
+          "index": 288,
+          "row": 290,
+          "date": "28 Apr",
+          "description": "Int On Credit Balance",
+          "amount": 71039.53,
+          "expected_balance": 14095717.86,
+          "actual_balance": 13089787.62,
+          "delta": -1005930.24,
+          "prev_balance": 14024678.33,
+          "category": "GENUINE"
+        },
+        {
+          "index": 289,
+          "row": 291,
+          "date": "28 Jun",
+          "description": "Int On Credit Balance",
+          "amount": 71556.5,
+          "expected_balance": 13161344.12,
+          "actual_balance": 13059816.58,
+          "delta": -101527.54,
+          "prev_balance": 13089787.62,
+          "category": "GENUINE"
+        },
+        {
+          "index": 294,
+          "row": 296,
+          "date": "????-01-28",
+          "description": "Int On Credit Balance",
+          "amount": 13137.91,
+          "expected_balance": 13537816.24,
+          "actual_balance": 8154625.06,
+          "delta": -5383191.18,
+          "prev_balance": 13524678.33,
+          "category": "GENUINE"
+        },
+        {
+          "index": 302,
+          "row": 304,
+          "date": "????-04-07",
+          "description": "Internet Trf To Trs To Money Mkt",
+          "amount": 500000.0,
+          "expected_balance": 10780596.98,
+          "actual_balance": 9280596.98,
+          "delta": -1500000.0,
+          "prev_balance": 10280596.98,
+          "category": "GENUINE"
+        },
+        {
+          "index": 304,
+          "row": 306,
+          "date": "????-04-29",
+          "description": "Internet Trf To Trs For Prov Tax",
+          "amount": 800000.0,
+          "expected_balance": 10095941.64,
+          "actual_balance": 8495941.64,
+          "delta": -1600000.0,
+          "prev_balance": 9295941.64,
+          "category": "GENUINE"
+        },
+        {
+          "index": 307,
+          "row": 309,
+          "date": "????-05-29",
+          "description": "Internet Trf To Trs To Vv",
+          "amount": 700000.0,
+          "expected_balance": 9609542.43,
+          "actual_balance": 8209542.43,
+          "delta": -1400000.0,
+          "prev_balance": 8909542.43,
+          "category": "GENUINE"
+        },
+        {
+          "index": 311,
+          "row": 313,
+          "date": "????-07-29",
+          "description": "Internet Trf To Trs To Vv",
+          "amount": 50000.0,
+          "expected_balance": 8685693.69,
+          "actual_balance": 8585693.69,
+          "delta": -100000.0,
+          "prev_balance": 8635693.69,
+          "category": "GENUINE"
+        },
+        {
+          "index": 317,
+          "row": 319,
+          "date": "????-10-01",
+          "description": "Internet Trf From Trs To Money On Call",
+          "amount": 300000.0,
+          "expected_balance": 9965250.75,
+          "actual_balance": 7509656.22,
+          "delta": -2455594.53,
+          "prev_balance": 9665250.75,
+          "category": "GENUINE"
+        },
+        {
+          "index": 321,
+          "row": 323,
+          "date": "????-11-16",
+          "description": "Internet Trf To Trs To Vv",
+          "amount": 50000.0,
+          "expected_balance": 7946351.09,
+          "actual_balance": 7846351.09,
+          "delta": -100000.0,
+          "prev_balance": 7896351.09,
+          "category": "GENUINE"
+        },
+        {
+          "index": 322,
+          "row": 324,
+          "date": "????-11-23",
+          "description": "Internet Trf To Trs To Vv",
+          "amount": 60000.0,
+          "expected_balance": 7906351.09,
+          "actual_balance": 7786351.09,
+          "delta": -120000.0,
+          "prev_balance": 7846351.09,
+          "category": "GENUINE"
+        }
+      ]
+    }
+  ]
+}

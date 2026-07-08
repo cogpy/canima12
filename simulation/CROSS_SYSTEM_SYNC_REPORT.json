@@ -1,0 +1,220 @@
+{
+  "version": "v41_CROSS_SYSTEM_SYNC",
+  "timestamp": "2026-07-06T12:37:14.835956",
+  "composition": "/ksm-fincosys + /ksm-tenorc-sync + /orgshap + /erp-ksm-frappe + /slg-erpnext-bom + /fin-audit-za-v2",
+  "revstream1_state": {
+    "entities": 95,
+    "relations": 44,
+    "events": 166,
+    "timeline": 211
+  },
+  "fincosys_cross_check": {
+    "total_transactions": 76098,
+    "total_value_zar": 2249860764.8600793,
+    "evidence_matched": 2,
+    "evidence_total": 5,
+    "matched_details": [
+      {
+        "description": "R9,800,000 RST→Ketoni (2023-04-24)",
+        "fincosys_match": {
+          "date": "2023-04-24",
+          "amount": 9800000.0,
+          "source": "Regima Skin Treatments CC [9127]",
+          "target": "Ketoni Investment Ho",
+          "ref": "Internet Pmt To Ketoni Investment Ho                        "
+        },
+        "confidence": 1.0
+      },
+      {
+        "description": "R5,000,000 Peter extraction (2025-03-27)",
+        "fincosys_match": {
+          "date": "2025-03-27",
+          "amount": 5000000.0,
+          "source": "Tel-Banking Trf From Trf From",
+          "target": "Peter A Faucitt [8789]",
+          "ref": "Tel-Banking Trf From Trf From 63077691682"
+        },
+        "confidence": 1.0
+      }
+    ],
+    "unmatched": [
+      "R1,730,000 unauthorized transfer",
+      "R478,958 RST→Elliott (conflict)",
+      "R5,400,000 Addarory stock diversion"
+    ],
+    "entity_volumes": {
+      "Regima Skin Treatments CC": "R994,803,593.31",
+      "Strategic Logistics CC": "R350,567,119.69",
+      "Villa Via Arcadia No 2 CC": "R271,088,991.71",
+      "Regima Worldwide Distribution (Pty) Ltd": "R267,712,595.99",
+      "Regima SA (Pty) Ltd": "R253,829,855.07",
+      "Peter A Faucitt": "R41,878,914.31",
+      "Jacqui Faucitt": "R37,818,628.54",
+      "Daniel J Faucitt": "R30,221,597.05",
+      "Rezonance (Pty) Ltd": "R1,218,496.53",
+      "Aymac International": "R352,855.57",
+      "Unknown Entity": "R263,114.00",
+      "CORPCLO 2065": "R69,869.10",
+      "Regima Zone Academy (Pty) Ltd": "R32,080.95",
+      "Regima Zone Impact (Pty) Ltd": "R2,350.04",
+      "Portfolio Overview": "R703.00"
+    }
+  },
+  "comcosys_cross_check": {
+    "exchange_mailboxes": 22,
+    "eml_files_sampled": 1117,
+    "key_actor_coverage": {
+      "peter": {
+        "expected": [
+          "peterfaucitt@regima.zone",
+          "pete@regima.zone"
+        ],
+        "found_dirs": [],
+        "coverage": false
+      },
+      "rynette": {
+        "expected": [
+          "rynette@regima.zone",
+          "rynettefarrar@regima.zone"
+        ],
+        "found_dirs": [],
+        "coverage": false
+      },
+      "daniel": {
+        "expected": [
+          "danielfaucitt@regima.zone",
+          "dan@regima.zone",
+          "d@rzo.io"
+        ],
+        "found_dirs": [
+          "dan@regima.zone",
+          "d@rzo.io"
+        ],
+        "coverage": true
+      },
+      "jax": {
+        "expected": [
+          "jax@regima.zone",
+          "jacqui@regima.zone"
+        ],
+        "found_dirs": [],
+        "coverage": false
+      },
+      "bantjies": {
+        "expected": [
+          "danie@regima.zone",
+          "bantjies@regima.zone"
+        ],
+        "found_dirs": [],
+        "coverage": false
+      }
+    }
+  },
+  "discosys_cross_check": {
+    "sync_dirs": [
+      ".gitkeep",
+      "_meta",
+      "topology"
+    ],
+    "shopify_files": 29,
+    "has_cross_reference": true,
+    "has_gap_analysis": true
+  },
+  "entity_slg_cross_check": {
+    "statements": 1,
+    "xero_files": 3,
+    "qbo_files": 4,
+    "evidence_files": 4,
+    "integrations": [
+      "checksums",
+      "manifests",
+      "sync-logs"
+    ]
+  },
+  "enrichment_opportunities": [
+    {
+      "priority": 1,
+      "system": "fincosys",
+      "action": "Extract R478,958 Elliott payments from RST ABSA statements",
+      "evidence_link": "REL_040",
+      "current_state": "Amount documented but not individually traced in fund_flow"
+    },
+    {
+      "priority": 2,
+      "system": "comcosys",
+      "action": "Search Exchange archives for Bantjies→Rynette SARS audit email",
+      "evidence_link": "REL_037",
+      "current_state": "Email referenced in case but not linked to comcosys archive"
+    },
+    {
+      "priority": 3,
+      "system": "discosys",
+      "action": "Map Shopify order volumes RST vs Addarory to quantify diversion",
+      "evidence_link": "REL_041",
+      "current_state": "Revenue diversion documented but not cross-referenced with Shopify data"
+    },
+    {
+      "priority": 4,
+      "system": "entity-slg",
+      "action": "Extract R5.4M stock adjustment from SLG Xero/QBO records",
+      "evidence_link": "REL_044",
+      "current_state": "Mazars audit anomaly documented but not traced to source records"
+    },
+    {
+      "priority": 5,
+      "system": "fincosys",
+      "action": "Trace R1.73M unauthorized transfer through fund flow edges",
+      "evidence_link": "EVENT_H027",
+      "current_state": "Transfer documented but not mapped to specific fund flow path"
+    },
+    {
+      "priority": 6,
+      "system": "comcosys",
+      "action": "Extract Peter→Jax interdict timing emails (Aug 2025)",
+      "evidence_link": "REL_042",
+      "current_state": "Whistleblower retaliation documented but email chain not extracted"
+    },
+    {
+      "priority": 7,
+      "system": "entity-slg/erpnext",
+      "action": "Map SLG BOM data to Addarory parallel supply chain",
+      "evidence_link": "REL_041",
+      "current_state": "Manufacturing data exists but not cross-referenced with diversion"
+    },
+    {
+      "priority": 8,
+      "system": "discosys",
+      "action": "Compare RST Shopify revenue pre/post Addarory incorporation",
+      "evidence_link": "EVENT_H013",
+      "current_state": "Revenue decline documented but not quantified from Shopify data"
+    }
+  ],
+  "data_coverage_matrix": {
+    "fincosys": {
+      "transactions": 76098,
+      "entities_covered": 15,
+      "date_range": "2019-2025",
+      "relevance_to_case": "HIGH - contains all bank transaction evidence"
+    },
+    "comcosys": {
+      "mailboxes": 22,
+      "emails_estimated": "100,000+",
+      "date_range": "2020-2026",
+      "relevance_to_case": "HIGH - contains smoking gun emails"
+    },
+    "discosys": {
+      "stores": "39 (per orgshp topology)",
+      "data_type": "Shopify orders, products, customers",
+      "relevance_to_case": "MEDIUM - quantifies revenue diversion"
+    },
+    "entity_slg": {
+      "data_types": "banking, accounting, evidence, integrations",
+      "relevance_to_case": "HIGH - R5.4M stock adjustment source"
+    },
+    "erpnext_slogic": {
+      "url": "https://slogic.frappe.cloud",
+      "data_types": "BOM, manufacturing, stock entries",
+      "relevance_to_case": "MEDIUM - manufacturing evidence for stock diversion"
+    }
+  }
+}

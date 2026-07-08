@@ -1,0 +1,59 @@
+{
+  "_schema": "exchange-forensic-eml/v1",
+  "_generated": "2026-03-10T03:53:03.502144+00:00",
+  "_source": "neon-exchange-sync",
+  "file_integrity": {
+    "eml_file": "/home/ubuntu/revstream1/docs/evidence/forensic_eml/regima.com/0061_2020-05-22_1425_orders@regima.com_Order_for_Tellanic_WWD0276_Proof_of_Payment.eml",
+    "file_size_bytes": 913,
+    "md5": "6124ecb30323b20ccefb9ef7f3dfa608",
+    "sha1": "c18f40bfd3b940444fdd179e4f3cb3f1ffa7a6c6",
+    "sha256": "d480cfd07e27a429e9d1f047740d88ca90f60dac528ebf21061b5c4370c67431"
+  },
+  "message_identity": {
+    "exchange_sync_id": "AQMkADMxMzkyY2FlLWNkMGEtNGM2My04OWFiLTNlZDRjNzkyNGUyMwBGAAADSLKv-EI8AESN7LMej4ROLgcAIySisE98NkWmcNijjztGYgAAAj1DAAAAIySisE98NkWmcNijjztGYgAAAk1iAAAA",
+    "internet_message_id": "<007f01d63013$97345730$c59d0590$@regima.com>",
+    "conversation_id": "AAQkADMxMzkyY2FlLWNkMGEtNGM2My04OWFiLTNlZDRjNzkyNGUyMwAQAL0QoEOIkUXztmy1Jh41qcM="
+  },
+  "envelope": {
+    "subject": "Order for Tellanic WWD0276 Proof of Payment",
+    "from_name": "orders@regima.com",
+    "from_address": "orders@regima.com",
+    "to_recipients": [
+      {
+        "name": "nicolene.jansenvanvuuren@gmail.com",
+        "address": "nicolene.jansenvanvuuren@gmail.com"
+      }
+    ],
+    "cc_recipients": [
+      {
+        "name": "'Peter Andrew Faucitt'",
+        "address": "pete@regima.com"
+      },
+      {
+        "name": "Jacqui Faucitt",
+        "address": "jax@regima.zone"
+      },
+      {
+        "name": "Bernadine Wright",
+        "address": "bern@regima.zone"
+      },
+      {
+        "name": "Rynette Farrar",
+        "address": "rynette@regima.zone"
+      }
+    ],
+    "received_datetime": "2020-05-22 14:25:50+00:00"
+  },
+  "mailbox_context": {
+    "user_email": "rynette@regima.zone",
+    "user_name": "Rynette Farrar",
+    "folder_name": "Office",
+    "folder_id": "AQMkADMxMzkyY2FlLWNkMGEtNGM2My04OWFiLTNlZDRjNzkyNGUyMwAuAAADSLKv-EI8AESN7LMej4ROLgEAIySisE98NkWmcNijjztGYgAAAj1DAAAA"
+  },
+  "body": {
+    "content_type": null,
+    "preview": "Good Day Nicolene\r\n\r\nThank you, proof of payment received.\r\n\r\nYour order is being processed\r\n\r\nKind Regards\r\nKent\r\n\r\nFrom: orders@regima.com <orders@regima.com>\r\nSent: 22 May 2020 09:43 AM\r\nTo: > <nicolene.jansenvanvuuren@gmail.com>\r\nCc: 'Peter Andrew Fau",
+    "body_length_chars": 0
+  },
+  "attachments": []
+}

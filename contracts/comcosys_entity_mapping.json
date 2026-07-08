@@ -1,0 +1,49 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Comcosys-Revstream1 Entity Mapping",
+  "description": "Maps between comcosys forensic email archive entities and revstream1 case entities. Enables cross-referencing email communications with case events and evidence.",
+  "version": "1.0.0",
+  "mappings": {
+    "email_to_entity": {
+      "jax@regima.zone": {"entity_id": "PERSON_004", "label": "Jacqueline Faucitt", "platform": "exchange"},
+      "jax@regima.com": {"entity_id": "PERSON_004", "label": "Jacqueline Faucitt", "platform": "gmail"},
+      "dan@regima.zone": {"entity_id": "PERSON_005", "label": "Daniel Faucitt", "platform": "exchange"},
+      "dan@regima.com": {"entity_id": "PERSON_005", "label": "Daniel Faucitt", "platform": "gmail"},
+      "pete@regima.com": {"entity_id": "PERSON_001", "label": "Peter Andrew Faucitt", "platform": "gmail"},
+      "rynette@regima.zone": {"entity_id": "PERSON_002", "label": "Rynette Farrar", "platform": "exchange"},
+      "danie.bantjes@gmail.com": {"entity_id": "PERSON_007", "label": "Daniel Jacobus Bantjies", "platform": "gmail"},
+      "kay@regima.com": {"entity_id": "PERSON_008", "label": "Kayla Pretorius", "platform": "gmail"},
+      "kent@regima.zone": {"entity_id": "PERSON_037", "label": "Kent", "platform": "exchange"},
+      "trev@regima.com": {"entity_id": "STAFF_TREV", "label": "Trevor (staff)", "platform": "gmail"},
+      "emma@regima.com": {"entity_id": "STAFF_EMMA", "label": "Emma (staff)", "platform": "gmail"},
+      "vickyb@regima.zone": {"entity_id": "STAFF_VICKY", "label": "Vicky (staff)", "platform": "exchange"},
+      "karenm@regima.zone": {"entity_id": "STAFF_KAREN", "label": "Karen (staff)", "platform": "exchange"}
+    },
+    "service_email_to_entity": {
+      "info@regima.com": {"entity_id": "ORG_001", "label": "RegimA Worldwide Distribution", "type": "service"},
+      "info@regimaskincare.com": {"entity_id": "ORG_002", "label": "RegimA Skin Treatments", "type": "service"},
+      "org@regima.zone": {"entity_id": "ORG_003", "label": "RegimA Zone Ltd", "type": "service"},
+      "uk@regima.zone": {"entity_id": "ORG_003", "label": "RegimA Zone Ltd (UK)", "type": "service"},
+      "fin@regima.zone": {"entity_id": "ORG_001", "label": "RegimA Finance", "type": "service"},
+      "mailer@shopify.com": {"entity_id": "PLATFORM_001", "label": "Shopify", "type": "platform"},
+      "incontact@fnb.co.za": {"entity_id": "BANK_FNB", "label": "First National Bank", "type": "banking"}
+    },
+    "forensic_keyword_categories": {
+      "financial_fraud": ["fabricat", "fraud", "theft", "unauthorized", "forged"],
+      "tax_compliance": ["sars", "vat", "tax", "audit", "provisional"],
+      "banking": ["fnb", "bank", "account", "statement", "debit order", "credit"],
+      "accounting": ["sage", "xero", "balance", "trial balance", "journal", "financial"],
+      "revenue": ["shopify", "revenue", "sales", "invoice", "payment"],
+      "trust_related": ["trust", "trustee", "beneficiary", "estate"],
+      "payroll": ["payroll", "salary", "salaries"]
+    }
+  },
+  "evidence_classification": {
+    "tier_a_entities": ["PERSON_001", "PERSON_002", "PERSON_007"],
+    "tier_b_entities": [],
+    "victim_entities": ["PERSON_004", "PERSON_005"],
+    "communication_between_tier_a": "conspiracy_indicator",
+    "communication_tier_a_to_victim": "foreknowledge_indicator",
+    "temporal_correlation_window_days": 7
+  }
+}

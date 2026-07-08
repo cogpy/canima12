@@ -1,0 +1,79 @@
+{
+  "_schema": "exchange-forensic-eml/v1",
+  "_generated": "2026-03-10T03:53:51.180304+00:00",
+  "_source": "neon-exchange-sync",
+  "file_integrity": {
+    "eml_file": "/home/ubuntu/revstream1/docs/evidence/forensic_eml/primeproduct.co.za/0006_2020-07-31_0840_Nanet@primeproduct.co.za_RE_Confirmation_of_Bank_Details.eml",
+    "file_size_bytes": 1091,
+    "md5": "9912a3157fbebab41cbd2c4ff357c601",
+    "sha1": "ca5d256bae89d050a80a646324ead6b0e658bbf8",
+    "sha256": "34502d6cb8cee118a5d7385ac6fbd32f5524e871392ed64fff4009f88b7c9da2"
+  },
+  "message_identity": {
+    "exchange_sync_id": "AQMkADMxMzkyY2FlLWNkMGEtNGM2My04OWFiLTNlZDRjNzkyNGUyMwBGAAADSLKv-EI8AESN7LMej4ROLgcAIySisE98NkWmcNijjztGYgAAAj1MAAAAIySisE98NkWmcNijjztGYgAAAmPvAAAA",
+    "internet_message_id": "<HE1P18901MB00122CFA35AF5730102E9048954E0@HE1P18901MB0012.EURP189.PROD.OUTLOOK.COM>",
+    "conversation_id": "AAQkADMxMzkyY2FlLWNkMGEtNGM2My04OWFiLTNlZDRjNzkyNGUyMwAQAFM4U7e1xEsyuEB6yJpZMZA="
+  },
+  "envelope": {
+    "subject": "RE: Confirmation of Bank Details",
+    "from_name": "Nanet Toughey",
+    "from_address": "Nanet@primeproduct.co.za",
+    "to_recipients": [
+      {
+        "name": "Bernadine Wright",
+        "address": "bern@regima.zone"
+      },
+      {
+        "name": "PPMDebtors",
+        "address": "Debtors@primeproduct.co.za"
+      }
+    ],
+    "cc_recipients": [
+      {
+        "name": "Jacqui Faucitt",
+        "address": "jax@regima.zone"
+      },
+      {
+        "name": "'pete@regima.com'",
+        "address": "pete@regima.com"
+      },
+      {
+        "name": "Mike Rigby",
+        "address": "mike@primeproduct.co.za"
+      },
+      {
+        "name": "Sonja Steyn",
+        "address": "Sonja@primeproduct.co.za"
+      },
+      {
+        "name": "Rynette Farrar",
+        "address": "rynette@regima.zone"
+      },
+      {
+        "name": "Jacqui Faucitt",
+        "address": "jax@regima.zone"
+      },
+      {
+        "name": "jax@regima.com",
+        "address": "jax@regima.com"
+      },
+      {
+        "name": "pete@regima.com",
+        "address": "pete@regima.com"
+      }
+    ],
+    "received_datetime": "2020-07-31 08:40:18+00:00"
+  },
+  "mailbox_context": {
+    "user_email": "rynette@regima.zone",
+    "user_name": "Rynette Farrar",
+    "folder_name": "Accounts",
+    "folder_id": "AQMkADMxMzkyY2FlLWNkMGEtNGM2My04OWFiLTNlZDRjNzkyNGUyMwAuAAADSLKv-EI8AESN7LMej4ROLgEAIySisE98NkWmcNijjztGYgAAAj1MAAAA"
+  },
+  "body": {
+    "content_type": null,
+    "preview": "Hi Bernadine\r\n\r\nPlease see attached as discussed.\r\n\r\nIzandrie also send the invoice.\r\n\r\nThanks\r\n\r\nKind regards\r\n\r\nNanet Toughey\r\nFinancial Manager\r\nProfessional Accountant (SA)\r\nMember number 29040\r\n\r\n\r\n\r\n(t)\r\n(c)\r\n(f)\r\nEmail\r\nWeb\r\n\r\n\r\n+27 12 305 6294\r\n+2",
+    "body_length_chars": 0
+  },
+  "attachments": []
+}

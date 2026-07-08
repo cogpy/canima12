@@ -1,0 +1,88 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Fincosys-Revstream1 Entity Type Mapping",
+  "description": "Maps between revstream1 legal-case entity types and fincosys financial entity types. Both vocabularies are preserved; this mapping enables cross-referencing without schema merging.",
+  "version": "1.0.0",
+  "mappings": {
+    "revstream1_to_fincosys": {
+      "PERSON_*": {
+        "fincosys_type": "NATURAL_PERSON",
+        "notes": "All PERSON_ entities map to fincosys NATURAL_PERSON"
+      },
+      "ORG_*": {
+        "fincosys_type": "ORGANIZATION",
+        "notes": "General organizations. May also map to JURISTIC_PERSON depending on legal registration"
+      },
+      "BANK_*": {
+        "fincosys_type": "FINANCIAL_INSTITUTION",
+        "notes": "Banks and financial service providers"
+      },
+      "ACCOUNT_*": {
+        "fincosys_type": "ACCOUNT",
+        "notes": "Bank accounts and financial accounts"
+      },
+      "TRUST_*": {
+        "fincosys_type": "JURISTIC_PERSON",
+        "notes": "Trusts are juristic persons in SA law"
+      },
+      "REGULATORY_*": {
+        "fincosys_type": "REGULATORY_BODY",
+        "notes": "SARS, CIPC, Information Regulator, etc."
+      }
+    },
+    "fincosys_to_revstream1": {
+      "NATURAL_PERSON": {
+        "revstream1_pattern": "PERSON_*",
+        "notes": "Individuals involved in the case"
+      },
+      "ORGANIZATION": {
+        "revstream1_pattern": "ORG_*",
+        "notes": "Companies, businesses"
+      },
+      "FINANCIAL_INSTITUTION": {
+        "revstream1_pattern": "BANK_*",
+        "notes": "Banks (FNB, Nedbank, etc.)"
+      },
+      "ACCOUNT": {
+        "revstream1_pattern": "ACCOUNT_*",
+        "notes": "Financial accounts"
+      },
+      "JURISTIC_PERSON": {
+        "revstream1_pattern": "ORG_*|TRUST_*",
+        "notes": "Could be either organization or trust"
+      },
+      "REGULATORY_BODY": {
+        "revstream1_pattern": "REGULATORY_*",
+        "notes": "Tax authorities, regulators"
+      },
+      "TRANSACTION": {
+        "revstream1_pattern": null,
+        "notes": "Transactions map to revstream1 events, not entities"
+      },
+      "STATEMENT": {
+        "revstream1_pattern": null,
+        "notes": "Statements map to evidence references, not entities"
+      }
+    }
+  },
+  "relation_type_mapping": {
+    "revstream1_to_fincosys": {
+      "owns": "OWNS",
+      "controls": "OPERATES",
+      "director_of": "DIRECTOR_OF",
+      "trustee_of": "MEMBER_OF",
+      "shareholder_of": "SHAREHOLDER_OF",
+      "bank_account": "HOLDS"
+    },
+    "fincosys_to_revstream1": {
+      "OWNS": "owns",
+      "OPERATES": "controls",
+      "TRANSACTS_WITH": "financial_transaction",
+      "CREDITS": "fund_flow",
+      "DEBITS": "fund_flow",
+      "DIRECTOR_OF": "director_of",
+      "SHAREHOLDER_OF": "shareholder_of",
+      "HOLDS": "bank_account"
+    }
+  }
+}

@@ -1,0 +1,338 @@
+{
+  "_schema": "gws-forensic-audit/v1",
+  "_generated": "2026-03-10T08:01:09.287064+00:00",
+  "_source": "gmail-api",
+  "message_identity": {
+    "gmail_id": "18ae75b975a4fb57",
+    "thread_id": "18ae75b975a4fb57",
+    "internet_message_id": "<CAJYqut3btVsKx6pb8-mgY6-JEz+nZbBzW7Y=w08koR_3ZJjv8w@mail.gmail.com>",
+    "label_ids": [
+      "UNREAD",
+      "CATEGORY_FORUMS",
+      "INBOX"
+    ],
+    "history_id": "23025592"
+  },
+  "envelope": {
+    "subject": "Orders",
+    "from": "mignonelliott7@gmail.com",
+    "to": [
+      "info@regima.com"
+    ],
+    "cc": [],
+    "bcc": [],
+    "reply_to": null,
+    "date": "Sat, 30 Sep 2023 20:30:39 +0200",
+    "sent_date": "Sat, 30 Sep 2023 20:30:39 +0200"
+  },
+  "origin": {
+    "client_ip": null,
+    "mailer": null,
+    "user_agent": null,
+    "return_path": "info+bncBCEOHBWDUAKBBXGS4GUAMGQEEEBZWFY@regima.com",
+    "x_google_smtp_source": "AGHT+IEDOOuZpEvZrl2VKH3+yYnugB/oFdcQnva4y5qjVMWsSSy72GNBbap/UHDABwMNGxqa8k27cQ==",
+    "x_gm_message_state": "AOJu0YyzuyW2wbuUfWb5hhmKCJUQQAbQg70K+5q+EEt5KluCsz2VYL9C tRUzNaLPka7CqwIT5QMgM1wDcBXjuulHp7Fa"
+  },
+  "authentication": {
+    "spf": "pass",
+    "dkim": "pass",
+    "dmarc": "pass",
+    "compauth": null,
+    "received_spf": "pass (google.com: domain of mignonelliott7@gmail.com designates 209.85.220.41 as permitted sender) client-ip=209.85.220.41;",
+    "arc_results": [
+      "i=3; mx.google.com;       dkim=pass header.i=@regima-com.20230601.gappssmtp.com header.s=20230601 header.b=iO4eDIiO;       arc=pass (i=2 spf=pass spfdomain=gmail.com dkim=pass dkdomain=gmail.com dmarc=pass fromdomain=gmail.com);       spf=pass (google.com: domain of info+bncbceohbwduakbbxgs4guamgqeeebzwfy@regima.com designates 209.85.220.69 as permitted sender) smtp.mailfrom=info+bncBCEOHBWDUAKBBXGS4GUAMGQEEEBZWFY@regima.com;       dmarc=fail (p=NONE sp=QUARANTINE dis=NONE arc=pass) header.from=gmail.com",
+      "i=2; mx.google.com;       dkim=pass header.i=@gmail.com header.s=20230601 header.b=bWFhiQnF;       spf=pass (google.com: domain of mignonelliott7@gmail.com designates 209.85.220.41 as permitted sender) smtp.mailfrom=mignonelliott7@gmail.com;       dmarc=pass (p=NONE sp=QUARANTINE dis=NONE) header.from=gmail.com",
+      "i=1; mx.google.com;       dkim=pass header.i=@gmail.com header.s=20230601 header.b=bWFhiQnF;       spf=pass (google.com: domain of mignonelliott7@gmail.com designates 209.85.220.41 as permitted sender) smtp.mailfrom=mignonelliott7@gmail.com;       dmarc=pass (p=NONE sp=QUARANTINE dis=NONE) header.from=gmail.com"
+    ],
+    "dkim_signatures": [
+      "v=1; a=rsa-sha256; c=relaxed/relaxed;        d=regima-com.20230601.gappssmtp.com; s=20230601; t=1696098653; x=1696703453; darn=regima.com;        h=list-unsubscribe:list-archive:list-help:list-post:list-id         :mailing-list:precedence:x-original-authentication-results         :x-original-sender:to:subject:message-id:date:from:mime-version:from         :to:cc:subject:date:message-id:reply-to;        bh=vDcIpazEYTY0ibcDC6IJk6iJqhLnEK5xj3+TgCwZltU=;        b=iO4eDIiO/K4FrHdVx5HPr7FhBKea8FZLIwkMbaO4FhBiHuNWQEZ+OS7HDtD0j9y7UF         wFZk14yFC/sDRXpGdI9jZdybLgv80D2R33WzC6l6luzA3uxhCeMtpmO/iw4fhRG42HgB         JgZkL+/oMpc4xnAV8CyUjUb4HYcwFIyb2yg2/UkWyrultnM0wSNTfv6E+d0EZcI1Bwhw         2/pkKwWHHPRkAhKAW5tM8AfvcQhvKK1+wGxTI5AzWJ0MV5o36hcmyU/mO+lF83jqRAfh         QojPq5c3G9vHY8SDbaDjw/NdJCKnWR0izS8EsW1TkFMCBb9b1bDaY+BeUU6yKR3GmrZJ         vJpA=="
+    ],
+    "google_dkim_signatures": [
+      "v=1; a=rsa-sha256; c=relaxed/relaxed;        d=1e100.net; s=20230601; t=1696098653; x=1696703453;        h=list-unsubscribe:list-archive:list-help:list-post         :x-spam-checked-in-group:list-id:mailing-list:precedence         :x-original-authentication-results:x-original-sender:to:subject         :message-id:date:from:mime-version:x-beenthere:x-gm-message-state         :from:to:cc:subject:date:message-id:reply-to;        bh=vDcIpazEYTY0ibcDC6IJk6iJqhLnEK5xj3+TgCwZltU=;        b=QACPwRQFJsEiafRgGi1k7ZXABU5vddenimwya70OvoH0hkpv8vg2YWHmz/h1AKL/HM         k7EA+NRAk1NheDx47fsCj056G3DRMg888CGpT1K0PApGb13V4NhjMOatwx2+bpHYKG70         AcwgHVQv884JM/p1gpxo3ae3sffj9wxEHGvZOyHlo3tvyzav4ZUfGJP1HMX9u0051/TR         FICbJjNcbCSlzRdAGlwr5P1xbJuY0XmGIVsJCdkaMINxBFinOR225RBx/1D3X9Ifj9h8         uCZg3840x0vBJrF3CrjP60HMp5XfgL8wOabVZNVT+usAwEoSNAjBjGJaGc7DK3XAfpvu         TAWQ=="
+    ],
+    "raw_auth_results": [
+      "mx.google.com;       dkim=pass header.i=@regima-com.20230601.gappssmtp.com header.s=20230601 header.b=iO4eDIiO;       arc=pass (i=2 spf=pass spfdomain=gmail.com dkim=pass dkdomain=gmail.com dmarc=pass fromdomain=gmail.com);       spf=pass (google.com: domain of info+bncbceohbwduakbbxgs4guamgqeeebzwfy@regima.com designates 209.85.220.69 as permitted sender) smtp.mailfrom=info+bncBCEOHBWDUAKBBXGS4GUAMGQEEEBZWFY@regima.com;       dmarc=fail (p=NONE sp=QUARANTINE dis=NONE arc=pass) header.from=gmail.com"
+    ]
+  },
+  "transport_hops": [
+    {
+      "hop": 1,
+      "from_server": "mail-sor-f41.google.com",
+      "from_ip": "209.85.220.41",
+      "by_server": "mx.google.com",
+      "by_ip": null,
+      "with_protocol": "SMTPS",
+      "via": null,
+      "id": "mm18-20020a170906cc5200b009a9e326d0c9sor4043000ejb.11.2023.09.30.11.30.51",
+      "for_recipient": null,
+      "timestamp": "Sat, 30 Sep 2023 11:30:51 -0700 (PDT)",
+      "tls": null,
+      "raw": "from mail-sor-f41.google.com (mail-sor-f41.google.com. [209.85.220.41])        by mx.google.com with SMTPS id mm18-20020a170906cc5200b009a9e326d0c9sor4043000ejb.11.2023.09.30.11.30.51        for <info@regima.com>        (Google Transport Security);        Sat, 30 Sep 2023 11:30:51 -0700 (PDT)"
+    },
+    {
+      "hop": 2,
+      "from_server": null,
+      "from_ip": null,
+      "by_server": "2002",
+      "by_ip": null,
+      "with_protocol": "SMTP",
+      "via": null,
+      "id": "r26-20020aa7d59a000000b005236ada2eabls710609edq.2.-pod-prod-09-eu",
+      "for_recipient": null,
+      "timestamp": "Sat, 30 Sep 2023 11:30:51 -0700 (PDT)",
+      "tls": null,
+      "raw": "by 2002:aa7:d59a:0:b0:523:6ada:2eab with SMTP id r26-20020aa7d59a000000b005236ada2eabls710609edq.2.-pod-prod-09-eu; Sat, 30 Sep 2023 11:30:51 -0700 (PDT)"
+    },
+    {
+      "hop": 3,
+      "from_server": "mail-sor-f69.google.com",
+      "from_ip": "209.85.220.69",
+      "by_server": "mx.google.com",
+      "by_ip": null,
+      "with_protocol": "SMTPS",
+      "via": null,
+      "id": "25-20020a508e59000000b0051e1604c66asor3508588edx.0.2023.09.30.11.30.53",
+      "for_recipient": null,
+      "timestamp": "Sat, 30 Sep 2023 11:30:53 -0700 (PDT)",
+      "tls": null,
+      "raw": "from mail-sor-f69.google.com (mail-sor-f69.google.com. [209.85.220.69])        by mx.google.com with SMTPS id 25-20020a508e59000000b0051e1604c66asor3508588edx.0.2023.09.30.11.30.53        for <dan@regima.com>        (Google Transport Security);        Sat, 30 Sep 2023 11:30:53 -0700 (PDT)"
+    },
+    {
+      "hop": 4,
+      "from_server": null,
+      "from_ip": null,
+      "by_server": "2002",
+      "by_ip": null,
+      "with_protocol": "SMTP",
+      "via": null,
+      "id": "y14csp433746eju",
+      "for_recipient": null,
+      "timestamp": "Sat, 30 Sep 2023 11:30:54 -0700 (PDT)",
+      "tls": null,
+      "raw": "by 2002:a17:906:4b0e:b0:9b2:c9e6:caed with SMTP id y14csp433746eju;        Sat, 30 Sep 2023 11:30:54 -0700 (PDT)"
+    }
+  ],
+  "google_transport": {
+    "x_google_dkim_signature": "v=1; a=rsa-sha256; c=relaxed/relaxed;        d=1e100.net; s=20230601; t=1696098653; x=1696703453;        h=list-unsubscribe:list-archive:list-help:list-post         :x-spam-checked-in-group:list-id:mailing-list:precedence         :x-original-authentication-results:x-original-sender:to:subject         :message-id:date:from:mime-version:x-beenthere:x-gm-message-state         :from:to:cc:subject:date:message-id:reply-to;        bh=vDcIpazEYTY0ibcDC6IJk6iJqhLnEK5xj3+TgCwZltU=;        b=QACPwRQFJsEiafRgGi1k7ZXABU5vddenimwya70OvoH0hkpv8vg2YWHmz/h1AKL/HM         k7EA+NRAk1NheDx47fsCj056G3DRMg888CGpT1K0PApGb13V4NhjMOatwx2+bpHYKG70         AcwgHVQv884JM/p1gpxo3ae3sffj9wxEHGvZOyHlo3tvyzav4ZUfGJP1HMX9u0051/TR         FICbJjNcbCSlzRdAGlwr5P1xbJuY0XmGIVsJCdkaMINxBFinOR225RBx/1D3X9Ifj9h8         uCZg3840x0vBJrF3CrjP60HMp5XfgL8wOabVZNVT+usAwEoSNAjBjGJaGc7DK3XAfpvu         TAWQ==",
+    "x_gm_message_state": "AOJu0YyzuyW2wbuUfWb5hhmKCJUQQAbQg70K+5q+EEt5KluCsz2VYL9C tRUzNaLPka7CqwIT5QMgM1wDcBXjuulHp7Fa",
+    "x_google_smtp_source": "AGHT+IEDOOuZpEvZrl2VKH3+yYnugB/oFdcQnva4y5qjVMWsSSy72GNBbap/UHDABwMNGxqa8k27cQ==",
+    "delivered_to": "dan@regima.com",
+    "x_forwarded_to": null,
+    "x_forwarded_for": null,
+    "precedence": "list",
+    "list_unsubscribe": "<mailto:googlegroups-manage+67457107791+unsubscribe@googlegroups.com>, <https://groups.google.com/a/regima.com/group/info/subscribe>",
+    "mime_version": "1.0",
+    "content_type": "multipart/alternative; boundary=\"00000000000092de93060697bd8a\"",
+    "google_properties": {
+      "group-id": "67457107791"
+    }
+  },
+  "mailbox_context": {
+    "user_email": "dan@regima.com",
+    "label_ids": [
+      "UNREAD",
+      "CATEGORY_FORUMS",
+      "INBOX"
+    ],
+    "snippet": "Good day, I would like to order some products. Could you possibly assist? Best regards, Mignon",
+    "size_estimate": 11620,
+    "internal_date": "1696098639000"
+  },
+  "raw_headers": [
+    {
+      "name": "Delivered-To",
+      "value": "dan@regima.com"
+    },
+    {
+      "name": "Received",
+      "value": "by 2002:a17:906:4b0e:b0:9b2:c9e6:caed with SMTP id y14csp433746eju;        Sat, 30 Sep 2023 11:30:54 -0700 (PDT)"
+    },
+    {
+      "name": "X-Received",
+      "value": "by 2002:a05:6402:2694:b0:530:8a69:c6da with SMTP id w20-20020a056402269400b005308a69c6damr6113173edd.4.1696098653907;        Sat, 30 Sep 2023 11:30:53 -0700 (PDT)"
+    },
+    {
+      "name": "ARC-Seal",
+      "value": "i=3; a=rsa-sha256; t=1696098653; cv=pass;        d=google.com; s=arc-20160816;        b=Lzi4slyZaTDZpvJbhXcnyX2PsHpeA+93xRIgc9OuOGZNYLm6jIRCxOhNzafCyoENpM         ZLzMZl/lDjGo0BPKX99h0YgcnWwiHOS6JIFu1YpzjS6drD2O6bqOAM10rwkKM0wzx30X         ZFRdGxJkcgrT1AsvzFWGnbuh8H0qfsOlhbtMtxbGV9YRaSI9jamjqu0IPChcVgC2/vfl         AKFf2ubqzRzovP5OOIFUu7BvZov+uY7SJYf5Jntu1ivYGjv2VAPwkwQSogNsLU+4VR3Z         ORqEZ8MN7y/0ZhIWutuODpv8N4vyGCV1DzgUmIwZ0QEBTXDvL3f0vfqZbkayLE5QVYOk         6iRQ=="
+    },
+    {
+      "name": "ARC-Message-Signature",
+      "value": "i=3; a=rsa-sha256; c=relaxed/relaxed; d=google.com; s=arc-20160816;        h=list-unsubscribe:list-archive:list-help:list-post:list-id         :mailing-list:precedence:to:subject:message-id:date:from         :mime-version:dkim-signature;        bh=vDcIpazEYTY0ibcDC6IJk6iJqhLnEK5xj3+TgCwZltU=;        fh=yzXgnH38heKX9aiFDk1zBYmceCUBuh6CF6EjBdp3644=;        b=hGQ7wlhq4hHvhe8AW6O5FWVLxSypTkdTcF//UnwqFF43UbwtuosjgeCf7x3MlN4mcr         YXO4L/So8eBWMvFgM01/7f5z4hzgl/pU5EMRaMay1PS+3olahrzQqwnvqbB8tI6qYDbb         JtXKg8ahPtz5KflK1mCxsBBDU19yiS/z0mkTgnPKnuSc/f4IJA6fp1+3rC/NXvItwY9Y         NKYcPUEO2YgC/ah9LsjEtRVN/eknLK6sW5pxtQG153XyZl73A5089kRTtd2LhG01h0Az         rJDJP8imwQLuu/I3/Z0aJ+ToIkR/Bud0fGLEvDxdFEijZ+aH+dZwg04fjuLD87GkvcmP         X2QQ=="
+    },
+    {
+      "name": "ARC-Authentication-Results",
+      "value": "i=3; mx.google.com;       dkim=pass header.i=@regima-com.20230601.gappssmtp.com header.s=20230601 header.b=iO4eDIiO;       arc=pass (i=2 spf=pass spfdomain=gmail.com dkim=pass dkdomain=gmail.com dmarc=pass fromdomain=gmail.com);       spf=pass (google.com: domain of info+bncbceohbwduakbbxgs4guamgqeeebzwfy@regima.com designates 209.85.220.69 as permitted sender) smtp.mailfrom=info+bncBCEOHBWDUAKBBXGS4GUAMGQEEEBZWFY@regima.com;       dmarc=fail (p=NONE sp=QUARANTINE dis=NONE arc=pass) header.from=gmail.com"
+    },
+    {
+      "name": "Return-Path",
+      "value": "<info+bncBCEOHBWDUAKBBXGS4GUAMGQEEEBZWFY@regima.com>"
+    },
+    {
+      "name": "Received",
+      "value": "from mail-sor-f69.google.com (mail-sor-f69.google.com. [209.85.220.69])        by mx.google.com with SMTPS id 25-20020a508e59000000b0051e1604c66asor3508588edx.0.2023.09.30.11.30.53        for <dan@regima.com>        (Google Transport Security);        Sat, 30 Sep 2023 11:30:53 -0700 (PDT)"
+    },
+    {
+      "name": "Received-SPF",
+      "value": "pass (google.com: domain of info+bncbceohbwduakbbxgs4guamgqeeebzwfy@regima.com designates 209.85.220.69 as permitted sender) client-ip=209.85.220.69;"
+    },
+    {
+      "name": "Authentication-Results",
+      "value": "mx.google.com;       dkim=pass header.i=@regima-com.20230601.gappssmtp.com header.s=20230601 header.b=iO4eDIiO;       arc=pass (i=2 spf=pass spfdomain=gmail.com dkim=pass dkdomain=gmail.com dmarc=pass fromdomain=gmail.com);       spf=pass (google.com: domain of info+bncbceohbwduakbbxgs4guamgqeeebzwfy@regima.com designates 209.85.220.69 as permitted sender) smtp.mailfrom=info+bncBCEOHBWDUAKBBXGS4GUAMGQEEEBZWFY@regima.com;       dmarc=fail (p=NONE sp=QUARANTINE dis=NONE arc=pass) header.from=gmail.com"
+    },
+    {
+      "name": "ARC-Seal",
+      "value": "i=2; a=rsa-sha256; t=1696098653; cv=pass;        d=google.com; s=arc-20160816;        b=cqxg6QiXtiZcbIhv+UIZjv9+xhmQRhNqlvUwsN1uW9r7lHgAUKrTqOqUpKAvHQ1F1K         KnoESHYXT9kuYuGxJ5UgjNchd9rVqzRUAmu7/fzHHObubE1SnCCSyCkDlVt3M/Qx4nJg         19/DHMjaq1LJPPuMXOMU/9+9LoZmoKZU9L3PB77uxI1pER/M0FtrY6FZ9I7H7bgBwRGf         KzTcLvsx8ax5uCiVBcz6PJNc5IAMs5Gfgd0uR/BEhl7NxxSdlzk+NKmQp4DbnZIeIeFo         A7Tz0OZWi55hvlZ54sKuNGRTSA1qwT6uKrdMv5G4BQgkBJK3h+nzjleMNbgFkGwHCbZ1         bPyA=="
+    },
+    {
+      "name": "ARC-Message-Signature",
+      "value": "i=2; a=rsa-sha256; c=relaxed/relaxed; d=google.com; s=arc-20160816;        h=list-unsubscribe:list-archive:list-help:list-post:list-id         :mailing-list:precedence:to:subject:message-id:date:from         :mime-version:dkim-signature;        bh=vDcIpazEYTY0ibcDC6IJk6iJqhLnEK5xj3+TgCwZltU=;        fh=yzXgnH38heKX9aiFDk1zBYmceCUBuh6CF6EjBdp3644=;        b=vsSx1uoSGhT2YbVLcxFCFBKzOcpdxn3jVmN9ttIlA69clShfGJxGdrBXIyD+0vp+Nc         1JmeH+PyZ7pjRWS98cYmoUFeyw8jWA4TBOs33RmzhPebdrWClaPiRD+XLyI8CbBa8Yoc         GhEQUDO6o5RXxp4hIlKQ44TnP5P1bC7qiU9Fv6c22XY5rB6YuENtTZIPSSy3zkWOUyM6         8SDtbBSG1B67d/w1GzJ6PstSA/4Iqkz2tGM2vcV6NvsIVkmR1dV8ki8owlByrrG+St0C         yYBgeosOyrxeOrux/vDLt1socSBnIooDzKgTcHnee/Y0HkLDXqP6nDPtm4FklRHmIPJw         VBNQ=="
+    },
+    {
+      "name": "ARC-Authentication-Results",
+      "value": "i=2; mx.google.com;       dkim=pass header.i=@gmail.com header.s=20230601 header.b=bWFhiQnF;       spf=pass (google.com: domain of mignonelliott7@gmail.com designates 209.85.220.41 as permitted sender) smtp.mailfrom=mignonelliott7@gmail.com;       dmarc=pass (p=NONE sp=QUARANTINE dis=NONE) header.from=gmail.com"
+    },
+    {
+      "name": "DKIM-Signature",
+      "value": "v=1; a=rsa-sha256; c=relaxed/relaxed;        d=regima-com.20230601.gappssmtp.com; s=20230601; t=1696098653; x=1696703453; darn=regima.com;        h=list-unsubscribe:list-archive:list-help:list-post:list-id         :mailing-list:precedence:x-original-authentication-results         :x-original-sender:to:subject:message-id:date:from:mime-version:from         :to:cc:subject:date:message-id:reply-to;        bh=vDcIpazEYTY0ibcDC6IJk6iJqhLnEK5xj3+TgCwZltU=;        b=iO4eDIiO/K4FrHdVx5HPr7FhBKea8FZLIwkMbaO4FhBiHuNWQEZ+OS7HDtD0j9y7UF         wFZk14yFC/sDRXpGdI9jZdybLgv80D2R33WzC6l6luzA3uxhCeMtpmO/iw4fhRG42HgB         JgZkL+/oMpc4xnAV8CyUjUb4HYcwFIyb2yg2/UkWyrultnM0wSNTfv6E+d0EZcI1Bwhw         2/pkKwWHHPRkAhKAW5tM8AfvcQhvKK1+wGxTI5AzWJ0MV5o36hcmyU/mO+lF83jqRAfh         QojPq5c3G9vHY8SDbaDjw/NdJCKnWR0izS8EsW1TkFMCBb9b1bDaY+BeUU6yKR3GmrZJ         vJpA=="
+    },
+    {
+      "name": "X-Google-DKIM-Signature",
+      "value": "v=1; a=rsa-sha256; c=relaxed/relaxed;        d=1e100.net; s=20230601; t=1696098653; x=1696703453;        h=list-unsubscribe:list-archive:list-help:list-post         :x-spam-checked-in-group:list-id:mailing-list:precedence         :x-original-authentication-results:x-original-sender:to:subject         :message-id:date:from:mime-version:x-beenthere:x-gm-message-state         :from:to:cc:subject:date:message-id:reply-to;        bh=vDcIpazEYTY0ibcDC6IJk6iJqhLnEK5xj3+TgCwZltU=;        b=QACPwRQFJsEiafRgGi1k7ZXABU5vddenimwya70OvoH0hkpv8vg2YWHmz/h1AKL/HM         k7EA+NRAk1NheDx47fsCj056G3DRMg888CGpT1K0PApGb13V4NhjMOatwx2+bpHYKG70         AcwgHVQv884JM/p1gpxo3ae3sffj9wxEHGvZOyHlo3tvyzav4ZUfGJP1HMX9u0051/TR         FICbJjNcbCSlzRdAGlwr5P1xbJuY0XmGIVsJCdkaMINxBFinOR225RBx/1D3X9Ifj9h8         uCZg3840x0vBJrF3CrjP60HMp5XfgL8wOabVZNVT+usAwEoSNAjBjGJaGc7DK3XAfpvu         TAWQ=="
+    },
+    {
+      "name": "X-Gm-Message-State",
+      "value": "AOJu0YyzuyW2wbuUfWb5hhmKCJUQQAbQg70K+5q+EEt5KluCsz2VYL9C tRUzNaLPka7CqwIT5QMgM1wDcBXjuulHp7Fa"
+    },
+    {
+      "name": "X-Google-Smtp-Source",
+      "value": "AGHT+IEDOOuZpEvZrl2VKH3+yYnugB/oFdcQnva4y5qjVMWsSSy72GNBbap/UHDABwMNGxqa8k27cQ=="
+    },
+    {
+      "name": "X-Received",
+      "value": "by 2002:a05:6402:512:b0:525:680a:6b89 with SMTP id m18-20020a056402051200b00525680a6b89mr6055646edv.12.1696098653308;        Sat, 30 Sep 2023 11:30:53 -0700 (PDT)"
+    },
+    {
+      "name": "X-BeenThere",
+      "value": "info@regima.com"
+    },
+    {
+      "name": "Received",
+      "value": "by 2002:aa7:d59a:0:b0:523:6ada:2eab with SMTP id r26-20020aa7d59a000000b005236ada2eabls710609edq.2.-pod-prod-09-eu; Sat, 30 Sep 2023 11:30:51 -0700 (PDT)"
+    },
+    {
+      "name": "X-Received",
+      "value": "by 2002:a17:906:191:b0:9ae:57b8:ad1b with SMTP id 17-20020a170906019100b009ae57b8ad1bmr7191368ejb.21.1696098651517;        Sat, 30 Sep 2023 11:30:51 -0700 (PDT)"
+    },
+    {
+      "name": "ARC-Seal",
+      "value": "i=1; a=rsa-sha256; t=1696098651; cv=none;        d=google.com; s=arc-20160816;        b=dmPXpBKaDbI+MLArwKYP3KX9ATf6Ioi7Q5Ys2G4yKCvX6toEFIBmbTNytg1ZoIdeLU         7oFz9dxXBNqHcw7a6M8vDS8JxFNw82ovT+hgofTM5UQpfmaM6CI4qRhtvPje0FcrgvuT         j0p9Uzx4+vUBBP9yDsnBHmkVx1FzWuDIZ2L//xpz87fRWjGXBW8/lnisoJSE6m5NeUx6         zAgnpX36USYmmOYNHnVZdlEnOgJfyRqb8SWmPxhb8Sq6y++yZpSEUrg+tmU0YjX8P2KZ         AfQbcXMLRgE2rfedhzjaBE0BJ6WR6LZt6C7srkT51TYOl7/63OtwaGgz9o+eyk+eJ4pb         QAgA=="
+    },
+    {
+      "name": "ARC-Message-Signature",
+      "value": "i=1; a=rsa-sha256; c=relaxed/relaxed; d=google.com; s=arc-20160816;        h=to:subject:message-id:date:from:mime-version:dkim-signature;        bh=vDcIpazEYTY0ibcDC6IJk6iJqhLnEK5xj3+TgCwZltU=;        fh=yzXgnH38heKX9aiFDk1zBYmceCUBuh6CF6EjBdp3644=;        b=SnSUS/rCG29pIguKrNeNJLoAs1x+a5MyfjOIC3cpssssLo/4SK7o/mk7zCXOvp804F         NxyYFMufMILWZIISGnVG+E2HeFLG36ycOVtOUBKB/gOvPXC4KH6x48Uwwc7lYTOjW79B         esRWF6r3vVbA9+oRCW0G6Ss+LI920GUCxdukGXjlzIbbKKZsuCaQEXVw2SfR2Zl9cFxe         qwEZPln4LbLba1gjS9nh+u+RUmxEnZ/tmfd9uJHB/Rh0QbBpaajFKEUUUe8GKvBCX551         CYgwdD00bDJ6CNzvyBAeco+Edz0Uicy++DOm8Ej9Xt1FJwdZbwh2mT8hO51smxmcMJQj         tSOA=="
+    },
+    {
+      "name": "ARC-Authentication-Results",
+      "value": "i=1; mx.google.com;       dkim=pass header.i=@gmail.com header.s=20230601 header.b=bWFhiQnF;       spf=pass (google.com: domain of mignonelliott7@gmail.com designates 209.85.220.41 as permitted sender) smtp.mailfrom=mignonelliott7@gmail.com;       dmarc=pass (p=NONE sp=QUARANTINE dis=NONE) header.from=gmail.com"
+    },
+    {
+      "name": "Received",
+      "value": "from mail-sor-f41.google.com (mail-sor-f41.google.com. [209.85.220.41])        by mx.google.com with SMTPS id mm18-20020a170906cc5200b009a9e326d0c9sor4043000ejb.11.2023.09.30.11.30.51        for <info@regima.com>        (Google Transport Security);        Sat, 30 Sep 2023 11:30:51 -0700 (PDT)"
+    },
+    {
+      "name": "Received-SPF",
+      "value": "pass (google.com: domain of mignonelliott7@gmail.com designates 209.85.220.41 as permitted sender) client-ip=209.85.220.41;"
+    },
+    {
+      "name": "X-Received",
+      "value": "by 2002:a17:907:2cd4:b0:9ad:e7d8:1e26 with SMTP id hg20-20020a1709072cd400b009ade7d81e26mr5891945ejc.57.1696098650609; Sat, 30 Sep 2023 11:30:50 -0700 (PDT)"
+    },
+    {
+      "name": "MIME-Version",
+      "value": "1.0"
+    },
+    {
+      "name": "From",
+      "value": "Mignon Elliott <mignonelliott7@gmail.com>"
+    },
+    {
+      "name": "Date",
+      "value": "Sat, 30 Sep 2023 20:30:39 +0200"
+    },
+    {
+      "name": "Message-ID",
+      "value": "<CAJYqut3btVsKx6pb8-mgY6-JEz+nZbBzW7Y=w08koR_3ZJjv8w@mail.gmail.com>"
+    },
+    {
+      "name": "Subject",
+      "value": "Orders"
+    },
+    {
+      "name": "To",
+      "value": "info@regima.com"
+    },
+    {
+      "name": "Content-Type",
+      "value": "multipart/alternative; boundary=\"00000000000092de93060697bd8a\""
+    },
+    {
+      "name": "X-Original-Sender",
+      "value": "mignonelliott7@gmail.com"
+    },
+    {
+      "name": "X-Original-Authentication-Results",
+      "value": "mx.google.com;       dkim=pass header.i=@gmail.com header.s=20230601 header.b=bWFhiQnF;       spf=pass (google.com: domain of mignonelliott7@gmail.com designates 209.85.220.41 as permitted sender) smtp.mailfrom=mignonelliott7@gmail.com;       dmarc=pass (p=NONE sp=QUARANTINE dis=NONE) header.from=gmail.com"
+    },
+    {
+      "name": "Precedence",
+      "value": "list"
+    },
+    {
+      "name": "Mailing-list",
+      "value": "list info@regima.com; contact info+owners@regima.com"
+    },
+    {
+      "name": "List-ID",
+      "value": "<info.regima.com>"
+    },
+    {
+      "name": "X-Spam-Checked-In-Group",
+      "value": "info@regima.com"
+    },
+    {
+      "name": "X-Google-Group-Id",
+      "value": "67457107791"
+    },
+    {
+      "name": "List-Post",
+      "value": "<https://groups.google.com/a/regima.com/group/info/post>, <mailto:info@regima.com>"
+    },
+    {
+      "name": "List-Help",
+      "value": "<https://support.google.com/a/regima.com/bin/topic.py?topic=25838>, <mailto:info+help@regima.com>"
+    },
+    {
+      "name": "List-Archive",
+      "value": "<https://groups.google.com/a/regima.com/group/info/>"
+    },
+    {
+      "name": "List-Unsubscribe",
+      "value": "<mailto:googlegroups-manage+67457107791+unsubscribe@googlegroups.com>, <https://groups.google.com/a/regima.com/group/info/subscribe>"
+    }
+  ],
+  "transport_summary": {
+    "total_hops": 4,
+    "origin_ip": null,
+    "first_relay": "mail-sor-f41.google.com",
+    "final_relay": "2002",
+    "auth_verdict": {
+      "spf": "pass",
+      "dkim": "pass",
+      "dmarc": "pass"
+    }
+  },
+  "_file_integrity": {
+    "sha256": "ef1b1ce465141cfc1cdf32f1b2890020b318bad0df20aeb9cab7416478843376",
+    "size_bytes": 22367
+  }
+}

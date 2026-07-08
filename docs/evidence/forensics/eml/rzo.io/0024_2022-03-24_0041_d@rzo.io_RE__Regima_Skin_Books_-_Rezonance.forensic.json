@@ -1,0 +1,88 @@
+{
+  "_schema": "exoml-forensic/v1",
+  "_generated": "2026-03-10T08:04:26.141382+00:00",
+  "file_integrity": {
+    "eml_file": "rzo.io/0024_2022-03-24_0041_d@rzo.io_RE__Regima_Skin_Books_-_Rezonance.eml",
+    "file_size_bytes": 1055356,
+    "md5": "4360e9e8ba8a9d0029e21a0455395327",
+    "sha1": "3d0607fb05125148efe240a1d4f78d7d61b1f1cb",
+    "sha256": "f3a8fc7e4a7ac052e06911550a8d7b1b8303300f766a544a00dd6718664bc878"
+  },
+  "message_identity": {
+    "db_id": 515,
+    "exchange_message_id": "AAMkAGE2YjljZjA1LTRlOWUtNDhjYi1iZjNkLWI4ZWRlNDQwYTU0MABGAAAAAADPgXCfMl5uRqA6Xxa9Yh33BwAh607i92PMQLMLAH3HB5h5AAAAAAEJAAAh607i92PMQLMLAH3HB5h5AAXH5SNbAAA=",
+    "conversation_id": "AAQkAGE2YjljZjA1LTRlOWUtNDhjYi1iZjNkLWI4ZWRlNDQwYTU0MAAQAGu34gUzjkbjrdTeyCRqrqc="
+  },
+  "envelope": {
+    "subject": "RE: Regima Skin Books  - Rezonance",
+    "from_name": "Daniel Faucitt",
+    "from_address": "d@rzo.io",
+    "to_recipients": [
+      {
+        "emailAddress": {
+          "name": "Rynette Farrar",
+          "address": "rynette@regima.zone"
+        }
+      }
+    ],
+    "cc_recipients": [
+      {
+        "emailAddress": {
+          "name": "JAX@REGIMA.COM",
+          "address": "JAX@REGIMA.COM"
+        }
+      },
+      {
+        "emailAddress": {
+          "name": "PETE@REGIMA.COM",
+          "address": "PETE@REGIMA.COM"
+        }
+      },
+      {
+        "emailAddress": {
+          "name": "Jacqui Faucitt",
+          "address": "jax@regima.zone"
+        }
+      }
+    ],
+    "received_datetime": "2022-03-24 00:41:00"
+  },
+  "mailbox_context": {
+    "user_email": "d@rzo.io",
+    "user_name": "Daniel Faucitt"
+  },
+  "body": {
+    "content_type": "html",
+    "preview": "Thanks Rynette 😃\r\n\r\nHad to do a recon to verify this account because of the GoDaddy stuff so it took a while but want to ensure its correct.\r\nAttached is the recon I did so you can have a look at some of the results discussed..\r\n\r\nCols B to N are my veri",
+    "body_length_chars": 21773
+  },
+  "attachments": [
+    {
+      "name": "RST-REZ - Dan Recon v3.xlsx",
+      "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "size_bytes": 78786,
+      "is_inline": false,
+      "has_content": true,
+      "md5": "2293d0b57f08e20091873f0c12f7922a",
+      "sha256": "1eb4372bfe79248d0908218627bccb27a153c0bcf01952475f6e20f440e95acf"
+    },
+    {
+      "name": "image002.gif",
+      "content_type": "image/gif",
+      "size_bytes": 48089,
+      "is_inline": true,
+      "has_content": true,
+      "md5": "b50ae58085dbc26b25869e780ac28cb5",
+      "sha256": "f1a01414401ad24c4fd44b14d87b25e85f9429a911996fe7db0e1c5ed199d67d"
+    },
+    {
+      "name": "image003.jpg",
+      "content_type": "image/jpeg",
+      "size_bytes": 640089,
+      "is_inline": true,
+      "has_content": true,
+      "md5": "b8734fbe347b063313443ddaeb5465ee",
+      "sha256": "4df8188dd5c953339f99ba2cb9d99e8859703f1e9a4086a7da5862bf7801e50a"
+    }
+  ]
+}

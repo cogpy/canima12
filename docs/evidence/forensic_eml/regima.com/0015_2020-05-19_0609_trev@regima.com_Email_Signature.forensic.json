@@ -1,0 +1,51 @@
+{
+  "_schema": "exchange-forensic-eml/v1",
+  "_generated": "2026-03-10T03:52:57.159996+00:00",
+  "_source": "neon-exchange-sync",
+  "file_integrity": {
+    "eml_file": "/home/ubuntu/revstream1/docs/evidence/forensic_eml/regima.com/0015_2020-05-19_0609_trev@regima.com_Email_Signature.eml",
+    "file_size_bytes": 781,
+    "md5": "3e325bc36f51ccb3e7bb5339d4f2d476",
+    "sha1": "0f0b1c12ad6bdd0584b36fa6a65d21996913da8b",
+    "sha256": "b6f35dc11587672f9d15876a98fc761ecb946e6a4076e778464a3c3dc1940e2b"
+  },
+  "message_identity": {
+    "exchange_sync_id": "AQMkADMxMzkyY2FlLWNkMGEtNGM2My04OWFiLTNlZDRjNzkyNGUyMwBGAAADSLKv-EI8AESN7LMej4ROLgcAIySisE98NkWmcNijjztGYgAAAj1DAAAAIySisE98NkWmcNijjztGYgAAAk1CAAAA",
+    "internet_message_id": "<CAN4xWCtTvKtnBRcS0w7MLMFhQF6+zV4UodX8=xyBx+B1M1tVww@mail.gmail.com>",
+    "conversation_id": "AAQkADMxMzkyY2FlLWNkMGEtNGM2My04OWFiLTNlZDRjNzkyNGUyMwAQANWI0BNCJR9Nt-5wI5Zk5LY="
+  },
+  "envelope": {
+    "subject": "Email Signature",
+    "from_name": "Trevor Stidston",
+    "from_address": "trev@regima.com",
+    "to_recipients": [
+      {
+        "name": "Rynette Farrar",
+        "address": "rynette@regima.zone"
+      }
+    ],
+    "cc_recipients": [
+      {
+        "name": "Jacqui Faucitt",
+        "address": "jax@regima.com"
+      },
+      {
+        "name": "Peter Faucitt",
+        "address": "pete@regima.com"
+      }
+    ],
+    "received_datetime": "2020-05-19 06:09:42+00:00"
+  },
+  "mailbox_context": {
+    "user_email": "rynette@regima.zone",
+    "user_name": "Rynette Farrar",
+    "folder_name": "Office",
+    "folder_id": "AQMkADMxMzkyY2FlLWNkMGEtNGM2My04OWFiLTNlZDRjNzkyNGUyMwAuAAADSLKv-EI8AESN7LMej4ROLgEAIySisE98NkWmcNijjztGYgAAAj1DAAAA"
+  },
+  "body": {
+    "content_type": null,
+    "preview": "Hi Rynette\r\n\r\nPlease see attached email signature.\r\nPlease double check details and let me know if there are are any changes needed to be done\r\n\r\nThank you\r\nKind Regards",
+    "body_length_chars": 0
+  },
+  "attachments": []
+}

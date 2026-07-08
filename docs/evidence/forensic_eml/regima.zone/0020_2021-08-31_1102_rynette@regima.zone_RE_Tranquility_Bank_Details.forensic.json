@@ -1,0 +1,55 @@
+{
+  "_schema": "exchange-forensic-eml/v1",
+  "_generated": "2026-03-10T03:53:51.875174+00:00",
+  "_source": "neon-exchange-sync",
+  "file_integrity": {
+    "eml_file": "/home/ubuntu/revstream1/docs/evidence/forensic_eml/regima.zone/0020_2021-08-31_1102_rynette@regima.zone_RE_Tranquility_Bank_Details.eml",
+    "file_size_bytes": 853,
+    "md5": "849fddc045a28fa57ce7b234d61732db",
+    "sha1": "91934088906f9e9a0f95cd9eaac613048178893f",
+    "sha256": "63778a8ef1a2a51db22ff9201f0547e31df13377534804884e1f6b973c7a82d7"
+  },
+  "message_identity": {
+    "exchange_sync_id": "AAMkADMxMzkyY2FlLWNkMGEtNGM2My04OWFiLTNlZDRjNzkyNGUyMwBGAAAAAABIsq-8QjwARI3ssx6PhE4uBwAjJKKwT3w2RaZw2KOPO0ZiAAAAAAEJAAAjJKKwT3w2RaZw2KOPO0ZiAABTCoM7AAA=",
+    "internet_message_id": "<DB9PR08MB6569C9CC54C7CE2126E36017BACC9@DB9PR08MB6569.eurprd08.prod.outlook.com>",
+    "conversation_id": "AAQkADMxMzkyY2FlLWNkMGEtNGM2My04OWFiLTNlZDRjNzkyNGUyMwAQAFJiawMTbUXRgUb-qpJUVDE="
+  },
+  "envelope": {
+    "subject": "RE: Tranquility Bank Details",
+    "from_name": "Rynette Farrar",
+    "from_address": "rynette@regima.zone",
+    "to_recipients": [
+      {
+        "name": "Jacqui Faucitt",
+        "address": "jax@regima.zone"
+      }
+    ],
+    "cc_recipients": [
+      {
+        "name": "JAX@REGIMA.COM",
+        "address": "JAX@REGIMA.COM"
+      },
+      {
+        "name": "PETE@REGIMA.COM",
+        "address": "PETE@REGIMA.COM"
+      },
+      {
+        "name": "Jacqui Faucitt",
+        "address": "jax@regima.zone"
+      }
+    ],
+    "received_datetime": "2021-08-31 11:02:00+00:00"
+  },
+  "mailbox_context": {
+    "user_email": "rynette@regima.zone",
+    "user_name": "Rynette Farrar",
+    "folder_name": "Sent Items",
+    "folder_id": "AQMkADMxMzkyY2FlLWNkMGEtNGM2My04OWFiLTNlZDRjNzkyNGUyMwAuAAADSLKv-EI8AESN7LMej4ROLgEAIySisE98NkWmcNijjztGYgAAAgEJAAAA"
+  },
+  "body": {
+    "content_type": null,
+    "preview": "Because they paid us twice.\r\n\r\n\r\nFrom: Jacqui Faucitt <jax@regima.zone>\r\nSent: Tuesday, 31 August 2021 13:02\r\nTo: Rynette Farrar <rynette@regima.zone>\r\nCc: Kent Rault <kent@regima.com>\r\nSubject: RE: Tranquility Bank Details\r\n\r\nWhy would I want their banki",
+    "body_length_chars": 0
+  },
+  "attachments": []
+}

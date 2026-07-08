@@ -1,0 +1,46 @@
+{
+  "file_integrity": {
+    "file_name": "0037_2025-10-09_d_Fw__The_RegimA_Group_results_and_Computer_Expense_analysis.eml",
+    "file_size_bytes": 35114,
+    "md5": "a3d783bcb8ce80c27106b8968884d51a",
+    "sha1": "66ead6ac124721e6f888fc53aec2caeeb5bb005c",
+    "sha256": "3eee3aa1df9b4d40d01e0d7e0132ef051a2aa0ac388c0150e9d6b362c04263c8"
+  },
+  "message_identity": {
+    "graph_message_id": "AAMkAGE2YjljZjA1LTRlOWUtNDhjYi1iZjNkLWI4ZWRlNDQwYTU0MABGAAAAAADPgXCfMl5uRqA6Xxa9Yh33BwAh607i92PMQLMLAH3HB5h5AAAAAAEJAAAh607i92PMQLMLAH3HB5h5AAlOLgXtAAA=",
+    "internet_message_id": "<DB9PR09MB674398B442957C0513918714D1EEA@DB9PR09MB6743.eurprd09.prod.outlook.com>",
+    "conversation_id": "AAQkAGE2YjljZjA1LTRlOWUtNDhjYi1iZjNkLWI4ZWRlNDQwYTU0MAAQANakI1AD4zBNjcS2Ef1er0I="
+  },
+  "envelope": {
+    "subject": "Fw: The RegimA Group results and Computer Expense analysis",
+    "from_name": "Daniel Faucitt",
+    "from_address": "d@rzo.io",
+    "to_recipients": [
+      "d538@manus.bot"
+    ],
+    "cc_recipients": [
+      "dan@regima.com"
+    ],
+    "received_datetime": "2025-10-09T11:50:14Z",
+    "sent_datetime": "2025-10-09T11:50:13Z",
+    "importance": "high"
+  },
+  "authentication": {
+    "spf": "unknown",
+    "dkim": "unknown",
+    "dmarc": "unknown",
+    "raw_authentication_results": ""
+  },
+  "body": {
+    "content_type": "html",
+    "preview": "Hey man please add this info to the evidence folder and use the dates and entities contained in the attachments to add it to the timeline & relevant models.. use super-sleuth intro-spect mode for new ",
+    "body_length_chars": 20388
+  },
+  "internet_headers": {},
+  "extraction_metadata": {
+    "extracted_at": "2026-03-18T10:44:09.914846Z",
+    "source": "Microsoft Graph API v1.0",
+    "user_mailbox": "d@rzo.io",
+    "method": "GET /users/{id}/messages/{id}/$value"
+  }
+}

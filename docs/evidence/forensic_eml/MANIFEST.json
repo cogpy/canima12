@@ -1,0 +1,509 @@
+{
+  "_schema": "exchange-forensic-eml-manifest/v1",
+  "_generated": "2026-03-10T03:53:50.880248+00:00",
+  "search_scope": "subject:bank details",
+  "user_filter": null,
+  "total_messages": 50,
+  "messages": [
+    {
+      "index": 1,
+      "eml_file": "kuehne-nagel.com/0001_2015-07-03_1619_jeneshnee.moodley@kuehne-nagel_Kuehne_+_Nagel_Bank_details_03-07-2015.eml",
+      "json_file": "kuehne-nagel.com/0001_2015-07-03_1619_jeneshnee.moodley@kuehne-nagel_Kuehne_+_Nagel_Bank_details_03-07-2015.forensic.json",
+      "subject": "Kuehne + Nagel Bank details 03-07-2015",
+      "from": "jeneshnee.moodley@kuehne-nagel.com",
+      "date": "2015-07-03 16:19:43+00:00",
+      "attachments": 0,
+      "sha256": "2e3f30fe0d0a142dacb422270a7b418e93e52e2b8111a8df49f4580f1720c798"
+    },
+    {
+      "index": 2,
+      "eml_file": "regima.zone/0002_2017-05-02_1049_laurap@regima.zone_RegimA_Zone_Bank_Details.eml",
+      "json_file": "regima.zone/0002_2017-05-02_1049_laurap@regima.zone_RegimA_Zone_Bank_Details.forensic.json",
+      "subject": "RegimA Zone Bank Details ",
+      "from": "laurap@regima.zone",
+      "date": "2017-05-02 10:49:17+00:00",
+      "attachments": 0,
+      "sha256": "b10398a2cc92d01ecf16f9eb0d36ad246cd3e234a19f4ea8ee559b88a23fc2ff"
+    },
+    {
+      "index": 3,
+      "eml_file": "regima.zone/0003_2018-08-09_1405_emma@regima.zone_Fw_BANK_DETAILS.eml",
+      "json_file": "regima.zone/0003_2018-08-09_1405_emma@regima.zone_Fw_BANK_DETAILS.forensic.json",
+      "subject": "Fw: BANK DETAILS",
+      "from": "emma@regima.zone",
+      "date": "2018-08-09 14:05:26+00:00",
+      "attachments": 0,
+      "sha256": "1db4f0c4417587e9c0c7b84b8f53f6667517c5f5fcff08b7b7b5f0d8e97fbbfc"
+    },
+    {
+      "index": 4,
+      "eml_file": "regima.zone/0004_2019-06-19_1309_claire@regima.zone_FW_RegimA_Bank_Details.eml",
+      "json_file": "regima.zone/0004_2019-06-19_1309_claire@regima.zone_FW_RegimA_Bank_Details.forensic.json",
+      "subject": "FW: RegimA Bank Details ",
+      "from": "claire@regima.zone",
+      "date": "2019-06-19 13:09:08+00:00",
+      "attachments": 0,
+      "sha256": "ea8cdf5cafbbba8baa90074032de9cb7f8c246288fb19469dd3dede361e64e48"
+    },
+    {
+      "index": 5,
+      "eml_file": "regima.zone/0005_2020-07-31_0828_bern@regima.zone_Confirmation_of_Bank_Details.eml",
+      "json_file": "regima.zone/0005_2020-07-31_0828_bern@regima.zone_Confirmation_of_Bank_Details.forensic.json",
+      "subject": "Confirmation of Bank Details",
+      "from": "bern@regima.zone",
+      "date": "2020-07-31 08:28:16+00:00",
+      "attachments": 0,
+      "sha256": "8446d90b8f00a31eee46566ab1fa782d45c5f618577cdfcf7f5f3567533ba6f0"
+    },
+    {
+      "index": 6,
+      "eml_file": "primeproduct.co.za/0006_2020-07-31_0840_Nanet@primeproduct.co.za_RE_Confirmation_of_Bank_Details.eml",
+      "json_file": "primeproduct.co.za/0006_2020-07-31_0840_Nanet@primeproduct.co.za_RE_Confirmation_of_Bank_Details.forensic.json",
+      "subject": "RE: Confirmation of Bank Details",
+      "from": "Nanet@primeproduct.co.za",
+      "date": "2020-07-31 08:40:18+00:00",
+      "attachments": 0,
+      "sha256": "34502d6cb8cee118a5d7385ac6fbd32f5524e871392ed64fff4009f88b7c9da2"
+    },
+    {
+      "index": 7,
+      "eml_file": "regima.zone/0007_2020-07-31_0843_bern@regima.zone_RE_Confirmation_of_Bank_Details.eml",
+      "json_file": "regima.zone/0007_2020-07-31_0843_bern@regima.zone_RE_Confirmation_of_Bank_Details.forensic.json",
+      "subject": "RE: Confirmation of Bank Details",
+      "from": "bern@regima.zone",
+      "date": "2020-07-31 08:43:09+00:00",
+      "attachments": 0,
+      "sha256": "a9e15d11bf94a633c5710f23420bb3014dda4de3270c0bc64d9f24851728639c"
+    },
+    {
+      "index": 8,
+      "eml_file": "regima.zone/0008_2020-09-15_1035_bern@regima.zone_FW_IMPORTANT_-_DO_NOT_USE_PREVIOUSLY_SENT_BANK_DET.eml",
+      "json_file": "regima.zone/0008_2020-09-15_1035_bern@regima.zone_FW_IMPORTANT_-_DO_NOT_USE_PREVIOUSLY_SENT_BANK_DET.forensic.json",
+      "subject": "FW: IMPORTANT - DO NOT USE PREVIOUSLY SENT BANK DETAILS - REGIMA EUROPE",
+      "from": "bern@regima.zone",
+      "date": "2020-09-15 10:35:57+00:00",
+      "attachments": 0,
+      "sha256": "21a230d5a95a885331b526afee5e6fb907f3a4809b0d3f8d0d93209e15cd785c"
+    },
+    {
+      "index": 9,
+      "eml_file": "regima.zone/0009_2020-09-30_0625_kayla@regima.zone_Bank_Details.eml",
+      "json_file": "regima.zone/0009_2020-09-30_0625_kayla@regima.zone_Bank_Details.forensic.json",
+      "subject": "Bank Details ",
+      "from": "kayla@regima.zone",
+      "date": "2020-09-30 06:25:56+00:00",
+      "attachments": 0,
+      "sha256": "4acd9aa23364ab3e6e9163128732f32710a637fdd72368812fea5f8f3cda880a"
+    },
+    {
+      "index": 10,
+      "eml_file": "salco.co.za/0010_2020-09-30_0639_henry@salco.co.za_RE_Bank_Details.eml",
+      "json_file": "salco.co.za/0010_2020-09-30_0639_henry@salco.co.za_RE_Bank_Details.forensic.json",
+      "subject": "RE: Bank Details ",
+      "from": "henry@salco.co.za",
+      "date": "2020-09-30 06:39:45+00:00",
+      "attachments": 0,
+      "sha256": "3d948968822bf49a86bb7fb97607afca7fe84e41b878a656fd961d8d5bc97d56"
+    },
+    {
+      "index": 11,
+      "eml_file": "regima.zone/0011_2021-08-31_1057_rynette@regima.zone_Tranquility_Bank_Details.eml",
+      "json_file": "regima.zone/0011_2021-08-31_1057_rynette@regima.zone_Tranquility_Bank_Details.forensic.json",
+      "subject": "Tranquility Bank Details",
+      "from": "rynette@regima.zone",
+      "date": "2021-08-31 10:57:00+00:00",
+      "attachments": 0,
+      "sha256": "2b8bbd8e66691e006500956f935ce2da29c58dfff72080515c2994aa74087063"
+    },
+    {
+      "index": 12,
+      "eml_file": "regima.zone/0012_2021-08-31_1057_rynette@regima.zone_Tranquility_Bank_Details.eml",
+      "json_file": "regima.zone/0012_2021-08-31_1057_rynette@regima.zone_Tranquility_Bank_Details.forensic.json",
+      "subject": "Tranquility Bank Details",
+      "from": "rynette@regima.zone",
+      "date": "2021-08-31 10:57:07+00:00",
+      "attachments": 0,
+      "sha256": "e35577aeff99d071b70a5f7865c3a5cff83707c3859c75ecd1bf916846c424b3"
+    },
+    {
+      "index": 13,
+      "eml_file": "regima.com/0013_2021-08-31_1058_kent@regima.com_RE_Tranquility_Bank_Details.eml",
+      "json_file": "regima.com/0013_2021-08-31_1058_kent@regima.com_RE_Tranquility_Bank_Details.forensic.json",
+      "subject": "RE: Tranquility Bank Details",
+      "from": "kent@regima.com",
+      "date": "2021-08-31 10:58:12+00:00",
+      "attachments": 0,
+      "sha256": "07decd44d617714a61bdee155c4305ab79962c2c27bcd570aeaccb309afb5e9e"
+    },
+    {
+      "index": 14,
+      "eml_file": "regima.com/0014_2021-08-31_1058_kent@regima.com_RE_Tranquility_Bank_Details.eml",
+      "json_file": "regima.com/0014_2021-08-31_1058_kent@regima.com_RE_Tranquility_Bank_Details.forensic.json",
+      "subject": "RE: Tranquility Bank Details",
+      "from": "kent@regima.com",
+      "date": "2021-08-31 10:58:13+00:00",
+      "attachments": 0,
+      "sha256": "0893e39a995832abfe97224f3c8035f5660b17a53ab099f28023c423b1ba5c8d"
+    },
+    {
+      "index": 15,
+      "eml_file": "regima.zone/0015_2021-08-31_1058_rynette@regima.zone_FW_Tranquility_Bank_Details.eml",
+      "json_file": "regima.zone/0015_2021-08-31_1058_rynette@regima.zone_FW_Tranquility_Bank_Details.forensic.json",
+      "subject": "FW: Tranquility Bank Details",
+      "from": "rynette@regima.zone",
+      "date": "2021-08-31 10:58:16+00:00",
+      "attachments": 0,
+      "sha256": "3dab2ca66d090fe2b7b1163885ee1e5bcabeadc4d3155684b4180b081aa80410"
+    },
+    {
+      "index": 16,
+      "eml_file": "regima.zone/0016_2021-08-31_1100_rynette@regima.zone_Read_Tranquility_Bank_Details.eml",
+      "json_file": "regima.zone/0016_2021-08-31_1100_rynette@regima.zone_Read_Tranquility_Bank_Details.forensic.json",
+      "subject": "Read: Tranquility Bank Details",
+      "from": "rynette@regima.zone",
+      "date": "2021-08-31 11:00:17+00:00",
+      "attachments": 0,
+      "sha256": "3d57d90d9a538068dcfaf77b9fcd249f8688e9b83414909282afece15d6d21fb"
+    },
+    {
+      "index": 17,
+      "eml_file": "regima.zone/0017_2021-08-31_1101_jax@regima.zone_RE_Tranquility_Bank_Details.eml",
+      "json_file": "regima.zone/0017_2021-08-31_1101_jax@regima.zone_RE_Tranquility_Bank_Details.forensic.json",
+      "subject": "RE: Tranquility Bank Details",
+      "from": "jax@regima.zone",
+      "date": "2021-08-31 11:01:00+00:00",
+      "attachments": 0,
+      "sha256": "087e5a007a9e05eedcbdb68975251640faac896bc5f532de942823492b93acbe"
+    },
+    {
+      "index": 18,
+      "eml_file": "regima.zone/0018_2021-08-31_1101_jax@regima.zone_Read_Tranquility_Bank_Details.eml",
+      "json_file": "regima.zone/0018_2021-08-31_1101_jax@regima.zone_Read_Tranquility_Bank_Details.forensic.json",
+      "subject": "Read: Tranquility Bank Details",
+      "from": "jax@regima.zone",
+      "date": "2021-08-31 11:01:20+00:00",
+      "attachments": 0,
+      "sha256": "068002aaf4911ff4fcefd4672c1faf0596741a567894dcad73af8e3ee5f37583"
+    },
+    {
+      "index": 19,
+      "eml_file": "regima.zone/0019_2021-08-31_1101_jax@regima.zone_RE_Tranquility_Bank_Details.eml",
+      "json_file": "regima.zone/0019_2021-08-31_1101_jax@regima.zone_RE_Tranquility_Bank_Details.forensic.json",
+      "subject": "RE: Tranquility Bank Details",
+      "from": "jax@regima.zone",
+      "date": "2021-08-31 11:01:42+00:00",
+      "attachments": 0,
+      "sha256": "c29208a0df5583bb0f3ae12e472196e823fa1c25c1f38b980754487bdcbbe45c"
+    },
+    {
+      "index": 20,
+      "eml_file": "regima.zone/0020_2021-08-31_1102_rynette@regima.zone_RE_Tranquility_Bank_Details.eml",
+      "json_file": "regima.zone/0020_2021-08-31_1102_rynette@regima.zone_RE_Tranquility_Bank_Details.forensic.json",
+      "subject": "RE: Tranquility Bank Details",
+      "from": "rynette@regima.zone",
+      "date": "2021-08-31 11:02:00+00:00",
+      "attachments": 0,
+      "sha256": "63778a8ef1a2a51db22ff9201f0547e31df13377534804884e1f6b973c7a82d7"
+    },
+    {
+      "index": 21,
+      "eml_file": "regima.zone/0021_2021-08-31_1102_jax@regima.zone_RE_Tranquility_Bank_Details.eml",
+      "json_file": "regima.zone/0021_2021-08-31_1102_jax@regima.zone_RE_Tranquility_Bank_Details.forensic.json",
+      "subject": "RE: Tranquility Bank Details",
+      "from": "jax@regima.zone",
+      "date": "2021-08-31 11:02:20+00:00",
+      "attachments": 0,
+      "sha256": "7b0187f9a5d14c10f504bac2778aa701c44c5d2918e348bb84b4247c176222b9"
+    },
+    {
+      "index": 22,
+      "eml_file": "regima.zone/0022_2021-08-31_1102_rynette@regima.zone_RE_Tranquility_Bank_Details.eml",
+      "json_file": "regima.zone/0022_2021-08-31_1102_rynette@regima.zone_RE_Tranquility_Bank_Details.forensic.json",
+      "subject": "RE: Tranquility Bank Details",
+      "from": "rynette@regima.zone",
+      "date": "2021-08-31 11:02:34+00:00",
+      "attachments": 0,
+      "sha256": "86177b69e89253bfed701356a402cab5b1aec3b003b4e59d040a7afe79e91b70"
+    },
+    {
+      "index": 23,
+      "eml_file": "regima.com/0023_2021-08-31_1107_orders@regima.com_Tranquility_Bank_Details.eml",
+      "json_file": "regima.com/0023_2021-08-31_1107_orders@regima.com_Tranquility_Bank_Details.forensic.json",
+      "subject": "Tranquility Bank Details",
+      "from": "orders@regima.com",
+      "date": "2021-08-31 11:07:05+00:00",
+      "attachments": 0,
+      "sha256": "0873fcfe6d51d9ca6de5ebe8fc3457b7d575ca55c4402286d5703bb32ee0da69"
+    },
+    {
+      "index": 24,
+      "eml_file": "regima.com/0024_2021-08-31_1107_orders@regima.com_Tranquility_Bank_Details.eml",
+      "json_file": "regima.com/0024_2021-08-31_1107_orders@regima.com_Tranquility_Bank_Details.forensic.json",
+      "subject": "Tranquility Bank Details",
+      "from": "orders@regima.com",
+      "date": "2021-08-31 11:07:05+00:00",
+      "attachments": 0,
+      "sha256": "8ff2e16cb27573508131c5745db29dce7227003dec1dcc55a2dd9226ac332434"
+    },
+    {
+      "index": 25,
+      "eml_file": "regima.zone/0025_2021-08-31_1107_rynette@regima.zone_FW_Tranquility_Bank_Details.eml",
+      "json_file": "regima.zone/0025_2021-08-31_1107_rynette@regima.zone_FW_Tranquility_Bank_Details.forensic.json",
+      "subject": "FW: Tranquility Bank Details",
+      "from": "rynette@regima.zone",
+      "date": "2021-08-31 11:07:08+00:00",
+      "attachments": 0,
+      "sha256": "3f37700dc6a1f8af4d64eea5b3ce6b8247bc1827dcc702bf19a505028f30086a"
+    },
+    {
+      "index": 26,
+      "eml_file": "regima.com/0026_2021-09-01_0728_orders@regima.com_FW_Tranquility_Bank_Details.eml",
+      "json_file": "regima.com/0026_2021-09-01_0728_orders@regima.com_FW_Tranquility_Bank_Details.forensic.json",
+      "subject": "FW: Tranquility Bank Details",
+      "from": "orders@regima.com",
+      "date": "2021-09-01 07:28:25+00:00",
+      "attachments": 0,
+      "sha256": "3bcce6745654c4d08dcc2f75d926acb07792100f92b97fbad2a81bed9f5644f3"
+    },
+    {
+      "index": 27,
+      "eml_file": "regima.com/0027_2021-09-01_0728_orders@regima.com_FW_Tranquility_Bank_Details.eml",
+      "json_file": "regima.com/0027_2021-09-01_0728_orders@regima.com_FW_Tranquility_Bank_Details.forensic.json",
+      "subject": "FW: Tranquility Bank Details",
+      "from": "orders@regima.com",
+      "date": "2021-09-01 07:28:28+00:00",
+      "attachments": 0,
+      "sha256": "d9ebcc4a1dc32605e090c5bf25555541438faa18c5019c614fccfde62fd6bfe2"
+    },
+    {
+      "index": 28,
+      "eml_file": "regima.zone/0028_2021-09-01_0728_rynette@regima.zone_FW_Tranquility_Bank_Details.eml",
+      "json_file": "regima.zone/0028_2021-09-01_0728_rynette@regima.zone_FW_Tranquility_Bank_Details.forensic.json",
+      "subject": "FW: Tranquility Bank Details",
+      "from": "rynette@regima.zone",
+      "date": "2021-09-01 07:28:28+00:00",
+      "attachments": 0,
+      "sha256": "ccb89a481d6130921eddd2816c03417970af8b802c9a9059dbc1f67d1ee2f6ed"
+    },
+    {
+      "index": 29,
+      "eml_file": "regima.zone/0029_2021-09-09_1307_claire@regima.zone_RegimA_Bank_Details.eml",
+      "json_file": "regima.zone/0029_2021-09-09_1307_claire@regima.zone_RegimA_Bank_Details.forensic.json",
+      "subject": "RegimA Bank Details",
+      "from": "claire@regima.zone",
+      "date": "2021-09-09 13:07:00+00:00",
+      "attachments": 0,
+      "sha256": "cf7fdcf2de46d0fb67c5e57a481233362450b1daef9999d0c7f8ea3358fcec4f"
+    },
+    {
+      "index": 30,
+      "eml_file": "icloud.com/0030_2021-09-12_1209_louloucoulson@icloud.com_Re_RegimA_Bank_Details.eml",
+      "json_file": "icloud.com/0030_2021-09-12_1209_louloucoulson@icloud.com_Re_RegimA_Bank_Details.forensic.json",
+      "subject": "Re: RegimA Bank Details",
+      "from": "louloucoulson@icloud.com",
+      "date": "2021-09-12 12:09:14+00:00",
+      "attachments": 0,
+      "sha256": "cf1e1455083e8e3ab1f98c049ab68d9a22a656b38c3a9464393f5f7322d79469"
+    },
+    {
+      "index": 31,
+      "eml_file": "regima.zone/0031_2021-10-06_0745_rynette@regima.zone_FW_Tranquility_Bank_Details.eml",
+      "json_file": "regima.zone/0031_2021-10-06_0745_rynette@regima.zone_FW_Tranquility_Bank_Details.forensic.json",
+      "subject": "FW: Tranquility Bank Details",
+      "from": "rynette@regima.zone",
+      "date": "2021-10-06 07:45:00+00:00",
+      "attachments": 0,
+      "sha256": "5c7df199ff4501ac5c2ea675e240fbd553b1a732a13be62b806e91a263f0ba32"
+    },
+    {
+      "index": 32,
+      "eml_file": "regima.zone/0032_2021-10-06_0745_rynette@regima.zone_FW_Tranquility_Bank_Details.eml",
+      "json_file": "regima.zone/0032_2021-10-06_0745_rynette@regima.zone_FW_Tranquility_Bank_Details.forensic.json",
+      "subject": "FW: Tranquility Bank Details",
+      "from": "rynette@regima.zone",
+      "date": "2021-10-06 07:45:18+00:00",
+      "attachments": 0,
+      "sha256": "c6aae06ca17a93fb2778c38c8869530e9fef20b87c1b716ef07897a5978bdb7e"
+    },
+    {
+      "index": 33,
+      "eml_file": "regima.zone/0033_2021-10-06_1049_rynette@regima.zone_RE_Tranquility_Bank_Details.eml",
+      "json_file": "regima.zone/0033_2021-10-06_1049_rynette@regima.zone_RE_Tranquility_Bank_Details.forensic.json",
+      "subject": "RE: Tranquility Bank Details",
+      "from": "rynette@regima.zone",
+      "date": "2021-10-06 10:49:00+00:00",
+      "attachments": 0,
+      "sha256": "4ae443a32a436ff66ed6142a25d3e00b18cdd23567a7bb35da055735f7afd530"
+    },
+    {
+      "index": 34,
+      "eml_file": "regima.zone/0034_2021-10-06_1049_rynette@regima.zone_RE_Tranquility_Bank_Details.eml",
+      "json_file": "regima.zone/0034_2021-10-06_1049_rynette@regima.zone_RE_Tranquility_Bank_Details.forensic.json",
+      "subject": "RE: Tranquility Bank Details",
+      "from": "rynette@regima.zone",
+      "date": "2021-10-06 10:49:52+00:00",
+      "attachments": 0,
+      "sha256": "e031c069da95cfa7d0b553ecf045d0a913f62d17e9fa6d3239278ac617ab9f74"
+    },
+    {
+      "index": 35,
+      "eml_file": "regima.zone/0035_2021-10-06_1125_jax@regima.zone_RE_Tranquility_Bank_Details.eml",
+      "json_file": "regima.zone/0035_2021-10-06_1125_jax@regima.zone_RE_Tranquility_Bank_Details.forensic.json",
+      "subject": "RE: Tranquility Bank Details",
+      "from": "jax@regima.zone",
+      "date": "2021-10-06 11:25:34+00:00",
+      "attachments": 0,
+      "sha256": "8bc669d6f59fbf5706f142a9f61538b9256338468e4e89ba31f4dab2e68bc611"
+    },
+    {
+      "index": 36,
+      "eml_file": "regima.zone/0036_2021-10-27_0948_kayla@regima.zone_Gabriel_Temp_Bank_Details.eml",
+      "json_file": "regima.zone/0036_2021-10-27_0948_kayla@regima.zone_Gabriel_Temp_Bank_Details.forensic.json",
+      "subject": "Gabriel Temp Bank Details ",
+      "from": "kayla@regima.zone",
+      "date": "2021-10-27 09:48:00+00:00",
+      "attachments": 0,
+      "sha256": "2a26c04606b041bcce28e53fea0f0e81a55f07c02d65f62cb938540026c86ffd"
+    },
+    {
+      "index": 37,
+      "eml_file": "regima.zone/0037_2021-10-27_0948_kayla@regima.zone_Gabriel_Temp_Bank_Details.eml",
+      "json_file": "regima.zone/0037_2021-10-27_0948_kayla@regima.zone_Gabriel_Temp_Bank_Details.forensic.json",
+      "subject": "Gabriel Temp Bank Details ",
+      "from": "kayla@regima.zone",
+      "date": "2021-10-27 09:48:02+00:00",
+      "attachments": 0,
+      "sha256": "8d9e8a282823e97fe8125db1f8650267be9b114806cd8b814114a0c3123e8474"
+    },
+    {
+      "index": 38,
+      "eml_file": "regima.zone/0038_2021-10-27_0956_kayla@regima.zone_Re_Gabriel_Temp_Bank_Details.eml",
+      "json_file": "regima.zone/0038_2021-10-27_0956_kayla@regima.zone_Re_Gabriel_Temp_Bank_Details.forensic.json",
+      "subject": "Re: Gabriel Temp Bank Details ",
+      "from": "kayla@regima.zone",
+      "date": "2021-10-27 09:56:39+00:00",
+      "attachments": 0,
+      "sha256": "78a75c761116d6405bb6068c503d0cb39d8dd74c10a27c655ab66cb7363cd02d"
+    },
+    {
+      "index": 39,
+      "eml_file": "regima.zone/0039_2021-10-27_0956_kayla@regima.zone_Re_Gabriel_Temp_Bank_Details.eml",
+      "json_file": "regima.zone/0039_2021-10-27_0956_kayla@regima.zone_Re_Gabriel_Temp_Bank_Details.forensic.json",
+      "subject": "Re: Gabriel Temp Bank Details ",
+      "from": "kayla@regima.zone",
+      "date": "2021-10-27 09:56:40+00:00",
+      "attachments": 0,
+      "sha256": "2200b1aa24e3c6a5c1f0adace3204c0b0279f39a7546ff125a84a3f6f3e415df"
+    },
+    {
+      "index": 40,
+      "eml_file": "beautyquip.co.za/0040_2021-10-28_0920_info@beautyquip.co.za_J.H.C._BeautyQuip_Bank_Details_Have_Not_Changed.eml",
+      "json_file": "beautyquip.co.za/0040_2021-10-28_0920_info@beautyquip.co.za_J.H.C._BeautyQuip_Bank_Details_Have_Not_Changed.forensic.json",
+      "subject": "J.H.C. BeautyQuip Bank Details Have Not Changed",
+      "from": "info@beautyquip.co.za",
+      "date": "2021-10-28 09:20:02+00:00",
+      "attachments": 0,
+      "sha256": "6fe882dca7e17adf9180c60fcf3c91a75014a41c71b9a65576169887155ec36c"
+    },
+    {
+      "index": 41,
+      "eml_file": "regima.zone/0041_2021-10-28_0920_rynette@regima.zone_FW_J.H.C._BeautyQuip_Bank_Details_Have_Not_Changed.eml",
+      "json_file": "regima.zone/0041_2021-10-28_0920_rynette@regima.zone_FW_J.H.C._BeautyQuip_Bank_Details_Have_Not_Changed.forensic.json",
+      "subject": "FW: J.H.C. BeautyQuip Bank Details Have Not Changed",
+      "from": "rynette@regima.zone",
+      "date": "2021-10-28 09:20:09+00:00",
+      "attachments": 0,
+      "sha256": "39d769321a71dde84245c8889f74a51ddfe3b82ae592e5cc00d99fd9d454e89c"
+    },
+    {
+      "index": 42,
+      "eml_file": "regima.zone/0042_2021-11-15_0612_jax@regima.zone_DID_GABRIEL_GIVE_YOU_NEW_BANK_DETAILS.eml",
+      "json_file": "regima.zone/0042_2021-11-15_0612_jax@regima.zone_DID_GABRIEL_GIVE_YOU_NEW_BANK_DETAILS.forensic.json",
+      "subject": "DID GABRIEL GIVE YOU NEW BANK DETAILS?",
+      "from": "jax@regima.zone",
+      "date": "2021-11-15 06:12:03+00:00",
+      "attachments": 0,
+      "sha256": "463733553456007d91f8afcc851c21442466c8e84a967a1961d4004fb80660dc"
+    },
+    {
+      "index": 43,
+      "eml_file": "regima.zone/0043_2021-11-15_0657_rynette@regima.zone_RE_DID_GABRIEL_GIVE_YOU_NEW_BANK_DETAILS.eml",
+      "json_file": "regima.zone/0043_2021-11-15_0657_rynette@regima.zone_RE_DID_GABRIEL_GIVE_YOU_NEW_BANK_DETAILS.forensic.json",
+      "subject": "RE: DID GABRIEL GIVE YOU NEW BANK DETAILS?",
+      "from": "rynette@regima.zone",
+      "date": "2021-11-15 06:57:00+00:00",
+      "attachments": 0,
+      "sha256": "bddee5bc3f572d11d6dbfaef89fecf11ce435a71786badf7d302bd91315b56bc"
+    },
+    {
+      "index": 44,
+      "eml_file": "regima.zone/0044_2021-11-15_0657_rynette@regima.zone_RE_DID_GABRIEL_GIVE_YOU_NEW_BANK_DETAILS.eml",
+      "json_file": "regima.zone/0044_2021-11-15_0657_rynette@regima.zone_RE_DID_GABRIEL_GIVE_YOU_NEW_BANK_DETAILS.forensic.json",
+      "subject": "RE: DID GABRIEL GIVE YOU NEW BANK DETAILS?",
+      "from": "rynette@regima.zone",
+      "date": "2021-11-15 06:57:18+00:00",
+      "attachments": 0,
+      "sha256": "c5e11462c6cad6e341ac396b6d5cd5ace5b3291b659ec48cccdb0c137dd721e4"
+    },
+    {
+      "index": 45,
+      "eml_file": "regima.zone/0045_2021-11-22_1335_claire@regima.zone_RegimA_Bank_Details.eml",
+      "json_file": "regima.zone/0045_2021-11-22_1335_claire@regima.zone_RegimA_Bank_Details.forensic.json",
+      "subject": "RegimA Bank Details",
+      "from": "claire@regima.zone",
+      "date": "2021-11-22 13:35:00+00:00",
+      "attachments": 0,
+      "sha256": "00616e4032086ef2bfe68b0940d908f4cf5d685988f05bd668b9aeadec01c5db"
+    },
+    {
+      "index": 46,
+      "eml_file": "regima.zone/0046_2021-11-22_1336_claire@regima.zone_RegimA_Bank_Details.eml",
+      "json_file": "regima.zone/0046_2021-11-22_1336_claire@regima.zone_RegimA_Bank_Details.forensic.json",
+      "subject": "RegimA Bank Details",
+      "from": "claire@regima.zone",
+      "date": "2021-11-22 13:36:00+00:00",
+      "attachments": 0,
+      "sha256": "be1044feef5d33bd9c7c85d4b20d6edeafa4e1a50f8566d9f2626c7d5a2bce3c"
+    },
+    {
+      "index": 47,
+      "eml_file": "regima.zone/0047_2022-01-25_1533_claire@regima.zone_RegimA_Bank_Details.eml",
+      "json_file": "regima.zone/0047_2022-01-25_1533_claire@regima.zone_RegimA_Bank_Details.forensic.json",
+      "subject": "RegimA Bank Details",
+      "from": "claire@regima.zone",
+      "date": "2022-01-25 15:33:00+00:00",
+      "attachments": 0,
+      "sha256": "6d228b903b709a57bd59087067c9aae0f6ee41f64ef1b8643852587cde4b9155"
+    },
+    {
+      "index": 48,
+      "eml_file": "regima.zone/0048_2022-01-26_1020_claire@regima.zone_RegimA_Bank_Details.eml",
+      "json_file": "regima.zone/0048_2022-01-26_1020_claire@regima.zone_RegimA_Bank_Details.forensic.json",
+      "subject": "RegimA Bank Details",
+      "from": "claire@regima.zone",
+      "date": "2022-01-26 10:20:00+00:00",
+      "attachments": 0,
+      "sha256": "0191fc1fe9106c36d11135c0978db6f19e84b62a474a46ae7007b3e709fa3f78"
+    },
+    {
+      "index": 49,
+      "eml_file": "regima.zone/0049_2022-05-16_1241_rynette@regima.zone_Bank_details_-_Lloyds_UK.eml",
+      "json_file": "regima.zone/0049_2022-05-16_1241_rynette@regima.zone_Bank_details_-_Lloyds_UK.forensic.json",
+      "subject": "Bank details - Lloyds UK",
+      "from": "rynette@regima.zone",
+      "date": "2022-05-16 12:41:00+00:00",
+      "attachments": 0,
+      "sha256": "b4cc8c3cb57d8735db1ed1e6d62f60f1921460447e1a912b8fad5fe7e753eae4"
+    },
+    {
+      "index": 50,
+      "eml_file": "regima.zone/0050_2022-05-16_1241_rynette@regima.zone_Bank_details_-_Lloyds_UK.eml",
+      "json_file": "regima.zone/0050_2022-05-16_1241_rynette@regima.zone_Bank_details_-_Lloyds_UK.forensic.json",
+      "subject": "Bank details - Lloyds UK",
+      "from": "rynette@regima.zone",
+      "date": "2022-05-16 12:41:24+00:00",
+      "attachments": 0,
+      "sha256": "67b2625e5e70b9ce63c1fab63550a0c7dfe64b9de92ea92f2a4c2efc6b047deb"
+    }
+  ]
+}

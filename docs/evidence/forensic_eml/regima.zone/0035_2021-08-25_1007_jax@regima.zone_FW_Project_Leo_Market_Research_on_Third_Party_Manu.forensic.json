@@ -1,0 +1,42 @@
+{
+  "_schema": "exchange-forensic-eml/v1",
+  "_generated": "2026-03-10T03:53:26.191547+00:00",
+  "_source": "neon-exchange-sync",
+  "file_integrity": {
+    "eml_file": "/home/ubuntu/revstream1/docs/evidence/forensic_eml/regima.zone/0035_2021-08-25_1007_jax@regima.zone_FW_Project_Leo_Market_Research_on_Third_Party_Manu.eml",
+    "file_size_bytes": 759,
+    "md5": "39692913dadbbf0e9c3baa1381b0119f",
+    "sha1": "2088f3f875c3408c16717ecd94374b5b533d8597",
+    "sha256": "3b8470d29cd0cda56f6a796ea6ef6990adbfc2606ac785b49e4237511d0ead97"
+  },
+  "message_identity": {
+    "exchange_sync_id": "AAMkAGM2Y2E0NWVmLWEzZTktNDc1Mi1iY2I4LTU3OTBlMTJhMTllNQBGAAAAAAA97n0AeO7PT4cl7xDgAtvXBwC2ver4KgT-RpGXubXzjgSOAAIZYOy5AAC2ver4KgT-RpGXubXzjgSOAAdIAUSCAAA=",
+    "internet_message_id": "<DB7PR08MB3306EB6DAC64FC372CF60C51ACC69@DB7PR08MB3306.eurprd08.prod.outlook.com>",
+    "conversation_id": "AAQkAGM2Y2E0NWVmLWEzZTktNDc1Mi1iY2I4LTU3OTBlMTJhMTllNQAQAGcmuqz6JkMjhEvuDwDMWZs="
+  },
+  "envelope": {
+    "subject": "FW: Project Leo: Market Research on Third Party Manufacturers",
+    "from_name": "Jacqui Faucitt",
+    "from_address": "jax@regima.zone",
+    "to_recipients": [
+      {
+        "name": "Daniel Faucitt",
+        "address": "d@rzo.io"
+      }
+    ],
+    "cc_recipients": null,
+    "received_datetime": "2021-08-25 10:07:00+00:00"
+  },
+  "mailbox_context": {
+    "user_email": "jax@regima.zone",
+    "user_name": "Jacqui Faucitt",
+    "folder_name": "Archive",
+    "folder_id": "AQMkAGM2Y2E0NWVmLWEzZTktNDc1Mi1iY2I4LTU3OTBlMTJhMTllNQAuAAADPe59AHjuz0_HJe8Q4ALb1wEAtr3q_CoE-0aRl7m1844EjgACGWDsuQAAAA=="
+  },
+  "body": {
+    "content_type": null,
+    "preview": "Danny, please look at this and let me know how you would like me to respond?  It Unilever, which is a bit strange\r\n\r\nFrom: lindsey@elementalresearch.co.za <lindsey@elementalresearch.co.za>\r\nSent: Wednesday, 25 August 2021 11:55 AM\r\nTo: Jacqui Faucitt <jax",
+    "body_length_chars": 0
+  },
+  "attachments": []
+}

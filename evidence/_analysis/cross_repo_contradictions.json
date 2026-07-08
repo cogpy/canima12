@@ -1,0 +1,2745 @@
+[
+  {
+    "item_a_id": "DOCUMENT_8234150332AD",
+    "item_a_repo": "ad-res-j7",
+    "item_b_id": "DOCUMENT_CD201D9F64F0",
+    "item_b_repo": "revstream1",
+    "shared_entities": [
+      "ORG_010"
+    ],
+    "claim_a": "EVT-064",
+    "claim_b": "contradicts:EVT-064",
+    "tension_type": "direct",
+    "confidence": 0.9
+  },
+  {
+    "item_a_id": "DOCUMENT_8234150332AD",
+    "item_a_repo": "ad-res-j7",
+    "item_b_id": "IMAGE_B3A654639E43",
+    "item_b_repo": "revstream1",
+    "shared_entities": [
+      "ORG_010"
+    ],
+    "claim_a": "EVT-064",
+    "claim_b": "contradicts:EVT-064",
+    "tension_type": "direct",
+    "confidence": 0.9
+  },
+  {
+    "item_a_id": "DOCUMENT_8234150332AD",
+    "item_a_repo": "ad-res-j7",
+    "item_b_id": "DOCUMENT_6AA5357D76A9",
+    "item_b_repo": "revstream1",
+    "shared_entities": [
+      "ORG_010"
+    ],
+    "claim_a": "EVT-064",
+    "claim_b": "contradicts:EVT-064",
+    "tension_type": "direct",
+    "confidence": 0.9
+  },
+  {
+    "item_a_id": "DOCUMENT_8234150332AD",
+    "item_a_repo": "ad-res-j7",
+    "item_b_id": "DOCUMENT_E56316221ECF",
+    "item_b_repo": "revstream1",
+    "shared_entities": [
+      "ORG_010"
+    ],
+    "claim_a": "EVT-064",
+    "claim_b": "contradicts:EVT-064",
+    "tension_type": "direct",
+    "confidence": 0.9
+  },
+  {
+    "item_a_id": "DOCUMENT_1E6541334F95",
+    "item_a_repo": "ad-res-j7",
+    "item_b_id": "DOCUMENT_CD201D9F64F0",
+    "item_b_repo": "revstream1",
+    "shared_entities": [
+      "ORG_010"
+    ],
+    "claim_a": "EVT-063",
+    "claim_b": "contradicts:EVT-063",
+    "tension_type": "direct",
+    "confidence": 0.9
+  },
+  {
+    "item_a_id": "DOCUMENT_1E6541334F95",
+    "item_a_repo": "ad-res-j7",
+    "item_b_id": "IMAGE_B3A654639E43",
+    "item_b_repo": "revstream1",
+    "shared_entities": [
+      "ORG_010"
+    ],
+    "claim_a": "EVT-063",
+    "claim_b": "contradicts:EVT-063",
+    "tension_type": "direct",
+    "confidence": 0.9
+  },
+  {
+    "item_a_id": "DOCUMENT_1E6541334F95",
+    "item_a_repo": "ad-res-j7",
+    "item_b_id": "DOCUMENT_6AA5357D76A9",
+    "item_b_repo": "revstream1",
+    "shared_entities": [
+      "ORG_010"
+    ],
+    "claim_a": "EVT-063",
+    "claim_b": "contradicts:EVT-063",
+    "tension_type": "direct",
+    "confidence": 0.9
+  },
+  {
+    "item_a_id": "DOCUMENT_1E6541334F95",
+    "item_a_repo": "ad-res-j7",
+    "item_b_id": "DOCUMENT_E56316221ECF",
+    "item_b_repo": "revstream1",
+    "shared_entities": [
+      "ORG_010"
+    ],
+    "claim_a": "EVT-063",
+    "claim_b": "contradicts:EVT-063",
+    "tension_type": "direct",
+    "confidence": 0.9
+  },
+  {
+    "item_a_id": "DOCUMENT_1E6541334F95",
+    "item_a_repo": "ad-res-j7",
+    "item_b_id": "UNKNOWN_6CC42B772F00",
+    "item_b_repo": "revstream1",
+    "shared_entities": [
+      "ORG_010"
+    ],
+    "claim_a": "contradicts:EVT-064",
+    "claim_b": "EVT-064",
+    "tension_type": "direct",
+    "confidence": 0.9
+  },
+  {
+    "item_a_id": "DOCUMENT_1E6541334F95",
+    "item_a_repo": "ad-res-j7",
+    "item_b_id": "DOCUMENT_2CE763EC13BC",
+    "item_b_repo": "revstream1",
+    "shared_entities": [
+      "ORG_010"
+    ],
+    "claim_a": "contradicts:EVT-064",
+    "claim_b": "EVT-064",
+    "tension_type": "direct",
+    "confidence": 0.9
+  },
+  {
+    "item_a_id": "DOCUMENT_700CAB3AA01C",
+    "item_a_repo": "ad-res-j7",
+    "item_b_id": "DOCUMENT_CD201D9F64F0",
+    "item_b_repo": "revstream1",
+    "shared_entities": [
+      "ORG_010"
+    ],
+    "claim_a": "EVT-064",
+    "claim_b": "contradicts:EVT-064",
+    "tension_type": "direct",
+    "confidence": 0.9
+  },
+  {
+    "item_a_id": "DOCUMENT_700CAB3AA01C",
+    "item_a_repo": "ad-res-j7",
+    "item_b_id": "IMAGE_B3A654639E43",
+    "item_b_repo": "revstream1",
+    "shared_entities": [
+      "ORG_010"
+    ],
+    "claim_a": "EVT-064",
+    "claim_b": "contradicts:EVT-064",
+    "tension_type": "direct",
+    "confidence": 0.9
+  },
+  {
+    "item_a_id": "DOCUMENT_700CAB3AA01C",
+    "item_a_repo": "ad-res-j7",
+    "item_b_id": "DOCUMENT_6AA5357D76A9",
+    "item_b_repo": "revstream1",
+    "shared_entities": [
+      "ORG_010"
+    ],
+    "claim_a": "EVT-064",
+    "claim_b": "contradicts:EVT-064",
+    "tension_type": "direct",
+    "confidence": 0.9
+  },
+  {
+    "item_a_id": "DOCUMENT_700CAB3AA01C",
+    "item_a_repo": "ad-res-j7",
+    "item_b_id": "DOCUMENT_E56316221ECF",
+    "item_b_repo": "revstream1",
+    "shared_entities": [
+      "ORG_010"
+    ],
+    "claim_a": "EVT-064",
+    "claim_b": "contradicts:EVT-064",
+    "tension_type": "direct",
+    "confidence": 0.9
+  },
+  {
+    "item_a_id": "EMAIL_BD7A00D740DF",
+    "item_a_repo": "ad-res-j7",
+    "item_b_id": "DOCUMENT_CD201D9F64F0",
+    "item_b_repo": "revstream1",
+    "shared_entities": [
+      "ORG_010"
+    ],
+    "claim_a": "EVT-063",
+    "claim_b": "contradicts:EVT-063",
+    "tension_type": "direct",
+    "confidence": 0.9
+  },
+  {
+    "item_a_id": "EMAIL_BD7A00D740DF",
+    "item_a_repo": "ad-res-j7",
+    "item_b_id": "IMAGE_B3A654639E43",
+    "item_b_repo": "revstream1",
+    "shared_entities": [
+      "ORG_010"
+    ],
+    "claim_a": "EVT-063",
+    "claim_b": "contradicts:EVT-063",
+    "tension_type": "direct",
+    "confidence": 0.9
+  },
+  {
+    "item_a_id": "EMAIL_BD7A00D740DF",
+    "item_a_repo": "ad-res-j7",
+    "item_b_id": "DOCUMENT_6AA5357D76A9",
+    "item_b_repo": "revstream1",
+    "shared_entities": [
+      "ORG_010"
+    ],
+    "claim_a": "EVT-063",
+    "claim_b": "contradicts:EVT-063",
+    "tension_type": "direct",
+    "confidence": 0.9
+  },
+  {
+    "item_a_id": "EMAIL_BD7A00D740DF",
+    "item_a_repo": "ad-res-j7",
+    "item_b_id": "DOCUMENT_E56316221ECF",
+    "item_b_repo": "revstream1",
+    "shared_entities": [
+      "ORG_010"
+    ],
+    "claim_a": "EVT-063",
+    "claim_b": "contradicts:EVT-063",
+    "tension_type": "direct",
+    "confidence": 0.9
+  },
+  {
+    "item_a_id": "EMAIL_BD7A00D740DF",
+    "item_a_repo": "ad-res-j7",
+    "item_b_id": "UNKNOWN_6CC42B772F00",
+    "item_b_repo": "revstream1",
+    "shared_entities": [
+      "ORG_010"
+    ],
+    "claim_a": "contradicts:EVT-064",
+    "claim_b": "EVT-064",
+    "tension_type": "direct",
+    "confidence": 0.9
+  },
+  {
+    "item_a_id": "EMAIL_BD7A00D740DF",
+    "item_a_repo": "ad-res-j7",
+    "item_b_id": "DOCUMENT_2CE763EC13BC",
+    "item_b_repo": "revstream1",
+    "shared_entities": [
+      "ORG_010"
+    ],
+    "claim_a": "contradicts:EVT-064",
+    "claim_b": "EVT-064",
+    "tension_type": "direct",
+    "confidence": 0.9
+  },
+  {
+    "item_a_id": "DOCUMENT_1F1FFE9D24BF",
+    "item_a_repo": "ad-res-j7",
+    "item_b_id": "DOCUMENT_CD201D9F64F0",
+    "item_b_repo": "revstream1",
+    "shared_entities": [
+      "ORG_010"
+    ],
+    "claim_a": "EVT-064",
+    "claim_b": "contradicts:EVT-064",
+    "tension_type": "direct",
+    "confidence": 0.9
+  },
+  {
+    "item_a_id": "DOCUMENT_1F1FFE9D24BF",
+    "item_a_repo": "ad-res-j7",
+    "item_b_id": "IMAGE_B3A654639E43",
+    "item_b_repo": "revstream1",
+    "shared_entities": [
+      "ORG_010"
+    ],
+    "claim_a": "EVT-064",
+    "claim_b": "contradicts:EVT-064",
+    "tension_type": "direct",
+    "confidence": 0.9
+  },
+  {
+    "item_a_id": "DOCUMENT_1F1FFE9D24BF",
+    "item_a_repo": "ad-res-j7",
+    "item_b_id": "DOCUMENT_6AA5357D76A9",
+    "item_b_repo": "revstream1",
+    "shared_entities": [
+      "ORG_010"
+    ],
+    "claim_a": "EVT-064",
+    "claim_b": "contradicts:EVT-064",
+    "tension_type": "direct",
+    "confidence": 0.9
+  },
+  {
+    "item_a_id": "DOCUMENT_1F1FFE9D24BF",
+    "item_a_repo": "ad-res-j7",
+    "item_b_id": "DOCUMENT_E56316221ECF",
+    "item_b_repo": "revstream1",
+    "shared_entities": [
+      "ORG_010"
+    ],
+    "claim_a": "EVT-064",
+    "claim_b": "contradicts:EVT-064",
+    "tension_type": "direct",
+    "confidence": 0.9
+  },
+  {
+    "item_a_id": "UNKNOWN_83BB8D0C061C",
+    "item_a_repo": "ad-res-j7",
+    "item_b_id": "DOCUMENT_A34F34671A0C",
+    "item_b_repo": "revstream1",
+    "shared_entities": [
+      "ReZonance"
+    ],
+    "claim_a": "EVT-063",
+    "claim_b": "contradicts:EVT-063",
+    "tension_type": "direct",
+    "confidence": 0.9
+  },
+  {
+    "item_a_id": "UNKNOWN_83BB8D0C061C",
+    "item_a_repo": "ad-res-j7",
+    "item_b_id": "IMAGE_551E3003D18E",
+    "item_b_repo": "revstream1",
+    "shared_entities": [
+      "ReZonance"
+    ],
+    "claim_a": "EVT-063",
+    "claim_b": "contradicts:EVT-063",
+    "tension_type": "direct",
+    "confidence": 0.9
+  },
+  {
+    "item_a_id": "UNKNOWN_7AEC8FDAB921",
+    "item_a_repo": "ad-res-j7",
+    "item_b_id": "DOCUMENT_A34F34671A0C",
+    "item_b_repo": "revstream1",
+    "shared_entities": [
+      "ReZonance"
+    ],
+    "claim_a": "EVT-063",
+    "claim_b": "contradicts:EVT-063",
+    "tension_type": "direct",
+    "confidence": 0.9
+  },
+  {
+    "item_a_id": "UNKNOWN_7AEC8FDAB921",
+    "item_a_repo": "ad-res-j7",
+    "item_b_id": "IMAGE_551E3003D18E",
+    "item_b_repo": "revstream1",
+    "shared_entities": [
+      "ReZonance"
+    ],
+    "claim_a": "EVT-063",
+    "claim_b": "contradicts:EVT-063",
+    "tension_type": "direct",
+    "confidence": 0.9
+  },
+  {
+    "item_a_id": "UNKNOWN_7201041D391D",
+    "item_a_repo": "ad-res-j7",
+    "item_b_id": "DOCUMENT_A34F34671A0C",
+    "item_b_repo": "revstream1",
+    "shared_entities": [
+      "ReZonance"
+    ],
+    "claim_a": "EVT-063",
+    "claim_b": "contradicts:EVT-063",
+    "tension_type": "direct",
+    "confidence": 0.9
+  },
+  {
+    "item_a_id": "UNKNOWN_7201041D391D",
+    "item_a_repo": "ad-res-j7",
+    "item_b_id": "IMAGE_551E3003D18E",
+    "item_b_repo": "revstream1",
+    "shared_entities": [
+      "ReZonance"
+    ],
+    "claim_a": "EVT-063",
+    "claim_b": "contradicts:EVT-063",
+    "tension_type": "direct",
+    "confidence": 0.9
+  },
+  {
+    "item_a_id": "UNKNOWN_CA959A7E1583",
+    "item_a_repo": "ad-res-j7",
+    "item_b_id": "DOCUMENT_A34F34671A0C",
+    "item_b_repo": "revstream1",
+    "shared_entities": [
+      "ReZonance"
+    ],
+    "claim_a": "EVT-063",
+    "claim_b": "contradicts:EVT-063",
+    "tension_type": "direct",
+    "confidence": 0.9
+  },
+  {
+    "item_a_id": "UNKNOWN_CA959A7E1583",
+    "item_a_repo": "ad-res-j7",
+    "item_b_id": "IMAGE_551E3003D18E",
+    "item_b_repo": "revstream1",
+    "shared_entities": [
+      "ReZonance"
+    ],
+    "claim_a": "EVT-063",
+    "claim_b": "contradicts:EVT-063",
+    "tension_type": "direct",
+    "confidence": 0.9
+  },
+  {
+    "item_a_id": "UNKNOWN_7DEF309B9432",
+    "item_a_repo": "ad-res-j7",
+    "item_b_id": "DOCUMENT_A34F34671A0C",
+    "item_b_repo": "revstream1",
+    "shared_entities": [
+      "ReZonance"
+    ],
+    "claim_a": "EVT-063",
+    "claim_b": "contradicts:EVT-063",
+    "tension_type": "direct",
+    "confidence": 0.9
+  },
+  {
+    "item_a_id": "UNKNOWN_7DEF309B9432",
+    "item_a_repo": "ad-res-j7",
+    "item_b_id": "IMAGE_551E3003D18E",
+    "item_b_repo": "revstream1",
+    "shared_entities": [
+      "ReZonance"
+    ],
+    "claim_a": "EVT-063",
+    "claim_b": "contradicts:EVT-063",
+    "tension_type": "direct",
+    "confidence": 0.9
+  },
+  {
+    "item_a_id": "UNKNOWN_318E5135CC48",
+    "item_a_repo": "ad-res-j7",
+    "item_b_id": "DOCUMENT_A34F34671A0C",
+    "item_b_repo": "revstream1",
+    "shared_entities": [
+      "ReZonance"
+    ],
+    "claim_a": "EVT-063",
+    "claim_b": "contradicts:EVT-063",
+    "tension_type": "direct",
+    "confidence": 0.9
+  },
+  {
+    "item_a_id": "UNKNOWN_318E5135CC48",
+    "item_a_repo": "ad-res-j7",
+    "item_b_id": "IMAGE_551E3003D18E",
+    "item_b_repo": "revstream1",
+    "shared_entities": [
+      "ReZonance"
+    ],
+    "claim_a": "EVT-063",
+    "claim_b": "contradicts:EVT-063",
+    "tension_type": "direct",
+    "confidence": 0.9
+  },
+  {
+    "item_a_id": "UNKNOWN_24FE25E130DB",
+    "item_a_repo": "ad-res-j7",
+    "item_b_id": "DOCUMENT_BC67F8AA968C",
+    "item_b_repo": "revstream1",
+    "shared_entities": [
+      "ORG_004"
+    ],
+    "claim_a": "EVT-064",
+    "claim_b": "contradicts:EVT-064",
+    "tension_type": "direct",
+    "confidence": 0.9
+  },
+  {
+    "item_a_id": "UNKNOWN_24FE25E130DB",
+    "item_a_repo": "ad-res-j7",
+    "item_b_id": "IMAGE_9B0AD111ED9B",
+    "item_b_repo": "revstream1",
+    "shared_entities": [
+      "ORG_004"
+    ],
+    "claim_a": "EVT-064",
+    "claim_b": "contradicts:EVT-064",
+    "tension_type": "direct",
+    "confidence": 0.9
+  },
+  {
+    "item_a_id": "DOCUMENT_C21B14F200B9",
+    "item_a_repo": "ad-res-j7",
+    "item_b_id": "DOCUMENT_BC67F8AA968C",
+    "item_b_repo": "revstream1",
+    "shared_entities": [
+      "ORG_004"
+    ],
+    "claim_a": "EVT-063",
+    "claim_b": "contradicts:EVT-063",
+    "tension_type": "direct",
+    "confidence": 0.9
+  },
+  {
+    "item_a_id": "DOCUMENT_C21B14F200B9",
+    "item_a_repo": "ad-res-j7",
+    "item_b_id": "IMAGE_9B0AD111ED9B",
+    "item_b_repo": "revstream1",
+    "shared_entities": [
+      "ORG_004"
+    ],
+    "claim_a": "EVT-063",
+    "claim_b": "contradicts:EVT-063",
+    "tension_type": "direct",
+    "confidence": 0.9
+  },
+  {
+    "item_a_id": "EMAIL_512C544B3CAF",
+    "item_a_repo": "ad-res-j7",
+    "item_b_id": "DOCUMENT_BC67F8AA968C",
+    "item_b_repo": "revstream1",
+    "shared_entities": [
+      "ORG_004"
+    ],
+    "claim_a": "EVT-063",
+    "claim_b": "contradicts:EVT-063",
+    "tension_type": "direct",
+    "confidence": 0.9
+  },
+  {
+    "item_a_id": "EMAIL_512C544B3CAF",
+    "item_a_repo": "ad-res-j7",
+    "item_b_id": "IMAGE_9B0AD111ED9B",
+    "item_b_repo": "revstream1",
+    "shared_entities": [
+      "ORG_004"
+    ],
+    "claim_a": "EVT-063",
+    "claim_b": "contradicts:EVT-063",
+    "tension_type": "direct",
+    "confidence": 0.9
+  },
+  {
+    "item_a_id": "UNKNOWN_C3704C4B61D8",
+    "item_a_repo": "ad-res-j7",
+    "item_b_id": "DOCUMENT_BC67F8AA968C",
+    "item_b_repo": "revstream1",
+    "shared_entities": [
+      "ORG_004"
+    ],
+    "claim_a": "EVT-063",
+    "claim_b": "contradicts:EVT-063",
+    "tension_type": "direct",
+    "confidence": 0.9
+  },
+  {
+    "item_a_id": "UNKNOWN_C3704C4B61D8",
+    "item_a_repo": "ad-res-j7",
+    "item_b_id": "IMAGE_9B0AD111ED9B",
+    "item_b_repo": "revstream1",
+    "shared_entities": [
+      "ORG_004"
+    ],
+    "claim_a": "EVT-063",
+    "claim_b": "contradicts:EVT-063",
+    "tension_type": "direct",
+    "confidence": 0.9
+  },
+  {
+    "item_a_id": "UNKNOWN_7A3F9DC3A3E1",
+    "item_a_repo": "ad-res-j7",
+    "item_b_id": "DOCUMENT_BC67F8AA968C",
+    "item_b_repo": "revstream1",
+    "shared_entities": [
+      "ORG_004"
+    ],
+    "claim_a": "EVT-063",
+    "claim_b": "contradicts:EVT-063",
+    "tension_type": "direct",
+    "confidence": 0.9
+  },
+  {
+    "item_a_id": "UNKNOWN_7A3F9DC3A3E1",
+    "item_a_repo": "ad-res-j7",
+    "item_b_id": "IMAGE_9B0AD111ED9B",
+    "item_b_repo": "revstream1",
+    "shared_entities": [
+      "ORG_004"
+    ],
+    "claim_a": "EVT-063",
+    "claim_b": "contradicts:EVT-063",
+    "tension_type": "direct",
+    "confidence": 0.9
+  },
+  {
+    "item_a_id": "EMAIL_528C44D662D7",
+    "item_a_repo": "ad-res-j7",
+    "item_b_id": "DOCUMENT_BC67F8AA968C",
+    "item_b_repo": "revstream1",
+    "shared_entities": [
+      "ORG_004"
+    ],
+    "claim_a": "EVT-063",
+    "claim_b": "contradicts:EVT-063",
+    "tension_type": "direct",
+    "confidence": 0.9
+  },
+  {
+    "item_a_id": "EMAIL_528C44D662D7",
+    "item_a_repo": "ad-res-j7",
+    "item_b_id": "IMAGE_9B0AD111ED9B",
+    "item_b_repo": "revstream1",
+    "shared_entities": [
+      "ORG_004"
+    ],
+    "claim_a": "EVT-063",
+    "claim_b": "contradicts:EVT-063",
+    "tension_type": "direct",
+    "confidence": 0.9
+  },
+  {
+    "item_a_id": "EMAIL_F4620FA45E2C",
+    "item_a_repo": "ad-res-j7",
+    "item_b_id": "DOCUMENT_BC67F8AA968C",
+    "item_b_repo": "revstream1",
+    "shared_entities": [
+      "ORG_004"
+    ],
+    "claim_a": "EVT-063",
+    "claim_b": "contradicts:EVT-063",
+    "tension_type": "direct",
+    "confidence": 0.9
+  },
+  {
+    "item_a_id": "EMAIL_F4620FA45E2C",
+    "item_a_repo": "ad-res-j7",
+    "item_b_id": "IMAGE_9B0AD111ED9B",
+    "item_b_repo": "revstream1",
+    "shared_entities": [
+      "ORG_004"
+    ],
+    "claim_a": "EVT-063",
+    "claim_b": "contradicts:EVT-063",
+    "tension_type": "direct",
+    "confidence": 0.9
+  },
+  {
+    "item_a_id": "DOCUMENT_A663213DBEA8",
+    "item_a_repo": "ad-res-j7",
+    "item_b_id": "EMAIL_78C0883C28FA",
+    "item_b_repo": "revstream1",
+    "shared_entities": [
+      "ORG_003"
+    ],
+    "claim_a": "contradicts:EVT-063",
+    "claim_b": "EVT-063",
+    "tension_type": "direct",
+    "confidence": 0.9
+  },
+  {
+    "item_a_id": "DOCUMENT_A663213DBEA8",
+    "item_a_repo": "ad-res-j7",
+    "item_b_id": "EMAIL_CE7DA123AA8A",
+    "item_b_repo": "revstream1",
+    "shared_entities": [
+      "ORG_003"
+    ],
+    "claim_a": "contradicts:EVT-063",
+    "claim_b": "EVT-063",
+    "tension_type": "direct",
+    "confidence": 0.9
+  },
+  {
+    "item_a_id": "DOCUMENT_A663213DBEA8",
+    "item_a_repo": "ad-res-j7",
+    "item_b_id": "EMAIL_D4BE52B4F815",
+    "item_b_repo": "revstream1",
+    "shared_entities": [
+      "ORG_003"
+    ],
+    "claim_a": "contradicts:EVT-063",
+    "claim_b": "EVT-063",
+    "tension_type": "direct",
+    "confidence": 0.9
+  },
+  {
+    "item_a_id": "DOCUMENT_A663213DBEA8",
+    "item_a_repo": "ad-res-j7",
+    "item_b_id": "EMAIL_3913620B19B1",
+    "item_b_repo": "revstream1",
+    "shared_entities": [
+      "ORG_003"
+    ],
+    "claim_a": "contradicts:EVT-063",
+    "claim_b": "EVT-063",
+    "tension_type": "direct",
+    "confidence": 0.9
+  },
+  {
+    "item_a_id": "DOCUMENT_A663213DBEA8",
+    "item_a_repo": "ad-res-j7",
+    "item_b_id": "UNKNOWN_6CC42B772F00",
+    "item_b_repo": "revstream1",
+    "shared_entities": [
+      "ORG_003"
+    ],
+    "claim_a": "contradicts:EVT-064",
+    "claim_b": "EVT-064",
+    "tension_type": "direct",
+    "confidence": 0.9
+  },
+  {
+    "item_a_id": "DOCUMENT_A663213DBEA8",
+    "item_a_repo": "ad-res-j7",
+    "item_b_id": "DOCUMENT_2CE763EC13BC",
+    "item_b_repo": "revstream1",
+    "shared_entities": [
+      "ORG_003"
+    ],
+    "claim_a": "contradicts:EVT-064",
+    "claim_b": "EVT-064",
+    "tension_type": "direct",
+    "confidence": 0.9
+  },
+  {
+    "item_a_id": "DOCUMENT_90EEA425FC84",
+    "item_a_repo": "ad-res-j7",
+    "item_b_id": "EMAIL_78C0883C28FA",
+    "item_b_repo": "revstream1",
+    "shared_entities": [
+      "ORG_003"
+    ],
+    "claim_a": "contradicts:EVT-063",
+    "claim_b": "EVT-063",
+    "tension_type": "direct",
+    "confidence": 0.9
+  },
+  {
+    "item_a_id": "DOCUMENT_90EEA425FC84",
+    "item_a_repo": "ad-res-j7",
+    "item_b_id": "EMAIL_CE7DA123AA8A",
+    "item_b_repo": "revstream1",
+    "shared_entities": [
+      "ORG_003"
+    ],
+    "claim_a": "contradicts:EVT-063",
+    "claim_b": "EVT-063",
+    "tension_type": "direct",
+    "confidence": 0.9
+  },
+  {
+    "item_a_id": "DOCUMENT_90EEA425FC84",
+    "item_a_repo": "ad-res-j7",
+    "item_b_id": "EMAIL_D4BE52B4F815",
+    "item_b_repo": "revstream1",
+    "shared_entities": [
+      "ORG_003"
+    ],
+    "claim_a": "contradicts:EVT-063",
+    "claim_b": "EVT-063",
+    "tension_type": "direct",
+    "confidence": 0.9
+  },
+  {
+    "item_a_id": "DOCUMENT_90EEA425FC84",
+    "item_a_repo": "ad-res-j7",
+    "item_b_id": "EMAIL_3913620B19B1",
+    "item_b_repo": "revstream1",
+    "shared_entities": [
+      "ORG_003"
+    ],
+    "claim_a": "contradicts:EVT-063",
+    "claim_b": "EVT-063",
+    "tension_type": "direct",
+    "confidence": 0.9
+  },
+  {
+    "item_a_id": "DOCUMENT_90EEA425FC84",
+    "item_a_repo": "ad-res-j7",
+    "item_b_id": "UNKNOWN_6CC42B772F00",
+    "item_b_repo": "revstream1",
+    "shared_entities": [
+      "ORG_003"
+    ],
+    "claim_a": "contradicts:EVT-064",
+    "claim_b": "EVT-064",
+    "tension_type": "direct",
+    "confidence": 0.9
+  },
+  {
+    "item_a_id": "DOCUMENT_90EEA425FC84",
+    "item_a_repo": "ad-res-j7",
+    "item_b_id": "DOCUMENT_2CE763EC13BC",
+    "item_b_repo": "revstream1",
+    "shared_entities": [
+      "ORG_003"
+    ],
+    "claim_a": "contradicts:EVT-064",
+    "claim_b": "EVT-064",
+    "tension_type": "direct",
+    "confidence": 0.9
+  },
+  {
+    "item_a_id": "DOCUMENT_8234150332AD",
+    "item_a_repo": "ad-res-j7",
+    "item_b_id": "DOCUMENT_64DB6080EC56",
+    "item_b_repo": "revstream1",
+    "shared_entities": [
+      "ORG_003"
+    ],
+    "claim_a": "EVT-064",
+    "claim_b": "contradicts:EVT-064",
+    "tension_type": "direct",
+    "confidence": 0.9
+  },
+  {
+    "item_a_id": "DOCUMENT_8234150332AD",
+    "item_a_repo": "ad-res-j7",
+    "item_b_id": "DOCUMENT_5565C35169DF",
+    "item_b_repo": "revstream1",
+    "shared_entities": [
+      "ORG_003"
+    ],
+    "claim_a": "EVT-064",
+    "claim_b": "contradicts:EVT-064",
+    "tension_type": "direct",
+    "confidence": 0.9
+  },
+  {
+    "item_a_id": "DOCUMENT_8234150332AD",
+    "item_a_repo": "ad-res-j7",
+    "item_b_id": "DOCUMENT_93624863BDD6",
+    "item_b_repo": "revstream1",
+    "shared_entities": [
+      "ORG_003"
+    ],
+    "claim_a": "EVT-064",
+    "claim_b": "contradicts:EVT-064",
+    "tension_type": "direct",
+    "confidence": 0.9
+  },
+  {
+    "item_a_id": "DOCUMENT_8234150332AD",
+    "item_a_repo": "ad-res-j7",
+    "item_b_id": "DOCUMENT_60BC81A57B1D",
+    "item_b_repo": "revstream1",
+    "shared_entities": [
+      "ORG_003"
+    ],
+    "claim_a": "EVT-064",
+    "claim_b": "contradicts:EVT-064",
+    "tension_type": "direct",
+    "confidence": 0.9
+  },
+  {
+    "item_a_id": "DOCUMENT_8234150332AD",
+    "item_a_repo": "ad-res-j7",
+    "item_b_id": "UNKNOWN_35767B2390E1",
+    "item_b_repo": "revstream1",
+    "shared_entities": [
+      "ORG_003"
+    ],
+    "claim_a": "contradicts:EVENT_XPLAT_AUDIT_001",
+    "claim_b": "EVENT_XPLAT_AUDIT_001",
+    "tension_type": "direct",
+    "confidence": 0.9
+  },
+  {
+    "item_a_id": "DOCUMENT_8234150332AD",
+    "item_a_repo": "ad-res-j7",
+    "item_b_id": "DOCUMENT_CD201D9F64F0",
+    "item_b_repo": "revstream1",
+    "shared_entities": [
+      "ORG_003"
+    ],
+    "claim_a": "EVT-064",
+    "claim_b": "contradicts:EVT-064",
+    "tension_type": "direct",
+    "confidence": 0.9
+  },
+  {
+    "item_a_id": "DOCUMENT_8234150332AD",
+    "item_a_repo": "ad-res-j7",
+    "item_b_id": "DOCUMENT_6D73DDFCFFBF",
+    "item_b_repo": "revstream1",
+    "shared_entities": [
+      "ORG_003"
+    ],
+    "claim_a": "EVT-064",
+    "claim_b": "contradicts:EVT-064",
+    "tension_type": "direct",
+    "confidence": 0.9
+  },
+  {
+    "item_a_id": "DOCUMENT_8234150332AD",
+    "item_a_repo": "ad-res-j7",
+    "item_b_id": "IMAGE_B3A654639E43",
+    "item_b_repo": "revstream1",
+    "shared_entities": [
+      "ORG_003"
+    ],
+    "claim_a": "EVT-064",
+    "claim_b": "contradicts:EVT-064",
+    "tension_type": "direct",
+    "confidence": 0.9
+  },
+  {
+    "item_a_id": "DOCUMENT_8234150332AD",
+    "item_a_repo": "ad-res-j7",
+    "item_b_id": "IMAGE_D7DE0D54BCA2",
+    "item_b_repo": "revstream1",
+    "shared_entities": [
+      "ORG_003"
+    ],
+    "claim_a": "EVT-064",
+    "claim_b": "contradicts:EVT-064",
+    "tension_type": "direct",
+    "confidence": 0.9
+  },
+  {
+    "item_a_id": "DOCUMENT_8234150332AD",
+    "item_a_repo": "ad-res-j7",
+    "item_b_id": "IMAGE_027417722282",
+    "item_b_repo": "revstream1",
+    "shared_entities": [
+      "ORG_003"
+    ],
+    "claim_a": "EVT-064",
+    "claim_b": "contradicts:EVT-064",
+    "tension_type": "direct",
+    "confidence": 0.9
+  },
+  {
+    "item_a_id": "DOCUMENT_8234150332AD",
+    "item_a_repo": "ad-res-j7",
+    "item_b_id": "DOCUMENT_CB31605827AA",
+    "item_b_repo": "revstream1",
+    "shared_entities": [
+      "ORG_003"
+    ],
+    "claim_a": "EVT-064",
+    "claim_b": "contradicts:EVT-064",
+    "tension_type": "direct",
+    "confidence": 0.9
+  },
+  {
+    "item_a_id": "DOCUMENT_8234150332AD",
+    "item_a_repo": "ad-res-j7",
+    "item_b_id": "DOCUMENT_92C47F39D794",
+    "item_b_repo": "revstream1",
+    "shared_entities": [
+      "ORG_003"
+    ],
+    "claim_a": "EVT-064",
+    "claim_b": "contradicts:EVT-064",
+    "tension_type": "direct",
+    "confidence": 0.9
+  },
+  {
+    "item_a_id": "DOCUMENT_8234150332AD",
+    "item_a_repo": "ad-res-j7",
+    "item_b_id": "UNKNOWN_5DC10020C662",
+    "item_b_repo": "revstream1",
+    "shared_entities": [
+      "ORG_003"
+    ],
+    "claim_a": "EVT-064",
+    "claim_b": "contradicts:EVT-064",
+    "tension_type": "direct",
+    "confidence": 0.9
+  },
+  {
+    "item_a_id": "DOCUMENT_8234150332AD",
+    "item_a_repo": "ad-res-j7",
+    "item_b_id": "EMAIL_78C0883C28FA",
+    "item_b_repo": "revstream1",
+    "shared_entities": [
+      "ORG_003"
+    ],
+    "claim_a": "contradicts:EVT-063",
+    "claim_b": "EVT-063",
+    "tension_type": "direct",
+    "confidence": 0.9
+  },
+  {
+    "item_a_id": "DOCUMENT_8234150332AD",
+    "item_a_repo": "ad-res-j7",
+    "item_b_id": "EMAIL_CE7DA123AA8A",
+    "item_b_repo": "revstream1",
+    "shared_entities": [
+      "ORG_003"
+    ],
+    "claim_a": "contradicts:EVT-063",
+    "claim_b": "EVT-063",
+    "tension_type": "direct",
+    "confidence": 0.9
+  },
+  {
+    "item_a_id": "DOCUMENT_8234150332AD",
+    "item_a_repo": "ad-res-j7",
+    "item_b_id": "EMAIL_D4BE52B4F815",
+    "item_b_repo": "revstream1",
+    "shared_entities": [
+      "ORG_003"
+    ],
+    "claim_a": "contradicts:EVT-063",
+    "claim_b": "EVT-063",
+    "tension_type": "direct",
+    "confidence": 0.9
+  },
+  {
+    "item_a_id": "DOCUMENT_8234150332AD",
+    "item_a_repo": "ad-res-j7",
+    "item_b_id": "EMAIL_3913620B19B1",
+    "item_b_repo": "revstream1",
+    "shared_entities": [
+      "ORG_003"
+    ],
+    "claim_a": "contradicts:EVT-063",
+    "claim_b": "EVT-063",
+    "tension_type": "direct",
+    "confidence": 0.9
+  },
+  {
+    "item_a_id": "DOCUMENT_8234150332AD",
+    "item_a_repo": "ad-res-j7",
+    "item_b_id": "DOCUMENT_B33772144A20",
+    "item_b_repo": "revstream1",
+    "shared_entities": [
+      "ORG_003"
+    ],
+    "claim_a": "EVT-064",
+    "claim_b": "contradicts:EVT-064",
+    "tension_type": "direct",
+    "confidence": 0.9
+  },
+  {
+    "item_a_id": "DOCUMENT_8234150332AD",
+    "item_a_repo": "ad-res-j7",
+    "item_b_id": "DOCUMENT_E7D6BCACAE4D",
+    "item_b_repo": "revstream1",
+    "shared_entities": [
+      "ORG_003"
+    ],
+    "claim_a": "EVT-064",
+    "claim_b": "contradicts:EVT-064",
+    "tension_type": "direct",
+    "confidence": 0.9
+  },
+  {
+    "item_a_id": "DOCUMENT_140CB19C2F91",
+    "item_a_repo": "ad-res-j7",
+    "item_b_id": "EMAIL_78C0883C28FA",
+    "item_b_repo": "revstream1",
+    "shared_entities": [
+      "ORG_003"
+    ],
+    "claim_a": "contradicts:EVT-063",
+    "claim_b": "EVT-063",
+    "tension_type": "direct",
+    "confidence": 0.9
+  },
+  {
+    "item_a_id": "DOCUMENT_140CB19C2F91",
+    "item_a_repo": "ad-res-j7",
+    "item_b_id": "EMAIL_CE7DA123AA8A",
+    "item_b_repo": "revstream1",
+    "shared_entities": [
+      "ORG_003"
+    ],
+    "claim_a": "contradicts:EVT-063",
+    "claim_b": "EVT-063",
+    "tension_type": "direct",
+    "confidence": 0.9
+  },
+  {
+    "item_a_id": "DOCUMENT_140CB19C2F91",
+    "item_a_repo": "ad-res-j7",
+    "item_b_id": "EMAIL_D4BE52B4F815",
+    "item_b_repo": "revstream1",
+    "shared_entities": [
+      "ORG_003"
+    ],
+    "claim_a": "contradicts:EVT-063",
+    "claim_b": "EVT-063",
+    "tension_type": "direct",
+    "confidence": 0.9
+  },
+  {
+    "item_a_id": "DOCUMENT_140CB19C2F91",
+    "item_a_repo": "ad-res-j7",
+    "item_b_id": "EMAIL_3913620B19B1",
+    "item_b_repo": "revstream1",
+    "shared_entities": [
+      "ORG_003"
+    ],
+    "claim_a": "contradicts:EVT-063",
+    "claim_b": "EVT-063",
+    "tension_type": "direct",
+    "confidence": 0.9
+  },
+  {
+    "item_a_id": "DOCUMENT_140CB19C2F91",
+    "item_a_repo": "ad-res-j7",
+    "item_b_id": "UNKNOWN_6CC42B772F00",
+    "item_b_repo": "revstream1",
+    "shared_entities": [
+      "ORG_003"
+    ],
+    "claim_a": "contradicts:EVT-064",
+    "claim_b": "EVT-064",
+    "tension_type": "direct",
+    "confidence": 0.9
+  },
+  {
+    "item_a_id": "DOCUMENT_140CB19C2F91",
+    "item_a_repo": "ad-res-j7",
+    "item_b_id": "DOCUMENT_2CE763EC13BC",
+    "item_b_repo": "revstream1",
+    "shared_entities": [
+      "ORG_003"
+    ],
+    "claim_a": "contradicts:EVT-064",
+    "claim_b": "EVT-064",
+    "tension_type": "direct",
+    "confidence": 0.9
+  },
+  {
+    "item_a_id": "DOCUMENT_1D0875F6EB83",
+    "item_a_repo": "ad-res-j7",
+    "item_b_id": "EMAIL_78C0883C28FA",
+    "item_b_repo": "revstream1",
+    "shared_entities": [
+      "ORG_003"
+    ],
+    "claim_a": "contradicts:EVT-063",
+    "claim_b": "EVT-063",
+    "tension_type": "direct",
+    "confidence": 0.9
+  },
+  {
+    "item_a_id": "DOCUMENT_1D0875F6EB83",
+    "item_a_repo": "ad-res-j7",
+    "item_b_id": "EMAIL_CE7DA123AA8A",
+    "item_b_repo": "revstream1",
+    "shared_entities": [
+      "ORG_003"
+    ],
+    "claim_a": "contradicts:EVT-063",
+    "claim_b": "EVT-063",
+    "tension_type": "direct",
+    "confidence": 0.9
+  },
+  {
+    "item_a_id": "DOCUMENT_1D0875F6EB83",
+    "item_a_repo": "ad-res-j7",
+    "item_b_id": "EMAIL_D4BE52B4F815",
+    "item_b_repo": "revstream1",
+    "shared_entities": [
+      "ORG_003"
+    ],
+    "claim_a": "contradicts:EVT-063",
+    "claim_b": "EVT-063",
+    "tension_type": "direct",
+    "confidence": 0.9
+  },
+  {
+    "item_a_id": "DOCUMENT_1D0875F6EB83",
+    "item_a_repo": "ad-res-j7",
+    "item_b_id": "EMAIL_3913620B19B1",
+    "item_b_repo": "revstream1",
+    "shared_entities": [
+      "ORG_003"
+    ],
+    "claim_a": "contradicts:EVT-063",
+    "claim_b": "EVT-063",
+    "tension_type": "direct",
+    "confidence": 0.9
+  },
+  {
+    "item_a_id": "DOCUMENT_1D0875F6EB83",
+    "item_a_repo": "ad-res-j7",
+    "item_b_id": "UNKNOWN_6CC42B772F00",
+    "item_b_repo": "revstream1",
+    "shared_entities": [
+      "ORG_003"
+    ],
+    "claim_a": "contradicts:EVT-064",
+    "claim_b": "EVT-064",
+    "tension_type": "direct",
+    "confidence": 0.9
+  },
+  {
+    "item_a_id": "DOCUMENT_1D0875F6EB83",
+    "item_a_repo": "ad-res-j7",
+    "item_b_id": "DOCUMENT_2CE763EC13BC",
+    "item_b_repo": "revstream1",
+    "shared_entities": [
+      "ORG_003"
+    ],
+    "claim_a": "contradicts:EVT-064",
+    "claim_b": "EVT-064",
+    "tension_type": "direct",
+    "confidence": 0.9
+  },
+  {
+    "item_a_id": "DOCUMENT_700CAB3AA01C",
+    "item_a_repo": "ad-res-j7",
+    "item_b_id": "DOCUMENT_64DB6080EC56",
+    "item_b_repo": "revstream1",
+    "shared_entities": [
+      "ORG_003"
+    ],
+    "claim_a": "EVT-064",
+    "claim_b": "contradicts:EVT-064",
+    "tension_type": "direct",
+    "confidence": 0.9
+  },
+  {
+    "item_a_id": "DOCUMENT_700CAB3AA01C",
+    "item_a_repo": "ad-res-j7",
+    "item_b_id": "DOCUMENT_5565C35169DF",
+    "item_b_repo": "revstream1",
+    "shared_entities": [
+      "ORG_003"
+    ],
+    "claim_a": "EVT-064",
+    "claim_b": "contradicts:EVT-064",
+    "tension_type": "direct",
+    "confidence": 0.9
+  },
+  {
+    "item_a_id": "DOCUMENT_700CAB3AA01C",
+    "item_a_repo": "ad-res-j7",
+    "item_b_id": "DOCUMENT_93624863BDD6",
+    "item_b_repo": "revstream1",
+    "shared_entities": [
+      "ORG_003"
+    ],
+    "claim_a": "EVT-064",
+    "claim_b": "contradicts:EVT-064",
+    "tension_type": "direct",
+    "confidence": 0.9
+  },
+  {
+    "item_a_id": "DOCUMENT_700CAB3AA01C",
+    "item_a_repo": "ad-res-j7",
+    "item_b_id": "DOCUMENT_60BC81A57B1D",
+    "item_b_repo": "revstream1",
+    "shared_entities": [
+      "ORG_003"
+    ],
+    "claim_a": "EVT-064",
+    "claim_b": "contradicts:EVT-064",
+    "tension_type": "direct",
+    "confidence": 0.9
+  },
+  {
+    "item_a_id": "DOCUMENT_700CAB3AA01C",
+    "item_a_repo": "ad-res-j7",
+    "item_b_id": "UNKNOWN_35767B2390E1",
+    "item_b_repo": "revstream1",
+    "shared_entities": [
+      "ORG_003"
+    ],
+    "claim_a": "EVT-064",
+    "claim_b": "contradicts:EVT-064",
+    "tension_type": "direct",
+    "confidence": 0.9
+  },
+  {
+    "item_a_id": "DOCUMENT_700CAB3AA01C",
+    "item_a_repo": "ad-res-j7",
+    "item_b_id": "DOCUMENT_CD201D9F64F0",
+    "item_b_repo": "revstream1",
+    "shared_entities": [
+      "ORG_003"
+    ],
+    "claim_a": "EVT-064",
+    "claim_b": "contradicts:EVT-064",
+    "tension_type": "direct",
+    "confidence": 0.9
+  },
+  {
+    "item_a_id": "DOCUMENT_700CAB3AA01C",
+    "item_a_repo": "ad-res-j7",
+    "item_b_id": "DOCUMENT_6D73DDFCFFBF",
+    "item_b_repo": "revstream1",
+    "shared_entities": [
+      "ORG_003"
+    ],
+    "claim_a": "EVT-064",
+    "claim_b": "contradicts:EVT-064",
+    "tension_type": "direct",
+    "confidence": 0.9
+  },
+  {
+    "item_a_id": "DOCUMENT_700CAB3AA01C",
+    "item_a_repo": "ad-res-j7",
+    "item_b_id": "IMAGE_B3A654639E43",
+    "item_b_repo": "revstream1",
+    "shared_entities": [
+      "ORG_003"
+    ],
+    "claim_a": "EVT-064",
+    "claim_b": "contradicts:EVT-064",
+    "tension_type": "direct",
+    "confidence": 0.9
+  },
+  {
+    "item_a_id": "DOCUMENT_700CAB3AA01C",
+    "item_a_repo": "ad-res-j7",
+    "item_b_id": "IMAGE_D7DE0D54BCA2",
+    "item_b_repo": "revstream1",
+    "shared_entities": [
+      "ORG_003"
+    ],
+    "claim_a": "EVT-064",
+    "claim_b": "contradicts:EVT-064",
+    "tension_type": "direct",
+    "confidence": 0.9
+  },
+  {
+    "item_a_id": "DOCUMENT_700CAB3AA01C",
+    "item_a_repo": "ad-res-j7",
+    "item_b_id": "IMAGE_027417722282",
+    "item_b_repo": "revstream1",
+    "shared_entities": [
+      "ORG_003"
+    ],
+    "claim_a": "EVT-064",
+    "claim_b": "contradicts:EVT-064",
+    "tension_type": "direct",
+    "confidence": 0.9
+  },
+  {
+    "item_a_id": "DOCUMENT_700CAB3AA01C",
+    "item_a_repo": "ad-res-j7",
+    "item_b_id": "DOCUMENT_CB31605827AA",
+    "item_b_repo": "revstream1",
+    "shared_entities": [
+      "ORG_003"
+    ],
+    "claim_a": "EVT-064",
+    "claim_b": "contradicts:EVT-064",
+    "tension_type": "direct",
+    "confidence": 0.9
+  },
+  {
+    "item_a_id": "DOCUMENT_700CAB3AA01C",
+    "item_a_repo": "ad-res-j7",
+    "item_b_id": "DOCUMENT_92C47F39D794",
+    "item_b_repo": "revstream1",
+    "shared_entities": [
+      "ORG_003"
+    ],
+    "claim_a": "EVT-064",
+    "claim_b": "contradicts:EVT-064",
+    "tension_type": "direct",
+    "confidence": 0.9
+  },
+  {
+    "item_a_id": "DOCUMENT_700CAB3AA01C",
+    "item_a_repo": "ad-res-j7",
+    "item_b_id": "UNKNOWN_5DC10020C662",
+    "item_b_repo": "revstream1",
+    "shared_entities": [
+      "ORG_003"
+    ],
+    "claim_a": "EVT-064",
+    "claim_b": "contradicts:EVT-064",
+    "tension_type": "direct",
+    "confidence": 0.9
+  },
+  {
+    "item_a_id": "DOCUMENT_700CAB3AA01C",
+    "item_a_repo": "ad-res-j7",
+    "item_b_id": "EMAIL_78C0883C28FA",
+    "item_b_repo": "revstream1",
+    "shared_entities": [
+      "ORG_003"
+    ],
+    "claim_a": "contradicts:EVT-063",
+    "claim_b": "EVT-063",
+    "tension_type": "direct",
+    "confidence": 0.9
+  },
+  {
+    "item_a_id": "DOCUMENT_700CAB3AA01C",
+    "item_a_repo": "ad-res-j7",
+    "item_b_id": "EMAIL_CE7DA123AA8A",
+    "item_b_repo": "revstream1",
+    "shared_entities": [
+      "ORG_003"
+    ],
+    "claim_a": "contradicts:EVT-063",
+    "claim_b": "EVT-063",
+    "tension_type": "direct",
+    "confidence": 0.9
+  },
+  {
+    "item_a_id": "DOCUMENT_700CAB3AA01C",
+    "item_a_repo": "ad-res-j7",
+    "item_b_id": "EMAIL_D4BE52B4F815",
+    "item_b_repo": "revstream1",
+    "shared_entities": [
+      "ORG_003"
+    ],
+    "claim_a": "contradicts:EVT-063",
+    "claim_b": "EVT-063",
+    "tension_type": "direct",
+    "confidence": 0.9
+  },
+  {
+    "item_a_id": "DOCUMENT_700CAB3AA01C",
+    "item_a_repo": "ad-res-j7",
+    "item_b_id": "EMAIL_3913620B19B1",
+    "item_b_repo": "revstream1",
+    "shared_entities": [
+      "ORG_003"
+    ],
+    "claim_a": "contradicts:EVT-063",
+    "claim_b": "EVT-063",
+    "tension_type": "direct",
+    "confidence": 0.9
+  },
+  {
+    "item_a_id": "DOCUMENT_700CAB3AA01C",
+    "item_a_repo": "ad-res-j7",
+    "item_b_id": "DOCUMENT_B33772144A20",
+    "item_b_repo": "revstream1",
+    "shared_entities": [
+      "ORG_003"
+    ],
+    "claim_a": "EVT-064",
+    "claim_b": "contradicts:EVT-064",
+    "tension_type": "direct",
+    "confidence": 0.9
+  },
+  {
+    "item_a_id": "DOCUMENT_700CAB3AA01C",
+    "item_a_repo": "ad-res-j7",
+    "item_b_id": "DOCUMENT_E7D6BCACAE4D",
+    "item_b_repo": "revstream1",
+    "shared_entities": [
+      "ORG_003"
+    ],
+    "claim_a": "EVT-064",
+    "claim_b": "contradicts:EVT-064",
+    "tension_type": "direct",
+    "confidence": 0.9
+  },
+  {
+    "item_a_id": "IMAGE_E2E238533B06",
+    "item_a_repo": "ad-res-j7",
+    "item_b_id": "EMAIL_78C0883C28FA",
+    "item_b_repo": "revstream1",
+    "shared_entities": [
+      "ORG_003"
+    ],
+    "claim_a": "contradicts:EVT-063",
+    "claim_b": "EVT-063",
+    "tension_type": "direct",
+    "confidence": 0.9
+  },
+  {
+    "item_a_id": "IMAGE_E2E238533B06",
+    "item_a_repo": "ad-res-j7",
+    "item_b_id": "EMAIL_CE7DA123AA8A",
+    "item_b_repo": "revstream1",
+    "shared_entities": [
+      "ORG_003"
+    ],
+    "claim_a": "contradicts:EVT-063",
+    "claim_b": "EVT-063",
+    "tension_type": "direct",
+    "confidence": 0.9
+  },
+  {
+    "item_a_id": "IMAGE_E2E238533B06",
+    "item_a_repo": "ad-res-j7",
+    "item_b_id": "EMAIL_D4BE52B4F815",
+    "item_b_repo": "revstream1",
+    "shared_entities": [
+      "ORG_003"
+    ],
+    "claim_a": "contradicts:EVT-063",
+    "claim_b": "EVT-063",
+    "tension_type": "direct",
+    "confidence": 0.9
+  },
+  {
+    "item_a_id": "IMAGE_E2E238533B06",
+    "item_a_repo": "ad-res-j7",
+    "item_b_id": "EMAIL_3913620B19B1",
+    "item_b_repo": "revstream1",
+    "shared_entities": [
+      "ORG_003"
+    ],
+    "claim_a": "contradicts:EVT-063",
+    "claim_b": "EVT-063",
+    "tension_type": "direct",
+    "confidence": 0.9
+  },
+  {
+    "item_a_id": "IMAGE_E2E238533B06",
+    "item_a_repo": "ad-res-j7",
+    "item_b_id": "UNKNOWN_6CC42B772F00",
+    "item_b_repo": "revstream1",
+    "shared_entities": [
+      "ORG_003"
+    ],
+    "claim_a": "contradicts:EVT-064",
+    "claim_b": "EVT-064",
+    "tension_type": "direct",
+    "confidence": 0.9
+  },
+  {
+    "item_a_id": "IMAGE_E2E238533B06",
+    "item_a_repo": "ad-res-j7",
+    "item_b_id": "DOCUMENT_2CE763EC13BC",
+    "item_b_repo": "revstream1",
+    "shared_entities": [
+      "ORG_003"
+    ],
+    "claim_a": "contradicts:EVT-064",
+    "claim_b": "EVT-064",
+    "tension_type": "direct",
+    "confidence": 0.9
+  },
+  {
+    "item_a_id": "STRUCTURED_DATA_85D258524A54",
+    "item_a_repo": "ad-res-j7",
+    "item_b_id": "EMAIL_78C0883C28FA",
+    "item_b_repo": "revstream1",
+    "shared_entities": [
+      "ORG_003"
+    ],
+    "claim_a": "contradicts:EVT-063",
+    "claim_b": "EVT-063",
+    "tension_type": "direct",
+    "confidence": 0.9
+  },
+  {
+    "item_a_id": "STRUCTURED_DATA_85D258524A54",
+    "item_a_repo": "ad-res-j7",
+    "item_b_id": "EMAIL_CE7DA123AA8A",
+    "item_b_repo": "revstream1",
+    "shared_entities": [
+      "ORG_003"
+    ],
+    "claim_a": "contradicts:EVT-063",
+    "claim_b": "EVT-063",
+    "tension_type": "direct",
+    "confidence": 0.9
+  },
+  {
+    "item_a_id": "STRUCTURED_DATA_85D258524A54",
+    "item_a_repo": "ad-res-j7",
+    "item_b_id": "EMAIL_D4BE52B4F815",
+    "item_b_repo": "revstream1",
+    "shared_entities": [
+      "ORG_003"
+    ],
+    "claim_a": "contradicts:EVT-063",
+    "claim_b": "EVT-063",
+    "tension_type": "direct",
+    "confidence": 0.9
+  },
+  {
+    "item_a_id": "STRUCTURED_DATA_85D258524A54",
+    "item_a_repo": "ad-res-j7",
+    "item_b_id": "EMAIL_3913620B19B1",
+    "item_b_repo": "revstream1",
+    "shared_entities": [
+      "ORG_003"
+    ],
+    "claim_a": "contradicts:EVT-063",
+    "claim_b": "EVT-063",
+    "tension_type": "direct",
+    "confidence": 0.9
+  },
+  {
+    "item_a_id": "STRUCTURED_DATA_85D258524A54",
+    "item_a_repo": "ad-res-j7",
+    "item_b_id": "UNKNOWN_6CC42B772F00",
+    "item_b_repo": "revstream1",
+    "shared_entities": [
+      "ORG_003"
+    ],
+    "claim_a": "contradicts:EVT-064",
+    "claim_b": "EVT-064",
+    "tension_type": "direct",
+    "confidence": 0.9
+  },
+  {
+    "item_a_id": "STRUCTURED_DATA_85D258524A54",
+    "item_a_repo": "ad-res-j7",
+    "item_b_id": "DOCUMENT_2CE763EC13BC",
+    "item_b_repo": "revstream1",
+    "shared_entities": [
+      "ORG_003"
+    ],
+    "claim_a": "contradicts:EVT-064",
+    "claim_b": "EVT-064",
+    "tension_type": "direct",
+    "confidence": 0.9
+  },
+  {
+    "item_a_id": "UNKNOWN_D9F7795916AE",
+    "item_a_repo": "ad-res-j7",
+    "item_b_id": "EMAIL_78C0883C28FA",
+    "item_b_repo": "revstream1",
+    "shared_entities": [
+      "ORG_003"
+    ],
+    "claim_a": "contradicts:EVT-063",
+    "claim_b": "EVT-063",
+    "tension_type": "direct",
+    "confidence": 0.9
+  },
+  {
+    "item_a_id": "UNKNOWN_D9F7795916AE",
+    "item_a_repo": "ad-res-j7",
+    "item_b_id": "EMAIL_CE7DA123AA8A",
+    "item_b_repo": "revstream1",
+    "shared_entities": [
+      "ORG_003"
+    ],
+    "claim_a": "contradicts:EVT-063",
+    "claim_b": "EVT-063",
+    "tension_type": "direct",
+    "confidence": 0.9
+  },
+  {
+    "item_a_id": "UNKNOWN_D9F7795916AE",
+    "item_a_repo": "ad-res-j7",
+    "item_b_id": "EMAIL_D4BE52B4F815",
+    "item_b_repo": "revstream1",
+    "shared_entities": [
+      "ORG_003"
+    ],
+    "claim_a": "contradicts:EVT-063",
+    "claim_b": "EVT-063",
+    "tension_type": "direct",
+    "confidence": 0.9
+  },
+  {
+    "item_a_id": "UNKNOWN_D9F7795916AE",
+    "item_a_repo": "ad-res-j7",
+    "item_b_id": "EMAIL_3913620B19B1",
+    "item_b_repo": "revstream1",
+    "shared_entities": [
+      "ORG_003"
+    ],
+    "claim_a": "contradicts:EVT-063",
+    "claim_b": "EVT-063",
+    "tension_type": "direct",
+    "confidence": 0.9
+  },
+  {
+    "item_a_id": "UNKNOWN_D9F7795916AE",
+    "item_a_repo": "ad-res-j7",
+    "item_b_id": "UNKNOWN_6CC42B772F00",
+    "item_b_repo": "revstream1",
+    "shared_entities": [
+      "ORG_003"
+    ],
+    "claim_a": "contradicts:EVT-064",
+    "claim_b": "EVT-064",
+    "tension_type": "direct",
+    "confidence": 0.9
+  },
+  {
+    "item_a_id": "UNKNOWN_D9F7795916AE",
+    "item_a_repo": "ad-res-j7",
+    "item_b_id": "DOCUMENT_2CE763EC13BC",
+    "item_b_repo": "revstream1",
+    "shared_entities": [
+      "ORG_003"
+    ],
+    "claim_a": "contradicts:EVT-064",
+    "claim_b": "EVT-064",
+    "tension_type": "direct",
+    "confidence": 0.9
+  },
+  {
+    "item_a_id": "IMAGE_A76025DFC741",
+    "item_a_repo": "ad-res-j7",
+    "item_b_id": "EMAIL_78C0883C28FA",
+    "item_b_repo": "revstream1",
+    "shared_entities": [
+      "ORG_003"
+    ],
+    "claim_a": "contradicts:EVT-063",
+    "claim_b": "EVT-063",
+    "tension_type": "direct",
+    "confidence": 0.9
+  },
+  {
+    "item_a_id": "IMAGE_A76025DFC741",
+    "item_a_repo": "ad-res-j7",
+    "item_b_id": "EMAIL_CE7DA123AA8A",
+    "item_b_repo": "revstream1",
+    "shared_entities": [
+      "ORG_003"
+    ],
+    "claim_a": "contradicts:EVT-063",
+    "claim_b": "EVT-063",
+    "tension_type": "direct",
+    "confidence": 0.9
+  },
+  {
+    "item_a_id": "IMAGE_A76025DFC741",
+    "item_a_repo": "ad-res-j7",
+    "item_b_id": "EMAIL_D4BE52B4F815",
+    "item_b_repo": "revstream1",
+    "shared_entities": [
+      "ORG_003"
+    ],
+    "claim_a": "contradicts:EVT-063",
+    "claim_b": "EVT-063",
+    "tension_type": "direct",
+    "confidence": 0.9
+  },
+  {
+    "item_a_id": "IMAGE_A76025DFC741",
+    "item_a_repo": "ad-res-j7",
+    "item_b_id": "EMAIL_3913620B19B1",
+    "item_b_repo": "revstream1",
+    "shared_entities": [
+      "ORG_003"
+    ],
+    "claim_a": "contradicts:EVT-063",
+    "claim_b": "EVT-063",
+    "tension_type": "direct",
+    "confidence": 0.9
+  },
+  {
+    "item_a_id": "IMAGE_A76025DFC741",
+    "item_a_repo": "ad-res-j7",
+    "item_b_id": "UNKNOWN_6CC42B772F00",
+    "item_b_repo": "revstream1",
+    "shared_entities": [
+      "ORG_003"
+    ],
+    "claim_a": "contradicts:EVT-064",
+    "claim_b": "EVT-064",
+    "tension_type": "direct",
+    "confidence": 0.9
+  },
+  {
+    "item_a_id": "IMAGE_A76025DFC741",
+    "item_a_repo": "ad-res-j7",
+    "item_b_id": "DOCUMENT_2CE763EC13BC",
+    "item_b_repo": "revstream1",
+    "shared_entities": [
+      "ORG_003"
+    ],
+    "claim_a": "contradicts:EVT-064",
+    "claim_b": "EVT-064",
+    "tension_type": "direct",
+    "confidence": 0.9
+  },
+  {
+    "item_a_id": "STRUCTURED_DATA_EAC5AC1F6483",
+    "item_a_repo": "ad-res-j7",
+    "item_b_id": "EMAIL_78C0883C28FA",
+    "item_b_repo": "revstream1",
+    "shared_entities": [
+      "ORG_003"
+    ],
+    "claim_a": "contradicts:EVT-063",
+    "claim_b": "EVT-063",
+    "tension_type": "direct",
+    "confidence": 0.9
+  },
+  {
+    "item_a_id": "STRUCTURED_DATA_EAC5AC1F6483",
+    "item_a_repo": "ad-res-j7",
+    "item_b_id": "EMAIL_CE7DA123AA8A",
+    "item_b_repo": "revstream1",
+    "shared_entities": [
+      "ORG_003"
+    ],
+    "claim_a": "contradicts:EVT-063",
+    "claim_b": "EVT-063",
+    "tension_type": "direct",
+    "confidence": 0.9
+  },
+  {
+    "item_a_id": "STRUCTURED_DATA_EAC5AC1F6483",
+    "item_a_repo": "ad-res-j7",
+    "item_b_id": "EMAIL_D4BE52B4F815",
+    "item_b_repo": "revstream1",
+    "shared_entities": [
+      "ORG_003"
+    ],
+    "claim_a": "contradicts:EVT-063",
+    "claim_b": "EVT-063",
+    "tension_type": "direct",
+    "confidence": 0.9
+  },
+  {
+    "item_a_id": "STRUCTURED_DATA_EAC5AC1F6483",
+    "item_a_repo": "ad-res-j7",
+    "item_b_id": "EMAIL_3913620B19B1",
+    "item_b_repo": "revstream1",
+    "shared_entities": [
+      "ORG_003"
+    ],
+    "claim_a": "contradicts:EVT-063",
+    "claim_b": "EVT-063",
+    "tension_type": "direct",
+    "confidence": 0.9
+  },
+  {
+    "item_a_id": "STRUCTURED_DATA_EAC5AC1F6483",
+    "item_a_repo": "ad-res-j7",
+    "item_b_id": "UNKNOWN_6CC42B772F00",
+    "item_b_repo": "revstream1",
+    "shared_entities": [
+      "ORG_003"
+    ],
+    "claim_a": "contradicts:EVT-064",
+    "claim_b": "EVT-064",
+    "tension_type": "direct",
+    "confidence": 0.9
+  },
+  {
+    "item_a_id": "STRUCTURED_DATA_EAC5AC1F6483",
+    "item_a_repo": "ad-res-j7",
+    "item_b_id": "DOCUMENT_2CE763EC13BC",
+    "item_b_repo": "revstream1",
+    "shared_entities": [
+      "ORG_003"
+    ],
+    "claim_a": "contradicts:EVT-064",
+    "claim_b": "EVT-064",
+    "tension_type": "direct",
+    "confidence": 0.9
+  },
+  {
+    "item_a_id": "UNKNOWN_B3CF9EFE8111",
+    "item_a_repo": "ad-res-j7",
+    "item_b_id": "EMAIL_78C0883C28FA",
+    "item_b_repo": "revstream1",
+    "shared_entities": [
+      "ORG_003"
+    ],
+    "claim_a": "contradicts:EVT-063",
+    "claim_b": "EVT-063",
+    "tension_type": "direct",
+    "confidence": 0.9
+  },
+  {
+    "item_a_id": "UNKNOWN_B3CF9EFE8111",
+    "item_a_repo": "ad-res-j7",
+    "item_b_id": "EMAIL_CE7DA123AA8A",
+    "item_b_repo": "revstream1",
+    "shared_entities": [
+      "ORG_003"
+    ],
+    "claim_a": "contradicts:EVT-063",
+    "claim_b": "EVT-063",
+    "tension_type": "direct",
+    "confidence": 0.9
+  },
+  {
+    "item_a_id": "UNKNOWN_B3CF9EFE8111",
+    "item_a_repo": "ad-res-j7",
+    "item_b_id": "EMAIL_D4BE52B4F815",
+    "item_b_repo": "revstream1",
+    "shared_entities": [
+      "ORG_003"
+    ],
+    "claim_a": "contradicts:EVT-063",
+    "claim_b": "EVT-063",
+    "tension_type": "direct",
+    "confidence": 0.9
+  },
+  {
+    "item_a_id": "UNKNOWN_B3CF9EFE8111",
+    "item_a_repo": "ad-res-j7",
+    "item_b_id": "EMAIL_3913620B19B1",
+    "item_b_repo": "revstream1",
+    "shared_entities": [
+      "ORG_003"
+    ],
+    "claim_a": "contradicts:EVT-063",
+    "claim_b": "EVT-063",
+    "tension_type": "direct",
+    "confidence": 0.9
+  },
+  {
+    "item_a_id": "UNKNOWN_B3CF9EFE8111",
+    "item_a_repo": "ad-res-j7",
+    "item_b_id": "UNKNOWN_6CC42B772F00",
+    "item_b_repo": "revstream1",
+    "shared_entities": [
+      "ORG_003"
+    ],
+    "claim_a": "contradicts:EVT-064",
+    "claim_b": "EVT-064",
+    "tension_type": "direct",
+    "confidence": 0.9
+  },
+  {
+    "item_a_id": "UNKNOWN_B3CF9EFE8111",
+    "item_a_repo": "ad-res-j7",
+    "item_b_id": "DOCUMENT_2CE763EC13BC",
+    "item_b_repo": "revstream1",
+    "shared_entities": [
+      "ORG_003"
+    ],
+    "claim_a": "contradicts:EVT-064",
+    "claim_b": "EVT-064",
+    "tension_type": "direct",
+    "confidence": 0.9
+  },
+  {
+    "item_a_id": "DOCUMENT_5EC1347FEB12",
+    "item_a_repo": "ad-res-j7",
+    "item_b_id": "DOCUMENT_64DB6080EC56",
+    "item_b_repo": "revstream1",
+    "shared_entities": [
+      "ORG_003"
+    ],
+    "claim_a": "contradicts:RYNETTE_BANTJIES_CONSPIRACY_2026_03_07",
+    "claim_b": "RYNETTE_BANTJIES_CONSPIRACY_2026_03_07",
+    "tension_type": "direct",
+    "confidence": 0.9
+  },
+  {
+    "item_a_id": "DOCUMENT_5EC1347FEB12",
+    "item_a_repo": "ad-res-j7",
+    "item_b_id": "DOCUMENT_5565C35169DF",
+    "item_b_repo": "revstream1",
+    "shared_entities": [
+      "ORG_003"
+    ],
+    "claim_a": "EVT-063",
+    "claim_b": "contradicts:EVT-063",
+    "tension_type": "direct",
+    "confidence": 0.9
+  },
+  {
+    "item_a_id": "DOCUMENT_5EC1347FEB12",
+    "item_a_repo": "ad-res-j7",
+    "item_b_id": "DOCUMENT_93624863BDD6",
+    "item_b_repo": "revstream1",
+    "shared_entities": [
+      "ORG_003"
+    ],
+    "claim_a": "EVT-063",
+    "claim_b": "contradicts:EVT-063",
+    "tension_type": "direct",
+    "confidence": 0.9
+  },
+  {
+    "item_a_id": "DOCUMENT_5EC1347FEB12",
+    "item_a_repo": "ad-res-j7",
+    "item_b_id": "DOCUMENT_60BC81A57B1D",
+    "item_b_repo": "revstream1",
+    "shared_entities": [
+      "ORG_003"
+    ],
+    "claim_a": "EVT-063",
+    "claim_b": "contradicts:EVT-063",
+    "tension_type": "direct",
+    "confidence": 0.9
+  },
+  {
+    "item_a_id": "DOCUMENT_5EC1347FEB12",
+    "item_a_repo": "ad-res-j7",
+    "item_b_id": "UNKNOWN_35767B2390E1",
+    "item_b_repo": "revstream1",
+    "shared_entities": [
+      "ORG_003"
+    ],
+    "claim_a": "EVT-063",
+    "claim_b": "contradicts:EVT-063",
+    "tension_type": "direct",
+    "confidence": 0.9
+  },
+  {
+    "item_a_id": "DOCUMENT_5EC1347FEB12",
+    "item_a_repo": "ad-res-j7",
+    "item_b_id": "DOCUMENT_CD201D9F64F0",
+    "item_b_repo": "revstream1",
+    "shared_entities": [
+      "ORG_003"
+    ],
+    "claim_a": "EVT-063",
+    "claim_b": "contradicts:EVT-063",
+    "tension_type": "direct",
+    "confidence": 0.9
+  },
+  {
+    "item_a_id": "DOCUMENT_5EC1347FEB12",
+    "item_a_repo": "ad-res-j7",
+    "item_b_id": "DOCUMENT_6D73DDFCFFBF",
+    "item_b_repo": "revstream1",
+    "shared_entities": [
+      "ORG_003"
+    ],
+    "claim_a": "EVT-063",
+    "claim_b": "contradicts:EVT-063",
+    "tension_type": "direct",
+    "confidence": 0.9
+  },
+  {
+    "item_a_id": "DOCUMENT_5EC1347FEB12",
+    "item_a_repo": "ad-res-j7",
+    "item_b_id": "IMAGE_B3A654639E43",
+    "item_b_repo": "revstream1",
+    "shared_entities": [
+      "ORG_003"
+    ],
+    "claim_a": "EVT-063",
+    "claim_b": "contradicts:EVT-063",
+    "tension_type": "direct",
+    "confidence": 0.9
+  },
+  {
+    "item_a_id": "DOCUMENT_5EC1347FEB12",
+    "item_a_repo": "ad-res-j7",
+    "item_b_id": "IMAGE_D7DE0D54BCA2",
+    "item_b_repo": "revstream1",
+    "shared_entities": [
+      "ORG_003"
+    ],
+    "claim_a": "EVT-063",
+    "claim_b": "contradicts:EVT-063",
+    "tension_type": "direct",
+    "confidence": 0.9
+  },
+  {
+    "item_a_id": "DOCUMENT_5EC1347FEB12",
+    "item_a_repo": "ad-res-j7",
+    "item_b_id": "IMAGE_027417722282",
+    "item_b_repo": "revstream1",
+    "shared_entities": [
+      "ORG_003"
+    ],
+    "claim_a": "EVT-063",
+    "claim_b": "contradicts:EVT-063",
+    "tension_type": "direct",
+    "confidence": 0.9
+  },
+  {
+    "item_a_id": "DOCUMENT_5EC1347FEB12",
+    "item_a_repo": "ad-res-j7",
+    "item_b_id": "DOCUMENT_CB31605827AA",
+    "item_b_repo": "revstream1",
+    "shared_entities": [
+      "ORG_003"
+    ],
+    "claim_a": "EVT-063",
+    "claim_b": "contradicts:EVT-063",
+    "tension_type": "direct",
+    "confidence": 0.9
+  },
+  {
+    "item_a_id": "DOCUMENT_5EC1347FEB12",
+    "item_a_repo": "ad-res-j7",
+    "item_b_id": "DOCUMENT_92C47F39D794",
+    "item_b_repo": "revstream1",
+    "shared_entities": [
+      "ORG_003"
+    ],
+    "claim_a": "EVT-063",
+    "claim_b": "contradicts:EVT-063",
+    "tension_type": "direct",
+    "confidence": 0.9
+  },
+  {
+    "item_a_id": "DOCUMENT_5EC1347FEB12",
+    "item_a_repo": "ad-res-j7",
+    "item_b_id": "UNKNOWN_5DC10020C662",
+    "item_b_repo": "revstream1",
+    "shared_entities": [
+      "ORG_003"
+    ],
+    "claim_a": "EVT-063",
+    "claim_b": "contradicts:EVT-063",
+    "tension_type": "direct",
+    "confidence": 0.9
+  },
+  {
+    "item_a_id": "DOCUMENT_5EC1347FEB12",
+    "item_a_repo": "ad-res-j7",
+    "item_b_id": "DOCUMENT_B33772144A20",
+    "item_b_repo": "revstream1",
+    "shared_entities": [
+      "ORG_003"
+    ],
+    "claim_a": "EVT-063",
+    "claim_b": "contradicts:EVT-063",
+    "tension_type": "direct",
+    "confidence": 0.9
+  },
+  {
+    "item_a_id": "DOCUMENT_5EC1347FEB12",
+    "item_a_repo": "ad-res-j7",
+    "item_b_id": "DOCUMENT_E7D6BCACAE4D",
+    "item_b_repo": "revstream1",
+    "shared_entities": [
+      "ORG_003"
+    ],
+    "claim_a": "EVT-063",
+    "claim_b": "contradicts:EVT-063",
+    "tension_type": "direct",
+    "confidence": 0.9
+  },
+  {
+    "item_a_id": "DOCUMENT_5EC1347FEB12",
+    "item_a_repo": "ad-res-j7",
+    "item_b_id": "UNKNOWN_6CC42B772F00",
+    "item_b_repo": "revstream1",
+    "shared_entities": [
+      "ORG_003"
+    ],
+    "claim_a": "contradicts:RYNETTE_BANTJIES_CONSPIRACY_2026_03_07",
+    "claim_b": "RYNETTE_BANTJIES_CONSPIRACY_2026_03_07",
+    "tension_type": "direct",
+    "confidence": 0.9
+  },
+  {
+    "item_a_id": "DOCUMENT_5EC1347FEB12",
+    "item_a_repo": "ad-res-j7",
+    "item_b_id": "DOCUMENT_2CE763EC13BC",
+    "item_b_repo": "revstream1",
+    "shared_entities": [
+      "ORG_003"
+    ],
+    "claim_a": "contradicts:RYNETTE_BANTJIES_CONSPIRACY_2026_03_07",
+    "claim_b": "RYNETTE_BANTJIES_CONSPIRACY_2026_03_07",
+    "tension_type": "direct",
+    "confidence": 0.9
+  },
+  {
+    "item_a_id": "UNKNOWN_42A9D1E2B6AA",
+    "item_a_repo": "ad-res-j7",
+    "item_b_id": "EMAIL_78C0883C28FA",
+    "item_b_repo": "revstream1",
+    "shared_entities": [
+      "ORG_003"
+    ],
+    "claim_a": "contradicts:EVT-063",
+    "claim_b": "EVT-063",
+    "tension_type": "direct",
+    "confidence": 0.9
+  },
+  {
+    "item_a_id": "UNKNOWN_42A9D1E2B6AA",
+    "item_a_repo": "ad-res-j7",
+    "item_b_id": "EMAIL_CE7DA123AA8A",
+    "item_b_repo": "revstream1",
+    "shared_entities": [
+      "ORG_003"
+    ],
+    "claim_a": "contradicts:EVT-063",
+    "claim_b": "EVT-063",
+    "tension_type": "direct",
+    "confidence": 0.9
+  },
+  {
+    "item_a_id": "UNKNOWN_42A9D1E2B6AA",
+    "item_a_repo": "ad-res-j7",
+    "item_b_id": "EMAIL_D4BE52B4F815",
+    "item_b_repo": "revstream1",
+    "shared_entities": [
+      "ORG_003"
+    ],
+    "claim_a": "contradicts:EVT-063",
+    "claim_b": "EVT-063",
+    "tension_type": "direct",
+    "confidence": 0.9
+  },
+  {
+    "item_a_id": "UNKNOWN_42A9D1E2B6AA",
+    "item_a_repo": "ad-res-j7",
+    "item_b_id": "EMAIL_3913620B19B1",
+    "item_b_repo": "revstream1",
+    "shared_entities": [
+      "ORG_003"
+    ],
+    "claim_a": "contradicts:EVT-063",
+    "claim_b": "EVT-063",
+    "tension_type": "direct",
+    "confidence": 0.9
+  },
+  {
+    "item_a_id": "UNKNOWN_42A9D1E2B6AA",
+    "item_a_repo": "ad-res-j7",
+    "item_b_id": "UNKNOWN_6CC42B772F00",
+    "item_b_repo": "revstream1",
+    "shared_entities": [
+      "ORG_003"
+    ],
+    "claim_a": "contradicts:EVT-064",
+    "claim_b": "EVT-064",
+    "tension_type": "direct",
+    "confidence": 0.9
+  },
+  {
+    "item_a_id": "UNKNOWN_42A9D1E2B6AA",
+    "item_a_repo": "ad-res-j7",
+    "item_b_id": "DOCUMENT_2CE763EC13BC",
+    "item_b_repo": "revstream1",
+    "shared_entities": [
+      "ORG_003"
+    ],
+    "claim_a": "contradicts:EVT-064",
+    "claim_b": "EVT-064",
+    "tension_type": "direct",
+    "confidence": 0.9
+  },
+  {
+    "item_a_id": "DOCUMENT_9F9117ECF715",
+    "item_a_repo": "ad-res-j7",
+    "item_b_id": "EMAIL_78C0883C28FA",
+    "item_b_repo": "revstream1",
+    "shared_entities": [
+      "ORG_003"
+    ],
+    "claim_a": "contradicts:EVT-063",
+    "claim_b": "EVT-063",
+    "tension_type": "direct",
+    "confidence": 0.9
+  },
+  {
+    "item_a_id": "DOCUMENT_9F9117ECF715",
+    "item_a_repo": "ad-res-j7",
+    "item_b_id": "EMAIL_CE7DA123AA8A",
+    "item_b_repo": "revstream1",
+    "shared_entities": [
+      "ORG_003"
+    ],
+    "claim_a": "contradicts:EVT-063",
+    "claim_b": "EVT-063",
+    "tension_type": "direct",
+    "confidence": 0.9
+  },
+  {
+    "item_a_id": "DOCUMENT_9F9117ECF715",
+    "item_a_repo": "ad-res-j7",
+    "item_b_id": "EMAIL_D4BE52B4F815",
+    "item_b_repo": "revstream1",
+    "shared_entities": [
+      "ORG_003"
+    ],
+    "claim_a": "contradicts:EVT-063",
+    "claim_b": "EVT-063",
+    "tension_type": "direct",
+    "confidence": 0.9
+  },
+  {
+    "item_a_id": "DOCUMENT_9F9117ECF715",
+    "item_a_repo": "ad-res-j7",
+    "item_b_id": "EMAIL_3913620B19B1",
+    "item_b_repo": "revstream1",
+    "shared_entities": [
+      "ORG_003"
+    ],
+    "claim_a": "contradicts:EVT-063",
+    "claim_b": "EVT-063",
+    "tension_type": "direct",
+    "confidence": 0.9
+  },
+  {
+    "item_a_id": "DOCUMENT_9F9117ECF715",
+    "item_a_repo": "ad-res-j7",
+    "item_b_id": "UNKNOWN_6CC42B772F00",
+    "item_b_repo": "revstream1",
+    "shared_entities": [
+      "ORG_003"
+    ],
+    "claim_a": "contradicts:EVT-064",
+    "claim_b": "EVT-064",
+    "tension_type": "direct",
+    "confidence": 0.9
+  },
+  {
+    "item_a_id": "DOCUMENT_9F9117ECF715",
+    "item_a_repo": "ad-res-j7",
+    "item_b_id": "DOCUMENT_2CE763EC13BC",
+    "item_b_repo": "revstream1",
+    "shared_entities": [
+      "ORG_003"
+    ],
+    "claim_a": "contradicts:EVT-064",
+    "claim_b": "EVT-064",
+    "tension_type": "direct",
+    "confidence": 0.9
+  },
+  {
+    "item_a_id": "UNKNOWN_D385BFBA3BF0",
+    "item_a_repo": "ad-res-j7",
+    "item_b_id": "EMAIL_78C0883C28FA",
+    "item_b_repo": "revstream1",
+    "shared_entities": [
+      "ORG_003"
+    ],
+    "claim_a": "contradicts:EVT-063",
+    "claim_b": "EVT-063",
+    "tension_type": "direct",
+    "confidence": 0.9
+  },
+  {
+    "item_a_id": "UNKNOWN_D385BFBA3BF0",
+    "item_a_repo": "ad-res-j7",
+    "item_b_id": "EMAIL_CE7DA123AA8A",
+    "item_b_repo": "revstream1",
+    "shared_entities": [
+      "ORG_003"
+    ],
+    "claim_a": "contradicts:EVT-063",
+    "claim_b": "EVT-063",
+    "tension_type": "direct",
+    "confidence": 0.9
+  },
+  {
+    "item_a_id": "UNKNOWN_D385BFBA3BF0",
+    "item_a_repo": "ad-res-j7",
+    "item_b_id": "EMAIL_D4BE52B4F815",
+    "item_b_repo": "revstream1",
+    "shared_entities": [
+      "ORG_003"
+    ],
+    "claim_a": "contradicts:EVT-063",
+    "claim_b": "EVT-063",
+    "tension_type": "direct",
+    "confidence": 0.9
+  },
+  {
+    "item_a_id": "UNKNOWN_D385BFBA3BF0",
+    "item_a_repo": "ad-res-j7",
+    "item_b_id": "EMAIL_3913620B19B1",
+    "item_b_repo": "revstream1",
+    "shared_entities": [
+      "ORG_003"
+    ],
+    "claim_a": "contradicts:EVT-063",
+    "claim_b": "EVT-063",
+    "tension_type": "direct",
+    "confidence": 0.9
+  },
+  {
+    "item_a_id": "UNKNOWN_D385BFBA3BF0",
+    "item_a_repo": "ad-res-j7",
+    "item_b_id": "UNKNOWN_6CC42B772F00",
+    "item_b_repo": "revstream1",
+    "shared_entities": [
+      "ORG_003"
+    ],
+    "claim_a": "contradicts:EVT-064",
+    "claim_b": "EVT-064",
+    "tension_type": "direct",
+    "confidence": 0.9
+  },
+  {
+    "item_a_id": "UNKNOWN_D385BFBA3BF0",
+    "item_a_repo": "ad-res-j7",
+    "item_b_id": "DOCUMENT_2CE763EC13BC",
+    "item_b_repo": "revstream1",
+    "shared_entities": [
+      "ORG_003"
+    ],
+    "claim_a": "contradicts:EVT-064",
+    "claim_b": "EVT-064",
+    "tension_type": "direct",
+    "confidence": 0.9
+  },
+  {
+    "item_a_id": "DOCUMENT_8652F9D73159",
+    "item_a_repo": "ad-res-j7",
+    "item_b_id": "EMAIL_78C0883C28FA",
+    "item_b_repo": "revstream1",
+    "shared_entities": [
+      "ORG_003"
+    ],
+    "claim_a": "contradicts:EVT-063",
+    "claim_b": "EVT-063",
+    "tension_type": "direct",
+    "confidence": 0.9
+  },
+  {
+    "item_a_id": "DOCUMENT_8652F9D73159",
+    "item_a_repo": "ad-res-j7",
+    "item_b_id": "EMAIL_CE7DA123AA8A",
+    "item_b_repo": "revstream1",
+    "shared_entities": [
+      "ORG_003"
+    ],
+    "claim_a": "contradicts:EVT-063",
+    "claim_b": "EVT-063",
+    "tension_type": "direct",
+    "confidence": 0.9
+  },
+  {
+    "item_a_id": "DOCUMENT_8652F9D73159",
+    "item_a_repo": "ad-res-j7",
+    "item_b_id": "EMAIL_D4BE52B4F815",
+    "item_b_repo": "revstream1",
+    "shared_entities": [
+      "ORG_003"
+    ],
+    "claim_a": "contradicts:EVT-063",
+    "claim_b": "EVT-063",
+    "tension_type": "direct",
+    "confidence": 0.9
+  },
+  {
+    "item_a_id": "DOCUMENT_8652F9D73159",
+    "item_a_repo": "ad-res-j7",
+    "item_b_id": "EMAIL_3913620B19B1",
+    "item_b_repo": "revstream1",
+    "shared_entities": [
+      "ORG_003"
+    ],
+    "claim_a": "contradicts:EVT-063",
+    "claim_b": "EVT-063",
+    "tension_type": "direct",
+    "confidence": 0.9
+  },
+  {
+    "item_a_id": "DOCUMENT_8652F9D73159",
+    "item_a_repo": "ad-res-j7",
+    "item_b_id": "UNKNOWN_6CC42B772F00",
+    "item_b_repo": "revstream1",
+    "shared_entities": [
+      "ORG_003"
+    ],
+    "claim_a": "contradicts:EVT-064",
+    "claim_b": "EVT-064",
+    "tension_type": "direct",
+    "confidence": 0.9
+  },
+  {
+    "item_a_id": "DOCUMENT_8652F9D73159",
+    "item_a_repo": "ad-res-j7",
+    "item_b_id": "DOCUMENT_2CE763EC13BC",
+    "item_b_repo": "revstream1",
+    "shared_entities": [
+      "ORG_003"
+    ],
+    "claim_a": "contradicts:EVT-064",
+    "claim_b": "EVT-064",
+    "tension_type": "direct",
+    "confidence": 0.9
+  },
+  {
+    "item_a_id": "UNKNOWN_B16F4C74A9B1",
+    "item_a_repo": "ad-res-j7",
+    "item_b_id": "DOCUMENT_64DB6080EC56",
+    "item_b_repo": "revstream1",
+    "shared_entities": [
+      "ORG_003"
+    ],
+    "claim_a": "EVT-063",
+    "claim_b": "contradicts:EVT-063",
+    "tension_type": "direct",
+    "confidence": 0.9
+  },
+  {
+    "item_a_id": "UNKNOWN_B16F4C74A9B1",
+    "item_a_repo": "ad-res-j7",
+    "item_b_id": "DOCUMENT_5565C35169DF",
+    "item_b_repo": "revstream1",
+    "shared_entities": [
+      "ORG_003"
+    ],
+    "claim_a": "EVT-063",
+    "claim_b": "contradicts:EVT-063",
+    "tension_type": "direct",
+    "confidence": 0.9
+  },
+  {
+    "item_a_id": "UNKNOWN_B16F4C74A9B1",
+    "item_a_repo": "ad-res-j7",
+    "item_b_id": "DOCUMENT_93624863BDD6",
+    "item_b_repo": "revstream1",
+    "shared_entities": [
+      "ORG_003"
+    ],
+    "claim_a": "EVT-063",
+    "claim_b": "contradicts:EVT-063",
+    "tension_type": "direct",
+    "confidence": 0.9
+  },
+  {
+    "item_a_id": "UNKNOWN_B16F4C74A9B1",
+    "item_a_repo": "ad-res-j7",
+    "item_b_id": "DOCUMENT_60BC81A57B1D",
+    "item_b_repo": "revstream1",
+    "shared_entities": [
+      "ORG_003"
+    ],
+    "claim_a": "EVT-063",
+    "claim_b": "contradicts:EVT-063",
+    "tension_type": "direct",
+    "confidence": 0.9
+  },
+  {
+    "item_a_id": "UNKNOWN_B16F4C74A9B1",
+    "item_a_repo": "ad-res-j7",
+    "item_b_id": "UNKNOWN_35767B2390E1",
+    "item_b_repo": "revstream1",
+    "shared_entities": [
+      "ORG_003"
+    ],
+    "claim_a": "EVT-063",
+    "claim_b": "contradicts:EVT-063",
+    "tension_type": "direct",
+    "confidence": 0.9
+  },
+  {
+    "item_a_id": "UNKNOWN_B16F4C74A9B1",
+    "item_a_repo": "ad-res-j7",
+    "item_b_id": "DOCUMENT_CD201D9F64F0",
+    "item_b_repo": "revstream1",
+    "shared_entities": [
+      "ORG_003"
+    ],
+    "claim_a": "EVT-063",
+    "claim_b": "contradicts:EVT-063",
+    "tension_type": "direct",
+    "confidence": 0.9
+  },
+  {
+    "item_a_id": "UNKNOWN_B16F4C74A9B1",
+    "item_a_repo": "ad-res-j7",
+    "item_b_id": "DOCUMENT_6D73DDFCFFBF",
+    "item_b_repo": "revstream1",
+    "shared_entities": [
+      "ORG_003"
+    ],
+    "claim_a": "EVT-063",
+    "claim_b": "contradicts:EVT-063",
+    "tension_type": "direct",
+    "confidence": 0.9
+  },
+  {
+    "item_a_id": "UNKNOWN_B16F4C74A9B1",
+    "item_a_repo": "ad-res-j7",
+    "item_b_id": "IMAGE_B3A654639E43",
+    "item_b_repo": "revstream1",
+    "shared_entities": [
+      "ORG_003"
+    ],
+    "claim_a": "EVT-063",
+    "claim_b": "contradicts:EVT-063",
+    "tension_type": "direct",
+    "confidence": 0.9
+  },
+  {
+    "item_a_id": "UNKNOWN_B16F4C74A9B1",
+    "item_a_repo": "ad-res-j7",
+    "item_b_id": "IMAGE_D7DE0D54BCA2",
+    "item_b_repo": "revstream1",
+    "shared_entities": [
+      "ORG_003"
+    ],
+    "claim_a": "EVT-063",
+    "claim_b": "contradicts:EVT-063",
+    "tension_type": "direct",
+    "confidence": 0.9
+  },
+  {
+    "item_a_id": "UNKNOWN_B16F4C74A9B1",
+    "item_a_repo": "ad-res-j7",
+    "item_b_id": "IMAGE_027417722282",
+    "item_b_repo": "revstream1",
+    "shared_entities": [
+      "ORG_003"
+    ],
+    "claim_a": "EVT-063",
+    "claim_b": "contradicts:EVT-063",
+    "tension_type": "direct",
+    "confidence": 0.9
+  },
+  {
+    "item_a_id": "UNKNOWN_B16F4C74A9B1",
+    "item_a_repo": "ad-res-j7",
+    "item_b_id": "DOCUMENT_CB31605827AA",
+    "item_b_repo": "revstream1",
+    "shared_entities": [
+      "ORG_003"
+    ],
+    "claim_a": "EVT-063",
+    "claim_b": "contradicts:EVT-063",
+    "tension_type": "direct",
+    "confidence": 0.9
+  },
+  {
+    "item_a_id": "UNKNOWN_88D9F35E91B6",
+    "item_a_repo": "ad-res-j7",
+    "item_b_id": "DOCUMENT_263F689C49F2",
+    "item_b_repo": "revstream1",
+    "shared_entities": [
+      "Kevin Michael Derrick"
+    ],
+    "claim_a": "contradicts:EVT-064",
+    "claim_b": "EVT-064",
+    "tension_type": "direct",
+    "confidence": 0.9
+  },
+  {
+    "item_a_id": "UNKNOWN_4005003AB7A2",
+    "item_a_repo": "ad-res-j7",
+    "item_b_id": "IMAGE_551E3003D18E",
+    "item_b_repo": "revstream1",
+    "shared_entities": [
+      "PLATFORM_003"
+    ],
+    "claim_a": "EVT-063",
+    "claim_b": "contradicts:EVT-063",
+    "tension_type": "direct",
+    "confidence": 0.9
+  },
+  {
+    "item_a_id": "DOCUMENT_65C141C81760",
+    "item_a_repo": "ad-res-j7",
+    "item_b_id": "EMAIL_D4BE52B4F815",
+    "item_b_repo": "revstream1",
+    "shared_entities": [
+      "ORG_008"
+    ],
+    "claim_a": "contradicts:EVT-063",
+    "claim_b": "EVT-063",
+    "tension_type": "direct",
+    "confidence": 0.9
+  },
+  {
+    "item_a_id": "UNKNOWN_ACA33EC43E1E",
+    "item_a_repo": "ad-res-j7",
+    "item_b_id": "UNKNOWN_ABD8F9F45206",
+    "item_b_repo": "revstream1",
+    "shared_entities": [
+      "Rynette Faucitt"
+    ],
+    "claim_a": "contradicts:EVT-064",
+    "claim_b": "EVT-064",
+    "tension_type": "direct",
+    "confidence": 0.9
+  },
+  {
+    "item_a_id": "DOCUMENT_66991750B438",
+    "item_a_repo": "ad-res-j7",
+    "item_b_id": "DOCUMENT_2F7939BFEF15",
+    "item_b_repo": "revstream1",
+    "shared_entities": [
+      "ORG_026"
+    ],
+    "claim_a": "EVT-064",
+    "claim_b": "contradicts:EVT-064",
+    "tension_type": "direct",
+    "confidence": 0.9
+  },
+  {
+    "item_a_id": "UNKNOWN_24FE25E130DB",
+    "item_a_repo": "ad-res-j7",
+    "item_b_id": "DOCUMENT_8C641995E458",
+    "item_b_repo": "revstream1",
+    "shared_entities": [
+      "LinkedIn"
+    ],
+    "claim_a": "EVT-064",
+    "claim_b": "contradicts:EVT-064",
+    "tension_type": "direct",
+    "confidence": 0.9
+  },
+  {
+    "item_a_id": "UNKNOWN_88D9F35E91B6",
+    "item_a_repo": "ad-res-j7",
+    "item_b_id": "UNKNOWN_ABD8F9F45206",
+    "item_b_repo": "revstream1",
+    "shared_entities": [
+      "Peter Faucitt"
+    ],
+    "claim_a": "contradicts:EVT-064",
+    "claim_b": "EVT-064",
+    "tension_type": "direct",
+    "confidence": 0.9
+  },
+  {
+    "item_a_id": "DOCUMENT_FEF4471D0EB7",
+    "item_a_repo": "ad-res-j7",
+    "item_b_id": "UNKNOWN_ABD8F9F45206",
+    "item_b_repo": "revstream1",
+    "shared_entities": [
+      "PERSON_LINDA"
+    ],
+    "claim_a": "contradicts:EVT-064",
+    "claim_b": "EVT-064",
+    "tension_type": "direct",
+    "confidence": 0.9
+  },
+  {
+    "item_a_id": "UNKNOWN_ACA33EC43E1E",
+    "item_a_repo": "ad-res-j7",
+    "item_b_id": "DOCUMENT_263F689C49F2",
+    "item_b_repo": "revstream1",
+    "shared_entities": [
+      "The George Group"
+    ],
+    "claim_a": "contradicts:EVT-064",
+    "claim_b": "EVT-064",
+    "tension_type": "direct",
+    "confidence": 0.9
+  },
+  {
+    "item_a_id": "DOCUMENT_A663213DBEA8",
+    "item_a_repo": "ad-res-j7",
+    "item_b_id": "EMAIL_78C0883C28FA",
+    "item_b_repo": "revstream1",
+    "shared_entities": [
+      "ORG_012"
+    ],
+    "claim_a": "contradicts:EVT-063",
+    "claim_b": "EVT-063",
+    "tension_type": "direct",
+    "confidence": 0.9
+  },
+  {
+    "item_a_id": "EMAIL_C2F9A8EB8E8F",
+    "item_a_repo": "ad-res-j7",
+    "item_b_id": "DOCUMENT_60BC81A57B1D",
+    "item_b_repo": "revstream1",
+    "shared_entities": [
+      "ORG_027"
+    ],
+    "claim_a": "EVT-063",
+    "claim_b": "contradicts:EVT-063",
+    "tension_type": "direct",
+    "confidence": 0.9
+  }
+]

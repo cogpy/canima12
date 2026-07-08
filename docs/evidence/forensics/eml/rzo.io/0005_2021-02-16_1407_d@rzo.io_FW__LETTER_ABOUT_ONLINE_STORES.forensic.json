@@ -1,0 +1,115 @@
+{
+  "_schema": "exoml-forensic/v1",
+  "_generated": "2026-03-10T08:04:24.040114+00:00",
+  "file_integrity": {
+    "eml_file": "rzo.io/0005_2021-02-16_1407_d@rzo.io_FW__LETTER_ABOUT_ONLINE_STORES.eml",
+    "file_size_bytes": 225108,
+    "md5": "01eb348de7560e5582c214cb65fdfaf6",
+    "sha1": "c2e5ae63ddba6f81361ae1831c1d9007d03a17fd",
+    "sha256": "709316c03291d049d04e96ea38c266445c6519252e1a20b0a85c4d621bb6039d"
+  },
+  "message_identity": {
+    "db_id": 855,
+    "exchange_message_id": "AAMkAGE2YjljZjA1LTRlOWUtNDhjYi1iZjNkLWI4ZWRlNDQwYTU0MABGAAAAAADPgXCfMl5uRqA6Xxa9Yh33BwAh607i92PMQLMLAH3HB5h5AAAAAAEJAAAh607i92PMQLMLAH3HB5h5AAJ6077BAAA=",
+    "conversation_id": "AAQkAGE2YjljZjA1LTRlOWUtNDhjYi1iZjNkLWI4ZWRlNDQwYTU0MAAQANBjJoPGokhIr5sMDOJ4p6M="
+  },
+  "envelope": {
+    "subject": "FW: LETTER ABOUT ONLINE STORES",
+    "from_name": "Daniel Faucitt",
+    "from_address": "d@rzo.io",
+    "to_recipients": [
+      {
+        "emailAddress": {
+          "name": "karen@kachan.co.za",
+          "address": "karen@kachan.co.za"
+        }
+      },
+      {
+        "emailAddress": {
+          "name": "sharon.regima@dermalskin.co.za",
+          "address": "sharon.regima@dermalskin.co.za"
+        }
+      },
+      {
+        "emailAddress": {
+          "name": "Barend Nortje",
+          "address": "bnortje@icon.co.za"
+        }
+      },
+      {
+        "emailAddress": {
+          "name": "yolandy@krenance.com",
+          "address": "yolandy@krenance.com"
+        }
+      },
+      {
+        "emailAddress": {
+          "name": "ymouton@tiscali.co.za",
+          "address": "ymouton@tiscali.co.za"
+        }
+      },
+      {
+        "emailAddress": {
+          "name": "Dante Bertani",
+          "address": "danteb@kachan.co.za"
+        }
+      }
+    ],
+    "cc_recipients": [
+      {
+        "emailAddress": {
+          "name": "Jacqui Faucitt",
+          "address": "jax@regima.zone"
+        }
+      },
+      {
+        "emailAddress": {
+          "name": "kayla@regima.zone",
+          "address": "kayla@regima.zone"
+        }
+      },
+      {
+        "emailAddress": {
+          "name": "Rynette Farrar",
+          "address": "rynette@regima.zone"
+        }
+      },
+      {
+        "emailAddress": {
+          "name": "Lyndall  Jackson",
+          "address": "lyndall@regima.zone"
+        }
+      }
+    ],
+    "received_datetime": "2021-02-16 14:07:00"
+  },
+  "mailbox_context": {
+    "user_email": "d@rzo.io",
+    "user_name": "Daniel Faucitt"
+  },
+  "body": {
+    "content_type": "html",
+    "preview": "Hi All 😊\r\n\r\nAttached is further correspondence regarding online stores without consultation. Please send this PDf out to your stockists so we are all on the same page.\r\n\r\nPlease acknowledge receipt and acceptance of the above.\r\n\r\nWarm regards",
+    "body_length_chars": 3080
+  },
+  "attachments": [
+    {
+      "name": "LETTER ABOUT ONLINE STORES - 16.2.2021 PDF.pdf",
+      "content_type": "application/pdf",
+      "size_bytes": 122387,
+      "is_inline": false,
+      "has_content": true,
+      "md5": "e9d778305f9d17f8131ef6ea553949fb",
+      "sha256": "e7672193177d40209b1a10d0ff52221f0da9b65679df2eb01d0554325cfb244b"
+    },
+    {
+      "name": "image001.jpg",
+      "content_type": "image/jpeg",
+      "size_bytes": 40758,
+      "is_inline": true,
+      "has_content": true,
+      "md5": "ea90a0ba4796361039585588743c97cd",
+      "sha256": "1aadd6de3da95c22cd6d0239071ff6790254f594e2e00de7bab4c5004b927052"
+    }
+  ]
+}

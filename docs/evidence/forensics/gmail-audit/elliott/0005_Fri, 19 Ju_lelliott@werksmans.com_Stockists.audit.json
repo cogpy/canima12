@@ -1,0 +1,388 @@
+{
+  "_schema": "gws-forensic-audit/v1",
+  "_generated": "2026-03-10T08:01:10.244886+00:00",
+  "_source": "gmail-api",
+  "message_identity": {
+    "gmail_id": "14e0aa132607b6bb",
+    "thread_id": "14e0aa132607b6bb",
+    "internet_message_id": "<FF67BDBB23F5524BA42654CB3547E04DF628BE@Ex2010CH1.werksmans.co.za>",
+    "label_ids": [
+      "UNREAD",
+      "CATEGORY_FORUMS",
+      "INBOX"
+    ],
+    "history_id": "688902"
+  },
+  "envelope": {
+    "subject": "Stockists",
+    "from": "lelliott@werksmans.com",
+    "to": [
+      "info@regima.com"
+    ],
+    "cc": [],
+    "bcc": [],
+    "reply_to": null,
+    "date": "Fri, 19 Jun 2015 07:01:56 +0000",
+    "sent_date": "Fri, 19 Jun 2015 07:01:56 +0000"
+  },
+  "origin": {
+    "client_ip": "172.16.5.94",
+    "mailer": null,
+    "user_agent": null,
+    "return_path": "info+bncBAABBRH5R2WAKGQEJQ74HGQ@regima.com",
+    "x_google_smtp_source": null,
+    "x_gm_message_state": "ALoCoQlwXwOY82/qEm78+V8IUEknWCyqtSo1bTa7FzGl1z6lElmsH860KSo8uZST7zNuoCL0uN5B"
+  },
+  "authentication": {
+    "spf": "neutral",
+    "dkim": null,
+    "dmarc": null,
+    "compauth": null,
+    "received_spf": "neutral (google.com: 41.74.205.123 is neither permitted nor denied by best guess record for domain of lelliott@werksmans.com) client-ip=41.74.205.123;",
+    "arc_results": [],
+    "dkim_signatures": [],
+    "google_dkim_signatures": [
+      "v=1; a=rsa-sha256; c=relaxed/relaxed;        d=1e100.net; s=20130820;        h=x-gm-message-state:subject:from:to:thread-topic:thread-index:date         :message-id:accept-language:content-language:mime-version         :content-type:x-original-sender:x-original-authentication-results         :precedence:mailing-list:list-id:list-post:list-help:list-archive         :list-unsubscribe;        bh=X/KKtqLfzShiGd8sq/TbG+j+yKE7qDHE+wULxUcJMN8=;        b=k0W9SA8O99upq3SOlCd4ANSkHucy9fbs25rDWAR5mfendmsB0EhBw+Tp3de8J2pHqB         fjJ/v7la4S8VrjAl5vgmFSNVXdQnbEYDEVybYf3ebG1u6aIeMcysM3wfytbS7EoiZXX8         9R8bQ4amejm/7v241qYPce9pO/pRlug+cZmalJvYvfYWkJNHlMmyQAux/mX5RqTvDRTD         HJa2DvLjDnSiUxjCumU1tlVJqD+ZVXfzDtkIKYEr4LDE3dCKTl8bDdE2mOSDyFOTCWF9         F+AejnAKqJHZVrRmD1HqFlh60KHiKnU4a0i+K4Tg8Rzhuxr7IQPozmg4jbjShVCt7apk         5Hmg=="
+    ],
+    "raw_auth_results": [
+      "mx.google.com;       spf=neutral (google.com: 74.125.82.70 is neither permitted nor denied by best guess record for domain of info+bncBAABBRH5R2WAKGQEJQ74HGQ@regima.com) smtp.mail=info+bncBAABBRH5R2WAKGQEJQ74HGQ@regima.com"
+    ]
+  },
+  "transport_hops": [
+    {
+      "hop": 1,
+      "from_server": "Ex2010CH1.werksmans.co.za",
+      "from_ip": "09:01:57",
+      "by_server": "Ex2010CH1.werksmans.co.za",
+      "by_ip": null,
+      "with_protocol": "mapi",
+      "via": null,
+      "id": "14.02.0387.000",
+      "for_recipient": null,
+      "timestamp": "Fri, 19 Jun 2015 09:01:57 +0200",
+      "tls": null,
+      "raw": "from Ex2010CH1.werksmans.co.za ([::1]) by Ex2010CH1.werksmans.co.za ([::1]) with mapi id 14.02.0387.000; Fri, 19 Jun 2015 09:01:57 +0200"
+    },
+    {
+      "hop": 2,
+      "from_server": "Ex2010CH1.werksmans.co.za",
+      "from_ip": "172.16.4.88",
+      "by_server": "missouri.werksmans.co.za",
+      "by_ip": null,
+      "with_protocol": null,
+      "via": null,
+      "id": null,
+      "for_recipient": null,
+      "timestamp": "Fri, 19 Jun 2015 09:01:58 +0200",
+      "tls": null,
+      "raw": "from Ex2010CH1.werksmans.co.za ([172.16.4.88]) by missouri.werksmans.co.za with Microsoft SMTPSVC(6.0.3790.4675);\t Fri, 19 Jun 2015 09:01:58 +0200"
+    },
+    {
+      "hop": 3,
+      "from_server": "missouri.werksmans.co.za",
+      "from_ip": "196.36.112.69",
+      "by_server": "za-smtp-1.mimecast.co.za",
+      "by_ip": null,
+      "with_protocol": "ESMTP",
+      "via": null,
+      "id": "za-mta-10-YiKag3oPRVumbA0t0-krjA-4",
+      "for_recipient": null,
+      "timestamp": null,
+      "tls": null,
+      "raw": "from missouri.werksmans.co.za (196.36.112.69 [196.36.112.69]) by za-smtp-1.mimecast.co.za with ESMTP id za-mta-10-YiKag3oPRVumbA0t0-krjA-4"
+    },
+    {
+      "hop": 4,
+      "from_server": "za-smtp-delivery-123.mimecast.co.za",
+      "from_ip": "41.74.205.123",
+      "by_server": "mx.google.com",
+      "by_ip": null,
+      "with_protocol": "ESMTPS",
+      "via": null,
+      "id": "eg9si18167599wjd.184.2015.06.19.00.03.31",
+      "for_recipient": null,
+      "timestamp": "Fri, 19 Jun 2015 00:03:32 -0700 (PDT)",
+      "tls": "TLSv1",
+      "raw": "from za-smtp-delivery-123.mimecast.co.za (za-smtp-delivery-123.mimecast.co.za. [41.74.205.123])        by mx.google.com with ESMTPS id eg9si18167599wjd.184.2015.06.19.00.03.31        for <info@regima.com>        (version=TLSv1 cipher=ECDHE-RSA-AES128-SHA bits=128/128);        Fri, 19 Jun 2015 00:03:32 -0700 (PDT)"
+    },
+    {
+      "hop": 5,
+      "from_server": null,
+      "from_ip": null,
+      "by_server": "10.180.107.229",
+      "by_ip": null,
+      "with_protocol": "SMTP",
+      "via": null,
+      "id": "hf5ls119904wib.21.canary",
+      "for_recipient": null,
+      "timestamp": "Fri, 19 Jun 2015 00:03:32 -0700 (PDT)",
+      "tls": null,
+      "raw": "by 10.180.107.229 with SMTP id hf5ls119904wib.21.canary; Fri, 19 Jun 2015 00:03:32 -0700 (PDT)"
+    },
+    {
+      "hop": 6,
+      "from_server": null,
+      "from_ip": null,
+      "by_server": "wgbhy7",
+      "by_ip": null,
+      "with_protocol": "SMTP",
+      "via": null,
+      "id": "hy7sf25559255wgb.3",
+      "for_recipient": "dan@regima.com",
+      "timestamp": "Fri, 19 Jun 2015 00:03:32 -0700 (PDT)",
+      "tls": null,
+      "raw": "by wgbhy7 with SMTP id hy7sf25559255wgb.3        for <dan@regima.com>; Fri, 19 Jun 2015 00:03:32 -0700 (PDT)"
+    },
+    {
+      "hop": 7,
+      "from_server": "mail-wg0-f70.google.com",
+      "from_ip": "74.125.82.70",
+      "by_server": "mx.google.com",
+      "by_ip": null,
+      "with_protocol": "ESMTPS",
+      "via": null,
+      "id": "lp13si3010716wic.64.2015.06.19.00.03.33",
+      "for_recipient": null,
+      "timestamp": "Fri, 19 Jun 2015 00:03:33 -0700 (PDT)",
+      "tls": "TLSv1.2",
+      "raw": "from mail-wg0-f70.google.com (mail-wg0-f70.google.com. [74.125.82.70])        by mx.google.com with ESMTPS id lp13si3010716wic.64.2015.06.19.00.03.33        for <dan@regima.com>        (version=TLSv1.2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);        Fri, 19 Jun 2015 00:03:33 -0700 (PDT)"
+    },
+    {
+      "hop": 8,
+      "from_server": null,
+      "from_ip": null,
+      "by_server": "10.28.171.85",
+      "by_ip": null,
+      "with_protocol": "SMTP",
+      "via": null,
+      "id": "u82csp274884wme",
+      "for_recipient": null,
+      "timestamp": "Fri, 19 Jun 2015 00:03:33 -0700 (PDT)",
+      "tls": null,
+      "raw": "by 10.28.171.85 with SMTP id u82csp274884wme;        Fri, 19 Jun 2015 00:03:33 -0700 (PDT)"
+    }
+  ],
+  "google_transport": {
+    "x_google_dkim_signature": "v=1; a=rsa-sha256; c=relaxed/relaxed;        d=1e100.net; s=20130820;        h=x-gm-message-state:subject:from:to:thread-topic:thread-index:date         :message-id:accept-language:content-language:mime-version         :content-type:x-original-sender:x-original-authentication-results         :precedence:mailing-list:list-id:list-post:list-help:list-archive         :list-unsubscribe;        bh=X/KKtqLfzShiGd8sq/TbG+j+yKE7qDHE+wULxUcJMN8=;        b=k0W9SA8O99upq3SOlCd4ANSkHucy9fbs25rDWAR5mfendmsB0EhBw+Tp3de8J2pHqB         fjJ/v7la4S8VrjAl5vgmFSNVXdQnbEYDEVybYf3ebG1u6aIeMcysM3wfytbS7EoiZXX8         9R8bQ4amejm/7v241qYPce9pO/pRlug+cZmalJvYvfYWkJNHlMmyQAux/mX5RqTvDRTD         HJa2DvLjDnSiUxjCumU1tlVJqD+ZVXfzDtkIKYEr4LDE3dCKTl8bDdE2mOSDyFOTCWF9         F+AejnAKqJHZVrRmD1HqFlh60KHiKnU4a0i+K4Tg8Rzhuxr7IQPozmg4jbjShVCt7apk         5Hmg==",
+    "x_gm_message_state": "ALoCoQlwXwOY82/qEm78+V8IUEknWCyqtSo1bTa7FzGl1z6lElmsH860KSo8uZST7zNuoCL0uN5B",
+    "x_google_smtp_source": null,
+    "delivered_to": "dan@regima.com",
+    "x_forwarded_to": null,
+    "x_forwarded_for": null,
+    "precedence": "list",
+    "list_unsubscribe": "<mailto:googlegroups-manage+67457107791+unsubscribe@googlegroups.com>, <http://groups.google.com/a/regima.com/group/info/subscribe>",
+    "mime_version": "1.0",
+    "content_type": "multipart/related; boundary=\"_004_FF67BDBB23F5524BA42654CB3547E04DF628BEEx2010CH1werksman_\"; type=\"multipart/alternative\"",
+    "google_properties": {
+      "group-id": "67457107791"
+    }
+  },
+  "mailbox_context": {
+    "user_email": "dan@regima.com",
+    "label_ids": [
+      "UNREAD",
+      "CATEGORY_FORUMS",
+      "INBOX"
+    ],
+    "snippet": "This email and its attachments are private, confidential, may be subject to legal professional",
+    "size_estimate": 117617,
+    "internal_date": "1434697316000"
+  },
+  "raw_headers": [
+    {
+      "name": "Delivered-To",
+      "value": "dan@regima.com"
+    },
+    {
+      "name": "Received",
+      "value": "by 10.28.171.85 with SMTP id u82csp274884wme;        Fri, 19 Jun 2015 00:03:33 -0700 (PDT)"
+    },
+    {
+      "name": "X-Received",
+      "value": "by 10.180.89.231 with SMTP id br7mr3658907wib.60.1434697413333;        Fri, 19 Jun 2015 00:03:33 -0700 (PDT)"
+    },
+    {
+      "name": "Return-Path",
+      "value": "<info+bncBAABBRH5R2WAKGQEJQ74HGQ@regima.com>"
+    },
+    {
+      "name": "Received",
+      "value": "from mail-wg0-f70.google.com (mail-wg0-f70.google.com. [74.125.82.70])        by mx.google.com with ESMTPS id lp13si3010716wic.64.2015.06.19.00.03.33        for <dan@regima.com>        (version=TLSv1.2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);        Fri, 19 Jun 2015 00:03:33 -0700 (PDT)"
+    },
+    {
+      "name": "Received-SPF",
+      "value": "neutral (google.com: 74.125.82.70 is neither permitted nor denied by best guess record for domain of info+bncBAABBRH5R2WAKGQEJQ74HGQ@regima.com) client-ip=74.125.82.70;"
+    },
+    {
+      "name": "Authentication-Results",
+      "value": "mx.google.com;       spf=neutral (google.com: 74.125.82.70 is neither permitted nor denied by best guess record for domain of info+bncBAABBRH5R2WAKGQEJQ74HGQ@regima.com) smtp.mail=info+bncBAABBRH5R2WAKGQEJQ74HGQ@regima.com"
+    },
+    {
+      "name": "Received",
+      "value": "by wgbhy7 with SMTP id hy7sf25559255wgb.3        for <dan@regima.com>; Fri, 19 Jun 2015 00:03:32 -0700 (PDT)"
+    },
+    {
+      "name": "X-Google-DKIM-Signature",
+      "value": "v=1; a=rsa-sha256; c=relaxed/relaxed;        d=1e100.net; s=20130820;        h=x-gm-message-state:subject:from:to:thread-topic:thread-index:date         :message-id:accept-language:content-language:mime-version         :content-type:x-original-sender:x-original-authentication-results         :precedence:mailing-list:list-id:list-post:list-help:list-archive         :list-unsubscribe;        bh=X/KKtqLfzShiGd8sq/TbG+j+yKE7qDHE+wULxUcJMN8=;        b=k0W9SA8O99upq3SOlCd4ANSkHucy9fbs25rDWAR5mfendmsB0EhBw+Tp3de8J2pHqB         fjJ/v7la4S8VrjAl5vgmFSNVXdQnbEYDEVybYf3ebG1u6aIeMcysM3wfytbS7EoiZXX8         9R8bQ4amejm/7v241qYPce9pO/pRlug+cZmalJvYvfYWkJNHlMmyQAux/mX5RqTvDRTD         HJa2DvLjDnSiUxjCumU1tlVJqD+ZVXfzDtkIKYEr4LDE3dCKTl8bDdE2mOSDyFOTCWF9         F+AejnAKqJHZVrRmD1HqFlh60KHiKnU4a0i+K4Tg8Rzhuxr7IQPozmg4jbjShVCt7apk         5Hmg=="
+    },
+    {
+      "name": "X-Gm-Message-State",
+      "value": "ALoCoQlwXwOY82/qEm78+V8IUEknWCyqtSo1bTa7FzGl1z6lElmsH860KSo8uZST7zNuoCL0uN5B"
+    },
+    {
+      "name": "X-Received",
+      "value": "by 10.112.55.104 with SMTP id r8mr13528611lbp.18.1434697412696;        Fri, 19 Jun 2015 00:03:32 -0700 (PDT)"
+    },
+    {
+      "name": "X-BeenThere",
+      "value": "info@regima.com"
+    },
+    {
+      "name": "Received",
+      "value": "by 10.180.107.229 with SMTP id hf5ls119904wib.21.canary; Fri, 19 Jun 2015 00:03:32 -0700 (PDT)"
+    },
+    {
+      "name": "X-Received",
+      "value": "by 10.180.13.171 with SMTP id i11mr3598716wic.5.1434697412443;        Fri, 19 Jun 2015 00:03:32 -0700 (PDT)"
+    },
+    {
+      "name": "Received",
+      "value": "from za-smtp-delivery-123.mimecast.co.za (za-smtp-delivery-123.mimecast.co.za. [41.74.205.123])        by mx.google.com with ESMTPS id eg9si18167599wjd.184.2015.06.19.00.03.31        for <info@regima.com>        (version=TLSv1 cipher=ECDHE-RSA-AES128-SHA bits=128/128);        Fri, 19 Jun 2015 00:03:32 -0700 (PDT)"
+    },
+    {
+      "name": "Received-SPF",
+      "value": "neutral (google.com: 41.74.205.123 is neither permitted nor denied by best guess record for domain of lelliott@werksmans.com) client-ip=41.74.205.123;"
+    },
+    {
+      "name": "Subject",
+      "value": "Stockists"
+    },
+    {
+      "name": "Received",
+      "value": "from missouri.werksmans.co.za (196.36.112.69 [196.36.112.69]) by za-smtp-1.mimecast.co.za with ESMTP id za-mta-10-YiKag3oPRVumbA0t0-krjA-4"
+    },
+    {
+      "name": "Received",
+      "value": "from Ex2010CH1.werksmans.co.za ([172.16.4.88]) by missouri.werksmans.co.za with Microsoft SMTPSVC(6.0.3790.4675);\t Fri, 19 Jun 2015 09:01:58 +0200"
+    },
+    {
+      "name": "Received",
+      "value": "from Ex2010CH1.werksmans.co.za ([::1]) by Ex2010CH1.werksmans.co.za ([::1]) with mapi id 14.02.0387.000; Fri, 19 Jun 2015 09:01:57 +0200"
+    },
+    {
+      "name": "From",
+      "value": "Lisa Elliott <lelliott@werksmans.com>"
+    },
+    {
+      "name": "To",
+      "value": "\"'info@regima.com'\" <info@regima.com>"
+    },
+    {
+      "name": "Thread-Topic",
+      "value": "Stockists"
+    },
+    {
+      "name": "Thread-Index",
+      "value": "AdCqXdPFld8Ti3s/TNuZMlEhkhzPAA=="
+    },
+    {
+      "name": "Date",
+      "value": "Fri, 19 Jun 2015 07:01:56 +0000"
+    },
+    {
+      "name": "Message-ID",
+      "value": "<FF67BDBB23F5524BA42654CB3547E04DF628BE@Ex2010CH1.werksmans.co.za>"
+    },
+    {
+      "name": "Accept-Language",
+      "value": "en-ZA, en-US"
+    },
+    {
+      "name": "Content-Language",
+      "value": "en-US"
+    },
+    {
+      "name": "X-MS-Has-Attach",
+      "value": "yes"
+    },
+    {
+      "name": "X-MS-TNEF-Correlator",
+      "value": ""
+    },
+    {
+      "name": "x-originating-ip",
+      "value": "[172.16.5.94]"
+    },
+    {
+      "name": "MIME-Version",
+      "value": "1.0"
+    },
+    {
+      "name": "X-OriginalArrivalTime",
+      "value": "19 Jun 2015 07:01:58.0069 (UTC) FILETIME=[D547FE50:01D0AA5D]"
+    },
+    {
+      "name": "X-MC-Unique",
+      "value": "YiKag3oPRVumbA0t0-krjA-4"
+    },
+    {
+      "name": "Content-Type",
+      "value": "multipart/related; boundary=\"_004_FF67BDBB23F5524BA42654CB3547E04DF628BEEx2010CH1werksman_\"; type=\"multipart/alternative\""
+    },
+    {
+      "name": "X-Original-Sender",
+      "value": "lelliott@werksmans.com"
+    },
+    {
+      "name": "X-Original-Authentication-Results",
+      "value": "mx.google.com;       spf=neutral (google.com: 41.74.205.123 is neither permitted nor denied by best guess record for domain of lelliott@werksmans.com) smtp.mail=lelliott@werksmans.com"
+    },
+    {
+      "name": "Precedence",
+      "value": "list"
+    },
+    {
+      "name": "Mailing-list",
+      "value": "list info@regima.com; contact info+owners@regima.com"
+    },
+    {
+      "name": "List-ID",
+      "value": "<info.regima.com>"
+    },
+    {
+      "name": "X-Google-Group-Id",
+      "value": "67457107791"
+    },
+    {
+      "name": "List-Post",
+      "value": "<http://groups.google.com/a/regima.com/group/info/post>, <mailto:info@regima.com>"
+    },
+    {
+      "name": "List-Help",
+      "value": "<http://support.google.com/a/regima.com/bin/topic.py?topic=25838>, <mailto:info+help@regima.com>"
+    },
+    {
+      "name": "List-Archive",
+      "value": "<http://groups.google.com/a/regima.com/group/info/>"
+    },
+    {
+      "name": "List-Unsubscribe",
+      "value": "<mailto:googlegroups-manage+67457107791+unsubscribe@googlegroups.com>, <http://groups.google.com/a/regima.com/group/info/subscribe>"
+    }
+  ],
+  "transport_summary": {
+    "total_hops": 8,
+    "origin_ip": "172.16.5.94",
+    "first_relay": "Ex2010CH1.werksmans.co.za",
+    "final_relay": "10.28.171.85",
+    "auth_verdict": {
+      "spf": "neutral",
+      "dkim": null,
+      "dmarc": null
+    }
+  },
+  "_file_integrity": {
+    "sha256": "ab3982aa3ed55c8c886ed39357b8b8d6e81c49ce4878e72b34a064d46e6e42c4",
+    "size_bytes": 16013
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "_schema": "exchange-forensic-eml/v1",
+  "_generated": "2026-03-10T03:50:38.383649+00:00",
+  "_source": "neon-exchange-sync",
+  "file_integrity": {
+    "eml_file": "/home/ubuntu/revstream1/docs/evidence/forensic_eml/regima.zone/0086_2025-11-02_2206_jax@regima.zone_INTEGRATED_NARRATIVE.eml",
+    "file_size_bytes": 155262,
+    "md5": "9c4836a0cc7bc92b7ed26b496c872524",
+    "sha1": "0ba3cfbeda796b6f53eb0cbbf0888270773dc042",
+    "sha256": "90ca27d97e99a7d0a3410df975626b6aeb3a97dcdce60027a57512ff4998cd20"
+  },
+  "message_identity": {
+    "exchange_sync_id": "pst-f86b3a41162789b5d68ad5c508b11d58b62b3d47",
+    "internet_message_id": "<GV2PR08MB9207E05E24CF189495EA6C50ACC6A@GV2PR08MB9207.eurprd08.prod.outlook.com>",
+    "conversation_id": "pst-conv-9a8513b98be1861ba5af633949d12469"
+  },
+  "envelope": {
+    "subject": "INTEGRATED NARRATIVE",
+    "from_name": "Jacqui Faucitt",
+    "from_address": "jax@regima.zone",
+    "to_recipients": [
+      {
+        "emailAddress": {
+          "name": "Doron Block",
+          "address": "block@rivoniaadvocates.co.za"
+        }
+      },
+      {
+        "emailAddress": {
+          "name": "Natan Back",
+          "address": "natan@ianlevitt.co.za"
+        }
+      },
+      {
+        "emailAddress": {
+          "name": "Daniel J. Faucitt",
+          "address": "dan@regima.com"
+        }
+      }
+    ],
+    "cc_recipients": null,
+    "received_datetime": "2025-11-02 22:06:57+00:00"
+  },
+  "mailbox_context": {
+    "user_email": "jax@regima.zone",
+    "user_name": "Jacqui Faucitt",
+    "folder_name": "Inbox",
+    "folder_id": "pst-folder-9b6b8f53019614a146193d63872be547"
+  },
+  "body": {
+    "content_type": "html",
+    "preview": "P {margin-top:0;margin-bottom:0;} INTEGRATED NARRATIVE FRAMEWORK WE ARE HOPING THIS IS WHAT YOU ARE LOOKING FOR AS IT HAS BEEN TRIMMED AND THE LINES&nbsp; NOW HAVE A NARRATIVE.&nbsp; PLEASE CONFIRM.&nbsp; DANNY STILL WORKING ON ONE Case 2025-137857: Coher",
+    "body_length_chars": 113676
+  },
+  "attachments": []
+}

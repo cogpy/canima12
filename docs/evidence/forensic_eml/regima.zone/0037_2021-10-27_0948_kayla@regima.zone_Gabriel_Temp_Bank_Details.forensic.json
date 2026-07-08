@@ -1,0 +1,46 @@
+{
+  "_schema": "exchange-forensic-eml/v1",
+  "_generated": "2026-03-10T03:53:52.713287+00:00",
+  "_source": "neon-exchange-sync",
+  "file_integrity": {
+    "eml_file": "/home/ubuntu/revstream1/docs/evidence/forensic_eml/regima.zone/0037_2021-10-27_0948_kayla@regima.zone_Gabriel_Temp_Bank_Details.eml",
+    "file_size_bytes": 769,
+    "md5": "2cda5117e198231ef572838c2d47c547",
+    "sha1": "e873a64d1077d9e83c77962a7ef8262674526bee",
+    "sha256": "8d9e8a282823e97fe8125db1f8650267be9b114806cd8b814114a0c3123e8474"
+  },
+  "message_identity": {
+    "exchange_sync_id": "AQMkAGM2Y2E0NWVmLWEzZTktNDc1Mi1iY2I4LTU3OTBlMTJhMTllNQBGAAADPe59AHjuz0_HJe8Q4ALb1wcAtr3q_CoE-0aRl7m1844EjgAAAgEMAAAAtr3q_CoE-0aRl7m1844EjgAGm3fq3QAAAA==",
+    "internet_message_id": "<DB9PR08MB685980805E244E44E5F454A2A1859@DB9PR08MB6859.eurprd08.prod.outlook.com>",
+    "conversation_id": "AAQkAGM2Y2E0NWVmLWEzZTktNDc1Mi1iY2I4LTU3OTBlMTJhMTllNQAQAH-LTQDqtG5Jj2RkamIZ3Rc="
+  },
+  "envelope": {
+    "subject": "Gabriel Temp Bank Details ",
+    "from_name": "Kayla Pretorius",
+    "from_address": "kayla@regima.zone",
+    "to_recipients": [
+      {
+        "name": "Jacqui Faucitt",
+        "address": "jax@regima.zone"
+      },
+      {
+        "name": "pete@regima.com",
+        "address": "pete@regima.com"
+      }
+    ],
+    "cc_recipients": null,
+    "received_datetime": "2021-10-27 09:48:02+00:00"
+  },
+  "mailbox_context": {
+    "user_email": "jax@regima.zone",
+    "user_name": "Jacqui Faucitt",
+    "folder_name": "Inbox",
+    "folder_id": "AQMkAGM2Y2E0NWVmLWEzZTktNDc1Mi1iY2I4LTU3OTBlMTJhMTllNQAuAAADPe59AHjuz0_HJe8Q4ALb1wEAtr3q_CoE-0aRl7m1844EjgAAAgEMAAAA"
+  },
+  "body": {
+    "content_type": null,
+    "preview": "Hi Jax\r\n\r\nCan you please send Gab's moneys to the below account, this is just temporary\r\n\r\nCapitec Savings\r\n1480086779\r\nK. Pretorius\r\n\r\nIt's under my name but I'll draw the cash out for him, makes it easier for everyone 🙂\r\n\r\nKindest Regards\r\nKayla Pretor",
+    "body_length_chars": 0
+  },
+  "attachments": []
+}

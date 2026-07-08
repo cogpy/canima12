@@ -1,0 +1,112 @@
+[
+  {
+    "item_id": "EMAIL_D4BE52B4F815",
+    "centrality": 56250,
+    "rank": 1
+  },
+  {
+    "item_id": "EMAIL_3913620B19B1",
+    "centrality": 53550,
+    "rank": 2
+  },
+  {
+    "item_id": "EMAIL_78C0883C28FA",
+    "centrality": 53300,
+    "rank": 3
+  },
+  {
+    "item_id": "EMAIL_CE7DA123AA8A",
+    "centrality": 51250,
+    "rank": 4
+  },
+  {
+    "item_id": "DOCUMENT_E7D6BCACAE4D",
+    "centrality": 21112,
+    "rank": 5
+  },
+  {
+    "item_id": "UNKNOWN_6CC42B772F00",
+    "centrality": 16200,
+    "rank": 6
+  },
+  {
+    "item_id": "DOCUMENT_2CE763EC13BC",
+    "centrality": 16200,
+    "rank": 7
+  },
+  {
+    "item_id": "DOCUMENT_B33772144A20",
+    "centrality": 15480,
+    "rank": 8
+  },
+  {
+    "item_id": "DOCUMENT_60BC81A57B1D",
+    "centrality": 6417,
+    "rank": 9
+  },
+  {
+    "item_id": "IMAGE_B3A654639E43",
+    "centrality": 6032,
+    "rank": 10
+  },
+  {
+    "item_id": "IMAGE_D7DE0D54BCA2",
+    "centrality": 5481,
+    "rank": 11
+  },
+  {
+    "item_id": "IMAGE_027417722282",
+    "centrality": 5481,
+    "rank": 12
+  },
+  {
+    "item_id": "DOCUMENT_F389C1DC0988",
+    "centrality": 4902,
+    "rank": 13
+  },
+  {
+    "item_id": "DOCUMENT_18599C37AB5C",
+    "centrality": 4902,
+    "rank": 14
+  },
+  {
+    "item_id": "DOCUMENT_64DB6080EC56",
+    "centrality": 4536,
+    "rank": 15
+  },
+  {
+    "item_id": "IMAGE_551E3003D18E",
+    "centrality": 3960,
+    "rank": 16
+  },
+  {
+    "item_id": "DOCUMENT_5565C35169DF",
+    "centrality": 3036,
+    "rank": 17
+  },
+  {
+    "item_id": "DOCUMENT_CD201D9F64F0",
+    "centrality": 3024,
+    "rank": 18
+  },
+  {
+    "item_id": "UNKNOWN_7BC88904F6F1",
+    "centrality": 2592,
+    "rank": 19
+  },
+  {
+    "item_id": "DOCUMENT_A34F34671A0C",
+    "centrality": 2080,
+    "rank": 20
+  },
+  {
+    "item_id": "UNKNOWN_35767B2390E1",
+    "centrality": 1980,
+    "rank": 21
+  },
+  {
+    "item_id": "DOCUMENT_6D73DDFCFFBF",
+    "centrality": 1980,
+    "rank": 22
+  }
+]

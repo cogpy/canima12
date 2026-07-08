@@ -1,0 +1,59 @@
+{
+  "_schema": "exchange-forensic-eml/v1",
+  "_generated": "2026-03-10T03:53:05.429624+00:00",
+  "_source": "neon-exchange-sync",
+  "file_integrity": {
+    "eml_file": "/home/ubuntu/revstream1/docs/evidence/forensic_eml/regima.zone/0075_2020-05-25_1428_kayla@regima.zone_Proforma_Invoice_-_CALMER_HEALTH_AND_BEAUTY_-_WWD0.eml",
+    "file_size_bytes": 941,
+    "md5": "9a0b9e9990ad16b17d22b8a47b1727d1",
+    "sha1": "aa06cefeea8ce381b720b4821045e00cb82c2b47",
+    "sha256": "ec049119470376a99fe3f7de9b29fea5ebca10c28febe301a9da0ccd9a91a3ba"
+  },
+  "message_identity": {
+    "exchange_sync_id": "AQMkADMxMzkyY2FlLWNkMGEtNGM2My04OWFiLTNlZDRjNzkyNGUyMwBGAAADSLKv-EI8AESN7LMej4ROLgcAIySisE98NkWmcNijjztGYgAAAj1EAAAAIySisE98NkWmcNijjztGYgAAAlFLAAAA",
+    "internet_message_id": "<VI1PR0802MB2333A8780AE8901AA32CD01CA1B30@VI1PR0802MB2333.eurprd08.prod.outlook.com>",
+    "conversation_id": "AAQkADMxMzkyY2FlLWNkMGEtNGM2My04OWFiLTNlZDRjNzkyNGUyMwAQAL68OCLmc5hKu6bCFtc904k="
+  },
+  "envelope": {
+    "subject": "Proforma Invoice - CALMER HEALTH AND BEAUTY - WWD0279 (Shopify Test)",
+    "from_name": "Kayla Pretorius",
+    "from_address": "kayla@regima.zone",
+    "to_recipients": [
+      {
+        "name": "kent@regima.com",
+        "address": "kent@regima.com"
+      },
+      {
+        "name": "orders@regima.com",
+        "address": "orders@regima.com"
+      },
+      {
+        "name": "Lyndall  Jackson",
+        "address": "lyndall@regima.zone"
+      }
+    ],
+    "cc_recipients": [
+      {
+        "name": "Bernadine Wright",
+        "address": "bern@regima.zone"
+      },
+      {
+        "name": "Rynette Farrar",
+        "address": "rynette@regima.zone"
+      }
+    ],
+    "received_datetime": "2020-05-25 14:28:23+00:00"
+  },
+  "mailbox_context": {
+    "user_email": "rynette@regima.zone",
+    "user_name": "Rynette Farrar",
+    "folder_name": "Orders",
+    "folder_id": "AQMkADMxMzkyY2FlLWNkMGEtNGM2My04OWFiLTNlZDRjNzkyNGUyMwAuAAADSLKv-EI8AESN7LMej4ROLgEAIySisE98NkWmcNijjztGYgAAAj1EAAAA"
+  },
+  "body": {
+    "content_type": null,
+    "preview": "Hello\r\n\r\nPlease find attached Proforma Invoice for Proforma Invoice - CALMER HEALTH AND BEAUTY - WWD0279 (Shopify Test)\r\n\r\nKindest Regards\r\nKayla Pretorius\r\nRegimA Head Office",
+    "body_length_chars": 0
+  },
+  "attachments": []
+}

@@ -1,0 +1,86 @@
+{
+  "_schema": "exchange-forensic-eml/v1",
+  "_generated": "2026-03-10T03:50:36.374008+00:00",
+  "_source": "neon-exchange-sync",
+  "file_integrity": {
+    "eml_file": "/home/ubuntu/revstream1/docs/evidence/forensic_eml/unknown/0074_2025-11-02_1712_MAILER-DAEMON_BIG_FONT_JAX_-_Affidavit_with_AD_PARAGRAPHS.eml",
+    "file_size_bytes": 104522,
+    "md5": "817314d834c13bad93f5aa179cbcecd2",
+    "sha1": "0a71e4c35c85aeeff8d95a1f404f65b4dbe9b4ce",
+    "sha256": "a72183a790e8d5c34507fc805ddfca6b43a9bb01522c98f31b74f902d25aed3d"
+  },
+  "message_identity": {
+    "exchange_sync_id": "pst-44c52a4292ef415a50592cd6916cd989c0527d2f",
+    "internet_message_id": "<JNZP275MB13219E6796042A48EF64D8B0CBC6A@JNZP275MB1321.ZAFP275.PROD.OUTLOOK.COM>",
+    "conversation_id": null
+  },
+  "envelope": {
+    "subject": "BIG FONT JAX - Affidavit with AD PARAGRAPHS",
+    "from_name": "Daniel Faucitt",
+    "from_address": "MAILER-DAEMON",
+    "to_recipients": [
+      {
+        "emailAddress": {
+          "name": "Jacqui",
+          "address": "Jacqui"
+        }
+      }
+    ],
+    "cc_recipients": [
+      {
+        "emailAddress": {
+          "name": "Jacqui",
+          "address": "Jacqui"
+        }
+      },
+      {
+        "emailAddress": {
+          "name": "d",
+          "address": "d@rzo.io"
+        }
+      },
+      {
+        "emailAddress": {
+          "name": "regizone",
+          "address": "regizone"
+        }
+      }
+    ],
+    "received_datetime": "2025-11-02 17:12:17+00:00"
+  },
+  "mailbox_context": {
+    "user_email": "dan@regima.com",
+    "user_name": "Dan",
+    "folder_name": "Sent Items",
+    "folder_id": "pst-folder-d5f2fe49026e4bccf5f8a98e2e8a2b1d"
+  },
+  "body": {
+    "content_type": "html",
+    "preview": "P {margin-top:0;margin-bottom:0;} ATTACHED AND BELOW LARGER FONT FOR VISIBILITY: ANSWERING AFFIDAVIT: JACQUELINE FAUCITT Case No: &nbsp;2025-137857 Court: &nbsp;High Court of South Africa, Gauteng Division, Pretoria Document Type: &nbsp;Answering Affidavi",
+    "body_length_chars": 76308
+  },
+  "attachments": [
+    {
+      "id": "pst-att-99224c6bbcba04f40f4afc03a6c31a374057731d",
+      "name": "Jacqueline_Answering_Affidavit_v8_JR_BIG.docx",
+      "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "size_bytes": 33883,
+      "is_inline": false,
+      "r2_bucket": "exchange-attachments",
+      "r2_key": "dan_at_regima.com/pst/pst-44c52a4292ef415a/Jacqueline_Answering_Affidavit_v8_JR_BIG.docx",
+      "download_status": "downloaded",
+      "downloaded": false
+    },
+    {
+      "id": "pst-att-343be21dc46f00498e93694b47630e240bf0889d",
+      "name": "Jacqueline_Answering_Affidavit_v8_JR_BIG.pdf",
+      "content_type": "application/pdf",
+      "size_bytes": 156919,
+      "is_inline": false,
+      "r2_bucket": "exchange-attachments",
+      "r2_key": "dan_at_regima.com/pst/pst-44c52a4292ef415a/Jacqueline_Answering_Affidavit_v8_JR_BIG.pdf",
+      "download_status": "downloaded",
+      "downloaded": false
+    }
+  ]
+}

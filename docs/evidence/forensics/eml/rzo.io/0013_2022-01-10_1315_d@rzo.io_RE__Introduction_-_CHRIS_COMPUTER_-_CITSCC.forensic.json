@@ -1,0 +1,53 @@
+{
+  "_schema": "exoml-forensic/v1",
+  "_generated": "2026-03-10T08:04:24.909999+00:00",
+  "file_integrity": {
+    "eml_file": "rzo.io/0013_2022-01-10_1315_d@rzo.io_RE__Introduction_-_CHRIS_COMPUTER_-_CITSCC.eml",
+    "file_size_bytes": 34619,
+    "md5": "ae830c2512aea31fb46192ff7c274dc2",
+    "sha1": "8863d04ebca672c128e0be05ca66549b98f34a7a",
+    "sha256": "b3cda4f23a9aeba0544b4994f84574bd8738ae9abb2b1e9d7f125df59fb949db"
+  },
+  "message_identity": {
+    "db_id": 544,
+    "exchange_message_id": "AAMkAGE2YjljZjA1LTRlOWUtNDhjYi1iZjNkLWI4ZWRlNDQwYTU0MABGAAAAAADPgXCfMl5uRqA6Xxa9Yh33BwAh607i92PMQLMLAH3HB5h5AAAAAAEJAAAh607i92PMQLMLAH3HB5h5AAW6DE7YAAA=",
+    "conversation_id": "AAQkAGE2YjljZjA1LTRlOWUtNDhjYi1iZjNkLWI4ZWRlNDQwYTU0MAAQAK5wyz1kZEkOna__hjT0MCw="
+  },
+  "envelope": {
+    "subject": "RE: Introduction  -  CHRIS COMPUTER - CITSCC",
+    "from_name": "Daniel Faucitt",
+    "from_address": "d@rzo.io",
+    "to_recipients": [
+      {
+        "emailAddress": {
+          "name": "Kayla Pretorius",
+          "address": "kayla@regima.zone"
+        }
+      },
+      {
+        "emailAddress": {
+          "name": "Jacqui Faucitt",
+          "address": "jax@regima.zone"
+        }
+      },
+      {
+        "emailAddress": {
+          "name": "Rynette Farrar",
+          "address": "rynette@regima.zone"
+        }
+      }
+    ],
+    "cc_recipients": [],
+    "received_datetime": "2022-01-10 13:15:00"
+  },
+  "mailbox_context": {
+    "user_email": "d@rzo.io",
+    "user_name": "Daniel Faucitt"
+  },
+  "body": {
+    "content_type": "html",
+    "preview": "The main thing we need are services etc. We are IT partner on Microsoft and host all our own portals & exchanges and we are partner & reseller on GoDaddy for Hosting etc and we have a while bunch of technician backup accounts & Ccleaner cloud and other st",
+    "body_length_chars": 24928
+  },
+  "attachments": []
+}

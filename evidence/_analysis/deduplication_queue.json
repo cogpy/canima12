@@ -1,0 +1,42 @@
+[
+  {
+    "normalized_name": "regima sa",
+    "candidate_ids": [
+      "ORG_006",
+      "ORG_014"
+    ],
+    "status": "pending_review",
+    "flagged": "2026-06-06T06:20:30.275081",
+    "action": null
+  },
+  {
+    "normalized_name": "org_017: ketoni investment holdings (pty) ltd",
+    "candidate_ids": [
+      "ORG_016",
+      "ORG_017"
+    ],
+    "status": "pending_review",
+    "flagged": "2026-06-06T06:20:30.275096",
+    "action": null
+  },
+  {
+    "normalized_name": "linda kruger",
+    "candidate_ids": [
+      "PERSON_006",
+      "PERSON_020"
+    ],
+    "status": "pending_review",
+    "flagged": "2026-06-06T06:20:30.275098",
+    "action": null
+  },
+  {
+    "normalized_name": "chantal",
+    "candidate_ids": [
+      "PERSON_011",
+      "PERSON_015"
+    ],
+    "status": "pending_review",
+    "flagged": "2026-06-06T06:20:30.275100",
+    "action": null
+  }
+]

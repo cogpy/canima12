@@ -1,0 +1,42 @@
+{
+  "_schema": "exchange-forensic-eml/v1",
+  "_generated": "2026-03-10T03:53:21.494052+00:00",
+  "_source": "neon-exchange-sync",
+  "file_integrity": {
+    "eml_file": "/home/ubuntu/revstream1/docs/evidence/forensic_eml/hyve-exhibitions.com/0001_2021-02-01_1046_Turkey.Beauty@hyve-exhibitions_BeautyEurasia_is_the_ideal_platform_in_the_region_.eml",
+    "file_size_bytes": 855,
+    "md5": "74e2f9be86561188af20d31635709014",
+    "sha1": "120d1692e3328a553bc3a0575d8d7dd5648fb04c",
+    "sha256": "3dfd1514d91df44135acf9efc32d4fba9c127c3a4b9a0c001f9c673fe4ecb309"
+  },
+  "message_identity": {
+    "exchange_sync_id": "AQMkAGM2Y2E0NWVmLWEzZTktNDc1Mi1iY2I4LTU3OTBlMTJhMTllNQBGAAADPe59AHjuz0_HJe8Q4ALb1wcAtr3q_CoE-0aRl7m1844EjgAAAgEMAAAAtr3q_CoE-0aRl7m1844EjgAF7FYvxwAAAA==",
+    "internet_message_id": "<1879365452.31124944.1612176379289@lonmktmail-batch1d.marketo.org>",
+    "conversation_id": "AAQkAGM2Y2E0NWVmLWEzZTktNDc1Mi1iY2I4LTU3OTBlMTJhMTllNQAQAHKF0yrn43lAvqlyk8S8fq8="
+  },
+  "envelope": {
+    "subject": "BeautyEurasia is the ideal platform in the region for private label manufacturers. Book your stand today to explore new business opportunities.",
+    "from_name": "Filiz Mehmedova",
+    "from_address": "Turkey.Beauty@hyve-exhibitions.com",
+    "to_recipients": [
+      {
+        "name": "info@regima.com",
+        "address": "info@regima.com"
+      }
+    ],
+    "cc_recipients": null,
+    "received_datetime": "2021-02-01 10:46:28+00:00"
+  },
+  "mailbox_context": {
+    "user_email": "jax@regima.zone",
+    "user_name": "Jacqui Faucitt",
+    "folder_name": "Inbox",
+    "folder_id": "AQMkAGM2Y2E0NWVmLWEzZTktNDc1Mi1iY2I4LTU3OTBlMTJhMTllNQAuAAADPe59AHjuz0_HJe8Q4ALb1wEAtr3q_CoE-0aRl7m1844EjgAAAgEMAAAA"
+  },
+  "body": {
+    "content_type": null,
+    "preview": "16th International Cosmetics, Beauty, Hair Exhibition\r\n\r\n\r\n\r\n\r\n\r\nDear Dan F,\r\n\r\nStand booking continues for 16th BeautyEurasia, the no.1 gateway to the region’s lucrative cosmetics and personal care industries.\r\n\r\nThe previous edition of the exhibition we",
+    "body_length_chars": 0
+  },
+  "attachments": []
+}

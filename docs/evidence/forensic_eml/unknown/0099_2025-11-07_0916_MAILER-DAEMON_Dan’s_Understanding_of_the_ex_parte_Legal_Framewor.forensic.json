@@ -1,0 +1,125 @@
+{
+  "_schema": "exchange-forensic-eml/v1",
+  "_generated": "2026-03-10T03:50:40.452238+00:00",
+  "_source": "neon-exchange-sync",
+  "file_integrity": {
+    "eml_file": "/home/ubuntu/revstream1/docs/evidence/forensic_eml/unknown/0099_2025-11-07_0916_MAILER-DAEMON_Dan’s_Understanding_of_the_ex_parte_Legal_Framewor.eml",
+    "file_size_bytes": 65113,
+    "md5": "a22b23872000d08df9c727fc35f92802",
+    "sha1": "47ff3d2585032d65813f0dd325b7bc6e37e04d06",
+    "sha256": "074beea31253f4dbccb4c3f7b688356ea6b78dfb93f6a32b87084814b13c3385"
+  },
+  "message_identity": {
+    "exchange_sync_id": "pst-430e8adf902445cbba5940288e3096421c210b79",
+    "internet_message_id": "<JNZP275MB13212C3E27817813483EFFF1CBC3A@JNZP275MB1321.ZAFP275.PROD.OUTLOOK.COM>",
+    "conversation_id": null
+  },
+  "envelope": {
+    "subject": "Dan’s Understanding of the ex parte Legal Framework",
+    "from_name": "Daniel Faucitt",
+    "from_address": "MAILER-DAEMON",
+    "to_recipients": [
+      {
+        "emailAddress": {
+          "name": "Ian",
+          "address": "Ian"
+        }
+      },
+      {
+        "emailAddress": {
+          "name": "Jacqui",
+          "address": "Jacqui"
+        }
+      },
+      {
+        "emailAddress": {
+          "name": "Doron",
+          "address": "Doron"
+        }
+      },
+      {
+        "emailAddress": {
+          "name": "Natan",
+          "address": "Natan"
+        }
+      }
+    ],
+    "cc_recipients": [
+      {
+        "emailAddress": {
+          "name": "d",
+          "address": "d@rzo.io"
+        }
+      }
+    ],
+    "received_datetime": "2025-11-07 09:16:41+00:00"
+  },
+  "mailbox_context": {
+    "user_email": "dan@regima.com",
+    "user_name": "Dan",
+    "folder_name": "Sent Items",
+    "folder_id": "pst-folder-d5f2fe49026e4bccf5f8a98e2e8a2b1d"
+  },
+  "body": {
+    "content_type": "html",
+    "preview": "P {margin-top:0;margin-bottom:0;} Attached is a document I was preparing as a comprehensive explanation for Jacqui to explain the subtle differences in legal approaches. See file: &quot;Dan’s Understanding of the ex parte Legal Framework.docx&quot; I thou",
+    "body_length_chars": 46485
+  },
+  "attachments": [
+    {
+      "id": "pst-att-8c7217c79acad9f68ceecfe7885e8411dadc31d3",
+      "name": "Dan���s Understanding of the ex parte Legal Framework.docx",
+      "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "size_bytes": 26375,
+      "is_inline": false,
+      "r2_bucket": "exchange-attachments",
+      "r2_key": "dan_at_regima.com/pst/pst-430e8adf902445cb/Dan_s_Understanding_of_the_ex_parte_Legal_Framework.docx",
+      "download_status": "downloaded",
+      "downloaded": false
+    },
+    {
+      "id": "pst-att-b1b590bcfda3889c6d5e9b3e3569bde7b0f2ca62",
+      "name": "image001.png",
+      "content_type": "image/png",
+      "size_bytes": 13472,
+      "is_inline": false,
+      "r2_bucket": "exchange-attachments",
+      "r2_key": "dan_at_regima.com/pst/pst-430e8adf902445cb/image001.png",
+      "download_status": "downloaded",
+      "downloaded": false
+    },
+    {
+      "id": "pst-att-19ad381f332da9ab549fbbfa91ec5b489a26c023",
+      "name": "image002.jpg",
+      "content_type": "image/jpeg",
+      "size_bytes": 2837,
+      "is_inline": false,
+      "r2_bucket": "exchange-attachments",
+      "r2_key": "dan_at_regima.com/pst/pst-430e8adf902445cb/image002.jpg",
+      "download_status": "downloaded",
+      "downloaded": false
+    },
+    {
+      "id": "pst-att-2d9db437c4009163b692999f5c62b0698f4ed7e2",
+      "name": "image003.jpg",
+      "content_type": "image/jpeg",
+      "size_bytes": 3107,
+      "is_inline": false,
+      "r2_bucket": "exchange-attachments",
+      "r2_key": "dan_at_regima.com/pst/pst-430e8adf902445cb/image003.jpg",
+      "download_status": "downloaded",
+      "downloaded": false
+    },
+    {
+      "id": "pst-att-835a22a0b3fdd856925f8e665adea2b10c92932b",
+      "name": "image004.jpg",
+      "content_type": "image/jpeg",
+      "size_bytes": 2919,
+      "is_inline": false,
+      "r2_bucket": "exchange-attachments",
+      "r2_key": "dan_at_regima.com/pst/pst-430e8adf902445cb/image004.jpg",
+      "download_status": "downloaded",
+      "downloaded": false
+    }
+  ]
+}

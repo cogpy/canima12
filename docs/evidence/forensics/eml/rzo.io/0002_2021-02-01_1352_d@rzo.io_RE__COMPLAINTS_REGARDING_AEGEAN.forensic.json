@@ -1,0 +1,60 @@
+{
+  "_schema": "exoml-forensic/v1",
+  "_generated": "2026-03-10T08:04:23.772639+00:00",
+  "file_integrity": {
+    "eml_file": "rzo.io/0002_2021-02-01_1352_d@rzo.io_RE__COMPLAINTS_REGARDING_AEGEAN.eml",
+    "file_size_bytes": 16423,
+    "md5": "2a154842e404ae92530d82ca9346b638",
+    "sha1": "e16f6da315a03b0d19b2ca445f37e88bb964ccd9",
+    "sha256": "577fabadd8fea63552952b62c81e9baed0870fb0c9a14ca731ecd6c2e071d29b"
+  },
+  "message_identity": {
+    "db_id": 861,
+    "exchange_message_id": "AAMkAGE2YjljZjA1LTRlOWUtNDhjYi1iZjNkLWI4ZWRlNDQwYTU0MABGAAAAAADPgXCfMl5uRqA6Xxa9Yh33BwAh607i92PMQLMLAH3HB5h5AAAAAAEJAAAh607i92PMQLMLAH3HB5h5AAJ6076_AAA=",
+    "conversation_id": "AAQkAGE2YjljZjA1LTRlOWUtNDhjYi1iZjNkLWI4ZWRlNDQwYTU0MAAQAE2H91XpTkLGmmPbT84nagA="
+  },
+  "envelope": {
+    "subject": "RE: COMPLAINTS REGARDING AEGEAN",
+    "from_name": "Daniel Faucitt",
+    "from_address": "d@rzo.io",
+    "to_recipients": [
+      {
+        "emailAddress": {
+          "name": "karen@kachan.co.za",
+          "address": "karen@kachan.co.za"
+        }
+      }
+    ],
+    "cc_recipients": [
+      {
+        "emailAddress": {
+          "name": "Jacqui Faucitt",
+          "address": "jax@regima.zone"
+        }
+      },
+      {
+        "emailAddress": {
+          "name": "kayla@regima.zone",
+          "address": "kayla@regima.zone"
+        }
+      },
+      {
+        "emailAddress": {
+          "name": "Rynette Farrar",
+          "address": "rynette@regima.zone"
+        }
+      }
+    ],
+    "received_datetime": "2021-02-01 13:52:00"
+  },
+  "mailbox_context": {
+    "user_email": "d@rzo.io",
+    "user_name": "Daniel Faucitt"
+  },
+  "body": {
+    "content_type": "html",
+    "preview": "RegimA Skin Treatments\r\n\r\nCK92/05371/23\r\n\r\nVAT No. 4590131043\r\n\r\nTel: 011 615 2869\r\n\r\ne-mail:info@regima.com\r\n\r\nHEAD OFFICE: 50 Van Buuren Road, Bedfordview, 2008, RSA\r\n\r\n___________________________________________________________________\r\n\r\n31 January 20",
+    "body_length_chars": 11471
+  },
+  "attachments": []
+}

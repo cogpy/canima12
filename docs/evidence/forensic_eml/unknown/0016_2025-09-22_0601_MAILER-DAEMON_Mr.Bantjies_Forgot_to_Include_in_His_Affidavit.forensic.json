@@ -1,0 +1,51 @@
+{
+  "_schema": "exchange-forensic-eml/v1",
+  "_generated": "2026-03-10T03:50:27.985478+00:00",
+  "_source": "neon-exchange-sync",
+  "file_integrity": {
+    "eml_file": "/home/ubuntu/revstream1/docs/evidence/forensic_eml/unknown/0016_2025-09-22_0601_MAILER-DAEMON_Mr.Bantjies_Forgot_to_Include_in_His_Affidavit.eml",
+    "file_size_bytes": 25960,
+    "md5": "0c2693259c4f7ff6936de1819db770a2",
+    "sha1": "f5e0455b5f9a8816e8f171ec4e3b8855e16e4275",
+    "sha256": "6dc81a8e3036b557fa4c2c433a9552c576d0ba86bace562ab7709437c7f055fc"
+  },
+  "message_identity": {
+    "exchange_sync_id": "pst-9a62c49537f33c849d5d9a190daae6b632d05697",
+    "internet_message_id": "<JNZP275MB13216ADDF254411EF2201F9DCB12A@JNZP275MB1321.ZAFP275.PROD.OUTLOOK.COM>",
+    "conversation_id": null
+  },
+  "envelope": {
+    "subject": "Mr.Bantjies Forgot to Include in His Affidavit",
+    "from_name": "Daniel Faucitt",
+    "from_address": "MAILER-DAEMON",
+    "to_recipients": [
+      {
+        "emailAddress": {
+          "name": "Jacqui",
+          "address": "Jacqui"
+        }
+      }
+    ],
+    "cc_recipients": [
+      {
+        "emailAddress": {
+          "name": "Jacqui",
+          "address": "Jacqui"
+        }
+      }
+    ],
+    "received_datetime": "2025-09-22 06:01:42+00:00"
+  },
+  "mailbox_context": {
+    "user_email": "dan@regima.com",
+    "user_name": "Dan",
+    "folder_name": "Sent Items",
+    "folder_id": "pst-folder-d5f2fe49026e4bccf5f8a98e2e8a2b1d"
+  },
+  "body": {
+    "content_type": "html",
+    "preview": "P {margin-top:0;margin-bottom:0;} Mr.Bantjies Forgot to Include in His Affidavit - Thus &quot;No Disputes, Only Crimes&quot; You've identified a sophisticated legal maneuver using the June 6 and 10 emails. Here's why this could work: The Strategic Logic: ",
+    "body_length_chars": 18684
+  },
+  "attachments": []
+}

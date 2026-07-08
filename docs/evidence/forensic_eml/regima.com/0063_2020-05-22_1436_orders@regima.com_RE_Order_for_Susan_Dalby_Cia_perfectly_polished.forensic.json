@@ -1,0 +1,63 @@
+{
+  "_schema": "exchange-forensic-eml/v1",
+  "_generated": "2026-03-10T03:53:03.777329+00:00",
+  "_source": "neon-exchange-sync",
+  "file_integrity": {
+    "eml_file": "/home/ubuntu/revstream1/docs/evidence/forensic_eml/regima.com/0063_2020-05-22_1436_orders@regima.com_RE_Order_for_Susan_Dalby_Cia_perfectly_polished.eml",
+    "file_size_bytes": 930,
+    "md5": "12dc3f60b3893a4fb04de504f7d9843b",
+    "sha1": "270789d3c6225e38bd9a061030c4a5a63ceb15fe",
+    "sha256": "e28c208327ca2e08da51d290f394e6624ff30c21f3b04a6d34c8a39377892a76"
+  },
+  "message_identity": {
+    "exchange_sync_id": "AAMkADkzY2U4OTQyLTZjNzAtNGRlNi1iMjk1LWQwNWNjYzIyODQ5YgBGAAAAAAADECMUPsw5TaA2pA0VUIqNBwCR-svwgFxkSomVNqCc6-zPAAAAAAEMAACR-svwgFxkSomVNqCc6-zPAAVOmkzOAAA=",
+    "internet_message_id": "<00ef01d63018$5558a730$0009f590$@regima.com>",
+    "conversation_id": "AAQkADkzY2U4OTQyLTZjNzAtNGRlNi1iMjk1LWQwNWNjYzIyODQ5YgAQAAtghFA3v4P9vZEKPLXHGIM="
+  },
+  "envelope": {
+    "subject": "RE: Order for Susan Dalby Cia perfectly polished",
+    "from_name": "orders@regima.com",
+    "from_address": "orders@regima.com",
+    "to_recipients": [
+      {
+        "name": "'Caroline Strydom'",
+        "address": "carolinestrydom2@gmail.com"
+      }
+    ],
+    "cc_recipients": [
+      {
+        "name": "'Peter Andrew Faucitt'",
+        "address": "pete@regima.com"
+      },
+      {
+        "name": "Jacqui Faucitt",
+        "address": "jax@regima.zone"
+      },
+      {
+        "name": "Bernadine Wright",
+        "address": "bern@regima.zone"
+      },
+      {
+        "name": "Kayla Pretorius",
+        "address": "kayla@regima.zone"
+      },
+      {
+        "name": "Rynette Farrar",
+        "address": "rynette@regima.zone"
+      }
+    ],
+    "received_datetime": "2020-05-22 14:36:20+00:00"
+  },
+  "mailbox_context": {
+    "user_email": "kayla@regima.zone",
+    "user_name": "Kayla Pretorius",
+    "folder_name": "Inbox",
+    "folder_id": "AQMkADkzY2U4OTQyLTZjNzAtNGRlNi1iMjk1LWQwNWNjATIyADg0OWIALgAAAwMQIxQ_zDlNoDakDRVQio0BAJH_y-CAXGRKiZU2oJzr-M8AAAIBDAAAAA=="
+  },
+  "body": {
+    "content_type": null,
+    "preview": "Good Day Caroline\r\n\r\nWe have not received any proof of payment.\r\n\r\nPlease forward Proof of payment to facilitate the dispatch of the goods.\r\n\r\nKind Regards\r\n\r\nFrom: Caroline Strydom <carolinestrydom2@gmail.com>\r\nSent: 22 May 2020 10:23 AM\r\nTo: Orders@regi",
+    "body_length_chars": 0
+  },
+  "attachments": []
+}

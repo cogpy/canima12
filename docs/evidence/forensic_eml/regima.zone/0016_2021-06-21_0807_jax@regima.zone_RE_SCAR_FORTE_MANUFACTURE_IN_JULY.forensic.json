@@ -1,0 +1,42 @@
+{
+  "_schema": "exchange-forensic-eml/v1",
+  "_generated": "2026-03-10T03:53:23.565222+00:00",
+  "_source": "neon-exchange-sync",
+  "file_integrity": {
+    "eml_file": "/home/ubuntu/revstream1/docs/evidence/forensic_eml/regima.zone/0016_2021-06-21_0807_jax@regima.zone_RE_SCAR_FORTE_MANUFACTURE_IN_JULY.eml",
+    "file_size_bytes": 743,
+    "md5": "1aabc07092f18bfcbebbbc1172156b07",
+    "sha1": "6b0f1a311c2e5558f892b298d49a9583ae571efa",
+    "sha256": "85b1fb84d9bd13d319a14fc8f468ac1eb3d09323633b5cdad63f1ba5b360c0e7"
+  },
+  "message_identity": {
+    "exchange_sync_id": "AAMkAGM2Y2E0NWVmLWEzZTktNDc1Mi1iY2I4LTU3OTBlMTJhMTllNQBGAAAAAAA97n0AeO7PT4cl7xDgAtvXBwC2ver4KgT-RpGXubXzjgSOAAIZYOy5AAC2ver4KgT-RpGXubXzjgSOAAdIAT45AAA=",
+    "internet_message_id": "<DB7PR08MB330652D17F047211801F3D8BAC0A9@DB7PR08MB3306.eurprd08.prod.outlook.com>",
+    "conversation_id": "AAQkAGM2Y2E0NWVmLWEzZTktNDc1Mi1iY2I4LTU3OTBlMTJhMTllNQAQAOBrgDLvAUd2lxcdjF8ScWs="
+  },
+  "envelope": {
+    "subject": "RE: SCAR FORTE MANUFACTURE IN JULY",
+    "from_name": "Jacqui Faucitt",
+    "from_address": "jax@regima.zone",
+    "to_recipients": [
+      {
+        "name": "Rynette Farrar",
+        "address": "rynette@regima.zone"
+      }
+    ],
+    "cc_recipients": null,
+    "received_datetime": "2021-06-21 08:07:00+00:00"
+  },
+  "mailbox_context": {
+    "user_email": "jax@regima.zone",
+    "user_name": "Jacqui Faucitt",
+    "folder_name": "Archive",
+    "folder_id": "AQMkAGM2Y2E0NWVmLWEzZTktNDc1Mi1iY2I4LTU3OTBlMTJhMTllNQAuAAADPe59AHjuz0_HJe8Q4ALb1wEAtr3q_CoE-0aRl7m1844EjgACGWDsuQAAAA=="
+  },
+  "body": {
+    "content_type": null,
+    "preview": "We definitely have an order for SCAR FORTE, not sure what sizes, in July as they are going to take a sample and send for testing.  This date was confirmed with Sue. Can you please check, it may just be for SA, not sure.\r\n\r\nFrom: Rynette Farrar <rynette@re",
+    "body_length_chars": 0
+  },
+  "attachments": []
+}

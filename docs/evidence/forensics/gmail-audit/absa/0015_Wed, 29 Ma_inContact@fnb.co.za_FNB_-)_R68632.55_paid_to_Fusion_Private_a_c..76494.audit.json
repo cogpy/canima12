@@ -1,0 +1,194 @@
+{
+  "_schema": "gws-forensic-audit/v1",
+  "_generated": "2026-03-10T08:01:16.609488+00:00",
+  "_source": "gmail-api",
+  "message_identity": {
+    "gmail_id": "18fc1aa83e15c191",
+    "thread_id": "18fc1aa83e15c191",
+    "internet_message_id": "<488661721.7774265.1716941126373.JavaMail.grandmama@mob-r1-l-igm-03.x.fnb.co.za>",
+    "label_ids": [
+      "UNREAD",
+      "CATEGORY_UPDATES",
+      "INBOX"
+    ],
+    "history_id": "24837953"
+  },
+  "envelope": {
+    "subject": "FNB:-) R68632.55 paid to Fusion Private a/c..764946 @ Eft. Ref.Absa Bank Regima Ski. 29May 00:00",
+    "from": "inContact@fnb.co.za",
+    "to": [
+      "DAN@regima.com"
+    ],
+    "cc": [],
+    "bcc": [],
+    "reply_to": null,
+    "date": "Wed, 29 May 2024 02:05:26 +0200 (SAST)",
+    "sent_date": "Wed, 29 May 2024 02:05:26 +0200 (SAST)"
+  },
+  "origin": {
+    "client_ip": null,
+    "mailer": null,
+    "user_agent": null,
+    "return_path": "inContact@fnb.co.za",
+    "x_google_smtp_source": "AGHT+IHcbitCe+CvjkLSWXoj0o2RzoIqYM6LpPKBDF7VN5qVtzcnsM17XU8tQySXG6fzKI4bcABt",
+    "x_gm_message_state": null
+  },
+  "authentication": {
+    "spf": "pass",
+    "dkim": null,
+    "dmarc": "pass",
+    "compauth": null,
+    "received_spf": "pass (google.com: domain of incontact@fnb.co.za designates 196.10.113.229 as permitted sender) client-ip=196.10.113.229;",
+    "arc_results": [
+      "i=1; mx.google.com;       spf=pass (google.com: domain of incontact@fnb.co.za designates 196.10.113.229 as permitted sender) smtp.mailfrom=inContact@fnb.co.za;       dmarc=pass (p=QUARANTINE sp=QUARANTINE dis=NONE) header.from=fnb.co.za"
+    ],
+    "dkim_signatures": [],
+    "google_dkim_signatures": [],
+    "raw_auth_results": [
+      "mx.google.com;       spf=pass (google.com: domain of incontact@fnb.co.za designates 196.10.113.229 as permitted sender) smtp.mailfrom=inContact@fnb.co.za;       dmarc=pass (p=QUARANTINE sp=QUARANTINE dis=NONE) header.from=fnb.co.za"
+    ]
+  },
+  "transport_hops": [
+    {
+      "hop": 1,
+      "from_server": "mxincontact10.fnb.co.za",
+      "from_ip": "196.10.113.229",
+      "by_server": "mx.google.com",
+      "by_ip": null,
+      "with_protocol": "ESMTPS",
+      "via": null,
+      "id": "ffacd0b85a97d-357e6a9a84bsi4106802f8f.113.2024.05.28.17.05.27",
+      "for_recipient": null,
+      "timestamp": "Tue, 28 May 2024 17:05:28 -0700 (PDT)",
+      "tls": "TLS1_3",
+      "raw": "from mxincontact10.fnb.co.za (mxincontact10.fnb.co.za. [196.10.113.229])        by mx.google.com with ESMTPS id ffacd0b85a97d-357e6a9a84bsi4106802f8f.113.2024.05.28.17.05.27        for <DAN@regima.com>        (version=TLS1_3 cipher=TLS_AES_256_GCM_SHA384 bits=256/256);        Tue, 28 May 2024 17:05:28 -0700 (PDT)"
+    },
+    {
+      "hop": 2,
+      "from_server": null,
+      "from_ip": null,
+      "by_server": "2002",
+      "by_ip": null,
+      "with_protocol": "SMTP",
+      "via": null,
+      "id": "gt14csp289751ejb",
+      "for_recipient": null,
+      "timestamp": "Tue, 28 May 2024 17:05:28 -0700 (PDT)",
+      "tls": null,
+      "raw": "by 2002:a17:906:f20e:b0:a5a:756e:5d5e with SMTP id gt14csp289751ejb;        Tue, 28 May 2024 17:05:28 -0700 (PDT)"
+    }
+  ],
+  "google_transport": {
+    "x_google_dkim_signature": null,
+    "x_gm_message_state": null,
+    "x_google_smtp_source": "AGHT+IHcbitCe+CvjkLSWXoj0o2RzoIqYM6LpPKBDF7VN5qVtzcnsM17XU8tQySXG6fzKI4bcABt",
+    "delivered_to": "dan@regima.com",
+    "x_forwarded_to": null,
+    "x_forwarded_for": null,
+    "precedence": null,
+    "list_unsubscribe": null,
+    "mime_version": "1.0",
+    "content_type": "multipart/alternative; boundary=\"----=_Part_7774263_560102137.1716941126373\"",
+    "google_properties": {}
+  },
+  "mailbox_context": {
+    "user_email": "dan@regima.com",
+    "label_ids": [
+      "UNREAD",
+      "CATEGORY_UPDATES",
+      "INBOX"
+    ],
+    "snippet": "Dear valued customer * FNB:-) R68632.55 paid to Fusion Private a/c..764946 @ Eft. Ref.Absa Bank Regima Ski. 29May 00:00 Please do NOT reply to this message as it is sent from an unattended mailbox. For",
+    "size_estimate": 51556,
+    "internal_date": "1716941126000"
+  },
+  "raw_headers": [
+    {
+      "name": "Delivered-To",
+      "value": "dan@regima.com"
+    },
+    {
+      "name": "Received",
+      "value": "by 2002:a17:906:f20e:b0:a5a:756e:5d5e with SMTP id gt14csp289751ejb;        Tue, 28 May 2024 17:05:28 -0700 (PDT)"
+    },
+    {
+      "name": "X-Google-Smtp-Source",
+      "value": "AGHT+IHcbitCe+CvjkLSWXoj0o2RzoIqYM6LpPKBDF7VN5qVtzcnsM17XU8tQySXG6fzKI4bcABt"
+    },
+    {
+      "name": "X-Received",
+      "value": "by 2002:a05:6000:a8f:b0:354:fa0d:1421 with SMTP id ffacd0b85a97d-35526c2a905mr9081057f8f.1.1716941128382;        Tue, 28 May 2024 17:05:28 -0700 (PDT)"
+    },
+    {
+      "name": "ARC-Seal",
+      "value": "i=1; a=rsa-sha256; t=1716941128; cv=none;        d=google.com; s=arc-20160816;        b=ufKrE4RE7SaaZyHrj2qOO+gYOXzwjTxoWYxRdSQ/nAJP+QdkF2XkmEW0RrxE7KpAsx         yI9fPP4zSLuytasObNHoR20gxslrdBDQ6ppINTM6OWiFAWasU08Ug0S2uVjb8seWN9Xy         vu0o7TpYpLyD6rN3kijFhETGOXgA+LT2fp3xQGbWek3wQuT4vZcPoTHU4l5GeK3ELt/b         U9n+ZLrqs4bZQYkFQJ3sM13PGFff4xC2gp8+WpfcWYuRwxLY4OklEj5ZzKpVe1BJIkcz         3na3lSUg3jbDYPE/NOdtvVwFn9VLZqcQrpr3MHZHA8wPFmqu8pUByY5mcLVsyWRvJqWD         yQ4g=="
+    },
+    {
+      "name": "ARC-Message-Signature",
+      "value": "i=1; a=rsa-sha256; c=relaxed/relaxed; d=google.com; s=arc-20160816;        h=mime-version:subject:message-id:to:from:date;        bh=dqOsia/IR5yc+K98Ve1MUrH/8TwtoHhqBiZx8wjD9ew=;        fh=a4PeSzHw9rhR29AyOU0RkW4JYjSvSIKx57xwFQn8g7I=;        b=Z9bryuHLwo1+WHvsob5mzcgrQcSj53emwwQC5Wq7Cm9kRzGAWfmIjyWqApKbCy9Edv         rAyHQtUWZYOqtHiq1m+BS8NzCXWKucsL6KN8Q7BwTu4dA2MzWXJicPk/T5UhxM8/zoXY         Ieku4t2MHP2d1prRnvx1wD8COpetDkzZnn0sVeuGRs62cvwe9Y7bMVcs4k5x8J7VNeRe         BdpVGF2NCss8J1shGowV4O46ezYVK/qpwa0Au4dG1Jvj6yi3rPA8GNjbO5F/1hUQFxgP         uUsiH6TbfGzXBt46SH6865d0sN0Pua8rcYx4lsyUJRacFHfok1cn0BKMGsMem2cOyqNQ         oRig==;        dara=google.com"
+    },
+    {
+      "name": "ARC-Authentication-Results",
+      "value": "i=1; mx.google.com;       spf=pass (google.com: domain of incontact@fnb.co.za designates 196.10.113.229 as permitted sender) smtp.mailfrom=inContact@fnb.co.za;       dmarc=pass (p=QUARANTINE sp=QUARANTINE dis=NONE) header.from=fnb.co.za"
+    },
+    {
+      "name": "Return-Path",
+      "value": "<inContact@fnb.co.za>"
+    },
+    {
+      "name": "Received",
+      "value": "from mxincontact10.fnb.co.za (mxincontact10.fnb.co.za. [196.10.113.229])        by mx.google.com with ESMTPS id ffacd0b85a97d-357e6a9a84bsi4106802f8f.113.2024.05.28.17.05.27        for <DAN@regima.com>        (version=TLS1_3 cipher=TLS_AES_256_GCM_SHA384 bits=256/256);        Tue, 28 May 2024 17:05:28 -0700 (PDT)"
+    },
+    {
+      "name": "Received-SPF",
+      "value": "pass (google.com: domain of incontact@fnb.co.za designates 196.10.113.229 as permitted sender) client-ip=196.10.113.229;"
+    },
+    {
+      "name": "Authentication-Results",
+      "value": "mx.google.com;       spf=pass (google.com: domain of incontact@fnb.co.za designates 196.10.113.229 as permitted sender) smtp.mailfrom=inContact@fnb.co.za;       dmarc=pass (p=QUARANTINE sp=QUARANTINE dis=NONE) header.from=fnb.co.za"
+    },
+    {
+      "name": "Date",
+      "value": "Wed, 29 May 2024 02:05:26 +0200 (SAST)"
+    },
+    {
+      "name": "From",
+      "value": "inContact@fnb.co.za"
+    },
+    {
+      "name": "To",
+      "value": "DAN@regima.com"
+    },
+    {
+      "name": "Message-ID",
+      "value": "<488661721.7774265.1716941126373.JavaMail.grandmama@mob-r1-l-igm-03.x.fnb.co.za>"
+    },
+    {
+      "name": "Subject",
+      "value": "FNB:-) R68632.55 paid to Fusion Private a/c..764946 @ Eft. Ref.Absa Bank Regima Ski. 29May 00:00"
+    },
+    {
+      "name": "MIME-Version",
+      "value": "1.0"
+    },
+    {
+      "name": "Content-Type",
+      "value": "multipart/alternative; boundary=\"----=_Part_7774263_560102137.1716941126373\""
+    }
+  ],
+  "transport_summary": {
+    "total_hops": 2,
+    "origin_ip": null,
+    "first_relay": "mxincontact10.fnb.co.za",
+    "final_relay": "2002",
+    "auth_verdict": {
+      "spf": "pass",
+      "dkim": null,
+      "dmarc": "pass"
+    }
+  },
+  "_file_integrity": {
+    "sha256": "c1b453706288fff04eee2768863fb2c2abb08ab0b27068e21952e721cb27ffd0",
+    "size_bytes": 8186
+  }
+}

@@ -1,0 +1,218 @@
+{
+  "query": "ex parte interdict uberrima fides non-disclosure",
+  "filters": {
+    "nature": "Judgment"
+  },
+  "ordering": "relevance",
+  "total_count": 1627,
+  "returned_count": 15,
+  "results": [
+    {
+      "title": "Kockjeu v National Director of Public Prosecutions (CA 333/2011) [2012] ZAECGHC 17 (23 April 2012)",
+      "url": "https://lawlibrary.org.za/akn/za-ec/judgment/zaecghc/2012/17/eng@2012-04-23",
+      "frbr_uri": "/akn/za-ec/judgment/zaecghc/2012/17/eng@2012-04-23",
+      "position": "1",
+      "citation": "2013 (1) SACR 170 (ECG)",
+      "metadata": [
+        "Eastern Cape",
+        "23 April 2012",
+        "High Court of South Africa Eastern Cape, Grahamstown"
+      ],
+      "summary": "Ex parte POCA restraint orders require uberrima fides and evidence of a reasonable possibility of confiscation; unchallenged explanations defeat restraint.",
+      "topics": "POCA s26(1) – ex parte restraint orders permissible but require uberrima fides; material non‑disclosure may invalidate order. Restraint orders require reasonable possibility of both conviction and confiscation; applicant must show evidence of benefit. Absence of replying affidavit leaves respondent’s explanations uncontradicted. Court should not substitute investigation for adversarial pleadings. Costs of curator bonis may be awarded against the applicant where restraint set aside"
+    },
+    {
+      "title": "Joosub and Another v National Director Public Prosecutions, In Re: National Director of Public Prosecutions v Joosub and Others (8169/2018) [2018] ZAGPPHC 600 (28 March 2018)",
+      "url": "https://lawlibrary.org.za/akn/za-gp/judgment/zagpphc/2018/600/eng@2018-03-28",
+      "frbr_uri": "/akn/za-gp/judgment/zagpphc/2018/600/eng@2018-03-28",
+      "position": "2",
+      "citation": "",
+      "metadata": [
+        "Gauteng",
+        "28 March 2018",
+        "High Court of South Africa North Gauteng, Pretoria"
+      ],
+      "summary": "Provisional POCA restraint discharged as to the applicant and his company for NDPP's failure to address material exculpatory evidence.",
+      "topics": "POCA – Restraint orders – ex parte applications – duty of uberrima fides and full disclosure of material facts; POCA – Requirement to show reasonable grounds on the papers for conviction and potential confiscation; Civil procedure – factual disputes on motion – Plascon‑Evans/Wightman principles; Failure by NDPP/investigator to answer specific exculpatory documents may justify discharge of provisional restraint as to particular accused."
+    },
+    {
+      "title": "Mavundla, Mayor Umvoti Municipal Council v MEC: Department of Corporative Government and Traditional Affairs KwaZulu-Natal and Others (7940/2024) [2024] ZAKZPHC 57 (16 August 2024) (Reasons)",
+      "url": "https://lawlibrary.org.za/akn/za-kzn/judgment/zakzphc/2024/57/eng@2024-08-16",
+      "frbr_uri": "/akn/za-kzn/judgment/zakzphc/2024/57/eng@2024-08-16",
+      "position": "3",
+      "citation": "",
+      "metadata": [
+        "KwaZulu-Natal",
+        "16 August 2024",
+        "High Court of South Africa KwaZulu-Natal, Pietermaritzburg"
+      ],
+      "summary": "An ex parte urgent interdict obtained with defective service, GLAA non‑compliance and material non‑disclosure was rescinded.",
+      "topics": "Urgent interdict — ex parte rule nisi — compliance with GLAA s35 and Uniform Rules on service — anticipation/reconsideration under Uniform Rule 6 — non-joinder of interested councillors and designated chair under s29(1A) — requirements for interim interdict — punitive costs for material non-disclosure."
+    },
+    {
+      "title": "Atlantic Oil (Pty) Ltd ; In Re: A C ; In Re: J J M C and Others (3944/2024) [2026] ZANWHC 7 (19 January 2026)",
+      "url": "https://lawlibrary.org.za/akn/za-nw/judgment/zanwhc/2026/7/eng@2026-01-19",
+      "frbr_uri": "/akn/za-nw/judgment/zanwhc/2026/7/eng@2026-01-19",
+      "position": "4",
+      "citation": "",
+      "metadata": [
+        "North-West",
+        "19 January 2026",
+        "High Court of South Africa North-West, Mafikeng"
+      ],
+      "summary": "Whether a judgment creditor may intervene to set aside an ex parte curatorship order that stayed execution against trust property.",
+      "topics": "Civil procedure – Intervention (Rule 12) – Direct and substantial interest; Urgent ex parte relief (Rule 6) – duty of full and frank disclosure (uberrima fides); Reconsideration under Rule 6(12)(c) – limits and relation to intervention; Trusts – beneficiaries’ interests and trustees’ remedies; Res judicata/functus officio – impermissible collateral attack on final judgment; Beningfield exception – scope and limits; Curator/curatrix ad litem – investigatory role v litigant status; Costs – punitive attorney-and-client scale for non-disclosure and abuse of process."
+    },
+    {
+      "title": "National Director of Public Prosecutions v van Staden and Others (730/2011) [2012] ZASCA 171 (28 November 2012)",
+      "url": "https://lawlibrary.org.za/akn/za/judgment/zasca/2012/171/eng@2012-11-28",
+      "frbr_uri": "/akn/za/judgment/zasca/2012/171/eng@2012-11-28",
+      "position": "5",
+      "citation": "2013 (1) SACR 531 (SCA)",
+      "metadata": [
+        "28 November 2012",
+        "Supreme Court of Appeal of South Africa"
+      ],
+      "summary": "The SCA confirmed a provisional POCA restraint order, holding the NDPP acted in good faith and reasonable grounds for confiscation existed.",
+      "topics": "Criminal procedure – Prevention of Organized Crime Act (POCA) – s 26 provisional restraint orders – test: reasonable grounds that a confiscation order may be made – court need not determine veracity but must be apprised of nature and tenor of evidence. Ex parte applications – uberrima fides – duty to disclose material facts in ex parte proceedings, but rule does not automatically bar relief in opposed confirmation proceedings; non-disclosure typically attracts adverse costs not substantive denial\nDisclosure – witness statements provided to accused electronically as part of prosecution docket – permissible where access available and protective concerns exist; accused may seek discovery in appropriate form\nAppealability – discharge of provisional restraint order is appealable; appellate court may confirm provisional orders where requirements met"
+    },
+    {
+      "title": "Yzerfontein Curesmiths (Pty) Ltd t/a Flying Pig and Others v Laubscher and Another (14263/2023) [2023] ZAWCHC 192 (6 December 2023)",
+      "url": "https://lawlibrary.org.za/akn/za-wc/judgment/zawchc/2023/192/eng@2023-12-06",
+      "frbr_uri": "/akn/za-wc/judgment/zawchc/2023/192/eng@2023-12-06",
+      "position": "6",
+      "citation": "[2024] 1 All SA 564 (WCC)",
+      "metadata": [
+        "Western Cape",
+        "6 December 2023",
+        "High Court of South Africa Western Cape, Cape Town"
+      ],
+      "summary": "Attachment to confirm jurisdiction upheld on prima facie insolvency, actio Pauliana and s424 allegations; anti‑dissipation relief refused.",
+      "topics": "Civil procedure – attachment to confirm jurisdiction – prima facie test on return day\nInsolvency – alleged dispositions without value (s26), collusive dealings (s31), actio Pauliana. Companies Act s424 liability allegations. Ex parte applications – duty of uberrima fides and material non‑disclosure. Anti‑dissipation/interdictory relief – requirements and intention to defeat creditors"
+    },
+    {
+      "title": "National Director of Public Prosecutions v Venter and Another (037201/2024) [2025] ZAGPJHC 869 (23 September 2025)",
+      "url": "https://lawlibrary.org.za/akn/za-gp/judgment/zagpjhc/2025/869/eng@2025-09-23",
+      "frbr_uri": "/akn/za-gp/judgment/zagpjhc/2025/869/eng@2025-09-23",
+      "position": "7",
+      "citation": "",
+      "metadata": [
+        "Gauteng",
+        "23 September 2025",
+        "High Court of South Africa South Gauteng, Johannesburg"
+      ],
+      "summary": "s38 POCA permits ex parte preservation orders on reasonable grounds that property served as an instrumentality of drug dealing.",
+      "topics": "POCA s38 – ex parte preservation orders – preventative purpose and requirement of uberrimae fides in ex parte applications; Instrumentality test – reasonable grounds/prima facie standard for preservation orders; Chapter 6 proceedings are in rem – owner’s culpability largely irrelevant at preservation stage; Innocent-owner defence available at forfeiture stage (s52)."
+    },
+    {
+      "title": "Sandrivier Helikopters (Pty) Ltd v Minnaar and Others; In re: Minnaar and Others v Minnaar and Others (484/2022) [2022] ZALMPPHC 3 (17 May 2022)",
+      "url": "https://lawlibrary.org.za/akn/za-lp/judgment/zalmpphc/2022/3/eng@2022-05-17",
+      "frbr_uri": "/akn/za-lp/judgment/zalmpphc/2022/3/eng@2022-05-17",
+      "position": "8",
+      "citation": "",
+      "metadata": [
+        "Limpopo",
+        "17 May 2022",
+        "High Court of South Africa Limpopo, Polokwane"
+      ],
+      "summary": "Ex parte attachment rescinded for material non-disclosure, lack of trustee authority and failure to establish anti-dissipation requirements.",
+      "topics": "Ex parte relief – full and fair disclosure required; material non-disclosure and repetition of failed ex parte application vitiate order; trustees acting jointly — locus standi in representative trust actions; anti-dissipation/interdict requirements — prima facie right and well‑grounded apprehension of irreparable harm; abuse of process – punitive costs and de bonis propriis liability."
+    },
+    {
+      "title": "National Empowerment Fund v Elikwatinin Three Taxi Association Primary Co-operative Limited and Others, In Re: Bembe and Others v National Empowerment Fund and Another (2346/2017) [2017] ZAGPPHC 52 (20 December 2017)",
+      "url": "https://lawlibrary.org.za/akn/za-gp/judgment/zagpphc/2017/52/eng@2017-12-20",
+      "frbr_uri": "/akn/za-gp/judgment/zagpphc/2017/52/eng@2017-12-20",
+      "position": "9",
+      "citation": "",
+      "metadata": [
+        "Gauteng",
+        "20 December 2017",
+        "High Court of South Africa North Gauteng, Pretoria"
+      ],
+      "summary": "Ex parte interim freezing order discharged; court ordered restoration of contractual status quo and immediate unfreezing of account.",
+      "topics": "Rule 6(12)(c) – reconsideration of ex parte urgent orders; duty of full and frank disclosure in ex parte applications; interlocutory interdicts – purpose to preserve status quo; limits on freezing bank accounts affecting trade rights."
+    },
+    {
+      "title": "Van Staden and Another [2025] ZANWHC 224 (23 October 2025) (Appeal)",
+      "url": "https://lawlibrary.org.za/akn/za-nw/judgment/zanwhc/2025/224/eng@2025-10-23",
+      "frbr_uri": "/akn/za-nw/judgment/zanwhc/2025/224/eng@2025-10-23",
+      "position": "10",
+      "citation": "",
+      "metadata": [
+        "North-West",
+        "23 October 2025",
+        "High Court of South Africa North-West, Mafikeng"
+      ],
+      "summary": "Voluntary surrender dismissed for lack of full disclosure, insufficient proof of advantage to creditors and failure to explore NCA remedies.",
+      "topics": "Insolvency — Voluntary surrender — s 6 Insolvency Act — requirements: insolvency, sufficient realizable property to defray sequestration costs, advantage to creditors, s 4 formalities — ex parte applications require uberrima fides (full and frank disclosure); National Credit Act remedies (s 129, debt review, s 85 referrals, s 86 reckless credit investigations, s 87 relief) may be alternative remedies to sequestration; appellate interference with discretionary exercise limited where discretion exercised judicially."
+    },
+    {
+      "title": "MMS v HK and Another (2023-117058) [2025] ZAGPJHC 40 (7 February 2025)",
+      "url": "https://lawlibrary.org.za/akn/za-gp/judgment/zagpjhc/2025/40/eng@2025-02-07",
+      "frbr_uri": "/akn/za-gp/judgment/zagpjhc/2025/40/eng@2025-02-07",
+      "position": "11",
+      "citation": "",
+      "metadata": [
+        "Gauteng",
+        "7 February 2025",
+        "High Court of South Africa South Gauteng, Johannesburg"
+      ],
+      "summary": "Ex parte relief for alleged defamation and harassment cannot stand where material facts were not disclosed and core facts remain disputed.",
+      "topics": "Protection from Harassment Act – ex parte interdict – duty of full disclosure – non-disclosure of material communication fatal; defamation/injurious falsehood – final or interim restraint not available where underlying facts are in dispute and respondents show sustainable defence; harassment requires objective unreasonableness which cannot be assessed pending resolution of facts."
+    },
+    {
+      "title": "Makwakwa and Others v Minister of State Security (1316/2022) [2024] ZASCA 41 (5 April 2024)",
+      "url": "https://lawlibrary.org.za/akn/za/judgment/zasca/2024/41/eng@2024-04-05",
+      "frbr_uri": "/akn/za/judgment/zasca/2024/41/eng@2024-04-05",
+      "position": "12",
+      "citation": "",
+      "metadata": [
+        "5 April 2024",
+        "Supreme Court of Appeal of South Africa"
+      ],
+      "summary": "An ex parte interdict founded on material misstatements and mere classification fails absent proof of concrete national-security harm.",
+      "topics": "Interdicts — ex parte applications — duty of utmost good faith — full disclosure of material facts; material misstatements vitiate relief. Classified information — classification not conclusive; courts may scrutinise classified documents (Masetlha). National security — onus on State to prove concrete harm from disclosure; mere classification or public-domain overlap insufficient. Civil procedure — Schlesinger/Phillips principles govern rescission of ex parte orders obtained on incomplete/misleading facts"
+    },
+    {
+      "title": "Mokweni and Others v Plaatjies and Others (A178/2022) [2023] ZAWCHC 159 (26 October 2023)",
+      "url": "https://lawlibrary.org.za/akn/za-wc/judgment/zawchc/2023/159/eng@2023-10-26",
+      "frbr_uri": "/akn/za-wc/judgment/zawchc/2023/159/eng@2023-10-26",
+      "position": "13",
+      "citation": "",
+      "metadata": [
+        "Western Cape",
+        "26 October 2023",
+        "High Court of South Africa Western Cape, Cape Town"
+      ],
+      "summary": "An ex parte order obtained by material misrepresentation vitiates subsequent contempt proceedings dependent on it.",
+      "topics": "Civil procedure – ex parte applications – duty of full and frank disclosure – material misrepresentation vitiates ex parte order; Contempt of court – requirement of wilfulness and mala fides; Appeals – admission of new legal issue on appeal where facts are on record and no unfairness results."
+    },
+    {
+      "title": "Nku v Ramokoka and Others (3405/2025) [2025] ZANWHC 233 (7 November 2025)",
+      "url": "https://lawlibrary.org.za/akn/za-nw/judgment/zanwhc/2025/233/eng@2025-11-07",
+      "frbr_uri": "/akn/za-nw/judgment/zanwhc/2025/233/eng@2025-11-07",
+      "position": "14",
+      "citation": "",
+      "metadata": [
+        "North-West",
+        "7 November 2025",
+        "High Court of South Africa North-West, Mafikeng"
+      ],
+      "summary": "Court varied ex parte interdict: restrained major works, ordered temporary weatherproofing, and suspended structural alteration pending Part B.",
+      "topics": "Civil procedure – ex parte interlocutory relief – duty of full and frank disclosure – material non-disclosure may vitiate order. Uniform Rules 6(8) & 6(12)(c) – anticipation and reconsideration/variation of orders granted in absence of a party. Interim interdict – prima facie right, irreparable harm, balance of convenience, absence of alternative remedy. Preservation of property pending substantive dispute – suspension of irreversible works and ordering of temporary protective measures\nCosts – costs in the cause where parties achieve partial success in intra-familial/church disputes"
+    },
+    {
+      "title": "Kwaliddolo Communal Property Association v Mahlangu and Others (LCC 287/17) [2021] ZALCC 32 (15 February 2021)",
+      "url": "https://lawlibrary.org.za/akn/za/judgment/zalcc/2021/32/eng@2021-02-15",
+      "frbr_uri": "/akn/za/judgment/zalcc/2021/32/eng@2021-02-15",
+      "position": "15",
+      "citation": "",
+      "metadata": [
+        "15 February 2021",
+        "Land Claims Court of South Africa"
+      ],
+      "summary": "Court granted condonation, found CPA had a prima facie defence, rescinded wider ex parte order and issued a narrower interim interdiction.",
+      "topics": "Rescission and condonation — late rescission application — reasonable explanation and bona fides where lay applicants relied on Department officials; Interim/inter partes relief — ex parte rule nisi rescinded and replaced by narrower interim interdiction against CPA members; Land restitution — lessees’ leases lapsed; prima facie defence to review of award of farms."
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "_schema": "exchange-forensic-eml/v1",
+  "_generated": "2026-03-10T03:50:26.318846+00:00",
+  "_source": "neon-exchange-sync",
+  "file_integrity": {
+    "eml_file": "/home/ubuntu/revstream1/docs/evidence/forensic_eml/primeproduct.co.za/0005_2023-07-11_0827_Phanuel@primeproduct.co.za_RE_Empty_Containers_Collection.eml",
+    "file_size_bytes": 8729,
+    "md5": "af9bfbfa98da2699b2175a3b15a67085",
+    "sha1": "86c8879480377564a86c975fa53d5ea01e8d60a2",
+    "sha256": "6fc7e65ed8213332fac43a275495c642cbcefa29c2c89ac111bf397769ee8336"
+  },
+  "message_identity": {
+    "exchange_sync_id": "AQMkADMxMzkyY2FlLWNkMGEtNGM2My04OWFiLTNlZDRjNzkyNGUyMwBGAAADSLKv-EI8AESN7LMej4ROLgcAIySisE98NkWmcNijjztGYgAAAj3CAAAAIySisE98NkWmcNijjztGYgABrtaFvwAAAA==",
+    "internet_message_id": "<DB8P189MB1128B59C59D85E9117B66C918E31A@DB8P189MB1128.EURP189.PROD.OUTLOOK.COM>",
+    "conversation_id": "AAQkADMxMzkyY2FlLWNkMGEtNGM2My04OWFiLTNlZDRjNzkyNGUyMwAQALayujzvnClJsANzjBTEZis="
+  },
+  "envelope": {
+    "subject": "RE: Empty Containers / Collection",
+    "from_name": "Phanuel Moalafi",
+    "from_address": "Phanuel@primeproduct.co.za",
+    "to_recipients": [
+      {
+        "name": "Rynette Farrar",
+        "address": "rynette@regima.zone"
+      },
+      {
+        "name": "Charlene Trimm",
+        "address": "Charlene@primeproduct.co.za"
+      }
+    ],
+    "cc_recipients": [
+      {
+        "name": "Sankele Makobe",
+        "address": "sankele@primeproduct.co.za"
+      },
+      {
+        "name": "Melvin Bantjies",
+        "address": "Melvin@primeproduct.co.za"
+      },
+      {
+        "name": "Luke Spies",
+        "address": "Luke@primeproduct.co.za"
+      },
+      {
+        "name": "Rodney MPhaki",
+        "address": "Rodney@primeproduct.co.za"
+      },
+      {
+        "name": "Tebatso Peta",
+        "address": "tebatso@primeproduct.co.za"
+      },
+      {
+        "name": "Delene De Reuck",
+        "address": "Delene@primeproduct.co.za"
+      }
+    ],
+    "received_datetime": "2023-07-11 08:27:46+00:00"
+  },
+  "mailbox_context": {
+    "user_email": "rynette@regima.zone",
+    "user_name": "Rynette Farrar",
+    "folder_name": "Prime",
+    "folder_id": "AQMkADMxMzkyY2FlLWNkMGEtNGM2My04OWFiLTNlZDRjNzkyNGUyMwAuAAADSLKv-EI8AESN7LMej4ROLgEAIySisE98NkWmcNijjztGYgAAAj3CAAAA"
+  },
+  "body": {
+    "content_type": "html",
+    "preview": "Hi Rynette\r\nThank you for your response\r\n\r\nWould you please indicate how big is that consignment (Raws & Tubes) so we can know which vehicle to send\r\n\r\nWe will deliver and  collect on Thursday 13/07/2023\r\n\r\n\r\nFrom: Rynette Farrar <rynette@regima.zone>\r\nSe",
+    "body_length_chars": 5538
+  },
+  "attachments": []
+}

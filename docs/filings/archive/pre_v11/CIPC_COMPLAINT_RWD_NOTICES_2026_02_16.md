@@ -1,0 +1,96 @@
+# CIPC Complaint: Director Delinquency, Fraud & Operational Sabotage
+
+**To:** The Companies and Intellectual Property Commission (CIPC)
+**Email:** Cor135.1complaints@cipc.co.za
+
+**From:** Regima Worldwide Distribution (Pty) Ltd (2011/005722/07)
+Acting through a majority of its Board of Directors:
+- Mrs. Jacqueline Faucitt
+- Mr. Daniel James Faucitt
+
+**Date:** 16 February 2026
+
+**Subject: FORMAL COMPLAINT — CONTRAVENTIONS OF THE COMPANIES ACT 71 OF 2008 BY DIRECTOR PETER ANDREW FAUCITT (ID: 520430 5708 18 5)**
+
+---
+
+## 1. INTRODUCTION & PURPOSE
+
+This document constitutes a formal complaint against Mr. Peter Andrew Faucitt, a registered director of Regima Worldwide Distribution (Pty) Ltd (“the Company”) and its related entities. We submit documentary, irrefutable evidence of conduct that warrants an urgent investigation by the CIPC and an application to the High Court for an order declaring Mr. Faucitt a delinquent director under Section 162 of the Companies Act 71 of 2008 (“the Act”).
+
+The evidence, detailed in the attached Formal Notices **RWD/NOTICE/001** and **RWD/NOTICE/002**, proves a coordinated scheme of:
+
+*   **Fraud on the Court** to obtain an ex parte interdict (which failed to comply with Uniform Rule 6(4)(a) and 6(12)(b) regarding urgency and material disclosure) through perjury and material non-disclosure.
+*   **Gross abuse of the position of director** (s162(5)(c)(i)).
+*   **Intentional infliction of harm upon the company** (s162(5)(c)(iii)).
+*   **Wilful misconduct and breach of trust** (s162(5)(c)(iv)(aa)).
+*   **Systematic operational sabotage** designed to destroy the Company’s revenue pipelines.
+*   **Identity misappropriation** and acting through unauthorised agents.
+
+## 2. SUMMARY OF CONTRAVENTIONS
+
+Mr. Faucitt’s conduct, orchestrated with the assistance of Ms. Rynette Farrar and Mr. D.J. Bantjies, contravenes multiple sections of the Act.
+
+| Section | Violation | Summary of Conduct |
+| :--- | :--- | :--- |
+| **s162(5)(c)** | **Delinquency Grounds** | Grossly abused his position, intentionally inflicted harm, and engaged in wilful misconduct by lying to the High Court to seize control of company assets. |
+| **s76(2)(a)** | **Director’s Duty of Care** | Failed to act in good faith and in the best interests of the company by systematically dismantling its operational infrastructure. |
+| **s77(3)(b)** | **Liability for Breach** | Is personally liable for all losses and damages caused by his reckless and fraudulent actions, including the R10.6M extracted from company accounts. |
+| **s22** | **Reckless Trading** | Carried on the business recklessly by shutting down the primary e-commerce platform (Shopify) and destroying the automated fulfillment pipeline. |
+| **s214** | **False Statements** | Knowingly provided false and misleading information to the High Court in his founding affidavit, constituting a criminal offence. |
+
+## 3. DETAILED ALLEGATIONS & EVIDENCE
+
+The full details and evidence are contained in the annexed notices. The key points are summarised here for the Commission’s convenience.
+
+### 3.1. Fraud on the Court: The Void Ab Initio Interdict (Evidence: RWD/NOTICE/001)
+
+Mr. Faucitt obtained an ex parte interdict (which failed to comply with Uniform Rule 6(4)(a) and 6(12)(b) regarding urgency and material disclosure) on 19 August 2025 by lying to the High Court. He swore under oath that his co-directors were making “unauthorized” transactions.
+
+*   **The Truth:** The Company’s own bank (FNB) records confirm that all directors held **SOLE independent signatory authority**. The concept of an “unauthorized” transaction by a co-director was a legal impossibility.
+*   **Provable Foreknowledge:** FNB’s own Legal Department had confirmed this SOLE mandate to Mr. Faucitt (via his agent, Rynette Farrar) in writing on **18 June 2025**, two months *before* he swore his affidavit. He committed perjury with provable knowledge.
+*   **Material Non-Disclosure:** He deliberately concealed the FNB SOLE mandate, the FNB legal letter, and the fact that he had sabotaged the business by cancelling his co-directors’ bank cards.
+
+This fraud renders the interdict, and all actions flowing from it, **void ab initio (in terms of Uniform Rule 42(1)(a) for being erroneously sought and granted in the absence of the affected party)**.
+
+### 3.2. Identity Misappropriation & Unauthorised Agency (Evidence: RWD/NOTICE/001)
+
+Mr. Faucitt does not use electronic communication. All digital actions attributed to him were performed by Ms. Rynette Farrar.
+
+*   **Dual Identity:** Sage accounting logs show Ms. Farrar simultaneously logged in as herself (`rynette@regima.zone`) and as Mr. Faucitt (`pete@regima.com`), a contravention of the Electronic Communications and Transactions Act.
+*   **Unauthorised Actions:** Acting as Mr. Faucitt, Ms. Farrar effected the fraudulent transfer of the Sage accounting system from the deceased former admin to Mr. Faucitt in July 2024 and appointed Mr. Bantjies as a Trustee.
+
+### 3.3. Systematic Destruction of Operational Infrastructure (Evidence: RWD/NOTICE/002)
+
+Following the fraudulent interdict, Mr. Faucitt and his agents systematically destroyed the Company’s automated revenue pipeline.
+
+*   **Shopify Decommissioned:** The primary e-commerce platform was shut down (admitted by his attorneys on 12 Dec 2025), severing the main order intake channel.
+*   **Courier API Broken:** The automated fulfillment link between Shopify and The Courier Guy was broken. When a director attempted to restore it on 11 Feb 2026, he was threatened with contempt of court (Uniform Rule 45A).
+*   **Revenue Diverted:** All revenue was moved from the transparent, auditable Shopify platform to an opaque Sage Pastel system controlled exclusively by Ms. Farrar.
+
+This constitutes a deliberate and malicious campaign of operational sabotage.
+
+## 4. RELIEF SOUGHT FROM CIPC
+
+We request that the CIPC, in terms of its powers under the Companies Act, urgently:
+
+1.  **Initiate an investigation** into the conduct of Director Peter Andrew Faucitt for the contraventions detailed herein.
+2.  **Apply to the High Court for an order declaring Peter Andrew Faucitt a delinquent director** under Section 162 of the Act, on the grounds of gross abuse of position, wilful misconduct, and breach of trust.
+3.  **Refer this matter for criminal investigation** to the appropriate authorities for fraud, perjury (s214), and theft.
+4.  **Investigate the role of the company accountant, Mr. D.J. Bantjies (SAICA 00105928)**, for his complicity in the fraud on the court.
+
+## 5. ANNEXURES
+
+This complaint is supported by the full body of evidence contained in the following documents, which are available in the `revstream1` GitHub repository and are attached hereto:
+
+1.  **Annexure A:** [RWD/NOTICE/001 - Formal Notice of Governance Concerns & Material Non-Disclosure](../rwd-notices/RWD_NOTICE_001.md)
+2.  **Annexure B:** [RWD/NOTICE/002 - Formal Notice of Operational Sabotage](../rwd-notices/RWD_NOTICE_002.md)
+3.  **Annexure C:** [Sage Account Takeover & Stock2Shop Reconfiguration Evidence](./sage-capture/index.md)
+4.  **Annexure D:** [Mailbox Evidence Corroboration Timeline](../timeline/phase4_mailbox_evidence.md)
+
+We trust that the Commission will act swiftly on this complaint to prevent further harm to the Company and its stakeholders.
+
+Sincerely,
+
+**Mrs. Jacqueline Faucitt & Mr. Daniel James Faucitt**
+(For and on behalf of the Board of Regima Worldwide Distribution (Pty) Ltd)

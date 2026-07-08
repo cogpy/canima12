@@ -1,0 +1,41 @@
+{
+  "item_number": 31,
+  "label": "SARS_fast_one_smiley",
+  "description": "Your favourite people have pulled a fast one on you again \u263a SARS in search for supporting documents",
+  "wingdings_significance": "Wingdings 'J' = \u263a smiley face - casual/dismissive tone about serious financial misconduct",
+  "message": {
+    "id": "AQMkADMxMzkyY2FlLWNkMGEtNGM2My04OWFiLTNlZDRjNzkyNGUyMwBGAAADSLKv-EI8AESN7LMej4ROLgcAIySisE98NkWmcNijjztGYgAAAgEJAAAAIySisE98NkWmcNijjztGYgADivO7egAAAA==",
+    "internet_message_id": "<VI0PR08MB10581FD35581C57C5703E1324BACD2@VI0PR08MB10581.eurprd08.prod.outlook.com>",
+    "subject": "RE: Notification from SARS",
+    "from_name": "Rynette Farrar",
+    "from_address": "rynette@regima.zone",
+    "to_recipients": [
+      {
+        "name": "Pete",
+        "address": "PETE@REGIMA.COM"
+      }
+    ],
+    "cc_recipients": null,
+    "received_datetime": "2025-02-27 12:03:00+00:00",
+    "importance": "normal",
+    "has_attachments": false,
+    "conversation_id": "AAQkADMxMzkyY2FlLWNkMGEtNGM2My04OWFiLTNlZDRjNzkyNGUyMwAQAPc3lUK_Kv1sdM6WLWpJEo0=",
+    "body_content_type": null,
+    "body_preview": "Eish\u2026. yes, this one is for Danie.  This will put a spring in his step \u263a\r\n\r\n\r\n\r\nFrom: Pete <pete@regima.com>\r\nSent: Thursday, February 27, 2025 12:58 PM\r\nTo: Rynette Farrar <rynette@regima.zone>\r\nSubj"
+  },
+  "source": {
+    "type": "native_mime",
+    "neon_db": "b2bkp-exchange-sync",
+    "user_id": "52a423b7-13e7-4599-8d6f-c833ebce69d7",
+    "extraction_timestamp": "2026-03-15T05:15:34.005215Z"
+  },
+  "integrity": {
+    "sha256": "47f34dec2774fba9dbb43a9a9f84f5f9596c265ea3414e41f98331be35ea6f49",
+    "md5": "e495ea04d228e35f8ae74358bace6b43",
+    "file_size_bytes": 427
+  },
+  "authentication": {
+    "note": "Internal Exchange message - no external authentication headers"
+  },
+  "internet_headers": null
+}

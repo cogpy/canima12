@@ -1,0 +1,174 @@
+[
+  {
+    "name": "ARC-Seal",
+    "value": "i=1; a=rsa-sha256; s=arcselector10001; d=microsoft.com; cv=none; b=NGoXwivKZUruOFdPOnYQhYOtIZpUEc4GImjWGGNPbBOi6zeSJ1G2TerVpe7/5XmxJGLknPjXa1uinP6ohi7d076lk00pGqsERREZ1yaMf9vqMqtiVP7c9oVdDqL8poIzsp+0643rfTR8shZbx2jze8li+uSwNRnsfPfOR1e5gcmDyMgE3pyMiugiyDoiygmVok5eHRmcTeZ0cCdCjmPSQ+/uSix79W5R11MxC9JhjEB4TLrilfY6VFPvg1PIuo05r7DZowOL/dRe6JCuL7l+tezJKfaotUrcBCwOqLOoOibB0mZ/bvrtFpB9ihB/s+m8FJqLqo5lIOkskDQJ+e2SdQ=="
+  },
+  {
+    "name": "ARC-Message-Signature",
+    "value": "i=1; a=rsa-sha256; c=relaxed/relaxed; d=microsoft.com; s=arcselector10001; h=From:Date:Subject:Message-ID:Content-Type:MIME-Version:X-MS-Exchange-AntiSpam-MessageData-ChunkCount:X-MS-Exchange-AntiSpam-MessageData-0:X-MS-Exchange-AntiSpam-MessageData-1; bh=Tv4mIlsH0o46v/Xr0BAtoZAxVaJi6YMqYMGwH7Plxa0=; b=JxqoYEDPTroMPNjCMU0TjDVvdSS3EG3vH8khv3GIdTqV466bDeOyoya/bDPC4cAoMmc+3TKi/IAOpleK+R/TpBV8OYSEmysDxbXe+AOW+KSfqClKlzPleA6/Uk+0xU+VzrGfxPqJ6ABq0N/aLeH9h3EWfGP3EocByBuVNFlVRny2i0rOH5pip4htgtYoU7g9B+VEvl8xAosDW8QNzatKhjfEB9EWslaLsDAkbkRlMR9hntguHUwAHeWtoS8/NIOt19LkNzeqrWB+5Brq4nsLbFmjby6rU6wbSnxmEbZ3F37QfYDIdlc7Nem49azvIgSpUTXoMaEaEmtEFh4IIfHjsw=="
+  },
+  {
+    "name": "ARC-Authentication-Results",
+    "value": "i=1; mx.microsoft.com 1; spf=pass smtp.mailfrom=rzo.io; dmarc=pass action=none header.from=rzo.io; dkim=pass header.d=rzo.io; arc=none"
+  },
+  {
+    "name": "DKIM-Signature",
+    "value": "v=1; a=rsa-sha256; c=relaxed/relaxed; d=rzon.onmicrosoft.com; s=selector2-rzon-onmicrosoft-com; h=From:Date:Subject:Message-ID:Content-Type:MIME-Version:X-MS-Exchange-SenderADCheck; bh=Tv4mIlsH0o46v/Xr0BAtoZAxVaJi6YMqYMGwH7Plxa0=; b=iihi7nGqhcOV20zY/m/CO5w5IrHUIrDOlzwhyidfIEyy5robndBS2kaoh0DNMNpAfUc0gyLETzdxckM7LoyQQevWZnh31UHzYCDZE10X9cYSLX+edh3q0RYfPl7XFTZGf0gfHCcEDZXgzYf5DaE640l1hqJLKAuYM4ObN+ywNms="
+  },
+  {
+    "name": "Received",
+    "value": "from PR3PR09MB5283.eurprd09.prod.outlook.com (2603:10a6:102:172::22) by GV2PR09MB8421.eurprd09.prod.outlook.com (2603:10a6:150:2d5::16) with Microsoft SMTP Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.9700.16; Fri, 13 Mar 2026 12:32:16 +0000"
+  },
+  {
+    "name": "Received",
+    "value": "from PR3PR09MB5283.eurprd09.prod.outlook.com ([fe80::f1e:9a27:2881:a3cb]) by PR3PR09MB5283.eurprd09.prod.outlook.com ([fe80::f1e:9a27:2881:a3cb%4]) with mapi id 15.20.9700.010; Fri, 13 Mar 2026 12:32:15 +0000"
+  },
+  {
+    "name": "From",
+    "value": "\"Daniel Faucitt\" <d@rzo.io>"
+  },
+  {
+    "name": "To",
+    "value": "\"Bobo Mshengu\" <mshengub29@icloud.com>"
+  },
+  {
+    "name": "CC",
+    "value": "\"Jacqui Faucitt\" <jax@regima.zone>"
+  },
+  {
+    "name": "Subject",
+    "value": "Fw: The RegimA Group results and Computer Expense analysis"
+  },
+  {
+    "name": "Thread-Topic",
+    "value": "The RegimA Group results and Computer Expense analysis"
+  },
+  {
+    "name": "Thread-Index",
+    "value": "AQHb2d2K1qQjUAPjME2NxLYR/V6vQrP8EckAgABS5ICBsbJKHw=="
+  },
+  {
+    "name": "Importance",
+    "value": "high"
+  },
+  {
+    "name": "X-Priority",
+    "value": "1"
+  },
+  {
+    "name": "Date",
+    "value": "Fri, 13 Mar 2026 12:32:15 +0000"
+  },
+  {
+    "name": "Message-ID",
+    "value": "<PR3PR09MB52830D56C76B21CEDE7F180AD145A@PR3PR09MB5283.eurprd09.prod.outlook.com>"
+  },
+  {
+    "name": "References",
+    "value": "<CANC4RXfOGA=KXM5Sxftk9_RiH49wbhPUX0HvD_r4LE3yztR2gA@mail.gmail.com> <DB9PR09MB67430306FB13B959DEE61154D16AA@DB9PR09MB6743.eurprd09.prod.outlook.com> <CANC4RXe+YAHqWH2XNOD7S0D+W5hW_cEceV+NXzAwfcj9o4mTCg@mail.gmail.com>"
+  },
+  {
+    "name": "In-Reply-To",
+    "value": "<CANC4RXe+YAHqWH2XNOD7S0D+W5hW_cEceV+NXzAwfcj9o4mTCg@mail.gmail.com>"
+  },
+  {
+    "name": "Accept-Language",
+    "value": "en-GB, en-US"
+  },
+  {
+    "name": "Content-Language",
+    "value": "en-GB"
+  },
+  {
+    "name": "authentication-results",
+    "value": "dkim=none (message not signed) header.d=none;dmarc=none action=none header.from=rzo.io;"
+  },
+  {
+    "name": "x-ms-publictraffictype",
+    "value": "Email"
+  },
+  {
+    "name": "x-ms-traffictypediagnostic",
+    "value": "PR3PR09MB5283:EE_|GV2PR09MB8421:EE_"
+  },
+  {
+    "name": "x-ms-office365-filtering-correlation-id",
+    "value": "d65e7296-843c-4416-8f83-08de80fc8f0e"
+  },
+  {
+    "name": "x-ms-exchange-senderadcheck",
+    "value": "1"
+  },
+  {
+    "name": "x-ms-exchange-antispam-relay",
+    "value": "0"
+  },
+  {
+    "name": "x-microsoft-antispam",
+    "value": "BCL:0;ARA:13230040|366016|19092799006|376014|1800799024|56012099003|22082099003|18002099003|7053199007|19033499003|38070700021|8096899003;"
+  },
+  {
+    "name": "x-microsoft-antispam-message-info",
+    "value": "sQzpcpBNE/WK9iqvnFkRnyHqwXtPbZPIK+eOGv1BA/QaLJm7y7ScnCNt8VqzQtjURFA96Z5V/rDSl12CNgyE/62rJLatgKmO7/4R3X4SslA6po7PBu5oiyo2Qtz5qAVK564zaSWPSCYjkDteFfEapZLlrVLcwgs0RVmdqCnjQ+WwtPfeQ1VkkDJz/Dus3dQlIp92leE3jV76Rjg2Hs+6P2J7wiUkc8BLxFMgsYHR9Z/X6aVhRC0iQtvFXV4oF+PsahJsCehTOepg3CaVDnujLFyV0Br8OIeRP6NGd8KvCoyaa/a+O7i5/iBJECAfKw1eAhdfehGBewRdYMRfAzTAzCLd6SVLboVWuw5M5eCYwWn0BQ9oTmIejLRs6wrgQgFmc7W6g5Z+3rbdjkczEl8oKZk/JgjyalkCVYWtW318xmD5g+PJzXoIcrD4TV3Svv58Xj9NlbZOhbHaICz5Tp0mIGF2xf5cmThBzB+uXxkpmHdQ+l5hcuYPkvpfkzVhvc8eXlKsnvONingSRL02NfN//ta0k2XPnnpIoJ2i1DRa1VL8HTAPW7w7qw86FBZbqEdjsXjJTtQuF9bZ6JqAAG6lFLQWFKlpCOlSY9tE2X+R50ZfTd534Z48oaoNZ4g7LAmpWJWZ9Y17ZiW5WpYrvWW1x2OaWaGpZF1/9ys/wZYGaD5ElPcwM6EF+OhfdsZES/8DPJmGF2RSVAPv7qOUCb9aEp1L7+SDulhyPvDFnxDwwvEKJdLy6SrjT7jZU0ZmLbMzyldFf/o27PsXVF/MCLwF7mjggD7qOZfZ9iRaVv68e2k="
+  },
+  {
+    "name": "x-forefront-antispam-report",
+    "value": "CIP:255.255.255.255;CTRY:;LANG:en;SCL:1;SRV:;IPV:NLI;SFV:NSPM;H:PR3PR09MB5283.eurprd09.prod.outlook.com;PTR:;CAT:NONE;SFS:(13230040)(366016)(19092799006)(376014)(1800799024)(56012099003)(22082099003)(18002099003)(7053199007)(19033499003)(38070700021)(8096899003);DIR:OUT;SFP:1102;"
+  },
+  {
+    "name": "x-ms-exchange-antispam-messagedata-chunkcount",
+    "value": "1"
+  },
+  {
+    "name": "x-ms-exchange-antispam-messagedata-0",
+    "value": "LpyZus5NCpAzqplYdMVzflhGc1ctGHgCosR4L2MOqP7P5DFOMniSKKVHETIBcLbgYSYJlbm57HDky26iDrAxBvd2SRqQw1r0M/hDYtq/lJS91lYqNancTgHzX2MU8G6Cvv5UQ6xIClEiaO+pNVEMlrNF7SSqH8QrbtcAAxP/6oJY6gcoWQr8wlMviCtgpUusS3/lccpFij7e5AuAOt1lrlrgfD3rsJkGLtkMk43Z+3t9q+HkSc79mo3mFosgdiBjnaOvGcbO7KJZIplKOovA6dGYXlBTZAiWa/cSq1UitizzYR2/CTmSO/yKhy8ADEX/as5hBFrDDzaUIqAHOLpMuVhXyQJme5gQBkDGqUqFbD/BxzM/6JhusEDiAskesf9GfertkrQ21cdHu5IBBpme8Jd/2fBouz12ElkkcUqeM1vkBfeI86Pue+c4A88qBNXYXsv88nMafjQXewUDYsNX41nCG2acN1MMdN3hMw7ab+7ihCMF5HjIo5h5di46YC/fw5s+oVbI0Mi+AKky7WYzjHTCQlhyCU3KmzTvB+35TL16fH0NyGOL7jNzFoQ0dwF3FCOWPARJ9IvuOTLhKR/8fldSkc4oL72bQMx7NUnRt/WLUQNP9nqTlLfI53Vid7YtO5MviT2+zhMEAOMvBDr1EeCNPTNPdsEmjxekC5X4kIjZlt4U6uLIm1Cx9fzcsrhZT/kraJgwV/+AIK5gZDj1GRgVIMk5VeWyvrZreQlbWQNErcN0FZvedBGpqdR/3x47bZvoiMRYj7KSoJrHODdlZ95Ydc3spfsMbSSDn3+vxl4EQgiyKGyhpSfAXSdPC2j+PZEPiO5D2ZzfVmlYzUVQh1Be6UEctTcYsd4peS8INeIIar0h2rdc8ZbL4z1WH6vAgjV6yPhAlXOKl/cAGrLMW4DaHsI5Xuh0KtOBJfiQrnKIG3ph394GfPGJeBzSsEl4jiVg/NEgaWWC/HccsKlWu3zKZG1OmSdNqugsRa3SOdjVJeOdz1kntc/IiSZ9PnhpuTHbbdwQ6a5awZVigoeFgMs3JweDULIXtJG6jsX82yxo/6UV73L7UyHMl65BWBIwvg/CjIPLmRzCUQhMigfio4r7/kdyuSD8SIEVN6Yk210wJpFgTcsgCH4upppoIOV11EUfGZQNVNCHnxONGK6l5ZMuACF7qS7quPUvZOlTBQan86b8t+n9X6hW1eHou1I4vTAK1CPDyDMdeRakGWnoOuwORVvWIyed/OEMbjDu2nUYU/x9bLy0VuXENJ4EIONAO84nTt7nUA6RBVkVMotP6PcKeGGmwZ813T7lInUTBJOG/BX0criKzTxC3Z7cg4xqvPsJe4NgPf8/1/noPxKn4bjuiww3CNxELikvvRpvACSHFM0Yfu3EN0eUu0L+Lm7sNbEl5zbLdsFPs4VrAk2awugKGxWbId5D/2u/u8k5KZb7Ebj3d+YuegS+Q3BJ4WOsO22qUDICtaF3V/Tj4djcaDM9r1JmqJWI5Gg1tWMvVhJcMKQrTSN5Y+0xkUIfKm1R+b77bC/x6ALPP7lsb7SqbRG5NzNurtN2s2snGQqxwCxUGHtmGBtg9t0KONmtNf/Rwzt6+50buUTS68OygH1GJqmsCh+Isjyh7HlVgdCAm+I5/Uek0krGbnUNyDtxSbtbA5LLewYcLkk9hS54eFCTELYpWUUjB2PJ1zhMQ8N8WRk="
+  },
+  {
+    "name": "Content-Type",
+    "value": "multipart/alternative"
+  },
+  {
+    "name": "MIME-Version",
+    "value": "1.0"
+  },
+  {
+    "name": "X-OriginatorOrg",
+    "value": "rzo.io"
+  },
+  {
+    "name": "X-MS-Exchange-CrossTenant-AuthAs",
+    "value": "Internal"
+  },
+  {
+    "name": "X-MS-Exchange-CrossTenant-AuthSource",
+    "value": "PR3PR09MB5283.eurprd09.prod.outlook.com"
+  },
+  {
+    "name": "X-MS-Exchange-CrossTenant-Network-Message-Id",
+    "value": "d65e7296-843c-4416-8f83-08de80fc8f0e"
+  },
+  {
+    "name": "X-MS-Exchange-CrossTenant-originalarrivaltime",
+    "value": "13 Mar 2026 12:32:15.3249 (UTC)"
+  },
+  {
+    "name": "X-MS-Exchange-CrossTenant-fromentityheader",
+    "value": "Hosted"
+  },
+  {
+    "name": "X-MS-Exchange-CrossTenant-id",
+    "value": "dc24b9a5-3925-471f-b9f9-0a4a5081b8c5"
+  },
+  {
+    "name": "X-MS-Exchange-CrossTenant-mailboxtype",
+    "value": "HOSTED"
+  },
+  {
+    "name": "X-MS-Exchange-CrossTenant-userprincipalname",
+    "value": "GeVfp4AeYDQqiBlOTFAq3LzZ8injKCVRYzbEFtBx9RmjVLnhFbvuTWQXdgPccyXA"
+  },
+  {
+    "name": "X-MS-Exchange-Transport-CrossTenantHeadersStamped",
+    "value": "GV2PR09MB8421"
+  }
+]

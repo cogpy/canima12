@@ -1,0 +1,50 @@
+{
+  "title": "Case 2025-137857: Revenue Stream Hijacking via Unauthorized Corporate Control",
+  "description": "An organized scheme to hijack the revenue streams of RegimA Skin Treatments CC (RST) and related entities through unauthorized seizure of accounting, banking, and e-commerce platforms.",
+  "facts": "Peter Faucitt, acting in concert with Rynette Farrar, unilaterally seized control of RST's Sage accounting system, ABSA bank accounts, and Shopify e-commerce platform. Corporate funds were diverted to fund adversarial litigation against the CEO. Control was maintained through ex parte interdicts obtained via material non-disclosure. Financial records were deliberately withheld from the CEO.",
+  "keywords": ["revenue-hijacking", "unauthorized-control", "fiduciary-breach", "material-non-disclosure", "fraud", "ex-parte-interdict", "conflict-of-interest", "corporate-funds"],
+  "facts_list": [
+    "Unilateral seizure of Sage accounting platform",
+    "Unilateral seizure of ABSA bank accounts",
+    "Unilateral seizure of Shopify e-commerce platform",
+    "Diversion of R478,958 in RST corporate funds to Elliott Attorneys",
+    "Funding of adversarial litigation against CEO using corporate funds",
+    "Obtaining ex parte interdict through material non-disclosure",
+    "Deliberate withholding of financial statements from CEO",
+    "Admission that Farrar acted exclusively on Peter Faucitt's instructions"
+  ],
+  "entities": [
+    {"type": "person", "name": "Peter Andrew Faucitt", "role": "perpetrator", "attributes": {"id": "PERSON_001", "position": "Member/Director"}},
+    {"type": "person", "name": "Rynette Farrar", "role": "accomplice", "attributes": {"id": "PERSON_002", "position": "Bookkeeper"}},
+    {"type": "person", "name": "Jacqueline Faucitt", "role": "victim", "attributes": {"id": "PERSON_004", "position": "CEO"}},
+    {"type": "organization", "name": "RegimA Skin Treatments CC", "role": "affected_entity", "attributes": {"id": "ORG_002", "type": "Close Corporation"}},
+    {"type": "organization", "name": "Elliott Attorneys", "role": "legal_counsel", "attributes": {"id": "ORG_020", "type": "Law Firm"}}
+  ],
+  "relations": [
+    {"type": "controls", "source": "Peter Andrew Faucitt", "target": "Rynette Farrar"},
+    {"type": "diverts-funds-from", "source": "Peter Andrew Faucitt", "target": "RegimA Skin Treatments CC"},
+    {"type": "funds-adversarial-litigation", "source": "RegimA Skin Treatments CC", "target": "Elliott Attorneys"},
+    {"type": "withholds-records-from", "source": "Peter Andrew Faucitt", "target": "Jacqueline Faucitt"},
+    {"type": "obtains-interdict-against", "source": "Peter Andrew Faucitt", "target": "Jacqueline Faucitt"}
+  ],
+  "evidence": [
+    {"name": "peter-aa-admissions", "type": "admission", "params": {"claim": "farrar-acts-on-instructions", "evidence": "peter-aa-para-64-2", "date": "2026-06-03"}},
+    {"name": "withholding-records", "type": "admission", "params": {"claim": "records-withheld", "evidence": "peter-aa-para-75-4", "date": "2026-06-03"}},
+    {"name": "rst-elliott-payments", "type": "financial-record", "params": {"source": "RST-ABSA-4112241409", "target": "Elliott-Attorneys", "amount": "478957.93", "date_range": "2025-08-25_to_2026-04-15"}}
+  ],
+  "events": [
+    {"date": "2024-07-08", "description": "Sage accounting platform access seized", "rule": "fiduciary-duty", "actor": "Peter Andrew Faucitt"},
+    {"date": "2025-05-26", "description": "Shopify platform halted", "rule": "fiduciary-duty", "actor": "Peter Andrew Faucitt"},
+    {"date": "2025-08-19", "description": "Ex parte interdict granted", "rule": "6(4)(a)", "actor": "Court"},
+    {"date": "2025-08-25", "description": "First RST payment to Elliott Attorneys", "rule": "conflict-of-interest", "actor": "Peter Andrew Faucitt"},
+    {"date": "2026-06-03", "description": "Peter Faucitt swears AA with material admissions", "rule": "evidence", "actor": "Peter Andrew Faucitt"}
+  ],
+  "procedural_types": ["ex-parte", "interdict", "rescission", "delinquency-application", "professional-misconduct-complaint"],
+  "contradiction_pairs": [
+    ["full-disclosure", "material-concealment"],
+    ["legitimate-legal-expense", "factional-litigation-funding"],
+    ["independent-bookkeeper", "acts-on-instructions-only"],
+    ["system-error", "deliberate-platform-halt"]
+  ],
+  "exclusion_groups": []
+}

@@ -1,0 +1,55 @@
+{
+  "_schema": "exchange-forensic-eml/v1",
+  "_generated": "2026-03-10T03:50:39.532571+00:00",
+  "_source": "neon-exchange-sync",
+  "file_integrity": {
+    "eml_file": "/home/ubuntu/revstream1/docs/evidence/forensic_eml/regima.zone/0094_2025-11-07_0503_jax@regima.zone_ARE_YOU_ABLE_TO_OPPOSE_PART_A_OF_THE_EXPARTE_INTER.eml",
+    "file_size_bytes": 3177,
+    "md5": "4d0214ad0559e9edb261ea232c7201b6",
+    "sha1": "04e1754cbb3926646fd73d25d8d5535a016ff0b3",
+    "sha256": "0e1ebdaa51fc9204fd816cd91f0c7a6b46057dc83aef5e1891d82ae204c7bf2c"
+  },
+  "message_identity": {
+    "exchange_sync_id": "AQMkAGM2Y2E0NWVmLWEzZTktNDc1Mi1iY2I4LTU3OTBlMTJhMTllNQBGAAADPe59AHjuz0_HJe8Q4ALb1wcAtr3q_CoE-0aRl7m1844EjgAAAgEKAAAAtr3q_CoE-0aRl7m1844EjgAKbJPFfgAAAA==",
+    "internet_message_id": "<GV2PR08MB92075C476123E76ECACA8492ACC3A@GV2PR08MB9207.eurprd08.prod.outlook.com>",
+    "conversation_id": "AAQkAGM2Y2E0NWVmLWEzZTktNDc1Mi1iY2I4LTU3OTBlMTJhMTllNQAQAC0xcJO3z1xHqoxAwPf10cg="
+  },
+  "envelope": {
+    "subject": "ARE YOU ABLE TO OPPOSE PART A OF THE EXPARTE INTERDICT, THE FIRST ONE",
+    "from_name": "Jacqui Faucitt",
+    "from_address": "jax@regima.zone",
+    "to_recipients": [
+      {
+        "name": "Doron Block",
+        "address": "block@rivoniaadvocates.co.za"
+      },
+      {
+        "name": "Ian Levitt",
+        "address": "ian@ianlevitt.co.za"
+      },
+      {
+        "name": "Natan Back",
+        "address": "Natan@ianlevitt.co.za"
+      }
+    ],
+    "cc_recipients": [
+      {
+        "name": "Daniel J. Faucitt",
+        "address": "dan@regima.com"
+      }
+    ],
+    "received_datetime": "2025-11-07 05:03:32+00:00"
+  },
+  "mailbox_context": {
+    "user_email": "jax@regima.zone",
+    "user_name": "Jacqui Faucitt",
+    "folder_name": "Deleted Items",
+    "folder_id": "AQMkAGM2Y2E0NWVmLWEzZTktNDc1Mi1iY2I4LTU3OTBlMTJhMTllNQAuAAADPe59AHjuz0_HJe8Q4ALb1wEAtr3q_CoE-0aRl7m1844EjgAAAgEKAAAA"
+  },
+  "body": {
+    "content_type": "html",
+    "preview": "AS A MATTER OF GREAT URGENCY ARE YOU ABLE TO OPPOSE PART A OF THE EXPARTE INTERDICT.  THIS IS WHAT WE HAVE WANTED FROM THE START.  WE HAVE SENT THROUGH SO MUCH EVIDENCE OF PERJURY  FROM BANTJIES, THE ACCOUNTANT WHO  DID A SUPPORTING AFFIDAVIT, TO PETER'S ",
+    "body_length_chars": 1547
+  },
+  "attachments": []
+}

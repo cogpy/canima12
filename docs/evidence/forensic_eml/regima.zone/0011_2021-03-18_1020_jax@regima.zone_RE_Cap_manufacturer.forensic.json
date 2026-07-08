@@ -1,0 +1,42 @@
+{
+  "_schema": "exchange-forensic-eml/v1",
+  "_generated": "2026-03-10T03:53:22.875452+00:00",
+  "_source": "neon-exchange-sync",
+  "file_integrity": {
+    "eml_file": "/home/ubuntu/revstream1/docs/evidence/forensic_eml/regima.zone/0011_2021-03-18_1020_jax@regima.zone_RE_Cap_manufacturer.eml",
+    "file_size_bytes": 729,
+    "md5": "58ce6f9db28d61e4889dec96f041a605",
+    "sha1": "3b7d265e7c02e5943959fd747b7e89cef8202193",
+    "sha256": "e6f1934633489bd50f34a98e513948a3aaa1572304a9502504d50736e4bd5539"
+  },
+  "message_identity": {
+    "exchange_sync_id": "AAMkAGM2Y2E0NWVmLWEzZTktNDc1Mi1iY2I4LTU3OTBlMTJhMTllNQBGAAAAAAA97n0AeO7PT4cl7xDgAtvXBwC2ver4KgT-RpGXubXzjgSOAAIZYOy5AAC2ver4KgT-RpGXubXzjgSOAAdIATVeAAA=",
+    "internet_message_id": "<DB7PR08MB3306E18C80A17471D578A72FAC699@DB7PR08MB3306.eurprd08.prod.outlook.com>",
+    "conversation_id": "AAQkAGM2Y2E0NWVmLWEzZTktNDc1Mi1iY2I4LTU3OTBlMTJhMTllNQAQAOzJlBZjtEuXqw2lsoHZ-r8="
+  },
+  "envelope": {
+    "subject": "RE: Cap manufacturer",
+    "from_name": "Jacqui Faucitt",
+    "from_address": "jax@regima.zone",
+    "to_recipients": [
+      {
+        "name": "Rynette Farrar",
+        "address": "rynette@regima.zone"
+      }
+    ],
+    "cc_recipients": null,
+    "received_datetime": "2021-03-18 10:20:00+00:00"
+  },
+  "mailbox_context": {
+    "user_email": "jax@regima.zone",
+    "user_name": "Jacqui Faucitt",
+    "folder_name": "Archive",
+    "folder_id": "AQMkAGM2Y2E0NWVmLWEzZTktNDc1Mi1iY2I4LTU3OTBlMTJhMTllNQAuAAADPe59AHjuz0_HJe8Q4ALb1wEAtr3q_CoE-0aRl7m1844EjgACGWDsuQAAAA=="
+  },
+  "body": {
+    "content_type": null,
+    "preview": "Great, thanks\r\n\r\nFrom: Rynette Farrar <rynette@regima.zone>\r\nSent: Thursday, 18 March 2021 12:20 PM\r\nTo: JAX@REGIMA.COM; PETE@REGIMA.COM\r\nCc: JAX@REGIMA.COM; PETE@REGIMA.COM; Jacqui Faucitt <jax@regima.zone>\r\nSubject: Cap manufacturer\r\n\r\nI found the entry",
+    "body_length_chars": 0
+  },
+  "attachments": []
+}

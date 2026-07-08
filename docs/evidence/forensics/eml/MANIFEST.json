@@ -1,0 +1,278 @@
+{
+  "_schema": "exoml-manifest/v1",
+  "_generated": "2026-03-10T08:04:23.604538+00:00",
+  "search_scope": "rynette farrar",
+  "total_messages": 30,
+  "messages": [
+    {
+      "index": 1,
+      "eml_file": "rzo.io/0001_2021-02-01_1352_d@rzo.io_RE__COMPLAINTS_REGARDING_YEMAYA.eml",
+      "subject": "RE: COMPLAINTS REGARDING YEMAYA",
+      "from": "d@rzo.io",
+      "date": "2021-02-01 13:52:00",
+      "attachments": 0,
+      "sha256": "6c7220ce2a1462040d6a2bef99c2b7679193638f0f7b4ff5abfc34e671e6c310"
+    },
+    {
+      "index": 2,
+      "eml_file": "rzo.io/0002_2021-02-01_1352_d@rzo.io_RE__COMPLAINTS_REGARDING_AEGEAN.eml",
+      "subject": "RE: COMPLAINTS REGARDING AEGEAN",
+      "from": "d@rzo.io",
+      "date": "2021-02-01 13:52:00",
+      "attachments": 0,
+      "sha256": "577fabadd8fea63552952b62c81e9baed0870fb0c9a14ca731ecd6c2e071d29b"
+    },
+    {
+      "index": 3,
+      "eml_file": "rzo.io/0003_2021-02-01_1353_d@rzo.io_RE__COMPLAINTS_REGARDING_THE_LASER_BEAUTIQUE.eml",
+      "subject": "RE: COMPLAINTS REGARDING THE LASER BEAUTIQUE",
+      "from": "d@rzo.io",
+      "date": "2021-02-01 13:53:00",
+      "attachments": 0,
+      "sha256": "cb7cd9a2c8ae207e409d5182fa8d45d4421bb03f0f0a57033f64d3c31ec92028"
+    },
+    {
+      "index": 4,
+      "eml_file": "rzo.io/0004_2021-02-01_1354_d@rzo.io_RE__COMPLAINTS_REGARDING_COSMETOLOGY.eml",
+      "subject": "RE: COMPLAINTS REGARDING COSMETOLOGY",
+      "from": "d@rzo.io",
+      "date": "2021-02-01 13:54:00",
+      "attachments": 0,
+      "sha256": "c4b65c5b1b3214ee9f30cf768f76255b6174fb7651c6d9c209f5dba29a8856e5"
+    },
+    {
+      "index": 5,
+      "eml_file": "rzo.io/0005_2021-02-16_1407_d@rzo.io_FW__LETTER_ABOUT_ONLINE_STORES.eml",
+      "subject": "FW: LETTER ABOUT ONLINE STORES",
+      "from": "d@rzo.io",
+      "date": "2021-02-16 14:07:00",
+      "attachments": 2,
+      "sha256": "709316c03291d049d04e96ea38c266445c6519252e1a20b0a85c4d621bb6039d"
+    },
+    {
+      "index": 6,
+      "eml_file": "rzo.io/0006_2021-02-18_1914_d@rzo.io_Salco_Picking_Slip.eml",
+      "subject": "Salco Picking Slip",
+      "from": "d@rzo.io",
+      "date": "2021-02-18 19:14:07",
+      "attachments": 0,
+      "sha256": "a3276f36b7c905f423a44e44c276b84c8fabdf91aef8ea703b38cb03221799f0"
+    },
+    {
+      "index": 7,
+      "eml_file": "rzo.io/0007_2021-07-07_0855_d@rzo.io_Re__Raw_Material_and_Packaging_Q3_2021_-_PRIME_PRI.eml",
+      "subject": "Re: Raw Material and Packaging Q3 2021  -  PRIME PRICING",
+      "from": "d@rzo.io",
+      "date": "2021-07-07 08:55:11",
+      "attachments": 0,
+      "sha256": "87e7f215e260537579a86f055917d7f0a79f38cc08f355b28b3f7616ec74c597"
+    },
+    {
+      "index": 8,
+      "eml_file": "rzo.io/0008_2021-07-28_0937_d@rzo.io_Re__[External]_RE__Drieline_PF.eml",
+      "subject": "Re: [External] RE: Drieline PF",
+      "from": "d@rzo.io",
+      "date": "2021-07-28 09:37:11",
+      "attachments": 0,
+      "sha256": "85bede94dc71baaa667a22e099f065c7c74d5673f0059832fec3c85e776c7880"
+    },
+    {
+      "index": 9,
+      "eml_file": "rzo.io/0009_2021-07-28_0938_d@rzo.io_Re__[External]_RE__Drieline_PF.eml",
+      "subject": "Re: [External] RE: Drieline PF",
+      "from": "d@rzo.io",
+      "date": "2021-07-28 09:38:56",
+      "attachments": 7,
+      "sha256": "96a3c6230fd35938b8f9d796a4b4cbf0961eab4b0f9b552289fe78795b98db9c"
+    },
+    {
+      "index": 10,
+      "eml_file": "rzo.io/0010_2021-07-29_0706_d@rzo.io_Re__[External]_RE__Drieline_PF.eml",
+      "subject": "Re: [External] RE: Drieline PF",
+      "from": "d@rzo.io",
+      "date": "2021-07-29 07:06:23",
+      "attachments": 0,
+      "sha256": "d5dd5cee4561322fcb948c97035c642c594da67a12faf8baa8d1f06634920d2b"
+    },
+    {
+      "index": 11,
+      "eml_file": "rzo.io/0011_2021-07-30_0718_d@rzo.io_Re__https___www.cosmetology.co.za__-_DANNY_TO_SORT.eml",
+      "subject": "Re: https://www.cosmetology.co.za/  -  DANNY TO SORT THIS ONE",
+      "from": "d@rzo.io",
+      "date": "2021-07-30 07:18:28",
+      "attachments": 0,
+      "sha256": "6a68caca1b6b6de14acea1a7c86c040dd705663b772559943865b83fe3342e15"
+    },
+    {
+      "index": 12,
+      "eml_file": "rzo.io/0012_2021-08-26_0755_d@rzo.io_Fw__Invoice_2369_from_Datamass_(Pty)_Ltd.eml",
+      "subject": "Fw: Invoice 2369 from Datamass (Pty) Ltd",
+      "from": "d@rzo.io",
+      "date": "2021-08-26 07:55:03",
+      "attachments": 1,
+      "sha256": "a618ac97cd6f36e77f0354e4a555f80c89cc5bbb6de57c0cac8fcbb26d7f44e6"
+    },
+    {
+      "index": 13,
+      "eml_file": "rzo.io/0013_2022-01-10_1315_d@rzo.io_RE__Introduction_-_CHRIS_COMPUTER_-_CITSCC.eml",
+      "subject": "RE: Introduction  -  CHRIS COMPUTER - CITSCC",
+      "from": "d@rzo.io",
+      "date": "2022-01-10 13:15:00",
+      "attachments": 0,
+      "sha256": "b3cda4f23a9aeba0544b4994f84574bd8738ae9abb2b1e9d7f125df59fb949db"
+    },
+    {
+      "index": 14,
+      "eml_file": "rzo.io/0014_2022-01-10_1334_d@rzo.io_RE__Introduction_-_CHRIS_COMPUTER_-_CITSCC.eml",
+      "subject": "RE: Introduction  -  CHRIS COMPUTER - CITSCC",
+      "from": "d@rzo.io",
+      "date": "2022-01-10 13:34:00",
+      "attachments": 0,
+      "sha256": "5396e342cd348628ac916a395afedfcf47d90f2647a4c196a0f328972ac23f7d"
+    },
+    {
+      "index": 15,
+      "eml_file": "rzo.io/0015_2022-01-14_0833_d@rzo.io_RE__Q4_2021.eml",
+      "subject": "RE: Q4 2021",
+      "from": "d@rzo.io",
+      "date": "2022-01-14 08:33:00",
+      "attachments": 0,
+      "sha256": "2dc9c4ccc1dfb3f965702164492a357663949296f1ec6e151b20b7034cbfe273"
+    },
+    {
+      "index": 16,
+      "eml_file": "rzo.io/0016_2022-02-01_0423_d@rzo.io_Miles_Smit_-_SALCO_-_Signed_Waybill_Records.eml",
+      "subject": "Miles Smit - SALCO - Signed Waybill Records",
+      "from": "d@rzo.io",
+      "date": "2022-02-01 04:23:00",
+      "attachments": 7,
+      "sha256": "be856963caddfdb369f3776a6217599a7f9263beb3f9d52ecf1f73e03972f806"
+    },
+    {
+      "index": 17,
+      "eml_file": "rzo.io/0017_2022-02-09_0918_d@rzo.io_SALCO_dashboard.eml",
+      "subject": "SALCO dashboard",
+      "from": "d@rzo.io",
+      "date": "2022-02-09 09:18:00",
+      "attachments": 1,
+      "sha256": "b987f785b9e1ccdce05d37cf4c0c1b0796e05a5dc6373ff30869fd9b74d42e97"
+    },
+    {
+      "index": 18,
+      "eml_file": "rzo.io/0018_2022-02-17_1645_d@rzo.io_FW__Property_Valuation_Comparisons.eml",
+      "subject": "FW: Property Valuation Comparisons",
+      "from": "d@rzo.io",
+      "date": "2022-02-17 16:45:00",
+      "attachments": 2,
+      "sha256": "ac419ba8305b1b116fb65ba762afbda7de8c802708dc18ae7cdfe68ba57984b3"
+    },
+    {
+      "index": 19,
+      "eml_file": "rzo.io/0019_2022-02-17_1713_d@rzo.io_FW__Property_Inventory_-_Unit_4_&_G20_-_To_Investi.eml",
+      "subject": "FW: Property Inventory - Unit 4 & G20 - To Investigate",
+      "from": "d@rzo.io",
+      "date": "2022-02-17 17:13:00",
+      "attachments": 1,
+      "sha256": "ba14784c1fdd4cf2f472f913af7deeab4cfda8c50f8d8f410eb3a160ec3c05d4"
+    },
+    {
+      "index": 20,
+      "eml_file": "rzo.io/0020_2022-03-08_0552_d@rzo.io_RE__I_don't_appreciate_this.eml",
+      "subject": "RE: I don't appreciate this",
+      "from": "d@rzo.io",
+      "date": "2022-03-08 05:52:00",
+      "attachments": 0,
+      "sha256": "584486f323d87f315a0e98c99813c8b5c6258a2295f30d1381786c5d674c17ef"
+    },
+    {
+      "index": 21,
+      "eml_file": "rzo.io/0021_2022-03-22_1120_d@rzo.io_RE__WWD_Books.eml",
+      "subject": "RE: WWD Books",
+      "from": "d@rzo.io",
+      "date": "2022-03-22 11:20:00",
+      "attachments": 0,
+      "sha256": "8d68ea0835c4f9d4d7ef3ede8917eb9ba1de2fa547ae64e871f36fb28d62585f"
+    },
+    {
+      "index": 22,
+      "eml_file": "rzo.io/0022_2022-03-23_0408_d@rzo.io_RE__Regima_Skin_Books.eml",
+      "subject": "RE: Regima Skin Books",
+      "from": "d@rzo.io",
+      "date": "2022-03-23 04:08:00",
+      "attachments": 0,
+      "sha256": "9b7e37c3f7d5992134eded2932e1cede186ef6c8053df6c8c39a5b717064b5ab"
+    },
+    {
+      "index": 23,
+      "eml_file": "rzo.io/0023_2022-03-23_0411_d@rzo.io_RE__WWD_Books.eml",
+      "subject": "RE: WWD Books",
+      "from": "d@rzo.io",
+      "date": "2022-03-23 04:11:00",
+      "attachments": 0,
+      "sha256": "f9fe4acaa9a8725b7bf86a5b2103e2b7cb5e65409267252898fff5baa33b80b6"
+    },
+    {
+      "index": 24,
+      "eml_file": "rzo.io/0024_2022-03-24_0041_d@rzo.io_RE__Regima_Skin_Books_-_Rezonance.eml",
+      "subject": "RE: Regima Skin Books  - Rezonance",
+      "from": "d@rzo.io",
+      "date": "2022-03-24 00:41:00",
+      "attachments": 3,
+      "sha256": "f3a8fc7e4a7ac052e06911550a8d7b1b8303300f766a544a00dd6718664bc878"
+    },
+    {
+      "index": 25,
+      "eml_file": "rzo.io/0025_2022-03-24_0046_d@rzo.io_FYI__Completing_ReZ_Accounts__-D.eml",
+      "subject": "FYI: Completing ReZ Accounts :-D",
+      "from": "d@rzo.io",
+      "date": "2022-03-24 00:46:00",
+      "attachments": 1,
+      "sha256": "e2a95f9c545a5432a17d878193f841d177c202fc54217dc84179836ee7754f00"
+    },
+    {
+      "index": 26,
+      "eml_file": "rzo.io/0026_2022-03-24_2102_d@rzo.io_RE__Updated_ledger_after_rectifications.eml",
+      "subject": "RE: Updated ledger after rectifications",
+      "from": "d@rzo.io",
+      "date": "2022-03-24 21:02:00",
+      "attachments": 0,
+      "sha256": "235d86f7600e6075a6faf01a1c6d68dfda4df5415a6faec9494b4c2325b1798e"
+    },
+    {
+      "index": 27,
+      "eml_file": "rzo.io/0027_2022-03-25_1118_d@rzo.io_Updated_Recon_for_RST-REZ__-D.eml",
+      "subject": "Updated Recon for RST-REZ :-D",
+      "from": "d@rzo.io",
+      "date": "2022-03-25 11:18:00",
+      "attachments": 1,
+      "sha256": "0e63160dadb15fc9b7fa438baf1df7a8cf5c28186ce3daf52b1442b2902228e3"
+    },
+    {
+      "index": 28,
+      "eml_file": "rzo.io/0028_2022-04-14_0527_d@rzo.io_Re__RegimA_Account_Query___Explanation_needed_on_t.eml",
+      "subject": "Re: RegimA Account Query | Explanation needed on the charges on our latest invoice",
+      "from": "d@rzo.io",
+      "date": "2022-04-14 05:27:53",
+      "attachments": 0,
+      "sha256": "a44b2dbcf4d781fe9d796ca6506f57f1fc0a1290262e0cc13a6cada98c65b5bd"
+    },
+    {
+      "index": 29,
+      "eml_file": "rzo.io/0029_2022-05-06_1438_d@rzo.io_RE__Reminder.eml",
+      "subject": "RE: Reminder",
+      "from": "d@rzo.io",
+      "date": "2022-05-06 14:38:00",
+      "attachments": 0,
+      "sha256": "aca7cadc68dd9733c2ccec499e2093a2d9612ad49a83bbb75553ab33223f63ba"
+    },
+    {
+      "index": 30,
+      "eml_file": "rzo.io/0030_2022-05-13_0412_d@rzo.io_RE__Where's_my_money.eml",
+      "subject": "RE: Where's my money?",
+      "from": "d@rzo.io",
+      "date": "2022-05-13 04:12:00",
+      "attachments": 0,
+      "sha256": "af2571ca5d1a2a0d6eccd5257da8be81ebab4205fd0a774f6abf2956610b5031"
+    }
+  ]
+}

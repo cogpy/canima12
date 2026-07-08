@@ -1,0 +1,974 @@
+{
+  "training_log": [
+    {
+      "epoch": 1,
+      "loss": 0.15455356488625208,
+      "civil_prob": 0.794300377368927,
+      "criminal_prob": 0.8218680024147034,
+      "civil_met": true,
+      "criminal_met": false,
+      "mode": "THREAT"
+    },
+    {
+      "epoch": 2,
+      "loss": 0.020803800628830988,
+      "civil_prob": 0.907998263835907,
+      "criminal_prob": 0.9225395917892456,
+      "civil_met": true,
+      "criminal_met": false,
+      "mode": "THREAT"
+    },
+    {
+      "epoch": 3,
+      "loss": 0.033808001006642975,
+      "civil_prob": 0.9509701132774353,
+      "criminal_prob": 0.9565343260765076,
+      "civil_met": true,
+      "criminal_met": false,
+      "mode": "THREAT"
+    },
+    {
+      "epoch": 4,
+      "loss": 0.036184768192470074,
+      "civil_prob": 0.9680072069168091,
+      "criminal_prob": 0.970775306224823,
+      "civil_met": true,
+      "criminal_met": false,
+      "mode": "THREAT"
+    },
+    {
+      "epoch": 5,
+      "loss": 0.03587553588052591,
+      "civil_prob": 0.97567218542099,
+      "criminal_prob": 0.9774047136306763,
+      "civil_met": true,
+      "criminal_met": false,
+      "mode": "THREAT"
+    },
+    {
+      "epoch": 6,
+      "loss": 0.03125499002635479,
+      "civil_prob": 0.9796274900436401,
+      "criminal_prob": 0.9809819459915161,
+      "civil_met": true,
+      "criminal_met": false,
+      "mode": "THREAT"
+    },
+    {
+      "epoch": 7,
+      "loss": 0.02603060193359852,
+      "civil_prob": 0.9819056987762451,
+      "criminal_prob": 0.9830260872840881,
+      "civil_met": true,
+      "criminal_met": false,
+      "mode": "THREAT"
+    },
+    {
+      "epoch": 8,
+      "loss": 0.021546537677447002,
+      "civil_prob": 0.9832220673561096,
+      "criminal_prob": 0.9842308163642883,
+      "civil_met": true,
+      "criminal_met": false,
+      "mode": "THREAT"
+    },
+    {
+      "epoch": 9,
+      "loss": 0.017985654373963673,
+      "civil_prob": 0.9839054942131042,
+      "criminal_prob": 0.9849093556404114,
+      "civil_met": true,
+      "criminal_met": false,
+      "mode": "THREAT"
+    },
+    {
+      "epoch": 10,
+      "loss": 0.015178106259554625,
+      "civil_prob": 0.9841811656951904,
+      "criminal_prob": 0.9851958751678467,
+      "civil_met": true,
+      "criminal_met": false,
+      "mode": "THREAT"
+    },
+    {
+      "epoch": 11,
+      "loss": 0.012915616855025291,
+      "civil_prob": 0.9840457439422607,
+      "criminal_prob": 0.9851430058479309,
+      "civil_met": true,
+      "criminal_met": false,
+      "mode": "THREAT"
+    },
+    {
+      "epoch": 12,
+      "loss": 0.011106926326950392,
+      "civil_prob": 0.9829679131507874,
+      "criminal_prob": 0.9840664863586426,
+      "civil_met": true,
+      "criminal_met": false,
+      "mode": "THREAT"
+    },
+    {
+      "epoch": 13,
+      "loss": 0.009632467137028774,
+      "civil_prob": 0.9828162789344788,
+      "criminal_prob": 0.9836804866790771,
+      "civil_met": true,
+      "criminal_met": false,
+      "mode": "THREAT"
+    },
+    {
+      "epoch": 14,
+      "loss": 0.00848957741012176,
+      "civil_prob": 0.982286274433136,
+      "criminal_prob": 0.9831043481826782,
+      "civil_met": true,
+      "criminal_met": false,
+      "mode": "THREAT"
+    },
+    {
+      "epoch": 15,
+      "loss": 0.0075481243742009,
+      "civil_prob": 0.9808664321899414,
+      "criminal_prob": 0.9816950559616089,
+      "civil_met": true,
+      "criminal_met": false,
+      "mode": "THREAT"
+    },
+    {
+      "epoch": 16,
+      "loss": 0.006783759609485666,
+      "civil_prob": 0.9786704182624817,
+      "criminal_prob": 0.9793180227279663,
+      "civil_met": true,
+      "criminal_met": false,
+      "mode": "THREAT"
+    },
+    {
+      "epoch": 17,
+      "loss": 0.006233409124736984,
+      "civil_prob": 0.9796394109725952,
+      "criminal_prob": 0.9806389212608337,
+      "civil_met": true,
+      "criminal_met": false,
+      "mode": "THREAT"
+    },
+    {
+      "epoch": 18,
+      "loss": 0.005739388909811775,
+      "civil_prob": 0.9807904958724976,
+      "criminal_prob": 0.9819087982177734,
+      "civil_met": true,
+      "criminal_met": false,
+      "mode": "THREAT"
+    },
+    {
+      "epoch": 19,
+      "loss": 0.005304343455160658,
+      "civil_prob": 0.9816547632217407,
+      "criminal_prob": 0.9827538728713989,
+      "civil_met": true,
+      "criminal_met": false,
+      "mode": "THREAT"
+    },
+    {
+      "epoch": 20,
+      "loss": 0.005037339559445779,
+      "civil_prob": 0.9811516404151917,
+      "criminal_prob": 0.9826763868331909,
+      "civil_met": true,
+      "criminal_met": false,
+      "mode": "THREAT"
+    },
+    {
+      "epoch": 21,
+      "loss": 0.004715219140052795,
+      "civil_prob": 0.9810410141944885,
+      "criminal_prob": 0.982306182384491,
+      "civil_met": true,
+      "criminal_met": false,
+      "mode": "THREAT"
+    },
+    {
+      "epoch": 22,
+      "loss": 0.0044979544666906195,
+      "civil_prob": 0.9815985560417175,
+      "criminal_prob": 0.9829361438751221,
+      "civil_met": true,
+      "criminal_met": false,
+      "mode": "THREAT"
+    },
+    {
+      "epoch": 23,
+      "loss": 0.004304591799154878,
+      "civil_prob": 0.9806739091873169,
+      "criminal_prob": 0.9820863008499146,
+      "civil_met": true,
+      "criminal_met": false,
+      "mode": "THREAT"
+    },
+    {
+      "epoch": 24,
+      "loss": 0.004148846957832575,
+      "civil_prob": 0.9819372296333313,
+      "criminal_prob": 0.9832417964935303,
+      "civil_met": true,
+      "criminal_met": false,
+      "mode": "THREAT"
+    },
+    {
+      "epoch": 25,
+      "loss": 0.003988629866701861,
+      "civil_prob": 0.983372151851654,
+      "criminal_prob": 0.9846140146255493,
+      "civil_met": true,
+      "criminal_met": false,
+      "mode": "THREAT"
+    },
+    {
+      "epoch": 26,
+      "loss": 0.00379649285847942,
+      "civil_prob": 0.9835276007652283,
+      "criminal_prob": 0.9848505258560181,
+      "civil_met": true,
+      "criminal_met": false,
+      "mode": "THREAT"
+    },
+    {
+      "epoch": 27,
+      "loss": 0.003725384517262379,
+      "civil_prob": 0.983578085899353,
+      "criminal_prob": 0.984713077545166,
+      "civil_met": true,
+      "criminal_met": false,
+      "mode": "THREAT"
+    },
+    {
+      "epoch": 28,
+      "loss": 0.003614574243935446,
+      "civil_prob": 0.9839677214622498,
+      "criminal_prob": 0.9851000905036926,
+      "civil_met": true,
+      "criminal_met": false,
+      "mode": "THREAT"
+    },
+    {
+      "epoch": 29,
+      "loss": 0.003489289820815126,
+      "civil_prob": 0.9784595966339111,
+      "criminal_prob": 0.9800721406936646,
+      "civil_met": true,
+      "criminal_met": false,
+      "mode": "THREAT"
+    },
+    {
+      "epoch": 30,
+      "loss": 0.0034170502719158926,
+      "civil_prob": 0.9832960963249207,
+      "criminal_prob": 0.9843829274177551,
+      "civil_met": true,
+      "criminal_met": false,
+      "mode": "THREAT"
+    },
+    {
+      "epoch": 31,
+      "loss": 0.003336280584335327,
+      "civil_prob": 0.9824585318565369,
+      "criminal_prob": 0.9836718440055847,
+      "civil_met": true,
+      "criminal_met": false,
+      "mode": "THREAT"
+    },
+    {
+      "epoch": 32,
+      "loss": 0.00324285503787299,
+      "civil_prob": 0.9829151630401611,
+      "criminal_prob": 0.9840198755264282,
+      "civil_met": true,
+      "criminal_met": false,
+      "mode": "THREAT"
+    },
+    {
+      "epoch": 33,
+      "loss": 0.0031886493476728597,
+      "civil_prob": 0.9856500029563904,
+      "criminal_prob": 0.98661208152771,
+      "civil_met": true,
+      "criminal_met": false,
+      "mode": "THREAT"
+    },
+    {
+      "epoch": 34,
+      "loss": 0.003135431713114182,
+      "civil_prob": 0.9847918748855591,
+      "criminal_prob": 0.9857470989227295,
+      "civil_met": true,
+      "criminal_met": false,
+      "mode": "THREAT"
+    },
+    {
+      "epoch": 35,
+      "loss": 0.0031007257057353854,
+      "civil_prob": 0.9831892251968384,
+      "criminal_prob": 0.9842490553855896,
+      "civil_met": true,
+      "criminal_met": false,
+      "mode": "THREAT"
+    },
+    {
+      "epoch": 36,
+      "loss": 0.00304864013257126,
+      "civil_prob": 0.9798070192337036,
+      "criminal_prob": 0.9808779954910278,
+      "civil_met": true,
+      "criminal_met": false,
+      "mode": "THREAT"
+    },
+    {
+      "epoch": 37,
+      "loss": 0.002975709930372735,
+      "civil_prob": 0.9852730631828308,
+      "criminal_prob": 0.9862400889396667,
+      "civil_met": true,
+      "criminal_met": false,
+      "mode": "THREAT"
+    },
+    {
+      "epoch": 38,
+      "loss": 0.0029212551889941096,
+      "civil_prob": 0.9855238795280457,
+      "criminal_prob": 0.98631751537323,
+      "civil_met": true,
+      "criminal_met": false,
+      "mode": "THREAT"
+    },
+    {
+      "epoch": 39,
+      "loss": 0.0028893941392501197,
+      "civil_prob": 0.9830943942070007,
+      "criminal_prob": 0.9840847253799438,
+      "civil_met": true,
+      "criminal_met": false,
+      "mode": "THREAT"
+    },
+    {
+      "epoch": 40,
+      "loss": 0.0028494142461568117,
+      "civil_prob": 0.9841501116752625,
+      "criminal_prob": 0.9849395751953125,
+      "civil_met": true,
+      "criminal_met": false,
+      "mode": "THREAT"
+    },
+    {
+      "epoch": 41,
+      "loss": 0.0028333404334262013,
+      "civil_prob": 0.9827993512153625,
+      "criminal_prob": 0.9835872054100037,
+      "civil_met": true,
+      "criminal_met": false,
+      "mode": "THREAT"
+    },
+    {
+      "epoch": 42,
+      "loss": 0.0027816976265360913,
+      "civil_prob": 0.9850847125053406,
+      "criminal_prob": 0.985948920249939,
+      "civil_met": true,
+      "criminal_met": false,
+      "mode": "THREAT"
+    },
+    {
+      "epoch": 43,
+      "loss": 0.0027705345613261065,
+      "civil_prob": 0.9858397245407104,
+      "criminal_prob": 0.9866008162498474,
+      "civil_met": true,
+      "criminal_met": false,
+      "mode": "THREAT"
+    },
+    {
+      "epoch": 44,
+      "loss": 0.00271904154215008,
+      "civil_prob": 0.9858928322792053,
+      "criminal_prob": 0.986578106880188,
+      "civil_met": true,
+      "criminal_met": false,
+      "mode": "THREAT"
+    },
+    {
+      "epoch": 45,
+      "loss": 0.002668581126878659,
+      "civil_prob": 0.9828909635543823,
+      "criminal_prob": 0.9836010336875916,
+      "civil_met": true,
+      "criminal_met": false,
+      "mode": "THREAT"
+    },
+    {
+      "epoch": 46,
+      "loss": 0.002639286375294129,
+      "civil_prob": 0.9849454164505005,
+      "criminal_prob": 0.9857316613197327,
+      "civil_met": true,
+      "criminal_met": false,
+      "mode": "THREAT"
+    },
+    {
+      "epoch": 47,
+      "loss": 0.0026212469674646854,
+      "civil_prob": 0.9843596816062927,
+      "criminal_prob": 0.9850652813911438,
+      "civil_met": true,
+      "criminal_met": false,
+      "mode": "THREAT"
+    },
+    {
+      "epoch": 48,
+      "loss": 0.0026188176901390157,
+      "civil_prob": 0.9820730686187744,
+      "criminal_prob": 0.9828684329986572,
+      "civil_met": true,
+      "criminal_met": false,
+      "mode": "THREAT"
+    },
+    {
+      "epoch": 49,
+      "loss": 0.002599694339248041,
+      "civil_prob": 0.9860917925834656,
+      "criminal_prob": 0.986796498298645,
+      "civil_met": true,
+      "criminal_met": false,
+      "mode": "THREAT"
+    },
+    {
+      "epoch": 50,
+      "loss": 0.002576154579098026,
+      "civil_prob": 0.9849681258201599,
+      "criminal_prob": 0.9857531189918518,
+      "civil_met": true,
+      "criminal_met": false,
+      "mode": "THREAT"
+    },
+    {
+      "epoch": 51,
+      "loss": 0.002571567155731221,
+      "civil_prob": 0.9859008193016052,
+      "criminal_prob": 0.9866347908973694,
+      "civil_met": true,
+      "criminal_met": false,
+      "mode": "THREAT"
+    },
+    {
+      "epoch": 52,
+      "loss": 0.0025720015012969575,
+      "civil_prob": 0.986652135848999,
+      "criminal_prob": 0.9873887300491333,
+      "civil_met": true,
+      "criminal_met": false,
+      "mode": "THREAT"
+    },
+    {
+      "epoch": 53,
+      "loss": 0.0025585946859791875,
+      "civil_prob": 0.9867740869522095,
+      "criminal_prob": 0.9874574542045593,
+      "civil_met": true,
+      "criminal_met": false,
+      "mode": "THREAT"
+    },
+    {
+      "epoch": 54,
+      "loss": 0.0024864107059935727,
+      "civil_prob": 0.9855300188064575,
+      "criminal_prob": 0.9862041473388672,
+      "civil_met": true,
+      "criminal_met": false,
+      "mode": "THREAT"
+    },
+    {
+      "epoch": 55,
+      "loss": 0.002499502928306659,
+      "civil_prob": 0.9843015074729919,
+      "criminal_prob": 0.9850305914878845,
+      "civil_met": true,
+      "criminal_met": false,
+      "mode": "THREAT"
+    },
+    {
+      "epoch": 56,
+      "loss": 0.0024994980388631425,
+      "civil_prob": 0.9877267479896545,
+      "criminal_prob": 0.9883394241333008,
+      "civil_met": true,
+      "criminal_met": false,
+      "mode": "THREAT"
+    },
+    {
+      "epoch": 57,
+      "loss": 0.002464291212769846,
+      "civil_prob": 0.986179530620575,
+      "criminal_prob": 0.9868152141571045,
+      "civil_met": true,
+      "criminal_met": false,
+      "mode": "THREAT"
+    },
+    {
+      "epoch": 58,
+      "loss": 0.0024542618387689195,
+      "civil_prob": 0.9821465611457825,
+      "criminal_prob": 0.9828583002090454,
+      "civil_met": true,
+      "criminal_met": false,
+      "mode": "THREAT"
+    },
+    {
+      "epoch": 59,
+      "loss": 0.002455867400082449,
+      "civil_prob": 0.9851460456848145,
+      "criminal_prob": 0.9857954978942871,
+      "civil_met": true,
+      "criminal_met": false,
+      "mode": "THREAT"
+    },
+    {
+      "epoch": 60,
+      "loss": 0.002423147903755307,
+      "civil_prob": 0.9856452345848083,
+      "criminal_prob": 0.9863053560256958,
+      "civil_met": true,
+      "criminal_met": false,
+      "mode": "THREAT"
+    },
+    {
+      "epoch": 61,
+      "loss": 0.0024736231037726006,
+      "civil_prob": 0.9873039126396179,
+      "criminal_prob": 0.9878720045089722,
+      "civil_met": true,
+      "criminal_met": false,
+      "mode": "THREAT"
+    },
+    {
+      "epoch": 62,
+      "loss": 0.0024498100004469356,
+      "civil_prob": 0.9899482727050781,
+      "criminal_prob": 0.9904696345329285,
+      "civil_met": true,
+      "criminal_met": false,
+      "mode": "THREAT"
+    },
+    {
+      "epoch": 63,
+      "loss": 0.002453326635683576,
+      "civil_prob": 0.9889850616455078,
+      "criminal_prob": 0.9895428419113159,
+      "civil_met": true,
+      "criminal_met": false,
+      "mode": "THREAT"
+    },
+    {
+      "epoch": 64,
+      "loss": 0.0023946060488621392,
+      "civil_prob": 0.985844612121582,
+      "criminal_prob": 0.9864245653152466,
+      "civil_met": true,
+      "criminal_met": false,
+      "mode": "THREAT"
+    },
+    {
+      "epoch": 65,
+      "loss": 0.002411029728439947,
+      "civil_prob": 0.9866792559623718,
+      "criminal_prob": 0.9872146844863892,
+      "civil_met": true,
+      "criminal_met": false,
+      "mode": "THREAT"
+    },
+    {
+      "epoch": 66,
+      "loss": 0.0023953004274517298,
+      "civil_prob": 0.9876618385314941,
+      "criminal_prob": 0.988170862197876,
+      "civil_met": true,
+      "criminal_met": false,
+      "mode": "THREAT"
+    },
+    {
+      "epoch": 67,
+      "loss": 0.0023966886025543013,
+      "civil_prob": 0.98015296459198,
+      "criminal_prob": 0.9807114005088806,
+      "civil_met": true,
+      "criminal_met": false,
+      "mode": "THREAT"
+    },
+    {
+      "epoch": 68,
+      "loss": 0.002366119025585552,
+      "civil_prob": 0.9864102005958557,
+      "criminal_prob": 0.9869126081466675,
+      "civil_met": true,
+      "criminal_met": false,
+      "mode": "THREAT"
+    },
+    {
+      "epoch": 69,
+      "loss": 0.002362600488898655,
+      "civil_prob": 0.9869215488433838,
+      "criminal_prob": 0.9874132871627808,
+      "civil_met": true,
+      "criminal_met": false,
+      "mode": "THREAT"
+    },
+    {
+      "epoch": 70,
+      "loss": 0.002355204662308097,
+      "civil_prob": 0.9879004955291748,
+      "criminal_prob": 0.9883606433868408,
+      "civil_met": true,
+      "criminal_met": false,
+      "mode": "THREAT"
+    },
+    {
+      "epoch": 71,
+      "loss": 0.002352427070339521,
+      "civil_prob": 0.985159695148468,
+      "criminal_prob": 0.9856471419334412,
+      "civil_met": true,
+      "criminal_met": false,
+      "mode": "THREAT"
+    },
+    {
+      "epoch": 72,
+      "loss": 0.0023584335576742887,
+      "civil_prob": 0.9878202676773071,
+      "criminal_prob": 0.9882774949073792,
+      "civil_met": true,
+      "criminal_met": false,
+      "mode": "THREAT"
+    },
+    {
+      "epoch": 73,
+      "loss": 0.0023568818190445504,
+      "civil_prob": 0.9883058667182922,
+      "criminal_prob": 0.9887545108795166,
+      "civil_met": true,
+      "criminal_met": false,
+      "mode": "THREAT"
+    },
+    {
+      "epoch": 74,
+      "loss": 0.002329160110093653,
+      "civil_prob": 0.9863916635513306,
+      "criminal_prob": 0.9868378043174744,
+      "civil_met": true,
+      "criminal_met": false,
+      "mode": "THREAT"
+    },
+    {
+      "epoch": 75,
+      "loss": 0.00233364167312781,
+      "civil_prob": 0.9863800406455994,
+      "criminal_prob": 0.9868232011795044,
+      "civil_met": true,
+      "criminal_met": false,
+      "mode": "THREAT"
+    },
+    {
+      "epoch": 76,
+      "loss": 0.0023357426204408207,
+      "civil_prob": 0.9885786771774292,
+      "criminal_prob": 0.9890060424804688,
+      "civil_met": true,
+      "criminal_met": false,
+      "mode": "THREAT"
+    },
+    {
+      "epoch": 77,
+      "loss": 0.0023512384310985603,
+      "civil_prob": 0.9871679544448853,
+      "criminal_prob": 0.9876171946525574,
+      "civil_met": true,
+      "criminal_met": false,
+      "mode": "THREAT"
+    },
+    {
+      "epoch": 78,
+      "loss": 0.0023550381883978844,
+      "civil_prob": 0.9859165549278259,
+      "criminal_prob": 0.9863568544387817,
+      "civil_met": true,
+      "criminal_met": false,
+      "mode": "THREAT"
+    },
+    {
+      "epoch": 79,
+      "loss": 0.00232036504894495,
+      "civil_prob": 0.9858733415603638,
+      "criminal_prob": 0.9862723350524902,
+      "civil_met": true,
+      "criminal_met": false,
+      "mode": "THREAT"
+    },
+    {
+      "epoch": 80,
+      "loss": 0.0023181516832361617,
+      "civil_prob": 0.9846048951148987,
+      "criminal_prob": 0.9850091934204102,
+      "civil_met": true,
+      "criminal_met": false,
+      "mode": "THREAT"
+    },
+    {
+      "epoch": 81,
+      "loss": 0.002304192011555036,
+      "civil_prob": 0.9857153296470642,
+      "criminal_prob": 0.9860943555831909,
+      "civil_met": true,
+      "criminal_met": false,
+      "mode": "THREAT"
+    },
+    {
+      "epoch": 82,
+      "loss": 0.0023366266395896673,
+      "civil_prob": 0.9866176247596741,
+      "criminal_prob": 0.9869974851608276,
+      "civil_met": true,
+      "criminal_met": false,
+      "mode": "THREAT"
+    },
+    {
+      "epoch": 83,
+      "loss": 0.002345080797870954,
+      "civil_prob": 0.9888257384300232,
+      "criminal_prob": 0.989202082157135,
+      "civil_met": true,
+      "criminal_met": false,
+      "mode": "THREAT"
+    },
+    {
+      "epoch": 84,
+      "loss": 0.0023187277062485614,
+      "civil_prob": 0.9887173175811768,
+      "criminal_prob": 0.9890668392181396,
+      "civil_met": true,
+      "criminal_met": false,
+      "mode": "THREAT"
+    },
+    {
+      "epoch": 85,
+      "loss": 0.0023092612779388824,
+      "civil_prob": 0.9864453673362732,
+      "criminal_prob": 0.9867895245552063,
+      "civil_met": true,
+      "criminal_met": false,
+      "mode": "THREAT"
+    },
+    {
+      "epoch": 86,
+      "loss": 0.0023319708028187356,
+      "civil_prob": 0.9892487525939941,
+      "criminal_prob": 0.9895920753479004,
+      "civil_met": true,
+      "criminal_met": false,
+      "mode": "THREAT"
+    },
+    {
+      "epoch": 87,
+      "loss": 0.002318053040653467,
+      "civil_prob": 0.9878389835357666,
+      "criminal_prob": 0.9881719946861267,
+      "civil_met": true,
+      "criminal_met": false,
+      "mode": "THREAT"
+    },
+    {
+      "epoch": 88,
+      "loss": 0.0023004704465468726,
+      "civil_prob": 0.9879027009010315,
+      "criminal_prob": 0.9882118105888367,
+      "civil_met": true,
+      "criminal_met": false,
+      "mode": "THREAT"
+    },
+    {
+      "epoch": 89,
+      "loss": 0.002331313483106593,
+      "civil_prob": 0.987854540348053,
+      "criminal_prob": 0.9881564378738403,
+      "civil_met": true,
+      "criminal_met": false,
+      "mode": "THREAT"
+    },
+    {
+      "epoch": 90,
+      "loss": 0.002304835089792808,
+      "civil_prob": 0.9893697500228882,
+      "criminal_prob": 0.9896635413169861,
+      "civil_met": true,
+      "criminal_met": false,
+      "mode": "THREAT"
+    },
+    {
+      "epoch": 91,
+      "loss": 0.0022888281382620335,
+      "civil_prob": 0.9861430525779724,
+      "criminal_prob": 0.9864316582679749,
+      "civil_met": true,
+      "criminal_met": false,
+      "mode": "THREAT"
+    },
+    {
+      "epoch": 92,
+      "loss": 0.0023312130166838565,
+      "civil_prob": 0.9885563254356384,
+      "criminal_prob": 0.9888367652893066,
+      "civil_met": true,
+      "criminal_met": false,
+      "mode": "THREAT"
+    },
+    {
+      "epoch": 93,
+      "loss": 0.0023266331603129706,
+      "civil_prob": 0.9882041215896606,
+      "criminal_prob": 0.9884970188140869,
+      "civil_met": true,
+      "criminal_met": false,
+      "mode": "THREAT"
+    },
+    {
+      "epoch": 94,
+      "loss": 0.0023053784000997743,
+      "civil_prob": 0.9878174662590027,
+      "criminal_prob": 0.9880951642990112,
+      "civil_met": true,
+      "criminal_met": false,
+      "mode": "THREAT"
+    },
+    {
+      "epoch": 95,
+      "loss": 0.00231642194557935,
+      "civil_prob": 0.9886720180511475,
+      "criminal_prob": 0.9889475107192993,
+      "civil_met": true,
+      "criminal_met": false,
+      "mode": "THREAT"
+    },
+    {
+      "epoch": 96,
+      "loss": 0.0023012621871506176,
+      "civil_prob": 0.9893921613693237,
+      "criminal_prob": 0.9896501302719116,
+      "civil_met": true,
+      "criminal_met": false,
+      "mode": "THREAT"
+    },
+    {
+      "epoch": 97,
+      "loss": 0.002287774890040358,
+      "civil_prob": 0.9845170378684998,
+      "criminal_prob": 0.9847548007965088,
+      "civil_met": true,
+      "criminal_met": false,
+      "mode": "THREAT"
+    },
+    {
+      "epoch": 98,
+      "loss": 0.0022968361154198647,
+      "civil_prob": 0.9872862696647644,
+      "criminal_prob": 0.987550675868988,
+      "civil_met": true,
+      "criminal_met": false,
+      "mode": "THREAT"
+    },
+    {
+      "epoch": 99,
+      "loss": 0.0023200491753717265,
+      "civil_prob": 0.9859258532524109,
+      "criminal_prob": 0.9861981272697449,
+      "civil_met": true,
+      "criminal_met": false,
+      "mode": "THREAT"
+    },
+    {
+      "epoch": 100,
+      "loss": 0.0023255973355844617,
+      "civil_prob": 0.988267719745636,
+      "criminal_prob": 0.9885262250900269,
+      "civil_met": true,
+      "criminal_met": false,
+      "mode": "THREAT"
+    }
+  ],
+  "final_verdict": {
+    "civil_probability": 0.9885575771331787,
+    "criminal_probability": 0.9888163805007935,
+    "civil_threshold": 0.5,
+    "criminal_threshold": 0.95,
+    "civil_met": true,
+    "criminal_met": true
+  },
+  "attribution": {
+    "civil_attribution": {
+      "Temporal": 0.07461541891098022,
+      "Financial": 0.0685444325208664,
+      "Documentary": 0.07756553590297699,
+      "Testimonial": 0.050659552216529846,
+      "Forensic": 0.07189051061868668,
+      "Relational/Intentional": 0.07810208201408386
+    },
+    "criminal_attribution": {
+      "Temporal": 0.07611727714538574,
+      "Financial": 0.06992407143115997,
+      "Documentary": 0.07912677526473999,
+      "Testimonial": 0.05167922005057335,
+      "Forensic": 0.07333752512931824,
+      "Relational/Intentional": 0.07967410981655121
+    }
+  },
+  "filing_scores": {
+    "Civil Action (s163 Oppression)": {
+      "evidence_strength": 0.9132,
+      "burden_threshold": 0.5,
+      "burden_met": true,
+      "gap": 0
+    },
+    "CIPC Companies Act Complaint": {
+      "evidence_strength": 0.9249,
+      "burden_threshold": 0.5,
+      "burden_met": true,
+      "gap": 0
+    },
+    "POPIA Criminal Complaint": {
+      "evidence_strength": 0.9402,
+      "burden_threshold": 0.95,
+      "burden_met": false,
+      "gap": 0.0098
+    },
+    "Commercial Crime Submission": {
+      "evidence_strength": 0.92,
+      "burden_threshold": 0.95,
+      "burden_met": false,
+      "gap": 0.03
+    },
+    "NPA Tax Fraud Report": {
+      "evidence_strength": 0.9175,
+      "burden_threshold": 0.95,
+      "burden_met": false,
+      "gap": 0.0325
+    },
+    "FIC Suspicious Transaction Report": {
+      "evidence_strength": 0.8958,
+      "burden_threshold": 0.5,
+      "burden_met": true,
+      "gap": 0
+    },
+    "Professional Misconduct (Bantjies)": {
+      "evidence_strength": 0.9291,
+      "burden_threshold": 0.5,
+      "burden_met": true,
+      "gap": 0
+    }
+  }
+}

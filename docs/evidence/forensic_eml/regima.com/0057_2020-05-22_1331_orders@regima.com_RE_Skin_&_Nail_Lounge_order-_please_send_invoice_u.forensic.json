@@ -1,0 +1,67 @@
+{
+  "_schema": "exchange-forensic-eml/v1",
+  "_generated": "2026-03-10T03:53:02.950801+00:00",
+  "_source": "neon-exchange-sync",
+  "file_integrity": {
+    "eml_file": "/home/ubuntu/revstream1/docs/evidence/forensic_eml/regima.com/0057_2020-05-22_1331_orders@regima.com_RE_Skin_&_Nail_Lounge_order-_please_send_invoice_u.eml",
+    "file_size_bytes": 1031,
+    "md5": "502726ae45e0ee2af3fbbe3ce5e2f524",
+    "sha1": "b358c0952e4229db78010edd41f6967bb29eafe6",
+    "sha256": "78ce31e47af0013c708d516e5bcf45123738551876766508ed8ac40d24b859c6"
+  },
+  "message_identity": {
+    "exchange_sync_id": "AAMkADkzY2U4OTQyLTZjNzAtNGRlNi1iMjk1LWQwNWNjYzIyODQ5YgBGAAAAAAADECMUPsw5TaA2pA0VUIqNBwCR-svwgFxkSomVNqCc6-zPAAAAAAEMAACR-svwgFxkSomVNqCc6-zPAAVOmky-AAA=",
+    "internet_message_id": "<016c01d6301e$c2192bf0$464b83d0$@regima.com>",
+    "conversation_id": "AAQkADkzY2U4OTQyLTZjNzAtNGRlNi1iMjk1LWQwNWNjYzIyODQ5YgAQAO4rDSMdTmgBgK3ecOwyLQ8="
+  },
+  "envelope": {
+    "subject": "RE: Skin & Nail Lounge order- please send invoice urgent - Proof of payment WWD0275 ",
+    "from_name": "orders@regima.com",
+    "from_address": "orders@regima.com",
+    "to_recipients": [
+      {
+        "name": "manager@skinandnaillounge.co.za",
+        "address": "manager@skinandnaillounge.co.za"
+      }
+    ],
+    "cc_recipients": [
+      {
+        "name": "'Peter Andrew Faucitt'",
+        "address": "pete@regima.com"
+      },
+      {
+        "name": "Jacqui Faucitt",
+        "address": "jax@regima.zone"
+      },
+      {
+        "name": "Bernadine Wright",
+        "address": "bern@regima.zone"
+      },
+      {
+        "name": "Rynette Farrar",
+        "address": "rynette@regima.zone"
+      },
+      {
+        "name": "Kayla Pretorius",
+        "address": "kayla@regima.zone"
+      },
+      {
+        "name": "'Philippa Abbott'",
+        "address": "philippa@spasense.co.za"
+      }
+    ],
+    "received_datetime": "2020-05-22 13:31:22+00:00"
+  },
+  "mailbox_context": {
+    "user_email": "kayla@regima.zone",
+    "user_name": "Kayla Pretorius",
+    "folder_name": "Inbox",
+    "folder_id": "AQMkADkzY2U4OTQyLTZjNzAtNGRlNi1iMjk1LWQwNWNjATIyADg0OWIALgAAAwMQIxQ_zDlNoDakDRVQio0BAJH_y-CAXGRKiZU2oJzr-M8AAAIBDAAAAA=="
+  },
+  "body": {
+    "content_type": null,
+    "preview": "Hi Cindy\r\n\r\nDue to lockdown regulations, no collections can take place form Head Office.\r\n\r\nWe will you know as soon as your order is ready for collection for our Logistics Warehouse, Parcel Ninja.\r\n\r\nKind Regards\r\nKent\r\n\r\nFrom: manager@skinandnaillounge.",
+    "body_length_chars": 0
+  },
+  "attachments": []
+}

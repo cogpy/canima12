@@ -1,0 +1,53 @@
+{
+  "_schema": "exoml-forensic/v1",
+  "_generated": "2026-03-10T08:04:24.992572+00:00",
+  "file_integrity": {
+    "eml_file": "rzo.io/0014_2022-01-10_1334_d@rzo.io_RE__Introduction_-_CHRIS_COMPUTER_-_CITSCC.eml",
+    "file_size_bytes": 32588,
+    "md5": "edba581c2909d35ad53d1436286c7150",
+    "sha1": "7a06c334aab570fefa2003a78ce90437276dcb12",
+    "sha256": "5396e342cd348628ac916a395afedfcf47d90f2647a4c196a0f328972ac23f7d"
+  },
+  "message_identity": {
+    "db_id": 542,
+    "exchange_message_id": "AAMkAGE2YjljZjA1LTRlOWUtNDhjYi1iZjNkLWI4ZWRlNDQwYTU0MABGAAAAAADPgXCfMl5uRqA6Xxa9Yh33BwAh607i92PMQLMLAH3HB5h5AAAAAAEJAAAh607i92PMQLMLAH3HB5h5AAW6DE7aAAA=",
+    "conversation_id": "AAQkAGE2YjljZjA1LTRlOWUtNDhjYi1iZjNkLWI4ZWRlNDQwYTU0MAAQAK5wyz1kZEkOna__hjT0MCw="
+  },
+  "envelope": {
+    "subject": "RE: Introduction  -  CHRIS COMPUTER - CITSCC",
+    "from_name": "Daniel Faucitt",
+    "from_address": "d@rzo.io",
+    "to_recipients": [
+      {
+        "emailAddress": {
+          "name": "Kayla Pretorius",
+          "address": "kayla@regima.zone"
+        }
+      },
+      {
+        "emailAddress": {
+          "name": "Jacqui Faucitt",
+          "address": "jax@regima.zone"
+        }
+      },
+      {
+        "emailAddress": {
+          "name": "Rynette Farrar",
+          "address": "rynette@regima.zone"
+        }
+      }
+    ],
+    "cc_recipients": [],
+    "received_datetime": "2022-01-10 13:34:00"
+  },
+  "mailbox_context": {
+    "user_email": "d@rzo.io",
+    "user_name": "Daniel Faucitt"
+  },
+  "body": {
+    "content_type": "html",
+    "preview": "..also – we have a license under ReZ partner for our own Exchange server to host locally maybe we set that up in parallel to keep a copy of all our stuff on one of our own servers\r\n\r\nFrom: Kayla Pretorius <kayla@regima.zone>\r\nSent: 10 January 2022 14:56",
+    "body_length_chars": 23431
+  },
+  "attachments": []
+}

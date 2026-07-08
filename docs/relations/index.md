@@ -1,0 +1,76 @@
+---
+layout: default
+title: Relations Index
+---
+
+# Relations Index
+
+**Last Updated:** 2026-06-08
+
+> **Cycle 15 Good Shape Correction (2026-05-19):** The new [Shopify Order Rerouting to Pastel relation](./SHOPIFY_PASTEL_ROUTING_2026_05_19.md) links EVENT_009 to platform ownership, Pastel/Sage reconciliation, practical audit-trail severance, and forum-specific burden gradients.
+>
+> **Cycle 18.5 Funding Conflict Update (2026-06-08):** [RST → Elliott Attorneys Legal-Funding Conflict Pattern](./RST_ELLIOTT_LEGAL_FUNDING_CONFLICT_2026-06-08.md) links RST payments, Elliott Attorneys’ litigation posture, and mandate/conflict-check disclosure issues arising from [EVENT_181](../events/EVENT_181.md).
+>
+> **Cycle 10 Judicial Closure Note (2026-05-11):** The [March 2026 Contempt-to-Appeal Cluster](./MARCH_2026_CONTEMPT_APPEAL_CLUSTER.md) now includes the 4 May 2026 leave-to-appeal judgment, the [Cycle 10 KSM-LEX-DGen-Alexander report](../reports/KSM_LEX_ALEXANDER_CYCLE10_2026-05-11.md), and the [Conduct-Contrast Schedule](../analysis/ksm-cycle10/CONDUCT_CONTRAST_SCHEDULE_2026-05-11.md). Use these surfaces to distinguish allegation, proof, judicial holding, and forum-specific filing burden.
+
+> **Refinement Note (2026-04-14):** Relation pages should now preferentially cite the normalized entity records introduced in the 2026-04-14 refinement cycle: **PERSON_006** for Linda Kruger, **ORG_017** for Ketoni, **ORG_019** for Pottas Attorneys, **ORG_006** for the operating RegimA SA victim stream, and **ORG_014** for the legal company-record view. See the [Entity, Relation, Event, and Timeline Refinement Report](../reports/ENTITY_RELATION_EVENT_TIMELINE_REFINEMENT_2026-04-14.md).
+
+
+| ID | Title | Entities | Evidence |
+|----|-------|----------|----------|
+| APPEAL_STAGE_REPRESENTATION_2026_03_30 | [Appeal-Stage Representation Mapping — 30 March 2026](./APPEAL_STAGE_REPRESENTATION_2026_03_30.md) | PERSON_001, PERSON_004, PERSON_005, ORG_019, ORG_020, ORG_031 | KF0019 leave-to-appeal notice |
+| AYMAC_KAYLOVEST_ELLIOTT_NETWORK | [Aymac-Kaylovest-Elliott Network](./AYMAC_KAYLOVEST_ELLIOTT_NETWORK.md) | PERSON_001, PERSON_002, ORG_026, ORG_027, ORG_028, ORG_002 |  |
+| BACKDATED_ENTRIES | [Backdated Journal Entries — 2021 Forgery](./BACKDATED_ENTRIES.md) |  |  |
+| BANKING_MANDATE_FRAUD | [Banking Mandate Fraud Network](./BANKING_MANDATE_FRAUD.md) | PERSON_001, PERSON_002, PERSON_005, BANK_001 | EVENT107, SF10, SF11 |
+| BANTJIES_FALSE_INDEPENDENCE | [Bantjies False Independence Declaration](./BANTJIES_FALSE_INDEPENDENCE.md) |  |  |
+| CONTEMPT_RELATIONS_2026_02_09 | [Contempt Proceedings Relations Map](./CONTEMPT_RELATIONS_2026_02_09.md) |  | EVENT060, EVENT095, EVENT096, EVENT097, EVENT098, EVENT099, EVENT100, EVENT101 |
+| COORDINATED_RETALIATION | [Coordinated Retaliation Pattern](./COORDINATED_RETALIATION.md) |  | SF10, SF11 |
+| DOMAIN_IDENTITY_FRAUD | [Domain & Digital Identity Fraud](./DOMAIN_IDENTITY_FRAUD.md) |  | EVENT105, EVENT107, EVENT113, SF10 |
+| DUAL_CORPORATE_IDENTITY | [Relation: Dual Corporate Identity — Kaylovest Three / Villa Via](./DUAL_CORPORATE_IDENTITY.md) | ORG_005, ORG_027 | EVENT106, EVENT124 |
+| ELLIOTT_ATTORNEYS_PROTECTION | [Elliott Attorneys — Non-Party Protection](./ELLIOTT_ATTORNEYS_PROTECTION.md) |  | SF13 |
+| FORGERY_BACKDATING_RELATIONS_2026_02_18 | [Forgery & Backdating Relations — Two-Date Distinction](./FORGERY_BACKDATING_RELATIONS_2026_02_18.md) | PERSON_002, PERSON_007 | EVENT049, EVENT063, EVENT103, EVENT104, EVENT105, SF15 |
+| IDENTITY_FRAUD_NETWORK | [Relation: Identity Fraud Network](./IDENTITY_FRAUD_NETWORK.md) |  | EVENT103, EVENT105, EVENT107, EVENT108, EVENT113, SF10 |
+| INTERCOMPANY_FRAUD | [Intercompany Fraud Network](./INTERCOMPANY_FRAUD.md) |  |  |
+| INTERDICT_VOID_AB_INITIO | [Interdict Void Ab Initio — Complete Analysis](./INTERDICT_VOID_AB_INITIO.md) |  |  |
+| KETONI_FUND_FLOW_COMPLETE | [Ketoni Fund Flow — Complete Architecture](./KETONI_FUND_FLOW_COMPLETE.md) |  |  |
+| KETONI_INSIDER_TRADING_NETWORK | [Relation: Ketoni Insider Trading Network](./KETONI_INSIDER_TRADING_NETWORK.md) | PERSON_007, PERSON_001, PERSON_002, PERSON_015, ORG_016, TRUST_001 | EVENT103, EVENT117, EVENT119 |
+| LEX_SIM_NN_ATTRIBUTION_2026_03_10 | [LEX-SIM-NN Evidence Attribution Relations](./LEX_SIM_NN_ATTRIBUTION_2026_03_10.md) |  |  |
+| MAILBOX_EVIDENCE_RELATIONS_2026_02_09 | [Relations from Mailbox Evidence (2026-02-09)](./MAILBOX_EVIDENCE_RELATIONS_2026_02_09.md) |  |  |
+| MARCH_2026_CONTEMPT_APPEAL_CLUSTER | [March 2026 Contempt-to-Appeal Cluster](./MARCH_2026_CONTEMPT_APPEAL_CLUSTER.md) | PERSON_001, PERSON_004, PERSON_005, ORG_001, ORG_002, ORG_003, ORG_004, ORG_020 | Labuschagne contempt judgment, KF0019 leave-to-appeal notice, 4 May 2026 leave-to-appeal judgment, Cycle 10 conduct-contrast schedule |
+| MANUFACTURE_ADMISSION | [Bantjies "Manufacture" Admission](./MANUFACTURE_ADMISSION.md) |  | EVENT119 |
+| PETER_R10_6M_EXTRACTION | [Peter's R10.6M Post-Interdict Extraction](./PETER_R10_6M_EXTRACTION.md) |  |  |
+| REL_037 | [REL_037: Unauthorized Access to Tax Records](./REL_037.md) | PERSON_001, PERSON_002, PLATFORM_002 | EVENT174 |
+| REL_038 | [REL_038: Deliberate API Severance](./REL_038.md) | PERSON_001, PERSON_002, PLATFORM_003 | EVENT175 |
+| REVENUE_HIJACKING_CHAIN | [Relation: Revenue Hijacking Chain](./REVENUE_HIJACKING_CHAIN.md) | PERSON_002, PERSON_020, PERSON_021, PERSON_001, PERSON_007, BANK_ACCOUNT_ABSA | EVENT114, EVENT115, EVENT119, EVENT121, SF10 |
+| REZONANCE_DEBT_FABRICATION | [ReZonance Debt Fabrication](./REZONANCE_DEBT_FABRICATION.md) |  |  |
+| RULE_30_DATING_ANOMALY | [Rule 30/30A Dating Anomaly — Elliott Attorneys](./RULE_30_DATING_ANOMALY.md) |  | EVENT103, EVENT132 |
+| RST_ELLIOTT_LEGAL_FUNDING_CONFLICT_2026-06-08 | [RST → Elliott Attorneys Legal-Funding Conflict Pattern](./RST_ELLIOTT_LEGAL_FUNDING_CONFLICT_2026-06-08.md) | ORG_002, ORG_020, PERSON_001, PERSON_004, PERSON_002 | EVENT_181; ABSA payment extract |
+| RYNETTE_BANTJIES_CONSPIRACY_2026_03_07 | [Rynette Farrar — Daniel Bantjies: Coordinated Conspiracy Relations](./RYNETTE_BANTJIES_CONSPIRACY_2026_03_07.md) |  | EVENT103, EVENT114, EVENT115, EVENT116, EVENT117, EVENT119, EVENT120 |
+| SAGE_SYSTEM_CAPTURE | [Sage Accounting System Capture](./SAGE_SYSTEM_CAPTURE.md) |  | EVENT105, EVENT110, SF11 |
+| SARS_CREDENTIAL_ABUSE | [SARS Credential Abuse Network](./SARS_CREDENTIAL_ABUSE.md) |  | EVENT103, EVENT107 |
+| SARS_FLAGGED_INVOICES | [SARS Flagged Invoices — February 2025](./SARS_FLAGGED_INVOICES.md) |  | EVENT126 |
+| SHOPIFY_PASTEL_ROUTING_2026_05_19 | [Shopify Order Rerouting to Pastel](./SHOPIFY_PASTEL_ROUTING_2026_05_19.md) | PLATFORM_001, RegimA Zone Ltd, Pastel/Sage pathway, legitimate directors | EVENT_009, Cycle 15 correction matrix |
+| STOCK2SHOP_DISRUPTION | [Stock2Shop Platform Disruption](./STOCK2SHOP_DISRUPTION.md) |  |  |
+| STOCK_ADJUSTMENT_FRAUD | [Stock Adjustment Fraud — R4.2M Discrepancy](./STOCK_ADJUSTMENT_FRAUD.md) |  |  |
+| TRUST_CAPTURE_SEQUENCE | [Relation: Trust Capture Sequence](./TRUST_CAPTURE_SEQUENCE.md) |  | EVENT103, EVENT104, EVENT105, EVENT107, EVENT108, EVENT114, EVENT115, EVENT117, SF15 |
+| VILLA_VIA_KAYLOVEST_IDENTITY | [Villa Via Arcadia No 2 CC and Kaylovest Three (Pty) Ltd — Dual Entity Under Same Base Number](./VILLA_VIA_KAYLOVEST_IDENTITY.md) | ORG_005, ORG_027, PERSON_001 | EVENT106 |
+| VILLA_VIA_PROFIT_EXTRACTION | [Villa Via Profit Extraction Scheme](./VILLA_VIA_PROFIT_EXTRACTION.md) |  | EVENT124 |
+| director_of | [Director Of Relations](./director_of.md) | PERSON_001, ORG_001, PERSON_001, ORG_002, PERSON_001, ORG_004, PERSON_001, ORG_006, PERSON_004, ORG_001, PERSON_005, ORG_001, PERSON_005, ORG_003, PERSON_005, ORG_008, PERSON_013, ORG_008, PERSON_014, ORG_017, PERSON_014, ORG_018 |  |
+| financial_flow | [Financial Flow Relations](./financial_flow.md) | ORG_002, ORG_008, ORG_017, TRUST_001, ORG_001, BANK_ACCOUNT_ABSA | SF12 |
+| sabotage_framing_link | [Sabotage-Framing Link Relation](./sabotage_framing_link.md) |  | EVENT110 |
+| shareholder_of | [Shareholder Of Relations](./shareholder_of.md) | TRUST_001, ORG_001, TRUST_001, ORG_017, PERSON_005, ORG_003, PERSON_005, ORG_008, PERSON_013, ORG_008 |  |
+| trustee_of | [Trustee Of Relations](./trustee_of.md) | PERSON_001, TRUST_001, PERSON_004, TRUST_001, PERSON_007, TRUST_001 | SF15 |
+
+---
+
+## v35 New Relations (2026-07-06)
+
+| Relation | Type | Entities | Evidence Strength | Link |
+|----------|------|----------|-------------------|------|
+| **RST-Elliott Legal Funding Conflict** | funds_adversarial_litigation | RST → Elliott Attorneys | 95% | [REL_RST_ELLIOTT_CONFLICT](./REL_RST_ELLIOTT_CONFLICT.md) |
+| **Peter's Self-Contradicting Admission Chain** | self_contradiction | Peter → Peter | 98% | [REL_PETER_ADMISSION_CHAIN](./REL_PETER_ADMISSION_CHAIN.md) |
+| **Case 2026-115880 Number Collision** | procedural_anomaly | Peter → Jax | 90% | [REL_CASE_NUMBER_COLLISION](./REL_CASE_NUMBER_COLLISION.md) |
+| **Mazars Engagement Under Peter's Control** | controlled_engagement | Peter → Mazars | 92% | [REL_MAZARS_ENGAGEMENT_ANOMALY](./REL_MAZARS_ENGAGEMENT_ANOMALY.md) |
+
+---
+*Last updated: 2026-07-06 by /skill-genesis(/iterative-micro-improvement) pipeline.*

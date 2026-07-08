@@ -1,0 +1,142 @@
+{
+  "_schema": "exoml-forensic/v1",
+  "_generated": "2026-03-10T08:04:25.187405+00:00",
+  "file_integrity": {
+    "eml_file": "rzo.io/0016_2022-02-01_0423_d@rzo.io_Miles_Smit_-_SALCO_-_Signed_Waybill_Records.eml",
+    "file_size_bytes": 164395,
+    "md5": "51423456bec93f7619afb72ae3b5e677",
+    "sha1": "3614f89f1d628373f1c7a969e8e8fc18b0a76c9c",
+    "sha256": "be856963caddfdb369f3776a6217599a7f9263beb3f9d52ecf1f73e03972f806"
+  },
+  "message_identity": {
+    "db_id": 532,
+    "exchange_message_id": "AAMkAGE2YjljZjA1LTRlOWUtNDhjYi1iZjNkLWI4ZWRlNDQwYTU0MABGAAAAAADPgXCfMl5uRqA6Xxa9Yh33BwAh607i92PMQLMLAH3HB5h5AAAAAAEJAAAh607i92PMQLMLAH3HB5h5AAXH5SNKAAA=",
+    "conversation_id": "AAQkAGE2YjljZjA1LTRlOWUtNDhjYi1iZjNkLWI4ZWRlNDQwYTU0MAAQAHi501XLpExSpZjYS8P2yIo="
+  },
+  "envelope": {
+    "subject": "Miles Smit - SALCO - Signed Waybill Records",
+    "from_name": "Daniel Faucitt",
+    "from_address": "d@rzo.io",
+    "to_recipients": [
+      {
+        "emailAddress": {
+          "name": "jax@regima.zone",
+          "address": "jax@regima.zone"
+        }
+      }
+    ],
+    "cc_recipients": [
+      {
+        "emailAddress": {
+          "name": "Peter Andrew Faucitt",
+          "address": "PETE@REGIMA.COM"
+        }
+      },
+      {
+        "emailAddress": {
+          "name": "Kayla Pretorius",
+          "address": "k@rzo.io"
+        }
+      },
+      {
+        "emailAddress": {
+          "name": "Kay Pretorius",
+          "address": "kayp@rzo.io"
+        }
+      },
+      {
+        "emailAddress": {
+          "name": "Rynette Farrar",
+          "address": "rynette@regima.zone"
+        }
+      },
+      {
+        "emailAddress": {
+          "name": "Daniel Faucitt",
+          "address": "d@rzo.io"
+        }
+      },
+      {
+        "emailAddress": {
+          "name": "Daniel Faucitt",
+          "address": "dan@regima.zone"
+        }
+      }
+    ],
+    "received_datetime": "2022-02-01 04:23:00"
+  },
+  "mailbox_context": {
+    "user_email": "d@rzo.io",
+    "user_name": "Daniel Faucitt"
+  },
+  "body": {
+    "content_type": "html",
+    "preview": "Here are the scans of the signed delivery waybills along with summary lists in Word & Excel..",
+    "body_length_chars": 910
+  },
+  "attachments": [
+    {
+      "name": "KCH-1586-637792822762653855.pdf",
+      "content_type": "application/pdf",
+      "size_bytes": 21264,
+      "is_inline": false,
+      "has_content": true,
+      "md5": "4783545b040b6ae4979e2b7811430399",
+      "sha256": "d5d48aea0cdf045dc45245524620ceaf4770b3275b1fd1d4ce619958cb717d3a"
+    },
+    {
+      "name": "KCH-1643-637792825353320410.pdf",
+      "content_type": "application/pdf",
+      "size_bytes": 28683,
+      "is_inline": false,
+      "has_content": true,
+      "md5": "54f8de9ffeadfe3c6a8581b260972546",
+      "sha256": "9f91d8a018facdf126c3306f2ece30ebcf98474dc77c3c7f44c75b4bfb4dfc9a"
+    },
+    {
+      "name": "KCH-1731-637792826200004189.pdf",
+      "content_type": "application/pdf",
+      "size_bytes": 29677,
+      "is_inline": false,
+      "has_content": true,
+      "md5": "531c20b82b66fbd9b54ddb9c1ae9c03e",
+      "sha256": "a6f94be480702425a3e3808a6c3cacd401ce4a47093d6bba21b21e5da7f1a1f8"
+    },
+    {
+      "name": "KCH-1947-637792826912642771.pdf",
+      "content_type": "application/pdf",
+      "size_bytes": 23288,
+      "is_inline": false,
+      "has_content": true,
+      "md5": "736bc95606cf13784e7355f6f75115e9",
+      "sha256": "c8c657367ef0d5db44f4b88ebf2b15ed0c49df8854b6fcff4728e954d40a5ecf"
+    },
+    {
+      "name": "KCH-1991-637792827964267847.pdf",
+      "content_type": "application/pdf",
+      "size_bytes": 24874,
+      "is_inline": false,
+      "has_content": true,
+      "md5": "dcef6cc9902042599148a25c042d6fe8",
+      "sha256": "0848426dafaeb41f7f043e7e4cf7f84f94b8410703118bd7d702bcf2ff74f6ff"
+    },
+    {
+      "name": "SALCO - MILES SMIT.xlsx",
+      "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "size_bytes": 20726,
+      "is_inline": false,
+      "has_content": true,
+      "md5": "f13f1040a581f1f305a2f944c5bf7ea8",
+      "sha256": "6b96ad7577f60673cb40f37c9bbe97230e6760d56d9919143a1b956e98b40a03"
+    },
+    {
+      "name": "Waybills - SALCO - Miles Smit.docx",
+      "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "size_bytes": 27284,
+      "is_inline": false,
+      "has_content": true,
+      "md5": "2b5b0f0262a4b1c773e73c2b845f93fc",
+      "sha256": "13eff4219777b742feb6cd58d7aaf297487150861b9693fdb2dbc107d0802061"
+    }
+  ]
+}

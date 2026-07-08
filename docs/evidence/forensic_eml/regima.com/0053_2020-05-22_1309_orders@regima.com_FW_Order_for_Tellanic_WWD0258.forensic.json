@@ -1,0 +1,59 @@
+{
+  "_schema": "exchange-forensic-eml/v1",
+  "_generated": "2026-03-10T03:53:02.399770+00:00",
+  "_source": "neon-exchange-sync",
+  "file_integrity": {
+    "eml_file": "/home/ubuntu/revstream1/docs/evidence/forensic_eml/regima.com/0053_2020-05-22_1309_orders@regima.com_FW_Order_for_Tellanic_WWD0258.eml",
+    "file_size_bytes": 864,
+    "md5": "2e022c32ad5f4fc3db908febd6766a79",
+    "sha1": "b4ed8f1707268b95218aaad74731b6026d09ccc2",
+    "sha256": "d0d49cef181f74c6191cf2e0bc64f0b4227c91d7799ac877fedafc7da5d5e5fe"
+  },
+  "message_identity": {
+    "exchange_sync_id": "AAMkADkzY2U4OTQyLTZjNzAtNGRlNi1iMjk1LWQwNWNjYzIyODQ5YgBGAAAAAAADECMUPsw5TaA2pA0VUIqNBwCR-svwgFxkSomVNqCc6-zPAAAAAAEMAACR-svwgFxkSomVNqCc6-zPAAVOmky0AAA=",
+    "internet_message_id": "<011601d6301a$f23aa1a0$d6afe4e0$@regima.com>",
+    "conversation_id": "AAQkADkzY2U4OTQyLTZjNzAtNGRlNi1iMjk1LWQwNWNjYzIyODQ5YgAQAHHOLGacrU1_ss2k307zIVE="
+  },
+  "envelope": {
+    "subject": "FW: Order for Tellanic WWD0258 ",
+    "from_name": "orders@regima.com",
+    "from_address": "orders@regima.com",
+    "to_recipients": [
+      {
+        "name": "Kayla Pretorius",
+        "address": "kayla@regima.zone"
+      }
+    ],
+    "cc_recipients": [
+      {
+        "name": "'Peter Andrew Faucitt'",
+        "address": "pete@regima.com"
+      },
+      {
+        "name": "Jacqui Faucitt",
+        "address": "jax@regima.zone"
+      },
+      {
+        "name": "Bernadine Wright",
+        "address": "bern@regima.zone"
+      },
+      {
+        "name": "Rynette Farrar",
+        "address": "rynette@regima.zone"
+      }
+    ],
+    "received_datetime": "2020-05-22 13:09:52+00:00"
+  },
+  "mailbox_context": {
+    "user_email": "kayla@regima.zone",
+    "user_name": "Kayla Pretorius",
+    "folder_name": "Inbox",
+    "folder_id": "AQMkADkzY2U4OTQyLTZjNzAtNGRlNi1iMjk1LWQwNWNjATIyADg0OWIALgAAAwMQIxQ_zDlNoDakDRVQio0BAJH_y-CAXGRKiZU2oJzr-M8AAAIBDAAAAA=="
+  },
+  "body": {
+    "content_type": null,
+    "preview": "Please advise order was placed on 12/05/2020, Refence WWD0258\r\n\r\nFrom: Nicolene Jansen van Vuuren <nicolene.jansenvanvuuren@gmail.com>\r\nSent: 12 May 2020 11:19 AM\r\nTo: orders@regima.com\r\nSubject: Fwd: Payment Notification from *N JANSEN VAN VUUREN T/A_9FN",
+    "body_length_chars": 0
+  },
+  "attachments": []
+}

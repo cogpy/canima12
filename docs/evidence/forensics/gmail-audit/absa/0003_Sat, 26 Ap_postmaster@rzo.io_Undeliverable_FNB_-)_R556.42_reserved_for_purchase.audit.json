@@ -1,0 +1,297 @@
+{
+  "_schema": "gws-forensic-audit/v1",
+  "_generated": "2026-03-10T08:01:12.753470+00:00",
+  "_source": "gmail-api",
+  "message_identity": {
+    "gmail_id": "19672e5b73e3707e",
+    "thread_id": "19672e590425b9a0",
+    "internet_message_id": "<9249f263-97f7-4538-9206-5858e59ab1af@AS4PR09MB5549.eurprd09.prod.outlook.com>",
+    "label_ids": [
+      "UNREAD",
+      "CATEGORY_PERSONAL",
+      "INBOX"
+    ],
+    "history_id": "26911295"
+  },
+  "envelope": {
+    "subject": "Undeliverable: FNB:-) R556.42 reserved for purchase @ Mr Delivery - Absa ( from Fusion Private a/c..764946 using card..2321. 26Apr 18:19",
+    "from": "postmaster@rzo.io",
+    "to": [
+      "dan+caf_=daf=rzo.io@regima.com"
+    ],
+    "cc": [],
+    "bcc": [],
+    "reply_to": null,
+    "date": "Sat, 26 Apr 2025 16:19:37 +0000",
+    "sent_date": "Sat, 26 Apr 2025 16:19:37 +0000"
+  },
+  "origin": {
+    "client_ip": null,
+    "mailer": null,
+    "user_agent": null,
+    "return_path": "",
+    "x_google_smtp_source": "AGHT+IGT1efEXwAsAhimTkBcR0gWH4wx5kxvK462sSWz97cVcoRsqUmj5ffXJX0geT4YuA4E7Pcq",
+    "x_gm_message_state": null
+  },
+  "authentication": {
+    "spf": "none",
+    "dkim": "pass",
+    "dmarc": "pass",
+    "compauth": null,
+    "received_spf": "none (google.com: postmaster@osppr02cu001.outbound.protection.outlook.com does not designate permitted sender hosts) client-ip=2a01:111:f403:da0f::3;",
+    "arc_results": [
+      "i=2; mx.google.com;       dkim=pass header.i=@rzon.onmicrosoft.com header.s=selector2-rzon-onmicrosoft-com header.b=uzsmYLuO;       arc=pass (i=1 dkim=pass dkdomain=rzo.io dmarc=pass fromdomain=rzo.io);       spf=none (google.com: postmaster@osppr02cu001.outbound.protection.outlook.com does not designate permitted sender hosts) smtp.helo=OSPPR02CU001.outbound.protection.outlook.com",
+      "i=1; mx.microsoft.com 1; spf=none; dmarc=pass action=none header.from=rzo.io; dkim=pass header.d=rzo.io; arc=none"
+    ],
+    "dkim_signatures": [
+      "v=1; a=rsa-sha256; c=relaxed/relaxed; d=rzon.onmicrosoft.com; s=selector2-rzon-onmicrosoft-com; h=From:Date:Subject:Message-ID:Content-Type:MIME-Version:X-MS-Exchange-SenderADCheck; bh=4hCLwyYCxWiyxACmoDNB9JvK2ssxbE4/6aPCdDh7Av0=; b=uzsmYLuOkV8fo/0kNKdIbo1cMhB4McZ36U60B8c2PNczkG8GrvMMUVw7RZ9kWhv++ImdMvXNBOKPNXTywORunSNgXXT5EN4MGitNoAkyC8hWQF3P5xYTnqJEGV2VRuCN/goM72WGnYkW8P35wuUC4mls67+sYtd3868pklqeuIQ="
+    ],
+    "google_dkim_signatures": [],
+    "raw_auth_results": [
+      "mx.google.com;       dkim=pass header.i=@rzon.onmicrosoft.com header.s=selector2-rzon-onmicrosoft-com header.b=uzsmYLuO;       arc=pass (i=1 dkim=pass dkdomain=rzo.io dmarc=pass fromdomain=rzo.io);       spf=none (google.com: postmaster@osppr02cu001.outbound.protection.outlook.com does not designate permitted sender hosts) smtp.helo=OSPPR02CU001.outbound.protection.outlook.com"
+    ]
+  },
+  "transport_hops": [
+    {
+      "hop": 1,
+      "from_server": "OSPPR02CU001.outbound.protection.outlook.com",
+      "from_ip": "025.04.26.09",
+      "by_server": "mx.google.com",
+      "by_ip": null,
+      "with_protocol": "ESMTPS",
+      "via": null,
+      "id": "3f1490d57ef6-e7303a3e205si5668502276.56.2025.04.26.09.19.38",
+      "for_recipient": null,
+      "timestamp": "Sat, 26 Apr 2025 09:19:39 -0700 (PDT)",
+      "tls": "TLS1_3",
+      "raw": "from OSPPR02CU001.outbound.protection.outlook.com (mail-norwayeastazhn150130003.outbound.protection.outlook.com. [2a01:111:f403:da0f::3])        by mx.google.com with ESMTPS id 3f1490d57ef6-e7303a3e205si5668502276.56.2025.04.26.09.19.38        for <dan+caf_=daf=rzo.io@regima.com>        (version=TLS1_3 cipher=TLS_AES_256_GCM_SHA384 bits=256/256);        Sat, 26 Apr 2025 09:19:39 -0700 (PDT)"
+    },
+    {
+      "hop": 2,
+      "from_server": null,
+      "from_ip": null,
+      "by_server": "2002",
+      "by_ip": null,
+      "with_protocol": "SMTP",
+      "via": null,
+      "id": "kh16csp4972362pxc",
+      "for_recipient": null,
+      "timestamp": "Sat, 26 Apr 2025 09:19:39 -0700 (PDT)",
+      "tls": null,
+      "raw": "by 2002:a05:6a11:af10:b0:5f1:182a:7767 with SMTP id kh16csp4972362pxc;        Sat, 26 Apr 2025 09:19:39 -0700 (PDT)"
+    }
+  ],
+  "google_transport": {
+    "x_google_dkim_signature": null,
+    "x_gm_message_state": null,
+    "x_google_smtp_source": "AGHT+IGT1efEXwAsAhimTkBcR0gWH4wx5kxvK462sSWz97cVcoRsqUmj5ffXJX0geT4YuA4E7Pcq",
+    "delivered_to": "dan+caf_=daf=rzo.io@regima.com",
+    "x_forwarded_to": null,
+    "x_forwarded_for": null,
+    "precedence": null,
+    "list_unsubscribe": null,
+    "mime_version": "1.0",
+    "content_type": "multipart/report; report-type=delivery-status; boundary=\"83de0764-dea2-4ddd-b5ab-63d06e5b22e9\"",
+    "google_properties": {}
+  },
+  "mailbox_context": {
+    "user_email": "dan@regima.com",
+    "label_ids": [
+      "UNREAD",
+      "CATEGORY_PERSONAL",
+      "INBOX"
+    ],
+    "snippet": "Delivery has failed to these recipients or groups: d@rzo.io The recipient&#39;s mailbox is full and can&#39;t accept messages now. Please try resending your message later, or contact the recipient",
+    "size_estimate": 108209,
+    "internal_date": "1745684377000"
+  },
+  "raw_headers": [
+    {
+      "name": "Delivered-To",
+      "value": "dan+caf_=daf=rzo.io@regima.com"
+    },
+    {
+      "name": "Received",
+      "value": "by 2002:a05:6a11:af10:b0:5f1:182a:7767 with SMTP id kh16csp4972362pxc;        Sat, 26 Apr 2025 09:19:39 -0700 (PDT)"
+    },
+    {
+      "name": "X-Google-Smtp-Source",
+      "value": "AGHT+IGT1efEXwAsAhimTkBcR0gWH4wx5kxvK462sSWz97cVcoRsqUmj5ffXJX0geT4YuA4E7Pcq"
+    },
+    {
+      "name": "X-Received",
+      "value": "by 2002:a05:6902:2748:b0:e73:aa9:da16 with SMTP id 3f1490d57ef6-e73168bf7c4mr8878000276.43.1745684379295;        Sat, 26 Apr 2025 09:19:39 -0700 (PDT)"
+    },
+    {
+      "name": "ARC-Seal",
+      "value": "i=2; a=rsa-sha256; t=1745684379; cv=pass;        d=google.com; s=arc-20240605;        b=Xree3QEqhczlMCblqXcMudIMF4U3ggrLmef+Bu3q911RsnbrxsP6w57+IJQupkZr9S         vCZYVHD5RtvE0iwwzX18Qd1O4E3kaiQ/JgySlcHuB/rWOXJmUVnd99N5k6MbMixCNGGM         aSYumM5JOJohHXAS5kSJkbA2JoSqBHTqAZQ7ng+rUcIglF2BvZarS/dA5s92nk62l1Ml         Ul2jIWUgmXaE0voxZeEXVwxjTxUSNP9tPUlisY3TD3baX9lwDjBZEOTLNHPA0OUKq7y3         iTKfncmcwt1KehyaaBqWd7hLHIFsfrApODE0VzCEUWIRmUh50SwV+FjucyZRGa8fezt5         A0Rw=="
+    },
+    {
+      "name": "ARC-Message-Signature",
+      "value": "i=2; a=rsa-sha256; c=relaxed/relaxed; d=google.com; s=arc-20240605;        h=auto-submitted:subject:references:in-reply-to:message-id         :content-language:date:to:from:mime-version:dkim-signature;        bh=4hCLwyYCxWiyxACmoDNB9JvK2ssxbE4/6aPCdDh7Av0=;        fh=bUX4EvFaUsRbBvQ/QHK9vOaGP9gq3dWZEiURANAkvQE=;        b=btDrWE+9BZ425XFDJorp5Tc2RPZB4yyiFEeXoHkT8y/UOsihPeK0a/mVoMx8B/LkH6         4xaoOMIEx2c3EmM6z8D+CUr7XdvpKAOdwVHN7IFEMUbcrfjs8Q+BRZ/9S80qe10BxSqZ         SuH5D118ZLKL/MrXmtxr+B+iRqBRgllzz04I4KAQMUdnI81+waGBmlGaSxTMuUEgFvS1         v+JbqI/aKCvImnp7xQd15Tt/LeJ3vvZFpow23aFoG7IkFvVoxPu0g8cGCvx+KT3FsylI         nqCpjD/n6O96r+x0q3QXQQ6zLUfBejo5l4VOrEyI6lOqqKbJZi+1/zKbJmAnUovvD/of         lLwg==;        dara=google.com"
+    },
+    {
+      "name": "ARC-Authentication-Results",
+      "value": "i=2; mx.google.com;       dkim=pass header.i=@rzon.onmicrosoft.com header.s=selector2-rzon-onmicrosoft-com header.b=uzsmYLuO;       arc=pass (i=1 dkim=pass dkdomain=rzo.io dmarc=pass fromdomain=rzo.io);       spf=none (google.com: postmaster@osppr02cu001.outbound.protection.outlook.com does not designate permitted sender hosts) smtp.helo=OSPPR02CU001.outbound.protection.outlook.com"
+    },
+    {
+      "name": "Return-Path",
+      "value": "<>"
+    },
+    {
+      "name": "Received",
+      "value": "from OSPPR02CU001.outbound.protection.outlook.com (mail-norwayeastazhn150130003.outbound.protection.outlook.com. [2a01:111:f403:da0f::3])        by mx.google.com with ESMTPS id 3f1490d57ef6-e7303a3e205si5668502276.56.2025.04.26.09.19.38        for <dan+caf_=daf=rzo.io@regima.com>        (version=TLS1_3 cipher=TLS_AES_256_GCM_SHA384 bits=256/256);        Sat, 26 Apr 2025 09:19:39 -0700 (PDT)"
+    },
+    {
+      "name": "Received-SPF",
+      "value": "none (google.com: postmaster@osppr02cu001.outbound.protection.outlook.com does not designate permitted sender hosts) client-ip=2a01:111:f403:da0f::3;"
+    },
+    {
+      "name": "Authentication-Results",
+      "value": "mx.google.com;       dkim=pass header.i=@rzon.onmicrosoft.com header.s=selector2-rzon-onmicrosoft-com header.b=uzsmYLuO;       arc=pass (i=1 dkim=pass dkdomain=rzo.io dmarc=pass fromdomain=rzo.io);       spf=none (google.com: postmaster@osppr02cu001.outbound.protection.outlook.com does not designate permitted sender hosts) smtp.helo=OSPPR02CU001.outbound.protection.outlook.com"
+    },
+    {
+      "name": "ARC-Seal",
+      "value": "i=1; a=rsa-sha256; s=arcselector10001; d=microsoft.com; cv=none; b=bIFUHyf+tHcyMUOEYsxF2HfKlx96bLVInWmou6B7EmRl4Vs+ieQ9/Q92UCn9KZCmMGfNX8oaOeU75US8k+5VBJlBVg08QSgJyLStOuExFSgxCtufATn8d+NTEvh2bQ2WPTP+KHhZSzCPihiy2+XdBdj0bjbHZcDFjJFokwr7l7YGmaLBro97PAjaQMc/FPgD3bVLq1+qIinTEwGRGE3ZdMBcGzgjiU5UbYCefWlUbeWlUGuX+QsWdgTGPUBWpN4CAtv1gVPNfcw3ahYtfoeSQ6WFDnBzX88w+8/+tn4aj9Cu9a+BfeGHT0ecTiLMFgVBMuxXLc+jfiS6pQkTRFKj3g=="
+    },
+    {
+      "name": "ARC-Message-Signature",
+      "value": "i=1; a=rsa-sha256; c=relaxed/relaxed; d=microsoft.com; s=arcselector10001; h=From:Date:Subject:Message-ID:Content-Type:MIME-Version:X-MS-Exchange-AntiSpam-MessageData-ChunkCount:X-MS-Exchange-AntiSpam-MessageData-0:X-MS-Exchange-AntiSpam-MessageData-1; bh=4hCLwyYCxWiyxACmoDNB9JvK2ssxbE4/6aPCdDh7Av0=; b=Lp7gaSCA/p2Ku+xX3ndL22DIHxr/NlJKdhp0wqY9LWw9WjdtEVkSzL3umevk+jM3I4Ae9k0sqs/abIJlqCUXUCfOKn7AZT5vmZ2tczQthSlAfOoVXSAm10rfrQZkbaNdLqrv4DurKIMgIVoZ0HTpTurPfulqOr4dcKmpr1RJKPHlLYu1ut0aAORebURWh/pCmu1R+k7jckGD8kFqlamu9xwo8NWNTX8dKrK2ONLhJ0rVgdLi2EZY/d/yq/zt37Lya5FtUZY7P5WHwinuKrnfRkc9FIJw9gvtmjCr1y60QOxrjg82oT+0EbNdW1iRlyu2i85w0aEoQonQHPvEQXC32w=="
+    },
+    {
+      "name": "ARC-Authentication-Results",
+      "value": "i=1; mx.microsoft.com 1; spf=none; dmarc=pass action=none header.from=rzo.io; dkim=pass header.d=rzo.io; arc=none"
+    },
+    {
+      "name": "DKIM-Signature",
+      "value": "v=1; a=rsa-sha256; c=relaxed/relaxed; d=rzon.onmicrosoft.com; s=selector2-rzon-onmicrosoft-com; h=From:Date:Subject:Message-ID:Content-Type:MIME-Version:X-MS-Exchange-SenderADCheck; bh=4hCLwyYCxWiyxACmoDNB9JvK2ssxbE4/6aPCdDh7Av0=; b=uzsmYLuOkV8fo/0kNKdIbo1cMhB4McZ36U60B8c2PNczkG8GrvMMUVw7RZ9kWhv++ImdMvXNBOKPNXTywORunSNgXXT5EN4MGitNoAkyC8hWQF3P5xYTnqJEGV2VRuCN/goM72WGnYkW8P35wuUC4mls67+sYtd3868pklqeuIQ="
+    },
+    {
+      "name": "MIME-Version",
+      "value": "1.0"
+    },
+    {
+      "name": "From",
+      "value": "<postmaster@rzo.io>"
+    },
+    {
+      "name": "To",
+      "value": "<dan+caf_=daf=rzo.io@regima.com>"
+    },
+    {
+      "name": "Date",
+      "value": "Sat, 26 Apr 2025 16:19:37 +0000"
+    },
+    {
+      "name": "Content-Type",
+      "value": "multipart/report; report-type=delivery-status; boundary=\"83de0764-dea2-4ddd-b5ab-63d06e5b22e9\""
+    },
+    {
+      "name": "X-MS-Exchange-Message-Is-Ndr",
+      "value": ""
+    },
+    {
+      "name": "Content-Language",
+      "value": "en-US"
+    },
+    {
+      "name": "Message-ID",
+      "value": "<9249f263-97f7-4538-9206-5858e59ab1af@AS4PR09MB5549.eurprd09.prod.outlook.com>"
+    },
+    {
+      "name": "In-Reply-To",
+      "value": "<324624281.6358320.1745684367195@mob-r3-l-igm-04.x.fnb.co.za>"
+    },
+    {
+      "name": "References",
+      "value": "<324624281.6358320.1745684367195@mob-r3-l-igm-04.x.fnb.co.za>"
+    },
+    {
+      "name": "Subject",
+      "value": "Undeliverable: FNB:-) R556.42 reserved for purchase @ Mr Delivery - Absa ( from Fusion Private a/c..764946 using card..2321. 26Apr 18:19"
+    },
+    {
+      "name": "Auto-Submitted",
+      "value": "auto-replied"
+    },
+    {
+      "name": "X-MS-PublicTrafficType",
+      "value": "Email"
+    },
+    {
+      "name": "X-MS-TrafficTypeDiagnostic",
+      "value": "AS4PR09MB5549:EE_"
+    },
+    {
+      "name": "X-MS-Exchange-SenderADCheck",
+      "value": "1"
+    },
+    {
+      "name": "X-MS-Exchange-AntiSpam-Relay",
+      "value": "0"
+    },
+    {
+      "name": "X-Microsoft-Antispam",
+      "value": "BCL:0;ARA:13230040|50650200027|61400799027|1930700014|376014|366016|32400700002|4053099003|8096899003;"
+    },
+    {
+      "name": "X-Microsoft-Antispam-Message-Info",
+      "value": "LKQEqz6xioK1AIv2/HoqzURHqd8nYXU4EFa+UlEeTB9k/2FI0bMCPuLYcK+7GzQQ3h2s60P/Xp4sqRumomdiKguvq3Fi/cn12UNXyefJftL38KuAuAoZ61Yb2pWX+g5Z7TRJjvufIHMZdQFvisKYZ74VEbXc/+VSUht8Mq9ALmxNLFpCN2B4SLJE1QV1wmYInfMLedVGse4rq4OxncXwzx54avG6cZ6w15lpo9FwrhvKIdEb8fhKwLKWCjBL7dKPq9ssjUrB6dd5NKmKCgpn5e2oqW0MYzwchd/Rw/gaMwzD4zM09eUS9VsCmbvMA82rye5E3Mj3Odsnbm2vbRBmrrwIUR2u4B5TaJfzaisGVDa5xzWujagFMTnIkx+K2I53vFg6szFMl4Br2iNYIuxtTpwGzsr9vhYlU/U2a+YcjqXKlGfSGfKleDFdRJeNsg8S3G26AtPi83QTIe5kxqDdYKiBTKEI60v71m7y099pXRQFvJzE7I+XcuVwuSh09gWT1k0scyMWBLmkWSzno6WhoVSgpFzO5k1ezpVkVBEQuE7kUuMafR7LcBFR2N1RSXYg18JjT/7cw8AFzOfNU6/GS5qa9YcmP/5u2ahSb550nBlt5WJMdNkoxGdOheDN+d3DqTY31W2r+LoJFj++vOsk9oTY85+jNscjuGYsQ1MO7EgAQp3ni1z57qxL769H34ecvJRe2MNHt17oHfxVDzEvorm4DG9p9N+jWtvxXKkMdZRgc0XOUgnCXQ6mWYjUDxmLkaJ87DetvEUqNpYhEzK97HOz7rKSmc4IgZsAAJo5hlwoEw0IAwNmNRcgXGIKx+nNYUkrh5jX6thu1qMu6wSOvRxKxA1rIjff66fAEQ1OAnxsgMKmOina5i3hem6FMZ42hZhSVC24jbmJFEkROmopnZecFX9xFkI4/I2rvRlqcHbAy/G014qb2F6CDbo83yiCJMxp5WLV9wixOcVIKUCDzmk8gRJ6CqzHj8ls/t4bbN1ON6JbBaLG4U5xcEMjspcwCk0LQ6j6WbaC6KsK0XJkNn73syYIoZe5q6G0rqAEaGhnvtwSwcxV1NkqkG3GLGFU4lxBC+jR/Qe4JAIkDqoYnpq0hcFYSrWa0kNfahHATYHJ3U8BfUG0Yo0s/lOjqhtJDyy8/dG/ZrKohQcofjlXotMF708eugnDBz0LVH7DsGYS5HNQknO6gJqHr5VbDRWbadrcTcu0O+t3fDYYUWlAs9OLVLS2jzni6ajuvzRT2kUY7egBOUL7HTWwC5qJvJ2ZzcpCjhAB3BLgstQZIUih0OJx8WVs27K0t3k2UthzCK3OMkvURtn0LWeUMRFUyaL8HXRiqYNECsEE3+41tLSgWvqhdwmOtYJOTyuxHZugpR6tJfWZAHAwYqjKjON3cbKZ+fS1cdck4c/MOl3bFhQ2c3UHJjjMSHNATfjeMM5eZqbheYYehry/nZRoAFFs7i/9om7n/XtEIWyiVYB9+7NeRTnot2JJUFjGt2RrHKT6Ft6lNMfKwGiv5YJZFnJDx4jnTuqJs4SVjnLjoZHMDRF6lA=="
+    },
+    {
+      "name": "X-Forefront-Antispam-Report",
+      "value": "CIP:255.255.255.255;CTRY:;LANG:en;SCL:1;SRV:;IPV:NLI;SFV:NSPM;H:;PTR:;CAT:NONE;SFS:(13230040)(50650200027)(61400799027)(1930700014)(376014)(366016)(32400700002)(4053099003)(8096899003);DIR:OUT;SFP:1501;"
+    },
+    {
+      "name": "X-MS-Exchange-AntiSpam-MessageData-ChunkCount",
+      "value": "1"
+    },
+    {
+      "name": "X-MS-Exchange-AntiSpam-MessageData-0",
+      "value": "hb/ypznsBtFfospgLEm+aQUQPZeGkGl86+L1oG4tX46TISOBPwEdYxnl/UnriUepoHRK7QFHtxw3ExLvDrKwbKRs3kT6o0GvoVaZVdEBQXbsmkHGEttWRiCbsnqfzUgfDAcDvgqLE14UBc+tAAg5q0uXPwUdLO3XanFN0OEkOOGSqTrD6OywRcFdmxfACDa1"
+    },
+    {
+      "name": "X-OriginatorOrg",
+      "value": "rzo.io"
+    },
+    {
+      "name": "X-MS-Exchange-CrossTenant-OriginalArrivalTime",
+      "value": "26 Apr 2025 16:19:37.0125 (UTC)"
+    },
+    {
+      "name": "X-MS-Exchange-CrossTenant-FromEntityHeader",
+      "value": "Hosted"
+    },
+    {
+      "name": "X-MS-Exchange-CrossTenant-AuthSource",
+      "value": "AS4PR09MB5549.eurprd09.prod.outlook.com"
+    },
+    {
+      "name": "X-MS-Exchange-CrossTenant-AuthAs",
+      "value": "Internal"
+    },
+    {
+      "name": "X-MS-Exchange-CrossTenant-Network-Message-Id",
+      "value": "d4a96f18-95c7-4fb4-5858-08dd84de238c"
+    },
+    {
+      "name": "X-MS-Exchange-Transport-CrossTenantHeadersStamped",
+      "value": "AS4PR09MB5549"
+    }
+  ],
+  "transport_summary": {
+    "total_hops": 2,
+    "origin_ip": null,
+    "first_relay": "OSPPR02CU001.outbound.protection.outlook.com",
+    "final_relay": "2002",
+    "auth_verdict": {
+      "spf": "none",
+      "dkim": "pass",
+      "dmarc": "pass"
+    }
+  },
+  "_file_integrity": {
+    "sha256": "67ec8eb7e7e65a57ed1c4dbbe8c4588d69cf47d9c6816b66c7228af1df4b5b9c",
+    "size_bytes": 15613
+  }
+}

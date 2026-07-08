@@ -1,0 +1,50 @@
+{
+  "_schema": "exchange-forensic-eml/v1",
+  "_generated": "2026-03-10T03:53:27.726077+00:00",
+  "_source": "neon-exchange-sync",
+  "file_integrity": {
+    "eml_file": "/home/ubuntu/revstream1/docs/evidence/forensic_eml/regima.zone/0046_2021-11-03_1022_rynette@regima.zone_FW_MANUFACTURE_OF_NEUTRALISING_SOLUTION.eml",
+    "file_size_bytes": 813,
+    "md5": "2033374a7b5c6e8d99e9363242e49212",
+    "sha1": "e30e38d1fca9a64743e79eda201f96e28962862a",
+    "sha256": "d855f352a75955abad51aa5c85ef999cd250710ca5a98d3483f547116edf3242"
+  },
+  "message_identity": {
+    "exchange_sync_id": "AQMkAGM2Y2E0NWVmLWEzZTktNDc1Mi1iY2I4LTU3OTBlMTJhMTllNQBGAAADPe59AHjuz0_HJe8Q4ALb1wcAtr3q_CoE-0aRl7m1844EjgAAAgEMAAAAtr3q_CoE-0aRl7m1844EjgAGolrnDgAAAA==",
+    "internet_message_id": "<8438fa498517498090c74d78415f70dd@DB9PR08MB6569.eurprd08.prod.outlook.com>",
+    "conversation_id": "AAQkAGM2Y2E0NWVmLWEzZTktNDc1Mi1iY2I4LTU3OTBlMTJhMTllNQAQAMgDzYI780X-vGPrJovct9U="
+  },
+  "envelope": {
+    "subject": "FW: MANUFACTURE OF NEUTRALISING SOLUTION",
+    "from_name": "Rynette Farrar",
+    "from_address": "rynette@regima.zone",
+    "to_recipients": [
+      {
+        "name": "jax@regima.com",
+        "address": "jax@regima.com"
+      },
+      {
+        "name": "Jacqui Faucitt",
+        "address": "jax@regima.zone"
+      },
+      {
+        "name": "pete@regima.com",
+        "address": "pete@regima.com"
+      }
+    ],
+    "cc_recipients": null,
+    "received_datetime": "2021-11-03 10:22:21+00:00"
+  },
+  "mailbox_context": {
+    "user_email": "jax@regima.zone",
+    "user_name": "Jacqui Faucitt",
+    "folder_name": "Inbox",
+    "folder_id": "AQMkAGM2Y2E0NWVmLWEzZTktNDc1Mi1iY2I4LTU3OTBlMTJhMTllNQAuAAADPe59AHjuz0_HJe8Q4ALb1wEAtr3q_CoE-0aRl7m1844EjgAAAgEMAAAA"
+  },
+  "body": {
+    "content_type": null,
+    "preview": "________________________________\r\nFrom: Ana Ferreira <ana@primeproduct.co.za>\r\nSent: Wednesday, November 3, 2021 12:22:08 PM (UTC+02:00) Harare, Pretoria\r\nTo: Jacqui Faucitt <jax@regima.zone>\r\nCc: Rynette Farrar <rynette@regima.zone>; Kayla Pretorius <k",
+    "body_length_chars": 0
+  },
+  "attachments": []
+}

@@ -1,0 +1,54 @@
+{
+  "_schema": "exchange-forensic-eml/v1",
+  "_generated": "2026-03-10T03:50:40.199640+00:00",
+  "_source": "neon-exchange-sync",
+  "file_integrity": {
+    "eml_file": "/home/ubuntu/revstream1/docs/evidence/forensic_eml/ianlevitt.co.za/0098_2025-11-07_0757_ian@ianlevitt.co.za_RE_ARE_YOU_ABLE_TO_OPPOSE_PART_A_OF_THE_EXPARTE_IN.eml",
+    "file_size_bytes": 47860,
+    "md5": "7f5738752b957009219565252f8bc032",
+    "sha1": "aa9edf82e0ff00ced69c0428267999a7964aa6c3",
+    "sha256": "91dd5c631abd3fe6638213f2ea1ce434bef0577aee2f4076ed39d54c05636206"
+  },
+  "message_identity": {
+    "exchange_sync_id": "AQMkAGM2Y2E0NWVmLWEzZTktNDc1Mi1iY2I4LTU3OTBlMTJhMTllNQBGAAADPe59AHjuz0_HJe8Q4ALb1wcAtr3q_CoE-0aRl7m1844EjgAAAgEKAAAAtr3q_CoE-0aRl7m1844EjgALGq3EtQAAAA==",
+    "internet_message_id": "<AMBPR07MB1139591969BAB37CD854D80BBFBC3A@AMBPR07MB11395.eurprd07.prod.outlook.com>",
+    "conversation_id": "AAQkAGM2Y2E0NWVmLWEzZTktNDc1Mi1iY2I4LTU3OTBlMTJhMTllNQAQAC0xcJO3z1xHqoxAwPf10cg="
+  },
+  "envelope": {
+    "subject": "RE: ARE YOU ABLE TO OPPOSE PART A OF THE EXPARTE INTERDICT, THE FIRST ONE",
+    "from_name": "Ian Levitt",
+    "from_address": "ian@ianlevitt.co.za",
+    "to_recipients": [
+      {
+        "name": "Daniel J. Faucitt",
+        "address": "dan@regima.com"
+      },
+      {
+        "name": "Jacqui Faucitt",
+        "address": "jax@regima.zone"
+      },
+      {
+        "name": "Doron Block",
+        "address": "block@rivoniaadvocates.co.za"
+      },
+      {
+        "name": "Natan Back",
+        "address": "Natan@ianlevitt.co.za"
+      }
+    ],
+    "cc_recipients": null,
+    "received_datetime": "2025-11-07 07:57:44+00:00"
+  },
+  "mailbox_context": {
+    "user_email": "jax@regima.zone",
+    "user_name": "Jacqui Faucitt",
+    "folder_name": "Deleted Items",
+    "folder_id": "AQMkAGM2Y2E0NWVmLWEzZTktNDc1Mi1iY2I4LTU3OTBlMTJhMTllNQAuAAADPe59AHjuz0_HJe8Q4ALb1wEAtr3q_CoE-0aRl7m1844EjgAAAgEKAAAA"
+  },
+  "body": {
+    "content_type": "html",
+    "preview": "Hi all\r\n\r\nFor discussion when Natan done in court.\r\n\r\nIAN LEVITT\r\n\r\n\r\n\r\nTHE LEONARDO\r\nOFFICE LEVEL 12\r\n75 MAUDE STREET\r\nSANDOWN\r\nSANDTON, 2196\r\nDX 54 SANDTON SQUARE\r\nTEL:      011 784 3310\r\nCell :  082 445 1586\r\nwww.ianlevitt.co.za\r\n\r\n\r\nCONFIDENTIALITY NO",
+    "body_length_chars": 34602
+  },
+  "attachments": []
+}

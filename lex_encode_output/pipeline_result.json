@@ -1,0 +1,1564 @@
+{
+  "scenario": {
+    "title": "Revenue Stream Hijacking, Trust Fraud, and Corporate Sabotage \u2014 Case 2025-137857",
+    "description": "Multi-domain legal case involving revenue stream hijacking, trust forgery, perjury, POPIA violations, tax fraud, and corporate sabotage across the RegimA group of companies. The conspiracy centres on capturing the R18.685M Ketoni Investment Holdings payout due May 2026.",
+    "case_number": "2025-137857",
+    "facts": "Peter Faucitt, aided by bookkeeper Rynette Farrar and accountant Danie Bantjies, orchestrated a scheme to hijack the revenue streams of RegimA Worldwide Distribution, forge trust documents to install Bantjies as trustee of the Faucitt Family Trust, obtain a fraudulent ex parte interdict through perjury and material non-disclosure, and extract R10.6M from company accounts \u2014 all to capture the R18.685M Ketoni payout. The scheme involved SARS eFiling impersonation, Sage accounting system sabotage, fabrication of historical company records, systematic revenue diversion through 39+ bank detail change emails, and weaponisation of court processes including a contempt application seeking imprisonment of a fraud victim.",
+    "keywords": [
+      "revenue-stream-hijacking",
+      "trust-forgery",
+      "perjury",
+      "material-non-disclosure",
+      "ex-parte-interdict",
+      "void-ab-initio",
+      "contempt-trap",
+      "corporate-sabotage",
+      "fiduciary-breach",
+      "POPIA-violation",
+      "tax-fraud",
+      "SARS-eFiling-impersonation",
+      "identity-misappropriation",
+      "accounting-sabotage",
+      "Sage-fraud",
+      "Shopify-hijacking",
+      "revenue-diversion",
+      "bank-detail-fraud",
+      "trust-amendment-forgery",
+      "curatorship-fraud",
+      "Ketoni-payout-capture",
+      "intercompany-loan-manipulation",
+      "expense-dump-fraud",
+      "De-Novo-fabrication",
+      "CIPC-record-falsification",
+      "card-cancellation-retaliation"
+    ],
+    "facts_list": [
+      "Trust amendment forged by Rynette signing as pp Peter on 28 June 2024",
+      "Bantjies installed as trustee without knowledge of Daniel or Jacqueline",
+      "Bantjies is CFO of George Group whose CEO Kevin Derrick directs Ketoni",
+      "R18.685M Ketoni payout due May 2026 to Faucitt Family Trust",
+      "Rynette operated pete@regima.com \u2014 Peter does not use electronic communication",
+      "FNB FICA/KYC confirms Daniel held SOLE General Powers on company accounts",
+      "Daniel's cards cancelled 7 June 2025 \u2014 one day after reporting fraud to Bantjies",
+      "Bantjies swore confirmatory affidavit 13 August 2025 \u2014 68 days after receiving fraud report",
+      "Ex parte interdict granted 19 August 2025 without disclosure of sole mandate or fraud reports",
+      "R10.6M extracted within 8 days of interdict being granted",
+      "39+ bank detail change emails sent May-June 2025 diverting revenue from FNB to ABSA",
+      "Rynette logged into SARS eFiling as Bantjies on 26 April 2024 to change banking to ABSA",
+      "Sage account fraudulently transferred using false affidavit about Kayla Pretorius death",
+      "De Novo Business Services fabricated 2019 accounts removing Kayla as director",
+      "Rynette's son's company Adderory registered regimaskin.co.za on 29 May 2025",
+      "Contempt application filed 4 February 2026 seeking 6 months imprisonment of Jacqueline",
+      "Rynette requested trust documents 14 days after Kayla Pretorius murdered 13 July 2023",
+      "Settlement agreements presented under duress at Forvis Mazars mediation September 2025",
+      "Bantjies secretly shared financial analysis with Rynette \u2014 instructed her not to tell",
+      "Backdated journal entries instructed by Rynette to Bantjies August 2021",
+      "Bantjies admitted using incorrect Villa Via registration number since 2014"
+    ],
+    "entities": [
+      {
+        "type": "person",
+        "name": "Peter Andrew Faucitt",
+        "role": "primary_perpetrator",
+        "attributes": {
+          "id": "PERSON_001",
+          "id_number": "820430 5708 18 5",
+          "agent_type": "antagonist"
+        }
+      },
+      {
+        "type": "person",
+        "name": "Rynette Farrar",
+        "role": "co_conspirator_operator",
+        "attributes": {
+          "id": "PERSON_002",
+          "agent_type": "antagonist",
+          "role_detail": "bookkeeper who operates Peter's email and controls all financial systems"
+        }
+      },
+      {
+        "type": "person",
+        "name": "Jacqueline Faucitt",
+        "role": "victim_respondent",
+        "attributes": {
+          "id": "PERSON_003",
+          "agent_type": "victim"
+        }
+      },
+      {
+        "type": "person",
+        "name": "Daniel James Faucitt",
+        "role": "victim_respondent",
+        "attributes": {
+          "id": "PERSON_004",
+          "agent_type": "victim",
+          "role_detail": "co-director with sole FNB mandate, built all digital infrastructure"
+        }
+      },
+      {
+        "type": "person",
+        "name": "Daniel Faucitt Sr",
+        "role": "victim_trustee",
+        "attributes": {
+          "id": "PERSON_005",
+          "agent_type": "victim"
+        }
+      },
+      {
+        "type": "person",
+        "name": "Danie Bantjies",
+        "role": "co_conspirator_accountant",
+        "attributes": {
+          "id": "PERSON_006",
+          "saica_number": "00105928",
+          "agent_type": "antagonist",
+          "role_detail": "external accountant, CFO George Group, fraudulently installed trustee"
+        }
+      },
+      {
+        "type": "person",
+        "name": "Kevin Derrick",
+        "role": "connected_party",
+        "attributes": {
+          "id": "PERSON_007",
+          "role_detail": "CEO George Group, director Ketoni Investment Holdings"
+        }
+      },
+      {
+        "type": "person",
+        "name": "Kayla Pretorius",
+        "role": "deceased_key_person",
+        "attributes": {
+          "id": "PERSON_008",
+          "role_detail": "original Sage account owner, co-director ReZonance, murdered 13 July 2023"
+        }
+      },
+      {
+        "type": "person",
+        "name": "Kent Rault",
+        "role": "employee_participant",
+        "attributes": {
+          "id": "PERSON_009",
+          "role_detail": "sent bank detail change emails to clients"
+        }
+      },
+      {
+        "type": "person",
+        "name": "Linda Farrar",
+        "role": "employee_participant",
+        "attributes": {
+          "id": "PERSON_010",
+          "role_detail": "Rynette's sister, sent 39+ bank detail change emails"
+        }
+      },
+      {
+        "type": "person",
+        "name": "Gayane Williams",
+        "role": "employee_participant",
+        "attributes": {
+          "id": "PERSON_011",
+          "role_detail": "announced email domain change from regima.zone to regimaskin.co.za"
+        }
+      },
+      {
+        "type": "person",
+        "name": "Anton Hechter",
+        "role": "tax_practitioner",
+        "attributes": {
+          "id": "PERSON_012",
+          "role_detail": "SARS tax practitioner for all RegimA companies"
+        }
+      },
+      {
+        "type": "person",
+        "name": "Clare Payne",
+        "role": "cipc_agent",
+        "attributes": {
+          "id": "PERSON_013",
+          "role_detail": "Corporate and Merchant Administrators \u2014 CIPC agent"
+        }
+      },
+      {
+        "type": "person",
+        "name": "Marc Yudaken",
+        "role": "attorney",
+        "attributes": {
+          "id": "PERSON_042",
+          "role_detail": "Baker McKenzie \u2014 drafted Ketoni SHA/MOI"
+        }
+      },
+      {
+        "type": "person",
+        "name": "Ian Levitt",
+        "role": "attorney",
+        "attributes": {
+          "id": "PERSON_014",
+          "role_detail": "sent R63M demand letter (SF9) \u2014 ignored"
+        }
+      },
+      {
+        "type": "person",
+        "name": "Elliott Attorneys",
+        "role": "legal_representative",
+        "attributes": {
+          "id": "PERSON_015",
+          "role_detail": "Peter's attorneys for interdict application"
+        }
+      },
+      {
+        "type": "organization",
+        "name": "RegimA Worldwide Distribution (Pty) Ltd",
+        "role": "primary_company",
+        "attributes": {
+          "id": "ORG_001",
+          "cipc_reg": "2001/025850/07"
+        }
+      },
+      {
+        "type": "organization",
+        "name": "RegimA Skin Treatments",
+        "role": "trading_entity",
+        "attributes": {
+          "id": "ORG_002"
+        }
+      },
+      {
+        "type": "organization",
+        "name": "RWD (UK) Ltd",
+        "role": "uk_entity",
+        "attributes": {
+          "id": "ORG_003"
+        }
+      },
+      {
+        "type": "organization",
+        "name": "Strategic Logistics CC",
+        "role": "logistics_entity",
+        "attributes": {
+          "id": "ORG_004"
+        }
+      },
+      {
+        "type": "organization",
+        "name": "ReZonance",
+        "role": "digital_entity",
+        "attributes": {
+          "id": "ORG_005",
+          "role_detail": "co-directed by Daniel and Kayla"
+        }
+      },
+      {
+        "type": "organization",
+        "name": "Adderory (Pty) Ltd",
+        "role": "farrar_family_company",
+        "attributes": {
+          "id": "ORG_006",
+          "role_detail": "Rynette's son's company, registered regimaskin.co.za"
+        }
+      },
+      {
+        "type": "organization",
+        "name": "Luxury Products Online",
+        "role": "farrar_family_company",
+        "attributes": {
+          "id": "ORG_007",
+          "role_detail": "distribution channel owned by Rynette's son"
+        }
+      },
+      {
+        "type": "organization",
+        "name": "Luxur\u00e9",
+        "role": "competitor_entity",
+        "attributes": {
+          "id": "ORG_008",
+          "role_detail": "direct competitor to RegimA, owned by Rynette's son"
+        }
+      },
+      {
+        "type": "organization",
+        "name": "George Group",
+        "role": "connected_corporate",
+        "attributes": {
+          "id": "ORG_009",
+          "role_detail": "Bantjies is CFO, Kevin Derrick is CEO"
+        }
+      },
+      {
+        "type": "organization",
+        "name": "Ketoni Investment Holdings",
+        "role": "debtor_entity",
+        "attributes": {
+          "id": "ORG_010",
+          "role_detail": "owes R18.685M to FFT, due May 2026"
+        }
+      },
+      {
+        "type": "organization",
+        "name": "De Novo Business Services",
+        "role": "fabrication_service",
+        "attributes": {
+          "id": "ORG_011",
+          "role_detail": "fabricated 2019 accounts removing Kayla"
+        }
+      },
+      {
+        "type": "organization",
+        "name": "Baker McKenzie",
+        "role": "law_firm",
+        "attributes": {
+          "id": "ORG_025",
+          "role_detail": "drafted Ketoni SHA/MOI"
+        }
+      },
+      {
+        "type": "organization",
+        "name": "Forvis Mazars",
+        "role": "mediator",
+        "attributes": {
+          "id": "ORG_012",
+          "role_detail": "facilitated settlement mediation September 2025"
+        }
+      },
+      {
+        "type": "organization",
+        "name": "ENS Africa",
+        "role": "former_attorneys",
+        "attributes": {
+          "id": "ORG_013",
+          "role_detail": "Daniel and Jacqueline's attorneys who appeared to act against their interests"
+        }
+      },
+      {
+        "type": "trust",
+        "name": "Faucitt Family Trust",
+        "role": "trust_vehicle",
+        "attributes": {
+          "id": "TRUST_001",
+          "role_detail": "holds 33% of RWD, creditor of Ketoni R18.685M"
+        }
+      },
+      {
+        "type": "organization",
+        "name": "RegimaSA (Pty) Ltd",
+        "role": "shell_company",
+        "attributes": {
+          "id": "ORG_014",
+          "cipc_reg": "2017/087935/07"
+        }
+      },
+      {
+        "type": "platform",
+        "name": "Shopify Plus",
+        "role": "ecommerce_platform",
+        "attributes": {
+          "id": "PLATFORM_001"
+        }
+      },
+      {
+        "type": "platform",
+        "name": "Sage Business Cloud",
+        "role": "accounting_platform",
+        "attributes": {
+          "id": "PLATFORM_002"
+        }
+      },
+      {
+        "type": "platform",
+        "name": "Stock2Shop",
+        "role": "integration_platform",
+        "attributes": {
+          "id": "PLATFORM_003"
+        }
+      },
+      {
+        "type": "account",
+        "name": "FNB Business Account 62707308252",
+        "role": "primary_bank_account",
+        "attributes": {
+          "id": "ACCOUNT_001",
+          "bank": "FNB",
+          "mandate": "Daniel sole general powers"
+        }
+      },
+      {
+        "type": "account",
+        "name": "ABSA Business Account",
+        "role": "diversion_account",
+        "attributes": {
+          "id": "ACCOUNT_002",
+          "bank": "ABSA",
+          "mandate": "Peter/Rynette controlled"
+        }
+      }
+    ],
+    "relations": [
+      {
+        "type": "opposed-to",
+        "source": "Peter Andrew Faucitt",
+        "target": "Daniel James Faucitt"
+      },
+      {
+        "type": "co-conspirator",
+        "source": "Peter Andrew Faucitt",
+        "target": "Rynette Farrar"
+      },
+      {
+        "type": "co-conspirator",
+        "source": "Rynette Farrar",
+        "target": "Danie Bantjies"
+      },
+      {
+        "type": "co-conspirator",
+        "source": "Peter Andrew Faucitt",
+        "target": "Danie Bantjies"
+      },
+      {
+        "type": "operates-identity-of",
+        "source": "Rynette Farrar",
+        "target": "Peter Andrew Faucitt"
+      },
+      {
+        "type": "owes-debt",
+        "source": "Ketoni Investment Holdings",
+        "target": "Faucitt Family Trust"
+      },
+      {
+        "type": "cfo-of",
+        "source": "Danie Bantjies",
+        "target": "George Group"
+      },
+      {
+        "type": "ceo-of",
+        "source": "Kevin Derrick",
+        "target": "George Group"
+      },
+      {
+        "type": "director-of",
+        "source": "Kevin Derrick",
+        "target": "Ketoni Investment Holdings"
+      },
+      {
+        "type": "trustee-of",
+        "source": "Danie Bantjies",
+        "target": "Faucitt Family Trust"
+      },
+      {
+        "type": "co-director",
+        "source": "Daniel James Faucitt",
+        "target": "RegimA Worldwide Distribution (Pty) Ltd"
+      },
+      {
+        "type": "co-director",
+        "source": "Peter Andrew Faucitt",
+        "target": "RegimA Worldwide Distribution (Pty) Ltd"
+      },
+      {
+        "type": "sole-mandate-holder",
+        "source": "Daniel James Faucitt",
+        "target": "FNB Business Account 62707308252"
+      },
+      {
+        "type": "family-company",
+        "source": "Rynette Farrar",
+        "target": "Adderory (Pty) Ltd"
+      },
+      {
+        "type": "family-company",
+        "source": "Rynette Farrar",
+        "target": "Luxury Products Online"
+      },
+      {
+        "type": "family-company",
+        "source": "Rynette Farrar",
+        "target": "Luxur\u00e9"
+      },
+      {
+        "type": "fabricated-records-for",
+        "source": "De Novo Business Services",
+        "target": "RegimaSA (Pty) Ltd"
+      },
+      {
+        "type": "victim-of",
+        "source": "Jacqueline Faucitt",
+        "target": "Peter Andrew Faucitt"
+      },
+      {
+        "type": "victim-of",
+        "source": "Daniel James Faucitt",
+        "target": "Peter Andrew Faucitt"
+      }
+    ],
+    "evidence": [
+      {
+        "name": "sole-mandate-contradiction",
+        "type": "contradiction",
+        "order": 2,
+        "params": {
+          "claim": "unauthorized-transactions-by-daniel",
+          "negation": "sole-transactional-authority-confirmed",
+          "evidence": "FNB-FICA-KYC-sole-mandate-letter-18-June-2025",
+          "name": "sole-mandate-contradiction"
+        }
+      },
+      {
+        "name": "material-non-disclosure",
+        "type": "contradiction",
+        "order": 2,
+        "params": {
+          "claim": "full-disclosure-to-court",
+          "negation": "concealed-sole-mandate-fraud-reports-card-sabotage",
+          "evidence": "founding-affidavit-vs-FNB-letter-and-fraud-reports",
+          "name": "material-non-disclosure"
+        }
+      },
+      {
+        "name": "perjury-bantjies-affidavit",
+        "type": "contradiction",
+        "order": 2,
+        "params": {
+          "claim": "confirmatory-affidavit-truthful",
+          "negation": "received-fraud-reports-68-days-prior",
+          "evidence": "fraud-report-6-June-2025-plus-bantjies-email-forward",
+          "name": "perjury-bantjies-affidavit"
+        }
+      },
+      {
+        "name": "trust-forgery-timeline",
+        "type": "temporal",
+        "order": 3,
+        "params": {
+          "event1": "kayla-murdered",
+          "date1": "2023-07-13",
+          "event2": "rynette-requests-trust-docs",
+          "date2": "2023-07-27",
+          "event3": "trust-forged-bantjies-installed",
+          "date3": "2024-06-28",
+          "name": "trust-forgery-timeline"
+        }
+      },
+      {
+        "name": "interdict-timeline",
+        "type": "temporal",
+        "order": 3,
+        "params": {
+          "event1": "daniel-reports-fraud-to-bantjies",
+          "date1": "2025-06-06",
+          "event2": "cards-cancelled-retaliation",
+          "date2": "2025-06-07",
+          "event3": "bantjies-swears-false-affidavit",
+          "date3": "2025-08-13",
+          "event4": "interdict-granted-ex-parte",
+          "date4": "2025-08-19",
+          "name": "interdict-timeline"
+        }
+      },
+      {
+        "name": "revenue-diversion-timeline",
+        "type": "temporal",
+        "order": 3,
+        "params": {
+          "event1": "SARS-eFiling-banking-changed-to-ABSA",
+          "date1": "2024-04-26",
+          "event2": "bank-detail-change-emails-begin",
+          "date2": "2025-05-02",
+          "event3": "39-plus-emails-sent-by-linda",
+          "date3": "2025-06-18",
+          "name": "revenue-diversion-timeline"
+        }
+      },
+      {
+        "name": "sage-sabotage-timeline",
+        "type": "temporal",
+        "order": 3,
+        "params": {
+          "event1": "peter-swears-false-sage-affidavit",
+          "date1": "2024-07-08",
+          "event2": "sage-account-transferred",
+          "date2": "2024-07-09",
+          "event3": "stock2shop-pipeline-broken",
+          "date3": "2024-07-10",
+          "name": "sage-sabotage-timeline"
+        }
+      },
+      {
+        "name": "corporate-structure-conflict",
+        "type": "structural",
+        "order": 4,
+        "params": {
+          "entity1": {
+            "name": "Danie Bantjies",
+            "role": "CFO-George-Group-and-fraudulent-trustee"
+          },
+          "entity2": {
+            "name": "Ketoni Investment Holdings",
+            "role": "debtor-R18.685M-to-FFT"
+          },
+          "relation": "insider-access-to-payout-mechanism",
+          "name": "corporate-structure-conflict"
+        }
+      },
+      {
+        "name": "farrar-family-self-dealing",
+        "type": "structural",
+        "order": 4,
+        "params": {
+          "entity1": {
+            "name": "Rynette Farrar",
+            "role": "bookkeeper-operator"
+          },
+          "entity2": {
+            "name": "Adderory (Pty) Ltd",
+            "role": "sons-company-registered-competitor-domain"
+          },
+          "entity3": {
+            "name": "Luxur\u00e9",
+            "role": "direct-competitor-to-RegimA"
+          },
+          "relation": "closed-loop-self-dealing",
+          "name": "farrar-family-self-dealing"
+        }
+      },
+      {
+        "name": "foreknowledge-chain-bantjies",
+        "type": "foreknowledge",
+        "order": 5,
+        "params": {
+          "chain": [
+            {
+              "who": "Bantjies",
+              "when": "2024-06-28",
+              "what": "accepted-fraudulent-trustee-appointment",
+              "evidence": "rynette-email-pp-peter"
+            },
+            {
+              "who": "Bantjies",
+              "when": "2025-05-26",
+              "what": "secretly-shared-financial-analysis-with-rynette",
+              "evidence": "email-ek-dink-nie-jy-moet-se"
+            },
+            {
+              "who": "Bantjies",
+              "when": "2025-06-06",
+              "what": "received-daniels-fraud-report",
+              "evidence": "email-forward-to-work-email"
+            },
+            {
+              "who": "Bantjies",
+              "when": "2025-06-10",
+              "what": "received-second-detailed-fraud-report",
+              "evidence": "email-acknowledgment"
+            },
+            {
+              "who": "Bantjies",
+              "when": "2025-08-13",
+              "what": "swore-confirmatory-affidavit-contradicting-known-facts",
+              "evidence": "court-filing-68-days-after-fraud-report"
+            }
+          ],
+          "name": "foreknowledge-chain-bantjies"
+        }
+      },
+      {
+        "name": "foreknowledge-chain-rynette",
+        "type": "foreknowledge",
+        "order": 5,
+        "params": {
+          "chain": [
+            {
+              "who": "Rynette",
+              "when": "2021-08-17",
+              "what": "instructed-backdated-journal-entries",
+              "evidence": "email-to-bantjies"
+            },
+            {
+              "who": "Rynette",
+              "when": "2023-07-27",
+              "what": "requested-trust-documents-14-days-after-kayla-murder",
+              "evidence": "email-to-bantjies"
+            },
+            {
+              "who": "Rynette",
+              "when": "2024-04-26",
+              "what": "impersonated-bantjies-on-SARS-eFiling",
+              "evidence": "logged-in-as-you-email"
+            },
+            {
+              "who": "Rynette",
+              "when": "2024-06-28",
+              "what": "forged-trust-amendment-signed-as-pp-peter",
+              "evidence": "email-copy-of-your-id"
+            },
+            {
+              "who": "Rynette",
+              "when": "2025-05-02",
+              "what": "initiated-revenue-diversion",
+              "evidence": "banking-details-email"
+            },
+            {
+              "who": "Rynette",
+              "when": "2025-06-18",
+              "what": "commissioned-de-novo-fabrication",
+              "evidence": "fabricated-2019-accounts"
+            }
+          ],
+          "name": "foreknowledge-chain-rynette"
+        }
+      },
+      {
+        "name": "irreconcilable-conflicts-of-interest",
+        "type": "comparison",
+        "order": 7,
+        "params": {
+          "conflict1": {
+            "role_a": "CFO-George-Group",
+            "role_b": "trustee-FFT",
+            "person": "Bantjies",
+            "nature": "insider-access-to-R18.685M-payout"
+          },
+          "conflict2": {
+            "role_a": "external-accountant",
+            "role_b": "confirmatory-affidavit-deponent",
+            "person": "Bantjies",
+            "nature": "swore-against-client-who-reported-fraud-to-him"
+          },
+          "conflict3": {
+            "role_a": "bookkeeper",
+            "role_b": "identity-operator-of-director",
+            "person": "Rynette",
+            "nature": "controlled-all-communications-attributed-to-Peter"
+          },
+          "name": "irreconcilable-conflicts-of-interest"
+        }
+      },
+      {
+        "name": "interlock-trust-forgery-revenue-capture",
+        "type": "interlock",
+        "order": 35,
+        "params": {
+          "temporal_dimension": "trust-forgery-timeline",
+          "structural_dimension": "corporate-structure-conflict",
+          "binding": "ketoni-payout-R18.685M-due-May-2026",
+          "name": "interlock-trust-forgery-revenue-capture"
+        }
+      },
+      {
+        "name": "interlock-sabotage-then-frame",
+        "type": "interlock",
+        "order": 35,
+        "params": {
+          "temporal_dimension": "sage-sabotage-timeline",
+          "structural_dimension": "farrar-family-self-dealing",
+          "binding": "manufactured-financial-chaos-used-as-interdict-evidence",
+          "name": "interlock-sabotage-then-frame"
+        }
+      }
+    ],
+    "events": [
+      {
+        "date": "2021-08-17",
+        "description": "Rynette instructs Bantjies to make backdated journal entries",
+        "rule": "Criminal: fraud, Companies Act s76-77",
+        "actor": "Rynette Farrar"
+      },
+      {
+        "date": "2022-01-18",
+        "description": "Bantjies admits using incorrect Villa Via registration since 2014",
+        "rule": "SAICA professional misconduct",
+        "actor": "Danie Bantjies"
+      },
+      {
+        "date": "2023-07-13",
+        "description": "Kayla Pretorius murdered \u2014 creates vacuum in digital infrastructure",
+        "rule": "contextual",
+        "actor": "external"
+      },
+      {
+        "date": "2023-07-27",
+        "description": "Rynette requests trust documents from Bantjies \u2014 14 days after murder",
+        "rule": "Criminal: premeditation indicator",
+        "actor": "Rynette Farrar"
+      },
+      {
+        "date": "2023-10-06",
+        "description": "Rynette takes control of SARS compliance, sidelining Bantjies",
+        "rule": "Tax Administration Act",
+        "actor": "Rynette Farrar"
+      },
+      {
+        "date": "2023-11-16",
+        "description": "SARS wants to 'have a coffee' \u2014 audit indicator",
+        "rule": "Tax Administration Act",
+        "actor": "SARS"
+      },
+      {
+        "date": "2024-04-26",
+        "description": "Rynette logs into SARS eFiling as Bantjies to change banking to ABSA",
+        "rule": "Criminal: identity fraud, Tax Administration Act s235",
+        "actor": "Rynette Farrar"
+      },
+      {
+        "date": "2024-06-28",
+        "description": "Trust amendment forged \u2014 Rynette signs as pp Peter, installs Bantjies as trustee",
+        "rule": "Criminal: forgery, Trust Property Control Act s6",
+        "actor": "Rynette Farrar"
+      },
+      {
+        "date": "2024-07-01",
+        "description": "Bantjies sends ID accepting fraudulent trustee appointment",
+        "rule": "Trust Property Control Act",
+        "actor": "Danie Bantjies"
+      },
+      {
+        "date": "2024-07-08",
+        "description": "Peter swears false affidavit to Sage about Kayla's death",
+        "rule": "Criminal: perjury, fraud",
+        "actor": "Peter Andrew Faucitt"
+      },
+      {
+        "date": "2024-07-09",
+        "description": "Sage account transferred \u2014 Stock2Shop pipeline broken",
+        "rule": "Companies Act s76",
+        "actor": "Peter Andrew Faucitt"
+      },
+      {
+        "date": "2024-09-26",
+        "description": "Bantjies links trust documents to Ketoni investment feedback in single meeting",
+        "rule": "Conflict of interest",
+        "actor": "Danie Bantjies"
+      },
+      {
+        "date": "2025-03-30",
+        "description": "Two years of unallocated expenses dumped into RWD with 12-hour deadline",
+        "rule": "Companies Act s76-77",
+        "actor": "Rynette Farrar"
+      },
+      {
+        "date": "2025-05-02",
+        "description": "Kent Rault sends bank detail change emails to clients",
+        "rule": "Criminal: theft by diversion",
+        "actor": "Kent Rault"
+      },
+      {
+        "date": "2025-05-05",
+        "description": "Rynette sends banking details and email address for POP",
+        "rule": "Criminal: theft by diversion",
+        "actor": "Rynette Farrar"
+      },
+      {
+        "date": "2025-05-22",
+        "description": "Orders removed from Shopify platform",
+        "rule": "Criminal: theft, Companies Act",
+        "actor": "Peter Andrew Faucitt"
+      },
+      {
+        "date": "2025-05-26",
+        "description": "Bantjies secretly shares financial analysis with Rynette \u2014 'don't say I shared this'",
+        "rule": "SAICA professional misconduct, fiduciary breach",
+        "actor": "Danie Bantjies"
+      },
+      {
+        "date": "2025-05-29",
+        "description": "Adderory registers regimaskin.co.za domain",
+        "rule": "Companies Act, unfair competition",
+        "actor": "Adderory (Pty) Ltd"
+      },
+      {
+        "date": "2025-06-06",
+        "description": "Daniel reports fraud to Bantjies \u2014 first detailed report",
+        "rule": "Companies Act s76",
+        "actor": "Daniel James Faucitt"
+      },
+      {
+        "date": "2025-06-07",
+        "description": "Daniel's corporate cards cancelled \u2014 immediate retaliation",
+        "rule": "Criminal: obstruction, Companies Act",
+        "actor": "Peter Andrew Faucitt"
+      },
+      {
+        "date": "2025-06-10",
+        "description": "Daniel sends second detailed fraud report to Bantjies",
+        "rule": "Companies Act s76",
+        "actor": "Daniel James Faucitt"
+      },
+      {
+        "date": "2025-06-18",
+        "description": "FNB Legal confirms Daniel holds SOLE General Powers; De Novo fabricates 2019 accounts",
+        "rule": "FNB FICA/KYC; Criminal: fraud, forgery",
+        "actor": "FNB Legal / De Novo"
+      },
+      {
+        "date": "2025-06-20",
+        "description": "Gayane announces email domain change to regimaskin.co.za",
+        "rule": "Infrastructure hijacking",
+        "actor": "Gayane Williams"
+      },
+      {
+        "date": "2025-08-11",
+        "description": "Backdated Main Trustee agreement sent \u2014 dated 1 July 2025",
+        "rule": "Criminal: forgery",
+        "actor": "Rynette Farrar"
+      },
+      {
+        "date": "2025-08-13",
+        "description": "Bantjies swears confirmatory affidavit \u2014 68 days after receiving fraud report",
+        "rule": "Criminal: perjury s319 Criminal Procedure Act",
+        "actor": "Danie Bantjies"
+      },
+      {
+        "date": "2025-08-14",
+        "description": "Interdict application filed via Court Online at 08:16:25 SAST",
+        "rule": "Rule 6(12)(a) Uniform Rules",
+        "actor": "Elliott Attorneys"
+      },
+      {
+        "date": "2025-08-19",
+        "description": "Ex parte interdict granted \u2014 court heard only Peter's side",
+        "rule": "Rule 6(5)(a) Uniform Rules",
+        "actor": "Court"
+      },
+      {
+        "date": "2025-08-27",
+        "description": "R10.6M extracted from company accounts within 8 days",
+        "rule": "Criminal: theft, Companies Act",
+        "actor": "Peter Andrew Faucitt"
+      },
+      {
+        "date": "2025-09-18",
+        "description": "Settlement agreements presented at Forvis Mazars mediation",
+        "rule": "Rule 41A Uniform Rules",
+        "actor": "Forvis Mazars"
+      },
+      {
+        "date": "2025-09-22",
+        "description": "Daniel and Jacqueline withdraw from settlement citing duress",
+        "rule": "Contract law: duress",
+        "actor": "Daniel James Faucitt"
+      },
+      {
+        "date": "2026-02-04",
+        "description": "Contempt application filed seeking 6 months imprisonment of Jacqueline",
+        "rule": "Rule 45A Uniform Rules; Criminal: contempt",
+        "actor": "Peter Andrew Faucitt"
+      }
+    ],
+    "procedural_types": [
+      "ex-parte",
+      "urgent",
+      "interdict",
+      "contempt",
+      "rescission",
+      "irregular-proceedings"
+    ],
+    "contradiction_pairs": [
+      [
+        "unauthorized-transactions-by-daniel",
+        "sole-transactional-authority-confirmed"
+      ],
+      [
+        "full-disclosure-to-court",
+        "concealed-sole-mandate-fraud-reports-card-sabotage"
+      ],
+      [
+        "confirmatory-affidavit-truthful",
+        "received-fraud-reports-68-days-prior"
+      ],
+      [
+        "kayla-recently-died",
+        "kayla-murdered-over-year-prior"
+      ],
+      [
+        "financial-chaos-caused-by-daniel",
+        "financial-chaos-engineered-by-rynette-sage-sabotage"
+      ],
+      [
+        "legitimate-trustee-appointment",
+        "forged-trust-amendment-by-rynette-pp-peter"
+      ],
+      [
+        "banking-change-routine",
+        "systematic-revenue-diversion-39-emails"
+      ],
+      [
+        "IT-expenses-cause-losses",
+        "revenue-diversion-and-self-dealing-cause-losses"
+      ]
+    ],
+    "exclusion_groups": [
+      [
+        "sole-transactional-authority",
+        "joint-transactional-authority",
+        "no-transactional-authority"
+      ],
+      [
+        "legitimate-trustee-appointment",
+        "forged-trustee-appointment"
+      ],
+      [
+        "full-disclosure",
+        "material-non-disclosure"
+      ],
+      [
+        "truthful-affidavit",
+        "perjured-affidavit"
+      ]
+    ],
+    "legal_domains": [
+      {
+        "domain": "civil",
+        "burden": "50%",
+        "claims": [
+          "breach-of-fiduciary-duty",
+          "void-ab-initio",
+          "rescission-of-interdict",
+          "damages-R10.6M",
+          "interdict-against-contempt-application"
+        ]
+      },
+      {
+        "domain": "criminal",
+        "burden": "95%",
+        "claims": [
+          "fraud-s103",
+          "forgery-s106",
+          "perjury-s319-CPA",
+          "theft-s1",
+          "obstruction-of-justice",
+          "identity-fraud",
+          "conspiracy-to-commit-fraud"
+        ]
+      },
+      {
+        "domain": "cipc",
+        "burden": "administrative",
+        "claims": [
+          "companies-act-s76-fiduciary-breach",
+          "companies-act-s77-liability",
+          "director-misconduct",
+          "false-cipc-filings"
+        ]
+      },
+      {
+        "domain": "popia",
+        "burden": "criminal",
+        "claims": [
+          "unauthorized-access-to-personal-information",
+          "identity-misappropriation",
+          "SARS-eFiling-credential-abuse",
+          "warehouse-POPI-violations"
+        ]
+      },
+      {
+        "domain": "tax",
+        "burden": "criminal",
+        "claims": [
+          "tax-administration-act-s235-fraud",
+          "SARS-eFiling-impersonation",
+          "VAT-fraud",
+          "false-tax-returns"
+        ]
+      },
+      {
+        "domain": "professional",
+        "burden": "disciplinary",
+        "claims": [
+          "SAICA-professional-misconduct",
+          "conflict-of-interest",
+          "failure-to-report-fraud"
+        ]
+      }
+    ]
+  },
+  "configure_corpus_paths_and_load_api": {
+    "step": "configure_corpus_paths_and_load_api",
+    "status": "configured",
+    "corpus_dir": "/home/ubuntu/skills/chainlex/references/corpus",
+    "scripts_dir": "/home/ubuntu/skills/chainlex/scripts",
+    "available_domains": {
+      "con": "/home/ubuntu/skills/chainlex/references/corpus/con/za/south_african_constitutional_law.scm",
+      "cri": "/home/ubuntu/skills/chainlex/references/corpus/cri/za/south_african_criminal_law.scm",
+      "civ": "/home/ubuntu/skills/chainlex/references/corpus/civ/za/south_african_civil_law.scm",
+      "adm": "/home/ubuntu/skills/chainlex/references/corpus/adm/za/south_african_administrative_law.scm",
+      "cst": "/home/ubuntu/skills/chainlex/references/corpus/cst/za/south_african_construction_law.scm",
+      "env": "/home/ubuntu/skills/chainlex/references/corpus/env/za/south_african_environmental_law.scm",
+      "int": "/home/ubuntu/skills/chainlex/references/corpus/int/za/south_african_international_law.scm",
+      "lab": "/home/ubuntu/skills/chainlex/references/corpus/lab/za/south_african_labour_law.scm"
+    },
+    "domain_count": 8,
+    "index_loaded": true,
+    "api_available": true
+  },
+  "classify_legal_domain_from_scenario_facts": {
+    "step": "classify_legal_domain_from_scenario_facts",
+    "status": "decided",
+    "domains": [
+      "civ",
+      "con",
+      "cri",
+      "adm"
+    ],
+    "primary_domain": "civ",
+    "confidence": 0.9,
+    "method": "ml",
+    "reasoning": "The scenario involves complex civil disputes related to trust forgery, revenue hijacking, and corporate sabotage, which primarily fall under Civil Law. Additionally, the case includes constitutional issues (e.g., court process manipulation), criminal elements such as fraud, perjury, and sabotage, and administrative aspects like court procedures and possibly regulatory violations (e.g., POPIA). Therefore, multiple domains are relevant, with Civil Law being the primary focus due to the contractual and property disputes involved."
+  },
+  "extract_relevant_principles_from_corpus": {
+    "step": "extract_relevant_principles_from_corpus",
+    "status": "completed",
+    "total_principles": 10,
+    "relevant_principles": [],
+    "domain_breakdown": {
+      "civ": 6,
+      "con": 2,
+      "cri": 0,
+      "adm": 2
+    },
+    "lv1_utilities": 64,
+    "domains_loaded": [
+      "civ",
+      "con",
+      "cri",
+      "adm"
+    ]
+  },
+  "validate_corpus_selection_completeness": {
+    "step": "validate_corpus_selection_completeness",
+    "status": "passed",
+    "errors": [],
+    "warnings": [
+      "No keyword-filtered principles; using full corpus"
+    ]
+  },
+  "configure_lexrex_engine_and_contradiction_oracle": {
+    "step": "configure_lexrex_engine_and_contradiction_oracle",
+    "status": "configured",
+    "lexrex_dir": "/home/ubuntu/lexrex",
+    "models_dir": "/home/ubuntu/lexrex/models",
+    "engine_available": false,
+    "oracle_available": false,
+    "contradiction_pairs": 13,
+    "exclusion_groups": 4,
+    "matula_orders": {
+      "2": "simple denial",
+      "3": "temporal reframing",
+      "4": "structural reconfiguration",
+      "5": "irreducible sequence",
+      "7": "structured comparison",
+      "35": "{5,7} interlock"
+    }
+  },
+  "encode_entities_and_relations_as_s_expressions": {
+    "step": "encode_entities_and_relations_as_s_expressions",
+    "status": "completed",
+    "entities_encoded": 37,
+    "relations_encoded": 19,
+    "output_file": "/home/ubuntu/revstream1/lex_encode_output/scm/entities_relations.scm",
+    "scm_content": ";; \u2500\u2500 Entity-Relation Encoding \u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\n;; Generated: 2026-03-14T20:58:30.134571\n;; Entities: 37\n;; Relations: 19\n;; \u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\n\n;; \u2500\u2500 Entities \u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\n(define entity-peter-andrew-faucitt (make-person-entity (name \"Peter Andrew Faucitt\") (role primary_perpetrator) (id \"PERSON_001\") (id_number \"820430 5708 18 5\") (agent_type \"antagonist\")))\n(define entity-rynette-farrar (make-person-entity (name \"Rynette Farrar\") (role co_conspirator_operator) (id \"PERSON_002\") (agent_type \"antagonist\") (role_detail \"bookkeeper who operates Peter's email and controls all financial systems\")))\n(define entity-jacqueline-faucitt (make-person-entity (name \"Jacqueline Faucitt\") (role victim_respondent) (id \"PERSON_003\") (agent_type \"victim\")))\n(define entity-daniel-james-faucitt (make-person-entity (name \"Daniel James Faucitt\") (role victim_respondent) (id \"PERSON_004\") (agent_type \"victim\") (role_detail \"co-director with sole FNB mandate, built all digital infrastructure\")))\n(define entity-daniel-faucitt-sr (make-person-entity (name \"Daniel Faucitt Sr\") (role victim_trustee) (id \"PERSON_005\") (agent_type \"victim\")))\n(define entity-danie-bantjies (make-person-entity (name \"Danie Bantjies\") (role co_conspirator_accountant) (id \"PERSON_006\") (saica_number \"00105928\") (agent_type \"antagonist\") (role_detail \"external accountant, CFO George Group, fraudulently installed trustee\")))\n(define entity-kevin-derrick (make-person-entity (name \"Kevin Derrick\") (role connected_party) (id \"PERSON_007\") (role_detail \"CEO George Group, director Ketoni Investment Holdings\")))\n(define entity-kayla-pretorius (make-person-entity (name \"Kayla Pretorius\") (role deceased_key_person) (id \"PERSON_008\") (role_detail \"original Sage account owner, co-director ReZonance, murdered 13 July 2023\")))\n(define entity-kent-rault (make-person-entity (name \"Kent Rault\") (role employee_participant) (id \"PERSON_009\") (role_detail \"sent bank detail change emails to clients\")))\n(define entity-linda-farrar (make-person-entity (name \"Linda Farrar\") (role employee_participant) (id \"PERSON_010\") (role_detail \"Rynette's sister, sent 39+ bank detail change emails\")))\n(define entity-gayane-williams (make-person-entity (name \"Gayane Williams\") (role employee_participant) (id \"PERSON_011\") (role_detail \"announced email domain change from regima.zone to regimaskin.co.za\")))\n(define entity-anton-hechter (make-person-entity (name \"Anton Hechter\") (role tax_practitioner) (id \"PERSON_012\") (role_detail \"SARS tax practitioner for all RegimA companies\")))\n(define entity-clare-payne (make-person-entity (name \"Clare Payne\") (role cipc_agent) (id \"PERSON_013\") (role_detail \"Corporate and Merchant Administrators \u2014 CIPC agent\")))\n(define entity-marc-yudaken (make-person-entity (name \"Marc Yudaken\") (role attorney) (id \"PERSON_042\") (role_detail \"Baker McKenzie \u2014 drafted Ketoni SHA/MOI\")))\n(define entity-ian-levitt (make-person-entity (name \"Ian Levitt\") (role attorney) (id \"PERSON_014\") (role_detail \"sent R63M demand letter (SF9) \u2014 ignored\")))\n(define entity-elliott-attorneys (make-person-entity (name \"Elliott Attorneys\") (role legal_representative) (id \"PERSON_015\") (role_detail \"Peter's attorneys for interdict application\")))\n(define entity-regima-worldwide-distribution-(pty)-ltd (make-organization-entity (name \"RegimA Worldwide Distribution (Pty) Ltd\") (role primary_company) (id \"ORG_001\") (cipc_reg \"2001/025850/07\")))\n(define entity-regima-skin-treatments (make-organization-entity (name \"RegimA Skin Treatments\") (role trading_entity) (id \"ORG_002\")))\n(define entity-rwd-(uk)-ltd (make-organization-entity (name \"RWD (UK) Ltd\") (role uk_entity) (id \"ORG_003\")))\n(define entity-strategic-logistics-cc (make-organization-entity (name \"Strategic Logistics CC\") (role logistics_entity) (id \"ORG_004\")))\n(define entity-rezonance (make-organization-entity (name \"ReZonance\") (role digital_entity) (id \"ORG_005\") (role_detail \"co-directed by Daniel and Kayla\")))\n(define entity-adderory-(pty)-ltd (make-organization-entity (name \"Adderory (Pty) Ltd\") (role farrar_family_company) (id \"ORG_006\") (role_detail \"Rynette's son's company, registered regimaskin.co.za\")))\n(define entity-luxury-products-online (make-organization-entity (name \"Luxury Products Online\") (role farrar_family_company) (id \"ORG_007\") (role_detail \"distribution channel owned by Rynette's son\")))\n(define entity-luxur\u00e9 (make-organization-entity (name \"Luxur\u00e9\") (role competitor_entity) (id \"ORG_008\") (role_detail \"direct competitor to RegimA, owned by Rynette's son\")))\n(define entity-george-group (make-organization-entity (name \"George Group\") (role connected_corporate) (id \"ORG_009\") (role_detail \"Bantjies is CFO, Kevin Derrick is CEO\")))\n(define entity-ketoni-investment-holdings (make-organization-entity (name \"Ketoni Investment Holdings\") (role debtor_entity) (id \"ORG_010\") (role_detail \"owes R18.685M to FFT, due May 2026\")))\n(define entity-de-novo-business-services (make-organization-entity (name \"De Novo Business Services\") (role fabrication_service) (id \"ORG_011\") (role_detail \"fabricated 2019 accounts removing Kayla\")))\n(define entity-baker-mckenzie (make-organization-entity (name \"Baker McKenzie\") (role law_firm) (id \"ORG_025\") (role_detail \"drafted Ketoni SHA/MOI\")))\n(define entity-forvis-mazars (make-organization-entity (name \"Forvis Mazars\") (role mediator) (id \"ORG_012\") (role_detail \"facilitated settlement mediation September 2025\")))\n(define entity-ens-africa (make-organization-entity (name \"ENS Africa\") (role former_attorneys) (id \"ORG_013\") (role_detail \"Daniel and Jacqueline's attorneys who appeared to act against their interests\")))\n(define entity-faucitt-family-trust (make-trust-entity (name \"Faucitt Family Trust\") (role trust_vehicle) (id \"TRUST_001\") (role_detail \"holds 33% of RWD, creditor of Ketoni R18.685M\")))\n(define entity-regimasa-(pty)-ltd (make-organization-entity (name \"RegimaSA (Pty) Ltd\") (role shell_company) (id \"ORG_014\") (cipc_reg \"2017/087935/07\")))\n(define entity-shopify-plus (make-platform-entity (name \"Shopify Plus\") (role ecommerce_platform) (id \"PLATFORM_001\")))\n(define entity-sage-business-cloud (make-platform-entity (name \"Sage Business Cloud\") (role accounting_platform) (id \"PLATFORM_002\")))\n(define entity-stock2shop (make-platform-entity (name \"Stock2Shop\") (role integration_platform) (id \"PLATFORM_003\")))\n(define entity-fnb-business-account-62707308252 (make-account-entity (name \"FNB Business Account 62707308252\") (role primary_bank_account) (id \"ACCOUNT_001\") (bank \"FNB\") (mandate \"Daniel sole general powers\")))\n(define entity-absa-business-account (make-account-entity (name \"ABSA Business Account\") (role diversion_account) (id \"ACCOUNT_002\") (bank \"ABSA\") (mandate \"Peter/Rynette controlled\")))\n\n;; \u2500\u2500 Relations \u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\n(define rel-peter-andrew-faucitt-daniel-james-faucitt (make-opposed-to-relation (source entity-peter-andrew-faucitt) (target entity-daniel-james-faucitt) ))\n(define rel-peter-andrew-faucitt-rynette-farrar (make-co-conspirator-relation (source entity-peter-andrew-faucitt) (target entity-rynette-farrar) ))\n(define rel-rynette-farrar-danie-bantjies (make-co-conspirator-relation (source entity-rynette-farrar) (target entity-danie-bantjies) ))\n(define rel-peter-andrew-faucitt-danie-bantjies (make-co-conspirator-relation (source entity-peter-andrew-faucitt) (target entity-danie-bantjies) ))\n(define rel-rynette-farrar-peter-andrew-faucitt (make-operates-identity-of-relation (source entity-rynette-farrar) (target entity-peter-andrew-faucitt) ))\n(define rel-ketoni-investment-holdings-faucitt-family-trust (make-owes-debt-relation (source entity-ketoni-investment-holdings) (target entity-faucitt-family-trust) ))\n(define rel-danie-bantjies-george-group (make-cfo-of-relation (source entity-danie-bantjies) (target entity-george-group) ))\n(define rel-kevin-derrick-george-group (make-ceo-of-relation (source entity-kevin-derrick) (target entity-george-group) ))\n(define rel-kevin-derrick-ketoni-investment-holdings (make-director-of-relation (source entity-kevin-derrick) (target entity-ketoni-investment-holdings) ))\n(define rel-danie-bantjies-faucitt-family-trust (make-trustee-of-relation (source entity-danie-bantjies) (target entity-faucitt-family-trust) ))\n(define rel-daniel-james-faucitt-regima-worldwide-distribution-(pty)-ltd (make-co-director-relation (source entity-daniel-james-faucitt) (target entity-regima-worldwide-distribution-(pty)-ltd) ))\n(define rel-peter-andrew-faucitt-regima-worldwide-distribution-(pty)-ltd (make-co-director-relation (source entity-peter-andrew-faucitt) (target entity-regima-worldwide-distribution-(pty)-ltd) ))\n(define rel-daniel-james-faucitt-fnb-business-account-62707308252 (make-sole-mandate-holder-relation (source entity-daniel-james-faucitt) (target entity-fnb-business-account-62707308252) ))\n(define rel-rynette-farrar-adderory-(pty)-ltd (make-family-company-relation (source entity-rynette-farrar) (target entity-adderory-(pty)-ltd) ))\n(define rel-rynette-farrar-luxury-products-online (make-family-company-relation (source entity-rynette-farrar) (target entity-luxury-products-online) ))\n(define rel-rynette-farrar-luxur\u00e9 (make-family-company-relation (source entity-rynette-farrar) (target entity-luxur\u00e9) ))\n(define rel-de-novo-business-services-regimasa-(pty)-ltd (make-fabricated-records-for-relation (source entity-de-novo-business-services) (target entity-regimasa-(pty)-ltd) ))\n(define rel-jacqueline-faucitt-peter-andrew-faucitt (make-victim-of-relation (source entity-jacqueline-faucitt) (target entity-peter-andrew-faucitt) ))\n(define rel-daniel-james-faucitt-peter-andrew-faucitt (make-victim-of-relation (source entity-daniel-james-faucitt) (target entity-peter-andrew-faucitt) ))\n"
+  },
+  "encode_evidence_trees_at_correct_matula_prime_orders": {
+    "step": "encode_evidence_trees_at_correct_matula_prime_orders",
+    "status": "completed",
+    "items_encoded": 14,
+    "order_distribution": {
+      "2": 3,
+      "3": 4,
+      "4": 2,
+      "5": 2,
+      "7": 1,
+      "35": 2
+    },
+    "output_file": "/home/ubuntu/revstream1/lex_encode_output/scm/evidence_trees.scm",
+    "scm_content": ";; \u2500\u2500 Evidence Tree Encoding \u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\n;; Generated: 2026-03-14T20:58:30.136523\n;; Items: 14\n;; Order distribution: {2: 3, 3: 4, 4: 2, 5: 2, 7: 1, 35: 2}\n;; \u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\n\n\n;; \u2500\u2500 Order 2 \u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\n(define sole-mandate-contradiction\n  ;; Matula order 2\n  (contradiction unauthorized-transactions-by-daniel sole-transactional-authority-confirmed (FNB-FICA-KYC-sole-mandate-letter-18-June-2025)))\n(define material-non-disclosure\n  ;; Matula order 2\n  (contradiction full-disclosure-to-court concealed-sole-mandate-fraud-reports-card-sabotage (founding-affidavit-vs-FNB-letter-and-fraud-reports)))\n(define perjury-bantjies-affidavit\n  ;; Matula order 2\n  (contradiction confirmatory-affidavit-truthful received-fraud-reports-68-days-prior (fraud-report-6-June-2025-plus-bantjies-email-forward)))\n\n;; \u2500\u2500 Order 3 \u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\n(define trust-forgery-timeline\n  ;; Matula order 3\n  (chain (kayla-murdered (date \"2023-07-13\") (then (rynette-requests-trust-docs (date \"2023-07-27\") (then (trust-forged-bantjies-installed (date \"2024-06-28\"))))))))\n(define interdict-timeline\n  ;; Matula order 3\n  (chain (daniel-reports-fraud-to-bantjies (date \"2025-06-06\") (then (cards-cancelled-retaliation (date \"2025-06-07\") (then (bantjies-swears-false-affidavit (date \"2025-08-13\"))))))))\n(define revenue-diversion-timeline\n  ;; Matula order 3\n  (chain (SARS-eFiling-banking-changed-to-ABSA (date \"2024-04-26\") (then (bank-detail-change-emails-begin (date \"2025-05-02\") (then (39-plus-emails-sent-by-linda (date \"2025-06-18\"))))))))\n(define sage-sabotage-timeline\n  ;; Matula order 3\n  (chain (peter-swears-false-sage-affidavit (date \"2024-07-08\") (then (sage-account-transferred (date \"2024-07-09\") (then (stock2shop-pipeline-broken (date \"2024-07-10\"))))))))\n\n;; \u2500\u2500 Order 4 \u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\n(define corporate-structure-conflict\n  ;; Matula order 4\n  (corporate-structure-conflict ;; order-4 \u2014 requires manual encoding))\n(define farrar-family-self-dealing\n  ;; Matula order 4\n  (farrar-family-self-dealing ;; order-4 \u2014 requires manual encoding))\n\n;; \u2500\u2500 Order 5 \u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\n(define foreknowledge-chain-bantjies\n  ;; Matula order 5\n  (foreknowledge-chain-bantjies ;; order-5 \u2014 requires manual encoding))\n(define foreknowledge-chain-rynette\n  ;; Matula order 5\n  (foreknowledge-chain-rynette ;; order-5 \u2014 requires manual encoding))\n\n;; \u2500\u2500 Order 7 \u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\n(define irreconcilable-conflicts-of-interest\n  ;; Matula order 7\n  (irreconcilable-conflicts-of-interest ;; order-7 \u2014 requires manual encoding))\n\n;; \u2500\u2500 Order 35 \u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\n(define interlock-trust-forgery-revenue-capture\n  ;; Matula order 35\n  (interlock-trust-forgery-revenue-capture ;; order-35 \u2014 requires manual encoding))\n(define interlock-sabotage-then-frame\n  ;; Matula order 35\n  (interlock-sabotage-then-frame ;; order-35 \u2014 requires manual encoding))\n"
+  },
+  "enumerate_defense_morphisms_and_generate_blocks": {
+    "step": "enumerate_defense_morphisms_and_generate_blocks",
+    "status": "completed",
+    "total_defenses": 25,
+    "total_blocks": 25,
+    "unblocked_defenses": 0,
+    "fixed_point": true,
+    "output_file": "/home/ubuntu/revstream1/lex_encode_output/scm/defenses_blocks.scm"
+  },
+  "classify_interlock_patterns_order_35": {
+    "step": "classify_interlock_patterns_order_35",
+    "status": "decided",
+    "interlocks_found": 1,
+    "interlock_pairs": [
+      {
+        "temporal": "foreknowledge-chain-bantjies",
+        "structural": "interlock-trust-forgery-revenue-capture",
+        "binding": "foreknowledge-chain-bantjies"
+      }
+    ],
+    "confidence": 0.75,
+    "method": "ml",
+    "reasoning": "The evidence shows a shared binding piece of evidence ('foreknowledge-chain-bantjies') that appears in both an Order 5 chain (foreknowledge-chain-bantjies) and an Order 35 interlock (interlock-trust-forgery-revenue-capture). This shared element indicates a potential interlock between the temporal chain and the structural comparison dimensions. The confidence is moderate-high due to the explicit shared evidence, but some manual encoding notes suggest further validation is needed."
+  },
+  "validate_evidence_tree_structural_integrity": {
+    "step": "validate_evidence_tree_structural_integrity",
+    "status": "passed",
+    "errors": [],
+    "warnings": [],
+    "fixed_point": true
+  },
+  "load_relevant_procedural_rule_scm_files": {
+    "step": "load_relevant_procedural_rule_scm_files",
+    "status": "configured",
+    "corpus_dir": "/home/ubuntu/skills/uniform-rules-scm/references/corpus",
+    "procedural_types": [
+      "ex-parte",
+      "urgent",
+      "interdict",
+      "contempt",
+      "rescission",
+      "irregular-proceedings"
+    ],
+    "files_loaded": [
+      "uniform_rules_applications.scm",
+      "uniform_rules_definitions.scm",
+      "uniform_rules_execution_contempt.scm",
+      "uniform_rules_rescission_review.scm"
+    ],
+    "file_count": 4,
+    "total_predicates": 63,
+    "predicate_names": [
+      "valid-application?",
+      "notice-properly-addressed?",
+      "valid-ex-parte-application?",
+      "valid-urgent-ex-parte?",
+      "valid-opposition-to-ex-parte?",
+      "valid-inter-partes-application?",
+      "notice-of-motion-compliant?",
+      "valid-notice-to-oppose?",
+      "answering-affidavit-timely?",
+      "replying-affidavit-timely?",
+      "application-ready-for-set-down?",
+      "valid-interim-interdict?",
+      "valid-final-interdict?",
+      "valid-urgent-application?",
+      "urgency-properly-justified?",
+      "court-may-dispense-with-forms?",
+      "authority-to-act-valid?",
+      "power-of-attorney-filed?",
+      "attorney-acting-without-authority?",
+      "material-non-disclosure-in-ex-parte?",
+      "ex-parte-order-vitiated-by-non-disclosure?",
+      "action?",
+      "application?",
+      "court-day?",
+      "deliver?",
+      "document?",
+      "party?",
+      "registrar?",
+      "sheriff?",
+      "judge?",
+      "e-justice-system?",
+      "registered-user?",
+      "service-desk?",
+      "sign?",
+      "compute-time-in-days",
+      "rule-46-days-are-court-days?",
+      "valid-writ-of-execution?",
+      "execution-against-movables?",
+      "property-exempt-from-execution?",
+      "interpleader-claim-valid?",
+      "valid-sale-in-execution?",
+      "valid-garnishee-attachment?",
+      "garnishee-refuses-to-comply?",
+      "garnishee-disputes-liability?",
+      "sheriff-purchase-prohibited?",
+      "court-may-suspend-order?",
+      "civil-contempt-established?",
+      "contempt-defence-available?",
+      "court-may-rescind-order?",
+      "rule-42-1-a?",
+      "erroneously-sought?",
+      "erroneously-granted-in-absence?",
+      "order-void-ab-initio?",
+      "rule-42-1-c?",
+      "court-may-vary-order?",
+      "reviewable-decision?",
+      "valid-review-application?",
+      "review-affidavit-compliant?",
+      "record-properly-provided?",
+      "may-amend-review-application?",
+      "valid-opposition-to-review?",
+      "review-replying-rights?",
+      "review-set-down?"
+    ],
+    "loaded_content": {
+      "uniform_rules_applications.scm": ";; =============================================================================\n;; UNIFORM RULES OF COURT \u2014 APPLICATIONS & AUTHORITY\n;; =============================================================================\n;; Rules 6, 7 \u2014 Applications (ex parte, inter partes, urgent), Power of Attorney\n;; Source: SAFLII consolidated, updated 30 January 2026\n;; Encoding: ChainLex/LexRex S-expression format\n;; =============================================================================\n\n(define-module (uniform-rules applications)\n  #:use-module (chainlex core-utilities))\n\n;; =============================================================================\n;; RULE 6: APPLICATIONS\n;; =============================================================================\n\n;; Rule 6(1) \u2014 Every application on notice of motion supported by affidavit\n(define valid-application? (lambda (app)\n  (and (on-notice-of-motion? app)\n       (supported-by-affidavit? app)\n       (affidavit-as-to-facts? app))))\n\n;; Rule 6(2) \u2014 Addressing the notice\n(define notice-properly-addressed? (lambda (app)\n  (if (relief-claimed-against-person? app)\n      (and (addressed-to-registrar? app)\n           (addressed-to-affected-person? app))\n      (addressed-to-registrar? app))))\n\n;; Rule 6(4)(a) \u2014 Ex parte applications\n(define valid-ex-parte-application? (lambda (app)\n  (and (on-notice-to-registrar? app)\n       (supported-by-affidavit? app)\n       (filed-with-registrar? app)\n       (set-down-before-noon-day-but-one? app)\n       (sets-forth-form-of-order-sought? app)\n       (specifies-supporting-affidavit? app)\n       (requests-registrar-place-on-roll? app)\n       (in-accordance-with-form-2? app))))\n\n;; Rule 6(4)(a) proviso \u2014 Urgent ex parte\n(define valid-urgent-ex-parte? (lambda (app)\n  (and (valid-ex-parte-application? app)\n       (indicates-basis-of-urgency? app)\n       (cites-provisions-of-law? app)\n       ;; May be brought before judge in chambers\n       ;; Sub-rule (12) may be applied as necessary\n       )))\n\n;; Rule 6(4)(b) \u2014 Opposition to ex parte\n(define valid-opposition-to-ex-parte? (lambda (opp)\n  (and (has-affected-interest? opp)\n       (delivers-notice-of-leave-to-oppose? opp)\n       (supported-by-affidavit? opp)\n       (sets-forth-nature-of-interest? opp)\n       (sets-forth-grounds-to-be-heard? opp))))\n\n;; Rule 6(5)(a) \u2014 Inter partes applications\n(define valid-inter-partes-application? (lambda (app)\n  (and (on-notice-of-motion? app)\n       (in-accordance-with-form-2a? app)\n       (true-copies-served-on-all-parties? app))))\n\n;; Rule 6(5)(b) \u2014 Notice of motion requirements\n(define notice-of-motion-compliant? (lambda (app)\n  (and (appoints-address-within-25km? app)\n       (appoints-email-address? app)\n       (states-postal-or-fax-address? app)\n       (states-response-day-not-less-than-10-days? app)\n       (warns-of-default-set-down? app))))\n\n;; Rule 6(5)(d) \u2014 Respondent's notice to oppose\n(define valid-notice-to-oppose? (lambda (notice)\n  (and (within-time-period? notice)\n       (appoints-address-within-25km? notice)\n       (appoints-email-address? notice)\n       (states-postal-or-fax-address? notice))))\n\n;; Rule 6(5)(e) \u2014 Answering affidavit\n(define answering-affidavit-timely? (lambda (aff)\n  (within-20-days-of-notice-to-oppose? aff)))\n\n;; Rule 6(5)(f) \u2014 Replying affidavit\n(define replying-affidavit-timely? (lambda (aff)\n  (within-10-days-of-answering-affidavit? aff)))\n\n;; Rule 6(5)(g) \u2014 Set down after close of pleadings\n(define application-ready-for-set-down? (lambda (app)\n  (and (replying-affidavit-filed-or-period-expired? app)\n       (10-days-notice-of-set-down-given? app))))\n\n;; Rule 6(11) \u2014 Interim and final interdicts\n(define valid-interim-interdict? (lambda (app)\n  (and (prima-facie-right? app)\n       (well-grounded-apprehension-of-harm? app)\n       (balance-of-convenience-favours-applicant? app)\n       (no-other-satisfactory-remedy? app))))\n\n(define valid-final-interdict? (lambda (app)\n  (and (clear-right-established? app)\n       (actual-or-reasonably-apprehended-injury? app)\n       (no-other-satisfactory-remedy? app))))\n\n;; Rule 6(12)(a) \u2014 Urgent applications\n(define valid-urgent-application? (lambda (app)\n  (and (valid-application? app)\n       (circumstances-render-matter-urgent? app)\n       (cannot-afford-substantial-redress-in-due-course? app)\n       (sets-forth-urgency-circumstances-explicitly? app)\n       (sets-forth-reasons-no-redress-in-due-course? app))))\n\n;; Rule 6(12)(b) \u2014 Urgency justification requirements\n(define urgency-properly-justified? (lambda (app)\n  (and (sets-forth-urgency-circumstances-explicitly? app)\n       (sets-forth-reasons-no-redress-in-due-course? app))))\n\n;; Rule 6(12)(c) \u2014 Court may dispense with forms and service\n(define court-may-dispense-with-forms? (lambda (app)\n  (valid-urgent-application? app)))\n\n;; =============================================================================\n;; RULE 7: POWER OF ATTORNEY\n;; =============================================================================\n\n;; Rule 7(1) \u2014 Authority to act\n(define authority-to-act-valid? (lambda (rep)\n  (or (party-to-cause? rep)\n      (is-attorney? rep)\n      (authorized-by-power-of-attorney? rep))))\n\n;; Rule 7(2) \u2014 Filing requirement\n(define power-of-attorney-filed? (lambda (rep)\n  (and (authorized-by-power-of-attorney? rep)\n       (filed-with-registrar-before-any-step? rep))))\n\n;; Rule 7(3) \u2014 Attorney acting without power of attorney\n(define attorney-acting-without-authority? (lambda (rep)\n  (and (not (party-to-cause? rep))\n       (not (is-attorney? rep))\n       (not (authorized-by-power-of-attorney? rep)))))\n\n;; =============================================================================\n;; MATERIAL NON-DISCLOSURE IN EX PARTE APPLICATIONS\n;; =============================================================================\n;; (Common law duty, enforced via Rule 6(4))\n\n(define material-non-disclosure-in-ex-parte? (lambda (app)\n  (and (ex-parte-application? app)\n       (material-facts-exist? app)\n       (facts-known-to-applicant? app)\n       (facts-not-disclosed-to-court? app)\n       (facts-would-have-influenced-decision? app))))\n\n(define ex-parte-order-vitiated-by-non-disclosure? (lambda (app)\n  (and (material-non-disclosure-in-ex-parte? app)\n       (non-disclosure-was-deliberate-or-reckless? app))))\n",
+      "uniform_rules_definitions.scm": ";; =============================================================================\n;; UNIFORM RULES OF COURT \u2014 DEFINITIONS\n;; =============================================================================\n;; Rule 1 \u2014 Definitions and interpretation\n;; Source: SAFLII consolidated, updated 30 January 2026\n;; Encoding: ChainLex/LexRex S-expression format\n;; =============================================================================\n\n(define-module (uniform-rules definitions)\n  #:use-module (chainlex core-utilities))\n\n;; =============================================================================\n;; RULE 1: DEFINITIONS\n;; =============================================================================\n\n;; Core definitions as predicates\n(define action? (lambda (proceeding)\n  (commenced-by-summons? proceeding)))\n\n(define application? (lambda (proceeding)\n  (or (commenced-by-notice-of-motion? proceeding)\n      (other-form-under-rule-6? proceeding))))\n\n(define court-day? (lambda (day)\n  (and (not (public-holiday? day))\n       (not (saturday? day))\n       (not (sunday? day)))))\n\n(define deliver? (lambda (doc)\n  (and (serve-copies-on-all-parties? doc)\n       (file-original-with-registrar? doc)\n       (or (via-e-justice-system? doc)\n           (via-conventional-method? doc)))))\n\n(define document? (lambda (item)\n  (or (written-matter? item)\n      (printed-matter? item)\n      (electronic-matter? item)\n      (data-message? item))))\n\n(define party? (lambda (person cause)\n  (or (litigant-in-cause? person cause)\n      (attorney-of-litigant? person cause)\n      (advocate-of-litigant? person cause))))\n\n(define registrar? (lambda (person)\n  (or (is-registrar? person)\n      (is-senior-registrar? person)\n      (is-chief-registrar? person))))\n\n(define sheriff? (lambda (person)\n  (or (appointed-under-section-2-sheriffs-act? person)\n      (acting-sheriff-under-section-5? person)\n      (deputy-sheriff-under-section-6? person)\n      (designated-to-serve-process-under-section-6a? person))))\n\n(define judge? (lambda (person)\n  (sitting-otherwise-than-in-open-court? person)))\n\n;; E-justice system definitions (inserted 30 January 2026)\n(define e-justice-system? (lambda (system)\n  (electronic-system-for-filing-service-lodging? system)))\n\n(define registered-user? (lambda (person)\n  (registered-to-use-e-justice-system? person)))\n\n(define service-desk? (lambda (point)\n  (and (under-control-of-registrar? point)\n       (assists-litigants-and-public? point)\n       (for-e-justice-operations? point))))\n\n(define sign? (lambda (act)\n  (or (manual-signature? act)\n      (electronic-signature? act)\n      (advanced-electronic-signature? act))))\n\n;; =============================================================================\n;; TIME COMPUTATION\n;; =============================================================================\n\n;; Only court days are counted unless otherwise specified\n(define compute-time-in-days (lambda (start-date num-days)\n  (count-court-days-from start-date num-days)))\n\n;; \"Days\" in Rule 46 means \"court days\" per Rule 1\n(define rule-46-days-are-court-days? (lambda () #t))\n",
+      "uniform_rules_execution_contempt.scm": ";; =============================================================================\n;; UNIFORM RULES OF COURT \u2014 EXECUTION & CONTEMPT\n;; =============================================================================\n;; Rules 45, 45A \u2014 Execution of court orders, contempt, suspension\n;; Source: SAFLII consolidated, updated 30 January 2026\n;; Encoding: ChainLex/LexRex S-expression format\n;; =============================================================================\n\n(define-module (uniform-rules execution-contempt)\n  #:use-module (chainlex core-utilities))\n\n;; =============================================================================\n;; RULE 45: EXECUTION\n;; =============================================================================\n\n;; Rule 45(1) \u2014 Writ of execution\n(define valid-writ-of-execution? (lambda (writ)\n  (and (issued-by-registrar? writ)\n       (based-on-court-order-or-judgment? writ)\n       (directed-to-sheriff? writ))))\n\n;; Rule 45(1) \u2014 Movable property execution\n(define execution-against-movables? (lambda (exec)\n  (and (valid-writ-of-execution? exec)\n       (movable-property-available? exec)\n       (property-not-exempt-from-execution? exec))))\n\n;; Rule 45(3) \u2014 Exempt property\n(define property-exempt-from-execution? (lambda (prop)\n  (or (necessary-beds-and-bedding? prop)\n      (necessary-wearing-apparel? prop)\n      (necessary-tools-of-trade? prop)\n      (necessary-household-furniture? prop)\n      (food-and-drink-sufficient-for-one-month? prop)\n      (professional-books-and-documents? prop))))\n\n;; Rule 45(5) \u2014 Interpleader\n(define interpleader-claim-valid? (lambda (claim)\n  (and (third-party-claims-ownership? claim)\n       (claim-made-before-sale? claim)\n       (supported-by-affidavit? claim))))\n\n;; Rule 45(7) \u2014 Sale of attached property\n(define valid-sale-in-execution? (lambda (sale)\n  (and (public-auction? sale)\n       (notice-of-sale-given? sale)\n       (15-days-notice-before-sale? sale)\n       (notice-forwarded-to-other-sheriffs? sale))))\n\n;; Rule 45(12) \u2014 Garnishee orders (attachment of debts)\n(define valid-garnishee-attachment? (lambda (attach)\n  (and (debts-owing-to-judgment-debtor? attach)\n       (sheriff-serves-notice-on-garnishee? attach)\n       (requires-payment-to-sheriff? attach))))\n\n(define garnishee-refuses-to-comply? (lambda (garnishee)\n  (and (notice-served? garnishee)\n       (refuses-or-neglects-to-comply? garnishee))))\n\n(define garnishee-disputes-liability? (lambda (garnishee)\n  (and (notice-served? garnishee)\n       (disputes-liability-in-part-or-whole? garnishee))))\n\n;; Rule 45(13) \u2014 Sheriff may not purchase\n(define sheriff-purchase-prohibited? (lambda (sale)\n  (or (sheriff-purchases-for-self? sale)\n      (sheriff-purchases-for-other? sale)\n      (person-on-behalf-of-sheriff-purchases? sale))))\n\n;; =============================================================================\n;; RULE 45A: SUSPENSION OF ORDERS\n;; =============================================================================\n\n;; Rule 45A \u2014 Court may suspend operation of any order\n(define court-may-suspend-order? (lambda (order)\n  (and (application-made? order)\n       (if (appeal-pending? order)\n           (complies-with-section-18-of-act? order)\n           #t))))\n\n;; =============================================================================\n;; CONTEMPT OF COURT (Common law, enforced via Rules 45/45A)\n;; =============================================================================\n\n;; Elements of civil contempt\n(define civil-contempt-established? (lambda (conduct)\n  (and (court-order-exists? conduct)\n       (order-served-on-respondent? conduct)\n       (respondent-aware-of-order? conduct)\n       (non-compliance-with-order? conduct)\n       (non-compliance-is-wilful? conduct)\n       (non-compliance-is-mala-fide? conduct))))\n\n;; Defences to contempt\n(define contempt-defence-available? (lambda (conduct)\n  (or (impossibility-of-compliance? conduct)\n      (ambiguity-in-order? conduct)\n      (order-not-properly-served? conduct)\n      (respondent-not-aware-of-order? conduct)\n      (reasonable-steps-taken-to-comply? conduct)\n      (order-subsequently-varied-or-rescinded? conduct))))\n",
+      "uniform_rules_rescission_review.scm": ";; =============================================================================\n;; UNIFORM RULES OF COURT \u2014 RESCISSION & REVIEW\n;; =============================================================================\n;; Rules 42, 53 \u2014 Variation/rescission of orders, review of proceedings\n;; Source: SAFLII consolidated, updated 30 January 2026\n;; Encoding: ChainLex/LexRex S-expression format\n;; =============================================================================\n\n(define-module (uniform-rules rescission-review)\n  #:use-module (chainlex core-utilities))\n\n;; =============================================================================\n;; RULE 42: VARIATION AND RESCISSION OF ORDERS\n;; =============================================================================\n\n;; Rule 42(1) \u2014 Grounds for rescission\n(define court-may-rescind-order? (lambda (order)\n  (or (rule-42-1-a? order)\n      (rule-42-1-b? order)\n      (rule-42-1-c? order))))\n\n;; Rule 42(1)(a) \u2014 Erroneously sought or granted in absence\n(define rule-42-1-a? (lambda (order)\n  (or (erroneously-sought? order)\n      (erroneously-granted-in-absence? order))))\n\n(define erroneously-sought? (lambda (order)\n  (and (order-was-sought? order)\n       (error-in-seeking? order))))\n\n(define erroneously-granted-in-absence? (lambda (order)\n  (and (granted-in-absence-of-affected-party? order)\n       (error-in-granting? order))))\n\n;; Rule 42(1)(b) \u2014 Void ab initio (common law, applied via 42)\n(define order-void-ab-initio? (lambda (order)\n  (or (court-lacked-jurisdiction? order)\n      (obtained-by-fraud? order)\n      (material-non-disclosure-in-ex-parte? order)\n      (gross-irregularity-in-proceedings? order))))\n\n;; Rule 42(1)(c) \u2014 Common mistake\n(define rule-42-1-c? (lambda (order)\n  (granted-as-result-of-common-mistake? order)))\n\n;; Rule 42 \u2014 Variation power\n(define court-may-vary-order? (lambda (order)\n  (or (ambiguity-in-order? order)\n      (patent-error-in-order? order)\n      (order-does-not-reflect-court-intention? order))))\n\n;; =============================================================================\n;; RULE 53: REVIEW OF PROCEEDINGS\n;; =============================================================================\n\n;; Rule 53(1) \u2014 Scope of review\n(define reviewable-decision? (lambda (decision)\n  (or (decision-of-lower-court? decision)\n      (decision-of-tribunal? decision)\n      (decision-of-board? decision)\n      (decision-of-officer-performing-judicial-function? decision)\n      (decision-of-officer-performing-quasi-judicial-function? decision)\n      (decision-of-officer-performing-administrative-function? decision))))\n\n;; Rule 53(1) \u2014 Notice of motion requirements\n(define valid-review-application? (lambda (app)\n  (and (by-notice-of-motion? app)\n       (directed-to-presiding-officer? app)\n       (served-on-all-affected-parties? app)\n       (calls-to-show-cause? app)\n       (calls-for-record-within-15-days? app))))\n\n;; Rule 53(2) \u2014 Supporting affidavit\n(define review-affidavit-compliant? (lambda (aff)\n  (and (sets-out-decision-sought-to-be-reviewed? aff)\n       (sets-out-grounds-for-review? aff)\n       (sets-out-facts-and-circumstances? aff))))\n\n;; Rule 53(3) \u2014 Record provision\n(define record-properly-provided? (lambda (record)\n  (and (registrar-makes-copy-available? record)\n       (applicant-furnishes-necessary-portions? record))))\n\n;; Rule 53(4) \u2014 Amendment after record received\n(define may-amend-review-application? (lambda (app)\n  (and (within-10-days-of-record-availability? app)\n       (by-delivery-of-notice-and-affidavit? app))))\n\n;; Rule 53(5) \u2014 Opposition to review\n(define valid-opposition-to-review? (lambda (opp)\n  (and (notice-of-intention-to-oppose-within-15-days? opp)\n       (appoints-address-within-25km? opp)\n       (answering-affidavits-within-30-days-after-53-4-expiry? opp))))\n\n;; Rule 53(6) \u2014 Replying affidavits\n(define review-replying-rights? (lambda (app)\n  ;; Same rights and obligations as Rule 6\n  (rule-6-replying-affidavit-rights-apply? app)))\n\n;; Rule 53(7) \u2014 Set down\n(define review-set-down? (lambda (app)\n  ;; Rule 6 set-down provisions apply mutatis mutandis\n  (rule-6-set-down-provisions-apply? app)))\n"
+    }
+  },
+  "construct_procedural_timeline_with_deadlines": {
+    "step": "construct_procedural_timeline_with_deadlines",
+    "status": "completed",
+    "events": 31,
+    "deadlines_mapped": 2,
+    "output_file": "/home/ubuntu/revstream1/lex_encode_output/scm/procedural_timeline.scm",
+    "timeline": [
+      {
+        "date": "2021-08-17",
+        "description": "Rynette instructs Bantjies to make backdated journal entries",
+        "rule": "Criminal: fraud, Companies Act s76-77",
+        "actor": "Rynette Farrar"
+      },
+      {
+        "date": "2022-01-18",
+        "description": "Bantjies admits using incorrect Villa Via registration since 2014",
+        "rule": "SAICA professional misconduct",
+        "actor": "Danie Bantjies"
+      },
+      {
+        "date": "2023-07-13",
+        "description": "Kayla Pretorius murdered \u2014 creates vacuum in digital infrastructure",
+        "rule": "contextual",
+        "actor": "external"
+      },
+      {
+        "date": "2023-07-27",
+        "description": "Rynette requests trust documents from Bantjies \u2014 14 days after murder",
+        "rule": "Criminal: premeditation indicator",
+        "actor": "Rynette Farrar"
+      },
+      {
+        "date": "2023-10-06",
+        "description": "Rynette takes control of SARS compliance, sidelining Bantjies",
+        "rule": "Tax Administration Act",
+        "actor": "Rynette Farrar"
+      },
+      {
+        "date": "2023-11-16",
+        "description": "SARS wants to 'have a coffee' \u2014 audit indicator",
+        "rule": "Tax Administration Act",
+        "actor": "SARS"
+      },
+      {
+        "date": "2024-04-26",
+        "description": "Rynette logs into SARS eFiling as Bantjies to change banking to ABSA",
+        "rule": "Criminal: identity fraud, Tax Administration Act s235",
+        "actor": "Rynette Farrar"
+      },
+      {
+        "date": "2024-06-28",
+        "description": "Trust amendment forged \u2014 Rynette signs as pp Peter, installs Bantjies as trustee",
+        "rule": "Criminal: forgery, Trust Property Control Act s6",
+        "actor": "Rynette Farrar"
+      },
+      {
+        "date": "2024-07-01",
+        "description": "Bantjies sends ID accepting fraudulent trustee appointment",
+        "rule": "Trust Property Control Act",
+        "actor": "Danie Bantjies"
+      },
+      {
+        "date": "2024-07-08",
+        "description": "Peter swears false affidavit to Sage about Kayla's death",
+        "rule": "Criminal: perjury, fraud",
+        "actor": "Peter Andrew Faucitt"
+      },
+      {
+        "date": "2024-07-09",
+        "description": "Sage account transferred \u2014 Stock2Shop pipeline broken",
+        "rule": "Companies Act s76",
+        "actor": "Peter Andrew Faucitt"
+      },
+      {
+        "date": "2024-09-26",
+        "description": "Bantjies links trust documents to Ketoni investment feedback in single meeting",
+        "rule": "Conflict of interest",
+        "actor": "Danie Bantjies"
+      },
+      {
+        "date": "2025-03-30",
+        "description": "Two years of unallocated expenses dumped into RWD with 12-hour deadline",
+        "rule": "Companies Act s76-77",
+        "actor": "Rynette Farrar"
+      },
+      {
+        "date": "2025-05-02",
+        "description": "Kent Rault sends bank detail change emails to clients",
+        "rule": "Criminal: theft by diversion",
+        "actor": "Kent Rault"
+      },
+      {
+        "date": "2025-05-05",
+        "description": "Rynette sends banking details and email address for POP",
+        "rule": "Criminal: theft by diversion",
+        "actor": "Rynette Farrar"
+      },
+      {
+        "date": "2025-05-22",
+        "description": "Orders removed from Shopify platform",
+        "rule": "Criminal: theft, Companies Act",
+        "actor": "Peter Andrew Faucitt"
+      },
+      {
+        "date": "2025-05-26",
+        "description": "Bantjies secretly shares financial analysis with Rynette \u2014 'don't say I shared this'",
+        "rule": "SAICA professional misconduct, fiduciary breach",
+        "actor": "Danie Bantjies"
+      },
+      {
+        "date": "2025-05-29",
+        "description": "Adderory registers regimaskin.co.za domain",
+        "rule": "Companies Act, unfair competition",
+        "actor": "Adderory (Pty) Ltd"
+      },
+      {
+        "date": "2025-06-06",
+        "description": "Daniel reports fraud to Bantjies \u2014 first detailed report",
+        "rule": "Companies Act s76",
+        "actor": "Daniel James Faucitt"
+      },
+      {
+        "date": "2025-06-07",
+        "description": "Daniel's corporate cards cancelled \u2014 immediate retaliation",
+        "rule": "Criminal: obstruction, Companies Act",
+        "actor": "Peter Andrew Faucitt"
+      },
+      {
+        "date": "2025-06-10",
+        "description": "Daniel sends second detailed fraud report to Bantjies",
+        "rule": "Companies Act s76",
+        "actor": "Daniel James Faucitt"
+      },
+      {
+        "date": "2025-06-18",
+        "description": "FNB Legal confirms Daniel holds SOLE General Powers; De Novo fabricates 2019 accounts",
+        "rule": "FNB FICA/KYC; Criminal: fraud, forgery",
+        "actor": "FNB Legal / De Novo"
+      },
+      {
+        "date": "2025-06-20",
+        "description": "Gayane announces email domain change to regimaskin.co.za",
+        "rule": "Infrastructure hijacking",
+        "actor": "Gayane Williams"
+      },
+      {
+        "date": "2025-08-11",
+        "description": "Backdated Main Trustee agreement sent \u2014 dated 1 July 2025",
+        "rule": "Criminal: forgery",
+        "actor": "Rynette Farrar"
+      },
+      {
+        "date": "2025-08-13",
+        "description": "Bantjies swears confirmatory affidavit \u2014 68 days after receiving fraud report",
+        "rule": "Criminal: perjury s319 Criminal Procedure Act",
+        "actor": "Danie Bantjies"
+      },
+      {
+        "date": "2025-08-14",
+        "description": "Interdict application filed via Court Online at 08:16:25 SAST",
+        "rule": "Rule 6(12)(a) Uniform Rules",
+        "actor": "Elliott Attorneys",
+        "deadline": "2025-08-16T00:00:00",
+        "deadline_rule": "6(12)(a)",
+        "deadline_desc": "Urgent application \u2014 2 days or less"
+      },
+      {
+        "date": "2025-08-19",
+        "description": "Ex parte interdict granted \u2014 court heard only Peter's side",
+        "rule": "Rule 6(5)(a) Uniform Rules",
+        "actor": "Court",
+        "deadline": "2025-08-24T00:00:00",
+        "deadline_rule": "6(5)(a)",
+        "deadline_desc": "Notice of motion \u2014 5 court days"
+      },
+      {
+        "date": "2025-08-27",
+        "description": "R10.6M extracted from company accounts within 8 days",
+        "rule": "Criminal: theft, Companies Act",
+        "actor": "Peter Andrew Faucitt"
+      },
+      {
+        "date": "2025-09-18",
+        "description": "Settlement agreements presented at Forvis Mazars mediation",
+        "rule": "Rule 41A Uniform Rules",
+        "actor": "Forvis Mazars"
+      },
+      {
+        "date": "2025-09-22",
+        "description": "Daniel and Jacqueline withdraw from settlement citing duress",
+        "rule": "Contract law: duress",
+        "actor": "Daniel James Faucitt"
+      },
+      {
+        "date": "2026-02-04",
+        "description": "Contempt application filed seeking 6 months imprisonment of Jacqueline",
+        "rule": "Rule 45A Uniform Rules; Criminal: contempt",
+        "actor": "Peter Andrew Faucitt"
+      }
+    ]
+  },
+  "evaluate_compliance_predicates_against_evidence": {
+    "step": "evaluate_compliance_predicates_against_evidence",
+    "status": "completed",
+    "total_predicates": 0,
+    "compliant": 0,
+    "violated": 0,
+    "unknown": 0,
+    "evaluations": [],
+    "output_file": "/home/ubuntu/revstream1/lex_encode_output/scm/compliance_evaluation.scm"
+  },
+  "classify_procedural_violations_severity": {
+    "step": "classify_procedural_violations_severity",
+    "status": "decided",
+    "violations": [],
+    "critical_count": 0,
+    "major_count": 0,
+    "minor_count": 0,
+    "overall_severity": "none",
+    "confidence": 0.7,
+    "method": "rules",
+    "reasoning": "Rule-based: 0 violations classified by keyword matching"
+  },
+  "validate_procedural_evaluation_completeness": {
+    "step": "validate_procedural_evaluation_completeness",
+    "status": "passed",
+    "errors": [],
+    "warnings": [
+      "No predicates evaluated \u2014 rules may not match scenario"
+    ]
+  },
+  "pipeline_assembly": {
+    "step": "pipeline_assembly",
+    "status": "orchestrated",
+    "outputs": {
+      "markdown": "/home/ubuntu/revstream1/lex_encode_output/scm/proof_certificate.md",
+      "scheme": "/home/ubuntu/revstream1/lex_encode_output/scm/proof_certificate.scm",
+      "json": "/home/ubuntu/revstream1/lex_encode_output/scm/proof_certificate.json"
+    },
+    "fixed_point": true,
+    "overall_severity": "none"
+  },
+  "ml_feedback_loop": {
+    "step": "ml_feedback_loop",
+    "status": "decided",
+    "quality_score": 0.4,
+    "suggestions": [
+      "Clarify the meaning and significance of 'corpus.relevant' being zero; specify whether this indicates missing evidence or a different assessment criterion.",
+      "Provide detailed descriptions or summaries of each evidence item to enhance transparency and traceability.",
+      "Explain the criteria used for evaluating 'compliance' and why all 25 defenses are blocked, including any relevant standards or thresholds.",
+      "Include contextual information about the scenario, such as involved parties, legal standards, or specific allegations, to improve comprehensibility.",
+      "Add a section on potential next steps or recommendations based on the certificate's findings to guide decision-making.",
+      "Ensure consistent formatting and terminology throughout the certificate for clarity and professionalism."
+    ],
+    "confidence": 0.75,
+    "method": "ml"
+  },
+  "final_validation": {
+    "step": "final_validation",
+    "status": "passed",
+    "errors": [],
+    "warnings": [],
+    "outputs": {
+      "markdown": "/home/ubuntu/revstream1/lex_encode_output/scm/proof_certificate.md",
+      "scheme": "/home/ubuntu/revstream1/lex_encode_output/scm/proof_certificate.scm",
+      "json": "/home/ubuntu/revstream1/lex_encode_output/scm/proof_certificate.json"
+    },
+    "quality_score": 0.4
+  }
+}

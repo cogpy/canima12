@@ -1,0 +1,51 @@
+{
+  "export_version": "2026-04-08a",
+  "exported_at": "2026-04-20T08:35:08Z",
+  "source": {
+    "type": "exchange_sync_neon_eml_export",
+    "auth_model": "app_org_wide_daemon_service",
+    "user_impersonation": false
+  },
+  "message_identity": {
+    "exchange_sync_id": "AAMkADMxMzkyY2FlLWNkMGEtNGM2My04OWFiLTNlZDRjNzkyNGUyMwBGAAAAAABIsq-8QjwARI3ssx6PhE4uBwAjJKKwT3w2RaZw2KOPO0ZiAAA-JWQ5AAAjJKKwT3w2RaZw2KOPO0ZiAAA-JZncAAA=",
+    "internet_message_id": "<CANC4RXeBqgCpnkzf2UE=NA8FPMV3aeJge_NWLoQukec9=FAktA@mail.gmail.com>",
+    "conversation_id": "AAQkADMxMzkyY2FlLWNkMGEtNGM2My04OWFiLTNlZDRjNzkyNGUyMwAQAPc2JgxV3ExOmvaieG_e27Q="
+  },
+  "mailbox_context": {
+    "user_email": "rynette@regima.zone",
+    "user_display_name": "Rynette Farrar",
+    "folder_name": "Danie",
+    "folder_id": "AAMkADMxMzkyY2FlLWNkMGEtNGM2My04OWFiLTNlZDRjNzkyNGUyMwAuAAAAAABIsq-8QjwARI3ssx6PhE4uAQAjJKKwT3w2RaZw2KOPO0ZiAAA-JWQ5AAA="
+  },
+  "envelope": {
+    "subject": "Re: SARS query re the two big inter company invoices at the end of February 2025",
+    "from_name": "Danie Bantjes",
+    "from_address": "danie.bantjes@gmail.com",
+    "to_recipients": [
+      {
+        "name": "Rynette Farrar",
+        "address": "rynette@regima.zone"
+      }
+    ],
+    "cc_recipients": [
+      {
+        "name": "Pete",
+        "address": "pete@regima.com"
+      }
+    ],
+    "bcc_recipients": [],
+    "received_datetime": "2025-06-06T07:50:26Z",
+    "sent_datetime": "2025-06-06T07:49:59Z"
+  },
+  "body": {
+    "content_type": "html",
+    "preview": "Hi Rynette\r\n\r\nSeems you need to view my profile as well for any VAT enquiries going forward.\r\n\r\nI will manufacture an answer to the 2 interco invoices over the weekend.\r\n\r\n\r\nKind regards,\r\n\r\nDanie Bantjes\r\n\r\n\r\nOn Fri, 6 Jun 2025 at 09:29, Rynette Farrar <",
+    "body_length_chars": 9712
+  },
+  "attachments": [],
+  "file_integrity": {
+    "file_size_bytes": 13902,
+    "sha256": "23440f0bd473b75adfe30f39a7ed00ee37e5a1318cea99c8e18abfa6149879b9",
+    "md5": "cfcda4ccb61cac2cba62839f589a66ee"
+  }
+}

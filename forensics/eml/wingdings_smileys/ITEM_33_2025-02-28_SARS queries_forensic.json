@@ -1,0 +1,50 @@
+{
+  "item_number": 33,
+  "label": "SARS_bad_news_Friday_smiley",
+  "description": "Sorry for the bad news on a Friday afternoon \u263a",
+  "wingdings_significance": "Wingdings 'J' = \u263a smiley face - casual/dismissive tone about serious financial misconduct",
+  "message": {
+    "id": "AQMkADMxMzkyY2FlLWNkMGEtNGM2My04OWFiLTNlZDRjNzkyNGUyMwBGAAADSLKv-EI8AESN7LMej4ROLgcAIySisE98NkWmcNijjztGYgAAAgEJAAAAIySisE98NkWmcNijjztGYgAEITMoOQAAAA==",
+    "internet_message_id": "<VI0PR08MB1058169F0BC3B37A9A8924B06BACC2@VI0PR08MB10581.eurprd08.prod.outlook.com>",
+    "subject": "SARS queries",
+    "from_name": "Rynette Farrar",
+    "from_address": "rynette@regima.zone",
+    "to_recipients": [
+      {
+        "name": "Danie Bantjes",
+        "address": "danie.bantjes@gmail.com"
+      }
+    ],
+    "cc_recipients": [
+      {
+        "name": "Jacqui Faucitt",
+        "address": "jax@regima.zone"
+      },
+      {
+        "name": "Linda",
+        "address": "linda@regima.zone"
+      }
+    ],
+    "received_datetime": "2025-02-28 13:26:00+00:00",
+    "importance": "normal",
+    "has_attachments": true,
+    "conversation_id": "AAQkADMxMzkyY2FlLWNkMGEtNGM2My04OWFiLTNlZDRjNzkyNGUyMwAQAF7nfd3CDUZVggIn6c0a2cY=",
+    "body_content_type": "html",
+    "body_preview": "Hi Danie\r\n\r\nOur favourite people started with throwing all these correspondence on us, so I decided to go onto Efiling and get the whole lot one go, instead of having it in drips and drabs.\r\n\r\nIt seem"
+  },
+  "source": {
+    "type": "native_mime",
+    "neon_db": "b2bkp-exchange-sync",
+    "user_id": "52a423b7-13e7-4599-8d6f-c833ebce69d7",
+    "extraction_timestamp": "2026-03-15T05:15:47.257346Z"
+  },
+  "integrity": {
+    "sha256": "8debe87d82d8c43fb5ff3e7ea3da72906235fd758c54eca827f8535ad36b07f9",
+    "md5": "684871576b5e4c47510b2c4061dea504",
+    "file_size_bytes": 4010
+  },
+  "authentication": {
+    "note": "Internal Exchange message - no external authentication headers"
+  },
+  "internet_headers": null
+}

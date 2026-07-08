@@ -1,0 +1,36 @@
+
+RED-TEAM CRITIQUE — TOP 5 ATTACKS ON PILLAR X
+==============================================
+
+1. "The Continuing Prejudice Schedule inflates quantum by including ordinary expenses."
+   COUNTER: The schedule cites only post-19-August-2025 movements that violate
+   either the order or statute. Each line cross-references a bank statement,
+   Shopify invoice, or Sage admission. Ordinary operating expenses are excluded
+   by definition.
+
+2. "Continuing harm is properly addressed by reconsideration, not by criminal complaint."
+   COUNTER: Continuing harm is the statutory trigger for FIC reporting (s.29),
+   POPIA breach notification (s.22), and Tax Administration Act s.234 (false
+   statement). These regulators have continuing-jurisdiction duties that cannot
+   be discharged by waiting for civil reconsideration.
+
+3. "Daniel is interested in maximising the schedule because he is a beneficiary."
+   COUNTER: PILLAR X expressly distinguishes (i) prejudice to the entities (which
+   is the regulatory and criminal trigger) from (ii) prejudice to beneficiaries
+   (which is the civil and trust-law trigger). The schedule lists each separately.
+
+4. "The schedule is a back-door for relitigating issues already decided in the
+    contempt judgment."
+   COUNTER: Labuschagne J's 26 March 2026 judgment dealt with five specific
+   incidents (Mphande stocktake, Cherie Smith training, etc.) and found
+   wilfulness was not established for those incidents. PILLAR X does not
+   relitigate those incidents. It schedules separate continuing extractions
+   not addressed in the contempt papers.
+
+5. "The legal-name + entity-code + CIPC-format normalisation is pedantic and
+    increases drafting cost."
+   COUNTER: The supplementary founding affidavit (16 March 2026, EVENT_178)
+   reversed third/fourth respondent identities between caption and body. The
+   normalisation is therefore not pedantry but the corrective response to a
+   defect in the applicant's own pleading. It strengthens our Rule 30 / strike-out
+   route.

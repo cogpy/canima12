@@ -1,0 +1,60 @@
+{
+  "_schema": "exoml-forensic/v1",
+  "_generated": "2026-03-10T08:04:24.721117+00:00",
+  "file_integrity": {
+    "eml_file": "rzo.io/0011_2021-07-30_0718_d@rzo.io_Re__https___www.cosmetology.co.za__-_DANNY_TO_SORT.eml",
+    "file_size_bytes": 14941,
+    "md5": "cdabce99568fff5aa1536333713e26d4",
+    "sha1": "973625e12544a1aef89466c3a4936807d78ab6d8",
+    "sha256": "6a68caca1b6b6de14acea1a7c86c040dd705663b772559943865b83fe3342e15"
+  },
+  "message_identity": {
+    "db_id": 794,
+    "exchange_message_id": "AAMkAGE2YjljZjA1LTRlOWUtNDhjYi1iZjNkLWI4ZWRlNDQwYTU0MABGAAAAAADPgXCfMl5uRqA6Xxa9Yh33BwAh607i92PMQLMLAH3HB5h5AAAAAAEJAAAh607i92PMQLMLAH3HB5h5AAVaFdmrAAA=",
+    "conversation_id": "AAQkAGE2YjljZjA1LTRlOWUtNDhjYi1iZjNkLWI4ZWRlNDQwYTU0MAAQAOYqoNpxnUGgpdLvarOriuo="
+  },
+  "envelope": {
+    "subject": "Re: https://www.cosmetology.co.za/  -  DANNY TO SORT THIS ONE",
+    "from_name": "Daniel Faucitt",
+    "from_address": "d@rzo.io",
+    "to_recipients": [
+      {
+        "emailAddress": {
+          "name": "Jacqui Faucitt",
+          "address": "jax@regima.zone"
+        }
+      }
+    ],
+    "cc_recipients": [
+      {
+        "emailAddress": {
+          "name": "Rynette Farrar",
+          "address": "rynette@regima.zone"
+        }
+      },
+      {
+        "emailAddress": {
+          "name": "Kent Rault",
+          "address": "kent@regima.zone"
+        }
+      },
+      {
+        "emailAddress": {
+          "name": "Kayla Pretorius",
+          "address": "kayla@regima.zone"
+        }
+      }
+    ],
+    "received_datetime": "2021-07-30 07:18:28"
+  },
+  "mailbox_context": {
+    "user_email": "d@rzo.io",
+    "user_name": "Daniel Faucitt"
+  },
+  "body": {
+    "content_type": "html",
+    "preview": "Indeedy 🙂\r\n\r\nLet's think carefully how to respond and send the final response on Monday..\r\n\r\nImmediate thoughts are as follows:\r\n\r\nThere is no particular website, shop, salon, spa, clinic or doctor's rooms that are capable or even useful as indicators of",
+    "body_length_chars": 10351
+  },
+  "attachments": []
+}

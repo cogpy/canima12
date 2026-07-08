@@ -1,0 +1,63 @@
+{
+  "_schema": "exchange-forensic-eml/v1",
+  "_generated": "2026-03-10T03:53:01.020610+00:00",
+  "_source": "neon-exchange-sync",
+  "file_integrity": {
+    "eml_file": "/home/ubuntu/revstream1/docs/evidence/forensic_eml/regima.zone/0043_2020-05-21_1154_bern@regima.zone_FW_Airfreight_Export_Order_to_MALTA.eml",
+    "file_size_bytes": 1026,
+    "md5": "f64583e0c51285a2d17ad28bc0480ec9",
+    "sha1": "944054262b7ea950498133240b1d5bd1e0342fb8",
+    "sha256": "a5b22884d622c6cd3da5f36b4abf0c6e6793e96c451f5554bc55173dcf08443a"
+  },
+  "message_identity": {
+    "exchange_sync_id": "AQMkADMxMzkyY2FlLWNkMGEtNGM2My04OWFiLTNlZDRjNzkyNGUyMwBGAAADSLKv-EI8AESN7LMej4ROLgcAIySisE98NkWmcNijjztGYgAAAj1GAAAAIySisE98NkWmcNijjztGYgAAAlk8AAAA",
+    "internet_message_id": "<AM6PR08MB481983CE42A09F4E0FCA579FC4B70@AM6PR08MB4819.eurprd08.prod.outlook.com>",
+    "conversation_id": "AAQkADMxMzkyY2FlLWNkMGEtNGM2My04OWFiLTNlZDRjNzkyNGUyMwAQAMPuSHOVDkNZiKpUp_UY8PI="
+  },
+  "envelope": {
+    "subject": "FW: Airfreight Export Order to MALTA",
+    "from_name": "Bernadine Wright",
+    "from_address": "bern@regima.zone",
+    "to_recipients": [
+      {
+        "name": "Mathieson, Fran / Kuehne + Nagel / JNB NA-TB",
+        "address": "Fran.Mathieson@kuehne-nagel.com"
+      }
+    ],
+    "cc_recipients": [
+      {
+        "name": "Jacqui Faucitt",
+        "address": "jax@regima.zone"
+      },
+      {
+        "name": "'pete@regima.com'",
+        "address": "pete@regima.com"
+      },
+      {
+        "name": "Carmel Spiteri",
+        "address": "cmsbella@maltanet.net"
+      },
+      {
+        "name": "Maewashi, Maria / Kuehne + Nagel / JNB VC",
+        "address": "Maria.Maewashi@kuehne-nagel.com"
+      },
+      {
+        "name": "Rynette Farrar",
+        "address": "rynette@regima.zone"
+      }
+    ],
+    "received_datetime": "2020-05-21 11:54:00+00:00"
+  },
+  "mailbox_context": {
+    "user_email": "rynette@regima.zone",
+    "user_name": "Rynette Farrar",
+    "folder_name": "Shipping",
+    "folder_id": "AQMkADMxMzkyY2FlLWNkMGEtNGM2My04OWFiLTNlZDRjNzkyNGUyMwAuAAADSLKv-EI8AESN7LMej4ROLgEAIySisE98NkWmcNijjztGYgAAAj1GAAAA"
+  },
+  "body": {
+    "content_type": null,
+    "preview": "Hi Fran\r\n\r\nDo you perhaps have a quote on the airfreight as yet?\r\n\r\nPlease confirm receipt of my email?\r\n\r\nKind Regards\r\n\r\n\r\nFrom: Bernadine Wright\r\nSent: Tuesday, May 19, 2020 2:59 PM\r\nTo: Mathieson, Fran / Kuehne + Nagel / JNB NA-TB <Fran.Mathieson@kueh",
+    "body_length_chars": 0
+  },
+  "attachments": []
+}

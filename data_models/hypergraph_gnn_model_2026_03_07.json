@@ -1,0 +1,398 @@
+{
+  "metadata": {
+    "version": "v3_bantjies_farrar_comms",
+    "created_date": "2026-03-07 08:26:37",
+    "description": "Case Hypergraph-GNN model \u2014 multi-entity evidence connections",
+    "case_number": "2025-137857",
+    "modeling_approach": "Hypergraph Neural Network \u2014 nodes=entities, hyperedges=evidence connecting multiple entities"
+  },
+  "nodes": {
+    "persons": [
+      {
+        "id": "PERSON_001",
+        "name": "Peter Andrew Faucitt",
+        "type": "perpetrator",
+        "evidence_strength": 0.95,
+        "features": {
+          "role_count": 4,
+          "event_count": 12,
+          "financial_impact": 18685000,
+          "criminal_charges": 5
+        }
+      },
+      {
+        "id": "PERSON_002",
+        "name": "Rynette Farrar",
+        "type": "co_conspirator",
+        "evidence_strength": 0.99,
+        "features": {
+          "role_count": 6,
+          "event_count": 25,
+          "financial_impact": 18685000,
+          "criminal_charges": 7,
+          "communication_volume": 1632,
+          "credential_sharing": true,
+          "forgery": true
+        }
+      },
+      {
+        "id": "PERSON_007",
+        "name": "Daniel Jacobus Bantjies",
+        "type": "co_conspirator",
+        "evidence_strength": 0.99,
+        "features": {
+          "role_count": 7,
+          "event_count": 20,
+          "financial_impact": 18685000,
+          "criminal_charges": 8,
+          "smoking_gun": true,
+          "conflict_of_interest": 6,
+          "sars_manufacturing": true
+        }
+      },
+      {
+        "id": "PERSON_004",
+        "name": "Jacqueline Faucitt",
+        "type": "victim",
+        "evidence_strength": 0.99,
+        "features": {
+          "loss_amount": 9375000,
+          "neutralized_via": "interdict",
+          "trustee_removed": true
+        }
+      },
+      {
+        "id": "PERSON_005",
+        "name": "Daniel James Faucitt",
+        "type": "victim",
+        "evidence_strength": 0.99,
+        "features": {
+          "loss_amount": 9375000,
+          "excluded_from": "trust_communications"
+        }
+      },
+      {
+        "id": "PERSON_014",
+        "name": "Kevin Michael Derrick",
+        "type": "connected_party",
+        "evidence_strength": 0.9,
+        "features": {
+          "director_of": [
+            "ORG_017",
+            "ORG_018"
+          ],
+          "connection_to_bantjies": "employer"
+        }
+      },
+      {
+        "id": "PERSON_040",
+        "name": "Anton Hechter",
+        "type": "removed_oversight",
+        "evidence_strength": 0.9,
+        "features": {
+          "removed_date": "2022-06-01",
+          "removed_by": "PERSON_002"
+        }
+      },
+      {
+        "id": "PERSON_042",
+        "name": "Marc Yudaken",
+        "type": "witness",
+        "evidence_strength": 0.95,
+        "features": {
+          "role": "Baker McKenzie Attorney",
+          "ketoni_sha_drafter": true
+        }
+      },
+      {
+        "id": "PERSON_043",
+        "name": "David Field",
+        "type": "witness",
+        "evidence_strength": 0.9,
+        "features": {
+          "role": "Deal Consultant",
+          "represents": "PERSON_014"
+        }
+      },
+      {
+        "id": "PERSON_044",
+        "name": "Denny Da Silva",
+        "type": "witness",
+        "evidence_strength": 0.85,
+        "features": {
+          "role": "Baker McKenzie Attorney",
+          "meeting_coordinator": true
+        }
+      }
+    ],
+    "organizations": [
+      {
+        "id": "ORG_001",
+        "name": "Regima Worldwide Distribution",
+        "type": "victim_company",
+        "evidence_strength": 0.95
+      },
+      {
+        "id": "ORG_002",
+        "name": "RegimA Skin Treatments",
+        "type": "victim_company",
+        "evidence_strength": 0.95
+      },
+      {
+        "id": "ORG_017",
+        "name": "Ketoni Investment Holdings",
+        "type": "debtor",
+        "evidence_strength": 0.99,
+        "features": {
+          "debt_amount": 18685000,
+          "due_date": "2026-05"
+        }
+      },
+      {
+        "id": "ORG_018",
+        "name": "The George Group",
+        "type": "employer",
+        "evidence_strength": 0.95,
+        "features": {
+          "cfo": "PERSON_007"
+        }
+      },
+      {
+        "id": "ORG_025",
+        "name": "Baker McKenzie",
+        "type": "legal_advisor",
+        "evidence_strength": 0.95,
+        "features": {
+          "role": "Ketoni SHA/MOI drafting"
+        }
+      }
+    ],
+    "trusts": [
+      {
+        "id": "TRUST_001",
+        "name": "Faucitt Family Trust",
+        "type": "target_asset",
+        "evidence_strength": 0.99,
+        "features": {
+          "asset_value": 18685000,
+          "trustees": [
+            "PERSON_001",
+            "PERSON_004",
+            "PERSON_007"
+          ],
+          "compromised": true,
+          "forgery_date": "2024-06-28"
+        }
+      }
+    ]
+  },
+  "hyperedges": [
+    {
+      "id": "HE_SMOKING_GUN",
+      "name": "SARS Manufacturing Admission",
+      "type": "criminal_evidence",
+      "nodes": [
+        "PERSON_007",
+        "PERSON_002"
+      ],
+      "evidence": "EVENT_119",
+      "date": "2025-06-06",
+      "weight": 0.99,
+      "description": "Bantjies admits 'I will manufacture an answer' to SARS query about intercompany invoices",
+      "legal_implications": [
+        "Tax Fraud",
+        "Obstruction of SARS",
+        "Conspiracy"
+      ],
+      "smoking_gun": true
+    },
+    {
+      "id": "HE_VAT_CONTROL_TAKEOVER",
+      "name": "VAT Portal Control Takeover",
+      "type": "conspiracy_evidence",
+      "nodes": [
+        "PERSON_002",
+        "PERSON_007",
+        "PERSON_040",
+        "PERSON_001"
+      ],
+      "evidence": [
+        "EVENT_114",
+        "EVENT_115"
+      ],
+      "date": "2022-06-01",
+      "weight": 0.95,
+      "description": "Coordinated removal of Anton Hechter + credential sharing = complete VAT control"
+    },
+    {
+      "id": "HE_KETONI_INSIDER_NETWORK",
+      "name": "Ketoni Insider Access Network",
+      "type": "conflict_of_interest",
+      "nodes": [
+        "PERSON_007",
+        "PERSON_042",
+        "PERSON_043",
+        "PERSON_044",
+        "PERSON_014",
+        "ORG_025",
+        "ORG_017",
+        "ORG_018"
+      ],
+      "evidence": "EVENT_116",
+      "date": "2023-04-12",
+      "weight": 0.99,
+      "description": "Bantjies negotiates Ketoni deal via Baker McKenzie while serving as RegimA accountant",
+      "financial_impact": 18685000
+    },
+    {
+      "id": "HE_KETONI_PAYMENT_MANIPULATION",
+      "name": "Ketoni Payment Allocation Manipulation",
+      "type": "financial_fraud",
+      "nodes": [
+        "PERSON_007",
+        "PERSON_002",
+        "ORG_017",
+        "TRUST_001"
+      ],
+      "evidence": "EVENT_117",
+      "date": "2023-05-09",
+      "weight": 0.95,
+      "description": "Bantjies directs Ketoni payment to Pete's shareholder loan account"
+    },
+    {
+      "id": "HE_TRUST_FORGERY_CHAIN",
+      "name": "Trust Amendment Forgery Chain",
+      "type": "forgery_conspiracy",
+      "nodes": [
+        "PERSON_002",
+        "PERSON_007",
+        "PERSON_001",
+        "TRUST_001"
+      ],
+      "evidence": [
+        "EVENT_103",
+        "EVENT_120"
+      ],
+      "date": "2024-06-28",
+      "weight": 0.99,
+      "description": "Rynette forges 'pp Peter' on trust amendment, later provides proof of address for appointment"
+    },
+    {
+      "id": "HE_INTERDICT_SPRINT",
+      "name": "3-Day Interdict Sprint",
+      "type": "perjury_conspiracy",
+      "nodes": [
+        "PERSON_002",
+        "PERSON_007",
+        "PERSON_001",
+        "TRUST_001",
+        "PERSON_004"
+      ],
+      "evidence": [
+        "EVENT_104",
+        "EVENT_120"
+      ],
+      "date": "2025-08-11",
+      "weight": 0.99,
+      "description": "Backdated appointment (Aug 11) \u2192 Proof of address (Aug 12) \u2192 Affidavit (Aug 13) \u2192 Filing (Aug 14)"
+    },
+    {
+      "id": "HE_FINANCIAL_CONTROL_LOOP",
+      "name": "Complete Financial Control Loop",
+      "type": "racketeering_pattern",
+      "nodes": [
+        "PERSON_002",
+        "PERSON_007",
+        "PERSON_001",
+        "ORG_001",
+        "ORG_002"
+      ],
+      "evidence": [
+        "EVENT_114",
+        "EVENT_115",
+        "EVENT_117",
+        "EVENT_119"
+      ],
+      "date_range": "2022-06 to 2025-06",
+      "weight": 0.99,
+      "description": "Rynette controls day-to-day (Sage, payments, VAT), Bantjies controls year-end (journals, provisional tax, SARS), Peter controls trust and bank accounts"
+    },
+    {
+      "id": "HE_COMMUNICATION_PATTERN",
+      "name": "1,632 Message Conspiracy Pattern",
+      "type": "pattern_evidence",
+      "nodes": [
+        "PERSON_002",
+        "PERSON_007"
+      ],
+      "evidence": "rynette_bantjies_all(2).json",
+      "date_range": "2015-2026",
+      "weight": 0.95,
+      "description": "Peak in 2022 (542 msgs) coincides with VAT takeover; sustained high volume through fraud execution",
+      "volume_by_year": {
+        "2020": 31,
+        "2021": 291,
+        "2022": 542,
+        "2023": 184,
+        "2024": 278,
+        "2025": 298
+      }
+    },
+    {
+      "id": "HE_R18M_CONVERGENCE",
+      "name": "R18.685M Payout Convergence",
+      "type": "motive_convergence",
+      "nodes": [
+        "PERSON_001",
+        "PERSON_007",
+        "PERSON_014",
+        "ORG_017",
+        "ORG_018",
+        "TRUST_001",
+        "PERSON_004"
+      ],
+      "evidence": [
+        "EVENT_116",
+        "EVENT_117",
+        "EVENT_103",
+        "EVENT_104"
+      ],
+      "date": "2026-05",
+      "weight": 0.99,
+      "description": "All conspiracy threads converge on the R18.685M Ketoni payout due May 2026",
+      "financial_impact": 18685000
+    }
+  ],
+  "gnn_features": {
+    "node_feature_dimensions": {
+      "evidence_strength": "float [0,1]",
+      "role_encoding": "one-hot [perpetrator, co_conspirator, victim, witness, removed_oversight, connected_party]",
+      "event_count": "int",
+      "financial_impact": "float (ZAR)",
+      "criminal_charges": "int",
+      "communication_volume": "int",
+      "smoking_gun": "bool",
+      "conflict_of_interest_count": "int"
+    },
+    "hyperedge_feature_dimensions": {
+      "weight": "float [0,1] \u2014 evidence strength",
+      "type_encoding": "one-hot [criminal_evidence, conspiracy_evidence, conflict_of_interest, financial_fraud, forgery_conspiracy, perjury_conspiracy, racketeering_pattern, pattern_evidence, motive_convergence]",
+      "node_count": "int \u2014 number of entities connected",
+      "financial_impact": "float (ZAR)",
+      "date_encoding": "float \u2014 days since case start",
+      "smoking_gun": "bool"
+    },
+    "message_passing": {
+      "description": "Hypergraph message passing: node \u2192 hyperedge \u2192 node",
+      "aggregation": "attention-weighted mean",
+      "layers": 3,
+      "attention_heads": 4
+    },
+    "prediction_targets": [
+      "evidence_sufficiency_per_charge",
+      "conspiracy_network_completeness",
+      "financial_flow_anomaly_detection",
+      "provable_foreknowledge_chain_strength"
+    ]
+  }
+}

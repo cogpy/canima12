@@ -1,0 +1,63 @@
+{
+  "_schema": "exchange-forensic-eml/v1",
+  "_generated": "2026-03-10T03:52:58.953967+00:00",
+  "_source": "neon-exchange-sync",
+  "file_integrity": {
+    "eml_file": "/home/ubuntu/revstream1/docs/evidence/forensic_eml/regima.zone/0028_2020-05-19_1309_bern@regima.zone_RE_[EXTERNAL]_RE_[EXTERNAL]_TNT_Feedback_Contact_u.eml",
+    "file_size_bytes": 983,
+    "md5": "0585861110057d41163752516207ac18",
+    "sha1": "7fe6df50740aaf23c4c2fa5e712c408dd3a0c8bd",
+    "sha256": "9c92de0a437aa5317ddb1c3738ee8fae0d89fa45fa004ab818f4a4170fa6114a"
+  },
+  "message_identity": {
+    "exchange_sync_id": "AQMkADMxMzkyY2FlLWNkMGEtNGM2My04OWFiLTNlZDRjNzkyNGUyMwBGAAADSLKv-EI8AESN7LMej4ROLgcAIySisE98NkWmcNijjztGYgAAAj1GAAAAIySisE98NkWmcNijjztGYgAAAlk2AAAA",
+    "internet_message_id": "<AM6PR08MB4819FA9E8428AD31BE630414C4B90@AM6PR08MB4819.eurprd08.prod.outlook.com>",
+    "conversation_id": "AAQkADMxMzkyY2FlLWNkMGEtNGM2My04OWFiLTNlZDRjNzkyNGUyMwAQAFY2jF2POUqZnsHEyX6Y0H8="
+  },
+  "envelope": {
+    "subject": "RE: [EXTERNAL] RE: [EXTERNAL] TNT Feedback/Contact us | South Africa - SHIPMENT TO MALTA",
+    "from_name": "Bernadine Wright",
+    "from_address": "bern@regima.zone",
+    "to_recipients": [
+      {
+        "name": "CSsupport.ZA",
+        "address": "CSsupport.ZA@tnt.com"
+      },
+      {
+        "name": "bern@regima.com",
+        "address": "bern@regima.com"
+      }
+    ],
+    "cc_recipients": [
+      {
+        "name": "CMSBella",
+        "address": "info@cmsbella.com"
+      },
+      {
+        "name": "Jacqui Faucitt",
+        "address": "jax@regima.zone"
+      },
+      {
+        "name": "'pete@regima.com'",
+        "address": "pete@regima.com"
+      },
+      {
+        "name": "Rynette Farrar",
+        "address": "rynette@regima.zone"
+      }
+    ],
+    "received_datetime": "2020-05-19 13:09:11+00:00"
+  },
+  "mailbox_context": {
+    "user_email": "rynette@regima.zone",
+    "user_name": "Rynette Farrar",
+    "folder_name": "Shipping",
+    "folder_id": "AQMkADMxMzkyY2FlLWNkMGEtNGM2My04OWFiLTNlZDRjNzkyNGUyMwAuAAADSLKv-EI8AESN7LMej4ROLgEAIySisE98NkWmcNijjztGYgAAAj1GAAAA"
+  },
+  "body": {
+    "content_type": null,
+    "preview": "Hi Josie\r\n\r\nPer our discussions, I now have the weights & dimensions for the shipment to Malta. Please will you urgently quote me on the following Shipment to be sent to the address below in Malta.\r\n\r\nPlease quote your best possible price. Please note tha",
+    "body_length_chars": 0
+  },
+  "attachments": []
+}

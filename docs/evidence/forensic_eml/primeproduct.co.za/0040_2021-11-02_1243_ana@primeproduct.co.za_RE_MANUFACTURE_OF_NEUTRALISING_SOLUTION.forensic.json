@@ -1,0 +1,63 @@
+{
+  "_schema": "exchange-forensic-eml/v1",
+  "_generated": "2026-03-10T03:53:26.882260+00:00",
+  "_source": "neon-exchange-sync",
+  "file_integrity": {
+    "eml_file": "/home/ubuntu/revstream1/docs/evidence/forensic_eml/primeproduct.co.za/0040_2021-11-02_1243_ana@primeproduct.co.za_RE_MANUFACTURE_OF_NEUTRALISING_SOLUTION.eml",
+    "file_size_bytes": 932,
+    "md5": "8557581e50c83a755c7c593f757b62f4",
+    "sha1": "814dfc9fad66c7d416a7b8ce884dbcd1e65c235d",
+    "sha256": "0b9b57fd69b8f1b25cf09e35cc787ce1c6203a684e0d8af3f88194f141c701da"
+  },
+  "message_identity": {
+    "exchange_sync_id": "AAMkADMxMzkyY2FlLWNkMGEtNGM2My04OWFiLTNlZDRjNzkyNGUyMwBGAAAAAABIsq-8QjwARI3ssx6PhE4uBwAjJKKwT3w2RaZw2KOPO0ZiAAAAAD3CAAAjJKKwT3w2RaZw2KOPO0ZiAABTCmTpAAA=",
+    "internet_message_id": "<AS8P189MB13341BCFE8FB649B708A9A528B8B9@AS8P189MB1334.EURP189.PROD.OUTLOOK.COM>",
+    "conversation_id": "AAQkADMxMzkyY2FlLWNkMGEtNGM2My04OWFiLTNlZDRjNzkyNGUyMwAQAMgDzYI780X-vGPrJovct9U="
+  },
+  "envelope": {
+    "subject": "RE: MANUFACTURE OF NEUTRALISING SOLUTION",
+    "from_name": "Ana Ferreira",
+    "from_address": "ana@primeproduct.co.za",
+    "to_recipients": [
+      {
+        "name": "Jacqui Faucitt",
+        "address": "jax@regima.zone"
+      }
+    ],
+    "cc_recipients": [
+      {
+        "name": "Rynette Farrar",
+        "address": "rynette@regima.zone"
+      },
+      {
+        "name": "Kayla Pretorius",
+        "address": "kayla@regima.zone"
+      },
+      {
+        "name": "PETE@REGIMA.COM",
+        "address": "PETE@REGIMA.COM"
+      },
+      {
+        "name": "Daniel Faucitt",
+        "address": "d@rzo.io"
+      },
+      {
+        "name": "Sue Phillips",
+        "address": "Sue@primeproduct.co.za"
+      }
+    ],
+    "received_datetime": "2021-11-02 12:43:58+00:00"
+  },
+  "mailbox_context": {
+    "user_email": "rynette@regima.zone",
+    "user_name": "Rynette Farrar",
+    "folder_name": "Prime",
+    "folder_id": "AQMkADMxMzkyY2FlLWNkMGEtNGM2My04OWFiLTNlZDRjNzkyNGUyMwAuAAADSLKv-EI8AESN7LMej4ROLgEAIySisE98NkWmcNijjztGYgAAAj3CAAAA"
+  },
+  "body": {
+    "content_type": null,
+    "preview": "Hi Jacqui\r\n\r\nWe have received the materials and the team is busy scheduling production\r\n\r\nI’ve asked them to prioritize your bulk, I’ll let you know as soon as it’s scheduled\r\n\r\nRegards\r\nAna Ferreira\r\nCustomer service\r\n\r\n\r\n\r\n(t)\r\n(f)\r\n©\r\nEmail\r\nWeb\r\n\r\n+27",
+    "body_length_chars": 0
+  },
+  "attachments": []
+}

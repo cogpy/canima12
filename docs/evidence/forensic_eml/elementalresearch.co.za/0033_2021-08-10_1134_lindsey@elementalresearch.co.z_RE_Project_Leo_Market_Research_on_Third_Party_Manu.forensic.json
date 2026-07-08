@@ -1,0 +1,42 @@
+{
+  "_schema": "exchange-forensic-eml/v1",
+  "_generated": "2026-03-10T03:53:25.915524+00:00",
+  "_source": "neon-exchange-sync",
+  "file_integrity": {
+    "eml_file": "/home/ubuntu/revstream1/docs/evidence/forensic_eml/elementalresearch.co.za/0033_2021-08-10_1134_lindsey@elementalresearch.co.z_RE_Project_Leo_Market_Research_on_Third_Party_Manu.eml",
+    "file_size_bytes": 776,
+    "md5": "b31d2fafc273d48f505741e2cb223a92",
+    "sha1": "24fcb0bb291dd7a1f4bf8307a013f61598e9bd97",
+    "sha256": "03fa9ad7900af17f9b1647a52cc82e06040194a0df0330fe634ba890d04fc2b2"
+  },
+  "message_identity": {
+    "exchange_sync_id": "AQMkAGM2Y2E0NWVmLWEzZTktNDc1Mi1iY2I4LTU3OTBlMTJhMTllNQBGAAADPe59AHjuz0_HJe8Q4ALb1wcAtr3q_CoE-0aRl7m1844EjgAAAgEMAAAAtr3q_CoE-0aRl7m1844EjgAGaXWJ9AAAAA==",
+    "internet_message_id": "<000601d78ddb$bc82c540$35884fc0$@elementalresearch.co.za>",
+    "conversation_id": "AAQkAGM2Y2E0NWVmLWEzZTktNDc1Mi1iY2I4LTU3OTBlMTJhMTllNQAQAGcmuqz6JkMjhEvuDwDMWZs="
+  },
+  "envelope": {
+    "subject": "RE: Project Leo: Market Research on Third Party Manufacturers",
+    "from_name": "lindsey@elementalresearch.co.za",
+    "from_address": "lindsey@elementalresearch.co.za",
+    "to_recipients": [
+      {
+        "name": "Jacqui Faucitt",
+        "address": "jax@regima.zone"
+      }
+    ],
+    "cc_recipients": null,
+    "received_datetime": "2021-08-10 11:34:58+00:00"
+  },
+  "mailbox_context": {
+    "user_email": "jax@regima.zone",
+    "user_name": "Jacqui Faucitt",
+    "folder_name": "Inbox",
+    "folder_id": "AQMkAGM2Y2E0NWVmLWEzZTktNDc1Mi1iY2I4LTU3OTBlMTJhMTllNQAuAAADPe59AHjuz0_HJe8Q4ALb1wEAtr3q_CoE-0aRl7m1844EjgAAAgEMAAAA"
+  },
+  "body": {
+    "content_type": null,
+    "preview": "Dear Jacqui\r\n\r\nElemental Research, a strategic market research company has been commissioned to conduct a research study within the third-party manufacturing arena on behalf of Prime Product Manufacturing.\r\n\r\nThe interview will take approximately 30-40 mi",
+    "body_length_chars": 0
+  },
+  "attachments": []
+}

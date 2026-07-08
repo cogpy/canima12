@@ -1,0 +1,69 @@
+{
+  "_schema": "exchange-forensic-eml/v1",
+  "_generated": "2026-03-10T03:50:27.016396+00:00",
+  "_source": "neon-exchange-sync",
+  "file_integrity": {
+    "eml_file": "/home/ubuntu/revstream1/docs/evidence/forensic_eml/regima.com/0009_2025-06-10_1058_pete@regima.com_FW_FIRST_LETTER_-_VILLA_VIA_ARCADIA_NO_2_CC.eml",
+    "file_size_bytes": 8463,
+    "md5": "7cf81c6afa8d025eada8deb9c7c52a87",
+    "sha1": "cd16d4a72e8dabdb5edf945eb8ba7665791d4457",
+    "sha256": "ff2f3a73be9c1b7d36ca5b94ea9e4492185f0296aaed145bbaaca3220dc7c1c9"
+  },
+  "message_identity": {
+    "exchange_sync_id": "AAMkADMxMzkyY2FlLWNkMGEtNGM2My04OWFiLTNlZDRjNzkyNGUyMwBGAAAAAABIsq-8QjwARI3ssx6PhE4uBwAjJKKwT3w2RaZw2KOPO0ZiAAA-JWQ5AAAjJKKwT3w2RaZw2KOPO0ZiAAA-JZnhAAA=",
+    "internet_message_id": "<1a4901dbd9f6$7e8f8a00$7bae9e00$@regima.com>",
+    "conversation_id": "AAQkADMxMzkyY2FlLWNkMGEtNGM2My04OWFiLTNlZDRjNzkyNGUyMwAQAIfwZvAD0X5S0zwrhb_0wL4="
+  },
+  "envelope": {
+    "subject": "FW: FIRST LETTER - VILLA VIA ARCADIA NO 2 CC",
+    "from_name": "Pete",
+    "from_address": "pete@regima.com",
+    "to_recipients": [
+      {
+        "name": "'Danie Bantjes'",
+        "address": "danie.bantjes@gmail.com"
+      },
+      {
+        "name": "Rynette Farrar",
+        "address": "rynette@regima.zone"
+      }
+    ],
+    "cc_recipients": null,
+    "received_datetime": "2025-06-10 10:58:13+00:00"
+  },
+  "mailbox_context": {
+    "user_email": "rynette@regima.zone",
+    "user_name": "Rynette Farrar",
+    "folder_name": "Danie",
+    "folder_id": "AAMkADMxMzkyY2FlLWNkMGEtNGM2My04OWFiLTNlZDRjNzkyNGUyMwAuAAAAAABIsq-8QjwARI3ssx6PhE4uAQAjJKKwT3w2RaZw2KOPO0ZiAAA-JWQ5AAA="
+  },
+  "body": {
+    "content_type": "html",
+    "preview": "From: Hubert Nkosi <hnkosi@sars.gov.za>\r\nSent: Tuesday, 10 June 2025 12:44 PM\r\nTo: pete@regima.com\r\nCc: danie.bantjies@gmail.com\r\nSubject: FIRST LETTER - VILLA VIA ARCADIA NO 2 CC\r\n\r\nDear Sir/Madam\r\n\r\nKindly find the attached letter for your attention",
+    "body_length_chars": 5119
+  },
+  "attachments": [
+    {
+      "id": "AAMkADMxMzkyY2FlLWNkMGEtNGM2My04OWFiLTNlZDRjNzkyNGUyMwBGAAAAAABIsq-8QjwARI3ssx6PhE4uBwAjJKKwT3w2RaZw2KOPO0ZiAAA-JWQ5AAAjJKKwT3w2RaZw2KOPO0ZiAAA-JZnhAAABEgAQANW9xrl6PcxHv6rJ1wg6yic=",
+      "name": "FIRST LETTER - VILLA VIA ARCADIA NO 2 CC.pdf",
+      "content_type": "application/pdf",
+      "size_bytes": 151939,
+      "is_inline": false,
+      "r2_bucket": "exchange-attachments",
+      "r2_key": "betrayal/89727f2e-27c2-4f69-893c-f30d821bc83d/rynette_at_regima_zone/AAMkADMxMzkyY2FlLWNkMGEtNGM2My/AAMkADMx_FIRST LETTER - VILLA VIA ARCADIA NO 2 CC.pdf",
+      "download_status": "downloaded",
+      "downloaded": false
+    },
+    {
+      "id": "AAMkADMxMzkyY2FlLWNkMGEtNGM2My04OWFiLTNlZDRjNzkyNGUyMwBGAAAAAABIsq-8QjwARI3ssx6PhE4uBwAjJKKwT3w2RaZw2KOPO0ZiAAA-JWQ5AAAjJKKwT3w2RaZw2KOPO0ZiAAA-JZnhAAABEgAQAGgm1Rn6aNdAg13neIL_PCg=",
+      "name": "image001.png",
+      "content_type": "image/png",
+      "size_bytes": 54376,
+      "is_inline": true,
+      "r2_bucket": "exchange-attachments",
+      "r2_key": "betrayal/89727f2e-27c2-4f69-893c-f30d821bc83d/rynette_at_regima_zone/AAMkADMxMzkyY2FlLWNkMGEtNGM2My/AAMkADMx_image001.png",
+      "download_status": "downloaded",
+      "downloaded": false
+    }
+  ]
+}

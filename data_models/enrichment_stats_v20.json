@@ -1,0 +1,173 @@
+{
+  "last_updated": "2026-03-23 01:01:53",
+  "version": "v20",
+  "pipeline": "/optimal-cognitive-grip(/stable-skill-diffusion[/temporal-code-archaeology, /chainlex])",
+  "entities": {
+    "total": 73,
+    "by_type": {
+      "Bank/Account": 7,
+      "Domain": 2,
+      "Organization": 30,
+      "Person": 31,
+      "Platform": 2,
+      "Trust": 1
+    },
+    "with_roles": 46,
+    "with_evidence": 47,
+    "with_legal_categories": 54
+  },
+  "events": {
+    "total": 175,
+    "with_dates": 146,
+    "with_evidence": 162,
+    "with_legal_categories": 152,
+    "date_range": {
+      "earliest": "2017-01-01",
+      "latest": "2026-03-13"
+    }
+  },
+  "relations": {
+    "total": 38,
+    "with_entities": 13,
+    "with_evidence": 24,
+    "with_legal_categories": 37
+  },
+  "applications": {
+    "app1_civil_criminal": {
+      "entities": 42,
+      "events": 127,
+      "relations": 33
+    },
+    "app2_cipc_popia": {
+      "entities": 24,
+      "events": 68,
+      "relations": 24
+    },
+    "app3_commercial_crime_tax": {
+      "entities": 11,
+      "events": 47,
+      "relations": 25
+    }
+  },
+  "chainlex_coverage": {
+    "abuse_of_process": {
+      "domain": "civ",
+      "burden_threshold": 0.5,
+      "entities": 0,
+      "events": 3,
+      "relations": 0
+    },
+    "breach_of_fiduciary_duty": {
+      "domain": "civ",
+      "burden_threshold": 0.5,
+      "entities": 2,
+      "events": 18,
+      "relations": 2
+    },
+    "breach_of_trust": {
+      "domain": "civ",
+      "burden_threshold": 0.5,
+      "entities": 2,
+      "events": 6,
+      "relations": 1
+    },
+    "companies_act_violation": {
+      "domain": "cmp",
+      "burden_threshold": 0.5,
+      "entities": 18,
+      "events": 35,
+      "relations": 18
+    },
+    "conspiracy": {
+      "domain": "cri",
+      "burden_threshold": 0.95,
+      "entities": 19,
+      "events": 65,
+      "relations": 19
+    },
+    "contempt_of_court": {
+      "domain": "cri",
+      "burden_threshold": 0.95,
+      "entities": 6,
+      "events": 24,
+      "relations": 5
+    },
+    "exchange_control_violation": {
+      "domain": "cri",
+      "burden_threshold": 0.95,
+      "entities": 2,
+      "events": 2,
+      "relations": 0
+    },
+    "forgery": {
+      "domain": "cri",
+      "burden_threshold": 0.95,
+      "entities": 4,
+      "events": 21,
+      "relations": 17
+    },
+    "fraud": {
+      "domain": "cri",
+      "burden_threshold": 0.95,
+      "entities": 25,
+      "events": 80,
+      "relations": 26
+    },
+    "identity_fraud": {
+      "domain": "cri",
+      "burden_threshold": 0.95,
+      "entities": 8,
+      "events": 35,
+      "relations": 14
+    },
+    "intercompany_fraud": {
+      "domain": "cmp",
+      "burden_threshold": 0.5,
+      "entities": 3,
+      "events": 12,
+      "relations": 7
+    },
+    "money_laundering": {
+      "domain": "cri",
+      "burden_threshold": 0.95,
+      "entities": 1,
+      "events": 3,
+      "relations": 4
+    },
+    "perjury": {
+      "domain": "cri",
+      "burden_threshold": 0.95,
+      "entities": 2,
+      "events": 20,
+      "relations": 9
+    },
+    "popia_violation": {
+      "domain": "dat",
+      "burden_threshold": 0.95,
+      "entities": 1,
+      "events": 17,
+      "relations": 11
+    },
+    "revenue_diversion": {
+      "domain": "cri",
+      "burden_threshold": 0.95,
+      "entities": 22,
+      "events": 49,
+      "relations": 12
+    },
+    "tax_fraud": {
+      "domain": "cri",
+      "burden_threshold": 0.95,
+      "entities": 5,
+      "events": 22,
+      "relations": 20
+    },
+    "theft": {
+      "domain": "cri",
+      "burden_threshold": 0.95,
+      "entities": 10,
+      "events": 37,
+      "relations": 6
+    }
+  }
+}

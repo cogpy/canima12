@@ -1,0 +1,51 @@
+{
+  "_schema": "exchange-forensic-eml/v1",
+  "_generated": "2026-03-10T03:53:25.087132+00:00",
+  "_source": "neon-exchange-sync",
+  "file_integrity": {
+    "eml_file": "/home/ubuntu/revstream1/docs/evidence/forensic_eml/regima.zone/0027_2021-08-03_0826_jax@regima.zone_RE_DELIVERY_COSMETIC_INGREDIENTS_-_C-HYALURONIC_AC.eml",
+    "file_size_bytes": 924,
+    "md5": "461e52c42a85f2f78d4a3f1eb5865dce",
+    "sha1": "5a4a7187cc4e82c2b3dabdd132cb93ba647704e0",
+    "sha256": "b6b723d86f5d0f4552b0c3ce6d0975383cba54382891a3be3318c9bfb66fdac7"
+  },
+  "message_identity": {
+    "exchange_sync_id": "AAMkADMxMzkyY2FlLWNkMGEtNGM2My04OWFiLTNlZDRjNzkyNGUyMwBGAAAAAABIsq-8QjwARI3ssx6PhE4uBwAjJKKwT3w2RaZw2KOPO0ZiAABTCcATAAAjJKKwT3w2RaZw2KOPO0ZiAABTCj3DAAA=",
+    "internet_message_id": "<DB7PR08MB33067359734214309BCD4F8CACF09@DB7PR08MB3306.eurprd08.prod.outlook.com>",
+    "conversation_id": "AAQkADMxMzkyY2FlLWNkMGEtNGM2My04OWFiLTNlZDRjNzkyNGUyMwAQAK06gWiQSUSpgascB84qMeU="
+  },
+  "envelope": {
+    "subject": "RE: DELIVERY COSMETIC INGREDIENTS - C-HYALURONIC ACID HMW  -  // NOT SURE WHICH PRODUCT THESE ARE FOR AND WHEN TO BE MANUFACTURED.",
+    "from_name": "Jacqui Faucitt",
+    "from_address": "jax@regima.zone",
+    "to_recipients": [
+      {
+        "name": "Rynette Farrar",
+        "address": "rynette@regima.zone"
+      }
+    ],
+    "cc_recipients": [
+      {
+        "name": "JAX@REGIMA.COM",
+        "address": "JAX@REGIMA.COM"
+      },
+      {
+        "name": "PETE@REGIMA.COM",
+        "address": "pete@regima.com"
+      }
+    ],
+    "received_datetime": "2021-08-03 08:26:20+00:00"
+  },
+  "mailbox_context": {
+    "user_email": "rynette@regima.zone",
+    "user_name": "Rynette Farrar",
+    "folder_name": "Raw materials",
+    "folder_id": "AAMkADMxMzkyY2FlLWNkMGEtNGM2My04OWFiLTNlZDRjNzkyNGUyMwAuAAAAAABIsq-8QjwARI3ssx6PhE4uAQAjJKKwT3w2RaZw2KOPO0ZiAABTCcATAAA="
+  },
+  "body": {
+    "content_type": null,
+    "preview": "It is only seen when the parcel is opened and paperwork removed.  They put the newer pack on the top.  It is obviously something they all do often, so we must look through all of them whenever they arrive.  Eish\r\n\r\nIt is something Karen needs to organise ",
+    "body_length_chars": 0
+  },
+  "attachments": []
+}

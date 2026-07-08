@@ -1,0 +1,63 @@
+{
+  "_schema": "exchange-forensic-eml/v1",
+  "_generated": "2026-03-10T03:50:35.523130+00:00",
+  "_source": "neon-exchange-sync",
+  "file_integrity": {
+    "eml_file": "/home/ubuntu/revstream1/docs/evidence/forensic_eml/unknown/0068_2025-11-01_1230_MAILER-DAEMON_AD_NOTES_-_JACQUELINE_FAUCITT.eml",
+    "file_size_bytes": 220424,
+    "md5": "162df24a2ac3973ad313817526ffc72a",
+    "sha1": "c0e249678fdf5c034ef2619e15adacbd8483e504",
+    "sha256": "6ff86350503d953d9add686572a51811e05aef006350645abbedad834b211f70"
+  },
+  "message_identity": {
+    "exchange_sync_id": "pst-d6e0a6b2b8e7d4837ce6d91b5608a876418926b6",
+    "internet_message_id": "<JNZP275MB132142B4151962AB5A8BD975CBF9A@JNZP275MB1321.ZAFP275.PROD.OUTLOOK.COM>",
+    "conversation_id": null
+  },
+  "envelope": {
+    "subject": "AD NOTES - JACQUELINE FAUCITT",
+    "from_name": "Daniel Faucitt",
+    "from_address": "MAILER-DAEMON",
+    "to_recipients": [
+      {
+        "emailAddress": {
+          "name": "Jacqui",
+          "address": "Jacqui"
+        }
+      }
+    ],
+    "cc_recipients": [
+      {
+        "emailAddress": {
+          "name": "Jacqui",
+          "address": "Jacqui"
+        }
+      },
+      {
+        "emailAddress": {
+          "name": "d",
+          "address": "d@rzo.io"
+        }
+      },
+      {
+        "emailAddress": {
+          "name": "regizone",
+          "address": "regizone"
+        }
+      }
+    ],
+    "received_datetime": "2025-11-01 12:30:52+00:00"
+  },
+  "mailbox_context": {
+    "user_email": "dan@regima.com",
+    "user_name": "Dan",
+    "folder_name": "Sent Items",
+    "folder_id": "pst-folder-d5f2fe49026e4bccf5f8a98e2e8a2b1d"
+  },
+  "body": {
+    "content_type": "html",
+    "preview": "P {margin-top:0;margin-bottom:0;} ## ANSWERING AFFIDAVIT: JACQUELINE FAUCITT **IN THE HIGH COURT OF SOUTH AFRICA** &nbsp; **GAUTENG DIVISION, PRETORIA** **Case No:** 2025-137857 **In the matter between:** **PETER ANDREW FAUCITT** — Applicant and **JACQUEL",
+    "body_length_chars": 162576
+  },
+  "attachments": []
+}

@@ -1,0 +1,78 @@
+{
+  "entity_id": "ORG_KETONI",
+  "name": "Ketoni Investment Holdings (Pty) Ltd",
+  "type": "investment_company",
+  "registration_number": "2023/562189/07",
+  "incorporation_date": "2023-02-20",
+  "financial_year_end": "February",
+  "description": "Investment holding company owing ZAR 18.75M to Faucitt Family Trust via share payout obligation. Director Kevin Michael Derrick is also CEO of The George Group where Bantjies serves as CFO. Central financial nexus in the revenue hijacking scheme.",
+  "role": "financial_nexus",
+  "director": "Kevin Michael Derrick",
+  "shareholder": "Faucitt Family Trust (5,000 A-Ordinary shares, Certificate #3 dated 2023-04-24)",
+  "obligation": {
+    "amount": "ZAR 18,750,000",
+    "recipient": "Faucitt Family Trust (IT 003651/2013)",
+    "payout_schedule": {
+      "option_1": "May 2026",
+      "option_2": "May 2027",
+      "option_3": "May 2029"
+    },
+    "structure": "Three-year payout schedule"
+  },
+  "beneficiary_split": {
+    "peter_faucitt": {"share": "1/3", "estimated_value": "ZAR 6,250,000"},
+    "jacqueline_faucitt": {"share": "1/3", "estimated_value": "ZAR 6,250,000"},
+    "daniel_faucitt": {"share": "1/3", "estimated_value": "ZAR 6,250,000"}
+  },
+  "corporate_connections": {
+    "george_group": {
+      "ceo": "Kevin Michael Derrick",
+      "cfo": "Daniel Jacobus Bantjies",
+      "significance": "Bantjies owes professional loyalty to Ketoni owner while being FFT Trustee"
+    }
+  },
+  "annual_financial_statements": {
+    "fy2024": {
+      "year_end": "2024-02-29",
+      "prepared_by": "Forvis Mazars",
+      "review_type": "Independent Review (not full audit)",
+      "pages": 16,
+      "sections_present": ["Balance Sheet", "Income Statement", "Notes to Financial Statements", "Directors Report"],
+      "source": "Exchange mailbox - Email from Danie Bantjes to Rynette Farrar, 2025-01-29",
+      "original_filename": "Ketoni Investment Holdings AFS 2024 - Signed.pdf",
+      "exchange_message_dir": "0863_20250129_Re_ Faucitt family trust - agreement",
+      "evidentiary_significance": "First full-year AFS confirming Ketoni as operational entity; sent to Rynette (bookkeeper) not beneficiaries; delivered 57 days before revenue hijacking scheme began",
+      "outstanding_questions": [
+        "Total asset base and ability to pay R18.75M",
+        "Disclosure of R18.75M shareholder obligation in liabilities",
+        "Revenue and profitability",
+        "Full director listing",
+        "Related party transaction disclosures",
+        "Share capital structure confirmation",
+        "Going concern notes",
+        "Principal business description"
+      ]
+    }
+  },
+  "evidence": [
+    "JF10 - Trust Documents (FFT share certificate)",
+    "Ketoni Investment Holdings AFS 2024 - Signed.pdf",
+    "Exchange email 0863_20250129 - AFS delivery chain",
+    "CIPC registration 2023/562189/07",
+    "Share Certificate #3 - 5,000 A-Ordinary shares"
+  ],
+  "ad_res_j7_references": [
+    "evidence/financial-analysis/ketoni_investment_holdings_afs_2024.md",
+    "docs/exchange-evidence/ketoni_motive.md",
+    "ketoni_correction_2026_01_28/KETONI_RELATIONSHIP_CORRECTION_2026_01_28.md",
+    "lexarc/entity_relation_framework_v48_ketoni_payout_integrated.scm",
+    "lexarc/agent_based_model_v48_ketoni_integrated.scm",
+    "ANNEXURES/JF10/"
+  ],
+  "evidence_strength": "conclusive",
+  "criminal_threshold": "95%_exceeded",
+  "significance": "CENTRAL FINANCIAL MOTIVE - All events converge on May 2026 payout",
+  "created_at": "2026-01-25T06:42:18.323766",
+  "updated_at": "2026-03-11T00:00:00.000000",
+  "update_source": "AFS 2024 analysis integration"
+}

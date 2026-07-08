@@ -1,0 +1,346 @@
+{
+  "title": "Revenue Stream Hijacking, Trust Fraud, and Corporate Sabotage — Case 2025-137857",
+  "description": "Multi-domain legal case involving revenue stream hijacking, trust forgery, perjury, POPIA violations, tax fraud, and corporate sabotage across the RegimA group of companies. The conspiracy centres on capturing the R18.685M Ketoni Investment Holdings payout due May 2026.",
+  "case_number": "2025-137857",
+  "facts": "Peter Faucitt, aided by bookkeeper Rynette Farrar and accountant Danie Bantjies, orchestrated a scheme to hijack the revenue streams of RegimA Worldwide Distribution, forge trust documents to install Bantjies as trustee of the Faucitt Family Trust, obtain a fraudulent ex parte interdict through perjury and material non-disclosure, and extract R10.6M from company accounts — all to capture the R18.685M Ketoni payout. The scheme involved SARS eFiling impersonation, Sage accounting system sabotage, fabrication of historical company records, systematic revenue diversion through 39+ bank detail change emails, and weaponisation of court processes including a contempt application seeking imprisonment of a fraud victim.",
+  "keywords": [
+    "revenue-stream-hijacking", "trust-forgery", "perjury", "material-non-disclosure",
+    "ex-parte-interdict", "void-ab-initio", "contempt-trap", "corporate-sabotage",
+    "fiduciary-breach", "POPIA-violation", "tax-fraud", "SARS-eFiling-impersonation",
+    "identity-misappropriation", "accounting-sabotage", "Sage-fraud", "Shopify-hijacking",
+    "revenue-diversion", "bank-detail-fraud", "trust-amendment-forgery", "curatorship-fraud",
+    "Ketoni-payout-capture", "intercompany-loan-manipulation", "expense-dump-fraud",
+    "De-Novo-fabrication", "CIPC-record-falsification", "card-cancellation-retaliation"
+  ],
+  "facts_list": [
+    "Trust amendment forged by Rynette signing as pp Peter on 28 June 2024",
+    "Bantjies installed as trustee without knowledge of Daniel or Jacqueline",
+    "Bantjies is CFO of George Group whose CEO Kevin Derrick directs Ketoni",
+    "R18.685M Ketoni payout due May 2026 to Faucitt Family Trust",
+    "Rynette operated pete@regima.com — Peter does not use electronic communication",
+    "FNB FICA/KYC confirms Daniel held SOLE General Powers on company accounts",
+    "Daniel's cards cancelled 7 June 2025 — one day after reporting fraud to Bantjies",
+    "Bantjies swore confirmatory affidavit 13 August 2025 — 68 days after receiving fraud report",
+    "Ex parte interdict granted 19 August 2025 without disclosure of sole mandate or fraud reports",
+    "R10.6M extracted within 8 days of interdict being granted",
+    "39+ bank detail change emails sent May-June 2025 diverting revenue from FNB to ABSA",
+    "Rynette logged into SARS eFiling as Bantjies on 26 April 2024 to change banking to ABSA",
+    "Sage account fraudulently transferred using false affidavit about Kayla Pretorius death",
+    "De Novo Business Services fabricated 2019 accounts removing Kayla as director",
+    "Rynette's son's company Adderory registered regimaskin.co.za on 29 May 2025",
+    "Contempt application filed 4 February 2026 seeking 6 months imprisonment of Jacqueline",
+    "Rynette requested trust documents 14 days after Kayla Pretorius murdered 13 July 2023",
+    "Settlement agreements presented under duress at Forvis Mazars mediation September 2025",
+    "Bantjies secretly shared financial analysis with Rynette — instructed her not to tell",
+    "Backdated journal entries instructed by Rynette to Bantjies August 2021",
+    "Bantjies admitted using incorrect Villa Via registration number since 2014"
+  ],
+  "entities": [
+    {"type": "person", "name": "Peter Andrew Faucitt", "role": "primary_perpetrator", "attributes": {"id": "PERSON_001", "id_number": "820430 5708 18 5", "agent_type": "antagonist"}},
+    {"type": "person", "name": "Rynette Farrar", "role": "co_conspirator_operator", "attributes": {"id": "PERSON_002", "agent_type": "antagonist", "role_detail": "bookkeeper who operates Peter's email and controls all financial systems"}},
+    {"type": "person", "name": "Jacqueline Faucitt", "role": "victim_respondent", "attributes": {"id": "PERSON_003", "agent_type": "victim"}},
+    {"type": "person", "name": "Daniel James Faucitt", "role": "victim_respondent", "attributes": {"id": "PERSON_004", "agent_type": "victim", "role_detail": "co-director with sole FNB mandate, built all digital infrastructure"}},
+    {"type": "person", "name": "Daniel Faucitt Sr", "role": "victim_trustee", "attributes": {"id": "PERSON_005", "agent_type": "victim"}},
+    {"type": "person", "name": "Danie Bantjies", "role": "co_conspirator_accountant", "attributes": {"id": "PERSON_006", "saica_number": "00105928", "agent_type": "antagonist", "role_detail": "external accountant, CFO George Group, fraudulently installed trustee"}},
+    {"type": "person", "name": "Kevin Derrick", "role": "connected_party", "attributes": {"id": "PERSON_007", "role_detail": "CEO George Group, director Ketoni Investment Holdings"}},
+    {"type": "person", "name": "Kayla Pretorius", "role": "deceased_key_person", "attributes": {"id": "PERSON_008", "role_detail": "original Sage account owner, co-director ReZonance, murdered 13 July 2023"}},
+    {"type": "person", "name": "Kent Rault", "role": "employee_participant", "attributes": {"id": "PERSON_009", "role_detail": "sent bank detail change emails to clients"}},
+    {"type": "person", "name": "Linda Farrar", "role": "employee_participant", "attributes": {"id": "PERSON_010", "role_detail": "Rynette's sister, sent 39+ bank detail change emails"}},
+    {"type": "person", "name": "Gayane Williams", "role": "employee_participant", "attributes": {"id": "PERSON_011", "role_detail": "announced email domain change from regima.zone to regimaskin.co.za"}},
+    {"type": "person", "name": "Anton Hechter", "role": "tax_practitioner", "attributes": {"id": "PERSON_012", "role_detail": "SARS tax practitioner for all RegimA companies"}},
+    {"type": "person", "name": "Clare Payne", "role": "cipc_agent", "attributes": {"id": "PERSON_013", "role_detail": "Corporate and Merchant Administrators — CIPC agent"}},
+    {"type": "person", "name": "Marc Yudaken", "role": "attorney", "attributes": {"id": "PERSON_042", "role_detail": "Baker McKenzie — drafted Ketoni SHA/MOI"}},
+    {"type": "person", "name": "Ian Levitt", "role": "attorney", "attributes": {"id": "PERSON_014", "role_detail": "sent R63M demand letter (SF9) — ignored"}},
+    {"type": "person", "name": "Elliott Attorneys", "role": "legal_representative", "attributes": {"id": "PERSON_015", "role_detail": "Peter's attorneys for interdict application"}},
+    {"type": "organization", "name": "RegimA Worldwide Distribution (Pty) Ltd", "role": "primary_company", "attributes": {"id": "ORG_001", "cipc_reg": "2001/025850/07"}},
+    {"type": "organization", "name": "RegimA Skin Treatments", "role": "trading_entity", "attributes": {"id": "ORG_002"}},
+    {"type": "organization", "name": "RWD (UK) Ltd", "role": "uk_entity", "attributes": {"id": "ORG_003"}},
+    {"type": "organization", "name": "Strategic Logistics CC", "role": "logistics_entity", "attributes": {"id": "ORG_004"}},
+    {"type": "organization", "name": "ReZonance", "role": "digital_entity", "attributes": {"id": "ORG_005", "role_detail": "co-directed by Daniel and Kayla"}},
+    {"type": "organization", "name": "Adderory (Pty) Ltd", "role": "farrar_family_company", "attributes": {"id": "ORG_006", "role_detail": "Rynette's son's company, registered regimaskin.co.za"}},
+    {"type": "organization", "name": "Luxury Products Online", "role": "farrar_family_company", "attributes": {"id": "ORG_007", "role_detail": "distribution channel owned by Rynette's son"}},
+    {"type": "organization", "name": "Luxuré", "role": "competitor_entity", "attributes": {"id": "ORG_008", "role_detail": "direct competitor to RegimA, owned by Rynette's son"}},
+    {"type": "organization", "name": "George Group", "role": "connected_corporate", "attributes": {"id": "ORG_009", "role_detail": "Bantjies is CFO, Kevin Derrick is CEO"}},
+    {"type": "organization", "name": "Ketoni Investment Holdings", "role": "debtor_entity", "attributes": {"id": "ORG_010", "role_detail": "owes R18.685M to FFT, due May 2026"}},
+    {"type": "organization", "name": "De Novo Business Services", "role": "fabrication_service", "attributes": {"id": "ORG_011", "role_detail": "fabricated 2019 accounts removing Kayla"}},
+    {"type": "organization", "name": "Baker McKenzie", "role": "law_firm", "attributes": {"id": "ORG_025", "role_detail": "drafted Ketoni SHA/MOI"}},
+    {"type": "organization", "name": "Forvis Mazars", "role": "mediator", "attributes": {"id": "ORG_012", "role_detail": "facilitated settlement mediation September 2025"}},
+    {"type": "organization", "name": "ENS Africa", "role": "former_attorneys", "attributes": {"id": "ORG_013", "role_detail": "Daniel and Jacqueline's attorneys who appeared to act against their interests"}},
+    {"type": "trust", "name": "Faucitt Family Trust", "role": "trust_vehicle", "attributes": {"id": "TRUST_001", "role_detail": "holds 33% of RWD, creditor of Ketoni R18.685M"}},
+    {"type": "organization", "name": "RegimaSA (Pty) Ltd", "role": "shell_company", "attributes": {"id": "ORG_014", "cipc_reg": "2017/087935/07"}},
+    {"type": "platform", "name": "Shopify Plus", "role": "ecommerce_platform", "attributes": {"id": "PLATFORM_001"}},
+    {"type": "platform", "name": "Sage Business Cloud", "role": "accounting_platform", "attributes": {"id": "PLATFORM_002"}},
+    {"type": "platform", "name": "Stock2Shop", "role": "integration_platform", "attributes": {"id": "PLATFORM_003"}},
+    {"type": "account", "name": "FNB Business Account 62707308252", "role": "primary_bank_account", "attributes": {"id": "ACCOUNT_001", "bank": "FNB", "mandate": "Daniel sole general powers"}},
+    {"type": "account", "name": "ABSA Business Account", "role": "diversion_account", "attributes": {"id": "ACCOUNT_002", "bank": "ABSA", "mandate": "Peter/Rynette controlled"}}
+  ],
+  "relations": [
+    {"type": "opposed-to", "source": "Peter Andrew Faucitt", "target": "Daniel James Faucitt"},
+    {"type": "co-conspirator", "source": "Peter Andrew Faucitt", "target": "Rynette Farrar"},
+    {"type": "co-conspirator", "source": "Rynette Farrar", "target": "Danie Bantjies"},
+    {"type": "co-conspirator", "source": "Peter Andrew Faucitt", "target": "Danie Bantjies"},
+    {"type": "operates-identity-of", "source": "Rynette Farrar", "target": "Peter Andrew Faucitt"},
+    {"type": "owes-debt", "source": "Ketoni Investment Holdings", "target": "Faucitt Family Trust"},
+    {"type": "cfo-of", "source": "Danie Bantjies", "target": "George Group"},
+    {"type": "ceo-of", "source": "Kevin Derrick", "target": "George Group"},
+    {"type": "director-of", "source": "Kevin Derrick", "target": "Ketoni Investment Holdings"},
+    {"type": "trustee-of", "source": "Danie Bantjies", "target": "Faucitt Family Trust"},
+    {"type": "co-director", "source": "Daniel James Faucitt", "target": "RegimA Worldwide Distribution (Pty) Ltd"},
+    {"type": "co-director", "source": "Peter Andrew Faucitt", "target": "RegimA Worldwide Distribution (Pty) Ltd"},
+    {"type": "sole-mandate-holder", "source": "Daniel James Faucitt", "target": "FNB Business Account 62707308252"},
+    {"type": "family-company", "source": "Rynette Farrar", "target": "Adderory (Pty) Ltd"},
+    {"type": "family-company", "source": "Rynette Farrar", "target": "Luxury Products Online"},
+    {"type": "family-company", "source": "Rynette Farrar", "target": "Luxuré"},
+    {"type": "fabricated-records-for", "source": "De Novo Business Services", "target": "RegimaSA (Pty) Ltd"},
+    {"type": "victim-of", "source": "Jacqueline Faucitt", "target": "Peter Andrew Faucitt"},
+    {"type": "victim-of", "source": "Daniel James Faucitt", "target": "Peter Andrew Faucitt"}
+  ],
+  "evidence": [
+    {
+      "name": "sole-mandate-contradiction",
+      "type": "contradiction",
+      "order": 2,
+      "params": {
+        "claim": "unauthorized-transactions-by-daniel",
+        "negation": "sole-transactional-authority-confirmed",
+        "evidence": "FNB-FICA-KYC-sole-mandate-letter-18-June-2025"
+      }
+    },
+    {
+      "name": "material-non-disclosure",
+      "type": "contradiction",
+      "order": 2,
+      "params": {
+        "claim": "full-disclosure-to-court",
+        "negation": "concealed-sole-mandate-fraud-reports-card-sabotage",
+        "evidence": "founding-affidavit-vs-FNB-letter-and-fraud-reports"
+      }
+    },
+    {
+      "name": "perjury-bantjies-affidavit",
+      "type": "contradiction",
+      "order": 2,
+      "params": {
+        "claim": "confirmatory-affidavit-truthful",
+        "negation": "received-fraud-reports-68-days-prior",
+        "evidence": "fraud-report-6-June-2025-plus-bantjies-email-forward"
+      }
+    },
+    {
+      "name": "trust-forgery-timeline",
+      "type": "temporal",
+      "order": 3,
+      "params": {
+        "event1": "kayla-murdered",
+        "date1": "2023-07-13",
+        "event2": "rynette-requests-trust-docs",
+        "date2": "2023-07-27",
+        "event3": "trust-forged-bantjies-installed",
+        "date3": "2024-06-28"
+      }
+    },
+    {
+      "name": "interdict-timeline",
+      "type": "temporal",
+      "order": 3,
+      "params": {
+        "event1": "daniel-reports-fraud-to-bantjies",
+        "date1": "2025-06-06",
+        "event2": "cards-cancelled-retaliation",
+        "date2": "2025-06-07",
+        "event3": "bantjies-swears-false-affidavit",
+        "date3": "2025-08-13",
+        "event4": "interdict-granted-ex-parte",
+        "date4": "2025-08-19"
+      }
+    },
+    {
+      "name": "revenue-diversion-timeline",
+      "type": "temporal",
+      "order": 3,
+      "params": {
+        "event1": "SARS-eFiling-banking-changed-to-ABSA",
+        "date1": "2024-04-26",
+        "event2": "bank-detail-change-emails-begin",
+        "date2": "2025-05-02",
+        "event3": "39-plus-emails-sent-by-linda",
+        "date3": "2025-06-18"
+      }
+    },
+    {
+      "name": "sage-sabotage-timeline",
+      "type": "temporal",
+      "order": 3,
+      "params": {
+        "event1": "peter-swears-false-sage-affidavit",
+        "date1": "2024-07-08",
+        "event2": "sage-account-transferred",
+        "date2": "2024-07-09",
+        "event3": "stock2shop-pipeline-broken",
+        "date3": "2024-07-10"
+      }
+    },
+    {
+      "name": "corporate-structure-conflict",
+      "type": "structural",
+      "order": 4,
+      "params": {
+        "entity1": {"name": "Danie Bantjies", "role": "CFO-George-Group-and-fraudulent-trustee"},
+        "entity2": {"name": "Ketoni Investment Holdings", "role": "debtor-R18.685M-to-FFT"},
+        "relation": "insider-access-to-payout-mechanism"
+      }
+    },
+    {
+      "name": "farrar-family-self-dealing",
+      "type": "structural",
+      "order": 4,
+      "params": {
+        "entity1": {"name": "Rynette Farrar", "role": "bookkeeper-operator"},
+        "entity2": {"name": "Adderory (Pty) Ltd", "role": "sons-company-registered-competitor-domain"},
+        "entity3": {"name": "Luxuré", "role": "direct-competitor-to-RegimA"},
+        "relation": "closed-loop-self-dealing"
+      }
+    },
+    {
+      "name": "foreknowledge-chain-bantjies",
+      "type": "foreknowledge",
+      "order": 5,
+      "params": {
+        "chain": [
+          {"who": "Bantjies", "when": "2024-06-28", "what": "accepted-fraudulent-trustee-appointment", "evidence": "rynette-email-pp-peter"},
+          {"who": "Bantjies", "when": "2025-05-26", "what": "secretly-shared-financial-analysis-with-rynette", "evidence": "email-ek-dink-nie-jy-moet-se"},
+          {"who": "Bantjies", "when": "2025-06-06", "what": "received-daniels-fraud-report", "evidence": "email-forward-to-work-email"},
+          {"who": "Bantjies", "when": "2025-06-10", "what": "received-second-detailed-fraud-report", "evidence": "email-acknowledgment"},
+          {"who": "Bantjies", "when": "2025-08-13", "what": "swore-confirmatory-affidavit-contradicting-known-facts", "evidence": "court-filing-68-days-after-fraud-report"}
+        ]
+      }
+    },
+    {
+      "name": "foreknowledge-chain-rynette",
+      "type": "foreknowledge",
+      "order": 5,
+      "params": {
+        "chain": [
+          {"who": "Rynette", "when": "2021-08-17", "what": "instructed-backdated-journal-entries", "evidence": "email-to-bantjies"},
+          {"who": "Rynette", "when": "2023-07-27", "what": "requested-trust-documents-14-days-after-kayla-murder", "evidence": "email-to-bantjies"},
+          {"who": "Rynette", "when": "2024-04-26", "what": "impersonated-bantjies-on-SARS-eFiling", "evidence": "logged-in-as-you-email"},
+          {"who": "Rynette", "when": "2024-06-28", "what": "forged-trust-amendment-signed-as-pp-peter", "evidence": "email-copy-of-your-id"},
+          {"who": "Rynette", "when": "2025-05-02", "what": "initiated-revenue-diversion", "evidence": "banking-details-email"},
+          {"who": "Rynette", "when": "2025-06-18", "what": "commissioned-de-novo-fabrication", "evidence": "fabricated-2019-accounts"}
+        ]
+      }
+    },
+    {
+      "name": "irreconcilable-conflicts-of-interest",
+      "type": "comparison",
+      "order": 7,
+      "params": {
+        "conflict1": {"role_a": "CFO-George-Group", "role_b": "trustee-FFT", "person": "Bantjies", "nature": "insider-access-to-R18.685M-payout"},
+        "conflict2": {"role_a": "external-accountant", "role_b": "confirmatory-affidavit-deponent", "person": "Bantjies", "nature": "swore-against-client-who-reported-fraud-to-him"},
+        "conflict3": {"role_a": "bookkeeper", "role_b": "identity-operator-of-director", "person": "Rynette", "nature": "controlled-all-communications-attributed-to-Peter"}
+      }
+    },
+    {
+      "name": "interlock-trust-forgery-revenue-capture",
+      "type": "interlock",
+      "order": 35,
+      "params": {
+        "temporal_dimension": "trust-forgery-timeline",
+        "structural_dimension": "corporate-structure-conflict",
+        "binding": "ketoni-payout-R18.685M-due-May-2026"
+      }
+    },
+    {
+      "name": "interlock-sabotage-then-frame",
+      "type": "interlock",
+      "order": 35,
+      "params": {
+        "temporal_dimension": "sage-sabotage-timeline",
+        "structural_dimension": "farrar-family-self-dealing",
+        "binding": "manufactured-financial-chaos-used-as-interdict-evidence"
+      }
+    }
+  ],
+  "events": [
+    {"date": "2021-08-17", "description": "Rynette instructs Bantjies to make backdated journal entries", "rule": "Criminal: fraud, Companies Act s76-77", "actor": "Rynette Farrar"},
+    {"date": "2022-01-18", "description": "Bantjies admits using incorrect Villa Via registration since 2014", "rule": "SAICA professional misconduct", "actor": "Danie Bantjies"},
+    {"date": "2023-07-13", "description": "Kayla Pretorius murdered — creates vacuum in digital infrastructure", "rule": "contextual", "actor": "external"},
+    {"date": "2023-07-27", "description": "Rynette requests trust documents from Bantjies — 14 days after murder", "rule": "Criminal: premeditation indicator", "actor": "Rynette Farrar"},
+    {"date": "2023-10-06", "description": "Rynette takes control of SARS compliance, sidelining Bantjies", "rule": "Tax Administration Act", "actor": "Rynette Farrar"},
+    {"date": "2023-11-16", "description": "SARS wants to 'have a coffee' — audit indicator", "rule": "Tax Administration Act", "actor": "SARS"},
+    {"date": "2024-04-26", "description": "Rynette logs into SARS eFiling as Bantjies to change banking to ABSA", "rule": "Criminal: identity fraud, Tax Administration Act s235", "actor": "Rynette Farrar"},
+    {"date": "2024-06-28", "description": "Trust amendment forged — Rynette signs as pp Peter, installs Bantjies as trustee", "rule": "Criminal: forgery, Trust Property Control Act s6", "actor": "Rynette Farrar"},
+    {"date": "2024-07-01", "description": "Bantjies sends ID accepting fraudulent trustee appointment", "rule": "Trust Property Control Act", "actor": "Danie Bantjies"},
+    {"date": "2024-07-08", "description": "Peter swears false affidavit to Sage about Kayla's death", "rule": "Criminal: perjury, fraud", "actor": "Peter Andrew Faucitt"},
+    {"date": "2024-07-09", "description": "Sage account transferred — Stock2Shop pipeline broken", "rule": "Companies Act s76", "actor": "Peter Andrew Faucitt"},
+    {"date": "2024-09-26", "description": "Bantjies links trust documents to Ketoni investment feedback in single meeting", "rule": "Conflict of interest", "actor": "Danie Bantjies"},
+    {"date": "2025-03-30", "description": "Two years of unallocated expenses dumped into RWD with 12-hour deadline", "rule": "Companies Act s76-77", "actor": "Rynette Farrar"},
+    {"date": "2025-05-02", "description": "Kent Rault sends bank detail change emails to clients", "rule": "Criminal: theft by diversion", "actor": "Kent Rault"},
+    {"date": "2025-05-05", "description": "Rynette sends banking details and email address for POP", "rule": "Criminal: theft by diversion", "actor": "Rynette Farrar"},
+    {"date": "2025-05-22", "description": "Orders removed from Shopify platform", "rule": "Criminal: theft, Companies Act", "actor": "Peter Andrew Faucitt"},
+    {"date": "2025-05-26", "description": "Bantjies secretly shares financial analysis with Rynette — 'don't say I shared this'", "rule": "SAICA professional misconduct, fiduciary breach", "actor": "Danie Bantjies"},
+    {"date": "2025-05-29", "description": "Adderory registers regimaskin.co.za domain", "rule": "Companies Act, unfair competition", "actor": "Adderory (Pty) Ltd"},
+    {"date": "2025-06-06", "description": "Daniel reports fraud to Bantjies — first detailed report", "rule": "Companies Act s76", "actor": "Daniel James Faucitt"},
+    {"date": "2025-06-07", "description": "Daniel's corporate cards cancelled — immediate retaliation", "rule": "Criminal: obstruction, Companies Act", "actor": "Peter Andrew Faucitt"},
+    {"date": "2025-06-10", "description": "Daniel sends second detailed fraud report to Bantjies", "rule": "Companies Act s76", "actor": "Daniel James Faucitt"},
+    {"date": "2025-06-18", "description": "FNB Legal confirms Daniel holds SOLE General Powers; De Novo fabricates 2019 accounts", "rule": "FNB FICA/KYC; Criminal: fraud, forgery", "actor": "FNB Legal / De Novo"},
+    {"date": "2025-06-20", "description": "Gayane announces email domain change to regimaskin.co.za", "rule": "Infrastructure hijacking", "actor": "Gayane Williams"},
+    {"date": "2025-08-11", "description": "Backdated Main Trustee agreement sent — dated 1 July 2025", "rule": "Criminal: forgery", "actor": "Rynette Farrar"},
+    {"date": "2025-08-13", "description": "Bantjies swears confirmatory affidavit — 68 days after receiving fraud report", "rule": "Criminal: perjury s319 Criminal Procedure Act", "actor": "Danie Bantjies"},
+    {"date": "2025-08-14", "description": "Interdict application filed via Court Online at 08:16:25 SAST", "rule": "Rule 6(12)(a) Uniform Rules", "actor": "Elliott Attorneys"},
+    {"date": "2025-08-19", "description": "Ex parte interdict granted — court heard only Peter's side", "rule": "Rule 6(5)(a) Uniform Rules", "actor": "Court"},
+    {"date": "2025-08-27", "description": "R10.6M extracted from company accounts within 8 days", "rule": "Criminal: theft, Companies Act", "actor": "Peter Andrew Faucitt"},
+    {"date": "2025-09-18", "description": "Settlement agreements presented at Forvis Mazars mediation", "rule": "Rule 41A Uniform Rules", "actor": "Forvis Mazars"},
+    {"date": "2025-09-22", "description": "Daniel and Jacqueline withdraw from settlement citing duress", "rule": "Contract law: duress", "actor": "Daniel James Faucitt"},
+    {"date": "2026-02-04", "description": "Contempt application filed seeking 6 months imprisonment of Jacqueline", "rule": "Rule 45A Uniform Rules; Criminal: contempt", "actor": "Peter Andrew Faucitt"}
+  ],
+  "procedural_types": ["ex-parte", "urgent", "interdict", "contempt", "rescission", "irregular-proceedings"],
+  "contradiction_pairs": [
+    ["unauthorized-transactions-by-daniel", "sole-transactional-authority-confirmed"],
+    ["full-disclosure-to-court", "concealed-sole-mandate-fraud-reports-card-sabotage"],
+    ["confirmatory-affidavit-truthful", "received-fraud-reports-68-days-prior"],
+    ["kayla-recently-died", "kayla-murdered-over-year-prior"],
+    ["financial-chaos-caused-by-daniel", "financial-chaos-engineered-by-rynette-sage-sabotage"],
+    ["legitimate-trustee-appointment", "forged-trust-amendment-by-rynette-pp-peter"],
+    ["banking-change-routine", "systematic-revenue-diversion-39-emails"],
+    ["IT-expenses-cause-losses", "revenue-diversion-and-self-dealing-cause-losses"]
+  ],
+  "exclusion_groups": [
+    ["sole-transactional-authority", "joint-transactional-authority", "no-transactional-authority"],
+    ["legitimate-trustee-appointment", "forged-trustee-appointment"],
+    ["full-disclosure", "material-non-disclosure"],
+    ["truthful-affidavit", "perjured-affidavit"]
+  ],
+  "legal_domains": [
+    {
+      "domain": "civil",
+      "burden": "50%",
+      "claims": ["breach-of-fiduciary-duty", "void-ab-initio", "rescission-of-interdict", "damages-R10.6M", "interdict-against-contempt-application"]
+    },
+    {
+      "domain": "criminal",
+      "burden": "95%",
+      "claims": ["fraud-s103", "forgery-s106", "perjury-s319-CPA", "theft-s1", "obstruction-of-justice", "identity-fraud", "conspiracy-to-commit-fraud"]
+    },
+    {
+      "domain": "cipc",
+      "burden": "administrative",
+      "claims": ["companies-act-s76-fiduciary-breach", "companies-act-s77-liability", "director-misconduct", "false-cipc-filings"]
+    },
+    {
+      "domain": "popia",
+      "burden": "criminal",
+      "claims": ["unauthorized-access-to-personal-information", "identity-misappropriation", "SARS-eFiling-credential-abuse", "warehouse-POPI-violations"]
+    },
+    {
+      "domain": "tax",
+      "burden": "criminal",
+      "claims": ["tax-administration-act-s235-fraud", "SARS-eFiling-impersonation", "VAT-fraud", "false-tax-returns"]
+    },
+    {
+      "domain": "professional",
+      "burden": "disciplinary",
+      "claims": ["SAICA-professional-misconduct", "conflict-of-interest", "failure-to-report-fraud"]
+    }
+  ]
+}

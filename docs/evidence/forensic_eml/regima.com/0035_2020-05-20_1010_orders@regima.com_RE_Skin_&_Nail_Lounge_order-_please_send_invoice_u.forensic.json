@@ -1,0 +1,67 @@
+{
+  "_schema": "exchange-forensic-eml/v1",
+  "_generated": "2026-03-10T03:52:59.918157+00:00",
+  "_source": "neon-exchange-sync",
+  "file_integrity": {
+    "eml_file": "/home/ubuntu/revstream1/docs/evidence/forensic_eml/regima.com/0035_2020-05-20_1010_orders@regima.com_RE_Skin_&_Nail_Lounge_order-_please_send_invoice_u.eml",
+    "file_size_bytes": 1000,
+    "md5": "273c93e4e67dafd7be74880c754dccbf",
+    "sha1": "b88b09348522c07abc2d6a76b6685b970ac1e14a",
+    "sha256": "588df367ef18d9f79adcda624a0ae0c30e637b724adceda09ea3cb4b0a714816"
+  },
+  "message_identity": {
+    "exchange_sync_id": "AAMkADliYjdjYWRlLTZhOWEtNGFhOS1hMWI1LTU0OGVlZTgyMmM5MABGAAAAAADHMMgwnxvASJnzkqHit2CfBwDxpm44zvcyR5VEBMOjt4L4AAAAAAEMAADxpm44zvcyR5VEBMOjt4L4AABS3U_OAAA=",
+    "internet_message_id": "<014701d62e8e$d3a5a3d0$7af0eb70$@regima.com>",
+    "conversation_id": "AAQkADliYjdjYWRlLTZhOWEtNGFhOS1hMWI1LTU0OGVlZTgyMmM5MAAQAM5uzPhJb0v-saElSHQKBaM="
+  },
+  "envelope": {
+    "subject": "RE: Skin & Nail Lounge order- please send invoice urgent",
+    "from_name": "orders@regima.com",
+    "from_address": "orders@regima.com",
+    "to_recipients": [
+      {
+        "name": "manager@skinandnaillounge.co.za",
+        "address": "manager@skinandnaillounge.co.za"
+      }
+    ],
+    "cc_recipients": [
+      {
+        "name": "'Peter Andrew Faucitt'",
+        "address": "pete@regima.com"
+      },
+      {
+        "name": "Jacqui Faucitt",
+        "address": "jax@regima.zone"
+      },
+      {
+        "name": "Bernadine Wright",
+        "address": "bern@regima.zone"
+      },
+      {
+        "name": "Rynette Farrar",
+        "address": "rynette@regima.zone"
+      },
+      {
+        "name": "Kayla Pretorius",
+        "address": "kayla@regima.zone"
+      },
+      {
+        "name": "Lyndall  Jackson",
+        "address": "lyndall@regima.zone"
+      }
+    ],
+    "received_datetime": "2020-05-20 10:10:15+00:00"
+  },
+  "mailbox_context": {
+    "user_email": "lyndall@regima.zone",
+    "user_name": "Lyndall  Jackson",
+    "folder_name": "Inbox",
+    "folder_id": "AAMkADliYjdjYWRlLTZhOWEtNGFhOS1hMWI1LTU0OGVlZTgyMmM5MAAuAAAAAADHMMgwnxvASJnzkqHit2CfAQDxpm44zvcyR5VEBMOjt4L4AAAAAAEMAAA="
+  },
+  "body": {
+    "content_type": null,
+    "preview": "Good Day Cindy\r\n\r\nPlease find attached Proforma Invoice, please forward proof of payment to orders@regima.com, once received, your order will processed.\r\n\r\nPlease note that we will inform you once your order is ready for collection as Parcel Ninja have a ",
+    "body_length_chars": 0
+  },
+  "attachments": []
+}

@@ -1,0 +1,63 @@
+{
+  "_schema": "exchange-forensic-eml/v1",
+  "_generated": "2026-03-10T03:53:28.277205+00:00",
+  "_source": "neon-exchange-sync",
+  "file_integrity": {
+    "eml_file": "/home/ubuntu/revstream1/docs/evidence/forensic_eml/primeproduct.co.za/0050_2021-11-04_1421_ana@primeproduct.co.za_RE_MANUFACTURE_OF_NEUTRALISING_SOLUTION.eml",
+    "file_size_bytes": 932,
+    "md5": "fb640bc6f59abe8ab05a90f29bff1937",
+    "sha1": "10f55e4c6f5537774489e3e05f74c86b45bd10fa",
+    "sha256": "55cd564b310e44044b019d2c84a181be41a96293029d7a151105d0bfa84aa8db"
+  },
+  "message_identity": {
+    "exchange_sync_id": "AAMkADMxMzkyY2FlLWNkMGEtNGM2My04OWFiLTNlZDRjNzkyNGUyMwBGAAAAAABIsq-8QjwARI3ssx6PhE4uBwAjJKKwT3w2RaZw2KOPO0ZiAAAAAD3CAAAjJKKwT3w2RaZw2KOPO0ZiAABTCmTzAAA=",
+    "internet_message_id": "<AS8P189MB13345942D4AA3DC5D7B4271B8B8D9@AS8P189MB1334.EURP189.PROD.OUTLOOK.COM>",
+    "conversation_id": "AAQkADMxMzkyY2FlLWNkMGEtNGM2My04OWFiLTNlZDRjNzkyNGUyMwAQAMgDzYI780X-vGPrJovct9U="
+  },
+  "envelope": {
+    "subject": "RE: MANUFACTURE OF NEUTRALISING SOLUTION",
+    "from_name": "Ana Ferreira",
+    "from_address": "ana@primeproduct.co.za",
+    "to_recipients": [
+      {
+        "name": "Jacqui Faucitt",
+        "address": "jax@regima.zone"
+      }
+    ],
+    "cc_recipients": [
+      {
+        "name": "Rynette Farrar",
+        "address": "rynette@regima.zone"
+      },
+      {
+        "name": "Kayla Pretorius",
+        "address": "kayla@regima.zone"
+      },
+      {
+        "name": "PETE@REGIMA.COM",
+        "address": "PETE@REGIMA.COM"
+      },
+      {
+        "name": "Daniel Faucitt",
+        "address": "d@rzo.io"
+      },
+      {
+        "name": "Sue Phillips",
+        "address": "Sue@primeproduct.co.za"
+      }
+    ],
+    "received_datetime": "2021-11-04 14:21:40+00:00"
+  },
+  "mailbox_context": {
+    "user_email": "rynette@regima.zone",
+    "user_name": "Rynette Farrar",
+    "folder_name": "Prime",
+    "folder_id": "AQMkADMxMzkyY2FlLWNkMGEtNGM2My04OWFiLTNlZDRjNzkyNGUyMwAuAAADSLKv-EI8AESN7LMej4ROLgEAIySisE98NkWmcNijjztGYgAAAj3CAAAA"
+  },
+  "body": {
+    "content_type": null,
+    "preview": "Hi Jacqui\r\n\r\nThe bulk has been manufactured and will go out tomorrow for micro testing\r\n\r\nRegards\r\nAna Ferreira\r\nCustomer service\r\n\r\n\r\n\r\n(t)\r\n(f)\r\n©\r\nEmail\r\nWeb\r\n\r\n+27 12 305 3230\r\n+27 12 305 6591\r\n+27 79 490 5100\r\nana@primeproduct.co.za\r\nwww.primeproduct",
+    "body_length_chars": 0
+  },
+  "attachments": []
+}

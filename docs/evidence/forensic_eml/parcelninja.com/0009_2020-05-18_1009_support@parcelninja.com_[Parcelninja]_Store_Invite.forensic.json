@@ -1,0 +1,42 @@
+{
+  "_schema": "exchange-forensic-eml/v1",
+  "_generated": "2026-03-10T03:52:56.333710+00:00",
+  "_source": "neon-exchange-sync",
+  "file_integrity": {
+    "eml_file": "/home/ubuntu/revstream1/docs/evidence/forensic_eml/parcelninja.com/0009_2020-05-18_1009_support@parcelninja.com_[Parcelninja]_Store_Invite.eml",
+    "file_size_bytes": 759,
+    "md5": "2fd64db8fc59e209b39741063ed023da",
+    "sha1": "9f3962afc5ac9c3894a794b52a15d555b2a44454",
+    "sha256": "24cfd734c04f2b432d248140b1360bc5098aeb679fe5c5ee4e31ff8d50227402"
+  },
+  "message_identity": {
+    "exchange_sync_id": "AQMkADMxMzkyY2FlLWNkMGEtNGM2My04OWFiLTNlZDRjNzkyNGUyMwBGAAADSLKv-EI8AESN7LMej4ROLgcAIySisE98NkWmcNijjztGYgAAAj1DAAAAIySisE98NkWmcNijjztGYgAAAk06AAAA",
+    "internet_message_id": "<010201722742649e-5eed1aea-1b8c-4bf5-99ad-ee9db214306e-000000@eu-west-1.amazonses.com>",
+    "conversation_id": "AAQkADMxMzkyY2FlLWNkMGEtNGM2My04OWFiLTNlZDRjNzkyNGUyMwAQALbIHQhsS_JHrN2vOFcUsA4="
+  },
+  "envelope": {
+    "subject": "[Parcelninja] Store Invite",
+    "from_name": "support@parcelninja.com",
+    "from_address": "support@parcelninja.com",
+    "to_recipients": [
+      {
+        "name": "Rynette Farrar",
+        "address": "rynette@regima.zone"
+      }
+    ],
+    "cc_recipients": null,
+    "received_datetime": "2020-05-18 10:09:25+00:00"
+  },
+  "mailbox_context": {
+    "user_email": "rynette@regima.zone",
+    "user_name": "Rynette Farrar",
+    "folder_name": "Office",
+    "folder_id": "AQMkADMxMzkyY2FlLWNkMGEtNGM2My04OWFiLTNlZDRjNzkyNGUyMwAuAAADSLKv-EI8AESN7LMej4ROLgEAIySisE98NkWmcNijjztGYgAAAj1DAAAA"
+  },
+  "body": {
+    "content_type": null,
+    "preview": "Store Invite\r\n\r\nYou've received this mail because you have been invited by \"RegimA World Wide Distributions \" to access their store on the Parcelninja Website. Please note that the link expires in 2 hours. If you do not know anything about this, please co",
+    "body_length_chars": 0
+  },
+  "attachments": []
+}

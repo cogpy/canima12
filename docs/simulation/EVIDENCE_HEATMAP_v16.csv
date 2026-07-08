@@ -1,0 +1,19 @@
+Phase,Event,Temporal,Financial,Documentary,Testimonial,Forensic,Relational
+Phase 1,Trust Forgery,0.88,0.53,0.91,0.42,0.78,0.88
+Phase 1,Ketoni Registration,0.91,0.57,0.93,0.38,0.82,0.89
+Phase 1,J417 Perjury,0.95,0.72,0.97,0.52,0.93,0.95
+Phase 2,Banking Mandate Fraud,0.93,0.82,0.91,0.53,0.88,0.86
+Phase 2,Domain Hijacking,0.88,0.62,0.82,0.44,0.82,0.82
+Phase 2,Sage Predicate Crime,0.93,0.72,0.94,0.57,0.9,0.88
+Phase 2,SARS eFiling Impersonation,0.88,0.72,0.93,0.49,0.88,0.88
+Phase 3,Revenue Stream Diversion,0.91,0.88,0.88,0.47,0.82,0.88
+Phase 3,Stock Discrepancy R4.2M,0.89,0.91,0.94,0.54,0.85,0.86
+Phase 3,Backdated Journal Entries,0.94,0.78,0.93,0.49,0.88,0.84
+Phase 4,Manufacture Email,0.93,0.68,0.94,0.54,0.88,0.91
+Phase 4,PP Peter Forgery,0.88,0.62,0.91,0.49,0.82,0.86
+Phase 5,Fraud Discovery,0.93,0.82,0.78,0.57,0.78,0.81
+Phase 5,Interdict Weaponization,0.88,0.57,0.88,0.49,0.78,0.89
+Phase 6,R10.6M Extraction,0.94,0.91,0.93,0.54,0.88,0.88
+Phase 7,Contempt Rebuttal,0.93,0.72,0.93,0.78,0.82,0.81
+Phase 7,Void Ab Initio Defence,0.94,0.78,0.94,0.62,0.88,0.91
+Phase 7,Xenophontos SHA Discovery,0.91,0.68,0.89,0.72,0.85,0.87

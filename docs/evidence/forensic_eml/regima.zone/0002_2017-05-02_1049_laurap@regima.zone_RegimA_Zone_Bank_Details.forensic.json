@@ -1,0 +1,47 @@
+{
+  "_schema": "exchange-forensic-eml/v1",
+  "_generated": "2026-03-10T03:53:50.981369+00:00",
+  "_source": "neon-exchange-sync",
+  "file_integrity": {
+    "eml_file": "/home/ubuntu/revstream1/docs/evidence/forensic_eml/regima.zone/0002_2017-05-02_1049_laurap@regima.zone_RegimA_Zone_Bank_Details.eml",
+    "file_size_bytes": 808,
+    "md5": "7b541100381357cf8ad9302523ff9861",
+    "sha1": "cd5e01722ba8ea1950b8dd792c10c326398766de",
+    "sha256": "b10398a2cc92d01ecf16f9eb0d36ad246cd3e234a19f4ea8ee559b88a23fc2ff"
+  },
+  "message_identity": {
+    "exchange_sync_id": "AAMkAGM0ZWQyZWU3LWY2ZWQtNDkzOC04NDE3LWNmZGRhYzAyOTRmMABGAAAAAACAAALKIC32TbasMXDa2Ai-BwAg-uFl1xcHSovUuxgQ83HlAAAAAAEMAAAg-uFl1xcHSovUuxgQ83HlAACl6mVkAAA=",
+    "internet_message_id": "<AM5PR0401MB2451A2BE0741EFADF3D2ED55C4170@AM5PR0401MB2451.eurprd04.prod.outlook.com>",
+    "conversation_id": "AAQkAGM0ZWQyZWU3LWY2ZWQtNDkzOC04NDE3LWNmZGRhYzAyOTRmMAAQAHuo_xS4IUsVjjIvdtZAeBU="
+  },
+  "envelope": {
+    "subject": "RegimA Zone Bank Details ",
+    "from_name": "Laura Puttick",
+    "from_address": "laurap@regima.zone",
+    "to_recipients": [
+      {
+        "name": "madhuranadev@gmail.com",
+        "address": "madhuranadev@gmail.com"
+      }
+    ],
+    "cc_recipients": [
+      {
+        "name": "RégimA UK Group",
+        "address": "uk@regima.zone"
+      }
+    ],
+    "received_datetime": "2017-05-02 10:49:17+00:00"
+  },
+  "mailbox_context": {
+    "user_email": "vickyb@regima.zone",
+    "user_name": "Vicky Lewendon",
+    "folder_name": "Inbox",
+    "folder_id": "AAMkAGM0ZWQyZWU3LWY2ZWQtNDkzOC04NDE3LWNmZGRhYzAyOTRmMAAuAAAAAACAAALKIC32TbasMXDa2Ai-AQAg-uFl1xcHSovUuxgQ83HlAAAAAAEMAAA="
+  },
+  "body": {
+    "content_type": null,
+    "preview": "Hello Madhu,\r\n\r\nFollowing from our phone call I’ve put the details of our bank account below:\r\n\r\nRegimA Zone Ltd\r\nHSBC\r\nSort code. 40 38 04\r\nAcc no. 34684583\r\n\r\nIf you could please delete the other ones from your account that would be great and hopefully ",
+    "body_length_chars": 0
+  },
+  "attachments": []
+}

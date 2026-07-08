@@ -1,0 +1,130 @@
+{
+  "_schema": "exchange-forensic-eml/v1",
+  "_generated": "2026-03-10T03:50:31.073846+00:00",
+  "_source": "neon-exchange-sync",
+  "file_integrity": {
+    "eml_file": "/home/ubuntu/revstream1/docs/evidence/forensic_eml/unknown/0037_2025-10-13_1700_MAILER-DAEMON_Re_Evidence_-_Invoice_Payments_-_RegimA_Worldwide_.eml",
+    "file_size_bytes": 122719,
+    "md5": "60522d91b5be7595ee3b0aed5f7017b7",
+    "sha1": "61580b91aa54de65855b2ffb3ef2d9a71466b77b",
+    "sha256": "32df421ab716416382ac8427f1a8684f5ab2b74f7ba3cfba8300e448267713d9"
+  },
+  "message_identity": {
+    "exchange_sync_id": "pst-7d97b06a8b6fad5d9ebbaad9f62c52bd7f24e4f0",
+    "internet_message_id": "<JNZP275MB1321BA15BE8872CC7408F9F7CBEAA@JNZP275MB1321.ZAFP275.PROD.OUTLOOK.COM>",
+    "conversation_id": null
+  },
+  "envelope": {
+    "subject": "Re: Evidence - Invoice Payments - RegimA Worldwide Distribution (Pty) Ltd",
+    "from_name": "Daniel Faucitt",
+    "from_address": "MAILER-DAEMON",
+    "to_recipients": [
+      {
+        "emailAddress": {
+          "name": "Natan",
+          "address": "Natan"
+        }
+      },
+      {
+        "emailAddress": {
+          "name": "Doron",
+          "address": "Doron"
+        }
+      }
+    ],
+    "cc_recipients": [
+      {
+        "emailAddress": {
+          "name": "Jacqui",
+          "address": "Jacqui"
+        }
+      },
+      {
+        "emailAddress": {
+          "name": "Ian",
+          "address": "Ian"
+        }
+      }
+    ],
+    "received_datetime": "2025-10-13 17:00:11+00:00"
+  },
+  "mailbox_context": {
+    "user_email": "dan@regima.com",
+    "user_name": "Dan",
+    "folder_name": "Drafts",
+    "folder_id": "pst-folder-a1e9510fbfa96427ba65a3b3b79804d3"
+  },
+  "body": {
+    "content_type": "html",
+    "preview": "P {margin-top:0;margin-bottom:0;} From: &nbsp;Daniel Faucitt &lt;dan@regima.com&gt; Sent: &nbsp;Monday, October 13, 2025 18:56 To: &nbsp;Natan Back &lt;Natan@ianlevitt.co.za&gt;; Doron Block &lt;block@rivoniaadvocates.co.za&gt; Cc: &nbsp;Jacqui Faucitt &l",
+    "body_length_chars": 88137
+  },
+  "attachments": [
+    {
+      "id": "pst-att-99d32fc9459cf4fd157a194d1014c31a53d0840e",
+      "name": "2016_forced_separation_and_independent_business_building.md",
+      "content_type": "application/octet-stream",
+      "size_bytes": 19886,
+      "is_inline": false,
+      "r2_bucket": "exchange-attachments",
+      "r2_key": "dan_at_regima.com/pst/pst-7d97b06a8b6fad5d/2016_forced_separation_and_independent_business_building.md",
+      "download_status": "downloaded",
+      "downloaded": false
+    },
+    {
+      "id": "pst-att-5c5261a3c821a576ceff0ec67455d1c5ba80a95a",
+      "name": "Bantjies Investment Payout Dates 2026-05.jpg",
+      "content_type": "image/jpeg",
+      "size_bytes": 1293759,
+      "is_inline": false,
+      "r2_bucket": "exchange-attachments",
+      "r2_key": "dan_at_regima.com/pst/pst-7d97b06a8b6fad5d/Bantjies_Investment_Payout_Dates_2026-05.jpg",
+      "download_status": "downloaded",
+      "downloaded": false
+    },
+    {
+      "id": "pst-att-520c39e1997f674386ca1b4bed6a9b8ae14cd03b",
+      "name": "Dan and Kay's Shopify Success Story1.docx",
+      "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "size_bytes": 13041,
+      "is_inline": false,
+      "r2_bucket": "exchange-attachments",
+      "r2_key": "dan_at_regima.com/pst/pst-7d97b06a8b6fad5d/Dan_and_Kay_s_Shopify_Success_Story1.docx",
+      "download_status": "downloaded",
+      "downloaded": false
+    },
+    {
+      "id": "pst-att-6dbab65a6564709af73b58ff29696c1a5b1e7663",
+      "name": "Image.jpeg",
+      "content_type": "image/jpeg",
+      "size_bytes": 10441,
+      "is_inline": false,
+      "r2_bucket": "exchange-attachments",
+      "r2_key": "dan_at_regima.com/pst/pst-7d97b06a8b6fad5d/Image.jpeg",
+      "download_status": "downloaded",
+      "downloaded": false
+    },
+    {
+      "id": "pst-att-bbb1edeb9ad20d42f31dd00cc8f47e2f64e1c0e2",
+      "name": "Outlook-signatureI.png",
+      "content_type": "image/png",
+      "size_bytes": 17109,
+      "is_inline": false,
+      "r2_bucket": "exchange-attachments",
+      "r2_key": "dan_at_regima.com/pst/pst-7d97b06a8b6fad5d/Outlook-signatureI.png",
+      "download_status": "downloaded",
+      "downloaded": false
+    },
+    {
+      "id": "pst-att-c5e2be4d92bd90a3d35f2b1c35532a7229c1980c",
+      "name": "image005.jpg",
+      "content_type": "image/jpeg",
+      "size_bytes": 9322,
+      "is_inline": false,
+      "r2_bucket": "exchange-attachments",
+      "r2_key": "dan_at_regima.com/pst/pst-7d97b06a8b6fad5d/image005.jpg",
+      "download_status": "downloaded",
+      "downloaded": false
+    }
+  ]
+}

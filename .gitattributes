@@ -1,0 +1,6 @@
+# No LFS - all files stored directly in git
+*.pdf binary
+*.png binary
+*.jpg binary
+*.zip binary
+*.tar.gz binary

@@ -1,0 +1,349 @@
+{
+  "case_id": "2025-137857",
+  "case_title": "Faucitt v Faucitt — Ex Parte Interdict (19 August 2025)",
+  "jurisdiction": "ZA",
+  "generated_date": "2026-02-09",
+  "agents": [
+    {
+      "agent_id": "APPLICANT",
+      "name": "Peter Andrew Faucitt",
+      "role": "Applicant in ex parte interdict application",
+      "id_number": "520430 5708 18 5",
+      "alternative_explanation": ""
+    },
+    {
+      "agent_id": "SUPPORTING_AFFIANT",
+      "name": "Daniel Jacobus Bantjies",
+      "role": "Accountant, Trustee of FFT, signatory of supporting affidavit",
+      "id_number": "",
+      "alternative_explanation": ""
+    },
+    {
+      "agent_id": "OPERATOR",
+      "name": "Rynette Farrar",
+      "role": "Financial Controller, operated Peter's email (pete@regima.com)",
+      "id_number": "",
+      "alternative_explanation": ""
+    },
+    {
+      "agent_id": "VICTIM",
+      "name": "Jacqueline Faucitt",
+      "role": "Victim of weaponized litigation, target of contempt application",
+      "id_number": "570607 0898 18 1",
+      "alternative_explanation": ""
+    },
+    {
+      "agent_id": "VICTIM_2",
+      "name": "Daniel Faucitt",
+      "role": "Victim of weaponized litigation, co-director",
+      "id_number": "820715 5300 18 2",
+      "alternative_explanation": ""
+    },
+    {
+      "agent_id": "ATTORNEY_APPLICANT",
+      "name": "Keegan Elliott (Elliott Attorneys)",
+      "role": "Attorney for the Applicant",
+      "id_number": "",
+      "alternative_explanation": ""
+    },
+    {
+      "agent_id": "ATTORNEY_RESPONDENT",
+      "name": "Rudi Pottas (Pottas Attorneys)",
+      "role": "Attorney for the Respondents",
+      "id_number": "",
+      "alternative_explanation": ""
+    }
+  ],
+  "material_facts": [
+    {
+      "fact_id": "FACT_SETTLEMENT_DURESS",
+      "description": "The settlement agreements were signed under duress on 18 September 2025 — Daniel Faucitt was not allowed to leave the building without signing. An ENS email records his request to file a criminal complaint during the mediation. Notice of withdrawal was given on 22 September 2025, the first business day after receiving copies on 19 September 2025.",
+      "category": "obstruction",
+      "significance": "Agreements signed under duress are voidable. The ENS email is contemporaneous evidence of coercion. Peter then sought to have these duress-tainted agreements made orders of court (3 October 2025), a further act of weaponized litigation.",
+      "related_facts": ["FACT_SETTLEMENT_WEAPONIZATION", "FACT_WEAPONIZED_LITIGATION"]
+    },
+    {
+      "fact_id": "FACT_SETTLEMENT_WEAPONIZATION",
+      "description": "The settlement agreements (PF13/PF14) contained clauses for psychiatric evaluations and drug screening, weaponizing the legal process to silence and discredit witnesses.",
+      "category": "obstruction",
+      "significance": "Shows that the entire legal process, including mediation and settlement, was co-opted into the criminal enterprise to control and silence victims. The medical testing clause was a weapon, not a legitimate concern.",
+      "related_facts": ["FACT_SETTLEMENT_DURESS", "FACT_WEAPONIZED_LITIGATION"]
+    },
+    {
+      "fact_id": "FACT_LEGAL_IMPOSSIBILITY",
+      "description": "FNB banking mandates grant all directors 'Administrator with Sole General Powers' — making 'unauthorized transactions' a legal impossibility",
+      "category": "fraud",
+      "significance": "The entire foundation of the interdict (unauthorized transactions) is legally impossible under the company's own banking mandates signed by the applicant.",
+      "related_facts": ["FACT_PERJURY_FOREKNOWLEDGE"]
+    },
+    {
+      "fact_id": "FACT_PERJURY_FOREKNOWLEDGE",
+      "description": "FNB Legal informed Peter on 18 June 2025 that all directors could act independently — two months before he swore the opposite under oath",
+      "category": "obstruction",
+      "significance": "Proves the applicant had documentary foreknowledge that his sworn statements were false, elevating misrepresentation to deliberate perjury.",
+      "related_facts": ["FACT_LEGAL_IMPOSSIBILITY", "FACT_MATERIAL_NONDISCLOSURE"]
+    },
+    {
+      "fact_id": "FACT_MATERIAL_NONDISCLOSURE",
+      "description": "Peter failed to disclose the SOLE banking mandate, the FNB Legal letter, his cancellation of Daniel's cards, and the true context of the R500K reimbursement",
+      "category": "fraud",
+      "significance": "Breach of the duty of utmost good faith (uberrima fides) in an ex parte application. Any one of these non-disclosures would be grounds for rescission.",
+      "related_facts": ["FACT_LEGAL_IMPOSSIBILITY", "FACT_PERJURY_FOREKNOWLEDGE"]
+    },
+    {
+      "fact_id": "FACT_SUPPORTING_AFFIDAVIT_PERJURY",
+      "description": "Bantjies received Daniel's comprehensive fraud report on 6 June 2025, forwarded it to his work email, yet signed a false supporting affidavit on 1 August 2025",
+      "category": "obstruction",
+      "significance": "Establishes a conspiracy to defraud the court. Bantjies had provable knowledge of the true state of affairs yet chose to support the perjured application.",
+      "related_facts": ["FACT_PERJURY_FOREKNOWLEDGE", "FACT_BANTJIES_CONFLICT"]
+    },
+    {
+      "fact_id": "FACT_BANTJIES_CONFLICT",
+      "description": "Bantjies had an undisclosed conflict of interest — R18.685M owed to FFT through Ketoni Investment Holdings where he serves as CFO of the parent company",
+      "category": "breach_of_duty",
+      "significance": "Bantjies' dual role as FFT Trustee and CFO of the George Group (Ketoni parent) creates a massive undisclosed conflict of interest motivating his perjury.",
+      "related_facts": ["FACT_SUPPORTING_AFFIDAVIT_PERJURY"]
+    },
+    {
+      "fact_id": "FACT_CARD_CANCELLATION",
+      "description": "Peter admits in his own affidavit that he cancelled Daniel's business cards, but conceals that he did so secretly without Daniel's knowledge and without authority under the SOLE mandate",
+      "category": "fraud",
+      "significance": "Peter's own sworn admission proves he cancelled the cards. However, he concealed two critical facts: (1) he did it in secret without Daniel's knowledge, and (2) the SOLE mandate did not give him unilateral authority to revoke another director's banking access. This is both a direct admission of the act and material non-disclosure of the circumstances. The R500K 'extraction' he then complained about was Daniel's reimbursement for R520K+ in business expenses he was forced to pay personally because of Peter's secret, unauthorized card cancellation.",
+      "related_facts": ["FACT_MATERIAL_NONDISCLOSURE", "FACT_LEGAL_IMPOSSIBILITY"]
+    },
+    {
+      "fact_id": "FACT_CONTEMPT_AS_WEAPON",
+      "description": "Peter filed a Contempt of Court application on 4 February 2026 seeking 6 months imprisonment for Jacqueline Faucitt, based entirely on the void order",
+      "category": "obstruction",
+      "significance": "Attempting to imprison someone for non-compliance with a void order constitutes malicious prosecution and defeating the ends of justice.",
+      "related_facts": ["FACT_LEGAL_IMPOSSIBILITY", "FACT_PERJURY_FOREKNOWLEDGE"]
+    },
+    {
+      "fact_id": "FACT_FAKE_ACCOUNTS",
+      "description": "Rynette instructed De Novo to produce fake 2019 accounts for RegimA SA, a company name that only existed from March 2021. Peter signed these fraudulent accounts as director for a year he was not appointed.",
+      "category": "fraud",
+      "significance": "Irrefutable proof of fabricating financial statements to mislead SARS and other creditors. This is a direct criminal act of fraud.",
+      "related_facts": ["FACT_PERJURY_FOREKNOWLEDGE", "FACT_SUPPORTING_AFFIDAVIT_PERJURY"]
+    },
+    {
+      "fact_id": "FACT_VILLA_VIA_EMBEZZLEMENT",
+      "description": "Evidence suggests Peter, Rynette & Bantjies may have used fake \"debt\" to embezzle funds through Villa Via.",
+      "category": "fraud",
+      "significance": "A potential new vector of fraud and money laundering using inter-company loans.",
+      "related_facts": ["FACT_FAKE_ACCOUNTS"]
+    },
+    {
+      "fact_id": "FACT_RYNETTE_LITIGATION_CONTROL",
+      "description": "Rynette is the one communicating with Keegan Elliott (Applicant's attorney) not Peter, suggesting she is controlling the litigation.",
+      "category": "conspiracy",
+      "significance": "Shows Rynette is not just a financial controller but a central operator in the weaponized litigation.",
+      "related_facts": ["FACT_WEAPONIZED_LITIGATION"]
+    },
+    {
+      "fact_id": "FACT_WEAPONIZED_LITIGATION",
+      "description": "Peter and Rynette filed a 3rd Urgent Application in Nov 2025, using Jacqui's attempt to warn De Novo about the fake accounts as a basis to label her as harassing and mentally unstable, citing the settlement agreements' medical testing clauses as a weapon.",
+      "category": "obstruction",
+      "significance": "Demonstrates a pattern of using the courts as an instrument of fraud — attacking the victim for trying to expose the crime. It also reveals the true purpose of the settlement agreements medical testing clause as a weapon to silence witnesses.",
+      "related_facts": ["FACT_FAKE_ACCOUNTS", "FACT_CONTEMPT_AS_WEAPON"]
+    },
+    {
+      "fact_id": "FACT_SAGE_CONTROL_SEIZURE",
+      "description": "In July 2024, Peter Faucitt swore a false affidavit to Sage, claiming the sole administrator (Kayla Pretorius) had died and he needed to be the new administrator. Rynette Farrar orchestrated the entire process, using Peter's affidavit to gain control of the company's accounting system. This happened one year after Kayla's death from unnatural causes.",
+      "category": "fraud",
+      "significance": "Premeditated seizure of the company's financial records 13 months before the interdict. This gave Rynette and Peter full control over what financial data was visible, enabling them to conceal their fraud. The affidavit itself is a criminal act of perjury.",
+      "related_facts": ["FACT_FAKE_ACCOUNTS", "FACT_PERJURY_FOREKNOWLEDGE"]
+    }
+  ],
+  "knowledge_events": [
+    {
+      "event_id": "KE_RYNETTE_003",
+      "agent_id": "OPERATOR",
+      "fact_id": "FACT_FAKE_ACCOUNTS",
+      "timestamp": "2021-05-01T00:00:00Z",
+      "acquisition_type": "email_correspondence",
+      "evidence_refs": ["Rynette_De_Novo_Email_Annexure_3rd_Urgent_Application.pdf"],
+      "description": "Rynette instructed De Novo to create the fraudulent 2019 financial statements for RegimA SA.",
+      "confidence": "proven"
+    },
+    {
+      "event_id": "KE_PETER_006",
+      "agent_id": "APPLICANT",
+      "fact_id": "FACT_FAKE_ACCOUNTS",
+      "timestamp": "2021-05-01T00:00:00Z",
+      "acquisition_type": "documentary_proof",
+      "evidence_refs": ["RegimA_SA_2019_AFS_Signed.pdf"],
+      "description": "Peter signed the fraudulent 2019 Annual Financial Statements for RegimA SA (a company name that did not exist in 2019) as director, despite only being appointed in March 2021.",
+      "confidence": "proven"
+    },
+    {
+      "event_id": "KE_PETER_007",
+      "agent_id": "APPLICANT",
+      "fact_id": "FACT_WEAPONIZED_LITIGATION",
+      "timestamp": "2025-11-01T00:00:00Z",
+      "acquisition_type": "documentary_proof",
+      "evidence_refs": ["3rd_Urgent_Application_Nov_2025.pdf"],
+      "description": "Peter and Rynette filed the 3rd Urgent Application, using Jacquis attempt to expose the fake accounts as a basis to attack her credibility and mental state, citing the settlement agreements.",
+      "confidence": "proven"
+    },
+    {
+      "event_id": "KE_PETER_001",
+      "agent_id": "APPLICANT",
+      "fact_id": "FACT_LEGAL_IMPOSSIBILITY",
+      "timestamp": "2021-01-01T00:00:00Z",
+      "acquisition_type": "documentary_proof",
+      "evidence_refs": ["FNB_Mandate_RegimA_Worldwide.pdf", "FNB_Mandate_Strategic_Logistics.pdf"],
+      "description": "Peter signed the FNB banking mandates appointing all directors as 'Administrator with Sole General Powers'. He created the very authority he later claimed did not exist.",
+      "confidence": "proven"
+    },
+    {
+      "event_id": "KE_PETER_002",
+      "agent_id": "APPLICANT",
+      "fact_id": "FACT_PERJURY_FOREKNOWLEDGE",
+      "timestamp": "2025-06-18T16:51:00Z",
+      "acquisition_type": "email_correspondence",
+      "evidence_refs": ["FNB_Legal_Letter_18_June_2025.pdf", "ProofofFNBSoleMandateforRegimAWorldwideDistribution.pdf"],
+      "description": "FNB Legal (Mpumi Netshipale) emailed Peter directly: 'The current mandate states that any of the directors of the company may act independently of each other.' Sent to pete@regima.com two months before the interdict application.",
+      "confidence": "proven"
+    },
+    {
+      "event_id": "KE_PETER_003",
+      "agent_id": "APPLICANT",
+      "fact_id": "FACT_CARD_CANCELLATION",
+      "timestamp": "2025-06-07T00:00:00Z",
+      "acquisition_type": "direct_admission",
+      "evidence_refs": ["Peter_Founding_Affidavit_STRUCTURED_FINAL.docx", "EVENT_012", "FNB_Card_Cancellation_Records"],
+      "description": "Peter admits in his own founding affidavit that he cancelled Daniel's business cards on 7 June 2025. This is a direct admission of the act. However, he concealed from the court that: (1) he did so secretly without Daniel's knowledge, and (2) the SOLE mandate did not give him authority to unilaterally revoke another director's banking access. He then weaponized the consequences of his own secret, unauthorized act by characterizing Daniel's reimbursement of R520K+ in forced personal business expenses as 'theft'.",
+      "confidence": "proven"
+    },
+    {
+      "event_id": "KE_PETER_004",
+      "agent_id": "APPLICANT",
+      "fact_id": "FACT_MATERIAL_NONDISCLOSURE",
+      "timestamp": "2025-08-13T00:00:00Z",
+      "acquisition_type": "documentary_proof",
+      "evidence_refs": ["Founding_Affidavit_13_August_2025", "Peter_Founding_Affidavit_STRUCTURED_FINAL.docx"],
+      "description": "Peter signed the founding affidavit without disclosing: (1) the SOLE banking mandate, (2) the FNB Legal letter of 18 June 2025, (3) that he cancelled Daniel's cards secretly without Daniel's knowledge and without authority under the SOLE mandate, (4) the true context of the R500K as reimbursement for R520K+ in business expenses Daniel was forced to pay personally because of Peter's secret card cancellation.",
+      "confidence": "proven"
+    },
+    {
+      "event_id": "KE_PETER_005",
+      "agent_id": "APPLICANT",
+      "fact_id": "FACT_CONTEMPT_AS_WEAPON",
+      "timestamp": "2026-02-04T00:00:00Z",
+      "acquisition_type": "documentary_proof",
+      "evidence_refs": ["NoticeofMotion-ContemptofCourtApplication05.02.2026y.pdf"],
+      "description": "Peter filed a Contempt of Court application seeking 6 months imprisonment for Jacqueline, based entirely on the void interdict he obtained through perjury.",
+      "confidence": "proven"
+    },
+    {
+      "event_id": "KE_BANTJIES_001",
+      "agent_id": "SUPPORTING_AFFIANT",
+      "fact_id": "FACT_SUPPORTING_AFFIDAVIT_PERJURY",
+      "timestamp": "2025-06-06T13:00:00Z",
+      "acquisition_type": "email_correspondence",
+      "evidence_refs": ["ReminderofPerjuryontheSupportingAffidavitPart1.pdf", "Daniel_Report_6_June_2025"],
+      "description": "Daniel sent Bantjies a comprehensive report detailing all company structures, 51+ Shopify stores, and warning of R1M+ misallocation. Bantjies forwarded it to his own work email (danieb@quatro.co.za) at 14:30, proving receipt and processing.",
+      "confidence": "proven"
+    },
+    {
+      "event_id": "KE_BANTJIES_002",
+      "agent_id": "SUPPORTING_AFFIANT",
+      "fact_id": "FACT_BANTJIES_CONFLICT",
+      "timestamp": "2024-07-01T00:00:00Z",
+      "acquisition_type": "active_participation",
+      "evidence_refs": ["FFT_Appointment_Docs", "George_Group_Employment"],
+      "description": "Bantjies accepted appointment as FFT Trustee while already serving as CFO of the George Group (Derrick's company), creating the R18.685M dual-control conflict of interest.",
+      "confidence": "proven"
+    },
+    {
+      "event_id": "KE_BANTJIES_003",
+      "agent_id": "SUPPORTING_AFFIANT",
+      "fact_id": "FACT_SUPPORTING_AFFIDAVIT_PERJURY",
+      "timestamp": "2025-08-01T00:00:00Z",
+      "acquisition_type": "documentary_proof",
+      "evidence_refs": ["Bantjies_Supporting_Affidavit_1_August_2025"],
+      "description": "Bantjies signed the supporting affidavit on 1 August 2025, nearly two months after receiving Daniel's fraud report. He failed to disclose the report or his conflict of interest.",
+      "confidence": "proven"
+    },
+    {
+      "event_id": "KE_RYNETTE_001",
+      "agent_id": "OPERATOR",
+      "fact_id": "FACT_PERJURY_FOREKNOWLEDGE",
+      "timestamp": "2025-06-18T08:17:00Z",
+      "acquisition_type": "email_correspondence",
+      "evidence_refs": ["FNB_Meeting_Request_Email_18_June_2025"],
+      "description": "Rynette operated Peter's email (pete@regima.com) and sent the meeting time change request to FNB at 08:17 on 18 June 2025. She therefore received the FNB Legal response at 16:51 confirming independent director authority.",
+      "confidence": "proven"
+    },
+    {
+      "event_id": "KE_RYNETTE_002",
+      "agent_id": "OPERATOR",
+      "fact_id": "FACT_CARD_CANCELLATION",
+      "timestamp": "2025-06-07T00:00:00Z",
+      "acquisition_type": "active_participation",
+      "evidence_refs": ["EVENT_012", "FNB_Card_Cancellation_Records"],
+      "description": "Rynette, as the person operating Peter's financial affairs, was directly involved in the cancellation of Daniel's business cards on 7 June 2025.",
+      "confidence": "probable"
+    },
+    {
+      "event_id": "KE_PETER_008",
+      "agent_id": "APPLICANT",
+      "fact_id": "FACT_SETTLEMENT_WEAPONIZATION",
+      "timestamp": "2025-09-18T00:00:00Z",
+      "acquisition_type": "documentary_proof",
+      "evidence_refs": ["NoticeofMotion-ContemptofCourtApplication05.02.2026y.pdf"],
+      "description": "Peter included the settlement agreements (PF13/PF14) in the contempt application, which contain clauses for psychiatric evaluations and drug screening, demonstrating the intent to use them as weapons to discredit Jacqueline.",
+      "confidence": "proven"
+    },
+    {
+      "event_id": "KE_PETER_009",
+      "agent_id": "APPLICANT",
+      "fact_id": "FACT_SETTLEMENT_DURESS",
+      "timestamp": "2025-09-18T00:00:00Z",
+      "acquisition_type": "documentary_proof",
+      "evidence_refs": ["ENS_Email_18_Sep_2025.pdf", "PF13", "PF14"],
+      "description": "Peter was present at the mediation on 18 September 2025 where Daniel was not allowed to leave without signing. The ENS email records Daniel's request to file a criminal complaint. Peter then sought to enforce these duress-tainted agreements via court application on 3 October 2025.",
+      "confidence": "proven"
+    },
+    {
+      "event_id": "KE_RYNETTE_004",
+      "agent_id": "OPERATOR",
+      "fact_id": "FACT_RYNETTE_LITIGATION_CONTROL",
+      "timestamp": "2026-02-06T00:00:00Z",
+      "acquisition_type": "email_correspondence",
+      "evidence_refs": ["2025-02-06-DanResponse-ContemptofCourt.pdf"],
+      "description": "Daniel Faucitt notes in his email to Rudi Pottas that Rynette is the one communicating with Keegan Elliott, not Peter, suggesting she is controlling the litigation.",
+      "confidence": "inferred"
+    },
+    {
+      "event_id": "KE_PETER_010",
+      "agent_id": "APPLICANT",
+      "fact_id": "FACT_VILLA_VIA_EMBEZZLEMENT",
+      "timestamp": "2026-02-06T00:00:00Z",
+      "acquisition_type": "allegation",
+      "evidence_refs": ["2025-02-06-DanResponse-ContemptofCourt.pdf"],
+      "description": "Daniel Faucitt alleges that Peter, Rynette, and Bantjies may have used fake \"debt\" to embezzle funds through Villa Via.",
+      "confidence": "alleged"
+    },
+    {
+      "event_id": "KE_PETER_011",
+      "agent_id": "APPLICANT",
+      "fact_id": "FACT_SAGE_CONTROL_SEIZURE",
+      "timestamp": "2024-07-08T00:00:00Z",
+      "acquisition_type": "documentary_proof",
+      "evidence_refs": ["2_RE_Invited_user_switch_affidavit__Sage20240709.pdf"],
+      "description": "Peter swore a false affidavit to Sage, claiming he needed to be the new sole administrator because the previous one (Kayla Pretorius) had died. He failed to disclose that there were two other living directors who could have been appointed.",
+      "confidence": "proven"
+    },
+    {
+      "event_id": "KE_RYNETTE_005",
+      "agent_id": "OPERATOR",
+      "fact_id": "FACT_SAGE_CONTROL_SEIZURE",
+      "timestamp": "2024-07-08T00:00:00Z",
+      "acquisition_type": "active_participation",
+      "evidence_refs": ["2024_07_-_Sage_Email_Chain_Invited_User_Switch_&_Pete_Email_Address.pdf"],
+      "description": "Rynette orchestrated the entire Sage control seizure, acting as the contact person, submitting the forms, and communicating with Sage on Peter's behalf.",
+      "confidence": "proven"
+    }
+  ]
+}

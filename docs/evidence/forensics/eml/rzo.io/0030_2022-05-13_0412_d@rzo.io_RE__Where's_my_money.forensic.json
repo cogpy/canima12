@@ -1,0 +1,60 @@
+{
+  "_schema": "exoml-forensic/v1",
+  "_generated": "2026-03-10T08:04:26.667958+00:00",
+  "file_integrity": {
+    "eml_file": "rzo.io/0030_2022-05-13_0412_d@rzo.io_RE__Where's_my_money.eml",
+    "file_size_bytes": 18281,
+    "md5": "ef257863e096060be56b95548278ce86",
+    "sha1": "ff3d2ca437f60b12108d25c5e03f9ec2b8d0a4a4",
+    "sha256": "af2571ca5d1a2a0d6eccd5257da8be81ebab4205fd0a774f6abf2956610b5031"
+  },
+  "message_identity": {
+    "db_id": 502,
+    "exchange_message_id": "AAMkAGE2YjljZjA1LTRlOWUtNDhjYi1iZjNkLWI4ZWRlNDQwYTU0MABGAAAAAADPgXCfMl5uRqA6Xxa9Yh33BwAh607i92PMQLMLAH3HB5h5AAAAAAEJAAAh607i92PMQLMLAH3HB5h5AAYMEU3qAAA=",
+    "conversation_id": "AAQkAGE2YjljZjA1LTRlOWUtNDhjYi1iZjNkLWI4ZWRlNDQwYTU0MAAQABidy-MunkT5gn_vGn3KpLA="
+  },
+  "envelope": {
+    "subject": "RE: Where's my money?",
+    "from_name": "Daniel Faucitt",
+    "from_address": "d@rzo.io",
+    "to_recipients": [
+      {
+        "emailAddress": {
+          "name": "Rynette Farrar",
+          "address": "rynette@regima.zone"
+        }
+      }
+    ],
+    "cc_recipients": [
+      {
+        "emailAddress": {
+          "name": "JAX@REGIMA.COM",
+          "address": "JAX@REGIMA.COM"
+        }
+      },
+      {
+        "emailAddress": {
+          "name": "PETE@REGIMA.COM",
+          "address": "PETE@REGIMA.COM"
+        }
+      },
+      {
+        "emailAddress": {
+          "name": "Jacqui Faucitt",
+          "address": "jax@regima.zone"
+        }
+      }
+    ],
+    "received_datetime": "2022-05-13 04:12:00"
+  },
+  "mailbox_context": {
+    "user_email": "d@rzo.io",
+    "user_name": "Daniel Faucitt"
+  },
+  "body": {
+    "content_type": "html",
+    "preview": "Will be finalised today one way or another 😊\r\n\r\nFrom: Rynette Farrar <rynette@regima.zone>\r\nSent: 13 May 2022 06:09\r\nTo: Daniel Faucitt <d@rzo.io>\r\nCc: JAX@REGIMA.COM; PETE@REGIMA.COM; Jacqui Faucitt <jax@regima.zone>\r\nSubject: Where's my money?\r\n\r\nGood ",
+    "body_length_chars": 12860
+  },
+  "attachments": []
+}

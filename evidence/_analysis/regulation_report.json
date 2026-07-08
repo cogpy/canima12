@@ -1,0 +1,97 @@
+{
+  "total_items": 229,
+  "regulation_distribution": {
+    "upregulated": 127,
+    "downregulated": 0,
+    "neutral": 102,
+    "unprocessed": 0
+  },
+  "score_statistics": {
+    "min": 5.5,
+    "max": 8.833,
+    "mean": 6.819,
+    "median": 7.5
+  },
+  "top_entities": [
+    {
+      "entity": "PERSON_007",
+      "count": 29
+    },
+    {
+      "entity": "PERSON_001",
+      "count": 28
+    },
+    {
+      "entity": "PERSON_005",
+      "count": 27
+    },
+    {
+      "entity": "TRUST_001",
+      "count": 26
+    },
+    {
+      "entity": "PERSON_004",
+      "count": 26
+    },
+    {
+      "entity": "ORG_001",
+      "count": 25
+    },
+    {
+      "entity": "ORG_002",
+      "count": 24
+    },
+    {
+      "entity": "ORG_003",
+      "count": 22
+    },
+    {
+      "entity": "ORG_006",
+      "count": 22
+    },
+    {
+      "entity": "ORG_014",
+      "count": 22
+    },
+    {
+      "entity": "BANK_ACCOUNT_005",
+      "count": 21
+    },
+    {
+      "entity": "BANK_ACCOUNT_004",
+      "count": 20
+    },
+    {
+      "entity": "ORG_026",
+      "count": 9
+    },
+    {
+      "entity": "PERSON_002",
+      "count": 7
+    },
+    {
+      "entity": "BANK_001",
+      "count": 7
+    },
+    {
+      "entity": "BANK_ACCOUNT_ABSA",
+      "count": 7
+    },
+    {
+      "entity": "ORG_008",
+      "count": 7
+    },
+    {
+      "entity": "PERSON_LINDA",
+      "count": 6
+    },
+    {
+      "entity": "ORG_010",
+      "count": 6
+    },
+    {
+      "entity": "ORG_017",
+      "count": 4
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "_schema": "exchange-forensic-eml/v1",
+  "_generated": "2026-03-10T03:52:55.643808+00:00",
+  "_source": "neon-exchange-sync",
+  "file_integrity": {
+    "eml_file": "/home/ubuntu/revstream1/docs/evidence/forensic_eml/accounting.sageone.co.za/0004_2020-05-18_0640_noreply@accounting.sageone.co._Accounting_You_have_been_Invited.eml",
+    "file_size_bytes": 758,
+    "md5": "8e3621776360eeb894e2b12b927c7434",
+    "sha1": "a0ee7a8fa0e58cd821aededa83d269597cb65c13",
+    "sha256": "8410192c250e11d9669252db63145c111822e6200ddd81fe3c47ba3af9c1831b"
+  },
+  "message_identity": {
+    "exchange_sync_id": "AQMkADMxMzkyY2FlLWNkMGEtNGM2My04OWFiLTNlZDRjNzkyNGUyMwBGAAADSLKv-EI8AESN7LMej4ROLgcAIySisE98NkWmcNijjztGYgAAAj1DAAAAIySisE98NkWmcNijjztGYgAAAk02AAAA",
+    "internet_message_id": "<SOFISHAAWEB163RBaYF0004bf89@SOFISHAAWEB163.sageza.hosting>",
+    "conversation_id": "AAQkADMxMzkyY2FlLWNkMGEtNGM2My04OWFiLTNlZDRjNzkyNGUyMwAQAIydM7XYQy5BiIv3YBrhB8c="
+  },
+  "envelope": {
+    "subject": "Accounting:  You have been Invited",
+    "from_name": "noreply@accounting.sageone.co.za",
+    "from_address": "noreply@accounting.sageone.co.za",
+    "to_recipients": [
+      {
+        "name": "Rynette Farrar",
+        "address": "rynette@regima.zone"
+      }
+    ],
+    "cc_recipients": null,
+    "received_datetime": "2020-05-18 06:40:02+00:00"
+  },
+  "mailbox_context": {
+    "user_email": "rynette@regima.zone",
+    "user_name": "Rynette Farrar",
+    "folder_name": "Office",
+    "folder_id": "AQMkADMxMzkyY2FlLWNkMGEtNGM2My04OWFiLTNlZDRjNzkyNGUyMwAuAAADSLKv-EI8AESN7LMej4ROLgEAIySisE98NkWmcNijjztGYgAAAj1DAAAA"
+  },
+  "body": {
+    "content_type": null,
+    "preview": "You have been invited to Accounting - please activate your account!\r\n\r\nHi Rynette\r\n\r\nKayla Pretorius has invited you to access RegimA Worldwide Distribution (Pty) Ltd on Accounting. By accepting this invitation, you will gain access to the company in the ",
+    "body_length_chars": 0
+  },
+  "attachments": []
+}

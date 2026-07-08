@@ -1,0 +1,42 @@
+{
+  "_schema": "exchange-forensic-eml/v1",
+  "_generated": "2026-03-10T03:53:28.139689+00:00",
+  "_source": "neon-exchange-sync",
+  "file_integrity": {
+    "eml_file": "/home/ubuntu/revstream1/docs/evidence/forensic_eml/regima.zone/0049_2021-11-04_0728_jax@regima.zone_PLASTIC_MANUFACTURERS.eml",
+    "file_size_bytes": 724,
+    "md5": "57d536473dafab81024532a881169617",
+    "sha1": "aaa6bec1121f167b35510ca71812466f6b134a84",
+    "sha256": "0751fb57d8465b45a58cc142fc9867cfee48e23d08a78d38b659ce31e0bf6640"
+  },
+  "message_identity": {
+    "exchange_sync_id": "AQMkAGM2Y2E0NWVmLWEzZTktNDc1Mi1iY2I4LTU3OTBlMTJhMTllNQBGAAADPe59AHjuz0_HJe8Q4ALb1wcAtr3q_CoE-0aRl7m1844EjgAAAgEMAAAAtr3q_CoE-0aRl7m1844EjgAGolrnngAAAA==",
+    "internet_message_id": "<DB7PR08MB3306B900067ED0F6F0B8B413AC8D9@DB7PR08MB3306.eurprd08.prod.outlook.com>",
+    "conversation_id": "AAQkAGM2Y2E0NWVmLWEzZTktNDc1Mi1iY2I4LTU3OTBlMTJhMTllNQAQAFPSuJFzGk75obkMSbLPtBo="
+  },
+  "envelope": {
+    "subject": "PLASTIC MANUFACTURERS",
+    "from_name": "Jacqui Faucitt",
+    "from_address": "jax@regima.zone",
+    "to_recipients": [
+      {
+        "name": "Jacqui Faucitt",
+        "address": "jax@regima.zone"
+      }
+    ],
+    "cc_recipients": null,
+    "received_datetime": "2021-11-04 07:28:28+00:00"
+  },
+  "mailbox_context": {
+    "user_email": "jax@regima.zone",
+    "user_name": "Jacqui Faucitt",
+    "folder_name": "Inbox",
+    "folder_id": "AQMkAGM2Y2E0NWVmLWEzZTktNDc1Mi1iY2I4LTU3OTBlMTJhMTllNQAuAAADPe59AHjuz0_HJe8Q4ALb1wEAtr3q_CoE-0aRl7m1844EjgAAAgEMAAAA"
+  },
+  "body": {
+    "content_type": null,
+    "preview": "http://shaunsplastics.co.za/\r\n\r\nCell : 074 800 1854\r\nEmail :info@shaunsplastics.co.za",
+    "body_length_chars": 0
+  },
+  "attachments": []
+}

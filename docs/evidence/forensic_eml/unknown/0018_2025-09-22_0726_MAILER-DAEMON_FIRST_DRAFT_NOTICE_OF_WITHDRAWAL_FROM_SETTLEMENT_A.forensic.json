@@ -1,0 +1,51 @@
+{
+  "_schema": "exchange-forensic-eml/v1",
+  "_generated": "2026-03-10T03:50:28.261960+00:00",
+  "_source": "neon-exchange-sync",
+  "file_integrity": {
+    "eml_file": "/home/ubuntu/revstream1/docs/evidence/forensic_eml/unknown/0018_2025-09-22_0726_MAILER-DAEMON_FIRST_DRAFT_NOTICE_OF_WITHDRAWAL_FROM_SETTLEMENT_A.eml",
+    "file_size_bytes": 53094,
+    "md5": "ca12bb05f63ac8ce42bccafd29f71d50",
+    "sha1": "c399f1da7cb2beba907a1ad7ace6a6cbc1e1c3b9",
+    "sha256": "07817c381fc6918040bcbb9ac29d5277f345ad744395efd518f82e4c0a83dd3d"
+  },
+  "message_identity": {
+    "exchange_sync_id": "pst-be8c9a548823ed2c6e31fea29d0b1be4f87ab692",
+    "internet_message_id": "<JNZP275MB1321436630A517289C641CF0CB12A@JNZP275MB1321.ZAFP275.PROD.OUTLOOK.COM>",
+    "conversation_id": null
+  },
+  "envelope": {
+    "subject": "FIRST DRAFT: NOTICE OF WITHDRAWAL FROM SETTLEMENT AGREEMENTS",
+    "from_name": "Daniel Faucitt",
+    "from_address": "MAILER-DAEMON",
+    "to_recipients": [
+      {
+        "emailAddress": {
+          "name": "Jacqui",
+          "address": "Jacqui"
+        }
+      }
+    ],
+    "cc_recipients": [
+      {
+        "emailAddress": {
+          "name": "Jacqui",
+          "address": "Jacqui"
+        }
+      }
+    ],
+    "received_datetime": "2025-09-22 07:26:50+00:00"
+  },
+  "mailbox_context": {
+    "user_email": "dan@regima.com",
+    "user_name": "Dan",
+    "folder_name": "Sent Items",
+    "folder_id": "pst-folder-d5f2fe49026e4bccf5f8a98e2e8a2b1d"
+  },
+  "body": {
+    "content_type": "html",
+    "preview": "P {margin-top:0;margin-bottom:0;} # NOTICE OF WITHDRAWAL FROM SETTLEMENT AGREEMENTS **DATE:** [Current Date] &nbsp; **DELIVERED VIA:** Email and Registered Post **TO:** &nbsp; ENS Africa &nbsp; Attention: Ms. Shenaaz Munga &nbsp; Email: smunga@ensafrica.c",
+    "body_length_chars": 38759
+  },
+  "attachments": []
+}

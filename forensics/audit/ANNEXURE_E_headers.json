@@ -1,0 +1,210 @@
+[
+  {
+    "name": "Received",
+    "value": "from GV1PR08MB10534.eurprd08.prod.outlook.com (2603:10a6:150:160::5) by VI0PR08MB10581.eurprd08.prod.outlook.com with HTTPS; Mon, 7 Apr 2025 10:55:03 +0000"
+  },
+  {
+    "name": "Received",
+    "value": "from DB3PR06CA0036.eurprd06.prod.outlook.com (2603:10a6:8:1::49) by GV1PR08MB10534.eurprd08.prod.outlook.com (2603:10a6:150:160::5) with Microsoft SMTP Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.8606.31; Mon, 7 Apr 2025 10:54:57 +0000"
+  },
+  {
+    "name": "Received",
+    "value": "from DU6PEPF00009525.eurprd02.prod.outlook.com (2603:10a6:8:1:cafe::ce) by DB3PR06CA0036.outlook.office365.com (2603:10a6:8:1::49) with Microsoft SMTP Server (version=TLS1_3, cipher=TLS_AES_256_GCM_SHA384) id 15.20.8489.19 via Frontend Transport; Mon, 7 Apr 2025 10:54:56 +0000"
+  },
+  {
+    "name": "Received",
+    "value": "from mail-yb1-xb2b.google.com (2607:f8b0:4864:20::b2b) by DU6PEPF00009525.mail.protection.outlook.com (2603:10a6:18:3::6) with Microsoft SMTP Server (version=TLS1_3, cipher=TLS_AES_256_GCM_SHA384) id 15.20.8632.13 via Frontend Transport; Mon, 7 Apr 2025 10:54:56 +0000"
+  },
+  {
+    "name": "Received",
+    "value": "by mail-yb1-xb2b.google.com with SMTP id 3f1490d57ef6-e6de5f05d2eso537958276.2        for <rynette@regima.zone>; Mon, 07 Apr 2025 03:54:56 -0700 (PDT)"
+  },
+  {
+    "name": "Authentication-Results",
+    "value": "spf=pass (sender IP is 2607:f8b0:4864:20::b2b) smtp.mailfrom=gmail.com; dkim=pass (signature was verified) header.d=gmail.com;dmarc=pass action=none header.from=gmail.com;compauth=pass reason=100"
+  },
+  {
+    "name": "Received-SPF",
+    "value": "Pass (protection.outlook.com: domain of gmail.com designates 2607:f8b0:4864:20::b2b as permitted sender) receiver=protection.outlook.com; client-ip=2607:f8b0:4864:20::b2b; helo=mail-yb1-xb2b.google.com; pr=C"
+  },
+  {
+    "name": "DKIM-Signature",
+    "value": "v=1; a=rsa-sha256; c=relaxed/relaxed;        d=gmail.com; s=20230601; t=1744023295; x=1744628095; darn=regima.zone;        h=to:subject:message-id:date:from:in-reply-to:references:mime-version         :from:to:cc:subject:date:message-id:reply-to;        bh=C8SthSf6ZvtsCVBnHrGOiqwy+0uGe6ABpSUCscFI5A4=;        b=RnoWGvC3x+AxMUemZMK4Fl4bDNiPRVM72nfh21A1nAyk9F6n+V9Rg95KKv3+MdGv9+         aVIDjhnma9ltDocop6yFWNLEGB91Pt9lfb1ep4dVvQ+7i0gtzG0UyR8ei0SJt+F78D4d         l41RgnsiqEPg55nZhFEJnMCU/TpT8fPmCQjy36gOU2dTohVTXyXxAAzC1Aegtcl+5YLu         N8KeuBKKE1JNmBaS+cgqE2rhFij0hGZd+PSQzszuj5ZDb6dWVvespXyIJI45YvZTzKBx         F2D8sLyLmqco3Zn4BbYVWMNLmhGQ8wq00WwgzRoeVnZzyRvzuUKMAl+2y/YD7ySYo/mM         DaOw=="
+  },
+  {
+    "name": "X-Google-DKIM-Signature",
+    "value": "v=1; a=rsa-sha256; c=relaxed/relaxed;        d=1e100.net; s=20230601; t=1744023295; x=1744628095;        h=to:subject:message-id:date:from:in-reply-to:references:mime-version         :x-gm-message-state:from:to:cc:subject:date:message-id:reply-to;        bh=C8SthSf6ZvtsCVBnHrGOiqwy+0uGe6ABpSUCscFI5A4=;        b=v9XasmsAB0PnE35komxMLSd7emioZZAtItwmmDyHXmxXhcL9z0fVDddcGsTUVXImFn         4GnVjfRbEJhzOSpKFiumLJ3QHWOSD3Ru22U9GDpAukWeQcXaRzJaRkJCGM69qv9gkezh         LeU6QcsdbL/OurkK35U70TzvhwidXvFPH7rXw86r9Ka9fkv8G4GoyvKre2HLSyjx1Qhx         qi1GedlraH3j5RocTsP8tIyVGOL2EbNXvc4wAKkj1bLCCVwFKiX+GGeWhoJnDbXtM/T9         f3mDC1qaeOG1W+zUNmnmPvuPiVSBg3jyTLmZ5qpnEm8s+Nd9Ep/fyFgz0nhU3sPe7o1t         DwwA=="
+  },
+  {
+    "name": "X-Gm-Message-State",
+    "value": "AOJu0Yx8rGt6cKGbvznrg5noy9rThRjKzbmyVzA+eMfLa97F44VcDCG2\tppx6m3kEx/N7nUHPGKT0qgzajDWxIlKej77Lz1TrWED3/YhNpKr41Jvs+HMlKeHgrbKwiJ6qMrO\tmN+hTiCBwLqqBfmABVeamU/UabPCrzQ=="
+  },
+  {
+    "name": "X-Gm-Gg",
+    "value": "ASbGncs8pBsKqywNuggYZ31MaC29Lk2+h3k2YUQfH/AgirJub22tAFU3Xpq7IF/laba\t9eUaob3wN2rD6js8z3QkGfyZk1Pz5g/1fmBzCOzleYvwwbcpeVwV72IdDU9/0exyZrzypGIB9dy\ta11MlOmWxxECn3aJXwhBL4hidggCQ="
+  },
+  {
+    "name": "X-Google-Smtp-Source",
+    "value": "AGHT+IGCVdHtfeewtxmDrf3zkdi8xIenvuA4Xt561ln8qJxy01aIWaZXFTnVoVTtnM2QD3YDjOcBZ5D6ByQqoHW1TfY="
+  },
+  {
+    "name": "X-Received",
+    "value": "by 2002:a05:6902:260f:b0:e6e:522:a6b1 with SMTP id 3f1490d57ef6-e6e1c92d451mr9013707276.7.1744023294292; Mon, 07 Apr 2025 03:54:54 -0700 (PDT)"
+  },
+  {
+    "name": "MIME-Version",
+    "value": "1.0"
+  },
+  {
+    "name": "References",
+    "value": "<VI0PR08MB10581C829C2546473198002F1BAA92@VI0PR08MB10581.eurprd08.prod.outlook.com>"
+  },
+  {
+    "name": "In-Reply-To",
+    "value": "<VI0PR08MB10581C829C2546473198002F1BAA92@VI0PR08MB10581.eurprd08.prod.outlook.com>"
+  },
+  {
+    "name": "From",
+    "value": "\"Danie Bantjes\" <danie.bantjes@gmail.com>"
+  },
+  {
+    "name": "Date",
+    "value": "Mon, 7 Apr 2025 12:54:42 +0200"
+  },
+  {
+    "name": "X-Gm-Features",
+    "value": "ATxdqUHJVyRHX2De9OVshhJRi1kgwJqE_dYkhiM3epsLJKBUTKntcD6wGffrkq4"
+  },
+  {
+    "name": "Message-ID",
+    "value": "<CANC4RXeFnXmSTm6AqETeUi9Y5MZwQ2dYvN_4rbAgM0YMbP_Gkw@mail.gmail.com>"
+  },
+  {
+    "name": "Subject",
+    "value": "Re: TB's after stock adjustments - February 2025 - Strategic / Regima Skin / WWD"
+  },
+  {
+    "name": "To",
+    "value": "\"Rynette Farrar\" <rynette@regima.zone>"
+  },
+  {
+    "name": "Content-Type",
+    "value": "multipart/related"
+  },
+  {
+    "name": "Return-Path",
+    "value": "danie.bantjes@gmail.com"
+  },
+  {
+    "name": "X-MS-Exchange-Organization-ExpirationStartTime",
+    "value": "07 Apr 2025 10:54:56.3209 (UTC)"
+  },
+  {
+    "name": "X-MS-Exchange-Organization-ExpirationStartTimeReason",
+    "value": "OriginalSubmit"
+  },
+  {
+    "name": "X-MS-Exchange-Organization-ExpirationInterval",
+    "value": "1:00:00:00.0000000"
+  },
+  {
+    "name": "X-MS-Exchange-Organization-ExpirationIntervalReason",
+    "value": "OriginalSubmit"
+  },
+  {
+    "name": "X-MS-Exchange-Organization-Network-Message-Id",
+    "value": "675d13a4-9557-4575-f9ab-08dd75c2a247"
+  },
+  {
+    "name": "X-EOPAttributedMessage",
+    "value": "0"
+  },
+  {
+    "name": "X-EOPTenantAttributedMessage",
+    "value": "89727f2e-27c2-4f69-893c-f30d821bc83d:0"
+  },
+  {
+    "name": "X-MS-Exchange-Organization-MessageDirectionality",
+    "value": "Incoming"
+  },
+  {
+    "name": "X-MS-PublicTrafficType",
+    "value": "Email"
+  },
+  {
+    "name": "X-MS-TrafficTypeDiagnostic",
+    "value": "DU6PEPF00009525:EE_|GV1PR08MB10534:EE_|VI0PR08MB10581:EE_"
+  },
+  {
+    "name": "X-MS-Exchange-Organization-AuthSource",
+    "value": "DU6PEPF00009525.eurprd02.prod.outlook.com"
+  },
+  {
+    "name": "X-MS-Exchange-Organization-AuthAs",
+    "value": "Anonymous"
+  },
+  {
+    "name": "X-MS-Office365-Filtering-Correlation-Id",
+    "value": "675d13a4-9557-4575-f9ab-08dd75c2a247"
+  },
+  {
+    "name": "X-MS-Exchange-AtpMessageProperties",
+    "value": "SA|SL"
+  },
+  {
+    "name": "X-MS-Exchange-Organization-SCL",
+    "value": "1"
+  },
+  {
+    "name": "X-Microsoft-Antispam",
+    "value": "BCL:0;ARA:13230040|7093399015|7053199007|8096899003|4076899003|4053099003|4013099003;"
+  },
+  {
+    "name": "X-Forefront-Antispam-Report",
+    "value": "CIP:2607:f8b0:4864:20::b2b;CTRY:;LANG:en;SCL:1;SRV:;IPV:NLI;SFV:NSPM;H:mail-yb1-xb2b.google.com;PTR:mail-yb1-xb2b.google.com;CAT:NONE;SFS:(13230040)(7093399015)(7053199007)(8096899003)(4076899003)(4053099003)(4013099003);DIR:INB;"
+  },
+  {
+    "name": "X-MS-Exchange-CrossTenant-OriginalArrivalTime",
+    "value": "07 Apr 2025 10:54:56.0865 (UTC)"
+  },
+  {
+    "name": "X-MS-Exchange-CrossTenant-Network-Message-Id",
+    "value": "675d13a4-9557-4575-f9ab-08dd75c2a247"
+  },
+  {
+    "name": "X-MS-Exchange-CrossTenant-Id",
+    "value": "89727f2e-27c2-4f69-893c-f30d821bc83d"
+  },
+  {
+    "name": "X-MS-Exchange-CrossTenant-AuthSource",
+    "value": "DU6PEPF00009525.eurprd02.prod.outlook.com"
+  },
+  {
+    "name": "X-MS-Exchange-CrossTenant-AuthAs",
+    "value": "Anonymous"
+  },
+  {
+    "name": "X-MS-Exchange-CrossTenant-FromEntityHeader",
+    "value": "Internet"
+  },
+  {
+    "name": "X-MS-Exchange-Transport-CrossTenantHeadersStamped",
+    "value": "GV1PR08MB10534"
+  },
+  {
+    "name": "X-MS-Exchange-Transport-EndToEndLatency",
+    "value": "00:00:07.2068060"
+  },
+  {
+    "name": "X-MS-Exchange-Processed-By-BccFoldering",
+    "value": "15.20.8606.033"
+  },
+  {
+    "name": "X-Microsoft-Antispam-Mailbox-Delivery",
+    "value": "ucf:0;jmr:0;auth:0;dest:I;ENG:(910005)(944506478)(944626604)(920097)(930097)(140003);"
+  },
+  {
+    "name": "X-Microsoft-Antispam-Message-Info",
+    "value": "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"
+  }
+]

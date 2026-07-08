@@ -1,0 +1,130 @@
+{
+  "_schema": "exchange-forensic-audit-manifest/v1",
+  "_generated": "2026-03-10T07:57:09.517314+00:00",
+  "mode": "live",
+  "user": "dan@regima.zone",
+  "scope": "from:elliott",
+  "total": 10,
+  "files": [
+    {
+      "index": 1,
+      "file": "0001_2025-09-25_secretary@elliottattorneys.co._KF0019_25.09.2025.audit.json",
+      "subject": "KF0019_25.09.2025",
+      "from": "secretary@elliottattorneys.co.za",
+      "date": "2025-09-25T09:11:13Z",
+      "hops": 5,
+      "spf": "pass",
+      "dkim": "pass",
+      "dmarc": "bestguesspass",
+      "sha256": "7699a8cf4cfe4f8dfc98945ef36940045e8b8fd7d075630891106ece071cf057"
+    },
+    {
+      "index": 2,
+      "file": "0002_2024-06-08_hello@elliottco.co.uk_Become_a_stockist.audit.json",
+      "subject": "Become a stockist",
+      "from": "hello@elliottco.co.uk",
+      "date": "2024-06-08T12:54:55Z",
+      "hops": 9,
+      "spf": "pass",
+      "dkim": "pass",
+      "dmarc": "none",
+      "sha256": "6e468847df245039689b4ad61e7ed1ef901ed3900993954750308bf90fb8a28a"
+    },
+    {
+      "index": 3,
+      "file": "0003_2023-12-21_lou.elliott@spotlightreporting_check_in.audit.json",
+      "subject": "check in",
+      "from": "lou.elliott@spotlightreporting.com",
+      "date": "2023-12-21T11:45:44Z",
+      "hops": 6,
+      "spf": "pass",
+      "dkim": "pass",
+      "dmarc": "pass",
+      "sha256": "35fb6eee27fb37d2641d710451f914d035e9da21435ba7e0c3b191696337b019"
+    },
+    {
+      "index": 4,
+      "file": "0004_2023-09-30_mignonelliott7@gmail.com_Orders.audit.json",
+      "subject": "Orders",
+      "from": "mignonelliott7@gmail.com",
+      "date": "2023-09-30T18:30:58Z",
+      "hops": 7,
+      "spf": "pass",
+      "dkim": "pass",
+      "dmarc": "fail",
+      "sha256": "8bf177f7f43b21106caffaea52564fe4eb7c6d627063222f137ca7fd65ff3c9f"
+    },
+    {
+      "index": 5,
+      "file": "0005_2023-06-06_roxvt20@gmail.com_Stockist_List.audit.json",
+      "subject": "Stockist List",
+      "from": "roxvt20@gmail.com",
+      "date": "2023-06-06T11:34:40Z",
+      "hops": 7,
+      "spf": "pass",
+      "dkim": "pass",
+      "dmarc": "fail",
+      "sha256": "3c579025a32981457a2a680adc74a5342e36db7abd85f581e7c8e279020be250"
+    },
+    {
+      "index": 6,
+      "file": "0006_2023-04-12_alisha.rae.elliott@hotmail.com_no_subject.audit.json",
+      "subject": "",
+      "from": "alisha.rae.elliott@hotmail.com",
+      "date": "2023-04-12T14:35:07Z",
+      "hops": 6,
+      "spf": "pass",
+      "dkim": "pass",
+      "dmarc": "pass",
+      "sha256": "c74d45f5887bfc6f50d276964219a8b039a4c2c048dd392891d5b4bebdbb5857"
+    },
+    {
+      "index": 7,
+      "file": "0007_2022-03-29_marketing@elliottuk.com_This_week_we_become_Algeco.audit.json",
+      "subject": "This week we become Algeco",
+      "from": "marketing@elliottuk.com",
+      "date": "2022-03-29T13:06:45Z",
+      "hops": 5,
+      "spf": "pass",
+      "dkim": "pass",
+      "dmarc": "pass",
+      "sha256": "40ed1e591917696b965b31f8747235612cd5cf41253c3020e05728d2d3430582"
+    },
+    {
+      "index": 8,
+      "file": "0008_2022-03-22_marketing@elliottuk.com_Algeco_-_Regional_Site_Locations.audit.json",
+      "subject": "Algeco - Regional Site Locations",
+      "from": "marketing@elliottuk.com",
+      "date": "2022-03-22T14:33:09Z",
+      "hops": 5,
+      "spf": "pass",
+      "dkim": "pass",
+      "dmarc": "pass",
+      "sha256": "0f0eb5311a3bb5034be7253c683551491bbb4f0d7c4dd8430cdd4e42aaabff51"
+    },
+    {
+      "index": 9,
+      "file": "0009_2022-03-01_marketing@elliottuk.com_Permanent_Offsite_Solutions_-_New_leadership_and_a.audit.json",
+      "subject": "Permanent Offsite Solutions - New leadership and a new future",
+      "from": "marketing@elliottuk.com",
+      "date": "2022-03-01T14:06:49Z",
+      "hops": 5,
+      "spf": "pass",
+      "dkim": "pass",
+      "dmarc": "pass",
+      "sha256": "7c8456ca611433acfa590e53407a7dcb2c27bcc6185a09e4d2750eeb6419a81b"
+    },
+    {
+      "index": 10,
+      "file": "0010_2022-02-01_marketing@elliottuk.com_Elliott_Group_soon_to_become_Algeco.audit.json",
+      "subject": "Elliott Group soon to become Algeco",
+      "from": "marketing@elliottuk.com",
+      "date": "2022-02-01T14:07:12Z",
+      "hops": 5,
+      "spf": "pass",
+      "dkim": "pass",
+      "dmarc": "pass",
+      "sha256": "7810d794d80af456ed6878b7cf44bd48bcc6045d3340e57bd3113e2cf8fe5f13"
+    }
+  ]
+}
